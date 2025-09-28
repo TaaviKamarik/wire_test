@@ -1,260 +1,200 @@
-import './App.css';
-import React, {useCallback, useEffect, useRef, useState} from "react";
-import {ForceGraph2D, ForceGraph3D} from "react-force-graph";
-import MovieCard from "./MovieCard";
-import MovieInfoSheet from "./MovieInfoSheet";
-import PersonInfoSheet from "./PersonInfoSheet";
-import MovieLoadingScreen from "./MovieLoadingScreen";
-import {Alert, Button, IconButton, LinearProgress, Snackbar} from "@mui/material";
-import * as PropTypes from "prop-types"; // Works with Create React App and most modern bundlers
-
-async function loadMovieData(manfredId) {
-  try {
-
-    const response = await fetch('./processed_data_4.json'); // Path relative to public folder
-    const jsonData = await response.json()
-    jsonData.links.forEach(link => {
-      const a = jsonData.nodes.find(node => node.id === link.source);
-      const b = jsonData.nodes.find(node => node.id === link.target);
-      if (!a.neighbors) a.neighbors = []
-      if (!b.neighbors) b.neighbors = []
-      a.neighbors.push(b);
-      b.neighbors.push(a);
-
-      !a.links && (a.links = []);
-      !b.links && (b.links = []);
-      a.links.push(link);
-      b.links.push(link);
-    });
-    return jsonData
-    /*const filteredLinks = data.links.filter(link =>
-      link.source === manfredId || link.target === manfredId
-    );
-
-// Collect IDs of all nodes connected to the filtered links
-    const relatedNodeIds = new Set([
-      manfredId, // Always include Manfred's ID
-      ...filteredLinks.map(link => link.source),
-      ...filteredLinks.map(link => link.target),
-    ]);
-
-// Filter the nodes to include only those with IDs in the relatedNodeIds set
-    const filteredNodes = data.nodes.filter(node => relatedNodeIds.has(node.id));
-
-// Final filtered data
-    const filteredData = {
-      nodes: filteredNodes,
-      links: filteredLinks,
-    };
-    return filteredData;*/
-  } catch (error) {
-    console.error('Error loading movie data:', error);
-    return null;
-  }
-}
-
-function CloseIcon(props) {
-  return null;
-}
-
-CloseIcon.propTypes = {fontSize: PropTypes.string};
+import React, {useEffect, useRef, useState} from "react";
+import {BrowserRouter as Router, Link, NavLink, Route, Routes} from "react-router-dom";
+import {Box, Button, Checkbox, Container, CssBaseline, List, ListItem, ListItemText} from "@mui/material";
+import {DatePicker, Layout, Menu} from "antd";
+import {Header} from "antd/es/layout/layout";
+import Sider from "antd/es/layout/Sider";
+import NetworkGraphForced from "./NetworkGraphForced";
+import {genres, loadMovieDataAlt, roles, subTypes, years} from "./utils/utils";
+import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
+import MovieIcon from '@mui/icons-material/Movie';
+import PersonIcon from '@mui/icons-material/Person';
+import CalendarMonthIcon from '@mui/icons-material/CalendarMonth';
+import {useFilterStore} from "./hooks/useGraphFilterState";
+import VideoKeywords from "./moviekeyword/VideoKeywords";
+import VideoKeywordsSide from "./moviekeyword/VideoKeywordsSide";
+import VideoObjects from "./videoobjects/VideoObjects";
+import MovieLoadingScreen from "./networkgraph/MovieLoadingScreen";
+import StudentMovieGraph from "./networkgraph/StudentMovieGraph";
+import StudentMovieCluster from "./networkgraph/StudentMovieCluster";
+import SidebarFilters from "./components/SidebarFilters";
+import SidebarFilterDrawer from "./components/SidebarFilters";
+import "./App.css"
+import VideoExplainer from "./videoexplainer/VideoExplainer";
 
 function App() {
-  const [movieData, setMovieData] = useState(null);
-  const [inputName, setInputName] = useState("Manfred Vainokivi");
-  const [selectedNode, setSelectedNode] = useState(null);
-  const [selectedNodeType, setSelectedNodeType] = useState(null);
-  const forceRef = useRef(null);
-  const [sidePanelClass, setSidePanelClass] = useState("side-panel-hidden");
-  const [loading, setLoading] = useState("loading-visible");
-  const [clickedNode, setClickedNode] = useState(null);
 
-  const [highlightNodes, setHighlightNodes] = useState(new Set());
-  const [highlightLinks, setHighlightLinks] = useState(new Set());
-  const [hoverNode, setHoverNode] = useState(null);
-  const [open, setOpen] = React.useState(false);
-  const elementRef = useRef(null);
+  const containerRef = useRef(0)
+  const containerHeightRef = useRef(0)
+  const [width, setWidth] = useState("1200px")
+  const [height, setHeight] = useState(null)
+  const [data, setData] = useState(null)
+  const [entryCount, setEntryCount] = useState([5,5,5,1])
+  const [filters, setFilters] = useState([])
+  const [filteredData, setFilteredData] = useState(null)
+  const graphFilters = useFilterStore();
+  const [drawerOpen, setDrawerOpen] = useState(false);
 
+  const menuEntries = [genres, roles, subTypes, years];
+  const filterArray = [graphFilters.genres, graphFilters.roles, graphFilters.types, graphFilters.years];
+  const filterUpdaters = [
+    graphFilters.updateGenres,
+    graphFilters.updateRoles,
+    graphFilters.updateTypes,
+    graphFilters.updateYears
+  ];
 
-  const updateHighlight = () => {
-    setHighlightNodes(highlightNodes);
-    setHighlightLinks(highlightLinks);
-  };
-
-  useEffect(() => {
-    if(!forceRef.current) return;
-    console.log("REF")
-    forceRef.current.d3Force("charge").strength(-120);
-  });
-
-  const scrollToTop = () => {
-    if (elementRef.current) {
-      elementRef.current.scrollIntoView({ behavior: "smooth", block: "start" });
-    }
-  };
-
-  const handleNodeHover = node => {
-    highlightNodes.clear();
-    highlightLinks.clear();
-    if (node) {
-      highlightNodes.add(node);
-      node.neighbors.forEach(neighbor => highlightNodes.add(neighbor));
-      node.links.forEach(link => highlightLinks.add(link));
-    }
-    if (clickedNode) {
-      highlightNodes.add(clickedNode);
-      clickedNode.neighbors.forEach(neighbor => highlightNodes.add(neighbor));
-      clickedNode.links.forEach(link => highlightLinks.add(link));
-    }
-
-    setHoverNode(node || null);
-    updateHighlight();
-  };
-
-  const handleLinkHover = link => {
-    highlightNodes.clear();
-    highlightLinks.clear();
-
-    if (link) {
-      highlightLinks.add(link);
-      highlightNodes.add(link.source);
-      highlightNodes.add(link.target);
-    }
-
-    updateHighlight();
-  };
-
-  const paintRing = useCallback((node, ctx) => {
-    // add ring just for highlighted nodes
-    ctx.beginPath();
-    ctx.arc(node.x, node.y, (node.links.length + 2) / 2 + 2, 0, 2 * Math.PI, false);
-    ctx.fillStyle = node === hoverNode ? 'red' : 'orange';
-    ctx.fill();
-  }, [hoverNode]);
-
-
-  useEffect(() => {
-    // Fetch data when the component mounts
-
-    loadMovieData(inputName).then((data) => {
-      if (data) setMovieData(data);
-    });
-  }, [inputName]);
-
-  const handleNodeClick = node => {
-    console.log(node)
-    highlightNodes.clear();
-    highlightLinks.clear();
-    setHoverNode(null);
-    if(typeof node.id === 'string') {
-      setSelectedNode(node);
-      setSelectedNodeType('person');
+  const onChange = (value, currentFilter, updater) => {
+    if (currentFilter.includes(value)) {
+      updater(currentFilter.filter(item => item !== value));
     } else {
-      setSelectedNode(node);
-      setSelectedNodeType('movie');
+      updater([...currentFilter, value]);
     }
-    setClickedNode(null);
-    setSidePanelClass("side-panel-visible")
-    setClickedNode(node);
-    highlightNodes.add(node);
-    node.neighbors.forEach(neighbor => highlightNodes.add(neighbor));
-    node.links.forEach(link => highlightLinks.add(link));
-  }
-
-  const handleBgClick = () => {
-    setSidePanelClass("side-panel-hidden");
-    setSelectedNode(null);
-    setSelectedNodeType(null);
-    setClickedNode(null);
-    highlightNodes.clear();
-    highlightLinks.clear();
-  }
-
-  const handleEngineStop = () => {
-    setLoading("loading-invisible")
-    setOpen(true)
-    console.log("STOPPED!!!")
-  }
-
-  console.log(highlightNodes)
-
-  const handleClose = (event, reason) => {
-    if (reason === 'clickaway') {
-      return;
-    }
-
-    setOpen(false);
   };
 
-  const action = (
-    <React.Fragment>
-      <IconButton
-        size="small"
-        aria-label="close"
-        color="inherit"
-        onClick={handleClose}
-      >
-        <CloseIcon fontSize="small" />
-      </IconButton>
-    </React.Fragment>
-  );
+  const onChange2 = (dates, dateStrings) => {
+    const [start, end] = dateStrings.map(str => parseInt(str));
+    if (!isNaN(start) && !isNaN(end)) {
+      graphFilters.updateYears([start, end]);
+    } else {
+      graphFilters.updateYears([]);
+    }
+  };
+
+
+
+
+  useEffect(() => {
+    const getData = async () => {
+      const movieData = await loadMovieDataAlt();
+      setFilteredData(movieData)
+      setData(movieData);
+    }
+
+    getData()
+  }, []);
+
+  const filterdataValues = async () => {
+    const params = new URLSearchParams();
+
+    if (graphFilters.types.length) {
+      graphFilters.types.forEach(t => params.append('types[]', t));
+    }
+
+    if (graphFilters.roles.length) {
+      graphFilters.roles.forEach(r => {
+        const prefix = r.startsWith('FILM_MAKER_') ? 'maker' : 'actor';
+        params.append('roles[]', `${prefix}:${r}`);
+      });
+    }
+
+    if (graphFilters.festivals.length) {
+      graphFilters.festivals.forEach(f => params.append('festivals[]', f));
+    }
+
+    if (graphFilters.years.length === 2) {
+      params.append('start_year', graphFilters.years[0]);
+      params.append('end_year', graphFilters.years[1]);
+    }
+
+    const url = `https://dti.tlu.ee/errlinked/wire/api/studentmovies?${params.toString()}`;
+    const response = await fetch(url);
+    const result = await response.json();
+    setFilteredData(result);
+  };
+
+
+  //console.log(graphFilters.genres)
+  //console.log(filteredData)
+  //console.log(data)
+
+  useEffect(() => {
+    if (!containerRef.current || !containerHeightRef.current) return
+    setWidth(containerRef.current.offsetWidth)
+    setHeight(containerHeightRef.current.offsetHeight)
+  }, [containerRef, containerHeightRef])
 
   return (
-    <div className="App">
-      <div className={loading}>
-        <MovieLoadingScreen/>
-      </div>
-      {movieData && (
-        <ForceGraph2D
-          ref={forceRef}
-          graphData={movieData}
-          dagMode={null}
-          dagLevelDistance={300}
-          nodeVal={node => highlightNodes.has(node) ? (node.links.length + 3) * 10 : !highlightNodes.has(node) && highlightNodes.size > 0 ? (node.links.length + 3) * 2 : (node.links.length + 3) * 5}
-          nodeLabel={node => typeof node.id === 'string' ? node.name : node.title}
-          nodeColor={node => typeof node.id === 'string' && highlightNodes.has(node) ? "#E32636" : typeof node.id !== 'string' && highlightNodes.has(node) ? "#7CB9E8" : typeof node.id === 'string' ? "#E3263688" : "#7CB9E888"}
-          nodeRelSize={2}
-          onNodeClick={handleNodeClick}
-          linkColor={link => highlightLinks.has(link) ? "#555" : "#DEDEDE"}
-          autoPauseRedraw={true}
-          enableNodeDrag={false}
-          onBackgroundClick={handleBgClick}
-          onLinkClick={handleBgClick}
-          linkWidth={link => highlightLinks.has(link) ? 5 : 0.5}
-          linkDirectionalParticleColor={link => highlightLinks.has(link) && "#DEDEDE" }
-          linkDirectionalParticles={4}
-          linkDirectionalParticleWidth={link => highlightLinks.has(link) ? 4 : 0}
-          nodeCanvasObjectMode={node => highlightNodes.has(node) ? 'before' : undefined}
-          nodeCanvasObject={paintRing}
-          onNodeHover={handleNodeHover}// More initial ticks for better layout
-          onEngineStop={handleEngineStop}
+    <Router basename="/errlinked/wire">
+      <CssBaseline />
+      <Layout style={{height: "100vh"}}>
+        <Header style={{ display: 'flex', alignItems: 'center', gap: "1rem"}} className="bg-primary">
+          <div className="demo-logo" />
+         {/* <NavLink
+            to="/"
+            className={"font-type navmenu-style"}
+          >
+            Home
+          </NavLink>*/}
+          {/*<div className={"font-type navmenu-style"}>/</div>*/}
+          <NavLink
+            to="/"
+            className={"font-type navmenu-style"}
+          >
+            BFM Network
+          </NavLink>
+          <div className={"font-type navmenu-style"}>/</div>
+          <NavLink
+            to="/video-keywords"
+            className={"font-type navmenu-style"}
+          >
+            Video keyword finder
+          </NavLink>
+          <div className={"font-type navmenu-style"}>/</div>
+          <NavLink
+            to="/video-objects"
+            className={"font-type navmenu-style"}
+          >
+            Video object identifier
+          </NavLink>
+          <div className={"font-type navmenu-style"}>/</div>
+          <NavLink
+            to="/video-explainer"
+            className={"font-type navmenu-style"}
+          >
+            Video explainer
+          </NavLink>
+        </Header>
+        <Layout style={{display: "flex"}}>
 
-        />
-      )}
-      <Snackbar
-        open={open}
-        autoHideDuration={20000}
-        onClose={handleClose}
-        message="Note archived"
-        action={action}
-        anchorOrigin={{ vertical: 'top', horizontal: 'left' }}
-      >
-        <Alert
-          onClose={handleClose}
-          severity={"info"}
-          variant="filled"
-          sx={{ width: '100%', display: "flex", justifyContent: "start" }}
-        >
-          <div>Hover on a node to see names associated to the node.</div>
-          <div>Click node to make node info appear.</div>
-          Blue nodes represent movies and red nodes represent people.
-        </Alert>
-      </Snackbar>
-      <div ref={elementRef} className={sidePanelClass}>
-        {selectedNode && selectedNodeType === 'movie' && <MovieInfoSheet movie={selectedNode} setSelectedNodeType={setSelectedNodeType} setSelectedNode={setSelectedNode} nodes={movieData.nodes} handleNodeClick={handleNodeClick} scrollToTop={scrollToTop}/>}
-        {selectedNode && selectedNodeType === 'person' && <PersonInfoSheet person={selectedNode} setSelectedNodeType={setSelectedNodeType} setSelectedNode={setSelectedNode} nodes={movieData.nodes} handleNodeClick={handleNodeClick} scrollToTop={scrollToTop}/>}
-      </div>
-    </div>
+            <Routes>
+              <Route path="/" element={filteredData ? (
+                <SidebarFilterDrawer
+                  entryCount={entryCount}
+                  setEntryCount={setEntryCount}
+                  filterValues={graphFilters}
+                  onApplyFilters={filterdataValues}
+                  menuEntries={data.filters}
+                />
+
+
+
+              ) : null} />
+
+              <Route path="/" element={<VideoKeywordsSide/>} />
+            </Routes>
+
+
+          <Layout  ref={containerRef} >
+            <Container disableGutters allowInvalidContainer ref={containerHeightRef} maxWidth={false} sx={{ margin: 0, padding: 0, height: "100%" }}>
+              <Routes>
+                <Route path="/" element={filteredData ?
+                  <NetworkGraphForced width={width} data={filteredData} height={height}/>
+                  :
+                  <MovieLoadingScreen/>} />
+
+
+                {/*<Route path="/" element={<StudentMovieGraph/>} />*/}
+
+                <Route path="/video-keywords" element={<VideoKeywords/>} />
+                <Route path="/video-objects" element={<VideoObjects/>} />
+                <Route path="/video-explainer" element={<VideoExplainer/>} />
+              </Routes>
+            </Container>
+          </Layout>
+        </Layout>
+      </Layout>
+    </Router>
   );
 }
 

@@ -131,3 +131,164 @@
   content:"Generating graph..."
 }
 @keyframes l4 {to{clip-path: inset(0 -1ch 0 0)}}
+
+.filter-inner {
+  height: 30vh;
+  overflow-y: scroll;
+}
+
+:root {
+  /* Primary Colors */
+  --primary-color: #00b1bf;
+  --secondary-color: #008a99; /* Darker Teal */
+  --tertiary-color: #33c2cc; /* Lighter Cyan-Teal */
+
+  /* Background Colors */
+  --background-light: #f7f9fa;
+  --background-dark: #121b22;
+
+  /* Text Colors */
+  --text-light: #1a1a1a;
+  --text-dark: #f5f5f5;
+
+  /* Status Colors */
+  --success-color: #5cb85c;
+  --warning-color: #f0ad4e;
+  --error-color: #d9534f;
+}
+
+/* Light Theme */
+.light-theme {
+  background-color: var(--background-light);
+  color: var(--text-light);
+}
+
+/* Dark Theme */
+.dark-theme {
+  background-color: var(--background-dark);
+  color: var(--text-dark);
+}
+
+/* Color Utility Classes */
+.bg-primary { background-color: var(--primary-color) !important; }
+.bg-secondary { background-color: var(--secondary-color) !important; }
+.bg-tertiary { background-color: var(--tertiary-color) !important; }
+.bg-success { background-color: var(--success-color) !important; }
+.bg-warning { background-color: var(--warning-color) !important; }
+.bg-error { background-color: var(--error-color) !important; }
+.bg-light { background-color: var(--background-light) !important; }
+.bg-dark { background-color: var(--background-dark) !important; }
+
+.text-primary { color: var(--primary-color) !important; }
+.text-secondary { color: var(--secondary-color) !important; }
+.text-tertiary { color: var(--tertiary-color) !important; }
+.text-success { color: var(--success-color) !important; }
+.text-warning { color: var(--warning-color) !important; }
+.text-error { color: var(--error-color) !important; }
+.text-light { color: var(--text-light) !important; }
+.text-dark { color: var(--text-dark) !important; }
+
+/* Button Styles */
+.button {
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.button-primary {
+  background-color: var(--primary-color);
+  color: var(--text-dark);
+}
+
+.button-secondary {
+  background-color: var(--secondary-color);
+  color: var(--text-dark);
+}
+
+.button-success {
+  background-color: var(--success-color);
+  color: var(--text-dark);
+}
+
+.button-warning {
+  background-color: var(--warning-color);
+  color: var(--text-light);
+}
+
+.button-error {
+  background-color: var(--error-color);
+  color: var(--text-dark);
+}
+
+/* Hover Effects */
+.button:hover {
+  opacity: 0.85;
+}
+
+/* Card Styles */
+.card {
+  background-color: var(--background-light);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.custom-menu .ant-menu-item {
+  padding-left: 10px !important; /* Adjust the indentation */
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  background: rgb(255,255,255);
+  background: linear-gradient(0deg, rgba(255,255,255,1) 40%, rgba(255,255,255,0) 100%);
+  color: #f1f1f1;
+  width: 100%;
+  height: 150px;
+  transition: .5s ease;
+  color: black;
+  font-size: 5rem;
+  padding: 20px;
+  font-family: "Big Shoulders", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.overlay-tags {
+  display: flex;
+  position: absolute;
+  top: 0;
+  padding: 1rem;
+  gap: 1rem;
+  font-family: "Big Shoulders", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.font-type {
+  font-family: "Big Shoulders", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.navmenu-style {
+  color: black;
+  font-size: 1.5rem;
+}
+
+.navmenu-style-active,
+a.navmenu-style.active,
+.navmenu-style:hover{
+    color: #00545B;
+}
+
+.video-list-item:hover {
+    background-color: #f7f9fa;
+    cursor: pointer;
+}
+

@@ -1,0 +1,505 @@
+[
+  {
+    "time": "00:00",
+    "milliseconds": 0,
+    "caption": "The image features three circular, bright white lights against a predominantly dark background. These lights appear to be arranged in a triangular formation. The dark surroundings suggest a nighttime setting or low-light conditions. The distinct brightness of the circles creates a stark contrast with the background, drawing attention to their arrangement and luminosity.",
+    "action": "Error",
+    "actions": []
+  },
+  {
+    "time": "00:15",
+    "milliseconds": 15000,
+    "caption": "The image depicts a bright, sunny day in an urban setting. In the foreground, there is a lush green lawn with a few trees, some of which have orange and yellow leaves, suggesting it is autumn. A wide path runs through the grass, leading towards a cluster of buildings in the background. These buildings are primarily two to three stories tall and have a simple architectural style, with several windows that let in the sunlight. On the right side, there are parked cars along the street, indicating a residential area. The sunlight creates a warm, inviting atmosphere, with some lens flare visible, adding a dynamic element to the scene.",
+    "action": "Error",
+    "actions": []
+  },
+  {
+    "time": "00:30",
+    "milliseconds": 30000,
+    "caption": "The image depicts a scene outside a building. In the foreground, there are two men. The man in front is older, wearing a red puffer jacket, black pants, and a black hat. He is using a white cane for support while standing on a sidewalk. He has a serious expression on his face as he seems to be preparing to step away from the building. Behind him, another man is standing slightly further back. He is wearing a dark jacket, jeans, and a beanie, and appears to be looking at the older man. The setting includes a brick wall from the building, a doorway, a small bush in the foreground, and visible urban elements such as a street and cars in the background.",
+    "action": "Error",
+    "actions": [
+      "The older man is standing outside the building",
+      "The older man is using a cane for support",
+      "The second man is standing behind the older man, watching him"
+    ]
+  },
+  {
+    "time": "00:45",
+    "milliseconds": 45000,
+    "caption": "The image features a man wearing a red puffer jacket and a black beanie, standing outside in front of a building with large windows. His expression appears serious or contemplative as he speaks. The backdrop consists of a building with a brick exterior and multiple windows, suggesting an urban setting. The sky is clear and it seems to be daytime. The man seems to be engaged in a conversation that may revolve around planning or discussing an event, as indicated by his statement about 'shooting today.'",
+    "action": "Error",
+    "actions": [
+      "standing",
+      "speaking",
+      "gesturing",
+      "looking serious"
+    ]
+  },
+  {
+    "time": "01:00",
+    "milliseconds": 60000,
+    "caption": "The image appears to capture a moment inside a building where individuals are moving through a doorway. One person is wearing a black jacket and has a backpack on, while another individual in a red jacket is holding a crutch. The background shows the interior of the building, with a partially visible door and some light fixtures overhead, indicating an indoor setting. There is a sense of urgency or movement as they transition through the entrance, which suggests a busy environment.",
+    "action": "Error",
+    "actions": [
+      "Walking through a doorway",
+      "Carrying a backpack",
+      "Using a crutch",
+      "Engaging in conversation or expressing frustration"
+    ]
+  },
+  {
+    "time": "01:15",
+    "milliseconds": 75000,
+    "caption": "The image shows a man sitting at a table in an indoor setting, possibly an office. He is wearing a red jacket and appears to be engaged in a serious discussion. The surroundings include a shelf with some folders and a stack of papers. The man looks focused and is listening intently, reflecting a moment that seems to involve an application process or a request for assistance. He has a bald head and an expression that suggests he is contemplative about the topic at hand. In front of him on the table, there is a pink folder, likely containing documents related to his request.",
+    "action": "Error",
+    "actions": [
+      "The man is sitting at a table.",
+      "He is speaking or expressing thoughts about applying for a grant.",
+      "He appears to be listening attentively.",
+      "There is a folder and papers present on the table."
+    ]
+  },
+  {
+    "time": "01:30",
+    "milliseconds": 90000,
+    "caption": "The image shows a man seated at a table in a room with a minimalistic design. He is wearing a bright red puffy jacket and appears to be deep in thought or contemplation, as evidenced by his focused expression. The backdrop features light green shelves with some folded items and papers stacked, suggesting an organized yet sparse environment. The lighting is soft, creating a calm atmosphere. The man has a shaved head and is looking slightly down or to the side, implying he might be engaged in pondering or reflecting on something significant.",
+    "action": "Error",
+    "actions": [
+      "sitting at a table",
+      "looking down or to the side",
+      "wearing a red jacket",
+      "contemplating something"
+    ]
+  },
+  {
+    "time": "01:45",
+    "milliseconds": 105000,
+    "caption": "The image depicts a scene where two individuals are engaged in a discussion over a piece of paper that appears to be an application for the Central Social Welfare Center. One person's hand, wearing a watch, is holding a pen and seems to be pointing at the document, while the other person's hand, wearing a red sleeve, is positioned near the document as if they are ready to receive or hand over information. The background is somewhat blurred, but there are elements like folders visible, indicating an office environment.",
+    "action": "Error",
+    "actions": [
+      "Pointing at the document",
+      "Holding a pen",
+      "Positioning hands near the document"  
+    ]
+  },
+  {
+    "time": "02:00",
+    "milliseconds": 120000,
+    "caption": "The image depicts two men sitting at a table in what appears to be an office setting. One man is wearing a black sweater and is seated at the table, looking down at a document while conversing with the other man. The second man is wearing a red jacket and is also focused on the document, showing interest or concern regarding its content. The room has light-colored walls and furniture, with shelves in the background containing various items, including folders. The atmosphere seems serious, possibly discussing matters related to financial assistance or disability benefits.",
+    "action": "Error",
+    "actions": [
+      "The man in the black sweater is looking at the document on the table.",
+      "The man in the red jacket is pointing at something on the document.",
+      "Both individuals are engaged in a conversation.",
+      "The man in the black sweater appears to be explaining something."
+    ]
+  },
+  {
+    "time": "02:15",
+    "milliseconds": 135000,
+    "caption": "The image depicts a conversation between two men sitting at a table in a modest office or consultation space. One man is wearing a black sweater with gray stripes and appears to be actively engaging in the conversation, while the other man, dressed in a red puffer jacket, has a more subdued demeanor. They are surrounded by a light-colored wall and a backdrop of filing cabinets with various colored folders, suggesting an organized yet informal setting. The presence of paperwork on the table indicates a discussion that may involve administrative matters or personal assistance.",
+    "action": "Error",
+    "actions": [
+      "One man is sitting with his hands clasped together.",
+      "The other man is looking down at a piece of paper or object in his hand.",
+      "They are engaged in conversation, with one man asking a question and the other responding."
+    ]
+  },
+  {
+    "time": "02:30",
+    "milliseconds": 150000,
+    "caption": "The image depicts a bus stop shelter on a rainy day. The shelter has transparent glass sides and a roof, protecting a bench under which a person is sitting. The weather appears gloomy, with rain streaked on the glass panels, creating a foggy effect. A map is visible on the wall inside the shelter, likely providing information about the bus routes. In the background, there is a store named 'Rimi,' and various cars parked outside. One individual, likely a man, is seated on the bench wearing a red puffer jacket and a black beanie. He has a cane beside him and appears to be engaged in a moment of reflection or contemplation, looking slightly downwards.",
+    "action": "Error",
+    "actions": [
+      "person sitting on the bench",
+      "man observing the surroundings",
+      "rain falling outside",
+      "water dripping down the glass panels",
+      "map displayed on the wall inside the shelter"
+    ]
+  },
+  {
+    "time": "02:45",
+    "milliseconds": 165000,
+    "caption": "The image depicts a bus stop shelter on a rainy day. The foreground features a wooden bench on which a man is sitting. He is wearing a bright red puffer jacket and a black beanie. In his right hand, he holds a beverage. The background shows blurred cars parked in a lot, likely belonging to a nearby supermarket, indicated by a sign that is partially visible. The atmosphere appears dreary, with rain droplets on the glass and fog obscuring further details in the distance.",
+    "action": "Error",
+    "actions": [
+      "The man is sitting on the bench.",
+      "He is holding a beverage in his right hand.",
+      "He is wearing a beanie and puffer jacket."
+    ]
+  },
+  {
+    "time": "03:00",
+    "milliseconds": 180000,
+    "caption": "The image shows a man walking outside of a store or shopping complex. He is wearing a bright red puffer jacket and a black beanie. In his right hand, he carries a plastic shopping bag that appears to be filled with empty bottles or containers. The background features a gray building with a smooth surface and a few colorful signs or awnings. There are also some bicycle racks along the wall. The ground is made of a patterned surface that is slightly wet or shiny, suggesting recent rain. The man seems to be focused on his task and is likely heading towards a recycling or collection point.",
+    "action": "Error",
+    "actions": [
+      "Walking",
+      "Carrying a shopping bag",
+      "Looking focused"
+    ]
+  },
+  {
+    "time": "03:15",
+    "milliseconds": 195000,
+    "caption": "The image depicts a person interacting with a red machine, likely a vending machine or an automated kiosk. The individual, wearing a red jacket with white stripes and a black beanie, is focusing on the machine, possibly inputting information or selecting options. The surrounding area appears to be an indoor space with plain white walls, and minimal decoration is visible, suggesting a straightforward, functional environment. A faint light indicates the machine is powered on, and there are buttons on the front panel, possibly for operation. The person's posture suggests they are in the process of engaging with the machine, indicating an intention to use its services.",
+    "action": "Error",
+    "actions": [
+      "person approaches the machine",
+      "person interacts with the machine",
+      "person looks at the machine",
+      "person likely presses a button"
+    ]
+  },
+  {
+    "time": "03:30",
+    "milliseconds": 210000,
+    "caption": "The image depicts a man standing indoors, likely in a hallway or a small room. He is wearing a red puffer jacket and a black beanie, suggesting that it may be cold. In his right hand, he is holding a clear plastic bottle, which appears to be slightly crumpled and contains liquid. The background features white walls and a red object, possibly a vending machine or a washing machine. The man's expression looks serious or frustrated, and he seems to be addressing someone, as he holds up the bottle while stating he has paid 8 cents for it.",
+    "action": "Error",
+    "actions": [
+      "Holding a clear plastic bottle",
+      "Facial expression indicating seriousness or frustration",
+      "Possibly speaking or addressing someone"
+    ]
+  },
+  {
+    "time": "03:45",
+    "milliseconds": 225000,
+    "caption": "The image shows a man in a bright red puffer jacket and a black beanie walking with the assistance of a cane. He is on a parking lot, with a green minivan parked behind him. The background features several other cars and trees with autumn foliage, indicating a cool, possibly cloudy day. The ground appears wet, suggesting recent rain. The man has an expression that could indicate focus or determination as he navigates the space.",
+    "action": "Error",
+    "actions": [
+      "Walking with a cane",
+      "Wearing a puffer jacket",
+      "Wearing a beanie",
+      "Navigating a parking lot"
+    ]
+  },
+  {
+    "time": "04:00",
+    "milliseconds": 240000,
+    "caption": "The image shows a man outdoors, likely at a roadside or bus stop. He has a friendly expression, wearing a red padded jacket and a black beanie. His features are well-defined, and he seems to be talking to someone off-camera, possibly sharing an anecdote. In the background, there are trees with sparse foliage, a traffic signal, and a hint of traffic on the road. The atmosphere appears somewhat cloudy or overcast.",
+    "action": "Error",
+    "actions": [
+      "smiling",
+      "talking",
+      "gesturing"
+    ]
+  },
+  {
+    "time": "04:15",
+    "milliseconds": 255000,
+    "caption": "The image shows a man sitting and looking intently towards the right side of the frame. He is wearing a black beanie and a bright red jacket, which contrasts against the dreary, overcast background. The setting appears to be a city street, with a bus and some vehicles visible in the background. The environment seems somewhat urban and potentially cold or unpleasant due to the grey skies. His expression indicates contemplation or perhaps amusement, as he seems to be reacting to something happening nearby.",
+    "action": "Error",
+    "actions": [
+      "Man is looking intently towards the right",
+      "Man is wearing a hat",
+      "Man is wearing a jacket",
+      "Vehicles are passing in the background"
+    ]
+  },
+  {
+    "time": "04:30",
+    "milliseconds": 270000,
+    "caption": "The image shows two men sitting at what appears to be a bus stop. One man, dressed in a striped jacket and a cap, is looking down, seemingly engaged in a serious conversation. The other man, wearing a bright red puffer jacket and a black beanie, is looking at the first man, likely listening intently. In the background, there are vehicles parked along a street, and the environment suggests an urban setting with a hint of autumn as trees are visible without leaves. The scene conveys a conversation that may be about a sensitive topic, as indicated by the text 'He won't use the thing known as toilet.' This suggests that the discussion may involve personal or social issues regarding hygiene or living conditions.",
+    "action": "Error",
+    "actions": []
+  },
+  {
+    "time": "04:45",
+    "milliseconds": 285000,
+    "caption": "The image shows two men sitting on a bench at a bus stop or a public waiting area. One man is wearing a red puffer jacket and a black beanie, seemingly engaged in a conversation. The other man is dressed in a striped jacket and a black cap, looking down as he listens. The background features a parking lot with several cars and some trees, indicating an outdoor setting. The overall mood seems casual, with both individuals appearing focused on their discussion.",
+    "action": "Error",
+    "actions": [
+      "One man is talking.",
+      "The other man is listening.",
+      "The first man is gesturing with his hands.",
+      "Both men are seated on a bench."
+    ]
+  },
+  {
+    "time": "05:00",
+    "milliseconds": 300000,
+    "caption": "The image depicts a bus stop scene with two men sitting on a bench. One man wears a black beanie and a striped jacket with a green shopping bag at his feet. He appears to be looking down, possibly in a contemplative or tired state. The second man, dressed in a red jacket and wearing a similar black beanie, sits beside him with a white cane resting on the ground next to him. The background shows cars parked and driving by, and there is a woman walking past on the left side of the image, also dressed in dark clothing.",
+    "action": "Error",
+    "actions": []
+  },
+  {
+    "time": "05:15",
+    "milliseconds": 315000,
+    "caption": "The image depicts a parking lot setting where a man is using a cane to walk. He is wearing a bright red puffy jacket and dark pants. The man appears to be elderly and is walking towards a grey car with a visible number plate. The parking lot has several parked vehicles, including a darker SUV in the background and a light grey car adjacent to the one the man is approaching. The ground is wet, indicating recent rain, and the surrounding area has bare trees, suggesting it might be late autumn or winter.",
+    "action": "Error",
+    "actions": [
+      "man walking with a cane",
+      "man approaching a car",
+      "man wearing a red jacket"
+    ]
+  },
+  {
+    "time": "05:30",
+    "milliseconds": 330000,
+    "caption": "The image presents a scene in a parking lot where two individuals are engaged in conversation. One person is wearing a bright red jacket and appears to be using a crutch, indicating some mobility assistance or impairment. The other person, dressed in a blue jacket, is standing close to the first individual, seemingly listening attentively or responding to them. The background features several parked cars, including a silver vehicle and a black Mercedes, creating a common urban setting. The atmosphere suggests an exchange of words, possibly involving a request or assistance, which is further hinted at by the text visible at the bottom of the image, indicating a polite expression of gratitude.",
+    "action": "Error",
+    "actions": [
+      "One individual is talking while using a crutch.",
+      "The second individual is standing and listening.",
+      "There is a conversational exchange occurring."
+    ]
+  },
+  {
+    "time": "05:45",
+    "milliseconds": 345000,
+    "caption": "The image depicts two men engaged in a conversation in a parking lot. One man is wearing a bright red puffer jacket and a black beanie, and he appears to be leaning on a cane. The other man, dressed in dark clothing, is standing close to him, looking towards the man in the red jacket. Their conversation seems informal and friendly. The background shows several parked cars, including a black Audi and a red vehicle, while the environment appears to be a cloudy day with no visible activity nearby.",
+    "action": "Error",
+    "actions": [
+      "Two men are talking to each other.",
+      "One man is leaning on a cane.",
+      "The man in the red jacket is gesturing or expressing himself.",
+      "The other man is looking at the man in the red jacket."
+    ]
+  },
+  {
+    "time": "06:00",
+    "milliseconds": 360000,
+    "caption": "The image depicts a scene in a parking lot where two individuals are engaged in conversation. One person is an elderly man with gray hair, wearing a dark jacket, and appears to be smiling as he talks. The other individual is standing in front of him, dressed in a bright red puffer jacket and wearing a black beanie. This person has a cane, suggesting some mobility challenge. In the background, there are several parked cars, including a black Audi and a red car labeled 'ESCORT.' The atmosphere appears casual and friendly, with the elderly man seeming to convey a sense of humor based on his expression and context of dialogue.",
+    "action": "Error",
+    "actions": [
+      "The elderly man is smiling and talking.",
+      "The person in the red jacket is listening attentively.",
+      "The individual in the red jacket is holding a cane.",
+      "Both individuals are standing in a relaxed posture."
+    ]
+  },
+  {
+    "time": "06:15",
+    "milliseconds": 375000,
+    "caption": "The image depicts a busy urban street scene. The focus is primarily on a silver car in the foreground, with its rear tail light prominently visible. In the background, there are traffic signs and signals, indicating a traffic system in place. The atmosphere appears to be overcast, with a hint of a city structure just beyond the car. The lanes are likely accommodating multiple vehicles, suggesting active traffic on the road. The text visible suggests a conversation, likely taking place within the vehicle or nearby, discussing an acquaintance named Marks.",
+    "action": "Error",
+    "actions": [
+      "Driving or moving through traffic",
+      "Observing traffic signals",
+      "Discussing or sharing information about an acquaintance"
+    ]
+  },
+  {
+    "time": "06:30",
+    "milliseconds": 390000,
+    "caption": "The image depicts a city street scene where a man is walking with the help of a cane. He is wearing a bright red puffer jacket and has a black beanie on his head. The man appears to have an injury, as he is limping and holding his leg slightly. Behind him, there is a white delivery van with advertisements and a silver car on the road, with a group of people visible in the background. The setting seems to be a busy area, likely near a crosswalk, with a few pedestrians and vehicles present.",
+    "action": "Error",
+    "actions": [
+      "The man is walking with a cane.",
+      "He is limping, suggesting he may have an injury.",
+      "He is smoking a cigarette.",
+      "Vehicles are moving in the background.",
+      "People are standing in the background, possibly engaged in conversation."
+    ]
+  },
+  {
+    "time": "06:45",
+    "milliseconds": 405000,
+    "caption": "The image depicts a man wearing a red jacket with white stripes and a black beanie. He appears to be looking over the top of two parked cars in a parking lot. The background shows a building with large windows, and the atmosphere seems to be overcast. There are several cars parked closely together, and the text at the bottom of the image reads, 'Nobody wants to become disabled,' suggesting a commentary or reflection on disability.",
+    "action": "Error",
+    "actions": [
+      "The man is leaning forward as if trying to look at something or someone.",
+      "He is partially obscured by the parked cars.",
+      "There is a sense of movement or attentiveness in his posture."
+    ]
+  },
+  {
+    "time": "07:00",
+    "milliseconds": 420000,
+    "caption": "The image depicts an outdoor scene in a residential area with two multi-story buildings on either side. The foreground features a grassy area that appears to have been recently disturbed, possibly by yard work or gardening activities. In the background, there are several cars parked along the street, and power lines stretch across the sky. The sky shows early morning hues with streaks of clouds, indicating it might be dawn or dusk. A man is walking along a concrete path, moving away from the camera. He is dressed in a dark jacket and seems to be carrying a gardening tool or equipment.",
+    "action": "Error",
+    "actions": [
+      "walking",
+      "carrying a tool",
+      "observing the surroundings"
+    ]
+  },
+  {
+    "time": "07:15",
+    "milliseconds": 435000,
+    "caption": "The image depicts a man standing outside, likely waiting or observing something. He is wearing a bright red puffer jacket with white stripes along the sleeves and a black knit hat. The background shows a blur of trees and houses, suggesting an outdoor setting with possibly autumn foliage. The lighting appears to be dim, hinting at either early morning or late afternoon. The man has a thoughtful or concerned expression on his face, and he seems to be engaging verbally, perhaps talking to someone nearby or off-camera.",
+    "action": "Error",
+    "actions": [
+      "Standing",
+      "Wearing a red puffer jacket and a black hat",
+      "Looking concerned or thoughtful",
+      "Speaking (possibly asking about the cold)"
+    ]
+  },
+  {
+    "time": "07:30",
+    "milliseconds": 450000,
+    "caption": "The image depicts a middle-aged man standing outside, appearing somewhat concerned or contemplative. He is wearing a bright red puffer jacket with white stripes on the sleeves, and a black knit hat. The background shows a blurred view of a street with some cars and buildings, hinting at an urban environment. The lighting suggests it might be early morning or late afternoon, as there is a soft glow in the sky.",
+    "action": "Error",
+    "actions": [
+      "standing",
+      "looking concerned",
+      "wearing a coat",
+      "standing outdoors"
+    ]
+  },
+  {
+    "time": "07:45",
+    "milliseconds": 465000,
+    "caption": "The image depicts a person standing outdoors in a slight evening light, characterized by a chilly atmosphere. The individual is wearing a red puffer jacket and a dark hat, indicating they are dressed for cold weather. In the background, a blue building with several windows is visible, giving the scene an urban feel. The ground is grassy, and there are some nearby bushes, adding to the outdoor environment. The person's body is turned slightly away from the camera, suggesting they are anticipating someone or something. The text in the image indicates a conversation about someone named Silva, implying that the subject is waiting to see if Silva will join them.",
+    "action": "Error",
+    "actions": [
+      "standing",
+      "waiting",
+      "looking towards a building",
+      "anticipating someone"
+    ]
+  },
+  {
+    "time": "08:00",
+    "milliseconds": 480000,
+    "caption": "The image depicts a person standing on a patch of grass in front of a blue building. The time of day appears to be early evening, as the natural light is dimming. The person is wearing a red puffer jacket, dark pants, and a knit hat. They have a cane, suggesting mobility difficulties. The building has several windows, and through them, faint silhouettes or shadows can be seen, implying the presence of individuals inside. The atmosphere seems calm, yet the scene conveys a sense of solitude due to the setting and the person's posture.",
+    "action": "Error",
+    "actions": [
+      "Standing",
+      "Holding a cane",
+      "Gazing towards the building"
+    ]
+  },
+  {
+    "time": "08:15",
+    "milliseconds": 495000,
+    "caption": "The image depicts a man standing outside a blue building with multiple windows. He is wearing a red jacket with white stripes and a black beanie. The overall atmosphere looks somewhat gloomy, likely because of the late afternoon or evening light. The grass in front of the building is green and slightly unkempt, and there are some bushes nearby. In the background, we can see the windows of the building, suggesting that people might be inside. There\u2019s a caption indicating that the man is waiting for someone, expressing disappointment that she has not arrived yet.",
+    "action": "Error",
+    "actions": [
+      "The man is standing",
+      "The man is looking around",
+      "The man is possibly waiting for someone"
+    ]
+  },
+  {
+    "time": "08:30",
+    "milliseconds": 510000,
+    "caption": "The image shows a person walking away from a building, wearing a bright red puffer jacket and a beanie. The setting appears to be a residential area, with several apartment buildings in the background and parked cars in the vicinity. The pathway they are walking on has both paved and grassy sections. The time of day seems to be early evening, as the sky is dimly lit. A statement is displayed at the bottom, expressing a feeling of not having a real home, suggesting a sense of struggle or homelessness.",
+    "action": "Error",
+    "actions": [
+      "Walking away from the building",
+      "Using a cane for support",
+      "Wearing a jacket and beanie"
+    ]
+  },
+  {
+    "time": "08:45",
+    "milliseconds": 525000,
+    "caption": "The image depicts a parking lot with several vehicles parked close together. In the foreground, there is a black car on the left side of the image. There is also a person walking in a red puffer jacket, seen towards the center-left of the image, who appears to be moving through the parking area. The background features a bus and additional vehicles, as well as trees and a slightly overcast sky. The atmosphere seems to suggest it's either early morning or late evening due to the lighting.",
+    "action": "Error",
+    "actions": [
+      "A person walks through the parking lot",
+      "Vehicles are parked",
+      "A bus is present in the background"
+    ]
+  },
+  {
+    "time": "09:00",
+    "milliseconds": 540000,
+    "caption": "The image shows a parking lot during dusk, with several cars parked in various positions. In the foreground, a man is standing next to a sleek black car, wearing a red puffer jacket. He appears to be looking towards the building behind him, which is partially visible on the left side of the image. The background features a road with a few trees, and there are other cars parked along the perimeter of the lot. The setting has a somewhat urban feel, with a checkered taxi cab visible in the distance. The overall atmosphere suggests a transitional time of day with a slightly overcast sky.",
+    "action": "Error",
+    "actions": [
+      "A man stands next to a black car.",
+      "The man is looking towards the building.",
+      "There are cars parked in the lot.",
+      "The background shows a road and trees."
+    ]
+  },
+  {
+    "time": "09:15",
+    "milliseconds": 555000,
+    "caption": "The image depicts a scene set at night in a snowy urban environment. A man, who appears to be experiencing homelessness, is standing beside a trash can. He is dressed warmly in a black jacket and is wearing a beanie. In one hand, he holds a red bag, while he leans over the trash can, possibly searching for items. In the background, there are several parked cars, and on the sidewalk, some people can be seen walking, implying foot traffic in the area. The snow-covered ground and the quiet atmosphere suggest a cold winter night.",
+    "action": "Error",
+    "actions": [
+      "The man leans over the trash can.",
+      "He searches through the trash can.",
+      "He holds a red bag in one hand.",
+      "People walk in the background."
+    ]
+  },
+  {
+    "time": "09:30",
+    "milliseconds": 570000,
+    "caption": "The image depicts a cold and snowy environment, possibly outside a bus stop or similar structure. In the foreground, there is an elderly man seated on a bench. He is wearing a red jacket with white stripes and a dark hat, suggesting that he is trying to keep warm in the chilly weather. The background features a parking area with several vehicles, some partially obscured by snow. The scene appears to be at nighttime due to the low light and the illumination from nearby street lamps and signs.",
+    "action": "Error",
+    "actions": [
+      "sitting on a bench",
+      "holding a small object",
+      "looking around",
+      "possibly speaking or thinking"
+    ]
+  },
+  {
+    "time": "09:45",
+    "milliseconds": 585000,
+    "caption": "The image depicts a snowy urban scene at night, likely at a bus stop. In the foreground, a man in a red puffer jacket is seated on a bench, looking towards his right while holding a drink or food container in his right hand. He appears to be in a thoughtful or contemplative state. There is another figure partially visible in the background; this person is standing behind a glass panel of the bus stop shelter. They are wearing a dark hat and a jacket. The surroundings include parked cars, snow-covered ground, and a few street lights illuminating the scene.",
+    "action": "Error",
+    "actions": [
+      "The man in the red jacket is seated on a bench.",
+      "He is holding a drink or food container.",
+      "He is looking toward his right.",
+      "Another figure is standing behind the bus stop shelter."
+    ]
+  },
+  {
+    "time": "10:00",
+    "milliseconds": 600000,
+    "caption": "The image depicts a snowy scene at night, possibly in a parking lot near a store. A man dressed in a bright red puffer jacket is seen walking with the aid of a cane. He appears to be navigating through snow that has accumulated on the ground and is surrounded by cars parked closely together. The background features a store with lit signs indicating business hours ('8-22') and colorful decorations. The overall feel of the scene suggests it is winter, with light reflecting off the snow under streetlights, adding to the ambiance.",
+    "action": "Error",
+    "actions": [
+      "walking with a cane",
+      "navigating through snow",
+      "looking towards the store",
+      "standing near parked cars"
+    ]
+  },
+  {
+    "time": "10:15",
+    "milliseconds": 615000,
+    "caption": "The image depicts a snowy urban environment at night. The foreground shows a man dressed in a red puffy jacket who is using crutches and appears to be standing at a bus stop. His face is turned slightly away from the camera, and there is a thoughtful expression as he looks toward the direction of the bus stop advertisement. Behind him, there is a city bus shelter with a brightly lit advertisement on a blue background that reads 'serve the city'. In the background, another individual, wearing an orange jacket, is walking with a bag and there are parked cars covered in snow along the side of the street. The overall atmosphere evokes a sense of calm and introspection against the chill of the winter night.",
+    "action": "Error",
+    "actions": [
+      "man using crutches standing at a bus stop",
+      "man looking at the advertisement",
+      "another person walking with a bag",
+      "cars parked along the snowy street"
+    ]
+  },
+  {
+    "time": "10:30",
+    "milliseconds": 630000,
+    "caption": "The image depicts a man sitting at a bus stop during nighttime. He is wearing a red puffer jacket with white stripes and a black beanie, looking pensively out into the distance. The surroundings appear to be a snowy environment, with a window reflecting some light from passing vehicles. The atmosphere seems contemplative, suggesting a moment of waiting or reflection in a somewhat isolated setting. The lighting adds a somber tone to the scene, with blurred headlights illuminating the background, hinting at the passing traffic on the street.",
+    "action": "Error",
+    "actions": []
+  },
+  {
+    "time": "10:45",
+    "milliseconds": 645000,
+    "caption": "The image depicts a snowy scene at a bus stop during the night. There is a bench on which a person is sitting, appearing to be bundled up in warm clothing, specifically a red jacket and a hat. They seem to be engaged with a mobile device, possibly checking their phone. The ground is covered in snow, which is also visible on the bench and the surrounding area. In the background, there are cars parked, and illuminated signs from nearby buildings, including a supermarket, which are providing bright, colorful lights against the dark night sky. Snow is falling lightly, adding to the wintry atmosphere.",
+    "action": "Error",
+    "actions": [
+      "A person sitting on a bench",
+      "The person using a mobile device",
+      "Snow falling",
+      "Cars parked in the background"
+    ]
+  },
+  {
+    "time": "11:00",
+    "milliseconds": 660000,
+    "caption": "The image features a plain black background with white text prominently displayed. The text is divided into two sections. The top section displays the name 'Andrus Paavel,' indicating it might be the title or subject of focus. Underneath it, there's a line that reads, 'I do not require much care:' suggesting a theme of independence or self-sufficiency. The overall design is minimalist, emphasizing the text rather than any visual objects or images.",
+    "action": "Error",
+    "actions": []
+  },
+  {
+    "time": "11:15",
+    "milliseconds": 675000,
+    "caption": "The image depicts a man standing outside, likely waiting or observing something. He is wearing a bright red puffer jacket with white stripes along the sleeves and a black knit hat. The background shows a blur of trees and houses, suggesting an outdoor setting with possibly autumn foliage. The lighting appears to be dim, hinting at either early morning or late afternoon. The man has a thoughtful or concerned expression on his face, and he seems to be engaging verbally, perhaps talking to someone nearby or off-camera.",
+    "action": "Error",
+    "actions": []
+  }
+]

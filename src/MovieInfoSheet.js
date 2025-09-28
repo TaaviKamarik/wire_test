@@ -9,7 +9,7 @@ import {
   List,
   ListItem,
   ListItemText,
-  ListItemIcon
+  ListItemIcon, Modal, Card
 } from '@mui/material';
 import {
   Movie as MovieIcon,
@@ -21,7 +21,7 @@ import {
   Group as GroupIcon
 } from '@mui/icons-material';
 
-const MovieInfoSheet = ({ movie, nodes, setSelectedNode, setSelectedNodeType, handleNodeClick, scrollToTop }) => {
+const MovieInfoSheet = ({ movie, nodes, setSelectedNode }) => {
   const {
     title,
     type,
@@ -38,9 +38,6 @@ const MovieInfoSheet = ({ movie, nodes, setSelectedNode, setSelectedNodeType, ha
   const handleClick = (person) => {
     const selPerson = nodes.find(node => node.id === person);
     setSelectedNode(selPerson);
-    setSelectedNodeType('person');
-    handleNodeClick(selPerson);
-    scrollToTop()
   }
 
   // Group crew members by role
@@ -52,11 +49,44 @@ const MovieInfoSheet = ({ movie, nodes, setSelectedNode, setSelectedNodeType, ha
     return acc;
   }, {});
 
+  const handleClose = () => {
+    setSelectedNode(null);
+  }
+
   return (
-    <Box sx={{ p: 3, maxWidth: '100%' }}>
+    <Modal open={movie} style={{display: "flex", minWidth: "600px", justifyContent: "center", padding: "2rem"}} onClose={handleClose}>
+    <Card sx={{ maxWidth: '80%', background: "white", overflowY: "scroll" }}>
+      <div style={{position: 'relative', minWidth: "1200px"}}>
+        <Box
+          component="img"
+          src={image || "./replacement.jpg"}
+          alt={title}
+          sx={{
+            width: '100%',
+            maxHeight: 600,
+            objectFit: 'cover',
+            borderRadius: 1
+          }}
+        />
+        <div className="overlay">{title}</div>
+        <div className={"overlay-tags"}>
+          <Chip
+            label={year}
+            color={"primary"}
+          />
+          {subtype && <Chip
+            label={subtype}
+            color={"secondary"}
+          />}
+          {genre[0] !== "" && <Chip
+            label={genre.join(', ')}
+            color={"info"}
+          />}
+        </div>
+      </div>
       {/* Header Section */}
       <Box sx={{ mb: 4 }}>
-        <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', mb: 2 }}>
+        {/*<Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', mb: 2 }}>
           <Typography variant="h4" component="h1" gutterBottom>
             {title}
           </Typography>
@@ -65,13 +95,12 @@ const MovieInfoSheet = ({ movie, nodes, setSelectedNode, setSelectedNodeType, ha
             variant="outlined"
             size="small"
           />
-        </Box>
+        </Box>*/}
 
         {/* Basic Metadata */}
-        <Grid container spacing={2} sx={{ mb: 2 }}>
+        {/*<Grid container spacing={2} sx={{ mb: 2 }}>
           <Grid item>
             <Chip
-              icon={<CalendarIcon />}
               label={year}
               variant="outlined"
             />
@@ -101,64 +130,69 @@ const MovieInfoSheet = ({ movie, nodes, setSelectedNode, setSelectedNodeType, ha
             <Grid item>
               <Chip
                 icon={<LabelIcon />}
-                label={genre.replaceAll('Žanr:', ',')}
+                label={genre.join(', ')}
                 variant="outlined"
               />
             </Grid>
           )}
-        </Grid>
+        </Grid>*/}
       </Box>
 
-      <Divider sx={{ mb: 4 }} />
+      <Divider sx={{}} />
 
       {/* Movie Image */}
-      <Box sx={{ mb: 4 }}>
+     {/* <Box sx={{ mb: 4 }}>
         <Paper elevation={2}>
-          <Box
-            component="img"
-            src={image || "./replacement.jpg"}
-            alt={title}
-            sx={{
-              width: '100%',
-              maxHeight: 400,
-              objectFit: 'cover',
-              borderRadius: 1
-            }}
-          />
+
         </Paper>
-      </Box>
+      </Box>*/}
 
       {/* Cast Section */}
       {peaosa && peaosa.length > 0 && (
-        <Box sx={{ mb: 4 }}>
-          <Typography variant="h6" sx={{ display: 'flex', alignItems: 'center', gap: 1, mb: 2 }}>
-            <PersonIcon /> Cast
-          </Typography>
-          <List>
+        <>
+        <Typography variant="h6" sx={{ display: 'flex', alignItems: 'center', gap: 1, padding: "1rem"}}>
+          <PersonIcon /> <span className="font-type">Cast</span>
+        </Typography>
+        <Box sx={{ mb: 4, display: "flex", paddingLeft: "1rem", gap: '1rem', flexWrap: "wrap" }}>
             {peaosa.map((actor, index) => (
-              <ListItem key={index}>
-                <ListItemIcon>
-                  <PersonIcon />
-                </ListItemIcon>
+              <Card style={{paddingLeft: "1rem", paddingRight: "1rem"}}>
                 <ListItemText
                   sx={{cursor: "pointer"}}
                   onClick={() => handleClick(actor.actor)}
-                  primary={actor.actor}
+                  primary={<div className="font-type">{actor.actor}</div>}
                   secondary={`as ${actor.playing}`}
                 />
-              </ListItem>
+              </Card>
             ))}
-          </List>
         </Box>
+        </>
       )}
 
-      <Divider sx={{ mb: 4 }} />
+      <Divider />
+
+      <Typography variant="h6" sx={{ display: 'flex', alignItems: 'center', gap: 1, padding: "1rem"}}>
+        <GroupIcon /> <span className="font-type">Crew</span>
+      </Typography>
+
+      {Object.entries(crewByRole).map(([role, names]) => (
+        <>
+        <Typography variant="h6" sx={{display: 'flex', alignItems: 'center', gap: 1, paddingLeft: "2rem"}}>
+          <span className="font-type">{role}</span>
+        </Typography>
+        <Box sx={{mb: "1rem", display: "flex", paddingLeft: "2rem", gap: '1rem', flexWrap: "wrap"}}>
+          {names.map((actor, index) => (
+            <Card style={{paddingLeft: "1rem", paddingRight: "1rem"}}>
+              <ListItemText
+                sx={{cursor: "pointer"}}
+                onClick={() => handleClick(actor)}
+                primary={<div className="font-type">{actor}</div>}
+              />
+            </Card>
+          ))}
+    </Box></>))}
 
       {/* Crew Section */}
-      <Box>
-        <Typography variant="h6" sx={{ display: 'flex', alignItems: 'center', gap: 1, mb: 2 }}>
-          <GroupIcon /> Crew
-        </Typography>
+      {/*<Box>
         <Grid container spacing={3}>
           {Object.entries(crewByRole).map(([role, names]) => (
             <Grid item xs={12} sm={6} key={role}>
@@ -177,8 +211,9 @@ const MovieInfoSheet = ({ movie, nodes, setSelectedNode, setSelectedNodeType, ha
             </Grid>
           ))}
         </Grid>
-      </Box>
-    </Box>
+      </Box>*/}
+    </Card>
+    </Modal>
   );
 };
 
