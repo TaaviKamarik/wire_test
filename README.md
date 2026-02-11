@@ -1,70 +1,79 @@
-# Getting Started with Create React NetworkGraphView
+# Wire Test: Movie & Person Data Explorer
 
-This project was bootstrapped with [Create React NetworkGraphView](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+Wire Test is a full-stack web application for visualizing, filtering, and exploring movie and person data. It features interactive force-directed graphs, advanced filtering, and multiple data exploration tools. The project is built with a React frontend and a PHP backend API.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Interactive Graphs:** Visualize movies, people, and their relationships using force-directed and other network graphs.
+- **Filtering:** Filter by genres, roles, types, and years using a global sidebar powered by Zustand state management.
+- **Multiple Views:** Includes tools for video keyword search, object identification, scene clustering, temporal flow, Sankey diagrams, and more.
+- **API Integration:** Fetches data from a PHP backend with endpoints for movies and persons.
+- **Modern UI:** Uses Material UI and Ant Design for a responsive, user-friendly interface.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Project Structure
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```
+├── src/
+│   ├── appcomponents/         # All main React components used in App.js
+│   ├── components/            # Shared UI components (e.g., SidebarFilters)
+│   ├── filmDashboard/         # Specialized dashboard and visualization components
+│   ├── hooks/                 # Custom React hooks (API fetch, filter state)
+│   ├── moviekeyword/          # Video keyword search components
+│   ├── networkgraph/          # Graph logic and supporting components
+│   ├── utils/                 # Utility functions and constants
+│   ├── videoexplainer/        # Video explainer tool
+│   ├── videoobjects/          # Video object identifier tool
+│   ├── App.js                 # Main application entry
+│   └── ...
+├── public/                    # Static assets and processed data
+├── build/api/                 # PHP backend API controllers
+├── movie_jsons/               # Raw movie scene data (JSON)
+├── package.json               # Project metadata and dependencies
+└── README.md                  # Project overview (this file)
+```
 
-### `npm test`
+## Developer Workflow
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Start Dev Server:** `npm start` (runs React app on localhost:3000)
+- **Run Tests:** `npm test` (Jest, interactive watch mode)
+- **Build for Production:** `npm run build` (outputs to `build/`)
+- **Backend:** PHP API is served from `build/api/`; endpoints are consumed by the frontend.
 
-### `npm run build`
+## Key Files & Folders
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **src/App.js:** Main entry point, routing, and layout
+- **src/appcomponents/:** All main UI components used in App.js
+- **src/filmDashboard/:** Advanced data visualizations and dashboards
+- **src/hooks/useApiFetch.js:** API integration hook
+- **src/hooks/useGraphFilterState.js:** Global filter state (Zustand)
+- **src/components/SidebarFilters.js:** Sidebar filter UI
+- **src/networkgraph/:** Graph logic and supporting components
+- **build/api/controllers/:** PHP API controllers for movies/persons
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Data Flow
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Frontend fetches movie/person data from the PHP API (see `useApiFetch.js`).
+- Data is visualized using force-directed and other graphs.
+- Filtering is managed globally and passed to graph components.
 
-### `npm run eject`
+## Conventions
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **API Usage:** Use the `useApiFetch` hook for all API calls.
+- **Filtering:** Managed via Zustand and sidebar components.
+- **Component Organization:** All main components are in `src/appcomponents/` for clarity.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Install dependencies: `npm install`
+2. Start the frontend: `npm start`
+3. (Optional) Set up the PHP backend in `build/api/` if developing API endpoints
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## License
 
-## Learn More
+MIT (or specify your license here)
 
-You can learn more in the [Create React NetworkGraphView documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web NetworkGraphView
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+For more details, see code comments and the `.github/copilot-instructions.md` file.
