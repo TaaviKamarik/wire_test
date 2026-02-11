@@ -1,0 +1,446 @@
+{
+  "film": [
+    "16831",
+    "16709",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "E-Riigi Akadeemia reklaam",
+    "afd8d7d199cab0d445b66e43c96bedd34923ffff.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täiesti musta taustaga, mille keskel ilmuvad kolm udust, valget ringikujulist valgust. Need valguspunktid liiguvad ja teravustuvad, võttes samal ajal erinevaid värve: üks ring muutub siniseks, teine punaseks ja kolmas jääb valgeks. Ringid asetuvad kolmnurksesse konfiguratsiooni – sinine ja valge ring üleval ning punane ring all. Samal hetkel ilmub ringidest paremale kaks valget suurtähte, 'B' ja 'M'. Lõpuks tuhmub kogu pilt täielikult mustaks, viidates stseeni lõppemisele või üleminekule.",
+      "actions": [
+        "Uduste valguspunktide ilmumine",
+        "Valguspunktide teravustumine",
+        "Valguspunktide värvumine",
+        "Ringide paigutumine kolmnurksesse kujundisse",
+        "Teksti 'B M' ilmumine",
+        "Stseeni mustaks tuhmumine"
+      ],
+      "keywords": [
+        "Alguslogo",
+        "Bränding",
+        "Animatsioon",
+        "Minimalistlik",
+        "Abstraktne",
+        "Värvilised ringid",
+        "Must taust",
+        "Valguspunktid",
+        "Disain",
+        "Puhas"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Valged udused ringid",
+        "Teravad valged ringid",
+        "Sinine ring",
+        "Punane ring",
+        "Täht B",
+        "Täht M"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#336699",
+        "#CC3333"
+      ],
+      "texts": [
+        "B M"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "95",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on kõik ringid udused ja valged, teisel pildil on need teravad ja värvilised (sinine, punane, valge).",
+        "Ringide paigutus muutub esimese ja teise pildi vahel – teisel pildil moodustavad need selge kolmnurkse kujundi.",
+        "Tekst 'B M' ilmub alles teisel pildil, olles esimesel puudu.",
+        "Kolmas pilt on täiesti must, näidates stseeni lõppu, samas kui esimesel ja teisel pildil on elemente näha."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "7.800"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub koduses siseruumis, pakkudes pilguheidet erinevatesse elamiskoha osadesse, sealhulgas kööki/söögituppa, trepihalli ja esikusse. Üldine õhkkond on kodune ja hubane, kuigi esimese kaadri valgustus on väga hämar. Stseenis on näha vähemalt kolme inimest, kes on hõivatud erinevate tegevustega. Üks vanem naine istub köögi/söögilaua taga, mis on kaetud tumeda kangaga, ja tegeleb sülearvutiga, hoides käes klaasi. Ta naeratab ja on keskendunud ekraanile. Teises osas stseenist on näha trepihalli, kus üks inimene, kellelt on näha vaid jalad mustades kingades, on trepist üles minemas. Teine inimene seisab samas hallis seljaga kaamera poole. Kolmandas osas stseenist on noorem naine, lühemate punakasblondide juustega ja mustas T-särgis, sisenemas ruumi või pöörates end ukse poole, mis on osaliselt avatud. Seintel on mitmeid raamitud kunstiteoseid ja potitaimed, mis annavad kodule isikupärase ilme. Valgusküllasematel kaadritel on näha suuri aknaid heledate läbipaistvate kardinatega. Dialoog viitab valimistega seotud tegevustele ja pakilisusele, luues stseenile kindla eesmärgi.",
+      "actions": [
+        "Vanem naine kasutab sülearvutit ja hoiab klaasi",
+        "Inimene kõnnib trepist üles",
+        "Inimene seisab trepihallis",
+        "Naine siseneb ruumi või pöörab end ukse poole",
+        "Rääkimine valimistest"
+      ],
+      "keywords": [
+        "Kodu",
+        "Siseruum",
+        "Köök",
+        "Söögituba",
+        "Trepp",
+        "Trepihall",
+        "Esik",
+        "Naine",
+        "Vanem naine",
+        "Sülearvuti",
+        "Maalid",
+        "Potitaimed",
+        "Kardinad",
+        "Valimised",
+        "Kodune",
+        "Hubane"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Sülearvuti",
+        "Laud",
+        "Toolid",
+        "Klaas",
+        "Köögikapid",
+        "Aken",
+        "Kardinad",
+        "Potitaimed",
+        "Veekeetja",
+        "Trepp",
+        "Trepikäsipuu",
+        "Seinamaalid",
+        "Uks",
+        "Ukseraam",
+        "Valguslüliti",
+        "Mustad kingad"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#F5F5F5",
+        "#A0522D",
+        "#4F8C4F",
+        "#B22222",
+        "#E0B0FF"
+      ],
+      "texts": [
+        "Let's go already and get these elections done with!"
+      ],
+      "persons": [
+        "Vanem naine",
+        "Naine (punakasblondide juustega)",
+        "Inimene trepil (jalad näha)",
+        "Inimene trepihallis (seljaga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Stseeni kaadrite valgustus on märkimisväärselt erinev: esimene kaader on väga pime ja alavalgustatud, samas kui teised kaadrid on heledamad ja paremini valgustatud.",
+        "Kaadrid näitavad erinevaid ruume kodus: köök/söögituba, trepihall ja esik/uks.",
+        "Igas kaadris on fookuses erinevad tegevused ja inimesed: vanem naine arvutiga, inimesed trepil liikumises ja naine ukseava juures."
+      ],
+      "snr": "002",
+      "ajad": [
+        "7.800",
+        "19.480"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub auto salongis, tõenäoliselt sõidu ajal vihmase ilmaga. Kaamera on paigutatud auto esiossa, jäädvustades juhi ja kaks kaasreisijat. Autos on kolm inimest: meessoost juht, naissoost kaassõitja eesistmel ja eakas naisterahvas tagaistmel. Auto interjöör on heledates toonides, valdavalt beeži ja hallika varjundiga. Akendest paistab udune, rohelise taimestikuga maastik, mis viitab sajusele ilmale. Kõik reisijad kannavad turvavöid. Meessoost juht kannab ruudulist (punast ja musta) jopet, sinist särki ja kamuflaažimustriga nokamütsi. Eesmine naissoost reisija kannab musta tepitud jopet ja värvilist salli. Eakas tagumine reisija on heledas jakis või kampsunis ning valges salliga.",
+      "actions": [
+        "Autoga sõitmine (kaudne)",
+        "Vestlemine (kaudne, kuna juht räägib teises kaadris)",
+        "Istumine",
+        "Vaatamine (eri suundades)",
+        "Turvavööde kandmine"
+      ],
+      "keywords": [
+        "Auto",
+        "Sõit",
+        "Reisijad",
+        "Juht",
+        "Naine",
+        "Vanaproua",
+        "Vestlus",
+        "Hääletamine",
+        "Valimised",
+        "Vihmane ilm",
+        "Siseruum",
+        "Sõiduk",
+        "Transport",
+        "Turvavöö"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Auto sisemus",
+        "Armatuurlaud",
+        "Tahavaatepeegel",
+        "Peatoed",
+        "Istmed",
+        "Turvavööd",
+        "Juhi müts (nokamüts, kamuflaažimustriga)",
+        "Juhi jope (ruuduline)",
+        "Juhi särk (sinine)",
+        "Eesmise reisija jope (must, tepitud)",
+        "Eesmise reisija sall (värviline)",
+        "Tagumise reisija jope/kampsun (valge/hele)",
+        "Tagumise reisija sall (valge)",
+        "Autoaknad",
+        "Vihm (aknal)",
+        "Rohelised puud (aknast nähtaval)",
+        "Maantee (aknast nähtaval)"
+      ],
+      "colorcodes": [
+        "#8B7156",
+        "#1E1E1E",
+        "#6A1C1C",
+        "#30589A",
+        "#F0F0F0",
+        "#4C7B4C",
+        "#6C7066",
+        "#C8C8C8"
+      ],
+      "texts": [
+        "No-no, first we have to go voting."
+      ],
+      "persons": [
+        "Meessoost autojuht",
+        "Naissoost kaasreisija ees",
+        "Eakas naissoost kaasreisija tagaistmel"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab juht otse ette ja eesmine reisija on suletud silmadega või vaatab alla. Subtiitrit ei ole.",
+        "Teisel pildil on juhi suu veidi avatud, justkui räägiks ta, ja eesmine reisija vaatab otse ette. Ekraanil on nähtav subtiiter: 'No-no, first we have to go voting.'",
+        "Kolmandal pildil vaatab juht veidi paremale (eesmise reisija poole) ja eesmine reisija vaatab juhi poole. Subtiitrit ei ole."
+      ],
+      "snr": "003",
+      "ajad": [
+        "19.480",
+        "33.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat naist auto tagaistmel, kes vaatab välja aknast. Väljaspool autot valitseb hall ja vihmane ilm; autoaknal on näha vihmapiisku ning esimene kaader paljastab uduselt palja puu. Naine, kellel on hallid, pisut sassis juuksed ja kortsuline nägu, on riietatud heledasse, ilmselt valgesse, jopesse või kraega riideesemesse. Tema pilk on suunatud aknast välja, väljendades alguses mõtlikkust või kerget üllatust. Stseeni keskel ilmub ekraanile tekst, mis annab konteksti naise üllatusele, kus ta lausub: \"Jesus, it's the 21st century already!\". Pärast seda teksti kaob ja naine naeratab laiemalt, nähes välja rõõmsam või lõbustatud. Auto sisemus on tume, pakkudes kontrasti heledale väliskeskkonnale ja naise heledatele riietele. Üldine atmosfäär on vaikne ja intiimne, keskendudes naise emotsioonidele ja reaktsioonile ümbritsevale maailmale.",
+      "actions": [
+        "Vaatab aknast välja",
+        "Räägib (dialoog ilmub tekstina)",
+        "Naeratab"
+      ],
+      "keywords": [
+        "Eakas naine",
+        "Auto",
+        "Vihm",
+        "Aken",
+        "Imestus",
+        "Naeratus",
+        "Dialoog",
+        "Aeg",
+        "Talvine ilm",
+        "Hall taevas"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Eakas naine",
+        "Autoaken",
+        "Vihmapiisad",
+        "Auto sisemus",
+        "Puu (udune)"
+      ],
+      "colorcodes": [
+        "#E0E0E0",
+        "#2C2C2C",
+        "#D2A888",
+        "#F8F8F8",
+        "#8B8B8B"
+      ],
+      "texts": [
+        "Jesus, it's the 21st century already!"
+      ],
+      "persons": [
+        "Eakas naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Teksti \"Jesus, it's the 21st century already!\" olemasolu ja puudumine erinevatel kaadritel.",
+        "Naise näoilme muutumine mõtisklevast/üllatunust naeratavaks ja lõbustatuks.",
+        "Väljaspool autoakent olevate detailide selguse ja nähtavuse varieeruvus (esimesel pildil on puu veidi selgemalt nähtav, teistel piltidel on taevas valgem ja udune)."
+      ],
+      "snr": "004",
+      "ajad": [
+        "33.280",
+        "36.600"
+      ]
+    },
+    {
+      "explanation": "Stseen algab halli ja pilvise ilmaga välitingimustes, kus asfalttee ääres voolab suur veekogu, tõenäoliselt meri või järv. Taevas on ühtlaselt hall ja tee on märg, mis viitab vihmasele või äsja vihma saanud ilmale. Tee ja veekogu vahel on roheline mururiba. Esimesel hetkel kihutab mööda valge, punaste triipude ja sümbolitega kiirabiauto, liikudes paremalt vasakule ja jättes endast maha liikumisest tingitud hägususe. Seejärel näeme samas kohas tumedat maastikuautot (SUV), mis sõidab vastassuunas ehk vasakult paremale. Samal ajal kõnnib tee ääres kõnniteel üks jalakäija, kes on riietatud heledasse pluusi ja türkiissinistesse pükstesse ning hoiab pea kohal eredat punast vihmavarju. Ka temal on kerge liikumise hägusus. Stseen lõpeb üleminekuga tekstiinfoga ekraanile, millel on hägune heleda taustaga sisu. Ekraanil kuvatakse eestikeelne sõnum e-teenuste kohta, rõhutades aja olulisust.",
+      "actions": [
+        "Kiirabiauto sõidab mööda",
+        "Maastikuauto sõidab mööda",
+        "Jalakäija kõnnib",
+        "Jalakäija hoiab vihmavarju"
+      ],
+      "keywords": [
+        "Vihmane ilm",
+        "Pilvine",
+        "Meri",
+        "Järv",
+        "Tee",
+        "Kiirabiauto",
+        "Maastikuauto",
+        "Jalakäija",
+        "Vihmavari",
+        "Eesti",
+        "E-teenused",
+        "Sõnum",
+        "Reklaam"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kiirabiauto",
+        "Maastikuauto",
+        "Punane vihmavari",
+        "Tee",
+        "Vesi (meri/järv)",
+        "Mururiba",
+        "Valgustuspost",
+        "Paljas puu",
+        "Ekraanitekst"
+      ],
+      "colorcodes": [
+        "#808080",
+        "#FFFFFF",
+        "#FF0000",
+        "#2F4F4F",
+        "#40E0D0",
+        "#006400"
+      ],
+      "texts": [
+        "Iga inimese aeg on tähtis.",
+        "Vali internetis!",
+        "Lisainfo:",
+        "www.id.ee"
+      ],
+      "persons": [
+        "Jalakäija"
+      ],
+      "imagetype": "real, textbackground",
+      "emptypercent": "not clear",
+      "season": "spring/autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader näitab kiirabiautot, teine kaader maastikuautot ja jalakäijat.",
+        "Sõidukid liiguvad eri suundades: kiirabiauto vasakule, maastikuauto paremale.",
+        "Kolmas kaader on täielikult erinev, kujutades tekstiinfo ekraani, mitte välisvaadet."
+      ],
+      "snr": "005",
+      "ajad": [
+        "36.600",
+        "52.240"
+      ]
+    },
+    {
+      "explanation": "Stseenil on helehall taust, mille keskel on tumesinise tekstiga sõnum. Tekst on jagatud kolmeks osaks: kõigepealt loosung, seejärel üleskutse ja lõpuks lisainfo koos veebiaadressiga. Tekst on selge ja loetav, fookus on kogu sõnumil. Ülemine rida on suurem ja paksus kirjas, järgmised read on veidi väiksemad ja tavalises kirjas, veebiaadress on alakriipsutatud.",
+      "actions": [],
+      "keywords": [
+        "reklaam",
+        "informatsioon",
+        "tekst",
+        "e-Eesti",
+        "valimine",
+        "internetis hääletamine",
+        "ID-kaart",
+        "avalik teenus"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#EAEAEA",
+        "#4A4A6B"
+      ],
+      "texts": [
+        "Iga inimese aeg on tähtis.",
+        "Vali internetis!",
+        "Lisainfo:",
+        "www.id.ee"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "006",
+      "ajad": [
+        "52.240",
+        "55.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab minimalistlikke lõputiitreid, kus valge tekst kuvatakse sügavmustal taustal. Tiitrites on välja toodud erinevate rollide täitjad, nagu toimetaja (Editor), heli (Sound) ja valguse (Lighting) eest vastutajad. Esinevad nimed on Valtteri Syvaniemi, Kristjan Neufeld, Mairi Sõelsepp ja Jaan Kristjan Utno. Stseeni alguses ja lõpus on ekraan täiesti must, vahepeal ilmuvad tiitrid, mis viitab nende kerimisele või sisse/välja hajumisele.",
+      "actions": [
+        "Teksti kuvamine",
+        "Nimede esitamine",
+        "Rollide kuvamine"
+      ],
+      "keywords": [
+        "Lõputiitrid",
+        "tiitrid",
+        "must taust",
+        "valge tekst",
+        "nimed",
+        "rollid",
+        "film",
+        "video",
+        "minimalistlik",
+        "kerimine"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Valtteri Syvaniemi",
+        "Kristjan Neufeld",
+        "Editor",
+        "Mairi Sõelsepp",
+        "Sound",
+        "Jaan Kristjan Utno",
+        "Lighting"
+      ],
+      "persons": [
+        "Valtteri Syvaniemi",
+        "Kristjan Neufeld",
+        "Mairi Sõelsepp",
+        "Jaan Kristjan Utno"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "üle 70%",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene ja kolmas pilt on täiesti mustad, samal ajal kui teisel pildil on mustal taustal valge tekst.",
+        "Teksti sisu ja paigutus on nähtav ainult teisel pildil."
+      ],
+      "snr": "007",
+      "ajad": [
+        "55.400",
+        "71.720"
+      ]
+    }
+  ]
+}

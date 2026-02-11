@@ -1,0 +1,2890 @@
+{
+  "film": [
+    "18534",
+    "18390",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Üle müüri",
+    "a7b79eb7a8ed2c1b39ae7fde9002091e8b499a03.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täieliku pimedusega, kus ekraan on üleni must. Seejärel ilmub mustale taustale aeglaselt või sujuvalt valge tekst \"Katrin Saukas\", asetudes kaadri keskele. Visuaalselt on tegemist äärmiselt minimalistliku ja lihtsa esitlusega, kus fookus on ainult nimel mustal taustal, viidates tõenäoliselt loojanime või muu tiitli esitlusele filmi või video kontekstis. Kontrast musta tausta ja valge teksti vahel on selge, pakkudes puhtalt loetavat informatsiooni.",
+      "actions": [
+        "Teksti ilmumine ekraanile"
+      ],
+      "keywords": [
+        "Tiitrid",
+        "must taust",
+        "valge tekst",
+        "nimi",
+        "minimalistlik",
+        "eetris",
+        "Katrin Saukas"
+      ],
+      "shot_type": "textbackground",
+      "placement": "not clear",
+      "objects": [
+        "Digitaalne tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Katrin Saukas"
+      ],
+      "persons": [
+        "Katrin Saukas"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "99",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses kaadris on ekraan täielikult must, ilma igasuguse sisuta. Teises kaadris on musta tausta keskel valge tekst \"Katrin Saukas\"."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "32.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laiaulatuslikku metsavaadet jaheda ja pilvise ilmaga, jättes maha kõleda ja mõtliku meeleolu. Esiplaanil on näha kuivanud, pruunikashalli värvi rohtu ja hõredat alustaimestikku, mis viitab hilissügisele või varatalvele. Keskmisel plaanil domineerib tihe lehtmets, mille puud on raagus ja tumedates toonides, valdavalt pruunikas-mustades varjundites, sekka üksikuid heledama koorega puid (arvatavasti kased). Taamal kõrgub tumeroheline okasmets, mis moodustab horisondi. Taevas on ühtlaselt hallikasroheline ja pilvine, pakkudes vaid minimaalset valgust ning puuduvad igasugused selged varjud, mis rõhutab sünget atmosfääri. Kogu maastik on vaikne ja inimtühi.",
+      "actions": [],
+      "keywords": [
+        "mets",
+        "maastik",
+        "sügis",
+        "talv",
+        "kõle",
+        "loodus",
+        "puud",
+        "okasmets",
+        "lehtmets",
+        "raagus",
+        "pilvine",
+        "hall",
+        "roheline",
+        "pruun",
+        "üksildus",
+        "vaikus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "puud",
+        "okasmets",
+        "lehtmets",
+        "raagus puud",
+        "kuivanud rohi",
+        "taevas",
+        "pilved"
+      ],
+      "colorcodes": [
+        "#AAB9B6",
+        "#1F282C",
+        "#5D5C4B"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 28,
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Pildid on identsed."
+      ],
+      "snr": "002",
+      "ajad": [
+        "32.880",
+        "40.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist meest, kes kõnnib üksinda metsaäärses lagedas, looduslikus maastikus, tõenäoliselt hilissügisel või varasel õhtul. Taevas on pilvine, mis annab stseenile jahedalt summutatud valguse. Maapind on kaetud kuivanud rohu, sambla ja arvukate väikeste noorte männipuudega, taustal on tihedam ja kõrgem mets. Mees on riietatud tumedasse nahktagi ja tumedasse kõrge kaelusega kampsunisse ning kannab kindaid, mis viitab jahedale ilmale. Tema esimene pilk on suunatud veidi küljele, tema sassis juuksed ja mõtlik ilme annavad aimu süvenemisest. Seejärel pöörab ta ennast vaatajast eemale ja kõnnib sügavamale avarasse, kohati kõledasse keskkonda, kandes vasakus käes väikest, heledat, kerajat eset, mis meenutab golfipalli. Üldine meeleolu on üksildane, mõtisklev ja ehk isegi veidi melanhoolne vaikses looduslikus miljöös.",
+      "actions": [
+        "Kõndimine",
+        "Vaatamine",
+        "Millegi kandmine"
+      ],
+      "keywords": [
+        "Mets",
+        "Metsaserv",
+        "Männik",
+        "Külm",
+        "Pilvine",
+        "Hämar",
+        "Üksildus",
+        "Maakoht",
+        "Mõtisklus",
+        "Loodus",
+        "Matk",
+        "Sügis"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Pusapluus",
+        "Nahktagi",
+        "Kindad",
+        "Väike helendav ese (golfipall)",
+        "Põõsad",
+        "Noored männid",
+        "Kuivanud rohi",
+        "Sammal",
+        "Mets",
+        "Puud",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#3B332D",
+        "#505A5D",
+        "#2B4E38",
+        "#5D613D",
+        "#99A9B4",
+        "#B7E2EB"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Kaadri suurus muutub: stseen algab mehe lähivaatega, seejärel liigub kaamera kaugemale, näidates meest tervikuna ja lõpuks laias plaanis maastiku taustal.",
+        "Mehe asend muutub: esimeses pildis on mehe nägu suunatud kaadrist paremale, hiljem on ta seljaga kaamera poole ja kõnnib eemale.",
+        "Eseme nähtavus: esimeses pildis pole ese mehe käes selgelt nähtav, kuid järgmistes piltides on see (golfipall) selgelt tema vasakus käes."
+      ],
+      "snr": "003",
+      "ajad": [
+        "40.080",
+        "71.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tihedat ja sügavalt varjulist metsa, kus valitsevad tumerohelised toonid segunevad pruunikate alusmetsataimestikuga, mis viitab kas sügisele või varjurohkele keskkonnale. Algselt on pildi paremas servas näha üksik inimfiguur, kes on riietatud heledasse, võimalik et kamuflaažmustriga rõivastusse ja liigub või seisab osaliselt varjatuna puude ning tiheda lehestiku vahel. Valgus on stseenis hämar, luues salapärase ja varjatud atmosfääri. Järk-järgult hajub inimfiguur sügavatesse varjudesse, kuna stseen muutub üha tumedamaks ja detailid kaovad peaaegu täielikult mustusse. Puude varjud ja tihedalt paiknevad oksad domineerivad pildil, neelates endasse kogu nähtavuse ja jättes alles vaid aimdused sügavrohelisest taimestikust paremal pool. Lõpuks on kaader peaaegu täielikult sügavmust, rõhutades pimeduse ja kadumise teemat.",
+      "actions": [
+        "Inimfiguuri ilmumine ja liikumine",
+        "Pildi tumenemine",
+        "Nähtavuse kadumine",
+        "Kadumine varjudesse"
+      ],
+      "keywords": [
+        "Mets",
+        "Tihe mets",
+        "Hämarus",
+        "Varjud",
+        "Salapärane",
+        "Pimedus",
+        "Varjamine",
+        "Kadumine",
+        "Loodus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Lehestik",
+        "Oksad",
+        "Põõsad",
+        "Sõnajalad",
+        "Metsaalune taimestik",
+        "Inimene"
+      ],
+      "colorcodes": [
+        "#0F1A13",
+        "#22352C",
+        "#573E2F",
+        "#7E5F4B",
+        "#8A8B88",
+        "#050604"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "90",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Inimfiguur kaob pildilt varjudesse.",
+        "Stseen muutub järk-järgult märgatavalt tumedamaks ja detailid hajuvad varjudesse.",
+        "Kaader läheb peaaegu täiesti mustaks, fookus nihkub tihedale metsale ja sügavatele varjudele, kaotades suurema osa nähtavatest elementidest."
+      ],
+      "snr": "004",
+      "ajad": [
+        "71.440",
+        "83.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest sügiseses või varakevadises metsas, kus maapinda katavad tihedalt kuivanud pruunid sõnajalad. Taustal kõrgub tihe, valdavalt tumeroheline mets, mille seas on näha ka mõningaid heledama koorega puid, meenutades kaski. Valgus on hämar, mis annab stseenile salapärase ja veidi melanhoolse tooni. Esiplaanil on näha inimest seljaga kaamera poole, kes on riietatud tumedasse jakki, pikka tumedasse seelikusse ja kindadesse. Ta on sammumas sügavamale metsa poole, kus temast kaugemal, madalamal positsioonil on teine inimene. See teine isik on samuti seljaga kaamera poole, kükitavas või põlvitavas asendis sõnajalgade vahel ja kannab tumedat jakki ning tumedaid pükse. Üldpilt on rahulik, kuid samas järelemõtlik, keskendudes inimeste teekonnale ja tegevusele looduses.",
+      "actions": [
+        "Jalutamine",
+        "Kükitamine",
+        "Põlvitamine"
+      ],
+      "keywords": [
+        "Mets",
+        "Sügis",
+        "Sõnajalad",
+        "Hämarus",
+        "Loodus",
+        "Matkamine",
+        "Varjud",
+        "Rahulik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Mets",
+        "Puud",
+        "Sõnajalad",
+        "Jakk",
+        "Seelik",
+        "Püksid",
+        "Kindad"
+      ],
+      "colorcodes": [
+        "#2E3E33",
+        "#6A442E",
+        "#3C3E41",
+        "#54534B",
+        "#8B7A5D"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "not clear",
+      "differences": [
+        "Esiplaanil oleva inimese kehaasendis ja vasaku käe asendis on märgatav väga väike muutus piltide vahel, mis annab edasi liikumise ja järgmise sammu astumise efekti."
+      ],
+      "snr": "005",
+      "ajad": [
+        "83.880",
+        "85.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest sügiseses metsas, kus maapinda katavad tihedalt kuivanud punakaspruunid sõnajalad. Taustal kõrgub tihe tumeroheline okaspuumets, mille sekka on pikitud heledakoorelisi lehtpuid vasakul. Esiplaanil, seljaga vaataja poole, on pikakasvuline inimene tumedas jopes, pikas tumedas seelikus ja tumedate saabastega. Tema heledad juuksed on seljast näha. Ta liigub või seisab sõnajalgade vahel, vaadates eespool olevat teist inimest. Teine inimene on stseeni keskel, kükitavas või põlvitavas asendis, samuti seljaga vaataja poole, kandes halli või sinist jopet ja tumedaid pükse. Ta on süvenenud millegisse maapinnal või on emotsionaalselt raskes seisundis. Stseen on üldiselt hämar, mis annab edasi süngust, vaikust ja salapära. Valgus viitab hilisõhtusele ajale või varahommikule, luues melanhoolse meeleolu.",
+      "actions": [
+        "Kõndimine",
+        "Seismine",
+        "Kükitamine",
+        "Põlvitamine",
+        "Vaatamine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Mets",
+        "Sügis",
+        "Sõnajalad",
+        "Hämarus",
+        "Vaikus",
+        "Salapära",
+        "Melanhoolia",
+        "Üksindus",
+        "Kohtumine",
+        "Kurbus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Okaspuud",
+        "Lehtpuud",
+        "Sõnajalad (kuivanud)",
+        "Jakk (tume)",
+        "Jakk (hall/sinine)",
+        "Seelik (pikk, tume)",
+        "Saapad (tumedad)",
+        "Püksid (tumedad)"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#2F4F4F",
+        "#464B54",
+        "#A9A9A9",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Esiplaanil oleva isiku vasak jalg ja seeliku alaosa on erinevate kaadrite vahel minimaalselt muutunud, viitades liikumisele."
+      ],
+      "snr": "006",
+      "ajad": [
+        "85.080",
+        "86.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest tihedas, pimedas metsas või võsastikus, mis on kaetud pruunika sõnajalataolise alusmetsaga. Metsas on nii heledama koorega lehtpuid kui ka tumerohelisi okaspuid. Valgus on hämar, mis viitab kas videvikule või pilvisele päevale sügavas metsas. Üks inimene seisab pildi vasakul poolel, seljaga vaataja poole, kandes tumedat jakki ja pikka tumedat seelikut. Teine inimene on temast paremal, kükitavas või põlvitavas asendis, samuti seljaga vaataja poole, kandes tumedaid riideid. Üldine meeleolu on vaikne ja veidi salapärane, mis võib viidata mingisugusele otsimisele või uurimisele.",
+      "actions": [
+        "Seisab",
+        "Kükitab",
+        "Uurib"
+      ],
+      "keywords": [
+        "Mets",
+        "Sügis",
+        "Hämarik",
+        "Inimesed",
+        "Pruun sõnajalg",
+        "Roheline puu",
+        "Võsastik",
+        "Salapärane",
+        "Maastik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Sõnajalad",
+        "Alusmets",
+        "Jakk",
+        "Seelik",
+        "Püksid"
+      ],
+      "colorcodes": [
+        "#A3703C",
+        "#4F5C3A",
+        "#6A6B6C",
+        "#B3B1A8",
+        "#303C37"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "80",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Pildid on praktiliselt identsed kaadrid ja visuaalselt märgatavaid erinevusi nende vahel ei ole."
+      ],
+      "snr": "007",
+      "ajad": [
+        "86.280",
+        "87.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest tihedas metsas, kus maapind on kaetud laialdaselt punakaspruunide kuivanud sõnajalgade kihiga. Taustal kõrgub tume okasmets, mille seas on vasakul näha ka mõningaid heledama koorega lehtpuid, näiteks kaski. Üks inimene on kükitavas asendis, samal ajal kui teine inimene, alguses tema läheduses seisev, liigub ja embab teda lohutavalt. Mõlemad isikud on riietatud tumedatesse, ilmselt soojadesse jakkidesse ja pükstesse. Valgus on hämar ja summutatud, andes stseenile vaikse, mõtliku ja potentsiaalselt emotsionaalse alatooni. See on hetk inimlikust lähedusest ja toetusest keset loodust, rõhutades emotsionaalset sidet ja lohutust.",
+      "actions": [
+        "kõndima/liikuma",
+        "kükitama",
+        "kallistama",
+        "lohutama"
+      ],
+      "keywords": [
+        "mets",
+        "sõnajalad",
+        "inimesed",
+        "kallistus",
+        "lohutamine",
+        "emotsioonid",
+        "sügis",
+        "vaikne",
+        "toetus",
+        "intiimne"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "puud",
+        "sõnajalad",
+        "metsamaa",
+        "jakid",
+        "püksid"
+      ],
+      "colorcodes": [
+        "#7C4C25",
+        "#334A33",
+        "#636D7F",
+        "#C0C8CC",
+        "#8E5A35"
+      ],
+      "texts": [],
+      "persons": [
+        "kaks inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil seisab üks inimene teise, kükitava inimese lähedal, peaaegu seljaga vaatleja poole. Teisel pildil on seisev inimene liikunud kükitajale lähemale ja embab teda tihedalt lohutavas poosis. Kolmas pilt on sisuliselt identne teise pildiga, näidates sama kallistuse hetke väikeste, peaaegu märkamatute erinevustega kehahoiakus, mis viitab teise pildi otsesele jätkule või samale hetkele teisest nurgast."
+      ],
+      "snr": "008",
+      "ajad": [
+        "87.480",
+        "91.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, kes embavad tihedas ja pimedas metsas. Nad on paigutatud kaadri keskossa, kergelt vasakule, ja näivad kükitavat või põlvitavat pruunide sõnajalalehtede vahel, hoides teineteisest kinni. Maapind ja esiplaan on kaetud paksu kihiga kuivanud, roostepruunide sõnajalalehtedega. Tagaplaanil domineerivad kõrged, tumerohelised okaspuud, luues süngelt suletud atmosfääri. Valgus on hajutatud ja tuhm, vihjates pilves päevale või hämarusele, ning annab stseenile jaheda ja summutatud tooni. Üldmulje on intiimne, lohutust pakkuv või isegi lootusetu, eraldatud looduskeskkonnas.",
+      "actions": [
+        "Kallistamine",
+        "Kogunemine",
+        "Põlvitamine/kükitamine"
+      ],
+      "keywords": [
+        "Mets",
+        "Kallistus",
+        "Lähedus",
+        "Sombune",
+        "Sügis",
+        "Sõnajalad",
+        "Rohelus",
+        "Vaikus",
+        "Loodus",
+        "Intiimsus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Inimesed",
+        "Puud",
+        "Sõnajalalehed",
+        "Joped"
+      ],
+      "colorcodes": [
+        "#5e3312",
+        "#1f3a2a",
+        "#718485",
+        "#4c4e51"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "85",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [],
+      "snr": "009",
+      "ajad": [
+        "91.080",
+        "93.280"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha isik, kes kannab tumedaid nahkkindade paari ja pruunika tooniga nahkjope varrukat. Isik hoiab kokkuvõetud peopesades heledat, peaaegu helendavat, okkalist ja sfäärilist objekti. Objekt on hele-rohekas või piparmündiroheline ning kaetud lühikeste, tihedalt paiknevate okastega, mis annavad sellele tekstuuri. Vasakul käel on näha pruunika tooni jope varrukas, mis on valmistatud nahast või sarnasest materjalist, samas kui mõlemad käed on kaetud mustade nahkkinnastega. Taust on tume ja hägune, paremas alanurgas on näha kuivanud lehti või sõnajalgu, mis viitavad õues olevale keskkonnale, näiteks metsale või tihedale taimestikule. Valgus on üldiselt hämar, kuid objektile ja kinnastele langeb piisavalt valgust, et nende detailid esile tõuseksid. Stseen tekitab salapärase ja ettevaatliku meeleolu, justkui hoitaks kätel midagi olulist või potentsiaalselt ohtlikku.",
+      "actions": [
+        "Objekti hoidmine",
+        "Objekti vaatlemine"
+      ],
+      "keywords": [
+        "kindad",
+        "nahk",
+        "okkaline pall",
+        "salapärane",
+        "roheline",
+        "tume",
+        "käed",
+        "objekt",
+        "mets",
+        "hämardus",
+        "ettevaatlik"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "nahkkindad",
+        "okkaline pall/objekt",
+        "pruun nahkjope varrukas",
+        "kuivanud lehed/sõnajalad"
+      ],
+      "colorcodes": [
+        "#b7ebd8",
+        "#262626",
+        "#6e4e2f",
+        "#1a1a1a",
+        "#513e2f"
+      ],
+      "texts": [],
+      "persons": [
+        "isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "autumn",
+      "daytime": "not clear",
+      "differences": [
+        "Pildid on peaaegu identsed, kuid esineb väga minimaalne objekti asendi või kaamera nurga nihe, mis põhjustab okastele langeva valguse peegelduse ja varjude paigutuse väikseid variatsioone. See muudatus on visuaalselt peaaegu märkamatu."
+      ],
+      "snr": "010",
+      "ajad": [
+        "93.280",
+        "100.240"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kaks vanemat inimest, mees ja naine, kes asuvad metsas või tiheda taimestikuga alal. Maa on kaetud kuivanud, pruunikate ja rohekate sõnajalgade ning lehtedega, mis viitab hilissügisele või varatalvele. Mõlemad kannavad tumedaid, arvatavasti nahast või paksu materjalist, talvejopesid ja musti kindaid. Mehel on sasitud hallid juuksed, mis meenutavad karvast mütsi, ja ta paistab olevat sügavalt murelik, kurb või füüsiliselt häiritud, hoides pead langetatud. Naine, kellel on pikad hallid juuksed, toetab ja lohutab meest. Ta on mehe ümbert kinni võtnud, tema käed on mehe õlal ja rinnal, ning ta vaatab meest kaastundliku ja mureliku pilguga. Üldine atmosfäär on intiimne, emotsionaalne ja toetav, kus naine pakub mehele lohutust tema emotsionaalse valu hetkel.",
+      "actions": [
+        "Mehe lohutamine",
+        "Kallistamine",
+        "Murelik pilk",
+        "Kurbus/mure väljendamine"
+      ],
+      "keywords": [
+        "Lohutus",
+        "Kaastunne",
+        "Vanadus",
+        "Metsas",
+        "Emotsioon",
+        "Toetus",
+        "Talv",
+        "Sügis",
+        "Tumepruun",
+        "Hall"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mantel",
+        "Kindad",
+        "Kuivanud sõnajalad",
+        "Metsamaastik"
+      ],
+      "colorcodes": [
+        "#444a3b",
+        "#322f2e",
+        "#282a2b",
+        "#7a7a7a",
+        "#918d87",
+        "#b59f91"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on naine kummardunud mehe poole ja tema parem käsi on mehe seljal. Mehe pea on veidi vähem langetatud.",
+        "Teisel pildil on naine tõstnud oma pea kõrgemale, vaadates otse mehe nägu, tema ilme on murelikum. Mehe näoilme tundub intensiivsemalt kurb.",
+        "Kolmandal pildil on naine kummardunud sügavamale mehe poole, tema parem käsi on liikunud ümber mehe rindkerele, pakkudes tugevamat kallistust. Mehe pea on langetatud veelgi madalamale, rõhutades tema sügavat kurbust. Naine vaatab nüüd alla mehe peale, ilme täis kaastunnet ja hoolt."
+      ],
+      "snr": "011",
+      "ajad": [
+        "100.240",
+        "109.440"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub tihedas, pimedas metsas, kus maapinda katab paks kiht kuivanud, pruunikaid sõnajalgu, mille vahel on siin-seal näha ka rohelist sammalt. Üleüldine valgus on hämar, viidates kas hilisele õhtule, varasele hommikule või tihedale pilvisusele, mis annab stseenile melanhoolse või tõsise meeleolu. Kaks isikut asuvad keset metsa. Üks neist, tõenäoliselt mees, on põlvili maas, seljaga vaataja poole, kandes tumedat nahkjakki heledama halli riideeseme peal ja tumedaid pükse. Tema asend viitab murele, mõtisklusele või isegi alistumisele. Teine isik, tõenäoliselt naine, seisab tema kõrval, kandes tumedat, võimalik et nahast jakki laia kraega, pikka tumedat plisseeritud seelikut ja tumedaid kindaid. Stseeni alguses on naine pannud oma käe põlvitava isiku õlale, pakkudes talle tuge ja lohutust. Järgmistes hetkedes võtab ta käe õlalt ära, sirutab end täiesti püstiasendisse ja seejärel sirutab oma käe ettepoole põlvitava isiku poole, öeldes samal ajal sõna „Come.” (Tule). Tema kohalolek ja tegevus annavad mõista suunamisest või edasiminekule julgustamisest, muutes stseeni sügavalt emotsionaalseks hetkeks looduses.",
+      "actions": [
+        "Üks isik põlvitab maapinnal.",
+        "Teine isik toetab põlvitajat käega õlal.",
+        "Toetav käsi eemaldatakse õlalt.",
+        "Seisev isik sirutab oma käe põlvitaja poole.",
+        "Seisev isik ütleb „Come.” (Tule)."
+      ],
+      "keywords": [
+        "Mets",
+        "Sügis",
+        "Hämarus",
+        "Pruunid sõnajalad",
+        "Kaks inimest",
+        "Toetus",
+        "Emotsionaalne",
+        "Nahkjakk",
+        "Kõnnak",
+        "Loodus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Sõnajalad",
+        "Sammal",
+        "Nahkjakid",
+        "Seelik",
+        "Kindad"
+      ],
+      "colorcodes": [
+        "#2d2e31",
+        "#6b3e2a",
+        "#1a361e",
+        "#3e502c",
+        "#8b8e8f",
+        "#4e2e1f",
+        "#2c4a2a",
+        "#3c3c3e"
+      ],
+      "texts": [
+        "Come."
+      ],
+      "persons": [
+        "Esimene isik (põlvitav, tõenäoliselt mees, tumeda nahkjaki ja pükstega)",
+        "Teine isik (seisev, tõenäoliselt naine, tumeda nahkjaki, pika seeliku ja kinnastega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on seisev isik hoidmas põlvitavat isikut käega õlal, pakkudes talle tuge.",
+        "Teisel pildil on seisev isik oma käe õlalt ära võtnud ja seisab täiesti püstises asendis, põlvitav isik on endiselt samas asendis.",
+        "Kolmandal pildil ulatab seisev isik käe põlvitaja poole ja ekraanile ilmub tekst „Come.”."
+      ],
+      "snr": "012",
+      "ajad": [
+        "109.440",
+        "113.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest sügiseses või varakevadises metsas hämariku ajal. Pildil domineerivad tumerohelised puud taustal ja pruunikas-punakad, närbunud sõnajalad, mis katavad kogu metsapõranda. Üks inimene, kes paistab olevat naine, seisab seljaga vaataja poole, kandes tumedat jopet ja pikka tumepruuni või musta seelikut. Tema vasak käsi on kergelt välja sirutatud või suunatud teise inimese poole, kes põlvitab maas. Teine inimene, kes paistab olevat mees, põlvitab või kükitab maas, samuti seljaga vaataja poole, kandes tumedat jopet ja tumedaid pükse. Üldine õhkkond on sünge ja tõsine, valgus on summutatud ja loob salapärase meeleolu. Maapinnal on näha ka mõningaid tumedaid lehti ja oksi. Stseenis on näha subtiiter 'Come.'.",
+      "actions": [
+        "Seisev isik seisab",
+        "Seisev isik sirutab kätt põlvitava isiku poole",
+        "Põlvitav isik on maas põlvili või kükakil",
+        "Inimesed on metsas"
+      ],
+      "keywords": [
+        "Mets",
+        "Sügis",
+        "Hämarik",
+        "Tumedad toonid",
+        "Kaks inimest",
+        "Sõnajalad",
+        "Sünge",
+        "Müstiline",
+        "Põlvili",
+        "Jahtunud loodus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Sõnajalad",
+        "Metsapõrand",
+        "Tumeda värvi jope",
+        "Pikk seelik",
+        "Püksid",
+        "Kinnas"
+      ],
+      "colorcodes": [
+        "#0F2913",
+        "#1E3D23",
+        "#664230",
+        "#7A513E",
+        "#3C3C3C",
+        "#1F1F1F",
+        "#4B3726"
+      ],
+      "texts": [
+        "Come."
+      ],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Pildid on peaaegu identsed, kujutades sama stseeni minimaalsete, vaevu märgatavate erinevustega, mis viitavad videokaadritele. Visuaalne sisu ja inimeste asendid on kõigil kolmel pildil samad. Subtiiter 'Come.' on kõikidel piltidel nähtav ja paigutatud samale positsioonile."
+      ],
+      "snr": "013",
+      "ajad": [
+        "113.040",
+        "114.240"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset tihedas metsas, kus domineerivad tumerohelised okaspuud ja heledad kased, mis raamivad vaatevälja. Maapind on kaetud paksu, pruunide sõnajalgade kihiga, mille vahel kumab üksikuid rohelise sambla laike. Valgus on hämar ja sumbunud, andes stseenile sügisehõngulise ja pisut melanhoolse meeleolu. Kaadrisse siseneb kaks inimest, nähtuna selja tagant. Üks, pikemat kasvu ja kandes tumedat jakki ning pikka tumepruuni seelikut, seisab paigal. Temast paremal, lühem ja tumedas jakis ning tumedates pükstes isik, on esialgu põlvili või küürutab maas tema kõrval, tegeledes millegagi, mis jääb varjatuks. Seejärel tõuseb lühem isik püsti ja toetab pikemat, haarates tal käsivarrest, ning nad hakkavad koos sügavamale metsa poole kõndima, liikudes aeglaselt läbi sõnajalgade. Lõpuks lahkuvad mõlemad kaadrist, jättes maha tühja metsamaastiku, mis on täis pruune sõnajalgu ja rohelisi puid.",
+      "actions": [
+        "Küürutamine maas",
+        "Põlvitamine",
+        "Püsti tõusmine",
+        "Käsivarrest kinni hoidmine",
+        "Metsas kõndimine",
+        "Kadumine kaadrist"
+      ],
+      "keywords": [
+        "Mets",
+        "Sõnajalad",
+        "Sügis",
+        "Videvik",
+        "Hämarus",
+        "Teekond",
+        "Toetus",
+        "Kased",
+        "Okaspuud",
+        "Sammal"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Kased",
+        "Okaspuud",
+        "Sõnajalad",
+        "Sammal",
+        "Pruun lehestik",
+        "Tume jakk",
+        "Pikk seelik",
+        "Tumepruun seelik",
+        "Tumepruunid püksid"
+      ],
+      "colorcodes": [
+        "#26402E",
+        "#6E3C2C",
+        "#D5D4D5",
+        "#343434",
+        "#4A623F"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil küürutab üks inimene teise kõrval maas, samas kui teisel pildil kõnnivad mõlemad koos.",
+        "Esimesel ja teisel pildil on kaadris kaks inimest, kuid kolmandal pildil on kaader inimestest tühi, näidates nende lahkumist.",
+        "Inimeste positsioonid ja tegevused muutuvad stseeni jooksul, viidates liikumisele läbi metsa."
+      ],
+      "snr": "015",
+      "ajad": [
+        "116.640",
+        "125.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivõttes männioksa või okaspuu oksa, mis on tihedalt kaetud lugematute pisikeste läbipaistvate veepiiskadega. Piisad ripuvad okaste küljes ja okste all, peegeldades ümbritsevat valgust ning andes neile sädeleva ja elava välimuse. Okkad on tumerohelised, pikad ja peened, moodustades tiheda ja tekstuurse pinna. Oks jookseb kaadri alumisest vasakust nurgast paremale üles, täites suure osa fookuses olevast alast. Taust on udune ja tume, viitades metsale või tihedale taimestikule, mis asub kaugemal sügavamas varjus. Üldine toon on jahe ja summutatud, luues värske, rahuliku ja mõtiskleva atmosfääri, mis viitab hiljutisele vihmale või jahedale, niiskele hommikule.",
+      "actions": [
+        "Vihmajärgne puhkus",
+        "Veepiiskade rippumine okastel"
+      ],
+      "keywords": [
+        "Vihm",
+        "Piisad",
+        "Okkad",
+        "Mänd",
+        "Mets",
+        "Loodus",
+        "Värske",
+        "Roheline",
+        "Jahe",
+        "Niiske",
+        "Serene",
+        "Rahulik"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Männioks",
+        "Okkad",
+        "Veepiisad",
+        "Taimestik (taustal)"
+      ],
+      "colorcodes": [
+        "#2f4f4f",
+        "#51665a",
+        "#202123",
+        "#a7b5b2"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on väga minimaalsed nihked, mis on peaaegu märkamatud. Need hõlmavad üliväikeseid muutusi valguse peegelduses üksikutel veepiiskadel või peent mikroliikumist oksa asendis, mis ei muuda stseeni üldist kompositsiooni ega sisu."
+      ],
+      "snr": "016",
+      "ajad": [
+        "125.840",
+        "129.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, naist ja meest, kes seisavad avaral, metsaga ümbritsetud alal. Esiplaanil ja keskel laiub kuivanud, pruunikas-roheline põõsastik, mis katab maapinna. Paremas esiplaanis, udusena, on näha noore männi okstikku, mis toimib raamina. Tagaplaanil on tihe mets, kus domineerivad tumerohelised okaspuud (männid ja kuused) ning nende vahel on näha ka mõningaid raagus lehtpuid (tõenäoliselt kased), mis viitab jahedale aastaajale. Valgus on hajutatud ja pehme, mis annab stseenile kergelt melanhoolse või mõtliku meeleolu. Naine, heledate juustega, kannab tumedat vöötatud jopet ja tumedaid kindaid, vaadates kergelt üles ja vasakule (oma vaatepunktist). Mees, kes on naisest paremal, kannab samuti tumedat jopet ja kindaid ning vaatab sarnaselt naisega samasse üldisesse suunda. Mõlemad tunduvad jälgivat midagi kaadrist väljaspool. Üldine värvipalett on summutatud ja jahedates toonides – roheline, pruun, hall ja tumepruun/must.",
+      "actions": [
+        "Kaks inimest seisavad põõsastikus",
+        "Naine ja mees vaatavad kaadrist välja"
+      ],
+      "keywords": [
+        "Mets",
+        "Loodus",
+        "Inimesed",
+        "Sügis",
+        "Jahe",
+        "Mõtlik",
+        "Põõsastik",
+        "Okaspuud",
+        "Raagus puud",
+        "Väli"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Mees",
+        "Põõsastik",
+        "Okaspuud",
+        "Lehtpuud",
+        "Noor mänd"
+      ],
+      "colorcodes": [
+        "#22352B",
+        "#605139",
+        "#292929",
+        "#557E4E",
+        "#889392"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Naise pea ja pilgu suund muutub kergelt piltide vahel, näidates minimaalset liikumist või pilgu nihutamist.",
+        "Mehe asend jääb kõigis piltides muutumatuks."
+      ],
+      "snr": "017",
+      "ajad": [
+        "129.920",
+        "136.200"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealist meest metsas, tõenäoliselt sügisel või varakevadel, arvestades puude lehetust ja üldist jahedat atmosfääri. Mehel on seljas tumepruun nahktagi ja hall kootud kampsun. Tema juuksed on heledad, sassis ja turris, mis annab talle veidi räsitud või mureliku ilme. Mehe näoilme on üldiselt pinges ja murelik, suu veidi avatud, nagu ta oleks just midagi öelnud või sügavalt mõtiskleks. Tema pilk on suunatud eri suundades – vahel paremale, vahel vasakule ja vahel alla. Tagaplaanil on näha tihe metsamaastik, kus domineerivad paljad lehtpuud ja tumerohelised okaspuud, luues sombuse ja isoleeritud meeleolu. Üldine värvigamma on jahe ja tume, rõhutades stseeni tõsidust ja tegelase meeleolu.",
+      "actions": [
+        "Vaatab ringi",
+        "Mõtiskleb",
+        "Langetab pilku",
+        "On mureliku näoilmega"
+      ],
+      "keywords": [
+        "Mets",
+        "Mees",
+        "Murelik",
+        "Jahe",
+        "Nahktagi",
+        "Sügis",
+        "Varatalv",
+        "Kõle",
+        "Räsitud",
+        "Pinges",
+        "Isoleeritud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Puud",
+        "Oksad",
+        "Nahktagi",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#3A2B20",
+        "#8B8D8D",
+        "#C6B38E",
+        "#334A3F",
+        "#4F5E59",
+        "#879791"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab mees veidi paremale, nägu on selge ja murelik.",
+        "Teisel pildil vaatab mees veidi vasakule, näoilme on sarnane, kuid pea on pisut teises asendis.",
+        "Kolmandal pildil vaatab mees alla ja paremale, pea on liikumises, mis põhjustab näo kerge udususe ja juuksed on veelgi sassis."
+      ],
+      "snr": "018",
+      "ajad": [
+        "136.200",
+        "140.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja sombuserannikut, kus metsalagendik on kaetud tiheda, madala, peamiselt tumepruuni ja punakaspruuni alusmetsaga, mis meenutab kanarbikku või madalaid põõsaid. Mõnel pool on näha ka heledamaid rohelisi tütte. Tagaplaanil ja keskel laiub mets, mis koosneb peamiselt tumerohelistest okaspuudest, mille vahel on siin-seal ka paljaste okstega lehtpuid, viidates hilisele sügisele või varakevadele. Valgus on summutatud ja hajus, mis loob üldiselt melanhoolse ja salapärase meeleolu. Stseeni alguses on näha kahte inimest – naist ja meest – kõndimas läbi selle tiheda alusmetsa. Naine kannab tumedat jopet ja kindaid, mees samuti tumedat jopet. Nad liiguvad läbi keerulise maastiku. Hiljem kaob mees vaateväljast ja naine jätkab liikumist, olles osaliselt esiplaanil oleva taimestiku taha varjunud ning näib vaatavat paremale kaadrist välja. Lõpuks näitab stseen inimtühja maastikku, kus inimesi enam näha pole, mis annab mõista, et nad on kas kaadrist välja liikunud või on tegemist võttega enne nende saabumist. Esiplaanil paremal on kogu stseeni vältel näha eredat rohelist männioksa, mis lisab valdavalt tumedatele ja maatoonidele elavama värviaktsendi.",
+      "actions": [
+        "Kõndimine",
+        "Liikumine läbi metsaaluse taimestiku"
+      ],
+      "keywords": [
+        "Mets",
+        "Alusmets",
+        "Kanarbik",
+        "Hämar",
+        "Sombune",
+        "Salapärane",
+        "Sügis",
+        "Varakevad",
+        "Talv",
+        "Jalutamine",
+        "Loodus",
+        "Põõsad"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Okaspuud",
+        "Lehtpuud",
+        "Põõsad",
+        "Taimestik",
+        "Männioks",
+        "Naine",
+        "Mees",
+        "Jope",
+        "Kindad"
+      ],
+      "colorcodes": [
+        "#2f3e30",
+        "#4a3e36",
+        "#9e9d9b",
+        "#567253",
+        "#2c2e30",
+        "#7e7e7e"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Pildil 1 on näha kaks inimest, naine ja mees, kes kõnnivad läbi tiheda alusmetsa.",
+        "Pildil 2 on mees kaadrist kadunud ja naine on liikunud paremale, olles osaliselt esiplaanil oleva männioksa ja taimestiku taha varjunud.",
+        "Pildil 3 pole kaadris enam ühtegi inimest näha, kujutades ainult maastikku."
+      ],
+      "snr": "019",
+      "ajad": [
+        "140.800",
+        "146.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kõleda ja mahajäetud välistingimustes asuvat ala. Esiplaanil on ebatasane maapind, mis on kaetud kuivanud rohu, pruunide lehtede ja mullafragmendidaga. Vasakul esiplaanil on näha kuhjatud kive ja suuremaid kivimürakaid. Taamal ja kaadri keskel domineerib pikk, tumehall betoonsein, mis näib olevat osa mingist kindlustusest või tööstusrajatisest. Seinal on näha vertikaalsed pilud ja ümmargused avad, mis annavad sellele funktsionaalse ilme. Seina ees ja taga kasvab raagus võsa ja mõned kuivanud puud, mille oksad on paljad. Üldine atmosfäär on vaikne, sombune ja melanhoolne, viidates unustatud või hooletusse jäetud kohale.",
+      "actions": [],
+      "keywords": [
+        "mahajäetud",
+        "betoonsein",
+        "kõle",
+        "raagus puud",
+        "kuiv rohi",
+        "kivid",
+        "tööstuslik",
+        "varemed",
+        "müür",
+        "hall",
+        "pruun"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "betoonsein",
+        "kivid",
+        "kuiv rohi",
+        "raagus puud",
+        "võsa",
+        "maapind",
+        "muld",
+        "praht"
+      ],
+      "colorcodes": [
+        "#565651",
+        "#877d54",
+        "#7e8787",
+        "#b8c1c0",
+        "#3c423d",
+        "#474744"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt keskendub rohkem esiplaanile, näidates vasakul suurt ümarat kivi ja hunnikut väiksemaid kive, samuti avarat maapinda kuivanud rohuga.",
+        "Teine pilt on kaamerat paremale liigutades nihutanud fookuse betoonseinale, mis täidab suurema osa kaadri ülemisest poolest; esiplaanil olnud suured kivid on nüüd väljaspool kaadrit.",
+        "Kolmas pilt on väga sarnane teisele pildile, kuid on kergelt paremale nihutatud või minimaalselt sisse suumitud, rõhutades veelgi betoonseina ja selle ulatust ning jättes esiplaanil veelgi vähem ruumi maapinnale."
+      ],
+      "snr": "020",
+      "ajad": [
+        "146.800",
+        "155.080"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub välitingimustes, kus keskealine mees ja vanem naine liiguvad hõredalt metsases või lageraiutud alal. Nad on riietatud tumedatesse, ilmselt nahast või nahka imiteerivatesse jopedesse ja kindadesse. Mees kannab pruunikast nahast lühikest jopet ja tumedaid pükse, tal on sassis heledad juuksed. Naine kannab tumedat pikemat jopet ja pikka seelikut, tal on heledad, tagasi kammitud juuksed. Nende näoilmed on murelikud või üllatunud, pilgud suunatud ülespoole või kaugusesse, andes mõista, et nad jälgivad midagi. Taustal on tihedalt rohelisi männipuid ja üksikuid raagus lehtpuid. Taevas on ühtlaselt hele, hallikasroheline ja pilvine, mis annab stseenile jaheda ja vaoshoitud tooni. Maa on kaetud hõreda taimestikuga ning maapinnal on näha sinine plastpudel. Stseen õhkub vaikust ja teatud pinget, mis on tingitud tegelaste pilkudest ja ilmaoludest.",
+      "actions": [
+        "kõndimine",
+        "vaatamine",
+        "ringi vaatamine",
+        "muretsemine"
+      ],
+      "keywords": [
+        "mets",
+        "loodus",
+        "inimene",
+        "paar",
+        "jakk",
+        "pilvine",
+        "hall",
+        "männid",
+        "väljas",
+        "murelik",
+        "jahe",
+        "talv",
+        "kevad",
+        "pudel"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "mees",
+        "naine",
+        "jakk",
+        "kindad",
+        "puud",
+        "männid",
+        "plastpudel",
+        "maapind",
+        "taevas",
+        "püksid",
+        "seelik"
+      ],
+      "colorcodes": [
+        "#7c8c87",
+        "#3b453e",
+        "#564536",
+        "#a0b5b0",
+        "#1e2f27"
+      ],
+      "texts": [],
+      "persons": [
+        "mees",
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on tegelased näha pikemast vaatekaugusest, näidates nende kogu keha ja ümbritsevat maastikku laiemalt.",
+        "Teisel pildil on tegelased näha lähemalt, keskendudes nende nägudele ja ülakehadele, tuues esile nende murelikud ilmed ja riietuse detailid.",
+        "Kolmandal pildil on näha ainult taevast ja puulatvu, ilma inimesteta, andes laiema pildi keskkonnast ja rõhutades pilvist ilma."
+      ],
+      "snr": "021",
+      "ajad": [
+        "155.080",
+        "165.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab viljatut, tõenäoliselt sügisesse või varakevadesse jäävat metsa- või põõsastikumaastikku pilvise, rohekashalli taeva all. Esipaanil on näha takerdunud okste rägastikku, millest mõned on silmatorkavalt punased, samal ajal kui keskmisel plaanil on tihedamad, tumerohelised okaspuud. Tagaplaanil sulanduvad veel paljad puud vaoshoitud taevaga. Kaks figuuri on näha tagantpoolt, navigeerides läbi selle hõreda, potentsiaalselt karmi maastiku. Üks paremal olev figuur on selgemalt nähtav, kandes tumedat jopet ja karusnahaga vooderdatud kapuutsi või mütsi, samal ajal kui teine on vasakul osaliselt varjatud. Nende liikumine viitab maastiku läbimisele. Eraldi kaadril on lähivõte maapinnalt, mis on kaetud rohelise rohu ja arvukate pruunide langenud lehtedega, mille keskel on laiali heledast rohelisest klaasist kilde, mis viitavad purunenud esemele või sündmusele läheduses. Üldine meeleolu on sügav ja pisut õudne.",
+      "actions": [
+        "Metsas liikumine",
+        "Põõsaste vahel navigeerimine",
+        "Jooksmine"
+      ],
+      "keywords": [
+        "Mets",
+        "Põõsastik",
+        "Pimedus",
+        "Klaasikillud",
+        "Põgenemine",
+        "Loodus",
+        "Sügis",
+        "Pilvine",
+        "Salapärane",
+        "Vilatult"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Puuoksad",
+        "Põõsad",
+        "Männid",
+        "Lehtpuud",
+        "Klaasikillud",
+        "Roheline rohi",
+        "Langenud lehed",
+        "Jope",
+        "Kapuuts",
+        "Müts"
+      ],
+      "colorcodes": [
+        "#C4D0C9",
+        "#2D4036",
+        "#8B0000",
+        "#B4C2BB",
+        "#5A453A",
+        "#202020",
+        "#3D4A3D"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on üldvaade metsast ilma inimesteta.",
+        "Teine pilt lisab samasse metsamaastikku kaks liikuvat inimfiguuri, kes on näha tagantpoolt.",
+        "Kolmas pilt on lähivõte maapinnast, mis näitab rohtu, langenud lehti ja purustatud klaasikilde.",
+        "Kaadrite tüüp erineb: esimene ja teine on keskmise pikkusega kaadrid, kolmas on lähivõte."
+      ],
+      "snr": "022",
+      "ajad": [
+        "165.000",
+        "176.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist meest metsas. Mees on seljaga kaamera poole pööratud, kandes tumepruuni nahktagi ja halli kampsunit või kraed, ning pöörab seejärel oma näo kaamera poole. Tal on sassis hallikaspruunid juuksed ja ta vaatab otse ette, näoilme on tõsine ja murelik. Taustaks on hõre mets, kus kasvavad nii paljad lehtpuud kui ka rohelised okaspuud, mille oksad on esiplaanil. Üldine õhkkond on jahe ja pilvine, vihjates jahedale aastaajale.",
+      "actions": [
+        "Mees seisab metsas",
+        "Mees pöörab ennast",
+        "Mees vaatab ette"
+      ],
+      "keywords": [
+        "Mets",
+        "Mees",
+        "Nahktagi",
+        "Pilvine",
+        "Murelik",
+        "Jahe",
+        "Roheline",
+        "Pruun",
+        "Hall"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Nahktagi",
+        "Kampsun",
+        "Puud",
+        "Okaspuud",
+        "Oksad"
+      ],
+      "colorcodes": [
+        "#2E2E2E",
+        "#8A8A8A",
+        "#4D6E4C",
+        "#7A7A7A"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10-20",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on laiem kaader, mis näitab meest seljaga või küljega, alates vöökohast ülespoole. Teine ja kolmas pilt on lähivõtted, mis keskenduvad mehe näole ja ülakehale eestvaates.",
+        "Taust on esimesel pildil oluliselt rohkem udune ja sisaldab siniseid/heledamaid laike. Teisel ja kolmandal pildil on taust samuti udune, kuid teravam ja koosneb peamiselt hallikatest puudest ja rohelistest okaspuuokstest.",
+        "Mees pöörab end piltide järjestuses.",
+        "Teine ja kolmas pilt on visuaalselt identsed."
+      ],
+      "snr": "023",
+      "ajad": [
+        "176.200",
+        "183.400"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub välitingimustes, keset tihedat ja kohati räsitud taimestikku, mis koosneb peamiselt paljadest okstest ja kuivadest põõsastest, mõne rohelise lehega. Taevas on ühtlaselt pilvine, andes kogu stseenile jaheda ja pisut kõleda tooni. Kaadrite keskmes on keskealine kuni eakam naine heledate juustega, kes kannab tumedat, ilmselt paksu jopet või mantlit ning tumedaid pükse ja kindaid, mis viitab jahedale ilmale. Tema hoiak on valvas ja tähelepanelik. Alguses piilub ta läbi tihedate okste, seejärel seisab ta täispikkuses, pöörates esmalt selja, et vaadata vasakule, ja lõpuks pöörates näo vaataja poole, ilmega, mis väljendab mõtlikkust või muret. Ümbruskonnas on näha ka tumedat mullast või porist maapinda. Stseeni üldine meeleolu on vaikne ja veidi üksildane.",
+      "actions": [
+        "Naine ilmub põõsaste vahelt",
+        "Naine vaatab ringi",
+        "Naine seisab",
+        "Naine pöörab pead ja keha"
+      ],
+      "keywords": [
+        "Naine",
+        "Väljas",
+        "Loodus",
+        "Põõsad",
+        "Okaspuud",
+        "Kuivad oksad",
+        "Pilvine taevas",
+        "Jahe ilm",
+        "Valvas",
+        "Üksildus",
+        "Sügis",
+        "Talv"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Põõsad",
+        "Puud",
+        "Kuivad oksad",
+        "Lehed",
+        "Muld",
+        "Jakk/Mantel",
+        "Kindad"
+      ],
+      "colorcodes": [
+        "#4A544F",
+        "#75604E",
+        "#C4D0D0",
+        "#3D5634",
+        "#4F4134"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on naine osaliselt peidetud tihedate kuivanud põõsaste taha, nähtav on vaid tema pea ja ülakeha vasakult.",
+        "Teisel pildil on naine täielikult nähtav, seistes seljaga vaataja poole ja vaadates vasakule. Tema profiil on selgelt esile toodud taevatausta vastu.",
+        "Kolmandal pildil on naine samuti täielikult nähtav, kuid nüüd on ta keha pööratud paremale ja tema pilk on suunatud otse ettepoole/vaataja poole."
+      ],
+      "snr": "024",
+      "ajad": [
+        "183.400",
+        "195.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaatepilti tööstuslikust või mahajäetud alast pilvisel päeval. Keskel domineerib pikk, hall betoonist piirdeaed, mis jookseb vasakult paremale ja jagab pildi horisontaalselt. Aia tagant paistavad mitmed lihtsad, hallikate plekk- või metallkatustega hooned, mis näivad olevat laod või tootmishooned. Aia ees ja taga on palju raagus lehtpuid, mille peened oksad on selgelt nähtavad vastu heledat taevast ja hooneid, viidates varakevadele või hilissügisele. Esiplaanil on ebatasane, pruunakas-roheline maastik, kaetud kuivanud rohu, põõsaste ja poriste laikudega. Maapinnal on hajutatud prahti ja jäätmeid, sealhulgas tumedaid hunnikuid ja üksikuid esemeid. Vasakul keskel on suur hunnik tumedat materjali, mis võib olla mulla, puujäätmete või muu prahi hunnik. Taevas on ühtlaselt hallikas-rohekas ja pilvine, luues sombuse ja pisut kõleda atmosfääri. Kauguses paistab veel puid ja metsapiir. Teistes kaadrites on märgata ka veoautode liikumist betooniaia taga.",
+      "actions": [
+        "Veoautode liikumine"
+      ],
+      "keywords": [
+        "Tööstusala",
+        "Mahajäetud",
+        "Betoonist aed",
+        "Laduhooned",
+        "Raagus puud",
+        "Praht",
+        "Tühermaa",
+        "Pilvine päev",
+        "Kõle",
+        "Varakevad",
+        "Autod"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Betoonist piirdeaed",
+        "Hooned",
+        "Lehtpuud",
+        "Põõsad",
+        "Maapind",
+        "Prahihunnikud",
+        "Veoautod",
+        "Pori",
+        "Rohttaimed"
+      ],
+      "colorcodes": [
+        "#A0A0A0",
+        "#6A5A4A",
+        "#3A4A3A",
+        "#B0C0C0",
+        "#5A5A4A",
+        "#8B7E5F"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puuduvad paremal taustal betooniaia taga veoautod.",
+        "Teisel pildil on betooniaia taha ilmunud kollakas-beež kallurauto ninaosa, mis on osaliselt aiaga varjatud ja liigub paremalt vasakule.",
+        "Kolmandal pildil on kollakas kallurauto liikunud veelgi vasakule ja selle taga paremal on näha ka teist tumedamat veoautot koos haagisega või suurema koormaga."
+      ],
+      "snr": "025",
+      "ajad": [
+        "195.120",
+        "198.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivõtet ümmargusest avausest hallis, tekstuuriga pinnas. Pind on rabe ja kulunud, kaetud rohelise sambla ja kollakate laikudega, mis viitavad niiskusele ja ajahambale. Avaus ise on seestpoolt osaliselt valgustatud; parem pool on heledam ja sinaka varjundiga, vasak pool aga tumedam, sügavmust. See annab stseenile sügavuse ja müstilisuse tunde, valgusmäng avause sees loob kontrasti ja esile tõuseb ava serva ebatasasused. Üldine toon on jahe ja summutatud.",
+      "actions": [],
+      "keywords": [
+        "auk",
+        "avaus",
+        "betoon",
+        "kivi",
+        "sammal",
+        "tekstuur",
+        "niiske",
+        "tume",
+        "valgus",
+        "sügavus",
+        "veepind",
+        "sinakas",
+        "roheline",
+        "hall",
+        "struktuur",
+        "kulunud",
+        "müstiline"
+      ],
+      "shot_type": "extreme close-up",
+      "placement": "outdoor",
+      "objects": [
+        "auk",
+        "betoonpind",
+        "sammal",
+        "vesi"
+      ],
+      "colorcodes": [
+        "#414F52",
+        "#2C412F",
+        "#988E40",
+        "#22252A",
+        "#58799A",
+        "#707B7E"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel on väga väikesed erinevused filmigraanis ja valgusintensiivsuses, mis on tüüpilised järjestikustele videokaadritele.",
+        "Hallil pinnal on näha minimaalseid variatsioone tera ja müra osas.",
+        "Ava sees oleva heledama sinise ala toon ja intensiivsus varieerub kergelt kaadrite vahel."
+      ],
+      "snr": "026",
+      "ajad": [
+        "198.280",
+        "200.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte eakat inimest, naist ja meest, mahajäetud ja räämas väliskeskkonnas. Taustal domineerib suur, hallikasroheline betoonsein, millel on näha mõned augud ja torujas väljatükk. Seina ees on raagus puid ja põõsaid, mille oksad on kaetud roheka samblaga. Maapind on märg ja mudane, kaetud kuivanud lehtede ja risuga. Stseeni alguses seisab naine, seljaga vaataja poole, pruunis pikemast nahast seelikus ja tumedas nahktagis, seina ees ja uurib seda. Seejärel ilmub paremale kaadri serva mees, riietatud tumedasse jopesse ja pükstesse, vaadates naist. Naine pöörab seejärel pea veidi vasakule ja hakkab kummarduma seina poole, justkui midagi sealt uurides või puudutades, samal ajal kui mees jääb tema selja taha teda jälgima. Üldine atmosfäär on sünge, külm ja melanhoolne.",
+      "actions": [
+        "Naine seisab seina ees",
+        "Naine läheneb seinale",
+        "Naine kummardub seina poole",
+        "Mees ilmub kaadrisse",
+        "Mees jälgib naist"
+      ],
+      "keywords": [
+        "Betoonsein",
+        "Tühermaa",
+        "Raagus puud",
+        "Muda",
+        "Külm",
+        "Desolaatne",
+        "Müstiline",
+        "Jälgimine",
+        "Kummardumine",
+        "Eakad inimesed",
+        "Nahktagi",
+        "Nahkseelik",
+        "Väliskeskkond"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Betoonsein",
+        "Puu",
+        "Raagus oksad",
+        "Kuivanud lehed",
+        "Muld",
+        "Muda",
+        "Naine",
+        "Mees",
+        "Nahktagi",
+        "Pikk seelik",
+        "Kinnas",
+        "Püksid",
+        "Torujas objekt seinal",
+        "Samblikud"
+      ],
+      "colorcodes": [
+        "#718884",
+        "#4B525B",
+        "#6C422F",
+        "#7D8E3E",
+        "#818D8C",
+        "#414D56",
+        "#7E4B31"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on kaadris ainult naine, kes seisab seljaga vaataja poole ja vaatab betoonseina.",
+        "Teisel pildil on kaadrisse ilmunud mees, kes seisab paremal servas ja vaatab naist. Naine on pööranud pead veidi vasakule.",
+        "Kolmandal pildil on naine kummardunud seina poole, justkui midagi sealt uurides või puudutades, samal ajal kui mees seisab endiselt tema selja taga ja jälgib."
+      ],
+      "snr": "027",
+      "ajad": [
+        "200.320",
+        "217.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt vaadet ümmargusele augule tumedal, teralise tekstuuriga pinnal, mis meenutab betoonseina. Auk on ebakorrapärase kujuga ja selle servad on mõranenud, paistavad läbi purunenud materjali. Läbi augu paistab järk-järgult inimnägu, alustades vaid aimatavast nahatoonist ja arenedes kuni selgelt nähtava silmani. Silm on helesinise või roheka iirisega ning seda ümbritseb kortsuline nahk, mis annab näole vanema või pingestatud ilme. Valgus on hämar, luues pingelise ja õõvastava atmosfääri, nagu keegi piiluks salaja läbi seina. Ümbritseval pinnal on tumedaid plekke ja ebaühtlast tekstuuri, mis rõhutab räpast või hooletusse jäetud keskkonda. Fookus on suunatud augule ja selle kaudu paistvale silmale, mis näib otse vaatajale otsa vaatavat.",
+      "actions": [
+        "piilumine",
+        "jälgimine",
+        "läbi augu vaatamine",
+        "otsa vaatamine"
+      ],
+      "keywords": [
+        "auk",
+        "silm",
+        "betoon",
+        "sein",
+        "piilumine",
+        "jälgimine",
+        "õõvastav",
+        "pime",
+        "lähedalt",
+        "kortsud",
+        "pinge"
+      ],
+      "shot_type": "extreme close-up",
+      "placement": "indoor",
+      "objects": [
+        "auk",
+        "silm",
+        "nahk",
+        "sein",
+        "betooni killud"
+      ],
+      "colorcodes": [
+        "#414242",
+        "#343434",
+        "#c19c67",
+        "#b08b5e",
+        "#5e9d9e",
+        "#4c8a8b",
+        "#1a1b1b"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene kaader näitab augus vaid ebaselget naha või kehaosa aimdust, mis on peamiselt varjatud.",
+        "Teises kaadris on silm juba selgelt nähtav ja avatud, iiris sinakasroheline ning pilk suunatud otse.",
+        "Kolmandas kaadris on silm veelgi laiemalt avatud, õpilane teravamalt nähtav ja iiris elavam, vihjates pilgu nihkumisele või sügavama vaate püüdmisele, ning üldine fookus silmal on teravam."
+      ],
+      "snr": "028",
+      "ajad": [
+        "217.000",
+        "222.760"
+      ]
+    },
+    {
+      "explanation": "Stseen on vaadeldav läbi tumeda, ovaalse ava, mis piirab vaatenurka ja loob pilkupuurist vaatamise efekti. Keskel, hallikate kividega kaetud maapinnal, lamab suur, pruunikakarvaline loom, tõenäoliselt koer või karu. Looma keha on suures osas kaetud tumepunase verega, mis annab märku rasketest vigastustest või surmast. Veri on eriti märgatav looma pea ja kere ümber. Loom on külili, käpad ja osa peast on nähtavad, kuid nägu on raskesti eristatav. Looma taga, vasakul pool, on näha paksu metallist ketti, mis viitab sellele, et loom võis olla kinnitatud. Üldine meeleolu on sünge, traagiline ja vägivaldne.",
+      "actions": [
+        "Loom lamab maapinnal",
+        "Veritsemine",
+        "Väidetav surm või raske vigastus"
+      ],
+      "keywords": [
+        "Vereplekid",
+        "Loom",
+        "Kett",
+        "Kivid",
+        "Vägivald",
+        "Surnud",
+        "Vigastatud",
+        "Pilkupuur",
+        "Traagiline",
+        "Sünge"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Loom (koer/karu)",
+        "Veri",
+        "Kett",
+        "Kivid/kruus",
+        "Ovaalne raam (pilkupuur)"
+      ],
+      "colorcodes": [
+        "#0E1723",
+        "#A37F5A",
+        "#7D1A0D",
+        "#6B7B6B",
+        "#9CA69C"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Pildid on visuaalselt identsed, ilma märgatavate erinevusteta."
+      ],
+      "snr": "029",
+      "ajad": [
+        "222.760",
+        "225.840"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või vanem mees kaadris rinna kõrguselt ülespoole, positsioneeritud veidi kaadri keskjoonest paremale. Tema silmatorkavaks tunnuseks on püstised, sassis hallikasblondid juuksed, mis annavad talle robustse ja pisut metsiku ilme. Mehe näol on näha vanusele iseloomulikke jooni ning tema suu on kergelt avatud, justkui ta oleks rääkimise keskel või reaktsioonilisel hetkel. Ta kannab tumedat, tõenäoliselt musta või väga tumepruuni nahkjakki, mille all on näha halli, soonilist kõrge kraega kampsunit või sviitrit. Taust on udune ja fookusest väljas, koosnedes tumerohelistest ja pruunikast toonidest, mis viitavad lehestikule või hägusele puittaimestikule, andes märku välistingimustest. Üldine värvipalett on summutatud ja jahedates toonides. Mehe pilk on suunatud kergelt tema vasakule poole, justkui pöörduks kellegi poole väljaspool kaadrit. Valgus on pehme ja ühtlane, rõhutades mehe nägu ilma teravate varjudeta.",
+      "actions": [
+        "rääkimine",
+        "vaatamine"
+      ],
+      "keywords": [
+        "mees",
+        "hallid juuksed",
+        "nahkjakk",
+        "väli",
+        "portree",
+        "keskealine",
+        "metsik soeng",
+        "roheline taust",
+        "suletud suu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "nahkjakk",
+        "kampsun",
+        "juuksed",
+        "lehestik"
+      ],
+      "colorcodes": [
+        "#322F2D",
+        "#656A69",
+        "#8F8C8A",
+        "#C4A18D",
+        "#3F514D",
+        "#30413B"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "030",
+      "ajad": [
+        "225.840",
+        "233.200"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub detailsele lähivõttele inimsilmast, mis piilub läbi väikese, ebakorrapärase augu tumedas, teralise tekstuuriga pinnal, mis meenutab betooni või müüritist. Alguses on sinakasrohelise iirisega silm avatud, vaadates veidi küljele. Seejärel sulgub silm pingeliselt, paljastades silmalaugude ja ümbritseva naha tugeva kortsumise, mis viitab stressile või ebamugavusele. Lõpuks avaneb silm taas osaliselt ja auku ning silma katavad peened, läbipaistvad, niitjad moodustised, nagu ämblikuvõrgud või kiud, mis annavad edasi rabelemise või takistuse tunde. Ümbritsev pind on tumedates toonides ja sellel on näha hajali väikeseid osakesi, luues kitsa, pingelise ja veidi õudusttekitava atmosfääri.",
+      "actions": [
+        "piilumine",
+        "silmade sulgemine",
+        "silmade avamine",
+        "pingestamine",
+        "rabelemine"
+      ],
+      "keywords": [
+        "silm",
+        "auk",
+        "piilumine",
+        "hirm",
+        "pingestatud",
+        "kitsas",
+        "pime",
+        "jälgimine",
+        "vangistus",
+        "ärevus",
+        "klaustrofoobia"
+      ],
+      "shot_type": "extreme close-up",
+      "placement": "indoor",
+      "objects": [
+        "silm",
+        "auk",
+        "sein",
+        "kiud"
+      ],
+      "colorcodes": [
+        "#2A3136",
+        "#3F474D",
+        "#B78A63",
+        "#CFA87F",
+        "#518B8B",
+        "#6EA3A3"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on silm avatud, teisel pildil suletud ja kolmandal pildil taas osaliselt avatud.",
+        "Teisel pildil on silmalaugudel ja silma ümber märgatavalt rohkem kortse, mis viitavad suuremale pingele.",
+        "Kolmandal pildil on auku ja silma katmas peened, läbipaistvad kiud või niidid."
+      ],
+      "snr": "031",
+      "ajad": [
+        "233.200",
+        "236.680"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud vanemat naist, kellel on heledad, lühikeseks lõigatud juuksed. Ta kannab tumedat, sügava ja laia revääridega jopet. Alguses on naine näha seljaga kaamera poole, kummardunult või toetumas vastu kareda tekstuuriga hallikasrohelist betoonseina, mille taga paistavad mõned paljad oksad. Tema pea on alguses varjatud. Seejärel pöörab ta aeglaselt oma pead ja pilk suundub kaamera poole, väljendades tõsidust ja muret. Lõpuks pöörab naine end täielikult näoga kaamera poole, vaatab otse ette ning tema ilme jääb tõsiseks ja veidi murelikuks. Üldine õhkkond on melanhoolne ja pingeline, rõhutades naise sisemist seisundit.",
+      "actions": [
+        "Kummardumine või millegi taha peitumine",
+        "Pea pööramine",
+        "Kaamerasse vaatamine",
+        "Seina vastu toetumine"
+      ],
+      "keywords": [
+        "Naine",
+        "Vanem naine",
+        "Betoonsein",
+        "Jope",
+        "Murelik",
+        "Tõsine",
+        "Varjumine",
+        "Pööramine",
+        "Õues",
+        "Hallikasroheline",
+        "Melanhoolne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Betoonsein",
+        "Oksad",
+        "Jope"
+      ],
+      "colorcodes": [
+        "#6a7c7c",
+        "#342e2b",
+        "#9e8e7a",
+        "#c6a78b"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on naine seljaga kaamera poole ja pea on varjatud, olles kummardunud vastu seina.",
+        "Teisel pildil on naine osaliselt pööranud oma pead ja vaatab üle õla kaamera poole, tema nägu on nähtav.",
+        "Kolmandal pildil on naine täielikult näoga kaamera poole, vaadates otse ette.",
+        "Naise kehahoiak muutub kummardunud asendist püstisemaks ja otse vaatavaks.",
+        "Kaamera fookus ja kadreering muutuvad esimese pildi laiemast vaatest teise ja kolmanda pildi kitsamaks, keskendudes rohkem naise näole ja emotsioonile."
+      ],
+      "snr": "032",
+      "ajad": [
+        "236.680",
+        "239.120"
+      ]
+    },
+    {
+      "explanation": "Stseenil on keskealine mees, kellel on sakiline, heledate juustega soeng ja seljas tume nahktagi kõrge kraega heleda kampsuni peal. Tema näoilme on tõsine või murelik. Taustaks on udune, tumeroheline taimestik, mis viitab välitingimustes viibimisele. Valgus on hämar, andes stseenile sünge ja mõtiskleva meeleolu. Mees on esmalt näha rääkimas, vaadates veidi kaamerast eemale. Ühes kaadris on näha subtiitrid, mis edastavad tema lauset. Seejärel pöörab mees kaamerast eemale, vaadates alla ja kõrvale, jäädes seljaga kaamera poole.",
+      "actions": [
+        "rääkimine",
+        "pööramine",
+        "alla vaatamine",
+        "ära vaatamine"
+      ],
+      "keywords": [
+        "keskealine mees",
+        "nahktagi",
+        "sõõrdus juuksed",
+        "roheline taust",
+        "udune",
+        "hämar valgus",
+        "välitingimused",
+        "tõsine ilme",
+        "subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "mees",
+        "nahktagi",
+        "kampsun",
+        "taimestik",
+        "puud",
+        "põõsad"
+      ],
+      "colorcodes": [
+        "#2A3B37",
+        "#A18D6C",
+        "#C19E86",
+        "#272B2F",
+        "#626C6B",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "There was nothing there. Some other dog."
+      ],
+      "persons": [
+        "keskealine mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "ebaselge",
+      "daytime": "päev",
+      "differences": [
+        "Teisel pildil on näha valged subtiitrid, mis puuduvad esimesel ja kolmandal pildil.",
+        "Kolmandal pildil on mees kaamerast eemale pööratud ja vaatab alla, samas kui esimesel ja teisel pildil on ta näoga (osaliselt) kaamera poole ja räägib."
+      ],
+      "snr": "033",
+      "ajad": [
+        "239.120",
+        "248.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sombust ja niisket väliskeskkonda, kus domineerib suur, ilmastikust kulunud betoonsein. Seina toon on hallikasroheline, viidates niiskusele ja vanusele, ning sellel on näha tekstuuri ja tumedamaid, triibulisi mustreid. Seinas on mitu ümmargust auku või süvendit. Maapind esiplaanil on kaetud tumeda, niiske mulla ja langenud lehtedega, mille vahel kasvavad ja lamavad arvukad paljad puuoksad ja väikesed, lehtedeta puud. Mõnedel neist puudest ja okstest on näha helerohelisi sambla- või samblikutükke, mis osutab niiskele ja ehk unarusse jäetud keskkonnale. Üldine atmosfäär on morn, jahe ja veidi kõle. Esimesel pildil on kaadris kaks vanemat inimest, naine ja mees, kes on riietatud soojadesse, tumedatesse riietesse, peamiselt nahktagidesse. Naine seisab püsti, vaatab veidi ettepoole, samal ajal kui mees liigub kaadri parema serva poole, vaadates alla või küljele. Nende kohalolek lisab muidu karmile maastikule inimliku elemendi, kuid nad näivad selles keskkonnas veidi eraldiseisvad.",
+      "actions": [
+        "Mees kõnnib",
+        "Naine seisab"
+      ],
+      "keywords": [
+        "Betoonsein",
+        "Mahajäetud",
+        "Loodus",
+        "Niiske",
+        "Kõle",
+        "Paljad puud",
+        "Sügis",
+        "Talv",
+        "Väljas",
+        "Vanemad inimesed",
+        "Nahktagi",
+        "Samblik",
+        "Hämar",
+        "Maastik"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Betoonsein",
+        "Puuoksad",
+        "Paljad puud",
+        "Lehed",
+        "Muld",
+        "Naine",
+        "Mees",
+        "Nahktagi (naisel)",
+        "Nahktagi (mehel)",
+        "Seelik (naisel)",
+        "Püksid (mehel)",
+        "Kindad (mehel)"
+      ],
+      "colorcodes": [
+        "#707E78",
+        "#4A5652",
+        "#3A2F25",
+        "#4F3C2C",
+        "#91A863",
+        "#B8CA87",
+        "#4B3A2C",
+        "#6A4D32"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt sisaldab kahte inimfiguuri (naist ja meest) kaadri keskel ja paremal pool.",
+        "Teine ja kolmas pilt on identsed ning kujutavad sama maastikku inimfiguurideta.",
+        "Teine ja kolmas pilt näivad olevat esimese pildi kärbitud ja potentsiaalselt veidi sisse suumitud versioonid, kus inimestest on loobutud ning fookus on vaid betoonseinal ja paljastel okstel."
+      ],
+      "snr": "034",
+      "ajad": [
+        "248.720",
+        "254.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest kõledas ja mahajäetud väliskeskkonnas, mis sarnaneb tööstuspiirkonna või prügilaga. Esialgu on esiplaanil keskealine mees, kellel on sasitud hallikad juuksed ja tõsine, kohati kurb või resignatsiooniga ilme. Ta kannab tumepruuni nahktagi halli kampsuni peal. Tema pilk on sageli suunatud allapoole või otse ette. Tema taga, kergelt fookusest väljas, sammub vanem naine, kellel on samuti tõsine ja väsinud ilme. Ta kannab tumedat kapuutsiga mantlit. Ümbrus on halli ja rohelise toonides, iseloomustatud paljaste puudega vasakul pool asuval künkal ning paremal pool olevate tööstushoonete, aedade ja prahiga. Taevas on pilves ja ühtlaselt hall, luues üldise sünge ja jaheda meeleolu. Inimesed näivad olevat liikumas mööda kruusast või mudast teed.",
+      "actions": [
+        "kõndimine",
+        "vaatamine ettepoole",
+        "vaatamine allapoole"
+      ],
+      "keywords": [
+        "kõle",
+        "mahajäetud",
+        "tööstuslik",
+        "pilves",
+        "sünge",
+        "jahe",
+        "tõsine",
+        "kurb",
+        "resignatsioon",
+        "väsinud",
+        "hall",
+        "pruun",
+        "roheline",
+        "talvine",
+        "eikellegimaa"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "mees",
+        "naine",
+        "nahktagi",
+        "kampsun",
+        "mantel",
+        "puud",
+        "põõsad",
+        "aed",
+        "tööstushooned",
+        "prügi",
+        "praht",
+        "künkad",
+        "tee"
+      ],
+      "colorcodes": [
+        "#6C838A",
+        "#3D2D21",
+        "#827E73",
+        "#5B5A5C",
+        "#C1C2B9",
+        "#3B4B2A"
+      ],
+      "texts": [],
+      "persons": [
+        "mees",
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe pea asend ja näoilme varieeruvad pisut kaadrite vahel: mõnel pildil vaatab ta rohkem alla ja on süngem (esimene ja kolmas pilt), teisel otse ette ja on pisut avatuma ilmega (teine pilt).",
+        "Naise fookus taustal muutub veidi teravamaks ja udusamaks erinevates kaadrites, olles teravam teisel pildil.",
+        "Tausta perspektiiv on õrnalt muutunud, näidates hooneid ja maastikku pisut erinevatest nurkadest."
+      ],
+      "snr": "035",
+      "ajad": [
+        "254.400",
+        "259.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sombust ja hüljatud väliümbrust, mis näib olevat tööstuspiirkonna servas või mahajäetud alal. Maapind on kaetud tumedate, niiskete lehtede, sambla, rohu ja kividega, andes edasi lagunemise ja unustuse tunnet. Taamal paistavad madalad, ilmselt tööstuslikud hooned ja betoonseinad, samuti suur taimestikuga kaetud mullamägi või rusuhunnik. Valgus on tuhm ja hajutatud, mis annab stseenile melanhoolse ja rõhuva tooni. Kaadrites liigub eakas, pikkade hallide juustega naine, kes kannab tumedat paksu mantlit. Tema ilme on tõsine, mõtisklev ja veidi murelik. Naine kõnnib mööda kruusast või mullast teed, mis on kaetud lehtede ja taimestikuga. Ühel hetkel märkab ta maapinnal, keset tumedaid lehti ja rohtu, väikest valget õit ning kummardub selle poole, ilmselt uudishimust või lohutust otsides. Stseen kiirgab üksildust ja nukrust, kuid samal ajal pakub väike õis lootuse ja elujõu killukest keset lagunevat ja karmi keskkonda.",
+      "actions": [
+        "Kõndimine",
+        "Maa vaatamine",
+        "Kummardumine",
+        "Lille märkamina"
+      ],
+      "keywords": [
+        "Hüljatud",
+        "Tööstuspiirkond",
+        "Sompus",
+        "Eakas naine",
+        "Üksildus",
+        "Mõtisklev",
+        "Lootus",
+        "Lagunev",
+        "Nukker",
+        "Kevad"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Eakas naine",
+        "Mantel",
+        "Lehed",
+        "Muru",
+        "Kivid",
+        "Muld",
+        "Väike valge lill",
+        "Põõsad",
+        "Tööstushooned",
+        "Seinad",
+        "Mägi"
+      ],
+      "colorcodes": [
+        "#414D4C",
+        "#708A7C",
+        "#AEAEAE",
+        "#2A2A2A",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakas naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10-20",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on detailne lähivõte maapinnal olevast väikesest valgest lillest, naine pildil puudub.",
+        "Teine pilt näitab naist keskmise kaugusega kogu keskkonnas, sealhulgas taustal olevate tööstushoonete ja maastikuga.",
+        "Kolmas pilt keskendub naise ülakehale ja näole, kui ta kummardub, andes edasi tema tegevust ja ilmet detailsemalt."
+      ],
+      "snr": "036",
+      "ajad": [
+        "259.280",
+        "269.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maapinnal lebavat südamekujulist metallist ripatsit, millele on graveeritud nimi \"NORA\". Ripats on asetatud tumedate, niiskete lehtede ja rohututtide vahele, mis annab stseenile veidi niiske ja jaheda tunde. Valgus on hämar, vihjates pimedale ajale või sügavale varjule. Järgmistes kaadrites siseneb stseeni tumedasse kinda riietatud käsi, mis sirutub ripatsi poole, justkui kavatsedes seda üles võtta või lähemalt uurida. Käsi on riietatud tumedasse kindasse, mis lisab stseenile salapära või ettevaatlikkuse noodi. Üldine atmosfäär on vaikne ja keskendub leitud esemele ning sellele lähenevale käele.",
+      "actions": [
+        "Ripatsi leidmine",
+        "Ripatsi poole sirutamine",
+        "Ripatsi ülesvõtmise katse",
+        "Objekti uurimine"
+      ],
+      "keywords": [
+        "Ripats",
+        "Süda",
+        "Nora",
+        "Kindad",
+        "Käsi",
+        "Märjad lehed",
+        "Maapind",
+        "Otsimine",
+        "Leid",
+        "Hämarus",
+        "Saladus",
+        "Mälestusese"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Südamekujuline ripats",
+        "Metallist kett",
+        "Kuivanud lehed",
+        "Roheline rohi",
+        "Muld",
+        "Käsi",
+        "Tume kinnas"
+      ],
+      "colorcodes": [
+        "#364041",
+        "#96a099",
+        "#3b423f",
+        "#608620"
+      ],
+      "texts": [
+        "NORA"
+      ],
+      "persons": [
+        "Isik (kinda järgi)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "night",
+      "snr": "037",
+      "ajad": [
+        "269.280",
+        "270.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast halli ja kõledat väliala, mis on kaetud mudase pinnase, kuivanud rohu ja prahiga. Esiküljel ja keskel on näha mahajäetud tühermaa, kus leidub laiali paisatud esemeid, nagu puidutükke, metallijääke ja tumedaid prügihunnikuid. Tagaplaanil kõrgub pikk betoon- või kivimüür, mille taga paiknevad suured, lihtsad, heledate plekk-katustega hooned, mis annavad edasi tööstusliku või laoala mulje. Puud on raagus, viidates hilissügisele või varakevadele. Taevas on ühtlaselt hallikasroheline ja pilvine, mis loob üldise kõleda ja melanhoolse meeleolu. Paremal pool horisondil paistab veekogu, mis peegeldab halli taevast, ning kaugemal tumeda metsapiir. Ühes kaadris jalutab läbi kesktasandi tumedates riietes inimene, mis lisab stseenile elava elemendi.",
+      "actions": [
+        "inimese kõndimine"
+      ],
+      "keywords": [
+        "kõle",
+        "mahajäetud",
+        "tööstusala",
+        "tühermaa",
+        "sügis",
+        "mudane",
+        "hall",
+        "praht",
+        "lagunenud",
+        "räpane",
+        "pilvine",
+        "pargiala"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "betoonmüür",
+        "hooned",
+        "plekk-katused",
+        "raagus puud",
+        "kuivanud rohi",
+        "mudane pinnas",
+        "prahihunnikud",
+        "veekogu",
+        "metsapiir",
+        "post",
+        "puit",
+        "metallijäägid",
+        "pruunid taimed",
+        "rohelised põõsad"
+      ],
+      "colorcodes": [
+        "#708070",
+        "#4A524A",
+        "#A0A090",
+        "#B0B0A0",
+        "#907050",
+        "#303030"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil on kesktasandil näha tumedates riietes inimene, kes jalutab paremalt vasakule. Esimesel ja kolmandal pildil seda inimest ei ole."
+      ],
+      "snr": "038",
+      "ajad": [
+        "270.440",
+        "276.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, kes istuvad seljaga vaataja poole mahajäetud või tööstusalale sarnanevas kohas, vaadates üle suurele veekogule. Nad istuvad betoonplokkide hunnikul, mis asub rohtunud ja räämas maastikul. Esiplaanil ja veekogu ääres on kuivanud pruunikas rohi ja kõrkjad, segatuna mõne rohelisema põõsa ja taimestikuga. Veekogu taga paistab tihe metsariba. Taevas on pilvine ja hall, mis annab stseenile melanhoolse või mõtiskleva tooni. Istujad on riietatud tumedatesse jakkidesse, kusjuures üks on teisest veidi suurema kehaehitusega.",
+      "actions": [
+        "inimesed istuvad",
+        "inimesed vaatavad veekogu poole"
+      ],
+      "keywords": [
+        "mahajäetud",
+        "melanhoolne",
+        "loodus",
+        "tööstusjäägid",
+        "veekogu",
+        "pilvine",
+        "sügisene",
+        "vaatlus",
+        "rahu",
+        "mõtisklus",
+        "betoon"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "betoonplokid",
+        "kuivanud rohi",
+        "kõrkjad",
+        "põõsad",
+        "veekogu",
+        "metsariba",
+        "pilves taevas",
+        "tumedad jakid"
+      ],
+      "colorcodes": [
+        "#717b7c",
+        "#a8875a",
+        "#96a8b0",
+        "#3a4750",
+        "#4e5c4d"
+      ],
+      "texts": [],
+      "persons": [
+        "kaks inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad erinevused."
+      ],
+      "snr": "039",
+      "ajad": [
+        "276.440",
+        "290.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte vanemat inimest, meest ja naist, istumas kõledas ja mahajäetud välispiirkonnas. Nad istuvad betoon- või kivitükkidel, ümbritsetuna kõrgest, kuivanud rohust. Taamal paistab veelgi varemeid ja ehitusprahti. Õhkkond on sünge ja jahe, mida rõhutab pilvine ilm ja tegelaste riietus – paksud joped ja kindad. Mees on hallipäine, kannab tumedat nahkjat jakki ja tumedaid pükse. Naine on heledamate juustega, riietatud pikka tumedasse mantlisse ja pruuni seelikusse. Mõlemad vaatavad vaikselt ettepoole, andes stseenile mõtliku ja melanhoolse tunde.",
+      "actions": [
+        "Istumine",
+        "Ettepoole vaatamine",
+        "Naine toob kindas käed suu/lõua juurde"
+      ],
+      "keywords": [
+        "mahajäetud",
+        "kõle",
+        "nukker",
+        "üksildus",
+        "rusu",
+        "varemed",
+        "jahe",
+        "sügis",
+        "vanemad inimesed",
+        "paar",
+        "mõtlik"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "kuiv rohi",
+        "betoonitükid",
+        "kivid",
+        "mehe jakk",
+        "naise mantel",
+        "kindad",
+        "püksid",
+        "seelik",
+        "saapad"
+      ],
+      "colorcodes": [
+        "#4A4A4A",
+        "#72624F",
+        "#8F8F8F",
+        "#2C3A2F",
+        "#5C5A59"
+      ],
+      "texts": [],
+      "persons": [
+        "vanem mees",
+        "vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on naise käed allpool, ta süles või külje peal. Teisel pildil on naine toonud oma kindas käed üles suu/lõua juurde, justkui külmetaks või oleks sügavates mõtetes."
+      ],
+      "snr": "040",
+      "ajad": [
+        "290.840",
+        "296.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, meest ja naist, nukras välitingimustes. Esiküljel on hallipäine mees, kelle sassis soeng ja tõsine, väsinud või murelik näoilme domineerivad. Ta kannab tumedat soonikkraega jopet ja tema suu on kergelt avatud, justkui ta oleks midagi ütlemas või sügavalt hingamas. Mehe taga, kergelt fookusest väljas, on pikkade sirgete pruunikashallide juustega naine. Ta suitsetab sigaretti, suitsuhägu on näha tema näo ümber, ja tema silmad paistavad punetavat, mis rõhutab tema melanhoolset olekut. Mõlemad tegelased on näha profiilis, vaadates kaadrist paremale. Hägune taust viitab looduslikule keskkonnale, võimalik, et metsale või tihedale taimestikule, mis on valgustatud hämaralt ja loob süngelt mõtliku õhustiku. Stseenis on näha ka kiire liikumine või kaamera panoraam, mis muudab tegelased ja tausta uduseks, andes edasi dünaamilisuse või järsu ülemineku tunde.",
+      "actions": [
+        "Suitsetamine",
+        "Vaatamine (paremale)",
+        "Rääkimine (võimalik, mehe suu avatud)",
+        "Liikumine (kaamera panoraam või subjekti liikumine)"
+      ],
+      "keywords": [
+        "Murelik",
+        "Kurblik",
+        "Sünge",
+        "Väsinud",
+        "Mõtlik",
+        "Suitsetamine",
+        "Väljas",
+        "Profiilis",
+        "Liikumine",
+        "Melanhoolia",
+        "Hämarus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Sigaret",
+        "Jope",
+        " soonikkrae",
+        "Suits"
+      ],
+      "colorcodes": [
+        "#2F3B4A",
+        "#6B777A",
+        "#9A847F",
+        "#1D2328",
+        "#30373B",
+        "#BAC3C6"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel ja teisel pildil on näha suitsu liikumist naise ümber, kusjuures teisel pildil on suitsuhägu selgemalt esile toodud.",
+        "Naise silmad paistavad teisel pildil punetavamad või ärritatuna.",
+        "Mehe suu asend on piltidel 1 ja 2 veidi erinev, viidates võimalikule rääkimisele või hingamisele.",
+        "Kolmas pilt erineb kahest esimesest oluliselt – see on tugevalt udune liikumise tõttu, samas kui esimesed kaks on selgemad ja staatilisemad lähivõtted."
+      ],
+      "snr": "041",
+      "ajad": [
+        "296.080",
+        "309.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte vanemaealist inimest, meest ja naist, mahajäetud ja rusu täis välialal. Maapind on kaetud kuivanud, kõrgete kõrreliste ja roostikuga, mis viitab sügisele või hilistalvele. Taustal on näha betoonist rusu ja ehitusprahti, mis annab kohale lagunenud ja kõleda ilme. Naine istub ühel betoonitükil, seljas tume mantel ja käes kindad, ning hoiab midagi suu juures, justkui suitsetaks või hoiaks käsi suu ees. Mees seisab alguses naise kõrval, seejärel liigub temast eemale, keerates talle selja ja kõndides minema. Mehe juures on näha kerget suitsu või auru, mis võib viidata kas sigaretile või külma õhu käes hingamisele. Üldine atmosfäär on rusuv ja melanhoolne, värvid on summutatud ja valgus hajutatud, vihjates pilvisele päevale või õhtuhämarusele.",
+      "actions": [
+        "Naine istub",
+        "Naine hoiab midagi suu juures",
+        "Mees seisab naise kõrval",
+        "Mees kõnnib naisest eemale",
+        "Mees eraldub naisest"
+      ],
+      "keywords": [
+        "mahajäetud",
+        "rusu",
+        "varemed",
+        "kõrrelised",
+        "sügis",
+        "melanhoolia",
+        "üksildus",
+        "väljas",
+        "külm",
+        "betoon"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "kõrrelised",
+        "betoonitükid",
+        "praht",
+        "naine",
+        "mees",
+        "mantel",
+        "kindad",
+        "sigaret (võimalik)",
+        "suits/aur"
+      ],
+      "colorcodes": [
+        "#3d3b37",
+        "#726f6d",
+        "#2f3434",
+        "#5f6e5e",
+        "#272c2c",
+        "#4a4d46"
+      ],
+      "texts": [],
+      "persons": [
+        "naine",
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil seisab mees naise kõrval, vaadates tema poole.",
+        "Teisel pildil on mees naisest veidi kaugemal ja vaatab temast mööda, alustades eemaldumist.",
+        "Kolmandal pildil on mees juba naisest eemale kõndinud, tema selg on naise poole, ja tema juures on näha kerget suitsu või auru.",
+        "Naise asend ja tegevus, istumine ja millegi suu juures hoidmine, jäävad kõigil piltidel samaks."
+      ],
+      "snr": "042",
+      "ajad": [
+        "309.200",
+        "315.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest kõndimas või seismas mahajäetud ja rusudega täidetud maastikul veekogu ääres pilvisel päeval. Esiplaanil on keskealine mees, kellel on sasitud soeng, seljas tume nahktagi ja mustad kindad. Ta kõnnib otse vaataja poole, tema ilme on tõsine ja ilmetu. Tema ümber ja taga on kõrged, kuivanud pruunikas-rohekad taimed ja rohked betoonist prahihunnikud ning murtud plaadid, mis viitavad lammutuspaigale või mahajäetud tööstusalale. Tagaplaanil, kaugemal paremal, paistab teine tume figuur, kes on samuti tumedates riietes ja kelle nägu pole selgelt näha; ta paistab liikuvat eemale või seisvat paigal rusude vahel. Veekogu, tõenäoliselt järv või lai jõgi, laiub rahulikult üle pildi tausta. Vastaskaldal ja kauguses on näha tihe tumeroheline metsaäär. Taevas on pilvine ja ühtlaselt hall, mis annab stseenile melanhoolse ja kõleda tooni. Maapind on niiske ja pruunikas-hall. Stseenis valitsevad summutatud toonid – hall, pruun, tumeroheline, sinakashall ja must.",
+      "actions": [
+        "Kõndimine",
+        "Seismine"
+      ],
+      "keywords": [
+        "Kõle",
+        "Melanhoolne",
+        "Mahajäetud",
+        "Varemed",
+        "Pilvine",
+        "Veekogu",
+        "Maastik",
+        "Tööstusjäänused",
+        "Sügis",
+        "Mehed",
+        "Rusud"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Nahktagi",
+        "Kindad",
+        "Kuivanud taimed",
+        "Rohttaimed",
+        "Veekogu (järv/jõgi)",
+        "Mets",
+        "Betooni praht",
+        "Betoonplaadid",
+        "Maa"
+      ],
+      "colorcodes": [
+        "#A0A9A8",
+        "#6F878D",
+        "#322F2D",
+        "#8A723D",
+        "#6D7778",
+        "#2B3533",
+        "#5B5D5B"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (esiplaanil)",
+        "Isik (tagaplaanil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esiplaanil olev mees kõnnib kaadri suunas, liikudes teises kaadris lähemale ja kolmandas kaadris kaadrist välja.",
+        "Tagaplaanil olev isik muutub kolmandas kaadris veidi paremini nähtavaks, kui esiplaanil olev mees eemaldub.",
+        "Kaadrite fookus nihkub esimeselt kahelt (mees esiplaanil) kolmandale (laiem vaade maastikule ja rusudele)."
+      ],
+      "snr": "043",
+      "ajad": [
+        "315.600",
+        "322.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab äärmiselt lähivõtet vanema inimese näost, keskendudes silmadele ja laubale. Isikul on hele nahatoon, mis on kaetud tihedate kortsudega laubal, silmade ümbruses ja ninasillal, viidates vanusele. Vasakul laubapoolel, otse vasaku kulmu kohal, on selgelt nähtav ja esileküündiv, kergelt punaka varjundiga nahamoodustis (võimalik, et sünnimärk või healoomuline kasvaja). Ninasillal on ka väiksemaid nahaplekke. Kulmud on suhteliselt hõredad ja helepruunid. Silmad on pilkupüüdevat sinakasrohelist (türkiissinist) värvi, pupillid on selgelt nähtavad. Silmalaud ja alumised ripsmejooned on kergelt punakad või ärritunud ilmega. Pika, helepruuni juuksekarva read on nähtavad mõlemal pool nägu, piirates kaadrit. Valgustus tundub loomulik ja veidi summutatud, rõhutades naha tekstuuri ja vanust. Näoilme on neutraalne, võib-olla kergelt kortsus laubaga, mis annab edasi keskendunud või mureliku tunde.",
+      "actions": [
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Lähivõte",
+        "Silmad",
+        "Kortsud",
+        "Vanus",
+        "Nahk",
+        "Laup",
+        "Nahamoodustis",
+        "Sinakasrohelised silmad",
+        "Portree",
+        "Detailne",
+        "Inimene"
+      ],
+      "shot_type": "extreme close-up",
+      "placement": "not clear",
+      "objects": [
+        "Silmad",
+        "Laup",
+        "Kulmud",
+        "Nahk",
+        "Juuksed",
+        "Nahamoodustis"
+      ],
+      "colorcodes": [
+        "#D5B8A8",
+        "#C7A795",
+        "#377579",
+        "#4C979D",
+        "#8B6B59",
+        "#965B58",
+        "#B5847F"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Puuduvad märkimisväärsed erinevused. Kõik kolm pilti on identsed."
+      ],
+      "snr": "044",
+      "ajad": [
+        "322.240",
+        "325.240"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub tumedates, arvatavasti mustades nahkkinnastes kätele, mis hoiavad väikest metallist, südamekujulist esemeid. Alguses on ese osaliselt varjatud, kuid seejärel paljastatakse see hõbehalli võtmehoidja või ripatsina, millel on mustade suurtähtedega selgelt kirjutatud nimi \"NORA\". Käed hoiavad südant ettevaatlikult ja seejärel pigistavad kokku, varjates eseme uuesti, justkui seda hellitades või peites. Kogu stseeni taust on tume, tekstureeritud kangas, mis viitab rõivastusele või polstrile, ja üldine valgustus on hämar, luues sünge või intiimse atmosfääri valdavate tumedate siniste ja hallide toonidega.",
+      "actions": [
+        "Hoidmine",
+        "Näitamine",
+        "Peitmine",
+        "Hellitamine",
+        "Varjamine"
+      ],
+      "keywords": [
+        "kindad",
+        "nahkkindad",
+        "süda",
+        "võtmehoidja",
+        "ripats",
+        "NORA",
+        "tume",
+        "intiimne",
+        "salapärane",
+        "mälestusese",
+        "kurvameelsus",
+        "armastus",
+        "hoolimine"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "kindad",
+        "nahkkindad",
+        "südamekujuline ripats",
+        "võtmehoidja",
+        "metall",
+        "kangas"
+      ],
+      "colorcodes": [
+        "#2d2d3d",
+        "#1a1a26",
+        "#a0a0a0",
+        "#1a1a1a",
+        "#3c3c4a",
+        "#4a4a4a",
+        "#c8c8c8"
+      ],
+      "texts": [
+        "NORA"
+      ],
+      "persons": [
+        "not clear"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0-10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt näitab südamekujulist eseme osaliselt varjatult, selle detailid ei ole selgelt nähtavad.",
+        "Teine pilt paljastab eseme täielikult, näidates selgelt südamekujulist ripatsit nimega \"NORA\" ja on teistest piltidest paremini valgustatud.",
+        "Kolmas pilt kujutab kindas käsi kokku surutuna, varjates eseme täielikult ja pildi valgustus on tumedam."
+      ],
+      "snr": "045",
+      "ajad": [
+        "325.240",
+        "331.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mahajäetud või tööstusliku ääreala väliskeskkonda, mida iseloomustab rusu, roiskunud taimestik ja tööstushooned taustal. Ilm on pilvine ja niiske, luues halli ja veidi melanhoolse atmosfääri. Üksik mees, seljas tume nahktagi ja püksid ning käes kindad, kõnnib mööda mudast teerada kaamerast eemale. Seejärel peatub ta keset teed, vaadates alla maapinnale. Maa on kaetud tumedate, niiskete lehtede, rohu ja samblaga. Ümberringi on näha risu ja prügihunnikuid, samuti madalaid põõsaid ja raagus puid. Taustal kõrgub mitu hoonet, sealhulgas üks valgete seinte ja punase viilkatusega ning teised hallikad tööstuslikud ehitised. Maapinnale on paigutatud hoiatuskolmnurk ning näha on ka sinist presendiga kaetud objekti. Üldine meeleolu on kõle ja rusuv.",
+      "actions": [
+        "Kõndimine",
+        "Peatumine",
+        "Allavaatamine/Vaatlemine"
+      ],
+      "keywords": [
+        "Hüljatud",
+        "Tööstusala",
+        "Rusu",
+        "Mahajäetud",
+        "Melanhoolia",
+        "Pilvine",
+        "Niiske",
+        "Jalutuskäik",
+        "Üksindus",
+        "Sügis",
+        "Talv",
+        "Prügi",
+        "Kõle"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Nahktagi",
+        "Püksid",
+        "Kindad",
+        "Tee",
+        "Maapind",
+        "Lehed",
+        "Rohi",
+        "Sammal",
+        "Põõsad",
+        "Raagus puud",
+        "Aed",
+        "Tööstushooned",
+        "Risu",
+        "Prügihunnik",
+        "Sinine present/konteiner",
+        "Hoiatusmärk"
+      ],
+      "colorcodes": [
+        "#7b7d7f",
+        "#4b5f40",
+        "#5c3a2a",
+        "#3a3b3a",
+        "#8a3a2a"
+      ],
+      "texts": [
+        "Hoiatuskolmnurk (tekst pole loetav)"
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil mees kõnnib kaamerast eemale, kolmandal pildil seisab ta paigal ja vaatab alla.",
+        "Teine pilt on äärmuslik lähivõte maapinnast (lehtedest, rohust ja samblast), samas kui esimene ja kolmas pilt on pikad kaadrid, mis näitavad meest ja ümbritsevat keskkonda.",
+        "Mehe asend ja tegevus on erinevad esimestes ja kolmandates kaadrites."
+      ],
+      "snr": "046",
+      "ajad": [
+        "331.600",
+        "348.120"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine mees, kelle hallisegused, sassis juuksed ja räsitud välimus viitavad murele või väsimusele. Tal on seljas tumepruun, kulunud nahktagi ja hall kõrge kaelusega kampsun, mis annavad edasi külma või tuulise ilmaga kohas viibimise tunde. Taust on udune ja hallikassinine, mis võib viidata pilvisele taevale või ebaselgele maastikule, kus vasakul servas on aimatav mingi tumedam taimestik või põõsastik. Üldine koloriit on jahe ja summutatud. Alguses vaatab mees allapoole, tema näoilme on sügavalt mõtlik, võib-olla kurb või koormatud. Seejärel tõstab ta aeglaselt pilgu, vaadates otse ettepoole. Tema suu on veidi avatud, silmis peegeldub üllatus, mure või segadus, nagu oleks ta just midagi märganud või kuulnud.",
+      "actions": [
+        "Vaatab allapoole",
+        "Tõstab pilgu",
+        "Mõtiskleb",
+        "Näitab üllatust või muret"
+      ],
+      "keywords": [
+        "Mees",
+        "Portree",
+        "Mure",
+        "Külm",
+        "Hall",
+        "Pilves",
+        "Väsinud",
+        "Kampsun",
+        "Nahktagi",
+        "Väljas",
+        "Maastik",
+        "Üllatus",
+        "Mõtlikkus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Nahktagi",
+        "Kampsun",
+        "Taimestik",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#5f7a77",
+        "#3b3a3c",
+        "#727a7c",
+        "#756f61",
+        "#9e9f9b",
+        "#a8b6b1"
+      ],
+      "texts": [],
+      "persons": [
+        "Keskealine mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel ja teisel pildil on mees langetanud pea ja vaatab allapoole, kolmandal pildil on ta pilgu tõstnud ja vaatab otse vaataja poole.",
+        "Näoilme muutub mõtlikust või kurvast üllatunud või murelikuks.",
+        "Kolmandal pildil on mehe suu veidi avatud.",
+        "Kaamera fookus ja kadreering on esimese kahe pildi vahel peaaegu identsed, kolmandal pildil on mees pea tõstnud ja seetõttu on nägu rohkem avatud ja esil."
+      ],
+      "snr": "047",
+      "ajad": [
+        "348.120",
+        "351.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kõledat ja mahajäetud maastikku halli, pilvise taeva all. Ühes osas stseenist avaneb vaade laiale veekogule, mille kaldal on kuivanud kõrged pillirood ja kokku kuhjatud betoonitükid ning muu ehituspraht. Veekogu taga paistab tume metsaserv. Teises osas stseenist seisab vanem naine, kiilaspea või väga lühikeste juustega, tumedas jopes ja pikas tumepruunis seelikus, selja taga kõrge hall betoonsein. Tema ümber on maapind kaetud kuivanud okste, langenud lehtede ja muu taimestikuga, mis viitab hilissügisele või varatalvele. Üldine atmosfäär on sünge, külm ja melanhoolne. Värvid on valdavalt tuhmid hallid, pruunid ja rohelised toonid.",
+      "actions": [
+        "Seismine"
+      ],
+      "keywords": [
+        "Kõle",
+        "Mahajäetud",
+        "Industriaalne",
+        "Veeäärne",
+        "Betoon",
+        "Pilliroog",
+        "Talv",
+        "Sügis",
+        "Naine",
+        "Praht",
+        "Melanhoolia",
+        "Hall",
+        "Pruun",
+        "Pilvine"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Betoonsein",
+        "Pilliroog",
+        "Kuivanud oksad",
+        "Langenud lehed",
+        "Betoonitükid",
+        "Vesi",
+        "Mets",
+        "Jope",
+        "Seelik",
+        "Praht",
+        "Puud"
+      ],
+      "colorcodes": [
+        "#A5B6B7",
+        "#666D6C",
+        "#816A46",
+        "#534F4A",
+        "#4A453C"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Teine ja kolmas pilt on sisuliselt identsed, näidates sama naist samas asendis. Esimene pilt kujutab laiemat maastikku veekogu ja prahiga, samas kui teine ja kolmas pilt keskenduvad naisele ja betoonseinale, jättes veekogu vaate välja."
+      ],
+      "snr": "048",
+      "ajad": [
+        "351.200",
+        "354.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest, kes seisab külmal ja hämaral maateel, pilk pööratud vasakule, justkui tagasi vaadates või kedagi oodates. Mees on riietatud soojalt pruuni nahkjaki, halli sviitri, tumedate pükste ja kinnastega. Tema heledad juuksed on sasis ja hooletud. Ta seisab tee paremas servas, otse kaadri keskel. Taustal laiub tihe, metsik ja hooldamata taimestik – põõsad, puhmad ja pikem rohi, mis moodustavad justkui loodusliku seina. Taimestiku värvitoonid on sügis-talviselt tuhmid: valdavalt tumerohelised, pruunikad ja hallikasrohelised, vihjates jahedale aastaajale. Maapind on märg, porine või kruusane, hallikas-pruunides toonides. Üldine atmosfäär on kõle, mõtlik ja veidi üksildane, vihjates jahedale ilmale ja varasele hommikule või hilisele õhtule. Valgus on hajutatud ja pehme, ilma selgete varjudeta, mis viitab pilves ilmale.",
+      "actions": [
+        "Mees seisab",
+        "Mees vaatab vasakule",
+        "Mees on mõtlik"
+      ],
+      "keywords": [
+        "Mees",
+        "Loodus",
+        "Maatee",
+        "Sügis",
+        "Talv",
+        "Kõle",
+        "Üksindus",
+        "Hämarik",
+        "Põõsastik",
+        "Nahkjakk",
+        "Mõtlikkus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Nahkjakk",
+        "Kinda",
+        "Püksid",
+        "Sviiter",
+        "Tee",
+        "Muld",
+        "Kruus",
+        "Põõsad",
+        "Rohttaimed",
+        "Kivid"
+      ],
+      "colorcodes": [
+        "#4C5C42",
+        "#6B5B4C",
+        "#5F6060",
+        "#4A453F",
+        "#3D4042",
+        "#8F8B83",
+        "#424A4E"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "morning",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad erinevused."
+      ],
+      "snr": "049",
+      "ajad": [
+        "354.040",
+        "356.440"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanemat naist, kes vaatab otse kaamerasse mureliku, hirmunud või kurva ilmega. Tema nägu on kortsus ja silmad punetavad, viidates emotsionaalsele pingele või nutule. Tal on pikad, lahtised, hallid juuksed, mis langevad üle õlgade. Naine kannab tumedat, ilmselt nahast jaki, millel on lai ja püstine krae ning tõmblukk. Taustaks on ühtlane, tekstuuriga hallikassinine sein, mis annab stseenile jaheda ja sünge tonaalsuse. Valgus on suunatud naise näole, rõhutades tema emotsioone.",
+      "actions": [
+        "vaatamine",
+        "reageerimine"
+      ],
+      "keywords": [
+        "naine",
+        "vanem",
+        "murelik",
+        "hirmunud",
+        "kurb",
+        "punetavad silmad",
+        "hallid juuksed",
+        "jaktt",
+        "tekstuuriga sein",
+        "tume",
+        "emotsionaalne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "naine",
+        "jaktt",
+        "sein"
+      ],
+      "colorcodes": [
+        "#B79C8D",
+        "#918E8D",
+        "#5A8E7E",
+        "#872E29",
+        "#2F3435",
+        "#5A6E6E",
+        "#667676"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pildid on peaaegu identsed, väga minimaalsed erinevused fookuses või värvisügavuses, mis on vaevu märgatavad."
+      ],
+      "snr": "050",
+      "ajad": [
+        "356.440",
+        "360.080"
+      ]
+    },
+    {
+      "explanation": "Pildil on keskealine või vanem mees, kelle hallid, segamini juuksed annavad talle pisut räsitud välimuse. Tema sinised silmad vaatavad otse kaamerasse või veidi sellest mööda, väljendades muret, kurbust või sügavat mõtisklust. Tema näos on näha kortse ja jooni, mis annavad tunnistust elukogemusest. Ta kannab tumepruuni kulunud nahkjakki, mille all on hall soonikkoes kõrge kaelusega kampsun. Taust on udune ja koosneb tumerohelisest lehestikust, mis viitab vabas õhus toimuvale stseenile, võimalik et metsas või pargis. Valgus on sume ja hajutatud, luues üldise melanhoolse või tõsise meeleolu. Mehe pilk on intensiivne ja sügav, justkui oleks ta millegi üle tõsiselt järele mõtlemas või just kogenud midagi emotsionaalselt laaditut.",
+      "actions": [
+        "Vaatab",
+        "Mõtiskleb"
+      ],
+      "keywords": [
+        "Mees",
+        "Murelik",
+        "Räsitud",
+        "Hallid juuksed",
+        "Nahkjakk",
+        "Kampsun",
+        "Loodus",
+        "Udune taust",
+        "Tõsine",
+        "Portree"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Nahkjakk",
+        "Soonikkoes kampsun",
+        "Juuksed",
+        "Silmad",
+        "Puud",
+        "Lehestik"
+      ],
+      "colorcodes": [
+        "#A0A0A0",
+        "#5B473A",
+        "#575E63",
+        "#6F98A7",
+        "#C4A18D",
+        "#2D3D32"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad erinevused, need on identsed kaadrid."
+      ],
+      "snr": "051",
+      "ajad": [
+        "360.080",
+        "364.400"
+      ]
+    }
+  ]
+}

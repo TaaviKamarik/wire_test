@@ -1,0 +1,991 @@
+{
+  "film": [
+    "16734",
+    "16613",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Hiis",
+    "138233c00d6b730e2ec99460c55af614d32ac479.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täiesti musta ekraaniga. Seejärel ilmub ekraani keskossa valge logo ja tekst mustale taustale. Logo koosneb kolmest erineva suurusega ringikujulisest elemendist – üks väiksem ülaosas, teine keskmine vasakul all ja kolmas suurem paremal all – mis moodustavad kujutise. Nende vahel on ka väike punkt. Logo paremal küljel on suures kirjas tekst \"BFM\", mille all on väiksemas kirjas \"TALLINN UNIVERSITY\" ning veelgi allpool kahes reas \"Baltic Film and\" ja \"Media School\". Kogu stseeni vältel domineerib must taust ja ainus värv on valge, mida kasutatakse logo ja teksti jaoks.",
+      "actions": [
+        "Logo ja teksti ilmumine mustale taustale"
+      ],
+      "keywords": [
+        "Logo",
+        "Tekst",
+        "Must taust",
+        "Valge",
+        "Sissejuhatus",
+        "Bränding",
+        "Ülikool",
+        "Filmikool"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Logo",
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "BFM",
+        "TALLINN UNIVERSITY",
+        "Baltic Film and Media School"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "85",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on täielikult must. Teisel pildil on mustal taustal nähtav valge logo ja tekst."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "7.167"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast, kuid hämarat magamistuba. Põrandal on näha paksu, heledat narmastega vaipa, millele on poetatud tumedaid tosse ja muid objekte. Voodi kõrval, või sellel, on kuhjas riideid, sealhulgas hele fliispluus lukuga. Seejärel ilmuvad kaadrisse inimese paljad jalad, mis puudutavad vaipa, andes märku voodist tõusmisest. Taustal paistab ruuduline narmastega tekk, mis vihjab kodusele ja ehk jahedale hommikule. Üldine meeleolu on rahulik ja intiimne, fookusega igapäevastele detailidele ja tegutsemisele, mis toimub hommikuses valguses.",
+      "actions": [
+        "Voodist tõusmine",
+        "Seismine (jalgade abil)",
+        "Põrandale astumine"
+      ],
+      "keywords": [
+        "Magamistuba",
+        "Hommik",
+        "Paljad jalad",
+        "Vaip",
+        "Riided",
+        "Hämar valgus",
+        "Kodune",
+        "Hubasus",
+        "Rahu",
+        "Detailid",
+        "Ärkamine"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Riided",
+        "Fliispluus",
+        "Püksid",
+        "Vaip",
+        "Tossud",
+        "Tekk (ruuduline, narmastega)",
+        "Voodi (kaudselt)"
+      ],
+      "colorcodes": [
+        "#808080",
+        "#D3D3D3",
+        "#A52A2A",
+        "#F5F5DC",
+        "#2F4F4F",
+        "#4B5320"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene (jalad näha)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "morning",
+      "differences": [
+        "Fookuspunkt muutub: esimesel pildil on fookus riietel, teisel vaibal ja tossudel ning kolmandal inimese jalgadel.",
+        "Kaamera liigub alla: esimesest pildist, mis näitab kõrgemal asuvaid riideid, liigub kaamera madalamale, et näidata põrandat ja jalgu.",
+        "Stseen areneb: pildid moodustavad lühikese narratiivi voodist tõusmisest."
+      ],
+      "snr": "002",
+      "ajad": [
+        "7.167",
+        "19.625"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort inimest hämaras toas riietumas. Isik, kellel on lühikesed tumedad juuksed, paneb selga pikkade varrukatega triibulist särki, mis on punase, musta ja beeži/valge triibuga. Alguses on näha isiku nägu, kui särk on veel üle pea, seejärel liigub kaamera fookus ja näeb isikut särki lõplikult selga panemas ning seejärel tema selga ja beeže pükse. Tuba on tagasihoidlikult sisustatud, taustal on näha raamaturiiulit täis raamatuid, mis viitab kodusele ja haritud keskkonnale. Paremal pool on näha akent või seina, millel on ruuduline/triibuline kardin või tapeet, ning mitmesuguseid esemeid, nagu kell ja muud seadmed riiulitel. Valgustus on sume, mis annab stseenile intiimse ja rahuliku meeleolu.",
+      "actions": [
+        "Särgi selgapanek",
+        "Riietumine",
+        "Liikumine"
+      ],
+      "keywords": [
+        "Riietumine",
+        "Noor",
+        "Tuba",
+        "Särk",
+        "Triibuline",
+        "Raamaturiiul",
+        "Hämar",
+        "Kodus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Särk",
+        "Püksid",
+        "Raamatud",
+        "Raamaturiiul",
+        "Kardinad",
+        "Kell",
+        "Voodi",
+        "Muu mööbel"
+      ],
+      "colorcodes": [
+        "#A82F2F",
+        "#302E2D",
+        "#A29E9A",
+        "#917F6A",
+        "#5C584E",
+        "#2B2E31"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Isiku asend ja tegevus muutuvad särgi selgapanemise käigus: esimesel pildil on särk veel pooleli seljas, teisel juba peaaegu seljas ja kolmandal on näha isiku selga koos pükstega.",
+        "Kaamera fookus ja nurk nihkuvad veidi isikut jälgides."
+      ],
+      "snr": "003",
+      "ajad": [
+        "19.625",
+        "23.958"
+      ]
+    },
+    {
+      "explanation": "Stseen algab hägusa lähivõttega voodipesust, mis koosneb punakast padjast ja tumedast mustrilisest tekist, vihjates magamistoa interjöörile. Valgus on hämar, mis loob uneleva või varahommikuse meeleolu. Seejärel nihkub kaader teravamale lähivõttele, kus inimkäsi sirutub äratuskella poole, mis asub tumedal riiulil või laual. Käsi on riietatud tumedasse, võimalikult ruudulisse särki. Käsi asetub kella lähedale või peale, mis viitab ärkamisele ja kella 'snooze' või väljalülitamisele. Äratuskell on klassikalise disainiga, hõbedase korpuse ja valge sihverplaadiga. Üldine õhkkond on rahulik, kuid samas pingealune, mis on omane ärkamishetkele. Taustal on näha uduselt siseruumi detaile.",
+      "actions": [
+        "Käsi sirutub äratuskella poole",
+        "Äratuskella puudutamine või väljalülitamine",
+        "Ärkamine"
+      ],
+      "keywords": [
+        "Äratuskell",
+        "Käsi",
+        "Magamistuba",
+        "Varahommik",
+        "Ärkamine",
+        "Hämarus",
+        "Voodipesu",
+        "Tekk",
+        "Padi",
+        "Siseinterjöör"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Äratuskell",
+        "Inimese käsi",
+        "Ruuduline särk",
+        "Tumm riiul/laud",
+        "Padi",
+        "Tekk",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#8A3D36",
+        "#302E38",
+        "#908C82",
+        "#7A5B4C",
+        "#38424B",
+        "#5C768C",
+        "#CCCCCC",
+        "#F0F0F0"
+      ],
+      "texts": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "persons": [
+        "Üksikisik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "morning",
+      "differences": [
+        "Esimene pilt on udusem ja fookusest väljas, keskendudes voodipesule, samas kui teised kaks on teravad ning keskenduvad käele ja äratuskellale.",
+        "Teine pilt näitab kätt sirutumas kella poole, samas kui kolmandal pildil on käsi juba kella lähedal või peal ja tegevus on lõppfaasis."
+      ],
+      "snr": "004",
+      "ajad": [
+        "23.958",
+        "26.625"
+      ]
+    },
+    {
+      "explanation": "Stseen on esindatud peaaegu täieliku pimedusega, kus visuaalsed detailid on äärmiselt piiratud või puuduvad üldse. Alguses on märgata vaevumärgatavat hägusa valguse või peegelduse vihjet, millel võib olla kergelt punakas varjund paremas ülanurgas, kuid see kaob kiirelt absoluutsesse mustusse. Puuduvad eristatavad objektid või isikud, luues üldise mulje täiesti valgustamata keskkonnast.",
+      "actions": [
+        "Pimedus süveneb",
+        "Visuaalne informatsioon kaob"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Must",
+        "Hämarus",
+        "Ebaselge",
+        "Valguse puudumine",
+        "Öö",
+        "Kottpime",
+        "Salapärane"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Puuduvad"
+      ],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "99",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene hetk sisaldab vaevumärgatavaid valguse vihjeid, mis viitavad äärmisele hämarusele, samas kui järgnev hetk on täielikult must, ilma igasuguste detailideta."
+      ],
+      "snr": "007",
+      "ajad": [
+        "44.917",
+        "45.792"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noormeest siseruumis, kes on süvenenud mingisse tegevusse või mõttesse. Esimeses vaates näeme detaili tema käest, mis on kaetud halli soonilise randmesoojendajaga ja ulatub puidust pinnale või toetub sellele. Läheduses on osaliselt näha musta seljakoti rihmasid ja lukke. Edasi fookus nihkub noormehele endale, kes kannab oranži soonilist kõrge kaelusega kampsunit ja tumedat jakki. Tal on heledad, lühikesed juuksed. Ühes kaadris piilub ta puidust piirde või eseme tagant alla, pilk on intensiivne ja suunatud millegi poole. Viimases kaadris on näha tema nägu profiilis, pilk on tõsine ja mõtlik, suunatud paremale. Tagaplaanil on ähmaselt näha siseruumi detaile, nagu seinal rippuv raamitud pilt. Valgustus on üldiselt hämar ja summutatud, luues veidi melanhoolse või intiimse atmosfääri.",
+      "actions": [
+        "Puidust esemele toetumine või sellega manipuleerimine",
+        "Millegi poole vaatamine",
+        "Alla piilumine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Noormees",
+        "Siseruum",
+        "Hämarus",
+        "Mõtlikkus",
+        "Detailid",
+        "Seljakott",
+        "Puit",
+        "Randmesoojendaja",
+        "Kampsun"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Käsi",
+        "Hall sooniline randmesoojendaja",
+        "Tume jakk/kampsun",
+        "Puidust pind/ese/piirdeaed",
+        "Must seljakott",
+        "Seljakoti lukud",
+        "Seljakoti rihmad",
+        "Oranž sooniline kaelusega kampsun",
+        "Raamitud pilt seinal",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#999999",
+        "#c6603a",
+        "#5d4229",
+        "#2a2a2a",
+        "#b3a07b",
+        "#809088",
+        "#8a8d83"
+      ],
+      "texts": [],
+      "persons": [
+        "Noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on detaili close-up käest ja seljakotist, samas kui teised pildid keskenduvad noormehele.",
+        "Noormehe asend ja vaatenurk muutuvad: ühel pildil piilub ta alla puidust takistuse tagant, teisel on nägu profiilis.",
+        "Kaadri fookus ja kompositioon varieeruvad: esimeses kaadris on detaili close-up, teised on pigem medium close-up'id noormehe näost ja ülakehast.",
+        "Erinevad taustadetailid: esimeses kaadris on näha seljakotti, kolmandas pildis on näha seinal rippuvat pilti."
+      ],
+      "snr": "008",
+      "ajad": [
+        "45.792",
+        "54.083"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort inimest talvistesse riietesse (müts, paks jope, kampsun, kindad) riietatuna siseruumis, mis tundub olevat elumaja või suvilatüüpi hoone. Valgus on hämar, mis viitab kas õhtusele ajale, ööle või lihtsalt halvasti valgustatud kohale, kuna inimene kasutab taskulampi. Ruumis on puitpaneelid seinas, vana stiilis lauatelefon ja ruudulised kardinad, mis annavad edasi maalähedase või retro hõngu. Ühel seinal on näha inglifiguuriga pildiraam. Kaadrid keskenduvad nii inimesele kui ka tema tegevusele ja ruumi detailidele, luues veidi salapärase või uuriva atmosfääri.",
+      "actions": [
+        "Inimene kasutab taskulampi siseruumis millegi valgustamiseks või otsimiseks",
+        "Inimene vaatab alla, keskendudes ilmselt millelegi, mida taskulamp valgustab",
+        "Liikumine või ringivaatamine ruumis"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Maalähedane",
+        "Retro",
+        "Hämar",
+        "Taskulamp",
+        "Talveriided",
+        "Uurimine",
+        "Kodu",
+        "Puitpaneelid",
+        "Vaibad"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Taskulamp",
+        "Paksud kindad",
+        "Tume jope",
+        "Kootud müts",
+        "Oranž kampsun",
+        "Lauatelefon",
+        "Puitpaneelid",
+        "Raamitud pilt (ingel)",
+        "Ruudulised kardinad",
+        "Vase lilledega",
+        "Hari/kamm"
+      ],
+      "colorcodes": [
+        "#4C595C",
+        "#8C3E26",
+        "#E0E0E0",
+        "#73513C",
+        "#CC3333",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene kaader näitab inimest taskulambiga tegevuses, fookusega käel ja ülakehal.",
+        "Teine kaader on lähem võte inimese näost ja ülakehast, näidates tema rõivastust ja keskendumist.",
+        "Kolmas kaader näitab laiemat vaadet ruumi detailidele, sealhulgas telefoni, puitseina ja kardinat."
+      ],
+      "snr": "009",
+      "ajad": [
+        "54.083",
+        "68.167"
+      ]
+    },
+    {
+      "explanation": "Pilt on täiesti must, ilma igasuguste nähtavate objektide, inimeste, tegevuste või detailideta. See on ühtlane must toon kogu ulatuses, mis viitab kas täielikule pimedusele, valguse puudumisele või tühjusele. Puuduvad vihjed sügavusele, tekstuurile või kujutistele.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "pime",
+        "tühjus",
+        "mitte midagi",
+        "monokroomne",
+        "värvitu"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kõik kolm pilti on identsed ja mustad, puuduvad erinevused."
+      ],
+      "snr": "010",
+      "ajad": [
+        "68.167",
+        "71.292"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast pimedat ja hämaraid välitingimusi, tõenäoliselt öisel ajal. Enamiku ajast on pilt peaaegu täiesti must, vihjates täielikule pimedusele. Ühel hetkel ilmub ülalt terav ja fokusseeritud valgusvihk, mis valgustab maalähedast taimestikku. Taimed – rohi ja väikesed põõsakesed – on kaetud sillerdava kaste või härmatisega, mis annab neile jäise ja niiske ilme. Valgusvihk loob dramaatilise ja salapärase atmosfääri, paljastades maapinna tekstuurid ja taimede detailid enne kui kõik taas pimedusse kaob. Ümbritsev keskkond jääb valgusvihust väljaspool täiesti pimedaks ja nähtamatuks.",
+      "actions": [
+        "Valgusvihk valgustab maapinda",
+        "Taimestik on kaetud kaste/härmatisega",
+        "Pimedus varjab ümbrust"
+      ],
+      "keywords": [
+        "Öö",
+        "pimedus",
+        "loodus",
+        "taimestik",
+        "prožektor",
+        "kaste",
+        "härmatis",
+        "salapärane",
+        "niiske",
+        "külm",
+        "metsaalune",
+        "maastik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Taimed",
+        "rohi",
+        "põõsakesed",
+        "valgusvihk",
+        "maapind"
+      ],
+      "colorcodes": [
+        "#0A0A0A",
+        "#3D4A41",
+        "#A0C2A5",
+        "#2F3A2C"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "85",
+      "season": "sügis",
+      "daytime": "night",
+      "differences": [
+        "Peamine erinevus seisneb valgusallika ilmumises ja kadumises, mis valgustab lühidalt maapinna taimestikku",
+        "Üks kaader on heledam ja detailsem, teised kaks aga peaaegu täiesti pimedad ja detailivaesed",
+        "Valguse puudumise ja olemasolu vaheldumine loob stseenis dünaamika"
+      ],
+      "snr": "011",
+      "ajad": [
+        "71.292",
+        "77.500"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt vaadet okaspuu okstele, tõenäoliselt kuusele või nulule, mis on kaetud arvukate veepiiskadega. Pildistus on tehtud pinnapealse teravussügavusega, mistõttu taust on udupeene (bokeh-efektiga) ja hämar. Üldine meeleolu on sügav, jahe ja veidi melanhoolne, rõhutades niisket ja vaikset metsaatmosfääri. Okste roheline toon on summutatud ja tume, andes stseenile mõtliku ilme. Veeveere piisad peegeldavad valgust, luues pimedas taustas pehmeid valguspunkte. Stseeni keskel, esimese kaadri järel, ilmuvad valged stiliseeritud ruunid ja nende all ingliskeelne tekst. Ruunid on selgelt nähtavad okaste vahel, paigutudes kompositsiooni keskpunkti. Terve stseen on ühtlaselt tumedates ja jahedates toonides.",
+      "actions": [
+        "Veeveere piisad ripuvad okaspuu okstel",
+        "Tekst ilmub ekraanile"
+      ],
+      "keywords": [
+        "Mets",
+        "Okaspuu",
+        "Vihmapiisk",
+        "Niiske",
+        "Hämar",
+        "Rahulik",
+        "Müsteeriline",
+        "Tiitel",
+        "Ruunid",
+        "Bokeh-efekt",
+        "Pimedus",
+        "Jahedus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Okaspuu oksad",
+        "Vihmapiisk",
+        "Ruunid",
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#2d3c32",
+        "#3c4c41",
+        "#1a2021",
+        "#212c2e",
+        "#ffffff"
+      ],
+      "texts": [
+        "HIIS",
+        "The Grove"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil puudub igasugune tekst.",
+        "Teisel ja kolmandal pildil ilmuvad ekraani keskele valged stiliseeritud ruunid 'HIIS' ja allserva tekst 'The Grove'.",
+        "Kolmandal pildil on ruunid ja tekst 'The Grove' veidi eredamad või selgemini esile toodud võrreldes teise pildiga, viidates teksti ilmumise või rõhutamise animatsioonile."
+      ],
+      "snr": "012",
+      "ajad": [
+        "77.500",
+        "82.750"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tihedat ja metsikut looduskeskkonda, kus domineerib tumeroheline ja hallikas põõsastik, mis ääristab kitsast ja sügavat veekogu. Vesi on tume ja hämar, peegeldades aeg-ajalt heledamaid pilvi või taevavalgust, luues salapärase ja süngemeelse õhkkonna. Vee pinnal on näha kerget lainetust ja liikumist. Sügaval vees on märgata ebaselgeid varjusid ja pimedamaid alasid. Kõige märkimisväärsemaks elemendiks on vees hulpiv või vee alla vajuv tumepruun objekt, mis oma kuju poolest meenutab kas uppunud looma või suurt eset. Ümbritsev taimestik on väga tihe ja lopsakas, luues mulje inimtühjast ja puutumatust paigast. Valgus on summutatud, vihjates varajasele hommikule, hämarikule või pilvisele ilmale.",
+      "actions": [
+        "Objekt liigub/hõljub vees",
+        "Vesi voolab/lainetab kergelt"
+      ],
+      "keywords": [
+        "Metsik loodus",
+        "Hämar veekogu",
+        "Tihe taimestik",
+        "Salapärane",
+        "Sünge",
+        "Roheline",
+        "Tume",
+        "Vaikus",
+        "Loodusmaastik",
+        "Varjud"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Veekogu (soo/oja)",
+        "Põõsad",
+        "Taimed",
+        "Vees hulpiv objekt (võimalik loom/kott)",
+        "Vee peegeldused",
+        "Oksad"
+      ],
+      "colorcodes": [
+        "#2a3a2e",
+        "#314234",
+        "#1b1e1f",
+        "#4d5c64",
+        "#5a4237",
+        "#5b7167"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "suvi",
+      "daytime": "hommik",
+      "differences": [
+        "Objekt vees liigub kaadrite vahel: esimeses pildis on see selgemalt näha, teises asend muutub ja kolmandas on see peaaegu vee alla vajunud või kaugemale kandunud, muutudes raskesti eristatavaks.",
+        "Vee peegelduste muster muutub kergelt, viidates vee pidevale voolule või kergetele lainetustele.",
+        "Üldine teravus ja detailide nähtavus vees väheneb kolmanda pildi suunas."
+      ],
+      "snr": "013",
+      "ajad": [
+        "82.750",
+        "86.833"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes kõnnib tihedas ja pimedas metsas mööda kitsast rada. Mets on täis kõrgeid, tumedaid okaspuid ning maapind on kaetud paksu rohelise sambla ja alusmetsaga, mis viitab põhjamaisele või boreaalsele metsatüübile. Ümbritsev valgus on väga hämar, luues salapärase ja veidi kõheda õhkkonna. Isik on riietatud tumedatesse, soojadesse rõivastesse, kandes jopet ja mütsi. Nad kasutavad taskulampi, mille ere valguskiir lõikab läbi pimeduse, valgustades otse nende ees olevat rada ja sammalt. Taskulambi valgus loob ereda fookuspunkti muidu pimedale maastikule. Stseen edastab tunde üksindusest ja vaikimisest keset laialdast, pimedat loodust, jättes õhku nii rännaku kui ka mõningase teadmatuse meeleolu.",
+      "actions": [
+        "kõndimine",
+        "rajal liikumine",
+        "taskulambi kasutamine",
+        "tee valgustamine"
+      ],
+      "keywords": [
+        "mets",
+        "pimedus",
+        "rada",
+        "taskulamp",
+        "üksindus",
+        "salapärane",
+        "öö",
+        "puud",
+        "sammal",
+        "matk"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "puud",
+        "mets",
+        "rada",
+        "sammal",
+        "alusmets",
+        "inimene",
+        "jope",
+        "müts",
+        "taskulamp",
+        "valguskiir"
+      ],
+      "colorcodes": [
+        "#1a1b1b",
+        "#242c26",
+        "#2d3b2a",
+        "#6d7b51",
+        "#e8e2c0"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on metsast üldvaade ilma inimeseta, rada on väga nõrgalt valgustatud või ümbritseva keskkonna varjus.",
+        "Teisel pildil on metsast üldvaade, kus näha inimest taskulambiga rajal kõndimas, taskulamp valgustab selgelt rada tema ees.",
+        "Kolmandal pildil on lähivõte samast inimesest, rõhutades tema riietust ja taskulampi, kuid vähem on näha ümbritsevat metsa ja raja detaile.",
+        "Kaameranurk muutub üldvaatest (long shot) keskmise lähivõtte (medium close-up) suunas, pakkudes progressiivselt detailsemat vaadet subjektist."
+      ],
+      "snr": "014",
+      "ajad": [
+        "86.833",
+        "102.167"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tihedat ja pimedat metsa, kus domineerivad kõrged, sirged puutüved. Tõenäoliselt on tegemist kuuse- või männimetsaga. Maapind on kaetud paksu samblakihi ja hõreda rohuga, mis annab stseenile rohelise ja niiske alatooni. Taustal ja keskmises plaanis on näha rohkem puid, mis loovad sügavuse efekti. Paremal keskmises plaanis on märgata samblaga kaetud kive. Valgus on hämar, jättes mulje hilisõhtust, varahommikust või lihtsalt väga varjulisest metsaosast. Üldine atmosfäär on vaikne, veidi süngelt müstiline ja rahulik.",
+      "actions": [
+        "puud seisavad paigal",
+        "mets on vaikne"
+      ],
+      "keywords": [
+        "mets",
+        "puud",
+        "sammal",
+        "tume",
+        "roheline",
+        "kivid",
+        "vaikne",
+        "tihe",
+        "hämarik",
+        "loodus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "puud",
+        "puutüved",
+        "sammal",
+        "rohi",
+        "kivid"
+      ],
+      "colorcodes": [
+        "#333333",
+        "#2F3D35",
+        "#3A4C3F",
+        "#4C5C5B",
+        "#1A1A1A"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0-5",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Piltide vahel on märgata väga väikest ja vaevu märgatavat kaamera liikumist. Tundub, et kaamera liigub õrnalt edasi või nihkub horisontaalselt, luues väga peene perspektiivimuutuse. See annab stseenile staatilisest fotost veidi dünaamilisema, elavama tunde, ilma et fookus oluliselt muutuks."
+      ],
+      "snr": "015",
+      "ajad": [
+        "102.167",
+        "110.125"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort inimest, tõenäoliselt teismelist või noort täiskasvanut, kes liigub tihedas ja pimedas metsas. Ta on riietatud jahedaks ilmaks sobivalt: must müts, sinakashall paks jope, oranž kõrge kaelusega kampsun ja kindad. Seljas kannab ta matkaseljakotti, mille küljes on näha fotovarustust, mis viitab tema huvile fotograafia vastu. Ühel hetkel peatub ta ja tõstab kaamera silmade kõrgusele, et pildistada midagi metsas. Seejärel jätkab ta oma teekonda. Mets on täis kõrgeid tumedaid okaspuid ja alusmetsa, luues hämariku atmosfääri. Üldine meeleolu on rahulik, keskendunud ja veidi mõtlik. Valgus on summutatud ja hajutatud, vihjates pilvisele päevale või metsa tihedusele.",
+      "actions": [
+        "Kõndimine",
+        "Pildistamine",
+        "Vaatlemine"
+      ],
+      "keywords": [
+        "Mets",
+        "Fotograafia",
+        "Matkamine",
+        "Jahe",
+        "Loodus",
+        "Nooruk",
+        "Keskendumine",
+        "Hämarus",
+        "Seiklus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mets",
+        "Puud",
+        "Põõsad",
+        "Muru",
+        "Sammal",
+        "Noor inimene",
+        "Müts",
+        "Jope",
+        "Kampsun",
+        "Kindad",
+        "Seljakott",
+        "Kaamera",
+        "Fotostatiiv (või sarnane lisavarustus)"
+      ],
+      "colorcodes": [
+        "#343d31",
+        "#50616d",
+        "#c15f36",
+        "#2d2d2d",
+        "#4a4f47"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor inimene (fotograaf)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil kõnnib noor inimene, vaadates ettepoole või allapoole, kaamera pole käes.",
+        "Teisel pildil on noor inimene peatunud, hoides kaamerat käte vahel ja pildistades paremale poole kaadrist välja jäävat objekti.",
+        "Kolmandal pildil jätkab noor inimene kõndimist, sarnaselt esimesele pildile, kaamera pole enam aktiivselt kasutuses, ja ta vaatab taas ettepoole või allapoole."
+      ],
+      "snr": "016",
+      "ajad": [
+        "110.125",
+        "120.292"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab metsaalust maapinnalt vaadatuna, valdavalt rohelistes ja pruunides toonides. Kaader on madalalt võetud, keskendudes metsapõrandale, mis on kaetud paksu sammalt, tihedate madalate põõsaste (tõenäoliselt mustika- või pohlavarred koos rohekas-sinakate marjadega) ja üksikute kuivanud lehtedega. Valgus on pehme ja hajutatud, luues hämaravõitu, kuid siiski detailselt nähtava keskkonna. Esimeses kaadris on näha mööduva inimese jalad tumedates pükstes ja jalanõudes, mis liiguvad kaadrist välja paremale. Järgmistes kaadrites on isik juba kaadrist lahkunud ja fookus jääb metsaalusele. Taustal on ähmaselt aimatavad tumedad puutüved, mis viitavad tihedale metsale.",
+      "actions": [
+        "Isik kõnnib läbi metsa",
+        "Jalad liiguvad kaadrist välja"
+      ],
+      "keywords": [
+        "Mets",
+        "Loodus",
+        "Metsaalune",
+        "Roheline",
+        "Sammal",
+        "Põõsad",
+        "Marjad",
+        "Liikumine",
+        "Jalad",
+        "Hämar",
+        "Metsa sügavus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Sammal",
+        "Mustika-/pohlavarred",
+        "Marjad (rohekas-sinakad)",
+        "Kuivanud lehed",
+        "Metsapinnas",
+        "Tumedad püksid",
+        "Jalanõud",
+        "Puutüved (tagaplaanil)"
+      ],
+      "colorcodes": [
+        "#334d3b",
+        "#5a7b68",
+        "#2f2f2f",
+        "#6e5e4d",
+        "#1a221f",
+        "#465c4e"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks isik (nähtavad ainult jalad)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha mööduva isiku jalad, järgmistel piltidel on isik kaadrist lahkunud.",
+        "Kaamera asukoht või fookus muutub kergelt, pakkudes isiku lahkumisel panoraamvaadet metsaalusele."
+      ],
+      "snr": "017",
+      "ajad": [
+        "120.292",
+        "124.292"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort inimest, tõenäoliselt poissi, kes liigub sihikindlalt läbi tiheda okaspuumetsa. Ta on riietatud soojalt, kandes tumesinist või hallikas-sinist paksust jopet, millel on heledamad sinised detailid ja nähtavalt punane kaelus, ning tumedat kootud mütsi (beanie). Seljas on tal ka tume seljakott. Metsakeskkond on sügavroheline, domineerivad kuusepuud ja tihe alusmets, mis viitab jahedale ilmale, tõenäoliselt hilissügisele või talvele, kuigi lund pole näha. Valgus on pehme ja hajutatud, mis annab märku pilvisest päevast. Üldine meeleolu on vaikne ja veidi isoleeritud, rõhutades rännu või matka temaatikat looduses.",
+      "actions": [
+        "Kõndimine",
+        "Matkamine",
+        "Liikumine läbi metsa"
+      ],
+      "keywords": [
+        "Mets",
+        "Matkamine",
+        "Okaspuumets",
+        "Noormees",
+        "Talv",
+        "Külm",
+        "Seiklus",
+        "Roheline",
+        "Vaikus",
+        "Rännak"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Okaspuud",
+        "Puuoksad",
+        "Puu tüved",
+        "Jakk",
+        "Müts",
+        "Seljakott",
+        "Riided"
+      ],
+      "colorcodes": [
+        "#3E573C",
+        "#4B6B4C",
+        "#2E452E",
+        "#4A6372",
+        "#7D929D",
+        "#2C2C2C",
+        "#1F2225",
+        "#8C2C28"
+      ],
+      "texts": [],
+      "persons": [
+        "Noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene ja kolmas kaader on osaliselt varjatud uduste puuokstega esiplaanil, mis loob sügavuse ja varjatud vaatluse tunde. Teine kaader on selgem ja fookuses olevale isikule lähemal, pakkudes temast takistusteta vaadet. Kaamera asend ja kaugus fookuses olevast isikust varieeruvad kaadrite vahel, muutes vaatenurka."
+      ],
+      "snr": "018",
+      "ajad": [
+        "124.292",
+        "131.833"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha üksik inimene, kes kõnnib seljaga vaataja poole läbi tiheda lehtmetsa. Metsas on puud raagus ja maapind on kaetud paksult langenud pruunikate ja hallikate lehtedega. Inimene kannab tumedat hallikas-sinist jopet ja tumedaid pükse ning seljas on tume seljakott. Seljakoti külge on kinnitatud statiiv või muu sarnane pikk varustus. Mets on üsna sünge ja hallides toonides, puudel ei ole lehti, mis viitab hilissügisele või varakevadisele ajale. Valgus on hajutatud ja tuhm, mis annab stseenile melanhoolse või tõsise meeleolu. Puud on kõrged ja saledad, nende oksad moodustavad tiheda võrgustiku. Rajast pole selget märki, inimene näib kõndivat otse läbi metsaaluse.",
+      "actions": [
+        "Kõndimine",
+        "Liikumine läbi metsa"
+      ],
+      "keywords": [
+        "Mets",
+        "Hilisssügis",
+        "Raagus puud",
+        "Lehed maas",
+        "Seljakott",
+        "Statiiv",
+        "Üksi",
+        "Matk",
+        "Loodus",
+        "Hall ilm",
+        "Sünge",
+        "Vaatepilt"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Seljakott",
+        "Statiiv",
+        "Puud",
+        "Lehed",
+        "Muld",
+        "Oksad"
+      ],
+      "colorcodes": [
+        "#5F6B6A",
+        "#9B8C70",
+        "#3E4C56",
+        "#735B4E",
+        "#3A444C",
+        "#2F3B43"
+      ],
+      "texts": [],
+      "persons": [
+        "Üksik inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Inimene liigub kaadrite vahel edasi metsa sügavusse.",
+        "Inimese kõnnakust tulenevalt muutub tema keha asend kergelt, eriti jalad ja käed.",
+        "Kaamera asend püsib samana, jälgides tegelast tema liikumisel."
+      ],
+      "snr": "019",
+      "ajad": [
+        "131.833",
+        "136.833"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab ühte inimest, kes kõnnib seljaga vaataja poole läbi tiheda, raagus lehtpuumetsa. Maapind on kaetud paksult pruunide langenud lehtedega ja mõnede kuivanud rohulaikudega, andes edasi hilissügise või varatalve atmosfääri. Puud on tumedate, okslike tüvedega ja ilma lehtedeta, moodustades halli, pilvise taeva taustal sünge silueti. Inimesel on seljas tume jope või mantel, heledad püksid ja ta kannab suurt matkaseljakotti. Seljakoti külge on kinnitatud pikk tume ese, mis meenutab relva või matkatarvikut. Üldine valgusküllus on hajutatud ja puuduvad teravad varjud, luues rahuliku, kuid veidi melanhoolse meeleolu.",
+      "actions": [
+        "kõndimine",
+        "matkamine",
+        "liikumine edasi"
+      ],
+      "keywords": [
+        "mets",
+        "sügis",
+        "raagus puud",
+        "lehed",
+        "matkamine",
+        "loodus",
+        "sünge",
+        "üksik",
+        "talvine",
+        "varatalv"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "puud",
+        "lehed",
+        "seljakott",
+        "relv",
+        "mets",
+        "oksad",
+        "maapind"
+      ],
+      "colorcodes": [
+        "#6F5E4E",
+        "#3A3D3C",
+        "#909BA0",
+        "#465964",
+        "#8C8A84"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Inimene liigub iga kaadriga mõne sammu võrra edasi metsarajal, näidates tema liikumise järjepidevust kaadrite vahel."
+      ],
+      "snr": "020",
+      "ajad": [
+        "136.833",
+        "142.125"
+      ]
+    }
+  ]
+}

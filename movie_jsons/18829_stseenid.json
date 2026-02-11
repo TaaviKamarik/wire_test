@@ -1,0 +1,1033 @@
+{
+  "film": [
+    "18829",
+    "18680",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Intervjuu Enn Sädega",
+    "d51a0772cc87fc56e45e582a19e50da6da512848.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen on valdavalt musta taustaga, millel ilmuvad ja kaovad graafilised elemendid ja tekst. Esimeses kaadris on ekraan täiesti must. Teises kaadris ilmub ekraani keskele minimalistlik graafika, mis koosneb kolmest udusest, ümarast valguspunktist: üks tumesinine, üks valge ja üks punane, mis on paigutatud kolmnurksesse gruppi. Nende valguspunktide kõrval paremal on valged suurtähed \"B M\". Seejärel kaob graafika ja ekraan muutub taas täiesti mustaks. Kolmandas kaadris ilmub ekraani alaossa valge tekst, mis kirjeldab tegevust, mis on seotud filmimise ja professionaalse heli loomisega.",
+      "actions": [
+        "Graafika koos tähtedega \"B M\" ilmumine",
+        "Graafika koos tähtedega \"B M\" kadumine",
+        "Pikema teksti ilmumine ekraani alaosas"
+      ],
+      "keywords": [
+        "Must taust",
+        "Digitaalne graafika",
+        "Logo",
+        "Tekst",
+        "Sissejuhatus",
+        "Filmimine",
+        "Heli tootmine",
+        "Minimaalne disain"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Valguspunktid",
+        "Tähed (B, M)",
+        "Tekstiplokk"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#1E4A7D",
+        "#DF2028"
+      ],
+      "texts": [
+        "B M",
+        "I wasn't doing the filming though, we had lads helping us out but I started to work on sound there for the first time, professional sound"
+      ],
+      "persons": [
+        "Pole otseselt nähtavad, kuid tekstis mainitud \"mina\" ja \"poisid\""
+      ],
+      "imagetype": "effect",
+      "emptypercent": "90-100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene kaader on täiesti must, samas kui teises kaadris ilmub graafiline logo ja tähed \"B M\" koos kolme uduselt värvilise punktiga.",
+        "Teises kaadris näidatud logo ja tähed \"B M\" kaovad enne kolmandat kaadrit.",
+        "Kolmandas kaadris on ekraanil mustal taustal erinev, pikem tekst ekraani allosas, samas kui esimeses kaadris puudus igasugune tekst ja teises oli vaid \"B M\".",
+        "Visuaalsete elementide ja teksti olemasolu/puudumine muutub kaadrite vahel."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "7.925"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanem mees, kes istub ja räägib, tõenäoliselt intervjuud andes. Tal on hallikad juuksed ja lühike valge habe. Seljas on tal tumesinine kraega pintsakulaadne jope, mille all paistab hele särk ja tumepunane kampsun või vest. Mehe nägu on keskendunud ja suu on avatud, viidates aktiivsele kõnelemisele. Ta vaatab otse kaamerasse. Taustal on tumelilla või tumehall, kortsuline kardin. Kaadri allosas on valged subtiitrid mustal taustal.",
+      "actions": [
+        "rääkimine",
+        "kõnelemine",
+        "intervjueeritav"
+      ],
+      "keywords": [
+        "intervjuu",
+        "mees",
+        "hallid juuksed",
+        "habe",
+        "subtiitrid",
+        "kardin",
+        "siseruum",
+        "vestlus",
+        "vanem inimene"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "kardin",
+        "jope",
+        "särk",
+        "kampsun",
+        "subtiitrid"
+      ],
+      "colorcodes": [
+        "#3C4B64",
+        "#E0E0E0",
+        "#5C2C3A",
+        "#C0C0C0",
+        "#4F4C5E",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "I wasn't doing the filming though, we had lads helping us out but I started to work on sound there for the first time, professional sound",
+        "With pretty wide recorders and I did the mixing in Lenfilm with a real sound mixer, four meters wide, my hands were shaking and I made that film"
+      ],
+      "persons": [
+        "vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevused esinevad subtiitrites: esimesel ja kolmandal pildil on näha erineva sisuga subtiitrid, samas kui teisel pildil subtiitrid puuduvad.",
+        "Mehe suu asend ja näoilme varieeruvad pisut, viidates kõne jätkuvusele: esimesel ja kolmandal pildil on suu avatud, teisel pildil on suu suletud."
+      ],
+      "snr": "002",
+      "ajad": [
+        "7.925",
+        "20.479"
+      ]
+    },
+    {
+      "explanation": "Stseenis on mustal taustal valge tekst, mis moodustab tiitlikaardi. Suuremalt on ekraani keskel kiri \"intervjuu Enn Sädega\". Esimesel kaadril on lisaks sellele allosas peenemas kirjas ingliskeelne subtiiter: \"With pretty wide recorders and I did the mixing in Lenfilm with a real sound mixer, four meters wide, my hands were shaking and I made that film\". Teisel kaadril see subtiiter puudub. Pilt on minimalistlik, keskendudes ainult tekstile ja taustale.",
+      "actions": [],
+      "keywords": [
+        "tiitlikaart",
+        "must taust",
+        "valge tekst",
+        "subtiitrid",
+        "intervjuu",
+        "nimi"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "intervjuu Enn Sädega",
+        "With pretty wide recorders and I did the mixing in Lenfilm with a real sound mixer, four meters wide, my hands were shaking and I made that film"
+      ],
+      "persons": [
+        "Enn Säde"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "85",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on lisaks pealkirjale ingliskeelne subtiiter all paremas nurgas, teisel pildil see subtiiter puudub."
+      ],
+      "snr": "003",
+      "ajad": [
+        "20.479",
+        "24.858"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine või vanem habemega mees, kes istub tumedas siseruumis ja räägib. Ta kannab tumesinist pintsakit, mille all on tumepruun V-kaelusega kampsun ja valge kraega särk. Tema hallikas-valge habe on hoolitsetud. Taust on valdavalt tume, vasakul pool on näha tumedad kardinad, mis rippuvad laest. Paremal pool seisab pikk ja silmapaistev põrandalamp, millel on narmastega lambivari ja skulptuurne alus, mis meenutab virnastatud figuure. Lambi alus on pruunikat tooni. Vasakul alumises nurgas on näha puust pink või laud, millel on tumesinise mustriga padi. Valgus on suunatud peamiselt mehele, jättes tausta veidi varjudesse, mis loob intiimse ja keskendunud atmosfääri. Stseen jätab intervjuu või jutustamise mulje.",
+      "actions": [
+        "Istumine",
+        "Rääkimine",
+        "Silmade sulgemine (ühes kaadris)"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Habe",
+        "Tumedad toonid",
+        "Põrandalamp",
+        "Siseruum",
+        "Jutustamine",
+        "Vestlus",
+        "Kardinad",
+        "Rahulik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kardinad",
+        "Põrandalamp",
+        "Lambivari",
+        "Lambi alus",
+        "Pintsak",
+        "Kampsun",
+        "Särk",
+        "Habe",
+        "Puust laud/pink",
+        "Padi"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#2a3a52",
+        "#3b2a2a",
+        "#f0f0f0",
+        "#a0a0a0",
+        "#a08c7c",
+        "#7b5f4a",
+        "#805030",
+        "#304050"
+      ],
+      "texts": [
+        "so for me film making started there in the institute of cinema engineers",
+        "were spent making some technical drawings and doing calculations",
+        "and i had a friend Edik who's father was a Russian and mother a Jew and the two of us started"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe näoilme ja pilgu suund muutuvad kergelt kaadrite vahel.",
+        "Esimeses kaadris on mehe silmad avatud ja ta vaatab otse.",
+        "Teises kaadris on mehe silmad suletud ja ta pea on veidi allapoole.",
+        "Kolmandas kaadris on mehe silmad avatud ja ta pilk on suunatud veidi paremale.",
+        "Subtiitrite tekst on igas kaadris erinev."
+      ],
+      "snr": "004",
+      "ajad": [
+        "24.858",
+        "85.502"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud eakas mees, kellel on hallid juuksed ja lühike hall habe. Ta kannab tumesinist pintsakit, mille all on helehall särk ja tumepunane vest. Mees istub tumeda, ilmselt sametist eesriide taustal ja räägib, tema suu on avatud ja näoilme näitab süvenemist. Valgus langeb talle eest, valgustades selgelt tema nägu ja habet. Kaamera on suunatud talle keskmise plaani võttena, keskendudes tema ülakehale ja näole. Allosas on näha ingliskeelsed subtiitrid.",
+      "actions": [
+        "Rääkimine",
+        "Istumine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Eakas mees",
+        "Habe",
+        "Vestlus",
+        "Intervjuu",
+        "Siseruum",
+        "Eesriie",
+        "Pintsak",
+        "Särk",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Pintsak",
+        "Särk",
+        "Vest",
+        "Habe",
+        "Juuksed",
+        "Eesriie"
+      ],
+      "colorcodes": [
+        "#465874",
+        "#C4CEDC",
+        "#8B8B8B",
+        "#3A3A3A",
+        "#603848",
+        "#000000"
+      ],
+      "texts": [
+        "and I had a friend Edik who's father was a Russian and mother a Jew and the two of us started",
+        "on his own initiative to make a history of our institute in our fourth year for the 35",
+        "I don't know if we had any devices there, maybe only the projector \"Ukraine\""
+      ],
+      "persons": [
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst muutub kaadrite vahel, kajastades mehe juttu.",
+        "Mehe näoilme ja suu asend muutuvad pisut iga kaadriga, mis viitab käimasolevale rääkimisele."
+      ],
+      "snr": "005",
+      "ajad": [
+        "85.502",
+        "105.480"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha vanem mees halli habeme, vuntside ja lühikeste juustega, kes istub tumedas interjööris. Ta kannab tumesinist pintsakut, tumedat V-kaelusega kampsunit ja valget kraega särki. Mees räägib ja žestikuleerib aktiivselt oma parema käega, vaadates kord üles ja paremale mõtisklevalt, kord otse ette kaamerasse, ning kord taas rääkides ja žestikuleerides. Valgustus on dramaatiline, luues mehe näole ja riietele tugevaid valguse- ja varjuefekte. Taust on valdavalt tume: vasakul pildi servas on näha tumedat rasket kangast kardinat ning paremal on plainne tume sein. Vasakus alaosas on madal puidust laud või pink, millel asetseb sinise mustriga padi. Paremal pildi servas seisab kõrge, tumedast puidust nikerdatud alus, mille peal on ainulaadne laualamp. Lambi varjuosa on heledast kangast tumedate püsttriipudega ning lambijala alumine osa on kaunistatud virnastatud, ruudulise mustriga kujunditega.",
+      "actions": [
+        "rääkimine",
+        "žestikuleerimine",
+        "vaatamine",
+        "kuulamine"
+      ],
+      "keywords": [
+        "intervjuu",
+        "portree",
+        "mees",
+        "tume",
+        "kontrast",
+        "lamp",
+        "kardin",
+        "hall habe",
+        "sisekeskkond"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "pintjak",
+        "kampsun",
+        "särk",
+        "habe",
+        "vuntsid",
+        "juuksed",
+        "kardin",
+        "sein",
+        "laud",
+        "pink",
+        "padi",
+        "lambialus",
+        "lamp",
+        "lambivari"
+      ],
+      "colorcodes": [
+        "#4f5b72",
+        "#282124",
+        "#7b7e80",
+        "#5c504a",
+        "#b7bdc1",
+        "#212121",
+        "#33414d"
+      ],
+      "texts": [
+        "and they were trying for a very long time, now VGIK is teaching sound guys like you here but yes, at that time it didn't exist here at all"
+      ],
+      "persons": [
+        "vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe pilgu suund erineb: esimesel pildil vaatab ta üles ja paremale, teisel pildil žestikuleerib ja räägib, kolmandal pildil vaatab otse ette.",
+        "Teisel pildil on näha mehe parema käe žesti, samas kui teistel piltidel on käed rahulikult paigal või on väljaspool kaadrit.",
+        "Teisel pildil on ekraanil näha ingliskeelsed subtiitrid, mis teistel piltidel puuduvad."
+      ],
+      "snr": "006",
+      "ajad": [
+        "105.480",
+        "148.190"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanemas eas mees, kellel on hallid juuksed ja lopsakas hall habe. Ta istub siseruumis, tumelillaka-pruuni tooniga kardina ees, mis moodustab tumeda ja intiimse tausta. Mehel on seljas hele, tõenäoliselt helehall särk, selle peal tume (tõenäoliselt tumepunane või pruun) kampsun ja tumesinine või hall pintsak. Tema pilk on suunatud otse kaamerasse ning suu on kergelt avatud, justkui ta räägiks või oleks vestluse keskel. Mehe näoilme on tõsine ja mõtlik. Valgus langeb talle eestpoolt, tuues esile näojooned ja habeme detailid. Stseen tekitab mulje intervjuust või sügavast vestlusest.",
+      "actions": [
+        "Mees räägib/kõneleb"
+      ],
+      "keywords": [
+        "Mees",
+        "Portree",
+        "Interjöör",
+        "Vestlus",
+        "Hallpea",
+        "Habe",
+        "Tumedad toonid",
+        "Tõsine",
+        "Kõnelemine",
+        "Hallid juuksed",
+        "Intervjuu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Pintsak",
+        "Kampsun",
+        "Särk",
+        "Habe",
+        "Juuksed",
+        "Kardinad",
+        "Taust"
+      ],
+      "colorcodes": [
+        "#A9A9A9",
+        "#D3D3D3",
+        "#5C323D",
+        "#2F3E46",
+        "#36283D",
+        "#1A1A1A"
+      ],
+      "texts": [
+        "because generations change more or less every 20 years",
+        "and this coming of our generation was met with bayonets"
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid, teisel ja kolmandal pildil on subtiitrid.",
+        "Subtiitrite tekst muutub: teisel pildil on tekstiks 'because generations change more or less every 20 years', kolmandal pildil on 'and this coming of our generation was met with bayonets'.",
+        "Mehe suu asend on piltidel veidi erinev, mis viitab kõnelemisele ja video erinevatele hetkedele."
+      ],
+      "snr": "007",
+      "ajad": [
+        "148.190",
+        "185.018"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanem mees, kellel on hallikad juuksed ja lühike habe. Ta kannab tumesinist jakki, mille all on tume V-kaelusega kampsun ja valge särk. Mees istub ja vaatab otse ette või kergelt kaamerast vasakule, näoilme on tõsine ja mõtlik. Tema taga on tume kardin ja tumedaks värvitud sein, luues hämarat ja intiimset õhkkonda. Paremal pool on näha omanäoline põrandalamp, mille lambivari on heledat värvi tumedate triipudega ja jalg on valmistatud tekstuurse pinnaga puitmaterjalist, asetades see tumedale puidust alusele. Vasakul pool on näha puidust laua või pingi serv, millel lebav sinine, mustriga padi lisab stseenile värvi. Stseeni allosas on subtiitrid, mis kuvavad juttu, mida mees räägib. Üldine valgustus on hämar, tuues esile mehe näo ja lambi detailid.",
+      "actions": [
+        "Mees istub",
+        "Mees räägib (impliseeritud subtiitrite kaudu)"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Portree",
+        "Intervjuu",
+        "Hämar",
+        "Sisevõte",
+        "Lamp",
+        "Subtiitrid",
+        "Habe",
+        "Tõsine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Habe",
+        "Tumesinine jakk",
+        "Tume kampsun",
+        "Valge särk",
+        "Hallid juuksed",
+        "Lamp",
+        "Lambivari",
+        "Puidust alus",
+        "Tume kardin",
+        "Tume sein",
+        "Puidust laud/pink",
+        "Sinine padi",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#2C3D4D",
+        "#342426",
+        "#FFFFFF",
+        "#D6D6D6",
+        "#2E2E2E",
+        "#C6B690",
+        "#746450",
+        "#7E6C5C",
+        "#3D352F",
+        "#40516A",
+        "#000000A0"
+      ],
+      "texts": [
+        "and this coming of our generation was met with bayonets",
+        "in '61 Nikita, this time of \"thaw\", right, well in '63 they took him down"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha subtiitrid ühe tekstireaga.",
+        "Teisel pildil on näha subtiitrid kahe tekstireaga.",
+        "Kolmandal pildil puuduvad nähtavad subtiitrid.",
+        "Mehe asend ja näoilme on kolmel pildil peaaegu identsed, mis viitab pidevale stseenile."
+      ],
+      "snr": "008",
+      "ajad": [
+        "185.018",
+        "212.003"
+      ]
+    },
+    {
+      "explanation": "Stseenil on keskealine või vanem habemega mees, kes on riietatud tumesinisesse jakki heleda särgi ja tumeda vesti peal. Ta istub tumeda, tõenäoliselt lillakashalli kardinatega kaetud tausta ees. Mehe juuksed on hallisegused ja ta kannab lühikest halli habet. Valgus on suunatud mehele, tuues esile tema näojooned ja riietuse. Ühel hetkel ilmuvad ekraanile subtiitrid, mis viitavad tema kõnele.",
+      "actions": [
+        "rääkimine",
+        "mõtisklemine",
+        "vaatamine"
+      ],
+      "keywords": [
+        "mees",
+        "habe",
+        "vest",
+        "jakk",
+        "särk",
+        "kardinad",
+        "intervjuu",
+        "portree",
+        "subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "kardinad"
+      ],
+      "colorcodes": [
+        "#2F3E5E",
+        "#C6C6C6",
+        "#4A3E5C",
+        "#B4B4B4"
+      ],
+      "texts": [
+        "\"Päiuke päss\". In Estonian \"paiuk\" means a pension and \"päss\", you know what it means. It means a ram but when these \"päss\"-es get together..."
+      ],
+      "persons": [
+        "üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltidel 1 ja 2 on mehe silmad veidi suletud ja suu avatud, justkui ta räägiks või oleks poole lause peal. Pildil 3 on mehe silmad avatud ja ta vaatab otse ette, suu on rohkem suletud ja näoilme tõsisem või mõtisklevam.",
+        "Pildil 2 on nähtavad subtiitrid, mis puuduvad piltidelt 1 ja 3."
+      ],
+      "snr": "009",
+      "ajad": [
+        "212.003",
+        "275.442"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast siseruumi, kus vanem habemega mees istub ja räägib, tõenäoliselt intervjuud andes. Ta vaatab otse kaamerasse või veidi kõrvale. Mees kannab tumesinist või halli pintsaku, tumepruuni V-kaelusega kampsunit ja heledat kraega särki. Tal on hall habe ja lühikesed hallid juuksed. Tema ilme on läbimõeldud ja rääkimise käigus ta žestikuleerib, näiteks puudutab ühel hetkel oma oimukohta. Taust on valdavalt tume, vasakul on näha tumedaid voltidega kardinaid ning paremal on pika jalaga puidust laualamp, millel on mustriline kuppel ja mustvalge triibuline keha. Lambi jalg on valmistatud tumedast puidust ja sellel on mitu vertikaalset osa. Mehe vasakul küljel, madalal puidust pinnal (võimalik, et pink või laud), on näha tumesinise mustriga padi. Stseeni allosas ilmuvad teatud hetkedel ingliskeelsed subtiitrid.",
+      "actions": [
+        "Rääkimine",
+        "Žestikuleerimine",
+        "Oimukoha puudutamine",
+        "Vaatamine kaamerasse"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Portree",
+        "Sisevõte",
+        "Vestlus",
+        "Mees",
+        "Lamp",
+        "Tumedad toonid",
+        "Habemega",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Pintsak",
+        "Kampsun",
+        "Särk",
+        "Habe",
+        "Kardinad",
+        "Laudlamp",
+        "Lambikuppel",
+        "Lambijalg",
+        "Padi",
+        "Puidust pind",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#3C4B5E",
+        "#3B2E2D",
+        "#E6E7E4",
+        "#201D1E",
+        "#959494",
+        "#594432",
+        "#425B6C",
+        "#141314"
+      ],
+      "texts": [
+        "well you quickly learn how to work with it, but it's not, well, the technology is clumsy",
+        "and they need to be synced as well, the image and the sound need to be in the right places but then during the montage they start to slide around for some reason"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil vaatab mees otse kaamerasse, tema ilme on neutraalsem, käed pole nähtavad ja subtiitrid puuduvad.",
+        "Teisel pildil vaatab mees veidi paremale, parem käsi on tõstetud ja osutab oimukohale. Pildi allosas on nähtavad ingliskeelsed subtiitrid.",
+        "Kolmandal pildil on mees samuti veidi paremale vaatamas, suu on avatud rääkimise asendis. Pildi allosas on näha teised ingliskeelsed subtiitrid. Mehe näoilme ja poos muutuvad kõigil kolmel pildil, kajastades vestluse erinevaid hetki."
+      ],
+      "snr": "010",
+      "ajad": [
+        "275.442",
+        "308.266"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanem mees, kes istub siseruumides ja räägib. Tal on hallikaspruunid juuksed ja pikk valge habe. Mees kannab tumesinist pintsakut, heledat särki ja tumelillat V-kaelusega kampsunit. Ta paistab olevat intervjuul või paneeldiskussioonil, istudes tumelillade/hallide kardinate ees. Valgustus on suunatud peamiselt temale, jättes taustale tumedama varju. Mees žestikuleerib aktiivselt oma parema käega rääkimise ajal, kandes sõrmes sõrmust. Ekraani allosas on valged subtiitrid mustal poolläbipaistval taustal, mis näitavad tema kõnet inglise keeles. Tema ilme on tõsine ja keskendunud räägitavale.",
+      "actions": [
+        "räägib",
+        "žestikuleerib käega",
+        "istub"
+      ],
+      "keywords": [
+        "mees",
+        "vanem",
+        "habe",
+        "intervjuu",
+        "kõneleja",
+        "žestikuleerimine",
+        "siseruum",
+        "kardinad",
+        "subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "pintsak",
+        "särk",
+        "kampsun",
+        "habe",
+        "sõrmus",
+        "kardinad"
+      ],
+      "colorcodes": [
+        "#3A4C6E",
+        "#9BA4AC",
+        "#4E3E5B",
+        "#E2E2E2",
+        "#4A3E57",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "and they need to be synced as well, the image and the sound need to be in the right places but then during the montage they start to slide around for some reason",
+        "take a slice out or edit it, then the montage girls numbered them manually",
+        "so you cannot really compare it at all to the modern technology that allows you make a feature film at home"
+      ],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe parema käe asend ja žest on erinevates kaadrites muutuv, järgides tema kõnet.",
+        "Subtiitrite tekst muutub iga kaadriga, esitades räägitava jutu eri osi.",
+        "Mehe suu asend ja näoilme muutuvad kergelt vastavalt kõnele."
+      ],
+      "snr": "011",
+      "ajad": [
+        "308.266",
+        "328.286"
+      ]
+    },
+    {
+      "explanation": "Stseenis on keskealine kuni vanem mees, kes istub intervjuul tumedal taustal. Mehel on halli-pruunid juuksed ja lühike, hoolitsetud valge habe. Ta kannab tumesinist jakki, tumepruuni V-kaelusega kampsunit ja valget kraega särki. Ta vaatab kergelt paremale (vaataja vasakule), suu on kergelt avatud, justkui räägiks või mõtleks. Vasakul pool on näha tumesinist mustriga padja osa, mis asub puidust pinnal. Taust on enamasti tume, vasakul pool on näha tumedat drapeeringut või kardinat. Paremal pool on pikk, puidust alusel seisev lamp, millel on ruuduline või triibuline lambivari ja keerdus jalg, mis meenutab skulptuuri. Üldine meeleolu on tõsine ja keskendunud, valguse fookus on mehel endal. Stseen on professionaalselt valgustatud, jättes taustale sügavaid varje.",
+      "actions": [
+        "Mees räägib või annab intervjuud",
+        "Mees mõtiskleb"
+      ],
+      "keywords": [
+        "intervjuu",
+        "mees",
+        "eakas",
+        "siseruum",
+        "tume taust",
+        "lamp",
+        "drapeering",
+        "vestlus",
+        "mõtisklev",
+        "professionaalne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "jakk",
+        "kampsun",
+        "särk",
+        "habe",
+        "padi",
+        "puidust pind",
+        "kardin",
+        "lamp",
+        "lambivari",
+        "puidust alus"
+      ],
+      "colorcodes": [
+        "#344665",
+        "#221617",
+        "#8F8B88",
+        "#0B0A09",
+        "#C8D1CF",
+        "#18100C",
+        "#595556",
+        "#40455B"
+      ],
+      "texts": [
+        "so you cannot really compare it at all to the modern technology that allows you make a feature film at home",
+        "but i've always said that today we are exactly as smart as we are today"
+      ],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide ainus erinevus on kuvatav subtiitrite tekst."
+      ],
+      "snr": "012",
+      "ajad": [
+        "328.286",
+        "348.348"
+      ]
+    },
+    {
+      "explanation": "Stseenis on esiplaanil vanem mees, kes vaatab otse kaamerasse ja räägib. Tal on hallikas-pruunid juuksed, täishabe ja vuntsid. Mehel on seljas tumesinine või tumehall mustriga pintsak, mille all on helehall kraega särk ja tumedam V-kaelusega kampsun. Tema näoilme on tõsine ja keskendunud. Ühel hetkel viib ta parema käe lõua juurde mõtisklevalt. Tausta moodustavad tumedad, tõenäoliselt lillakas-hallid või tumesinised rippuvad eesriided või kardinad, mis annavad stseenile ametliku ja intiimse siseruumi tunde. Valgus on pehme, rõhutades mehe näojooni. Pildi allosas on näha ingliskeelsed subtiitrid.",
+      "actions": [
+        "Vaatamine otse kaamerasse",
+        "Rääkimine",
+        "Parema käe viimine lõua juurde"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Habe",
+        "Vuntsid",
+        "Intervjuu",
+        "Rääkimine",
+        "Siseruum",
+        "Portree",
+        "Tõsine ilme"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Pintsak",
+        "Särk",
+        "Kampsun",
+        "Eesriided",
+        "Kardinad",
+        "Sõrmus"
+      ],
+      "colorcodes": [
+        "#2D3A4B",
+        "#A6A6A0",
+        "#4B4B58",
+        "#5A5A5C"
+      ],
+      "texts": [
+        "and by then, the so-called new “Konvas” was introduced",
+        "so I shot the whole movie in sync using “Konvas”"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe parema käe asend muutub piltide vahel – esimesel ja kolmandal pildil on käsi allpool, teisel pildil on käsi viidud lõua juurde.",
+        "Ingliskeelsed subtiitrid pildi allosas muutuvad vastavalt räägitavale tekstile."
+      ],
+      "snr": "013",
+      "ajad": [
+        "348.348",
+        "548.381"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või vanem mees, kes istub ja räägib kaamera ees pimedas ruumis. Ta kannab tumesinist pintsakit, tumedat v-kaelusega kampsunit ja valget kraega särki. Mehel on hall habe ja vuntsid ning ta vaatab kergelt vasakule. Teda valgustab nähtavasti eestpoolt tulev valgus, mis loob varjud tausta ja mehe paremale küljele. Tausta moodustavad tumedad drapereeringud või kangas vasakul ja keskel, ning tume sein paremal. Paremal pool on pikk, tumedast puidust valmistatud postament, mille peal seisab omapärane lamp. Lambivarjul on heledad ja tumedad vertikaalsed triibud ning narmastatud äär. Lambi jalg näib olevat pakitud figuur või objekt, mis on kaetud valge-mustatriibulise kangaga. Postamendi all on samuti tume, rustikaalne puidust alus. Vasakul pool on näha puidust taburet või madal laud, millel asetseb sinise mustriga padi.",
+      "actions": [
+        "Rääkimine",
+        "Intervjuu andmine"
+      ],
+      "keywords": [
+        "Mees",
+        "Intervjuu",
+        "Pime ruum",
+        "Lamp",
+        "Drapereeringud",
+        "Rääkimine",
+        "Hall habe",
+        "Filmijutustus",
+        "Portree",
+        "Siseintervjuu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Lamp",
+        "Lambivari",
+        "Puidust postament",
+        "Tumedad drapereeringud",
+        "Sinine padi",
+        "Puidust taburet/laud",
+        "V-kaelusega kampsun",
+        "Pintsak",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#2f4055",
+        "#3a2c2b",
+        "#e2e2e2",
+        "#a0a0a0",
+        "#1a1a1a",
+        "#e0e0e0",
+        "#303030",
+        "#5a4030",
+        "#4a6a8a"
+      ],
+      "texts": [
+        "so i shot the whole movie in sync using \"konvas\"",
+        "and tie it in place then I can make this camera a lot more quiet"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst on piltidel erinev, näidates jutu jätku.",
+        "Mehe näoilme ja kehahoiak on kahe kaadri vahel peaaegu identsed, viidates minimaalsele liikumisele kaadrite vahel."
+      ],
+      "snr": "014",
+      "ajad": [
+        "548.381",
+        "637.554"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha vanem mees, kellel on hallikad juuksed ja valge, hoolitsetud habe. Ta on riietatud tumesinisesse pintsakusse, mille all paistab hele särk ja tumepruun või -lilla kampsun/vest. Mehe näoilme on tõsine ja mõtlik, kohati veidi skeptiline. Ta vaatab otse kaamerasse või veidi paremale. Taustaks on näha tumelilla või hallikaspruun kangas, mis sarnaneb kardinaga, ning vasakul pool on sügavalt varjus olev tume ala. Valgus on suunatud mehe näole, luues intiimse intervjuu- või vestlusolukorra.",
+      "actions": [
+        "Mees räägib",
+        "Mees vaatab kaamerasse"
+      ],
+      "keywords": [
+        "Mees",
+        "Habe",
+        "Intervjuu",
+        "Rääkimine",
+        "Siseruum",
+        "Tõsine",
+        "Hallid juuksed",
+        "Kardin",
+        "Tume taust",
+        "Pintsak",
+        "Mõtlik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Habe",
+        "Juuksed",
+        "Pintsak",
+        "Särk",
+        "Kampsun",
+        "Kardin"
+      ],
+      "colorcodes": [
+        "#2E3E58",
+        "#C4C6C0",
+        "#D0D0D0",
+        "#5E506C",
+        "#2A2A2E"
+      ],
+      "texts": [
+        "that for God's sake, just write in simple sentences \"It was snowing, it was cold\""
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses kaadris on mehe suu suletud ja tema pilk on veidi paremale suunatud, näoilme on tõsisem ja pisut skeptiline.",
+        "Teises kaadris on mehe suu avatud, justkui ta räägiks, pilk on otse kaamerasse ja ekraanil on näha ingliskeelsed subtiitrid.",
+        "Kolmandas kaadris on samuti mehe suu avatud ja pilk otse kaamerasse, sarnaselt teise kaadriga, kuid subtiitrid puuduvad. Kõigis kaadrites on mehe riietus ja taust samad."
+      ],
+      "snr": "015",
+      "ajad": [
+        "637.554",
+        "667.584"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud keskealine või vanem mees halli habeme ja vuntsidega, kes istub ja vaatab kaamerasse või selle kõrvale. Ta kannab tumesinist pintsakit, mille all on tume V-kaelusega kampsun ja heledat kraega särk. Mees istub tumedal taustal, mis võib olla drapeeritud kardinatega stuudionurk. Vasakul pool on näha puidust tabureti või väikese laua ots, millel asub sinise mustriga padi. Paremal pool seisab kõrge puidust lambijalg, millel on ruudulise mustriga alus ja triibuline lambikuppel. Valgus on suunatud peamiselt mehele, jättes tausta hämaraks. Mehe ilme varieerub piltidel kergelt, olles kord otse kaamerasse vaatav ja kord mõtlikult kõrvale vaatav. Ühes kaadris on näha ka subtiitrid, mis viitavad kõnele.",
+      "actions": [
+        "Istub",
+        "Vaatab",
+        "Räägib"
+      ],
+      "keywords": [
+        "Mees",
+        "Portree",
+        "Intervjuu",
+        "Siseruum",
+        "Stuudio",
+        "Lamp",
+        "Padi",
+        "Tume taust",
+        "Hall habe"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Pintsak",
+        "Kampsun",
+        "Särk",
+        "Habe",
+        "Vuntsid",
+        "Puidust laud/taburet",
+        "Sinine padi",
+        "Põrandalamp",
+        "Lambijalg",
+        "Lambikuppel",
+        "Tume kardin/taust"
+      ],
+      "colorcodes": [
+        "#2e3b52",
+        "#332626",
+        "#e0e0e0",
+        "#a0a0a0",
+        "#405b7a",
+        "#6b4d36",
+        "#8b7054",
+        "#c0c0c0",
+        "#1a1a1a"
+      ],
+      "texts": [
+        "you should ask mom and dad everything that they can remember. God I'm angry with myself now"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe pilk ja näoilme muutuvad kaadrite vahel (otse kaamerasse, paremale vaatav, mõtlikum).",
+        "Subtiitrid on nähtavad ainult teises kaadris."
+      ],
+      "snr": "016",
+      "ajad": [
+        "667.584",
+        "686.394"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või vanem mees, kes on kadreeritud pealaest rinnuni. Tal on hallikas juuksepahmakas ning lühike hall habe ja vuntsid. Tema näol on tõsine ja mõtisklev ilme, kord on suu veidi avatud, kord suletud või kergelt kokku surutud, otsekui ta räägiks või kuulaks tähelepanelikult. Mees vaatab kaamerast veidi paremale, luues mulje intervjuust või vestlusest. Seljas kannab ta tumesinist, kergelt ruudulise mustriga pintsakut, mille all on heledam särk ja tumedam vest. Taustaks on tumelillad või tumepruunid, rasked kangast kardinad, mis on valgustatud ülevalt, andes neile õrna läike. Üldine valgustus on suunatud peamiselt mehele.",
+      "actions": [
+        "rääkimine",
+        "vestlemine",
+        "mõtisklemine",
+        "vaatamine"
+      ],
+      "keywords": [
+        "mees",
+        "habe",
+        "vanem",
+        "hallid juuksed",
+        "intervjuu",
+        "portree",
+        "siseruum",
+        "kardinad",
+        "tõsine",
+        "mõtisklev",
+        "sinine pintsak",
+        "vestlus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "pintak",
+        "särk",
+        "vest",
+        "habe",
+        "vuntsid",
+        "juuksed",
+        "kardinad"
+      ],
+      "colorcodes": [
+        "#394A69",
+        "#C4C4C4",
+        "#4C3C4C",
+        "#A0A0A0",
+        "#2D243A",
+        "#D4D4D4"
+      ],
+      "texts": [
+        "So this, I wouldn't call it a mission, that's a trivial word"
+      ],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil on subtiitrid inglise keeles: 'So this, I wouldn't call it a mission, that's a trivial word', mis teistel piltidel puuduvad.",
+        "Mehe suu asend ja näoilme varieeruvad pisut kaadrite vahel, mis annab edasi vestluse või kõne dünaamikat."
+      ],
+      "snr": "017",
+      "ajad": [
+        "686.394",
+        "718.217"
+      ]
+    }
+  ]
+}

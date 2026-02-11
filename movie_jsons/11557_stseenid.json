@@ -1,0 +1,3781 @@
+{
+  "film": [
+    "11557",
+    "11548",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Naiskodukaitse koormusretk",
+    "28a1994fd921f83eb9dd89221f818a62f2b552b6.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen koosneb kahest järjestikusest teksti slaidist või ekraanipildist, millel on ühevärviline must taust ja valge või helehall monospaced-tüüpi kiri, mis meenutab kirjutusmasina fonti. Esimene slaid annab teavet sündmuse kohta: pealkiri on 'Naiskodukaitse Koormusmatk', kuupäevad on 21.05.2011 kuni 22.05.2011 ja kellaajad 02.00 hommikul kuni 19.00 õhtul. Teine slaid esitab lühikese käsu või üleskutse: 'Charge your weapons!'.  Mõlemad slaidid on minimalistliku disainiga, keskendudes ainult informatsiooni edastamisele.",
+      "actions": [
+        "Teksti kuvamine",
+        "Informatsiooni edastamine",
+        "Sündmuse tutvustamine",
+        "Juhise andmine"
+      ],
+      "keywords": [
+        "Tekst",
+        "Slaid",
+        "Ekraanipilt",
+        "Informatsioon",
+        "Kuupäev",
+        "Kellaaeg",
+        "Must taust",
+        "Valge kiri",
+        "Monospaced font",
+        "Naiskodukaitse",
+        "Koormusmatk",
+        "Relvad",
+        "Käsk",
+        "Üritus",
+        "Minimalistlik"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Naiskodukaitse Koormusmatk",
+        "21.05.2011. - 22.05.2011",
+        "02.00 am - 07.00 pm",
+        "Charge your weapons!"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "95",
+      "season": "spring",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil kuvatakse sündmuse pealkiri, kuupäev ja kellaajad, teisel pildil aga käsklus 'Charge your weapons!'."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "12.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab väljas toimuvat püssitreeningut või laskmisharjutust rohelisel muruväljal, päevasel ajal. Esikümnendis on näha kamuflaažvormis inimene, kes lamab kõhuli rohelisel matil ning sihib pika vintpüssiga. Laskur kannab peas kuulmiskaitseklappe, millel on osaliselt näha tekst 'PELTOR', ja ees kaitseprille. Parema käega hoiab ta relva püstolkäepidemest ja päästikust, samal ajal kui vasak käsi toetab relva eesmist osa ja salve. Relvaks on tõenäoliselt Heckler & Koch G3 või sarnane rull-lukustusega püss. Mati peal, relva lähedal, on näha tühjad padrunikestad. Tagaplaanil on veel teisi samalaadses asendis laskureid koos sarnaste relvadega, mis viitab suuremale treeningrühale. Üldine atmosfäär on keskendunud ja distsiplineeritud.",
+      "actions": [
+        "Laskmine",
+        "Sihkimine",
+        "Harjutamine",
+        "Lamamine",
+        "Püssiga manipuleerimine"
+      ],
+      "keywords": [
+        "Laskmine",
+        "Sõjavägi",
+        "Treening",
+        "Relv",
+        "Kamuflaaž",
+        "Laskur",
+        "Püss",
+        "Välitreening",
+        "Kuulmiskaitse",
+        "Kaitseprillid",
+        "Lamades_laske_asend",
+        "G3_tüüpi_relv",
+        "Muru",
+        "Padrunikestad",
+        "Päevaaeg"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Püss (Heckler & Koch G3-tüüpi)",
+        "Laskematt / presend",
+        "Kuulmiskaitseklapid",
+        "Kaitseprillid",
+        "Kamuflaažvorm",
+        "Muru",
+        "Tühjad padrunikestad",
+        "Relvasalv",
+        "Relvarihm",
+        "Püstolkäepide",
+        "Päästik",
+        "Päästikukaitse",
+        "Relva kaba",
+        "Terasihik",
+        "Eesmine sihik",
+        "Käed",
+        "Sõrmed",
+        "Müts (kamuflaaž)"
+      ],
+      "colorcodes": [
+        "#4F6D29",
+        "#454D3D",
+        "#7C7662",
+        "#526C4F",
+        "#3D3D3C",
+        "#9E855C",
+        "#AEC8E0"
+      ],
+      "texts": [
+        "PELTOR"
+      ],
+      "persons": [
+        "Laskur (esiplaanil)",
+        "Laskurid (tagaplaanil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esiplaanil oleva isiku pea asend varieerub piltidel veidi, viidates sihtimise peenreguleerimisele või tagasilöögi järel taastumisele.",
+        "Käte asend ja sõrmede paigutus relval näitavad minimaalseid liigutusi, eriti parema käe puhul päästikupiirkonnas, mis on seotud laskmistoiminguga.",
+        "Relva nurk ja asend mati suhtes on kaadrite vahel kergelt muutunud, mis on kooskõlas laskuri liikumisega.",
+        "Tagaplaanil olevate teiste laskurite positsioonides ja relvade hoietes on samuti näha väikeseid muutusi, mis annavad edasi liikumist ja dünaamikat kogu stseenis."
+      ],
+      "snr": "002",
+      "ajad": [
+        "12.760",
+        "22.040"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kahte kamuflaaživormides naist, kes istuvad vabas õhus rohelisel väljal. Taustal on näha metsaalust ja puid. Valgus on pehme ja soe, viitades õhtule. Mõlemal naisel on peas kamuflaažimütsid ning seljas välivormid, millel on märgata erinevaid embleeme, sealhulgas Eesti lipu motiiv varrukal. Vasakpoolne naine on suu kergelt avatud asendis, justkui rääkimas, ning tema nägu on osaliselt varjus. Parempoolne naine vaatab alla või kõrvale, mõtlikult, ning ühe käega puudutab ta oma juukseid või nägu. Kogu stseen annab edasi vestluse või mõtisklemise atmosfääri loomulikus keskkonnas.",
+      "actions": [
+        "Rääkimine",
+        "Istumine",
+        "Kuulamine",
+        "Mõtisklemine",
+        "Juuste/näo puudutamine"
+      ],
+      "keywords": [
+        "Kaitsevägi",
+        "Militaar",
+        "Väljas",
+        "Vestlus",
+        "Eesti",
+        "Naised",
+        "Välivorm",
+        "Kamuflaaž"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kamuflaaživorm",
+        "Kamuflaažimüts",
+        "Väljak",
+        "Roheline rohi",
+        "Puud",
+        "Mets",
+        "Eesti lipp (embleemil)",
+        "Nimesilt (vormil)"
+      ],
+      "colorcodes": [
+        "#4E5736",
+        "#7B855D",
+        "#8E9972",
+        "#A6AC92",
+        "#5B7F32",
+        "#7D8F48",
+        "#4F632D",
+        "#CA9F76",
+        "#B98B68",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "Well, some think this is a place for knitting and cooking.",
+        "TALVE",
+        "VÄLVE"
+      ],
+      "persons": [
+        "Kaks naist (militaarriietuses)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "summer",
+      "daytime": "evening",
+      "differences": [
+        "Pilt 2 sisaldab subtiitreid \"Well, some think this is a place for knitting and cooking.\", mis puuduvad piltidelt 1 ja 3.",
+        "Vasakpoolse isiku suu on pildil 2 avatud, viidates kõnelemisele, samas kui piltidel 1 ja 3 on tema suu suletud või neutraalsemas asendis."
+      ],
+      "snr": "003",
+      "ajad": [
+        "22.040",
+        "27.760"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha grupp inimesi, kes on riietatud rohelistesse ja pruunidesse laigulistesse militaarstiilis vormidesse. Nad on kükitanud maapinnale, keskendudes tegevusele, mis toimub nende ees. Keskel on näha väike konstruktsioon, mis on kokku pandud pulkadest ja kuivast taimestikust. Üks inimene vasakul esiplaanil on seljaga kaamera poole ja tal on pikad pruunid juuksed hobusesabas. Parempoolsel isikul on õlal näha Eesti lipu embleem, millel on ka tekst “EESTONIA”. Nad näivad olevat hõivatud millegi ehitamisega või tule süütamisega, kuna kolmandal kaadril on näha väike leek või säde. Maapind on kaetud kuivanud lehtede ja okstega, mis viitab välitingimustele. Üldine meeleolu on keskendunud ja praktiline ning tegevus toimub päevasel ajal metsas või võsastikus.",
+      "actions": [
+        "Kükitamine",
+        "Tule süütamine",
+        "Konstruktsiooni ehitamine pulkadest",
+        "Keskendumine"
+      ],
+      "keywords": [
+        "Sõdurid",
+        "Kaitseliitlased",
+        "Militaarvorm",
+        "Kamuflaaž",
+        "Väliõppus",
+        "Ellujäämine",
+        "Tuletegemine",
+        "Eesti",
+        "Mets"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Militaarvorm",
+        "Eesti lipu embleem",
+        "Pulgad",
+        "Kuiv taimestik",
+        "Leek",
+        "Muld",
+        "Okaspuude oksad",
+        "Lehed"
+      ],
+      "colorcodes": [
+        "#5b6e4e",
+        "#808c62",
+        "#876d54",
+        "#af8d6b",
+        "#4a3c2e",
+        "#302b21",
+        "#e6ad00"
+      ],
+      "texts": [
+        "Actually, it is a military organisation just like the army.",
+        "And if needed, we'll protect the country not literally with guns but we will help our men.",
+        "EESTONIA"
+      ],
+      "persons": [
+        "Sõdurid",
+        "Kaitseliitlased",
+        "Naissoost sõdur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "sügis või kevad",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil ilmub tekst \"Actually, it is a military organisation just like the army.\"",
+        "Kolmandal pildil ilmub tekst \"And if needed, we'll protect the country not literally with guns but we will help our men.\"",
+        "Kolmandal pildil on näha väike leek või säde, mis viitab tule süütamisele."
+      ],
+      "snr": "004",
+      "ajad": [
+        "27.760",
+        "34.160"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud kahte keskealist naist sõjaväe kamuflaažvormides ja mütsides, istumas või põlvitamas rohelisel heinamaal. Taustal on näha tihe puuderivi, mis viitab metsaservale, ja kogu stseeni valgustab soe, kuldne päikesevalgus, mis annab märku hilisest pärastlõunast või varasest õhtust. Vasakpoolne naine on esiplaanil, pööratud veidi kaamera poole ja tema suu on avatud, justkui ta räägiks või oleks just rääkinud. Tema kamuflaažvormi varrukal on Eesti lipu embleem ja rinnal on nähtav tekst 'TARRES' ja 'VALVEKOMPA'. Tema mütsil on samuti mingi embleem. Parempoolne naine asub vasakpoolsest naisest veidi tagapool ja paremal, vaadates allapoole mõtiskleva või tõsise ilmega. Ka tema kannab sarnast kamuflaažvormi Eesti lipu embleemiga ja sobivat mütsi. Parempoolse naise süles või käes on osaliselt näha väike raamat või märkmik. Üldine meeleolu on tõsine ja patriootlik.",
+      "actions": [
+        "Rääkimine",
+        "Istumine/Põlvitamine",
+        "Vaatamine (kaamerasse/allapoole)",
+        "Kuulamine",
+        "Riigikaitse teemal arutlemine"
+      ],
+      "keywords": [
+        "Sõjavägi",
+        "Kaitseliit",
+        "Eesti",
+        "Naised",
+        "Kamuflaaž",
+        "Vormiriietus",
+        "Vabatahtlikud",
+        "Patriootlus",
+        "Heinamaa",
+        "Metsaserv",
+        "Õhtupäike",
+        "Kaitse"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kamuflaažvormid",
+        "Mütsid",
+        "Eesti lipu embleemid",
+        "Raamat/märkmik",
+        "Roheline rohi",
+        "Puud",
+        "Päikesekiired"
+      ],
+      "colorcodes": [
+        "#7D8E42",
+        "#AF9B6A",
+        "#CFB895",
+        "#22518F",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "And if needed, we'll protect the country not literally with guns but we will help our men.",
+        "TARRES",
+        "VALVEKOMPA"
+      ],
+      "persons": [
+        "Kaks naist (Eesti sõjaväevormides)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "summer",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel ja teisel pildil on näha subtiitrid (ingliskeelne tekst), kolmandal pildil need puuduvad.",
+        "Vasakpoolse naise suu asend ja näoilme muutuvad piltide vahel, viidates kõnele esimestel kaadritel ja seejärel lõpetatud või pausi hetkele kolmandal kaadril."
+      ],
+      "snr": "005",
+      "ajad": [
+        "34.160",
+        "44.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab väliõppust kuivas, põõsases metsa- või võsapiirkonnas. Mitmed kamuflaaživormidesse riietatud inimesed on kogunenud väikese, intensiivselt põleva lõkke ümber. Maa on kaetud kuivanud lehtede, okste ja hõreda rohuga. Üks pikki pruune juukseid hobusesabasse sidunud inimene on kummardunud lõkke kohale, seda aktiivselt toites, võimalik, et õhku peale puhudes, millest tõuseb märkimisväärne kogus valget suitsu. Teised osalejad põlvitavad või istuvad läheduses, jälgides tuld ja võib-olla lisades kütust või kohandades lõkke struktuuri, mis hõlmab kahte vertikaalset puupulka leekide raamimiseks. Üldine atmosfäär viitab praktilisele tuletegemise või ellujäämisoskuste õppusele, rõhutades meeskonnatööd ja omandatud teadmiste rakendamist. Subtiitrid annavad teada, et õppused hõlmavad enesekaitset ja meditsiinilist abi, et aidata nii ennast kui ka teisi, vihjates terviklikule väljaõppeprogrammile.",
+      "actions": [
+        "lõkke tegemine",
+        "lõkke eest hoolitsemine",
+        "lõkkele puhumine",
+        "põlvitamine",
+        "vaatlemine",
+        "õppimine",
+        "harjutamine",
+        "meeskonnatöö"
+      ],
+      "keywords": [
+        "ellujäämine",
+        "sõjaväeline väljaõpe",
+        "kamuflaaž",
+        "lõke",
+        "metsas",
+        "õues",
+        "õppimine",
+        "praktiline oskus",
+        "meeskonnatöö",
+        "suits",
+        "leegid",
+        "metsalaager",
+        "sõdurid",
+        "õppurid"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "lõke",
+        "suits",
+        "leegid",
+        "kamuflaaživormid",
+        "puupulgad",
+        "kuiv rohi",
+        "kuivanud lehed",
+        "oksad",
+        "pats (juuksed)",
+        "randmeseade",
+        "käekell"
+      ],
+      "colorcodes": [
+        "#545b37",
+        "#8d926b",
+        "#ff4500",
+        "#ffffff",
+        "#a9a9a9",
+        "#4a3e2a",
+        "#5e4f3a"
+      ],
+      "texts": [
+        "It gives a lot of instructions.",
+        "We've learned self-defence, medicalcare in order to help ourselves and others."
+      ],
+      "persons": [
+        "kolm inimest (sõdurid/õppurid)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on kaader lähemale lõkke eest hoolitsevale isikule, teine pilt on pisut laiem, näidates rohkem inimesi ja lõkke struktuuri.",
+        "Lõke tundub teisel pildil olevat rohkem arenenud ja suurem, tugevamate leekidega.",
+        "Subtiitrid on olemas ainult teisel pildil."
+      ],
+      "snr": "006",
+      "ajad": [
+        "44.080",
+        "49.760"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kahte militaarriietuses inimest, kes istuvad rohelisel rohumaal vabas õhus. Vasakul pool on noorem mees ja paremal pool vanem naine. Mõlemad kannavad kamuflaažmustriga vormipluuse ja sarnase disainiga militaarmütse, mille esiosal on silmapaistev must märgis. Mehe müts on heledama beeži-pruuni tooni kamuflaažiga, naise müts ja vorm on tumedamat rohelise-pruuni tooni kamuflaažiga. Mehe vormil on näha tekst 'VALVEKOMPA' ja Eesti lipu embleem paremal õlavarrel. Naisel on samuti paremal õlavarrel Eesti lipu embleem. Mees vaatab pigem alla ja kõrvale, jättes mõtliku või kuulava mulje, samal ajal kui naine vaatab otse ette ja paistab rääkivat, suu kergelt avatud. Nende taga laotub lai roheline heinamaa, mille kauguses on näha puid, mis viitab avarale ja looduslikule keskkonnale. Päike paistab otse peale, valgustades nägusid ja luues varjud. Pildi allosas on valge subtiiter mustal taustal, mis annab konteksti vestlusele või intervjuule.",
+      "actions": [
+        "Istumine",
+        "Rääkimine (naine)",
+        "Kuulamine/mõtisklemine (mees)",
+        "Ette vaatamine (naine)",
+        "Kõrvale vaatamine (mees)"
+      ],
+      "keywords": [
+        "Sõjavägi",
+        "Kaitseliit",
+        "Vorm",
+        "Väljaõpe",
+        "Enesekaitse",
+        "Esmaabi",
+        "Vestlus",
+        "Maastik",
+        "Suvi",
+        "Vabas õhus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kamuflaažvormid",
+        "Militaarmütsid",
+        "Eesti lipu embleemid",
+        "Rohi",
+        "Puud",
+        "Must mütsimärgis"
+      ],
+      "colorcodes": [
+        "#4A6E2E",
+        "#C8B28B",
+        "#5D6C4A",
+        "#7C6D5B",
+        "#6E8E6B",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "VALVEKOMPA",
+        "We've learned self-defence, medicalcare in order to help ourselves and others."
+      ],
+      "persons": [
+        "Noorem mees (sõdur/kaitseliitlane)",
+        "Vanem naine (sõdur/kaitseliitlane)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Kõik kolm pilti on identsed."
+      ],
+      "snr": "007",
+      "ajad": [
+        "49.760",
+        "56.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab õues toimuvat väljaõpet või tegevust metsaalal, mis näib olevat militaar- või ellujäämislaager. Osalejad, enamasti mehed, on riietatud kamuflaažvormidesse ja kannavad mütsisid. Keskkond varieerub veidi kõrbesarnase, kivise ja kuiva taimestikuga paigast kuni tiheda rohelise metsani, kus kasvavad kõrged sihvakad puud, ning avatud kruusateede ja lagedate aladeni. Ühel kaadril on fookuses väike kontrollitud lõke, mis põleb maapinnal ja mida toetavad puidust vaiad, ning vormiriietuses isikute jalad on näha selle läheduses. Teised kaadrid näitavad inimesi kruusateel kõndimas ning sõidukite (sinine kaubik ja teised autod) läheduses kogunemas, kusjuures üks inimene kannab silmapaistvat kollast vesti. Üldine teema, mida esiletõstetud tekstid rõhutavad, hõlmab praktiliste oskuste õppimist, nagu enesekaitse, esmaabi ja kadunud inimeste otsimine, rõhutades meeskonnatöö ja vastastikuse abi olulisust.",
+      "actions": [
+        "õppimine",
+        "koolitus",
+        "lõkke tegemine",
+        "kõndimine",
+        "seismine",
+        "meeskonnatöö",
+        "otsimine",
+        "enesekaitse harjutamine",
+        "esmaabi andmine"
+      ],
+      "keywords": [
+        "militaarne",
+        "metsalaager",
+        "treening",
+        "ellujäämine",
+        "meeskonnatöö",
+        "kamuflaaž",
+        "metsaala",
+        "õppus",
+        "laagrituli",
+        "väljaõpe",
+        "otsinguoperatsioon"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "lõke",
+        "puidust toed",
+        "kamuflaažvormid",
+        "saapad",
+        "puud",
+        "metsaalune",
+        "pinnas",
+        "autod",
+        "kaubik",
+        "joogipudelid",
+        "kivid",
+        "kruusatee"
+      ],
+      "colorcodes": [
+        "#545437",
+        "#2f3521",
+        "#a68453",
+        "#e0e0e0",
+        "#d05322",
+        "#5f7a9f",
+        "#3a3f29",
+        "#a0a09e"
+      ],
+      "texts": [
+        "We've learned self-defence, medicalcare in order to help ourselves and others.",
+        "Also, how to find missing people. It's a teamwork, where everybody works together."
+      ],
+      "persons": [
+        "mitmed mehed kamuflaažvormides",
+        "üks inimene kollases vestis"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "spring/summer",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt keskendub lõkke lähivõttele ja inimeste jalgadele, samas kui teised pildid on laiemad kaadrid keskkonnast ja inimestest.",
+        "Tegevuse intensiivsus varieerub: esimesel pildil on staatiline lõke, teisel kõndimine/seismine ning kolmandal rohkem grupitegevusi ja sõidukeid.",
+        "Spetsiifilised elemendid nagu sõidukid ja kollase vestiga inimene on nähtavad ainult kolmandal pildil.",
+        "Mets ja lagedad alad on esitatud erinevatest vaatenurkadest ja sügavustest."
+      ],
+      "snr": "008",
+      "ajad": [
+        "56.560",
+        "58.960"
+      ]
+    },
+    {
+      "explanation": "Stseenis istuvad kaks naist sõjaväe kamuflaažvormides ja -mütsides suurel rohelisel muruplatsil. Nende taga laotub metsatukk ja hele taevas. Päike paistab madalalt, heites pikki varjusid ja luues sooja valguse, mis viitab kas varahommikule või hilisele pärastlõunale/õhtule. Naised on kaamerale vastanduvates positsioonides, parempoolne naine vaatab vasakule, justkui rääkides vasakpoolse naisega või selgitades midagi. Vasakpoolne naine on esialgu mõtlik, käsi aeg-ajalt näo lähedal, kuid hiljem muutub tema ilme kergelt naeratavaks ja ta vaatab otse ette. Mõlemal naisel on vormi varrukal Eesti lipu paik. Kaadrite allosas kuvatakse subtiitreid, mis kirjeldavad meeskonnatööd ja toimetulekut erinevates olukordades.",
+      "actions": [
+        "istumine",
+        "rääkimine",
+        "kuulamine",
+        "mõtisklemine",
+        "naeratamine",
+        "käe näo lähedale tõstmine"
+      ],
+      "keywords": [
+        "sõjaväelased",
+        "kamuflaaž",
+        "maastik",
+        "loodus",
+        "vestlus",
+        "intervjuu",
+        "koostöö",
+        "otsimine",
+        "päästmine",
+        "tiimitöö",
+        "väljas",
+        "Eesti"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "naine",
+        "sõjaväevorm",
+        "kamuflaažvorm",
+        "müts",
+        "nokamüts",
+        "muru",
+        "rohi",
+        "puud",
+        "mets",
+        "lipupaik",
+        "varjud",
+        "subtiitrid"
+      ],
+      "colorcodes": [
+        "#507D2A",
+        "#4A6B4A",
+        "#826E50",
+        "#9F9076",
+        "#D2B7A1",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Also, how to find missing people.",
+        "It's a teamwork,where everybody works together",
+        "So that you can manage to come out from every situation,whatever it may be."
+      ],
+      "persons": [
+        "kaks naist"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "summer",
+      "daytime": "evening",
+      "differences": [
+        "Alateksti sisu muutub kaadri vahetumisel, pakkudes vestluse jätkuvat konteksti.",
+        "Vasakpoolse naise näoilme ja käte asend muutuvad kaadrite jooksul: algsest mõtlikust poosist (käsi näo lähedal) muutub ta lõpuks otse ette vaatavaks ja kergelt naeratavaks. Parempoolne naine säilitab rääkiva või selgitava poosi."
+      ],
+      "snr": "009",
+      "ajad": [
+        "58.960",
+        "74.960"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kaks naisterahvast sõjaväelastes kamuflaažvormides, kes istuvad rohelisel väljal. Taustal on näha rohkem rohtu ja kaugemal metsaserva puid. Päevane aeg ja ere valgus viitavad suvele. Mõlema näod on kaetud osaliselt mustuse või kamuflaaživärviga. Parempoolsel naisel on selgelt nähtav Eesti lipu embleem õlal ja nimesilt \"SARUK\" rinnas. Esimesel pildil on parempoolse naise ilme tõsisem ja ta vaatab kergelt kõrvale, samas kui hilisemates kaadrites ta naeratab ja vaatab otse kaamerasse. Vasakpoolne naine vaatab samuti kaamerasse kergelt tõsise ilmega. Mõlemal on peas digilaiguline müts, millel on ümar embleem. Tundub, et tegemist on kaitseväe väljaõppe või puhkehetkega. Pildil on ka ingliskeelne subtiiter.",
+      "actions": [
+        "Istumine rohul",
+        "Kaamerasse vaatamine",
+        "Naeratamine (parempoolne isik hilisemates kaadrites)",
+        "Rääkimine (implitsiitne subtiitri ja avatud suu tõttu)"
+      ],
+      "keywords": [
+        "Sõdurid",
+        "Naised",
+        "Kamuflaaž",
+        "Kaitsevägi",
+        "Väljaõpe",
+        "Suvi",
+        "Muru",
+        "Välitingimused",
+        "Eesti"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Sõjaväemundrid",
+        "Sõjaväemütsid",
+        "Eesti lipu embleem",
+        "Nimesilt",
+        "Rohi",
+        "Puud (taustal)",
+        "Pliiats/pastapliiats (parempoolsel isikul taskus)"
+      ],
+      "colorcodes": [
+        "#6D8E3D",
+        "#4D662F",
+        "#7C725D",
+        "#A28F74",
+        "#C3C0B1",
+        "#336699",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "So that you can manage to come out from every situation, whatever it may be.",
+        "SARUK"
+      ],
+      "persons": [
+        "Kaks naist, mõlemad riietatud Eesti kaitseväe kamuflaažmundritesse ja mütsidesse. Parempoolsel naisel on nimesilt \"SARUK\" ja Eesti lipu embleem. Mõlema näod on osaliselt mustad või kamuflaaživärviga kaetud. Parempoolne naine naeratab hilisemates kaadrites, vasakpoolne on tõsisema ilmega."
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Parempoolse isiku näoilme muutub tõsisemast naeratavaks.",
+        "Parempoolse isiku pilgu suund muutub – esimesel pildil vaatab ta kergelt paremale, hiljem otse kaamerasse.",
+        "Väikesed muutused kehahoiakutes ja pea asendis kaadrite vahel."
+      ],
+      "snr": "010",
+      "ajad": [
+        "74.960",
+        "81.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pikka ja sirget pinnase- või kruusateed, mis ulatub kaugele metsa sügavusse. Tee on mõlemalt poolt ääristatud tiheda ja kõrge metsaga, kus vasakul pool on hele-rohelise lehestikuga puud ja paremal pool tumedamad okaspuud. Tee servades kasvab erkroheline rohi ja muu madal taimestik. Päikesepaistelisel päeval langevad puudelt teele varjud, mis lisavad stseenile sügavust. Mitu sõjaväevormis isikut kõnnib järjest kaamera eest eemale mööda teed, kuni lõpuks tee jääb tühjaks. Ühel hetkel ilmub ekraanile ingliskeelne subtiiter.",
+      "actions": [
+        "Kõndimine",
+        "Marsimine",
+        "Liikumine edasi"
+      ],
+      "keywords": [
+        "Metsatee",
+        "Mets",
+        "Sõdurid",
+        "Sõjavägi",
+        "Kruusatee",
+        "Loodus",
+        "Päikesepaiste",
+        "Varjud",
+        "Vormiriietus",
+        "Tiimivaim",
+        "Liikumine"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Tee",
+        "Kruus",
+        "Pinnas",
+        "Puu",
+        "Mets",
+        "Roheline taimestik",
+        "Varjud",
+        "Sõjaväevorm",
+        "Inimesed"
+      ],
+      "colorcodes": [
+        "#6B8E23",
+        "#8B4513",
+        "#A9A9A9",
+        "#ADD8E6",
+        "#228B22"
+      ],
+      "texts": [
+        "In other words you have that teamspirit in you."
+      ],
+      "persons": [
+        "Sõdurid",
+        "Inimesed vormiriietuses"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on teel neli sõjaväevormis isikut, kes on kaamerale lähemal, liikudes eemale. Teisel pildil on teel näha vaid üks isik, kes on eelmisest pildist kaugemal. Kolmandal pildil pole teel enam ühtegi isikut.",
+        "Teisel pildil on alumises osas nähtav ingliskeelne subtiiter 'In other words you have that teamspirit in you.', mida teistel piltidel ei ole."
+      ],
+      "snr": "011",
+      "ajad": [
+        "81.560",
+        "84.960"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud kahte naist sõjaväelastes kamuflaaživormides, kes istuvad õues rohelisel rohumaal. Nende näod on määrdunud, ilmselt muda või kamuflaaživärviga kaetud, mis viitab hiljutisele füüsilisele pingutusele või treeningule. Mõlemal naisel on peas kamuflaaživärvi nokamüts. Vasakpoolne naine on helepruunides ja rohelistes toonides kamuflaaživormis; tema näol on esimesel pildil kerge naeratus, teisel aga mõtlikum ja väsinud ilme. Parempoolne naine on tumedamates rohelistes toonides kamuflaaživormis, tal on blondid juuksed mütsi alt näha ja tema nägu väljendab mõlemal pildil väsimust või sügavat mõtiskelut. Parempoolse naise vormil on näha nimesilt \"ORLUK\" ja rinnale on kinnitatud väike südamekujuline märk, millel on lipu kujutis (tõenäoliselt Eesti lipp). Taustal on udune roheline väli, kaugemal on näha tihedat metsa ja vasakul pool heledat, pruuni katusega hoonet. Valgus on ere ja loomulik, mis viitab päevale. Roheline muru ja puud on täies lehes, mis annab märku suvest või hiliskevadest. Piltidel on subtiitrid, mis kirjeldavad füüsilist valu ja vaimset võitlust, vihjates intensiivsele sõjaväelisele väljaõppele.",
+      "actions": [
+        "Istuvad",
+        "Puhkavad",
+        "Räägivad (subtiitrite järgi)"
+      ],
+      "keywords": [
+        "Sõjavägi",
+        "Kamuflaaž",
+        "Väljaõpe",
+        "Väsimus",
+        "Valu",
+        "Vastupidavus",
+        "Rohumaa",
+        "Naised",
+        "Õues",
+        "Sõdurid",
+        "Emotsioonid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kamuflaaživormid",
+        "Kamuflaažimütsid",
+        "Nimesilt \"ORLUK\"",
+        "Südamekujuline märk",
+        "Rohi",
+        "Puud",
+        "Hoone"
+      ],
+      "colorcodes": [
+        "#6C7D4A",
+        "#777D53",
+        "#A08C65",
+        "#D7C6A0",
+        "#627C34",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "My feet where killing me.",
+        "It was just so painful to walk.",
+        "I was afraid that I am going to quit again.",
+        "ORLUK"
+      ],
+      "persons": [
+        "Kaks naist",
+        "Sõdurid"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Piltidel on erinevad subtiitrid.",
+        "Vasakpoolse naise näoilme on veidi muutunud: esimesel pildil on kerge naeratus, teisel mõtlikum ja väsinum ilme."
+      ],
+      "snr": "012",
+      "ajad": [
+        "84.960",
+        "127.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes puhkab tihedas rohelises metsaaluses, kandes militaarstiilis kamuflaažpükse ja heledamat särki. Isik istub või lamab, vasak käsi hoiab punast väikest eset, mis näib olevat kompass või muu navigeerimisseade. Parem käsi tegeleb parema jalaga, mis on sokist ja jalanõust vaba ning tõstetud õhku. Parem käsi hoiab väikest teravat eset (näiteks käärid), millega tegeldakse jalaga, ilmselt haava või villi ravimiseks. Ümberringi laiub tihe roheline taimestik, milles on näha kollaseid metsalilli. Taustal on tumeroheline tihe mets. Stseeni üldine toon on rahulik, kuid subtiiter viitab sisemisele pingele või hirmule ebaõnnestumise ees. Stseen edastab metsikus looduses puhkamise ja füüsilise pingutuse tagajärgede hooldamise atmosfääri.",
+      "actions": [
+        "Puhkamine",
+        "Jala hooldamine/ravimine",
+        "Kompassi (või sarnase eseme) hoidmine",
+        "Kamuflaažpükste kandmine"
+      ],
+      "keywords": [
+        "Mets",
+        "Puhkus",
+        "Kamuflaaž",
+        "Jalg",
+        "Haava hooldus",
+        "Väsimus",
+        "Hirm",
+        "Loodus",
+        "Ellujäämine",
+        "Matkamine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Kamuflaažpüksid",
+        "Punane kompass (või sarnane seade)",
+        "Käärid (või sarnane terav ese)",
+        "Paljas jalg",
+        "Saabas",
+        "Metsataimestik",
+        "Sõnajalad",
+        "Kollased lilled",
+        "Mets"
+      ],
+      "colorcodes": [
+        "#2d4f26",
+        "#5d7e48",
+        "#3b5a38",
+        "#87ab74",
+        "#5c6246",
+        "#414a38",
+        "#ed3627",
+        "#ebb217",
+        "#e3c4a2"
+      ],
+      "texts": [
+        "I was afraid that I am going to quit again."
+      ],
+      "persons": [
+        "Inimene (sugu pole eristatav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0-10",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Parem jalg ja parem käsi, mis seda hooldab, muudavad asendit: esimeses pildis on jalg osaliselt varjatud, teises ja kolmandas on see selgelt nähtaval ja tõstetud, paljastades talla.",
+        "Käärid (või sarnane terav ese) on teises ja kolmandas pildis selgemalt nähtavad, esimeses on see peaaegu varjatud käe ja jala taha.",
+        "Punase eseme (kompass) hoie ja nurk vasakus käes varieerub veidi kaadrite vahel."
+      ],
+      "snr": "013",
+      "ajad": [
+        "127.080",
+        "137.880"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivaates näha inimene, kes viibib rohelises ja lopsakas looduskeskkonnas, tõenäoliselt metsas või tihedas taimestikus. Isik kannab kamuflaažmustriga pükse, mis viitab militaarsele või matkategevusele. Fookuses on inimese paljas jalg, mille kannal ja jalatallal on näha kulumise või koorumise märke, mis võivad olla tingitud pikast kõndimisest või hõõrdumisest. Inimese käsi hoiab väikest teravat eset, mis sarnaneb kokkupandava noa või kääridega, ning samal ajal ka väikest valget pakendit või teipi jala lähedal. See tegevus viitab jala eest hoolitsemisele, näiteks villide ravimisele või sidumisele. Stseenis on näha ka musta saapa otsa, mis annab konteksti jala olukorrale. Taust on hägune, kuid selgelt roheline, osaliselt kollakas-oranžide nüanssidega, mis annavad edasi sügava rohelise looduse tunde. Subtiitrid piltide all annavad edasi tegelase sisemist mõtisklust hirmust loobumise või enese petmise ees.",
+      "actions": [
+        "Jala eest hoolitsemine",
+        "Terava eseme hoidmine",
+        "Valge pakendi/eseme hoidmine",
+        "Istumine/lamamine looduses",
+        "Mõtisklemine/enesereflektsioon (teksti järgi)"
+      ],
+      "keywords": [
+        "Loodus",
+        "Väli",
+        "Matkamine",
+        "Jalg",
+        "Hooldus",
+        "Kamuflaaž",
+        "Enesereflektsioon",
+        "Väsimus",
+        "Võitlus",
+        "Tahtejõud",
+        "Vigastus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kamuflaažpüksid",
+        "Paljas jalg",
+        "Käsi",
+        "Terav ese (käärid/nuga)",
+        "Valge pakend/ese",
+        "Must saabas",
+        "Rohelised taimed",
+        "Lehestik"
+      ],
+      "colorcodes": [
+        "#485E37",
+        "#677E4D",
+        "#9B8869",
+        "#E0C7B0",
+        "#3A4E2F",
+        "#B2B2B2",
+        "#2E2E2E"
+      ],
+      "texts": [
+        "I was afraid that I am going to quit again.",
+        "Cheating myself again."
+      ],
+      "persons": [
+        "Üks isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on subtiitrid 'I was afraid that I am going to quit again.', samal ajal kui teisel ja kolmandal pildil on subtiitrid 'Cheating myself again.'.",
+        "Piltide visuaalne sisu on peaaegu identne, esinevad vaid väga minimaalsed ja peened muutused käe ja tööriista asendis, mis viitavad pidevale tegevusele."
+      ],
+      "snr": "014",
+      "ajad": [
+        "137.880",
+        "140.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noor naine, kes kannab kamuflaažimustrilist mütsi ja vormipluusi. Tema nägu on määrdunud mulla või kamuflaaživärviga, mis annab talle räsitud välimuse. Naise ilme on mõtlik ja veidi kurb, ta vaatab otse kaamerasse. Tema selja taga on udune roheline muruväli, mis viitab välitingimustele ja päikeselisele ilmale. Piltidele on lisatud subtiitrid, mis väljendavad tema sisemisi mõtteid ja tundeid: „Enamasti ma mõtlesin, miks ma siia üldse tulin ja ma olin lihtsalt enda peale vihane.“ Tema paremal pool on näha ka teise inimese õla ja mütsi osa, mis viitab, et ta pole üksi, kuid fookuses on tema emotsioonid ja mõtted.",
+      "actions": [
+        "Vaatamine kaamerasse",
+        "Mõtlemine/kõnelemine (subtiitrite järgi)"
+      ],
+      "keywords": [
+        "Sõdur",
+        "Naine",
+        "Kamuflaaž",
+        "Väljas",
+        "Mõtlik",
+        "Väsinud",
+        "Porine",
+        "Roheline",
+        "Subtiitrid",
+        "Sõjavägi",
+        "Vihane"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kamuflaažimüts",
+        "Kamuflaaživorm",
+        "Roheline muruväli",
+        "Muda/muld näol",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#466639",
+        "#8B8B5B",
+        "#594D36",
+        "#9B7955",
+        "#C1997E",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "Mostly I was thinking why did I come here at all and I was just angry at myself."
+      ],
+      "persons": [
+        "Noor naine",
+        "Teine inimene (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid, teisel ja kolmandal pildil on näha valged subtiitrid mustal taustal, mille tekst on: \"Mostly I was thinking why did I come here at all and I was just angry at myself.\""
+      ],
+      "snr": "015",
+      "ajad": [
+        "140.000",
+        "144.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sõjaväelasi või militaarpersonali, kes liiguvad mööda päikeselist ja tolmavat pinnasteed, mis lookleb läbi tiheda okaspuumetsa. Tee on palistatud lopsaka rohelise taimestiku ja kõrgete puudega, andes märku kevadisest või varasuvisest ajast. Grupp inimesi, kes on riietatud kamuflaaživormidesse, kannab seljakotte ja automaatrelvi, mis viitab patrullile või õppustele. Ühe isiku vormil on näha varrukaembleemi. Ere päikesevalgus loob selgeid varje teele ja läbi puude paistev valgus heidab metsaalale laikude mustreid. Ühel kaadril on näha ka subtiitrit, mis annab edasi sisemist monoloogi frustratsioonist ja enesevihast.",
+      "actions": [
+        "Jalutamine",
+        "Liikumine",
+        "Patrullimine",
+        "Varustuse kandmine"
+      ],
+      "keywords": [
+        "Mets",
+        "Militaarne",
+        "Sõdurid",
+        "Pinnastee",
+        "Roheline loodus",
+        "Taktikaline varustus",
+        "Päevane aeg",
+        "Väliharjutus",
+        "Eesti"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Sõdurimüts",
+        "Mets",
+        "Puud",
+        "Rohelus",
+        "Pinnastee",
+        "Relvad",
+        "Seljakotid",
+        "Militaarriided",
+        "Embleem",
+        "Päikesevalgus",
+        "Varjud"
+      ],
+      "colorcodes": [
+        "#4F703B",
+        "#8C6A4F",
+        "#C1CED6",
+        "#5D4D3D",
+        "#73A05F"
+      ],
+      "texts": [
+        "Mostly I was thinking why did I am here at all and I was just angry at myself."
+      ],
+      "persons": [
+        "Sõdurid",
+        "Militaarpersonal",
+        "Mehed"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on lähivõte kahest isikust, kellest üks vaatab kaamerast eemale ja teine seljaga, näidates varustust ja relva. Sellel pildil on ka näha subtiitrit.",
+        "Teine pilt näitab kitsamat vaadet metsaalale, kus on näha puud ja rohelus, ilma inimesteta esiplaanil.",
+        "Kolmas pilt on laiem kaader, mis näitab tervet gruppi inimesi mööda teed kõndimas ja annab parema ülevaate maastikust.",
+        "Tekst \"Mostly I was thinking why did I am here at all and I was just angry at myself.\" on nähtav ainult esimesel pildil."
+      ],
+      "snr": "016",
+      "ajad": [
+        "144.480",
+        "146.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tihedat metsa, kus puud on kõrged ja alusmets roheline ning lopsakas. Päikesevalgus filtreerub läbi puuvõrade, luues maapinnale laigulise valguse. Mitmed maskeerimisriietuses ja taktikalise varustusega (sh seljakotid ja relvad) isikud liiguvad läbi metsa, mis annab märku sõjaväelisest õppusest või treeningust. Mõnel kaadril on näha punavalget triibulist piirangulinti, mis on puude vahele tõmmatud, viidates rajale või takistusele. Üldine õhkkond on välitegevuse ja pingutuse oma.",
+      "actions": [
+        "Metsas liikumine",
+        "Takistuse ületamine (piirangulindist üle astumine/alla pugemine)",
+        "Maastikul orienteerumine/navigeerimine",
+        "Treeningu või õppuse läbimine"
+      ],
+      "keywords": [
+        "Mets",
+        "Sõjaväeline õppus",
+        "Kamuflaaž",
+        "Takistusrada",
+        "Loodus",
+        "Tihe alusmets",
+        "Päikesevalgus",
+        "Punavalge teip",
+        "Taktikaline varustus",
+        "Välitegevus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Alusmets",
+        "Rohelised taimed",
+        "Maskeerimisriietuses isikud",
+        "Seljakotid",
+        "Taktikalised vestid",
+        "Mütsid/Kiivrid",
+        "Relv (püss)",
+        "Punavalge triibuline piirangulint",
+        "Oranž helkurvest",
+        "Kollane helkurvest"
+      ],
+      "colorcodes": [
+        "#4e6629",
+        "#6c5839",
+        "#3e4d27",
+        "#596a4e",
+        "#d31a0b",
+        "#ffffff",
+        "#ff8c00",
+        "#ffff00"
+      ],
+      "texts": [
+        "In the end of the ribbons you have completed the task.",
+        "And I haven't had a chance to do something like that."
+      ],
+      "persons": [
+        "Mehed/Osalejad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha üksik isik relvaga, piirangulinti pole. Teisel ja kolmandal pildil on näha mitu isikut, kellest osa kannavad erksavärvilisi helkurveste (kollane ja oranž) ning on selgelt näha punavalget triibulist piirangulinti.",
+        "Isikute arv ja grupi koosseis varieerub kaadrite vahel. Teisel pildil on rohkem inimesi näha, kolmandal on rõhk kahel lindist üle astuval/läbival isikul.",
+        "Erinevad subtiitrid on lisatud teisele ja kolmandale pildile, pakkudes konteksti tegevusele."
+      ],
+      "snr": "017",
+      "ajad": [
+        "146.120",
+        "160.280"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kahte keskealist naist sõjaväe kamuflaažvormides, kes lamavad või istuvad rohelisel murul ja naeratavad. Vasakpoolsel naisel on seljas müts ja ta vaatab kergelt paremale, näol lai naeratus. Tema juuksed on helepruunid või punakad. Parempoolsel naisel on peas sõjaväe kaabu ja ta vaatab otse ette, samuti naeratades. Tema juuksed on tumedamad. Mõlemal peakattel on näha ümmargune embleem, millel on sinine ja valge sisu. Tagaplaaniks on fookusest väljas hele roheline muru, mis viitab päikeselisele ilmale ja avarale välialale. Üldine meeleolu on pingevaba ja rõõmus, justkui oleks tegu puhkehetkega või vestlusega vabas õhus.",
+      "actions": [
+        "lamamine või istumine murul",
+        "naeratamine",
+        "vestlemine (implitsiitselt subtiitrite tõttu)",
+        "vaatamine"
+      ],
+      "keywords": [
+        "sõjavägi",
+        "kamuflaaž",
+        "naised",
+        "rohi",
+        "väljas",
+        "sõdurid",
+        "naeratus",
+        "puhkehetk",
+        "sõprus",
+        "vorm",
+        "müts"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "kamuflaažvorm",
+        "sõjaväemüts",
+        "sõjaväekaabu",
+        "muruniiduk",
+        "embleem mütsil",
+        "rohi"
+      ],
+      "colorcodes": [
+        "#768F4D",
+        "#5A6B34",
+        "#A0B96D",
+        "#826E4B",
+        "#725D3B",
+        "#C4A27B",
+        "#D7B492",
+        "#6080A0",
+        "#E0E0E0"
+      ],
+      "texts": [
+        "And I haven't had a chance to do something like that.",
+        "It is just testing yourself."
+      ],
+      "persons": [
+        "kaks naist",
+        "sõdurid"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel muutuvad ekraanil olevad subtiitrid. Esimesel pildil on \"And I haven't had a chance to do something like that.\", teisel pildil \"It is just testing yourself.\". Muus osas on pildid identsed, viidates sellele, et tegu on erinevate kaadritega samast videosekvensist."
+      ],
+      "snr": "018",
+      "ajad": [
+        "160.280",
+        "199.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tihedat metsamaastikku, kus päikesevalgus langeb läbi puude võrade, valgustades rohelist alustaimestikku ja samblast maapinda. Läbi metsa kulgeb punavalge piirdelindiga märgistatud rada, mis sarnaneb takistusrajaga. Mitmed kamuflaažrõivastuses ja seljakottidega isikud navigeerivad sellel rajal. Nad on eri liikumispositsioonides: mõned kükitavad ja liiguvad madalalt üle lindi, teised on püstisemas asendis. Üldmulje on tegevusest, mis hõlmab füüsilist pingutust ja orienteerumist metsas, näiteks militaarharjutus, airsofti mäng või takistusjooks.",
+      "actions": [
+        "Liikumine metsas",
+        "Navigeerimine takistusrajal",
+        "Roomamine",
+        "Kükitamine",
+        "Jooksmine",
+        "Enda proovile panemine",
+        "Harjutamine"
+      ],
+      "keywords": [
+        "Mets",
+        "Takistusrada",
+        "Militaarharjutus",
+        "Kamuflaaž",
+        "Piirdelint",
+        "Väljakutse",
+        "Sport",
+        "Loodus",
+        "Tegevus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Mets",
+        "Alustaimestik",
+        "Roheline rohi",
+        "Lehed",
+        "Punavalge piirdelint",
+        "Seljakotid",
+        "Kamuflaažrõivad",
+        "Päikesepaiste"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#228B22",
+        "#FFFFFF",
+        "#FF0000",
+        "#A0522D",
+        "#4B5320",
+        "#D3D3D3"
+      ],
+      "texts": [
+        "It is just testing yourself."
+      ],
+      "persons": [
+        "Meessoost isikud kamuflaažrõivastes"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Tekst \"It is just testing yourself.\" on nähtav ainult esimesel pildil.",
+        "Inimesed on piltidel erinevates liikumisfaasides ja positsioonides, näidates tegevuse kulgu ajas."
+      ],
+      "snr": "019",
+      "ajad": [
+        "199.720",
+        "203.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tihedat männi- või kuusemetsa, kus domineerivad pikad ja sirged puutüved. Päikesevalgus langeb läbi puulatvade, luues valguse ja varjude mängu metsaaluses ja esiletõstes mõningaid puude oksi ja lehti. Metsaalune on kaetud rohelise taimestikuga. Esiplaanil on horisontaalselt üle kaadri venitatud punase ja valge triibuline lint, mis märgib ilmselt piiratud või ohuala. Lint on pinguldatud ja paistab olevat seotud puude või okstega, kuigi täpsed kinnituskohad pole näha. Üldmulje on vaikne ja veidi tõsine, viidates võimalikule sündmuskohale või keelualale keset loodust.",
+      "actions": [
+        "Ala piiramine lindiga"
+      ],
+      "keywords": [
+        "mets",
+        "puud",
+        "päikesepaiste",
+        "loodus",
+        "lint",
+        "piiratud ala",
+        "sündmuskoht",
+        "roheline",
+        "männimets",
+        "kuusemets"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "puud",
+        "puutüved",
+        "oksad",
+        "lehed",
+        "roheline taimestik",
+        "punane ja valge lint"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#006400",
+        "#FF0000",
+        "#FFFFFF",
+        "#A9A9A9"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0-5",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [],
+      "snr": "020",
+      "ajad": [
+        "203.520",
+        "215.080"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub tihedas, päikesepaistelises metsas, kus on palju heleda koorega puid, lopsakas roheline alustaimestik ja pehme metsapõrand. Mitmed isikud, enamasti tumedas maskeerimisrõivastuses, liiguvad läbi selle keskkonna. Alguses on tunda kiiret liikumist või taktikalist edasiliikumist, kus figuurid on liikumisest hägused ja kannavad tulirelvi. Silmatorkav punase-valgetriibuline tõkkelint on horisontaalselt puude vahele tõmmatud keskmisel plaanil, mis viitab määratud alale, rajale või piirile. Stseeni edenedes muutub üks suure seljakotiga figuur selgemalt nähtavaks, jätkates aktiivset liikumist. Kuuldavale tuleb käsklus \"Come, come, come!\", mis annab märku suunast või kiireloomulisusest grupis. Lõpu poole keskendub stseen kahele isikule: üks esiplaanil tagantvaates, seljas ere laimroheline helkurriietus, ja teine keskmisel plaanil, seljas ereoranž helkurvest, mõlemal peas müts. See viitab üleminekule aktiivselt liikumiselt vaatlus- või juhendamisrollile, võimalik, et treeningul, otsinguoperatsioonil või kontrollitud sündmusel metsas. Üldmulje on korraldatud tegevusest looduslikus, karmis keskkonnas.",
+      "actions": [
+        "Liikumine läbi metsa",
+        "Sõjalise varustuse kandmine",
+        "Relvade kandmine",
+        "Juhendamine/käskluste andmine",
+        "Vaatlemine/juhendamine"
+      ],
+      "keywords": [
+        "Mets",
+        "Sõjaväeline treening",
+        "Otsinguoperatsioon",
+        "Turvalint",
+        "Helkurvestid",
+        "Kamuflaaž",
+        "Liikumine",
+        "Instruktsioonid",
+        "Välitegevus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Puu",
+        "Lehestik",
+        "Metsapõrand",
+        "Punase-valge triibuline lint",
+        "Kamuflaažriietus",
+        "Seljakott",
+        "Tulirelv (automaat)",
+        "Laimroheline helkurvest",
+        "Oranž helkurvest",
+        "Müts"
+      ],
+      "colorcodes": [
+        "#4B6F3E",
+        "#7F6C5B",
+        "#FF0000",
+        "#FFFFFF",
+        "#000000",
+        "#CCFF00",
+        "#FF8C00",
+        "#AAAAAA"
+      ],
+      "texts": [
+        "Come, come, come!"
+      ],
+      "persons": [
+        "Sõdurid (või sarnases riietuses isikud)",
+        "Treenerid (või juhendajad helkurvestides)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimeses ja teises pildis on näha kiiremat liikumist ja rohkem liikumishägu võrreldes kolmanda pildiga.",
+        "Esimeses pildis on näha mitut inimest korraga, kes liiguvad paralleelselt, teises keskne figuur ja tekst, kolmandas fookus kahel isikul.",
+        "Relvad on selgelt nähtavad esimesel ja teisel pildil, kolmandal mitte.",
+        "Tõkkelint on kõige silmatorkavam esimesel ja teisel pildil, kolmandal on see kas puudu või vähem fookuses.",
+        "Kolmandal pildil kannavad isikud erksaid helkurveste (üks laimroheline, teine oranž), samas kui varasemates piltides on riietus valdavalt kamuflaaž.",
+        "Kolmandal pildil on isikud nähtavad tagantvaates ja lähemalt kui kahes esimeses pildis."
+      ],
+      "snr": "021",
+      "ajad": [
+        "215.080",
+        "217.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab välijõustikualal toimuvat laskeharjutust või väljaõpet suvisel päeval. Rohelisel muruplatsil metsa ääres on mitu maskeerimisvärvides vormirõivastuses isikut. Paremal seisab osaliselt kaadrisse jääv juhendaja või instruktor, kellel on seljas ereoranž ohutusvest ja käes kaust või märkmelaud. Tema ees ja vasakul on kolm vormis isikut, kes on asumas laskeasendisse või juba põlvitavad rohelistel laskemattidel. Mattidel lamavad automaatrelvad, tõenäoliselt AK-tüüpi relvad. Keskjoone lähedal on maapinnal oranž märkimiskoonus. Taustal on tihe leht- ja okaspuumets ning päikeseline ilm viitab suvele.",
+      "actions": [
+        "Laskeasendisse asumine",
+        "Põlvitamine",
+        "Relvade käsitsemine",
+        "Juhendamine",
+        "Vaatlemine"
+      ],
+      "keywords": [
+        "Laskeharjutus",
+        "Sõjaline väljaõpe",
+        "Maastikuvorm",
+        "Väliala",
+        "Automaatrelv",
+        "Ohutusvest",
+        "Instruktor",
+        "Muruplats",
+        "Mets",
+        "Väliõpe"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Maskeerimisvärvides vormirõivastus",
+        "Automaatrelvad",
+        "Rohelised laskematid",
+        "Oranž ohutusvest",
+        "Kaust/märkmelaud",
+        "Oranž märkimiskoonus",
+        "Rohi",
+        "Põõsad",
+        "Puud (mets)"
+      ],
+      "colorcodes": [
+        "#4A5A35",
+        "#80623A",
+        "#FF8C00",
+        "#D1D7C7",
+        "#202020",
+        "#A8C28A"
+      ],
+      "texts": [],
+      "persons": [
+        "Instruktor/juhendaja",
+        "Sõdurid/väljaõppel osalejad"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on üks laskeväljaõppel osalejatest püsti, vaadates alla varustusele, samas kui teised on alles asumas põlvitamisasendisse.",
+        "Teisel ja kolmandal pildil on kaks eesmist osalejat juba põlvili laskemattidel ja keskenduvad oma relvadele.",
+        "Kolmas pilt on eelnevatega võrreldes veidi sisse suumitud, tuues esile põlvitavate isikute tegevust ja relvade detaile."
+      ],
+      "snr": "022",
+      "ajad": [
+        "217.880",
+        "287.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sõjaväevormis isikut, tõenäoliselt sõdurit, kes põlvitab või kükitab maapinnal õues. Ta on riietatud rohelistes ja pruunides toonides kamuflaažvormi. Isik laeb musta värvi vintpüssi salve padruneid, mis on nähtava vaskse tipu ja messingist hülsiga. Tema käed hoiavad salve ja asetavad padruneid sisse. Maapind on kaetud rohelise rohu ja mullaga. Paremal pool isiku kõrval on näha relva osa, tõenäoliselt vintpüssi kaba. Teises kaadris on näha ka subtiitrid, mis viitavad Erna retkele ja varustuse kilekotti panemisele, andes konteksti, et tegemist võib olla sõjaväelise väljaõppe või võistlusega.",
+      "actions": [
+        "Laskemoona laadimine",
+        "Põlvitamine/Kükitamine",
+        "Relva käsitsemine"
+      ],
+      "keywords": [
+        "Sõjavägi",
+        "Kamuflaaž",
+        "Laskemoon",
+        "Salv",
+        "Relv",
+        "Erna retk",
+        "Väljaõpe",
+        "Laadimine",
+        "Sõdur"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Sõjaväe kamuflaažvorm",
+        "Käed",
+        "Vintpüssi salv",
+        "Padrunid/Laskemoon",
+        "Vintpüss/Relv",
+        "Rohi",
+        "Muld",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#4D603F",
+        "#7D7252",
+        "#949B69",
+        "#2A2A2A",
+        "#B88E52",
+        "#9B6D3D",
+        "#C1997A",
+        "#51644A",
+        "#443B30",
+        "#343434"
+      ],
+      "texts": [
+        "Once during the Erna retk",
+        "we put all our equipment into a plastic bag,"
+      ],
+      "persons": [
+        "Sõdur"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil on nähtavad subtiitrid, mis annavad konteksti Erna retke kohta, samas kui teistel piltidel subtiitrid puuduvad.",
+        "Esimesel ja kolmandal pildil on fookus selgemalt laadimisprotsessil ja laskemoonal, samas kui teine pilt on pisut kaugem ja sisaldab teksti."
+      ],
+      "snr": "023",
+      "ajad": [
+        "287.280",
+        "309.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mitut inimest, kes kannavad militaarstiilis maskeerimisrõivaid ja asuvad õues avatud maastikul, taustal on tihe mets. Esiplaanil on üks isik, kellel on seljas rohelise-pruuni-musta mustriga kamuflaažvorm, peas sama mustriga müts ja silmadel läbipaistvad prillid. Ta on parajasti kätega pead katvate kuulmiskaitsete ehk kõrvaklappide reguleerimise või paigaldamise käigus. Tema nägu on tõsine ja keskendunud. Teised samuti militaarriietuses inimesed on näha tagaplaanil, samuti kandmas kuulmiskaitseid või peakatteid ja näivad valmistuvat või jälgimas. Ümbrus on valdavalt roheline – eeslaiub rohumuru ja tagaplaanil kõrguvad tihedad puud. Valgus on ere ja loomulik, mis viitab päikeselisele päevasele ajale. Stseen annab aimu sõjalisest väljaõppest või laskeharjutusest vabas õhus.",
+      "actions": [
+        "Kuulmiskaitsete reguleerimine",
+        "Laskeharjutuseks valmistumine",
+        "Militaarväljaõppel osalemine"
+      ],
+      "keywords": [
+        "Sõjavägi",
+        "Kamuflaaž",
+        "Väljaõpe",
+        "Laskmine",
+        "Kõrvaklapid",
+        "Mets",
+        "Suvi",
+        "Päev",
+        "Sõjaväelased"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kamuflaažvorm",
+        "Müts",
+        "Kuulmiskaitse (kõrvaklapid)",
+        "Prillid",
+        "Puu",
+        "Rohi",
+        "Punane lipp (väike detail paremas allnurgas teisel pildil)"
+      ],
+      "colorcodes": [
+        "#4C5F35",
+        "#6F5E3D",
+        "#D4C1B2",
+        "#7B9DA8",
+        "#000000"
+      ],
+      "texts": [
+        "everything from weapons to uniforms",
+        "and we only had our underwear on."
+      ],
+      "persons": [
+        "Sõjaväelased"
+      ],
+      "imagetype": "real",
+      "emptypercent": 50,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil on lisatud kaks rida valgeid subtiitreid, mis puuduvad esimesel pildil.",
+        "Piltide visuaalne sisu (valgus, inimesed, taust) on identsed."
+      ],
+      "snr": "024",
+      "ajad": [
+        "309.440",
+        "318.920"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab välitingimustes asuvat lasketiiru või harjutusvälja. Kolm nummerdatud märklauda, millel on üleval ruudukujuline sihtmärk ja all numbriplaat, ripuvad pruunil puitaial. Märklauad on nummerdatud vasakult paremale '2', '3' ja '4'. Taustal on lai roheline muruväli, kaugemal paistavad tihedamad põõsad ja metsik loodus. Valgus on ere ja päikeseline, viitades päevasele ajale. Pildi allosas on kaks rida ingliskeelset subtiitrite teksti. Üldpilt on rahulik ja maaeluline, kuid märklauad viitavad militaarsele või sporditegevusele.",
+      "actions": [
+        "Märklaudade riputamine",
+        "Laskmine (kaudne tegevus)"
+      ],
+      "keywords": [
+        "Märklauad",
+        "Lasketiir",
+        "Väli",
+        "Roheline",
+        "Puitaed",
+        "Päev",
+        "Loodus",
+        "Number"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Märklauad",
+        "Puitaed",
+        "Rohi",
+        "Põõsad",
+        "Taimestik"
+      ],
+      "colorcodes": [
+        "#5C8F27",
+        "#8B5F37",
+        "#FFFFFF",
+        "#000000",
+        "#B0B0B0"
+      ],
+      "texts": [
+        "everything from weapons to uniforms",
+        "and we only had our underwear on.",
+        "2",
+        "3",
+        "4"
+      ],
+      "persons": "Pole nähtavaid isikuid",
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [],
+      "snr": "025",
+      "ajad": [
+        "318.920",
+        "321.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab militaarset väliharjutust või lasketreeningut avatud maastikul. Mitmed kamuflaažvormides isikud, kes näivad olevat sõdurid, lamavad kõhuli rohul ja sihivad automaatrelvadega. Esiplaanil on kaks sõdurit, mõlemal peas kamuflaažimütsid, kuulmiskaitseklapid ja nägudel on näha mustust või kamuflaaživärvi. Nende relvadeks on tõenäoliselt H&K G3 tüüpi automaadid. Üks esiplaanil olev sõdur (keskel-paremal) tõstab pilku ja vaatab otse ette, samal ajal kui tema kõrval olev sõdur on süvenenud sihtimisse. Taamal on näha teisi sõdureid ja puid või põõsaid, samuti punast kangast, mis võib olla märklaud või harjutuse tähistus. Stseenis valitseb keskendunud ja tõsine õhkkond, mis on iseloomulik sõjaväelisele väljaõppele. Ekraanil on ka subtiitrid, mis kirjeldavad rasket treeningolukorda, kus osalejad olid vaid aluspesus ning pidid ujuma ja raskeid kotte lükkama.",
+      "actions": [
+        "Lamamine kõhuli laskeasendis",
+        "Automaatrelvadega sihtimine",
+        "Kuulmiskaitse kandmine",
+        "Väljaõppel osalemine",
+        "Keskendumine sihtmärgile",
+        "Relva käsitsemine",
+        "Ujumine (kirjeldatud subtiitrites)",
+        "Raske koti lükkamine (kirjeldatud subtiitrites)"
+      ],
+      "keywords": [
+        "Sõjavägi",
+        "Väliharjutus",
+        "Laskmine",
+        "Treening",
+        "Kamuflaaž",
+        "Sõdurid",
+        "Relv",
+        "Automaat",
+        "Vabas õhus",
+        "Kuulmiskaitse",
+        "Eesti (mütsi embleemi järgi)",
+        "Põllul",
+        "Raskus",
+        "Väljaõpe"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Sõdurid",
+        "Kamuflaažvormid",
+        "Sõjaväemütsid (Eesti embleemiga)",
+        "Kuulmiskaitse klapid",
+        "Automaatrelvad (sarnased H&K G3-le)",
+        "Roheline rohi/muru",
+        "Muld/pori näol",
+        "Punane kangas/lipp (taustal)",
+        "Taamal olevad relvad",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#4D5C3E",
+        "#8B8960",
+        "#2A2B27",
+        "#6C8B4D",
+        "#D32F2F",
+        "#C6A487",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "everything from weapons to uniforms",
+        "and we only had our underwear on.",
+        "and then we swam and pushed the heavy",
+        "bag in front of us",
+        "and swam for 100 or 200 meters."
+      ],
+      "persons": [
+        "Mitmed sõdurid (mehed ja naised)",
+        "Esiplaanil olev sõdur (paremal, pika juuksega, arvatavasti naine)",
+        "Esiplaanil olev sõdur (vasakul, arvatavasti mees)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Erinevused seisnevad peamiselt esiplaanil oleva parempoolse sõduri kehahoiakus, pilgus ja näoilmes. Esimesel pildil on ta süvenenud, vaatab alla ja hoiab relva mõlema käega. Teisel pildil tõstab ta pea, vaatab ettepoole või paremale, nägu on rohkem näha ja suu on veidi avatud, vasak käsi hoiab relva. Kolmandal pildil vaatab ta rohkem otse kaamera poole või paremale, tema parem käsi on relva mehhanismide juures, nägu on ilmekam, justkui räägiks või jälgiks juhiseid. Subtiitrid muutuvad iga kaadri vahel, jätkates narratiivi."
+      ],
+      "snr": "026",
+      "ajad": [
+        "321.960",
+        "325.520"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud kaks keskealist naist militaarülikondades, kes istuvad õues rohelisel rohumaal. Vasakpoolne naine räägib, tema suu on avatud ja nägu on elav. Parempoolne naine kuulab tähelepanelikult, vaadates kergelt allapoole ja tema näoilme on mõtlik. Mõlemad kannavad kamuflaažmustriga mütse, millel on embleemid. Naised on riietatud kamuflaažmustriga vormipluusidesse. Vasakpoolse naise varrukal on näha Eesti lipu embleem. Taustal on udune roheline väli ja kaugemal paistavad puud, mis viitab metsaservale. Üleval paistab helesinine taevas. Kaadri allosas on valged subtiitrid mustal taustal.",
+      "actions": [
+        "Naised istuvad",
+        "Vasakpoolne naine räägib",
+        "Parempoolne naine kuulab",
+        "Vestlus"
+      ],
+      "keywords": [
+        "Naised",
+        "Sõjavägi",
+        "Kamuflaaž",
+        "Väljas",
+        "Rohuväli",
+        "Metsaserv",
+        "Subtiitrid",
+        "Vestlus",
+        "Eesti"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kamuflaažmundrid",
+        "Kamuflaažmütsid",
+        "Embleemid mütsidel",
+        "Rohi",
+        "Puud",
+        "Taevas",
+        "Subtiitrid",
+        "Eesti lipp varrukal"
+      ],
+      "colorcodes": [
+        "#516335",
+        "#778B4B",
+        "#3C4C2D",
+        "#8A7A5F",
+        "#A08C69",
+        "#D3B499",
+        "#C7A48D",
+        "#FFFFFF",
+        "#1E1E1E",
+        "#C3D2E3"
+      ],
+      "texts": [
+        "and swam for 100 or 200 meters.",
+        "VALVEKOMPA",
+        "BILJU",
+        "TAPPERS",
+        "SKULA"
+      ],
+      "persons": [
+        "Kaks naist",
+        "Vasakpoolne naine (Bilju Tappers)",
+        "Parempoolne naine (Skula)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Vasakpoolse naise suu asend varieerub piltide vahel, näidates kõnelemise erinevaid etappe. Esimesel pildil on suu kergelt avatud, teisel pildil veidi rohkem avatud ja kolmandal pildil kõige avatum, viidates kõnelemise dünaamilisusele."
+      ],
+      "snr": "027",
+      "ajad": [
+        "325.520",
+        "339.360"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud sõdur, kes on lamamisasendis lasketiirus ja sihib automaatpüssiga. Sõdur kannab rohelistes ja pruunides toonides digitaalse mustriga kamuflaažvormi ja samasuguse mustriga mütsi, millel on osaliselt nähtav kiri 'KED'. Ta on varustatud pruunide Peltori kuulmiskaitsevahenditega ja läbipaistvate kaitseprillidega. Sõduril on hele nahatoon ja nägu on suunatud relva sihtmärgile. Tema käed hoiavad tugevalt relva ja nimetissõrm on päästikul. Relv on tumeda metalli ja plastiku kombinatsiooniga, sarnaselt H&K G3 variandile, ning sellel on must salv. Taustaks on roheline muru või heinamaa, mis viitab välitingimustele ja päikesepaistelisele ilmale. Valgus on ere ja loomulik.",
+      "actions": [
+        "Lamamisasendis laskmine",
+        "Automaatpüssiga sihtimine",
+        "Relva käsitsemine"
+      ],
+      "keywords": [
+        "Sõdur",
+        "Laskmine",
+        "Automaatpüss",
+        "Kamuflaaž",
+        "Lasketiir",
+        "Peltor",
+        "Kuulmiskaitse",
+        "Kaitseprillid",
+        "Välitingimused",
+        "Sõjavägi"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Sõdur",
+        "Kamuflaažvorm",
+        "Kamuflaažimüts",
+        "Peltori kuulmiskaitsevahendid",
+        "Kaitseprillid",
+        "Automaatpüss",
+        "Relvsalv",
+        "Rohi",
+        "Maa"
+      ],
+      "colorcodes": [
+        "#647b56",
+        "#4b5d44",
+        "#81986e",
+        "#3d3b36",
+        "#4e4d41",
+        "#8a7c64",
+        "#4f4c45",
+        "#3a3b3f",
+        "#c29d81",
+        "#5a7536",
+        "#748c41"
+      ],
+      "texts": [
+        "PELTOR",
+        "CE",
+        "KED",
+        "and swam for 100 or 200 meters."
+      ],
+      "persons": [
+        "Sõdur",
+        "Laskur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on vasakus alanurgas tekst 'and swam for 100 or 200 meters.', mis puudub teisel ja kolmandal pildil.",
+        "Kaadrid on peaaegu identsed, kuid esineb minimaalseid nihkeid sõduri keha- ja käteasendis, viidates video järjestikustele kaadritele."
+      ],
+      "snr": "028",
+      "ajad": [
+        "339.360",
+        "342.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab metsaalust või võsastunud ala päevasel ajal, tõenäoliselt kevadel või varasuvel, mil lehestik on erkroheline. Keskelt läbib stseeni pruunikas mullarada. Vasakul rajal seisab üks sõjaväeriietuses ja peakattega isik, kes hoiab midagi näo ees, justkui suhtleks raadio teel või kontrolliks seadet. Tema kehahoiak on tähelepanelik. Paremal pool rada on grupp umbes 4-5 sõjaväeriietuses isikut, kellest mõnel on kiiver peas. Nad on kogunenud ümber ühe maas lamava isiku, pakkudes talle ilmselt abi või sooritades mingit harjutust. Üks grupi liige, kes kannab tumedat taktikalist vesti kamuflaaži peal, jälgib tegevust eestvedajana. Üldmulje on militaarõppusest või treeningust metsakeskkonnas.",
+      "actions": [
+        "Jalutab/seisab rajal",
+        "Suhtleb seadmega",
+        "Koguneb grupis",
+        "Osutab abi maas lamavale isikule",
+        "Jälgib tegevust"
+      ],
+      "keywords": [
+        "Sõjavägi",
+        "Õppus",
+        "Mets",
+        "Väliõppus",
+        "Kamuflaaž",
+        "Rada",
+        "Rohelus",
+        "Päevaaeg",
+        "Treening",
+        "Meestegrupp"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Mullarada",
+        "Põõsad",
+        "Puud",
+        "Rohi",
+        "Sõjaväevormid",
+        "Peakatted",
+        "Kiivrid",
+        "Taktikaline vest",
+        "Kommunikatsiooniseade (võimalik)"
+      ],
+      "colorcodes": [
+        "#3E632D",
+        "#6B8B4C",
+        "#7F6A57",
+        "#A88F77",
+        "#2F2F2F"
+      ],
+      "texts": [
+        "But what do you think have you become stronger since joining the organisation?"
+      ],
+      "persons": [
+        "Sõdur (vasakul)",
+        "Sõdurid (paremal grupp)",
+        "Instruktor/juht (tumedas vestis)",
+        "Maas lamav isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid, teisel ja kolmandal pildil on subtiitrid nähtaval allosas."
+      ],
+      "snr": "029",
+      "ajad": [
+        "342.760",
+        "349.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte naist, kes istuvad õues avaral rohelisel muruväljakul. Mõlemad kannavad sõjaväe kamuflaažvorme ja vastavaid mütse. Vasakpoolne naine, heledama nahaga ja näol kergelt muie, vaatab veidi alla ja paremale. Tema vormi varrukal on Eesti lipu embleem ning rinnataskus on näha pastapliiats. Parempoolne naine, tumedamate juuste ja tõsisema ilmega, vaatab otse ette või kergelt vasakule. Ta on samuti riietatud kamuflaažvormi ja mütsi. Taust on udune, koosneb rohelisest murust ja kauguses paistvatest puudest ning heledast taevast. Pildi alumises osas on näha subtiitreid, mis viitavad vestlusele või intervjuule.",
+      "actions": [
+        "Istumine",
+        "Vestlemine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Naised",
+        "Sõjaväevorm",
+        "Kamuflaaž",
+        "Mütsid",
+        "Muru",
+        "Väli",
+        "Subtiitrid",
+        "Eesti",
+        "Intervjuu",
+        "Kaitsevägi"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Sõjaväevormid",
+        "Kamuflaažimütsid",
+        "Eesti lipu embleem",
+        "Pastapliiats",
+        "Muru",
+        "Puud",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#5f6b4e",
+        "#7d8e6d",
+        "#9e8e7b",
+        "#c1af9c",
+        "#a7baca"
+      ],
+      "texts": [
+        "But what do you think have you become stronger since joining the organisation?",
+        "Without a doubt."
+      ],
+      "persons": [
+        "Kaks naist",
+        "Naine vasakul",
+        "Naine paremal"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrid on erinevad: esimesel pildil on küsimus ja teisel pildil vastus.",
+        "Vasakpoolse naise suu asend muutub: esimesel pildil on see kergelt avatud (nagu rääkimise või kuulamise ajal), teisel pildil suletud."
+      ],
+      "snr": "030",
+      "ajad": [
+        "349.960",
+        "354.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaadet maastikule, kus toimub tõenäoliselt välitreening või harjutus. Eiplaanil on lai roheline muruväli, mida läbib paremalt alt vasakule üles mudane pinnasrada. Muruväljal on erinevad puidust takistused või alused, mis on asetatud ridadena. Tagaplaanil on tihe mets, mis koosneb valdavalt kaskedest ja teistest lehtpuudest. Keskel ja paremal on näha rühm inimesi, kellest paljud kannavad sõjaväelaadseid riideid ja mõned ka silmatorkavaid kollaseid helkurveste. Taustal on pargitud valge sõiduauto ja suur veoauto. Päike paistab madalalt, heites pikki varje ja valgustades stseeni soojalt. Üldine õhkkond viitab aktiivsele tegevusele vabas õhus.",
+      "actions": [
+        "Inimesed kõnnivad mööda pinnasrada",
+        "Inimesed seisavad ja jälgivad tegevust",
+        "Inimesed liiguvad puidust takistuste vahel",
+        "Puitkonstruktsioonide paigutamine või ettevalmistamine"
+      ],
+      "keywords": [
+        "Välitreening",
+        "Sõjaväeline väljaõpe",
+        "Maastik",
+        "Metsaäär",
+        "Kõrge rohi",
+        "Takistusriba",
+        "Pinnasrada",
+        "Sõdurid",
+        "Kollased helkurvestid",
+        "Päikesepaiste",
+        "Suvi",
+        "Õhtu"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Puidust takistused",
+        "Puidust alused",
+        "Roheline muru",
+        "Mets (kased, lehtpuud)",
+        "Pinnasrada",
+        "Valge sõiduauto",
+        "Suur veoauto",
+        "Inimesed (mehed)",
+        "Sõjaväevormid",
+        "Kollased helkurvestid",
+        "A-kujuline puitkonstruktsioon"
+      ],
+      "colorcodes": [
+        "#4CAF50",
+        "#A8C372",
+        "#8B4513",
+        "#F0E68C",
+        "#FFFFFF",
+        "#808080",
+        "#ADD8E6"
+      ],
+      "texts": [
+        "But there is a lot of knowledge we have gained.",
+        "06.40 pm"
+      ],
+      "persons": [
+        "Mehed",
+        "Sõjaväelased (või sarnases riietuses)",
+        "Instruktorid (võimalik, kollastes vestides)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "summer",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel ja teisel pildil on näha tekstikastid, kolmandal pildil on tekstikastiga ajamärge.",
+        "Inimeste positsioonid ja tegevused muutuvad piltide vahel, viidates liikumisele ajas.",
+        "Kolmandal pildil on lisandunud või selgemalt näha üks A-kujuline puidust takistus vasakul eesplaanil, mis eelmistel piltidel puudus või polnud selgelt eristatav."
+      ],
+      "snr": "031",
+      "ajad": [
+        "354.560",
+        "358.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab õues toimuvat sõjaväelise iseloomuga väljaõpet või harjutust. Tegevuspaigaks on avar rohumaa, mis on kaetud kollaste võililledega ja mille taga laiub tihe lehtmets, kus on näha kaski. Valgus viitab hilisele pärastlõunale või varajasele õhtule, luues pehme ja kuldse tooni. Kaadrites on näha kahte inimest: üks on sõdur kamuflaažvormis koos seljakoti ja relvaga, kes ületab puidust takistust, ja teine on instruktor või juhendaja helerohelises turvavestis, kes jälgib tegevust ja liigub maastikul. Stseen annab edasi koostöö ja ühtsuse sõnumit, mis on rõhutatud ka ekraanil kuvatava teksti kaudu, rääkides teiste abistamise ja koos olemise tähtsusest.",
+      "actions": [
+        "Sõdur liigub üle puidust takistuse.",
+        "Sõdur kannab seljakotti ja relva.",
+        "Instruktor seisab ja jälgib tegevust.",
+        "Instruktor kõnnib rohtunud maastikul."
+      ],
+      "keywords": [
+        "Sõjaväeline väljaõpe",
+        "Takistusrada",
+        "Maastikuharjutus",
+        "Tiimitöö",
+        "Koostöö",
+        "Ühtsus",
+        "Loodus",
+        "Mets",
+        "Kevad",
+        "Õhtu",
+        "Sõdurid",
+        "Instruktor"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Sõdur",
+        "Instruktor",
+        "Puidust takistus",
+        "Seljakott",
+        "Relv",
+        "Roheline muru",
+        "Kollased võililled",
+        "Lehtmets",
+        "Kased",
+        "Heleroheline turvavest",
+        "Kamuflaažmüts",
+        "Kamuflaažvorm"
+      ],
+      "colorcodes": [
+        "#607C3D",
+        "#F8DA0A",
+        "#4F5E33",
+        "#6A6E53",
+        "#EBF80A",
+        "#7C5C3F"
+      ],
+      "texts": [
+        "06.40 pm",
+        "Also the will to help others,",
+        "being side by side and sticking together."
+      ],
+      "persons": [
+        "Sõdur",
+        "Instruktor"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "spring",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on näha kellaaega \"06.40 pm\".",
+        "Esimesel pildil on sõdur aktiivselt puidust takistust ületamas, samal ajal kui instruktor on kaadri paremas servas osaliselt nähtav.",
+        "Teisel pildil on instruktor kaadri keskel, seljaga vaataja poole, ning nähtav on tekst koostööst ja teiste abistamisest. Sõdur on kaadri paremal pool, takistuse läheduses.",
+        "Kolmandal pildil on instruktor liikunud kaugemale stseeni, tekstid on kadunud ja sõdur on kaadri vasakul pool, takistusest möödunud.",
+        "Kaadri asetus ja fookus nihkuvad piltide vahel, rõhutades erinevatel hetkedel instruktori või sõduri tegevust ja asukohta.",
+        "Sõduri positsioon takistusel muutub, liikudes üle takistuse ja sellest mööda.",
+        "Instruktori asukoht stseenis muutub, liikudes osaliselt nähtavast keskmesse ja seejärel kaugemale."
+      ],
+      "snr": "032",
+      "ajad": [
+        "358.040",
+        "369.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab väljas toimuvat sõjalist või sportlikku treeningut rohelisel muruplatsil, mis on tihedalt kaetud kollaste võililledega. Taustal on näha heledaid kasepuid ja kaugemal asuvat heledat hoonet. Treeningu käigus sooritavad kamuflaaživormis ja raske seljakotiga isikud takistusraja elemente, mis on ehitatud palkidest. Ühel hetkel ületab sõdur horisontaalse palgi, hoides samal ajal relva käes. Stseenis on näha ka puidust trepiastmetega takistust. Mõnel kaadril on näha ka kolm isikut, kellest kaks kannavad kamuflaaživormi peal helkurtrohelisi veste ja paistavad olevat juhendajad või jälgijad, samal ajal kui kolmas, samuti kamuflaažis ja seljakotiga, liigub nende järel. Stseeni saadavad julgustavad tekstid nagu \"Good job!\" ja \"You're doing so well! Very good!\".",
+      "actions": [
+        "Takistuse ületamine",
+        "Jooksmine/kõndimine takistusrajal",
+        "Relva käes hoidmine",
+        "Jälgimine/juhendamine"
+      ],
+      "keywords": [
+        "Sõjavägi",
+        "Treening",
+        "Takistusrada",
+        "Kamuflaaž",
+        "Väliharjutus",
+        "Võililled",
+        "Kevad",
+        "Kased",
+        "Instruktsioon",
+        "Väljakutse"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Sõdurivorm (Kamuflaažvorm)",
+        "Sõduri seljakott (roheline)",
+        "Relv (sarnaselt vintpüssile)",
+        "Puidust takistusrajad (palgid, trepp)",
+        "Muru",
+        "Võililled",
+        "Puud (kased)",
+        "Hoone (valge/helehall)",
+        "Helkurvestid (kollakasrohelised)"
+      ],
+      "colorcodes": [
+        "#3D5C3D",
+        "#8B9B7E",
+        "#FFD700",
+        "#8B4513",
+        "#A9A9A9",
+        "#E0E0E0",
+        "#ADFF2F"
+      ],
+      "texts": [
+        "Good job!",
+        "You're doing so well! Very good!"
+      ],
+      "persons": [
+        "Sõdur (takistuse ületaja/jooksja)",
+        "Instruktorid / Jälgijad (helkurvestidega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 60,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel kaadril on üks sõdur ületamas horisontaalset palktakistust ja puuduvad ekraanitekstid.",
+        "Teisel kaadril on sama sõdur kõndimas puidust trepi lähedal ja ekraanil on tekst \"Good job!\".",
+        "Kolmandal kaadril on näha kolme isikut, kellest kaks on helkurvestides, ning ekraanil on tekst \"You're doing so well! Very good!\". Takistusraja elemendid on kaadris taustal."
+      ],
+      "snr": "033",
+      "ajad": [
+        "369.640",
+        "387.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab taktikaliselt riietatud meeste rühma, kes alustab oma teekonda avaral, päikeseloojangu kuldses valguses kümbleval rohumaal. Nad liiguvad sihikindlalt mööda kitsast pinnasrada, mis on ääristatud puudega, mille varjud venivad pikkadena üle maastiku. Õhtupäike loob tugeva tagavalgustuse ja läätsehelgi, andes stseenile müstilise ja eesmärgistatud tooni, kui nad otsivad \"kontrollpunkti\". Tegevuse arenedes muutub valgus drastiliselt. Päikeseloojangu järel siirdub stseen pimedusse, kus grupp liigub varjatult läbi tiheda lehestiku, mis katab kõikjal, peites nende liikumise. Üksiku käe lähivõte, mis haarab okstest kinni, annab märku operatsiooni salajasest ja pingelisest faasist, kus varjamine ja ettevaatlikkus on esmatähtsad. Kogu tegevus kulgeb kevadel või suvel.",
+      "actions": [
+        "Kõndimine",
+        "Otsimine",
+        "Liikumine läbi lehestiku",
+        "Varjatud edasiliikumine",
+        "Luure"
+      ],
+      "keywords": [
+        "Taktikaline operatsioon",
+        "Väljas",
+        "Missioon",
+        "Otsing",
+        "Õhtu",
+        "Öö",
+        "Lehestik",
+        "Varjamine",
+        "Päikeseloojang",
+        "Sõjaväeline",
+        "Pinnasrada",
+        "Rohumaa",
+        "Tagavalgustus",
+        "Salakavalus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Rohi",
+        "Pinnasrada",
+        "Auto (valge)",
+        "Lehestik",
+        "Tulirelvad (või sarnased pikad esemed)",
+        "Taktikaline riietus"
+      ],
+      "colorcodes": [
+        "#F4A460",
+        "#556B2F",
+        "#1A1A1A",
+        "#8B4513",
+        "#2F4F4F"
+      ],
+      "texts": [
+        "Where is the control point?"
+      ],
+      "persons": [
+        "Neli meest",
+        "Sõdurid (oletatavasti)",
+        "Operatiivgrupp"
+      ],
+      "imagetype": "real",
+      "emptypercent": 50,
+      "season": "summer",
+      "daytime": "evening",
+      "differences": [
+        "Valgustus: Kaks esimest pilti on õhtuse kuldse valgusega ja päikeseloojangu paistusega, viimane on pime ja öine.",
+        "Kaamera vaade: Kaks esimest kaadrit on laiad/keskmised võtted, mis näitavad maastikku ja grupi liikumist; viimane on lähivõte tihedast lehestikust ja osaliselt nähtavast käest.",
+        "Inimeste nähtavus: Esimesed kaks pilti näitavad mitut inimest, viimane pilt näitab ainult osalist kätt/kätt.",
+        "Teksti olemasolu: Ainult teisel pildil on tekst \"Where is the control point?\"."
+      ],
+      "snr": "034",
+      "ajad": [
+        "387.040",
+        "397.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mitut isikut, nii mehi kui naisi, kes kannavad Eesti kaitseväe kamuflaažvorme ja suuri matkaseljakotte. Nad asuvad vabas õhus rohelisel, võililledest täis muruplatsil, mille taustal on tihedalt lehtpuud ja kaugemal paistavad hooned ning sõidukid. Grupp on hõivatud suhtlusega, kusjuures ühel hetkel on näha mitut inimest, kes on südamlikus grupikallis keskel seisva mehe ümber, väljendades meeskonnavaimu ja sõprust. Teisel hetkel vahetavad kaks naist omavahel naeratusi ja vestlevad, kusjuures ühel naisel on pikad tumepruunid juuksed patsis ja teine naerab rõõmsalt. Üldine õhkkond on sõbralik ja positiivne, viidates võimalikule puhkehetkele või treeningu lõpule.",
+      "actions": [
+        "Suhtlemine",
+        "Grupikalli tegemine",
+        "Naeratamine",
+        "Püstiolemine",
+        "Kuulamine",
+        "Kandmine (seljakotid)"
+      ],
+      "keywords": [
+        "Kaitsevägi",
+        "Kamuflaaž",
+        "Grupikalli",
+        "Väliõppus",
+        "Sõprus",
+        "Meeskonnavaim",
+        "Seljakott",
+        "Vormiriietus",
+        "Muruplats"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Kamuflaažvorm",
+        "Matkaseljakott",
+        "Veepudel",
+        "Müts",
+        "Puu",
+        "Muru",
+        "Võilill",
+        "Hoone (kaugel)",
+        "Sõiduk (kaugel)",
+        "Konteiner (kaugel)"
+      ],
+      "colorcodes": [
+        "#4a6b31",
+        "#708a49",
+        "#9b8d6d",
+        "#b1a37c",
+        "#f3e8b0"
+      ],
+      "texts": [
+        "Let's have a grouphug!",
+        "How long are you planning to do this?"
+      ],
+      "persons": [
+        "Mitmed isikud, nii mehed kui naised, vanuses umbes 20-40, seljas Eesti kaitseväe kamuflaažvormid. Ühel naisel on pikad tumepruunid juuksed patsis, teine naine on heledamate juustega ja naeratab. Ühel mehel on heledad juuksed."
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Erinevad kaadrid kujutavad sama sündmust erinevates faasides: algne suhtlus, grupikalli ja lõpuks kahe naise omavaheline vestlus.",
+        "Subtiitrid muutuvad kaadrite vahel vastavalt dialoogile või meeleolule.",
+        "Fookus ja kaamera nurk muutuvad, näidates algul laiemat grupiinteraktsiooni ning seejärel keskendudes detailsemalt kahele naisele."
+      ],
+      "snr": "035",
+      "ajad": [
+        "397.040",
+        "405.880"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub avaral rohelisel väljal, mis on täidetud kõrge rohuga ja üksikute kollaste õitega. Päike paistab eredalt, viidates päevasele ajale. Stseen algab laia ja uduse kaadriga maastikust, millele on asetatud küsimus subtiitritena. Seejärel liigub kaamera lähemale, paljastades keskealise naise poolt, kes kannab militaarset kamuflaažmustriga vormi ja samasugust nokamütsi, millel on mõned märgid või embleemid. Naine, kellel on punakas juuksevärv ja näol mingeid määrdumisi või jälgi, on ilmselt vestluses, kuna tema suu on avatud ja näoilme viitab rääkimisele. Tema vastus on samuti subtiitritena kaadrisse lisatud. Ta on paigutatud keskmise lähivõttega, kusjuures taustaks jääb endiselt õrnalt udune roheline väli.",
+      "actions": [
+        "Küsitakse küsimus (teksti kaudu)",
+        "Naine räägib",
+        "Naine vastab küsimusele (teksti kaudu)"
+      ],
+      "keywords": [
+        "Väli",
+        "Rohi",
+        "Naine",
+        "Sõjaväevorm",
+        "Kamuflaaž",
+        "Müts",
+        "Vestlus",
+        "Subtiitrid",
+        "Päev",
+        "Vabas õhus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Rohumaa",
+        "Kollased õied",
+        "Naine",
+        "Kamuflaažvorm",
+        "Sõjaväemüts"
+      ],
+      "colorcodes": [
+        "#7B8E4E",
+        "#4A5C3E",
+        "#9B7E61",
+        "#7E6C52",
+        "#C8D4A2"
+      ],
+      "texts": [
+        "How long are you planning to do this?",
+        "Well, I always say this is going to be my last year"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on lai ja udune kaader rohelisest väljast, millele on lisatud küsimus subtiitrite kujul. Teine pilt on naise keskmine lähivõte, kes kannab sõjaväevormi ja mütsi, ning vastab küsimusele samuti subtiitrite kaudu. Esimeses pildis on fookus maastikul ja konteksti loomisel, teises pildis on fookus tegelasel ja tema dialoogil.",
+        "Kaamera asend ja fookus muutuvad esimesest kaadrist (lai ja udune taust) teise kaadrini (terav fookus tegelasel lähivõttes)."
+      ],
+      "snr": "036",
+      "ajad": [
+        "405.880",
+        "425.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme naist, kes on tõenäoliselt sõdurid või Kaitseliidu liikmed, puhkamas metsasel alal õues. Nad on riietatud Eesti kaitseväe digitaalsesse kamuflaažvormi, millel on näha Eesti lipu embleemid varrukatel. Nende näod on kaetud kamuflaažvärviga, mis viitab väliõppusele või missioonile. Naised istuvad rohusel ja mullasel pinnal, taustal on tihe metsaäär. Vasakpoolne naine hoiab midagi suu juures, justkui sööks või jooks. Keskmine naine hoiab käes pabereid ja paistab olevat vestluse peategelane. Parempoolne naine naeratab ja kuulab. Nende kõrval maas lebavad seljakotid ja üks automaatrelv. Taustal on näha veel üks inimene, kes kannab helkurvestiga riietust, mis võib viidata instruktorile või juhendajale. Stseen toimub päevasel ajal ja aastaaeg on kevad või suvi, mida kinnitab roheline loodus ja puudel olev lehestik. Subtiitrid viitavad käimasolevale vestlusele, kus räägitakse kogemustest ja otsustest, mis hiljem ümber vaadatakse.",
+      "actions": [
+        "Istumine",
+        "Puhkamine",
+        "Vestlemine",
+        "Paberite vaatamine",
+        "Naeratamine",
+        "Joomine/söömine",
+        "Seismine (tagaplaanil)"
+      ],
+      "keywords": [
+        "Sõdurid",
+        "Kaitseliit",
+        "Väliõppus",
+        "Kamuflaaž",
+        "Mets",
+        "Puhkus",
+        "Eesti",
+        "Relv",
+        "Vorm",
+        "Vestlus",
+        "Loodus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Sõjaväevormid",
+        "Kamuflaažmütsid",
+        "Seljakotid",
+        "Automaatrelv",
+        "Paberid",
+        "Joogipudel/termos",
+        "Mets",
+        "Muru",
+        "Muld",
+        "Eesti lipu embleemid",
+        "Näokate",
+        "Helkurvest"
+      ],
+      "colorcodes": [
+        "#4F6B38",
+        "#7B8C5E",
+        "#A8A484",
+        "#5A7B39",
+        "#8B4513",
+        "#ADFF2F",
+        "#B0D0B3",
+        "#3C5528"
+      ],
+      "texts": [
+        "Well I always say this is going to be my last year",
+        "but I've always eaten my words afterwards"
+      ],
+      "persons": [
+        "Kolm naissõdurit/kaitseliitlast",
+        "Üks instruktor/juhendaja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub: esimesel pildil on tekst 'Well I always say this is going to be my last year', samas kui teisel ja kolmandal pildil on tekst 'but I've always eaten my words afterwards'.",
+        "Isikute näoilmed ja kerged kehaliigutused muutuvad videosekvensile omaselt, näiteks vasakpoolne isik liigutab pudelit/termose suu juurest veidi eemale."
+      ],
+      "snr": "037",
+      "ajad": [
+        "425.880",
+        "431.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivõttes naist, kes on riietatud kamuflaažvärvidesse sõjaväevormi ja kannab samalaadset nokamütsi. Taustaks on udune roheline rohumaa, mis viitab välioludele. Päike paistab otse peale, heites näole ja mütsile varje ning valgustades stseeni soojalt. Naine vaatab otse kaamerasse, suu on kergelt avatud ja näoilme muutub piltide vahel, peegeldades rääkimist ja mõtisklemist. Tema miimika väljendab ebakindlust või sõnade otsimist. Paremal pool on osaliselt näha teise inimese õlg ja pea, kes kannab samuti kamuflaažriietust.",
+      "actions": [
+        "Rääkimine",
+        "Mõtlemine",
+        "Ebakindluse väljendamine"
+      ],
+      "keywords": [
+        "Sõjavägi",
+        "Vormiriietus",
+        "Naine",
+        "Väljas",
+        "Rohumaa",
+        "Päike",
+        "Dialoog",
+        "Ebakindlus",
+        "Mõtisklus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kamuflaažvärvides sõjaväemüts",
+        "Kamuflaažvärvides sõjaväevorm",
+        "Roheline rohi"
+      ],
+      "colorcodes": [
+        "#4f6630",
+        "#8e7a63",
+        "#636b4d",
+        "#ba9881",
+        "#9d836b"
+      ],
+      "texts": [
+        "but I've always eaten my words afterwards",
+        "in other words, I don't know.",
+        "I don't know..."
+      ],
+      "persons": [
+        "Naine (sõjaväevormis)",
+        "Teine naine (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub, peegeldades jätkuvat dialoogi.",
+        "Naine näoilme ja suu asend muutuvad kergelt, mis näitab kõnelemist ja mõtisklemist."
+      ],
+      "snr": "038",
+      "ajad": [
+        "431.760",
+        "435.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab grupp inimesi militaarriietuses metsasel maastikul, mööda mullateed. Vasakul pool teed seisab üksik sõdur, kes vaatab midagi oma kätes. Paremal pool teed on tihedam grupp sõdureid, kes kummarduvad ja tegutsevad maas lamava isiku ümber, andes talle ilmselt abi või kontrollides tema seisundit. Üks grupi liige kannab musta värvi pluusi. Ümbritsev mets on tihe ja lopsakalt roheline, mis viitab kevadele või varasuvele. Taevast paistab ere päevavalgus, mis valgustab stseeni ühtlaselt. Üldine õhkkond on rahulik, kuid tegevus paremal vihjab mingisugusele õppusele või olukorrale, mis nõuab tähelepanu.",
+      "actions": [
+        "Seisab ja vaatab käes olevat eset",
+        "Kummardub maas lamava isiku kohale",
+        "Annnab abi või kontrollib maas lamavat isikut",
+        "Lamab maas",
+        "Liigub grupisiseselt"
+      ],
+      "keywords": [
+        "Mets",
+        "Metsarada",
+        "Sõdurid",
+        "Militaar",
+        "Õppus",
+        "Roheline",
+        "Kevad",
+        "Suvi",
+        "Esmaabi",
+        "Grupp",
+        "Loodus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Mets",
+        "Puud",
+        "Põõsad",
+        "Rohttaimed",
+        "Mullatee",
+        "Sõjaväevormid",
+        "Sõjaväesaapad",
+        "Peakatted",
+        "Käes hoitav ese (vasakul)"
+      ],
+      "colorcodes": [
+        "#335d2d",
+        "#8b5a2b",
+        "#5c624d",
+        "#1a1a1a",
+        "#a0a390"
+      ],
+      "texts": [
+        "I don't know..."
+      ],
+      "persons": [
+        "Inimesed militaarriietuses",
+        "Sõdurid"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Vasakul seisva isiku kehahoid ja käte asend muutub kergelt kaadrite vahel.",
+        "Paremal asuva grupi liikmete, eriti püstises asendis oleva isiku ja musta pluusiga isiku, asendid ja liikumine muutuvad kaadrite lõikes.",
+        "Maas lamava isiku asend jääb suhteliselt samaks, kuid teda ümbritsevad inimesed kohandavad oma asendit.",
+        "Pildiseeria näitab aeglast liikumist või tegevuse edenemist stseenis."
+      ],
+      "snr": "039",
+      "ajad": [
+        "435.400",
+        "437.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme inimest sõjaväe kamuflaažvormides, kes puhkavad avaral rohelisel väljal. Vasakpoolne isik istub seljaga kellegi vastu, vaadates vasakule, tema vasakul õlal on nähtav Eesti lipu embleem. Keskmine isik istub jalad välja sirutatult, vaadates otse ette kaamera suunas. Parempoolne isik lebab külili, toetudes küünarnukile, samuti jalad välja sirutatult ja vaatab kaamera poole. Kõik kolm kannavad vormimütse. Taustal laiub roheline rohtla, mille taga horisondil on näha metsarida ja helesinine taevas. Stseenist õhkub rahulikku puhkusemeeleolu pärast füüsilist tegevust, mida viitab ka subtriit. Valgus viitab hilisele pärastlõunale või varajasele õhtule.",
+      "actions": [
+        "Puhkamine",
+        "Istumine",
+        "Lamamine",
+        "Vestlemine (subtiitrite järgi)"
+      ],
+      "keywords": [
+        "Sõjavägi",
+        "Kamuflaaž",
+        "Puhkus",
+        "Väljas",
+        "Rohumaa",
+        "Sõdurid",
+        "Eesti",
+        "Maastik"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Kamuflaažvormid",
+        "Mütsid",
+        "Saapad",
+        "Eesti lipu embleem",
+        "Rohi",
+        "Puu",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#5d6652",
+        "#a4ac93",
+        "#3e4a3b",
+        "#c3d9e0",
+        "#d2c3ae"
+      ],
+      "texts": [
+        "So when are you going to hike again?"
+      ],
+      "persons": [
+        "Kolm inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "summer",
+      "daytime": "evening",
+      "differences": [
+        "Esimene pilt on ilma subtiitriteta.",
+        "Teine ja kolmas pilt on identsed ning sisaldavad ingliskeelset subtiitrit: \"So when are you going to hike again?\""
+      ],
+      "snr": "040",
+      "ajad": [
+        "437.680",
+        "440.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab gruppi inimesi matkamas või treeningul rohelises metsasel alal, tõenäoliselt rajal või lagedamal platsil. Valdavalt on nad riietatud kamuflaaži- või sõjaväestiilis rõivastesse. Vasakul seisab üks mees, seljas roheline mundrisärgis ja mütsiga, vaadates midagi käes hoidmist (võimalik, et kaarti või telefoni). Paremal keskel on mitu inimest, kellest osa kummarduvad maas lamava isiku poole, justkui teda abistades või kontrollides. Maas on lamamas vähemalt üks inimene, kes paistab puhkavat või on kurnatud. Kaadrite vahel on märgata kahte keskel seisvat inimest, kes toetuvad üksteisele, mis võib viidata lohutamisele või toetusele pärast füüsilist pingutust. Üldine atmosfäär on värske ja roheline, rikkaliku lehestikuga, mis viitab kevadele või suve algusele.",
+      "actions": [
+        "seismine",
+        "kummardumine",
+        "maas lamamine/puhkamine",
+        "kellegi abistamine või tervisliku seisundi kontrollimine",
+        "rääkimine/suhtlemine",
+        "millegi käes hoidmine (kaardid/telefon)",
+        "üksteise toetamine/kallistamine"
+      ],
+      "keywords": [
+        "matkamine",
+        "mets",
+        "sõjavägi",
+        "kamuflaaž",
+        "treening",
+        "väsimus",
+        "puhkus",
+        "sõprus",
+        "loodus",
+        "retk"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "puud",
+        "põõsad",
+        "rohi",
+        "metsatee/rada",
+        "kamuflaažrõivad",
+        "mütsid",
+        "saapad",
+        "võimalik kaart/telefon"
+      ],
+      "colorcodes": [
+        "#4CAF50",
+        "#795548",
+        "#212121",
+        "#A8B88C",
+        "#8BC34A"
+      ],
+      "texts": [
+        "So when are you going to hike again?",
+        "Next year."
+      ],
+      "persons": [
+        "matkajad/sõdurid (u 6-8 inimest)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on keskel mitu inimest kummardunud maas lamava isiku poole, otsekui teda abistades, ja kuvatud on tekst \"So when are you going to hike again?\".",
+        "Teisel pildil on keskel kaks inimest püstises asendis, toetuvad üksteisele, ja kuvatud on tekst \"Next year.\".",
+        "Kolmandal pildil on stseen sarnane teisele, samade inimeste asenditega keskel, kuid tekst puudub. Mehe asend vasakul on kaadrite vahel minimaalselt muutunud, näidates jätkuvat tegevust."
+      ],
+      "snr": "041",
+      "ajad": [
+        "440.960",
+        "443.600"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kolm sõjaväevormis inimest, kes istuvad suvisel rohelisel heinamaal. Taustal paistab tihe mets ja heledam taevas horisondil. Kaks inimest – vasakul naine ja keskel mees – istuvad seljad vastamisi, mees näoga kaamera poole. Kolmas inimene, naine, istub samuti näoga kaamera poole, asetades end keskmise mehe paremale küljele, temast veidi eemale. Kõigil kolmel on seljas kamuflaaživärvi vormiriietus ja mütsid peas. Vasakul istuva naise õlal on näha Eesti lipu embleem. Nad kõik paistavad lõõgastunud ja rahulikud, mõned neist ka naeratavad, nautides päikesepaistelist päeva. Kogu stseen annab edasi rahuliku puhkusehetke mulje avatud looduses.",
+      "actions": [
+        "Istumine",
+        "Puhkamine",
+        "Naeratamine"
+      ],
+      "keywords": [
+        "Sõjavägi",
+        "Munder",
+        "Heinamaa",
+        "Mets",
+        "Suvi",
+        "Päikesepaiste",
+        "Puhkus",
+        "Sõdurid",
+        "Eesti"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Sõjaväevormid",
+        "Mütsid",
+        "Eesti lipu embleem",
+        "Rohi",
+        "Mets"
+      ],
+      "colorcodes": [
+        "#4F5D3C",
+        "#717C5B",
+        "#779B48",
+        "#4D762D",
+        "#A0A997",
+        "#3A4734",
+        "#E0C7B2"
+      ],
+      "texts": [
+        "The pain has been forgotten by that time.",
+        "It's like giving birth."
+      ],
+      "persons": [
+        "Kaks naist sõjaväevormis",
+        "Üks mees sõjaväevormis"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puudub igasugune tekst.",
+        "Teisel pildil on tekst 'The pain has been forgotten by that time.'",
+        "Kolmandal pildil on tekst 'It's like giving birth.'",
+        "Väikesed muutused inimeste näoilmetes ja kehahoiakutes, kuna tegemist on ilmselt erinevate kaadritega videost."
+      ],
+      "snr": "042",
+      "ajad": [
+        "443.600",
+        "446.640"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub kevadises või suvises metsaservas või metsarajal, kus maapind on kaetud tiheda rohu ja mullase pinnasega. Vasakul pool rada seisavad kaks sõjaväeriietes isikut, neist üks jälgib paremal toimuvat tegevust, samal ajal kui teine, seljaga vaataja poole, on liikumas sügavamale metsa. Paremal rajal, rohelise võsa ääres, on aktiivselt tegevuses grupp inimesi. Üks neist, mustas pluusis ja kamuflaažpükstes, jälgib intensiivselt sündmusi paremal, seistes teiste läheduses. Tema kõrval seisab teine kamuflaažis isik. Maapinnal, puude varjus, on mitu inimest taktikalistes positsioonides, kellest vähemalt üks näib käsitlevat möödisarnast relva, olles kummardunud või lamavas asendis. Üks isik on maas lamamas, samal ajal kui teine tema kõrval tegutseb. Üldpilt annab edasi sõjalise õppuse või treeningu tunde metsas, kus osalejad on keskendunud ja rakendavad taktikalisi manöövreid. Taustaks on tihe metsatukk, mis loob sügavusefekti. Stseen on valgustatud loomuliku päevavalgusega. Ekraani allosas on subtiiter: \"It's like giving birth.\"",
+      "actions": [
+        "Seismine",
+        "Kõndimine",
+        "Jälgimine",
+        "Relvaga manööverdamine",
+        "Lamamine (taktilises asendis)",
+        "Sõjaline treening"
+      ],
+      "keywords": [
+        "Sõjavägi",
+        "Treening",
+        "Mets",
+        "Kamuflaaž",
+        "Taktika",
+        "Õppus",
+        "Mört",
+        "Tihe rohi",
+        "Subtiitrid",
+        "Väliõppus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Sõjaväevormid (kamuflaaž)",
+        "Mört (või sarnane relv)",
+        "Rif (oletatavasti)",
+        "Metsataimestik",
+        "Muldtee",
+        "Muru",
+        "Peakatted"
+      ],
+      "colorcodes": [
+        "#4A5B3D",
+        "#6D7C52",
+        "#726B5B",
+        "#403A2B",
+        "#2C2C2C",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "It's like giving birth."
+      ],
+      "persons": [
+        "Mitmed sõjaväeriietes isikud (vähemalt 7 nähtavat), kellest osa kannab rohelisi peakatteid.",
+        "Üks isik mustas särgis ja kamuflaažpükstes."
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel ja teisel pildil nihkub musta pluusiga isik paremal veidi ning pöörab end rohkem vaataja poole. Mörtrelva käsitsev isik muutub selgemalt nähtavaks ja on aktiivsemas asendis. Lamav isik paremal on veidi positsiooni muutnud.",
+        "Teisel ja kolmandal pildil võtab musta pluusiga isik paremal veelgi püstisema ja jälgivama poosi. Mörtrelva käsitsev isik on veelgi selgemalt näha ja tema taga lamab nüüd selgelt nähtav teine isik. Vasakpoolne pildil olev isik on samuti oma poosi veidi kohendanud."
+      ],
+      "snr": "043",
+      "ajad": [
+        "446.640",
+        "450.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab gruppi sõjaväelasi või ajateenijaid puhkamas rohelisel heinamaal metsa servas päiksepaistelisel päeval. Inimesed on riietatud Eesti kaitseväe kamuflaažvormidesse, mis on rohelistes ja pruunides toonides. Mõned neist istuvad püsti, teised lesivad rohus. Kahel lähimal isikul on nähtavad Eesti lipu embleemid varrukatel. Paremal eesmine isik lamab selili ja räägib, kasutades käsi žestikuleerimiseks. Keskel istuv isik vaatab paremale. Taustal on näha metsa ja veel puhkavaid isikuid, kelle varustus on osaliselt näha. Maapinnal on näha ka joogipudeleid ja paremal isiku lähedal üks automaatrelv. Üldine meeleolu on pingevaba ja puhkeaegne.",
+      "actions": [
+        "Puhkamine",
+        "Istumine",
+        "Lamamine",
+        "Rääkimine",
+        "Žestikuleerimine",
+        "Vaatlemine"
+      ],
+      "keywords": [
+        "Sõjaväelased",
+        "Puhkus",
+        "Kamuflaaž",
+        "Mets",
+        "Suvi",
+        "Päev",
+        "Eesti",
+        "Väljaõpe",
+        "Heinmaa",
+        "Vormiriietus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Kamuflaažvormid",
+        "Sõjaväesaapad",
+        "Eesti lipu embleemid",
+        "Automaatrelv",
+        "Joogipudelid",
+        "Seljakotid",
+        "Rohi",
+        "Puud"
+      ],
+      "colorcodes": [
+        "#4B5E41",
+        "#8B8B00",
+        "#3E4C33",
+        "#607B4F",
+        "#C2A78C",
+        "#0072CE",
+        "#FFFFFF",
+        "#2F4F2F"
+      ],
+      "texts": [
+        "Eesti lipp"
+      ],
+      "persons": [
+        "Sõdurid",
+        "Ajateenijad",
+        "Naissoost sõjaväelased"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Paremalt eesmine lamav isik muudab oma käte asendit: esimesel pildil on käed rahulikult kõhul, teisel pildil hakkavad käed tõusma, kolmandal pildil on käed selgelt tõstetud ja avatud, žestikuleerides."
+      ],
+      "snr": "044",
+      "ajad": [
+        "450.840",
+        "454.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab naissoost sõdurit, kes puhkab maapinnal metsasel või põllul. Ta kannab kamuflaaživärvides sõjaväemundrit, millel on erinevaid rinnamärke ja 'EESTI' kirjaga embleem vasakul varrukal. peas on tal sama mustriga nokamüts, millel on Eesti lipu või vapi kujutis. Sõduri nägu on kaetud kamuflaaživärviga ning ta naeratab või naerab laialt, vaadates otse kaamerasse. Tema kõrval vasakul on näha teise inimese kamuflaažpükstes jalg, mis viitab, et kohal on rohkem kui üks inimene. Paremal sõduri kõrval maapinnal on näha tumedat riideeset, mis võib olla jakk või kott. Üldine õhkkond on positiivne ja pingevaba, hoolimata sõjalise riietuse kontekstist. Maapind on kaetud kuivanud rohu ja mõningate roheliste laikudega.",
+      "actions": [
+        "Lamamine",
+        "Puhkamine",
+        "Naeratamine",
+        "Naermine",
+        "Suhtlemine"
+      ],
+      "keywords": [
+        "Sõdur",
+        "Kaitsevägi",
+        "Mets",
+        "Kamuflaaž",
+        "Munder",
+        "Puhkus",
+        "Naeratus",
+        "Väli",
+        "Naised kaitseväes",
+        "Eesti"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naisssõdur",
+        "Kamuflaažimunder",
+        "Kamuflaažimüts",
+        "Näovärv",
+        "Eesti lipu embleem",
+        "EESTI embleem",
+        "Kuivanud rohi",
+        "Roheline muru",
+        "Tumepruun pinnas",
+        "Tumeda värvi riideese",
+        "Kaelakett",
+        "Käekell",
+        "Pastakas/marker",
+        "Teise isiku püksisäär"
+      ],
+      "colorcodes": [
+        "#4a5c37",
+        "#806c4b",
+        "#324225",
+        "#c0a880",
+        "#201e1c",
+        "#d8d8d8"
+      ],
+      "texts": [
+        "EESTI",
+        "Aivi Tarvis"
+      ],
+      "persons": [
+        "Aivi Tarvis",
+        "Teine isik (osa püksisäärest)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil on vasakus alanurgas valge tekst 'Aivi Tarvis'.",
+        "Isiku näoilme ja naeratus on piltide vahel kergelt muutuv, tabades liikumise hetki."
+      ],
+      "snr": "045",
+      "ajad": [
+        "454.520",
+        "459.280"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noort naist sõjaväevormis, kes lamab või toetub rohelises, tihedas metsaaluses või võsastikus. Tema nägu on määrdunud mullaga, mis viitab füüsilisele pingutusele või kamuflaažile. Naine kannab kamuflaažmustriga laia äärega mütsi, millel on sinise-musta-valge Eesti lipu embleem. Tal on seljas sama mustriga sõjaväesärk, mille varrukaääred on üles rullitud ja mille all paistab valge särgiosa. Ühe käe ümber on näha hõbedase rihmaga kuldset käekella. Tema käes on põlev sigaret, millest eraldub suitsu. Tema pilk on suunatud eemale, näol on väsimus või mõtisklev ilme. Ühes kaadris toetab ta pead käele, justkui puhkaks. Üldine meeleolu on pingeline, kuid samas on tunda rahulikku puhkehetke keset loodust. Pildi alumises osas on näha valget teksti 'Kaarita Brük'.",
+      "actions": [
+        "suitsetamine",
+        "lamamine",
+        "puhkamine",
+        "mõtisklemine",
+        "pea toetamine käele"
+      ],
+      "keywords": [
+        "sõjavägi",
+        "sõdur",
+        "naine",
+        "väsinud",
+        "puhkus",
+        "mets",
+        "roheline",
+        "kamuflaaž",
+        "sigaret",
+        "Eesti",
+        "loodus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "sõjaväevorm",
+        "kamuflaažmüts",
+        "Eesti lipu embleem",
+        "käekell",
+        "sigaret",
+        "rohelised taimed",
+        "muld"
+      ],
+      "colorcodes": [
+        "#5F7A36",
+        "#4C5D33",
+        "#7F8664",
+        "#4B5D44",
+        "#766D54",
+        "#514A38",
+        "#D4CFB9",
+        "#0072CE",
+        "#FFFFFF",
+        "#000000",
+        "#BB9F64"
+      ],
+      "texts": [
+        "Kaarita Brük"
+      ],
+      "persons": [
+        "naine",
+        "sõdur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Teises ja kolmandas kaadris toetab naine pead käele, esimeses kaadris on pea otsemas asendis.",
+        "Teises ja kolmandas kaadris on näha valget teksti 'Kaarita Brük' pildi alumises vasakus nurgas, esimeses kaadris tekst puudub."
+      ],
+      "snr": "046",
+      "ajad": [
+        "459.280",
+        "463.040"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud naist metsasel maastikul, kes kannab digitaalse kamuflaaži mustriga sõjaväevormi ja sama mustriga nokamütsi. Ta istub rohelises, valgusrikkas metsaalusel, kus on näha tihedat taimestikku ja puid. Naine räägib või annab intervjuud, tema näoilme varieerub tõsisest mõtisklevast kerge naeratuseni. Paremal käel, varrukal on näha Eesti lipu embleemi ja selle all kirja \"ESTONIA\". Vasakul all nurgas on osaliselt näha rohelist seljakotti. Stseen on üldiselt loomulik ja päikesepaisteline, viidates välioludele.",
+      "actions": [
+        "Rääkimine",
+        "Naeratamine",
+        "Žestikuleerimine",
+        "Istumine"
+      ],
+      "keywords": [
+        "Sõjaväevorm",
+        "Kamuflaaž",
+        "Mets",
+        "Naine",
+        "Eesti",
+        "Kaitseliit",
+        "Intervjuu",
+        "Loodus",
+        "Suvi",
+        "Päev",
+        "Patriootlik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Sõjaväevorm",
+        "Nokamüts",
+        "Eesti lipp (varrukal)",
+        "Seljakott",
+        "Puud",
+        "Rohi",
+        "Lehed",
+        "Päikesekiired"
+      ],
+      "colorcodes": [
+        "#4F6F4C",
+        "#7A8F76",
+        "#4A6347",
+        "#6B8B5F",
+        "#6A5B4C",
+        "#7E6F5C",
+        "#193E6B",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Liilia Kesküla",
+        "ESTONIA"
+      ],
+      "persons": [
+        "Liilia Kesküla"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Naise näoilme muutub kaadrite vahel: esimeses tõsisem ja allapoole vaatav, teises naeratab, kolmandas tõsisem ja rääkiv.",
+        "Tekst \"Liilia Kesküla\" ilmub ainult teises kaadris.",
+        "Naise parema käe asend ja žestid erinevad kaadrite vahel."
+      ],
+      "snr": "047",
+      "ajad": [
+        "463.040",
+        "466.760"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noort naissõdurit puhkamas maapinnal metsa servas või võsastikus. Ta lamab külili, toetudes oma rohelisele seljakotile. Seljas on tal Eesti kaitseväe M05 pikselmustriga välivorm ja peas sama mustriga müts, millel on nähtav Eesti lipu embleem. Tema nägu on kaetud tumedate kamuflaaživärvi või mustuse plekkidega, mis viitab pikaajalisele välitegevusele. Tema paremas käes on väike metallese, mis sarnaneb noa või multitööriistaga. Ühel hetkel on ta silmad suletud, andes märku sügavast puhkusest või magamisest, teisel hetkel on aga silmad avatud ja ta vaatab kaamerast eemale paremale poole. Seljakoti lähedal maapinnal on näha läbipaistev veepudel. Maapind on kaetud hõreda rohu ja kuivanud lehtedega, taustal on näha tihedam põõsastik ja puud, mis viitavad metsaalusele. Ühel kaadril on teksti abil tuvastatud isikuna Marilin Saalist.",
+      "actions": [
+        "Puhkamine",
+        "Lamamine",
+        "Silmad suletud (magamine/väsimus)",
+        "Silmad avatud (ümbruse vaatamine)",
+        "Metallese hoidmine käes"
+      ],
+      "keywords": [
+        "Sõdur",
+        "Naisssõdur",
+        "Kamuflaaž",
+        "Puhkus",
+        "Väsimus",
+        "Mets",
+        "Välitegevus",
+        "Eesti kaitsevägi"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kamuflaažvorm",
+        "Sõdurimüts",
+        "Seljakott",
+        "Veepudel",
+        "Metallese (nuga/multitööriist)",
+        "Muru",
+        "Põõsad",
+        "Puud",
+        "Lehed",
+        "Muld"
+      ],
+      "colorcodes": [
+        "#4D5F3D",
+        "#2D3B2C",
+        "#738A5F",
+        "#5E4F3D",
+        "#907C5B",
+        "#D5B495",
+        "#7D6C5B",
+        "#D4D8DB",
+        "#0072BB"
+      ],
+      "texts": [
+        "Marilin Saalist"
+      ],
+      "persons": [
+        "Marilin Saalist",
+        "Naisssõdur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Pildil 1 on sõduri silmad suletud ja tema näoilme viitab puhkusele või magamisele.",
+        "Pildil 2 on sama stseen suletud silmadega, kuid pildile on lisatud tekst 'Marilin Saalist'.",
+        "Pildil 3 on sõduri silmad avatud ja ta vaatab kaamerast eemale, suunaga paremale. Pea asend on veidi muutunud."
+      ],
+      "snr": "048",
+      "ajad": [
+        "466.760",
+        "470.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest sõjaväelises kamuflaažvormis ja nokamütsis seismas metsasel maastikul. Ta on pildistatud keskmise plaaniga, nii et näha on ka suur osa taustast. Mees hoiab käes mingit väikest tumedat eset, tema pilk on suunatud otse kaamerasse. Tema vasakul varrukal on Eesti lipu embleem ja paremal rinnataskul on pastapliiats või sarnane ese, vasakul rinnataskul on punane karabiin või klamber. Taustal laiub tihe okaspuumets, mille seas on ka mõned lehtpuud erkrohelise lehestikuga. Maapind on kaetud rohelise taimestikuga. Paremal kaugemal on näha veel üks inimene, kes kannab erkrohelist või kollast helkurvesti ja näib istuvat või kükitavat maapinnal. Päikesepaisteline päev, mis viitab hiliskevadele või suvele.",
+      "actions": [
+        "Mees seisab",
+        "Mees hoiab eset käes",
+        "Mees vaatab kaamerasse",
+        "Inimene taustal istub või kükitab"
+      ],
+      "keywords": [
+        "Mets",
+        "Kamuflaaž",
+        "Sõjaväevorm",
+        "Nokamüts",
+        "Eesti lipp",
+        "Rohelus",
+        "Päikesepaiste",
+        "Välitingimused",
+        "Vormiriietus",
+        "Ellujäämine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Kamuflaažvorm",
+        "Nokamüts",
+        "Eesti lipu embleem",
+        "Pastapliiats",
+        "Karabiin",
+        "Tundmatu väike ese käes",
+        "Puud",
+        "Mets",
+        "Roheline taimestik",
+        "Helkurvestiga inimene"
+      ],
+      "colorcodes": [
+        "#3d5137",
+        "#7e9451",
+        "#252e1f",
+        "#9ba370",
+        "#1d2c16",
+        "#82875b",
+        "#666b3b",
+        "#555a30",
+        "#36452f",
+        "#d1df26",
+        "#0072ce"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees sõjaväevormis",
+        "Inimene helkurvestis"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Mehe suu asend ja näoilme on piltide vahel väga kergelt muutunud, viidates väikesele liikumisele või kõnelemise pausile. Ülejäänud stseen on sisuliselt identne."
+      ],
+      "snr": "049",
+      "ajad": [
+        "470.560",
+        "476.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest tihedas okaspuu- ja lehtpuumetsas päikesepaistelisel päeval. Inimene kannab kamuflaažrõivastust, mis koosneb tumedast peakattest ja selle peal olevast võrkjast, tõenäoliselt Ghillie-stiilis kapuutsist või rätist, mis aitab loodusesse sulanduda. Tema nägu on kaetud rohelise kamuflaažvärviga. Inimene vaatab otse kaamerasse või selle lähedale ja naeratab laialt, näidates hambaid. Taustal on näha arvukalt puid, mille vahelt paistab ere päikesevalgus, luues helge ja energilise õhkkonna. Stseen annab aimu mingist välitegevusest, näiteks militaarsimulatsioonist, airsoftist või matkast.",
+      "actions": [
+        "Naeratamine",
+        "Kaamerasse vaatamine",
+        "Metsas viibimine",
+        "Kamuflaažrõivaste ja näovärvi kandmine"
+      ],
+      "keywords": [
+        "Mets",
+        "Kamuflaaž",
+        "Sõjaväeline",
+        "Naeratus",
+        "Väljas",
+        "Päev",
+        "Suvi",
+        "Roheline",
+        "Seiklus",
+        "Inimene"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Mets",
+        "Puud",
+        "Näovärv",
+        "Kamuflaažrõivad",
+        "Peakate",
+        "Võrkjas kate"
+      ],
+      "colorcodes": [
+        "#4F6D44",
+        "#7A8D6E",
+        "#C0D69A",
+        "#9F7E66",
+        "#BFA885",
+        "#725D4F",
+        "#2B2E2A",
+        "#D8F0FA",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Erinevad näoilmed: Esimesel ja teisel pildil on inimene laia naeratusega, näidates hambaid, kolmandal on naeratus tagasihoidlikum ja pilk veidi allapoole ning kõrvale suunatud.",
+        "Kaamera vaatenurk ja kaugus: Kaamera asend ja kaugus objektist veidi muutuvad, mis muudab inimese positsiooni kaadris ja fookust.",
+        "Küljeasend: Esimeses kaadris on inimene kaadri paremal poolel, teises rohkem keskel ja kolmandas veidi vasakule nihkunud, pea kergelt kallutatud."
+      ],
+      "snr": "050",
+      "ajad": [
+        "476.360",
+        "478.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest kamuflaažrõivastuses, kes seisab päikeselises metsas. Tal on peas kamuflaažvärvides kaabu ja seljas sama mustriga anorak-stiilis jope, mille all paistab tume T-särk. Mehe näol on näha erinevaid emotsioone: algul paistab ta tõsine ja osutab parema käega endast vasakule, justkui midagi seletades või näidates. Seejärel on tema käsi alla lastud, ilme muutub neutraalsemaks ning lõpuks näib ta kergelt naeratavat. Tausta moodustab tihe, lehtedest rohetav mets, kus on näha nii lehtpuid kui ka okaspuid. Päikesevalgus paistab läbi puudelehtede, luues valgusküllase ja sooja atmosfääri.",
+      "actions": [
+        "Mees osutab oma parema käega",
+        "Mees räägib või seletab",
+        "Mees seisab",
+        "Mees vaatab otse ette",
+        "Mees naeratab kergelt"
+      ],
+      "keywords": [
+        "Mets",
+        "Kamuflaaž",
+        "Sõjaväelane",
+        "Mees",
+        "Väljas",
+        "Loodus",
+        "Eesti",
+        "Vorm",
+        "Kaitseliit",
+        "Kevad",
+        "Päev",
+        "Päikeseline"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kamuflaažjope",
+        "Kamuflaažkaabu",
+        "Must T-särk",
+        "Eesti lipp",
+        "Puud",
+        "Lehed",
+        "Oksad"
+      ],
+      "colorcodes": [
+        "#6F7F53",
+        "#A4B27C",
+        "#4B523F",
+        "#7E725F",
+        "#262723",
+        "#0072BB",
+        "#000000",
+        "#FFFFFF",
+        "#4A6E24",
+        "#7A9F43",
+        "#5C584A"
+      ],
+      "texts": [
+        "TAMM",
+        "O Rh+",
+        "EESTI",
+        "ESTONIA"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel kaadril osutab mees oma parema käega vasakule, suu on kergelt avatud ja ilme tõsisem, justkui ta räägiks. Teistes kaadrites on käsi alla lastud.",
+        "Kaadrite jooksul muutub mehe näoilme tõsisest ja keskendunud ilmest neutraalsemaks ning lõpuks kergelt naeratavaks."
+      ],
+      "snr": "051",
+      "ajad": [
+        "478.440",
+        "486.200"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealist naist sõjaväelises kamuflaažvormis, mis koosneb jakist ja mütsist, millel on kiri \"KESKVA\". Seljas on tal ka suur roheline seljakott. Naine asub õues, taustal on lopsakad rohelised puud ja osaliselt näha olevad sõidukid, mis paistavad olevat helesinised või -rohelised kaubikud. Päikesevalgus paistab läbi puude, luues taustale eredamaid laike. Naine on tabatud siira rõõmu hetkel, naeratades laialt ja seejärel südamest naerdes, pea kergelt kaldu ja parem käsi tegemas tagasihoidlikku žesti, võimalik, et hoides midagi väikest või lihtsalt emotsiooni väljendades. Tema silmanurgad on kortsunud, mis viitab südamlikule naeratusele. Üldine meeleolu on rõõmus ja pingevaba, hoolimata sõjaväevormist.",
+      "actions": [
+        "Naine naeratab",
+        "Naine naerab",
+        "Naine teeb parema käega žesti",
+        "Naine seisab"
+      ],
+      "keywords": [
+        "Naine",
+        "Sõjaväevorm",
+        "Kamuflaaž",
+        "Rõõmus",
+        "Naeratav",
+        "Naerev",
+        "Õues",
+        "Mets",
+        "Seljakott",
+        "Päikesepaiste",
+        "Keskva"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Kamuflaažjakk",
+        "Kamuflaažmüts",
+        "Roheline seljakott",
+        "Puud",
+        "Sõidukid (kaubikud)",
+        "Päikesevalgus"
+      ],
+      "colorcodes": [
+        "#7A8D67",
+        "#4B5C49",
+        "#AFAC81",
+        "#768C7E",
+        "#B49B80",
+        "#C6B8A8",
+        "#596B54"
+      ],
+      "texts": [
+        "KESKVA"
+      ],
+      "persons": [
+        "Naine (sõdur)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Naise näoilme muutub laialdasest naeratusest südamlikuks naeruks, paljastades rohkem hambaid.",
+        "Naise pea pöörleb kergelt kaamera poole.",
+        "Naise parema käe asend ja žest muutuvad veidi."
+      ],
+      "snr": "052",
+      "ajad": [
+        "486.200",
+        "491.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sõjalist või sarnast väljaõppeharjutust avaral välialal, mis hõlmab kruusateed, rohelist muru ja kauguses metsa. Mitmed osalejad, riietatud kamuflaažvormidesse, jooksevad ja liiguvad energiliselt mööda rada ja muruplatsil. Mõned neist hoiavad käes esemeid, mis sarnanevad relvade või keppidega. Stseeni arenedes ilmub paremasse serva väike valge hoone, mille juures toimub aktiivne liikumine. Üks instruktoriks või kohtunikuks arvatav isik kannab silmatorkavat kollast ohutusvesti ning jälgib tegevust. Paremal pool pildil on näha ka vaatlejate rühm. Maapinnal on nähtav punavalge piirdelint, mis tähistab ilmselt rada või ohuala. Pikad varjud annavad tunnistust päikesepaistelisest päevast.",
+      "actions": [
+        "Jooksmine",
+        "Liikumine maastikul",
+        "Osalemine väljaõppeharjutuses",
+        "Taktikaline liikumine",
+        "Hoonest möödumine/hoone ümber liikumine",
+        "Tegevuse jälgimine"
+      ],
+      "keywords": [
+        "Sõjaline väljaõpe",
+        "Maastikuharjutus",
+        "Kamuflaaž",
+        "Välitingimused",
+        "Jooks",
+        "Takistusrada",
+        "Sõdurid",
+        "Instruktor",
+        "Väljaõpe",
+        "Metsamaastik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Muldtee",
+        "Roheline muru",
+        "Puud",
+        "Valge hoone",
+        "Kamuflaažvormid",
+        "Relvasarnased esemed/kepid",
+        "Kollane ohutusvest",
+        "Punavalge piirdelint",
+        "Varjud"
+      ],
+      "colorcodes": [
+        "#4e5c3b",
+        "#e7e7e7",
+        "#fdd835",
+        "#b37b4f",
+        "#800000",
+        "#0a0a0a"
+      ],
+      "texts": [],
+      "persons": [
+        "Õppusel osalejad",
+        "Sõdurid",
+        "Instruktor/Kohtunik (kollase vestiga)",
+        "Vaatlejad"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel muutuvad inimeste asukohad, mis näitab tegevuse progressiooni ja liikumist mööda rada ning hoone ümber.",
+        "Esimene pilt keskendub rohkem mööda teed jooksvatele osalejatele, samas kui teised pildid toovad esile tegevuse valge hoone ümbruses.",
+        "Kaamera nurk muutub veidi, avades kolmandas pildis laiemat vaadet hoonele ja seda ümbritsevale maastikule, mis esimeses pildis puudus."
+      ],
+      "snr": "053",
+      "ajad": [
+        "491.080",
+        "495.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab gruppi noori inimesi, enamasti naisi, kes on riietatud militaarstiilis kamuflaažvormidesse. Nad asuvad vabas õhus, murusel alal, vana ja räämas valge hoone ees, millel on lahtised ukseavad. Tagaplaanil on näha tihedat rohelist metsa ja helesinist taevast. Päikesepaisteline ilm viitab kevad- või suvepäevale. Grupi liikmed kannavad seljakotte ja mõnel on käes püssid, mis viitab väljaõppele või militaarmängule. Esiplaanil olev naine naeratab laialt kaamerasse, samal ajal kui teised suhtlevad omavahel. Üldine meeleolu tundub olevat positiivne ja kaasahaarav.",
+      "actions": [
+        "Seismine",
+        "Naeratamine",
+        "Suhtlemine",
+        "Gestikuleerimine",
+        "Relva käes hoidmine",
+        "Pöördumine",
+        "Kummardumine"
+      ],
+      "keywords": [
+        "Militaar",
+        "Välitreening",
+        "Kamuflaaž",
+        "Grupp",
+        "Noored",
+        "Naised",
+        "Mahajäetud hoone",
+        "Loodus",
+        "Sõdurid",
+        "Mets",
+        "Päikesepaiste",
+        "Väljaõpe"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Kamuflaažvormid",
+        "Seljakotid",
+        "Militaarmütsid",
+        "Püssid (tõenäoliselt treening- või mängurelvad)",
+        "Valge hoone",
+        "Ukseavad",
+        "Muru",
+        "Mets",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#4D593E",
+        "#736A52",
+        "#E0E0E0",
+        "#5F7A40",
+        "#A8C9E7",
+        "#E3C1A1"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine esiplaanil vasakul (naerul sui, seljakotiga)",
+        "Naine keskel (kaabus, kätega žestikuleerides)",
+        "Naine paremal (mütsiga, relvaga, naeratades)",
+        "Osalt nähtavad isikud vasakul ja paremal ääres"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Isikute kehahoiaku ja suuna muutused",
+        "Esiplaanil oleva naise näoilme muutumine naeratusest neutraalsemaks ja kummardumine",
+        "Käeliigutuste ja suhtluse dünaamika muutumine grupi sees",
+        "Püssi nähtavus parempoolse isiku käes muutub kaadrite vahel selgemaks"
+      ],
+      "snr": "054",
+      "ajad": [
+        "495.280",
+        "500.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab päikesepaistelist päeva suvises looduses, kus on püstitatud ajutine matkalaager või piknikupaik. Pildi keskel põleb lõke, mis on hoolikalt ümbritsetud erineva suurusega pruunikate kividega, moodustades turvalise koha tulele. Lõkkel on must pott või pann, milles ilmselt valmistatakse toitu, ning eredalt leegitsevad oranžid ja punased tulised halud. Lõkke ümber ja taustal rohelisel rohumaal on laiali pandud mitmesugust matkavarustust ja toidutarbeid. Vasakul pool on näha musta prügikotti, kollaseid plastpudeleid (võimalik, et toiduõli või joogid) ja valget nõud. Lõkke taga on virnas tumedad seljakotid või kotid, mis viitavad matkale. Paremal pool maapinnal on must kilekott, kollane kauss koos lusikaga ja mõned teised nõud, mõned neist kaetud hõbedase fooliumiga. Taustal on näha tihedat rohelist puittaimestikku ja veelgi rohelust, mis annab edasi loodusliku ja rahuliku atmosfääri. Stseen on detailirohke, näidates ettevalmistusi väljas söömiseks ja ajaveetmiseks.",
+      "actions": [
+        "Toiduvalmistamine lõkkel",
+        "Lõkke tegemine",
+        "Matkamine/telkimine (kaudne)"
+      ],
+      "keywords": [
+        "Lõke",
+        "Matkalaager",
+        "Piknik",
+        "Suvi",
+        "Loodus",
+        "Väljasõit",
+        "Toiduvalmistamine",
+        "Roheline rohi"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Lõke",
+        "Kivid",
+        "Pott/pann",
+        "Leegid",
+        "Roheline rohi",
+        "Puud",
+        "Must prügikott",
+        "Kollased pudelid",
+        "Valge anum",
+        "Must seljakott/kott",
+        "Kollane kauss",
+        "Lusikas",
+        "Nõud",
+        "Hõbedane foolium"
+      ],
+      "colorcodes": [
+        "#4A6D2F",
+        "#8C6A49",
+        "#FF5C00",
+        "#1A1A1A",
+        "#E0C737"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [],
+      "snr": "055",
+      "ajad": [
+        "500.200",
+        "506.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaates väikest valget õit rohelisel looduslikul taustal. Õis asub pildi keskmes ja sellel on viis valget kroonlehte ning kollakas südamik. Taust on udune, koosnedes mitmesugustest rohelistest lehtedest ja taimestikust, mis annab stseenile sügavuse ja maheda fookuse. Pildi vasakus servas on näha vertikaalselt kulgev tume, peenike oks või vars, mis on samuti fookusest väljas. Pildi paremas alaservas, roheliste lehtede seas, on näha tumedam putukas, mis istub lehel paigal. Üldine valgus on ere ja loomulik, viidates päikeselisele päevale, luues õrnadele kroonlehtedele pehme varju ja valgusmängu. Stseen õhkub rahu ja looduslähedust, keskendudes looduse pisidetailidele.",
+      "actions": [
+        "Lille õrn liikumine/võnkumine (tõenäoliselt tuule tõttu)",
+        "Putukas on paigal lehe peal"
+      ],
+      "keywords": [
+        "Lill",
+        "valge",
+        "roheline",
+        "loodus",
+        "putukas",
+        "taimestik",
+        "kevad",
+        "suvi",
+        "päike",
+        "rahu",
+        "detail",
+        "värske"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Lill",
+        "kroonlehed",
+        "tolmukad",
+        "lehed",
+        "vars",
+        "rohi",
+        "putukas",
+        "oks"
+      ],
+      "colorcodes": [
+        "#F8F8F8",
+        "#F0E68C",
+        "#3C5A2C",
+        "#6B8E23",
+        "#5A3A1A",
+        "#2F4F2F"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Peamise valge lille õrn liikumine või võnkumine kaadrite vahel, mis annab märku tuulest või kergest kaamera nihkest."
+      ],
+      "snr": "056",
+      "ajad": [
+        "506.600",
+        "509.760"
+      ]
+    },
+    {
+      "explanation": "Stseenil on lähikaadris fookuses okastraat, mis kulgeb diagonaalselt läbi kaadri. Okastraat on hallikas-hõbedase tooniga ja sellel on näha teravaid ogasid. Kaadri keskel on okastraat ühendatud teise okastraadi haruga paari heledama, tõenäoliselt plastist või puidust vahetüki abil, mis hoiab kahte traati paralleelselt. Paremal pool kaadris jookseb veel üks okastraadi haru. Vasakul pool on näha värskeid, helerohelisi lehti ja peenemaid pruunikaid oksi, mis viitavad tärkavale loodusele. Taust on roheline ja udune, luues sügavusefekti ning rõhutades esiplaanil olevat okastraati ja lehti. Valgus on ere, tekitades traadile ja lehtedele selgeid sähvatusi ja varje, mis annab pildile sügavuse. Üldine meeleolu on pisut kõle ja piirav, kuid samas on looduse tärkamise elemendid tasakaalustamas.",
+      "actions": [],
+      "keywords": [
+        "okastraat",
+        "loodus",
+        "roheline",
+        "kevad",
+        "aed",
+        "piir",
+        "traat",
+        "taimed",
+        "oksad",
+        "lehed",
+        "torkiv"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "okastraat",
+        "traat",
+        "okkad",
+        "lehed",
+        "oksad",
+        "taimed",
+        "vahetükid",
+        "rohi"
+      ],
+      "colorcodes": [
+        "#4A633F",
+        "#6D7F4C",
+        "#3F5234",
+        "#9B9E9B",
+        "#6A6E6A",
+        "#A6A6A6",
+        "#6F4A39",
+        "#A59B72"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on väga väikesed, peaaegu märkamatud erinevused heleduses ja kontrastis. Kolmas pilt on eelmistest pisut tumedam ja madalama kontrastiga."
+      ],
+      "snr": "057",
+      "ajad": [
+        "509.760",
+        "513.040"
+      ]
+    },
+    {
+      "explanation": "Stseen algab päikeselisel suvepäeval välitingimustes, tõenäoliselt metsa servas või lagendikul. Esiplaanil kulgeb muldrada, millel kõnnib kaamera eest eemale seljaga vaataja poole sõjaväevormi sarnases riietuses ja seljakotiga inimene. Tee on ääristatud rohelise rohu ja tihedate põõsastega, taamal on näha kõrgemaid puid. Vasakul pool on pargitud tume kaubik ja selle taga on mitu ajutise ilmega hoonet, millest ühel on selgelt näha punane rist valgel taustal, mis viitab meditsiinipunktile. Stseen läheb üle mustale taustale, millel kuvatakse valge tekstiga tiitrid, esmalt kaameraoperaatorite nimed ja seejärel \"BFM Baltic Film and Media School\" logo, mis koosneb kolmest värvilisest ringist (punane, roheline, sinine) ja väikesest valgest punktist, ning kooli täisnimi.",
+      "actions": [
+        "inimene kõnnib",
+        "tiitrite kuvamine"
+      ],
+      "keywords": [
+        "loodus",
+        "mets",
+        "rada",
+        "sõjavägi",
+        "laager",
+        "meditsiin",
+        "suvi",
+        "päev",
+        "tiitrid",
+        "filmikool",
+        "logo"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "muru",
+        "puud",
+        "põõsad",
+        "muldrada",
+        "inimene",
+        "kaubik",
+        "hooned",
+        "punane rist",
+        "seljakott",
+        "logo (punane ring, roheline ring, sinine ring, valge punkt)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#0C2719",
+        "#3E6B20",
+        "#90AB75",
+        "#826D45",
+        "#3B4521",
+        "#C80101",
+        "#595C5B",
+        "#546452",
+        "#D9D9D9",
+        "#CD0000",
+        "#007F00",
+        "#0000CD"
+      ],
+      "texts": [
+        "Camera operators:",
+        "Sigrid Reede",
+        "Elis Rebbas",
+        "BFM",
+        "Baltic Film and Media School"
+      ],
+      "persons": [
+        "inimene (sõjaväevormis/matkaja)",
+        "Sigrid Reede",
+        "Elis Rebbas"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader on realistlik välistseen inimese, sõidukite ja hoonetega, teised kaadrid on mustal taustal olevad tiitrid ja logo.",
+        "Esimene kaader on värviline ja detailsne, tiitrite kaadrid on minimalistlikud must-valged/värvilise logoga mustal taustal.",
+        "Esimene kaader kujutab tegevust ja keskkonda, tiitrite kaadrid annavad infot filmi tegijate ja tootja kohta."
+      ],
+      "snr": "058",
+      "ajad": [
+        "513.040",
+        "516.200"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud minimalistlik logo mustal taustal. Logo koosneb kolmest suurest värvilisest ringist – punasest, rohelisest ja sinisest –, mis on paigutatud kolmnurkselt ümber väikese valge keskmise ringi. Ringidest paremal asub valge tekst, mis algab akronüümiga \"BFM\", mille all on täisnimi \"Baltic Film and Media School\". Kogu kujutis on terav ja selge, asetudes ekraani keskel, jättes rohkelt vaba musta ruumi ümber. Värvid on erksad ja kontrastsed tumeda taustaga.",
+      "actions": [],
+      "keywords": [
+        "logo",
+        "bränding",
+        "filmiharidus",
+        "meediakool",
+        "graafiline disain",
+        "minimalism",
+        "kaubamärk",
+        "haridus",
+        "Baltikum",
+        "ülikool"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "kolm värvilist ringi",
+        "üks väike valge ring",
+        "logo",
+        "tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#E4002B",
+        "#00A950",
+        "#004DFF",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "BFM",
+        "Baltic Film and Media School"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "059",
+      "ajad": [
+        "516.200",
+        "553.360"
+      ]
+    }
+  ]
+}

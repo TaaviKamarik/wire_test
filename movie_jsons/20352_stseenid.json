@@ -1,0 +1,1103 @@
+{
+  "film": [
+    "20352",
+    "20199",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Kaevik",
+    "fa8a01bf7960bf40271bb817c5be233ffb988e69.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab sõjaväelist olukorda vabas õhus, tõenäoliselt treeningut või operatiivset tegevust. Maapind on mudane ja ebaühtlane, kaetud jalajälgede ja rehvimustritega, mis viitab hiljutisele niiskusele või vihmale. Paiguti on näha väikeseid veeloike. Valgus ja varjud viitavad päevavalgusele. Esiplaanil on näha sõdureid kamuflaažvormides ja kiivrites. Üks sõdur on selgelt fookuses, tema nägu on veidi määrdunud või maskeeritud ja ta vaatab allapoole, andes tõsise ja keskendunud mulje. Tema kõrval on teisi sõdureid, kes on osaliselt kaadris ja veidi udused. Taustal on näha palju paljaid puid, mis annavad tunnistust hilissügisest või varakevadest. Üks hägune figuur seisab kaugemal lagedal, samuti tumedas riietuses, mis võib olla instruktor või mõni teine tegelane. Õhkkond on kainestav ja resoluutne, mida rõhutab ka antud käsklus.",
+      "actions": [
+        "Seisavad tähelepanelikult",
+        "Vaatavad allapoole"
+      ],
+      "keywords": [
+        "Sõjavägi",
+        "sõdurid",
+        "muda",
+        "treening",
+        "väljas",
+        "kamuflaaž",
+        "metsaäär",
+        "tähelepanu",
+        "tõsine",
+        "kiiver",
+        "varustus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Muda",
+        "jalajäljed",
+        "rehvimustrid",
+        "puud (paljad)",
+        "sõdurivormid",
+        "kiivrid",
+        "sõjavarustus",
+        "loigud"
+      ],
+      "colorcodes": [
+        "#3A413D",
+        "#626A6A",
+        "#5A6B57",
+        "#747D6E",
+        "#4D5C4B",
+        "#C0C6C6",
+        "#71756C"
+      ],
+      "texts": [
+        "Unit attention!"
+      ],
+      "persons": [
+        "Sõdurid",
+        "instruktor (võimalik)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader keskendub maapinnale ja selle tekstuurile, teine toob esile ühe sõduri detailse portree, kolmas näitab uduselt kauguses seisvat figuuri ja üldisemat maastikku.",
+        "Kaadrite teravus varieerub: maapind ja esiplaanil olev sõdur on teravad, kauguses olevad figuurid ja taust on udused.",
+        "Vaatenurk muutub: esimeses kaadris on vaade maapinnale ülalt alla, teises on keskmine lähivõte ja kolmandas kaugvõte."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "8.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab militaarset treeningharjutust õues, kus sõdurid on rakendatud raskuste kandmisesse. Ühel hetkel näidatakse lähedalt sõdurit, kes on kamuflaažriietuses ja mustades militaarsaabastes, surudes jalaga murdunud puupalgi otsa vastu mahalangenud tüve jäänust, murdes seda veelgi. Maapind on kaetud pruunika mulla, kuivanud okste ja lehtedega. Seejärel näeb mitut kamuflaažvormis ja kiivriga sõdurit ühiselt pikka, jämedat ja kooritud puupalki õlgadel kandmas. Päike paistab madalalt, luues ereda valguse ja läätsehelgi, mis viitab varahommikusele või hilisõhtusele ajale. Sõdurid on rivis ja liiguvad edasi. Üks kaader näitab neid selja tagant, kus nad hoiavad palki kindlalt mõlema käega üleval. Stseeni iseloomustab füüsiline pingutus ja meeskonnatöö militaarses keskkonnas.",
+      "actions": [
+        "palgi murdmine",
+        "palgi kandmine",
+        "treeningharjutus",
+        "seisavad",
+        "kõnnivad"
+      ],
+      "keywords": [
+        "sõjavägi",
+        "treening",
+        "palk",
+        "sõdurid",
+        "kamuflaaž",
+        "füüsiline_pingutus",
+        "meeskonnatöö",
+        "mets",
+        "väljas"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "sõdurid",
+        "palk",
+        "puupakk",
+        "sõjaväesaapad",
+        "kiivrid",
+        "kamuflaažriietus",
+        "rakmed",
+        "oksad",
+        "lehed",
+        "maapind"
+      ],
+      "colorcodes": [
+        "#4C5D3E",
+        "#7B8C65",
+        "#8A6D4A",
+        "#A68D6A",
+        "#5A4E3E",
+        "#3D3A30",
+        "#3A3A3A",
+        "#F7E6C1"
+      ],
+      "texts": [
+        "On my mark, you will move the log and count numbers.",
+        "Hands up!"
+      ],
+      "persons": [
+        "sõdurid"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "autumn",
+      "daytime": "morning",
+      "differences": [
+        "Erinev kaadri suurus ja fookus: esimene kaader keskendub detailile (jalg ja palgi murdmine), samas kui järgmised kaadrid näitavad gruppi ja laiemaid tegevusi.",
+        "Kaadris nähtavate inimeste arv: esimesel kaadril on selgelt näha vaid üks sõdur (täpsemalt tema jalg), hilisemates kaadrites on näha terve rida sõdureid.",
+        "Konkreetne tegevus: esimene kaader keskendub palgi murdmisele, teised aga palgi kandmisele.",
+        "Subtiitrite sisu on erinev igal kaadril (kus need on olemas).",
+        "Kiivri olemasolu: esimeses kaadris sõduri kiivrit ei näe, teistes kaadrites kannavad sõdurid kiivreid."
+      ],
+      "snr": "002",
+      "ajad": [
+        "8.880",
+        "131.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab gruppi sõdureid, kes osalevad füüsiliselt nõudlikul väljaõppel välitingimustes. Nad kannavad ühiselt oma õlgadel jämedat, töötlemata puupalki. Sõdurid on riietatud rohelistesse ja pruunidesse kamuflaažvormidesse ning kannavad kiivreid ja taktikaveste. Esimene pilt näitab laiemat vaadet tagantpoolt, kus mitu sõdurit toetavad palki. Teisel pildil on detailsemalt näha ühe sõduri seljaosa ja kamuflaažmustrit, samal ajal kui ta palka toetab. Kolmandal pildil on lähiplaanil ühe sõduri nägu, kes on valu ja pingutuse tõttu grimassitamas, silmad on pigistatud ja hambad risti. Tema käed on tõstetud, mis viitab palgi hoidmisele. Üldine õhkkond on pingeline ja kurnav. Taustal on ähmaselt näha puid ja alusmetsa, mis viitab metsa või harjutusvälja servale. Valgus on pehme, mis võib viidata varasele hommikule või hilisele õhtule. Stseen algab laiemast kaadrist, mis fookustab grupile, ja liigub edasi lähivõtteni, mis toob esile ühe sõduri füüsilise pingutuse ja emotsiooni.",
+      "actions": [
+        "puupalgi kandmine",
+        "füüsiline pingutus",
+        "treening",
+        "grimassitamine"
+      ],
+      "keywords": [
+        "sõjavägi",
+        "treening",
+        "füüsiline koormus",
+        "vastupidavus",
+        "väljaõpe",
+        "kamuflaaž",
+        "puupalk",
+        "sõdurid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "puupalk",
+        "sõdurid",
+        "kiivrid",
+        "kamuflaažvormid",
+        "taktikavestid",
+        "puud",
+        "aluskasv"
+      ],
+      "colorcodes": [
+        "#4B5E4F",
+        "#746C49",
+        "#343C3A",
+        "#2F3934",
+        "#969269"
+      ],
+      "texts": [
+        "Hands up!"
+      ],
+      "persons": [
+        "sõdurid"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on laiem kaader, näidates mitut sõdurit ja tausta; teine on lähim kaader ühest sõdurist selja tagant; kolmas on lähiplaan ühe sõduri näost.",
+        "Subtiiter 'Hands up!' on nähtav ainult esimesel pildil.",
+        "Sõduri näoilme ja intensiivne grimass on nähtav ainult kolmandal pildil.",
+        "Piltide fookus muutub grupilt üksikule sõdurile ja tema emotsioonile."
+      ],
+      "snr": "003",
+      "ajad": [
+        "131.240",
+        "138.080"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab vaadet alt üles tiheda metsa või puudekogumi taevasse, mis on sügavalt sinine ja viitab õhtu- või videvikuaegsele valgusele. Puud on valdavalt tumedate siluettidena esiplaanil, nende oksad ja tüved ulatuvad ülespoole ja varjutavad taevast. Mõnedel puudel on näha tumerohelist okastikku või lehestikku, mis viitab okaspuudele, samas kui teised on peaaegu raagus, luues haralise ja hargneva mustri vastu taevast. Üldine meeleolu on rahulik ja mõtisklev, rõhutades looduse ilu ja suursugusust hämaruses.",
+      "actions": [],
+      "keywords": [
+        "mets",
+        "puud",
+        "taevas",
+        "siluetid",
+        "videvik",
+        "hämarus",
+        "loodus",
+        "oksad",
+        "rahulik",
+        "okaspuud"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "puud",
+        "oksad",
+        "taevas",
+        "okkad"
+      ],
+      "colorcodes": [
+        "#31425e",
+        "#1e2227",
+        "#5a6e60",
+        "#3c4c62"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Piltide vahel ei ole märgatavaid erinevusi."
+      ],
+      "snr": "004",
+      "ajad": [
+        "138.080",
+        "195.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest (tõenäoliselt sõdurit või matkajat) lamamas õues metsas, mähituna tumerohelisse magamiskotti või varjatud taktikalisse katteriidesse. Tema peas on samuti tumeroheline peakate või balaclava. Ümbritsev keskkond on jaheda ja summutatud värvipaletiga, mis viitab öisele ajale, varajasele hommikule või hilisele õhtule. Kaadrid algavad fookusega inimese näol, mis on määrdunud või maskeeritud, silmad avatud ja pilk väsinud, kuid valvas. Järgmises kaadris on silmad suletud, andes edasi magamise või sügava puhkuse seisundit. Lõpuks nihkub fookus tühjale, kortsus magamiskotile, inimest ennast enam näha ei ole, ja kogu stseen muutub veelgi pimedamaks. Esimeses kahes kaadris on esiplaanil näha ka relvatoru, mis viitab sõjalisele või ellujäämiskontekstile. Stseen edastab vaikust, üksindust ja pingelist puhkust. Taustal on udused puud ja metsamaastik.",
+      "actions": [
+        "Lamamine",
+        "Puhkamine",
+        "Magamine/uinumine"
+      ],
+      "keywords": [
+        "Mets",
+        "Öö",
+        "Hämarik",
+        "Sõdur",
+        "Puhkus",
+        "Uni",
+        "Varustus",
+        "Matkamine",
+        "Üksindus",
+        "Vaikus",
+        "Väsimus",
+        "Kamuflaaž"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Magamiskott",
+        "Peakate",
+        "Puud",
+        "Mets",
+        "Relv (vintraud)"
+      ],
+      "colorcodes": [
+        "#33423F",
+        "#2F3B4F",
+        "#7F7B7B",
+        "#7DA4BE",
+        "#303030"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on inimese silmad avatud, pilk suunatud ülespoole, väljendus väsinud või valvas.",
+        "Teisel pildil on inimese silmad suletud või peaaegu suletud, andes edasi magamise või sügava puhkuse.",
+        "Kolmandal pildil puudub inimene kaadrist täielikult, fookus on kortsus magamiskotil/riietusel. Stseen on märgatavalt pimedam ja detaile on vähem näha."
+      ],
+      "snr": "005",
+      "ajad": [
+        "195.320",
+        "202.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sõdurit tihedas, pimedas metsas, kus valgus on hämar, vihjates varahommikule või hilisõhtule. Sõdur kannab digitaalse mustriga kamuflaažriietust, kiivrit ja taktikavesti. Ta liigub või vaatleb ümbrust sügavas metsas. Tema nägu on määrdunud ja ilmetu, kuid silmades peegeldub pinge ja mure. Ühel hetkel hoiab ta käes raadiosaatjat või sidevahendit, kuulates keskendunult. Stseeni kulminatsiooniks vajub sõdur kokku, kössitades ja surudes rusikad kokku, mis annab märku äärmisest väsimusest, stressist või meeleheitest. Mets keskkonnana on tihe ja loob klaustrofoobilise, isoleeritud tunde, mis rõhutab sõduri emotsionaalset seisundit. Üldine värvipalett on tumeroheline, pruun ja hall, mis sulandub kamuflaažiga ja annab stseenile sünge ja tõsise tooni.",
+      "actions": [
+        "Liikumine metsas",
+        "Sidepidamine raadiosaatjaga",
+        "Keskendumine",
+        "Mure tundmine",
+        "Väsimuse ilmutamine",
+        "Kössitamine",
+        "Rusikate kokkusurumine"
+      ],
+      "keywords": [
+        "Sõdur",
+        "Mets",
+        "Kamuflaaž",
+        "Väsimus",
+        "Pinge",
+        "Mure",
+        "Side",
+        "Dusk",
+        "Meeleheide",
+        "Üksildus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Sõdur",
+        "Kiiver",
+        "Kamuflaažriietus",
+        "Taktikavest",
+        "Raadiosaatja/sidevahend",
+        "Metsapuud"
+      ],
+      "colorcodes": [
+        "#2E3A32",
+        "#1F2620",
+        "#3D4C42",
+        "#4A584C",
+        "#9C7F72",
+        "#ABA192",
+        "#606D63",
+        "#3E4A3E"
+      ],
+      "texts": [],
+      "persons": [
+        "Sõdur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Kaamera nurk ja fookuspunkt muutuvad kaadrite vahel.",
+        "Sõduri kehahoiak ja emotsionaalne seisund areneb nähtavalt.",
+        "Esimeses kaadris on sõdur näha seljaga laiemas plaanis, teises näost kesklähedases plaanis ja kolmandas fookusega tema kätele ja kokkukruvitud kehaasendile."
+      ],
+      "snr": "006",
+      "ajad": [
+        "202.920",
+        "250.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab Eesti sõdureid metsas, ilmselt õppuse või operatsiooni käigus. Üks sõdur, kelle nägu on määrdunud maskeerimisvärviga, on riietatud Eesti kaitseväe digitaalsesse kamuflaažvormi ja kannab kiivrit. Tema paremal õlal on Eesti lipu embleem kirjaga \"ESTONIA\". Esialgu on näha teda labidaga maad kaevamas, moodustades pinnasehunniku. Hiljem istub või põlvitab sama sõdur samas kohas, näib väsinud ja mõtlik. Tema kõrval maapinnal on näha labidas ja kaevatud pinnas. Tagaplaanil on näha teisi sõdureid, samuti kamuflaažvormides, kes liiguvad või tegutsevad metsas. Mets on hõre, koosneb peamiselt sirgetest puudest ja maapind on kaetud kuivanud lehtede või okastega. Valgus viitab päevale. Ühes kaadris on subtiitrid dialoogist, kus küsitakse süüa, viidates näljatundele.",
+      "actions": [
+        "Maad kaevamine",
+        "Puhkamine/istumine",
+        "Liikumine metsas (tagaplaanil)",
+        "Rääkimine/dialoog (implisteeritud subtiitrite kaudu)"
+      ],
+      "keywords": [
+        "Sõdurid",
+        "Mets",
+        "Kaevamine",
+        "Väsinud",
+        "Militaar",
+        "Eesti",
+        "Kamuflaaž",
+        "Õppus",
+        "Näljane",
+        "Lahing",
+        "Maastik"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Sõdurid",
+        "Kamuflaažvorm",
+        "Kiiver",
+        "Labidas",
+        "Pinnas/muld",
+        "Puud",
+        "Puujuur",
+        "Puutüvi",
+        "Kuivanud lehed/okkad",
+        "Eesti lipu embleem",
+        "Maskeerimisvärv"
+      ],
+      "colorcodes": [
+        "#4e4034",
+        "#748c66",
+        "#2d3b2b",
+        "#4a5c3b",
+        "#6e5c4a",
+        "#444c3c",
+        "#234f9a",
+        "#ffffff",
+        "#010101",
+        "#8a7a6c",
+        "#a8a096"
+      ],
+      "texts": [
+        "Are you not going to offer me some? I'm also hungry.",
+        "ESTONIA"
+      ],
+      "persons": [
+        "Sõdurid"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on lähivõte sõdurist, kes kaevab labidaga maad, keskendudes tegevusele. Teine ja kolmas pilt on keskmised võtted samast sõdurist, kes istub või põlvitab puhkeasendis.",
+        "Esimesel pildil pole sõduri nägu näha, samas kui teisel ja kolmandal on selgelt näha tema väsinud ilmet ja määrdunud nägu.",
+        "Teisel pildil on näha ingliskeelsed subtiitrid dialoogist, mis puuduvad esimesel ja kolmandal pildil.",
+        "Kolmas pilt on teise pildiga peaaegu identne, kuid puuduvad subtiitrid ja kaamera nurk võib olla marginaalselt erinev."
+      ],
+      "snr": "007",
+      "ajad": [
+        "250.640",
+        "341.840"
+      ]
+    },
+    {
+      "explanation": "Stseen on jäädvustatud alt üles vaadatuna, kujutades tumesinist või sügavalt sinakashalli taevast läbi puuvõrade. Vasakul pool on näha ühe pika puu tüve ja oksasid, millel on küljes lehed, moodustades heledama ja veidi leherikkama silueti taeva taustal. Lehed näivad olevat rohekatoonilised, vaatamata üldisele pimedusele. Paremal pool domineerib tihe, hargnenud ja peenikestest okstest koosnev mass, mis paistab raagus või väga tumedate lehtedega ning moodustab tumedama ja keerukama mustri. Kaks puud pakuvad kontrasti – üks lehtedega, teine raagus või tumeda võraga. Üldine meeleolu on vaikne, sügav ja veidi müstiline, rõhutades looduse rahu ja pimedust.",
+      "actions": [
+        "Puude kohal taevasse vaatamine",
+        "Looduse vaatlemine"
+      ],
+      "keywords": [
+        "Mets",
+        "Puud",
+        "Taevas",
+        "Öö",
+        "Videvik",
+        "Puuvõra",
+        "Oksad",
+        "Siluett",
+        "Loodus",
+        "Rahu",
+        "Sügavus",
+        "Tumesinine"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Oksad",
+        "Lehed",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#2C3F59",
+        "#314A66",
+        "#212836",
+        "#2F3D4D",
+        "#1D212C"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Pildid on praktiliselt identsed, ilma märgatavate visuaalsete erinevusteta. Puudub igasugune liikumine või valguse muutus kaadrite vahel."
+      ],
+      "snr": "008",
+      "ajad": [
+        "341.840",
+        "455.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sõdurit tumedas metsas, tõenäoliselt öösel või hämaras. Algselt lamab sõdur maapinnal, olles osaliselt kaetud magamiskoti või sarnase varustusega. Tema nägu peegeldab piina, segadust või hirmu, kui ta ülespoole vaatab. Sõdur kannab kamuflaaživormi ja kiivrit. Tagaplaanil on näha telgist või varjupaigast kumavat nõrka oranži valgust. Mõne hetke pärast proovib sõdur end püsti ajada, tema näoilme muutub veelgi intensiivsemaks ja ta sirutab käe välja, justkui millegi järele haarates või end toetades. Stseen muutub seejärel täiesti mustaks, mis võib viidata teadvuse kaotusele, pildikatkestusele või stseeni ootamatule lõpule. Metsane pinnas on kaetud tumeda sambla ja mullaga, mis sulandub keskkonna tumedate roheliste ja siniste toonidega.",
+      "actions": [
+        "lamab",
+        "vaatab üles",
+        "püsti ajama",
+        "sirutab kätt"
+      ],
+      "keywords": [
+        "sõdur",
+        "mets",
+        "öö",
+        "hirm",
+        "piin",
+        "kamuflaaž",
+        "telk",
+        "pimedus",
+        "sõda",
+        "ellujäämine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "sõdurivarustus",
+        "kiiver",
+        "magamiskott",
+        "kamuflaaživorm",
+        "mets",
+        "samblane pinnas",
+        "telk",
+        "relv"
+      ],
+      "colorcodes": [
+        "#2F3935",
+        "#181C1D",
+        "#000000",
+        "#FF8C00",
+        "#556B2F"
+      ],
+      "texts": [],
+      "persons": [
+        "sõdur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "33",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil lamab sõdur maapinnal, teisel püüab ta end püsti ajada ning kolmas pilt on täiesti must.",
+        "Sõduri näoilme muutub esimeselt pildilt teisele intensiivsemaks, väljendades suuremat pinget või valu.",
+        "Taustal olev telgi tuli on nähtav esimesel pildil, kuid mitte teisel pildil, mis viitab kaamera liikumisele või fookuse muutumisele."
+      ],
+      "snr": "009",
+      "ajad": [
+        "455.600",
+        "465.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat metsamaastikku, kus liigub varustuselt sõdurilaadne isik. Üleüldine toon on sügavsinine ja tume, mis viitab hilisele õhtule või ööle. Mets on tihe ja puid katavad ainult tumedad siluetid, mis annab edasi jaheda ja ehk ka salapärase atmosfääri. Isik kannab maskeerivaid rõivaid ja peakatet (võimalik, et balaclavat), mis varjab ta nägu, ja tema liikumine on ettevaatlik – ta kas kõnnib või roomab neljakäpukil maapinnal. Stseen tekitab tunde varitsusest, hiilimisest või salajasest operatsioonist sügaval metsas. Üks kaader on fookusest väljas, rõhutades metsa udust ja mõistatuslikku olemust.",
+      "actions": [
+        "Liikumine metsas",
+        "Ettevaatlik kõndimine",
+        "Neljakäpukil roomamine",
+        "Maa jälgimine",
+        "Hiilimine"
+      ],
+      "keywords": [
+        "Mets",
+        "Pimedus",
+        "Hämarus",
+        "Sõdurilaadne isik",
+        "Kamuflaaž",
+        "Saladus",
+        "Operatsioon",
+        "Külm",
+        "Varitsemine",
+        "Üksildus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Isik",
+        "Puu",
+        "Metsamaa",
+        "Kamuflaažrõivad",
+        "Peakate"
+      ],
+      "colorcodes": [
+        "#1B202B",
+        "#2E394A",
+        "#3D4A5B",
+        "#202936"
+      ],
+      "texts": [],
+      "persons": [
+        "Isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": 80,
+      "season": "autumn",
+      "daytime": "night",
+      "differences": [
+        "Isiku poos muutub: esimesel pildil seisab isik püsti ja vaatab ette, teisel pildil on ta neljakäpukil maapinnal, vaadates alla.",
+        "Kadreering erineb: esimeses kaadris on isik kaugemal ja näha on laiemat metsaala, teises kaadris on isik lähemalt, fookusega tema madalale poosile.",
+        "Üks pilt (kolmas) on täielikult fookusest väljas ja ei kujuta inimest, näidates ainult metsa hägust siluetti."
+      ],
+      "snr": "010",
+      "ajad": [
+        "465.360",
+        "545.840"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset väga pimedas ja tihedas metsas öösel. Esialgu on näha vaid ähmane ja ebamäärane kuju sügavates varjudes, luues sünge ja salapärase atmosfääri. Järk-järgult muutub kuju selgemaks, paljastades kapuutsiga inimese, kes kannab tumedat, võimalik, et kamuflaažmustriga riietust. Inimese nägu jääb varjudesse varjatuks. Kolmandal pildil on tegelane selgelt fookuses, hoides käes suurt teravat nuga ja tema vasakul varrukal on näha Eesti lipu paik. Metsataust on endiselt pime, kõrgete puudega, mida valgustab vaid nõrk kuma, rõhutades varjude mängu ja stseeni pingelisust. Figuur näib liikuvat hiilides või ümbrust jälgides, andes edasi tunde potentsiaalsest ohust.",
+      "actions": [
+        "Hiilimine",
+        "Noa hoidmine",
+        "Ümbruse jälgimine"
+      ],
+      "keywords": [
+        "Pime mets",
+        "Öö",
+        "Varjud",
+        "Kapuutsiga inimene",
+        "Nuga",
+        "Eesti lipp",
+        "Salapärane",
+        "Ohtlik",
+        "Pingeline",
+        "Kamuflaaž"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mets",
+        "Puud",
+        "Nuga",
+        "Kapuutsiga riietus",
+        "Eesti lipu paik"
+      ],
+      "colorcodes": [
+        "#0C101B",
+        "#2D332C",
+        "#6F7275",
+        "#27566C",
+        "#292929",
+        "#B5B8BC"
+      ],
+      "texts": [],
+      "persons": [
+        "Kapuutsiga inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesest pildist kolmandani suureneb stseeni ja tegelase nähtavus ning selgus märgatavalt.",
+        "Figuur liigub kaadri keskele ja fookusesse, detailid nagu nuga ja Eesti lipu paik ilmnevad selgelt alles kolmandal pildil.",
+        "Valgus muutub järk-järgult paremaks, paljastades rohkem detaile pimedast keskkonnast ja tegelasest."
+      ],
+      "snr": "011",
+      "ajad": [
+        "545.840",
+        "578.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pingelist öist olukorda pimedas metsas. Kesksel kohal on varustusriietes ja kapuutsiga isik, kes hoiab käes nuga. Isiku paremal käisel on näha Eesti lipu motiiviga embleem. Valgusallikas, tõenäoliselt sõiduki esituli, valgustab eemalt metsa ja heidab isikule varju. Valguskiir lõikab läbi pimeduse, valgustades mõned puutüved, luues samal ajal sügavaid varje. Ümbritsev mets on pime ja süngelt hääletu, vaid kaugelt paistev valguskiir pakub ainukest eredat elementi. Isiku nägu on osaliselt varjus või eemale pööratud, mis lisab stseenile salapära ja ähvardavat alatooni. Üldine atmosfäär on pingeline ja ettevaatlik, viidates võimalikule ohule või varitsusele.",
+      "actions": [
+        "Hoiab nuga",
+        "Jälgib ümbrust (võimalik)",
+        "Seisab metsas",
+        "On valgustatud distantse valgusallika poolt"
+      ],
+      "keywords": [
+        "Mets",
+        "Öö",
+        "Pimedus",
+        "Nuga",
+        "Valguskiir",
+        "Pinge",
+        "Salapära",
+        "Taktikaline",
+        "Varjud",
+        "Oht",
+        "Eesti lipp"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Isik",
+        "Nuga",
+        "Kamuflaažirõivad",
+        "Kapuuts",
+        "Mets",
+        "Puud",
+        "Valgusallikas (tõenäoliselt auto esituli)",
+        "Eesti lipu embleem"
+      ],
+      "colorcodes": [
+        "#20202F",
+        "#3C4B3D",
+        "#DDC472",
+        "#151515",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Tundmatu isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel kaadril on isik näha küljelt, käes nuga, Eesti lipu embleem varrukal ja valguskiir paistab vasakult tagant.",
+        "Teisel kaadril on isik esiplaanil, pea allapoole suunatud ja osaliselt varjus, valguskiir on kaadri keskel kaugemal.",
+        "Kolmandal kaadril on laiem vaade pimedale metsale, isik puudub kaadrist, fookus on vaid kaugelt paistval valguskiirel ja puutüvedel."
+      ],
+      "snr": "012",
+      "ajad": [
+        "578.320",
+        "592.480"
+      ]
+    },
+    {
+      "explanation": "Stseen avaneb sünges, pimedas metsas, kus kapuutsiga inimene liigub eemalduvalt läbi tiheda puudesalu. Üldine atmosfäär on rusuv ja salapärane, valguse puudus süvendab pinget. Järgnevalt on fookuses maas lamav inimene, kelle kõrval maapinnas on torkehaavaga sisse löödud nuga. Seda osa stseenist valgustab vaid ähmane, kollakas-valge valguskiir, mis heidab varjusid ja rõhutab olukorra dramaatilisust. Lõpuks on näha kapuutsiga tegelase nägu lähemalt. Tema nägu on kahvatu, kaetud mustuse või verega, väljendades sügavat hirmu, valu või šokki. Tema ümber hõljub kerge udu või suits, mis lisab stseenile veelgi unenäolisema ja ebamaisema tunde. Näoilme ja kehaasend viitavad tugevale emotsionaalsele reaktsioonile, mis on tingitud kas varasematest sündmustest või äsja leitud olukorrast. Valgus on kogu stseeni vältel napp, rõhutades pimedust ja varjusid.",
+      "actions": [
+        "liigub läbi metsa",
+        "lamab maas",
+        "vaatab",
+        "väljendab hirmu/valu",
+        "hõljub udu/suits"
+      ],
+      "keywords": [
+        "pimedus",
+        "mets",
+        "hirm",
+        "valu",
+        "nuga",
+        "kapuuts",
+        "varjud",
+        "salapära",
+        "udu",
+        "dramaatiline",
+        "šokk"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "nuga",
+        "puud",
+        "kapuutsiga riietus",
+        "udu/suits"
+      ],
+      "colorcodes": [
+        "#0d0f1b",
+        "#1e263d",
+        "#2e313c",
+        "#a39355",
+        "#6b4a48",
+        "#3d3c3d"
+      ],
+      "texts": [],
+      "persons": [
+        "kapuutsiga inimene",
+        "maas lamav inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader näitab kapuutsiga inimest eemalt, tegevuspaika tutvustava kaadrina.",
+        "Teine kaader nihutab fookuse maas lamavale inimesele ja tema kõrval olevale noale, avastuse või sündmuse detailile.",
+        "Kolmas kaader toob kapuutsiga tegelase emotsionaalse seisundi esile lähivõttes, näidates tema reaktsiooni või kannatust.",
+        "Valgustus varieerub – esimeses kaadris on see ühtlasemalt tume, teises ja kolmandas on näha fokuseeritud valgusallikaid, mis toovad esile detaile ja tegelase näo."
+      ],
+      "snr": "013",
+      "ajad": [
+        "592.480",
+        "624.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sõdurit pimedas ja tihedas metsas, tõenäoliselt öösel või sügava hämaruse ajal. Sõdur kannab kamuflaažvormi, kiivrit ja taktikalist varustust ning vaatab sügavalt maapinna poole. Mets on täis puude siluette, mis viitavad kas talvele või hilissügisele lehtpuude osas ja mõnele okaspuule. Maapind on kaetud tumeda mullaga, lehtede ja harva esineva taimestikuga. Ühes kaadris on näha lähedalt maas olevat kamuflaažmustriga eset, mis on osaliselt kaetud mulla või muu metsamaterjaliga, andes aimu varjatud või alla mattunud detailist. Üldine atmosfäär on sünge, pingeline ja salapärane, mida rõhutab külm sinakasvalgus ja varjud.",
+      "actions": [
+        "Sõdur vaatab maapinna poole",
+        "Objekt on maapinnal varjatud"
+      ],
+      "keywords": [
+        "sõdur",
+        "mets",
+        "kamuflaaž",
+        "hämarus",
+        "öö",
+        "külm",
+        "pingeline",
+        "varjamine",
+        "maapind",
+        "kiiver"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "sõdur",
+        "sõjaväevorm",
+        "kiiver",
+        "taktikaline vest/rakmed",
+        "mets",
+        "puud",
+        "lehed",
+        "muld",
+        "kamuflaažiga kaetud objekt"
+      ],
+      "colorcodes": [
+        "#1A1E1D",
+        "#2B3531",
+        "#4B5853",
+        "#202C31",
+        "#2C3C43"
+      ],
+      "texts": [],
+      "persons": [
+        "sõdur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader näitab laia vaadet tumedale metsaalusele.",
+        "Teine kaader on kesklähedane võte sõdurist, kes vaatab metsas alla.",
+        "Kolmas kaader on lähivõte maapinnal olevast osaliselt varjatud kamuflaažmustriga objektist."
+      ],
+      "snr": "014",
+      "ajad": [
+        "624.680",
+        "699.200"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab vaadet alt üles, kus fookuses on suure puu massiivne tüvi ja sellest hargnevad arvukad, tumedad ja paljad oksad. Puutüvi on kaadri ülaosas fookusest väljas, andes edasi sügavuse ja kõrguse tunde. Oksad moodustavad heleda ja pilvise taeva taustal tiheda, justkui võrgustiku, kusjuures mõnel kaugemal oksal on näha hajusaid, tumerohelisi lehti või okkaid. Perspektiiv muudab puu imposantseks ja veidi müstiliseks, jättes mulje looduse vägevusest ja vaikusesse mattunud metsast. Valgus on pehme ja hajutatud, vihjates pilvisele ilmale.",
+      "actions": [],
+      "keywords": [
+        "puu",
+        "oksad",
+        "tüvi",
+        "taevas",
+        "altvaade",
+        "mets",
+        "loodus",
+        "talv",
+        "varakevad",
+        "pilvine",
+        "hall",
+        "sügavus",
+        "perspektiiv",
+        "haruline",
+        "vaikne"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "puu",
+        "puutüvi",
+        "oksad",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#D8D8D8",
+        "#4A4A4A",
+        "#3A3A3A",
+        "#607060"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [],
+      "snr": "015",
+      "ajad": [
+        "699.200",
+        "803.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sõjaväelasi metsas militaaroperatsioonil või väljaõppel. Esitaustal on naissõdur Eesti kaitseväe digitaalses kamuflaažvormis, peas kiiver, nägu kaetud kamuflaažvärvi või mudaga. Ühel hetkel on ta roomavas asendis, sihtides automaatrelvaga maapinnalt, samal ajal kui ümbritsevas metsas on näha sammalt, põõsaid ja puukänke. Teisel hetkel seisab ta püsti, vaadates tõsise ilmega ettepoole, paremal varrukal selgelt nähtav Eesti lipu embleem. Tagaplaanil on teisi sõdureid ja tihe männi- või kuusemets. Metsapõrand on kaetud rohelise sambla ja pruunide okastega, läbi puude ladvade paistab päike. Stseen on üldiselt fokusseeritud sõduri pingutusele ja keskendumisele ning rõhutab metsa kui tegevuskoha olulisust. Üks kaader on üldine ja udune pilt metsast, mis annab edasi keskkonna meeleolu.",
+      "actions": [
+        "Sihtimine relvaga",
+        "Roomamine",
+        "Püsti seismine",
+        "Jälgimine",
+        "Patrullimine"
+      ],
+      "keywords": [
+        "Sõdur",
+        "Eesti kaitsevägi",
+        "Mets",
+        "Kamuflaaž",
+        "Relv",
+        "Väljaõpe",
+        "Taktika",
+        "Militaar",
+        "Keskendumine",
+        "Metsa maastik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Sõdurikiiver",
+        "Kamuflaažvorm",
+        "Automaatrelv",
+        "Taktikaline vest",
+        "Eesti lipu embleem",
+        "Puud (männid/kuused)",
+        "Sammal",
+        "Põõsad",
+        "Puukännud",
+        "Pinnas/muld"
+      ],
+      "colorcodes": [
+        "#475F3A",
+        "#7A7E62",
+        "#A3855E",
+        "#5B442A",
+        "#9B9C9B",
+        "#314880",
+        "#1C1C1E",
+        "#E9E9E9",
+        "#5F6A48",
+        "#B29976"
+      ],
+      "texts": [],
+      "persons": [
+        "Naissõdur (fookuses)",
+        "Teised sõdurid (tagaplaanil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on sõdur roomavas asendis, sihtides relvaga, samas kui teisel pildil seisab ta püsti, vaadates ettepoole.",
+        "Esimesel ja teisel pildil on fookuses konkreetne sõdur ja tema tegevus, samas kui kolmas pilt on lai ja udune kaader metsast, ilma selge fookuseta isikutele või objektidele.",
+        "Sõduri näoilme ja kehakeel varieeruvad kaadrite vahel – esimesel keskendunud ja pingeline, teisel tõsisem ja mõtisklev.",
+        "Kolmas pilt annab üldise ülevaate metsa keskkonnast ja meeleolust, esimesed kaks aga konkreetsemast tegevusest ja karakterist."
+      ],
+      "snr": "016",
+      "ajad": [
+        "803.040",
+        "813.480"
+      ]
+    },
+    {
+      "explanation": "Pildil on näha täiesti musta värvi pind. Puudub igasugune visuaalne informatsioon, objekte, isikuid ega tegevusi pole näha. Stseen on täielikult pime ja tühi, pakkudes monokroomset ja sisutut vaatepilti. Kogu kaadri ulatuses valitseb ühtlane must toon, mis ei sisalda ühtegi detaili, tekstuuri ega heledamaid alasid.",
+      "actions": [],
+      "keywords": [
+        "must värv",
+        "tume",
+        "pime",
+        "pole nähtav",
+        "tühi pilt",
+        "tühjus",
+        "monokroomne"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltidel pole erinevusi."
+      ],
+      "snr": "017",
+      "ajad": [
+        "813.480",
+        "911.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab Eesti kaitseväe sõdurit tihedas metsas või maastikul, tõenäoliselt sõjalise õppuse või pingelise olukorra keskel. Sõdur kannab digitaalse mustriga (tõenäoliselt M05 EstCamo) kamuflaažvormi, kiivrit ja taktikalist vesti. Tema nägu on kaetud rohelise-pruuni kamuflaažvärviga, mis on higist või veest laiguline, andes edasi füüsilist pingutust ja stressi. Ühel kaadril on näha teine sõdur taustal, seistes puude vahel. Peategelase ilme on kurnatud, valulik või stressis, suu on kergelt avatud ja silmad kinni või kissis, viidates suurele pingutusele. Sõduri õlal on näha väike sinine riba või paik, mis võib olla osa lipupatšist. Ümbruskonnas on palju paljaid puid, kuiva rohtu ja mahalangenud oksi, mis viitab varakevadele või hilissügisele. Maastik on konarlik ja märg. Üldine meeleolu on pingeline, füüsiliselt nõudlik ja dramaatiline.",
+      "actions": [
+        "Kükitamine",
+        "Pingutamine",
+        "Väljendab kurnatust/valu",
+        "Vaatab üles/ette"
+      ],
+      "keywords": [
+        "Sõdur",
+        "Kamuflaaž",
+        "Mets",
+        "Sõjaline",
+        "Kurnatus",
+        "Valu",
+        "Õppus",
+        "Eesti kaitsevägi"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kiiver",
+        "Kamuflaažvorm",
+        "Taktikaline vest",
+        "Kamuflaažvärv",
+        "Puu",
+        "Kuiv rohi",
+        "Mahalangenud oksad",
+        "Sinine riba/paik"
+      ],
+      "colorcodes": [
+        "#4A5B40",
+        "#8D9C77",
+        "#3B3D3B",
+        "#6B5C4B",
+        "#A28F79",
+        "#405C72",
+        "#8C7A5D"
+      ],
+      "texts": [],
+      "persons": [
+        "Sõdur",
+        "Teine sõdur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "varakevad või hilissügis",
+      "daytime": "päev",
+      "differences": [
+        "Sõduri näoilme ja poos muutuvad kaadrite vahel, näidates erinevaid kurnatuse astmeid.",
+        "Kaadrite suumitase ja perspektiiv varieeruvad, pakkudes nii üldisemat vaadet kui ka detailset lähivaadet sõdurile.",
+        "Ühel kaadril on taustal näha teist sõdurit, teistes kaadrites on fookus vaid peategelasel.",
+        "Valguse ja varjude asetus varieerub veidi, andes erinevatele kaadritele sügavust ja atmosfääri."
+      ],
+      "snr": "018",
+      "ajad": [
+        "911.080",
+        "913.880"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb mustast taustast, millel kuvatakse valgeid lõputiitreid. Esimesel ja viimasel pildil on ekraan täiesti must, mis viitab kas stseeni algusele ja lõpule või üleminekule. Keskmisel pildil on esitatud erinevate meeskonnaliikmete nimed ja nende rollid tootmises. Tekst on valge ja selge sans-serif kirjastiilis, paigutatud ekraani keskele mustal taustal, jättes suure osa ekraanist tühjaks. Loetletud on erinevad rollid nagu näiteks režissööri assistent, grimmikunstnik, fookuse tõmbaja, helirežissöör ja line producer.",
+      "actions": [
+        "Teksti kuvamine ekraanil"
+      ],
+      "keywords": [
+        "Lõputiitrid",
+        "Filmi krediidid",
+        "Must taust",
+        "Valge tekst",
+        "Tootmismeeskond",
+        "Filmitööstus",
+        "Minimalistlik"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "1ST AD | RALF SIIG",
+        "MAKEUP ARTIST | SIGRID VILLIDO",
+        "FOCUS PULLER | GUNNAR LAAL / MARTIN VENELA",
+        "SECOND ASSISTANT CAMERA | MIHKEL NOTTA / ROBERT VAIN",
+        "COLOR GRADING | STEN LILL",
+        "BEST BOY / GRIP | BERTIL TARBE",
+        "ON SET SOUND RECORDING | GERT MÄLL",
+        "FOLIE ARTIST | KAURI LEMBERG",
+        "BOOM OPERATOR | GERT MÄLL / KAURI LEMBERG",
+        "LINE PRODUCER | VELI VALENTIN RAJASAAR",
+        "CATERING | MAREK RÄSTAS",
+        "LOCATION MANAGER | IVAR HEINPALU",
+        "SFX | KRISTJAN PÜTSEP"
+      ],
+      "persons": [
+        "Ralf Siig",
+        "Sigrid Villido",
+        "Gunnar Laal",
+        "Martin Venela",
+        "Mihkel Notta",
+        "Robert Vain",
+        "Sten Lill",
+        "Bertil Tarbe",
+        "Gert Mäll",
+        "Kauri Lemberg",
+        "Veli Valentin Rajasaar",
+        "Marek Rästas",
+        "Ivar Heinpalu",
+        "Kristjan Pütsep"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene ja kolmas pilt on täiesti mustad, samas kui keskmisel pildil kuvatakse mustal taustal valgeid lõputiitreid. See näitab üleminekut tühjast ekraanist tekstini ja potentsiaalselt tagasi tühjale ekraanile."
+      ],
+      "snr": "019",
+      "ajad": [
+        "913.880",
+        "969.920"
+      ]
+    }
+  ]
+}

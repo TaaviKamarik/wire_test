@@ -1,0 +1,600 @@
+{
+  "film": [
+    "11590",
+    "11581",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Fiesta",
+    "8409754cc86d05886ae76b19f97a4c21ff7493b1.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täielikus pimeduses, kus kogu kaader on must. Seejärel ilmub ekraani keskele valge, selge ja suurtähtedes sõna \"FIESTA\", mis jääb mustale taustale. Muud visuaalsed elemendid puuduvad, keskendudes ainult teksti ilmumisele.",
+      "actions": [
+        "Tekst ilmub mustale taustale"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Must taust",
+        "Tekst",
+        "Valge kiri",
+        "Üleminek",
+        "Sõna",
+        "Fiesta"
+      ],
+      "shot_type": "textbackground",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "FIESTA"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on kaader täielikult must, teisel pildil ilmub mustale taustale valge tekst \"FIESTA\"."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "10.077"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort meest, kes lamab vannis, tema vasakut silma katab märgatav sinikas. Vannitoa seinad on kaetud heledate ruudukujuliste plaatidega ja üldine valgustus on hämar, kollaka tooniga, mis loob intiimse ja veidi nukrameelse atmosfääri. Mees on raseerimata, lühikeste tumedate juustega ja näib olevat sügavates mõtetes või lõõgastumas. Stseeni erinevates hetkedes on teda näha kas sigaretti suitsetamas või tumedast pudelist joomas. Vannis on näha ka segistit ja dušiotsikut. Mehe ilme on läbimõeldud ja vaoshoitud, peegeldades võimalikku stressi või valu. Üldmulje on melanhoolne ja isiklik.",
+      "actions": [
+        "Lamamine vannis",
+        "Suitsetamine sigaretti",
+        "Joomine pudelist",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Mees",
+        "Vann",
+        "Vannituba",
+        "Sinine silm",
+        "Suitsetamine",
+        "Joomine",
+        "Melanhoolia",
+        "Lõõgastus",
+        "Mõtisklus",
+        "Üksindus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Vann",
+        "Sigaret",
+        "Pudel",
+        "Kraan",
+        "Dušiotsik",
+        "Seinaplaadid"
+      ],
+      "colorcodes": [
+        "#CDCBA3",
+        "#C4A182",
+        "#2B2524",
+        "#2A1A10",
+        "#FDFDFD"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel ja kolmandal pildil suitsetab mees sigaretti, kuid tema käte asend ja suu asend on veidi erinevad, mis viitab ajale eraldatud kaadritele.",
+        "Teisel pildil joob mees tumedast pudelist, sigarett pole nähtav."
+      ],
+      "snr": "002",
+      "ajad": [
+        "10.077",
+        "25.292"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, tõenäoliselt koridori või kitsast läbikäiku, kus on näha heledat värvi plaaditud seinad. Seinad on ümbritsetud punaste ukseraamide või ääristustega. Valgus on ruumis hämar. Vasakul seinal on tume seade, millest ripuvad alla juhtmed, meenutades intercomi või elektriboksi. Paremal on osaliselt avatud heledat värvi uks, millel on punane hoiatusmärk. Märgil on üleval kollane kolmnurk musta äärisega ja musta jalakäija sümboliga, ning selle all on punasel taustal valge tekst \"LAST INIMENE OLE TEE ALATI!\". Ukse alumises osas on väiksem ruudukujuline avaus või luuk. Paremal ukse ja seina vahele on toetatud pikliku rohekas-kollase varrega puhastusvahend, mis sarnaneb luuaga. Keskel on avatud ukseava, mis viib teise, samuti hämarasse ruumi. Selles tagumises ruumis on valge sein, millel ripub pilt või plakat. Plakatil on üleval näha tekst \"LOST\" ja selle all on kujutatud roheline, inimkäega sarnanev objekt. Ühes kaadris on näha, kuidas punast T-särki ja tumedaid pükse kandev inimene kõnnib vasakult paremale läbi keskmise ukseava tagumisse ruumi, tema liikumine on pildi udusust arvestades kiire.",
+      "actions": [
+        "Inimese kõndimine läbi ukseava",
+        "Ukseavast siseruumi vaatamine"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Koridor",
+        "Plaaditud seinad",
+        "Punane uks",
+        "Hämar valgus",
+        "Hoiatusmärk",
+        "Plakat",
+        "Roheline ese",
+        "Puhastusvahend",
+        "Inimene",
+        "Ukseava",
+        "Juhtmed"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Seinaplaadid",
+        "Punased ukseraamid/ääred",
+        "Uks",
+        "Hoiatusmärk",
+        "Puhastusvahend/luud",
+        "Ukseava",
+        "Plakat",
+        "Roheline käega sarnanev objekt",
+        "Tume seade juhtmetega",
+        "Väike ruudukujuline avaus uksel"
+      ],
+      "colorcodes": [
+        "#E0E0C0",
+        "#C00000",
+        "#404040",
+        "#F0F000",
+        "#006000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "LAST INIMENE OLE TEE ALATI!",
+        "LOST"
+      ],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Inimese ilmumine ja liikumine teises kaadris, samal ajal kui esimene ja kolmas kaader on ilma inimeseta."
+      ],
+      "snr": "003",
+      "ajad": [
+        "25.292",
+        "29.763"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noormeest, kes astub kollakates ja rohekates toonides valgustatud vannituppa või pesuruumi. Ruum on plaaditud heledate plaatidega ning sisaldab vanamoelist ja roostetanud veeboilerit, pesumasinat, triikrauda ja vanni. Esimeses kaadris paistab noormees, heledate juuste ja punase T-särgiga, uksest sisse vaatamas, justkui otsides kedagi või olukorda hindamas. Seejärel astub ta sügavamale ruumi, seljaga vaataja poole, ning läheneb vannile. Vanni on sukeldunud teine noormees, kes hoiab käes väikest eset, võimalik et käsna või pudelit, ning vaatab otse kaamerasse. Üldine valgustus on hämar ja annab ruumile sünge, ajast maha jäänud või isegi õõvastava tunde. Seinal on näha ka pilt, mis kujutab tõenäoliselt risti.",
+      "actions": [
+        "Noormees punase särgiga astub uksest sisse",
+        "Noormees punase särgiga vaatab ringi",
+        "Noormees punase särgiga liigub vanni poole",
+        "Noormees on vannis",
+        "Noormees vannis hoiab kättes eset",
+        "Noormees vannis vaatab otse kaamerasse"
+      ],
+      "keywords": [
+        "Vannituba",
+        "Noormehed",
+        "Vann",
+        "Hämar",
+        "Kollakasroheline valgus",
+        "Siseruum",
+        "Jälgimine",
+        "Vana",
+        "Pesuruum",
+        "Veeboiler"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Uks (roheline)",
+        "Vann (valge)",
+        "Veeboiler (hall, roostes)",
+        "Pesumasin (valge)",
+        "Seinaplaadid (valged)",
+        "Lamp (kollane valgus)",
+        "Pilt (ristiga)",
+        "Segisti",
+        "Voolikud",
+        "Triikraud",
+        "Must riie",
+        "Ese (vanniinimese käes)"
+      ],
+      "colorcodes": [
+        "#b37a0a",
+        "#4a6e4d",
+        "#ffffff",
+        "#a0a0a0",
+        "#504812",
+        "#800000"
+      ],
+      "texts": [],
+      "persons": [
+        "Noormees punase särgiga",
+        "Noormees vannis"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil vaatab punase särgiga noormees uksest sisse, näoga kaamera poole. Vannis olevat isikut ei näe.",
+        "Teisel pildil on punase särgiga noormees astunud ruumi, seljaga kaamera poole, ja vaatab vanni suunas. Tema figuur on selgemalt näha.",
+        "Kolmandal pildil on fookus täielikult vannis oleval noormehel, kes vaatab otse kaamerasse. Punases särgis noormeest enam pildil ei ole. Valgustus on muutunud veelgi rohekamaks ja hämaramaks, andes edasi intiimsema ja ebamugavama tunde."
+      ],
+      "snr": "004",
+      "ajad": [
+        "29.763",
+        "46.847"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, tõenäoliselt koridoris olevat ukseava või läbipääsu. Esiküljel on kaks punaseks värvitud uksepiita või seinaäärist, mis raamivad keskel olevat avaust. Mõlemal pool neid punaseid raame on valgete ruudukujuliste plaatidega kaetud seinad, mis näivad olevat vanad ja määrdunud. Vasakul plaaditud seinal jookseb allapoole must kaabel, mille kohal on näha mingi hall seade. Parempoolsel punasel raamil on kinnitatud punane ristkülikukujuline hoiatusmärk, millel on valge tekst ja must jalakäijate sümbol. Avatud ukseavast paistab sügavamale ruumi, mis on hämaralt valgustatud. Selle ruumi heledal tagaseinal on näha plakat või pilt, millel kujutatakse rohelist, stiliseeritud käe moodi objekti. Põrand ukseava ees on tume ja süvendis. Parempoolse plaaditud seina vastu toetub rohekas varrega ese, mis sarnaneb luua või mopiga.",
+      "actions": [],
+      "keywords": [
+        "Siseruum",
+        "Koridor",
+        "Ukseava",
+        "Plaaditud seinad",
+        "Punased raamid",
+        "Hoiatusmärk",
+        "Plakat",
+        "Roheline käsi",
+        "Hämar valgus",
+        "Vana",
+        "Määrdunud",
+        "Kaabel"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Uksepiidad",
+        "Seinad",
+        "Valged plaadid",
+        "Punane värv",
+        "Hoiatusmärk",
+        "Plakat/pilt",
+        "Roheline käsi (pildil)",
+        "Põrand",
+        "Roheline kepp/hari",
+        "Must kaabel",
+        "Seade/valgusti (vasakul ülal)"
+      ],
+      "colorcodes": [
+        "#C42616",
+        "#FFFFFF",
+        "#DEDEDE",
+        "#7CAF57",
+        "#000000",
+        "#3A3A3A",
+        "#DCDCDC"
+      ],
+      "texts": [
+        "LASE INIMENE",
+        "OLE TEE!",
+        "ALATI!"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "005",
+      "ajad": [
+        "46.847",
+        "53.921"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumis, mida iseloomustab hämar valgus ja tugev kollakas-rohekas toon. Kaamera on paigutatud madalale maapinna lähedale, pakkudes vaadet põrandale ja seal toimuvale tegevusele. Põrandat katab mustriline vaip või matt, millel on korduvad stiliseeritud geomeetrilised või abstraktsed kujundid. Taustal on näha mööblit: vasakul heledat värvi kapp või sahtliboks ja paremal tumedam, võimalik, et puidust laud või riiul. Esialgu on esiplaanil vasakul maapinnal näha tumedat kaablit või rihma. Stseeni keskmes on inimene, kellelt on näha jalgu ja labajalgu. Alguses seisab inimene tumedates pükstes ja heledates (valged või helehallid) sokkides vaibal. Hilisemates kaadrites on näha, kuidas inimene on kummardumas või midagi jalgade juures toimetamas. Ühel jalal on nüüd näha tumedaid triipe (võimalik, et spordipükstel või sokkidel) ja jalgade läheduses käsitsetakse tumedat objekti, mis sarnaneb jalatsiga. Üldine tegevus viitab jalatsite jalga panemisele või ära võtmisele.",
+      "actions": [
+        "Seisab vaibal",
+        "Kummardub",
+        "Käsitseb jalatseid",
+        "Paneb jalatseid jalga või võtab neid ära"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Hämarus",
+        "Kollakas toon",
+        "Jalad",
+        "Sokid",
+        "Mustriline vaip",
+        "Mööbel",
+        "Jalatsid",
+        "Riietumine",
+        "Madal kaameranurk"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mustriline vaip/matt",
+        "Hele kapp/sahtliboks",
+        "Tume laud/riiul",
+        "Kaabel/rihm",
+        "Tumepüksid",
+        "Heledad sokid",
+        "Tume jalats",
+        "Inimese jalad ja labajalad"
+      ],
+      "colorcodes": [
+        "#413E21",
+        "#A28F22",
+        "#F5F5DC",
+        "#0A0A0A",
+        "#D0D0D0"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene (näha on ainult jalgu ja sääri)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesed kaks kaadrit on peaaegu identsed, näidates inimest paigal, seistes vaibal ainult sokkides.",
+        "Kolmandas kaadris on inimene kummardumas, tema jalad ja sääred on rohkem nähtavad. Ühel jalal on näha triibulist pahkluu piirkonda (võimalik, et spordipükstel või sokkidel).",
+        "Kolmandas kaadris käsitletakse jalgade lähedal tumedat objekti, mis sarnaneb jalatsiga, viidates jalatsite jalga panemise või ära võtmise tegevusele."
+      ],
+      "snr": "007",
+      "ajad": [
+        "62.429",
+        "65.632"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset vanas, veidi räsitud vannitoas, mille seinad on kaetud heledate, kollakasroheliste kahhelplaatidega. Nähtaval on vanad ja paljad veetorud koos kraanidega. Vanni on võtnud üks noorem mees, kes lebab vahuses vees. Tal on silma all märgatav sinikas, mis viitab hiljutisele vigastusele või kokkupõrkele. Vanni äärel, mehe käeulatuses, on roheline tuhatoos täis sigaretikonisid ning roheline pudel, mis tundub olevat Jägermeister. Esimesel hetkel on vannitoa nurgas näha ka teine inimene, kellelt on näha vaid paljaid jalgu ja keha alumist osa, ning mees vannis vaatab selle inimese poole. Seejärel kaob teine inimene kaadrist ning mees jääb üksinda vanni, vaadates mõtlikult alla või eemale, jättes endast melanhoolse ja introspektiivse mulje. Üldine atmosfäär on hämar ja vaoshoitud, rõhutades mehe sisemist olekut.",
+      "actions": [
+        "Mees lebab vannis",
+        "Mees vaatab teise inimese poole",
+        "Mees on mõtlikult vanni jäänud",
+        "Suitsetamine (vihje tuhatoosi kaudu)",
+        "Alkoholi tarbimine (vihje pudeli kaudu)"
+      ],
+      "keywords": [
+        "Vannituba",
+        "vann",
+        "mees",
+        "alasti",
+        "sinine silm",
+        "vigastus",
+        "tuhatoos",
+        "sigaretid",
+        "alkohol",
+        "pudel",
+        "Jägermeister",
+        "torud",
+        "plaadid",
+        "mõtlik",
+        "melanhoolia",
+        "privaatsus",
+        "järelemõtlemine",
+        "paljad jalad"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Vann",
+        "vannivesi",
+        "mullid",
+        "kahhelplaadid",
+        "veetorud",
+        "kraanid",
+        "roheline tuhatoos",
+        "sigaretikonid",
+        "roheline pudel",
+        "mees",
+        "teise inimese jalad"
+      ],
+      "colorcodes": [
+        "#D0D0B0",
+        "#704C38",
+        "#2A5A2A",
+        "#F0F0F0",
+        "#C4A080"
+      ],
+      "texts": [
+        "Jägermeister"
+      ],
+      "persons": [
+        "Mees",
+        "Teine inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha teine inimene seismas vanni kõrval vasakul, kelle poole mees vannis vaatab. Mehe sinine silm on selgelt näha.",
+        "Teisel ja kolmandal pildil on seisja kadunud ning mees vannis vaatab alla või eemale, olles mõtlikumas asendis.",
+        "Kaamera nurk ja fookus on piltide vahel veidi muutunud, rõhutades mehe üksindust pärast teise inimese lahkumist."
+      ],
+      "snr": "008",
+      "ajad": [
+        "65.632",
+        "77.244"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte noormeest istumas vannis vanemas, kollakate plaatidega vannitoas. Mõlemad mehed on paljajalu ja pealtpoolt riieteta, sukeldudes nähtavalt veega täidetud vanni. Vasakul istuv mees hoiab käes suurt rohelise, valge ja sinise disainiga mahlapakki, millest ta joob. Tema kõrval paremal istuv mees hoiab käes läbipaistvat pudelit, millest ta samuti joob. Vannis on näha hallikaskollast vett, mis võib olla aurune või lihtsalt mitte kristallselge. Vannitoa seinad on kaetud vanade kollakate/beežide plaatidega, paremal ripub kollakas rätik või kardin. Tagapool on näha vanamoelist dušisegistit ja veetorusid. Vanni serval on näha ka mõningaid väiksemaid pudeleid ja rohelist kausikest. Üldine atmosfäär on kodune, pingevaba ja sotsiaalne, viidates sõprade kogunemisele või peole.",
+      "actions": [
+        "Istumine vannis",
+        "Joomine mahlapakist",
+        "Joomine pudelist",
+        "Lõõgastumine",
+        "Sotsiaalne suhtlus"
+      ],
+      "keywords": [
+        "Vannituba",
+        "Vannis",
+        "Joomine",
+        "Noormehed",
+        "Sõbrad",
+        "Siseruum",
+        "Meelelahutus",
+        "Kambavaim",
+        "Kodune",
+        "Pidu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Vann",
+        "Kaks noormeest",
+        "Mahlapakk (rohelise, valge ja sinise disainiga)",
+        "Läbipaistev pudel (arvatavasti alkohol)",
+        "Väiksemad pudelid vanni serval",
+        "Seinaplaadid (kollakas-beežid)",
+        "Dušisegisti ja torud",
+        "Vannivesi",
+        "Kollakas rätik/kardin",
+        "Roheline kauss/anum"
+      ],
+      "colorcodes": [
+        "#8B876E",
+        "#E0E0E0",
+        "#E1B691",
+        "#6D9F4F",
+        "#F7F7F7",
+        "#546C9E",
+        "#CEDCED",
+        "#E6BC5F",
+        "#4CAF50",
+        "#4E4E4E"
+      ],
+      "texts": [
+        "Mahlapakil olev tekst (osaliselt loetamatu, tõenäoliselt kirillitsas, nt \"МЕЧТА\" või sarnane brändinimi)"
+      ],
+      "persons": [
+        "Kaks noormeest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Parempoolse mehe pudelist joomise poos muutub: esimeses kaadris on pudel suu lähedal, teises kaadris mees joob aktiivselt ning kolmandas on pudel allpool.",
+        "Vasakpoolse mehe tegevus mahlapakiga: esimeses kaadris vaatab alla pakki hoides, teises kaadris joob pakist ja kolmandas hoiab pakki ning vaatab teise mehe poole.",
+        "Pudelis oleva vedeliku tase näib kaadrite jooksul vähenevat, viidates joomisele."
+      ],
+      "snr": "010",
+      "ajad": [
+        "123.323",
+        "131.331"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort meest vannitoas, kes istub, tõenäoliselt vannis, ülakeha paljas. Tema vasaku silma ümber on märgatav tumedam laik või verevalum. Ruumis valitseb sume, kollakasroheka tooniga valgus, mis annab stseenile melanhoolse või mõtliku atmosfääri. Tagaplaanil on näha helebešides toonis kahhelplaadid ja vannitoa torustik koos segistiga. Mees süütab piltide vältel sigareti, tõmbab sellest suitsu ja seejärel on tal suu kergelt avatud, justkui valmistudes rääkima või sügavalt mõtiskledes.",
+      "actions": [
+        "suitsetab sigaretti",
+        "süütab sigareti",
+        "puhub suitsu",
+        "istub",
+        "vaatab",
+        "mõtiskleb"
+      ],
+      "keywords": [
+        "mees",
+        "vannituba",
+        "sigaret",
+        "suitsetamine",
+        "verevalum",
+        "sisekeskkond",
+        "sume valgus",
+        "mõtisklus",
+        "kahhelplaadid",
+        "torustik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "sigaret",
+        "torustik",
+        "segisti",
+        "kahhelplaadid",
+        "vann"
+      ],
+      "colorcodes": [
+        "#CCCA9D",
+        "#9C7D5D",
+        "#6A6A4D",
+        "#7E7C5A",
+        "#A08060"
+      ],
+      "texts": [],
+      "persons": [
+        "noor mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehel sigaret suus ja ta puhub just suitsu. Teisel pildil on sigaret samuti suus, kuid see põleb intensiivsema leegiga, viidates äsjasele süütamisele või tõmbamisele, ning mehe käsi on veidi liikumises. Kolmandal pildil on sigaret suust eemaldatud, mehe pilk on suunatud otse ette ja suu on kergelt avatud."
+      ],
+      "snr": "011",
+      "ajad": [
+        "131.331",
+        "145.679"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab läbipaistvat klaaspudelit musta korgiga, mis asetatakse või vajub kollakasrohelisse, vahuva veega täidetud vanni. Esialgu on pudel peaaegu täielikult veepinnal, püsti asendis, selle silt „RU VALGE” ja tuuleveski kujutis on selgelt nähtavad ning vesi on heledam kollakasroheline. Järgnevalt vajub pudel sügavamale vette, nii et vaid selle ülemine osa ja kork jäävad selgelt veepinnast kõrgemale, samal ajal kui sildi alumine osa muutub vee all vähem loetavaks ja vahu hulk suureneb. Lõpuks muutub kogu stseen peaaegu täielikult pimedaks, kusjuures pudeli ja vedeliku kontuurid on vaevu eristatavad, andes edasi valguse hääbumise ja sügavuse suurenemise. Pudelil on must kork ja selle sildil on näha teksti ning stiliseeritud kujutis, mis meenutab tuuleveskit.",
+      "actions": [
+        "Pudeli vee sisse asetamine või vajumine",
+        "Valguse hääbumine või kustumine",
+        "Pudeli sukeldumine"
+      ],
+      "keywords": [
+        "Pudel",
+        "Vann",
+        "Vesi",
+        "Vaht",
+        "Pimedus",
+        "Alkohol",
+        "Sukeldumine",
+        "Kollakasroheline"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Klaaspudel",
+        "Kork",
+        "Silt",
+        "Vann",
+        "Vesi",
+        "Vaht",
+        "Mullid"
+      ],
+      "colorcodes": [
+        "#C8D77A",
+        "#B0BC6F",
+        "#2B352E",
+        "#151412"
+      ],
+      "texts": [
+        "RU VALGE"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Valguse tase väheneb märgatavalt esimesest kaadrist kolmandani, kuni stseen muutub peaaegu täielikult pimedaks.",
+        "Pudel vajub järk-järgult sügavamale vette, selle alumine osa kaob vee alla.",
+        "Vahu ja mullide hulk veepinnal näib suurenema esimesest teiseni.",
+        "Sildi nähtavus muutub kehvemaks, kui pudel vette vajub ja valgus väheneb."
+      ],
+      "snr": "012",
+      "ajad": [
+        "145.679",
+        "153.553"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4303 @@
+{
+  "film": [
+    "16114",
+    "16093",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Vaba maa",
+    "7bf8c7e8d21617aee0cce0e3410a8bd446bc03d0.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täielikult musta taustaga, mille keskel on kolm hajutatud, hõbevalget või helehalli ringi. Need ringid on paigutatud kolmnurkselt: kaks ülemist, veidi lähestikku, ja üks alumine, mis moodustavad vertikaalselt pikliku mustri. Ringid on algselt udused ja sulanduvad pehmelt ümbritsevasse pimedusse. Seejärel muutuvad ringid teravamaks ja omandavad kindlad värvid: ülemine ring muutub erkpunaseks, keskmine ring jääb puhtalt valgeks ja alumine ring omandab selge sinise tooni. Peale ringide värvumist ja teravnemist ilmub paremale poole keskmise valge ringi kõrvale valge, terav ja selge tekst 'BFM'. Kogu tegevus toimub sujuva animatsioonina mustal, tühjal taustal, rõhutades visuaalsete elementide esiletõstmist.",
+      "actions": [
+        "Hajutatud ringide ilmumine ja paiknemine",
+        "Ringide teravnemine ja värvi muutmine (punaseks, valgeks, siniseks)",
+        "Teksti 'BFM' ilmumine"
+      ],
+      "keywords": [
+        "Logo animatsioon",
+        "Transitsioon",
+        "Minimalistlik",
+        "Bränding",
+        "Liikumisgraafika",
+        "Digitaalne",
+        "Prantsuse värvid",
+        "Must taust"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Ringid",
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#FF0000",
+        "#0000FF"
+      ],
+      "texts": [
+        "BFM"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "85",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on ringid udused, monokroomsed ja helehallid, samas kui teisel pildil on need teravad, selgepiirilised ja värvilised (punane, valge, sinine).",
+        "Teisel pildil on ringide kõrval nähtav tekst 'BFM', mida esimesel pildil ei ole.",
+        "Esimesel pildil on valge värv esindatud uduse toonina, teisel pildil on valge värv puhas ja terav, nii ringil kui ka tekstis."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "8.920"
+      ]
+    },
+    {
+      "explanation": "Pilt kujutab laia panoraamvaadet tööstuslikule maastikule ja elamurajoonile pilvisel ja jahedal päeval. Esiplaanil on näha arvukalt heledates toonides, valdavalt hallikate seintega, mitmekorruselisi paneelmaju, mis on iseloomulikud Ida-Euroopa arhitektuurile. Hoonete vahel on hõredalt puid, millel puuduvad lehed, ning maapind on valdavalt pruunikas-hall, viidates hilissügisele või varakevadele. Mõned üksikud sõidukid on nähtavad parkimiskohtadel hoonete vahel. Keskplaanil laiub metsatukkade ja lagedamate aladega maastik, mis eraldab elamuid kaugemal asuvast tööstuspiirkonnast. Horisondil domineerib suur, koonusekujuline mägi, mis näib olevat tööstusliku tegevuse (näiteks põlevkivi kaevandamise või töötlemise) jääkmaterjali kuhjatis, mille tipus või lähedal seisab pikk ja peenike korsten. Mäe taga on näha tööstuskompleksist tõusmas mitu paksu suitsusammast, mis viitavad aktiivsele tootmisele. Kaugemal paremal on näha ka pikk, peenike side- või antennimast. Taevas on ühtlaselt hall ja pilvine, heledamate laigudega, mis annavad hajutatud valguse. Üldine meeleolu on jahe, veidi kõle ja tööstuslikust tegevusest mõjutatud.",
+      "actions": [
+        "Suitsu tõusmine korstnatest"
+      ],
+      "keywords": [
+        "Tööstusmaastik",
+        "Elamurajoon",
+        "Paneelmajad",
+        "Pilvine",
+        "Hall",
+        "Korsten",
+        "Mägi",
+        "Tööstus",
+        "Hooned",
+        "Linnapanoraam",
+        "Hall taevas",
+        "Jäätmekuhjatis",
+        "Külm",
+        "Hõre taimestik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Paneelmajad",
+        "Kortermajad",
+        "Jäätmemägi",
+        "Korsten",
+        "Metsad",
+        "Puud",
+        "Sõidukid",
+        "Suits",
+        "Pilved",
+        "Antennimast",
+        "Tööstuskompleks"
+      ],
+      "colorcodes": [
+        "#A5A7A7",
+        "#D0D2D2",
+        "#7C828C",
+        "#5B524E",
+        "#3C423E",
+        "#E0E2E2"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [],
+      "snr": "002",
+      "ajad": [
+        "8.920",
+        "19.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laiaulatuslikku tööstuskompleksi halli ja uduses või suitsuses taeva all. Esiplaanil on näha suuri kuhjasid tööstusjäätmeid või toormaterjale, mis viitab kas kaevandusele või massiivsele tootmisprotsessile. Keskel ja tagaosas laiub suur tehaste ala, kus on arvukalt hooneid, pikki korstnaid ja muid tööstusrajatisi. Paljudest korstnatest ja ehitistest tõuseb tihedat suitsu või auru, mis sulandub taevas oleva uduga, andes edasi aktiivse ja potentsiaalselt saastava keskkonna mulje. Horisondi kauguses paistab osaliselt läbi uduvine metsapiir ja mõned avatud põllumaad. Üldine atmosfäär on sünge, hall ja tööstuslik, viidates suurele mastaabiga tootmisele ja selle võimalikule keskkonnamõjule.",
+      "actions": [
+        "Suitsusaaste eraldumine korstnatest ja tehasehoonetest",
+        "Tööstuskompleksi opereerimine"
+      ],
+      "keywords": [
+        "Tööstusmaastik",
+        "Tehas",
+        "Vabrik",
+        "Reostus",
+        "Hall",
+        "Udu",
+        "Suits",
+        "Korstnad",
+        "Tööstuskompleks",
+        "Sünge",
+        "Masendav",
+        "Külm",
+        "Kaevandus",
+        "Tööstusjäätmed",
+        "Karjäär"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Tehasehooned",
+        "Korstnad",
+        "Suits",
+        "Aur",
+        "Mäed",
+        "Tööstusjäätmete kuhjad",
+        "Puud",
+        "Mets",
+        "Põllud",
+        "Teed",
+        "Elektriliinid"
+      ],
+      "colorcodes": [
+        "#B6B6B6",
+        "#C7C7C7",
+        "#ADADAD",
+        "#6C6C6C",
+        "#9E9E9E",
+        "#5D5D5D",
+        "#4F4F4F",
+        "#707070",
+        "#8A8A8A",
+        "#6C5A4C",
+        "#DEDEDE",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [],
+      "snr": "003",
+      "ajad": [
+        "19.000",
+        "28.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laiaulatuslikku maastikku pilvise ja halli taeva all. Esimeses plaanis on künklik, rohu ja kuivanud taimekasvuga kaetud ala, kus on näha pruunikaid, kollakaid ja üksikuid rohelisi murulappe. Maapinnal on kohati märgata niiskuse laike või väikseid lompe, samuti hõredalt kasvavat võsa ja kuivanud oksi. Õhus esiplaanil on näha kerget udu või aurustumist. Keskplaanil avaneb vaade laiale orule või tasandikule, kus eristuvad põllud, metsasalud ja kaugemal linnulaadne asula hoonete ja infrastruktuuriga. Horisondi taga paistab iseloomulik künnis või mägi, mille tipus on näha mingisuguseid ehitisi. Üldmulje on jahe, vaikne ja mõtisklev. Stseenile on lisatud heledas kirjas tekst \"VABA MAA\", mis on paigutatud taeva ja maastiku vahelisse ossa, ning lühemalt \"FREE WORLD\" selle all. Hiljem on ingliskeelne tekst eemaldatud.",
+      "actions": [
+        "Maastiku vaatlemine",
+        "Looduse vaikuse nautimine",
+        "Teksti kuvamine"
+      ],
+      "keywords": [
+        "Maastik",
+        "Pilvine",
+        "Halli ilm",
+        "Künklik",
+        "Pruun rohi",
+        "Roheline rohi",
+        "Linn silmapiiril",
+        "Mägi",
+        "Vaikne",
+        "Mõtisklev",
+        "Vaba Maa",
+        "Vabadus",
+        "Külm ilm",
+        "Lage",
+        "Lomp",
+        "Udu",
+        "Võsa",
+        "Kuivanud taimed",
+        "Horisont"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Rohi",
+        "Muru",
+        "Kuivanud oksad",
+        "Võsa",
+        "Mägi",
+        "Hooned (linn)",
+        "Pilved",
+        "Taevas",
+        "Põllud",
+        "Metsasalud",
+        "Lombid"
+      ],
+      "colorcodes": [
+        "#C8D1D5",
+        "#79664D",
+        "#5E7A4C",
+        "#A3A8A9",
+        "#E0E0E0"
+      ],
+      "texts": [
+        "VABA MAA",
+        "FREE WORLD"
+      ],
+      "persons": [
+        "Puuduvad"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "hiline sügis või varakevad",
+      "daytime": "päev",
+      "differences": [
+        "Teises kaadris lisatakse pildile suur heledas kirjas tekst \"VABA MAA\" ja selle alla väiksem tekst \"FREE WORLD\".",
+        "Kolmandas kaadris on eemaldatud ingliskeelne tekst \"FREE WORLD\", samas kui \"VABA MAA\" jääb alles."
+      ],
+      "snr": "004",
+      "ajad": [
+        "28.480",
+        "38.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laiaulatuslikku maastikuvaadet pilvise taeva all, mis annab edasi kerge melanhoolse tunde. Esiplaanil laiub suur, äsja küntud tumepruun põld. Keskplaanil lookleb kruusa- või mullatee, eraldades künnipõllu rohelistest heinamaadest ja hõredatest noortest puudesaludest, mis on kevadel alles lehte minemas. Taamal avaneb vaade edasistele rohelistele põldudele, tihedatele metsadele ja kauguses paistvatele hoonetele, mis on ilmselt maamajad või talukompleksid. Teel liigub heledat värvi sõiduk, esmalt valge auto, mis hiljem näib olevat haagisega sõiduk. Maastik on avar ja vaikne, õhkub kevadist või varasuvelist hõngu. Stseenis on näha subtiitreid, kus tegelane Grace tutvustab end ameeriklasena ja meenutab oma lapsepõlve siin piirkonnas, mainides sõjaaegset põgenemist läände, lisades rahulikule, kuid mõtlikule maastikule ajaloolise ja isikliku mõõtme.",
+      "actions": [
+        "Sõiduk liigub mööda teed",
+        "Grace jutustab/esitleb end (subtiitrite kaudu)"
+      ],
+      "keywords": [
+        "Maastik",
+        "Maaelu",
+        "Põld",
+        "Tee",
+        "Mets",
+        "Põld",
+        "Pilvine",
+        "Kevad",
+        "Auto",
+        "Haagis",
+        "Jutustus",
+        "Melanhoolne",
+        "Ajalooline",
+        "Sõda"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Põld",
+        "Mullatee",
+        "Puud",
+        "Rohtla",
+        "Mets",
+        "Auto",
+        "Haagis",
+        "Majad",
+        "Taevas",
+        "Pilved",
+        "Postid"
+      ],
+      "colorcodes": [
+        "#604033",
+        "#c0c0c0",
+        "#6b855a",
+        "#9cb485",
+        "#a0a0a0",
+        "#f5f5f5",
+        "#2e4a2e"
+      ],
+      "texts": [
+        "Dear villagers, I am Grace and I come from America!",
+        "During the War, when I was just a teenage girl, I escaped from here to the West."
+      ],
+      "persons": [
+        "Grace"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Sõiduki tüüp muutub esimeses kaadris olevast autost teises kaadris oleva haagisega sõidukiks ning kaob kolmandas kaadris kaadrist välja.",
+        "Subtiitrid muutuvad kaadrite vahel, lisades süžeelisi detaile.",
+        "Kaamera asend või fookus nihkub veidi, paljastades kauguses asuvaid hooneid."
+      ],
+      "snr": "005",
+      "ajad": [
+        "38.200",
+        "53.360"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab ülaltvaates inimest, kes hoiab süles pappkasti. Kast on helepruun ja sellele on roosa šabloonkirjaga märgitud tekst 'FREE WORLD'. Käed, mis kasti hoiavad, on paigutatud kasti nurkadesse, hoides seda stabiilselt. Inimese riietus on hele, beeži- või valkjatooniline pikkade varrukatega rõivas. Taust on tume ja udune, vihjates sisetingimustele, tõenäoliselt sõiduki interjöörile, kus jalad ja istme seljatugi on vaevu aimatavad. Stseeni allosas kuvatakse subtiitreid, mis annavad edasi isikliku ja emotsionaalse sõnumi. Valgus langeb peamiselt kastile, tekitades selle ümber heleda fookuse tumeda ja hägusa tausta keskel.",
+      "actions": [
+        "Kasti hoidmine",
+        "Lugemine (oletatav, kuna kast on vaataja suunas)"
+      ],
+      "keywords": [
+        "Pappkast",
+        "Vabadus",
+        "Sõnum",
+        "Roosa tekst",
+        "Käed",
+        "Subtiitrid",
+        "Sõda",
+        "Põgenemine",
+        "Lootus",
+        "Isiklik lugu",
+        "Tumeda ja heleda kontrast"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Pappkast",
+        "Inimese käed",
+        "Riietus (hele pikkade varrukatega pluus/jakk)",
+        "Istme seljatugi (taustal)",
+        "Jalad (taustal)"
+      ],
+      "colorcodes": [
+        "#FF69B4",
+        "#C0A68C",
+        "#E0E0E0",
+        "#1A1A1A"
+      ],
+      "texts": [
+        "FREE WORLD",
+        "During the War, when I was just a teenage girl, I escaped from here to the West.",
+        "I am so happy that you now are free!"
+      ],
+      "persons": [
+        "Üksik isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltidel on erinevad subtiitrid. Esimesel pildil on tekst 'During the War, when I was just a teenage girl, I escaped from here to the West.', samas kui teisel ja kolmandal pildil on tekst 'I am so happy that you now are free!'."
+      ],
+      "snr": "006",
+      "ajad": [
+        "53.360",
+        "61.880"
+      ]
+    },
+    {
+      "explanation": "Stseenil on esiplaanil mustal taustal valge tekst, mis on jagatud kaheks lõiguks: ülemine lõik on eesti keeles ja alumine lõik on inglise keeles. Tekst annab narratiivset konteksti, rääkides Ida-Euroopa vabanemisest pärast 50 aastat pimedust ja Läänest voolavast neoonvalgusest, samuti endiste sõjapõgenike kojunaasmisest. Üldine visuaal on minimalistlik ja informatiivne, meenutades filmi algus- või lõputiitreid.",
+      "actions": [],
+      "keywords": [
+        "tekst",
+        "must taust",
+        "valge kiri",
+        "subtiitrid",
+        "tiitrid",
+        "narratiiv",
+        "informatsioon"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "tekst"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "Pärast 50 aastat pimedust on Ida-Euroopa jälle vaba ning Läänest voolab sinna eriskummalist neoonvalgust. Koos sellega saabuvad oma kodumaale endised sõjapõgenikud, et kohtuda nendega, kes pimedusse maha jäid.",
+        "After 50 years of darkness, Eastern Europe is free again, and peculiar neon light is flowing there from the West.",
+        "Together with the light, former war refugees return to their homeland, in order to meet those who stayed behind in the dark."
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "85",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on kuvatud ingliskeelse tõlke esimene lause, samas kui teisel pildil on lisandunud ka teine lause, mis moodustab täieliku ingliskeelse tõlke eesti tekstist. Eesti tekst on mõlemal pildil identne."
+      ],
+      "snr": "007",
+      "ajad": [
+        "61.880",
+        "75.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort heledajuukselist poissi, kes roomab osaliselt suure puidust palgi või tala all. Ta on pikali maas, jalad välja sirutatud ja käed toetuvad mullale ja rohulibledele. Poiss kannab heledat, pruunika varjundiga nokamütsi ja halli-valge mustriga kootud kampsunit ning siniseid pükse. Tema nägu on määrdunud, eriti paremal põsel on näha tumedaid triipe või plekke. Poiss vaatab otse üles kaamera poole üllatunud või veidi mureliku ilmega, suu on kergelt avatud. Maa on tume, mullane ja kaetud rohelise rohuga. Üleval paistab osa jämedast, töötlemata puidust palgist, mis tekitab varju. Valgus on pehme, vihjates kas pilvisele ilmale või varjulisele kohale. Kolmel pildil on stseen sama, kuid viimasel kahel on lisatud subtiitrid.",
+      "actions": [
+        "Roomamine",
+        "Vaatamine",
+        "Lamamine"
+      ],
+      "keywords": [
+        "Poiss",
+        "Palk",
+        "Roomamine",
+        "Muld",
+        "Rohi",
+        "Määrdunud",
+        "Üllatunud",
+        "Subtiitrid",
+        "Humanitaarabi",
+        "Vabadus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Poiss",
+        "Palk",
+        "Nokamüts",
+        "Kampsun",
+        "Püksid",
+        "Muld",
+        "Rohi",
+        "Mustus"
+      ],
+      "colorcodes": [
+        "#24221D",
+        "#3E5A2A",
+        "#5E4E3E",
+        "#B3B2AE",
+        "#4F504E",
+        "#B1A488",
+        "#C9B89E",
+        "#4D698D"
+      ],
+      "texts": [
+        "I represent the humanitarian organization \"Free World\".",
+        "We distribute rescue packages to people like yourselves, who have just regained their freedom!"
+      ],
+      "persons": [
+        "Noor heledajuukseline poiss"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt ei sisalda subtiitreid.",
+        "Teine pilt sisaldab subtiitreid: \"I represent the humanitarian organization \\\"Free World\\\".\"",
+        "Kolmas pilt sisaldab subtiitreid: \"We distribute rescue packages to people like yourselves, who have just regained their freedom!\".",
+        "Piltide visuaalne sisu (poisi asend, näoilme, taust) on identsed."
+      ],
+      "snr": "008",
+      "ajad": [
+        "75.920",
+        "82.960"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud keskealine või vanem naine, kes istub eesplaanil rustikaalse, vanast puidust palkseina taustal. Naine vaatab otse kaamerasse, näol on tõsine ja pisut kurnatud ilme. Tal on pikad, heledad juuksed, mis on keskelt lahutatud. Seljas on tal mustriline pluus või kleit, millel on roheliste, kollaste ja pruunide toonidega lehemotiivid või kaunistused. Naine koob rohelise lõngaga ja hoiab kudumisvardaid käes. Tema süles paistab osaliselt valge riidest kott. Valgus on pehme ja hajutatud, mis viitab pilves ilmale või varjulisele kohale õues. Üldine toon on maalähedane ja vaoshoitud.",
+      "actions": [
+        "Koob",
+        "Vaatab otse kaamerasse"
+      ],
+      "keywords": [
+        "Naine",
+        "Palksein",
+        "Kudumine",
+        "Rustikaalne",
+        "Maalähedane",
+        "Tõsine",
+        "Roheline",
+        "Käsitsitöö"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Palksein",
+        "Kudumisvardad",
+        "Roheline lõng",
+        "Kootud ese",
+        "Mustriline kleit/pluus",
+        "Valge kott"
+      ],
+      "colorcodes": [
+        "#71754a",
+        "#a49950",
+        "#4b7d63",
+        "#524335",
+        "#c6a78c"
+      ],
+      "texts": [
+        "We distribute rescue packages to people like yourselves, who have just regained their freedom!"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "009",
+      "ajad": [
+        "82.960",
+        "88.200"
+      ]
+    },
+    {
+      "explanation": "Stseenis hoiab inimene, kelle keha on näha rinnust allapoole, heledates riietes käes pappkasti. Kastile on roosa värviga šabloonitud kiri \"FREE WORLD\". Kast on täidetud mitmesuguste väikeste pakendatud esemetega, mis paistavad olevat närimiskummid või kommid (nt \"Juicy Fruits\", \"DMC\" märgistusega pakendid kollastes ja sinistes toonides). Tagaplaan on udune hallikas, meenutades asfalti või betoonpinda, mis viitab välitingimustele. Teise ja kolmanda kaadri vahel võtab inimene kastist välja väikese tumeda pudeli punase korgiga. Samal ajal ilmub ekraanile subtiiter, mis selgitab, et tegemist on antidepressantidega, mis on \"väga head depressiooni vastu\". Stseeni üldine meeleolu on neutraalne, rõhutades teema tõsidust läbi pakendi ja subtiitrite kontrasti.",
+      "actions": [
+        "Karbi hoidmine",
+        "Esemete võtmine karbist",
+        "Antidepressantide pudeli hoidmine"
+      ],
+      "keywords": [
+        "Vaba maailm",
+        "Antidepressandid",
+        "Depressioon",
+        "Kartongkarp",
+        "Närimiskumm",
+        "Ravimid",
+        "Abi",
+        "Tervishoid",
+        "Iroonia",
+        "Ühiskond",
+        "Hall taust"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Pappkarp",
+        "Närimiskummi pakendid",
+        "Antidepressantide pudel",
+        "Inimese käed",
+        "Heledad riided"
+      ],
+      "colorcodes": [
+        "#FF6699",
+        "#E6E633",
+        "#3399CC",
+        "#C02020",
+        "#996633",
+        "#CCCCCC",
+        "#808080"
+      ],
+      "texts": [
+        "FREE WORLD",
+        "Juicy Fruits",
+        "DMC",
+        "Antidepressants – very good against depression."
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil ulatab inimene käe karpi, ilma et oleks selgelt näha, mida ta sealt võtab.",
+        "Teisel ja kolmandal pildil hoiab inimene käes väikest tumedat pudelit punase korgiga, mis sarnaneb ravimipudeliga.",
+        "Teisel ja kolmandal pildil ilmub ekraanile subtiiter: \"Antidepressants – very good against depression.\""
+      ],
+      "snr": "010",
+      "ajad": [
+        "88.200",
+        "93.680"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või vanem naine maaelulikul taustal, ilmselt õues puitaiaga piiratud alal. Naine on riietatud traditsioonilises stiilis: peas punase mustriga rätik, seljas hallikas pluus ja tumesinine valgete täppidega põll valge äärisega. Tema nägu on ümar ja tal on kergelt pahur või mõtlik ilme. Ta hoiab vasakus käes suurt metallist kaussi või potti ning paremas käes pikavarrelist metallist kulpi. Stseen areneb läbi kolme hetke: esmalt on kulp kergelt tema suus, toetudes alalõuale, siis on kulp sügavamale suhu viidud, justkui ta maitseks midagi või teeks grimassi. Viimases hetkes on kulp suust välja võetud ja naine vaatab otse ette, näol selgelt pahane või tõsine ilme. Stseeni alguses on näha subtiiter: \"It is very natural that you possess suicidal thoughts because of the occupation.\"",
+      "actions": [
+        "Hoiab käes metallist kaussi ja kulpi",
+        "Asetab kulbi suhu",
+        "Viib kulbi sügavamale suhu",
+        "Eemaldab kulbi suust",
+        "Väljendab näoilmega emotsiooni"
+      ],
+      "keywords": [
+        "Vanem naine",
+        "Kööginõud",
+        "Kulp",
+        "Pott",
+        "Talupoeg",
+        "Maaelu",
+        "Õues",
+        "Puit",
+        "Grimass",
+        "Emotsioon",
+        "Absurd",
+        "Koomiline",
+        "Enesetapumõtted",
+        "Okupatsioon",
+        "Murelik"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Metallist pott/kauss",
+        "Metallist kulp/lusikas",
+        "Puidust tara/sein",
+        "Rätik/peakate",
+        "Põll"
+      ],
+      "colorcodes": [
+        "#8C0000",
+        "#D9D9D9",
+        "#3D5A80",
+        "#2A2A2A",
+        "#D3C1A4"
+      ],
+      "texts": [
+        "It is very natural that you possess suicidal thoughts because of the occupation."
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Lusika asend muutub suus olemisest suust välja võtmiseni",
+        "Naise näoilme muutub algsest neutraalsest/hämmingus ilmes sügavale grimassile ja lõpuks pahasele/tõsisele ilmele",
+        "Subtiitrid on nähtavad esimesel kahel pildil, kuid puuduvad kolmandal pildil"
+      ],
+      "snr": "011",
+      "ajad": [
+        "93.680",
+        "99.720"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab ülaltvaates kaht kätt, mis hoiavad lahtist pappkasti, mis on täis kondoomipakendeid. Kasti esiküljele on roosa (magentase) värviga šablooni abil pihustatud tekst \"FREE WORLD\". Käte omanik on riietatud heledasse, ilmselt kreemikasvalgesse särki ja jaki või bleiseri moodi ülerõivasse. Käed ulatuvad kasti sisse, justkui võtaks sealt kondoome või sorteeriks neid. Kondoomipakendid on erinevates värvides ja kujundusega, näha on näiteks brändinimesid \"ONE\" ja \"Juicy Fruits\". Mõned pakendid on kollased, teised sinised, mustad, punased või rohelised. Taust on udune ja hallikas-beežikas, meenutades asfalti või betooni pinda. Üldine toon on summutatud ja realistlik. Teisel ja kolmandal pildil on lisatud valge tekst: \"Condoms are very good at preventing sexually transmitted diseases and pregnancy.\"",
+      "actions": [
+        "pappkasti hoidmine",
+        "kondoomipakendite kätte võtmine või sortimine"
+      ],
+      "keywords": [
+        "kondoomid",
+        "seksuaaltervis",
+        "ennetus",
+        "tasuta jagamine",
+        "teadlikkus",
+        "free world liikumine",
+        "pappkast",
+        "kontratseptsioon"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "pappkast",
+        "kondoomipakendid",
+        "inimese käed",
+        "heledad riided"
+      ],
+      "colorcodes": [
+        "#E83F9C",
+        "#A08C6E",
+        "#E0E0E0",
+        "#D0D0D0",
+        "#F5D040",
+        "#40A0D0",
+        "#303030"
+      ],
+      "texts": [
+        "FREE WORLD",
+        "ONE",
+        "Juicy Fruits",
+        "Condoms are very good at preventing sexually transmitted diseases and pregnancy."
+      ],
+      "persons": [
+        "üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teisel ja kolmandal pildil on lisatud valge subtiitritekst: \"Condoms are very good at preventing sexually transmitted diseases and pregnancy.\"",
+        "Käte asendis ja kondoomide paigutuses karbis on kaadrite vahel minimaalsed erinevused.",
+        "Kolmas pilt on teise pildiga peaaegu identne, minimaalsete variatsioonidega."
+      ],
+      "snr": "012",
+      "ajad": [
+        "99.720",
+        "104.600"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kahte meest õues, tõenäoliselt puidukuuri või metsa taustal. Mõlemad mehed vaatavad otse kaamerasse üllatunud või mureliku ilmega. Vasakpoolne mees kannab ruudulist nokamütsi, triibulist särki ja tumedat vesti ning hoiab käes lõhutud puiduhalgusid. Parempoolne mees on hallide juustega ja kannab ruudulist särki ning mustrilist vesti, hoides käes kirvest. Nende taga on näha suuri puiduvirnasid ja tumedat puidust seina. Üldine toon on summutatud ja maalähedane, tekitades veidi tõsise ja ootamatu olukorra mulje.",
+      "actions": [
+        "Mehed hoiavad käes tööriistu ja puitu",
+        "Mehed vaatavad otse kaamerasse",
+        "Mehed väljendavad üllatust või muret"
+      ],
+      "keywords": [
+        "mehed",
+        "puidutööd",
+        "kirves",
+        "halud",
+        "ülalpidamine",
+        "maalähedane",
+        "üllatus",
+        "mure",
+        "talumehed",
+        "kondoomid",
+        "närimiskumm"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "kirves",
+        "halud",
+        "puiduvirn",
+        "puitsein",
+        "nokamüts",
+        "vestid",
+        "ruudulised särgid"
+      ],
+      "colorcodes": [
+        "#6d7b7e",
+        "#a4b3b2",
+        "#3f3e3c",
+        "#333333",
+        "#8c9779",
+        "#595e63",
+        "#40454a",
+        "#545a5f"
+      ],
+      "texts": [
+        "Condoms are very good at preventing sexually transmitted diseases and pregnancy.",
+        "And chewing gums for teeth..."
+      ],
+      "persons": [
+        "kaks meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel muutub ekraanil kuvatav subtiitrite tekst, samas kui visuaalne sisu (inimeste asend, esemed ja näoilmed) jääb samaks."
+      ],
+      "snr": "013",
+      "ajad": [
+        "104.600",
+        "109.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte vanemat naist, kes istuvad õues vana ja ilmastikust kulunud puumaja ees, tõenäoliselt maapiirkonnas. Mõlemad naised kannavad traditsioonilist, tagasihoidlikku riietust: mustrilised pikkade varrukatega kleidid, pearätid ja valged põlled. Vasakpoolsel naisel on seljas lilla-roheline lilleline kleit ja lilla pearätt, samas kui parempoolsel naisel on seljas sinine-valge peenmustriga kleit ja heledat värvi, võimalik et lilleline, pearätt. Märkimisväärne detail on, et parempoolsel naisel on paremat silma katmas oranž side või plaaster. Ta hoiab paremas käes kooritud porgandit, aeg-ajalt toetades seda oma põlvele. Vasakpoolne naine hoiab käsi ristatuna, näib hoidvat väikest, ebamäärast objekti. Nende näoilmed on üldiselt tõsised või mõtisklevad, viidates vestlusele, mida kinnitavad subtiitrid. Tagaplaanil on näha kahte nooremat naist, kes istuvad samuti puumaja sissepääsu lähedal, kuigi nad on vähem selgelt nähtavad. Ühel neist paistab olevat seljas lilla rõivaese. Vahetus läheduses on roheline rohi ja üksikud puud. Tagaplaanil ripub valge lina või kang, mis võib olla pesu. Üldmulje on lihtsast, rustikaalsest ja ehk pisut melanhoolsest maaelust. Valgus viitab eredale, päikeselisele päevale.",
+      "actions": [
+        "Istumine",
+        "Vestlemine (subtiitritest järeldatav)",
+        "Porgandi hoidmine",
+        "Käte hoidmine"
+      ],
+      "keywords": [
+        "Vanemad naised",
+        "Maaelu",
+        "Traditsiooniline riietus",
+        "Silmaplaaster",
+        "Puumaja",
+        "Vestlus",
+        "Rustikaalne",
+        "Subtiitrid",
+        "Talumaja",
+        "Põll"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Puidust maja",
+        "Roheline rohi",
+        "Puud",
+        "Valge lina/riie",
+        "Vankriratas (maja küljes)",
+        "Puidust astmed/pakud",
+        "Pearätid",
+        "Põlled",
+        "Mustriga kleidid",
+        "Silmaplaaster",
+        "Porgand",
+        "Väike ese (vasakpoolse naise käes)"
+      ],
+      "colorcodes": [
+        "#90A0C0",
+        "#B090D0",
+        "#708050",
+        "#D0B080",
+        "#F0E0D0",
+        "#E89040"
+      ],
+      "texts": [
+        "And chewing gums for teeth...",
+        "What is this nonsense? - It is natural that your teeth are broken."
+      ],
+      "persons": [
+        "Kaks vanemat naist",
+        "Kaks nooremat naist"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "kevad",
+      "daytime": "päev",
+      "differences": [
+        "Kaadrite vahel muutuvad subtiitrid",
+        "Naiste näoilmed on pisut erinevad",
+        "Parempoolne naine liigutab porgandit käes"
+      ],
+      "snr": "014",
+      "ajad": [
+        "109.120",
+        "115.880"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub keskealisele naisele, kellel on õlgadeni ulatuvad punakaspruunid juuksed. Ta kannab heledat (tõenäoliselt valget või kreemjat) ülikonnajakki valge kraega särgi peal. Naisel on vasakul põsel sünnimärk ja märgatavad kortsud silmade ja suu ümbruses, mis annavad talle elukogenud ilme. Tema näoilme muutub stseeni jooksul: esimesel pildil on ta rääkimise ajal suu lahti, teisel ja kolmandal pildil aga kergelt naeratamas, suu suletud. Taust on udune, vihjates inimestele ja hoonele (tõenäoliselt maja või tall) vasakul. Üldine valgustus on pehme ja pisut summutatud, luues tõsise või mõtliku meeleolu.",
+      "actions": [
+        "Naine räägib",
+        "Naine naeratab",
+        "Inimesed seisavad taustal"
+      ],
+      "keywords": [
+        "Naine",
+        "Kõne",
+        "Naeratus",
+        "Portree",
+        "Ametlik riietus",
+        "Värisev video",
+        "Lubadus",
+        "Vabadus",
+        "Keskealine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Hele ülikonnajakk",
+        "Valge särk",
+        "Hoone (taustal)",
+        "Inimesed (taustal)",
+        "Sünnimärk"
+      ],
+      "colorcodes": [
+        "#9B5D3F",
+        "#E8E8E8",
+        "#C8A38E",
+        "#5C6A66",
+        "#4F4F4F"
+      ],
+      "texts": [
+        "Freedom is very important, significant and we protect it."
+      ],
+      "persons": [
+        "Naine",
+        "Inimesed taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naisterahva näoilme muutub rääkimiselt naeratuseks.",
+        "Subtiitrite tekst \"Freedom is very important, significant and we protect it.\" ilmub ainult teisel pildil.",
+        "Naisterahva pea asend ja pilgu suund muutuvad kergelt kaadrite vahel.",
+        "Naisterahva suu on esimesel pildil avatud, teisel ja kolmandal aga suletud/naeratav."
+      ],
+      "snr": "015",
+      "ajad": [
+        "115.880",
+        "123.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maaelu keskkonda, kus kesksel kohal on pika valge habemega vanamees, kes kannab tumedat riietust ja mütsi ning on asetatud puidust raami või pilliroo sarnasesse seadeldisse. Ta hoiab raami kätega ja vaatab otse kaamerasse, suu on kergelt avatud ja pilk intensiivne. Taustal on näha vana palkmaja ja mitmeid teisi inimesi, mis annab stseenile ühiskondliku või külaelu konteksti. Vasakul seisab noorem naine heledas kleidis ja põlles, paremal aga istub või seisab rühm inimesi, sealhulgas naine lillas kleidis. Paremal esiplaanil on osaliselt näha vanem naine värvilises pearätis, kes samuti vaatab kesksel kohal olevat meest. Maapind on kaetud rohelise rohuga ja vasakul on näha puuriita ning puidust kände.",
+      "actions": [
+        "Vanamees hoiab puidust raami",
+        "Vanamees räägib või hüüab (esimesel pildil)",
+        "Vanamees vaatab otse kaamerasse/vaatajasse",
+        "Naine vasakul seisab ja vaatab eesotsa",
+        "Inimesed paremal taustal istuvad või seisavad",
+        "Naine paremal ees vaatab kesksel kohal olevat meest"
+      ],
+      "keywords": [
+        "Külaelu",
+        "Vanamees",
+        "Puidust raam",
+        "Pillaar",
+        "Talumaja",
+        "Rahvas",
+        "Traditsiooniline",
+        "Maalähedane",
+        "Dramaatiline",
+        "Pikk habe",
+        "Külakogukond"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Puidust raam",
+        "Palkmaja",
+        "Puu palgid",
+        "Puuriit",
+        "Roheline ämber",
+        "Müts",
+        "Kleidid",
+        "Põll",
+        "Pearätt",
+        "Särgid"
+      ],
+      "colorcodes": [
+        "#A1BE63",
+        "#8C6C4C",
+        "#2F2F2F",
+        "#E8E8E8",
+        "#7D509D",
+        "#AE6E7F",
+        "#6C6B64"
+      ],
+      "texts": [],
+      "persons": [
+        "Vana mees (kesksel kohal)",
+        "Naine heledas kleidis (vasakul)",
+        "Naine lillas kleidis (paremal taga)",
+        "Naine värvilises pearätis (paremal ees)",
+        "Kaks inimest taustal (paremal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Vanamehe näoilme ja suu asend muutuvad piltide vahel. Esimesel pildil on suu avatud, justkui rääkides või hüüdes, ja pilk on teravam. Teisel pildil on suu kergemalt suletud ja ilme on mõtlikum või tõsisem. Kolmandal pildil on suu suletud ja pilk otse kaamerasse, näoilme on pigem neutraalne ja tõsine."
+      ],
+      "snr": "016",
+      "ajad": [
+        "123.240",
+        "128.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist naist, kellel on punakaspruunid, õlgadeni ulatuvad, siledalt kammitud juuksed. Ta kannab valget kraega särki ja heledat (tõenäoliselt valget või helehalli) bleiserit. Naise nahk on hele ning silmade ümber on näha kortsud, mis on tuntud ka kui kanavarbad. Vasaku silma all on tal märgatav väike sünnimärk või iluviga. Tema pilk on suunatud otse vaatajale ning näol on salapärane, mõistatuslik naeratus või irve. Tagaplaan on udune ja fookus on selgelt naise näol ja ülakehal. Udusel taustal on aimatavad inimkujud ja hoone, millel on aknad, mis viitab välitingimustele, tõenäoliselt mingile kogunemisele või sündmusele. Valgus on loomulik, kuid kergelt summutatud, andes stseenile jaheda või melanhoolse tooni.",
+      "actions": [
+        "Naine naeratab kaamerasse/vaatajale",
+        "Naine vaatab otse ette"
+      ],
+      "keywords": [
+        "Keskealine naine",
+        "Punakaspruunid juuksed",
+        "Salapärane naeratus",
+        "Portree",
+        "Bleiser",
+        "Välitingimused",
+        "Udune taust",
+        "Pingeline pilk",
+        "Kanavarbad",
+        "Sünnimärk"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Valge särk",
+        "Hele bleiser",
+        "Maja (taustal)",
+        "Aken (taustal)",
+        "Inimkujud (taustal)"
+      ],
+      "colorcodes": [
+        "#904C33",
+        "#D7BC9F",
+        "#DCDCDC",
+        "#F5F5F5",
+        "#A52A2A",
+        "#4F4F4F"
+      ],
+      "texts": [],
+      "persons": [
+        "Keskealine naine",
+        "Mõned inimkujud taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on naise huuled tihedamalt suletud ja naeratus näib pisut tagasihoidlikum.",
+        "Teisel pildil on naise huuled kergelt avatud, paljastades õrnalt sisemise huule või hammaste kontuuri, ja tema silmad on veidi kitsamad, andes naeratusele ehk kelmikama või irvitavama varjundi."
+      ],
+      "snr": "017",
+      "ajad": [
+        "128.360",
+        "134.080"
+      ]
+    },
+    {
+      "explanation": "Stseenis on keskealine naine, kellel on õlgadeni ulatuvad pruunikas-punakad juuksed. Ta kannab valget kraega pluusi ja selle juurde sobivat valget pintsakut. Naine asub siseruumides, taustal on näha mustrilist tapeeti või kangast ning ühte seinale riputatud kaunistust, millel on sinised ja pruunid motiivid. Valgustus on pigem hämar, luues veidi tõsise või mõtliku atmosfääri. Naine suhtleb papist karbiga, hoides seda käes. Kaadrit on hiljem raamitud peegli abil, mis annab stseenile täiendava sügavuse ja perspektiivi. Naise pilk ja kehahoid muutuvad stseeni jooksul, andes edasi erinevaid emotsioone ja tegevusi, alates otse kaamerasse vaatamisest kuni karbile ja eemale vaatamiseni.",
+      "actions": [
+        "Vaatab otse kaamerasse/vaatajale",
+        "Vaatab allapoole karbile",
+        "Hoiab käes pappkarpi",
+        "Vaatab eemale, küljele",
+        "Räägib (implitsiitselt subtiitrite kaudu)"
+      ],
+      "keywords": [
+        "Naine",
+        "Siseinterjöör",
+        "Valge ülikond",
+        "Pappkarp",
+        "Peegel",
+        "Subtiitrid",
+        "Mõtlik",
+        "Hämar valgus",
+        "Mustriline taust"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Valge pluus",
+        "Valge pintsak",
+        "Pappkarp",
+        "Peegel",
+        "Seinakaunistus",
+        "Mustriline tapeet/kangast"
+      ],
+      "colorcodes": [
+        "#F5F5F5",
+        "#D2B48C",
+        "#FF00FF",
+        "#A0522D",
+        "#A9A9A9",
+        "#ADD8E6"
+      ],
+      "texts": [
+        "Tomorrow I will be more appreciated.",
+        "FREE WORLD"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil vaatab naine otse kaamerasse ja karp ei ole nähtav, suu on kergelt avatud. Teisel pildil vaatab naine allapoole pappkarbile, mida ta hoiab, ja nähtav on subtiiter “Tomorrow I will be more appreciated.”. Kolmandal pildil vaatab naine kergelt vasakule (vaataja paremale), karbil on nähtav kiri “FREE WORLD” ja kaader on raamitud suure peegli äärega."
+      ],
+      "snr": "019",
+      "ajad": [
+        "161.520",
+        "184.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab müstilist vanameest, kes piilub aknast sisse. Tal on pikk valge habe, seljas tumedad riided ja peas lameda tipuga müts. Mees hoiab käes suurt, tumedat puidust võtmekujulist eset, mille küljes ripub kett. Vaataja perspektiiv on toast sissepoole, kus aknalaud ja heledad pitskardinad raamivad vaadet. Akna taga paistab udune, summutatud rohelise tooniga mets või võsastunud ala. Üldine meeleolu on veidi kõhe ja salapärane.",
+      "actions": [
+        "Vaatab aknast sisse",
+        "Hoiab suurt puidust võtmekujulist eset"
+      ],
+      "keywords": [
+        "Müstiline mees",
+        "Vana mees",
+        "Aken",
+        "Kardinad",
+        "Mets",
+        "Võti",
+        "Kett",
+        "Salapärane",
+        "Kõhe",
+        "Karakter"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Aken",
+        "Aknalaud",
+        "Pitskardinad",
+        "Vana mehe müts",
+        "Vana mehe habe",
+        "Vana mehe tume riietus",
+        "Suur puidust võtmekujuline ese",
+        "Kett",
+        "Puud",
+        "Mets"
+      ],
+      "colorcodes": [
+        "#282828",
+        "#D3D3D3",
+        "#403C3C",
+        "#F0F0F0",
+        "#A09A96",
+        "#606C5D"
+      ],
+      "texts": [],
+      "persons": [
+        "Vana mees",
+        "Müstiline tegelane"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [],
+      "snr": "020",
+      "ajad": [
+        "184.280",
+        "187.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab naist seismas hämaras, maalähedases toas, hoides käes väikest pruuni pappkarpi. Naine on riietatud valgesse või heledasse kostüümi ja tal on punakaspruunid lühikesed juuksed. Tuba tundub olevat vana ja tagasihoidlikult sisustatud. Esiküljel vasakul on näha voodi osa, mis on kaetud heledate, pitsiliste kardinatega, mis rippuvad akna ees. Toa paremal poolel asub ümar puidust laud, millel on valge heegeldatud laudlina (tähe- või lumehelbe mustriga) ja vanaaegne õlilampi meenutav lamp, mis kiirgab sooja valgust. Laua juures on lihtne puidust tool. Seinte tekstuur viitab vanadele puidust plankudele või telliskividele ning tagaplaanil on hele puidust uks. Üldine atmosfäär on madala valgustuse tõttu veidi sünge või salapärane. Karp, mida naine hoiab, on pruun ja sellel on punase kirjaga tekst 'FREE WORLD'. Stseeni jooksul pöördub naine otse kaamera poole ja esitab küsimuse: 'Kas sa tahad pakki?'.",
+      "actions": [
+        "Naine seisab",
+        "Naine hoiab pakki",
+        "Naine räägib (esitab küsimuse)"
+      ],
+      "keywords": [
+        "Maalähedane",
+        "Vanaaegne",
+        "Salapärane",
+        "Pakk",
+        "Kohaletoimetamine",
+        "Naine",
+        "Siseruum",
+        "Hämar valgus",
+        "Rustikaalne",
+        "Vana maja",
+        "Vabadus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Pappkarp",
+        "Voodi",
+        "Kardinad",
+        "Aken",
+        "Puidust uks",
+        "Laud",
+        "Tool",
+        "Lamp",
+        "Laudlina"
+      ],
+      "colorcodes": [
+        "#F8F8F8",
+        "#C5B09A",
+        "#8B6547",
+        "#FF0000",
+        "#6B6B6B"
+      ],
+      "texts": [
+        "FREE WORLD",
+        "Do you want a package?"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on naine veidi liikumises või tema pilk on suunatud allapoole või mööda kaamerast, samas kui teisel pildil seisab ta paigal ja vaatab otse kaamerasse, näoga suunatud otseselt vaataja poole.",
+        "Pappkarbil olev tekst 'FREE WORLD' on teisel pildil selgemalt loetav.",
+        "Teisel pildil on näha subtiiter 'Do you want a package?' (Kas sa tahad pakki?), mida esimesel pildil ei ole, viidates naise kõnelemisele."
+      ],
+      "snr": "021",
+      "ajad": [
+        "187.680",
+        "192.560"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab vana meest pika valge habeme ja tumeda riietusega, kes kannab nokamütsi ja seisab avatud aknas, vaadates sisse tuppa. Tema käes on suur, tahumatu puidust raam või konstruktsioon, mille küljes ripuvad ketid. Mehe taga avaneb vaade uduselt rohelisele metsataustale. Kaamera on paigutatud tuppa ja vaatab välja akna kaudu, mille ääri kaunistavad heledad pitskardinad. Mehe ilme on tõsine ja fookustatud, tema pilk suunatud otse ette või kaamera poole. Stseenis ilmuvad subtiitrid, mis viitavad jutustusele või dialoogile. Üldine atmosfäär on veidi sünge ja müstiline.",
+      "actions": [
+        "Mees seisab aknaraamis",
+        "Mees hoiab suurt puitkonstruktsiooni koos kettidega",
+        "Mees vaatab otse ette/kaamerasse",
+        "Subtiitrid ilmuvad ekraanile"
+      ],
+      "keywords": [
+        "Vana mees",
+        "Habe",
+        "Aken",
+        "Puitraam",
+        "Kardinad",
+        "Mets",
+        "Müstiline",
+        "Karakter",
+        "Jutustamine",
+        "Tõsine ilme"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Vana mees",
+        "Habe",
+        "Nokamüts",
+        "Tume riietus",
+        "Suur puidust raam/konstruktsioon",
+        "Ketid",
+        "Aken",
+        "Aknaraam",
+        "Heledad pitskardinad",
+        "Puud/mets taustal"
+      ],
+      "colorcodes": [
+        "#28272a",
+        "#c4c4c4",
+        "#614a37",
+        "#e0dcd2",
+        "#4a544a"
+      ],
+      "texts": [
+        "...balled my fist and hit him straight in the face...",
+        "...and looked me straight in the eye."
+      ],
+      "persons": [
+        "Vana mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid, samas kui teisel ja kolmandal pildil on subtiitrid.",
+        "Teisel pildil ilmub esimene subtiitrite rida: \"...balled my fist and hit him straight in the face...\".",
+        "Kolmandal pildil ilmub teine subtiitrite rida: \"...and looked me straight in the eye.\".",
+        "Mehe pilk ja näoilme muutuvad kergelt: esimesel pildil vaatab ta üldiselt ette, samas kui viimasel pildil on tema pilk suunatud otsemalt vaataja/kaamera poole ja suu võib olla kergelt avatud.",
+        "Kaadri suurus muutub kergelt: teine ja kolmas kaader tunduvad olevat pisut sisse suumitud või tihedamalt raamitud võrreldes esimesega."
+      ],
+      "snr": "022",
+      "ajad": [
+        "192.560",
+        "266.880"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kesksel kohal keskealine naine, kes seisab ruumi keskel. Tal on lühikesed, punakaspruunid juuksed, mis on stiilselt bob-lõikusena. Naine kannab heledat, beežikat või kreemikat ülikonda, mis koosneb pintsakust ja nööbitavast särgist. Ta hoiab mõlema käega enda ees väikest avatud pappkasti, mille esiküljel on roosa kirjaga tekst \"FREE WORLD\". Tema näoilme varieerub piltide vahel kergelt: ta vaatab otse kaamerasse, suu on kergelt avatud, justkui rääkides või küsides, ning tema pilk on hetketi mõtlik ja hetketi otsekohesem. Kasti sisu muutub kaadrite vahel, esialgu paistab see tühjana, kuid hiljem on seal näha kokkusurutud kangast või paberit. Taustal on näha vananenud või veidi lagunenud siseruumi. Keskel asub vana, heledast puidust uks, mille ümber on krobelised, ehk isegi kooruva tapeediga seinad. Vasakul pool on näha heledat, pitsilise mustriga või narmalise äärega kardinat. Üldine valgus on sume ja atmosfäär näib melanhoolne või tõsine.",
+      "actions": [
+        "Naine hoiab pappkasti",
+        "Naine räägib (või küsib)",
+        "Naine vaatab kasti sisse"
+      ],
+      "keywords": [
+        "Naine",
+        "Pappkast",
+        "Vabadus",
+        "Kiri",
+        "Siseruum",
+        "Vananenud",
+        "Kurb",
+        "Mõtlik",
+        "Rääkimine",
+        "Valge ülikond",
+        "Uks",
+        "Sein",
+        "Kardin"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Pappkast",
+        "Uks",
+        "Sein",
+        "Kardin",
+        "Särk",
+        "Pintsak",
+        "Kangas/paber (kasti sees)"
+      ],
+      "colorcodes": [
+        "#DCDCDC",
+        "#B08B6B",
+        "#FF69B4",
+        "#A09D94",
+        "#CDC7C0"
+      ],
+      "texts": [
+        "FREE WORLD",
+        "What freedom are you declaring?"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise näoilme ja suu asend muutuvad kaadrite vahel, justkui ta räägiks või mõtleks.",
+        "Teisel pildil on näha subtiitreid, mis annavad edasi tema küsimuse: \"What freedom are you declaring?\".",
+        "Kolmandal pildil on kasti sees näha mingit kokkusurutud kangast või paberit, samas kui esimesed kaks kaadrit näitavad kasti tühjana või tühjemana."
+      ],
+      "snr": "023",
+      "ajad": [
+        "266.880",
+        "286.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet aknast välja tihedasse metsa. Akent raamivad heledad, beežikashallid pitsilised kardinad, millel on õrn lilleline või lehemuster. Kardinad on vanamoelised ja lisavad stseenile nostalgilise tunde. Aknalaud ja -raam on puidust, näidates kulumise märke. Väljaspool akent avaneb vaade metsale, mis on veel hõreda lehestikuga, vihjates varakevadele või hilistalvele. Mõned puud on täiesti raagus, nende oksad moodustavad tiheda ja sassis pusa, teistel on juba uued rohelised pungad või lehed. Metsaalune on kaetud rohelise taimestikuga, mis annab märku elavnemisest. Valgus on summutatud ja pilvine, luues vaikse, mõtliku ja pisut melanhoolse atmosfääri. Värvipalett on valdavalt mahe ja looduslik, domineerivad hallid, tumerohelised ja pruunikad toonid.",
+      "actions": [],
+      "keywords": [
+        "Aken",
+        "Kardinad",
+        "Mets",
+        "Loodus",
+        "Rahu",
+        "Vaikus",
+        "Pits",
+        "Nostalgia",
+        "Kevad",
+        "Hämar",
+        "Puud",
+        "Maalähedane"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor looking out",
+      "objects": [
+        "Aken",
+        "Aknalaud",
+        "Aknaraam",
+        "Pitskardinad",
+        "Puud",
+        "Oksad",
+        "Mets",
+        "Taimestik"
+      ],
+      "colorcodes": [
+        "#B8B0A2",
+        "#C8C2B3",
+        "#4C5C48",
+        "#3A4739",
+        "#707577",
+        "#9EA09D",
+        "#C5BAA5"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on üldiselt pisut kontrastsem ja jahedama tooniga võrreldes teise ja kolmanda pildiga.",
+        "Vasakpoolne kardin on esimesel pildil rohkem aknaraami katmas, samas kui teisel ja kolmandal pildil on see veidi rohkem kõrvale tõmmatud, paljastades suurema osa aknaraamist.",
+        "Teine ja kolmas pilt on värvitoonilt veidi soojemad ja summutatumad.",
+        "Kolmas pilt on identne teise pildiga, erinevused esinevad ainult esimese ja teise/kolmanda pildi vahel."
+      ],
+      "snr": "024",
+      "ajad": [
+        "286.080",
+        "294.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist, kes seisab hämaras, rustikaalses siseruumis, mida raamib kas ukse- või aknaava. Naine kannab heledat, kreemikat ülikonda ja heledat triiksärki ning tal on lühikesed, pruunikad juuksed. Ta hoiab mõlema käega papist kasti, mille siseküljel on erkroosa tekst \"FREE WORLD\". Ruumi interjöör on tagasihoidlik ja puidune, näha on ümar laud pitslinaga ja puidust tool. Laual seisab vanaaegne petrooleumilamp. Valgus on summutatud, luues melanhoolse ja mõtiskleva atmosfääri. Naine vaatab aeg-ajalt erinevates suundades, tema ilme on muutlik, kord otse vaatav, kord murelik või mõtisklev.",
+      "actions": [
+        "Naine seisab",
+        "Naine hoiab pappkarpi käes",
+        "Naine vaatab otse ette",
+        "Naine vaatab paremale (vaataja vasakule)"
+      ],
+      "keywords": [
+        "Rustikaalne",
+        "Hämar",
+        "Vana",
+        "Mõtlik",
+        "Salapärane",
+        "Vabadus",
+        "Ülikond",
+        "Petrooleumilamp",
+        "Puitmaja",
+        "Nostalgia"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Pappkarp",
+        "Laud",
+        "Tool",
+        "Pitslina",
+        "Petrooleumilamp",
+        "Aknaraam",
+        "Ukseava",
+        "Puidust seinad",
+        "Kardinad"
+      ],
+      "colorcodes": [
+        "#DED4C7",
+        "#605B54",
+        "#E63467",
+        "#F0F0F0"
+      ],
+      "texts": [
+        "FREE WORLD"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on naine kadreeritud läbi aknaava ja karp on peaaegu suletud. Järgmistel piltidel on kaamera naisele lähemal, kadreerides teda ukseavas, ning karp on veidi avatud.",
+        "Naise pilgu suund ja näoilme muutuvad piltide vahel, esimesel pildil vaatab ta otse ette, teistel piltidel paremale (vaataja vasakule), kord uudishimuliku, kord mureliku ilmega."
+      ],
+      "snr": "025",
+      "ajad": [
+        "294.040",
+        "301.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja avarat maastikku pilvise taeva all, tõenäoliselt videviku või koidiku ajal. Pildi vasakus servas on näha tumedate puude siluette, mis piiravad vaadet, samas kui paremas servas on fookusest väljas ähmase objekti, mis meenutab sõiduki akna- või uksepiilarit, vihjates, et stseen on filmitud sõiduki seest. Keskel domineerib suur, künklik põllumaa, mille pruunil pinnal on näha vaod või triibud, justkui oleks see hiljuti küntud. Horisondi lähedal, künka tipus, on näha üksikku inimfiguuri, kes algul paistab midagi tegevat – näiteks viskavat või tõstvat – enne kui ta kaob künka taha või lahkub stseenist. Üldine atmosfäär on vaikne, melanhoolne ja veidi üksildane.",
+      "actions": [
+        "Inimfiguur sooritab tegevuse künka tipus (näib midagi viskavat/tõstvat)",
+        "Inimfiguur kaob künkalt silmapiirilt"
+      ],
+      "keywords": [
+        "Maastik",
+        "Hämarus",
+        "Pilvine taevas",
+        "Põld",
+        "Küngas",
+        "Üksildus",
+        "Inimfiguur",
+        "Vaikus",
+        "Videvik",
+        "Koidik",
+        "Autoaken",
+        "Vabadus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Põllumaa",
+        "Küngas",
+        "Puud",
+        "Sõiduki aken (ääris/piilar)",
+        "Pilved",
+        "Taevas",
+        "Inimfiguur"
+      ],
+      "colorcodes": [
+        "#4a5264",
+        "#586377",
+        "#37312c",
+        "#3b3833",
+        "#282b2b",
+        "#2f3333",
+        "#4f545f"
+      ],
+      "texts": [],
+      "persons": [
+        "Üksik inimfiguur"
+      ],
+      "imagetype": "real",
+      "emptypercent": 75,
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on inimfiguur künka tipus selgelt näha, käed tõstetud või midagi sooritamas.",
+        "Teisel pildil on inimfiguuri asend veidi muutunud, ta on endiselt künka tipus.",
+        "Kolmandal pildil on inimfiguur künkalt kadunud, jättes maastiku tühjaks, viidates tema lahkumisele stseenist."
+      ],
+      "snr": "026",
+      "ajad": [
+        "301.440",
+        "311.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat naist, kes istub hämaravõitu ruumis laua taga ja sööb. Tal on seljas hele (kreemikasvalge) pintsak ja valge kraega särk. Naine on lühemate punakaspruunide juustega. Ta hoiab lusikat käes, millega on just söönud või kohe söömas. Laual on valge, võimalik, et õrna mustriga laudlina, kollakas tass alustassiga, valge taldrik, läbipaistev klaas ja valge teekann. Toa tagaplaan on tume ja rustic, vasakul paistab aknast roheline loodus, vihjates, et õues on suvi. Paremal on näha kulunud puitraamidega aken ja heledad rippuvad kardinad. Üldine atmosfäär on vaikne, veidi melanhoolne ja mõtisklev.",
+      "actions": [
+        "Naine sööb lusikaga",
+        "Naine hoiab lusikat käes",
+        "Naine vaatab otse kaamerasse/vaatajasse",
+        "Naine räägib või kuulab (subtiitrite järgi)"
+      ],
+      "keywords": [
+        "Söögilaud",
+        "Hommikusöök",
+        "Naine",
+        "Siseruum",
+        "Tagasihoidlik",
+        "Melanhoolne",
+        "Mõtisklev",
+        "Maalähedane",
+        "Vana maja",
+        "Vaikus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Lusikas",
+        "Taldrik",
+        "Tass",
+        "Alustaldrik",
+        "Klaas",
+        "Teekann",
+        "Laudlina",
+        "Laud",
+        "Aken",
+        "Kardinad",
+        "Pintsak",
+        "Särk",
+        "Taimed (akna taga)"
+      ],
+      "colorcodes": [
+        "#DEDCD5",
+        "#F8F8F8",
+        "#E2D396",
+        "#9B6252",
+        "#C9A790",
+        "#777777",
+        "#6B8B67",
+        "#8C8C8C"
+      ],
+      "texts": [
+        "You know, that man from the square, with a doghouse around his neck..."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel kaadril on naine parajasti söömas, lusikas suu juures, samal ajal kui teisel ja kolmandal kaadril hoiab ta lusikat käes ja vaatab otse kaamerasse.",
+        "Naise näoilme on esimesel kaadril aktiivsem, söömisega seotud, samas kui teisel ja kolmandal kaadril on see mõtisklevam ja otsekui kuulaks või räägiks ta.",
+        "Kolmandal kaadril on lisatud ingliskeelsed subtiitrid, mida kahel esimesel pole."
+      ],
+      "snr": "027",
+      "ajad": [
+        "311.160",
+        "319.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vana ja rustikaalset kööki, mis jaguneb näiliselt kaheks osaks: tumedam ala tellisahju ja puidust seintega ning heledam osa suure aknaga, millest paistab roheline lehestik. Köögis on kaks naist, kes vestlevad. Vanem, tüsedam naine, seljas lilleline kodukleit, valge põll ja peas rätik, seisab pliidi ääres. Tema pilk on suunatud otse ette, justkui kuulaks või alustaks juttu. Pliidi ümbruses on näha mitmesuguseid potte, piimapudel ja seinal rippuvad köögiriistad. Teine, noorem naine, punakaspruunide juuste ning valge pintsaku ja särgiga, istub laua taga ja sööb. Ta räägib murelikult, kuidas ta mõtiskles öö läbi ühe mehe üle, keda ta kuskil näinud on ja kes talle surnud isa meenutab. Laual on valge punase mustriga laudlina, teekann, tass, taldrik toiduga ja suhkrutoos. Akna taga paistab ere päevavalgus ja roheline loodus, mis viitab suvisele või kevadisele ajale. Üldine õhkkond on maalähedane ja intiimne, keskendudes naiste vahelisele tõsisele vestlusele.",
+      "actions": [
+        "Vanem naine seisab pliidi ääres",
+        "Noorem naine sööb ja räägib",
+        "Naised vestlevad",
+        "Noorem naine hoiab lusikat toiduga",
+        "Noorem naine mõtiskleb"
+      ],
+      "keywords": [
+        "Köök",
+        "Maaelu",
+        "Vestlus",
+        "Mõtisklemine",
+        "Söök",
+        "Pere",
+        "Mälestused",
+        "Päevavalgus",
+        "Pliit"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Tellisahi",
+        "Puidust seinad",
+        "Aken",
+        "Kardinad",
+        "Laudlina",
+        "Teekann",
+        "Tassid",
+        "Taldrik",
+        "Lusikas",
+        "Potid",
+        "Piimapudel",
+        "Rippuvad köögiriistad",
+        "Rätikud",
+        "Valge vaagen",
+        "Lilled vaasis",
+        "Ämbrid",
+        "Suhkrutoos"
+      ],
+      "colorcodes": [
+        "#4B4B4B",
+        "#FFFFFF",
+        "#D9D9D9",
+        "#F5F5DC",
+        "#8B4513",
+        "#556B2F",
+        "#7B68EE",
+        "#DC143C"
+      ],
+      "texts": [
+        "You know, that man from the square, with a doghouse around his neck...",
+        "I kept tossing and turning all night, thinking where have I seen him before.",
+        "He reminds me of my dead father..."
+      ],
+      "persons": [
+        "Vanem naine",
+        "Noorem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Fookus nihkub vanemalt naiselt nooremale naisele.",
+        "Kaadris nähtav taust muutub: esimeses kaadris on tumedam pliidi ja puitseina piirkond, teises ja kolmandas kaadris heledam aknaga sein.",
+        "Subtiitrite tekst muutub vastavalt vestluse kulgemisele, pakkudes süvendatud narratiivi."
+      ],
+      "snr": "028",
+      "ajad": [
+        "319.240",
+        "372.160"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud eakas naine siseruumis. Tema nägu, mis on kaetud sügavate kortsudega, on kaadris esiplaanil, andes edasi mõtliku ja veidi kurva meeleolu. Naine kannab peas mustrilist roosakaid ja lillasid toone sisaldavat rätikut ning õlgadel rohelise ja lilla mustriga rõivast. Valgus on summutatud ja dramaatiline, luues intiimse ja introspektiivse atmosfääri. Esialgu vaatab ta kergelt üles ja paremale (vaataja vasakule), seejärel pöörab pilku järk-järgult paremale, kuni tema nägu on viimases kaadris peaaegu profiilis. Ta suu on kergelt avatud või pinges, edastades emotsionaalset sügavust. Ta pilgus on aimata melanhooliat või mälestusi. Taust on udune ja tume, mis rõhutab fookust naisele.",
+      "actions": [
+        "Naine mõtiskleb sügavalt",
+        "Naine pöörab pead ja muudab pilgu suunda",
+        "Naine vaatab eemale"
+      ],
+      "keywords": [
+        "Eakas naine",
+        "Mõtlik",
+        "Kurbus",
+        "Peakate",
+        "Portree",
+        "Siseruum",
+        "Melanhoolia",
+        "Vanadus",
+        "Emotsionaalne"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Peakate",
+        "Naine",
+        "Mustriline rõivas",
+        "Rätik"
+      ],
+      "colorcodes": [
+        "#A17E9A",
+        "#6FA072",
+        "#8B8080",
+        "#343434",
+        "#C8C2C0",
+        "#666D67"
+      ],
+      "texts": [
+        "He reminds me of my dead father..."
+      ],
+      "persons": [
+        "Eakas naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha ingliskeelne subtiiter: 'He reminds me of my dead father...', mis puudub teistel piltidel.",
+        "Naise pea asend ja pilgu suund muutuvad piltide vahel. Esimesel pildil vaatab naine veidi üles ja paremale (vaataja vasakule), teisel pildil on pilk rohkem otse paremale ja kolmandal pildil on ta nägu peaaegu profiilis, vaadates otse paremale (vaataja vasakule)."
+      ],
+      "snr": "029",
+      "ajad": [
+        "372.160",
+        "379.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte naist vana ja ilmastiku poolt räsitud puitmaja aknast välja vaatamas. Maja välisseinad on ehitatud tumedatest, hallidest palkidest, mis annavad hoonele rustikaalse ja ajastutruu ilme. Aknalauad ja -raamid on samuti hallikad, kooruva värviga, mis rõhutab hoone vanust. Akna sees on helekollased kardinad, mis lisavad interjöörile soojust. Noorem naine, kes on parempoolses aknaosas, vaatab pingsalt välja, ilme on mõtlik ja veidi murelik. Tal on lühikesed helepruunid juuksed ja seljas valge või kreemikas kraega pluus. Temast vasakul, vasakpoolses aknaosas ilmub vanem naine. Ta kannab mustrilist pluusi ja heledat põlle ning hoiab käes valget tassi või kruusi. Tema pilk on samuti suunatud aknast välja, ilme on tõsine ja veidi pahur. Akna taga on näha tumedat interjööri, kus esimesel hetkel paistavad potid ja rätik, kuid hiljem on need vanema naise poolt varjatud. Stseen loob tunde ootusest või olukorrast, kus naised jälgivad midagi väljaspool maja toimuvat.",
+      "actions": [
+        "Aknast välja vaatamine",
+        "Tassi käes hoidmine",
+        "Aknale ilmumine"
+      ],
+      "keywords": [
+        "Vana maja",
+        "Aken",
+        "Naised",
+        "Ootamine",
+        "Puit",
+        "Hall",
+        "Siseruum",
+        "Väljas",
+        "Palgid",
+        "Kardinad",
+        "Põll",
+        "Murelik",
+        "Tõsine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Palkmaja",
+        "Aken",
+        "Aknaraam",
+        "Kardinad",
+        "Pott",
+        "Rätik",
+        "Tass",
+        "Põll",
+        "Pluus"
+      ],
+      "colorcodes": [
+        "#4d4e4c",
+        "#888b8d",
+        "#f0e68c",
+        "#f0f0f0",
+        "#e0e0e0",
+        "#4a5c5e"
+      ],
+      "texts": [],
+      "persons": [
+        "Noorem naine",
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on vasakpoolses aknaosas näha siseruumi detaile: potti ja rätikut. Vanemat naist seal veel ei ole.",
+        "Teisel pildil ilmub vanem naine vasakpoolsesse aknaossa, kattes oma kehaga osaliselt interjööri detailid. Ta hoiab käes tassi.",
+        "Kolmandal pildil on vanema ja noorema naise näoilmetes ja pilgu suundades väga väikesed nihked, viidates stseeni loomulikule kulgemisele või kergetele kaadrite erinevustele. Vanema naise pilk on veidi enam vasakule suunatud ja noorema naise ilme on kergelt muutunud."
+      ],
+      "snr": "030",
+      "ajad": [
+        "379.760",
+        "388.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maaelu idülli avaras rohelises õuekeskkonnas, mida ilmestavad traditsioonilised puitmajad ja tihe metsatukk taustal. Valgus on pehme, pilvisele päevavalgusele iseloomulik. Kaadris on näha erinevas vanuses inimesi, kes kannavad traditsioonilisi või vanamoelisi rõivaid, sh peakatted (rätikud ja müts), pikad kleidid ja sallid. Üks naine, lillelises kleidis ja valges rätikus, askeldab vanaaegse kivi- ja puitkaevu juures, tõstes metallämbriga vett. Kaevu äärel istub noorem, mütsiga inimene, kes samal ajal võileiba sööb. Tagaplaanil on näha pesunööridele kuivama pandud valget pesu, mis annab aimu argipäevastest toimetustest. Stseen muutub seejärel sotsiaalsemaks, kus mitmed naised, värvilistes rätikutes ja kirjudes sallides, on kogunenud väljale, naeratades ja omavahel suheldes. Üks naine, ümberringi värviline triibuline tekk, naeratab laialt ning ekraanile ilmub tekst \"From my mouth, the gold will drop!\", andes stseenile mängulisema või metafoorilisema noodi. Lõpuks on näha rõõmsat seltskonda, kus naised on grupeeritud ja vaatavad mehe poole, kes tumedas mütsis ja tumedates riietes tantsib või energiliselt liigub, viidates lõbusale kogukondlikule sündmusele või peole. Üldine meeleolu on rahulikust argipäevast üle minemas rõõmsaks ja ühtseks koosviibimiseks.",
+      "actions": [
+        "Vett võtma",
+        "Sööma",
+        "Pesu kuivatama",
+        "Naeratama",
+        "Suhtlema",
+        "Kogunema",
+        "Tantsima"
+      ],
+      "keywords": [
+        "Külaelu",
+        "Traditsiooniline",
+        "Talutööd",
+        "Kogukond",
+        "Rõõm",
+        "Suvi",
+        "Õues",
+        "Roheline",
+        "Pihik",
+        "Rätik"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Kaev",
+        "Ämber",
+        "Võileib",
+        "Pesunöör",
+        "Valge pesu",
+        "Maja",
+        "Aed",
+        "Puud",
+        "Rohi",
+        "Peakatted (rätikud)",
+        "Kleidid",
+        "Sallid",
+        "Müts",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#6C9F3C",
+        "#7A4E39",
+        "#E7E9E9",
+        "#B73D3F",
+        "#556D9B",
+        "#B48D3F",
+        "#2E3033",
+        "#AA7C7C",
+        "#B1B7B9"
+      ],
+      "texts": [
+        "From my mouth, the gold will drop!"
+      ],
+      "persons": [
+        "Naine",
+        "Naine valges rätikus",
+        "Noorem inimene (mütsiga)",
+        "Naised rätikutega",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Erinevad tegevused (vee võtmine vs. pesu kuivatamine vs. kogunemine ja tantsimine)",
+        "Erinev inimeste arv kaadris (kaks, kaks, seitse/kaheksa)",
+        "Erinev fookus (üksiktegevus, inimeste portreed, grupistseen)",
+        "Erinevad emotsioonid (rahulik askeldamine, naeratused, rõõmus kogunemine)",
+        "Teksti olemasolu ühel pildil"
+      ],
+      "snr": "031",
+      "ajad": [
+        "388.400",
+        "417.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maapiirkonna õueala vanade puidust hoonetega tagaplaanil, mis meenutavad traditsioonilist küla või taluhoovi. Pinnas on segu mullast ja hõredast rohust, millel leidub laiali puistatud teri ja oksi. Kesksel kohal on heledates riietes naine, kes jagab teistele inimestele väikseid pappkarpe. Tema ümber on kogunenud kohalikud elanikud, enamasti vanemad inimesed, kes on riietatud lihtsatesse ja traditsioonilistes stiilis riietesse. Üks mees kannab ruudulist mütsi ja vesti, teine naine pearätti. Üks vanem habemega mees mustas mantlis hoiab enda ümber suurt tühja puidust pildiraami, justkui esinedes või naljatledes. Õhkkond on kogukondlik ja tegevus näib olevat seotud abistamise või kingituste jagamisega, mis toimub päeval kevadisel või varasuvisel ajal.",
+      "actions": [
+        "Pappkarpide jagamine",
+        "Pappkarpide vastuvõtmine",
+        "Seisab ja vestleb",
+        "Suure puidust pildiraami hoidmine",
+        "Liigutab end hoovis",
+        "Seisab ja ootab"
+      ],
+      "keywords": [
+        "Maapiirkond",
+        "Külaelu",
+        "Traditsioon",
+        "Jagamine",
+        "Kogukond",
+        "Puidust hooned",
+        "Kingitused",
+        "Vanemad inimesed",
+        "Viljaterad",
+        "Aitäh"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Pappkarbid",
+        "Puidust hooned",
+        "Puidust oksad",
+        "Viljaterad",
+        "Suur puidust pildiraam",
+        "Rõivad (vest, pearätt, mantel, müts)",
+        "Paadid",
+        "Trepp"
+      ],
+      "colorcodes": [
+        "#E2E2E2",
+        "#6D4C3A",
+        "#4A5F40",
+        "#8B8B8B",
+        "#2E2E2E",
+        "#607B8C",
+        "#A0522D"
+      ],
+      "texts": [
+        "Here you go. You're welcome!"
+      ],
+      "persons": [
+        "Naine heledas jakis ja heledates pükstes",
+        "Vanem mees ruudulise mütsi ja vestiga",
+        "Vanem naine pearätiga",
+        "Vanem habemega mees mustas mantlis ja mütsiga",
+        "Teine vanem mees (osaliselt nähtav)",
+        "Noorem inimene taustal (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader keskendub maapinna detailidele, nagu oksad ja viljaterad, ning inimeste jalgadele madalast vaatenurgast.",
+        "Teine kaader näitab keskset naist pappkarpide jagamas suuremale grupile, kus taustal on selgemalt näha puitmaju ja täielikku stseeni laiemast vaatenurgast.",
+        "Kolmas kaader vahetab vaatenurka, fookus on naise ja habemega mehe interaktsioonil, kes hoiab suurt puidust raami, pakkudes erinevat vaadet taustal olevatele hoonetele ja inimeste asetusele."
+      ],
+      "snr": "032",
+      "ajad": [
+        "417.120",
+        "454.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine naine, kellel on lühikesed punakaspruunid juuksed. Ta kannab elegantset, heledat (beežikat või kreemikat) pintsakit ja selle all volangidega pluusi, mille kaelas on näha pärlikee. Naine seisab õues, punakaspruuni puitmaja ees, millel on valged aknaraamid. Tema pilk on suunatud kaadrist paremale, justkui räägiks ta kellegagi kaamerast väljaspool. Tema suu on avatud, viidates kõnelemisele. Taustal, maja juures, liigub ähmaselt veel kaks inimfiguuri. Üks neist paistab olevat helesinises pluusis ja teine heleda mustriga pluusis. Üldine valgus on pehme ja hajameelne, vihjates pilves ilmale või hilisemale pärastlõunale. Ühes kaadris on näha naise juustel kerget tuuleliikumist.",
+      "actions": [
+        "Kõneleb",
+        "Vaatab (paremale kaadrist välja)",
+        "Liigub (taustal olevad isikud)"
+      ],
+      "keywords": [
+        "Naine",
+        "Kõne",
+        "Õues",
+        "Puitmaja",
+        "Elegantne",
+        "Punased juuksed",
+        "Suvi",
+        "Päev",
+        "Vestlus",
+        "Taustal liikujad"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Punakaspruun puitmaja",
+        "Valged aknaraamid",
+        "Roheline taimestik",
+        "Ülikonnajakk (hele)",
+        "Volangidega pluus",
+        "Pärlikee",
+        "Tume ähmane objekt esiplaanil paremal (võimalik raam või molbert)"
+      ],
+      "colorcodes": [
+        "#914a38",
+        "#c9c3b0",
+        "#6e3e2f",
+        "#ffffff",
+        "#4e5f41"
+      ],
+      "texts": [
+        "Please, take this package."
+      ],
+      "persons": [
+        "Keskealine naine (peategelane)",
+        "Kaks ähmaselt nähtavat inimest taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Teises kaadris on näha ingliskeelsed subtiitrid: 'Please, take this package.'.",
+        "Naise juuksed paremal pool näivad kolmandas kaadris olevat tuule käes kergelt liikunud/tõusnud.",
+        "Naise suu asend ja näoilme varieeruvad pisut kaadrite vahel, peegeldades käimasolevat kõnet.",
+        "Taustal olevate inimeste asend ja nähtavus muutuvad veidi kaadrite vahel, kolmandas kaadris on nad veidi selgemalt eristatavad ja näivad liikuvat."
+      ],
+      "snr": "033",
+      "ajad": [
+        "454.000",
+        "459.640"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub vanale mehele, kellel on pikk, hall ja voolav habe ning juuksed. Ta kannab halli lamedat mütsi ja tumedat särki või jakki. Mees on paigutatud esiplaanile, osaliselt varjutatuna puidust konstruktsiooniga, mis meenutab kaevu või mingit raami. Tema pilk on intensiivne, tõsine ja otse vaatajasse suunatud. Kahe esimese kaadri jooksul seisab ta paigal, kolmandas aga sirutab ta käe otsustavalt kaamera poole, luues dünaamilise ja esiplaanil hägusa efekti. Taustal on näha maapiirkonna miljööd puidust hoonetega ja katused viitavad vanale, traditsioonilisele külale. Teises kaadris on tagaplaanil märgata ka ebamääraseid infiguure. Üldine valgus on pehme ja hajutatud, mis annab stseenile melanhoolse või dramaatilise meeleolu.",
+      "actions": [
+        "Mees vaatab intensiivselt kaamerasse",
+        "Mees seisab paigal puidust konstruktsiooni taga",
+        "Mees sirutab oma käe kaamera poole"
+      ],
+      "keywords": [
+        "Vana mees",
+        "Hall habe",
+        "Lame müts",
+        "Puidust konstruktsioon",
+        "Külavaade",
+        "Tõsine pilk",
+        "Käe sirutamine",
+        "Puidust hooned",
+        "Maaelu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Vana mees",
+        "Hall müts",
+        "Pikk hall habe",
+        "Tumeda värvi riided",
+        "Puidust konstruktsioon",
+        "Puidust hooned",
+        "Puidust katused",
+        "Roheline muru (taustal)",
+        "Ebamäärased figuurid (taustal)"
+      ],
+      "colorcodes": [
+        "#6B6D6E",
+        "#8E8F8E",
+        "#2D2C2C",
+        "#5C4736",
+        "#4A3E30",
+        "#C6A28E",
+        "#506F85",
+        "#4A604A"
+      ],
+      "texts": [],
+      "persons": [
+        "Vana mees",
+        "Ebamäärased figuurid"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel kaadril on mehe pilk intensiivne ja otse kaamerasse suunatud, taust on veidi tühi.",
+        "Teisel kaadril on mees samas asendis ja pilguga, kuid taustal on näha ebamääraseid infiguure ja rohelist muru.",
+        "Kolmandal kaadril sirutab mehe käsi esiplaanile kaamera poole, luues dünaamilise ja uduse efekti, kusjuures kaadri valgus ja fookus rõhutavad liikumist."
+      ],
+      "snr": "034",
+      "ajad": [
+        "459.640",
+        "463.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest siseruumis, mis tundub olevat vana või maapiirkonna elumaja koridor või panipaik. Ruum on valgustatud hämaralt, luues mustvalges kaadris teravaid kontraste. Mees, kellel on vuntsid ja kiilas pealagi, kannab heledat pikavarrukaga särki ja traksidega tumedaid pükse. Esimeses kaadris on tema nägu moonutatud, ta ilme on ilmselt vihane või piinatud, ning ta liigutab paremat rusikat. Järgnevates kaadrites seisab ta paigal, vaadates otse kaamerasse, mis on paigutatud madalale nurga alla, andes vaatajale tütarde perspektiivi. Tema ilme on nendes kaadrites tõsine ja karm, mis viitab pingelisele vastasseisule. Stseeni dramaatilist olemust rõhutab tekst \"You are not my daughter anymore!\", mis viitab isaga konflikti laadi. Üldine meeleolu on dramaatiline, emotsionaalne ja konfronteeriv.",
+      "actions": [
+        "Mees liigutab rusikat/kätt",
+        "Mees seisab paigal",
+        "Mees vaatab otse kaamerasse",
+        "Mees räägib (teksti põhjal)"
+      ],
+      "keywords": [
+        "Konflikt",
+        "Viha",
+        "Isa",
+        "Tütar",
+        "Must-valge",
+        "Dramaatiline",
+        "Ähvardav",
+        "Siseruum",
+        "Vastasseis",
+        "Perekonnadraama"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Küttepuud (riidas)",
+        "Uks",
+        "Seinad (puidust/paneelidega)",
+        "Traksid",
+        "Särk",
+        "Püksid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080",
+        "#333333",
+        "#CCCCCC"
+      ],
+      "texts": [
+        "You are not my daughter anymore!"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehe näoilme moonutatud ja ta liigutab rusikat, samas kui hilisematel piltidel seisab ta rahulikumalt, ent tõsise ilmega.",
+        "Esimeses kaadris on pildistatud keskplaanis (medium close-up), teistes kaadrites on kasutatud madala nurga alt pikka plaani (long shot), mis näitab tervet meest ja suuremat osa ruumist.",
+        "Subtiiter \"You are not my daughter anymore!\" ilmub ainult kolmandal pildil."
+      ],
+      "snr": "035",
+      "ajad": [
+        "463.080",
+        "470.000"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub keskealisele naisele, kellel on punakaspruun lühike soeng ja kortsud laubal ning silmade all, mis annavad talle mureliku ilme. Tema pilk on suunatud otse kaamerasse, luues intensiivse ja otsese kontakti vaatajaga. Naine kannab heledat, ribilist valget jaki või bleiserit. Ta asub õues, kus taustal on näha rohelist taimestikku (rohumaad ja puid) ning kaugemal heledam hoone, mis võib olla telliskivihoone. Taust on udune, rõhutades fookust naise emotsioonidel ja sõnumil. Taustal liiguvad ka mitmed udused inimfiguurid, mis annab stseenile dünaamilise, kuid kaugema konteksti. Esimeses kaadris on naine käega suu ees, justkui vaigistades või varjates oma reaktsiooni, samas kui järgmistes kaadrites on ta käsi alla lastud ja ta räägib otse, väljendades tugevaid ja süüdistavaid tundeid. Üldine õhkkond on dramaatiline ja pingeline, keskendudes naise sügavale emotsionaalsele seisundile.",
+      "actions": [
+        "Naine vaatab otse kaamerasse",
+        "Naine hoiab käe suu ees (esimeses kaadris)",
+        "Naine räägib või lausub teksti (teises ja kolmandas kaadris)",
+        "Udused figuurid liiguvad taustal"
+      ],
+      "keywords": [
+        "Emotsionaalne",
+        "Dramaatiline",
+        "Süüdistus",
+        "Pinge",
+        "Naine",
+        "Väljas",
+        "Lähivõte",
+        "Dialoog"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Hele jakk/bleiser",
+        "Roheline taimestik",
+        "Hoone",
+        "Udused inimfiguurid"
+      ],
+      "colorcodes": [
+        "#82473a",
+        "#b58d7c",
+        "#e4e4e4",
+        "#60705f",
+        "#9b726c"
+      ],
+      "texts": [
+        "- But...",
+        "- But you're in love with a deporter, a mass murderer. You're carrying the child of a traitor!"
+      ],
+      "persons": [
+        "Keskealine naine",
+        "Udused inimfiguurid taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris hoiab naine oma paremat kätt suu ees, samas kui järgmistes kaadrites on käsi alla lastud.",
+        "Tekstiallkiri muutub: esimeses kaadris on tekstiks \"- But...\", teises ja kolmandas kaadris on tekstiks \"- But you're in love with a deporter, a mass murderer. You're carrying the child of a traitor!\".",
+        "Taustal olevate uduste inimfiguuride asukohad on kaadrite vahel veidi muutunud, mis viitab aja möödumisele või liikumisele stseenis."
+      ],
+      "snr": "036",
+      "ajad": [
+        "470.000",
+        "475.080"
+      ]
+    },
+    {
+      "explanation": "Stseen on filmitud mustvalgelt, luues sünge ja dramaatilise atmosfääri. Kaamera asub madalal, vaadates üles kitsa siseruumi suunas, kus domineerib puidust uks. Esiplaanil on näha kivist või betoonist trepiastmed, mis viivad ukse juurde. Esimeses kaadris on näha meesterahvas, seljas valge särk ja tumedad traksid, kummardunud asendis, kas sisenemas uksest või sealt väljumas. Tema pea jääb kaadrist välja. Samal ajal ilmuvad ekraanile ingliskeelsed subtiitrid, mis edastavad teravaid süüdistusi: \"- But you're in love with a deporter, a mass murderer! You're carrying the child of a traitor!\" (eesti keeles: \"- Aga sa oled armunud küüditajasse, massimõrvarisse! Sa kannad reeturi last!\"). Järgmistes kaadrites on inimene kadunud ja uks on suletud. Ukse kohal on näha sisselülitatud lamp, mis valgustab ukse ülemist osa. Ukse kõrval paremal on hoolikalt laotud puuriit, mis asetseb kivist või betoonist alusel. Seinad on lihtsad, krohvimata või ajast kulunud, andes stseenile karmi ja realistliku ilme. Kogu stseen annab edasi pinget ja konflikti.",
+      "actions": [
+        "Meesterahvas siseneb uksest (või väljub sellest)",
+        "Uks sulgub"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Dramaatiline",
+        "Sünge",
+        "Kelder",
+        "Trepp",
+        "Uks",
+        "Puuriit",
+        "Süüdistused",
+        "Küüditaja",
+        "Reetur",
+        "Pingeline"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Uks",
+        "Trepiastmed",
+        "Puuriit",
+        "Lamp",
+        "Sein",
+        "Traksid",
+        "Särk"
+      ],
+      "colorcodes": [],
+      "texts": [
+        "- But you're in love with a deporter, a mass murderer! You're carrying the child of a traitor!"
+      ],
+      "persons": [
+        "Meesterahvas"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha uksest sisenev või väljuv meesterahvas ja ekraanil on subtiitrid.",
+        "Teisel ja kolmandal pildil on meesterahvas kadunud ning uks on suletud, samuti puuduvad subtiitrid.",
+        "Teine ja kolmas pilt on sisuliselt identsed."
+      ],
+      "snr": "037",
+      "ajad": [
+        "475.080",
+        "479.760"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub keskealisele naisele, kelle lähivõte täidab suurema osa kaadrist. Naine vaatab otse kaamerasse tõsise või mureliku ilmega, suu kergelt avatud, justkui ta räägiks või oleks rääkimas. Tal on lühikesed, punakaspruunid juuksed ja ta kannab heledat (tõenäoliselt valget või kreemjat) triibulist pintsakut heleda särgi peal. Tema näol on märgata mõningaid sünnimärke. Taust on udune ja kujutab õues asuvat stseeni punakaspruuni hoone ja mitme liikuva inimfiguuriga. Üldine valgusküllastus on mahe, viitades pilves päevale. Stseeni õhkkond on tõsine ja dramaatiline, naise otsene pilk on väga esiletõusev.",
+      "actions": [
+        "Naine vaatab otse kaamerasse.",
+        "Naine räägib või on rääkimas.",
+        "Taustal olevad inimesed liiguvad ringi.",
+        "Kaks taustal olevat inimest tegelevad omavahelise füüsilise tegevusega (võimalik, et tantsivad või sooritavad võitluskunsti liigutusi)."
+      ],
+      "keywords": [
+        "Naine",
+        "Lähivõte",
+        "Portree",
+        "Väljas",
+        "Hoone",
+        "Inimesed",
+        "Tõsine",
+        "Kõnelemine",
+        "Punakaspruunid juuksed",
+        "Valge pintsak",
+        "Udune taust",
+        "Pilves ilm"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Pintsak",
+        "Särk",
+        "Hoone",
+        "Aknad",
+        "Maa/murupind"
+      ],
+      "colorcodes": [
+        "#C7A690",
+        "#935B4E",
+        "#F0EDEB",
+        "#643127",
+        "#74776E"
+      ],
+      "texts": [],
+      "persons": [
+        "Keskealine naine",
+        "Mitmed inimesed taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Taustal olevate inimeste asendid ja tegevused muutuvad kaadrite vahel.",
+        "Eriti on näha muutust kahe keskmisel plaanil oleva figuuri vahel, kes sooritavad mingit füüsilist tegevust, näiteks tantsu- või võitluskunsti liigutusi, ja nende asendid nihkuvad kaadrite vahel.",
+        "Naise näoilme ja suu asend varieeruvad kergelt, mis viitab käimasolevale kõnele."
+      ],
+      "snr": "038",
+      "ajad": [
+        "479.760",
+        "482.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest, kellel on pikad hallid juuksed ja lopsakas valge habe. Ta kannab tumedat nokamütsi ja tumedaid riideid. Mehe nägu on kortsuline ja tõsine, isegi kurnatud, ning ühel põsel on näha valget ainet, mis võib olla jahu või mingi märk. Stseeni alguses paistab mees olevat fikseeritud puitraamistiku vahele, mis meenutab häbiposti, ja vaatab otse kaamerasse sügava pilguga. Seejärel näeb teda kandmas õlal pikka heledat puidust plangut, tema pilk on suunatud kõrvale. Lõpuks on ta näha eemaldumas kaamerast, kandes pea ja õlgade peal suurt, majakujulist puitkonstruktsiooni, mis sarnaneb raske koorma või karistusega. Taustal on näha vanu, traditsioonilisi laastukatusega puithooneid ja rohelist muru. Kolmandal kaadril liigub taustal veel üks noorem inimene. Üldine atmosfäär on sünge ja tõsine, vihjates raskele tööle, kohustusele või karistusele maapiirkonnas.",
+      "actions": [
+        "Otse kaamerasse vaatamine",
+        "Puitraamistiku vahel seismine",
+        "Puidust plangu kandmine õlal",
+        "Pea ja õlgade peal puumajakese kandmine",
+        "Eemaldumine kaamerast",
+        "Kurnatud/tõsise ilme näitamine",
+        "Tagaaias kõndimine (noorem inimene)"
+      ],
+      "keywords": [
+        "Vanamees",
+        "Habe",
+        "Puit",
+        "Külaelu",
+        "Raske töö",
+        "Koorem",
+        "Karistus",
+        "Traditsiooniline",
+        "Taluhooned",
+        "Draama",
+        "Süngus",
+        "Maaelu"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Vanamees",
+        "Pikk valge habe",
+        "Hallid juuksed",
+        "Nokamüts",
+        "Tume riietus",
+        "Puidust plank",
+        "Puidust raamistik",
+        "Puidust majake peas/õlgadel",
+        "Puithoone",
+        "Laastukatus",
+        "Roheline muru",
+        "Noorem inimene/laps",
+        "Valge aine põsel"
+      ],
+      "colorcodes": [
+        "#333333",
+        "#E0E0E0",
+        "#A08060",
+        "#606060",
+        "#608060",
+        "#7090B0"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanamees",
+        "Noorem inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Mehe asend ja seos puidust esemetega: esimesel pildil on ta raamistiku sees, teisel kannab pikka plangut õlal ja kolmandal on tema peas suur majakujuline puitehitis.",
+        "Mehe pilgu suund: esimesel pildil vaatab otse kaamerasse, teisel küljele ja kolmandal on näha tema selga, kui ta eemaldub.",
+        "Kaadri kaugus: esimesed kaks pilti on lähi- või poollähiplaanis, kolmas pilt on kaugem kaader, mis näitab rohkem ümbritsevat keskkonda.",
+        "Teiste inimeste olemasolu: esimesel ja teisel pildil pole teisi inimesi näha, kolmandal pildil on taustal näha nooremat inimest."
+      ],
+      "snr": "039",
+      "ajad": [
+        "482.400",
+        "487.600"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud eakat naist, kes vaatab pingsalt kaamera fookusest eemale, pilk on suunatud ülespoole või kaugusesse. Tema näoilme on tõsine ja mõtlik, ilmestatud kortsude ja vanusega. Naise tumedad juuksed on osaliselt lahti ja mõned salgud langevad üle otsaesise. Ta kannab mustrilist riietuseset, millel on näha roosasid, rohelisi ja tumedaid toone, ning mõnes kaadris on peas ka roosa või lilla peapael. Taustal on näha tumedaid, vanu palke, mis viitavad puidust hoonele või palkmajale. Üldine atmosfäär on tõsine ja pisut melanhoolne. Valgus on pehme ja summutatud, andes stseenile veidi desatureeritud toonid.",
+      "actions": [
+        "Vaatamine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Eakas naine",
+        "Mõtlik",
+        "Tõsine",
+        "Vanus",
+        "Kortsud",
+        "Palksein",
+        "Vana maja",
+        "Maalähedane",
+        "Melanhoolne",
+        "Portree"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Palksein",
+        "Riided",
+        "Peapael"
+      ],
+      "colorcodes": [
+        "#302C26",
+        "#9E8474",
+        "#A86F9A",
+        "#7B8C7E",
+        "#2E2E31"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakas naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise pea asendi ja kaldenurga muutused.",
+        "Peapaela nähtavus muutub kaadrite vahel.",
+        "Juuksesalkade asend näo ees on erinev.",
+        "Subtiilsed muutused näoilmes ja pilgu suunas."
+      ],
+      "snr": "040",
+      "ajad": [
+        "487.600",
+        "493.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämaras siseruumis eakat või keskealist naist, kes hoiab käes väikest peeglit ja vaatleb oma peegelpilti. Tema näol on sügav kurbus ja silmad on niisked, vihjates nutmisele või sellele lähedasele seisundile. Tema huuled on veidi avatud, justkui valmistudes rääkima või ohkama. Järgmises hetkes katab naine ehmunult oma suu käega, justkui šokis või püüdes vaigistada ohket või karjet. Tema pilk on endiselt peeglipildis ja emotsioonid intensiivsed. Lõpuks libiseb peegel naise käes allapoole või pöördub eemale, nii et tema nägu ei ole enam selgelt nähtav, vaid kaob fookusest. Paremal pool on näha dekoratiivne valge klaasist lamp, mis heidab stseenile pehmet, sooja valgust, luues intiimse ja melanhoolse õhkkonna. Kogu stseen on täidetud sügava emotsiooni ja vaikse draamaga.",
+      "actions": [
+        "Peeglisse vaatamine",
+        "Kurbuse väljendamine",
+        "Nutmine/nuttu lähedane seisund",
+        "Suu katmine käega",
+        "Šoki väljendamine",
+        "Peegli liigutamine/ära pööramine"
+      ],
+      "keywords": [
+        "Kurbus",
+        "Peegel",
+        "Šokk",
+        "Emotsioon",
+        "Melanhoolia",
+        "Eakus",
+        "Siseruum",
+        "Hämarus",
+        "Vaikus"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Peegel",
+        "Naine",
+        "Käsi",
+        "Laualamp"
+      ],
+      "colorcodes": [
+        "#2F3337",
+        "#EAEAEA",
+        "#A78C7B",
+        "#6C5D53",
+        "#9E8474",
+        "#D3C3A2"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Naise näoilme muutub nukrast/nutusest ehmatunud/šokis olevaks.",
+        "Naise käe asend muutub: esmalt hoiab ta peeglit, siis katab suu ja lõpuks on peegel allapoole liigutatud.",
+        "Naise peegelpilt muutub selgelt nähtavast, siis osaliselt käega varjatuks ja lõpuks uduselt vaevuaimatavaks peegli eemaldumise tõttu."
+      ],
+      "snr": "041",
+      "ajad": [
+        "493.160",
+        "511.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahvatut, keskealist naist, kellel on õlgadeni ulatuvad punakaspruunid juuksed ja tumedad silmaalused, andes talle veidi väsinud või haiglase ilme. Ta kannab valget rüüsidega kraega pluusi. Naine vaatab paremale, kaadri väljapoole, kus on näha udune inimkuju, kes kannab lillat riietust. Ta seisab ilmselt ukseavas või kitsas siseruumis, kus vasakul pool on näha hele, kulunud puidust uksepiit või sein. Valgus on sume, luues veidi kõheda või melanhoolse õhkkonna. Naine väljendab stseeni jooksul erinevaid emotsioone, alates tõsisest või veidi kurvast pilgust kuni peene, pisut salapärase naeratuseni, samuti on näha tema suuliigutust, justkui ta räägiks.",
+      "actions": [
+        "Naine vaatab kellegi poole",
+        "Naine räägib või liigutab suud",
+        "Naine naeratab kergelt"
+      ],
+      "keywords": [
+        "Naine",
+        "Kahvatu",
+        "Väsinud",
+        "Toas",
+        "Salapärane",
+        "Punakaspruunid juuksed",
+        "Valge pluus",
+        "Tumedad silmaalused",
+        "Puit",
+        "Ukseava",
+        "Udune inimkuju"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Valge pluus",
+        "Puidust uksepiit/sein",
+        "Udune inimkuju",
+        "Lilla riietus"
+      ],
+      "colorcodes": [
+        "#B5A297",
+        "#9B5A45",
+        "#F1F1F1",
+        "#655D60",
+        "#A7A69C",
+        "#8A6C8E"
+      ],
+      "texts": [],
+      "persons": [
+        "Keskealine naine",
+        "Teine udune inimkuju"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on naise nägu osaliselt varjatud vasakult poolt, ta pilk on otse ja suu veidi avatud.",
+        "Teisel pildil on naise nägu täielikult nähtav, suu on kergelt avatud, justkui ta räägiks või reageeriks.",
+        "Kolmandal pildil on naise nägu täielikult nähtav, tema suu on suletud ja ta naeratab peenelt, andes talle salapärase ilme."
+      ],
+      "snr": "043",
+      "ajad": [
+        "523.040",
+        "527.000"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub vanemale naisele siseruumides, tõenäoliselt köögis, kus valgus on summutatud ja üldine õhkkond mahe ning veidi melanhoolne. Naine kannab peas roosakas-punast mustriga rätikut, seljas värvilist mustrilist pluusi või kleiti ja valget põlle. Tema nägu on kortsuline ning väljendab sügavaid emotsioone. Stseeni arenedes muutub naise näoilme tõsisest ja kuulamisvalmist (pilk kergelt allapoole suunatud) üha emotsionaalsemaks ja avatumaks – tema silmad vaatavad ülespoole ning suu on kergelt avatud, vihjates murele, üllatusele, kurbusele või sügavale mõtisklusele. Tagaplaanil on näha vanamoelisi puitriiuleid, millel seisavad purgid ja nõud, ning esiplaanil ja taustal on hägused inimkujud, mis viitab teistele stseenis viibijatele. Ühes kaadris on näha ka subtiitreid, mis annavad edasi osa dialoogist.",
+      "actions": [
+        "Naine vaatab üles",
+        "Naine reageerib emotsionaalselt",
+        "Naine kuulab",
+        "Naine räägib (implitsiitselt subtiitrite kaudu)"
+      ],
+      "keywords": [
+        "Vanem naine",
+        "Emotsionaalne",
+        "Siseruum",
+        "Köök",
+        "Melanhoolne",
+        "Murelik",
+        "Rustikaalne",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Pearätt",
+        "Mustriline pluus",
+        "Valge põll",
+        "Puidust riiulid",
+        "Purgid",
+        "Nõud",
+        "Hägused inimkujud"
+      ],
+      "colorcodes": [
+        "#C49191",
+        "#6D7F6B",
+        "#DBDDDB",
+        "#808D88",
+        "#9E746F"
+      ],
+      "texts": [
+        "These are things that are usually left untold but..."
+      ],
+      "persons": [
+        "Vanem naine",
+        "Teised hägused inimkujud"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaadrite fookus nihkub naise üldisemalt kujult (medium shot) üha detailsemaks lähivõtteks tema näost (close-up).",
+        "Naise näoilme muutub esimeselt pildilt, kus ta on tõsine ja ilmselt kuulab, edasi üha emotsionaalsemaks ja avatumaks, pilguga ülespoole ja avatud suuga.",
+        "Subtiitrid ilmuvad teisel pildil, andes aimu stseeni dialoogist.",
+        "Tagaplaanil ja esiplaanil olevad teised hägused inimkujud muutuvad järjest vähem märgatavaks, kuna kaadrid keskenduvad naisele lähemalt."
+      ],
+      "snr": "044",
+      "ajad": [
+        "527.000",
+        "563.600"
+      ]
+    },
+    {
+      "explanation": "Stseen algab süngelt ja pimedalt talvise öise maastikuga, kus paljad puud ja lumine maapind loovad kõleda atmosfääri. Kauguses helendab üksik, nõrk valguspunkt, mis vihjab mõnele hoonele pimeduses. Seejärel liigub kaameranurk siseruumidesse, kus valitseb sügav pimedus, mis varjab enamiku detaile. Ainus selgelt eristuv element on ekraanil kuvatav tekst, mis kirjeldab julma hukkamist – inimesed viidi põllule ja lasti maha üksteise järel. Lõpuks keskendub stseen detailsemalt siseruumile, näidates sõjaväeriietuses isikut, kes hoiab käes vintpüssi. Tagaplaanil on näha köögile iseloomulikke esemeid, nagu potid ja kausid. Seda kaadrit saadab veelgi õõvastavam tekst, mis kirjeldab kohutavat vägistamisakti köögilaual isa silme all. Üldine atmosfäär on äärmiselt rõhuv, sünge ja täis ajaloolise vägivalla traagikat.",
+      "actions": [
+        "Viimine põllule ja mahalaskmine",
+        "Vägistamine köögilaual",
+        "Püssi käes hoidmine"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Talv",
+        "Öö",
+        "Vägivald",
+        "Sõda",
+        "Atroophia",
+        "Vintpüss",
+        "Köök",
+        "Ajalooline",
+        "Kuritegu",
+        "Hirm",
+        "Meeleheide",
+        "Tragöödia",
+        "Mustvalge"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor or outdoor",
+      "objects": [
+        "Puud",
+        "Lumi",
+        "Valgus (aknast/hoonest)",
+        "Vintpüss",
+        "Potid",
+        "Kausid",
+        "Riiulid",
+        "Köögilaud",
+        "Mööbel",
+        "Sõjaväeriietus/mantel"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [
+        "They were taken to the field and shot one after another.",
+        "The shoemaker's daughter was raped on the kitchen table in front of her own father."
+      ],
+      "persons": [
+        "Vintpüssi hoidev isik (sõdur/agressor)",
+        "Ohvrid (mahalastud, kingsepa tütar, tema isa)",
+        "Võimalikud nähtamatud agressorid"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Üleminek välisvaatelt sisevaatele",
+        "Kaamerafookuse muutus laiemast plaanist detailsemale lähivõttele",
+        "Visuaalsete detailide hulk ja selgus suureneb stseeni edenedes",
+        "Teksti/subtiitrite ilmumine annab narratiivile konteksti ja õudust",
+        "Esimene kaader loob üldise sünge keskkonna, hilisemad kaadrid koos tekstidega toovad esile selle keskel toimuvad julmused."
+      ],
+      "snr": "045",
+      "ajad": [
+        "563.600",
+        "595.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sünget ja äärmiselt pingelist olukorda, mis edastatakse kolme järjestikuse kaadri kaudu, kõik esitatud kontrastses mustvalges toonis. Visuaalselt domineerib kaadritel osaliselt nähtav figuur, riietatud raskesse, tumedasse, potentsiaalselt militaarsesse mantlisse. Figuuri käed on ees kokku pandud, edastades tõsidust, kontrolli või alistumist. Taust on vaevumärgatavalt valgustatud, paljastades jämedaid puitplanke, mis viitavad tagasihoidlikule või mahajäetud keskkonnale. Valgus-varju mäng loob sügava, rõhuva meeleolu. Stseeni narratiivset sisu täiendavad ekraanil kuvatavad tekstid, mis kirjeldavad äärmiselt traagilisi ja vägivaldseid sündmusi: kingsepa tütre vägistamist tema isa silme all ja seejärel isa sunnitud tegu oma tütre vastu. Visuaalne materjal kulmineerub täielikult musta ekraaniga, mis on ilma teksti või pildita, rõhutades kirjeldatud õuduste jõhkrat lõpp-punkti või edasiantavate sündmuste mõistetamatust. Figuuri asend ja riietus viitavad autoriteedile või otsesele seosele kirjeldatud süngete sündmustega.",
+      "actions": [
+        "Seisab paigal",
+        "Käed on ees kokku pandud (positsioon)"
+      ],
+      "keywords": [
+        "Sünge",
+        "Pingeline",
+        "Mustvalge",
+        "Tragöödia",
+        "Vägivald",
+        "Mantel",
+        "Puitkonstruktsioon",
+        "Varjud",
+        "Kuritegu",
+        "Raskus",
+        "Hirm",
+        "Ahastus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Mantel",
+        "Käed",
+        "Puitkonstruktsioon"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#303030",
+        "#606060",
+        "#A0A0A0",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "The shoemaker's daughter was raped on the kitchen table in front of her own father.",
+        "Then he was ordered to hit his own daughter."
+      ],
+      "persons": [
+        "Tundmatu isik (tumedas mantlis)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 53,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel kaadril on isiku käed selgelt nähtavad ees kokku panduna, teisel kaadril on käed vähem selgelt eristatavad.",
+        "Esimesel kaadril on kuvatud esimene narratiivne tekstiosa, teisel kaadril teine narratiivne tekstiosa.",
+        "Kolmas kaader on täielikult must ekraan, millel puuduvad nii visuaalsed elemendid kui ka tekst, erinevalt kahest eelmisest kaadrist."
+      ],
+      "snr": "046",
+      "ajad": [
+        "595.400",
+        "619.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte naist, kes istuvad teineteise kõrval siseruumis. Vasakpoolne naine on keskealine, tal on punakaspruun lühike soeng ja ta kannab heledat (kreemjasvalget) volangidega kraega pluusi. Tema näol on tumedad silmaalused, mis annavad talle veidi väsinud või mureliku ilme. Tema pilk on enamasti suunatud otse ette, kaamerasse, kuid ühes kaadris on näha kerget naeratust, mis peegeldub ka tema pilgus. Parempoolne naine on vanem, tal on peas värviline rätik, millel on roosad, sinised ja pruunid lehe- või lillemustrid. Ta kannab ka mustrilist pluusi või kleiti rohelistes, sinistes ja roosades toonides, mille peal on heledam põllelaadne riideese. Tema kaelas on näha ehe. Tema ilme muutub tõsisemast ja veidi trotslikust pehmemaks ja naeratavamaks, vaadates ühes kaadris õrnalt vasakpoolse naise poole. Taustaks on näha sumedates toonides mustriline tapeet või seinavaip, millel on stiliseeritud sinakashallid ja pruunikad ornamendid heledamal taustal, vihjates ehk traditsioonilisele või vanamoelisele kodusele keskkonnale. Valgus on pehme, luues intiimse ja veidi melanhoolse atmosfääri. Stseen jäädvustab ilmselt kahe generatsiooni esindajaid koos, pakkudes vaatajale pilku nende suhte dünaamile ja emotsioonidele.",
+      "actions": [
+        "Naised istuvad",
+        "Naised vaatavad kaamerasse",
+        "Vanem naine pöörab pilgu noorema naise poole",
+        "Naised naeratavad kergelt"
+      ],
+      "keywords": [
+        "Naised",
+        "Portree",
+        "Siseruum",
+        "Generatsioonid",
+        "Traditsiooniline",
+        "Melanhoolne",
+        "Emotsioonid",
+        "Kodu",
+        "Side",
+        "Vanus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Pluus",
+        "Rätik",
+        "Kleidiosa/pluus",
+        "Põll",
+        "Kaelakee",
+        "Seinavaip/tapeet"
+      ],
+      "colorcodes": [
+        "#E6E6E6",
+        "#8C473C",
+        "#D697C1",
+        "#6B7EA3",
+        "#4C3737",
+        "#7C9F7F",
+        "#B57F9B",
+        "#4A6372",
+        "#8B8B8B",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Keskealine naine",
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on mõlema naise ilme tõsisem ja vasakpoolne naine vaatab otse kaamerasse kerge murega. Parempoolne naine vaatab samuti otse ette, veidi trotsliku näoga.",
+        "Teisel pildil on vasakpoolse naise näol näha kerget naeratuse alget, samal ajal kui parempoolse naise pilk ja ilme on jäänud peaaegu samaks kui esimesel pildil.",
+        "Kolmandal pildil on vasakpoolse naise näol selgem ja soojem naeratus ning ta vaatab samuti otse ette. Parempoolne naine on pööranud oma pilgu ja näo vasakpoolse naise poole ning tema näol on kerge ja soe naeratus, mis viitab meeldivale interaktsioonile."
+      ],
+      "snr": "048",
+      "ajad": [
+        "676.120",
+        "712.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab intiimset siseruumi hetke kahe naise vahel, mis on jäädvustatud mitme lähivõttega, rõhutades nende nägusid ja emotsioone. Valgus on hämar ja hajutatud, luues sumeda, kergelt melanhoolse atmosfääri, kus domineerivad jahedad hallid, sinakad ja pruunikad toonid. Esimesel plaanil on vanem naine, kel on lahke, ent pisut väsinud naeratus. Ta kannab mustrilist pluusi, pearätti ja põlle ning vaatab õrnalt teise, noorema või kesk-eas naise poole, kelle selg ja õlg on näha, vihjates lähedasele vestlusele või hetkele. Järgmised kaadrid keskenduvad intensiivselt teise naise näole, tuues esile tema punakaspruunid, lõuani ulatuvad juuksed, kahvatu jume ning silmatorkavad tumedad ringid või plekid silmade all, mis annavad edasi väsimuse, kurbuse või haavatavuse tunde. Tema peen naeratus viitab keerulisele emotsionaalsele seisundile. Viimane võte on äärmuslik lähivõte tema silmadest, tõmmates tähelepanu pilgu sügavusele ja silmaalustele aladele, võimendades väsimuse ja väljaütlemata emotsioonide tunnet. Stseen edastab vaikse, isikliku hetke, mis on täis vaoshoitud emotsioone ja vihjet jagatud kogemusele või raskustele.",
+      "actions": [
+        "Naised vaatavad teineteisele otsa",
+        "Naised naeratavad"
+      ],
+      "keywords": [
+        "Lähivaade",
+        "Portree",
+        "Siseruum",
+        "Naised",
+        "Rahulik",
+        "Mõtlik",
+        "Haavatavus",
+        "Halltoonid",
+        "Emotsioon",
+        "Väsinud",
+        "Südamlik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naised",
+        "Riided",
+        "Pearätt",
+        "Põll",
+        "Taust"
+      ],
+      "colorcodes": [
+        "#4a5c54",
+        "#8a6c5b",
+        "#c0b3a7",
+        "#2a2c2e",
+        "#e0e0e0"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem naine",
+        "Noorem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide fookus muutub, liikudes kahe naise interaktsioonilt esimese naise näole ja lõpuks teise naise silmadele.",
+        "Esimesel pildil on näha kaks inimest, teistel kahel pildil on fookuses üks inimene.",
+        "Kaadrid muutuvad lähivaatest veelgi intiimsemaks, jõudes äärmusliku lähivaateni.",
+        "Esimesel pildil on vanema naise nägu laiemalt näha, tema naeratus on selgem. Teistel piltidel on teise naise nägu näha, detailid tema silmade ümber on esile toodud."
+      ],
+      "snr": "049",
+      "ajad": [
+        "712.760",
+        "726.360"
+      ]
+    },
+    {
+      "explanation": "Stseen on jäädvustatud esimese isiku vaatest, kus kaamera on suunatud otse alla maapinnale ja kätele. Tegemist on monokroomse pildiga, kus domineerivad tumedad mullatooni hallid toonid ja heledad riietuse ning käte esiletõstud. Keskmes on käed, mis on riietatud heleda, ilmselt valge, pikkade varrukatega pluusiga ning mis interakteeruvad sügavalt mullase pinnasega. Maapind on kaetud tumeda, tiheda mullaga, millest paistavad välja juured ja üksikud taimeosad. Käed on tegevuse käigus üha enam mullaga kaetud, viidates aktiivsele kaevamisele, surumisele või mulla uurimisele. Stseen loob mulje intensiivsest ja füüsilisest kontaktist maaga, võimalik, et meeleheitlikust otsingust või matmisest. Ühel hetkel on pildil näha ka udune, helendav valge objekt, mis lisab stseenile salapära.",
+      "actions": [
+        "Mulla kaevamine",
+        "Käte mulda surumine",
+        "Maapinna kompamine",
+        "Käte määrimine"
+      ],
+      "keywords": [
+        "Muld",
+        "Käed",
+        "Kaevamine",
+        "Mustus",
+        "Monokroomne",
+        "Loodus",
+        "Esimese isiku vaade",
+        "Mets",
+        "Juured"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Käed",
+        "Valge särk/pluus",
+        "Muld",
+        "Juured",
+        "Hägune valge objekt"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#363636",
+        "#909090",
+        "#DEDEDE"
+      ],
+      "texts": [],
+      "persons": [
+        "Isik (käte omanik)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Käte mustuse aste: Esimesel pildil on käed vähem määrdunud, kolmandal pildil on käed kõige rohkem mullaga kaetud, viidates tegevuse jätkumisele.",
+        "Pildi teravus ja liikumine: Teine pilt on liikumise tõttu hägune, samas kui esimene ja kolmas pilt on teravad ja detailsed, tabades tegevuse erinevaid faase – alustamine, liikumine ja paigale jäämine/lõpetamine.",
+        "Kompositsioon ja asend: Esimesel pildil on käed suunatud sügavale mulda, teisel pildil näivad käed olevat kiirustades maasse surutud, kolmandal pildil on käed lamedalt maas, otsekui oleks töö lõpetatud või hetkeks peatatud.",
+        "Lisadetail: Teisel pildil on paremas ülanurgas näha hägune valge objekt, mis teistel piltidel puudub."
+      ],
+      "snr": "050",
+      "ajad": [
+        "726.360",
+        "767.240"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud vanemat naist, kellel on punakaspruunid juuksed, kahvatu jume ja silmatorkavad tumedad silmaalused. Ta lamab tagasihoidlikult sisustatud ja hämaras toas voodis, rohelise lillemustriga padjal. Alguses on naine näha rahulikult magamas, silmad suletud. Seejärel ärkab ta järsult, silmad lahti, näoilme murelik ja üllatunud, istudes voodis püsti. Hiljem on ta nähtav rahulikumalt istumas, käes väike heledat värvi karp, millele on ere roosa kirjaga trükitud tekst \"FREE WORLD\". Tuba on tagasihoidlik, taustal paistab mustriline kangas või tapeet ja voodil roheline tekk. Üldine valgustus on summutatud, luues süngelt vaikse atmosfääri, mis viitab kas öisele ajale või püsivalt pimedale ruumile.",
+      "actions": [
+        "Magamine",
+        "Ärkamine",
+        "Püsti istumine",
+        "Mureliku pilguga vaatamine",
+        "Kasti hoidmine",
+        "Mõtlik olek"
+      ],
+      "keywords": [
+        "Eakas naine",
+        "Voodi",
+        "Magamistuba",
+        "Hämarus",
+        "Ärkvelolek",
+        "Mure",
+        "Mõtisklus",
+        "Karp",
+        "Vaba maailm",
+        "Sünge",
+        "Vaikus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Voodi",
+        "Padi",
+        "Tekk",
+        "Särk",
+        "Karp",
+        "Seinakangas",
+        "Pitsiline laudlina"
+      ],
+      "colorcodes": [
+        "#2B2B2B",
+        "#C9B2A8",
+        "#9E4D3E",
+        "#EAEAEA",
+        "#95AE9E",
+        "#F040C0",
+        "#C8B190",
+        "#4C5F56"
+      ],
+      "texts": [
+        "FREE WORLD"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Naine on esimesel pildil magavas asendis, silmad suletud, teistel piltidel istuvas asendis ja silmad lahti.",
+        "Naine muudab oma näoilmet: alguses rahulik, seejärel murelik/üllatunud ning lõpuks mõtlik.",
+        "Kahel esimesel pildil ei ole karpi näha, samas kui viimasel pildil hoiab naine karpi kirjaga \"FREE WORLD\" käes.",
+        "Ruumi detailsus ja valgustus muutuvad: viimasel pildil on ruum veidi heledam ja rohkem detaile, nagu pitsiline laudlina ja seina muster, on nähtavad, võrreldes esimeste hämaramate kaadritega."
+      ],
+      "snr": "051",
+      "ajad": [
+        "767.240",
+        "819.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab õues toimuvat seltskondlikku sündmust, tõenäoliselt pidu või koosviibimist vanade puitmajadega maalähedases keskkonnas. Pildil on näha mitmeid inimesi, peamiselt naisi traditsioonilistes või vanamoodsetes rõivastes, sealhulgas pearätikute ja põlledega. Esikohal on heledas mustrilises kleidis ja valge pearätikuga naine, kes kannab kahel käel suurt vaagnat pirukate või saiakestega. Tema taga ja kõrval on teised naised, samuti taldrikute või vaagnatega, mis sisaldavad suupisteid. Üks neist kannab tumedat kübarat ja pärlikeed. Taustal on näha rohelist muru, tumedaid puitmaju ja isegi mõned inimesed, sealhulgas paar, kes paistab tantsivat või kallistavat. Ühe hoone külge on kinnitatud valge riidest girland. Üldine valgus on pigem hämar ja toonid on sünged või desatureeritud, andes stseenile veidi nostalgilise või tõsise tunde. Õhkkond on maalähedane ja kogukondlik.",
+      "actions": [
+        "Toit kandmine",
+        "Liikumine",
+        "Kallistamine/tantsimine",
+        "Seltskondlik suhtlemine"
+      ],
+      "keywords": [
+        "Maalähedane",
+        "Pidu",
+        "Koosviibimine",
+        "Traditsiooniline",
+        "Naised",
+        "Suupisted",
+        "Vanamoodne",
+        "Õues"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Naised",
+        "Mehed",
+        "Taldrikud/vaagnad",
+        "Pirukad/saiakesed",
+        "Puitmajad/aidad",
+        "Muru",
+        "Pearätikud",
+        "Põlled",
+        "Kübar",
+        "Pärlikee",
+        "Valge girland",
+        "Kivimüür"
+      ],
+      "colorcodes": [
+        "#3e3e3e",
+        "#455a40",
+        "#c8c8c8",
+        "#a0a295",
+        "#5e4f4f"
+      ],
+      "texts": [],
+      "persons": [
+        "Naised (mitu)",
+        "Mehed (kaks)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Kaamera vaatenurk ja kaugus muutuvad, liikudes kaugemalt (laiem kaader) lähemale (keskmine lähivõte) peategelasest.",
+        "Erinevates kaadrites on inimesed pisut erinevates positsioonides ja liikumisfaasides, eriti taustal olevad isikud.",
+        "Teatud detailid, nagu saiakesed taldrikul ja inimeste näoilmed, on lähikaadrites selgemad ja detailsemad."
+      ],
+      "snr": "052",
+      "ajad": [
+        "819.720",
+        "824.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maaelu või kogukonna elu päikesepaistelisel päeval, liikudes vaiksemast momendist elavamaks koosviibimiseks. Alguses on neli poissi varjus, puithoone lähedal, süvenenud ajakirja lugemisse. Kaks neist hoiavad avatud ajakirja, millel on näha tekst 'IRVIX', samal ajal kui kolmas poiss osutab sellele. Üks poiss kannab halli mustrilist kampsunit, teine ruudulist särki ja mütsi. Seejärel avardub vaateväli, näidates õues liikuvaid täiskasvanuid; üks mees kannab midagi, teine embab naist. Stseeni haripunktiks on rõõmsameelne pidustus või koosviibimine sama puitmaja ees, mis on kaunistatud valgete riidega. Seal mängib noor mees energiliselt akordionit, kandes valget särki ja mütsi, samal ajal kui tüdruk viiulit mängib. Taustal on näha teisi inimesi, kes tantsivad ja suhtlevad, luues piduliku ja elava atmosfääri. Üldine tegevus toimub välitingimustes, rohelise muru ja lehtpuude keskel, traditsiooniliste puitkonstruktsioonide taustal.",
+      "actions": [
+        "Ajakirja lugemine",
+        "Vestlemine",
+        "Žestikuleerimine",
+        "Kõndimine",
+        "Kallistamine",
+        "Akordioni mängimine",
+        "Viiuli mängimine",
+        "Tantsimine",
+        "Suhtlemine"
+      ],
+      "keywords": [
+        "Maaelu",
+        "Kogukond",
+        "Pidu",
+        "Lapsed",
+        "Muusika",
+        "Ajalooline",
+        "Välitingimused",
+        "Puitmajad",
+        "Traditsiooniline",
+        "Sotsiaalne",
+        "Rõõm"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Ajakiri",
+        "Puitmajad",
+        "Akordion",
+        "Viiul",
+        "Mütsid",
+        "Kampsun",
+        "Ruuduline särk",
+        "Kleidid",
+        "Valge kangas/riie"
+      ],
+      "colorcodes": [
+        "#282828",
+        "#557733",
+        "#B5A07E",
+        "#E0E0E0",
+        "#8B4513",
+        "#F5DEB3"
+      ],
+      "texts": [
+        "IRVIX"
+      ],
+      "persons": [
+        "Neli poissi",
+        "Mehed",
+        "Naised",
+        "Tüdrukud",
+        "Muusikud"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Valgustus: Esimene pilt on varjulisem ja tumedama tooniga, samas kui teised kaks on eredama päevavalgusega.",
+        "Meeleolu: Esimene pilt on tõsisem ja keskendunum, teised kaks on rõõmsameelsemad ja pidulikumad.",
+        "Tegevus: Esimene pilt keskendub ajakirja lugemisele, teine liikumisele ja embamisele ning kolmas muusikale ja tantsule.",
+        "Inimeste arv ja fookus: Esimene pilt näitab nelja poissi lähedalt. Teises ja kolmandas pildis on rohkem inimesi, kohati fookus muusikutel või laiemal tegevusel."
+      ],
+      "snr": "053",
+      "ajad": [
+        "824.160",
+        "835.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab välisõhus toimuvat muusikaesinemist maalähedases keskkonnas. Esiplaanil ja keskplaanil on näha kahte meest, kes mängivad muusikainstrumente. Üks mees, kellel on peas müts ja pikkade põskhabemetega nägu, mängib pasunat, mis näib olevat bariton või eufoonium. Tema käed hoiavad pilli, mille teatud osad on musta teibiga kaetud, ja ta suunab suu instrumendi huuliku poole. Teine mees, kes kannab heledat pikavarrukat särki, mängib kontrabassi. Tema on veidi tagapool, paremal pool kaadris. Mõlema mehe riietus on lihtne ja igapäevane. Taustal on näha rohelist muru, puid ja vana puidust hoonet. Paremal kaugemal on näha veel inimesi ja valget nööri, mis võib tähistada piirkonda või olla dekoratsioon. Üldine atmosfäär on päikeseline ja maalähedane, viitades suvisele vabaõhuüritusele.",
+      "actions": [
+        "Muusika mängimine",
+        "Pasuna mängimine",
+        "Kontrabassi mängimine",
+        "Bändi esinemine",
+        "Väljas viibimine"
+      ],
+      "keywords": [
+        "Muusikud",
+        "Bänd",
+        "Vabaõhuüritus",
+        "Kontsert",
+        "Puitmaja",
+        "Maalähedane",
+        "Suvi",
+        "Pillid",
+        "Pasun",
+        "Kontrabass",
+        "Rahvapidu",
+        "Päikseline"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Pasun",
+        "Kontrabass",
+        "Müts",
+        "Särk",
+        "Puu",
+        "Rohi",
+        "Puitmaja",
+        "Nöör",
+        "Teip",
+        "Põskhabe"
+      ],
+      "colorcodes": [
+        "#E0E0E0",
+        "#B8860B",
+        "#4B2B0A",
+        "#4F6D38",
+        "#5A5A4A",
+        "#A0C0D0",
+        "#6B5B4B"
+      ],
+      "texts": [],
+      "persons": [
+        "Muusik (pasunaga)",
+        "Kontrabassist",
+        "Mehed",
+        "Teised inimesed taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Kaamera nurk ja kaugus subjektidest muutuvad pisut, andes erinevates kaadrites fookust teistele detailidele.",
+        "Esimesel pildil on pasunat mängiv muusik kõige enam esiplaanil ja fookuses, pakkudes detailsemat vaadet tema näole ja instrumendile.",
+        "Hilisemates piltides on kaader laiem, näidates rohkem kontrabassisti ja taustal olevat puidust hoonet ning teisi inimesi.",
+        "Kuigi üldine valgustus ja setting jäävad samaks, on kaadrite vahel väikesi nihkeid inimeste ja esemete positsioonides ning nähtavuses."
+      ],
+      "snr": "054",
+      "ajad": [
+        "835.480",
+        "838.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab esiplaanil musta värvi kana, kellel on erepunane hari ja lõualotud. Kana on fookuses ja vaatab vasakule, pilk veidi kaadri serva poole suunatud. Tema sulestik on tumemust ning tundub kohati niiske või veidi sassis. Taustal on näha mitmete inimeste jalgu ja jalatseid, mis viitavad rahvahulgale või inimeste kohalolekule. Jalas on erinevat tüüpi jalanõud: tumepruunid nöörsaapad, heledad saapad või kingad, tumedad kummikud ning helesinised kalossid või jalanõud. Maapind on porine, märg ja ebaühtlane, mis viitab õues viibimisele, tõenäoliselt farmis, taluhoovis või mingis vabas õhus olekus. Üldine toon on maalähedane ja veidi süngelt hall, mis loob realistliku ja pisut karmi atmosfääri.",
+      "actions": [
+        "Kana vaatab",
+        "Inimesed seisavad",
+        "Inimesed liiguvad"
+      ],
+      "keywords": [
+        "Kana",
+        "Must kana",
+        "Punane hari",
+        "Linnuliha",
+        "Taluloom",
+        "Õu",
+        "Farm",
+        "Pori",
+        "Mudane",
+        "Jalad",
+        "Saapad",
+        "Inimesed",
+        "Hall ilm",
+        "Maaelu",
+        "Vabas õhus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kana",
+        "Inimeste jalad",
+        "Saapad",
+        "Kingad",
+        "Kummikud",
+        "Pori",
+        "Muld"
+      ],
+      "colorcodes": [
+        "#1E1E1E",
+        "#D93F3E",
+        "#6F4E38",
+        "#F0F0F0",
+        "#4A4A4A",
+        "#4A8ED4"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimesed (näha vaid jalad)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kana pea asend muutub kergelt kaadrite vahel, viidates vähesele liikumisele või perspektiivimuutusele.",
+        "Taustal olevate inimeste jalgade ja jalanõude paigutus ning nähtavus muutub pisut igas kaadris, andes edasi pideva liikumise tunde."
+      ],
+      "snr": "055",
+      "ajad": [
+        "838.720",
+        "842.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab elavat õues toimuvat pidu või koosviibimist, tõenäoliselt suveõhtul, maja tagahoovis või maapiirkonnas. Paljud inimesed, nii täiskasvanud kui ka lapsed, on kogunenud tantsima ja seltsima. Esialgsetel kaadritel on näha mitu tantsivat paari, kes keerlevad ümber oma telje või hoiavad üksteisel kätest, luues dünaamilise ja rõõmsa atmosfääri. Taustal paistab tumedates toonides hoone valgustatud akendega ja pesunöörid rippuvate riietega. Stseeni arenedes nihkub kaamera sügavamale rahvahulka, paljastades rohkem inimesi ja detaile, näiteks laua jookide ja toiduga. Üldine atmosfäär on rõõmus ja sotsiaalne. Mõned inimesed hoiavad käes pudeleid, mis viitab joogile. Riided on mitmekesised, hõlmates triibulisi särke, teal-toonis kleite ja tumedaid rõivaid, andes stseenile veidi nostalgilise või ajatu hõngu.",
+      "actions": [
+        "tantsimine",
+        "suhtlemine",
+        "vestlemine",
+        "jookide hoidmine",
+        "koosviibimine",
+        "keerlemine",
+        "pidutsemine"
+      ],
+      "keywords": [
+        "pidu",
+        "tants",
+        "õhtu",
+        "seltskond",
+        "õues",
+        "suvi",
+        "maal",
+        "koosviibimine",
+        "rõõmus",
+        "liikuv",
+        "nostalgiline"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "pesunöörid",
+        "riided",
+        "maja",
+        "pudelid",
+        "klaasid",
+        "laud",
+        "inimesed"
+      ],
+      "colorcodes": [
+        "#336666",
+        "#A0A080",
+        "#E0E0E0",
+        "#800000",
+        "#303030",
+        "#C8A2C8"
+      ],
+      "texts": [],
+      "persons": [
+        "täiskasvanud",
+        "lapsed",
+        "mehed",
+        "naised",
+        "tantsijad",
+        "peolised"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "summer",
+      "daytime": "evening",
+      "differences": [
+        "Kaameranurk ja fookus muutuvad, liikudes mööda rahvahulka vasakult paremale.",
+        "Esimene pilt keskendub ühele tantsivale paarile esiplaanil, mille taga on näha teisi peolisi ja tausta.",
+        "Teine pilt nihkub paremale, tuues esile uusi nägusid ja detaile, näidates laiemat tantsivat seltskonda.",
+        "Kolmas pilt näitab veelgi enam detaile sotsiaalsest tegevusest, fookus nihkub paremale ja tagumiste inimeste peale, paljastades ka taustal oleva laua jookide ja toiduga, ning rohkem inimesi suhtlemas."
+      ],
+      "snr": "056",
+      "ajad": [
+        "842.640",
+        "858.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab emotsionaalset ja pidulikku väljas toimuvat koosviibimist, mis on tõenäoliselt pulmapidu. Tegevus toimub traditsioonilise tumeda puitmaja taustal. Pikal valge linaga kaetud laual on rikkalik valik toite, sealhulgas kartuleid, liha, muna- ja salatitoite, ning jooke klaasides, millest mõned on iseloomulikult roosa värvusega. Külalised, kelle hulgas on nii vanemaid mehi kui ka naisi, on riietatud pidulikult – näha on ülikondi, kübaraid ja pearätte. Meeleolu on mitmekesine: mõned inimesed naeravad ja vestlevad elavalt, samal ajal kui üks naine pühib pisaraid, viidates sügavatele emotsioonidele. Ühel hetkel suudlevad pruut ja peigmees, kes on riietatud valgesse pulmakleiti ja ülikonda. Maja ümber on märgata kaunistuseks riputatud värvilisi linte. Taustal paistavad raagus puud pilves taeva all, viitades kas varakevadele või hilissügisele. Maja ise on vana, laastukatusega ja sellele on toetatud redel, mis annab aimu majapidamistöödest või ettevalmistustest. Rohi on roheline, kuid puudel lehti pole, mis kinnitab jahedamat aastaaega.",
+      "actions": [
+        "Söömine",
+        "Joomine",
+        "Vestlemine",
+        "Naermine",
+        "Nutt",
+        "Pisarate pühkimine",
+        "Suudlemine (pruut ja peigmees)",
+        "Vaatlemine",
+        "Hoones liikumine (kaadris on näha redel katusel)"
+      ],
+      "keywords": [
+        "Pulmapidu",
+        "Perekond",
+        "Pidustus",
+        "Välitingimustes",
+        "Traditsioonid",
+        "Maaelu",
+        "Puitmaja",
+        "Emotsioonid",
+        "Kogunemine",
+        "Söömaaeg"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Inimesed",
+        "Puidust maja",
+        "Laud",
+        "Toolid",
+        "Toidunõud",
+        "Klaasid",
+        "Pudelid",
+        "Toit (kartulid, liha, munad, salatid, puuviljad)",
+        "Joogid (roosad, läbipaistvad)",
+        "Pruudi loor",
+        "Redel",
+        "Kübarad",
+        "Peakatted (valged rätikud)",
+        "Ehted (kaelakeed)",
+        "Värvilised lindid/kaunistused",
+        "Raagus puud",
+        "Muru"
+      ],
+      "colorcodes": [
+        "#442C28",
+        "#F5F5F5",
+        "#E49CAF",
+        "#57807D",
+        "#A08AB2",
+        "#4A5B6B",
+        "#E6D2A8",
+        "#F8F8F8",
+        "#C9A690",
+        "#6B7B61"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanemad naised",
+        "Vanemad mehed",
+        "Pruut",
+        "Peigmees",
+        "Külalised"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesed kaks kaadrit keskenduvad inimestele ja laual toimuvale sündmusele, kolmas kaader aga majale ja ümbrusele.",
+        "Emotsionaalne toon erineb: esimene kaader näitab pigem tõsiseid ja kaasatud näoilmeid, samas kui teine kaader tabab intensiivsemaid emotsioone, sealhulgas nuttu ja pruutpaari suudlust.",
+        "Pruut ja peigmees on selgelt näha ainult teises kaadris.",
+        "Perspektiiv ja kaadri nurk erinevad: esimesed kaks on keskmised kaadrid lauast, kolmas on lai, pisut alt üles võetud kaader majast ja taevast.",
+        "Taeva ja tagaplaani osakaal erineb: esimesed kaks kaadrit näitavad maja tagaplaanil, kolmas kaader sisaldab oluliselt rohkem taevast ja raagus puid."
+      ],
+      "snr": "057",
+      "ajad": [
+        "858.640",
+        "904.760"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset väljas maapiirkonnas või külas. Rohelised haljasalad, puud ja traditsioonilised puitmajad moodustavad tausta. Stseeni keskmes on punakaspruunide juustega naine, kes kannab heledat (valget või kreemikat) pika varrukaga, satsidega pluusi ja seelikut. Algselt kõnnib ta rohtunud maastikul, hoides käes heledat raamatut või karpi, millele on roosas kirjas trükitud \"FREE WORLD\". Tema pilk on suunatud üles, justkui mõtiskledes. Hiljem on ta samasuguses keskkonnas, hoides käes tavalist helepruuni kasti. Taustal on näha rohkem inimesi ja elu – mees ruudulises särgis ja mustas mütsis tantsib naisega punases seelikus ja valges topis. Pesunöörid riiete ja pesuga on nähtavad, samuti väike puidust kuur ja piimanõud. Kolmandas kaadris on sama naine näha tagantpoolt, ikka hoides kasti, ning ta suhtleb naeratava vanema naisega, kes kannab lillelist pluusi ja tumedat salli. Üldine valgus on pilves, mis annab stseenile pehme ja hajutatud ilme.",
+      "actions": [
+        "Kõndimine",
+        "Raamatu/kasti hoidmine",
+        "Üles vaatamine",
+        "Sotsiaalne interaktsioon",
+        "Tantsimine",
+        "Suhtlemine"
+      ],
+      "keywords": [
+        "Maaelu",
+        "Küla",
+        "Naine",
+        "Raamat",
+        "Kast",
+        "Sotsiaalne interaktsioon",
+        "Vaba maailm",
+        "Tantsimine",
+        "Traditsiooniline",
+        "Mõtisklev",
+        "Kogukond"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Raamat",
+        "Kast",
+        "Puusild",
+        "Oja/tiik",
+        "Puud",
+        "Rohtunud ala",
+        "Hooned",
+        "Pesunöör",
+        "Pesu",
+        "Piimanõud",
+        "Müts",
+        "Särk",
+        "Seelik",
+        "Pluus",
+        "Sall"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#4A5C3D",
+        "#C4A484",
+        "#FF69B4",
+        "#A9A9A9",
+        "#B22222",
+        "#7C3E61"
+      ],
+      "texts": [
+        "FREE WORLD"
+      ],
+      "persons": [
+        "Naine (peategelane)",
+        "Vanem naine",
+        "Mees",
+        "Teised külaelanikud"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Põhitegelase hoitav objekt muutub raamatust tekstiga \"FREE WORLD\" tavaliseks pruuniks kastiks.",
+        "Taustal olev tegevus ja inimeste hulk suurenevad märgatavalt – esimeses kaadris on vaikne maastik oja ja sillaga, hilisemates kaadrites ilmnevad tantsivad inimesed, pesunööril kuivav pesu ja aktiivsem kogukondlik elu.",
+        "Põhitegelase näoilme ja fookus muutuvad – algselt on ta mõtisklev ja vaatab üles, hiljem on ta rohkem oma ümbruse ja inimestega suhtlev.",
+        "Perspektiiv nihkub põhitegelase esiplaanilt ja küljelt (esimesed kaadrid) tema selja tagant näidatavale interaktsioonile teise inimesega (viimane kaader)."
+      ],
+      "snr": "058",
+      "ajad": [
+        "904.760",
+        "930.600"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub välitingimustes, rohelisel aasalaadsel pinnal, mis on ümbritsetud lehtpuude ja kauguses paistvate maamajadega, viitades külakeskkonnale. Üldine värvigamma on pigem summutatud ja loomulik, andes stseenile veidi nostalgiat või ajatust. Keskmes on kahe naise omavaheline suhtlus: vanema naise, kellel on tumedad juuksed ja seljas värvikirev, lillemustriline traditsiooniline rätik ja särk, ning keskealise naise, kellel on punakaspruunid lühikesed juuksed ja seljas lihtne valge kraega pluus. Vanem naine hoiab käes valget, nartsissitaolist lille, pakkudes või näidates seda keskealisele naisele. Tema pilk ja näoilme on kohati ülespoole suunatud ja emotsionaalne, vahel aga otsemalt keskendunud. Keskealine naine vaatab talle vastu tagasihoidlikuma ja mõtlikuma ilmega, hoides käes väikest pruuni pappkasti, millel on näha kiri \"FREE\". Nende vahel toimub sügav vestlus, kus vanem naine mainib lause \"My only son... Jüri.\", mis viitab võimalikule kurvale või isiklikule teemale. Taustal on näha teisi uduselt paistvaid inimesi ja puitkonstruktsioone, mis annab aimu mingist kogukondlikust sündmusest või koosviibimisest. Päevavalgus on ere, sobilik kevad- või suvepäevale.",
+      "actions": [
+        "Lille hoidmine",
+        "Lille pakkumine",
+        "Vestlemine",
+        "Vaatamine",
+        "Seismine",
+        "Pappkasti kandmine"
+      ],
+      "keywords": [
+        "Külaelu",
+        "Naised",
+        "Lill",
+        "Traditsiooniline",
+        "Emotsionaalne",
+        "Dialoog",
+        "Kogukond",
+        "Väljas",
+        "Maaelu",
+        "Suhtlus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Valge lill",
+        "Pappkast",
+        "Lilleline rätik",
+        "Valge pluus",
+        "Puud",
+        "Rohtunud maastik",
+        "Majad taustal",
+        "Puitkonstruktsioonid"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#C85050",
+        "#4CAF50",
+        "#608060",
+        "#A08060",
+        "#8B4513",
+        "#403030",
+        "#FFFFFF",
+        "#A0A0A0"
+      ],
+      "texts": [
+        "FREE",
+        "My only son... Jüri."
+      ],
+      "persons": [
+        "Vanem naine",
+        "Keskealine naine",
+        "Teised inimesed taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Keskealise naise asend kaamera suhtes muutub seljast külgvaatesse, paljastades tema näoilme.",
+        "Vanema naise ilme ja pilgu suund varieerub kergest ülesvaatest otsemale kontaktile keskealise naisega.",
+        "Lille asetus vanema naise käes ja selle kõrgus muutub pisut stseeni käigus.",
+        "Ühes kaadris on lisaks visuaalsele infole näha ka subtiiter \"My only son... Jüri.\", mis annab täiendava konteksti."
+      ],
+      "snr": "059",
+      "ajad": [
+        "930.600",
+        "958.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab väljas toimuvat pidustust, tõenäoliselt pulmapidu, mis toimub rohelisel muruväljakul. Keskel tantsivad vanem mees tumedas ülikonnas ja noor naine valges pulmakleidis ja looris, hoides teineteisest kinni – mees hoiab naist ümber vöökoha ja naine toetub mehe õlale. Nende ümber ja taustal tantsivad paarikaupa või suhtlevad teised pulmakülalised, riietatud erinevatesse, pigem tagasihoidlikesse pidulikesse rõivastesse. Taustal on näha rohelisi puid, põõsaid ja hooneid ning üle väljaku on riputatud pidulikke vanikuid. Esiplaanil, vaatajale seljaga, seisavad kaks inimest, jälgides toimuvat. Üldine meeleolu on pidulik ja rõõmus, päevasel ajal.",
+      "actions": [
+        "Tantsimine",
+        "Kallistamine",
+        "Suhtlemine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Pulmapidu",
+        "Väljas",
+        "Tants",
+        "Pidu",
+        "Külalised",
+        "Pulmakleit",
+        "Loor",
+        "Muruväli",
+        "Vanikud",
+        "Päevaaeg"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Pulmakleit",
+        "Loor",
+        "Ülikond",
+        "Kleidid",
+        "Särgid",
+        "Püksid",
+        "Muru",
+        "Põõsad",
+        "Puud",
+        "Hooned",
+        "Vanikud/lipukesed"
+      ],
+      "colorcodes": [
+        "#F5F5F5",
+        "#2D3E4F",
+        "#425B3D",
+        "#9E3333",
+        "#D0C3A0",
+        "#52837C"
+      ],
+      "texts": [
+        "My only son... Jüri.",
+        "And today he is getting married."
+      ],
+      "persons": [
+        "Pruut",
+        "Peigmees",
+        "Pulmakülalised",
+        "Vaatajad esiplaanil"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrid muutuvad: esimesel pildil on 'My only son... Jüri.', teisel pildil on 'And today he is getting married.'",
+        "Inimeste asendid ja liikumine on kahe kaadri vahel minimaalselt muutunud, mis viitab sellele, et tegemist on järjestikuste kaadritega videost."
+      ],
+      "snr": "060",
+      "ajad": [
+        "958.880",
+        "964.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte naist välitingimustes rohelisel haljasalal, tõenäoliselt mingisugusel kogukonnaüritusel või peol. Kaader on tehtud rinna kõrguselt, näidates naisi suhteliselt lähedalt. Vasakul on vanem naine, kellel on seljas värviline õiemustriga rätik (peamiselt roheliste, roosade ja valgete toonidega) ja ta hoiab käes valget nartsissilaadset lille. Tema näol on soe ja rõõmus naeratus. Paremal seisab keskealine naine, kes kannab valget kraega pluusi ja hoiab käes helepruuni pappkasti, millele on kirjutatud 'FREE'. Tema vaatab vanema naise poole naeratades, peegeldades jagatud positiivset meeleolu. Taustal on näha rohelisi puid, kauem asuvaid hooneid ja teisi inimesi, mis annavad aimu elavast ja rahvarohkest sündmusest. Üldine atmosfäär on helge ja meeldiv, mida toetab ere päevavalgus ja naiste sõbralik suhtlus.",
+      "actions": [
+        "Vanem naine naeratab.",
+        "Vanem naine hoiab käes valget lille.",
+        "Keskealine naine naeratab.",
+        "Keskealine naine vaatab vanemat naist.",
+        "Keskealine naine hoiab pappkasti.",
+        "Inimesed kogunevad taustal väljas."
+      ],
+      "keywords": [
+        "Naised",
+        "Naeratus",
+        "Lill",
+        "Rätik",
+        "Kast",
+        "Väljas",
+        "Kogukond",
+        "Kevad",
+        "Rõõm",
+        "Vestlus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Valge lill (nartsissilaadne)",
+        "Värviline rätik õiemustriga",
+        "Pappkast",
+        "Valge pluus",
+        "Roheline rohumaa",
+        "Puud",
+        "Maja",
+        "Puidust rajatis taustal"
+      ],
+      "colorcodes": [
+        "#F5F5DC",
+        "#D2B48C",
+        "#556B2F",
+        "#ADD8E6",
+        "#8B4513",
+        "#A9A9A9",
+        "#F8F8F8",
+        "#FFC0CB"
+      ],
+      "texts": [
+        "He finally came to his senses as a grown man!",
+        "My grandmother always used to say that life is nothing more than sniffing the lilac 75 times.",
+        "FREE"
+      ],
+      "persons": [
+        "Vanem naine",
+        "Keskealine naine",
+        "Inimesed taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrid muutuvad kaadrite vahel, kuvades erinevaid dialoogilõike.",
+        "Naiste pilgud ja näoilmed nihkuvad kergelt, peegeldades vestluse või sündmuse kulgu ja ajastust.",
+        "Noorema naise käte asend kastil muutub pisut eri kaadrites."
+      ],
+      "snr": "061",
+      "ajad": [
+        "964.000",
+        "989.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast vabaõhupidu, mis leiab aset rohelisel muruplatsil või õuel, taustaks puud ja vanemad hooned. Tegevus paistab olevat pulmatseremoonia või muu pidulik koosviibimine. Keskmes on pruut valges, pikas kleidis ja looriga ning peigmees tumedas ülikonnas. Nende ümber on hulk külalisi, kes tantsivad, vestlevad ja suhtlevad. Üks prominentne tegelane on naine, kes kannab lillelist mustriga salli ja kleiti, liikudes kaadris peigmehe ja pruudi lähedusse. Pidu on kaunistatud värviliste lipuridadega, mis on puude ja postide vahele riputatud. Mõned külalised istuvad taustal pingil, teised seisavad ja jälgivad. Esimeses plaanis on näha kaks naist seljaga kaamera poole, kes sündmust pealt vaatavad. Üldine atmosfäär on rõõmus ja kogukondlik, vihjates vanemale ajastule või maalähedasele eluviisile.",
+      "actions": [
+        "Tantsimine",
+        "Suhtlemine",
+        "Vestlemine",
+        "Vaatlemine",
+        "Istumine",
+        "Seismine"
+      ],
+      "keywords": [
+        "Pulmad",
+        "Pidustus",
+        "Välipidu",
+        "Koosviibimine",
+        "Maalähedane",
+        "Rõõm",
+        "Kogukond",
+        "Nostalgia"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Pruutkleit",
+        "Loor",
+        "Ülikond",
+        "Lilleline sall",
+        "Kleit",
+        "Värviline lipurida (kaunistused)",
+        "Puud",
+        "Muru",
+        "Muldtee",
+        "Hooned",
+        "Pink"
+      ],
+      "colorcodes": [
+        "#F0F0E8",
+        "#3C4D46",
+        "#926E6F",
+        "#5C6F56",
+        "#6E5C4A",
+        "#A84C4C"
+      ],
+      "texts": [],
+      "persons": [
+        "Pruut",
+        "Peigmees",
+        "Lillelise salliga naine",
+        "Tantsivad külalised",
+        "Istuvad külalised",
+        "Vaatlejad esiplaanil"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Kaamera fookus ja kadreering muutuvad kergelt, andes justkui liikumise ja sündmustikule lähenemise tunde.",
+        "Lillelise salliga naine, kes esimeses kaadris puudub, ilmub teises kaadris peigmehe ja pruudi lähedusse ning kolmandas kaadris on ta nendega aktiivses suhtluses, osaliselt varjates paari.",
+        "Peigmehe pilk ja kehahoiak muutuvad: esimeses kaadris keskendub ta pruudile, hiljem pöördub ta lillelise salliga naise poole.",
+        "Pruudi asend ja pilk muutuvad samuti, kohandudes ümbritsevate inimeste liikumisega.",
+        "Esiplaanil olevate vaatlejate (seljaga kaamera poole) fookus ja asend varieeruvad kergelt, viidates kaamera või nende endi liikumisele."
+      ],
+      "snr": "062",
+      "ajad": [
+        "989.280",
+        "1003.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist, kellel on õlgadeni ulatuvad pruunikas-punakad juuksed ja seljas valge reväärkraega pluus, millel on satsid ja pärlinööp. Tema näol on märgatavad tumedad silmaalused, mis annavad talle kurva, väsinud või traagilise ilme. Naine vaatab otse ette ja tema huuled on kergelt avatud, justkui ta räägiks või oleks kohe rääkima hakkamas. Taustal on udune õueskeskkond, kus rohelisel murul on näha ähmaselt teisi inimesi ja eemal traditsioonilise stiiliga puidust hooneid. Üldine valguse atmosfäär on pehme ja loomulik, vihjates pilvisele päevale. Stseeni õhkkond on vaoshoitud ja ehk isegi melanhoolne või tõsine.",
+      "actions": [
+        "Naine räägib või on kohe rääkima hakkamas",
+        "Naine seisab",
+        "Taustal olevad inimesed liiguvad või on paigal"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Õues",
+        "Maalähedane",
+        "Valge pluus",
+        "Tumedad silmaalused",
+        "Kurvameelsus",
+        "Rääkimine",
+        "Kevad",
+        "Pilvine päev",
+        "Traditsioonilised hooned",
+        "Melanhoolne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Valge pluus",
+        "Pärlnööp",
+        "Pruunikas-punakad juuksed",
+        "Roheline muru",
+        "Puud",
+        "Puidust hooned",
+        "Inimesed"
+      ],
+      "colorcodes": [
+        "#E7E7E7",
+        "#8A4E3E",
+        "#B78F7E",
+        "#615A5F",
+        "#495449",
+        "#B5B5B5"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem naine",
+        "Mitmed teised inimesed (taustal, ähmaselt)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Väikesed erinevused naise suu asendis, mis viitavad kõnelemisele või pidevale mikro-liikumisele (eriti märgatav esimese ja kolmanda pildi vahel, kus kolmandal pildil on suu veidi rohkem avatud).",
+        "Väga minimaalsed nihked tausta ähmaste elementide paigutuses, mis on tüüpilised video järjestikustele kaadritele."
+      ],
+      "snr": "063",
+      "ajad": [
+        "1003.960",
+        "1008.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pulmapidu või pidulikku sündmust vabas õhus, tõenäoliselt küla- või maapiirkonnas. Esimesel plaanil, vasakus servas, on näha osaliselt udune figuur, kes justkui jälgib sündmusi tagaplaanil. Kesksel kohal on pruut valges, elegantse satiinilaadse kleidi ja pika looriga ning peigmees tumedas ülikonnas. Nende kõrval on vanem naine rahvusliku mustriga rätiku ja kleidiga, kes kallistab kordamööda nii pruuti kui ka peigmeest, väljendades õnnitlusi ja südamlikke emotsioone. Pruut hoiab käsi kõhu peal, mis viitab võimalikule rasedusele. Taustal on näha mitmeid külalisi, kes on riietatud pidulikult, mõned traditsioonilistes rõivastes, kes liiguvad ringi või seisavad gruppides. Üle tausta on pingutatud värvilised lipukesed, mis annavad edasi pidulikku ja rõõmsat meeleolu. Ümbruskond on roheline ja looduslik, puude ja vanemate hoonetega. Üldine õhkkond on soe ja südamlik, täis suhtlust ja emotsioone.",
+      "actions": [
+        "Kallistamine",
+        "Tervitamine",
+        "Vestlemine",
+        "Püstiseismine",
+        "Liikumine",
+        "Jälgimine (esimese plaani tegelane)"
+      ],
+      "keywords": [
+        "Pulm",
+        "Pruut",
+        "Peigmees",
+        "Külalised",
+        "Külaelu",
+        "Pidustus",
+        "Traditsiooniline",
+        "Emotsioonid",
+        "Vabaõhuüritus",
+        "Rasedus (võimalik)"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Pruutkleit",
+        "Loor",
+        "Ülikond",
+        "Rätik (õlasall)",
+        "Mustriga kleit",
+        "Lipukesed (girland)",
+        "Puud",
+        "Hoone (vana maja)",
+        "Pink",
+        "Mullane rada"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#304040",
+        "#A05030",
+        "#608060",
+        "#8B4513",
+        "#800000"
+      ],
+      "texts": [],
+      "persons": [
+        "Pruut",
+        "Peigmees",
+        "Vanem naine",
+        "Külalised",
+        "Vaatleja (esimesel plaanil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Vanema naise käte asend ja kallistuse sihtmärk muutuvad kaadrite vahel (algul pruut, siis peigmees, siis mõlemad).",
+        "Pruudi ja peigmehe näoilmed ja kehakeel muutuvad pisut iga kaadriga, peegeldades erinevaid hetki kallistuse jooksul.",
+        "Pruudi käte asend muutub: esimeses pildis hoiavad käed kõhu peal, hilisemates kaadrites on need lõdvemas asendis.",
+        "Külaliste asukohad ja tegevused taustal nihkuvad ja muutuvad iga kaadriga, viidates sündmuse dünaamilisusele."
+      ],
+      "snr": "064",
+      "ajad": [
+        "1008.520",
+        "1019.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab õues toimuvat kogunemist rohelisel muruplatsil, kus on näha mitu inimest erinevates tegevustes. Keset muru seisab keskealine naine, kellel on seljas helevalge pika varrukaga kleit, millel on krae ja rüüsid. Tema pruunid juuksed on lühikesed ja sirged. Naine hoiab käes väikest pappkasti, millele on roosas kirjas trükitud tekst \"FREE WORLD\". Tema ilme on mõtlik või tõsine. Tema ümber ja taustal askeldavad teised inimesed – mõned istuvad murul, üks noorem inimene kiigub, teised jalutavad või suhtlevad. Ühes hetkes astub naine valges kleidis kellegi teisega kontakti, kelle selg on kaamera poole ja kes kannab lillelist rätikut või riietust, tekitades dünaamilise momendi. Hiljem näidatakse laiemat vaadet sündmusele, kus üks mees särgis ja pükstes õhus jalaga lööb või midagi jalaga togib, samal ajal kui teine mees istub murul ja hoiab tassi. Kogu sündmus toimub puitmajadest koosneva küla või talukoha taustal, mis annab stseenile maaelu hõngu. Puud on rohelised ja lehtedega, viidates soojale aastaajale. Üldine atmosfäär on segu igapäevasest tegevusest ja millegist sügavamast, mida karbi tekst esindab.",
+      "actions": [
+        "Kasti hoidmine",
+        "Vaatamine",
+        "Suhtlemine teise inimesega",
+        "Jalaga löömine/togimine",
+        "Muru peal istumine",
+        "Jalutamine",
+        "Kiikumine"
+      ],
+      "keywords": [
+        "Maapiirkond",
+        "Kogunemine",
+        "Vabas õhus",
+        "Puitmajad",
+        "Karp",
+        "Vaba maailm",
+        "Valge kleit",
+        "Roheline muru",
+        "Mõtlik",
+        "Suhtlus",
+        "Sündmus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Pappkarp",
+        "Valge kleit",
+        "Lilleline rätik/riietus",
+        "Särk",
+        "Püksid",
+        "Muru",
+        "Puitmajad",
+        "Puud",
+        "Kiik",
+        "Tass/kruus"
+      ],
+      "colorcodes": [
+        "#E0E0E0",
+        "#F2A0A0",
+        "#607F4E",
+        "#826E57",
+        "#6B4D3F",
+        "#B0C4DE"
+      ],
+      "texts": [
+        "FREE WORLD"
+      ],
+      "persons": [
+        "Keskealine naine",
+        "Teine naine (seljaga)",
+        "Mees särgis",
+        "Istuv mees",
+        "Kiikuv laps/nooruk",
+        "Muid inimesi"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on naine valges kleidis esiplaanil, hoides karpi ja vaadates otse kaamerasse või eemale.",
+        "Teisel pildil on sama naine haaratud interaktsiooni teise inimesega, kelle selg on kaamera poole, ja kes katab osaliselt naist valges kleidis.",
+        "Kolmandal pildil on fookus nihkunud laiemale stseenile ja teistele tegevustele taustal, näidates mehe jalgade löömist ja teise mehe murul istumist, samal ajal kui naine valges kleidis on kaadrist väljas või peidus."
+      ],
+      "snr": "065",
+      "ajad": [
+        "1019.520",
+        "1034.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laiaulatuslikku vaadet idüllilisele maapiirkonnale, kus domineerivad rohelised künkad ja lopsakas taimestik. Keskel lookleb väike veekogu, mida ületab kitsas puidust jalakäijate sild. Taamal kõrgemal künkal asub kaks hoonet: paremal heleda ülemise korruse ja kivist alusega maja ning vasakul kaugemal väiksem, tumedam hoone. Taevas on selge ja valgusküllane, viidates hilisele päevale või varasele õhtule. Kogu maastikul on hajutatult näha palju inimesi – neid liigub nii kaugematel küngastel kui ka veekogu ääres ja sillal. Suurim inimrühm on kogunemas ja liikumas üle silla, vasakult paremale. Inimesed on riietatud mitmesugustes toonides, alates heledatest kleitidest ja särkidest kuni tumedamate pükste ja jakkideni; silma paistab ka üks erepunane kleit. Stseeni dünaamiline element ilmneb, kui üks noor inimene hüppab silla lähedalt vette, tekitades märgatava veepritsme. Samal ajal jätkavad teised inimesed oma tegevusi – kõnnivad, vestlevad ja jälgivad ümbrust, luues elava ja kogukondliku õhkkonna.",
+      "actions": [
+        "Inimesed liiguvad üle silla",
+        "Inimesed jalutavad maastikul",
+        "Noor inimene hüppab vette",
+        "Vesi pritsib hüppest"
+      ],
+      "keywords": [
+        "Maapiirkond",
+        "Loodus",
+        "Kogukond",
+        "Sild",
+        "Vesi",
+        "Liikumine",
+        "Suvine",
+        "Kogunemine",
+        "Idüll",
+        "Künkad"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Jalakäijate sild",
+        "Veekogu (jõgi/tiik)",
+        "Majad (2)",
+        "Puud (kased, lehtpuud)",
+        "Roheline muru/rohi",
+        "Künkad",
+        "Veepritsmed"
+      ],
+      "colorcodes": [
+        "#5e733c",
+        "#a4b6bf",
+        "#3a4d34",
+        "#d0c8bd",
+        "#6a6a5d",
+        "#828a8c",
+        "#9d2a2a",
+        "#6f543d"
+      ],
+      "texts": [],
+      "persons": [
+        "Palju inimesi (mehed, naised, noored, lapsed)",
+        "Noor inimene (hüppaja)",
+        "Silla ületajad",
+        "Jalutajad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "spring",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on näha suur inimrühm silda ületamas ja maastikul liikumas, veepind on rahulik.",
+        "Teisel pildil on inimrühm sillal edasi nihkunud ja noor inimene on just vette hüppamas või on veidi pärast sisenemist, tekitades veepinnal esimesed liikumise märgid.",
+        "Kolmandal pildil on hüpe vette täielikult toimunud, tekitades suure ja selgelt nähtava veepritsme. Inimeste asukohad sillal ja kaldapealsel on vastavalt ajale edasi nihkunud."
+      ],
+      "snr": "066",
+      "ajad": [
+        "1034.920",
+        "1043.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia avatud rohelist põldu pilvise taeva all, kus on näha mitmeid inimesi erinevates tegevustes ja seisundites. Esimeplaanil kõnnivad kaks naist, liikudes vaataja poole paremalt vasakule. Eesmine naine on saledam, punakaspruunide juustega ja melanhoolse ilmega. Tal on seljas valged püksid ja õlgadel lillemustriline sall, millel domineerivad punased ja sinised lilled valgel taustal. Käes hoiab ta pappkasti, millele on roosade tähtedega kirjutatud \"FREE MARRY\". Tema kõrval kõnnib veidi tagapool korpulentsem naine, kes kannab lillelist, tumedama taustaga kleiti. Nende taga ja ümber on põllul hajutatult mitukümmend inimest. Paremal pool on näha pulmapaar – pruut valges kleidis ja peigmees tumedas ülikonnas, kes seisavad embuses. Ülejäänud inimesed on segaduses ja kaootilises liikumises: mõned jooksevad, mõned kõnnivad, mõned näivad olevat kukkunud või lamavad murul. Nende riietus on varieeruv, ulatudes juhuslikust kuni pidulikumani. Taustal laiub tihe okaspuumets ja kauguses on aimatavad mõned hooned. Üldine õhkkond on sürreaalne ja veidi kurvameelne.",
+      "actions": [
+        "kõndimine",
+        "jooksmine",
+        "kukkumine",
+        "lamamine",
+        "embamine"
+      ],
+      "keywords": [
+        "põld",
+        "inimesed",
+        "sürreaalne",
+        "melanhoolia",
+        "pulm",
+        "segadus",
+        "lilleline",
+        "kast",
+        "pilvine"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "pappkast",
+        "lilleline sall",
+        "lilleline kleit",
+        "valged püksid",
+        "pulmakleit",
+        "ülikond",
+        "puud",
+        "hooned",
+        "muru"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#FFFFFF",
+        "#FF0000",
+        "#0000FF",
+        "#FFC0CB",
+        "#3CB371",
+        "#A9A9A9",
+        "#556B2F"
+      ],
+      "texts": [
+        "FREE MARRY"
+      ],
+      "persons": [
+        "punakaspruunide juustega naine",
+        "korpulentsem naine",
+        "pruut",
+        "peigmees",
+        "mitmed teised inimesed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Kaamerakaader suumib järk-järgult sisse esiplaanil olevale punakaspruunide juustega naisele, muutes ta detailid, sh pappkarbil oleva teksti, paremini nähtavaks.",
+        "Tagumist korpulentsemat naist ja osa taustast kärbitakse järk-järgult, viimases kaadris on ta peaaegu pildilt väljas."
+      ],
+      "snr": "067",
+      "ajad": [
+        "1043.320",
+        "1051.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab suurt lõket vabas õhus, tõenäoliselt murul või mullasel pinnal. Lõke on ümbritsetud kividega, mis moodustavad tuleaseme. Leegid on heledad ja intensiivsed, valgustades ümbrust. Lõkkes põlevad mitmed pruunid pappkastid, millele on roosa või lillaka tooniga trükitud sõna \"FREE WORLD\" (vaba maailm), kohati ka ainult \"FREE\" või \"WORLD\". Ühel kasti küljel on esimesel pildil osaliselt näha ka tekst \"FLIRT\". Leegid on dünaamilised ja liiguvad, tekitades eredat valgust. Ümbrus on hämar ja tume, rõhutades tule helendust. Stseen on üldiselt tumeda tooniga, kus tulevalgus domineerib.",
+      "actions": [
+        "Põlemine",
+        "Leekide liikumine",
+        "Suitsuvine levimine"
+      ],
+      "keywords": [
+        "Lõke",
+        "Tuli",
+        "Põlemine",
+        "Pappkastid",
+        "Protest",
+        "Vabadus",
+        "Hävitamine",
+        "Kunstiline installatsioon",
+        "Sümbolism"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Lõke",
+        "Leegid",
+        "Pappkastid",
+        "Kivid (tuleaseme ümber)",
+        "Muru/Muld",
+        "Põlev puit/oksad"
+      ],
+      "colorcodes": [
+        "#FFD700",
+        "#FFA500",
+        "#FFFFFF",
+        "#36454F",
+        "#A0522D",
+        "#FF69B4"
+      ],
+      "texts": [
+        "FREE WORLD",
+        "FREE",
+        "WORLD",
+        "FLIRT"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Leekide kuju ja intensiivsus on piltide vahel erinev.",
+        "Suitsu muster on muutunud.",
+        "Tekstide nähtavus kastidel varieerub leekide ja suitsu tõttu veidi."
+      ],
+      "snr": "068",
+      "ajad": [
+        "1051.960",
+        "1057.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil on lähikaadris keskealine naine, kellel on punakaspruunid juuksed, mis ulatuvad õlgadeni. Tema pilk on suunatud allapoole ja veidi vasakule (vaataja seisukohalt paremale). Naisel on näos melanhoolne või mõtlik ilme. Tema vasaku silma all (vaataja seisukohalt paremal) on näha tumedat pleki või sinikat, mis viitab vigastusele. Tema nahk on kahvatu ja kortsud on selgelt nähtavad, eriti silmade ja suu ümber. Naise vasakul põsel (vaataja seisukohalt paremal) on märgatav sünnimärk või plekk. Ta kannab heledat, kreemja taustaga salli, millel on roosade, roheliste ja siniste toonidega lillemuster. Salli kangas näib olevat kergelt kortsunud. Taust on udune ja tumeroheline, viidates välistingimustele, tõenäoliselt puudele või põõsastele. Üldine valgusküllus on hämar, luues nukra ja sügavmõttelise atmosfääri.",
+      "actions": [
+        "Vaatab allapoole",
+        "On mõtlik",
+        "Seisab"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Mõtlikkus",
+        "Kurbus",
+        "Sinikas",
+        "Lilleline sall",
+        "Välistingimused",
+        "Hämar valgus",
+        "Keskealine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Sall",
+        "Põõsad",
+        "Puud"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#C8A48B",
+        "#6A0DAD",
+        "#F5F5DC",
+        "#FF69B4",
+        "#5F9EA0",
+        "#2E8B57",
+        "#36453A"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "069",
+      "ajad": [
+        "1057.000",
+        "1061.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab suurt lõket või põlevat kuhja, mis koosneb peamiselt söestunud puidust rusudest ja kartongkastidest. Eredad kollakasoranžid leegid on kaadris domineerivad, neelates suurt osa pildist. Leekide keskel on näha kartongkasti, millel on roosa tekst, millest on selgelt loetav sõna \"WORLD\" ja osaliselt ka \"THE\". Ümbritsev materjal näib olevat mingi struktuuri või puidust esemete jäänused, mis on nüüdseks söestunud ja tuhastumas, kuid põlevad endiselt intensiivselt. Tuli on peamine valgusallikas, mis heidab ümbrusele sooja ja eredat kuma.",
+      "actions": [
+        "Põlemine",
+        "Leegitsemine",
+        "Hävimine",
+        "Söestumine"
+      ],
+      "keywords": [
+        "Tuli",
+        "Lõke",
+        "Leegid",
+        "Põlemine",
+        "Hävitis",
+        "Kartongkast",
+        "Söestunud puit",
+        "Tuhk",
+        "Kuumus",
+        "Hävitatav"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Leegid",
+        "Tuli",
+        "Söestunud puit",
+        "Kartongkastid",
+        "Tuhk"
+      ],
+      "colorcodes": [
+        "#FFD700",
+        "#FF4500",
+        "#362D2C",
+        "#FF69B4",
+        "#D2B48C"
+      ],
+      "texts": [
+        "THE WORLD"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Leekide kuju ja intensiivsus muutuvad kaadrite vahel dünaamiliselt.",
+        "Teksti \"THE WORLD\" nähtavus on leekide liikumise tõttu veidi erinevates kaadrites.",
+        "Üldine valguse ja varjude jaotus nihkub vastavalt leekide liikumisele."
+      ],
+      "snr": "070",
+      "ajad": [
+        "1061.720",
+        "1067.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast müstilist ja traditsioonilist vabaõhukogunemist hämaras õhtuvalguses, kus domineerivaks figuuriks on punamustade juustega naine. Ta kannab heledat riietust ja kirjut mustrilist salli, mis annab talle rituaalse või piduliku välimuse. Kogunemise alguses hoiab ta käes väikest heledat karpi tekstiga \"I AM WOMAN\", hiljem aga sooritab hoogsamaid liigutusi salliga, justkui tantsides või teostades mingit tseremooniat, ja liigub ringi. Taustal on näha tihedat metsa ja pilvist taevast, mis loob sünge, kuid samas pühaliku õhkkonna. Maapinnal põleb lõke, mille ümber on kogunenud mitmed inimesed erinevates vanustes ja traditsioonilises või lihtsas riietuses. Nende seas on näha vanemat naist lillelises kleidis, noorpaari, kes näib olevat pruut ja peigmees, ning teisi tantsivaid või lihtsalt seisvaid inimesi. Mõned inimesed on ilmselt pillimängijad, kuna näha on ka keelpilli. Stseen õhkab iidsust ja pärimust, kus lõke on kogunemise keskpunktiks. Üldine meeleolu on pühalik ja veidi salapärane, mida rõhutavad hämar valgus ja inimeste keskendunud olek.",
+      "actions": [
+        "Naine hoiab karpi käes",
+        "Naine sooritab salliga tantsulisi või rituaalseid liigutusi",
+        "Naine kõnnib ringi",
+        "Inimesed on kogunenud lõkke ümber",
+        "Inimesed tantsivad",
+        "Noorpaar seisab lõkke lähedal",
+        "Lõke põleb ja annab valgust"
+      ],
+      "keywords": [
+        "Vabaõhuüritus",
+        "Rituaal",
+        "Lõke",
+        "Traditsiooniline",
+        "Kogunemine",
+        "Õhtune",
+        "Põld",
+        "Mets",
+        "Naine",
+        "Šall",
+        "Karp",
+        "Tseremoonia",
+        "Pärimus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Punamustade juustega naine",
+        "Teised inimesed",
+        "Lõke",
+        "Karp",
+        "Šall",
+        "Puud",
+        "Muru/põld",
+        "Pruutkleit",
+        "Keelpill"
+      ],
+      "colorcodes": [
+        "#32463F",
+        "#68788D",
+        "#F27A0C",
+        "#EDECE8",
+        "#A84D3C",
+        "#5A5A5A"
+      ],
+      "texts": [
+        "I AM WOMAN"
+      ],
+      "persons": [
+        "Punamustade juustega naine (peategelane)",
+        "Vanem naine lillelises kleidis",
+        "Noorpaar (pruut ja peigmees)",
+        "Tantsivad inimesed",
+        "Mehed",
+        "Naised"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "suvi",
+      "daytime": "õhtu",
+      "differences": [
+        "Esimesel kaadril hoiab peategelane naise karpi tekstiga \"I AM WOMAN\", taustal on näha pruutpaari ja rohkem staatilisi figuure.",
+        "Teisel kaadril on peategelane naine hoogsas liikumises, lehvitades oma salli, karp puudub. Taustal on näha tantsivat figuuri.",
+        "Kolmandal kaadril kõnnib peategelane naine vaataja poole, pilk suunatud alla/ettepoole, lõke on esiplaanil nähtavam ja taustal on erinevad inimesed, sh keelpilliga figuur paremal servas."
+      ],
+      "snr": "071",
+      "ajad": [
+        "1067.240",
+        "1086.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaadet kogunemisele, mis toimub avatud maastikul madalal mäeküljel või künkal vastu dramaatilist, tormist ja tumepilvedega kaetud taevast. Inimesed on kujutatud tumedate siluettidena maastiku taustal, mis annab stseenile müstilise ja piduliku õhkkonna. Grupp on laiali jaotatud üle horisontaalse tasandi, osa neist on staatilised, samas kui teised, eriti paremal pool, on käed õhku tõstnud žestikuleerides või rituaali sooritades. Grupi paremal ääres on väike lõke, mille leegid on ainukesed eredamad valgusallikad stseenis. Üldine värvigamma on jahe ja tume, domineerivad hallid, tumesinised ja rohekashallid toonid.",
+      "actions": [
+        "Inimeste kogunemine ja seismine mäeküljel",
+        "Käte tõstmine ja žestikuleerimine",
+        "Lõkke põletamine",
+        "Rituaali sooritamine (oletatav)"
+      ],
+      "keywords": [
+        "Siluetid",
+        "Pilvine taevas",
+        "Mäekülg",
+        "Kogunemine",
+        "Lõke",
+        "Rituaal",
+        "Dramaatiline",
+        "Pime",
+        "Välitingimused",
+        "Müstiline",
+        "Sume"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Inimesed (siluetid)",
+        "Pilved",
+        "Taevas",
+        "Mäekülg/maapind",
+        "Lõke"
+      ],
+      "colorcodes": [
+        "#2e353f",
+        "#3a414e",
+        "#495462",
+        "#2a2f2b",
+        "#202421",
+        "#f2a74c",
+        "#e28e3a"
+      ],
+      "texts": [],
+      "persons": [
+        "Suur grupp inimesi (ca 20-30 siluetti)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Aja jooksul tõstab üha rohkem inimesi oma käed õhku. Esimesel pildil on käed tõstetud peamiselt grupi paremal pool asuvatel inimestel, samas kui viimasel pildil on käte tõstmine levinud laiemalt üle grupi, luues ühtsema liikumise või rituaalse žesti."
+      ],
+      "snr": "072",
+      "ajad": [
+        "1086.880",
+        "1131.120"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5008 @@
+{
+  "film": [
+    "14789",
+    "14768",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Päev jääl",
+    "cfd16e040f4e728909e844d58448e39df9bef121.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen on täiesti pime, ilma nähtavate detailide, esemete või isikuteta. Kogu pilt on ühtlaselt must, mis viitab kas täielikule pimedusele, valgustatuse puudumisele või sellele, et pildil ei ole midagi kujutatud. Puudub igasugune visuaalne informatsioon, mis võimaldaks stseeni sisuliselt kirjeldada.",
+      "actions": [],
+      "keywords": [
+        "pimedus",
+        "must",
+        "tühjus",
+        "valgustamata",
+        "nähtamatu",
+        "monokroomne"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik pildid on identsed – täiesti mustad –, seega puuduvad nende vahel visuaalsed erinevused."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "4.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist maastikku, kus fookuses on teeviit asula nimega 'KALLASTE'. Suur sinine silt, millel on valgete suurtähtedega kiri 'KALLASTE', seisab tee ääres. Sildi kohal on vapi kujutis: kilp, millel on musta värvi linnukuju (meenutab pääsukest või piiritajat) kollasel taustal, allpool punane riba ja sinised lained. Sildi all on kaks väiksemat sinist viita valgete piktogrammidega, mis viitavad jalgrattateedele ja suundadele. Maapind on kaetud õhukese lumekihiga, millest turritavad välja kuivanud pruunid taimed ja rohi. Vasakule poole jääb asfalttee, mille servadel on lörtsi ja lumejäänuseid. Tee ääres vasakul on tihe rivi igihaljaid puid (tõenäoliselt elupuud või kuused), mille tagant paistavad raagus lehtpuud. Paremal pool teed ja sildi taga laiub lumega kaetud põld, kus kasvab hõredalt raagus puid ja põõsaid. Taevas on pilvine ja hele, viidates päevasele ajale. Üldine atmosfäär on rahulik ja vaikne, omane talvisele päevale maapiirkonnas.",
+      "actions": [],
+      "keywords": [
+        "talv",
+        "lumi",
+        "maantee",
+        "teeviit",
+        "Kallaste",
+        "vapikilp",
+        "jalgrattatee",
+        "loodus",
+        "pilvine",
+        "päev",
+        "maapiirkond",
+        "asulasilt"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "tee",
+        "teeviit",
+        "silt",
+        "vapikilp",
+        "lumi",
+        "puud",
+        "põõsad",
+        "rohi",
+        "taevas",
+        "jalgrattateemärgid",
+        "asfalt"
+      ],
+      "colorcodes": [
+        "#3069B8",
+        "#FFFFFF",
+        "#405F41",
+        "#FAD145",
+        "#D93B3B",
+        "#8D6B4E",
+        "#4C4E4E",
+        "#000000"
+      ],
+      "texts": [
+        "KALLASTE"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on äärmiselt tume ja alavalgustatud, peaaegu must, varjates enamiku detailidest ja värvidest. Teine pilt on hele, selge ja korrektse valgustusega, näidates kõiki stseeni detaile ja värve täpselt."
+      ],
+      "snr": "002",
+      "ajad": [
+        "4.280",
+        "15.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist maastikku laguneva hoone ees. Hoone on kahekorruseline, punase katuse ja kulunud roosakas-beeži fassaadiga, mis annab edasi räsitud ja mahajäetud ilme. Esimese ja teise korruse akende asemel on paljudes kohtades näha kinni kaetud või puitplaatidega varjatud avasid. Hoone keskosas asub sissepääs. Esialgselt on näha märg ja porine tee, mille äärtes on kuhjatud valged lumekuhjad ja teel on veeloigud. Vasakul teepoolel on märgata elektriliine ja posti. Stseenis on näha kolm subjekti: tumedas värvi Volkswagen Passati universaalkerega auto, mis sõidab teel, tumedates riietes jalgrattur, kes liigub hoone suunas, ja paremal tee ääres seisev eakas naine tumedas lillas mantlis. Ümberringi on näha mõned puud, eriti paremal pool suur okaspuu, mis varjab osa taustast.",
+      "actions": [
+        "Auto sõidab mööda teed",
+        "Jalgrattur sõidab jalgrattaga hoone poole",
+        "Eakas naine seisab tee ääres"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Lagunenud hoone",
+        "Volkswagen",
+        "Jalgratas",
+        "Tee",
+        "Eakas naine",
+        "Jalgrattur",
+        "Päeval",
+        "Väljas",
+        "Hoone",
+        "Aknad",
+        "Katus",
+        "Pudedad puud",
+        "Lombid",
+        "Märjad teed"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Auto",
+        "Jalgratas",
+        "Hoone",
+        "Katus",
+        "Aknad",
+        "Uks",
+        "Lumi",
+        "Lombid",
+        "Puud",
+        "Post",
+        "Lumekuhjad"
+      ],
+      "colorcodes": [
+        "#8B201A",
+        "#D7A69A",
+        "#202020",
+        "#E6E9EE",
+        "#57585A",
+        "#4B274F",
+        "#BFC9D4"
+      ],
+      "texts": [
+        "548 THZ"
+      ],
+      "persons": [
+        "Jalgrattur (mees)",
+        "Eakas naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris on must Volkswagen Passat märgatavalt lähemal kaamera poolele ja liigub vaataja suunas, olles kaadris paremal pool. Teises kaadris on sama auto liikunud kaugemale hoone poole ja on kaadris tagapool, teel veidi keskel.",
+        "Esimeses kaadris puudub jalgrattur. Teises kaadris on ilmunud jalgrattur, kes sõidab jalgrattaga hoone suunas, hoone peasissepääsu lähedal.",
+        "Eakas naine jääb mõlemas kaadris paremal pool teepervel samale kohale."
+      ],
+      "snr": "003",
+      "ajad": [
+        "15.360",
+        "29.280"
+      ]
+    },
+    {
+      "explanation": "Pildil on kujutatud mahajäetud ja varemetes tööstusmaastik või elamupiirkond pilvise talvepäeva või varakevadise hommiku valguses. Esiplaanil on auklik ja porine tee, mis on kaetud sulava lume, lörtsi ja porilompidega. Tee ääres on musta ja sulava lume kuhjad. Keskel seisab vana sinine veoauto, millele on paigaldatud kollane autokraana. Kraana nool on suunatud vasakule, justkui midagi toetanud või tööd teinud. Tagaplaanil vasakul on näha mitu pooleliolevat või mahajäetud paneelmaja, mille aknad on tühjad ja hoonete fassaad on hallist betoonist. Paremal tagaplaanil on ühekorruseline hele telliskivihoone, mis paistab paremini säilinud, kuid selle ümber on samuti lumi. Kogu stseen jätab mahajäetud, unustatud ja tühja mulje. Horisondi ja taeva vahel on paljad puud ja võsa, mis viitavad külmale aastaajale. Vasakul on näha üks tänavavalgustuspost ja paremal ees on samuti pikk post. Valgus on pehme ja hajutatud, vihjates pilvisele ilmale.",
+      "actions": [
+        "ei toimu aktiivset tegevust",
+        "kraana on pargitud ja mittetöökorras",
+        "lumi sulab"
+      ],
+      "keywords": [
+        "mahajäetud",
+        "varemed",
+        "lagunenud",
+        "tühjus",
+        "talv",
+        "varakevad",
+        "pori",
+        "lörts",
+        "autokraana",
+        "paneelmaja",
+        "tööstusala",
+        "linnaruum",
+        "nõukogude arhitektuur",
+        "degradatsioon"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "autokraana",
+        "sinine veoauto",
+        "kollane kraana nool",
+        "paneelmajad",
+        "betoonhooned",
+        "telliskivimaja",
+        "tee",
+        "porilombid",
+        "sulamud lumi",
+        "mustad lumekuhjad",
+        "tänavavalgustuspost",
+        "valgustuspost",
+        "puud",
+        "võsa",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#A8C2D8",
+        "#C8C8C8",
+        "#B0A090",
+        "#607888",
+        "#C8B880",
+        "#404040",
+        "#D8D8D8",
+        "#706858"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [],
+      "snr": "004",
+      "ajad": [
+        "29.280",
+        "33.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvise või varakevadise linna tänava või tee vaadet, mis on kaetud sulava lume, jää ja lompidega, andes märku sulaajast. Kaadrit raamivad eesplaanil vasakul ja paremal asuvad puutüved, luues kitsama fookuse kesksel teelõigul. Teel liigub kaks naist. Eesplaanil olev naine kõnnib vaataja poole, kandes oranži-valgekirjut poekotti, millel on näha stiliseeritud täht (nt 'R'). Tema jalatsid on tumedad saapad. Tagaplaanil, vasakpoolsel teepoolel, kõnnib teine naine vaatajast eemale, kandes heledat kotti. Ümberringi on tee osaliselt lumest puhastatud, kuid lumepangad ja jäädised on tee äärtes ja kõnniteedel. Tagaplaanil on näha erinevaid hooneid, sealhulgas punaka tooniga vana hoone ja heledam, uuem ehitis, ning kaugemal on pargitud auto. Üldine meeleolu on jahe ja märg, iseloomulik talve lõpule või varakevadele.",
+      "actions": [
+        "Kõndimine",
+        "Koti kandmine"
+      ],
+      "keywords": [
+        "Talv",
+        "Kevad",
+        "Lumi",
+        "Jää",
+        "Sulavesi",
+        "Lompid",
+        "Tänav",
+        "Tee",
+        "Inimesed",
+        "Kõndimine",
+        "Linnaelu",
+        "Puutüved",
+        "Hoone",
+        "Sula",
+        "Hall",
+        "Märg"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Naine (eesplaanil)",
+        "Naine (tagaplaanil)",
+        "Poekott (oranži-valge)",
+        "Kott (hele)",
+        "Lumi",
+        "Jää",
+        "Lompid",
+        "Tee",
+        "Puutüved",
+        "Hoone (vana, punaka tooniga)",
+        "Hoone (heledam, uuem)",
+        "Auto (tagaplaanil)"
+      ],
+      "colorcodes": [
+        "#6B6C6C",
+        "#2F3335",
+        "#FF8C00",
+        "#D0D7DE",
+        "#5D4A3E",
+        "#96675B",
+        "#E0DEDC"
+      ],
+      "texts": [
+        "Stiliseeritud täht (näiteks R) poekotil"
+      ],
+      "persons": [
+        "Naine (eesplaanil)",
+        "Naine (tagaplaanil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Eesplaanil olev naine liigub kaadri suunas, olles igas kaadris järjest lähemal vaatajale.",
+        "Tagaplaanil olev naine liigub kaadris edasi ja kaugemale, olles igas kaadris natuke kaugemal vaatajast.",
+        "Eesmisel naisel olev oranži-valge poekott on järjest selgemalt ja detailsemalt nähtav."
+      ],
+      "snr": "005",
+      "ajad": [
+        "33.360",
+        "39.240"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kahekordne vana välimusega hoone talvisel pilvisel päeval. Hoone ülemine osa on beežikaspruun, alumine osa aga tumedam, kergelt krobelise hallika viimistlusega. Katus on tume ja viilkatusega, sellel on mitu katuseakent või -luuki. Teisel korrusel on viis suurt akent. Esimesel korrusel on kolm suurt poeakent, mille kohal on siniste suurtähtedega kiri \"MÖÖBEL\". Hoone paremal servas on sissepääs ja selle kohal väiksem silt tekstiga \"MÖÖBLI Salong\". Hoone ees on pargitud erekollane kaubik, mis on suunatud vasakule. Maapind on kaetud lumega, esiplaanil on tee, mis on lumest puhtaks lükatud. Tagaplaanil ja hoone külgedel on näha paljaid puid. Üldine meeleolu on jahe ja argine.",
+      "actions": [
+        "Auto on pargitud"
+      ],
+      "keywords": [
+        "Mööblipood",
+        "Kahekordne hoone",
+        "Kollane kaubik",
+        "Lumi",
+        "Talv",
+        "Pilves ilm",
+        "Linnamaastik",
+        "Reklaamsilt",
+        "Vana hoone",
+        "Jahe ilm"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone",
+        "Katus",
+        "Aknad",
+        "Uks",
+        "Kollane kaubik",
+        "Lumi",
+        "Tee",
+        "Puud",
+        "Sildid",
+        "Tähed"
+      ],
+      "colorcodes": [
+        "#b59b79",
+        "#746c64",
+        "#474744",
+        "#f2e322",
+        "#2a3c6d",
+        "#ebebeb",
+        "#3f4244"
+      ],
+      "texts": [
+        "MÖÖBEL",
+        "MÖÖBLI Salong"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [],
+      "snr": "006",
+      "ajad": [
+        "39.240",
+        "43.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist tänavavaadet külakeskkonnas, kus inimesed liiguvad lumisel ja jäisel teel. Esiplaanil on kaks inimest seljaga kaamera poole, kes kõnnivad mööda libedat teed. Üks neist kannab punast jopet ja lükkab jalgratast, teine on mustas jopes. Vasakul pool, kaugemal, kõnnib kaamera poole kolm naist. Üks neist on heleda pearätikuga ja tumedas mantlis, kandes valget kotti. Teine on heledas beežis mantlis ja kolmas hallis mantlis, kandes lillat kotti. Paremal pool, kaugemal, sõidab üks inimene jalgrattaga eemale. Taamal on näha erinevaid madalaid maju, mis on kaetud lumega, ning paljaste okstega puud, mis annavad edasi talvise meeleolu. Tee on kohati porine ja lumine, märg jäine pind annab märku libedatest oludest. Üldine atmosfäär on külm ja igapäevane.",
+      "actions": [
+        "Kõndimine",
+        "Jalgratta lükkamine",
+        "Jalgrattaga sõitmine",
+        "Koti kandmine"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Jää",
+        "Tänav",
+        "Külakeskkond",
+        "Inimesed",
+        "Jalgratas",
+        "Hoone",
+        "Puu",
+        "Libedus",
+        "Külm",
+        "Päevaaeg"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Jalgratas",
+        "Maja",
+        "Puu",
+        "Lumi",
+        "Jää",
+        "Lobjakas",
+        "Tee",
+        "Kott",
+        "Jakk",
+        "Mantel",
+        "Pearätik"
+      ],
+      "colorcodes": [
+        "#C8261F",
+        "#2E2E2E",
+        "#A3A3A3",
+        "#D1B898",
+        "#E0DFDF",
+        "#6C2B9A",
+        "#E5E5E5",
+        "#807F7F",
+        "#806A4F",
+        "#A0A0A0",
+        "#3E3E3E",
+        "#F0F0F0"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine punases jopes (esiplaanil)",
+        "Isik mustas jopes (esiplaanil)",
+        "Naine heleda pearätiku ja tumeda mantliga (vasakul)",
+        "Naine heledas beežis mantlis (vasakul)",
+        "Naine hallis mantlis (vasakul)",
+        "Isik jalgrattaga (paremal, taamal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad olulised visuaalsed erinevused, tegemist on sisuliselt identsete kaadritega, mis on ilmselt järjestikused hetked videost."
+      ],
+      "snr": "007",
+      "ajad": [
+        "43.680",
+        "48.560"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud sinikollane lipp, mis lehvib või ripub õrnas tuules. Lipp on kinnitatud lipuvarda külge, mis ulatub üles paremalt poolt kaadri alumisest servast. Lipu ülemine triip on sinine ja alumine kollane, mis viitab Ukraina lipule. Taustal on hele, pilvine või ühtlaselt hall taevas. Taeva ees on näha paljaste okstega puude siluetid, mis viitab sügisele või talvele. Paremas servas on näha osa punakaspruunist katusekattest, millel on näha dekoratiivseid elemente ja mõned tumedad juhtmed. Üldine meeleolu on pigem rahulik ja jahe.",
+      "actions": [
+        "Lipu lehvimine",
+        "Lipu rippumine"
+      ],
+      "keywords": [
+        "Lipp",
+        "Ukraina lipp",
+        "sinikollane",
+        "lipuvarras",
+        "pilvine taevas",
+        "puud",
+        "oksad",
+        "katus",
+        "juhtmed",
+        "väljas",
+        "sügis",
+        "talv"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Lipp",
+        "Lipuvarras",
+        "Puud",
+        "Taevas",
+        "Katus",
+        "Juhtmed"
+      ],
+      "colorcodes": [
+        "#4779C7",
+        "#FAD655",
+        "#E5E9EC",
+        "#A85A5A",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Lipu kuju ja lehvimise asend on kaadrite vahel kergelt erinev, mis viitab tuule liikumisele."
+      ],
+      "snr": "008",
+      "ajad": [
+        "48.560",
+        "52.160"
+      ]
+    },
+    {
+      "explanation": "Pildil on näha kitsas tänav, mille ääres paiknevad vanad ja erinevas seisukorras puitmajad. Tee on osaliselt kaetud sulava lume ja jääga, mis viitab talve lõpule või varakevadele. Tänava mõlemal küljel on lumehanged, mis on kohati määrdunud. Majad on erinevates toonides, vasakul pool on domineerivad heledad puidutoonid, samas kui paremal pool paistavad ka roosakad, kollased ja rohelised fassaadid. Hoonetel on näha palju aknaid ja uksi ning mitmetel majadel on iseloomulikud puitvoodrid. Üle tänava kulgevad elektri- või telefonipostid ja neile kinnitatud juhtmed. Taevas on ühtlaselt pilvine ja hall, andes stseenile jaheda ja rahuliku meeleolu. Üldpilt loob mulje vaikse väikelinna või vanema asula tänavast.",
+      "actions": [],
+      "keywords": [
+        "tänav",
+        "puitmajad",
+        "lumi",
+        "jää",
+        "sulamine",
+        "talv",
+        "kevad",
+        "postid",
+        "juhtmed",
+        "pilvine",
+        "välitingimused",
+        "asula",
+        "vanalinn",
+        "külm"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "puitmajad",
+        "tänav",
+        "lumi",
+        "jää",
+        "elektripostid",
+        "juhtmed",
+        "aknad",
+        "uksed",
+        "katused",
+        "puud",
+        "lumehanged"
+      ],
+      "colorcodes": [
+        "#D8D8D8",
+        "#C8B490",
+        "#ECD59C",
+        "#EACCC8",
+        "#82A082",
+        "#B07C64",
+        "#F0F0F0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [],
+      "snr": "009",
+      "ajad": [
+        "52.160",
+        "56.280"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud valge kass, kes istub aknalaual ja vaatab läbi akna. Akna taga on pitsiline kardin valge tausta ja hallika või helesinise lillemustriga. Akna vasakus servas on näha roheline toataim. Aknaraam on valge ja aknalaua pind helehall. Kassi pilk muutub kaadrite vahel, alguses vaatab ta paremale, hiljem otse kaamerasse, näidates uudishimulikku ilmet.",
+      "actions": [
+        "Kass istub",
+        "Kass vaatab",
+        "Kass pöörab pead"
+      ],
+      "keywords": [
+        "valge kass",
+        "aken",
+        "aknalaud",
+        "kardin",
+        "lillemuster",
+        "toataim",
+        "siseruum",
+        "loom",
+        "uudishimulik",
+        "pilk"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "valge kass",
+        "aken",
+        "aknalaud",
+        "kardin",
+        "toataim",
+        "puidust sein"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#A9A9A9",
+        "#4CAF50",
+        "#B0C4DE",
+        "#A0522D",
+        "#EFEFEF"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab kass paremale (vaataja vasakule), samas kui teisel ja kolmandal pildil on tema pilk suunatud otse kaamerasse/vaatajasse.",
+        "Kassi pea asend muutub veidi, pöörates kaamera poole."
+      ],
+      "snr": "010",
+      "ajad": [
+        "56.280",
+        "60.200"
+      ]
+    },
+    {
+      "explanation": "Pildil on detailne lähivõte puidust teadetetahvlist või seinast, mis on kaetud mitmete paberkuulutustega. Puidust pind on heledapruun, kulunud ja näha on palju klambrijälgi ning väikseid rebenenud paberitükke, mis viitab sagedasele kasutusele. Kaks peamist valget paberkuulutust on selgelt nähtavad, kinnitatud tahvli külge kirjaklambrite või naastudega. Vasakpoolne suurem kuulutus annab teada pihtimuse toimumisest Kallaste linna kirikus 17. märtsil kell 8.00, registreerimisega kell 7.00. Parempoolne väiksem kuulutus teatab jumalateenistusest Neitsi Maarja Kaitsva kirikus Nina külas 18. märtsil (pühapäeval), algusega kell 9.30. Üksikud metallist klambrid ja värvilised (sinine, roheline) naastude pead paistavad valgete paberite taustal.",
+      "actions": [
+        "Kuulutuste kuvamine",
+        "Teavitamine sündmustest"
+      ],
+      "keywords": [
+        "Teadetetahvel",
+        "Kuulutused",
+        "Puit",
+        "Klambrid",
+        "Kirik",
+        "Pihtimus",
+        "Jumalateenistus",
+        "Märts"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [
+        "Puidust tahvel",
+        "Paberkuulutused",
+        "Klambrid",
+        "Naastud",
+        "Rebenenud paberitükid"
+      ],
+      "colorcodes": [
+        "#8B572A",
+        "#F5F5F5",
+        "#000000",
+        "#808080",
+        "#0000FF",
+        "#008000"
+      ],
+      "texts": [
+        "17 марта в 8.00",
+        "состоится исповедь в",
+        "храме города",
+        "Калласте.",
+        "Регистрация в 7.00.",
+        "18 марта (Воскр.) БУДЕТ",
+        "СЛУЖБА В ХРАМЕ ПОКРОВА",
+        "Пресвятой Богородицы",
+        "с. Нина",
+        "нач. 9.30"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esitatud on ainult üks pilt, mitte mitu kaadrit."
+      ],
+      "snr": "011",
+      "ajad": [
+        "60.200",
+        "64.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab valget puitvooderdisega hoonet, mis näib olevat kirik või palvemaja. Hoone esiplaanil on tellistest laotud väravapostid, mille vahel asub roostetanud valge metallvärav. Värav on kaunistatud geomeetrilise ruudu- ja rombimustriga. Tellistest postid on heledates pruunikas-hallikates toonides. Hoone fassaadil on näha vertikaalne puitvooderdis ja paremal pool on aken. Väravapostide kohale on ehitatud kaarjas tellistest konstruktsioon, mille peal on väike tornikujuline ehitis. Selle torni ülaosas, rohelises raamis, asub kuldne ortodoksne rist. Kaare siseküljele on kirjutatud vanas kirillitsas tekst. Hoone katus on hallikasvalge metallist ning näha on ka vihmaveetoru. Maapind on kaetud osaliselt sulanud lume ja jääga, viidates talvisele või varakevadisele perioodile. Värava esine maa on kergelt porine. Hoone sissepääsu juures on näha tumepunaseid uksi ja aknaraame.",
+      "actions": [
+        "ei toimu tegevusi"
+      ],
+      "keywords": [
+        "kirik",
+        "värav",
+        "arhitektuur",
+        "talv",
+        "hoone",
+        "vana",
+        "usuline",
+        "rist",
+        "tekst",
+        "telliskivi"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "hoone",
+        "puitvooder",
+        "väravapostid",
+        "metallvärav",
+        "kaar",
+        "telliskivi",
+        "rist",
+        "torn",
+        "aken",
+        "uks",
+        "katus",
+        "vihmaveetoru",
+        "lumi",
+        "pinnas"
+      ],
+      "colorcodes": [
+        "#D4E1E8",
+        "#B5A599",
+        "#91573B",
+        "#82292E",
+        "#C3A562",
+        "#70A670",
+        "#D0D0D0",
+        "#776C63"
+      ],
+      "texts": [
+        "ОБЪЯВАН ХРИСТА БОГА ПРИИДИТЕ КО МНЕ ВСИ ТРУЖДАЮЩЫИ И ОБРЕМЕНЕННИ НАЗЪ ПОКОЮ ВЫ"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt näitab laiemat vaadet väravale ja hoonele.",
+        "Teine pilt suumib sisse kaarjale ehitisele ja tekstile, paljastades rohkem detaile.",
+        "Kolmas pilt on veelgi detailsem lähivõte kaarest, ristist ja tekstist, pakkudes kõige selgemat vaadet kirillitsas olevale kirjale ja ülemisele arhitektuurile."
+      ],
+      "snr": "012",
+      "ajad": [
+        "64.080",
+        "72.680"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud üksikelamu tüüpi hoone talvises või varakevadises maastikus. Hoone on ühekorruseline, peamiselt roosakas-lõhetooni fassaadiga, mis on mitmest kohast kulunud ja kooruv. Katus on tumedam, võimalik, et eterniidist või laineplekist. Hoone paremas servas on näha telliskorsten. Katuse all jookseb piki esiseina kollane laudisriba, millel on punaste tähtedega kiri \"KAJAKAS\". Hoone esiküljel on mitu ruudukujulist akent valgete raamidega. Üks parempoolne aken on osaliselt kaetud või laudadega kinni pandud. Vasakul pool on näha avatud metallvärav, millele on kinnitatud punane ringikujuline märk valge horisontaalse kriipsuga, mis tähistab sissepääsu keeldu või läbipääsu puudumist. Maapind on kaetud sulava lume ja jääga, mis viitab talve lõpule või varakevadele. Ümber hoone on näha paljaid puid ja põõsaid. Taevas on pilvine ja hall, andes stseenile jaheda ja pisut mahajäetud ilme. Üldine atmosfäär on vaikne ja veidi melanhoolne.",
+      "actions": [],
+      "keywords": [
+        "mahajäetud",
+        "hoone",
+        "roosakas",
+        "kollane",
+        "lumi",
+        "talv",
+        "varakevad",
+        "sissepääsu keeld",
+        "vana",
+        "küla",
+        "päev"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "hoone",
+        "katus",
+        "korsten",
+        "aken",
+        "värav",
+        "silt",
+        "lumi",
+        "jää",
+        "puud",
+        "põõsad",
+        "tee"
+      ],
+      "colorcodes": [
+        "#D89C9A",
+        "#E1B243",
+        "#FFFFFF",
+        "#7D7D7D",
+        "#800000",
+        "#3E4A5C"
+      ],
+      "texts": [
+        "KAJAKAS"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [],
+      "snr": "013",
+      "ajad": [
+        "72.680",
+        "76.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil on lähivõttes kujutatud valget ristkülikukujulist valguskasti või reklaamsilti, millel on punase värviga šabloontehnika abil kirjutatud sõna \"KAJAKAS\". Tekst on veidi kulunud ja osa värvi on maha koorunud, andes märgi vanusest ja ilmastikumõjudest. Silt on kinnitatud heleoranži või virsikuvärvi krohvitud seina külge, mis samuti näib olevat kulunud ja määrdunud. Sildist vasakul ja üleval paremal on näha kollast puitlaudist, mis viitab hoone osale. Sildi all, seinal, jooksevad tumedad juhtmed. Üldmulje on vanast ja veidi lagunenud hooneosast, mis asub tõenäoliselt õues.",
+      "actions": [],
+      "keywords": [
+        "reklaamsilt",
+        "valguskast",
+        "KAJAKAS",
+        "kulunud",
+        "vana",
+        "hoone",
+        "sein",
+        "puitlaudis",
+        "punane tekst",
+        "valge taust",
+        "õues"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "reklaamsilt",
+        "sein",
+        "puitlaudis",
+        "juhtmed"
+      ],
+      "colorcodes": [
+        "#F5F5F5",
+        "#C00000",
+        "#E0B0A0",
+        "#E0C040"
+      ],
+      "texts": [
+        "KAJAKAS"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Pildid on identsed."
+      ],
+      "snr": "014",
+      "ajad": [
+        "76.000",
+        "78.800"
+      ]
+    },
+    {
+      "explanation": "Piltidel on kujutatud talvine või varakevadine maastik jäätunud kanaliga. Esiplaanil on lumega kaetud kaldanõlv, kust kasvavad välja kuivanud pruunikad roostikud ja kõrrelised. Paremal pool on vana puidust kai või sild, mis on samuti lumega kaetud ja näib olevat veidi lagunenud. Kai on ühendatud kaldaga lihtsa puidust laudadest ehitatud sillakesega. Keskel on näha kanal, mis on suuremas osas kaetud jääga, kuid paiguti on näha ka avatud vett. Kanali taga, paremal kaldal, on rida tumerohelisi okaspuid ja mitmed maale tõmmatud paadid, mis on ilmselt talveks hoiustatud. Vasakul kaldal, taamal, asub modernse välimusega valge hoone, millel on sinine katuseosa. Hoone ees on näha punakat pinnast või mullahunnikuid. Taevas on hall ja pilves, andes stseenile jaheda ja rahuliku tooni. Üldine meeleolu on vaikne ja külm.",
+      "actions": [],
+      "keywords": [
+        "talv",
+        "varakevad",
+        "kanal",
+        "jää",
+        "lumi",
+        "kai",
+        "sild",
+        "roostik",
+        "paadid",
+        "puud",
+        "hoone",
+        "külm",
+        "vaikne",
+        "hall taevas"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "lumi",
+        "jää",
+        "kanal",
+        "roostik",
+        "puidust kai",
+        "puidust sillake",
+        "paadid",
+        "okaspuud",
+        "valge hoone",
+        "sinine katus",
+        "mullahunnikud",
+        "pilves taevas"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#A8B0B8",
+        "#826B50",
+        "#4B5E4A",
+        "#3C6B92",
+        "#5A5A5A",
+        "#B07E60"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [],
+      "snr": "015",
+      "ajad": [
+        "78.800",
+        "82.720"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud talvine maastik, kus mitu sinist kalapaati on pargitud lumega kaetud pinnasele. Taustal on näha heledat, pilvist taevast, mis annab edasi halli ja jaheda üldmulje. Paremalt poolt piirab vaadet männimets, mille tumedad rohelised toonid loovad kontrasti heleda lumega. Paadid on paigutatud ebatasasele maale ning seisavad puidust tugipostide või aluste peal, oodates tõenäoliselt kevadet ja merele minekut. Lumi katab maad paksult, moodustades kohati kühmuvaid hangedid. Paatide kere on tumesinine, valgete või heledate detailidega kajutite ja reelingutega. Mõnel paadil on näha nime 'KALLASTE' ja ühel 'VLH-519'. Kogu stseen annab edasi vaikse ja rahulikku, kuid jaheda talvepäeva meeleolu.",
+      "actions": [
+        "Paadid ootavad uut hooaega kaldal"
+      ],
+      "keywords": [
+        "kalapaadid",
+        "talv",
+        "lumi",
+        "kallas",
+        "KALLASTE",
+        "VLH-519",
+        "hall taevas",
+        "männik",
+        "seisvad paadid",
+        "hooldus",
+        "külm ilm"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "kalapaadid",
+        "lumi",
+        "männik",
+        "puud",
+        "taevas",
+        "tugipostid",
+        "paatide alused",
+        "reelingud",
+        "kajutid"
+      ],
+      "colorcodes": [
+        "#3d70b5",
+        "#2c5991",
+        "#e0e0e0",
+        "#f0f0f0",
+        "#a0a0a0",
+        "#606060",
+        "#3d5c3d",
+        "#5c5c5c"
+      ],
+      "texts": [
+        "KALLASTE",
+        "VLH-519"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [],
+      "snr": "016",
+      "ajad": [
+        "82.720",
+        "87.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab elamurajooni tänavat või hoovi talve lõpul või varakevadel. Maapind on kaetud sulava lumega, mis on teede ja majade äärde kuhjatud, moodustades suuri hangede jäänuseid. Teedel on näha lompe ja lumesulavett. Vasakul pool on näha helepruuni ja valge tellisega hoonet, samas kui paremal on erkroheline puidust korterelamu. Taamal paistavad mitmed väikesed puitmajad ja pikad okaspuud, tõenäoliselt männid, ning lehtpuud, mis on veel raagus.  Esiplaanil ja keskel domineerivad tihedad pruunid põõsad. Peamise fookusobjektina on paremal pool näha ainulaadne, ilmselt omavalmistatud rohelist värvi maastikusõiduk, millel on ebatavaliselt suured, pehmetest segmentidest koosnevad rattad, esituli ja väike tuuleklaas. Ühes kaadris on taustal näha ka tumesinist universaalauto. Üldine õhkkond on jahe ja pilves kevadpäev.",
+      "actions": [
+        "Lume sulamine",
+        "Sõiduki parkimine",
+        "Jalutamine (oletatav, kuigi inimesi pole näha)"
+      ],
+      "keywords": [
+        "Kevad",
+        "Talv",
+        "Lumi",
+        "Lumesulam",
+        "Lombid",
+        "Elamurajoon",
+        "Tänav",
+        "Kohandatud sõiduk",
+        "Maastikusõiduk",
+        "Hoov",
+        "Hooned",
+        "Puitmajad",
+        "Korterelamud",
+        "Põõsad",
+        "Puud",
+        "Hall ilm"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Lumi",
+        "Lombid",
+        "Asfalt",
+        "Põõsad",
+        "Puud",
+        "Telefonipost/elektriliinipost",
+        "Korterelamu (roheline)",
+        "Korterelamu (oranž)",
+        "Puitmajad",
+        "Auto (tumesinine universaal)",
+        "Kohandatud sõiduk (roheline neljarattaline)",
+        "Sõiduki rattad (mustad, segmenteeritud)",
+        "Esituli",
+        "Tuuleklaas (sõiduki ees)",
+        "Prügikast (roheline)",
+        "Presend (roheline, maapinnal)",
+        "Akende raamid"
+      ],
+      "colorcodes": [
+        "#F2F5F8",
+        "#3C7C29",
+        "#C87B4B",
+        "#6B4E3A",
+        "#2B3B4B",
+        "#8C8C8C",
+        "#1F2123",
+        "#A0A0A0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "kevad",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on laiem kaader, mis näitab rohkem tänavat, lund ja kaugemaid hooneid, sealhulgas tumesinist autot ning telefoniposti vasakul servas.",
+        "Teine pilt on lähemal rohelisele kohandatud sõidukile ja oranžile korterelamule, kusjuures esiplaanil on suur pruun põõsas, mis varjab osaliselt sõidukit.",
+        "Kolmas pilt pakub kõige detailsema vaate kohandatud sõidukile, näidates selle esiosa, ebatavalisi rattaid ja rohelisi detaile ning oranži korterelamut tagaplaanil ilma esiplaanil oleva põõsata."
+      ],
+      "snr": "017",
+      "ajad": [
+        "87.880",
+        "99.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist, lumega kaetud maastikku, mis on halli ja pilves taeva all. Esiplaanil keskel domineerib vanem, sinine auto, mis on modifitseeritud pikapi stiilis sõidukiks. Auto esiosa on märkimisväärselt tõstetud ja toetub mitmele hallile betoonplokile, paljastades alt roostetanud raami ja mehaanilisi osi. Auto esiküljel on näha ümarad esituled ja tume iluvõre. Auto esiosa all, tumedal taustal, on näha heledaid, kirillitsas tähti, mis sarnanevad KKK-ga. Auto kabiini tagaosa on muudetud veokastiks, mis paistab olevat osaliselt kaetud või suletud. Maapind auto ümber on kaetud paksu lumekihiga, millest torkavad siin-seal välja kuivanud rohulibled ja taimede varred. Auto tagant tõuseb puidust post. Paremal tagapool asub kaks hoonet, mis on ehitatud heledatest tellistest või plokkidest; esimene neist on suurem ja sellel on kaks rohekate raamidega akent. Teine hoone asub kaugemal ja on vähem detailne. Vasakul horisondil paistavad lumiste puude siluetid. Üldpilt annab edasi mahajäetud või unustatud koha tunnet külmal talvepäeval.",
+      "actions": [],
+      "keywords": [
+        "talv",
+        "lumi",
+        "mahajäetud auto",
+        "sinine auto",
+        "modifitseeritud auto",
+        "betoonplokid",
+        "roostes",
+        "hooned",
+        "puidust post",
+        "külm",
+        "maastik",
+        "nõukogude auto"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "auto",
+        "lumi",
+        "betoonplokid",
+        "hooned",
+        "puidust post",
+        "kuivanud taimestik",
+        "puud",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#406296",
+        "#FFFFFF",
+        "#8C8C8C",
+        "#A39686",
+        "#66695F",
+        "#999CA1"
+      ],
+      "texts": [
+        "KKK"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [],
+      "snr": "018",
+      "ajad": [
+        "99.400",
+        "103.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvise või varakevadise ilmaga garaažikompleksi väliala. Pinnas on kaetud sulava lume, jää ja poriga, moodustades mitmeid veeloike. Pildil on näha mitu spetsiaalselt ehitatud maastikusõidukit ehk 'pnevmokoodi', mis on mõeldud keerulisel maastikul liikumiseks. Esiplaanil paremal seisab punane sõiduk, millel on ülisuured, laiad ja madala rõhuga rehvid. See sõiduk näib olevat ehitatud vana sõiduauto, võimalik et Opeli, baasil. Vasakul ja paremal on rivid ühekordseid garaaže, millel on erinevat värvi uksed – pruunid ja punased. Tagaplaanil, garaažide vahelisel teel, on näha veel teisi sarnaseid sõidukeid, üks valge ja üks tumedam. Ümbruskond on pilvise ilmaga, taustal paistavad raagus puud ja taevas on hall.",
+      "actions": [
+        "Maastikusõidukid on pargitud või seisavad",
+        "Lumi sulab",
+        "Vesi koguneb loikudeks"
+      ],
+      "keywords": [
+        "Maastikusõiduk",
+        "Pnevmokood",
+        "Garaažid",
+        "Lumi",
+        "Jää",
+        "Pori",
+        "Loigud",
+        "Talv",
+        "Kevad",
+        "Pilvine",
+        "Off-road",
+        "Omavalmistatud sõidukid",
+        "Garaažikompleks"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Maastikusõidukid (punane, valge, tume)",
+        "Garaažid",
+        "Garaažiuksed (pruunid, punased, sinised)",
+        "Lumi",
+        "Jää",
+        "Pori",
+        "Veeloigud",
+        "Puud (raagus)",
+        "Taevas",
+        "Elektriliini post"
+      ],
+      "colorcodes": [
+        "#A9A9A9",
+        "#FFFFFF",
+        "#8B4513",
+        "#FF0000",
+        "#000000",
+        "#34495E"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0-5",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt kujutab detailset välisstseeni garaažide ja sõidukitega talvis-kevadises miljöös.",
+        "Teine pilt on täiesti must."
+      ],
+      "snr": "019",
+      "ajad": [
+        "103.240",
+        "107.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist väliala, tõenäoliselt maapiirkonnas, lumega kaetud maastikul. Esindatud on suur modifitseeritud maastikuauto (pikap), mille kapott on avatud, viidates võimalikele hooldus- või remonditöödele. Auto on halli ja pruuni värvi, varustatud massiivsete mustade maastikurehvidega ja spetsiaalse koormakatusega tagaosas. Sõiduki küljel on näha logo ja number \"3\", mis viitab ralli- või off-road üritusele. Auto on pargitud heleda telliskivihoone ette, millel on puidust viilkatus. Paremal pool hoonest asub punane metallist kuur. Maapinnal on lisaks lumele näha ka paljast pinnast, muda ja mullaahunnikuid, eriti auto all ja ümbruses. Tagaplaanil on näha puud ja põõsad, mõned neist lehtedeta, kinnitades talvist aastaaega. Ühel kaadritest ilmub auto juurde inimene, kes süveneb avatud kapoti alla, tehes ilmselt mootori kallal tööd.",
+      "actions": [
+        "Auto kapoti avamine",
+        "Auto mootoriga tegelemine/remontimine",
+        "Seismine auto kõrval"
+      ],
+      "keywords": [
+        "Talv",
+        "Maastikuauto",
+        "Remont",
+        "Väljas",
+        "Lumi",
+        "Kuur",
+        "Hoone",
+        "Kapott avatud",
+        "Mudane",
+        "Maapiirkond",
+        "Off-road"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Maastikuauto",
+        "Lumi",
+        "Telliskivihoone",
+        "Puidust viilkatus",
+        "Punane metallkuur",
+        "Puud",
+        "Põõsad",
+        "Mudahunnikud",
+        "Suured maastikurehvid",
+        "Koormakate",
+        "Küljeraud/astmelaud"
+      ],
+      "colorcodes": [
+        "#7C828C",
+        "#A7B0B5",
+        "#5E3E37",
+        "#2B2C2D",
+        "#E0E7EB",
+        "#F2F5F7",
+        "#9F211F",
+        "#C8332E",
+        "#71553E",
+        "#5D4330",
+        "#4E604F",
+        "#5D7260",
+        "#C1C1BD",
+        "#D4D4CE"
+      ],
+      "texts": [
+        "3",
+        "Logo/kleebised"
+      ],
+      "persons": [
+        "Isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on täiesti must ja ei näita stseenist midagi.",
+        "Teisel pildil on näha stseeni ilma ühegi inimeseta.",
+        "Kolmandal pildil on auto kapoti juures näha isikut, kes on küürus auto mootori kohal, teostades remonditöid."
+      ],
+      "snr": "020",
+      "ajad": [
+        "107.800",
+        "139.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest, kes töötab halli modifitseeritud maasturi või pikapi kallal talvises väliskeskkonnas, avatud puidust laudauste vahelt. Sõidukil on avatud kapott ja eesmine vintssüsteem, samuti massiivsed maastikurehvid. Mees, riietatud tumedatesse tööriietesse ja kandmas mütsi, alustab tööd masina eesosa kallal seistes, enne kui heidab selili maale lamamislauale, et masina alt tööd teha. Maastik ümberringi on kaetud lume ja sulalume/mudaga, taustal on näha lumiseid põlde, paljaid puid ja elektriliini posti. Vasakul on näha ka punast hooneosa või konteinerit, mis lisab stseenile värvi.",
+      "actions": [
+        "Töötab autoga",
+        "Kontrollib mootorit",
+        "Lamab auto all",
+        "Remondib sõidukit",
+        "Seisab auto kõrval"
+      ],
+      "keywords": [
+        "Auto remont",
+        "Maastur",
+        "Talv",
+        "Väljas",
+        "Töömees",
+        "Avatud kapott",
+        "Lumi",
+        "Muda",
+        "Vintssüsteem",
+        "Garaažisuu",
+        "Maastikurehvid"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Modifitseeritud maastur/pikap",
+        "Kapott",
+        "Massiivsed rehvid",
+        "Vintssüsteem",
+        "Puidust laudauksed",
+        "Lumi",
+        "Sula-lumi/muda",
+        "Paljad puud",
+        "Elektriliini post",
+        "Punane konteiner/hooneosa",
+        "Lamamislaud/matt"
+      ],
+      "colorcodes": [
+        "#4A3A2B",
+        "#A8B8BF",
+        "#505559",
+        "#2E2F32",
+        "#BD1E2A",
+        "#C7CBCD",
+        "#5F4F3D"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil seisab mees auto ees ja vaatab kapoti alla, hoides käsi masina eesosas.",
+        "Teisel ja kolmandal pildil on mees heitnud selili auto alla, lamamislauale asetatud, ja töötab auto põhja kallal, ulatudes kätega sügavale masina alla.",
+        "Lamamislaud ilmub nähtavale teisel ja kolmandal pildil, toetades meest auto all töötades."
+      ],
+      "snr": "021",
+      "ajad": [
+        "139.080",
+        "157.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist õuesituatsiooni, kus vanem mees tankib omavalmistatud või modifitseeritud sõidukit, mis paistab olevat haagis või maastikusõiduk. Maapind on kaetud paksu lumega, taustal on näha laia lumevälja, kaugemaid paljaid puid ja üksikut elektriliini posti halli taeva all, mis annab edasi külma ja kõrvalise asukoha tunde. Mees on riietatud soojalt, kandes rohelist kõrvaklappidega talvemütsi ja tumesinist voodriga jopet. Ta valab roostes ja kulunud rohelisest metallkanistrist kütust sõiduki küljel asuvasse musta plastlehtrisse, mis on ilmselt püsivalt paigaldatud ja juhib kütusepaaki. Sõiduki külg, kuhu kütust valatakse, on kaetud pruuni puit- või komposiitpaneeliga. Selle kohal on hall tentkatus ja allpool musta rehvi kohal metallist porikaitse. Sõiduki küljel on ka roheline horisontaalne triip ja graafiline kujutis kalast, mis meenutab haugi, viidates võimalikule kalapüügi- või jahikasutusele. Mehe näol on näha keskendumist ja pingutust kanistri kallutamisel. Üldine õhkkond on praktiline ja tööle orienteeritud, peegeldades elu karmis talvises keskkonnas.",
+      "actions": [
+        "Kütuse tankimine sõidukisse",
+        "Kütuse valamine kanistrist lehterisse",
+        "Kanistri hoidmine ja kallutamine"
+      ],
+      "keywords": [
+        "Tankimine",
+        "Kütus",
+        "Kanister",
+        "Lehter",
+        "Talv",
+        "Lumi",
+        "Väljas",
+        "Mees",
+        "Sõiduk",
+        "Haagis",
+        "Külm",
+        "Maastik",
+        "Omavalmistatud",
+        "Modifitseeritud",
+        "Maastikusõiduk",
+        "Kalapüük"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Metallkanister",
+        "Lehter",
+        "Sõiduk/haagis",
+        "Rehv",
+        "Porikaitse",
+        "Lumi",
+        "Puud",
+        "Elektriliini post",
+        "Tentkatus",
+        "Kala graafika (haug)",
+        "Ukselink"
+      ],
+      "colorcodes": [
+        "#5e2e1e",
+        "#a7a7a7",
+        "#5b7b4d",
+        "#4f6e4a",
+        "#4e637a",
+        "#ffffff",
+        "#438f4a",
+        "#4a4a4a"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Pildid jäädvustavad erinevaid hetki tankimisprotsessis: esimene pilt näitab sõidukit ja ümbrust laiemalt enne tankimist või selle alguses, teine pilt keskendub peamiselt kanistri ja lehtri toimingule, kolmas pilt näitab meest ja tema tegevust (valades või olles just valanud) laiemalt, kusjuures kanister on pildilt väljas. ",
+        "Mehe fookus ja kehahoiak muutub vastavalt tegevuse kulgemisele.",
+        "Metallkanister on selgelt nähtav ainult teisel pildil.",
+        "Kalagraafika sõiduki küljel on esimesel pildil selgemini nähtav.",
+        "Kaamera asend ja nurk erinevad veidi iga kaadri vahel, pakkudes erinevat vaadet samale tegevusele."
+      ],
+      "snr": "023",
+      "ajad": [
+        "178.560",
+        "219.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest, kes istub avatud uksega vanema auto, tõenäoliselt Ford Sierra, juhiistmel. Mees on riietatud tumesinisesse tööjakki ja tumedatesse pükstesse ning kannab rohekat mütsi. Tal on käed roolil, justkui valmistudes sõiduks või vahetult enne seda. Auto interjööris on näha halli armatuurlauda ja beeži uksepolstrit. Väljaspool autot, taustal, on näha raagus puid, mis viitab talvisele või varakevadisele ajale, ja kauguses punast, kuuri meenutavat hoonet. Taevas on pilvine ja hele.",
+      "actions": [
+        "Istub autos",
+        "Hoiab roolist kinni",
+        "Valmistub sõiduks"
+      ],
+      "keywords": [
+        "Auto",
+        "Mees",
+        "Juht",
+        "Sõiduk",
+        "Väljas",
+        "Talv",
+        "Varakevad",
+        "Ford Sierra",
+        "Tööriided",
+        "Maal"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Auto",
+        "Rool",
+        "Armatuurlaud",
+        "Istmed",
+        "Auto uks",
+        "Küljepeegel",
+        "Puud",
+        "Hoone",
+        "Müts",
+        "Jakk",
+        "Püksid"
+      ],
+      "colorcodes": [
+        "#2B3D5C",
+        "#9B9C7B",
+        "#8B98A1",
+        "#C3B4A2",
+        "#2D2D2D",
+        "#8C2222",
+        "#D4D8DD"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad märkimisväärsed sisulised erinevused."
+      ],
+      "snr": "024",
+      "ajad": [
+        "219.880",
+        "229.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, tõenäoliselt last, talvises või varakevadises väliskeskkonnas, kus maapind on kaetud lume ja jääga. Nad seisavad vana ja veidi räämas puidust ja telliskivist hoone ees. Paremal pool on näha lage puu. Keskel liigub väike heleda karvaga koer. Üks inimene kannab tumedat jopet ja roosat mütsi, teine punast jopet ja valget mütsi. Õhkkond on jahe ja argipäevane, vihjates maapiirkonnale.",
+      "actions": [
+        "Kaks inimest seisavad ja liiguvad jäisel maapinnal.",
+        "Üks inimene (tumes jopes) hoiab käes kotti.",
+        "Koer liigub vasakult paremale inimeste poole, seistes seejärel punases jopes inimese kõrval."
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Jää",
+        "Lapsed",
+        "Koer",
+        "Vana hoone",
+        "Puidust sein",
+        "Telliskivihoone",
+        "Maapiirkond",
+        "Hüljatud"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puidust hoone",
+        "Telliskivihoone",
+        "Aken",
+        "Koerakuut",
+        "Koer",
+        "Lumi",
+        "Jää",
+        "Puu",
+        "Kott",
+        "Saabas (maa peal)",
+        "Suur metallist ratas"
+      ],
+      "colorcodes": [
+        "#B0C4DE",
+        "#8B4513",
+        "#A9A9A9",
+        "#FF0000",
+        "#2F4F4F",
+        "#D3D3D3",
+        "#FFC0CB",
+        "#FFFACD"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene tumedas jopes ja roosas mütsis",
+        "Inimene punases jopes ja valges mütsis"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Koera asend ja liikumine: esimesel pildil on koer koerakuudi lähedal ja vaatab tumedas jopes inimest, teisel pildil on koer liikunud punases jopes inimese kõrvale ja vaatab endiselt tumedas jopes inimest.",
+        "Tumedas jopes inimese asend: teisel pildil on ta teinud väikese sammu edasi."
+      ],
+      "snr": "025",
+      "ajad": [
+        "229.320",
+        "236.640"
+      ]
+    },
+    {
+      "explanation": "Ülesvõte kujutab inimest, kes on soojalt riides musta kootud mütsi, salli, mantli ja kinnastega, sisenemas halli-valge telgitaolisse ehitisse või sellega suhtlemas. Kaamera vaatepunkt on isiku selja tagant, kes esmalt on näoga telgi poole ja seejärel pöördub veidi küljega, ulatades telgi sisemusse musta kilekoti. Telgi sees on näha vähemalt kahte inimest: üks täiskasvanu mustas jopes siniste detailidega ja üks väiksem isik või laps, seljas punane pluus ja hallid püksid, võimalik et punase salliga. Telgi sisemus on pime, samas kui väljas on valge päev. Läbi telgi väikese ava või akna on näha paljaid puid ja heledat taevast, mis viitab talvele või varakevadele. Telgi sees maapinnal on sinised esemed, mis võivad olla saapad või anumad. Stseen annab üldmulje abistamisest või tegevusest külmas väliskeskkonnas.",
+      "actions": [
+        "sisenema",
+        "ulatama",
+        "hoidma kilekotti",
+        "seisma",
+        "vaatama"
+      ],
+      "keywords": [
+        "telk",
+        "talv",
+        "abistamine",
+        "kilekott",
+        "külm",
+        "väljas",
+        "inimesed",
+        "riided",
+        "humanitaarabi"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "telk",
+        "must kilekott",
+        "kootud müts",
+        "sall",
+        "must mantel",
+        "mustad kindad",
+        "must jope",
+        "sinised detailid riietel",
+        "punane pluus",
+        "hallid püksid",
+        "sinised saapad/anumad",
+        "puud",
+        "heledat taevas"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#3d3d3d",
+        "#8c8c8c",
+        "#cccccc",
+        "#d9d9d9",
+        "#b30000",
+        "#ff0000",
+        "#0000ff"
+      ],
+      "texts": [],
+      "persons": [
+        "täiskasvanu (väljas)",
+        "täiskasvanu (telgis)",
+        "laps/väiksem inimene (telgis)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel kaadril on inimene kaamerale seljaga ja just sisenemas telki.",
+        "Teisel kaadril ulatab sama inimene musta kilekoti telgi sisse. Telgis on näha teise inimese (täiskasvanu) musta jopet siniste detailidega.",
+        "Kolmandal kaadril on väljas olev inimene pööratud veidi küljega, telgi sees on selgemalt näha nii täiskasvanud inimest kui ka last või väiksemat isikut punases pluusis. Telgi sees on näha ka siniseid esemeid maapinnal."
+      ],
+      "snr": "026",
+      "ajad": [
+        "236.640",
+        "248.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab heledakarvalist koera, kes seisab õues jäisel ja lumisel pinnasel. Koer on rihmastatud musta rakmetega, mille külge on kinnitatud pikk metallkett. Kett ulatub üle jää ja kaob kaadri vasakpoolsesse serva. Koera ees, otse tema esikäppade juures, lamab tükk toorest liha. Ta on valvas ja vaatab pilguga paremale (vaataja vaatenurgast), pea kergelt pööratud. Maa on kaetud peamiselt õhukese jääkihiga, mis sulab kohtadesse, kus on näha kuiva rohtu ja pruunikat mulda. Taustal paistavad kuivanud rohulibled, mõned oksad ja lumised laigud, mis viitavad metsikumale või hooldamata alale. Üldine õhkkond on jahe ja kõle, vihjates talvele või varakevadele.",
+      "actions": [
+        "Koer seisab",
+        "Koer vaatab ringi",
+        "Koer jälgib ümbrust",
+        "Koer on ketis"
+      ],
+      "keywords": [
+        "Koer",
+        "Jää",
+        "Lumi",
+        "Kett",
+        "Rakmed",
+        "Toit",
+        "Vabaõhk",
+        "Talv",
+        "Varakevad",
+        "Valvas",
+        "Külm"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Koer",
+        "Metallkett",
+        "Rakmed",
+        "Toores liha",
+        "Jää",
+        "Lumi",
+        "Kuivanud rohi",
+        "Muld",
+        "Oksad"
+      ],
+      "colorcodes": [
+        "#BEAE94",
+        "#A3B0B9",
+        "#3C3729",
+        "#9DA567",
+        "#82654D"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Koera pea suund ja pilk muutuvad veidi, vaadeldes erinevates suundades.",
+        "Koera kõrvade asend muutub kergelt, peegeldades erinevat tähelepanu suunda.",
+        "Koera kehakeel ja asend näitavad väikseid liikumisi, mis viitavad ümbruse jälgimisele."
+      ],
+      "snr": "027",
+      "ajad": [
+        "248.400",
+        "254.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest välitingimustes halli ja pilvise päeva valgel, mis viitab hilissügisele või talvele raagus puude ja inimeste paksude riiete tõttu. Üks meestest, seljas pruun karvase kapuutsiga jope, on just sisenemas modifitseeritud hallikassinisesse sõidukisse, mis sarnaneb maastikusõiduki või Karakat-tüüpi sõidukiga. Sõiduki tagaosa on kaetud halli presendiga. Teine mees, tumesinise mütsi ja halli jopega, seisab sõiduki kõrval, vaadates esimese mehe tegevust. Sõiduki küljel on silmatorkavad kleebised, sealhulgas tekst '2012 KARAKAT 3' ja kotkapea-embleem, samuti horisontaalne türkiissinine triip sõiduki alumisel osal. Kaadrites on näha nii sõidukisse sisenemise protsessi avatud uksega kui ka hilisemat hetke, kus uks on suletud ja sõiduki küljelt on selgelt näha detailid.",
+      "actions": [
+        "Sõidukisse sisenemine",
+        "Teise isiku vaatlemine/ootamine",
+        "Sõiduki ukse sulgemine"
+      ],
+      "keywords": [
+        "Maastikusõiduk",
+        "Karakat",
+        "Talv",
+        "Hilissügis",
+        "Külm ilm",
+        "Kohandatud sõiduk",
+        "Välitingimused",
+        "Pilvine ilm",
+        "Remont",
+        "Hobi"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Sõiduk (modifitseeritud auto, Karakat)",
+        "Presendist kate",
+        "Sõiduki uks",
+        "Rool",
+        "Armatuurlaud",
+        "Autokere",
+        "Autokleebised/decalid",
+        "Kotkapea embleem",
+        "Puud (raagus)",
+        "Taevas (pilvine)",
+        "Müts",
+        "Jope",
+        "Püksid"
+      ],
+      "colorcodes": [
+        "#7B4C25",
+        "#4F647C",
+        "#A8C0C0",
+        "#60D1BF",
+        "#2E2E2E",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "2012",
+        "KARAKAT",
+        "3"
+      ],
+      "persons": [
+        "Mees pruunis karvase kapuutsiga jopes",
+        "Mees tumesinises mütsis ja hallis jopes"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on pruunis jopes isik näha sisenemas sõidukisse, uks on laialt avatud.",
+        "Teisel pildil on lisaks näha teine isik (tumesinise mütsi ja halli jopega) esiplaanil, sisenemine jätkub ja uks on veel avatud, ning näha on ka sõiduki rool.",
+        "Kolmandal pildil on sõiduki uks suletud ning rõhk on sõiduki küljel olevatel kleebistel ('2012 KARAKAT 3'), esimene isik on sõidukis ja teine isik on kaadrist väljas."
+      ],
+      "snr": "028",
+      "ajad": [
+        "254.040",
+        "266.000"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub väikeses ajutises varjualuses või onnis, mis on sisustatud puidust seinapaneelide ja halli kangaga. Varjualuse keskel on väike aken, millest paistab välja heledam, tõenäoliselt lumine maastik, viidates külmale ilmale. Vasakul istub puidust pingil mustas talvejopes ja mütsis naine, kes on suunatud stseeni keskosa poole. Tema kõrval, samuti puidust pingil, istub punases jopes, valges mütsis ja prillidega naine. Paremal pool istub väike laps (tüdruk) punases jopes, valges mütsis ja salliga kamuflaažmustriga kokkupandaval toolil. Paremal ääres on osaliselt näha veel üks inimene, ilmselt laps, tumedas riietuses ja roosa mütsiga. Lagi on hallist kangast ja seal on näha valgusti. Põrand on puidust ja varjualuse sisemus on üldiselt tagasihoidlik ja funktsionaalne, mis on iseloomulik ajutistele peavarjudele külmas kliimas. Inimesed näivad omavahel suhtlevat ja on riietatud soojalt.",
+      "actions": [
+        "Istumine",
+        "Vestlemine",
+        "Vaatamine",
+        "Suhtlemine"
+      ],
+      "keywords": [
+        "Varjualune",
+        "Onn",
+        "Talv",
+        "Külm ilm",
+        "Perekond",
+        "Sõbrad",
+        "Vestlus",
+        "Puhkus",
+        "Kalastusonn",
+        "Lapsed",
+        "Soojad riided"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Puidust seinad",
+        "Hall kangas",
+        "Puidust pingid",
+        "Valgusti",
+        "Väike aken",
+        "Kamuflaažmustriga kokkupandav tool",
+        "Metallist anum",
+        "Talvejoped",
+        "Mütsid",
+        "Sallid",
+        "Prillid",
+        "Püksid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#800000",
+        "#FFFFFF",
+        "#808080",
+        "#5C4033",
+        "#768661",
+        "#FFC0CB"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (vasakul)",
+        "Naine (keskel)",
+        "Laps (paremal)",
+        "Laps/inimene (paremal ääres)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Vasakpoolse naise kehaasend ja näoilme muutuvad kergelt kaadrite vahel, viidates vestlusele või liikumisele.",
+        "Kolmandas kaadris on vasakpoolne naine naeratamas.",
+        "Lapse pilk paremal nihkub veidi kaadrite jooksul."
+      ],
+      "snr": "029",
+      "ajad": [
+        "266.000",
+        "270.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest sisenemas ja istumas halli või sinaka värvusega sõidukisse, mis on tõenäoliselt modifitseeritud maastiku- või ralliauto. Mees on riietatud soojadesse talve- või jahedate ilmade riietesse, kandes tumedat mütsi, polsterdatud jakki ja pükse. Auto asub õues, parkituna heleda seina äärde. Autouks on alguses avatud, kui mees autosse siseneb ja istub juhiistmele, hoides rooli. Hiljem on uks suletud ning mees on nähtav läbi autoakna. Auto küljel on näha mitmeid kleebiseid, sealhulgas \"4WD\", kotkaembleem, number \"26\" ja tekst \"2011 KARAKAT\". Autokere alumisel osal on rohekas või türkiissinine triip. Sõiduki tagaosa on osaliselt kaetud heleda kangaga. Autos on näha armatuurlauda, pruuni istet ja võimalikku raadiot või CB-raadiot.",
+      "actions": [
+        "Autosse sisenemine",
+        "Autos istumine",
+        "Rooli hoidmine"
+      ],
+      "keywords": [
+        "Auto",
+        "Mees",
+        "Sõiduk",
+        "Talveriietus",
+        "Õues",
+        "Juhiiste",
+        "Rool",
+        "Kleebised",
+        "Ralli",
+        "Maastikusõiduk"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Auto",
+        "Mees",
+        "Rool",
+        "Iste",
+        "Armatuurlaud",
+        "Raadio",
+        "Müts",
+        "Jakk",
+        "Püksid",
+        "Autouks",
+        "Aken",
+        "Sein",
+        "Kangas/kate",
+        "Kleebised"
+      ],
+      "colorcodes": [
+        "#5F6B79",
+        "#1E2833",
+        "#6B4E32",
+        "#5BC2B3",
+        "#FFFFFF",
+        "#DFD0C6"
+      ],
+      "texts": [
+        "4WD",
+        "2011",
+        "KARAKAT",
+        "26"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt näitab meest autosse sisenemas, uks on pärani lahti.",
+        "Teine pilt näitab meest autos istumas ja rooli hoidmas, uks on endiselt avatud.",
+        "Kolmas pilt näitab autot suletud uksega, mees on sees nähtav läbi akna. Autoküljel on näha täiendavad kleebised \"2011 KARAKAT 26\" ja rohekas triip."
+      ],
+      "snr": "030",
+      "ajad": [
+        "270.840",
+        "284.360"
+      ]
+    },
+    {
+      "explanation": "Kaks noort tüdrukut istuvad hämaras ruumis, mis tundub olevat mingi kinnine siseruum või kitsas sõiduk. Nad on riietatud talveriietesse: vasakpoolne tüdruk kannab roosat kootud mütsi ja tumedat talvejopet, parempoolne tüdruk aga heledat karvast mütsi, punast talvejopet ja heledat kootud salli. Vasakult paistab sisse ere ristkülikukujuline valgusallikas, mis valgustab osaliselt tüdrukute nägusid ja riideid. Stseenis vaheldub nende näoilme mõtisklevast ja neutraalsest rõõmsa ja laia naeratuseni, mis annab edasi positiivset emotsiooni.",
+      "actions": [
+        "Istuvad",
+        "Naeratavad",
+        "Vaatavad",
+        "Rõõmustavad"
+      ],
+      "keywords": [
+        "Lapsed",
+        "Tüdrukud",
+        "Talv",
+        "Mütsid",
+        "Sall",
+        "Joped",
+        "Siseruum",
+        "Valgus",
+        "Pimedus",
+        "Rõõm",
+        "Naeratus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Roosa kootud müts",
+        "Hele karvane müts",
+        "Must/tume talvejope",
+        "Punane talvejope",
+        "Hele kootud sall",
+        "Ere ristkülikukujuline valgusallikas"
+      ],
+      "colorcodes": [
+        "#B87A8F",
+        "#E0E0D7",
+        "#2C2D2F",
+        "#A52B28",
+        "#E0E0E0",
+        "#1C1A1B"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks tüdrukut",
+        "Kaks last"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "winter",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on tüdrukute näoilmed tõsisemad või mõtisklevamad, eriti parempoolse tüdruku oma.",
+        "Teisel pildil naeratavad mõlemad tüdrukud laialt ja rõõmsalt.",
+        "Vasakpoolne tüdruk pöörab teisel pildil oma pead rohkem kaamera poole ja tema naeratus on silmatorkavam."
+      ],
+      "snr": "031",
+      "ajad": [
+        "284.360",
+        "302.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest, kes juhib sõidukit halli ja pilvise ilmaga. Mees on keskealine või vanem, heledate juuste ja vuntsidega. Ta kannab tumesinist või musta kootud mütsi, tumedat tepitud jakki ja heledat kõrge kaelusega kampsunit. Tema käed hoiavad rooli, mis on musta värvi. Sõiduki sisemus on näha, sealhulgas must armatuurlaud ja pruunikas-puittooniline külgpaneel juhi vasakul käel. Üleval on avatud päikesekatus, millest paistab samuti helehall pilvine taevas. Läbi esiklaasi on näha paremal pool klaasipuhasti ja taustaks on ühtlaselt hele, pilves taevas, mis annab edasi jaheda või talvise meeleolu. Mehe pilk on suunatud ettepoole, keskendunult sõidule.",
+      "actions": [
+        "Sõiduki juhtimine",
+        "Rooli hoidmine"
+      ],
+      "keywords": [
+        "Mees",
+        "Juht",
+        "Sõiduk",
+        "Talv",
+        "Pilvine taevas",
+        "Rool",
+        "Päikesekatus",
+        "Armatuurlaud",
+        "Jakk",
+        "Müts",
+        "Sõit"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Müts",
+        "Jakk",
+        "Kampsun",
+        "Rool",
+        "Armatuurlaud",
+        "Esiklaas",
+        "Klaasipuhasti",
+        "Päikesekatus",
+        "Sõiduki sisemus",
+        "Iste"
+      ],
+      "colorcodes": [
+        "#222C3A",
+        "#282F3B",
+        "#B4B5AF",
+        "#2D2D2D",
+        "#C3D5E4",
+        "#C8C9C4",
+        "#C4D3DF",
+        "#8B7260"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe pea asend ja pilgu suund muutuvad kergelt kaadrite vahel, esimeses vaatab ta rohkem otse-paremale, kolmandas on pea pööratud rohkem vasakule, näidates paremat profiili.",
+        "Mehe parema käe asend roolil muutub kergelt.",
+        "Keha asend muutub veidi, eriti kolmandas kaadris, kus ta on rohkem rooli poole pööratud."
+      ],
+      "snr": "032",
+      "ajad": [
+        "302.080",
+        "312.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia ja pikka asfaltteed maastikul, mis sirutub kaugusesse horisondi poole, kus paistavad elektriliinid. Tee ääres on paljad lehtpuud, peamiselt kased vasakul pool, ning paremal pool segamets, kus kasvavad nii leht- kui ka okaspuud, viimased moodustavad tumerohelise seina. Taevas on pilvine ja hall, mis viitab kas hilistalvelisele või varakevadele. Tee vasakul küljel, esiplaanil, on näha lombid sulaveest või vihmast, mis peegeldavad halli taevast. Kaadri paremal pool tee ääres seisab suur kollane hoiatussilt musta tekstiga. Kaadri vasakul küljel paistab kaugemal sinine liiklusmärk. Stseen on üldiselt vaikne ja tühi, kuid ühel hetkel ilmub vasakult ristmikult teele suur halli-pruuni värvi maastur, millel on ebatavaliselt suured rattad, ja paremal pool teed sõidab jalgrattur tumesinises jopes ja kollase seljakotiga, liikudes kaamerast eemale. Pärast seda on stseen taas inimestest ja sõidukitest tühi.",
+      "actions": [
+        "Jalgrattaga sõitmine",
+        "Maasturiga pööramine teele"
+      ],
+      "keywords": [
+        "Maantee",
+        "Asfalttee",
+        "Kevadtalv",
+        "Varakevad",
+        "Lombid",
+        "Mets",
+        "Puu",
+        "Liiklusmärk",
+        "Maastur",
+        "Jalgratas",
+        "Pilvine",
+        "Hall",
+        "Kased",
+        "Okaspuud",
+        "Ristmik",
+        "Teeäärne"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Tee",
+        "Asfalt",
+        "Lombid",
+        "Paljad puud",
+        "Kased",
+        "Okaspuud",
+        "Mets",
+        "Hoiatussilt",
+        "Liiklusmärk",
+        "Elektriliinid",
+        "Maastur",
+        "Jalgratas",
+        "Seljakott"
+      ],
+      "colorcodes": [
+        "#808080",
+        "#404040",
+        "#FFFF00",
+        "#000000",
+        "#0000FF",
+        "#008000",
+        "#A0522D",
+        "#ADD8E6",
+        "#D3D3D3"
+      ],
+      "texts": [
+        "TÄHELEPANU",
+        "KA TEIE OHTLIK TÖÖ",
+        "130 km"
+      ],
+      "persons": [
+        "Jalgrattur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "85",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil on näha vasakult teele sõitvat suurt halli-pruuni maasturit ja paremal pool teed edasi liikuvat jalgratturit tumesinises jopes ja kollase seljakotiga.",
+        "Esimene ja kolmas pilt on inimestest ja sõidukitest tühjad, teine pilt sisaldab sõidukeid ja inimest."
+      ],
+      "snr": "033",
+      "ajad": [
+        "312.440",
+        "325.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme last, kes viibivad talvisel ajal pimedas ja kinnises siseruumis, mis meenutab sõidukit või väikest varjualust. Vasakul on ere, ristkülikukujuline valgusallikas, mis valgustab kahte esiplaanil olevat tüdrukut. Parempoolne tüdruk kannab punast talvejopet ning valget kudumütsi ja salli, hoides käes mingit eset (tõenäoliselt raamatut või paberit) ja naeratades rõõmsalt. Tema kõrval istuv tüdruk kannab tumedat talvejopet ja roosat kudumütsi, samuti rõõmsa näoilmega. Vasakul on osaliselt näha kolmas laps, kel seljas punane jope. Üldine atmosfäär on soe, hubane ja rõõmus, vaatamata ruumi hämarusele.",
+      "actions": [
+        "Vaatamine eredasse valgusallikasse",
+        "Naeratamine",
+        "Istumine",
+        "Millegi hoidmine käes (parempoolne tüdruk)"
+      ],
+      "keywords": [
+        "Talv",
+        "Lapsed",
+        "Siseruum",
+        "Pimedus",
+        "Valgus",
+        "Rõõmus",
+        "Soojad riided",
+        "Hubane",
+        "Naeratamine",
+        "Seltskond",
+        "Sõiduk",
+        "Varjualune"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Lapsed",
+        "Talveriided (jakid, mütsid, sallid)",
+        "Ere valgusallikas/aken",
+        "Raamat/paber (parempoolse tüdruku käes)",
+        "Ruumi sisustus (seinad, lagi)"
+      ],
+      "colorcodes": [
+        "#CC3333",
+        "#F8F8F8",
+        "#1A1A1A",
+        "#FFFFFF",
+        "#FFC0CB"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks tüdrukut (esilplaanil)",
+        "Üks laps (vasakul osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on tüdrukute näoilmed neutraalsemad või mõtlikumad, teisel ja kolmandal pildil naeratavad mõlemad tüdrukud rõõmsalt.",
+        "Parempoolse tüdruku pilk ja pea asend on kolmandal pildil kergelt nihkunud, vaadates veidi rohkem kaamera poole."
+      ],
+      "snr": "034",
+      "ajad": [
+        "325.680",
+        "333.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maastikusõiduki liikumist märjal, mudasel ja kohati lumisel või jäisel teel madalast perspektiivist. Kaamera on paigutatud sõiduki alla või väga lähedale maapinnale, andes vaate otse vastu sõidusuunda. Sõiduki tumedad rehvid ja veermik on esiplaanil, hõivates suure osa kaadrist. Rehvid möllavad läbi vee, pori ja lume, tekitades intensiivseid pritsmeid ja pilvi, mis levivad üle pildiala. Teeääred on kaetud kuivanud pruunikate ja kollakate heintaimedega või pillirooga, mis viitab talvisele või varakevadisele maastikule väljaspool asustust. Taamal paistab heleda valgusega ala, mis annab aimu avatud maastikust ja päevasest ajast. Kogu stseen annab edasi dünaamikat ja jõulist liikumist mööda rasket pinnast.",
+      "actions": [
+        "Sõiduk sõidab",
+        "Rehvid möllavad läbi pinnase",
+        "Vesi pritsib",
+        "Lumi lendab",
+        "Muda paiskub"
+      ],
+      "keywords": [
+        "Maastikusõit",
+        "Off-road",
+        "Madal nurk",
+        "Rehvid",
+        "Veermik",
+        "Vesi",
+        "Muda",
+        "Lumi",
+        "Jää",
+        "Pritsmed",
+        "Talv",
+        "Kõrkjad",
+        "Hein",
+        "Päevaaeg",
+        "Dünaamika"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Sõiduk",
+        "Rehvid",
+        "Veermik",
+        "Vedrustus",
+        "Tee",
+        "Pori",
+        "Vesi",
+        "Lumi",
+        "Jää",
+        "Hein",
+        "Kõrkjad",
+        "Muld"
+      ],
+      "colorcodes": [
+        "#2A2A2A",
+        "#806030",
+        "#D0E0E0",
+        "#403020"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Peamine erinevus piltide vahel seisneb pinnase ja pritsmete iseloomus. Esimesel ja kolmandal pildil on näha rohkem vedelat vett, pori ja jäätükke, samas kui teisel pildil domineerib paksem lumekate, mida rehvid intensiivsemalt üles paiskavad, luues tihedama valge pilve."
+      ],
+      "snr": "035",
+      "ajad": [
+        "333.120",
+        "336.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab madalat vaatenurka maastikusõiduki alt, mis liigub lumisel või jäisel pinnasel. Kaamera on paigutatud sõiduki veermiku alla, fookus on esisillal, diferentsiaalil, kardaanvõllil ja vedrustuse osadel. Pildil domineerivad suured, sügavmustriga rehvid mõlemal pool. Sõiduki liikudes paiskub rehvide alt üles lund ja jääd, mis viitab aktiivsele liikumisele ja talvistele tingimustele. Taust on udune ja valgusküllane, vihjates avatud maastikule, kus paremal on näha ka kuivanud taimestikku. Üleüldine toon on jahe ja talvine.",
+      "actions": [
+        "Sõiduk liigub edasi",
+        "Lumi ja jää paiskuvad rehvidest üles",
+        "Rattad pöörlevad",
+        "Sõit lumisel/jäisel teel"
+      ],
+      "keywords": [
+        "Maastikusõiduk",
+        "Talv",
+        "Lumi",
+        "Jää",
+        "Sõit",
+        "Madal vaatenurk",
+        "Veermik",
+        "Rehvid",
+        "Nelivedu",
+        "Libedad tingimused",
+        "Talvine maastik"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Maastikusõiduki veermik",
+        "Esitelg",
+        "Diferentsiaal",
+        "Kardaanvõll",
+        "Vedrustusdetailid",
+        "Rehvid",
+        "Lumi",
+        "Jää",
+        "Kuivanud taimestik"
+      ],
+      "colorcodes": [
+        "#282828",
+        "#f0f0f0",
+        "#ffffff",
+        "#8c7d6c"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Rattad on erinevates pöörlemisfaasides, andes edasi liikumise dünaamikat.",
+        "Üles paiskunud lume ja jää osakeste asetus ja kogus muutub kaadrite vahel, rõhutades aktiivset liikumist.",
+        "Maapinnal olevad lumejäljed ja mustrid varieeruvad, näidates edasiliikumist üle pinna.",
+        "Üldine valguse ja udususe intensiivsus taustal on pisut muutuv."
+      ],
+      "snr": "036",
+      "ajad": [
+        "336.720",
+        "337.920"
+      ]
+    },
+    {
+      "explanation": "Pildid kujutavad stseeni väga madalalt, justkui otse maapinnalt vaadates üles sõitva sõiduki veermikule ja ratastele. Tõenäoliselt on tegemist maasturi või mõne muu suurema autoga, mis liigub lumisel ja jäisel teel. Pildi vasakul poolel on näha sõiduki esiratas ja osa veermikust, samas kui paremal on esiplaanil sügava mustriga tagaratta liikumine, mis paiskab üles lund ja jääd. Sõiduki musta värvi veermik, teljed ja vedrustusdetailid on hästi näha pildi keskel ja ülemises osas. Ümbritsev keskkond on hele, valdavalt valge ja helehall, mis viitab avarale lumisele maastikule. Taust on udune, andes edasi liikumise ja kiiruse tunde. Valgus on hajus, vihjates pilvisele talvepäevale.",
+      "actions": [
+        "sõitmine",
+        "edasiliikumine",
+        "lume pritsimine",
+        "jää pritsimine",
+        "rataste pöörlemine"
+      ],
+      "keywords": [
+        "maastur",
+        "talv",
+        "lumi",
+        "jää",
+        "tee",
+        "veermik",
+        "ratas",
+        "rehv",
+        "liikumine",
+        "madal nurk",
+        "off-road",
+        "lumine tee",
+        "jäine tee"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "sõiduk",
+        "auto",
+        "maastur",
+        "ratas",
+        "rehv",
+        "veermik",
+        "telg",
+        "vedrustus",
+        "lumi",
+        "jää",
+        "tee"
+      ],
+      "colorcodes": [
+        "#151515",
+        "#303030",
+        "#C4C4C4",
+        "#E8E8E8",
+        "#D0E0F0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Erinevus piltide vahel seisneb peamiselt parempoolse ratta poolt üles paisatava lume ja jää hulgas, mis annab edasi liikumise dünaamikat. Esimesel pildil on näha kõige intensiivsem lume- ja jäispray, mis on ratta ümber eriti märgatav. Teisel pildil on spray hulgalt mõõdukam. Kolmandal pildil on ülespaisatavat materjali kõige vähem ja teepinna tekstuur ratta ümber tundub siledam ja jäisem, mis võib viidata kas kiiruse vähenemisele, teekatte muutumisele siledamaks või pildistamise hetke erinevusele ratta pöörlemise faasis."
+      ],
+      "snr": "037",
+      "ajad": [
+        "337.920",
+        "342.720"
+      ]
+    },
+    {
+      "explanation": "Piltidel on kujutatud sõiduki alusvankrit ja rattaid väga madalast vaatepunktist, justkui oleks kaamera asetatud maapinnale. Sõiduk sõidab jäisel või väga märjal pinnal, tõstes ratastest üles vett ja jääkilde. Eriti selgelt on näha parempoolsest esirattast (vaataja seisukohast) lenduvaid pritsmeid. Maapind on valge ja hallikas, viidates jääle või lumisele teele. Taust on hele ja avatud, mis annab aimu suurest välialast, näiteks jäätunud järvest või laialdasest jäisest maanteest. Sõiduki rehvid on robustsed, sobides ilmselt maastikule või talvisteks oludeks. Üldmulje on tugevast ja vastupidavast sõidukist. Stseen on valgustatud eredalt, viidates päevasele ajale.",
+      "actions": [
+        "Sõiduk sõidab",
+        "Vesi ja jää pritsivad rataste alt",
+        "Rattad pöörlevad"
+      ],
+      "keywords": [
+        "Jää",
+        "Sõiduk",
+        "Maastikusõiduk",
+        "Alusvanker",
+        "Rattad",
+        "Talv",
+        "Libedus",
+        "Vesi",
+        "Jääkillud",
+        "Pritsmed",
+        "Madal vaatenurk"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Sõiduk",
+        "Rattad",
+        "Rehvid",
+        "Alusvanker",
+        "Veermik",
+        "Võllid",
+        "Diferentsiaal",
+        "Jää",
+        "Vesi"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#e8e8e8",
+        "#a0a0a0",
+        "#f5f5f5"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Pritsmete ja veetilkade asetus ja kuju erineb kaadrite vahel, näidates liikumist.",
+        "Sõiduki rataste pöörlemisest tingitud väikesed nihked kaadrites."
+      ],
+      "snr": "038",
+      "ajad": [
+        "342.720",
+        "343.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sõiduki, tõenäoliselt maasturi või suurema auto, alaosa, mis liigub jäisel või märjal lumisel pinnasel. Kaamera on paigutatud väga madalale, otse maa pinnal, pakkudes ainulaadset vaatenurka auto põhjale, ratastele ja vedrustusele. Sõiduki rehvid on tumedad ja massiivsed, jättes mulje tugevast haardest, kuigi pinal on libe. Ratastest paiskub liikumisel hoogsalt vett ja jääpuru, mis viitab sõiduki märjal või sulaval jääl liikumisele. Näha on auto silla ja veovõlli osi, mis on samuti tumedad. Taust on hele ja udune, vihjates avarale lagedale alale, mis on kaetud jää või lumega. Üldmulje on dünaamiline ja võimas, rõhutades sõiduki võimekust rasketes tingimustes. Vesi pritsib mõlema nähtava ratta tagant, luues liikumise tunde.",
+      "actions": [
+        "Sõiduki liikumine jäisel pinnal",
+        "Vee ja jääpuru paiskumine rehvide alt"
+      ],
+      "keywords": [
+        "Maastur",
+        "Jääsõit",
+        "Rehvid",
+        "Vee pritsmed",
+        "Madal vaatenurk",
+        "Sõiduki alus",
+        "Talv",
+        "Libedad tingimused",
+        "Veosild"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Sõiduk (maastur)",
+        "Rehvid",
+        "Veosild",
+        "Vesi",
+        "Jää",
+        "Jääpuru pritsmed"
+      ],
+      "colorcodes": [
+        "#232323",
+        "#3A3A3A",
+        "#9E9E9E",
+        "#D9D9D9",
+        "#FDFDFD",
+        "#6F6F6F"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Väikesed muutused vee ja jääpuru pritsmete asukohas ja kujus, mis viitab liikumisele ja dünaamikale kaadrite vahel."
+      ],
+      "snr": "039",
+      "ajad": [
+        "343.920",
+        "345.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sõiduki (tõenäoliselt maasturi) alust madalast vaatenurgast, kus sõiduk liigub mööda laia, lamedat ja jäist või lumist pinda. Kaamera on paigutatud otse sõiduki alla maapinna lähedale, pakkudes vaadet vedrustusele, veovõllile, diferentsiaalile ja ratastele. Sõiduki tumedad osad moodustavad kontrastse silueti heleda, peegeldava maapinna taustal. Parempoolne ratas on kaamerale lähemal ja näib liikumisel tekitavat jää- või lumepursete pritsmeid. Maapind on ühtlane ja valge, viitades külmunud järvele või avarale lumisele väljale.",
+      "actions": [
+        "Sõiduk liigub",
+        "Rattad pöörlevad",
+        "Jää- või lumepurset pritsimine rataste alt"
+      ],
+      "keywords": [
+        "Maastur",
+        "Sõiduk",
+        "Jää",
+        "Lumi",
+        "Talv",
+        "Alusvanker",
+        "Ratas",
+        "Telg",
+        "Sõit",
+        "Libedad teeolud",
+        "Veovõll",
+        "Diferentsiaal"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Sõiduk",
+        "Rattad",
+        "Teljed",
+        "Veovõll",
+        "Diferentsiaal",
+        "Vedrustus",
+        "Jäine pind",
+        "Lumi",
+        "Jääpritsmed"
+      ],
+      "colorcodes": [
+        "#262626",
+        "#3A3A3A",
+        "#CFCFCF",
+        "#E6E6E6",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Jää- või lumepursete hulk ja asetus parempoolse ratta ümber varieerub kergelt kaadrite vahel, mis on tingitud sõiduki pidevast liikumisest ja kaamera kiirest järjestikustest võtetest."
+      ],
+      "snr": "040",
+      "ajad": [
+        "345.120",
+        "345.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimesi, tõenäoliselt perekonda, pimedas ja suletud ruumis, mis viitab jääpüügi telgile või soojakule. Vasakult paistab eredalt valgustatud ristkülikukujuline ava, mis võib olla aken või monitor. Esiplaanil vasakul on osaliselt siluettina näha täiskasvanu või vanem inimene, kes vaatab eredat valgusallikat. Tema taga, stseeni keskel paremal, on näha kahte last. Parempoolne laps kannab punast talvejopet, kapuutsi ja paksu heledat (tõenäoliselt valget või kreemjat) kootud salli ning vaatab samuti valgusallikat. Temast veidi tagapool ja vasakul on teine laps, seljas tume jope ja roosa või punakas kootud müts. See laps hoiab käes mingit seadet, mis meenutab kaamerat või väikest monitori, ja vaatab samuti ette valgusallika suunas. Ülal lae all on näha mingi valgusti. Üldine atmosfäär on hubane ja pime, rõhutades eredat valgusallikat.",
+      "actions": [
+        "Vaatamine",
+        "Jälgimine",
+        "Istumine",
+        "Seadme käes hoidmine"
+      ],
+      "keywords": [
+        "Jääpüük",
+        "Kalastamine",
+        "Telk",
+        "Varjualune",
+        "Talv",
+        "Lapsed",
+        "Pere",
+        "Siseruum",
+        "Pime",
+        "Ekraan",
+        "Monitor",
+        "Vaatamine",
+        "Soe riietus",
+        "Külm",
+        "Hubane"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Ereda valgusega ristkülikukujuline ava (aken/monitor)",
+        "Talvejoped",
+        "Kootud sall",
+        "Kootud mütsid",
+        "Seade (kaamera/monitor)",
+        "Valgusti laes",
+        "Telgi või soojaku siseseinad"
+      ],
+      "colorcodes": [
+        "#8B0000",
+        "#FFFFFF",
+        "#000000",
+        "#D2B48C",
+        "#FFC0CB"
+      ],
+      "texts": [],
+      "persons": [
+        "Täiskasvanu/Vanem inimene",
+        "Laps (punases jopes ja salliga)",
+        "Laps (tumedas jopes ja mütsiga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "not clear",
+      "differences": [
+        "Teine pilt on esimesest veidi sisse suumitud või kaamera nurk on marginaalselt muutunud, tuues laste näod ja tegevuse (seadme hoidmise) pisut selgemalt esile."
+      ],
+      "snr": "041",
+      "ajad": [
+        "345.840",
+        "351.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet sõiduki salongist tagantpoolt, tõenäoliselt läbi tagumise või küljeakna. Esikohal on autojuht, kes kannab tumedat mütsi ja tumedamat jopet või kampsunit, ning on pööratud kergelt vasakule, käed roolil. Aknad on kaetud vertikaalsete veejälgedega, mis viitavad vihmale, lumele või kondensatsioonile. Läbi esiklaasi ja juhiakna paistab udune ja valkjas väliskeskkond, mis annab aimu talvisest või jahedast ilmast ning maastikust, mis võib olla lumine või jäine. Armatuurlaual on näha raadioseade rohelise detailiga. Paremas alanurgas on osaliselt näha heleda karvaga olendi, tõenäoliselt lemmiklooma või reisija, pea.",
+      "actions": [
+        "Sõiduki juhtimine",
+        "Roost hoidmine",
+        "Välja vaatamine"
+      ],
+      "keywords": [
+        "Sõiduk",
+        "Autojuht",
+        "Salong",
+        "Talv",
+        "Vihmased aknad",
+        "Sõit",
+        "Raadio",
+        "Lemmikloom"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Auto",
+        "Rool",
+        "Armatuurlaud",
+        "Raadioseade",
+        "Aken",
+        "Müts",
+        "Jope/kampsun",
+        "Karusnahk"
+      ],
+      "colorcodes": [
+        "#49545F",
+        "#2E333D",
+        "#B4BCC3",
+        "#2E2E2E",
+        "#ADD626",
+        "#A28263"
+      ],
+      "texts": [],
+      "persons": [
+        "Autojuht",
+        "Reisija (võimalik loom)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Juhi pea asend on piltidel minimaalselt erinev, viidates pidevale liikumisele või video kaadritele.",
+        "Veejäljed aknal on veidi muutunud asendis, mis viitab kaamera liikumisele või vee voolamisele."
+      ],
+      "snr": "042",
+      "ajad": [
+        "351.040",
+        "357.320"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kaks last pimedas keskkonnas, kus domineerib intiimne ja keskendunud atmosfäär. Esikplaanil on näha lapse profiil, kelle nägu on altpoolt tuleva ereda valgusega intensiivselt valgustatud, andes sellele heleda kuma. See laps kannab heledat, tõenäoliselt kootud rõivastust, millel on punaseid detaile ja paistab olevat kapuutsi või paksema kaelusega riietuses. Tema pilk on suunatud allapoole või ettepoole, mis annab edasi mõtliku või keskendunud ilme. Tema taga, vasakul, on teine laps, kes kannab lillat kootud mütsi ja tumedat jakki. Ka tema nägu on valgustatud altpoolt, kuid on pööratud rohkem allapoole ja tema ilme on samuti mõtlik. Üldine taust on sügavalt tume, peaaegu must, pakkudes tugevat kontrasti laste valgustatud nägudega. Valgusallikas ise ei ole pildil nähtav, kuid see loob stseenile dramaatilise ja fookustatud valgusefekti.",
+      "actions": [
+        "Lapsed vaatavad midagi, mis asub nende all või ees ja kiirgab valgust."
+      ],
+      "keywords": [
+        "Lapsed",
+        "pimedus",
+        "valgus",
+        "profiil",
+        "müts",
+        "kootud",
+        "intiimne",
+        "keskendunud",
+        "vaikne",
+        "portree",
+        "külm",
+        "mõtlik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "kaks last",
+        "lilla müts",
+        "kootud rõivastus",
+        "punane kangas",
+        "tume jakk",
+        "valguskuma"
+      ],
+      "colorcodes": [
+        "#191919",
+        "#764E94",
+        "#B12423",
+        "#D9D2C6",
+        "#B0866A",
+        "#E2E2E2"
+      ],
+      "texts": [],
+      "persons": [
+        "kaks last"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Puuduvad märkimisväärsed erinevused kaadrite vahel."
+      ],
+      "snr": "043",
+      "ajad": [
+        "357.320",
+        "362.720"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab sõiduki alakülge, vaadatuna väga madala nurga alt, peaaegu maapinnalt. Esiplaanil on näha kaks paksu rehvi ja nende vahel sõiduki telg koos veovõllide ning vedrustuse komponentidega. Kaadrit läbivad veepisarad või -plekid objektiivil, mis annab edasi niiske ja jaheda atmosfääri. Sõiduk liigub mööda jäist või lumist pinnast, mis on kaetud ebaühtlaste jää- ja lumemassidega. Horisont on udune ja hele, vihjates pilvisele ilmale või valgele lumisele maastikule. Üldpilt annab edasi robustse liikumise tunde külmas ja väljakutsuvas keskkonnas.",
+      "actions": [
+        "Sõiduk liigub",
+        "Jää või lumi liigub rehvide all",
+        "Vesi pritsib objektiivile"
+      ],
+      "keywords": [
+        "Sõiduk",
+        "Auto",
+        "Maastur",
+        "Rehvid",
+        "Telg",
+        "Jää",
+        "Lumi",
+        "Külm",
+        "Liikumine",
+        "Madal nurk",
+        "Veepisarad",
+        "Off-road",
+        "Talvine maastik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Sõiduk",
+        "Rehvid",
+        "Telg",
+        "Veovõllid",
+        "Vedrustuskomponendid",
+        "Jää",
+        "Lumi",
+        "Vesi",
+        "Objektiivipisarad"
+      ],
+      "colorcodes": [
+        "#181818",
+        "#2D2D2D",
+        "#3C3C3C",
+        "#4F4F4F",
+        "#B0B0B0",
+        "#D8D8D8",
+        "#E8E8E8",
+        "#F0F0F0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Väikesed muutused veepisarate ja -plekkide paiknemises ja kujus kaamera objektiivil, vihjates liikumisele või värisemisele kaadrite vahel.",
+        "Jääl või lumel olevate varjude ja peegelduste nüansilised erinevused."
+      ],
+      "snr": "044",
+      "ajad": [
+        "362.720",
+        "372.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme inimest, tõenäoliselt lapsi ja noori, kitsas siseruumis, mis on hämaravõitu, kuid mille paremas servas asuvast aknast paistab sisse ere valge valgus. Ruum on ehitatud puitpaneelidest ja metallist detailidest, meenutades sõiduki kabiini või varjualust. Paremal istub punase talvejope, valge paksu salli ja valge karvase mütsiga noorem tüdruk, kes vaatab kergelt vasakule. Tema ees, keskel, seisab lilla kootud mütsi ja tumeda jopega vanem tüdruk või noor naine, kes on pilguga suunatud noorema tüdruku poole ja naeratab. Vasakul on näha kolmanda inimese seljaosa, kes kannab tumedat jopet ja heledat mütsi. Siseruumis on näha rippuvaid jopesid ja laes või seinal on paigaldatud soojenduspaneel või valgusti. Üldine atmosfäär on hubane, hoolimata siseruumi pimedusest ja väljast paistvast ereda valgusest, mis viitab talvisele õhkkonnale.",
+      "actions": [
+        "Noorem tüdruk istub ja vaatab ümbritsevat",
+        "Vanem tüdruk/naine seisab ja naeratab noorema tüdruku poole",
+        "Vanem tüdruk/naine hoiab käes väikest eset või paberit"
+      ],
+      "keywords": [
+        "Talv",
+        "Lapsed",
+        "Siseruum",
+        "Aken",
+        "Ere valgus",
+        "Hämarus",
+        "Soojad riided",
+        "Mütsid",
+        "Sall",
+        "Naeratus",
+        "Uudishimu",
+        "Kabiin",
+        "Varjualune",
+        "Külm"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Aken",
+        "Puitsein",
+        "Metallsein",
+        "Lagi",
+        "Soojenduspaneel",
+        "Valgusti",
+        "Punane talvejope",
+        "Valge sall",
+        "Valge müts",
+        "Lilla müts",
+        "Tumedad joped",
+        "Väike ese/paber"
+      ],
+      "colorcodes": [
+        "#CB2726",
+        "#FFFFFF",
+        "#8C568E",
+        "#333333",
+        "#9A7C63",
+        "#DFDFDF"
+      ],
+      "texts": [],
+      "persons": [
+        "Noorem tüdruk",
+        "Vanem tüdruk/noor naine",
+        "Kolmas isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Vanema tüdruku/noore naise näoilme on esimesel pildil osaliselt valgusega varjatud, teisel pildil on ta selgelt naeratamas ja vaatab noorema tüdruku poole.",
+        "Vanem tüdruk/naine hoiab teisel pildil vasakus käes selgemalt nähtavat väikest eset või paberit, mis esimesel pildil oli vähem märgatav.",
+        "Noorema tüdruku pea asend ja pilgu suund on piltide vahel kergelt muutunud.",
+        "Teine pilt on pisut paremini säritatud inimeste nägude osas, muutes detailid selgemaks."
+      ],
+      "snr": "045",
+      "ajad": [
+        "372.240",
+        "378.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab külma, pilves talvepäeva jäätunud veekogul, tõenäoliselt järvel, mis viitab jääpüügile või muule talvisele õuetegevusele. Esiplaanil on vanem mees vuntsidega, kes on riietatud paksu tumesinisesse tepitud jopesse, tumesinisesse mütsi ja salli. Ta liigub tumeda struktuuri (võimalik, et sõiduki, haagise või kalastusmaja) ja jäätunud pinna vahel. Mehe taga paistab ka laps, kes kannab roosat mütsi ja tumedat jopet ning on suunaga eemale kaamerast, ilmselt samuti jääle minemas või seal viibimas. Taustal laiub avar valge ja helehall jäätunud maastik halli taeva all, horisondil on näha kauguses teisi inimesi või objekte.",
+      "actions": [
+        "Mees liigub tumeda struktuuri ja jää vahel",
+        "Mees vaatab kaamerasse",
+        "Mees pöörab külge",
+        "Laps seisab mehe taga"
+      ],
+      "keywords": [
+        "Jääpüük",
+        "Talv",
+        "Jää",
+        "Järv",
+        "Külm",
+        "Välitingimused",
+        "Mees",
+        "Laps",
+        "Kalastusonn",
+        "Sõiduk"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Jää",
+        "Lumi",
+        "Müts",
+        "Jope",
+        "Sall",
+        "Vuntsid",
+        "Tume struktuur",
+        "Haagis",
+        "Roosa müts",
+        "Horisont"
+      ],
+      "colorcodes": [
+        "#464b55",
+        "#9fa7ad",
+        "#bec4c8",
+        "#0d0d0e",
+        "#d4637d"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees",
+        "Laps"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab mees otse kaamerasse.",
+        "Teisel pildil on mees pööranud küljega kaamera poole ja liigub, tema selg on nähtav.",
+        "Kolmandal pildil on mees taas näoga kaamera poole, aga tema taga on nüüd selgemalt näha ka laps roosas mütsis."
+      ],
+      "snr": "046",
+      "ajad": [
+        "378.400",
+        "388.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talviseid tegevusi laial, jäätunud veel või pinnal, tõenäoliselt järvel või merel, halli pilvise taeva all. Kesksel kohal on oluliselt modifitseeritud hall maasturauto suurte rehvidega ja spetsiaalse veokasti või katusega pealisehitusega, mille külge on haagitud musta presendiga kaetud treiler. Jääpinnal viibib grupp inimesi, enamik neist paksudes talveriietes. Inimesed liiguvad auto ja treileri ümber, osa neist näib asju ette valmistavat, maha laadivat või lihtsalt suhtlevat. Üks vanem mees pruunis mantlis hoiab käes väikest eset, mis viitab võimalikule kalapüügivarustusele. Jääl on ka metallist kast ja kokkupandav tool. Stseeni üldine meeleolu viitab ettevalmistusele või vahepeatusele talvistel vabaõhutegevustel, nagu jääkalapüük või talvine autosõit jääl.",
+      "actions": [
+        "Seisavad ja liiguvad jääl",
+        "Pakivad asju autost või treilerist välja",
+        "Seadistavad varustust",
+        "Suhtlevad omavahel",
+        "Üks mees hoiab käes väikest eset, mis võib olla seotud jääkalapüügiga"
+      ],
+      "keywords": [
+        "Jääpind",
+        "Talv",
+        "Maastur",
+        "Treiler",
+        "Inimesed",
+        "Jääkalastus",
+        "Välistingimused",
+        "Külm",
+        "Sõiduk",
+        "Matk",
+        "Ekspeditsioon",
+        "Varustus",
+        "Perekond"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Modifitseeritud hall maasturauto",
+        "Musta presendiga kaetud treiler",
+        "Jää",
+        "Taevas",
+        "Metallkast",
+        "Kokkupandav tool",
+        "Talveriided (mantlid, joped, mütsid, püksid, saapad)"
+      ],
+      "colorcodes": [
+        "#C0C0C0",
+        "#808080",
+        "#000000",
+        "#A52A2A",
+        "#FF0000",
+        "#FFFFFF",
+        "#D3D3D3"
+      ],
+      "texts": [
+        "3"
+      ],
+      "persons": [
+        "Vanem mees (pruunis mantlis)",
+        "Täiskasvanu (mustas talveülikonnas, seljaga)",
+        "Täiskasvanu (tumedas riietuses, auto juures kummardumas)",
+        "Naine (punases jopes ja valges mütsis/kapuutsiga)",
+        "Laps (punases jopes ja valges mütsis)",
+        "Väike laps (punases jopes ja valges mütsis)",
+        "Täiskasvanu (tumedas riietuses, auto juures)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Inimeste asukohad ja kehahoiakud muutuvad kaadrite vahel, näidates nende liikumist ja tegevusi.",
+        "Erinevates kaadrites ilmub ja kaob vaateväljast naine punases jopes ning lapsed punastes jopedes, samuti muutub nende paiknemine auto suhtes.",
+        "Mõned inimesed liiguvad kaamera poole lähemale või eemalduvad autost.",
+        "Mõned üksikud esemed, nagu kokkupandav tool, ilmuvad või muutuvad teatud kaadrites selgemaks."
+      ],
+      "snr": "047",
+      "ajad": [
+        "388.400",
+        "398.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist õues viibimist lumisel või jäisel maastikul, kus grupp inimesi on riietatud soojadesse talveriietesse. Esirinnas on näha pruuni karvase kraega mantlit kandev täiskasvanu, kes küürutab ja tegeleb mingi tööriistaga, mis sarnaneb kalapüügivarustusega. Tema kõrval seisab väike punases paksus jopes laps, peas valge müts ja kaelas valge narmastega sall, jälgides täiskasvanu tegevust. Taamal paistab hallikas sõiduk või käru suurte rattastega, mis on kohandatud raskel maastikul liikumiseks. Stseeni laienedes ilmub paremale poole ka teine punases kapuutsiga jopes täiskasvanu, kes samuti küürutab ja tegutseb maapinnal. Sõiduki ümber on näha veel täiskasvanuid ja lapsi, mis annab aimu, et tegemist on peresündmuse või grupitegevusega. Üldine õhkkond viitab aktiivsele ajaveetmisele talvises looduses, tõenäoliselt jääpüügi või muu sarnase tegevuse raames. Maapind on kaetud paksu lume või jääga ja taevas on hele, veidi pilvine.",
+      "actions": [
+        "Kalapüügiks valmistumine",
+        "Jääl tegelemine tööriistaga",
+        "Jääl seismine ja vaatlemine",
+        "Soojadesse talveriietesse riietumine",
+        "Sõiduki kasutamine transportimiseks"
+      ],
+      "keywords": [
+        "Jääpüük",
+        "Talv",
+        "Väljas",
+        "Lapsed",
+        "Perekond",
+        "Lumi",
+        "Jää",
+        "Sõiduk",
+        "Soojad riided",
+        "Meelelahutus",
+        "Talispordivarustus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Pruun karvase kraega mantel",
+        "Must müts",
+        "Prillid",
+        "Punane talvejope",
+        "Valge müts",
+        "Valge narmastega sall",
+        "Kindad",
+        "Tööriist (võimalik, et jääpuuri käepide või kalapüügivahend)",
+        "Suurte ratastega sõiduk/käru",
+        "Punase kapuutsiga jope",
+        "Must talvejope",
+        "Jää",
+        "Lumi",
+        "Kalapüügivarustus"
+      ],
+      "colorcodes": [
+        "#6F4A32",
+        "#1C1C1D",
+        "#E81A1A",
+        "#E8E5DC",
+        "#6F7273",
+        "#E71D1D",
+        "#242426",
+        "#E0E4E7",
+        "#4D5455"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (pruuni mantliga)",
+        "Väike laps (punase jopega)",
+        "Naine (punase kapuutsiga)",
+        "Mees (musta jopega, taustal)",
+        "Muud täiskasvanud ja lapsed (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaamera nurk muutub veidi, paljastades rohkem taustal olevat sõidukit ja teisi inimesi.",
+        "Pruuni mantlit kandva peategelase käte asend muutub kergelt.",
+        "Punases jopes lapse kehahoiak muutub minimaalselt.",
+        "Rohkem inimesi muutub nähtavaks taustal, eriti paremal olev punase kapuutsiga isik ja sõiduki juures seisev mees.",
+        "Üldine kompositsioon laieneb veidi, näidates stseenist suuremat osa."
+      ],
+      "snr": "048",
+      "ajad": [
+        "398.040",
+        "415.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mitmeliikmelist seltskonda, tõenäoliselt perekonda, tegelemas talvise jääpüügiga jäätunud järvel või veekogul. Valitseb pilvine talveilm, maastik on kaetud paksu, hallikasvalge jääkihiga. Esiplaanil istub vanem mees, kes on riietatud soojalt tumedasse talvekombinesooni ja musta mütsi ning hoiab käes õnge või püügivahendit. Tema pilk on suunatud allapoole, tõenäoliselt jääaugu poole. Tema läheduses on näha laps punases talvejopes ja valges kootud mütsis, kes jälgib tähelepanelikult tegevust. Taustal tegutseb veel mitu inimest – täiskasvanud ja teised lapsed – samuti soojalt riietatuna, mõned neist kummarduvad püügiaukude kohale või tegelevad varustusega, näiteks kalapüügiämbriga. Üks täiskasvanu on pruunis pikas jopes ja teine tumedas. Horisondil paistab kaldajoon, kus on näha puid ja hooneid, mis viitab asustusele läheduses. Üldine atmosfäär on rahulik ja keskendunud kalapüügile jäisel maastikul.",
+      "actions": [
+        "Jääpüük",
+        "Kalastamine",
+        "Kalapüügivahendite käes hoidmine",
+        "Varustuse paigaldamine",
+        "Jääaukude juures kummardamine",
+        "Tegevuse vaatlemine",
+        "Jääle istumine"
+      ],
+      "keywords": [
+        "Jääpüük",
+        "Kalapüük",
+        "Talv",
+        "Järv",
+        "Perekond",
+        "Vaba aeg",
+        "Harrastus",
+        "Külm ilm",
+        "Talvepäev",
+        "Väljas",
+        "Jäätunud veekogu"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Jää",
+        "Kalapüügiõng",
+        "Kalapüügivahendid",
+        "Metallist ämber",
+        "Kokkupandav tool",
+        "Talvejoped",
+        "Mütsid",
+        "Talvesaapad",
+        "Sõiduki osa (paremal servas)",
+        "Jääaugud",
+        "Kaldajoon",
+        "Puud (taustal)",
+        "Hooned (taustal)",
+        "Sall"
+      ],
+      "colorcodes": [
+        "#36454F",
+        "#FF0000",
+        "#FFFFFF",
+        "#A9A9A9",
+        "#6B4C2D",
+        "#937748",
+        "#808080",
+        "#D3D3D3"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees (hallipäine, mustas mütsis ja tumedas kombinesoonis, esiplaanil)",
+        "Laps (punases jopes ja valges mütsis)",
+        "Täiskasvanu (pruunis pikas jopes ja mütsis, taustal)",
+        "Täiskasvanu (tumedas jopes ja mütsis, taustal)",
+        "Teised lapsed/täiskasvanud (taustal, osaliselt nähtavad)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 70,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaamera vaatenurk ja kadreering on piltide vahel muutunud. Esimene pilt on laiem kaader, mis näitab enamikku grupist kaugemalt. Teine ja kolmas pilt on lähemal vanemale mehele ja lapsele.",
+        "Erinevates kaadrites on esiplaanil olev vanem mees ja laps veidi erinevates asendites ja orientatsioonides. Esimesel pildil on vanem mees näoga paremale, pilk allapoole, ja laps on temast eemal, peaaegu selja tagant. Teisel pildil on laps kaamera poole seljaga ja vanem mees on temale lähemal, suunates pilku lapse poole. Kolmandal pildil on lapse tagantvaade veelgi selgem ja vanem mees on endiselt püügile keskendunud.",
+        "Taustal olevate inimeste tegevus ja asetus on samuti veidi varieeruv. Esimesel ja kolmandal pildil näivad nad aktiivsemalt varustusega tegelevat, samas kui teisel pildil seisab pruunis jopes täiskasvanu pigem paigal."
+      ],
+      "snr": "049",
+      "ajad": [
+        "415.320",
+        "492.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist päeva jäätunud veekogul, tõenäoliselt järvel, kus toimub jääpüügiüritus. Keskel seisab suurendatud ratastega modifitseeritud hall pikap-tüüpi sõiduk, mis veab taha kinnitatud tumedat kinnist treilerit. Sõiduki ümber on mitu inimest – kaks täiskasvanut ja kolm last. Üks mees istub sõiduki lähedal väiksel toolil ja on ilmselt kalastamisega tegelemas, tema kõrval seisab tüdruk roosas mütsis ja tumedas jopes. Veidi eemal vasakul on näha teine täiskasvanu, kes kummardub, ja tema läheduses kaks väiksemat last, kellest üks on punases jopes. Jääl sõiduki ees on näha paar väikest kala, mis viitab edukale püügile. Taustal paistab lai jäätunud veeväli ja kauge silmapiir, kus on näha teisi inimesi ja sõidukeid, mis annab aimu suuremast üritusest või rahvarohkest kalastuskohast. Taevas on pilvine ja hele.",
+      "actions": [
+        "jääpüük",
+        "vaatlemine",
+        "vestlemine",
+        "seismine",
+        "kummardumine"
+      ],
+      "keywords": [
+        "jääpüük",
+        "talv",
+        "sõiduk",
+        "treiler",
+        "pere",
+        "järv",
+        "külm",
+        "harrastus",
+        "modifikatsioonid"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "modifitseeritud pikap-tüüpi sõiduk",
+        "treiler",
+        "kala",
+        "jää",
+        "lumi",
+        "taevas",
+        "tool",
+        "ämber",
+        "kalastustarbed (oletatavad)",
+        "riided"
+      ],
+      "colorcodes": [
+        "#676C71",
+        "#C71A1A",
+        "#D39FBA",
+        "#D0E0E7",
+        "#A9BCC8",
+        "#2E2F32"
+      ],
+      "texts": [
+        "KALLASTE 011",
+        "3"
+      ],
+      "persons": [
+        "mees (istuv)",
+        "tüdruk (roosas mütsis)",
+        "laps (punases jopes)",
+        "täiskasvanu (kummarduv)",
+        "laps (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Tüdruku käte ja keha asend on kergelt muutunud.",
+        "Istuv mees liigutab veidi oma käsi ja pea suunda.",
+        "Jääl olevate kalade asend on minimaalselt muutunud.",
+        "Punase jopega lapse käte asend on muutunud."
+      ],
+      "snr": "050",
+      "ajad": [
+        "492.400",
+        "495.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte värskelt püütud kala hallil, tekstuurilisel jääpinnal. Jää on ebaühtlase pinnaga, kohati siledam, kohati krussilisem, andes edasi külma ja jäise keskkonna tunde. Kalad on hõbedase kehaga ja neil on punakasoranžid uimed, mis on silmapaistvalt nähtavad. Ühel kalal on kehal märgatav punane laik, mis viitab kas vigastusele või verele. Kalade asendid ja orientatsioon muutuvad kaadrite vahel, mis annab edasi nende liikumise või liigutamise jääpinnal.  See on selgelt välitingimustes toimuv sündmus, mis leiab aset talvises keskkonnas.",
+      "actions": [
+        "Kala liigutamine jääl",
+        "Kalade asendi muutumine",
+        "Arvatav jääpüük"
+      ],
+      "keywords": [
+        "Jää",
+        "Kalad",
+        "Talv",
+        "Jääpüük",
+        "Külm",
+        "Värskelt püütud",
+        "Hõbedane kala",
+        "Punased uimed"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Kalad",
+        "Jää"
+      ],
+      "colorcodes": [
+        "#A7B6BF",
+        "#DFE3E2",
+        "#C5443B"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kalade asendid ja orientatsioon muutuvad iga kaadri vahel.",
+        "Kalade kaugus üksteisest varieerub kaadrite vahel.",
+        "Jääpinna detailid ja varjud erinevad veidi kaadrites valgustuse ja nurga muutuse tõttu."
+      ],
+      "snr": "051",
+      "ajad": [
+        "495.840",
+        "510.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab grupp inimesi tegelemas jääpüügiga avaral jäätunud veekogul pilvise taeva all. Mitmed isikud, sealhulgas täiskasvanud ja lapsed, on riietatud soojadesse talveriietesse. Esiplaanil on näha mitu jääle püütud väikest kala. Üks punases jopes ja valges mütsis laps on esimesel pildil kummardunud kalu uudistama, teisel pildil aga seisab püsti ja on pööranud näo eemale. Lähistel seisab roosa mütsi ja musta jopega naine, kes jälgib tegevust. Tagaplaanil kükitab üks tumedates riietes täiskasvanu jääaugu juures ning paremal istub kokkupandaval toolil mustas mütsis ja jopes mees, kes hoiab käes õngeritva, aktiivselt kalastades. Pildi paremas servas on osaliselt näha suurte ratastega sõiduk või haagis, mis on tõenäoliselt kasutuses jääl liikumiseks. Jääpind on hallikas ja seal on näha puuritud jääauke. Üldine atmosfäär viitab jahedale, kuid tegevusterohkele talvisele välitegevusele.",
+      "actions": [
+        "Jääpüük",
+        "Kalade vaatamine",
+        "Seismine",
+        "Istumine toolil",
+        "Kummardumine/kükitamine jääaugu juures",
+        "Kalastamine õngeritvaga"
+      ],
+      "keywords": [
+        "Jääpüük",
+        "Talv",
+        "Järv",
+        "Kala",
+        "Väljas",
+        "Külm",
+        "Pere",
+        "Päev",
+        "Talveriided",
+        "Kalastamine"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Jää",
+        "Väikesed kalad",
+        "Sõiduk (suurte ratastega)",
+        "Kokkupandav tool",
+        "Õngeritv",
+        "Talvejoped",
+        "Talvemütsid",
+        "Talvesaapad",
+        "Jääaugud"
+      ],
+      "colorcodes": [
+        "#D8D8D8",
+        "#A0A0A0",
+        "#E00000",
+        "#D87093",
+        "#0A0A0A",
+        "#F0F0F0",
+        "#C0C0C0"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (roosa mütsi ja musta jopega)",
+        "Laps (punase jope ja valge mütsiga)",
+        "Mees (musta mütsi ja jopega, istub toolil)",
+        "Täiskasvanu (mustas riietuses, kükitab tagaplaanil)",
+        "Täiskasvanu (osaliselt nähtav, mustas jopes)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Laps punases jopes ja valges mütsis on esimesel pildil kalade poole kummardunud, teisel pildil aga seisab püsti ja on näoga eemale pööratud.",
+        "Naine roosas mütsis muudab veidi oma asendit ja pilgu suunda piltide vahel.",
+        "Tagaplaanil kükitav täiskasvanu on teisel pildil veidi teises asendis, justkui oleks ta augule lähemale liikunud."
+      ],
+      "snr": "052",
+      "ajad": [
+        "510.040",
+        "525.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist päeva jäätunud veekogul, mis võib olla järv või lai jõgi, kus mitmed inimesed tegelevad jääkalastusega. Taevas on pilvine, viidates jahedale ilmale. Keskses plaanis on vanem mees rohelises kamuflaažjakis ja mustas karusnahast mütsis, kes alguses lükkab isevalmistatud kelku koos varustusega üle jää. Hiljem on ta osa väiksemast grupist, mis on kogunenud suure, kohandatud maastikusõiduki ümber, millel on ülemõõdulised rehvid ja eritellimusel valmistatud tagumine kabiin, mis tõenäoliselt toimib baasina. Teine mees istub taburetil ja kalastab aktiivselt, hoides õnge üle jääaugu. Läheduses seisab veel üks täiskasvanud mees ja väike punases talvemantlis laps, kes jälgivad tegevust. Üldine atmosfäär on rabe, välitegevusele ja seltskonnale omane külmas ja avarust pakkuvas keskkonnas.",
+      "actions": [
+        "Kelgu lükkamine",
+        "Jääl kõndimine",
+        "Jääkalastamine (istudes ja õnge hoides)",
+        "Vaatlemine",
+        "Seismine"
+      ],
+      "keywords": [
+        "Jääkalastus",
+        "Talv",
+        "Jää",
+        "Sõiduk",
+        "Kalamehed",
+        "Laps",
+        "Väljas",
+        "Külm",
+        "Lumerohi",
+        "Seltskond"
+      ],
+      "shot_type": "Erinevad: lai, pikk, kesklähedane",
+      "placement": "Väljas",
+      "objects": [
+        "Mees",
+        "Kelk (jalastega käru)",
+        "Jää",
+        "Varustus",
+        "Kollane kott",
+        "Sõiduk (modifitseeritud maastur/pikap)",
+        "Haagis",
+        "Kalaauk (jääs)",
+        "Õngevarras",
+        "Taburet",
+        "Karusnahast müts",
+        "Kamuflaažjakk",
+        "Punane mantel",
+        "Valge sall",
+        "Käpikud"
+      ],
+      "colorcodes": [
+        "#4A6335",
+        "#000000",
+        "#D3D3D3",
+        "#F0E68C",
+        "#808080",
+        "#8B0000",
+        "#FFFFFF",
+        "#A52A2A"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees kamuflaažjakis ja karusnahast mütsis",
+        "Istuv kalamees sinises jakis ja mütsis",
+        "Seisev mees pruunis karusnahkse kraega mantlis",
+        "Väike tüdruk punases talvemantlis, valges mütsis ja salliga"
+      ],
+      "imagetype": "real",
+      "emptypercent": 50,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Piltidel on erinevad vaatenurgad ja kaadri suurused: esimesel pildil on lai kaader mehest kelku lükkamas, teisel on lähivõte samast mehest ja kolmandal on keskmine/pikk kaader grupist sõidukiga.",
+        "Tegevused muutuvad: ühel pildil lükatakse kelku, teistel piltidel kalastatakse ja suheldakse.",
+        "Pildistatud isikute arv ja koosseis erineb: ühel pildil on üksik mees, teistel piltidel on grupp inimesi (kolm meest ja laps).",
+        "Piltidel näha olev varustus ja objektid erinevad: esimene pilt keskendub kelgule, kolmas pilt keskendub suurele modifitseeritud sõidukile ja kalastustarvikutele."
+      ],
+      "snr": "053",
+      "ajad": [
+        "525.080",
+        "546.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme meest välitingimustes talvisel ajal, kuna maapind on kaetud lume või jääga ja kõik kannavad paksu talveriietust. Esiplaanil vasakul seisab seljaga kaamera poole mees, kellel on seljas kamuflaažmustriga jope ja peas must karusnahkne müts. Ta jälgib teisi. Keskel istub taburetil tumesinises jopes ja tumesinises mütsis mees, kes tegeleb millegi puhastamise või ettevalmistamisega, kasutades ilmselt nuga või sarnast tööriista. Tema näol on näha kerget naeratust. Paremal seisab pruunis mantlis ja pruunis karusnahkses mütsis mees, kes samuti jälgib tegevust või abistab. Tagaplaanil on näha helehallikat sõiduautot, mille tagaosa külge on kohandatud tumepruuni ja halli värvi haagis või pagasiruumi pikendus. Autol on küljel roheline horisontaalne triip. Üldine õhkkond on tegus ja seltskondlik.",
+      "actions": [
+        "Mees puhastab või prepareerib midagi käes oleva tööriistaga",
+        "Mehed jälgivad tegevust",
+        "Mehed suhtlevad omavahel",
+        "Mees istub taburetil"
+      ],
+      "keywords": [
+        "Talv",
+        "Väljas",
+        "Mehed",
+        "Sõiduk",
+        "Jää",
+        "Lumi",
+        "Külm",
+        "Tegutsemine",
+        "Tööriist",
+        "Seltskond"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Kolm meest",
+        "Sõiduauto",
+        "Kohandatud haagis/pikendus auto tagaosas",
+        "Karusnahksed mütsid",
+        "Kamuflaažjakk",
+        "Tumesinine jope",
+        "Pruun mantel",
+        "Tumesinine müts",
+        "Taburet",
+        "Tööriist (nuga/kraabits)",
+        "Lumi/jää maapinnal"
+      ],
+      "colorcodes": [
+        "#4A4A4A",
+        "#6A7F6E",
+        "#8E7A6E",
+        "#3C5B7E",
+        "#7F5A40",
+        "#A0B0C0",
+        "#504030",
+        "#4CAF50",
+        "#F0F0F0"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees kamuflaažjakis ja mustas karusnahkses mütsis",
+        "Mees tumesinises jopes ja tumesinises mütsis",
+        "Mees pruunis mantlis ja pruunis karusnahkses mütsis"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Meeste kehahoiakud ja näoilmed on kaadrite vahel kergelt muutunud, eriti keskel istuva mehe oma, kes ühes kaadris naeratab otse kaamera poole.",
+        "Kaamera vaatenurk on kaadrite vahel pisut nihkunud, pakkudes stseenist veidi erinevaid perspektiive."
+      ],
+      "snr": "054",
+      "ajad": [
+        "546.120",
+        "565.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest talvisel päeval jäätunud veekogul, mis on tõenäoliselt järv või lai jõgi. Ta seisab keset avarust, mis on kaetud paksu jääga, millel on kohati lumised või jäised laigud. Mees on riietatud soojalt, kandes musta karvase ushanka mütsi ja tumedate karvase kraega kamuflaažmustriga talvejopet. Jope all paistab tumedam sviiter. Tema pilk on suunatud kas allapoole või vasakule, vaadates midagi kaadri vasakus servas. Tagaplaanilt paistab kauge metsaäärne kaldajoon, kus on näha puid ja hajali maju või hooneid. Taevas on pilvine ja valge, viitades päevale, kuid mitte otsesele päikesepaistele. Paremas kauguses on jää peal näha ka teisi väikeseid tumedaid objekte, mis võivad olla inimesed või telgid, vihjates jääkalastusele. Kaadri vasakus alaosas on näha heledat punast värvi, mis võib kuuluda teisele inimesele või esemele, kuid see on suures osas varjatud.",
+      "actions": [
+        "Mees seisab",
+        "Mees vaatab allapoole või küljele"
+      ],
+      "keywords": [
+        "Jääkalastus",
+        "Talv",
+        "Jää",
+        "Mees",
+        "Ushanka",
+        "Kamuflaaž",
+        "Külm",
+        "Järv",
+        "Väli",
+        "Talvine maastik"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Ushanka müts",
+        "Kamuflaažjope",
+        "Karvane krae",
+        "Jää",
+        "Lumi",
+        "Puud",
+        "Majad",
+        "Pilvine taevas",
+        "Punane riie (osaliselt nähtav)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#5F6B4F",
+        "#8F9A7B",
+        "#3B4433",
+        "#343D3F",
+        "#CAD3DB",
+        "#E0E7EB",
+        "#C7D0D7",
+        "#707B65",
+        "#939E92",
+        "#D4282B"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe asend ja näoilme muutuvad kergelt kaadrite vahel.",
+        "Kaamera nurk muutub kergelt, näidates meest esimeses kaadris rohkem eestpoolt ja järgmistes kaadrites rohkem profiilis, paremalt poolt.",
+        "Kaadrite keskpunkt nihkub veidi, pakkudes erinevates kaadrites fookust mehe erinevatele külgedele ja ümbrusele.",
+        "Punane objekt kaadri vasakus alaosas on teises ja kolmandas kaadris veidi paremini nähtav."
+      ],
+      "snr": "055",
+      "ajad": [
+        "565.800",
+        "603.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist jääpüügi päeva jäätunud veekogul, kus mitu inimest, nii täiskasvanud kui ka lapsed, on kogunenud kalastama. Taevas on pilvine ja maastik hallikasvalge, mis viitab külmale ilmale. Inimesed kannavad pakse talveriideid, mis kaitsevad neid külma eest. Mitmed inimesed kükitavad jääaukude kohal, tegeledes kalapüügiga, samal ajal kui üks mees istub toolil ja kalastab. Üldine õhkkond on rahulik ja keskendunud tegevusele jääl.",
+      "actions": [
+        "Jääpüük",
+        "Kükitamine",
+        "Istumine",
+        "Painutamine",
+        "Vaatlemine",
+        "Kalastusvarustuse käsitlemine"
+      ],
+      "keywords": [
+        "Jääpüük",
+        "Talv",
+        "Külm",
+        "Jäätunud veekogu",
+        "Pilvine",
+        "Vaba aeg",
+        "Hobi",
+        "Perekond",
+        "Talveriided"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kalastusvarustus",
+        "Jääaugud",
+        "Tool",
+        "Metallkast",
+        "Kilekott",
+        "Kindad",
+        "Seljakott",
+        "Kelk",
+        "Jääpuur"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#D3D3D3",
+        "#FF0000",
+        "#8B4513",
+        "#000000",
+        "#800080"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (kalastaja)",
+        "Naine (kalastaja)",
+        "Tüdruk (kalastaja)",
+        "Laps (kalastaja)",
+        "Kalastajad (täiskasvanud ja lapsed)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on näha inimeste liikumist ja asendite muutumist. Eriti märgatav on liikumine paremal pool kalastavate inimeste seas, kus nende kehahoiakud ja käte asendid pisut muutuvad.",
+        "Taamal olev isik on kaadrite vahel oma asendit muutnud ja kolmandal pildil on näha teda hoidmas jääpuuri meenutavat eset.",
+        "Punases jopes tüdruku käed ja pea on kaadrite vahel asendit muutnud, andes märku tegevusest ja dünaamikast."
+      ],
+      "snr": "056",
+      "ajad": [
+        "603.400",
+        "617.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes tegeleb jääpüügiga avaral ja jäisel veekogul pilvise taeva all. Isik on riietatud soojalt, kandes pruuni karvase kapuutsiga talvemantlit, halli värvi pükse, tumedaid saapaid ja musta mütsi. Ta istub kokkupandaval toolil mitme jääaugu kõrval. Ühes jääaugus on näha väike valge anum, mis sisaldab tumepunast ainet, võimalik et sööta. Jääl on märgata ka mõned väikesed püüdmata kalad. Horisondil paistab kauguses maa-ala või metsatukk ning teised kalastajad viitavad populaarsele harrastusele. Isik on püügihoos, naeratab ja tõmbab õngenööriga jääaugust välja värskelt püütud kala.",
+      "actions": [
+        "Jääpüük",
+        "Istumine",
+        "Õngenööri hoidmine",
+        "Kala püüdmine",
+        "Naeratamine",
+        "Kummardamine"
+      ],
+      "keywords": [
+        "Jääpüük",
+        "Kalastamine",
+        "Talv",
+        "Jää",
+        "Järv",
+        "Kala",
+        "Õng",
+        "Vaba aeg",
+        "Hobi",
+        "Väljas"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Isik",
+        "Pruun talvemantel",
+        "Must müts",
+        "Hallid püksid",
+        "Tumedad saapad",
+        "Kokkupandav tool",
+        "Jääaugud",
+        "Õngenöör",
+        "Kala",
+        "Väike valge kauss/anum",
+        "Jää",
+        "Lumi",
+        "Kauge maastik",
+        "Pilvine taevas",
+        "Statiiv/tugipost (vasakul)"
+      ],
+      "colorcodes": [
+        "#603B2A",
+        "#262728",
+        "#525A5C",
+        "#323C3B",
+        "#CCD7DB",
+        "#878787",
+        "#886D49",
+        "#801D1F"
+      ],
+      "texts": [],
+      "persons": [
+        "Kalapüüdja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on isik kummardunud ja vaatab jääauku, hoides õnge, ootavas poosis.",
+        "Teisel pildil on isik rõõmsalt naeratav ja tõmbab õngenööri, mille otsas on kala just jääaugust välja tulemas, demonstreerides saaki.",
+        "Kolmandal pildil on isik taas kummardunud jääaugu kohale, tegeledes ilmselt saagi eemaldamise või õnge uuesti ettevalmistamisega. Emotsioon on tagasi keskendunum."
+      ],
+      "snr": "057",
+      "ajad": [
+        "617.760",
+        "646.520"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanem mees talvises väliskeskkonnas, kes on riietatud soojalt ja vaatab keskendunult allapoole, tegeledes millegagi, mis jääb pildiraamist välja. Mehel on seljas tume sinakashall paks jope, mille all paistab beeži või pruuni värvi kõrge kaelusega kampsun. Peas on tal tumesinine kootud müts. Mehel on näos heledad vuntsid ja tema pilk on suunatud allapoole, mis annab edasi süvenenud oleku. Taustal avaneb avar vaade külmunud veekogule, mis on kaetud jääga, ja horisondi taga paistab hajusamalt asustatud piirkond majade ja puudega. Taevas on hall ja pilvine, mis viitab jahedale ilmale. Üldine atmosfäär on vaikne ja töine.",
+      "actions": [
+        "Mees vaatab allapoole",
+        "Mees keskendub tegevusele",
+        "Teine inimene ilmub kaadri vasakult servalt (teisel pildil)"
+      ],
+      "keywords": [
+        "Talv",
+        "Jää",
+        "Külm ilm",
+        "Välitingimused",
+        "Vanem mees",
+        "Kalastamine (võimalik)",
+        "Keskendumine",
+        "Ülevalgustatud taevas",
+        "Hall",
+        "Sinine",
+        "Pruun",
+        "Jääväli"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Vanem mees",
+        "Tumesinine müts",
+        "Sinakashall jope",
+        "Beež kampsun",
+        "Vuntsid",
+        "Külmunud veekogu",
+        "Jää",
+        "Majad horisondil",
+        "Puud horisondil",
+        "Pilvine taevas",
+        "Teise inimese pea (teisel pildil)"
+      ],
+      "colorcodes": [
+        "#2E3747",
+        "#4C5C6E",
+        "#9A8C77",
+        "#CED7DD",
+        "#AF9D89",
+        "#C4A18D",
+        "#3B2A29"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees",
+        "Teine inimene (nähtav vaid osaliselt)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha ainult mees. Teisel pildil on kaadri vasakult servalt näha teise inimese pea tagumine ja ülemine osa (tumedate lokkis juustega), mis viitab teise inimese kohalolule või saabumisele."
+      ],
+      "snr": "058",
+      "ajad": [
+        "646.520",
+        "664.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist jääpüüki avaral jäätunud järvel või veekogul pilves taeva all. Esiplaanil istub üks inimene pruunis karusnahkse äärega jopes ja mustas mütsis väikesel kokkupandaval taburetil, keskendudes intensiivselt oma jääaugule, käes väike õng. Jää peal tema lähedal on näha väikesed topsid või anumad ning mõned värskelt püütud väikesed kalad. Taustal tegutseb teine inimene, kes on riietatud eredasse punasesse talvekombe ja valgesse mütsi, olles alguses kükitavas asendis ja hiljem seisab. Ühes kaadris ilmub tema kõrvale ka kolmas, väiksem isik tumedas jopes. Jäätunud maastik ulatub kaugele horisondile, kus paistab puude rida. Üks kaader on tehtud sõiduki seest, näidates märga või jäätunud akent, mille taga on näha udune figuur ja osaliselt armatuurlaud, mis viitab teekonnale või kohale jõudmisele jääle.",
+      "actions": [
+        "Jääpüük",
+        "Istumine",
+        "Kükitamine",
+        "Seismine",
+        "Allavaatamine",
+        "Sõitmine (oletatav)"
+      ],
+      "keywords": [
+        "Jääpüük",
+        "Talv",
+        "Jäätunud järv",
+        "Väli",
+        "Kalapüük",
+        "Külm",
+        "Pilves",
+        "Sõiduk",
+        "Aken"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Õnged",
+        "Kokkupandav taburet",
+        "Talverõivad",
+        "Mütsid",
+        "Kala",
+        "Topsid/anumad",
+        "Jääaugud",
+        "Jäätunud järv",
+        "Puud (kauguses)",
+        "Sõiduki aken",
+        "Armatuurlaud/rool"
+      ],
+      "colorcodes": [
+        "#765A42",
+        "#0C0D0C",
+        "#D81B26",
+        "#F9F9F9",
+        "#B0BFC9",
+        "#34923F",
+        "#A8B9C6"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks täiskasvanut",
+        "Üks laps (või väiksem täiskasvanu)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Punases ülikonnas isiku asend muutub kükitavast seismiseks.",
+        "Ühes kaadris ilmub punases ülikonnas isiku kõrvale kolmas inimene (laps/väiksem täiskasvanu).",
+        "Üks kaader on tehtud sõiduki seest aknast välja vaadates, pakkudes erinevat vaatenurka ja konteksti võrreldes laiade välikaadritega."
+      ],
+      "snr": "059",
+      "ajad": [
+        "664.000",
+        "695.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab madalalt, lähiplaanis sõiduki tumedat, sügava mustriga ratast, mis veereb jäisel või õhukese lumekihiga kaetud pinnal. Vaatenurk on paigutatud otse maapinna kohale, andes edasi tunde liikumisest ja pinna tekstuurist. Ratas domineerib kaadri parempoolset osa, selle detailne muster on hästi nähtav. Maapind on hallikas-valge, koosnedes jääst ja lumest, millel on näha ebatasasusi ja kohati tumedamaid, läbipaistvamaid jääalasid. Horisondil paistab lai ja lage avamaastik või külmunud veekogu, mis sulandub kokku pilvise taevaga. Üldine valgus on hajutatud ja pehme, vihjates pilvisele päevailmale. Stseeni atmosfäär on jahe ja avar, edastades talviseid tingimusi.",
+      "actions": [
+        "Ratas veereb edasi",
+        "Sõiduk liigub jäisel pinnal"
+      ],
+      "keywords": [
+        "Jää",
+        "Lumi",
+        "Ratas",
+        "Sõiduk",
+        "Talv",
+        "Külmunud",
+        "Avamaastik",
+        "Pilvine taevas",
+        "Madal vaatenurk",
+        "Liikumine"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Sõiduki ratas",
+        "Jää",
+        "Lumi",
+        "Taevas",
+        "Horisont"
+      ],
+      "colorcodes": [
+        "#23201F",
+        "#A6ACAE",
+        "#B6BCBF",
+        "#4B4B4B",
+        "#D3D7D9"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Ratas on veidi edasi veeretanud, muutes selle mustri asendit maapinnal.",
+        "Maapinna tekstuur ja varjud ratta ees on minimaalselt muutunud, peegeldades liikumist."
+      ],
+      "snr": "060",
+      "ajad": [
+        "695.200",
+        "702.960"
+      ]
+    },
+    {
+      "explanation": "Stseen on jäädvustatud auto seest, vaadates välja küljeaknast ja küljepeeglist. Pilti domineerib halli varjundites toon, mis annab edasi pilvise ja jaheda päeva tunde. Auto aknale ja küljepeeglile on jäänud näha veetilgad, viitades vihmale või märjale ilmale. Peegelpildist paistab tagasi sama auto külg, mis on samuti tumedamates hallides toonides. Väljaspool autot avaneb vaade laiale, tasasele ja hallile maastikule, mis näib olevat kaetud jää või lumega, tõenäoliselt külmunud veekogu või väga lai lumine/jäine väli. Horisont sulandub peaaegu ühte pilvise taevaga, andes edasi avaruse ja monotoonsuse tunde. Üldmulje on melanhoolne ja talvine.",
+      "actions": [
+        "auto sõidab (oletatav)"
+      ],
+      "keywords": [
+        "auto",
+        "küljepeegel",
+        "aken",
+        "jää",
+        "külmunud maastik",
+        "hall",
+        "märg",
+        "talv",
+        "pilves",
+        "veetilgad",
+        "maanteesõit",
+        "üksluine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor and outdoor",
+      "objects": [
+        "autoaken",
+        "auto küljepeegel",
+        "autoukse paneel",
+        "veetilgad",
+        "jäine maastik",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#3A3A3A",
+        "#5C5C5C",
+        "#C1C1C1",
+        "#E0E0E0",
+        "#A8A8A8"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Pildid on identsed."
+      ],
+      "snr": "061",
+      "ajad": [
+        "702.960",
+        "711.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laiaulatuslikku ja lagedat jäätunud maastikku pilvise halli taeva all. Pind on kaetud jääga, millel on näha pikki paralleelseid jälgi, mis viitavad liikumisele üle jääpinna, tõenäoliselt sõidukiga. Jääpind on ebaühtlane, esineb heledamaid lumiseid ja tumedamaid, läbipaistvamaid jääalasid. Horisondil paistab kauguses udune ja madal maamass või kaldajoon. Üldmulje on külm, avar ja veidi kõle, domineerivad hallid ja valged toonid.",
+      "actions": [
+        "Liikumine üle jää",
+        "Jääl sõitmine (jälgede järgi)"
+      ],
+      "keywords": [
+        "Jää",
+        "Talv",
+        "Jäätunud maastik",
+        "Pilves taevas",
+        "Hall",
+        "Valge",
+        "Avarus",
+        "Lagedus",
+        "Külm",
+        "Jäljed jääl",
+        "Jäätee"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Jää",
+        "Taevas",
+        "Pilved",
+        "Jäljed",
+        "Kauguses olev maastik"
+      ],
+      "colorcodes": [
+        "#A9B3B9",
+        "#C8CDD0",
+        "#8A9297",
+        "#D0D2D5",
+        "#B0B5BB",
+        "#8D949A",
+        "#6E747C"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "85",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on märgatav kerge perspektiivi muutus, mis viitab edasiliikumisele või kaamera nihkele. Esimesel pildil on esiplaan detailsem ja teravam, samas kui teisel ja kolmandal pildil muutub esiplaan veidi udusemaks ja vähem detailseks, justkui oleks fookus kaugemale nihkunud või liikumise tõttu tekkinud udusus.",
+        "Jääpinna tekstuuris ja heleduses on minimaalseid variatsioone, mis võivad olla tingitud liikumisest või valgustingimuste kergest muutumisest."
+      ],
+      "snr": "062",
+      "ajad": [
+        "711.600",
+        "719.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest laial ja jäisel veekogul pilvise taeva all. Esiplaanil paremal on näha ühe inimese selga, kes kannab pruuni karvase kapuutsiga talvejopet ja musta mütsi ning prille. See inimene näib jälgivat tegevust eespool. Teine inimene, kes asub vasakul, on tumedas veekindlas talvekombinesoonis ja rohelistes saabastes ning tal on peas tume müts. Ta seisab jää peal ja puhastab lühikese varrega labidaga jääauku. Auku ümbritseb väike kuhjake puhastatud jääd ja lund. Augu kõrvale on jäässe torgatud puidust post, mille otsas lehvib punane lipp, mis tõenäoliselt märgistab kalastamiskohta või ohtlikku ala. Taustal avaneb vaade horisondi ulatuses laiuvatele jäätunud veele ja pilvisele taevale.",
+      "actions": [
+        "Labidaga jääauku puhastamine",
+        "Jää peal seismine",
+        "Vaatlemine"
+      ],
+      "keywords": [
+        "Jää",
+        "Talv",
+        "Jääkalastamine",
+        "Jääauk",
+        "Lumelabidas",
+        "Vabas õhus",
+        "Külm",
+        "Külmunud veekogu",
+        "Lipu märk",
+        "Vee peal"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Jää",
+        "Lumi",
+        "Labidas (lühikese varrega)",
+        "Punane lipp",
+        "Puidust post",
+        "Talvejope (karvase kapuutsiga)",
+        "Müts (must)",
+        "Prillid",
+        "Talvekombinesoon",
+        "Saapad (rohelised)",
+        "Auto detail (paremal ääres)"
+      ],
+      "colorcodes": [
+        "#C2CBD0",
+        "#E5ECEF",
+        "#5E3E2A",
+        "#8E5A35",
+        "#1E1E1E",
+        "#394650",
+        "#4A5C67",
+        "#E70000",
+        "#4D764A"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (kes puhastab jääauku)",
+        "Inimene (kes vaatleb, seljaga kaadris)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe kehahoiak ja labida asend on kaadrite vahel veidi muutunud, mis viitab tegevuse jätkumisele või järjestikustele hetkedele videost.",
+        "Väikesed nihked labida ja jääaugu puhastamisel."
+      ],
+      "snr": "063",
+      "ajad": [
+        "719.840",
+        "723.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab väliskeskkonda talvel, kus jääga kaetud pinnal seisab tundmatu isik, kes tegeleb jäähamba puhastamisega. Inimene on riietatud tumedatesse pükstesse ja rohelistesse kummisaabastesse ning kasutab selleks pikavarrelist labidat. Labida metallosa on tumedat värvi ja perforeeritud, puidust käepide ulatub ülespoole. Jääpind on kaetud paksu lumekihiga, mis on osaliselt sulanud ja moodustanud jääpuru. Keskel on näha tume ava jääs, mis on täidetud vee ja jääpuruga, mida inimene labidaga kühveldab ja eemaldab. Paremal pool stseenis on suurem kuhjatis lund ja jääd ning maas lamab kaks pruuni puuoksa või -keppi, millest üks on spiraalselt seotud mingi materjaliga. Üldine atmosfäär on jahe ja töine.",
+      "actions": [
+        "Jää puhastamine",
+        "Labidaga kühveldamine",
+        "Vee ja jääpuru eemaldamine jääaugust",
+        "Jääaugu laiendamine või korrastamine"
+      ],
+      "keywords": [
+        "Jää",
+        "Lumi",
+        "Talv",
+        "Labidas",
+        "Jääauk",
+        "Saapad",
+        "Õues",
+        "Kühveldamine",
+        "Külm",
+        "Töö"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Labidas",
+        "Jää",
+        "Lumi",
+        "Vesi",
+        "Kummisaapad",
+        "Püksid",
+        "Puuoksad/kepid"
+      ],
+      "colorcodes": [
+        "#3E6D38",
+        "#383F4B",
+        "#0A0A0A",
+        "#8B5A2B",
+        "#E0ECF1",
+        "#666B72"
+      ],
+      "texts": [],
+      "persons": [
+        "Isik (nähtavad jalad ja käed, riietus)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Labida asend muutub igas kaadris, näidates kühveldamise ja vee-jää segu välja tõstmise erinevaid etappe.",
+        "Inimese kehaasend varieerub vastavalt labidatööle, andes dünaamikat tegevusele.",
+        "Vee ja jääpuru kogus labidal ja jääaugus on erinevates kaadrites erinev, peegeldades kühveldamise progressi."
+      ],
+      "snr": "064",
+      "ajad": [
+        "723.880",
+        "728.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eritellimusel ehitatud maastikusõidukit, mida tuntakse ka kui 'karakat', laial jäisel või lumisel väljal. Sõidukil on modifitseeritud helehallika kere, mis meenutab pickup-tüüpi autot, kuid millel on massiivsed madalrõhurehvid. Kabiinis on näha kaks meest, kes naeratavad ja paistavad olevat heas tujus. Sõiduki tagaosa on varustatud puitpaneelide ja preskattega, millele on kinnitatud väike Ukraina lipp. Taustaks on avar ja tasane jäine maastik, horisondi lähedal on aimatavad teised sõidukid või inimesed. Taevas on ühtlaselt hall ja pilvine, mis viitab talvisele ilmale.",
+      "actions": [
+        "Maastikusõiduk sõidab jäisel pinnal",
+        "Inimesed naeratavad ja vaatavad kaamera poole"
+      ],
+      "keywords": [
+        "Maastikusõiduk",
+        "Karakat",
+        "Jää",
+        "Lumi",
+        "Talv",
+        "Seiklus",
+        "Modifitseeritud sõiduk",
+        "Talveralli",
+        "Ukraina lipp",
+        "Mehed",
+        "Suured rehvid",
+        "Avatud maastik",
+        "Hall taevas"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Maastikusõiduk",
+        "Madalrõhurehvid",
+        "Sõiduki kere (helehall)",
+        "Puitpaneelid",
+        "Preskate",
+        "Ukraina lipp",
+        "Kabiin",
+        "Esiklaas",
+        "Aknad",
+        "Peeglid",
+        "Esivõre",
+        "Esituled",
+        "Jää",
+        "Lumine pind",
+        "Horisont",
+        "Kauguses olevad siluetid (inimesed/sõidukid)"
+      ],
+      "colorcodes": [
+        "#A0A4A9",
+        "#000000",
+        "#B8A282",
+        "#0057B8",
+        "#FFD700",
+        "#E0E5E8",
+        "#D0D5D8",
+        "#FF0000"
+      ],
+      "texts": [
+        "2009",
+        "KARAKAT",
+        "19"
+      ],
+      "persons": [
+        "Kaks meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on lai võte, mis näitab sõidukit laial jäisel maastikul distantsilt, rõhutades maastiku avarust. Teine pilt on keskmine võte, mis näitab sõidukit küljelt ja veidi eestpoolt, tuues esile selle ebatavalise konstruktsiooni. Kolmas pilt on lähivõte sõiduki küljest ja kabiinist, keskendudes juhtidele ja detailidele nagu kleebis ning Ukraina lipp.",
+        "Inimesed on esimesel pildil vaevu nähtavad, teisel pildil on juhi nägu selgemalt näha, samas kui kolmandal pildil on mõlemad mehed detailselt ja selgelt nähtavad, naeratades ja otse kaamerasse vaadates.",
+        "Tekst '2009 KARAKAT 19' on selgelt loetav ainult kolmandal pildil. Ukraina lipp on samuti selgelt nähtav ja identifitseeritav ainult kolmandal pildil.",
+        "Sõiduki erinevad nurgad ja kaugus kaamerast muudavad iga pildi fookuse, alates kogu stseenist kuni sõiduki ja selle meeskonna detailideni."
+      ],
+      "snr": "065",
+      "ajad": [
+        "728.880",
+        "752.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest auto sees, kes on näha läbi avatud akna. Tal on seljas tumeroheline jope ja peas tumepruun või must nokamüts, millel on kõrvaklappidega sarnane vooderdus. Mees on keskealine kuni vanem, kortsulise näoga ja tema emotsioonid muutuvad stseeni jooksul. Tema kõrval või taga on näha teine, noorem isik, kes samuti paistab kandvat peakatet ja keda on mõnes kaadris selgemalt näha kui teistes. Väljaspool autot on helesinine taevas, mis viitab päevavalgusele. Auto aknalaual või küljel on näha valge kleebis musta tekstiga \"2009\" ja number \"10\", mis viitab aastaarvule ja võimalikule võistlusnumbrile. Alguses on mees rõõmsalt naeratav, seejärel muutub tema ilme tõsisemaks ja mõtlikumaks ning lõpukaadris süütab ta sigareti ja suitsetab rahulikult, vaadates vasakule.",
+      "actions": [
+        "Naeratamine",
+        "Mõtisklemine",
+        "Suitsetamine",
+        "Autos istumine",
+        "Akna avamine"
+      ],
+      "keywords": [
+        "Mees",
+        "Auto",
+        "Sõit",
+        "Suitsetamine",
+        "Talvemüts",
+        "Ralli",
+        "Emotsioonid",
+        "Väljas",
+        "Päev"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Auto",
+        "Nokamüts kõrvaklappidega",
+        "Jope",
+        "Sigaret",
+        "Autoaken",
+        "Kleebis",
+        "Auto ukselink",
+        "Autoiste",
+        "Teine isik"
+      ],
+      "colorcodes": [
+        "#2C3A3C",
+        "#3C6F3D",
+        "#A8D1E2",
+        "#D9D9D9",
+        "#EAEAEA"
+      ],
+      "texts": [
+        "2009",
+        "10"
+      ],
+      "persons": [
+        "Mees (peaosas)",
+        "Teine isik (tagaplaanil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe näoilme ja emotsioonid muutuvad naeratusest tõsisema ilme kaudu suitsetamiseni.",
+        "Teine isik on esimeses kaadris selgemalt näha ja naeratab, hilisemates kaadrites on ta vähem nähtav.",
+        "Kolmandas kaadris on mees süüdanud sigareti ja suitsetab."
+      ],
+      "snr": "066",
+      "ajad": [
+        "752.800",
+        "813.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist jääpüüki avaral jäätunud veekogul, tõenäoliselt järvel või merel, halli ja pilvise taeva all. Keskealine või vanem mees, riietatud soojalt tumedasse talvejakki, tumedasse mütsi ja heledasse kootud salli, tegeleb jääaugu puhastamise või laiendamisega pika, robustse puust tööriistaga, mis meenutab aeru või jääkirvest. Ta vaatab süvenenult allapoole jääauku. Mehe jalad on kaetud tumedate pükstega ja ta kannab tumerohelisi kummikuid. Ümber jääaugu on näha purustatud jääd, lörtsi ja tumedat vett. Jääpinnal lebavad püügivahendid, sealhulgas väike võrgujupp paari värskelt püütud väikese kalaga ja lihtsad puust oksad või pulgad, mis on seotud nööriga, viidates traditsioonilisele kalapüügimeetodile. Ümbruskond on kaetud valge jää ja lumega, mis annab edasi külma ja üksildase talvise meeleolu.",
+      "actions": [
+        "Jääaugu puhastamine/laiendamine puust tööriistaga",
+        "Jääpüük",
+        "Fookustatud vaade alla",
+        "Seismine jäätunud pinnal"
+      ],
+      "keywords": [
+        "Jääpüük",
+        "Talv",
+        "Kalamees",
+        "Jääauk",
+        "Puust tööriist",
+        "Külm",
+        "Loodus",
+        "Traditsiooniline",
+        "Kalastamine",
+        "Lumi",
+        "Jää",
+        "Värsked kalad"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Talvemantel",
+        "Müts",
+        "Sall",
+        "Puust tööriist",
+        "Jääauk",
+        "Purustatud jää",
+        "Lörts",
+        "Jää",
+        "Lumi",
+        "Kalavõrk",
+        "Kala",
+        "Puust oksad/pulgad",
+        "Nöör",
+        "Kummikud",
+        "Püksid"
+      ],
+      "colorcodes": [
+        "#2B3338",
+        "#9E9F9D",
+        "#7A4E2C",
+        "#EBF0F1",
+        "#3B4B52",
+        "#3E5A44",
+        "#D7E1E5",
+        "#A0724C",
+        "#C4C6C6"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt keskendub mehe ülakehale ja näole, pakkudes lähivaadet tema riietusele ja ilmele.",
+        "Teine pilt on detailsem kaader mehe jalgadest ja puust tööriistast jääaugu puhastamisel, näidates täpsemalt tegevust ja püügivahendeid jääpinnal.",
+        "Kolmas pilt on laiem kaader jääaugust ja selle ümbrusest, rõhutades kalapüügi stseeni tervikut ja jäist maastikku ning esitleb jääauku juba veega täidetuna.",
+        "Tegevus edeneb piltidel: piltidel 1 ja 2 on mees aktiivselt tegevuses, samas kui pilt 3 näib kujutavat hetke pärast aktiivset tegevust või pausi.",
+        "Kaadri fookus ja nurk muutuvad, pakkudes erinevaid perspektiive samast stseenist."
+      ],
+      "snr": "067",
+      "ajad": [
+        "813.880",
+        "828.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat inimest, tõenäoliselt naist, kes seisab talvisel ja jäisel maastikul tumeda sõiduki, tõenäoliselt maasturi või pikapi, kõrval. Tema seljas on pruun karusnahkse krae ja kapuutsiga talvemantel ning peas must kootud müts. Ta kannab ka prille. Tema taga laotub lumise ja jäise pinnaga järv või meri, horisondil paistab kaugel väike maamass või saar. Taevas on hall ja pilvine. Esimesel hetkel tõstab inimene käed pea kohale, justkui varjates silmi või reageerides millelegi, seejärel laseb käed alla ja vaatab vasakule, justkui rääkides või midagi jälgides. Sõiduki külge on kinnitatud valge presentkangas ja näha on sõiduki ratta poritiiba ning astmelauda.",
+      "actions": [
+        "Käed pea kohale tõstmine",
+        "Külma eest kaitsmine riietusega",
+        "Jäise maastiku jälgimine",
+        "Sõiduki kõrval seismine",
+        "Rääkimine või suhtlemine"
+      ],
+      "keywords": [
+        "Talv",
+        "Jäine maastik",
+        "Jää",
+        "Lumi",
+        "Väljas",
+        "Külm",
+        "Eakas inimene",
+        "Talvine riietus",
+        "Sõiduk",
+        "Pilvine päev"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Eakas naine",
+        "Talvemantel",
+        "Karusnahkne krae",
+        "Must müts",
+        "Prillid",
+        "Tume sõiduk",
+        "Rehvikoobas",
+        "Astmelaud",
+        "Valge presentkangas",
+        "Jää",
+        "Lumi",
+        "Horisont",
+        "Distantne maamass/saar",
+        "Hall pilvine taevas"
+      ],
+      "colorcodes": [
+        "#68412B",
+        "#1C1C1C",
+        "#D9DEDF",
+        "#A0A8AF",
+        "#3A3F41",
+        "#7D5939"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakas naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 55,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Erinevus piltide vahel seisneb peamiselt eaka inimese käte asendis ja näoilmes.",
+        "Esimesel pildil on inimene käed pea kohale tõstnud, justkui kaitseks valguse eest, reageeriks üllatusele või kohendaks midagi. Tema nägu on osaliselt varjatud.",
+        "Teisel ja kolmandal pildil on inimese käed all. Ta vaatab vasakule ja tema suu on avatud, mis viitab rääkimisele või millegi intensiivsele jälgimisele. Näoilme on rahulikum ja avatum kui esimesel pildil."
+      ],
+      "snr": "068",
+      "ajad": [
+        "828.400",
+        "836.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat meest õues avaral jäisel või lumisel maastikul. Ta on riietatud soojadesse talverõivastesse, kandes tumesinist kootud mütsi, paksu heledat pruuni kõrgkraega kampsunit ja tumedat, tõenäoliselt halli või tumesinise tooniga, polsterdatud talvejopet, millel on horisontaalne helkurriba rinna kõrgusel. Mehel on punakaspruunid vuntsid ja ta näib keskenduvat telefonikõnele, hoides musta klapptelefoni kõrva ääres. Taust on valdavalt hele hall või valge, mis viitab pilvisele taevale ja lamedale, jäätunud vee- või lumega kaetud maastikule. Üldmulje on külm ja karm ilm.",
+      "actions": [
+        "Telefoniga rääkimine",
+        "Mobiiltelefoni hoidmine kõrva ääres",
+        "Telefonikõnele keskendumine",
+        "Külmas ilmas seismine"
+      ],
+      "keywords": [
+        "Talvine maastik",
+        "Jääväli",
+        "Külm ilm",
+        "Mobiiltelefonikõne",
+        "Mees talveriietuses",
+        "Pilvine taevas",
+        "Üksildus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Mobiiltelefon (klapptelefon)",
+        "Kootud müts",
+        "Kõrgkraega kampsun",
+        "Talvejope (polsterdatud)",
+        "Jää/Lumi (taustal)"
+      ],
+      "colorcodes": [
+        "#2F3C4B",
+        "#A89882",
+        "#3E4A5C",
+        "#E1E6E8",
+        "#C79878",
+        "#857462"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees",
+        "Vuntsidega mees",
+        "Soojalt riides mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Pildid näitavad meest veidi erinevate nurkade alt ja erinevates poosides telefonikõne ajal, mis annab edasi vestluse dünaamilisust.",
+        "Esimesel pildil vaatab mees otse ette või vaataja poole.",
+        "Teisel pildil on mees pööratud paremale küljega ja vaatab samuti paremale.",
+        "Kolmandal pildil on mehe nägu veidi allapoole suunatud ja ta vaatab paremale alla."
+      ],
+      "snr": "069",
+      "ajad": [
+        "836.080",
+        "876.280"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub avaral, jäätunud veekogul, tõenäoliselt järvel või merel, pilvise taeva all. Kolm meest on riietatud paksudesse talveriietesse, mis viitab külmale ilmale. Esiplaanil on üks mees, kes kannab tumerohelist paksu jopet, halli pusa ja musta nokamütsi koos kõrvaklappidega, vaadates teiste meeste poole. Keskel on vanem mees, seljas tumesinine või tumehall polsterdatud jope ja püksid, peas tumesinine müts ja kaelas hele sall, kätes tumedad kindad. Ta hoiab pikka puust tööriista, mis näib olevat jääpuur või -kirka. Kolmas mees, näha peamiselt tagaplaanil või osaliselt kaadrist väljas, kannab tumedat jopet ja silmatorkavaid erkpunaseid traksipükse või kahlamispükse. Kolmandal pildil on vanem mees kummardunud ja töötab aktiivselt jääga, samal ajal kui punastes pükstes mees seisab tema kõrval. Meeste asendid ja tööriista olemasolu viitavad tegevusele jääl, näiteks jääpüügile või jääkaubandusele. Jääpinnas on näha mõningaid märgemaid või sulama hakanud kohti.",
+      "actions": [
+        "Jääl seismine",
+        "Jääl liikumine",
+        "Jääga töötamine",
+        "Tööriista hoidmine",
+        "Kummardumine",
+        "Vaatlemine",
+        "Vestlemine"
+      ],
+      "keywords": [
+        "Talv",
+        "Jää",
+        "Külm",
+        "Väli",
+        "Mehed",
+        "Tööriistad",
+        "Jääpüük",
+        "Pilves taevas",
+        "Avarus",
+        "Lumi"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mehed",
+        "Jää",
+        "Pilves taevas",
+        "Joped",
+        "Traksipüksid",
+        "Mütsid",
+        "Kindad",
+        "Puust jääpuur/kirka",
+        "Pikk puust ese (pesapalli kurika sarnane)",
+        "Pusa",
+        "Sall"
+      ],
+      "colorcodes": [
+        "#2F4F4F",
+        "#000000",
+        "#FF0000",
+        "#36454F",
+        "#D3D3D3",
+        "#8B4513",
+        "#DCDCDC"
+      ],
+      "texts": [
+        "K-WAY",
+        "ALBANY"
+      ],
+      "persons": [
+        "Kolm meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaadrite fookus ja kompositsioon erinevad: esimene ja teine kaader on laiemad, kolmas on detailsem lähivõte.",
+        "Erinevused meeste asendites ja tegevustes: esimestel kaadritel on vanem mees püsti, kolmandal on ta kummardunud ja jääga töötamas.",
+        "Esimesel pildil vaatab eesplaanil olev mees teisi, teisel pildil pöörab ta ennast rohkem kaamera poole ja naeratab.",
+        "Kolmandal pildil on punastes pükstes mees vanemale mehele lähemal ja tema riietusel on näha erinev tekst võrreldes esimeste piltidega ('ALBANY' vs 'K-WAY').",
+        "Esimesel ja teisel pildil on punastes traksipükstes mees kaugemal ja osaliselt kaadrist väljas, kolmandal on ta rohkem esile tõstetud ja temast on selgem ülevaade."
+      ],
+      "snr": "070",
+      "ajad": [
+        "876.280",
+        "895.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist jääkalapüüki avaral jäätunud veekogul pilvisel päeval. Keskses fookuses on vanem mees, kes on riietatud soojalt paksu tumeda talvejope, musta mütsi, kinnaste, salli ning tumeroheliste kummisaabastega. Mees on püüdmas kala võrguga, mida ta parajasti jääaugust välja tõmbab. Võrgus on näha mitu heledat kala, millel on punakad uimed või sabaotsad. Ümbrus on kaetud jää ja lume seguga, taevas on hall ja pilvine. Kauguses on näha teisi kalastajaid ning maastik on avatud ja jäine. Mehe kõrval on näha punane lipp, mis tõenäoliselt tähistab püügikohta.",
+      "actions": [
+        "jäält võrku välja tõmbama",
+        "kalastama",
+        "seisab jääl",
+        "kummardub",
+        "püüab kala"
+      ],
+      "keywords": [
+        "jääkalapüük",
+        "talv",
+        "jäätunud veekogu",
+        "kalamees",
+        "kalavõrk",
+        "kala",
+        "külm",
+        "lumi",
+        "hall taevas",
+        "välikalapüük"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "kalavõrk",
+        "kala",
+        "jää",
+        "lumi",
+        "talvejope",
+        "müts",
+        "kindad",
+        "kumisaapad",
+        "sall",
+        "punane lipp",
+        "kalapüügivarustus"
+      ],
+      "colorcodes": [
+        "#343c3f",
+        "#b0b0b0",
+        "#606060",
+        "#a00000",
+        "#1e262e"
+      ],
+      "texts": [],
+      "persons": [
+        "vanem mees",
+        "kalamees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt keskendub võrgus olevatele kaladele ja mehe alumisele kehaosale jää peal, näidates tegevust lähemalt.",
+        "Teine pilt näitab meest kummardumas ja tegevuses laiemas kontekstis, tausta on rohkem näha.",
+        "Kolmas pilt pakub lähivõtte mehe näost ja kehahoiakust ning avaramat vaadet jäisele maastikule koos punase lipuga."
+      ],
+      "snr": "071",
+      "ajad": [
+        "895.560",
+        "903.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab modifitseeritud maastikusõidukit ehk jääbugit, mis seisab laial jäätunud veelogul, tõenäoliselt järvel. Sõiduki kabiinis on juht ja vasakul pool kaadri ääres on näha teise inimese käsi ja kehaosa. Taevas on pilves, mis annab edasi jaheda talvepäeva tunde. Sõiduk on varustatud suurte mustade madalsurverehvidega, mis on spetsiaalselt disainitud jäisel või pehmel maastikul liikumiseks. Sõiduki paremale küljele on kinnitatud kollase ja sinise triibuga lipp, mis lisab stseenile värvi. Kauguses, horisondi joonel, on näha kaldajoont koos hoonete ja puudega.",
+      "actions": [
+        "Sõiduki juht istub kabiinis",
+        "Vasakul pool seisev inimene osutab või on vaatlemas",
+        "Sõiduk on paigal või liigub väga aeglaselt"
+      ],
+      "keywords": [
+        "Jää",
+        "järv",
+        "talv",
+        "maastikusõiduk",
+        "jääbugi",
+        "modifitseeritud sõiduk",
+        "suured rehvid",
+        "madalsurverehvid",
+        "pilves ilm",
+        "juht",
+        "inimene",
+        "lipp",
+        "võistlus",
+        "number",
+        "lumi"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Modifitseeritud sõiduk",
+        "Suured mustad madalsurverehvid",
+        "Sõiduki kabiin",
+        "Puidust/vineerist ehitis sõiduki tagaosas",
+        "Kollase ja sinise triibuga lipp",
+        "Jää",
+        "Taevas",
+        "Kauguses paistvad kaldajoon ja hooned/puud",
+        "Sõiduki küljel number ja tekst"
+      ],
+      "colorcodes": [
+        "#A9B3B9",
+        "#1A1A1A",
+        "#B9A88F",
+        "#FFD200",
+        "#005B9C",
+        "#E0E7EB",
+        "#C8D1D5",
+        "#CC0000"
+      ],
+      "texts": [
+        "2009",
+        "REDKART",
+        "19"
+      ],
+      "persons": [
+        "Juht",
+        "Tundmatu inimene vasakul"
+      ],
+      "imagetype": "real",
+      "emptypercent": 70,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Väiksed muutused juhi pea asendis ja pilgu suunas kaadrite vahel. Esimeses ja kolmandas kaadris on juhi pea pisut vasakule pööratud, teises kaadris on pea rohkem otse ette suunatud."
+      ],
+      "snr": "072",
+      "ajad": [
+        "903.480",
+        "922.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest, kes juhib ainulaadset, robustse välimusega maastikusõidukit mööda laia, jäätunud veekogu pinda. Mees kannab tumedat klappidega mütsi ja tumerohelist jopet. Tema näoilme vaheldub: ühel hetkel on ta avatud suuga rääkimas, tõenäoliselt läbi auto armatuurlauale kinnitatud sidevahendi, teisel hetkel naeratab ta laialt ja rõõmsalt. Sõiduki heledal uksel on näha kleebis tekstiga \"2009\" ja number \"10\". Auto esiklaas on kaetud vihmapiiskadega, mis annab aimu niiskest ilmast. Maastikusõiduk on varustatud suurte, laiade ratastega ja sellel on kandiline, heledast materjalist kere. Taustal paistab kauguses maismaa metsade ja üksikute hoonetega. Taevas on pilvine ja hall, mis annab stseenile talvise ja jaheda ilme.",
+      "actions": [
+        "sõitmine",
+        "rääkimine",
+        "naeratamine",
+        "jääpinnal liikumine"
+      ],
+      "keywords": [
+        "maastikusõiduk",
+        "jää",
+        "järv",
+        "talv",
+        "juht",
+        "ralli",
+        "võistlus",
+        "ekstreemsport",
+        "naeratus",
+        "sidevahend",
+        "pilves ilm"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "maastikusõiduk",
+        "mees",
+        "rool",
+        "aken",
+        "tahavaatepeegel",
+        "päikesesirm",
+        "sidevahend",
+        "jää",
+        "järv",
+        "puud",
+        "hooned",
+        "pilved",
+        "müts",
+        "jope"
+      ],
+      "colorcodes": [
+        "#B0C4DE",
+        "#2F4F4F",
+        "#36454F",
+        "#D2B48C",
+        "#C0C0C0",
+        "#D3D3D3"
+      ],
+      "texts": [
+        "2009",
+        "10"
+      ],
+      "persons": [
+        "mees (juht)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 70,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe näoilme ja suu asend muutuvad – ühel pildil räägib ta avatud suuga, teisel naeratab laialt."
+      ],
+      "snr": "073",
+      "ajad": [
+        "922.320",
+        "958.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist jääpüüki avaral, jäätunud veekogul pilvise taeva all. Kaks meest tegelevad kalastamisega suure, modifitseeritud maasturi kõrval. Vasakpoolne mees, riietatud tumedatesse talverõivastesse, tõmbab parajasti kalavõrku jääaugust välja, mille ümber on tekkinud sulalumest ja jääpurudest hunnik. Parempoolne mees, kellel on seljas pruun talvejope ja hallid püksid, seisab auto juures ja hoiab pikka puust teiba. Jääpinnal on laiali mitu püütud kala, samuti püügivahendeid nagu suur labidas, väiksem kahv ja lisapulki. Maastur on halli värvi, varustatud massiivsete maastikurehvidega ja sellel on pakiruumi kohal kinnine presentkatus ning küljel puidust latt. Auto esiosa vasakul küljel lehvib erepunane lipp ja uksel on näha number '26' ning osaliselt loetav tekst 'ДЕНЬ'. Taustal laiub lõputu jäine maastik, mis kohtub horisondi joonel uduste kaldajoonte ja puudega.",
+      "actions": [
+        "Võrgu jääaugust välja tõmbamine",
+        "Kalade püüdmine ja jääle asetamine",
+        "Maasturi kõrval seismine",
+        "Pika puust teiba hoidmine",
+        "Jäätunud veekogul viibimine"
+      ],
+      "keywords": [
+        "Jääpüük",
+        "Talv",
+        "Maastur",
+        "Kalurid",
+        "Võrk",
+        "Kalad",
+        "Jää",
+        "Veekogu",
+        "Lumi",
+        "Pilvine",
+        "Off-road",
+        "Avar maastik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Modifitseeritud maastur",
+        "Kalavõrk",
+        "Kalad (väikesed kuni keskmised)",
+        "Jääauk",
+        "Labidas",
+        "Pikad puust teibad/pulki",
+        "Väike kahv/võrk",
+        "Punane lipp",
+        "Suured maastikurehvid",
+        "Presentkatus (auto pakiruumil)",
+        "Puidust latt (auto küljel)",
+        "Talveriided",
+        "Mütsid",
+        "Saapad",
+        "Jää",
+        "Lumi",
+        "Vesi",
+        "Kaugenev kaldajoon"
+      ],
+      "colorcodes": [
+        "#4D565B",
+        "#E61E2E",
+        "#F0F4F6",
+        "#825A3B",
+        "#2D353F",
+        "#C0C8CF",
+        "#528052"
+      ],
+      "texts": [
+        "26",
+        "ДЕНЬ"
+      ],
+      "persons": [
+        "Kaks meest (kalurit)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil hoiab vasakpoolne mees võrku mõlema käega kõrgemal, tõmmates seda jääaugust välja, pilk suunatud allapoole tegevusele. Teisel pildil on ta võrgu juba madalamale lasknud, hoides seda peamiselt vasaku käega, parem käsi on võrgu juures ja pilk on suunatud otse ette või veidi paremale.",
+        "Parempoolse mehe kehahoiak on pisut muutunud; esimesel pildil seisab ta veidi sirgemalt, teisel on ta ehk kergelt ettepoole kummardunud või kehakaalu teisele jalale nihutanud.",
+        "Kalade asetus jääl ja nende arv on kaadrite vahel pisut erinev, viidates tegevuse jätkumisele ja kalade paigutamisele.",
+        "Valgusolud ja varjud on kaadrite vahel minimaalselt erinevad, säilitades üldise pilvise päeva ilme."
+      ],
+      "snr": "074",
+      "ajad": [
+        "958.080",
+        "992.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist kalapüüki jäätunud veekogul, kus inimene tõmbab kalavõrku veest välja. Kaadris on näha inimese jalad, riietatuna tumedatesse paksustesse pükstesse ja kummikutesse, mis viitab külmale ja märjale keskkonnale. Ümberringi on paks jääkiht, millel on nii siledamaid kohti kui ka suuri purunenud jääkamakaid, kusjuures osa jääst on läbipaistev, paljastades all oleva vee. Võrgus on näha mitu kala, mis on ilmselt ahvenad või särjed, punaka-oranži värvi uimede ja kerega. Mõned kalad on juba jääle asetatud, teised on veel osaliselt vees või neid just tõmmatakse võrguga välja, tekitades vee pritsmeid. Taamal avaneb vaade laiale jäätunud veekogule, mis sulandub horisondil pilvise ja valkja taevaga. Paremal pool on näha tundmatu tumeda objekti osa, mis võib olla sõiduk või varustus. Üldine atmosfäär on külm ja keskendunud tööle.",
+      "actions": [
+        "Võrgu välja tõmbamine",
+        "Jääkalastamine",
+        "Kalade püüdmine",
+        "Jää peal seismine"
+      ],
+      "keywords": [
+        "Jääkalapüük",
+        "Talv",
+        "Kalavõrk",
+        "Kala",
+        "Jää",
+        "Külm",
+        "Veekogu",
+        "Kalur",
+        "Välitingimused",
+        "Püük"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene (jalad)",
+        "Kalavõrk",
+        "Kalad (ahvenad/särjed)",
+        "Jää",
+        "Vesi",
+        "Pilves taevas",
+        "Kummikud",
+        "Soojad püksid",
+        "Tundmatu tume objekt"
+      ],
+      "colorcodes": [
+        "#B0C0D0",
+        "#405060",
+        "#CC6655",
+        "#202020",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Kalur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Piltidel on näha kalapüügi tegevuse arengut lühikese aja jooksul.",
+        "Esimesel pildil on üks kala veel võrgus õhus, just veest välja tõmmatud, ja teine kala on osaliselt vees.",
+        "Teisel pildil on õhus olnud kala juba jääle maandunud, ja teine kala on endiselt osaliselt vees, kuid saba asend on muutunud, näidates liikumist.",
+        "Kolmandal pildil on võrk ja kalur liikunud veidi vasakule, veest on välja tõmmatud rohkem võrku ning veepinnal on näha rohkem liikumist ja pritsmeid, mis rõhutab võrgu aktiivset tõmbamist."
+      ],
+      "snr": "075",
+      "ajad": [
+        "992.000",
+        "1011.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte vanemat inimest, meest ja naist, avaral jäisel või lumisel maastikul, tõenäoliselt külmunud järvel või jõel. Taustal seisab ainulaadne ja kohandatud maastikusõiduk, mis meenutab suurt veoautot või ATV-d, millel on ülisuured rattad ja halli presendiga kaetud pakiruum. Maapind on kaetud ühtlase jää või tihendatud lumega, mis peegeldab heledat taevast. Üldine õhkkond on talvine ja külm. Mees on esiplaanil, naine seisab sõiduki juures taustal.",
+      "actions": [
+        "Mees seisab ja tegeleb oma kinnastega kaetud kätega millegagi esiplaanil, possibly midagi kohandades või hoides.",
+        "Naine seisab sõiduki juures, vaadates mehe poole.",
+        "Sõiduk seisab paigal jäisel pinnal."
+      ],
+      "keywords": [
+        "Jäine maastik",
+        "Talv",
+        "Maastikusõiduk",
+        "Kohandatud sõiduk",
+        "Vanemad inimesed",
+        "Külm ilm",
+        "Väljas",
+        "Lumi",
+        "Jää",
+        "Maastikuauto"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Vanem mees",
+        "Vanem naine",
+        "Maastikusõiduk",
+        "Suured rattad",
+        "Hall presenk/kate sõiduki tagaosas",
+        "Jää",
+        "Lumi",
+        "Taevas",
+        "Must müts (mehel)",
+        "Must müts (naisel)",
+        "Pruun talvemantel (naisel)",
+        "Tume talvejope (mehel)",
+        "Hele kaelussall/kraekaare (mehel)",
+        "Prillid (naisel)",
+        "Kindad (mehel)"
+      ],
+      "colorcodes": [
+        "#1A1F25",
+        "#2C3540",
+        "#8B7A66",
+        "#6E4E3A",
+        "#474E56",
+        "#7D888D",
+        "#C5E5F6",
+        "#E0EBF0",
+        "#6EB29E"
+      ],
+      "texts": [
+        "4WD"
+      ],
+      "persons": [
+        "Vanem mees",
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe pea asend ja pilgu suund varieeruvad veidi piltide vahel, liikudes paremalt (esimene pilt) rohkem keskele ja allapoole (viimane pilt).",
+        "Mehe käte asend muutub, näidates väikest liikumist, justkui ta teeks midagi oma kätega.",
+        "Naine ja sõiduk taustal jäävad kõikides kaadrites sisuliselt paigale."
+      ],
+      "snr": "076",
+      "ajad": [
+        "1011.840",
+        "1031.680"
+      ]
+    },
+    {
+      "explanation": "Piltidel on kujutatud keskealine mees, kes tegeleb jääkalastusega avaral, jäätunud veekogul. Mees on riietatud tumedasse, paksust materjalist talvekombinesooni, kannab musta mütsi ja kindaid, mis viitab külmale ilmale. Tema nägu on habetunud ning ilme varieerub tõsisest ja keskendunust rahulolemani. Tausta moodustab valge ja hallides toonides jäätunud veekogu, mis ulatub horisondini, kus paistab kauguses udune maaserv või metsatukk. Taevas on pilvine ja hele, mis annab stseenile jaheda, kuid samas rahuliku atmosfääri. Stseeni arenedes on näha, kuidas mees esialgu seisab ja vaatab alla, seejärel kummardub ja tegeleb kalavõrguga, ning lõpuks hoiab käes võrku, milles on juba mitu väikest hõbedast kala, ilmselt hiljuti jääaugust välja tõmmatud saak.",
+      "actions": [
+        "Jääkalastus",
+        "Kummardumine",
+        "Kalavõrgu käsitsemine",
+        "Kalade võrgust väljavõtmine",
+        "Seismine",
+        "Külma eest kaitsmine (käsi näo juures)"
+      ],
+      "keywords": [
+        "Jääkalastus",
+        "Talv",
+        "Külm ilm",
+        "Mees",
+        "Kalavõrk",
+        "Kala",
+        "Jää",
+        "Lumi",
+        "Pilvine taevas",
+        "Välitingimused",
+        "Põhjamaa"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Talvekombinesoon",
+        "Müts",
+        "Kindad",
+        "Kalavõrk",
+        "Kala (hõbedased)",
+        "Jää",
+        "Pilved",
+        "Vesi (horisondil)",
+        "Maa/Mets (kauguses)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#363636",
+        "#FFFFFF",
+        "#D0D0D0",
+        "#A9B1B7",
+        "#C0C0C0"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil seisab mees püstisemalt, käed alla suunatud ja ta ei hoia veel kalavõrku. Tema näol on keskendunud ilme.",
+        "Teisel pildil on mees kummardunud ja paremas käes on näha kalavõrku. Vasak käsi on tema näo juures, ilmselt külma eest kaitstes. Võrgus on näha esimesed kalad.",
+        "Kolmandal pildil on mees tagasi püstises asendis, ta vaatab otse kalavõrku ja kaladele, mis selles on. Võrgus on selgelt näha mitu hõbedast kala ja tema näol on rahulolevam või rõõmsam ilme."
+      ],
+      "snr": "077",
+      "ajad": [
+        "1031.680",
+        "1038.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või vanem naine, kes seisab õues külmas ilmas, kandes talviseid riideid. Ta kannab pruuni karvase kraega talvejopet, musta mütsi ja prille. Tema kaela ümber on näha halli tooni kaelus või kampsunikrae. Naine on kerge naeratusega või mõtlikult vaatamas kaamera eest mööduva või temaga suhtleva isiku suunas (eriti esimesel pildil) või allapoole ja paremale (kahel viimasel pildil). Taustal on näha tumesinist või halli värvi sõidukit, mis näib olevat kaubik või bussi esiosa, mille akende kohal on tumedad peeglikorpused. Sõiduki küljel on näha roheliste ja lillade lainjate joontega graafikat ning valge kleebis tekstiga \"2011 KARAKU...\". Sõiduki küljes ripub ka valge presendi- või riidetükk, mis viitab võimalikule telgi või katte olemasolule. Üldine atmosfäär on külm ja talvine.",
+      "actions": [
+        "Naine seisab",
+        "Naine vaatab tähelepanelikult",
+        "Esiplaanil olev isik/käsi liigub"
+      ],
+      "keywords": [
+        "Vanem naine",
+        "Talv",
+        "Talvejope",
+        "Müts",
+        "Prillid",
+        "Sõiduk",
+        "Õues",
+        "Külm ilm",
+        "Karvane krae",
+        "Kleebis"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Talvejope",
+        "Must müts",
+        "Prillid",
+        "Hall kaelus/krae",
+        "Tumesinine/hall sõiduk",
+        "Sõiduki aken",
+        "Sõiduki küljepeegel",
+        "Roheline graafika",
+        "Lilla graafika",
+        "Valge kleebis",
+        "Valge riie/present",
+        "Nööbid jopel",
+        "Esiplaanil olev inimene/käsi (esimesel pildil)"
+      ],
+      "colorcodes": [
+        "#6F452C",
+        "#000000",
+        "#9669A7",
+        "#3CD495",
+        "#A8ACB2",
+        "#FFFFFF",
+        "#8A8B8E",
+        "#9F7A50"
+      ],
+      "texts": [
+        "2011",
+        "KARAKU"
+      ],
+      "persons": [
+        "Vanem naine",
+        "Määramatu isik esiplaanil"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on esiplaanil näha udune inimkuju või käsi, mis ülejäänud piltidel puudub.",
+        "Naise pilgu suund varieerub: esimesel pildil on see pigem vasakule, järgmistel piltidel allapoole ja paremale.",
+        "Kaamera asend ja suum on piltide vahel kergelt muutunud, kolmas pilt on eelmistest pisut lähemale suumitud.",
+        "Sõiduki küljel olev kleebis tekstiga \"2011 KARAKU...\" on teisel ja kolmandal pildil paremini nähtav ja loetav."
+      ],
+      "snr": "079",
+      "ajad": [
+        "1046.200",
+        "1057.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab jääpüüki jäätunud veekogul pilvisel talvepäeval. Kaks meest tegelevad kalapüügiga, üks neist tõmbab aktiivselt võrku jääaugust välja. Jääl lamab hulgaliselt värskelt püütud kalu. Taustal on näha suure maasturi esiosa koos massiivse rattaga ning kauguses rannajoont puude ja hoonetega. Jääpind on kohati märja või sulanud jää kihiga kaetud, mis tekitab peegeldusi.",
+      "actions": [
+        "Jääpüük (ice fishing)",
+        "Kalavõrgu tõmbamine jääaugust",
+        "Jääl seismine",
+        "Kalade lebamine jääl"
+      ],
+      "keywords": [
+        "Jääpüük",
+        "Kalastamine",
+        "Jää",
+        "Kalad",
+        "Võrk",
+        "Sõiduk",
+        "Talv",
+        "Õues",
+        "Külm",
+        "Kalamees",
+        "Jääauk"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Kalad (mitut liiki, tumedamad ja heledamad, punaste uimedega)",
+        "Jääpind (kohati sulanud või märg)",
+        "Kalavõrk",
+        "Maastur (tume, suurte rehvidega, nähtav esiosa)",
+        "Mehed (kaks kalastajat)",
+        "Kummikud (rohelised ja tumedad)",
+        "Talveriided (tumedad püksid, jakk, pruun mantel)",
+        "Taevas (pilvine)",
+        "Rannajoon (kaugel taustal, puud ja hooned)"
+      ],
+      "colorcodes": [
+        "#D0D9DF",
+        "#3A474D",
+        "#282F32",
+        "#725842",
+        "#3D3F43",
+        "#8B4D3C",
+        "#C8D1D7"
+      ],
+      "texts": [],
+      "persons": [
+        "Kalamees (tõmbab võrku, tumedates riietes ja roheliste kummikutega)",
+        "Kalamees (seisab sõiduki lähedal, pruunis mantlis ja tumedates pükstes)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Pildid on identsed või peaaegu identsed, nähtavaid erinevusi ei ole."
+      ],
+      "snr": "080",
+      "ajad": [
+        "1057.160",
+        "1072.240"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha mitu surnud kala, mis lamavad jäisel ja lörtsisel pinnal. Esiplaanil on üks kala detailselt fookuses, lamades külili. Kalad on heledat värvi, punakate uimede ja mõningate vereplekkidega, mis viitab hiljutisele püüdmisele. Tagaplaanil on teised kalad samuti nähtavad, kuid fookusest väljas. Pind on kaetud jääkristallide ja lörtsiga, andes edasi külma ja talvise tunde. Vasakul on hägune roheline objekt, mis võib olla nöör või pael, ja paremal tagaplaanil on näha udune tume ese, mis võib kuuluda kalastusvarustuse hulka. Kogu taust on sügavusefekti tõttu udune, kujutades kauguses hägust maastikku halli või helesinise taeva all, mis viitab pilvisele ilmale.",
+      "actions": [],
+      "keywords": [
+        "Jääpüük",
+        "Kala",
+        "Surnud kala",
+        "Jää",
+        "Lörts",
+        "Talv",
+        "Saak",
+        "Külm",
+        "Väljas"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kalad",
+        "Jää",
+        "Lörts",
+        "Roheline nöör",
+        "Kalastusvarustus"
+      ],
+      "colorcodes": [
+        "#DCDCDC",
+        "#FF4500",
+        "#F8F8F8",
+        "#3CB371",
+        "#A9A9A9"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [],
+      "snr": "081",
+      "ajad": [
+        "1072.240",
+        "1078.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laial ja jäätunud veekogul, tõenäoliselt järvel või merel, tegutsevat vanemat meest talvisel päeval. Taevas on pilvine ja hele. Mees on riietatud soojalt tumedasse talvejopesse, pükstesse, tumedasse mütsi ja rohelistesse kummisaabastesse, mis viitab külmale ilmale. Ta kükitab või põlvitab jääl ja tegeleb jääpüügiga. Tema ümber ja jalgade lähedal on laiali mitu väikest, hõbedase ja punaka tooniga kala, mis on ilmselt värskelt püütud. Mees korjab kalu jäätunud pinnalt, hoides neid käes ja sorteerides. Tema kõrval on kaks tumedat, ristkülikukujulist plastist vanni või kasti, millest ühes paistab rohekas kalavõrk. Teine vann on tühjana või osaliselt täidetuna. Läheduses lamab jääl ka puust pulk või lühem latt, mis võis olla abivahendiks. Taustal laiub lõputuna näiv jäätunud veepind ja horisont on tasane, viidates avarale ja avatud maastikule.",
+      "actions": [
+        "Jääkalastus",
+        "Kalade korjamine jäät",
+        "Kalade sorteerimine",
+        "Kükitamine",
+        "Põlvitamine"
+      ],
+      "keywords": [
+        "Jääkalastus",
+        "Talv",
+        "Kalamees",
+        "Jää",
+        "Kalad",
+        "Külm",
+        "Jäätunud veekogu",
+        "Pilvine taevas",
+        "Välitingimused",
+        "Püügiretke"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Kalad",
+        "Jää",
+        "Tumedad plastkastid/vannid",
+        "Kalavõrk",
+        "Puidust pulk/latt",
+        "Talvejope",
+        "Müts",
+        "Kummisaapad"
+      ],
+      "colorcodes": [
+        "#A1ADB9",
+        "#D9E5EE",
+        "#3C4B59",
+        "#40813D",
+        "#B06E66",
+        "#2F3232",
+        "#8B4513"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe kehahoiak ja täpne liigutus muutub kaadrite vahel.",
+        "Kalade asetus mehe käes ja jääl veidi erineb.",
+        "Esimesel pildil hoiab mees kala paremas käes ja vaatab teisi kalu jääl. Teisel pildil hoiab mees kala vasakus käes, ilmselt asetades seda kuhugi või uurides seda. Kolmandal pildil on mees sügavamalt kummargil ja sirutab parema käe kala järele jääl."
+      ],
+      "snr": "082",
+      "ajad": [
+        "1078.800",
+        "1086.120"
+      ]
+    }
+  ]
+}

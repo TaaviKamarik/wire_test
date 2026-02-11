@@ -1,0 +1,680 @@
+{
+  "film": [
+    "17527",
+    "17405",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Magus lõpp",
+    "6e161b03073c3c071b61aacfecfef13182b68095.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen on iseloomustatud minimalistliku ja dramaatilise visuaalse stiiliga, olles peamiselt mustvalge. See algab abstraktse kujutisega kolmest pehmest, fookusest väljas valgusallikast sügava musta tausta ees, luues bokeh-efekti. Sellele järgneb tiitrikaart, millel on mustal taustal valge tekst \"CAMERA WORK 1\" ja \"final homework\" kirjutusmasina sarnases fondis. Stseeni keskne osa kujutab eakat inimest, tõenäoliselt naist, kiiktoolis istumas, valgustatud terava prožektoriga. Ta näib olevat kokku vajunud või magamas, ümbritsetud valdavast pimedusest, mis täidab suurema osa kaadrist. Tooli all olev põrand on prožektori valguses vaevamärgatav. Üldine meeleolu on sügavmõtteline, melanhoolne ja rõhutab isolatsiooni ning haavatavust.",
+      "actions": [
+        "Istumine",
+        "Magamine (või kokku vajumine)"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Minimalistlik",
+        "Dramaatiline",
+        "Prožektor",
+        "Vanadus",
+        "Üksindus",
+        "Sügavmõttelisus",
+        "Bokeh",
+        "Tiitrikaart",
+        "Pimedus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Kiiktool",
+        "Valgusallikad (bokeh)",
+        "Eakas inimene"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "CAMERA WORK 1",
+        "final homework"
+      ],
+      "persons": [
+        "Eakas inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "80",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt kujutab abstraktseid, fookusest väljas olevaid valgusallikaid, teine pilt sisaldab teksti mustal taustal ja kolmas pilt kujutab selgelt subjekti (eakas inimene) prožektorivalguses.",
+        "Esimene pilt loob bokeh-efekti, teine on puhtalt tekstipõhine, kolmas on fookuses olev fotograafiline kujutis.",
+        "Esimene pilt annab esialgse abstraktse visuaalse vihje, teine pakub kontekstuaalset teavet (pealkiri) ja kolmas tutvustab stseeni peamist subjekti."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "21.280"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud mustvalgelt eakat naist, kes istub toolil, vaadates allapoole ja naeratades õrnalt. Tema pea on kergelt ette kallutatud. Naisel on peas valged, õhukesed ja kohevad juuksed ning tema nägu on kaetud sügavate kortsudega, mis annavad tunnistust elatud elust. Tal on ees ümmargused metallraamiga prillid. Seljas on tal heleda mustriga kootud kampsun, mille alt paistab heledam särk või kaelus. Ta istub taustal, kus on näha mustriga kaetud tooli seljatugi.",
+      "actions": [
+        "vaatab alla",
+        "naeratab õrnalt",
+        "istub"
+      ],
+      "keywords": [
+        "eakas naine",
+        "vanaema",
+        "hallid juuksed",
+        "kortsud",
+        "prillid",
+        "naeratus",
+        "mustvalge",
+        "kampsun",
+        "portree",
+        "rahulik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "eakas naine",
+        "prillid",
+        "kampsun",
+        "tool",
+        "toolikate"
+      ],
+      "colorcodes": [
+        "mustvalge"
+      ],
+      "texts": [],
+      "persons": [
+        "eakas naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise pea asend ja näoilme on piltide vahel minimaalselt muutunud, esindades väga väikest hetkenihket. Esimesel pildil on pea ehk kergemalt allapoole kallutatud ja naeratus on veidi tagasihoidlikum, samas kui teisel pildil on naeratus ehk pisut laiem ja pea kergemalt tõstetud, kuid erinevused on väga väikesed."
+      ],
+      "snr": "002",
+      "ajad": [
+        "21.280",
+        "24.560"
+      ]
+    },
+    {
+      "explanation": "Mustvalgel fotol on kujutatud eakat naist, kes istub puitraamiga kiiktoolis ja tegeleb kudumisega. Naine on heledate, ilmselt hallide juustega ning kannab prille. Ta on riietatud avarasse kampsunisse ja pükstesse. Tema käes on kudumisvardad ja lõngakerad, ning süles on tal pooleli olev kootud ese, mis paistab olevat tekk või sall ja ulatub rippuvalt põrandale. Naine on süvenenud oma tegevusse, vaadates allapoole oma käsitööle. Teda valgustab ülevalt vasakult suunatud ere prožektorivalgus, mis loob tema ümber ja põrandale ümara valguseketi. Ülejäänud stseen on kottpime, luues dramaatilise kontrasti ja rõhutades valguseala. Põrand on puidust, näidates puidusüüd valguse alas. Naise vari langeb tema taha ja paremale poole põrandale.",
+      "actions": [
+        "istumine kiiktoolis",
+        "kudumine",
+        "käsitöö tegemine"
+      ],
+      "keywords": [
+        "eakas naine",
+        "kudumine",
+        "kiiktool",
+        "mustvalge",
+        "prožektorivalgus",
+        "vari",
+        "siseruum",
+        "keskendumine",
+        "käsitöö",
+        "rahu",
+        "üksindus"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "kiiktool",
+        "kudumisvardad",
+        "lõng",
+        "kootud ese",
+        "prillid",
+        "põrand",
+        "vari",
+        "kampsun",
+        "püksid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "eakas naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pilte on kolm, kuid need on identsed – puuduvad igasugused erinevused kaadrite vahel."
+      ],
+      "snr": "004",
+      "ajad": [
+        "39.680",
+        "45.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kaht noort inimest intiimses ja romantilises hetkes, mis kulmineerub suudlusega. Pildid on mustvalged, mis annab stseenile ajatu ja emotsionaalse tunde, rõhutades nägude detaile ja kehaasendeid. Esimesel kaadril on näha kaks nägu teineteisele väga lähedal, suud peaaegu puudutamas, mõlema silmad on suletud või allapoole vaatamas, vihjates ootusele ja sügavale emotsioonile. Tagaplaan on tume, mis suunab tähelepanu täielikult subjektidele. Teises kaadris on suudlus just algamas, huulte kokkupuude on kerge ja ettevaatlik, mehe kõrv nähtava tunneliga ja naise näo profiil on lähemalt tabatud. Mõlema silmad on endiselt suletud, süvenedes hetke. Kolmandas kaadris on suudlus täies hoos, huuled on kindlalt kokku surutud. Mehe kukal ja õlg on näha tagantpoolt ning naise näoprofiil on selgemalt esil, näidates tema rahulolu ja keskendumist. Üldiselt on tegemist väga lähedase ja hellusest pakatava stseeniga, mis edastab armastust ja ühendust.",
+      "actions": [
+        "Suudlemine",
+        "Lähenemine",
+        "Intiimse hetke jagamine",
+        "Silmade sulgemine",
+        "Huulte kokkupuude"
+      ],
+      "keywords": [
+        "Suudlus",
+        "Intiimsus",
+        "Romantika",
+        "Noored",
+        "Mustvalge",
+        "Emotsioon",
+        "Lähedus",
+        "Paar",
+        "Hellus",
+        "Tender"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Huuled",
+        "Nägud",
+        "Kõrv",
+        "Juuksed",
+        "Nahk",
+        "Kael",
+        "Õlg",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#555555",
+        "#AAAAAA",
+        "#D3D3D3"
+      ],
+      "texts": [],
+      "persons": [
+        "Noormees",
+        "Neiu"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt kujutab hetke enne suudlust, kus näod on teineteisele väga lähedal ja huuled peaaegu puudutavad.",
+        "Teine pilt näitab suudluse algust, huulte esimest kerget kokkupuudet, detailsema lähivõttega nägudest ja mehe kõrvast.",
+        "Kolmas pilt kujutab täielikku suudlust, kus huuled on kindlalt kokku surutud, mehe kukal ja õlg on näha ning kaader on veidi laiem.",
+        "Suudluse intensiivsuse ja kontakti progresseerumine piltide vahel on märgatav."
+      ],
+      "snr": "005",
+      "ajad": [
+        "45.920",
+        "66.600"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja kujutab kolme erinevat, kuid omavahel seotud hetke inimelust, rõhutades intiimsust, möödumist ja mälestusi. Esimeses osas näeme kahte inimest profiilis, peaaegu suudlemas, nende näod on fookuses, edastades noorusliku armastuse ja läheduse tunnet. Seejärel nihkub fookus süngemale kujutisele, kus tume voolav kangas katab lamavat inimkeha siluetti, jättes vaatajale mõtiskleda varjatuse, rahu või kaotuse üle. Viimases osas on keskmes eakas naine, kes istub pimeduses valgustatud kiiktoolis ja koob paksu heledat teki. Tema valgete juuste ja sügavalt mõtiskleva ilmega nägu peegeldab elukogemust ja üksindust. Kogu stseen on üles ehitatud tugevale kontrasti musta taustaga, mis toob esile subjektid ja süvendab nende emotsionaalset laetust, luues ajatu ja universaalse loo elukaarest.",
+      "actions": [
+        "Suudlemine",
+        "Lamamine/Puhkamine",
+        "Kudumine",
+        "Istumine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Armastus",
+        "Intiimsus",
+        "Aja kulgemine",
+        "Mälestused",
+        "Üksindus",
+        "Vanadus",
+        "Lähedus",
+        "Saladus",
+        "Elukaar",
+        "Mustvalge",
+        "Pimedus",
+        "Valgusvihk"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimkeha",
+        "Kangas",
+        "Kiiktool",
+        "Teki"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest",
+        "Eakas naine",
+        "Inimkeha"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Erinevad eluetapid on esindatud (noorus, keskea oletus, vanadus)",
+        "Stseeni fookus ja kaadri suurus varieeruvad",
+        "Tegevused on erinevad: suudlemine, varjatud puhkus, kudumine",
+        "Valguse kasutus ja dramaatilisus erinevad stseenist stseeni",
+        "Emotsionaalne toon muutub nooruslikust armastusest mõtiskleva üksinduseni"
+      ],
+      "snr": "006",
+      "ajad": [
+        "66.600",
+        "147.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget lähivaadet eakast naisest, kes istub rahulikult toolis. Naisel on lühikesed, kohevad valged juuksed ja ümmargused prillid. Tema nägu on kortsuline, mis annab tunnistust pikaealisusest, ning ta suunab oma pilgu veidi allapoole ja paremale, huulil mängleb õrn ja soe naeratus. Seljas kannab ta heledat, mustriga kootud kampsunit, millel on näha heledast kangast krae ja nööbid. Tausta moodustab tumedama ja heledama mustriga kangas, mis on tõenäoliselt tooli seljatugi. Kogu stseen õhkab rahu ja sõbralikkust.",
+      "actions": [
+        "Istub",
+        "Naeratab õrnalt",
+        "Vaatab kõrvale"
+      ],
+      "keywords": [
+        "Eakas naine",
+        "Portree",
+        "Mustvalge",
+        "Rahulik",
+        "Sõbralik",
+        "Naeratus",
+        "Prillid",
+        "Kampsun",
+        "Hallid juuksed",
+        "Siseruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Eakas naine",
+        "Prillid",
+        "Kampsun",
+        "Tooli seljatugi",
+        "Valged juuksed"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080",
+        "#C0C0C0",
+        "#404040"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakas naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel on väga väikesed, peaaegu märkamatud erinevused naise pea asendis ja pilgu suunas, mis viitavad pigem järjestikustele videokaadritele kui eraldiseisvatele fotodele. Näiteks liigub pea mõnevõrra vasakule (vaataja poolt) ning pilk nihkub minimaalselt paremale."
+      ],
+      "snr": "007",
+      "ajad": [
+        "147.240",
+        "149.440"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub pimedal teatrilaval, mis on valgustatud laiguliselt. Ühes lavaservas, peamiselt vasakul, istub vanem naine kiiktoolis, süvenenult kudumisse. Tema jalad on kaetud heleda kootud pleedi või tekiga, mis ulatub mööda tooli alla põrandale. Naine hoiab käes lõnga ja kudumisvardaid ning tema pilk on suunatud tööle. Ta kannab heledat mustrilist kampsunit ja tumedaid pükse ning tema hallid juuksed on korralikult soengusse seatud. Keset lava paremal pool on noorem inimene, tõenäoliselt tüdruk, kes on riietatud talveriietesse: peas on tutiga talvemüts, seljas paks jope ja jalas saapad. Algselt liigub noorem inimene vanema naise poole, jäädes seejärel temast mõne meetri kaugusele seisma, vaadeldes teda tähelepanelikult. Lava tagumine osa on täiesti pime, mis loob intiimse ja keskendunud õhkkonna kahe tegelase vahel. Valgusvihk on suunatud peamiselt kiiktoolile ja vanemale naisele, jättes ülejäänud lava hämarusse. Kogu stseen on must-valge, mis annab ajatu ja melanhoolse tunde.",
+      "actions": [
+        "Vanem naine koob/kudub",
+        "Noorem inimene kõnnib",
+        "Noorem inimene seisab paigal",
+        "Noorem inimene vaatleb/jälgib"
+      ],
+      "keywords": [
+        "Teater",
+        "Lava",
+        "Must-valge",
+        "Kudumine",
+        "Põlvkondadevaheline",
+        "Vaatlus",
+        "Kontemplatsioon",
+        "Melanhoolia",
+        "Vaikus",
+        "Ootus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kiiktool",
+        "Kudumisvardad",
+        "Lõng",
+        "Tekk/pleed",
+        "Talvemüts",
+        "Jope",
+        "Saapad"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "Must-valge"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem naine",
+        "Noorem inimene (tüdruk)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "winter",
+      "daytime": "not clear",
+      "differences": [
+        "Noorema inimese asend: esimesel pildil on ta liikumises, paremale poole pööratud ja veidi udune, teistel piltidel seisab ta paigal, näoga vanema naise poole ja pilk suunatud allapoole.",
+        "Noorema inimese selgus: esimesel pildil on ta veidi hägusam, teistel piltidel teravam.",
+        "Vanema naise ja tema tegevuse osas puuduvad olulised erinevused kaadrite vahel."
+      ],
+      "snr": "008",
+      "ajad": [
+        "149.440",
+        "153.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat inimest (tõenäoliselt naist) siseruumides kudumas. Kaadris domineerivad käed, mis hoiavad kudumisvardaid ja heledat lõnga. Käed on kortsulised, viidates vanusele. Isik kannab mustriga kampsunit või pleedi, mille varrukas paistab vasakul pool. Paremal pool on näha keritud lõngakeradest välja võetud lõnga ning kudumisvardad, millest üks on vertikaalselt pildiraami ülemisest servast alla tulemas. Laual või sarnasel pinnal on näha käärid. Kudumistöö ise on heledat värvi ja sellel on näha erinevaid koemustreid, sealhulgas palmikuid või muud reljeefset mustrit. Kogu stseen õhkab rahu ja keskendumist, rõhutades käsitööoskust ja kannatlikkust.",
+      "actions": [
+        "Kudumine",
+        "Käsitöö tegemine",
+        "Lõnga hoidmine",
+        "Varraste liigutamine"
+      ],
+      "keywords": [
+        "Kudumine",
+        "Käsitöö",
+        "Vanus",
+        "Lõng",
+        "Vardad",
+        "Kampsun",
+        "Käärid",
+        "Rahu",
+        "Keskendumine",
+        "Detailid",
+        "Mustvalge",
+        "Tekstuur"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Käed",
+        "Kudumisvardad",
+        "Lõng",
+        "Kootud ese",
+        "Kampsun",
+        "Käärid",
+        "Lõngakerad"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#CCCCCC",
+        "#AAAAAA",
+        "#555555",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem inimene",
+        "Kuduja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Käte asend ja liikumine muutub: esimesel pildil on käed paigalduse või hetke peatuse asendis, teisel ja kolmandal on käed aktiivselt lõnga ja varrastega tegelemas, näidates kudumisprotsessi erinevaid etappe.",
+        "Kudumistöö asend ja detailsus käte vahel muutub, viidates töö edenemisele.",
+        "Teisel pildil on käed pisut udused liikumise tõttu, kolmandal on kootud ese käte vahel paremini nähtaval."
+      ],
+      "snr": "009",
+      "ajad": [
+        "153.600",
+        "165.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest – eakat naist ja nooremat isikut (tõenäoliselt last või teismelist) – mustvalges keskkonnas, mis viitab lavastusele või sümboolsele hetkele. Eakas naine istub kiiktoolis ja on süvenenud kudumisse, käes kudumisvardad ja lõng. Ta kannab sooja, heledat riietust ja tal on heledad juuksed. Noorem isik, riietatud talveriietesse, sealhulgas pomponiga talvemütsi ja paksu jopega, läheneb eakale naisele. Alguses seisab noorem isik eaka naise kõrval, vaadates teda. Seejärel kükistab ta naise kõrvale, ulatades käe vanema naise poole. Vanem naine pöörab seepeale oma pilgu kudumiselt noorema isiku poole, naeratades. Ümbritsev taust on täiesti pime, esiletõstes tegelasi ja nende vahelist interaktsiooni, mida valgustab intensiivne prožektor.",
+      "actions": [
+        "Vanem naine koob",
+        "Noorem inimene seisab",
+        "Noorem inimene kükistab",
+        "Noorem inimene ulatab käe",
+        "Noorem inimene puudutab vanema naise kätt",
+        "Vanem naine vaatab nooremat inimest ja naeratab"
+      ],
+      "keywords": [
+        "Generatsioonid",
+        "Hoolivus",
+        "Kudumine",
+        "Vanadus",
+        "Noorus",
+        "Mustvalge",
+        "Lavastus",
+        "Interaktsioon",
+        "Empaatia",
+        "Peresuhted"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kiiktool",
+        "Kudumisvardad",
+        "Lõng",
+        "Kootud ese",
+        "Talvemüts (pomponiga)",
+        "Jope",
+        "Saapad"
+      ],
+      "colorcodes": [
+        "Mustvalge"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem naine",
+        "Noorem inimene (laps/teismeline)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "not clear",
+      "differences": [
+        "Noorema inimese asend muutub seismisest kükistamiseks, mis näitab lähenemist.",
+        "Noorem inimene ulatab oma käe vanema naise käe poole, luues füüsilise kontakti.",
+        "Vanema naise pilk ja näoilme muutuvad kudumisele keskendumisest noorema isiku poole pöördumiseks ja naeratamiseks.",
+        "Interaktsioon kahe tegelase vahel areneb passiivsest jälgimisest aktiivseks ja hoolivaks žestiks."
+      ],
+      "snr": "010",
+      "ajad": [
+        "165.080",
+        "169.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat naist ja last, kes istuvad teineteise vastas pimedal taustal, mis annab edasi intiimse ja keskendunud õhkkonna. Eakas naine, valgete juuste ja prillidega, istub mustrilises tugitoolis ning on riietatud sooja kampsunisse. Tema ees istub laps, näoga naise poole, kandes paksu tutiga talvemütsi ja karvase kapuutsiga jakki. Stseeni jooksul tegeleb eakas naine lapsega, pakkudes talle kootud tekki või salli, mille ta esimeses kaadris lapsele ulatab või ümber hakkab panema. Teises kaadris on tekk lapse ümber laiali, justkui oleks see lapsele selga pandud või laps on end sellesse mähkinud. Kolmandas kaadris kudub naine aktiivselt kudumisvarrastega, samal ajal kui tekk on lapse ümber, pakkudes soojust ja mugavust. Kogu stseen õhkab hoolivust ja põlvkondade vahelist soojust. Tegemist on mustvalge pildistusega.",
+      "actions": [
+        "Eakas naine koob kudumisvarrastega",
+        "Eakas naine annab lapsele tekki/salli",
+        "Eakas naine naeratab lapsele",
+        "Laps istub ja vaatab eaka naise poole"
+      ],
+      "keywords": [
+        "Vanavanemad",
+        "Lapselaps",
+        "Kudumine",
+        "Tekk",
+        "Soojus",
+        "Hoolitsus",
+        "Armastus",
+        "Põlvkondadevaheline",
+        "Mustvalge",
+        "Teater",
+        "Talv",
+        "Istumine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kootud tekk/sall",
+        "Kudumisvardad",
+        "Lõng",
+        "Tugitool",
+        "Prillid",
+        "Talvemüts tutiga",
+        "Jakk karvase kapuutsiga"
+      ],
+      "colorcodes": [
+        "black",
+        "white",
+        "grey"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakas naine",
+        "Laps"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "winter",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil hoiab eakas naine tekki käes ja naeratab, valmis seda lapsele andma. Kolmandal pildil koob naine samal ajal, kui tekk on lapse ümber.",
+        "Teine pilt kujutab hetke, kus tekk on laiali ja liikumises, ilmselt siis, kui seda lapse ümber pannakse, samas kui esimesel ja kolmandal pildil on tekk kas naise käes või juba lapse ümber."
+      ],
+      "snr": "011",
+      "ajad": [
+        "169.760",
+        "180.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, tõenäoliselt vanemat naist ja nooremat naist või tüdrukut, kes on omavahel intiimses ja emotsionaalses kontaktis. Vanem inimene on seljaga vaataja poole, tema juuksed on valged ja lainelised. Ta kannab heledat, mustriga kudumit. Noorem inimene on riietatud talverõivastesse: peas on tal tutiga kootud müts ja kaelas paks heledast lõngast kootud sall, mis katab suure osa tema kaelast ja lõuast. Tema pilk on suunatud vanema inimese poole ning tema näoilme on mõtlik, ehk veidi kurb, kuid samas rahulik ja aktsepteeriv. Stseeni fookus on nendevahelisel suhtlusel, kus vanem inimene ulatab nooremale oma käe toetuseks ja lohutuseks. Mustvalge pildikeel rõhutab stseeni dramaatilisust ja ajatust. Taust on tume ja minimalistlik, mis suunab kogu tähelepanu tegelastele ja nende emotsioonidele, luues intiimse ja keskendunud atmosfääri.",
+      "actions": [
+        "Käe asetamine õlale/käele",
+        "Käte hoidmine/kokku surumine",
+        "Mõtlikult vaatamine",
+        "Toetuse pakkumine"
+      ],
+      "keywords": [
+        "Generatsioonidevaheline",
+        "Toetus",
+        "Emotsioon",
+        "Hoolivus",
+        "Talverõivad",
+        "Mustvalge",
+        "Intiimne",
+        "Mõtlikkus",
+        "Kontakt",
+        "Lohutus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Müts (tutiga)",
+        "Sall (kootud)",
+        "Kudum (mustriga)",
+        "Käed"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080",
+        "#C0C0C0",
+        "#404040"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem naine",
+        "Noorem naine / tüdruk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "not clear",
+      "differences": [
+        "Käte asend ja interaktsioon: Esimesel pildil asetab vanema inimese käsi noorema inimese õlale või ülemisele käe osale. Teisel pildil on vanema inimese käsi noorema inimese kokkuklasitud käte ümber, hoides neid, mis viitab sügavamale sideme või lohutuse hetkele.",
+        "Noorema inimese käte asend: Esimesel pildil ei ole noorema inimese käte asend vanema inimese käe suhtes selgelt nähtav, samas kui teisel pildil on näha, et ta hoiab käsi koos ning vanema inimese käsi on nende ümber."
+      ],
+      "snr": "012",
+      "ajad": [
+        "180.160",
+        "188.400"
+      ]
+    },
+    {
+      "explanation": "Stseen algab intiimse hetkega, kus kaks inimest – täiskasvanu ja laps – hoiavad käest kinni ja kõnnivad vaatajast eemale. Nad on kujutatud mustvalgelt. Laps kannab tumedat sulejopet, musta tüllseelikut ja retuuse, täiskasvanu on riietatud pikka tumedasse mantlisse. Pinnas nende all on hele ja ühtlane, mis viitab kas liivasele rannale või lumisele maastikule. Edasi avaneb vaade laiale ja rahulikule veekogule, tõenäoliselt merele või suurele järvele, mis on kaetud paksu pilvekihi all. Keskdistantsis lendab kaks lindu ning vasakul horisondil on vaevumärgatav maismaa. Kogu stseen on edastatud monokroomsetes toonides, luues rahuliku, mõtiskleva ja veidi melanhoolse meeleolu. Viimane kaader on täiesti must, mis annab stseenile äkilise lõpu või ülemineku tunde.",
+      "actions": [
+        "Käest kinni hoidmine",
+        "Kõndimine",
+        "Lendamine (linnud)"
+      ],
+      "keywords": [
+        "Monokroomne",
+        "Vaikne",
+        "Mereäär",
+        "Pilvine",
+        "Laps ja täiskasvanu",
+        "Ühtsus",
+        "Loodus",
+        "Mõtisklev",
+        "Pimedus",
+        "Vastutus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Laps",
+        "Täiskasvanu",
+        "Sulejope",
+        "Tüllseelik",
+        "Retuusid",
+        "Pikk mantel",
+        "Pinnas (liiv/lumi)",
+        "Taevas",
+        "Pilved",
+        "Vesi (meri/järv)",
+        "Linnud",
+        "Horisont",
+        "Maismaa"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Laps",
+        "Täiskasvanu"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Erinev kaadri suurus: esimene kaader on poolpikk kaader inimestest, teine on lai maastikuvaade, kolmas on täiesti must.",
+        "Fookuse nihe: inimestelt loodusele ja seejärel täielikule tühjusele.",
+        "Detailsuse tase: esimene kaader on detailsem inimeste osas, teine on detailne looduse osas, kolmas on detailivaba."
+      ],
+      "snr": "013",
+      "ajad": [
+        "188.400",
+        "255.400"
+      ]
+    }
+  ]
+}

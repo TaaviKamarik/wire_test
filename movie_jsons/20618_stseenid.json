@@ -1,0 +1,85 @@
+{
+  "film": [
+    "20618",
+    "20463",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Maalietüüd",
+    "be78357c061b4ae9265b623e5d0a0dc23ebc74cb.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab endast siseruumis toimuvat elavat rahvakogunemist või pidu, mis on tõenäoliselt filmitud ajaloolises või traditsioonilises kontekstis. Ruum on rustikaalne, puitlage ja -tala ning valgete krohvitud seintega, mis on kaunistatud tumerohelise luuderohuga. Keskel toimub tants, kus mitmed naised pikkades, voogavates seelikutes (punased, beežid) ja vestides keerlevad. Ümberringi on palju inimesi – mehi ja naisi – kes kas tantsivad, istuvad laudade taga vesteldes ja einestades või seisavad ja jälgivad tegevust. Inimesed on riietatud tolleaegsesse rõivastusse, mis hõlmab tumedaid ülikondi meestel ja eri värvi seelikuid, pluuse ja veste naistel, mõned kannavad ka peakatteid. Üks naine on pildistatud põlvitamas. Ruumis on soe ja pisut hämar valgustus, mis loob hubase ja intiimse atmosfääri. Laest ripub alla väike ehitud roheline oks, mis viitab pühadele või pidulikule sündmusele.",
+      "actions": [
+        "tantsimine",
+        "vestlemine",
+        "istumine",
+        "seismine",
+        "einestamine",
+        "jälgimine"
+      ],
+      "keywords": [
+        "rahvakogunemine",
+        "pidu",
+        "tants",
+        "traditsiooniline",
+        "ajalooline",
+        "siseruum",
+        "hubane",
+        "rustikaalne",
+        "talvine",
+        "pidustused",
+        "külaelu",
+        "folkloor"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "inimesed",
+        "puitlagi",
+        "puitseinad",
+        "lauad",
+        "toolid",
+        "luuderohi",
+        "ehitud oks",
+        "põrand",
+        "riided",
+        "seelikud",
+        "vestid",
+        "pluusid",
+        "ülikonnad",
+        "peakatted",
+        "nõud"
+      ],
+      "colorcodes": [
+        "#9E262B",
+        "#D4B283",
+        "#A98059",
+        "#DDDED9",
+        "#2D2C2A",
+        "#4B4B4B",
+        "#74685A",
+        "#1A3C2A"
+      ],
+      "texts": [],
+      "persons": [
+        "mehed",
+        "naised",
+        "tantsijad",
+        "külalised"
+      ],
+      "imagetype": "real",
+      "emptypercent": 5,
+      "season": "winter",
+      "daytime": "evening",
+      "differences": [
+        "Esimene ja kolmas pilt on täiesti mustad, ilma visuaalse sisuta, samas kui teine pilt on detailne värviline stseen inimeste ja tegevusega.",
+        "Mustad pildid võivad tähistada kaadrite vahelist üleminekut või stseeni algust/lõppu, samas kui keskmine pilt on stseeni peamine sisu."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "440.680"
+      ]
+    }
+  ]
+}

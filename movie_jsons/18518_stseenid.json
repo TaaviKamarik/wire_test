@@ -1,0 +1,3145 @@
+{
+  "film": [
+    "18518",
+    "18386",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Sirius",
+    "b2443dbf957ac32a2686f0eafa813d6e8932a35c.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab pööningutuba, mis on puidust vaheseina või ukseavaga jagatud kaheks erinevaks alaks. Vasakpoolses osas on noor poiss, kes põlvitab sinisel/rohelisel vaibal ja vaatab tähelepanelikult läbi hõbedase teleskoobi. Tema ümber on töölaud tooliga, raamaturiiul oranži laavalaambiga ja seinal ripuvad tumedad pildid. Laest ripub alla iseloomulik ümmargune valgusti ja teleskoobi lähedal on korvpall. Parempoolne ruumi osa on kaetud puitpaneelidega, seal on voodi või tool, millel istub vanem tumedanahaline inimene, vaadates midagi. See pool on kaunistatud mitmete plakatitega, sealhulgas UFO-teemalise plakatiga, millel on osaliselt näha tekst. Samuti on seal peegel ja laest ripub teine ümmargune valgusti. Põrandal on valge vaip. Üldine valgustus on hämar ja kunstlik, viidates õhtusele või öisele ajale. Stseeni arenedes liigub kaadrisse kolmas inimene, kes kannab punase-musta ruudulist särki ja kõnnib paremalt vasakule, läbides puidust vaheseina. See liikumine varjab esmalt osaliselt vasakpoolses toas tegutsevat poissi ja jätab lõpuks parempoolse ruumi inimestest tühjaks.",
+      "actions": [
+        "Poiss vaatab teleskoobiga",
+        "Vanem inimene istub ja vaatab alla",
+        "Isik ruudulises särgis kõnnib läbi ruumi"
+      ],
+      "keywords": [
+        "Pööningutuba",
+        "Teleskoop",
+        "Laavalamp",
+        "UFO-plakat",
+        "Puidust vahesein",
+        "Vaatlus",
+        "Siseruum",
+        "Õhtu",
+        "Noorus",
+        "Liikumine"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Teleskoop",
+        "Laavalamp",
+        "Raamaturiiul",
+        "Voodi",
+        "Laud",
+        "Tool",
+        "Vaip (sinine/roheline)",
+        "Vaip (valge)",
+        "Plakatid",
+        "UFO plakat",
+        "Peegel",
+        "Valgusti (ümmargune)",
+        "Puidust vahesein",
+        "Korvpall",
+        "Särk (ruuduline)"
+      ],
+      "colorcodes": [
+        "#1E1E1E",
+        "#A88851",
+        "#E8E0D2",
+        "#FF4500",
+        "#800000",
+        "#204040",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "I WANT TO BELIEVE"
+      ],
+      "persons": [
+        "Poiss",
+        "Vanem inimene (tumedanahaline)",
+        "Isik ruudulises särgis"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on mõlemad ruumi pooled nähtaval, kus vasakul on poiss ja paremal vanem inimene.",
+        "Teisel pildil on punase-musta ruudulises särgis isik liikumas kaadri paremalt vasakule, osaliselt varjates vasakpoolset tuba ja viidates uue tegelase ilmumisele stseeni.",
+        "Kolmandal pildil on ruudulises särgis isik liikunud veelgi vasakule, nüüdseks peaaegu täielikult vasakpoolses toas, ja parempoolne ruum on jäänud inimestest tühjaks, rõhutades tegelase üleminekut läbi ruumi."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "46.280"
+      ]
+    },
+    {
+      "explanation": "Stseen algab pildiga pimedast ruumist, kus on näha puitprussidest laekonstruktsioon, mis viitab pööningule või katusealusele. Keskel helendab üksik väike, eraldiseisev valguspunkt. Seejärel liigub kaamera kodusemasse interjööri, kus on näha puidust trepp koos vertikaalsete trepipiiretega. Trepipiirete vahelt piilub välja inimene, tõenäoliselt laps, kelle nägu on osaliselt varjatud. Lapse käsi toetub ühele trepipiirdele, ning näha on ka tema punase-mustakirjut pluusi. Taustal on seinal tumesinine ja valge/helehalli mustriga kangas, mis meenutab hõimu- või geomeetrilist disaini. Stseenis valitseb hämar valgustus, mis annab edasi salakavalat, ootusärevat või isegi kergelt pingelist meeleolu. Fookus nihkub avaralt ja tühjalt ruumilt konkreetsemale ja intiimsemale tegevusele trepil.",
+      "actions": [
+        "keegi piilub",
+        "käsi toetub piirdele",
+        "laps ilmub trepipiirete tagant",
+        "valguspunkt helendab"
+      ],
+      "keywords": [
+        "pimedus",
+        "puit",
+        "trepp",
+        "trepipiirded",
+        "laps",
+        "piilumine",
+        "mustriline kangas",
+        "hämarus",
+        "salapära",
+        "ootus",
+        "kodu",
+        "pööning",
+        "valguspunkt",
+        "vari"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "puitprussid",
+        "väike valguspunkt",
+        "puidust trepp",
+        "puidust trepipiirded",
+        "mustriline kangas",
+        "sein",
+        "lapse riietus"
+      ],
+      "colorcodes": [
+        "#3C2713",
+        "#000000",
+        "#EEDDCC",
+        "#2D3A4B",
+        "#CACFD2",
+        "#6B1E1E"
+      ],
+      "texts": [],
+      "persons": [
+        "laps"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt näitab pimedat pööningut/katusealust koos helendava valguspunktiga, samas kui järgmised pildid näitavad kodust treppi ja piireid.",
+        "Inimene (laps) ilmub kaadrisse alates teisest pildist, piiludes trepipiirete tagant.",
+        "Lapse asend ja nähtavus muutuvad veidi teise ja kolmanda pildi vahel, näidates liikumist või ettevaatlikku väljapiilumist.",
+        "Valguspunkt on nähtav ainult esimesel pildil, samas kui mustriline kangas ja trepipiirded on nähtavad viimastel piltidel.",
+        "Stseeni fookus nihkub avaralt ja abstraktselt puitkonstruktsioonilt konkreetsemale tegevusele lapsega trepil."
+      ],
+      "snr": "002",
+      "ajad": [
+        "46.280",
+        "53.360"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset hubases köögis, mille seinad on kaetud puitpaneelidega. Riiulid on täidetud mitmesuguste purkide, pudelite, nõude ja köögitarvetega, luues koduse ja tegusa õhkkonna. Algselt on ruum sügavalt pime, kusjuures vaid ähmaselt eristuvad objektid ja avatud ukseava, mis viib edasi teise tumedasse ruumi. Seejärel valgustatakse ruum eredalt sooja kunstliku valgusega, mis paljastab köögi detailid. Puidust töötasapinna peal on suur läikiv metallist pott, kaks kuldset kuklit, kobar banaane ja antiikstiilis laualamp valge kupliga. Paremal on näha kaasaegne külmkapp, mis on kaunistatud kalendri ja märkmetega, ning punane köögiseade, mis võib olla kohvimasin või veekeetja. Stseenis on näha naine ja poiss, kes toimetavad köögis. Naine hoiab käes raamatut või märkmikku, samal ajal kui poiss, seljas punane ruuduline särk, on süvenenud enda raamatu lugemisse, kord seistes, kord laua kohale kummardudes. Üldine õhkkond on rahulik ja keskendunud, vihjates õhtusele tegevusele või toidu ettevalmistamisele.",
+      "actions": [
+        "Ruumi valgustamine",
+        "Raamatu lugemine",
+        "Köögis toimetamine",
+        "Toidu ettevalmistamine (kaudselt, toidu olemasolu järgi)"
+      ],
+      "keywords": [
+        "Köök",
+        "Puit",
+        "Hubane",
+        "Lapsed",
+        "Lugemine",
+        "Pimedus",
+        "Valgus",
+        "Toit",
+        "Kodune",
+        "Riiulid",
+        "Nõud",
+        "Ema ja poeg"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Puitseinad",
+        "Riiulid",
+        "Klaaspurgid",
+        "Pudelid",
+        "Taldrikud",
+        "Kruusid",
+        "Metallpotid",
+        "Puidust töötasapind",
+        "Laualamp (valge kupliga)",
+        "Kuklid",
+        "Banaanid",
+        "Külmkapp",
+        "Punane köögiseade",
+        "Raamatud",
+        "Ukseava",
+        "Köögirätikud",
+        "Kalender/märkmed",
+        "Pliit (induktsioonplaat)"
+      ],
+      "colorcodes": [
+        "#4A2B1B",
+        "#9C6C42",
+        "#C79A63",
+        "#D8D6CD",
+        "#B72D24",
+        "#40583A",
+        "#8E8E8E",
+        "#000000"
+      ],
+      "texts": [
+        "Not discernible"
+      ],
+      "persons": [
+        "Naine (ema)",
+        "Poiss (laps)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimene kaader on sügavalt pime, teised kaadrid on eredalt valgustatud, viidates valgustuse sisselülitamisele.",
+        "Esimene kaader ei näita ühtegi inimest, samas kui teistes kaadrites on näha naine ja poiss.",
+        "Naine ilmub ja kaob stseenist erinevate kaadrite vahel.",
+        "Poisi asend muutub: alguses seisab ta püstises asendis, hiljem kummardub raamatu kohale.",
+        "Kaadrite vahel muutub kaamera fookus ja nurk, pakkudes vaheldumisi laiemat ülevaadet ja lähemaid detaile."
+      ],
+      "snr": "003",
+      "ajad": [
+        "53.360",
+        "84.040"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõtet vinüülplaadimängijast, kus inimkäsi asetab ettevaatlikult helipea pöörlevale plaadile. Kaadris on näha plaadimängija helikäpp koos musta helipeaga, mis liigub plaadi suunas. Lühikese hetke pärast on helikäpp juba plaadil, mis annab märku muusika algusest. Taust on udune ja hämar, viidates siseruumile, kus domineerivad soojad pruunid ja tumesinised toonid. Tegevus on rahulik ja keskendub plaadimängija mehhanismile.",
+      "actions": [
+        "helipea asetamine plaadile",
+        "vinüülplaadi käivitamine",
+        "muusika kuulamine"
+      ],
+      "keywords": [
+        "vinüülplaadimängija",
+        "helikäpp",
+        "helipea",
+        "vinüülplaat",
+        "muusika",
+        "siseruum",
+        "käsi",
+        "vintage"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "vinüülplaadimängija",
+        "vinüülplaat",
+        "helikäpp",
+        "helipea",
+        "käsi",
+        "sõrmed",
+        "varrukas"
+      ],
+      "colorcodes": [
+        "#1b0d0c",
+        "#342217",
+        "#654121",
+        "#364e62",
+        "#848281",
+        "#c29e71",
+        "#0b0b0b"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene (käsi)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on helikäpp õhus, plaadi kohal, valmis plaadile asetamiseks. Teisel pildil on näha käsi, mis ettevaatlikult suunab helikäppa alla plaadi poole. Kolmandal pildil on käsi kaadrist lahkunud ja helikäpp on juba plaadil, mis viitab muusika mängimise algusele."
+      ],
+      "snr": "004",
+      "ajad": [
+        "84.040",
+        "111.960"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumis, tõenäoliselt magamistoas. Algselt on pildil näha tühi voodi, mis on kaetud valge voodipesuga, millel on hajutatud oranži-pruuni toonides ruudukujulised mustrid. Voodil on ka erk oranž tekk või pleed. Hiljem ilmub stseeni noor naine, kes lamab selili oranžil tekil, pea suunatud kaamera poole. Tal on seljas tume, tõenäoliselt must või tumepruun kootud kampsun, mille all on heledam, hallikas topp. Tema helepruunid või punakaspruunid juuksed on laiali laotatud oranžile tekile. Naine vaatab avatud silmadega ülespoole ja tema suu on kergelt avatud. Üks tema käsi on näha, küünarnukist kõverdatud, ja käsi puhkab pea kõrval. Üldmulje on rahu ja mõtiskluse hetk privaatses keskkonnas.",
+      "actions": [
+        "Lamamine",
+        "Puhkamine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Magamistuba",
+        "Voodi",
+        "Naine",
+        "Puhkus",
+        "Oranž",
+        "Tekk",
+        "Siseruum",
+        "Portree"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Voodi",
+        "Tekk",
+        "Voodilinad",
+        "Kampsun",
+        "Särk/topp",
+        "Juuksed",
+        "Sein",
+        "Põrand"
+      ],
+      "colorcodes": [
+        "#F46C1E",
+        "#FFFFFF",
+        "#2C201D",
+        "#E4D6C0",
+        "#7A4E3D"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Noor täiskasvanu"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt kujutab tühja voodit, samas kui järgnevatel piltidel on voodil lamamas naine.",
+        "Naise näoilme ja suu asend on teise ja kolmanda pildi vahel veidi erinev; teisel pildil on tema suu pisut rohkem avatud kui kolmandal pildil."
+      ],
+      "snr": "005",
+      "ajad": [
+        "111.960",
+        "114.040"
+      ]
+    },
+    {
+      "explanation": "Pildil on näha noor naine, kes lamab selili voodis, pea kaadri alumises osas, vaadates otse üles kaamera poole. Tema pikad pruunid juuksed on laiali laotatud erkpunasel või oranžil padjal. Naine kannab tumedat, kohevat, pikavarrukat kudumit halli särgi peal. Tema näoilme on rahulik, suu on veidi avatud ja silmad vaatavad otse vaatlejat. Voodi on kaetud valge linaga, millel on aimatavad heledad ruudukujulised mustrid. Paremal pool on näha ka teist heledat, tõenäoliselt heegeldatud või tekstuuriga patja/tekki. Stseen on filmitud ülalt, andes subjekti suhtes tavatult pööratud perspektiivi. Üldine valgus on pehme ja loomulik, mis loob intiimse ja rahuliku õhkkonna siseruumis.",
+      "actions": [
+        "lamamine",
+        "vaatamine"
+      ],
+      "keywords": [
+        "naine",
+        "voodi",
+        "lamamas",
+        "portree",
+        "siseruum",
+        "magamistuba",
+        "rahulik",
+        "oranž padi",
+        "kudum",
+        "pea alaspidi",
+        "ülevaade"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "voodi",
+        "padi",
+        "lina",
+        "kudum",
+        "särk",
+        "juuksed",
+        "tekikott"
+      ],
+      "colorcodes": [
+        "#2D2523",
+        "#E1480D",
+        "#F5F5F5",
+        "#C8A391",
+        "#7B5F4A",
+        "#807D7B"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel puuduvad nähtavad erinevused."
+      ],
+      "snr": "006",
+      "ajad": [
+        "114.040",
+        "115.240"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha noor naine, kes lamab voodis selili, pea kaadri alumise serva poole suunatud. Tema pilk on otse kaamerasse suunatud. Naine kannab tumedat kootud sviitrit ja halli särki. Tema pea puhkab erksavärvilisel oranžil padjal ning pikad pruunid juuksed on laiali laotatud ümber pea. Üks käsi on näha puhkamas padjal pea kõrval, sõrmed kergelt kõverdatud. Voodi on kaetud heleda, võimalik et valge või kreemika voodipesuga, millel on aimatav muster. Üldine meeleolu on rahulik ja intiimne. Valgus on pehme ja loomulik, valgustades naise nägu esiplaanil.",
+      "actions": [
+        "lamab voodis",
+        "vaatab kaamerasse"
+      ],
+      "keywords": [
+        "naine",
+        "voodi",
+        "lamamine",
+        "portree",
+        "siseruum",
+        "intiimne",
+        "rahulik",
+        "oranž padi",
+        "kootud sviiter",
+        "otsevaade",
+        "puhkus",
+        "mõtlik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "voodi",
+        "padi",
+        "voodipesu",
+        "sviiter",
+        "särk",
+        "juuksed"
+      ],
+      "colorcodes": [
+        "#FF6600",
+        "#2D1D17",
+        "#5C5A5E",
+        "#E0E0E0",
+        "#C6A084",
+        "#60483C"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel puuduvad erinevused, need on identsed."
+      ],
+      "snr": "007",
+      "ajad": [
+        "115.240",
+        "116.440"
+      ]
+    },
+    {
+      "explanation": "Üks noor naine lamab voodil selili, pea kaadri alumises osas, jalad ülespoole. Tema pilk on suunatud otse kaamera poole. Tal on seljas tume, jämedakoeline kampsun ja selle all hall t-särk. Ta toetab pead ereoranžil padjal. Voodil on valge voodilina, millel on heledad ruudukujulised mustrid. Paremal pool on näha ka teist valget patja. Üldine meeleolu on rahulik ja mõtisklev, võib-olla isegi veidi melanhoolne. Valgus on pehme ja loomulik, valgustades naise nägu ja ümbrust ühtlaselt. Kaamera on paigutatud otse naise kohale, pakkudes pealtvaadet.",
+      "actions": [
+        "Lamab voodil",
+        "Vaatab otse kaamerasse"
+      ],
+      "keywords": [
+        "naine",
+        "voodi",
+        "puhkus",
+        "mõtisklemine",
+        "pealtvaade",
+        "portree",
+        "siseruum",
+        "kampsun",
+        "padi"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "voodi",
+        "padi",
+        "kampsun",
+        "t-särk",
+        "voodilina"
+      ],
+      "colorcodes": [
+        "#2C201C",
+        "#E15E28",
+        "#F5F5F5",
+        "#717273",
+        "#C8A389",
+        "#6A4C3A"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Pildid on identsed, erinevused puuduvad."
+      ],
+      "snr": "008",
+      "ajad": [
+        "116.440",
+        "117.640"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab ülevalt alla vaates noort naist, kes lamab voodis selili, pea asetseb erkoranžil padjal. Tema pikad, pruunikad juuksed on laiali laotatud ümber pea oranžile padjale ja voodilinadele. Seljas kannab ta tumepruuni kootud kampsunit ja selle all halli särki. Naine tundub olevat puhkeseisundis; tema käed on lõdvalt külgedel, millest üks on näha oranžil padjal lamamas. Voodi on kaetud heledate, valgete linadega, millel on diskreetne pruunikat tooni muster. Üldine atmosfäär on rahulik ja intiimne. Kaameranurk annab stseenile isikliku ja sisevaatleva tunde.",
+      "actions": [
+        "Lebamine",
+        "Puhkamine",
+        "Magamine",
+        "Lõõgastumine"
+      ],
+      "keywords": [
+        "Puhkus",
+        "Uni",
+        "Naine",
+        "Voodi",
+        "Portree",
+        "Rahu",
+        "Siseruum",
+        "Kampsun",
+        "Padi",
+        "Lõõgastus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Voodi",
+        "Padi (oranž)",
+        "Padi (valge)",
+        "Voodilinad",
+        "Kampsun (tumepruun)",
+        "Särk (hall)",
+        "Juuksed"
+      ],
+      "colorcodes": [
+        "#32251B",
+        "#E65500",
+        "#F7F7F7",
+        "#7B7B7B",
+        "#BEB3A9",
+        "#DBC4AB",
+        "#5E4738"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on naise silmad kergelt avatud ja pilk suunatud ülespoole, kaamera poole. Teisel ja kolmandal pildil on naise silmad suletud, mis annab märku magamisest või sügavast puhkusest. Muud detailid (poos, esemed) on identsed."
+      ],
+      "snr": "009",
+      "ajad": [
+        "117.640",
+        "118.840"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab ülaltvaates voodis magavat või puhkavat inimest. Isik on näoga ülespoole, silmad suletud ja pea toetub oranžile padjale. Tal on seljas tume kootud kampsun ja selle all hall T-särk. Pikkade juustega isiku juuksed on laiali laotatud padjale ja voodile. Voodipesu on valget tooni, halli ruudulise mustriga, ja osa voodist paistab kaasa tumedam puitraam. Üks käsi on kõverdatud ja puhkab rinna kõrgusel. Üldine meeleolu on rahulik ja vaikne.",
+      "actions": [
+        "magamine",
+        "puhkamine",
+        "lamamine"
+      ],
+      "keywords": [
+        "uni",
+        "puhkus",
+        "naine",
+        "voodi",
+        "rahulik",
+        "siseruum",
+        "kampsun",
+        "oranž padi"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "voodi",
+        "padi (oranž)",
+        "padi (valge mustriga)",
+        "voodilina",
+        "kootud kampsun (tume)",
+        "T-särk (hall)",
+        "juuksed"
+      ],
+      "colorcodes": [
+        "#dd4f19",
+        "#2d2621",
+        "#ececec",
+        "#825a3d",
+        "#e1c0a6",
+        "#6b7074"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 10,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "010",
+      "ajad": [
+        "118.840",
+        "121.240"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha ülaltvaates naine, kes lamab voodis selili, pea apelsinioranžil padjal. Tema silmad on suletud, mis viitab magamisele või sügavale puhkusele. Naine kannab tumedat, kootud pikavarrukat kampsunit, mille all paistab heledam pluus või särk. Tema juuksed, mis on helepruunid või punakaspruunid, on laiali padjal ja voodil. Voodil on valged linad, millel on aimatavad ruudulised mustrid. Paremal pool on näha voodi serv ja põrand. Valgus on summutatud, luues rahuliku ja intiimse atmosfääri. Stseen on staatiline ja keskendub naise magavale või puhkavale olekule.",
+      "actions": [
+        "Lamamine",
+        "magamine",
+        "puhkamine"
+      ],
+      "keywords": [
+        "Uni",
+        "puhkus",
+        "voodi",
+        "naine",
+        "magamistuba",
+        "rahulik",
+        "ülaltvaade",
+        "kampsun"
+      ],
+      "shot_type": "medium shot",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "voodi",
+        "padi",
+        "kampsun",
+        "voodilinad",
+        "juuksed"
+      ],
+      "colorcodes": [
+        "#2D241C",
+        "#D84D16",
+        "#F5F5F5",
+        "#8C6A5A",
+        "#C4A48D"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "011",
+      "ajad": [
+        "121.240",
+        "122.440"
+      ]
+    },
+    {
+      "explanation": "Piltidel on näha inimene, tõenäoliselt naine, kes lamab selili voodis. Tema pea on suunatud kaadri allossa ja puhkab ereoranžil padjal. Juuksed on laiali ümber pea. Silmad on suletud, mis viitab magamisele või sügavale puhkusele. Seljas on tal tume pruun kootud kampsun ja selle all tume särk. Tema parem käsi puhkab padjal tema kõrval. Voodi on kaetud heleda linaga, millel on ülemises osas heledad ruudulised mustrid. Paremal kaadri ülemises servas on näha teist valget mustriga patja. Stseen on üldiselt hämaralt valgustatud, luues rahuliku ja intiimse atmosfääri. Kaadri ülaosas on näha voodiäär või osa mööblist, mis viitab siseruumile.",
+      "actions": [
+        "Lamamine",
+        "Puhkamine",
+        "Magamine"
+      ],
+      "keywords": [
+        "Puhkus",
+        "Uni",
+        "Rahulikkus",
+        "Siseruum",
+        "Voodi",
+        "Naine",
+        "Portree",
+        "Hämar"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Voodi",
+        "Padi",
+        "Lina",
+        "Kampsun",
+        "Särk",
+        "Juuksed"
+      ],
+      "colorcodes": [
+        "#4a2c20",
+        "#f17822",
+        "#e8e8e8",
+        "#a0a0a0",
+        "#727272"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pildid on identsed."
+      ],
+      "snr": "012",
+      "ajad": [
+        "122.440",
+        "123.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab intiimset ja rahulikku hetke siseruumides, kus keskpunktis on puhkav naine ja tema personaalsed esemed. Naine lamab voodis selili, silmad suletud, sügavas puhkeseisundis, kandes tumedat kootud särki ja heledamat alussärki. Tema pikad juuksed on laiali laotatud üle padja. Voodi on kaetud valge voodipesuga ja tema pea all on oranž padi. Läheduses, tõenäoliselt samas ruumis laual, on näha lamp, mille soe valgus valgustab metallist, keeruka disainiga ripatsit, mis on rippumas keti otsas. Ripats meenutab stiliseeritud planeedisüsteemi või sarnast astronoomilist sümbolit. Taustal, uduselt, on avatud märkmik käsitsi kirjutatud tekstiga, viidates intellektuaalsele tegevusele või isiklikele mõtetele. Üldine meeleolu on mõtisklev, rahulik ja isiklik, vihjates kas magama minekule, ärkamisele või sügavale mõtisklusele.",
+      "actions": [
+        "Puhkamine",
+        "Magamine (võimalik)",
+        "Mõtisklemine (kaudselt, esemete kaudu)",
+        "Kirjutamine (kaudselt, märkmiku kaudu)"
+      ],
+      "keywords": [
+        "Puhkus",
+        "Uni",
+        "Naine",
+        "Voodi",
+        "Rahu",
+        "Intiimne",
+        "Märkmik",
+        "Ripats",
+        "Ehe",
+        "Astronoomia",
+        "Mõtisklus",
+        "Siseruum",
+        "Rahulik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Voodi",
+        "Oranž padi",
+        "Valge voodipesu",
+        "Tume kootud särk",
+        "Hele alussärk",
+        "Ripats",
+        "Kett",
+        "Laud/Pind",
+        "Lamp",
+        "Märkmik",
+        "Käsitsi kirjutatud tekst"
+      ],
+      "colorcodes": [
+        "#2E1B17",
+        "#F06A0A",
+        "#F2F2F2",
+        "#C7B58E",
+        "#4A4A4A",
+        "#EBEBEB"
+      ],
+      "texts": [
+        "Käsitsi kirjutatud tekst märkmikus (ei ole loetav)"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimene pilt kujutab naist puhkamas voodis keskmises plaanis, samas kui teine ja kolmas pilt on identsed ning näitavad lähivõtet laual olevast ehtest, lambist ja märkmikust. Seega on erinevused kaadrite sisu ja fookuspunkti osas."
+      ],
+      "snr": "013",
+      "ajad": [
+        "123.640",
+        "127.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab detailset lähivõtet raamaturiiulist, mis on täidetud tihedalt raamatutega. Valgus on soe ja kergelt summutatud, luues hubase ja intellektuaalse atmosfääri. Raamatud on paigutatud riiulile erinevates asendites – mõned püstiselt, teised kaldu või üksteise peal. Esimesel riiulil on näha vanemaid, kulunud kaantega raamatuid. Keskmes on sinakas-lillakas raamat, mille kaanel on kujutatud kosmost, planeete ja galaktikaid, ning sellel on näha selgelt teksti ja autoreid. Paremal pool on näha veelgi raamatuid, millest üks paistab silma oranži planeedi kujutisega tumedal taustal. Riiul ise on puidust ja selle tekstuur on kergelt nähtav.",
+      "actions": [
+        "Puuduvad. Stseen on staatiline."
+      ],
+      "keywords": [
+        "Raamaturiiul",
+        "raamatud",
+        "lugemine",
+        "kirjandus",
+        "teadusulme",
+        "kosmos",
+        "planeedid",
+        "teadmised",
+        "interjöör",
+        "hubane",
+        "detail",
+        "lähivõte",
+        "kollektsioon"
+      ],
+      "shot_type": "lähivõte",
+      "placement": "indoor",
+      "objects": [
+        "Raamaturiiul",
+        "raamatud",
+        "raamatukaas",
+        "planeetide kujutised",
+        "kosmos",
+        "galaktikad",
+        "puit"
+      ],
+      "colorcodes": [
+        "#2E4B71",
+        "#4B7861",
+        "#C79A5E",
+        "#332115",
+        "#A86536",
+        "#8E5A9D",
+        "#907050",
+        "#1E1F21"
+      ],
+      "texts": [
+        "Viljaveo ja anorgaanilise KEEMIA",
+        "LEONARD COHEN",
+        "Jean Heidmann",
+        "Alfred Vidal-Madjar",
+        "Nicolas Prantzos",
+        "Hubert Reeves",
+        "ME OLEME",
+        "IKS I",
+        "ÜLEKÜSITUD?"
+      ],
+      "persons": [
+        "Jean Heidmann",
+        "Alfred Vidal-Madjar",
+        "Nicolas Prantzos",
+        "Hubert Reeves",
+        "Leonard Cohen"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel puuduvad erinevused."
+      ],
+      "snr": "014",
+      "ajad": [
+        "127.000",
+        "130.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab avarust kosmosevaadet, kus tumedal, tähistatud taustal domineerib paremal suur, tekstuuriga hallikas-sinine taevakeha, mis täidab suure osa kaadri paremast poolest. See taevakeha sarnaneb planeedi või asteroidiga, mille pind on robustne ja ebaühtlane, meenutades vananenud puitu või kivimit. Vasakul ülemisest nurgast ja diagonaalis läbi kaadri ulatub helesinine valguskiir või udukogulaadne moodustis, mis on täis väikeseid säravaid täppe, sarnaselt tähetolmule või kaugematele tähtedele. Kaadri vasakusse alanurka ilmub hiljem nähtavale punakas-hall sirpkuu, mis annab stseenile veel ühe detaili ja sügavuse. Kogu stseen on dramaatiline ja müstiline, rõhutades avarust ja tundmatust.",
+      "actions": [
+        "Sirpkuu ilmumine kaadrisse"
+      ],
+      "keywords": [
+        "Kosmos",
+        "planeet",
+        "kuu",
+        "tähed",
+        "udukogu",
+        "ulme",
+        "kosmosevaade",
+        "taevakeha",
+        "animatsioon",
+        "efektid",
+        "avarus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Planeet/taevakeha",
+        "kuu (sirp)",
+        "tähed",
+        "udukogu/valguskiir"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#6E7B8B",
+        "#B0C4DE",
+        "#FFFFFF",
+        "#800000",
+        "#4B0082"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kolmandal pildil ilmub kaadri vasakusse alanurka punakas-hall sirpkuu, mida esimesel ja teisel pildil ei ole.",
+        "Udukogulaadse valguskiire asukoht ja intensiivsus on piltide vahel kergelt muutunud, vihjates kaamera aeglasele liikumisele või stseeni arengule."
+      ],
+      "snr": "015",
+      "ajad": [
+        "130.120",
+        "136.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist lamamas voodis selili, kaamera on paigutatud otse tema kohale, vaadates allapoole. Naine kannab tumedat kootud sviitrit ja helehalli pluusi selle all. Tema pikad pruunikad juuksed on laiali oranžil padjal. Stseeni alguses on naise silmad suletud, andes märku magamisest või puhkusest. Kolmandas hetkes avab ta silmad ja vaatab otse kaamerasse, luues vaatajaga otsekontakti. Voodi on kaetud valge voodipesuga, millel on õrnad heledad mustrid. Lisaks oranžile padjale on naise pea kõrval näha ka teist valget, tekstuurse mustriga patja. Valgus on pehme ja sume, vihjates siseruumile ning võimalikule õhtusele või hommikusele ajale.",
+      "actions": [
+        "Magamine",
+        "Puhkamine",
+        "Silmade avamine",
+        "Otse kaamerasse vaatamine"
+      ],
+      "keywords": [
+        "Naine",
+        "Voodi",
+        "Magamine",
+        "Puhkus",
+        "Portree",
+        "Rahulik",
+        "Pilgukontakt"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Voodi",
+        "Oranž padi",
+        "Valge padi",
+        "Voodipesu",
+        "Sviiter",
+        "Pluus"
+      ],
+      "colorcodes": [
+        "#2E2621",
+        "#DD7A2B",
+        "#F0F0ED",
+        "#D4A991",
+        "#745842",
+        "#605C56"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel ja teisel pildil on naise silmad suletud.",
+        "Kolmandal pildil on naise silmad avatud ja ta vaatab otse kaamerasse."
+      ],
+      "snr": "016",
+      "ajad": [
+        "136.320",
+        "137.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist, kes lamab selili voodis, vaadatuna otse ülalt. Tal on seljas tume, tõenäoliselt kootud kampsun, mille all paistab heledam hallikas pluus. Tema pikad, pruunikad juuksed on laiali laotatud erkpunakasoranžil padjal, mis omakorda toetub valgele padjale. Voodi on kaetud valge voodipesuga, millel on õrnad heledate ruutude või mustritega kaunistused. Stseeni alguses vaatab naine otse ülespoole, kaamera poole, ilmega, mis võib olla mõtlik või rahulik. Stseeni arenedes naise pea või juuksed nihkuvad veidi, nii et ta nägu jääb osaliselt juuste varju, andes edasi kerge liikumise või asendimuutuse tunde.",
+      "actions": [
+        "Lamamine selili",
+        "Vaatamine ülespoole",
+        "Pea kerge pööramine või juuste nihkumine"
+      ],
+      "keywords": [
+        "Naine",
+        "Voodi",
+        "Puhkus",
+        "Mõtlik",
+        "Juuksed",
+        "Siseruum",
+        "Kampsun",
+        "Padi"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Voodi",
+        "Padi",
+        "Tekk",
+        "Kampsun",
+        "Pluus"
+      ],
+      "colorcodes": [
+        "#2D231E",
+        "#D9481C",
+        "#F0F0F0",
+        "#91684B",
+        "#7B7876",
+        "#D2B095"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kahe esimese pildi ja kolmanda pildi peamine erinevus seisneb naise pea ja juuste asendis. Esimesel kahel pildil on naise nägu täielikult näha ja ta vaatab otse üles, samas kui kolmandal pildil on tema juuksed nihkunud, kattes osaliselt ta nägu, mis annab edasi kerge liikumise või asendimuutuse."
+      ],
+      "snr": "017",
+      "ajad": [
+        "137.520",
+        "139.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast, kuid veidi korrast ära pööningutuba, millel on kaldlagi ja puittalad. Tuba on sisustatud tagasihoidlikult ja peamiselt tumedates, maalähedastes toonides. Keskel domineerib ühe inimese voodi, mis on kaetud beežide voodilinade ja tekkidega. Voodi ees on pruun puidust kast, mis toimib ilmselt pingina või panipaigana. Põrandal on värviline triibuline kaltsuvaip ja sellel on näha toidujäänustega taldrik. Toa vasakus servas on riiul ja peegel, millel on virnas raamatud, mõned kruusid ja riideesemed. Seintel on mitu plakatit, sealhulgas tuntud 'I WANT TO BELIEVE' UFO-poster ja teisi kunstipilte. Stseenis on näha noort naist, kes alguses lamab voodil lõdvestunult, jalad üleval. Seejärel tõuseb ta istuli ja vaatab ringi. Kolmandas kaadris on valgus toas oluliselt muutunud – on pime, justkui oleks õhtu või öö, ja naine on voodist tõusnud, seistes toas, kus vasakult paistab sisse külm sinakas valgusallikas, mis võib olla avatud uks või aken.",
+      "actions": [
+        "Voodil lamamine",
+        "Istuli tõusmine voodil",
+        "Ringi vaatamine",
+        "Voodist tõusmine",
+        "Seisamine toas"
+      ],
+      "keywords": [
+        "Pööningutuba",
+        "Hubane",
+        "Korrast ära",
+        "Kaldlagi",
+        "Naine",
+        "Voodi",
+        "Öö ja päev",
+        "Valguse muutus",
+        "UFO-poster",
+        "Magamistuba"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Voodi",
+        "Padi",
+        "Tekk",
+        "Puidust kast/pink",
+        "Põrandavaip",
+        "Taldrik",
+        "Raamatud",
+        "Kohvikruusid",
+        "Riiul",
+        "Peegel",
+        "UFO-poster",
+        "Kunstiposter",
+        "Riided",
+        "Redel (maalil)",
+        "Kaldlagi/trepp",
+        "Aken/uks (valgusallikas)"
+      ],
+      "colorcodes": [
+        "#5C3D22",
+        "#D3C4A2",
+        "#2F211D",
+        "#1C1A19",
+        "#7C1A0C",
+        "#9E362D",
+        "#E6E6E6",
+        "#D9C240",
+        "#3C4C62"
+      ],
+      "texts": [
+        "I WANT TO BELIEVE",
+        "MARIA",
+        "OKINO"
+      ],
+      "persons": [
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise asend ja tegevus: Esimeses kaadris naine lamab voodil, teises istub ja kolmandas seisab.",
+        "Valgustus: Valgus muutub eredast päevavalgusest (esimesed kaks kaadrit) pimedaks õhtu- või öövalguseks (viimane kaader), kus vasakult paistab sisse sinakas valgusallikas.",
+        "Voodi seisukord: Kolmandas kaadris on voodi sassi läinud ja tekid on ümberpööratud.",
+        "Toa üldine heledus: Tubade valgustus varieerub heledast päevavalgusest pimeda ööni.",
+        "Naise juuste asend: Juuksed on vastavalt asendile erinevalt paigutatud."
+      ],
+      "snr": "018",
+      "ajad": [
+        "139.320",
+        "151.320"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub pimedas pööningutoas, millel on kaldlagi. Ruumis viibib pikkade tumedate juustega naine, seljas tume mantel või jakk ja tumedad retuusid. Alguses seisab ta riiuli juures, millel on erinevaid esemeid ning seintel plakatid, sealhulgas üks UFO-pildiga ja tekstiga \"I WANT TO BELIEVE\". Toas on ka segamini voodi ja väike puidust kummut või laud. Seejärel liigub naine avatud akna poole, mille all asub heledast puidust kirjutuslaud. Ta kummardub laua kohale ja stseeni lõpus on näha, kuidas ta aktiivselt avatud aknast välja ronib, jalad juba aknast väljapoole suunatud. Akna ümber on näha ka mõningaid valguskette. Kirjutuslaual on märkmik ja ajakiri.",
+      "actions": [
+        "Seisab ruumis riiuli juures",
+        "Kummardub laua poole",
+        "Ronib aknast välja"
+      ],
+      "keywords": [
+        "pööningutuba",
+        "naine",
+        "aken",
+        "lahkumine",
+        "salapära",
+        "öö",
+        "siseruum",
+        "UFO-poster",
+        "tume",
+        "segamini tuba"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "voodi",
+        "laud",
+        "riiul",
+        "aken",
+        "uks",
+        "plakatid",
+        "kruusid",
+        "raamatud",
+        "tekid",
+        "padjad",
+        "märkmik",
+        "ajakiri",
+        "jope/mantel",
+        "retuusid",
+        "jalatsid",
+        "valgusketid"
+      ],
+      "colorcodes": [
+        "#363F4B",
+        "#D4C7B8",
+        "#727F8C",
+        "#A3342D",
+        "#1F1F1F"
+      ],
+      "texts": [
+        "ODKINO",
+        "I WANT TO BELIEVE"
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Naise asend muutub seismisest riiuli juures, kummardumiseks laua poole ja seejärel aknast välja ronimiseks.",
+        "Kaamera nurk muutub veidi, näidates alguses rohkem riiulit ja seejärel järjest rohkem avatud akent ja kirjutuslauda.",
+        "Stseenis toimuv tegevus näitab naise liikumist toast välja, avatud akna kaudu."
+      ],
+      "snr": "019",
+      "ajad": [
+        "151.320",
+        "162.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist pimedas siseruumis, mis on valgustatud jahedate sinakate toonidega. Naine asub kaadri paremal poolel ja tema nägu on osaliselt valgustatud, jättes vasaku poole sügavalt tumedaks. Ta hoiab sõrmede vahel peenikest eset, mis sarnaneb sigareti või marihuaanarulliga. Stseeni alguses süütab ta seda tulemasinaga, pilk suunatud kontsentreeritult allapoole. Seejärel on ese juba süüdatud ja naine puhub suust suitsu välja, vaadates kergelt üles ja vasakule, näol mõtlik ilme. Viimases hetkes hoiab ta hõõguvat eset ja suits tõuseb sellest üles, samal ajal kui naine jätkab mõtisklevat pilku. Üldine atmosfäär on intiimne ja veidi melanhoolne, rõhutades naise üksildast hetke.",
+      "actions": [
+        "Süütamine",
+        "Suitsetamine",
+        "Suitsu väljapuhumine",
+        "Hoidmine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Naine",
+        "Suitsetamine",
+        "Pimedus",
+        "Sigaret",
+        "Tulemasin",
+        "Suits",
+        "Öö",
+        "Siseruum",
+        "Mõtlikkus",
+        "Sinine valgus"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Sigaret/Marihuaana rull",
+        "Tulemasin",
+        "Suits"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#A0B0D0",
+        "#C1A297",
+        "#D0B2AA",
+        "#F0C080",
+        "#B0C4DE",
+        "#708090"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil süütab naine sigaretti/marihuaanat tulemasinaga, vaadates allapoole, tulemasin on aktiivses kasutuses.",
+        "Teisel pildil on sigaret/marihuaana juba süüdatud ja naine puhub just suitsu välja, suits on tema suust selgelt eraldumas, vaadates kergelt üles ja vasakule.",
+        "Kolmandal pildil hoiab naine süüdatud sigaretti/marihuaanat, suits hõljub sellest ülespoole, kuid naine ei puhu parajasti suitsu välja ja tulemasin on kaadrist kadunud."
+      ],
+      "snr": "020",
+      "ajad": [
+        "162.400",
+        "179.240"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumides, hubases pööningutoas, millel on kaldus puidust lagi ja valged seinad. Akna taga paistev lumine maastik viitab talveõhtule või -ööle. Tuba on sisustatud lapse magamistoana, täis isiklikke esemeid, mis viitavad hobidele nagu astronoomia ja sport. Noor poiss, riietatud punasesse ruudulisse särki ja tumedatesse pükstesse, on esialgu süvenenud tegevusse, põlvili rohelisel vaibal, joonistades või kirjutades suurele paberilehehele. Tuba on valgustatud sooja, sumeda valgusega, mida täiendavad punase laavalambi kuma ja iseloomulik valge sfääriline laelatern. Akna lähedal seisab valmis teleskoop ning põrandal on korvpall puukasti kõrval. Laua kohal riiulitel on raamatud ja mitmesugused esemed, seinal aga linna silueti plakat. Mõne hetke pärast poiss tõuseb põrandalt, vaatab hetkeks vaataja poole, pöördub siis ja lahkub toast, minnes läbi puidust ukseava. Edasi majja liikudes on taustal põgusalt näha blondide juustega täiskasvanut, kes vaatab poisi suunas, viidates eelseisvale interaktsioonile või kohtumisele.",
+      "actions": [
+        "Joonistab või kirjutab",
+        "Põlvili maas olemine",
+        "Püsti tõusmine",
+        "Vaatab",
+        "Kõnnib toast välja"
+      ],
+      "keywords": [
+        "Lastetuba",
+        "Pööningutuba",
+        "Talveõhtu",
+        "Astronoomia",
+        "Poiss",
+        "Interjöör",
+        "Keskendumine",
+        "Liikumine",
+        "Puidust sisekujundus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Voodi",
+        "Roheline tekk",
+        "Sinine tekk",
+        "Aken",
+        "Sinised kardinad",
+        "Teleskoop",
+        "Radiaator",
+        "Laud",
+        "Tool",
+        "Riiulid",
+        "Raamatud",
+        "Laavalamp",
+        "Gloobus",
+        "Korvpall",
+        "Puukast",
+        "Valge laelamp",
+        "Seinaplakat",
+        "Seinapilt (taevakeha)",
+        "Paberileht",
+        "Pliiats",
+        "Roheline põrandavaip",
+        "Puituksepiit",
+        "Puidust lagi"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#FFFFFF",
+        "#3CB371",
+        "#4682B4",
+        "#B22222",
+        "#FF4500",
+        "#000000",
+        "#D3D3D3"
+      ],
+      "texts": [],
+      "persons": [
+        "Poiss",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Poiss on esimesel pildil põlvili maas ja joonistab/kirjutab, teisel pildil seisab ning kolmandal pildil kõnnib toast välja.",
+        "Kolmandal pildil on taustal näha veel üks inimene (naine), keda eelmistel piltidel ei olnud.",
+        "Kaamera vaatenurk ja fookus muutub, liikudes toast välja koos poisiga, mistõttu toa sisustus jääb tagaplaanile.",
+        "Valgustus taustal tundub kolmandal pildil heledam, mis viitab teisele ruumile."
+      ],
+      "snr": "022",
+      "ajad": [
+        "193.520",
+        "208.120"
+      ]
+    },
+    {
+      "explanation": "Naine seisab öösel avatud puidust aknaraamiga akna juures ja suitsetab. Ta on siseruumis, mis on hämaralt valgustatud, jättes ta parema külje varju ja vasaku külje kergelt valgustatuks. Ta on seljaga toa poole, vaadates välja pimedusse. Tema juuksed on pikad ja heledad ning ta kannab tumedat, kootud kampsunit või sviitrit. Ta hoiab sigaretti käes ja puhub suitsu välja akna poole, mis on nähtav sinaka pilvena musta öö taustal. Aknalauale pole midagi asetatud, kuid paremal aknaraami küljes ripub mingi väike ese ja mõned juhtmed või valgustid. Väljas on täielik pimedus, mis rõhutab stseeni intiimset ja ehk ka üksildast meeleolu.",
+      "actions": [
+        "suitsetamine",
+        "suitsu välja puhumine",
+        "aknal seista",
+        "välja vaatamine"
+      ],
+      "keywords": [
+        "öö",
+        "aken",
+        "suitsetamine",
+        "naine",
+        "pimedus",
+        "suits",
+        "mõtlik",
+        "siseruum",
+        "hämar"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "aken",
+        "aknalaud",
+        "aknarajad",
+        "sigaret",
+        "suits",
+        "naine",
+        "kampsun",
+        "juuksed",
+        "käsi",
+        "ese",
+        "juhtmed"
+      ],
+      "colorcodes": [
+        "#0B0B0B",
+        "#8C673D",
+        "#342D30",
+        "#A18F76",
+        "#4D709D",
+        "#B5A999"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on naine sigaretiga suu juures ja sigareti ots helendab, suitsu on vaevu näha.",
+        "Teisel pildil on sigaret suust eemal ja sinakas suitsupilv on selgelt nähtav, puhutud allapoole ja välja.",
+        "Kolmandal pildil on sigaret veelgi kaugemal käes ja suits on laialivalguvam, levides õhku. Naine tundub veidi pingsamalt või süvenenumalt välja vaatavat."
+      ],
+      "snr": "023",
+      "ajad": [
+        "208.120",
+        "211.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist tumedas ruumis avatud akna juures. Naine on pööratud küljega aknast välja, toetudes küünarnukiga või hoides käsi aknalaual. Tema pilk on suunatud aknast välja pimedusse või veidi üles ja paremale, andes edasi algselt mõtliku ja seejärel üllatunud või mureliku ilme. Tema ümber ja aknast väljas on näha sinist valgustatud suitsu või udu, mis annab stseenile müstilise ja eeterliku atmosfääri. Eriti naise käe ümber on sinine kuma ja suits märgatav, justkui ta interakteeriks sellega. Naisel on seljas tumepruun või hall kootud kampsun, mille koemuster on selgelt eristatav. Aken on puidust raamiga, mis on heledat puidutoooni ja sellel on näha käepidemeid. Väljas valitseb täielik pimedus, mida valgustab vaid salapärane sinine kuma ja suits. Ruumi siseseinad tunduvad samuti olevat puidust. Stseeni valgustab peamiselt see sinakas kuma ja mingi nõrk valgus, mis paljastab naise näo ja osaliselt kampsuni.",
+      "actions": [
+        "Vaatamine aknast välja",
+        "Käte hoidmine aknalaual",
+        "Interakteerumine sinise suitsu/uduga"
+      ],
+      "keywords": [
+        "Naine",
+        "Aken",
+        "Öö",
+        "Pimedus",
+        "Sinine kuma",
+        "Suits",
+        "Udu",
+        "Müstiline",
+        "Mõtlik",
+        "Üllatunud",
+        "Siseruum",
+        "Puit"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Aken",
+        "Puidust aknaraam",
+        "Aknakäepidemed",
+        "Kootud kampsun",
+        "Sinine suits/udu"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#0F0F1A",
+        "#4A3C32",
+        "#8C6A4F",
+        "#C3997A",
+        "#D0A78E",
+        "#6F6FFF",
+        "#4A4A8F"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Naise pea ja pilk liiguvad vasakult (aknapiirist välja) paremale ja üles, mis annab edasi muutuse fookuses ja mõtteseisundis.",
+        "Naise näoilme muutub pingsast või mõtlikust kergelt üllatunuks või murelikuks.",
+        "Naise suu avaneb veidi rohkem teises ja kolmandas kaadris, võrreldes esimesega.",
+        "Sinise valgusega suitsu/udu intensiivsus ja asetus naise käe ümber ja aknast väljaspool muutub kaadrite vahel, olles esimeses ja teises kaadris märgatavam. Teises kaadris on naise käsi intensiivsemalt siniselt valgustatud.",
+        "Naise käeasend muutub kergelt, justkui ta interakteeriks suitsuga."
+      ],
+      "snr": "024",
+      "ajad": [
+        "211.720",
+        "212.960"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumis, tõenäoliselt magamistoas, kus on seintel mitu plakatit. Üks plakat kujutab kaht inimest sinisel taustal, teine aga lendavat taldrikut (UFO) tumeda metsa kohal, mille all on tekst \"I WANT TO BELIEVE\". Ruumis on ka valge sahtlitega kummut. Stseen algab hämaras valguses, kus on näha noort inimest (võimalik, et poiss) kummuti poole ulatamas, ühe sahtli olevat lahti. Valgus muutub heledamaks ja seejärel on fookuses noor naine pikkade helepruunide juustega, kes seisab kummuti ees ja pihustab midagi spreipudelist, ilmselt peeglisse vaadates. Hiljem lamab sama naine voodil valge madratsi ja voodipesu peal, kätt hoides pliiatsit ja vaadates paberile, justkui joonistades või kirjutades. Üldine atmosfäär on intiimne ja isiklik.",
+      "actions": [
+        "Noor inimene ulatab käe",
+        "Naine pihustab spreid",
+        "Naine lamab voodil",
+        "Naine joonistab/kirjutab"
+      ],
+      "keywords": [
+        "magamistuba",
+        "siseruum",
+        "plakatid",
+        "UFO",
+        "kummut",
+        "naine",
+        "nooruk",
+        "hämarus",
+        "joonistamine",
+        "isiklik ruum"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "plakat",
+        "kummut",
+        "sahtlid",
+        "spreipudel",
+        "voodi",
+        "madrats",
+        "padi",
+        "paber",
+        "pliiats",
+        "lendav taldrik",
+        "puude siluett",
+        "uksepiit",
+        "voodipesu"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#e2e2e2",
+        "#6d4e38",
+        "#2d2d2d",
+        "#94aab8",
+        "#c5c5c5",
+        "#3d566f",
+        "#b69e8b"
+      ],
+      "texts": [
+        "I WANT TO BELIEVE"
+      ],
+      "persons": [
+        "noor inimene",
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Valgus muutub: esimene pilt on märgatavalt pimedam ja hämaram, samas kui teine ja kolmas on heledamad ning detailirohkemad.",
+        "Tegelased: Esimesel pildil on näha noort inimest (tõenäoliselt poiss), kes ulatab käe kummuti poole. Teisel ja kolmandal pildil on peategelaseks noor naine.",
+        "Tegevused: Esimesel pildil teismeline ulatab käe. Teisel pildil naine seisab ja pihustab spreid. Kolmandal pildil naine lamab voodil ja joonistab/kirjutab.",
+        "Kummuti seisund: Esimesel pildil on näha kummuti sahtel lahti, teisel ja kolmandal pildil on sahtlid suletud.",
+        "Teksti nähtavus: Esimesel pildil on parempoolselt plakatilt näha vaid osa tekstist (\"WANT TO BELIEVE\"), teisel pildil on tekst \"I WANT TO BELIEVE\" selgelt nähtav ja kolmandal pildil vaid osaliselt (\"TO\")."
+      ],
+      "snr": "025",
+      "ajad": [
+        "212.960",
+        "237.040"
+      ]
+    },
+    {
+      "explanation": "Noorem naine heledate juustega istub siseruumis, tõenäoliselt magamistoas või elutoas. Ta kannab tumedat kampsunit ja on osaliselt kaetud oranži riideesemega, mis näib olevat pleed või padi. Ühel hetkel on ta süvenenud detailse mandala-laadse mustri joonistamisse valgele paberile musta markeriga. Joonistus on keerukas ja mustvalge. Paberil on rebenenud ülemine serv. Teisel hetkel istub naine mõtlikult, toetades lõua käele, vaadates allapoole, tema ilme on ehk veidi kurb või sügavalt mõtisklev. Kolmandas kaadris on naine muutnud asendit, justkui tõustes või end keerates, selg on osaliselt kaadri suunas. Taustal on näha heledat mööblit, riideid, heledat vaipa põrandal ja puidust ust. Seinal on ka soojalt kumav ümmargune lamp. Stseeni üldine meeleolu on vaikne ja isiklik.",
+      "actions": [
+        "Joonistamine",
+        "Mõtisklemine",
+        "Asendi muutmine",
+        "Lõua käele toetamine"
+      ],
+      "keywords": [
+        "Naine",
+        "Joonistamine",
+        "Mõtisklus",
+        "Siseruum",
+        "Mandaala",
+        "Rahulikkus",
+        "Keskendumine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Käsi",
+        "Pliiats/marker",
+        "Paber",
+        "Mandaala joonistus",
+        "Oranž kangas/padi",
+        "Tume kampsun",
+        "Hele voodipesu/kangast",
+        "Mööbel (riiulid/kummut)",
+        "Riided (taustal)",
+        "Vaip",
+        "Puidust uks",
+        "Seinalamp"
+      ],
+      "colorcodes": [
+        "#E87722",
+        "#FFFFFF",
+        "#000000",
+        "#363636",
+        "#C8C8C8",
+        "#A08060",
+        "#E0D0B0",
+        "#FFD700"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt keskendub detailsele käte ja joonistuse tegevusele.",
+        "Teine pilt keskendub naise näole ja emotsionaalsele ilmele.",
+        "Kolmas pilt näitab naise kehaasendi muutust ja laiemat ülevaadet ruumist.",
+        "Naise tegevus muutub joonistamisest mõtisklemisele ja seejärel asendi muutmisele."
+      ],
+      "snr": "026",
+      "ajad": [
+        "237.040",
+        "253.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist tema pööningukorrusel asuvas kodus, mis on sisustatud puidust seinte ja mööbliga. Alguses istub naine hämaras ruumis voodil või puidust pingil, mis on kaetud heleda tekiga, ja ta tõuseb püsti. Tema ümber on mitmesuguseid esemeid: põrandal pruun kott, riiete hunnik, heledad vaibad ja puidust kapp või kast. Seinal on osaliselt näha musta taustaga plakat valge tekstiga. Järgmisena liigub naine mööda tuba ringi, pannes tähelepanu vanemat tüüpi televiisorile, mille ta sisse lülitab või kohendab. Toa teises osas on näha laud kontoritooliga, riiulid raamatute ja nipsasjadega ning helepunase läbikumava vedelikuga laavalamp. Ruumi üldine valgustus on hämar, luues õhtuse või öise meeleolu, mida täiendab teleri ekraani kuma ja laavalambi valgus. Lõpuks lahkub naine toast, laskudes mööda puidust treppi alla. Trepiseinal on suur mustvalge mandala-stiilis seinavaip.",
+      "actions": [
+        "Istub voodil/pingil",
+        "Tõuseb püsti",
+        "Liigub ruumis",
+        "Kohendab televiisorit",
+        "Laskub trepist alla"
+      ],
+      "keywords": [
+        "Noor naine",
+        "Pööningutuba",
+        "Puidust interjöör",
+        "Hämar valgustus",
+        "Kodu",
+        "Televiisor",
+        "Trepp",
+        "Õhtu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Puidust uksed",
+        "Voodi/pink",
+        "Tekk",
+        "Padi",
+        "Kott",
+        "Riided",
+        "Vaip/kaltsuvaip",
+        "Puidust kast/kapp",
+        "Laud",
+        "Kontoritool",
+        "Riiulid",
+        "Raamatud",
+        "Esemed riiulitel",
+        "Laavalamp",
+        "Televiisor",
+        "Trepp",
+        "Seinavaip/mandala"
+      ],
+      "colorcodes": [
+        "#6B4D3C",
+        "#D7D9DB",
+        "#1E283A",
+        "#AEB1B3",
+        "#FF7F00",
+        "#1A1A1A",
+        "#3B5A8F"
+      ],
+      "texts": [
+        "WANT TO LIVE"
+      ],
+      "persons": [
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Naine on piltidel erinevates kohtades ja tegevustes, liikudes toas ja trepil.",
+        "Valgustus varieerub veidi, eriti teleri sisselülitamisega, mis lisab uue valgusallika.",
+        "Kaamera nurgad on erinevad, pakkudes erinevaid vaateid ruumile ja trepile.",
+        "Stseeni fookus nihkub naiselt toas olekule, teleriga suhtlemisele ja seejärel toast lahkumisele."
+      ],
+      "snr": "027",
+      "ajad": [
+        "253.520",
+        "293.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri, mis vaheldub esiku ja elutoa vahel, öisel ajal valitseva ebakindla meeleoluga. Esikus on näha puitpaneele, valget tekstuuriga seina ja abstraktset seinakunsti – suurt mustvalget geomeetrilist mustrit. Seisab puidust kummut sahtlitega, ning esiplaanil on metallkann, punane ese, virnastatud küttepuud ja potitaim. Keegi liigub kaadrist paremal, varjudest vaid osaliselt nähtavana, justkui trepist üles või alla. Seejärel avaneb vaade avarale elutoale, mida valgustab jahedalt sinakas kuma, mis tungib sisse akendest, andes märku öisest ajast. Akendest paistev valgus loob põrandale teravalt piiritletud sinise valguse laigu. Toas on näha punane tugitool, hele diivan, laud toolidega ja seinal rippuv raamitud pilt. Keset tuba seisab noor naine pikkade heledate juustega, riietatud tumedasse jakki ja pükstesse. Ta pilk on suunatud eemale, justkui otsides või jälgides midagi. Tema näol on tõsine, ehk isegi veidi murelik ilme, kui ta liigub läbi ruumi, mis on täis sinakaid varjusid, suunates oma pilku ruumi vasakule poole.",
+      "actions": [
+        "Liikumine trepil või koridoris (tundmatu isik)",
+        "Seisab keset elutuba",
+        "Vaatleb ümbrust",
+        "Liigub läbi ruumi",
+        "Näitab murelikku ilmet"
+      ],
+      "keywords": [
+        "Öine",
+        "Siseinterjöör",
+        "Naine",
+        "Sinine valgus",
+        "Pinge",
+        "Mure",
+        "Geomeetriline kunst",
+        "Puit",
+        "Hämarus",
+        "Üksindus"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Seinakunst (mustvalge geomeetriline muster)",
+        "Puidust kummut",
+        "Metallkann",
+        "Punane ese (kauss/tass)",
+        "Küttepuud",
+        "Potitaim (aalo)",
+        "Punane tugitool",
+        "Hele diivan",
+        "Laud",
+        "Toolid",
+        "Raamitud pilt seinal",
+        "Vaip",
+        "Aknad",
+        "Puitpalgid (laes)",
+        "Valguse lüliti"
+      ],
+      "colorcodes": [
+        "#0D0D4B",
+        "#B22222",
+        "#5B4433",
+        "#F0F0F0",
+        "#A9A9A9",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (peategelane)",
+        "Tundmatu isik (osaliselt nähtav esikus)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kaadrite tüüp muutub: algab keskmise võttega esikust, seejärel lai võte elutoast ja lõpuks lähivõte naisest.",
+        "Fookus nihkub üldiselt ruumilt ja keskkonnalt konkreetsele tegelasele ja tema emotsioonidele.",
+        "Alguses on näha vihje kahe inimese olemasolule (üks osaliselt varjudes, teine peategelane), kuid hilisemates kaadrites on fookuses ainult naine.",
+        "Stseeni toimumise koht muutub: esimesel pildil on esik/trepihall, järgnevatel piltidel elutuba/köök.",
+        "Valgustus varieerub: esimesel pildil on märgata ka soojemat sisevalgust, samas kui hilisemates kaadrites domineerib jahe sinakas valgus, mis tekitab tumeda ja müstilise atmosfääri.",
+        "Naise asend ja emotsioon arenevad: alguses seisab naine eemal, vaatab tühjalt edasi; hiljem on ta kaamerale lähemal, näol on murelikum ja keskendunum ilme."
+      ],
+      "snr": "028",
+      "ajad": [
+        "293.080",
+        "307.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, tõenäoliselt esikut või koridori, mis on valdavalt pime ja hämaralt valgustatud. Vasakul pool on näha riidepuud, millel ripuvad mitmed tumedad riideesemed. Paremal pool on sile, tumepunane sein ja selle ees väike puidust pink või taburet. Keskel on avatud uks, mis viib väljapoole, kus valitseb sügav pimedus. Ukseavas on inimene, kes kannab punast pikka mantlit. Inimene paistab olevat kas sisenemas või väljumas, ning on hõivatud mantli selga panemise või kohendamisega, liikudes ukseavasse ja seejärel peatudes, et oma riietust korrigeerida.",
+      "actions": [
+        "Inimene liigub uksest sisse või välja",
+        "Inimene paneb selga või kohendab punast mantlit",
+        "Inimene seisab ukseavas"
+      ],
+      "keywords": [
+        "Pime",
+        "Esik",
+        "Uks",
+        "Punane mantel",
+        "Sisenemine",
+        "Väljumine",
+        "Riidepuu",
+        "Puidust pink",
+        "Hämar",
+        "Öö"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Uks",
+        "Punane mantel",
+        "Riided",
+        "Riidepuud",
+        "Puidust pink/taburet",
+        "Sein",
+        "Ukselink",
+        "Jalamatt",
+        "Valguslüliti/seinale kinnitatud ese"
+      ],
+      "colorcodes": [
+        "#3A1A1A",
+        "#9F1010",
+        "#2C3E50",
+        "#7A5230",
+        "#0A0A0A"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on inimene kaadri paremal servas, liikumises ja osaliselt hägune, suundudes avatud ukse poole.",
+        "Teisel pildil on inimene selgemalt nähtav ukseavas seismas, seljaga vaataja poole, kandes punast mantlit. Tema vasak käsi on välja sirutatud, ilmselt mantlit selga pannes või kohendades.",
+        "Kolmandal pildil on inimene endiselt ukseavas, seljaga vaataja poole, aga käed on keha lähedal, kohendades või kinnitades mantlit rinnale."
+      ],
+      "snr": "029",
+      "ajad": [
+        "307.560",
+        "324.320"
+      ]
+    },
+    {
+      "explanation": "Stseen algab pimeda öise vaatega maamajale. Maja on tume ja selle tumedal katusel on üks valgustatud katuseaken ning alumisel korrusel paistab valgust kahest aknast, millest üks on uksega sarnane suur klaasaken ja teine väiksem aken. Maja ees on suur puuriit. Seejärel nihkub fookus metsasesse alasse, kus pime öö on kaetud sinaka valgusega, mis annab metsakeskkonnale ja maapinnale jahedama, peaaegu jäise ilme. Üks inimene, seljas punane dressipluus, liigub seljaga vaataja poole läbi selle sinaka metsa, puidu ja võimaliku lume või jääga kaetud maastiku. Lõpuks näidatakse inimest tihedalt puude vahel, kus ta paistab ühe puutüve lähedal olevat, punane varrukas viitab liikumisele puu läheduses.",
+      "actions": [
+        "liikumine läbi metsa",
+        "kõndimine",
+        "puude vahel olemine"
+      ],
+      "keywords": [
+        "öö",
+        "pime",
+        "mets",
+        "maja",
+        "inimene",
+        "punane dressipluus",
+        "küttepuud",
+        "talv",
+        "jahe",
+        "sinakas valgus",
+        "üksindus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "maja",
+        "aknad",
+        "katus",
+        "küttepuud",
+        "puuriit",
+        "muru",
+        "puud",
+        "mets",
+        "inimene",
+        "dressipluus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#101030",
+        "#202040",
+        "#FFFFFF",
+        "#F0F0F0",
+        "#800000",
+        "#A02020",
+        "#404060"
+      ],
+      "texts": [],
+      "persons": [
+        "üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Stseeni alguses on fookus majal, hiljem liigub see inimesele ja metsale.",
+        "Kaadrid muutuvad avaramast üldplaanist (maja) detailsemaks ja lähedasemaks (inimene metsas)."
+      ],
+      "snr": "030",
+      "ajad": [
+        "324.320",
+        "370.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaadet öisele maastikule. Esiväljal laotub ulatuslik kuivanud heinamaa või põld, mis kaob pimedusse horisondi suunas. Taustal domineerib tihe, tumedate siluettidega mets, mis koosneb valdavalt okaspuudest, kuid võib sisaldada ka lehtpuude paljaid oksi. Taevas on sügavalt sinakasmust, kaetud hõreda pilvkattega, mille vahelt on näha üksikuid tähti. Üldine meeleolu on vaikne, sügav ja veidi müstiline. Väljal ilmub alguses kollases riietuses tegelane, kellele hiljem liitub punases riietuses tegelane. Nad liiguvad üksteise poole, kuni kohtuvad ja seisavad lähestikku väljal.",
+      "actions": [
+        "Kollases riietuses tegelane ilmub välja ja seisab väljal",
+        "Punases riietuses tegelane ilmub välja",
+        "Punases riietuses tegelane liigub kollase tegelase poole",
+        "Tegelased kohtuvad ja seisavad lähestikku väljal"
+      ],
+      "keywords": [
+        "Öö",
+        "Mets",
+        "Põld",
+        "Tähed",
+        "Väljas",
+        "Figuurid",
+        "Liikumine",
+        "Kohtumine",
+        "Kollane",
+        "Punane",
+        "Tumedus",
+        "Müstiline",
+        "Maastik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Mets",
+        "Põld",
+        "Heinamaa",
+        "Tähed",
+        "Pilved",
+        "Taevas",
+        "Kollases riietuses tegelane",
+        "Punases riietuses tegelane"
+      ],
+      "colorcodes": [
+        "#0d121c",
+        "#0a1112",
+        "#2a2e2a",
+        "#b5b231",
+        "#b22627"
+      ],
+      "texts": [],
+      "persons": [
+        "Kollases riietuses tegelane",
+        "Punases riietuses tegelane"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on väljal ainult üks kollases riietuses tegelane.",
+        "Teisel pildil ilmub lisaks kollasele tegelasele väljale paremale poole punases riietuses tegelane.",
+        "Kolmandal pildil on punane tegelane liikunud kollase tegelasele lähemale, nii et nad seisavad nüüd lähestikku väljal."
+      ],
+      "snr": "031",
+      "ajad": [
+        "370.240",
+        "375.720"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub pimedas või väga hämaras õues, tõenäoliselt metsas või tihedas puude-põõsastega kaetud alal, kus taust on udune ja peaaegu must. Esiplaanil on noor laps, kes kannab erk-kollast kapuutsiga vihmamantlit ja tumedat seljakotti. Lapse nägu on sügavalt varjus ja väljendus on tõsine, mõtlik või kurb. Tema pea asend muutub stseeni jooksul: alguses on see allapoole suunatud ja varjatud, seejärel tõstab laps pea korraks üles, vaadates ettepoole uniselt või melanhoolselt, ning langetab siis uuesti pilgu. Teine isik, kelle kuju on osaliselt näha paremal pool kaadris, seisab lapsele lähedal. See isik kannab tumedat, punakaspruuni või oranži riideeset ja paistab lapsega interakteeruvat, kuna ühes kaadris on näha käsi lapse õla või kaeluse juures. Üldine meeleolu on sügav, ehk veidi painajalik või nukker, rõhutades lapse üksindust või haavatavust pimedas keskkonnas.",
+      "actions": [
+        "Laps seisab paigal",
+        "Laps langetab ja tõstab pead",
+        "Teine isik seisab lapse kõrval",
+        "Teine isik puudutab või kohendab midagi lapse õla juures"
+      ],
+      "keywords": [
+        "Laps",
+        "Vihmamantel",
+        "Kollane",
+        "Pimedus",
+        "Mets",
+        "Seljakott",
+        "Kurbus",
+        "Üksindus",
+        "Hämarus",
+        "Müstika",
+        "Vaikus",
+        "Ootus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kollane vihmamantel",
+        "Kapuuts",
+        "Seljakott",
+        "Tõmblukk",
+        "Metsataust",
+        "Punakaspruun riideese (teisel isikul)"
+      ],
+      "colorcodes": [
+        "#F1DD3D",
+        "#1A1A1A",
+        "#3B3B3B",
+        "#A54F3F",
+        "#C9B29B"
+      ],
+      "texts": [],
+      "persons": [
+        "Laps",
+        "Teine isik (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimeses kaadris on lapse pea madalamal ja osaliselt varjatud, ning teise isiku käsi on selgelt nähtav lapse õla lähedal. Teises kaadris on laps pea tõstnud ja vaatab otse ette, tema nägu on paremini nähtav ning teise isiku käsi pole enam näha, ainult udune õlg. Kolmandas kaadris on laps taas pea langetanud ja vaatab allapoole, teise isiku kuju on endiselt uduselt paremal."
+      ],
+      "snr": "032",
+      "ajad": [
+        "375.720",
+        "379.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist, kellel on pikad tumedad lokkis juuksed, kes vaatab ülespoole mureliku või häiritud ilmega. Ta kannab tumepunast või pruunikaspunast kapuutsiga jopet, viibides ilmselt õues hämaras, pimedas keskkonnas, võimalik, et videviku ajal või öösel. Esiplaanil vasakul on osaliselt näha kollase ja musta jopega inimene, kelle selg on enamasti vaataja poole, vihjates vestlusele või suhtlusele naisega. Tagaplaan on tume ja udune, andes aimu looduslikust, võimalik, et võsastunud keskkonnast nagu mets või põld öösel. Valgustus on madal, heites varje ja muutes stseeni süngaks või salapäraseks. Naise näoilme muutub kaadrite vahel veidi, näidates arengut neutraalsemast murelikust pilgust kuni tugevama ahastuse või uskmatuse väljendamiseni, kusjuures viimases kaadris on tema suu kergelt avatud, justkui rääkides või ohates.",
+      "actions": [
+        "Naine vaatab üles",
+        "Naine reageerib (ilme muutusega)",
+        "Vestlus (kaudselt vihjatud)"
+      ],
+      "keywords": [
+        "Noor naine",
+        "Pimedus",
+        "Murelik",
+        "Hirmunud",
+        "Õues",
+        "Öine stseen",
+        "Salapärane",
+        "Reaktsioon",
+        "Kollane jope"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naise kapuutsiga jope",
+        "Teise isiku jope",
+        "Naise juuksed"
+      ],
+      "colorcodes": [
+        "#582d34",
+        "#ae8f2d",
+        "#2b2e37",
+        "#2e1d1f",
+        "#634341",
+        "#171b17"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor naine",
+        "Teine isik (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Naise näoilme muutub esimesest kaadrist kolmandasse suunal veidi murelikumast/neutraalsemast reageeringust avatuma suu ja tugevama hämmastuse või ehmatuse poole.",
+        "Naise suu asend varieerub kaadrite vahel: esimeses on see kergelt avatud, teises suletud ja kolmandas märgatavalt avatud, justkui rääkides või ehmatades.",
+        "Naise kulmude kortsutus muutub veidi intensiivsemaks viimases kaadris, rõhutades tema reaktsiooni.",
+        "Teise isiku kollase jope asend esiplaani vasakul näib kaadrite vahel minimaalselt muutuvat, mis viitab kas liikumisele või kaamera nihkele."
+      ],
+      "snr": "033",
+      "ajad": [
+        "379.640",
+        "387.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort poissi hämaras või pimedas välitingimuses. Poiss kannab erkrohelist kapuutsiga vihmamantlit, mis katab suurema osa tema peast. Seljas on tal ka must seljakott, mille rihmad paistavad vihmamantli alt. Tema ilme on mõtlik, kurb või melanhoolne, pilk on suunatud allapoole või küljele. Taust on väga tume ja ähmane, vihjates metsale või tihedale taimestikule öisel ajal. Vihmamantli küljes või kapuutsi ääres on näha valge pael või nöör. Üldmulje on üksildane ja veidi melanhoolne.",
+      "actions": [
+        "Vaatab alla või küljele",
+        "Seisab",
+        "Mõtlik või kurb ilme"
+      ],
+      "keywords": [
+        "Laps",
+        "Poiss",
+        "Vihmamantel",
+        "Kollane",
+        "Kapuuts",
+        "Pimedus",
+        "Öö",
+        "Mets",
+        "Üksildus",
+        "Mõtlikkus",
+        "Kurbus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Poiss",
+        "Kollane vihmamantel",
+        "Kapuuts",
+        "Seljakott",
+        "Nöör/pael",
+        "Tumedad puud/taimestik taustal"
+      ],
+      "colorcodes": [
+        "#E2BF0D",
+        "#0A0D11",
+        "#1C1208",
+        "#FDFDFD",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Poiss"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on poisi pea kergelt allapoole kaldu ja suu on suletud.",
+        "Teisel pildil on poisi suu kergelt avatud, nagu ta räägiks või hingaks sisse, ja pea asend on pisut muutunud.",
+        "Kolmandal pildil on poisi pea pööratud pisut rohkem vasakule (tema vaatevinklist), suu on suletud ja ilme tundub veidi vaiksem kui esimesel pildil. Üldised erinevused on väga väikesed nihked näoilmes ja pea asendis, vihjates lühikesele liikumis- või kõnesekventsile."
+      ],
+      "snr": "034",
+      "ajad": [
+        "387.880",
+        "394.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort tüdrukut hämaras õues, tõenäoliselt öösel või sügavas hämarikus. Tüdruku nägu on valgustatud kergelt vasakult poolt, esile tuues tema mureliku või kartliku ilme. Ta vaatab kergelt allapoole ja paremale. Ümbritsev keskkond on väga tume ja ähmane, vihjates metsikule või hooldamata alale, näiteks põõsaste või pika rohu vahele. Üldine meeleolu on süngelt salapärane ja melanhoolne, rõhutades tüdruku haavatavust või ebakindlust pimeduses.",
+      "actions": [
+        "Tüdruk vaatab mureliku pilguga allapoole ja paremale",
+        "Tüdruku näoilme muutub kergelt murelikumaks või pingelisemaks kaadrite vahel"
+      ],
+      "keywords": [
+        "Pimedus",
+        "hämarus",
+        "öö",
+        "õues",
+        "tüdruk",
+        "murelik",
+        "kartlik",
+        "salapärane",
+        "melanhoolne",
+        "välk",
+        "rohi",
+        "metsik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "noor tüdruk",
+        "pikk rohi või põõsad"
+      ],
+      "colorcodes": [
+        "#121212",
+        "#262121",
+        "#4a2d2d",
+        "#5c4c4a",
+        "#2d2626"
+      ],
+      "texts": [],
+      "persons": [
+        "noor tüdruk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on tüdruku huuled kergelt lahus, andes talle veidi avatuma ilme.",
+        "Teisel pildil on tüdruku huuled peaaegu täielikult kokku surutud, mis viitab pingestatusele või murele.",
+        "Kolmandal pildil on tüdruku huuled sarnaselt teisele pildile kokku surutud, kuid võib-olla isegi veidi rohkem pinges, mis süvendab tema ilme tõsidust."
+      ],
+      "snr": "035",
+      "ajad": [
+        "394.520",
+        "397.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist või tüdrukut hämaras välitingimustes. Tema nägu on vaevu valgustatud, heites esile mõtliku või kergelt mureliku ilme. Pilk on suunatud veidi allapoole ja vasakule. Tal on pikad, tumedad juuksed, mis langevad üle õlgade. Seljas on tal punakas või tumeroosa kapuutsiga riideese. Ta asub keset tumedat ja udust tausta, mis paistab olevat rohttaimestik või tihe võsa. Üldine atmosfäär on sünge, müsteeriline ja melanhoolne.",
+      "actions": [
+        "Vaatamine",
+        "Mõtisklemine",
+        "Olemine"
+      ],
+      "keywords": [
+        "Hämarus",
+        "Pimedus",
+        "Noor naine",
+        "Murelik",
+        "Mõtlik",
+        "Väljas",
+        "Loodus",
+        "Üksildus",
+        "Öö",
+        "Melanhoolia"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Noor naine",
+        "Punane jope/pusa",
+        "Rohttaimed"
+      ],
+      "colorcodes": [
+        "#1a1a1b",
+        "#2a2020",
+        "#584a46",
+        "#5a2e2d"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Erinevused puuduvad"
+      ],
+      "snr": "036",
+      "ajad": [
+        "397.320",
+        "397.960"
+      ]
+    },
+    {
+      "explanation": "Stseen algab laia vaatega pimedale maastikule öösel. Esiplaanil on lai, pime ja rohtukasvanud põld ning taamal kõrge, tihe metsapiir, mis on varjudesse mattunud. Taevas on sügavsinine-must, nähtavate tähtede ja hajutatud pilvedega, mis loovad salapärase ja veidi kõheda õhkkonna. Alguses seisab põllu keskel üksik kollases vihmamantlis väike inimfiguur, seljaga vaataja poole, vaadates metsa suunas. Hiljem ilmub kollase figuuri kõrvale, temast veidi vasakule, teine samasugune figuur, seekord punases vihmamantlis. Mõlemad seisavad vaikselt pimeduses. Stseen liigub edasi siseruumi, mis on samuti sügavalt varjudega kaetud. Pildil on näha tumedat ukseava või koridori, mille ääres paistab osaliselt valgustatud kollases vihmamantlis figuur, justkui astumas pimedusse või piilumas sinna. Üldine meeleolu on pingeline, müstiline ja veidi kõhe, rõhutades pimeduse ja varjude domineerimist kogu stseenis.",
+      "actions": [
+        "Seismine pimedal põllul",
+        "Pimedasse siseruumi sisenemine või sinna vaatamine"
+      ],
+      "keywords": [
+        "Öö",
+        "Mets",
+        "Põld",
+        "Tumedus",
+        "Müsteerium",
+        "Vihmamantel",
+        "Varjud",
+        "Tähistaevas",
+        "Kõhedus",
+        "Lapsed",
+        "Pimedus"
+      ],
+      "shot_type": "long",
+      "placement": "nii sise- kui ka väliruumis",
+      "objects": [
+        "Mets",
+        "Põld",
+        "Rohi",
+        "Tähistaevas",
+        "Pilved",
+        "Inimfiguurid",
+        "Kollane vihmamantel",
+        "Punane vihmamantel",
+        "Ukseava",
+        "Seinad"
+      ],
+      "colorcodes": [
+        "#0D0F1A",
+        "#1A1C1D",
+        "#1F2222",
+        "#DECF48",
+        "#7B0E0D",
+        "#1C2746"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimfiguuri, kes paistavad olevat lapsed. Üks kannab kollast vihmamantlit ja teine punast vihmamantlit."
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Teisel pildil ilmub põllule lisaks kollasele figuurile ka punases vihmamantlis figuur.",
+        "Kolmandal pildil muutub stseen täielikult välistingimustest siseruumi, näidates kollases vihmamantlis figuuri pimedas ukseavas."
+      ],
+      "snr": "037",
+      "ajad": [
+        "397.960",
+        "405.720"
+      ]
+    },
+    {
+      "explanation": "Stseen algab peaaegu täielikus pimeduses, kusjuures ainult ukseava paremal on näha kerget sinakat valgustust. Varjude seest hakkab ilmnema kollases riietuses isik, kes astub uksest sisse. Järk-järgult paraneb valgustus, paljastades esiku või sissepääsu, kus puidust seinad loovad sooja atmosfääri. Põrandale on asetatud jalanõud ja ilmselt ka kott. Lõpuks on ruum täielikult valgustatud, näidates noort naist, kes on just sisse astunud ja võtab seljast punast jopet. Naine kannab tumedat särki ja pükse ning heledaid saapaid. Esikus on näha puidust nagi rippuvate riietega, ning ukse kõrval asetseb väike puidust pink. Põrand on kaetud plaatidega ja naise lähedal lamab mobiiltelefon.",
+      "actions": [
+        "sissepääs",
+        "valgustuse sisselülitamine",
+        "jope seljast võtmine",
+        "liikumine ruumis"
+      ],
+      "keywords": [
+        "esik",
+        "sissepääs",
+        "naine",
+        "pimedus",
+        "valgus",
+        "öö",
+        "riided",
+        "jalanõud",
+        "puidust sein",
+        "nagi",
+        "sisenev"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "uks",
+        "sein",
+        "puidust sein",
+        "nagi",
+        "riided",
+        "jope",
+        "jalanõud",
+        "saapad",
+        "kott",
+        "telefon",
+        "pink",
+        "põrandaplaadid"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#1a1a2e",
+        "#f3e9c4",
+        "#9a6b4a",
+        "#c86450",
+        "#3c3c3c",
+        "#8e8e8e",
+        "#6e4c32"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Stseen muutub pimedast järk-järgult valgustatuks, alustades vaid sinaka uksevalgusega ja lõppedes täielikult valgustatud siseruumiga.",
+        "Isik, kes alguses on peaaegu nähtamatu ja kollases riietuses, ilmub selgelt esile noore naisena, kes võtab seljast punast jopet.",
+        "Ruumi sisustus, sealhulgas puidust seinad, nagi, jalanõud ja pink, muutub nähtavaks alles viimases kaadris, olles alguses täielikult varjatud."
+      ],
+      "snr": "038",
+      "ajad": [
+        "405.720",
+        "423.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, tõenäoliselt esikut või eesruumi, kus naine on parasjagu riietumas või riideid kohendamas. Ruumi vasakpoolne külg on kaetud puidust paneelidega, mis annavad edasi sooja ja hubase tunde. Paremal pool domineerib tumepunane uks, mille kõrval on seinal näha valge lüliti või paneel. Ukse ees seisab heledates saabastes naine, seljas tume pusa või kampsun ja tumedad püksid/retuusid. Ta on parajasti selga panemas erkpunast jopet, mille tõttu on tema käed õlgade kõrgusel ja pilk suunatud allapoole. Ukse juures paremal on näha kokkupandav puidust taburet või pink, mille all ja kõrval on veel mitu paari jalanõusid, sealhulgas matkasaapad. Vasakul pool, puidust seina ääres, ripub riidepuul mitu tumedat jopet või mantlit ning nende all on põrandal rivis mitmeid jalatseid. Põrand on kaetud heledate plaatidega, mis annab ruumile puhta ilme. Üldine valgustus on hämar, luues intiimse ja veidi varjatud atmosfääri.",
+      "actions": [
+        "Naine paneb selga või kohendab punast jopet",
+        "Naine seisab esikus"
+      ],
+      "keywords": [
+        "Esik",
+        "Naine",
+        "Jope",
+        "Riided",
+        "Saapad",
+        "Puitsein",
+        "Uks",
+        "Siseruum",
+        "Hämar",
+        "Riidepuu",
+        "Jalanõud"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Punane jope",
+        "Tume pusa/kampsun",
+        "Tumedad retuusid/püksid",
+        "Heledad saapad",
+        "Puidust seinapaneelid",
+        "Tumedad joped/mantlid",
+        "Riidepuu",
+        "Kingad",
+        "Saapad",
+        "Tumepunane uks",
+        "Ukse käepide",
+        "Valge lüliti/paneel",
+        "Puidust taburet/pink",
+        "Heledad põrandaplaadid",
+        "Matkasaapad"
+      ],
+      "colorcodes": [
+        "#4D2F21",
+        "#6A241E",
+        "#2E2E2E",
+        "#AB2E2E",
+        "#8C735D",
+        "#E0E0E0",
+        "#A3A3A3"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naine on kaadrite vahel oma asendit muutnud, jopet on veidi ülespoole tõmmatud või kohendatud. Tema käte asend ja jope paigutus kehal on teises kaadris pisut erinev, näidates jätkuvat liigutust."
+      ],
+      "snr": "039",
+      "ajad": [
+        "423.720",
+        "424.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast siseruumi, tõenäoliselt maja sissepääsu või koridori. Ruumi valgustus on hämar, luues intiimse ja veidi salapärase õhkkonna. Vasakul on näha puidust palkseinad, mis annavad ruumile maamaja või suusakuurordi tunde. Paremal on sile, punakaspruun sein, millel asub valge lüliti või pistikupesa. Keskel domineerib suur, tumepunane uks hõbedase lingiga. Ukse ees on helehall plaaditud põrand, mis on kaetud mitmete jalanõudega: pruunid saapad seisavad püsti, tumedamad jalanõud on laiali ja ukse lähedal paremal pool on punase ja rohelise detailiga matkasaapad. Paremal seinal on ka väike puidust kokkupandav taburet. Stseeni keskmes on noor naine pikkade heledate juustega, kes seisab mantlinagi juures ja tegeleb riietega. Nagis ripuvad mitmed joped ja mantlid, sealhulgas tumeroheline ja must jakk. Naise käes või nagis on erkpunane jakk, millega ta parajasti toimetab. Põrandal jalanõude hulgas on näha ka nutitelefon või tahvelarvuti. Üldine meeleolu viitab kas koju saabumisele või väljaminekuks valmistumisele külmal aastaajal.",
+      "actions": [
+        "Riiete riputamine/võtmine mantlinagilt",
+        "Jaki käsitsemine (selga panemine/võtmine)",
+        "Valmistumine väljaminekuks või kojujõudmine"
+      ],
+      "keywords": [
+        "Sissepääs",
+        "Koridor",
+        "Puidust maja",
+        "Mantlinagi",
+        "Jalanõud",
+        "Hämar valgus",
+        "Sügis/Talv",
+        "Naine",
+        "Riided",
+        "Kodu"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Mantlinagi",
+        "Puidust palkseinad",
+        "Punakaspruun uks",
+        "Punakaspruun sein",
+        "Jalanõud",
+        "Punane jakk",
+        "Tumeroheline mantel",
+        "Must jakk",
+        "Puidust kokkupandav taburet",
+        "Nutitelefon/Tahvelarvuti",
+        "Valge lüliti/pistikupesa",
+        "Plaaditud põrand",
+        "Hõbedane ukselink",
+        "Sinine kaust/ese"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#A0522D",
+        "#800000",
+        "#2F4F4F",
+        "#696969",
+        "#D3D3D3",
+        "#FF0000"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "evening",
+      "differences": [
+        "Naine on muutnud oma kehahoiakut ja käte asendit, mis viitab tegevusele.",
+        "Punase jaki asukoht on muutunud: esimesel pildil hoiab naine seda käes, teisel pildil paistab see olevat riiulis või sinna asetamise protsessis.",
+        "Sinine kaust või ese on teisel pildil naise pea taga selgemalt nähtavaks muutunud.",
+        "Naise juuste asend on liikumise tõttu veidi muutunud."
+      ],
+      "snr": "040",
+      "ajad": [
+        "424.920",
+        "426.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, tõenäoliselt esikut või eesruumi, kus naine parajasti riputab jopet riidepuule või võtab seda sealt ära. Ruumi valgustus on hämar, luues intiimse ja veidi salapärase õhkkonna. Keskel seisab seljaga vaataja poole noor naine, seljas tume pluus ja hallikaspruunid püksid, jalas heledad matkasaapad. Ta on mõlema käega haaramas tumedaid mantleid või jopesid, mis ripuvad puidust nagis ukse kõrval. Nagi on täidetud mitme tumeda rõivaesemega. Paremal pool on näha tumepunane uks, mille ülemises osas on rombikujuline aken ja all hõbedane ukselink. Ukse kõrval paremal seinal on näha valget valguslülitit või pistikupesa katet. Põrandal on mitu paari jalanõusid, sealhulgas pruunid saapad nagi all ja heledamad matkasaapad ukse ees. Paremal pool ukse kõrval seisab väike puidust kokkupandav taburet. Vasakul pool on näha puidust seinapaneeli, mis annab ruumile hubase ja maalähedase tunde. Üldine värvigamma on soe ja mahe, domineerivad pruunid, hallid ja tumepunased toonid.",
+      "actions": [
+        "Naine riputab jopet riidepuule",
+        "Naine võtab jopet riidepuult",
+        "Naine sirutab käed riidepuu poole"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Esik",
+        "Naine",
+        "Riidepuu",
+        "Jalanõud",
+        "Hämar valgus",
+        "Uks",
+        "Puitinterjöör"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Riidepuu",
+        "Joped",
+        "Uks",
+        "Rombikujuline aken (uksel)",
+        "Ukselink",
+        "Puitsein",
+        "Põrand",
+        "Saapad",
+        "Jalanõud",
+        "Taburet",
+        "Valguslüliti"
+      ],
+      "colorcodes": [
+        "#5e3b33",
+        "#8b604e",
+        "#2e2e2e",
+        "#8c8c8c",
+        "#afa7a2",
+        "#a08169",
+        "#a3c4db",
+        "#3a3a3a"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Naise käte ja pea asend on pisut muutunud, mis viitab tegevuse jätkumisele või väikesele liikumisele riidepuu juures."
+      ],
+      "snr": "041",
+      "ajad": [
+        "426.120",
+        "427.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat siseruumi, mis näib olevat esik või sissepääsuala. Vasakul on näha heledast puidust (palgiseina stiilis) sein. Keskel paikneb puidust nagistiku, millel ripub mitu tumedat jakki või mantlit. Nagistiku all on põrandal kaks paari pruune saapaid. Nagistiku paremal küljel seisab naine, kellel on seljas tume pikkade varrukatega pluus ja hallikaspruunid retuusid. Tema juuksed on pruunid. Naine sirutab käsi ülespoole nagistiku suunas, justkui seades riideid või võttes midagi seljast/selga pannes. Paremal pool on suur punakaspruun uks, millel on väike rombikujuline aken ja kuldne ukselink. Ukse kõrval on sama värvi punakaspruun sein. Põrand on heledat värvi, ukse ees on tume matt. Mati peal on näha nutitelefon ja muid väiksemaid esemeid. Paremas alumises nurgas on väike puidust kokkupandav taburet või pink, mille all on põrandal mitu paari jalanõusid või saapaid. Valgustus on üldiselt hämar, luues intiimse ja rahuliku atmosfääri.",
+      "actions": [
+        "riietumine",
+        "riiete seadmine",
+        "seismine",
+        "kättesirutamine"
+      ],
+      "keywords": [
+        "esik",
+        "sissepääs",
+        "naine",
+        "nagistiku",
+        "uks",
+        "hämarus",
+        "siseruum",
+        "puit",
+        "jalatsid"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "nagistiku",
+        "jakid",
+        "mantlid",
+        "saapad",
+        "uks",
+        "ukselink",
+        "aken",
+        "sein",
+        "põrand",
+        "uksematt",
+        "nutitelefon",
+        "taburet",
+        "pink",
+        "jalanõud",
+        "pluus",
+        "retuusid"
+      ],
+      "colorcodes": [
+        "#5C4033",
+        "#904D3F",
+        "#000000",
+        "#6C6661",
+        "#D3C5B5",
+        "#8B4513",
+        "#D4AF37"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Naise käte asend on piltide vahel erinev: ühel pildil on mõlemad käed kõrgemale sirutatud, teisel pildil on parem käsi allpool, rinna/kõhu piirkonnas.",
+        "Naise kehahoiak on piltide vahel kergelt muutunud, mis viitab liikumisele."
+      ],
+      "snr": "042",
+      "ajad": [
+        "427.320",
+        "428.520"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub hämaravõitu siseruumis, ilmselt esikus või koridoris. Vasakul on näha heledast puidust seinapaneelid, mille küljes on riidepuu või nagi, kust ripuvad mitu tumedat jopet või mantlit. Põrandal rippuvate riiete all on mitu paari saapaid, sealhulgas pruunid ja mustad. Keskel paremal asub tume punakaspruun uks, mille ülemises osas on rombikujuline klaasist aken. Ukse kõrval paremal seinal on valge valguslüliti. Paremal ääres on väike puidust pink, mille all on samuti mõned jalanõud. Põrand on kaetud heledate plaatidega ja ukse ees on triibuline, heledates ja tumedates toonides vaip. Stseeni alguses on kaadris naine, kes on riietatud tumedasse sviitrisse ja tumedatesse retuusidesse. Ta sirutab käe üles vasakule riiete poole, justkui võtaks midagi nagist. Seejärel kummardub ta põrandale, tegeledes oma jalanõudega, mis on tema ümber põrandal laiali, näiteks panemas jalga või võtmas ära sinist jalanõud. Tema liigutused viitavad tegevusele üleriiete ja jalanõudega. Hiljem on naine kaadrist lahkunud ja esik on inimtühi, jättes nähtavale kõik eelnevalt kirjeldatud esemed. Üldine valgustus on mahe ja loob hubase, kuid veidi sumeda atmosfääri.",
+      "actions": [
+        "riiete võtmine",
+        "kummardamine",
+        "jalanõude jalga panemine",
+        "jalanõude ära võtmine",
+        "liikumine ruumis"
+      ],
+      "keywords": [
+        "esik",
+        "koridor",
+        "naine",
+        "jalanõud",
+        "riided",
+        "uks",
+        "siseruum",
+        "riidepuu",
+        "saapad",
+        "puitpaneel",
+        "hämar",
+        "vaip",
+        "pink"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "puidust seinapaneelid",
+        "riidepuu",
+        "joped",
+        "mantlid",
+        "saapad",
+        "kingad",
+        "tume punakaspruun uks",
+        "rombikujuline aken",
+        "valge valguslüliti",
+        "puidust pink",
+        "põrandaplaadid",
+        "triibuline vaip",
+        "naine",
+        "sinine jalanõu"
+      ],
+      "colorcodes": [
+        "#8E603C",
+        "#66181B",
+        "#1A1A1A",
+        "#605B54",
+        "#D0CCC4",
+        "#FFFFFF",
+        "#4B6E8C"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil seisab naine ja sirutab käe üles vasakule riiete poole.",
+        "Teisel pildil kummardub naine ja tegeleb põrandal oma jalanõudega.",
+        "Kolmandal pildil on naine kaadrist lahkunud ja esik on inimtühi."
+      ],
+      "snr": "043",
+      "ajad": [
+        "428.520",
+        "432.880"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumis, kus domineerivad heledad puitpaneelid ühel seinal ja hele, ühevärviline sein teisel. Kaadrisse ilmub naine pikkade, heledate juustega, riietatud tumedasse kampsunisse või jaki alla heledama särgiga. Ta toetab ennast puituksele või seinale, hoides käes tumedat raamatut, millel on osaliselt näha tekst \"EESTI TAIVAS...\". Naise näoilme on mõtlik, võimalik, et kurb või murelik, ning ta vaatab allapoole. Valgus on sume, luues intiimse ja veidi melanhoolse atmosfääri. Ühes kaadris on esiplaanil näha udune pruun riideese, mis annab aimu liikumisest või teise tegelase lähedusest, võimalik, et sama naine pöörab selja või liigub kaadrist välja. Stseen pakub vaikset ja emotsionaalset hetke.",
+      "actions": [
+        "Naine toetub seinale",
+        "Naine hoiab raamatut",
+        "Naine mõtiskleb",
+        "Liikumine kaadris"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Puit",
+        "Naine",
+        "Raamat",
+        "Mõtlikkus",
+        "Sumedus",
+        "Melanhoolia",
+        "Uks"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Puitsein",
+        "Puituks",
+        "Metallist uksekäepide",
+        "Raamat",
+        "Naine",
+        "Tumedad riided",
+        "Hele särk"
+      ],
+      "colorcodes": [
+        "#734F32",
+        "#916E49",
+        "#CFCFCF",
+        "#2E2E2E",
+        "#5E6B5A",
+        "#1A1A1A",
+        "#A08060"
+      ],
+      "texts": [
+        "EESTI TAIVAS..."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimeses kaadris on näha ainult sein ja uks, esitades stseeni tausta. Teises kaadris ilmub pildile naine raamatuga, toetudes uksele ja keskendudes tema emotsioonidele. Kolmandas kaadris on esiplaanil udune figuur, mis annab stseenile liikumise ja dünaamika, suunates fookuse tegelase liikumisele või tema asendile."
+      ],
+      "snr": "044",
+      "ajad": [
+        "432.880",
+        "457.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämaralt valgustatud siseruumi, tõenäoliselt elutoa või magamistoa osa. Vasakul pool on valge kummut või kapp, mille pinnal seisab lehtedega toataim, tühi klaas ja üks puuvili, mis sarnaneb õunaga. Kummuti kohal riiuli peal on näha raamitud pilt või joonistus. Paremalt poolt domineerib heledast puidust uks koos metallist ukselingiga. Ukse kõrval seinal ripub detailne maailmakaart. Stseeni arenedes ilmub kaadrisse noor naine pikkade heledate juustega, riietatuna tumedasse riietusse. Ta toetub ukse kõrval seinale ja hoiab käes avatud raamatut, millesse ta on süvenenud. Üldine atmosfäär on vaikne ja mõtisklev.",
+      "actions": [
+        "Naine ilmub kaadrisse",
+        "Naine toetub seinale",
+        "Naine loeb raamatut"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Hämar",
+        "Raamat",
+        "Naine",
+        "Vaikus",
+        "Puidust uks",
+        "Maailmakaart",
+        "Mööbel",
+        "Taim"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Kummut",
+        "Toataim",
+        "Klaas",
+        "Puuvili (õun/pirn)",
+        "Riiul",
+        "Pilt/Joonistus",
+        "Puidust uks",
+        "Ukse käepide",
+        "Maailmakaart",
+        "Naine",
+        "Raamat",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#D0D0D0",
+        "#4F5E3D",
+        "#8D623D",
+        "#7E9DCF",
+        "#E0C792",
+        "#303030",
+        "#BF9C85"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on kaader tühi, ilma inimeseta.",
+        "Teisel pildil ilmub naine ukse kõrvale, toetudes seinale.",
+        "Kolmandal pildil hoiab naine avatud raamatut ja on süvenenud lugemisse."
+      ],
+      "snr": "045",
+      "ajad": [
+        "457.120",
+        "469.880"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha inimest, kes sirvib vana raamatut, mis näib olevat kas täheatlas või astronoomiaraamat. Esialgu on avatud lehel detailne tumesinine tähistaeva kaart valgete ja punaste punktide ning joonistega, mis tähistavad tähti ja tähtkujusid. Kaardil on loetavad mitmed astronoomilised terminid ja tähtkujude lühendid. Seejärel keeratakse raamatust lehte, et paljastada heledam sisuleht, millele on kursiivkirjas käsitsi kirjutatud nimi 'Joanna'. Raamatut hoiab paremalt käsi. Üldine valgustus on hämar ja summutatud, luues intiimse ja keskendunud õhkkonna, mis viitab lugemisele vaikses keskkonnas.",
+      "actions": [
+        "Raamatu sirvimine",
+        "Lehekülje keeramine",
+        "Raamatu hoidmine",
+        "Lugemine/vaatlemine"
+      ],
+      "keywords": [
+        "Raamat",
+        "Tähistaevas",
+        "Astronoomia",
+        "Kaart",
+        "Käsikiri",
+        "Nimi",
+        "Uurimine",
+        "Hämardus",
+        "Lugemine"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Raamat",
+        "Käsi",
+        "Tähistaeva kaart"
+      ],
+      "colorcodes": [
+        "#1A2A4B",
+        "#B0C0D0",
+        "#FFFFFF",
+        "#B00000",
+        "#A07A60",
+        "#3A4F6B"
+      ],
+      "texts": [
+        "Trihid",
+        "OPH",
+        "LIB",
+        "SCO",
+        "CRA",
+        "ARA",
+        "MER",
+        "Joanna"
+      ],
+      "persons": [
+        "Inimene (käe järgi oletatav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimene pilt kujutab tumesinist tähistaeva kaarti raamatus, samas kui teised kaks pilti näitavad heledamat sisulehte nimega 'Joanna'.",
+        "Lehekülgede värvus, tekst ja visuaalne sisu on piltide vahel erinev.",
+        "Teine ja kolmas pilt on identsed."
+      ],
+      "snr": "046",
+      "ajad": [
+        "469.880",
+        "472.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist tema isikupärases ja veidi segamini pööningutoas, mis on sisustatud kaldlae all. Tuba on täis isiklikke esemeid, andes sellele elatud ja hubase tunde. Seinad on kaetud plakatitega, sealhulgas silmapaistva 'I WANT TO BELIEVE' plakatiga, millele lisanduvad muud filmide või bändidega seotud pildid ja 'DOMINO' plakat. Ühes nurgas on puidust uks aknaga, mis viib toast välja. Toas on ka riiul raamatute ja plaadimängijaga. Naine, riietatud tumedatesse, mugavatesse rõivastesse, on stseeni alguses nähtav ukse najal seismas ja raamatut lugemas hämaras valguses. Hiljem istub ta rätsepaistes voodil ning keerab sigaretti. Tema voodi on kaetud heledate voodipesudega ja punase padjaga. Voodi jalamil asub puidust kast, mis toimib pinnana mitmesuguste esemete, näiteks tubaka, sigaretipaberite, tulemasinate ja toidutaldriku jaoks. Toa valgustus varieerub, alustades madalast, intiimsest valgusest ja muutudes stseeni edenedes mõnevõrra heledamaks. Ühel seinal on näha ka Euroopa kaart ning kummuti peal on taim, klaas ja paberid.",
+      "actions": [
+        "Raamatu lugemine",
+        "Ukse najal seismine",
+        "Voodil istumine",
+        "Sigareti keeramine",
+        "Jalakäigu tegemine ruumis"
+      ],
+      "keywords": [
+        "Noorus",
+        "Magamistuba",
+        "Pööningutuba",
+        "Raamat",
+        "Sigaret",
+        "Üksindus",
+        "Hämarus",
+        "Hubasus",
+        "Segadus",
+        "Rutiin"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Raamat",
+        "Uks",
+        "Seinakaart (Euroopa)",
+        "Kummut",
+        "Taim",
+        "Klaas",
+        "Puuvili (õun)",
+        "Voodi",
+        "Kaldlagi",
+        "Plakatid",
+        "Riiul",
+        "Plaadimängija",
+        "Teki",
+        "Padi",
+        "Puidust kast/pink",
+        "Tubakas",
+        "Sigaretipaberid",
+        "Tulemasinad",
+        "Taldrik",
+        "Toit",
+        "Riided",
+        "Kardinad"
+      ],
+      "colorcodes": [
+        "#5F3D24",
+        "#E0E0E0",
+        "#2E2E2E",
+        "#E8E2D6",
+        "#BB423D",
+        "#F5E1AD",
+        "#4A5C3A"
+      ],
+      "texts": [
+        "I WANT TO BELIEVE",
+        "DOMINO",
+        "THE X-FILES",
+        "EUROPE"
+      ],
+      "persons": [
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Valgustus: Stseeni alguses on tuba hämaram, hiljem muutub valgus heledamaks, vihjates sisemise valgusallika aktiveerimisele või aja möödumisele.",
+        "Naise asend ja tegevus: Esialgu seisab naine ukse najal ja loeb raamatut, hiljem istub ta rätsepaistes voodil ja keerab sigaretti.",
+        "Kaadri ulatus: Kaadrid muutuvad lähemalt üldisemaks, näidates järk-järgult rohkem tuba ja selle sisustust."
+      ],
+      "snr": "047",
+      "ajad": [
+        "472.600",
+        "496.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tuhmilt valgustatud tuba, mis näib olevat magamistuba või eluruum, tõenäoliselt pööningul asuv, kuna lae kuju on kaldus. Tuba on üsna segane, vasakul on must riiul täis musti taldrikuid söögijääkidega, raamatuid ja kruuse. Seinal riiuli kohal on plakat kirjaga \"I WANT TO BELIEVE\" ja siluettidega puudest. Paremal pool on voodi, mis on sassis ja kergelt lahti tehtud, valgete ja beežide linade ning punase padjaga. Põrandal vasakul on näha triibulist vaipa. Stseeni keskel on noor naine pikkade heledate juustega, kes hoiab midagi väikest käes. Tema pilk ja näoilme muutuvad stseeni jooksul, alates keskendunud allavaatamisest kuni üllatunud või mõtiskleva ülesvaatamiseni. Viimases kaadris on naine stseenist lahkunud, jättes fookusesse tühja ja sassi toa.",
+      "actions": [
+        "Hoiab väikest eset käes",
+        "Vaatab allapoole keskendunult",
+        "Vaatab üles üllatunud ilmega",
+        "Lahtub stseenist"
+      ],
+      "keywords": [
+        "Magamistuba",
+        "Segadus",
+        "Noor naine",
+        "Sisemus",
+        "Pööning",
+        "Õhtu",
+        "Plakat",
+        "Mõtlikkus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Voodi",
+        "Riiul",
+        "Taldrikud",
+        "Raamatud",
+        "Kruusid",
+        "Plakat",
+        "Lina",
+        "Padi",
+        "Põrand",
+        "Vaip",
+        "Naine",
+        "Juuksed",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#A8906F",
+        "#332E2D",
+        "#FFFFFF",
+        "#333333",
+        "#A8331E",
+        "#DDDCDC",
+        "#F0F0F0",
+        "#D9C3A6",
+        "#664F3D"
+      ],
+      "texts": [
+        "I WANT TO BELIEVE"
+      ],
+      "persons": [
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Naise kohalolu ja tema näoilme muutus: Esimesel kaadril vaatab naine allapoole keskendunult. Teisel kaadril vaatab naine üles üllatuse või mõtisklusega. Kolmandal kaadril on naine stseenist kadunud.",
+        "Valgustus on piltide vahel kergelt varieeruv, kuid üldiselt jääb tuhmiks."
+      ],
+      "snr": "048",
+      "ajad": [
+        "496.720",
+        "514.000"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumides, tõenäoliselt lapse toas, mille seinad on erkrohelised ja mööbel puidust. Alguses istub lühikeste pruunide juustega poiss, seljas punane ruuduline särk, voodil ja on süvenenud lae küljes rippuvasse isevalmistatud planeedimobiili. Tema kehahoiak viitab rahulikule mõtisklusele või mängule. Meeleolu muutub kiiresti, kui nähtamatu täiskasvanu, kelle käsi ja torso on nähtavad, haarab jõuliselt poisi käest, tõmmates teda voodist maha. See on ootamatu ja vägivaldne liigutus, mida rõhutab poisi ahastuses ilme ja ebamugav asend. Seejärel näidatakse tuba laiemalt, paljastades rohkem selle sisu: riiulid erinevate esemetega, soojalt hõõguv laavalamp, puidust kummut televiisoriga ja plakat seinal. Täiskasvanu liigub ukse poole, lahkudes näiliselt toast, samal ajal kui poiss ei ole enam nähtav, mis annab mõista, et ta on kas kaasa võetud või kaadrist väljas. Üldine hämar, rohekas valgustus viitab õhtusele või öisele ajale, lisades sündmuste kurvale ja järsule iseloomule.",
+      "actions": [
+        "Poiss manipuleerib kätega planeedimobiili",
+        "Täiskasvanu tõmbab poissi käest",
+        "Poiss tõmmatakse voodist ära",
+        "Täiskasvanu lahkub toast"
+      ],
+      "keywords": [
+        "Lapse tuba",
+        "Planeedimobiil",
+        "Sundimine",
+        "Öine",
+        "Rohelised seinad",
+        "Pinge",
+        "Kodune",
+        "Mänguasi",
+        "Mööbel",
+        "Peresündmus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Planeedimobiil",
+        "Voodi",
+        "Uks",
+        "Puidust kapp/kummut",
+        "Televiisor",
+        "Riiulid",
+        "Laavalamp",
+        "Korv",
+        "Kast",
+        "Plakat",
+        "Rohelised seinad",
+        "Riided",
+        "Kardinad"
+      ],
+      "colorcodes": [
+        "#5C8C38",
+        "#8B4513",
+        "#D4C497",
+        "#9E2B2B",
+        "#3C3C3C",
+        "#F5D76E",
+        "#2F4F4F"
+      ],
+      "texts": [],
+      "persons": [
+        "Poiss",
+        "Täiskasvanu"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimeses pildis on poiss rahulikult voodil, interakteerudes planeedimobiiliga.",
+        "Teises pildis on poiss sunnitud asendis, teda tõmmatakse käest kinni, mis viitab konfliktile või sundimisele.",
+        "Kolmas pilt näitab tuba laiemalt ja täiskasvanu on toast lahkumas, jättes maha tühjema stseeni; poissi pole enam kaadris näha.",
+        "Kaameranurk ja fookus muutuvad, liikudes poisi ja tegevuse lähivõttest kogu tuba hõlmava kaadri juurde."
+      ],
+      "snr": "049",
+      "ajad": [
+        "514.000",
+        "529.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist vaadet puithoone ülemisele korrusele või pööningule, vaadatuna alt üles. Esiplaanil on tumedast puidust rõdupiire. Hoone seinad ja lae alune on kaetud puitlaudisega. Akendest kumab sisse elav valgus, andes tunnistust toasviibimisest. Alguses on parempoolses aknas vaevu märgatav tume kuju, kuid peagi ilmuvad sinna kaks noort inimest: helepruunide juustega naine ja lühikeste tumedate juustega mees. Nad on mõlemad rõõmsad, naeratavad ja vaatavad alla, justkui kellegagi suheldes. Nende ümber on drapeeritud punakaspruun tekk või rätik, mis annab stseenile sooja ja intiimse varjundi. Naine on veidi rohkem ettepoole kaldu, näidates oma rõõmsat ilmet selgemalt. Üldine meeleolu on helge ja sõbralik hoolimata öisest pimedusest.",
+      "actions": [
+        "Aknast välja ilmumine",
+        "Aknast välja vaatamine",
+        "Naeratamine",
+        "Ettepoole leenamine",
+        "Tekiga katmine"
+      ],
+      "keywords": [
+        "Öö",
+        "Puithoone",
+        "Aken",
+        "Rõdu",
+        "Noored",
+        "Rõõmsad",
+        "Naeratus",
+        "Paarikene",
+        "Pimedus",
+        "Valgus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puithoone",
+        "Aknad",
+        "Puitsein",
+        "Puitlaudis",
+        "Rõdupiire",
+        "Laevalgusti",
+        "Tekk",
+        "Rätik"
+      ],
+      "colorcodes": [
+        "#1E2838",
+        "#F8F4DF",
+        "#9C2E3A",
+        "#5B5A5C",
+        "#A8C0E8"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on aken peaaegu tühi, parempoolses aknas on vaevu aimatav tume kuju.",
+        "Teisel pildil on aknas selgelt näha naine ja mees, kes on end tekiga katnud ning naeratavad rõõmsalt.",
+        "Kolmandal pildil on naine ja mees endiselt aknas, naeratades ja alla vaadates, naine on veidi rohkem ettepoole kaldu."
+      ],
+      "snr": "050",
+      "ajad": [
+        "529.040",
+        "535.680"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud täiskasvanud naine ja noor poiss, kes vaatavad ülespoole millegi poole, mis jääb kaadrist välja. Naine on pikajuukseline ja kannab tumedat pluusi koos heleda jaki või tekiga. Poiss on mähitud pruuni-sinise mustriga tekki ja toetub naise vastu. Mõlema ilme väljendab uudishimu, imestust ja vaikset rõõmu. Nad asuvad justkui rõdul või kõrgemal platvormil, mille ees on hele rõduäär ja taga tumedat puidust seinapaneelid. Valgus on hämar ja domineerib jahe sinine toon, mis loob salapärase ja õrna atmosfääri. Kogu stseen on filmitud alt üles nurga alt, andes vaatajale tunde, et ta vaatab nendega samas suunas.",
+      "actions": [
+        "Vaatamine ülespoole",
+        "Kummardumine/toetumine (poiss naise vastu)",
+        "Midagi imetlemine/jälgimine",
+        "Kaelkirjutamine teki sisse (poiss)"
+      ],
+      "keywords": [
+        "Öine vaatlus",
+        "Imestus",
+        "Uudishimu",
+        "Pimedus",
+        "Sinine valgus",
+        "Puitpaneelid",
+        "Teki all",
+        "Naine ja poiss",
+        "Rõdu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Puidust seinapaneelid",
+        "Tekk",
+        "Hele rõduäär",
+        "Tume pluus",
+        "Hele jakk/tekk"
+      ],
+      "colorcodes": [
+        "#1c2d3b",
+        "#3a4a37",
+        "#82979e",
+        "#5a798a",
+        "#6f5d47",
+        "#4c6a8c"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Poiss"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kaadrite vahel on märgata valguse intensiivsuse järkjärgulist vähenemist – esimene kaader on kõige heledam ja kolmas kõige tumedam, mis annab edasi aja möödumist või valguse hääbumist.",
+        "Naise näoilme muutub esimeses kaadris veidi rõõmsamast või üllatunumast (suu kergelt avatud) järgnevates kaadrites rahulikumaks ja mõtlikumaks, huultel kerge naeratus.",
+        "Poisi pilk püsib suunatud üles, kuid tumedamates kaadrites muutub tema ilme veidi süvenenumaks ja keskendunumaks.",
+        "Üldine kontrastsus ja värvide küllastus vähenevad kaadrite järjestikku."
+      ],
+      "snr": "051",
+      "ajad": [
+        "535.680",
+        "554.880"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha kaks inimest, vanem naine ja noorem poiss, kes vaatavad üles pimedasse taevasse. Naine on kergelt naeratav ja tundub, et ta naudib hetke. Poiss on temaga tihedalt koos ja on mässitud tekki, vaatab samuti üles, näoilme väljendab aukartust või imetlust. Nad on hoidmas üksteise lähedal, justkui jagades ühist vaikset kogemust. Taustal on näha tumedat puitpaneelist seina, mis viitab välitingimustele või avatud ruumile, näiteks rõdule või terrassile. Üldine atmosfäär on vaikne ja intiimne, keskendudes hetkele ja nende ühisele pilgule ülespoole.",
+      "actions": [
+        "Üles vaatamine",
+        "Tekki mässituna olemine",
+        "Naeratamine",
+        "Koos hoidmine"
+      ],
+      "keywords": [
+        "Öö",
+        "Tähevaatlus",
+        "Imetlus",
+        "Koosolemine",
+        "Tekk",
+        "Pime",
+        "Taevas",
+        "Puitsein",
+        "Naine",
+        "Poiss",
+        "Intiimne",
+        "Rahulik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Tekk",
+        "Puitsein"
+      ],
+      "colorcodes": [
+        "#0a0a0d",
+        "#2f344a",
+        "#b0a498",
+        "#524f5a",
+        "#1f1f23"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Poiss"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide peamine erinevus seisneb valgustuse intensiivsuses. Esimene pilt on kõige heledam, teine on märgatavalt tumedam ja kolmas on peaaegu täielikult pime, kusjuures detailid on vaevu eristatavad. See annab edasi järjestikust tuhmumist või pimedaks muutumist."
+      ],
+      "snr": "052",
+      "ajad": [
+        "554.880",
+        "555.680"
+      ]
+    }
+  ]
+}

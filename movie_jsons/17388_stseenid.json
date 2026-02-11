@@ -1,0 +1,1664 @@
+{
+  "film": [
+    "17388",
+    "17266",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Müügimees",
+    "0a00e2e8a8eed680ca26ff59a4b2ac1f739c29b8.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen toimub suures, avarates ja hästi valgustatud siseruumides, mis meenutab kaubanduskeskuse või supermarketite ala. Põrand on kaetud heledate ruudukujuliste plaatidega ja seinad on kaetud horisontaalsete pruunikat tooni puitpaneelidega. Vasakul pool seisab mees punase silindrilise reklaamistendi kõrval, millel on logo 'BLA pank' ja mis toetab avatud sülearvutit või tahvelarvutit. Mehe taga on näha poe vitriine, millel on osaliselt loetav tekst 'UUSUR'. Paremal pool ulatub pikk rida tühje supermarketite kassasid kollaste lettide ja hallide alustega. Tsentraalselt tagaosas on suur ümmargune avaus, mis viib teise ruumi, kus on näha sinist tooni mööblit, mis võib olla lukustatavad kapid või stendid. Valgustus on ühtlane ja ere, mis viitab päevasele ajale.",
+      "actions": [
+        "Mees seisab reklaamistendi juures, hoides kausta ja vaatab läheneva naise poole.",
+        "Naine kõnnib stseenis paremalt poolt taustalt ettepoole, kandes õlakotti.",
+        "Mees alustab nähtavasti vestlust naisega, kui too on temale lähemale jõudnud."
+      ],
+      "keywords": [
+        "kaubanduskeskus",
+        "supermarket",
+        "reklaamistend",
+        "pensionisammas",
+        "vestlus",
+        "siseruum",
+        "kassad",
+        "pangareklaam"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "reklaamistend",
+        "sülearvuti",
+        "tahvelarvuti",
+        "kaust",
+        "supermarketite kassad",
+        "kollased letid",
+        "pruunid seinapaneelid",
+        "valged põrandaplaadid",
+        "poe vitriinid",
+        "õlakott",
+        "sall",
+        "müts"
+      ],
+      "colorcodes": [
+        "#B2182B",
+        "#F7D130",
+        "#8C8C8C",
+        "#A9A9A9",
+        "#8B4513",
+        "#FFFFFF",
+        "#000000",
+        "#6096BA"
+      ],
+      "texts": [
+        "BLA pank",
+        "UUSUR",
+        "Excuse me, madam, do you have your pension adjustment pillar?"
+      ],
+      "persons": [
+        "mees hallis särgis",
+        "punaste juustega naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naine liigub kaugemalt paremalt tsentri poole, olles igas kaadris veidi lähemal vaatajale.",
+        "Mehe pilk pöördub iga kaadriga üha enam naise poole, justkui valmistudes temaga rääkima.",
+        "Kolmandas kaadris on lisatud ingliskeelsed subtiitrid, mis viitavad sellele, et mees alustab vestlust naisega."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "9.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast noorepoolset kuni keskealist meest hallis kraega särgis, kes tegutseb siseruumides, mis meenutab supermarketit või pangasaali. Ta kannab musta kirjutuslaua (clipboard), millel on punase-valge disainiga \"BLA pank\" logo ja tekst \"Sinu Vabadus\". Mees läheneb inimestele, küsides esimeses kaadris naisterahvalt tema \"pensioni kohandamise samba\" kohta. Tema kõrval on näha sülearvuti, mis kuvab tulpdiagrammi. Järgnevates kaadrites pöördub ta teise isiku poole, öeldes \"Vabandage, härra!\". Mehe hoiak on viisakas ja professionaalne, hoides silmsidet ja kerget naeratust. Ta tundub olevat finantsteenuste esindaja, kes tutvustab pensionitega seotud tooteid. Ümbritsev keskkond on hele, moodsa interjööriga ja kajastab kaupluse või büroo valgustust ja kujundust.",
+      "actions": [
+        "Kirjutuslaua hoidmine",
+        "Inimeste poole pöördumine",
+        "Rääkimine/küsitlemine",
+        "Silmside loomine",
+        "Naeratamine (kergelt)",
+        "Ringi vaatamine"
+      ],
+      "keywords": [
+        "Finantsteenus",
+        "Pension",
+        "Pangandus",
+        "Klienditeenindus",
+        "Promotsioon",
+        "Sisekeskkond",
+        "Mees",
+        "Clipboard",
+        "Sülearvuti",
+        "Suhtlus",
+        "Müük"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Hall särk",
+        "Must kirjutuslaud",
+        "BLA pank logo",
+        "Sülearvuti",
+        "Laud/alus sülearvutile",
+        "Peegeldavad pinnad",
+        "Poeletid/riiulid (hägusalt taustal)",
+        "Teise isiku selg (osalilselt)"
+      ],
+      "colorcodes": [
+        "#888C8F",
+        "#000000",
+        "#9A1817",
+        "#FFFFFF",
+        "#D5D5D5"
+      ],
+      "texts": [
+        "BLA pank",
+        "Sinu Vabadus",
+        "Sambad - Sinu Vabadus",
+        "Excuse me, madam, do you have your pension adjustment pillar?",
+        "Excuse me, sir!"
+      ],
+      "persons": [
+        "Mees (finantsnõustaja/esitleja rollis)",
+        "Naine (mainitud subtiitrites, kaadrist väljas)",
+        "Härra (mainitud subtiitrites, teise kaadri taustal osaliselt näha)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimeses pildis on näha mehe paremal pool sülearvuti laual ning ta pöördub paremale, adresseerides 'madam'. Kaader on laiem.",
+        "Teises pildis on mees pöördunud vasakule, adresseerides 'sir', kelle selg on osaliselt näha kaadri vasakul äärel. Kaader on lähedasem.",
+        "Kolmandas pildis on mees näoga rohkem kaamera poole ja naeratab kergelt, taust on oluliselt hägusam ja tühjem. Kaader on lähedasem.",
+        "Subtiitrid ja nende sisu muutuvad vastavalt kaadrites esitatud pöördumisele.",
+        "Kirjutuslaud on esimeses pildis tervenisti nähtaval, teises osaliselt ja kolmandas veelgi vähem.",
+        "Ümbruse detailid (sülearvuti, teine inimene) muutuvad või kaovad kaadrite vahel."
+      ],
+      "snr": "002",
+      "ajad": [
+        "9.840",
+        "13.520"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub avarates siseruumides, tõenäoliselt ostukeskuses või suuremas avalikus hoones. Pildi paremal poolel on lähivaates noorem mees, keda on näha külgvaates profiilis, vaadates vasakule. Tal on seljas hall nööpidega särk ja ta näib suhtlevat või kedagi kõnetavat, suu on kergelt avatud ja näol on sõbralik ilme. Ta juuksed on lühikesed ja tumedad. Taustal on pikk koridor, mis on hägus, kuid selgelt eristatav. Koridori keskel on suur, valgete tuledega kaunistatud jõulupuu, mis viitab talvisele pühadeajale. Põrand on heledat tooni ja laes on näha valgustust. Kaugemal taustal liigub teisi inimesi, kes on fookusest väljas. Üldine õhkkond on hele ja kutsuv.",
+      "actions": [
+        "Mees räägib/kõnetab kedagi",
+        "Inimesed kõnnivad taustal"
+      ],
+      "keywords": [
+        "Ostukeskus",
+        "Siseruumid",
+        "Mees",
+        "Jõulupuu",
+        "Jõulud",
+        "Vestlus",
+        "Pension",
+        "Hall särk",
+        "Käik",
+        "Publik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Hall särk",
+        "Jõulupuu",
+        "Jõulutuled",
+        "Põrand",
+        "Seinad",
+        "Valgustid",
+        "Inimesed (taustal)",
+        "Kaupluste sissepääsud (taustal)"
+      ],
+      "colorcodes": [
+        "#A0A0A0",
+        "#DEDEDE",
+        "#3A3A3A",
+        "#E0BABA",
+        "#2E573A",
+        "#FFFFFF",
+        "#EB6D4D"
+      ],
+      "texts": [
+        "Excuse me, have you fixed your pension pillar yet?"
+      ],
+      "persons": [
+        "Üks mees (esiplaanil)",
+        "Teised inimesed (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil on näha ingliskeelne subtiitrite tekst: 'Excuse me, have you fixed your pension pillar yet?', samas kui esimesel ja kolmandal pildil seda ei ole.",
+        "Mehe suu asend on teisel pildil kergelt avatud, mis viitab rääkimisele, samas kui esimesel ja kolmandal pildil on see suletud.",
+        "Taustal liikuvate inimeste asukohad on piltide vahel muutunud, mis annab edasi liikumist ja stseeni järjepidevust."
+      ],
+      "snr": "003",
+      "ajad": [
+        "13.520",
+        "18.720"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt suures, eredalt valgustatud kaubandus- või institutsionaalses hoones, näiteks supermarketis või meditsiiniasutuses, mida viitavad paremal nähtavad kanderaamid. Põrand on heledat tooni ning seinad ja lagi on samuti heledad. Taustal on silmatorkav ümar arhitektuuriline element siniste aktsentidega. Stseenis on kaks meest. Üks mees, hallis kraega särgis, on esiplaanil. Tal on lühikesed tumedad juuksed. Alguses on teda näha seljaga kaamera poole, vaadates teise mehe suunas. Seejärel pöördub ta kaamera poole, naeratades laialt ja rääkides lauset: \"Tere, tere, ma tahaksin teile pakkuda parimaid sambaid, mis meil täna on!\". Lõpuks on teda näha profiilis, vaadates paremale. Teine mees, seljas oranži-musta kamuflaažmustriga jope ja müts, seisab kaugemal taustal, veidi uduselt. Ta on esiplaanil oleva mehe poole. Üldine atmosfäär tundub vestlev ja võimalik, et müügile orienteeritud.",
+      "actions": [
+        "Rääkimine",
+        "Naeratamine",
+        "Pööramine",
+        "Vaatamine",
+        "Seismine"
+      ],
+      "keywords": [
+        "Kaubanduspind",
+        "Siseruum",
+        "Vestlus",
+        "Müük",
+        "Naeratus",
+        "Mehed",
+        "Kanderaamid",
+        "Halli"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kanderaam",
+        "Riiulid",
+        "Seinakujundus",
+        "Särk",
+        "Jope",
+        "Müts"
+      ],
+      "colorcodes": [
+        "#6F7676",
+        "#AF5A2D",
+        "#3B3B3B",
+        "#E0E0E0",
+        "#2B5B8E",
+        "#F3DD22"
+      ],
+      "texts": [
+        "Well, hello, I would like to offer you the best pillars we have today!"
+      ],
+      "persons": [
+        "Mees (hallis särgis)",
+        "Mees (kamuflaažjopes)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esiplaanil oleva mehe keha orientatsioon ja näoilme muutuvad: esimesel pildil on ta seljaga ja vaatab paremale, teisel pildil on ta näoga kaamera poole ja naeratab, kolmandal pildil on ta profiilis ja vaatab paremale.",
+        "Teisel pildil on näha ingliskeelne subtiiter dialoogiga."
+      ],
+      "snr": "004",
+      "ajad": [
+        "18.720",
+        "26.480"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub avaras ja hästi valgustatud siseruumis, mis meenutab suurt kaubanduskeskust või avalikku hoonet. Põrand on kaetud heledate plaatidega ja seinad on kombinatsioon puidust paneelidest ja heledatest pindadest. Vasakul on näha tume puitpaneelidega kaetud reklaamlett, mille esiküljel on punasel taustal valge kiri \"BLA pank\". Leti peal seisab hõbedane sülearvuti, mille ekraanil kuvatakse värvilisi andmegraafikuid. Leti kõrval seisab umbes keskealine mees hallis särgis ja hallides pükstes, käes tume mapp või kaust. Taustal vasakul seinal on häguselt näha tekst \"Apotheka\". Paremal pool on avar kaarjas sissepääs, mille taga paistavad sinised lukustatud kapid ja veel üks inimfiguur. Stseeni keskel on näha kauguses kaubanduspinna riiuleid või lette. Stseeni arenedes läheneb leti juures seisvale mehele teine mees, peas punase-valge triibuline müts, seljas pruun jope ja tumedad püksid. Ta kannab mitut poekotti – ühes käes paberkotti ja teises käes läbipaistvat kilekotti. Leti juures seisev mees pöördub poekottidega mehe poole, tervitab teda ja lausub: \"Hi there, I see you haven't fixed your pension pillar yet.\" Seejärel liigub ta ostukotte kandvale mehele lähemale, ulatab talle käe ning ütleb: \"Oh, do not worry one bit! We'll settle it here and now!\" Ostja kehakeel viitab esialgsele üllatusele ja kergele kohmetusele ootamatu lähenemise peale, samal ajal kui panga esindaja on otsekohene ja initsiatiivikas.",
+      "actions": [
+        "Panga esindaja seisab leti kõrval",
+        "Panga esindaja tervitab möödujat",
+        "Panga esindaja läheneb möödujale",
+        "Panga esindaja pakub möödujale abi",
+        "Mööduja kõnnib poekottidega",
+        "Mööduja reageerib üllatunult",
+        "Panga esindaja üritab mööduja käest kinni võtta või teda peatada"
+      ],
+      "keywords": [
+        "Pangareklaam",
+        "Pension",
+        "Ostukeskus",
+        "Klienditeenindus",
+        "Otsemüük",
+        "Üllatus",
+        "Reklaamlett",
+        "Ostleja",
+        "Kiire lahendus",
+        "Finantsnõustamine"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Reklaamlett",
+        "Sülearvuti",
+        "Graafikud ekraanil",
+        "Poekotid (paber- ja kilekott)",
+        "Reklaammaterjalid (kaust või mapp)",
+        "Sinised kapid",
+        "Kaarjas sissepääs",
+        "Plaaditud põrand",
+        "Puitpaneelid seinal",
+        "Kaubanduspinna riiulid/letid"
+      ],
+      "colorcodes": [
+        "#C7C7C7",
+        "#6A6A6A",
+        "#8B4513",
+        "#FF0000",
+        "#FFFFFF",
+        "#1E90FF",
+        "#FFD700"
+      ],
+      "texts": [
+        "BLA pank",
+        "Hi there, I see you haven't fixed your pension pillar yet.",
+        "Oh, do not worry one bit! We'll settle it here and now!",
+        "Apotheka (hägune)",
+        "Varreti (hägune)"
+      ],
+      "persons": [
+        "Panga esindaja (mees hallides riietes)",
+        "Ostja/Mööduja (mees pruunis jopes ja punases mütsis)",
+        "Kaugemalt paistev inimene (hägune)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite ilmumine ja nende sisu areng näitab dialoogi kulgu.",
+        "Panga esindaja ja ostja vahelise kauguse vähenemine kaadrite vahel.",
+        "Panga esindaja algatab viimases kaadris füüsilise kontakti, sirutades käe ostja poole.",
+        "Ostja kehakeel muutub üllatunumaks ja veidi ebamugavamaks, kui panga esindaja talle läheneb."
+      ],
+      "snr": "005",
+      "ajad": [
+        "26.480",
+        "43.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahe mehe kohtumist siseruumides, mis meenutab kaubanduskeskust või pangakontorit. Alguses on kaadri keskel helehallides riietes mees, kes kummardub tumepruuni jakiga mehe poole. Helehallides riietes mees osutab tumepruuni jakiga mehe käes olevale valgele kilekotile, hoides samal ajal ise ühte musta \"BLA pank\" logoga kotti. Subtiitrite järgi väljendab ta abivalmidust öeldes: \"Oh, do not worry one bit! We'll settle it here and now!\". Järgnenud hetkedel liigub helehallides riietes mees eemale, kandes nüüd käes nii pruuni paberkotti kui ka värvilise disainiga valget kilekotti. Tumepruuni jakiga mees jääb paigale. Kogu stseeni vältel on nähtav punane \"BLA pank\" logoga stend ja heleda värvi plaaditud põrand. Taustal on ka näha teisi poe või panga silte nagu \"Varsi\" ja \"Pekka\".",
+      "actions": [
+        "Kummardumine",
+        "Osutamine",
+        "Koti hoidmine",
+        "Kõndimine",
+        "Seismine",
+        "Vestlemine (subtiitrite järgi)"
+      ],
+      "keywords": [
+        "Pangakontor",
+        "Kaubanduskeskus",
+        "Abi pakkumine",
+        "Klienditeenindus",
+        "Ostlemine",
+        "Kilekott",
+        "Paberkott",
+        "Mehed"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Valge kilekott",
+        "Pruun paberkott",
+        "Must kott \"BLA pank\" logoga",
+        "Punane stend \"BLA pank\" logoga",
+        "Plaaditud põrand",
+        "Valged jalatsid",
+        "Pruunid jalatsid",
+        "Mustad kingad"
+      ],
+      "colorcodes": [
+        "#4a4a4a",
+        "#8c8c8c",
+        "#a32c2c",
+        "#663300",
+        "#ffffff",
+        "#000000",
+        "#d9b38c"
+      ],
+      "texts": [
+        "BLA pank",
+        "Oh, do not worry one bit! We'll settle it here and now!",
+        "Varsi",
+        "Pekka"
+      ],
+      "persons": [
+        "Mees helehallides riietes (valge särk, hallid püksid, mustad kingad)",
+        "Mees tumepruunis jakis (tumepruun jakk, tumedad püksid, pruunid jalanõud)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil helehallides riietes mees kummardub ja osutab tumepruuni jakiga mehe valgele kilekotile, hoides ise musta \"BLA pank\" kotti. Subtiitrid on nähtavad.",
+        "Teisel pildil on helehallides riietes mees hakanud eemalduma, kandes nüüd käes pruuni paberkotti ja värvilise disainiga valget kilekotti. Must \"BLA pank\" kott on kadunud. Tumepruuni jakiga mees seisab paigal. Subtiitrid on kadunud.",
+        "Kolmandal pildil on helehallides riietes mees veelgi kaugemale kõndinud ja temast on näha vaid jalad, tumepruuni jakiga mehe jalad on endiselt pildil."
+      ],
+      "snr": "006",
+      "ajad": [
+        "43.320",
+        "46.160"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub keskealisele mehele, kelle nägu on kaadri paremas servas esiplaanil. Ta kannab erkpunast peamütsi ja pruuni kraega jakki. Mehel on punakaspruun habe ja vuntsid, mis on ühendatud põskhabemega. Tema ilme on tõsine ja mõtlik, pilk on suunatud alla ja veidi paremale (vaataja vasakule). Taustaobjektid on udused ja fookusest väljas, kuid on näha siniseid ja valgeid valguskumasid ja struktuure, mis viitavad siseruumile, mis võib olla näiteks kaubanduskeskus, lennujaam või metroojaam. Üldine atmosfäär on vaikne ja intiimne, hoolimata võimalikust avalikust ruumist taustal.",
+      "actions": [
+        "Mees vaatab allapoole ja on mõtlikus poosis",
+        "Kujutis on peatatud kaader videost või filmist"
+      ],
+      "keywords": [
+        "Mees",
+        "Punane müts",
+        "Habe",
+        "Vuntsid",
+        "Mõtlik",
+        "Tõsine",
+        "Siseruum",
+        "Udune taust",
+        "Subtiitrid",
+        "Valik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Punane peamüts",
+        "Pruun jakk",
+        "Habe",
+        "Vuntsid",
+        "Udune sinine ja valge taustaobjekt",
+        "Subtiitrite tekst"
+      ],
+      "colorcodes": [
+        "#B72023",
+        "#A76E4B",
+        "#D5B493",
+        "#5B4739",
+        "#4A6BA3",
+        "#C0C1C4"
+      ],
+      "texts": [
+        "So, let's find out what is the most appropriate choice for you."
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kolmandal pildil on ekraani alumises osas näha ingliskeelne subtiitrite tekst, mis puudub kahel esimesel pildil.",
+        "Mehe näoilme ja pilgu suund muutuvad kaadrite vahel minimaalselt, säilitades üldise mõtliku ja tõsise ilme."
+      ],
+      "snr": "007",
+      "ajad": [
+        "46.160",
+        "48.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest rääkimas otse kaamerasse siseruumis, mis sarnaneb kaubanduskeskuse või suure fuajee vestibüülile. Mees on kaadri esiplaanil, keskendudes temale ja tema ülakehale. Tema taga, fookusest väljas, liiguvad inimesed ja seisab dekoreeritud jõulupuu valgustusega. Kaadri allosas on valge subtiitrite tekst mustal taustal. Üldine atmosfäär viitab nõustamisele või esitlusele. Ruumi valgustus on hele ja päevane.",
+      "actions": [
+        "Mees räägib",
+        "Inimesed liiguvad taustal"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Esitlus",
+        "Nõustamine",
+        "Kaubanduskeskus",
+        "Jõulupuu",
+        "Siseruum",
+        "Valik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Jõulupuu",
+        "Valgustus (jõulupuul)",
+        "Seinad",
+        "Põrand",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#828282",
+        "#E0C1A3",
+        "#D0D0D0",
+        "#A0A0A0",
+        "#FFD700",
+        "#FF0000",
+        "#5B2C6F",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "So, let's find out what is the most appropriate choice for you."
+      ],
+      "persons": [
+        "Mees (peategelane)",
+        "Naine (taustal, punases särgis)",
+        "Naine (taustal, lillas mantlis)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe suu ja näoilme muutuvad piltide vahel, peegeldades rääkimist ja miimikat. Esimesel pildil on suu avatum, kolmandal pildil suletum, kerge naeratusega. Tema pilgu suund muutub samuti pisut.",
+        "Tagaplaanil olevate inimeste ja jõulupuu asukoht ja fookus on kaadrites veidi erinev, viidates subtiitrite esitamise hetke liikumisele."
+      ],
+      "snr": "008",
+      "ajad": [
+        "48.800",
+        "52.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest siseruumis, mis näib olevat kaubanduskeskus või supermarket, taustal on näha riiuleid ja kaupu häguses fookuses. Esiplaanil on näha ühe mehe selga ja pea tagaosa, tema seljas on hallikas särk. Tema ees, otse kaamerasse vaatab teine mees, kes on stseeni keskpunktis. See mees kannab punase-valget triibulist tutimütsi, pruuni sametist või soonilist särki ning pruuni karvaste kraega jopet. Tal on helepunakas-pruunikas habe ja vuntsid. Tema näoilme on tõsine ja keskendunud. Tema pilk on suunatud esiplaanil olevale mehele, justkui räägiks temaga. Stseen on hästi valgustatud, pakkudes selget vaadet tegelastele ja viidates sisetingimustele. Subtiitrid viitavad sellele, et tegemist on dialoogiga, kus teine mees pakub valikuvõimalusi.",
+      "actions": [
+        "Mehed vestlevad",
+        "Üks mees pakub valikuvõimalusi"
+      ],
+      "keywords": [
+        "Supermarket",
+        "Valikud",
+        "Vestlus",
+        "Müts",
+        "Habe",
+        "Talvine riietus",
+        "Siseruum",
+        "Poemiljöö"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Tutimüts",
+        "Jakk",
+        "Särk",
+        "Habe",
+        "Supermarketi riiulid (hägused)",
+        "Poe valgustus"
+      ],
+      "colorcodes": [
+        "#B1272C",
+        "#FFFFFF",
+        "#6D4434",
+        "#4D352B",
+        "#8B8B8B",
+        "#B3835B"
+      ],
+      "texts": [
+        "So, let's find out what is the most appropriate choice for you.",
+        "Today, we have a selection between three different variants."
+      ],
+      "persons": [
+        "Kaks meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Ainsaks erinevuseks piltide vahel on subtiitrite tekst. Esimene pilt sisaldab teksti 'So, let's find out what is the most appropriate choice for you.', samas kui teine pilt sisaldab teksti 'Today, we have a selection between three different variants.'. Visuaalne sisu mõlemal pildil on identne."
+      ],
+      "snr": "009",
+      "ajad": [
+        "52.240",
+        "56.400"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud nooremapoolset heleda nahaga meest, kellel on seljas helehall triiksärk ja heledad lühikesed juuksed. Ta räägib otse kaamerasse, suu on avatud. Stseen toimub siseruumides, mis näivad olevat kaasaegne fuajee, näiteks kaubanduskeskuses või ärihoones. Taustal on näha hägusaid inimfiguure, sealhulgas üks punase riietusega isik. Paremal tagaplaanil on siniste valgusketidega ehitud jõulupuu, mis annab märku pühadeajast. Pildi allosas on näha valged subtiitrid mustal taustal, mis kajastavad mehe kõnet.",
+      "actions": [
+        "rääkimine"
+      ],
+      "keywords": [
+        "mees",
+        "siseruum",
+        "intervjuu",
+        "jõulupuu",
+        "subtiitrid",
+        "pühad",
+        "ärihoone",
+        "avalik ruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "triiksärk",
+        "jõulupuu",
+        "valgusketid",
+        "subtiitrite taust"
+      ],
+      "colorcodes": [
+        "#747C80",
+        "#E0C7B2",
+        "#5F4F3F",
+        "#D5D5D0",
+        "#00BFFF",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "Today, we have a selection between three different variants.",
+        "Do you live in town or in the countryside?"
+      ],
+      "persons": [
+        "mees",
+        "möödujad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst on erinev."
+      ],
+      "snr": "010",
+      "ajad": [
+        "56.400",
+        "58.440"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt supermarketis või kaupluses, mida viitab udune taust riiulite ja valgustusega. Kaadris on kaks meest, kes vestlevad. Üks mees on näoga kaamerast eemale pööratud, näha on ainult tema selga ja paremat õlga helehallis või helesinises särgis. Teine mees on suunaga kaamera poole ja kannab silmatorkavat punase-valgetriibulist kootud mütsi, tumepruuni jopet ja tumedat kampsunit või särki selle all. Tal on hele juuksevärv ja kerge habe. Ta väljendab end aktiivselt, räägib ning ühel hetkel isegi naeratab, mis annab märku vestluse käigus muutuvast emotsioonist ja teemast. Subtiitrid näitavad, et käimas on vestlus elukoha ja eestlaslikkuse teemadel.",
+      "actions": [
+        "Kaks meest vestlevad",
+        "Mütsiga mees räägib",
+        "Mütsiga mees naeratab",
+        "Mütsiga mees vaatab vestluskaaslase poole",
+        "Mütsiga mees vaatab korraks alla"
+      ],
+      "keywords": [
+        "Vestlus",
+        "Siseruumid",
+        "Supermarket",
+        "Müts",
+        "Mehed",
+        "Eesti mees",
+        "Huumor",
+        "Rääkimine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Punase-valgetriibuline müts",
+        "Pruun jope",
+        "Tume kampsun/särk",
+        "Hallesärgis mees",
+        "Udune poe taust (riiulid, valgustus)"
+      ],
+      "colorcodes": [
+        "#FF0000",
+        "#FFFFFF",
+        "#8B4513",
+        "#808080",
+        "#A9A9A9"
+      ],
+      "texts": [
+        "Do you live in town or in the countryside?",
+        "that you are a traditional Estonian man. So, let's see.",
+        "If we take a look into the computer, then you see that our pillars are,"
+      ],
+      "persons": [
+        "Mütsiga mees (kõneleja)",
+        "Mees tagantvaates (vestluskaaslane)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab mütsiga mees otse vestluskaaslasele ja tema ilme on neutraalne/küsimusele vastav, subtiitriga „Do you live in town or in the countryside?“.",
+        "Teisel pildil on mütsiga mees pilgu hetkeks alla lasknud ja naeratab/muigab, vihjates lõbusamale või enesekindlamale hetkele vestluses, subtiitriga „that you are a traditional Estonian man. So, let’s see.“.",
+        "Kolmandal pildil on mütsiga mees jälle pilgu vestluskaaslasele suunanud, ilme on tõsisem või mõtisklevam, jätkates oma mõtet, subtiitriga „If we take a look into the computer, then you see that our pillars are,“."
+      ],
+      "snr": "011",
+      "ajad": [
+        "58.440",
+        "67.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, tõenäoliselt müügiesindust või kontorit. Kaadris on näha helehallis pikasärgis inimene, kes hoiab käes tumepunast kausta, millel on osaliselt näha tekst \"BLA pank\". Inimene seisab heledavärvilise leti taga, millel asub hõbedane sülearvuti. Sülearvuti ekraanil on näha graafik pealkirjaga \"Klientide rahulolu\", mis koosneb mitmest värvilisest segmendist koosnevatest tulpades. Esimesel pildil žestikuleerib esitaja sülearvuti suunas, selgitades ingliskeelsete subtiitrite järgi: \"If we take a look into the computer, then you see that our pillars are, you know, very Estonian and very, very productive pillars.\" Kaadri paremas servas ripub pruun riideese, mis viitab teise isiku kohalolekule, kellele ilmselt esitlust tehakse. Taust on udune, näidates riiuleid või vitriine, mis on iseloomulikud kaubandusruumidele. Kaadri ülemises ja alumises osas on mustad kinoribad.",
+      "actions": [
+        "esitlemine",
+        "žestikuleerimine",
+        "selgitamine",
+        "kausta hoidmine"
+      ],
+      "keywords": [
+        "ettekanne",
+        "äri",
+        "kliendirahulolu",
+        "kontor",
+        "pank",
+        "sülearvuti",
+        "graafik",
+        "esitlus",
+        "siseruum",
+        "eestilik",
+        "produktiivne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "inimene (esitaja)",
+        "sülearvuti",
+        "lett",
+        "kaust",
+        "graafik",
+        "särk",
+        "märgis",
+        "pruun riideese",
+        "riiulid (uduses taustal)"
+      ],
+      "colorcodes": [
+        "#b1b1b1",
+        "#611116",
+        "#c0c0c0",
+        "#ffffff",
+        "#4caf50",
+        "#9c27b0",
+        "#e91e63",
+        "#2196f3",
+        "#7b4c33",
+        "#000000"
+      ],
+      "texts": [
+        "Klientide rahulolu",
+        "BLA pank",
+        "If we take a look into the computer, then you see that our pillars are,",
+        "you know, very Estonian and very, very productive pillars."
+      ],
+      "persons": [
+        "esitaja (mees)",
+        "pealtvaataja (ainult riideese nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on esitaja käte asendis ja kausta hoidmises kerged erinevused. Esimesel pildil žestikuleerib esitaja sülearvuti suunas. Teisel ja kolmandal pildil on käsi allpool ja kaust on pööratud horisontaalsemalt. Kolmas pilt on teise pildiga peaaegu identne, ainult väga väikesed nihked kausta asendis."
+      ],
+      "snr": "012",
+      "ajad": [
+        "67.600",
+        "70.560"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt apteegis või mõnes tervise- ja heaolupoest. Kaks meest vestlevad näituseleti juures. Vasakpoolne mees, riietatud helehallile nööbitavale särgile ja tumedatele pükstele, hoiab käes musta kausta, millel on logo \"BLA\", ja näib esitavat midagi. Parempoolne mees, seljas pruun mantel ja peas silmatorkav punase-valgetriibuline kootud müts, kuulab ja vaatleb tähelepanelikult. Nende vahelisel letil seisab sülearvuti, mis kuvab värvilist tulpdiagrammi. Taustal on näha riiuleid, mis on täidetud apteegitoodetega, ja klaasseinu. Paremal seinal on punase kirjatüübiga suur logo \"Apotheka!\" ja tekst \"Varsti avame!\". Vasakul pool on nähtavad punased sahtlid või kapid.",
+      "actions": [
+        "Mees 1 räägib ja žestikuleerib",
+        "Mees 2 kuulab ja vaatleb",
+        "Mees 1 hoiab kausta",
+        "Mõlemad mehed on dialoogis"
+      ],
+      "keywords": [
+        "apteek",
+        "presentatsioon",
+        "vestlus",
+        "siseruum",
+        "jaekauplus",
+        "graafik",
+        "müts"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "mees (hallis särgis)",
+        "mees (pruunis mantlis ja mütsis)",
+        "näituselett",
+        "sülearvuti",
+        "must kaust",
+        "tooteriihid",
+        "apteegitooted",
+        "klaassein",
+        "valgustid",
+        "punased sahtlid/kapid",
+        "märgid/sildid"
+      ],
+      "colorcodes": [
+        "#A9A9A9",
+        "#6D4C41",
+        "#FF0000",
+        "#FFFFFF",
+        "#000000",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "you know, very Estonian and very, very productive pillars.",
+        "And, compared to others, our pillars have risen 8.6 % during last year",
+        "BLA",
+        "Apotheka!",
+        "Varsti avame!",
+        "Üldised"
+      ],
+      "persons": [
+        "hallis särgis mees (esitleja)",
+        "pruunis mantlis ja punase-valgetriibulises mütsis mees (kuulaja)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub, kajastades dialoogi jätkumist.",
+        "Hallis särgis mehe parema käe asend on veidi muutunud.",
+        "Punasetriibulises mütsis mehe pea kalle on marginaalselt erinev."
+      ],
+      "snr": "013",
+      "ajad": [
+        "70.560",
+        "74.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest siseruumides vestlemas, tõenäoliselt mingis müügisaalis või laos, kuna taust on ähmaselt nähtavate riiulite ja valgustusega. Kaamera fookus on paremal asuval mehel, kellel on seljas pruun jope karvase kraega, tume pluus ja peas silmatorkav punase-valgetriibuline tutimüts. Tal on heledad juuksed, vuntsid ja tema näoilme varieerub mõtlikust kuulamisest ja küsimisest kuni rääkimise ja probleemi selgitamiseni. Tema vastas, vasakul, seisab teine mees, kellest on näha vaid selga hallis särgis, jättes ta näo varjatuks. Vestluse käigus räägitakse alguses 'sammaste' tõusust ärikontekstis, seejärel küsitakse mütsiga mehelt 'tugeva, tahtelise samba' vajaduse kohta ja lõpuks selgub, et tal on kevadel vaja lammutada vana laut. Üldine valgus on ere, viitades päevasele ajale.",
+      "actions": [
+        "Vestlemine",
+        "Kuulamine",
+        "Küsimine",
+        "Rääkimine",
+        "Žestikuleerimine (kaudselt suu avamisega)"
+      ],
+      "keywords": [
+        "Vestlus",
+        "Mehed",
+        "Siseruum",
+        "Tutimüts",
+        "Jope",
+        "Sammas",
+        "Kevad",
+        "Laut",
+        "Lammutamine",
+        "Äri"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Tutimüts",
+        "Jope",
+        "Särk",
+        "Vuntsid",
+        "Ähmastatud riiulid",
+        "Laud (mainitud dialoogis)"
+      ],
+      "colorcodes": [
+        "#D42C3C",
+        "#FFFFFF",
+        "#5E402D",
+        "#969591",
+        "#000000"
+      ],
+      "texts": [
+        "And, compared to others, our pillars have risen 8.6 % during last year",
+        "Well, and you definitely need a strong, willing pillar?",
+        "Well, in spring, I have this old barn that needs to be torn down"
+      ],
+      "persons": [
+        "Mütsiga mees",
+        "Mees (seljaga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Tekst subtiitrites muutub kaadri kaupa, edastades vestluse arengut.",
+        "Mütsiga mehe suu asend varieerub suletud olekust (kuulamisel ja küsimisel) avatud olekusse (rääkimisel).",
+        "Mütsiga mehe näoilme muutub kergelt, peegeldades tema rolli vestluses (kuulaja, küsija, vastaja)."
+      ],
+      "snr": "014",
+      "ajad": [
+        "74.560",
+        "85.880"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt suures poes või kaubanduskeskuses, mis sarnaneb apteegi või kosmeetikapoega tänu riiulitel paiknevatele toodetele. Kaadris on kaks meest, kes omavahel vestlevad. Üks mees, klienditeenindaja riietuses (hall särk, tumedad püksid, mustad kingad ja kaust kaenlas), seisab teise mehega silmitsi. Teine mees on klient, kes kannab punase-valge triibulist talvemütsi, paksu pruuni talvejopet ning heledaid pükse. Algselt arutavad nad kevadel lammutamist vajavast vanast laudast. Järgmistes kaadrites juhatab klienditeenindaja kliendi veidra väljapaneku juurde, mis koosneb pikkadest valgetest sammastega sarnanevatest konstruktsioonidest. Iga samba sees on inimene, kelle nägu või ülakeha on avausest nähtav. Klienditeenindaja osutab ühele sambale, kus on naine, ja soovitab seda kliendile, selgitades, et see \"on mõeldud füüsiliseks tööks\". Taustal on näha veelgi sammasid ja neis seisvaid inimesi. Stseen on üldiselt hele ja professionaalselt valgustatud.",
+      "actions": [
+        "Rääkimine",
+        "Selgitamine",
+        "Žestikuleerimine",
+        "Kuulamine",
+        "Vaatamine",
+        "Soovitamine"
+      ],
+      "keywords": [
+        "Müük",
+        "Teenindus",
+        "Kauplus",
+        "Klienditeenindaja",
+        "Klient",
+        "Veider",
+        "Reklaam",
+        "Tööjõud",
+        "Füüsiline töö",
+        "Lammutamine",
+        "Kevad",
+        "Hoone",
+        "Sammas",
+        "Müts",
+        "Jakk"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mehed",
+        "Naised",
+        "Kaupluseriiulid",
+        "Tooted",
+        "Sülearvuti",
+        "Laud",
+        "Müts",
+        "Jakk",
+        "Särk",
+        "Püksid",
+        "Kingad",
+        "Kaust/Mapp",
+        "Sambakujulised konstruktsioonid",
+        "Käed",
+        "Näod",
+        "Turvakaamera"
+      ],
+      "colorcodes": [
+        "#8C8C8C",
+        "#603E26",
+        "#FFFFFF",
+        "#FF0000",
+        "#000000",
+        "#F5F5DC",
+        "#D9D9D9",
+        "#A8A8A8"
+      ],
+      "texts": [
+        "Well, in spring, I have this old barn that needs to be torn down",
+        "Very good. I, personally, would recommend this pillar right here.",
+        "He is meant for doing physical work.",
+        "BILLA",
+        "Klubikaart",
+        "Uudised"
+      ],
+      "persons": [
+        "Klienditeenindaja",
+        "Klient",
+        "Naised sammaste sees",
+        "Inimesed sammaste sees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vestlevad klienditeenindaja ja klient enne konkreetse 'toote' juurde siirdumist, klienditeenindaja hoiab kausta ja on otse kliendi poole pööratud.",
+        "Teisel ja kolmandal pildil on klienditeenindaja asend muutunud, ta osutab paremal asuvale sambale ning selgitab selle otstarvet, samas kui klient on pööratud näoga sammaste poole ja kuulab tähelepanelikult.",
+        "Kaadrite vahel muutuvad subtiitrid vastavalt dialoogi kulgemisele."
+      ],
+      "snr": "015",
+      "ajad": [
+        "85.880",
+        "97.840"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumis, mis meenutab jaekauplust või apteeki, kus taustal on näha riiuleid erinevate toodetega. Stseeni keskel on kolm meest. Esiplaanil paremal seisab hallis särgis mees, kes on rääkimas ja žestikuleerimas. Tema pilk on suunatud teisele mehele, kes on riietatud püstisesse valgesse, kasti meenutavasse kostüümi, mille esiküljel on näo jaoks ava. Selle kostüümi sees olev mees vaatab otse ette, tema nägu on kahvatu ja ilmetu. Tema taga vasakul on osaliselt näha veel teinegi sarnases valges kostüümis tegelane, kelle kostüüm on pigem silindrikujuline ja kelle nägu on samuti kahvatu. Stseenil on ilmselt komöödiale või reklaamile omane kontekst. Taustal on näha poeriiuleid ja neil olevaid pakendeid.",
+      "actions": [
+        "Rääkimine",
+        "Žestikuleerimine",
+        "Seismine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Komöödia",
+        "Reklaam",
+        "Dialoog",
+        "Siseruum",
+        "Pood",
+        "Apteek",
+        "Kostüümid",
+        "Naljakas",
+        "Töö",
+        "Etendus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mehed",
+        "Hall särk",
+        "Valged kostüümid",
+        "Pood",
+        "Riiulid",
+        "Tooted",
+        "Käed"
+      ],
+      "colorcodes": [
+        "#717171",
+        "#FFFFFF",
+        "#E2C7B1",
+        "#D6C2AC",
+        "#4A4A4A"
+      ],
+      "texts": [
+        "He is meant for doing physical work.",
+        "He worked out a lot during the last quarter.",
+        "I don't know, I have always done the work by myself, though.",
+        "Vitamiinid",
+        "Lastele",
+        "Ravimid",
+        "Tervise-"
+      ],
+      "persons": [
+        "Mees hallis särgis",
+        "Mees valges kastikujulises kostüümis",
+        "Mees valges silindrikujulises kostüümis"
+      ],
+      "imagetype": "real",
+      "emptypercent": 10,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Peamine erinevus piltide vahel on hallis särgis mehe suulise dialoogi kajastumine subtiitrites, mis iga pildiga muutub.",
+        "Hallis särgis mehe näoilme ja käte asend muutuvad vastavalt räägitavale tekstile.",
+        "Taust ja teised tegelased jäävad kaadrite vahel suures osas samaks."
+      ],
+      "snr": "016",
+      "ajad": [
+        "97.840",
+        "101.440"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha mees, kes kannab punase-valgetriibulist mütsi, tumepruuni paksu talvejopet pruuni karvase kraega ja pruuni sametist särki. Mehel on punakaspruun habe ja vuntsid. Ta seisab siseruumis, mis näib olevat valgustatud poekeskkond, näiteks supermarket või kaubanduskeskus, mille taust on fookusest väljas. Mees räägib, tema suu on avatud või äsja sulgunud, ning tema ilme muutub kaadrite vahel kergelt, peegeldades vestlust ja mõtteprotsessi. Ta vaatab otse ette, justkui pöörduks kellegi poole väljaspool kaadrit. Tema riietus viitab jahedamale ilmale.",
+      "actions": [
+        "Rääkimine",
+        "Mõtisklemine",
+        "Kuulamine (oletatav)"
+      ],
+      "keywords": [
+        "Mees",
+        "Müts",
+        "Jope",
+        "Pruun",
+        "Punane",
+        "Siseruum",
+        "Pood",
+        "Vestlus",
+        "Mõtisklemine",
+        "Talvised riided"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Triibuline müts",
+        "Talvejope",
+        "Sametist särk",
+        "Habe",
+        "Poe riiulid (taustal)",
+        "Valgustid (taustal)"
+      ],
+      "colorcodes": [
+        "#CB2E22",
+        "#764E30",
+        "#FFFFFF",
+        "#C8B9A0",
+        "#593427"
+      ],
+      "texts": [
+        "I don't know, I have always done the work by myself, though.",
+        "But give it a thought - you are calmly sitting in front of the fireplace,"
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe suu asend ja näoilme muutuvad kergelt kaadrite vahel, peegeldades edasiliikuvat vestlust ja mõtisklemist.",
+        "Subtiitrite tekst muutub vastavalt dialoogi kulgemisele."
+      ],
+      "snr": "017",
+      "ajad": [
+        "101.440",
+        "104.560"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivaates kujutatud noort meest, kelle nägu on ebaloomulikult kahvatu, peaaegu kriitvalge jume ja helepruunide/blondide juustega. Tema silmad on silmatorkavalt sinised ning nende ümber on märgata õrnu punakaid toone, mis lisavad üldmuljele veidi kummitusliku või melanhoolse varjundi. Mehe ilme on tõsine ja otsekohene, pilk suunatud otse ette. Tema pea ja õlad on nähtavad läbi ebakorrapärase kujuga ava, mis on lõigatud heledasse, tõenäoliselt valgesse või kreemjasse vertikaalsesse pinda. See ava toimib omamoodi raamina, jättes mulje, et meest jälgitakse või presenteeritakse. Mehe taga olev taust on tume ja ebamäärane, luues sügavust ning rõhutades esiplaanil olevat figuuri. Üldvalgus on pehme ja ühtlane, tuues esile mehe ilme ja jume kontrastid. Stseeni alumises osas kuvatakse ingliskeelseid subtiitreid, mis selgitavad tausta tegelasele või tema olukorrale, viidates kamina ees istumisele ja turumuutuste mitte mõjutatusele.",
+      "actions": [
+        "Mees vaatab otse kaamerasse"
+      ],
+      "keywords": [
+        "kahvatu nägu",
+        "raamitud nägu",
+        "ava",
+        "kriitvalge jume",
+        "kummituslik",
+        "melanhoolne",
+        "tõsine pilk",
+        "sisestseen",
+        "subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "noor mees",
+        "hele pind/raam",
+        "väljalõigatud ava",
+        "tume taust",
+        "subtiitrid"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#202020",
+        "#C8B59A",
+        "#6495ED",
+        "#E6B3B3"
+      ],
+      "texts": [
+        "But give it a thought - you are calmly sitting in front of the fireplace,",
+        "And he is meant for doing that kind of work,",
+        "he is definitely not affected in the changes in the market."
+      ],
+      "persons": [
+        "noor mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Ainus erinevus piltide vahel on kuvatav ingliskeelne subtiitrite tekst, mis muutub iga kaadriga."
+      ],
+      "snr": "019",
+      "ajad": [
+        "106.640",
+        "110.600"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub valgustatud poekeskkonnas, tõenäoliselt supermarketi või apteegi vahekäigus, mille tagaplaanil on näha riiuleid erinevate toodetega. Kesksel kohal on halli särgiga mees, kes on aktiivselt rääkimise ja žestikuleerimise hoos. Tema ees ja taga seisavad kaks inimest, kes on riietatud valgetesse, sammaste kujulistesse kostüümidesse. Kostüümidel on näo jaoks augud, kust paistavad välja kostüümi kandjate kahvatu meigiga näod, andes neile monotoonse ja pisut zombiliku ilme. Üks sammas-inimene seisab otse hallis särgis mehe taga ja teine temast paremal, veidi eemal. Stseeni üldmulje on koomiline või sürrealistlik, kuna sambad justkui personifitseerivad mingeid tooteid või teenuseid, mida kõneleja tutvustab, viidates turumuutustele ja ehitusele. Halli särgiga mees on stseeni fookuspunkt, edastades infot ja juhtides tähelepanu sammas-tegelastele.",
+      "actions": [
+        "Mees räägib ja žestikuleerib aktiivselt",
+        "Sambakostüümides inimesed seisavad paigal ja vaatavad ette",
+        "Inimesed liiguvad kaadris paremale ja vasakule vastavalt rääkija liigutustele",
+        "Toodete väljapanek riiulitel"
+      ],
+      "keywords": [
+        "pood",
+        "supermarket",
+        "sambad",
+        "kostüümid",
+        "müük",
+        "esitlus",
+        "turundus",
+        "huumor",
+        "ehitus",
+        "vestlus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "mees (hallis särgis)",
+        "kaks sammaskostüümis inimest",
+        "poeriiulid",
+        "tooted riiulitel",
+        "poevalgustus"
+      ],
+      "colorcodes": [
+        "#8B8B8B",
+        "#FFFFFF",
+        "#D9D9D9",
+        "#F5F5F5",
+        "#FF0000",
+        "#008000",
+        "#0000FF"
+      ],
+      "texts": [
+        "he is definitely not affected in the changes in the market.",
+        "At the same time, you can choose between this pillar as well.",
+        "and he'd be of great help with your barn construction."
+      ],
+      "persons": [
+        "mees (hallis särgis)",
+        "kaks sammaskostüümis inimest",
+        "inimene taustal (osaliselt nähtav esimesel pildil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Hallis särgis mehe näoilme ja suu asend muutuvad vastavalt rääkimisele läbi kaadrite.",
+        "Hallis särgis mehe käe asend ja žestikuleerimine on iga kaadri puhul erinev.",
+        "Subtiitrite tekst muutub iga kaadriga, edastades jätkuvat dialoogi.",
+        "Sammas-inimeste näod ja kehahoiak muutuvad kergelt kaadrite vahel, vihjates väikestele liigutustele."
+      ],
+      "snr": "020",
+      "ajad": [
+        "110.600",
+        "119.440"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha meest siseruumis, mis sarnaneb suure poe või kaubanduskeskusega. Taust on udune, kuid märgata on riiuleid ja kaupluse üldist valgustust. Mehel on seljas punase-valgetriibuline müts, pruun nööpidega sametine särk või jakk ja selle peal tumepruun, võimalik, et lamba- või karusnahaga vooderdatud jope. Tal on helepunakasblondid juuksed, vuntsid ja kerge habemetüügas. Tema pilk on suunatud kaamerast veidi kõrvale. Esimeses hetkes on tema näoilme neutraalne, justkui kedagi soovitades. Järgmises hetkes muutub tema näoilme pisut kriitilisemaks või kaalutlevamaks, kui ta lausub midagi hinnangulist. Mõlemas kaadris on ekraanil näha ingliskeelseid subtiitreid.",
+      "actions": [
+        "Mees räägib",
+        "Mees kannab peakatet",
+        "Mees hindab või kommenteerib midagi"
+      ],
+      "keywords": [
+        "Mees",
+        "Pood",
+        "Kaubanduskeskus",
+        "Talvemüts",
+        "Jope",
+        "Subtiitrid",
+        "Kõne",
+        "Hinnang"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Müts",
+        "Jope",
+        "Särk",
+        "Vuntsid",
+        "Habe",
+        "Poe riiulid (udused)",
+        "Valgustus (udune)"
+      ],
+      "colorcodes": [
+        "#E4473F",
+        "#F6F6F6",
+        "#5D3B2F",
+        "#785A48",
+        "#D0D0D0"
+      ],
+      "texts": [
+        "and he'd be of great help with your barn construction.",
+        "I would not recommend this pillar, though."
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe näoilme muutub neutraalsest veidi kriitilisemaks või kaalutlevamaks.",
+        "Ekraanil olev subtiitrite tekst muutub, peegeldades mehe lausutud eri lauseid."
+      ],
+      "snr": "021",
+      "ajad": [
+        "119.440",
+        "121.720"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, mis meenutab ostukeskust või suurt avalikku hoonet, tõenäoliselt jõulude ajal, arvestades tagaplaanil olevat ehitud jõulupuud. Pildil on kaks inimest. Vasakul seisab mees, kes kannab halli nööpidega särki ja nimesilti, ning hoiab käes musta kausta, millel on punase tekstiga logo. Ta naeratab ja žestikuleerib parema käega, justkui midagi selgitades või esitledes. Paremal seisab naine ebatavalises sambakostüümis. Tema nägu paistab avausest, ja ta kannab valgeid kindaid, käed on aheldatud õrna ketiga. Tema näoilme on veidi tõsine ja ta näib olevat valge meigiga kaetud. Taustal on näha heledates toonides seinu, klaasist vaheseinu ja muid poode või stende, mis viitavad kommertspinnale. Valgus on ere ja ühtlane, iseloomulik päevasele ajale siseruumides.",
+      "actions": [
+        "Mees räägib ja žestikuleerib parema käega",
+        "Mees hoiab käes musta kausta",
+        "Naine seisab paigal samba-kostüümis",
+        "Naine kannab valgeid kindaid ja ketti"
+      ],
+      "keywords": [
+        "Müügiesitlus",
+        "Reklaam",
+        "Pank",
+        "Humoorikas",
+        "Satiir",
+        "Ostukeskus",
+        "Jõulud",
+        "Kostüüm",
+        "Stereotüüp",
+        "Siseinterjöör"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Naine",
+        "Hall särk",
+        "Must kaust",
+        "Samba-kostüüm",
+        "Valged kindad",
+        "Kett",
+        "Jõulupuu",
+        "Poeriiulid",
+        "Seinad",
+        "Klaasist vaheseinad",
+        "Nimesilt"
+      ],
+      "colorcodes": [
+        "#6D777F",
+        "#231C1A",
+        "#D1000B",
+        "#CDD4D7",
+        "#84969F",
+        "#0D2C0D",
+        "#FBEFCD",
+        "#BEAE9A",
+        "#D9D9D9"
+      ],
+      "texts": [
+        "I would not recommend this pillar, though.",
+        "She's more of a housewife type of pillar.",
+        "BLA pank",
+        "The pank"
+      ],
+      "persons": [
+        "Müügiesindaja mees",
+        "Naine samba-kostüümis"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe suuliigutused ja näoilme muutuvad kergelt kaadrite vahel, vastates tema kõnele.",
+        "Ekraanil kuvatav subtiitrite tekst muutub vastavalt mehe öeldule.",
+        "Kausta peal olev tekst on esimesel pildil osaliselt varjatud ('The pank'), viimasel pildil on selgemalt näha 'BLA pank'.",
+        "Mehe parema käe žestikulatsiooni asend muutub veidi kaadrite vahel."
+      ],
+      "snr": "022",
+      "ajad": [
+        "121.720",
+        "126.080"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt kaubanduskeskuse või suure poe alas, mis piirneb apteegiga. Põrand on kaetud heledate plaatidega ja ühel pool on suured klaasist vitriinaknad, mille taga on näha apteegi riiulid täis erinevaid tooteid, samuti punaseid ja valgeid teeninduslette. Stseeni keskmes suhtlevad kaks meest: üks neist on hallis särgis ja pükstes, näib olevat müüja, ning teine kannab pruuni jopet ja silmatorkavat punase-valge triibulist mütsi, olles ilmselt ostja. Müüja läheneb ostjale algul musta kaustaga käes, öeldes entusiastlikult “Ingenious choice!” (Geniaalne valik!). Ostja seevastu väljendab muret, küsides: “But where should I put it? My car is filled with stuff right now, and I can't..” (Aga kuhu ma selle panen? Mu auto on praegu asju täis ja ma ei saa..). Vestluse käigus ilmub müüja kätte pruun paberkott, mis ilmselt sisaldab ostetud eset. Ostja märgib selle suurust: “Well, its quite big, right?” (No see on ju päris suur, eks ju?), millele müüja vastab: “Yeah, he is.” (Jah, on küll.). Nende taga seisab kolm inimest, kes on riietatud veidratesse arhitektuursete sammaste kostüümidesse – kaks helehalli ja üks valge. Nende näod ja aeg-ajalt käed on nähtavad kostüümide avadest. Nad on kogu stseeni vältel peamiselt paigal, jälgides kahe mehe dialoogi.",
+      "actions": [
+        "Mees hallis särgis kõnnib ja hoiab kausta.",
+        "Mees hallis särgis räägib ostjaga.",
+        "Mees pruunis jakis kuulab ja räägib müüjaga.",
+        "Mees pruunis jakis žestikuleerib käega.",
+        "Mees hallis särgis pöörab oma kehahoiakut ostja poole.",
+        "Mees hallis särgis hoiab käes pruuni paberkotti.",
+        "Kolonni kostüümides inimesed seisavad paigal ja jälgivad.",
+        "Keskmine valge sammaskostüümiga inimene suunab käed ettepoole, andes justkui koti üle."
+      ],
+      "keywords": [
+        "Poeinterjöör",
+        "Apteek",
+        "Kaubanduskeskus",
+        "Kostüümid",
+        "Kolonnid",
+        "Sammas",
+        "Naljakas",
+        "Kummaline",
+        "Teenindus",
+        "Dialoog",
+        "Ostja",
+        "Müüja",
+        "Paberkott",
+        "Ostlemine",
+        "Arhitektuurikostüümid"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Meesmüüja hallis särgis",
+        "Meesostja pruunis jakis",
+        "Kolm inimest kolonni kostüümides",
+        "Helehallid sammaskostüümid",
+        "Valge sammaskostüüm",
+        "Must kaust/tahvelarvuti",
+        "Pruun paberkott",
+        "Punase-valge triibuline müts",
+        "Pruun jope",
+        "Kaupluse riiulid",
+        "Apteegi tooted",
+        "Klaasist vaheseinad",
+        "Plaaditud põrand",
+        "Punased letid",
+        "Valged letid",
+        "Apteegi sildid",
+        "Reklaammaterjalid riiulitel"
+      ],
+      "colorcodes": [
+        "#6B3F2E",
+        "#E2352B",
+        "#F0F0F0",
+        "#BCBCBC",
+        "#7B7B7B",
+        "#AAD3DF",
+        "#C3C3C3",
+        "#9F8D69"
+      ],
+      "texts": [
+        "Ingenious choice!",
+        "But where should I put it? My car is filled with stuff right now, and I can't..",
+        "Well, its quite big, right? - Yeah, he is.",
+        "apteek",
+        "Vitamiinid",
+        "Mineraalained",
+        "L..ge",
+        "retseptiravimid"
+      ],
+      "persons": [
+        "Meesmüüja",
+        "Meesostja",
+        "Kolm kolonni-kostüümides inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Müüja liikumine: esimeses kaadris kõnnib müüja musta kaustaga paremale, näoga ostja poole. Teises kaadris on ta seisatanud ja pöördunud veidi ostja poole, kolmandas kaadris on ta täielikult ostja poole pööratud ja hoiab käes pruuni paberkotti.",
+        "Ostja tegevus: esimeses kaadris kuulab ostja müüjat, teises kaadris räägib ja žestikuleerib oma murest koti suuruse kohta, kolmandas kaadris kuulab ta müüja vastust ja jälgib teda.",
+        "Esemete vahetus: stseeni alguses on müüja käes must kaust; stseeni lõpus on müüja käes pruun paberkott, mis viitab eseme üleandmisele või selle ilmumisele.",
+        "Kolonni kostüümides inimeste poos: Kuigi nad jäävad üldiselt paigale, näib keskmise valge samba kostüümis inimene olevat veidi pööratud ja tema käed on nähtaval, andes justkui koti üle või olles selle äsja üle andnud."
+      ],
+      "snr": "024",
+      "ajad": [
+        "129.600",
+        "138.880"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumides, tõenäoliselt kaubanduskeskuses või suures poekeskkonnas, mille taustal on näha apteeki või kosmeetikapoodi riiulite ja toodetega. Keskel on meessoost töötaja halli nööpidega särgi ja tumedate pükstega, kes hoiab käes plokilehte kirjaga \"BLA pank\" ja pastapliiatsit. Ta suhtleb mitme isikuga, kes kannavad valgeid, sammaste-sarnaseid kostüüme, millel on näo ja käte jaoks avad. Töötaja küsib ülaltoodud tekstis küsimusi, näiteks aadressi, ja teeb märkmeid. Kostümeeritud isikud seisavad tema ümber, mõned neist vaatavad otse kaamerasse või töötajale, üks on stseenis veidi liigutud ja näoga kaamera poole pöördunud.",
+      "actions": [
+        "Mehe töötaja räägib ja küsib küsimusi",
+        "Mehe töötaja kirjutab plokilehele",
+        "Kostümeeritud isikud seisavad",
+        "Üks kostümeeritud isik keerab näoga kaamera poole",
+        "Üks kostümeeritud isik liigub kaadrisse",
+        "Kostümeeritud isik vastab küsimustele"
+      ],
+      "keywords": [
+        "Kaubanduskeskus",
+        "Apteek",
+        "Töötaja",
+        "Kostüüm",
+        "Intervjuu",
+        "Ankeet",
+        "Kummaline",
+        "Valge",
+        "Hall",
+        "Klienditeenindus",
+        "Promoüritus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Meessoost töötaja",
+        "Pillarikujulised kostüümid",
+        "Plokileht",
+        "Pastapliiats",
+        "Kilekott",
+        "Riiulid",
+        "Kosmeetikatooted",
+        "Apteegi letid",
+        "Vitriinid",
+        "Seinad",
+        "Põrand"
+      ],
+      "colorcodes": [
+        "#808080",
+        "#000000",
+        "#FFFFFF",
+        "#FF0000",
+        "#A9A9A9",
+        "#D3D3D3"
+      ],
+      "texts": [
+        "Well, its quite big, right?",
+        "- Yeah, he is.",
+        "Can I ask for your address?",
+        "Yes, Leibaku village, Antsu's farm, the last house in the street..",
+        "BLA pank",
+        "Südameap"
+      ],
+      "persons": [
+        "Meessoost töötaja",
+        "Neli kostümeeritud isikut"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevad kaamera nurgad töötaja ja kostümeeritud isikute suhtes, pakkudes erinevaid vaateid sündmusele.",
+        "Töötaja asend ja näoilme muutuvad rääkimise ja kirjutamise käigus, peegeldades dialoogi kulgu.",
+        "Kostümeeritud isikute paigutus kaadris varieerub: alguses on üks neist seljaga ja teine osaliselt varjatud, hiljem on näha kolme isiku näod ja üks neist on täies ulatuses kaadrisse astunud, andes edasi stseeni dünaamikat.",
+        "Dialoog areneb ja lisandub teavet vestluse käigus."
+      ],
+      "snr": "025",
+      "ajad": [
+        "138.880",
+        "143.720"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumides, mis meenutab kaubanduskeskust või kauplust, mida kinnitavad taustal olevad riiulid ja tooted. Kolm peamist tegelast on kaadris. Vasakul seisab hallis särgis ja tumedates pükstes mees, käes tume kaust või klahvlaud, ning ta räägib. Keskel on kaks inimest riietatud valgetesse, kastitaolistesse kostüümidesse, mis meenutavad sambaid, näo jaoks väljalõigetega. Esiplaanil on noor mees väga kahvatu naha ja punaka juuksega, kes vaatab otse ette. Tema taga on näha teist inimest sarnases, väiksemas kostüümis. Paremal seisab punase-valgetriibulise mütsi ja pruuni mantliga mees, kes vaatab samuti vasakule, justkui osaledes vestluses. Stseeni üldine meeleolu on kostüümide tõttu veidi sürreaalne või koomiline. Ühes kaadris hoiab kahvatu näoga mees sambakostüümis väikest kortsus paberitükki huulte juures, justkui sellega suhtleks või rääkima hakkaks.",
+      "actions": [
+        "Mees hallis särgis räägib ja hoiab kausta",
+        "Inimesed seisavad valgetes sambakostüümides",
+        "Mees punases mütsis kuulab või ootab",
+        "Kahvatu näoga mees hoiab väikest paberitükki suu juures",
+        "Vestlus on käimas"
+      ],
+      "keywords": [
+        "Kostüümid",
+        "Siseruumid",
+        "Kauplus",
+        "Sürreaalne",
+        "Vestlus",
+        "Pabertükk",
+        "Kahvatu",
+        "Pillarkostüümid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kaust/klammer",
+        "Hall särk",
+        "Tumedad püksid",
+        "Valged sambakostüümid",
+        "Punase-valge triibuline müts",
+        "Pruun mantel",
+        "Valged ostukotid",
+        "Väike paberitükk",
+        "Riiulid taustal",
+        "Tooted riiulitel"
+      ],
+      "colorcodes": [
+        "#8C8C8C",
+        "#6F4630",
+        "#DD3333",
+        "#FFFFFF",
+        "#222222",
+        "#EFEFEF",
+        "#F0F0F0"
+      ],
+      "texts": [
+        "Yes, Leibaku village, Antsu's farm, the last house in the street..",
+        "Well, then! Do you have a sauna in your household?"
+      ],
+      "persons": [
+        "Müügimees/ametnik (hallis särgis)",
+        "Mehed/inimesed valgetes sambakostüümides",
+        "Mees punases mütsis ja pruunis mantlis"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on laiem kaader, mis näitab kolme tegelast ja tausta, samas kui teine ja kolmas pilt on lähivõtted keskmisest kostüümis tegelasest.",
+        "Teine ja kolmas pilt on fookusega ainult ühel kostüümis tegelasel, taust on neil udune, eriti kolmandal pildil.",
+        "Kolmandal pildil hoiab kostüümis tegelane väikest paberitükki suu juures, mis ei ole esimesel ega teisel pildil nähtav.",
+        "Piltide all on erinevad subtiitrid, mis viitavad vestluse edenemisele."
+      ],
+      "snr": "026",
+      "ajad": [
+        "143.720",
+        "165.880"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt kaubanduskeskuse või suure apteegi fuajees, kus toimub kliendiküsitlus või promotsiooniüritus. Keskel on mees, riietatud halli särki ja pükstesse (töövorm), kes vestleb kliendiga. Klient kannab pruuni mantlit ja punase-valget triibulist talvemütsi. Intervjueerija hoiab tahvlit ja pastapliiatsit ning esitab küsimusi, näiteks: \"Noh, kas teil saun on majapidamises?\" ja ütleb: \"Ja mured on murtud.\" Taustal seisavad kolm inimest ebatavalistes valgetes sammas- või torukostüümides, millel on näo jaoks väljalõiked. Ühes kostüümidest on naise nägu, teistes meeste näod. Klaasist vaheseinast paistab avar ja valgustatud apteek siltidega \"apteka\" ja \"Varsti avame!\", mille riiulid on täis tooteid. Stseeni arenedes kõnnib intervjueerija kliendi juurest eemale, näol rahulolev ilme, hoides endiselt tahvlit. Lõpuks on kaader keskendunud naeratavale intervjueerijale, kes poseerib, hoides käes tumepunast tahvlit kirjaga \"Bla pank\".",
+      "actions": [
+        "Intervjueerija küsib kliendilt küsimusi ja räägib temaga",
+        "Intervjueerija žestikuleerib pastapliiatsiga",
+        "Intervjueerija kirjutab tahvlile",
+        "Intervjueerija kõnnib kliendist eemale",
+        "Intervjueerija naeratab ja poseerib kaamerale",
+        "Klient kuulab ja suhtleb intervjueerijaga",
+        "Sammas-kostüümides inimesed seisavad paigal"
+      ],
+      "keywords": [
+        "Promotsioon",
+        "Küsitlus",
+        "Apteek",
+        "Klienditeenindus",
+        "Kostüümid",
+        "Turundus",
+        "Kaubanduskeskus",
+        "Siseruumid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Intervjueerija",
+        "Klient",
+        "Sammas-kostüümides inimesed",
+        "Halli värvi särk",
+        "Halli värvi püksid",
+        "Pruun mantel",
+        "Punase-valge triibuline talvemüts",
+        "Valged sammas-kostüümid",
+        "Tahvel (\"Bla pank\")",
+        "Pastapliiats",
+        "Promotsioonilaud/putka",
+        "Sülearvuti",
+        "Klaassein",
+        "Apteek",
+        "Ravimite riiulid",
+        "Ostukäru",
+        "Valgustus",
+        "Sildid"
+      ],
+      "colorcodes": [
+        "#707C82",
+        "#5F4432",
+        "#A72826",
+        "#FFFFFF",
+        "#F07F21",
+        "#C8C2BE",
+        "#6F151F"
+      ],
+      "texts": [
+        "Well, then! Do you have a sauna in your household?",
+        "And your worries are over.",
+        "apteka",
+        "Varsti avame!",
+        "Bla pank",
+        "Uued lahendused Sinu tervisele",
+        "Stanfield"
+      ],
+      "persons": [
+        "Intervjueerija (mees hallis särgis)",
+        "Klient (mees pruunis mantlis ja mütsis)",
+        "Naine sammas-kostüümis",
+        "Mehed sammas-kostüümides",
+        "Naine apteegis (tagaplaanil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil küsib intervjueerija kliendilt küsimust ja žestikuleerib; teisel pildil on ta kliendist eemaldumas rahuloleva ilmega; kolmandal pildil poseerib intervjueerija naeratades kaamerale, hoides tahvlit ning klient ja enamik sammas-kostüümidest on kaadrist väljas.",
+        "Sammas-kostüümides inimesed on esimesel ja teisel pildil selgemini nähtavad, kolmandal pildil on enamik neist kaadrist väljas või peaaegu nähtamatud.",
+        "Subtiitrite tekst muutub küsimusest avalduseks piltide vahel."
+      ],
+      "snr": "027",
+      "ajad": [
+        "165.880",
+        "195.280"
+      ]
+    }
+  ]
+}

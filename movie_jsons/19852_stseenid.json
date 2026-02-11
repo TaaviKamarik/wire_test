@@ -1,0 +1,4793 @@
+{
+  "film": [
+    "19852",
+    "19701",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Maakler I",
+    "163705c3094351dacb92cfef3c07ca9d8c4cdd36.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen toimub hämaras siseruumis, mis meenutab garaaži või töökoda, kus on betoonpõrand, millel on näha kulumisjälgi. Valgus on summutatud ja tekitab varjude mängu. Pildil on keskpunktis üks inimene, kes lamab kõhuli maas, kandes tumedaid riideid, mis meenutavad ülikonda või tumedat jopet ja pükse. Tema pea on kaetud erkrohelise kangaga, mis sarnaneb kapuutsi või kotiga. Ta käed on paigutatud keha kõrvale ja jalad on samuti sirgelt. Taustal on näha tööpindu, mis on ehitatud ilmselt puidust kaubaalustest, riiuleid ja seadmeid, mis on valguse puuduse tõttu ähmaselt nähtavad. Paremal pool on näha suur veoauto rehv ja tumedam metallist tööriistakast. Esimesel kaadril on ruum tühi, välja arvatud lamav inimene. Teisel kaadril ilmub stseeni teine inimene, kes on keskealine ja kannab pruuni jopet ja helesiniseid teksaseid. Ta astub maas lamava inimese poole. Kolmandal kaadril on see teine inimene seisma jäänud lamava inimese taha, vaadates talle ilmselt alla, tema kehahoiakust aimub uudishimu või mure. Stseenis valitseb pinge ja salapärasus.",
+      "actions": [
+        "Lamamine",
+        "Kõndimine",
+        "Seismine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Garaaž",
+        "Töökoda",
+        "Lamav inimene",
+        "Roheline kapuuts",
+        "Saladus",
+        "Pinge",
+        "Siseruum",
+        "Rehv",
+        "Tööriistakast",
+        "Betoonpõrand",
+        "Seisev inimene"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Lamav inimene",
+        "Roheline kapuuts/kott",
+        "Tumepunane jakk",
+        "Mustad püksid",
+        "Seisev inimene",
+        "Pruun jakk",
+        "Helesinised teksad",
+        "Veoauto rehv",
+        "Tööriistakast",
+        "Tööpind/laud (kaubaalustest)",
+        "Riiulid",
+        "Tööriistad/seadmed",
+        "Telliskivisein",
+        "Betoonpõrand"
+      ],
+      "colorcodes": [
+        "#609F3D",
+        "#212121",
+        "#5C544F",
+        "#6B4E32",
+        "#5E89B0",
+        "#9A9692",
+        "#8B7A6C"
+      ],
+      "texts": [],
+      "persons": [
+        "Lamav inimene",
+        "Seisev inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on ruum tühi, välja arvatud maas lamav inimene.",
+        "Teisel pildil ilmub stseeni teine inimene, kes on sisenemas kaadrisse paremalt ja kõnnib lamava inimese poole.",
+        "Kolmandal pildil on teine inimene peatunud maas lamava inimese taga ja vaatab talle alla."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "37.333"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt garaažis, pööningul või panipaigas, mida iseloomustavad lahtised puidust laetalad laes. Keskmes on kiilakas mees, kes kannab pruuni nahktagi ja selle all soonelist pikavarrukat särki. Ta hoiab oma parema kõrva ääres hõbedast nutitelefoni ja näib olevat süvenenud telefonikõnesse. Tema näoilme on tõsine ja mõtlik. Ta vaatab kõne ajal kergelt ringi. Vasakpoolses tagaplaanis on näha virn valgeid kaste, millel on punase kirjaga 'REINOL', ning laetalade küljes ripuvad mitmed köied. Üldine valgus on hämar, luues veidi sünge atmosfääri. Paremal on näha ka valgusti ja metalltoru.",
+      "actions": [
+        "Mees räägib telefoniga",
+        "Mees hoiab telefoni kõrva ääres",
+        "Mees keerab pead ja vaatab ringi"
+      ],
+      "keywords": [
+        "Siseruumid",
+        "Garaaž",
+        "Pööning",
+        "Panipaik",
+        "Mees",
+        "Kiilakas",
+        "Telefonikõne",
+        "Nahktagi",
+        "Puidust talad",
+        "Köied",
+        "Hämar valgus",
+        "Tõsine ilme"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Nutitelefon",
+        "Nahktagi",
+        "Sooniline särk",
+        "Puidust laetalad",
+        "Köied",
+        "Valged karbid",
+        "Valgusti",
+        "Metalltoru"
+      ],
+      "colorcodes": [
+        "#4E301D",
+        "#857467",
+        "#2F2E2F",
+        "#FFFFFF",
+        "#B41F1F",
+        "#C1C2C2",
+        "#6B4E32",
+        "#C6B19E"
+      ],
+      "texts": [
+        "REINOL"
+      ],
+      "persons": [
+        "Kiilakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe pea asend ja pilk muutuvad stseenis kergelt, viidates aktiivsele vestlusele või ümbruse jälgimisele.",
+        "Nutitelefoni asend kõrva ääres varieerub kergelt."
+      ],
+      "snr": "002",
+      "ajad": [
+        "37.333",
+        "57.417"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat siseruumi, mis meenutab tööstuslikku ladu või garaaži. Betoonpõrand on määrdunud ja sellel on näha selgelt piiritletud valgussõõr, mis valgustab stseeni keskpunkti. Keset põrandat lamab näoga allapoole või peaga varjatult inimene, kes kannab tumedat ülikonda (pintsak, särk, lips). Tema pea kohal on roheline kilekott, mis katab näo, vihjates kas vägivallale või teadvusetule seisundile. Taustal on näha suur pruun pappkast, millel on musta kirjaga märgistus 'MERED M,G, XL, 40'. Kasti lähedal on põrandal elektritrell koos mustade juhtmetega, mis rõhutab keskkonna tööstuslikku olemust. Stseenis valitseb sünge ja pingeline õhkkond. Kolmandal kaadril ilmub paremalt poolt kaadrisse suur tume vari või objekt, mis varjutab suure osa pildist ja osaliselt ka maas lamavat inimest, ning alumises servas ilmub ekraanile tekst.",
+      "actions": [
+        "Inimene lamab maas",
+        "Tume objekt või vari ilmub kaadrisse",
+        "Tekst ilmub ekraanile"
+      ],
+      "keywords": [
+        "Pime",
+        "Sünge",
+        "Ladu",
+        "Garaaž",
+        "Kilekott",
+        "Ülikond",
+        "Ohver",
+        "Elektritrell",
+        "Pappkast",
+        "Hoiatus",
+        "Kuritegu",
+        "Salapärane",
+        "Pingeline"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Roheline kilekott",
+        "Tume ülikond",
+        "Betoonpõrand",
+        "Valgussõõr",
+        "Pappkast",
+        "Elektritrell",
+        "Kaablid"
+      ],
+      "colorcodes": [
+        "#36322b",
+        "#7e5c3e",
+        "#4c8a4c",
+        "#2d2d2d",
+        "#9e7e5d",
+        "#1c1c1c"
+      ],
+      "texts": [
+        "Just do it!",
+        "MERED",
+        "M,G",
+        "XL, 40"
+      ],
+      "persons": [
+        "Üks inimene (peaga varjatult)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Teine pilt on esimesest kaadrist veidi sisse suumitud või nihutatud, kuid sisuline kompositsioon on sama.",
+        "Kolmandal pildil on kaadrisse ilmunud suur, tume ja fookusest väljas olev objekt või vari paremalt poolt, mis katab umbes poole ekraani ja varjab maas lamavat inimest.",
+        "Kolmandal pildil on ekraani alumisse serva ilmunud valge tekst 'Just do it!'."
+      ],
+      "snr": "003",
+      "ajad": [
+        "57.417",
+        "66.500"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub pimedas ja tolmuses siseruumis, mis meenutab pööningut või laoruumi. Ruumis on näha puidust sarikad ja laed, mille küljes ripuvad jämedad köieaasad. Keskel seisab kiilaspäine mees, kes on riietatud pruuni nahktagi ja halli särki. Ta hoiab paremas käes musta mobiiltelefoni kõrva ääres ja näib kellegagi rääkivat. Mehe ilme on tõsine või murelik. Taustal on virnas kaste ja riiuleid, mis annavad ruumile laohoone ilme. Valgus on suunatud peamiselt mehele, jättes tausta veidi varjudesse. Piltide all on mustal taustal valge subtiitririba, mis kuvab vestluse teksti.",
+      "actions": [
+        "Mees räägib telefoniga",
+        "Mees hoiab mobiiltelefoni kõrva ääres",
+        "Mees teeb vasaku käega žeste",
+        "Mees vaatab allapoole või ette"
+      ],
+      "keywords": [
+        "Pööning",
+        "Laoruum",
+        "Telefonikõne",
+        "Mees",
+        "Nahktagi",
+        "Köieaas",
+        "Puidust sarikad",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mobiiltelefon",
+        "Nahktagi",
+        "Köis",
+        "Puidust sarikad",
+        "Kastid",
+        "Riiulid",
+        "Valgusti (taustal)",
+        "Seinariiulid"
+      ],
+      "colorcodes": [
+        "#5C3D2B",
+        "#7C7C7C",
+        "#C8A28E",
+        "#573A2A",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "Just do it!",
+        "I have to go to a birthday party today"
+      ],
+      "persons": [
+        "Kiilaspäine mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehe suu veidi avatud, nagu ta räägiks, ja subtiitrid kuvavad teksti 'Just do it!'.",
+        "Teisel pildil on mehe suu suletud ja tema pilk on suunatud allapoole; subtiitrid puuduvad.",
+        "Kolmandal pildil on mehe vasak käsi kergelt tõstetud ja avatud, nagu ta teeks žesti, ning subtiitrid kuvavad teksti 'I have to go to a birthday party today'."
+      ],
+      "snr": "004",
+      "ajad": [
+        "66.500",
+        "77.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pimedat, arvatavasti tööstuslikku või laoruumi meenutavat sisekeskkonda, kus betoonpõrandal lamab mees ülikonnas, pea kaetud rohelise kilekotiga, mis viitab kinnisidutud või teadvusetule olekule. Põrandal on näha mustuse jälgi ja helkivaid valguslaike, millest üks moodustab ringikujulise koha mehe pea lähedal. Taustal asub suur pruun pappkast sildiga \"MERED\" ja suuruste tähistega (S, M, L, XL, XXL), samuti elektritrell koos juhtmega. Stseenis toimub dialoog, kus üks tegelane mainib, et peab sünnipäevale minema. Vastuseks kõlab irooniline \"Mis siis?\" ja seejärel ilmub pildi paremasse serva tumedana teise isiku jalg või keha, kes küsib, kas lamaja tuleks kaasa võtta. Üldine atmosfäär on sünge ja ähvardav.",
+      "actions": [
+        "Mees lamab põrandal",
+        "Dialoog toimub kahe isiku vahel",
+        "Teine isik ilmub kaadrisse",
+        "Kilekott katab mehe pea"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Sünge",
+        "Tööstusruum",
+        "Laoruum",
+        "Kinnisidumine",
+        "Teadvusetus",
+        "Ülikond",
+        "Kilekott",
+        "Betoonpõrand",
+        "Elektritrell",
+        "Pappkast",
+        "Dialoog",
+        "Ähvardav"
+      ],
+      "shot_type": "medium long shot",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Ülikond",
+        "Roheline kilekott",
+        "Betoonpõrand",
+        "Pappkast",
+        "Elektritrell",
+        "Juhe",
+        "Paberid/praht",
+        "Teise isiku jalg/kehaosa"
+      ],
+      "colorcodes": [
+        "#3A3831",
+        "#1F2228",
+        "#4A6E4A",
+        "#D0C6A0",
+        "#6E5C4A",
+        "#121214",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "I have to go to a birthday party today",
+        "So what?",
+        "Do you want to take him with you?",
+        "MERED",
+        "S M L XL XXL 60"
+      ],
+      "persons": [
+        "Mees maas",
+        "Teine isik (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader näitab stseeni kõige laiemalt ja esimese dialoogireaga.",
+        "Teine kaader on peaaegu identne esimesega, kuid sisaldab teist dialoogirida (\"So what?\"), mis viitab dialoogi jätkumisele.",
+        "Kolmandas kaadris ilmub pildi paremasse serva tume objekt (arvatavasti teise isiku jalg või keha), mis kinnitab teise osaleja kohalolekut ja esitab kolmanda dialoogirea. Valgustus ja objekti paigutus on kõigis kaadrites sarnane, erinevused on peamiselt subtiitrites ja teise isiku ilmumises."
+      ],
+      "snr": "005",
+      "ajad": [
+        "77.000",
+        "78.958"
+      ]
+    },
+    {
+      "explanation": "Kiilakas mees tumepruunis nahktagis räägib mobiiltelefoniga pimedas siseruumis. Stseen on lähivõttes, keskendudes mehele rinnust ülespoole. Taustal on näha puitkonstruktsioone, tõenäoliselt laetalasid ja rippuvaid köisi, mis annavad edasi tööstusliku või panipaiga tunde. Vasakul pool on virnas riiulid valgete karpidega. Esimene pilt kujutab meest, kes hoiab telefoni kõrva ääres ja räägib, tema näol on tõsine ja keskendunud ilme. Ekraani allosas on subtiiter, mis viitab dialoogile. Teisel pildil on mehe pilk muutunud mõtlikumaks ja ta on telefoni veidi alla lasknud, justkui reageerides kuuldud informatsioonile või pausitades vestluses. Üldine atmosfäär on sünge ja salapärane, valgustus on kunstlik ja hämar.",
+      "actions": [
+        "Räägib telefoniga",
+        "Hoiab telefoni kõrva ääres",
+        "Langetab telefoni",
+        "Vaatab ringi",
+        "Reageerib vestlusele"
+      ],
+      "keywords": [
+        "Kiilakas mees",
+        "Nahktagi",
+        "Mobiiltelefon",
+        "Siseruum",
+        "Pime",
+        "Laetalad",
+        "Köied",
+        "Salapärane",
+        "Dialoog",
+        "Panipaik",
+        "Tõsine ilme"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Mobiiltelefon",
+        "Nahktagi",
+        "Köied",
+        "Laetalad",
+        "Riiulid",
+        "Karbid"
+      ],
+      "colorcodes": [
+        "#4F382E",
+        "#2A2C31",
+        "#A0A0A0",
+        "#7D6C5D"
+      ],
+      "texts": [
+        "Do you want to take him with you?"
+      ],
+      "persons": [
+        "Kiilakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on näha subtiitrid \"Do you want to take him with you?\", mis teisel pildil puuduvad.",
+        "Mehe näoilme ja pilk on erinev: esimesel pildil räägib ta telefoniga, hoides seda kõrva ääres ja vaadates otse, samas kui teisel pildil on ta telefoni veidi langetanud ning vaatab pigem alla paremale, ilme on mõtlikum või reageerivam."
+      ],
+      "snr": "006",
+      "ajad": [
+        "78.958",
+        "83.125"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast pimedat öist maastikku, kus kesksel kohal on avatud uksega puidust garaaž või kuur. Hoone on värvitud tumeroheliseks ja selle sisemus on valgustatud soojatoonilise valgusega, paljastades riiuleid, hoiupunkte ja esemeid, mis viitavad töökojale või panipaigale. Vasakul on osaliselt näha tumedat autot, mille tagatuled põlevad punaselt ja mille esituli heidab ere valgusvihu hoone sisse. Inimfiguur liigub auto juurest garaaži suunas ja siseneb sellesse. Paremal pool pildil on näha piklikku puidust posti või struktuuri, mis peegeldab veidi valgust. Üldine atmosfäär on vaikne ja veidi salapärane, rõhutades tegevust valgustatud garaaži sees.",
+      "actions": [
+        "Inimene läheneb garaažile",
+        "Inimene siseneb garaaži",
+        "Inimene liigub garaaži sisemuses"
+      ],
+      "keywords": [
+        "Öö",
+        "Garaaž",
+        "Kuur",
+        "Auto",
+        "Pimedus",
+        "Valgus",
+        "Üksindus",
+        "Töö",
+        "Salapära",
+        "Maakoht"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puidust garaaž",
+        "Auto",
+        "Inimene",
+        "Riiulid",
+        "Hoiupunktid",
+        "Valgusallikas",
+        "Puidust post"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#2e464c",
+        "#6a0c0e",
+        "#ffcf8a",
+        "#fce0a7"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 75,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Inimese asukoht muutub kaadrite vahel, liikudes auto kõrvalt garaaži sisse ja edasi garaaži sügavusse."
+      ],
+      "snr": "007",
+      "ajad": [
+        "83.125",
+        "102.375"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset pimedal ööl välitingimustes, tõenäoliselt maapiirkonnas, garaaži või kuuri kõrval. Kesksel kohal on mees, kel on seljas tume jope ja jalas helesinised teksapüksid, kes tegeleb tumeda sõiduautoga. Alguses on mees näha auto esiosa juures kummardumas, auto esituled valgustavad maad ja heledat, ribilist garaažiust. Ta paistab midagi maast otsivat või uurivat. Seejärel nihkub fookus väga pimedale, punaselt valgustatud keskkonnale, kus on näha inimese (tõenäoliselt sama mehe) alakeha heledate jalanõudega, kes on kükitavas või istuvas asendis, ümbritsetud intensiivsest punasest särast, mis viitab auto tagatuledele või siseruumide punasele valgustusele. Lõpuks on mees vaadeldav auto tagaosast, seistes oma tumeda luukpäraga auto kõrval. Auto punased tagatuled ja keskmine pidurituli põlevad eredalt, näidates selgelt numbrimärki '248 BFN'. Taustal on näha garaaž oma rulluksega, mis samuti peegeldab veidi valgust. Mees paistab tegelema auto tagaosaga, võib-olla laadides või maha laadides midagi.",
+      "actions": [
+        "Maast otsimine või uurimine",
+        "Autoga tegelemine",
+        "Kükitamine või istumine",
+        "Esemete laadimine või maha laadimine"
+      ],
+      "keywords": [
+        "Öö",
+        "Auto",
+        "Garaaž",
+        "Mees",
+        "Pimedus",
+        "Valgus",
+        "Punane",
+        "Maapiirkond"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Sõiduauto",
+        "Garaaž",
+        "Kuur",
+        "Numbrimärk",
+        "Jope",
+        "Teksapüksid",
+        "Jalanõud"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#3e3c3d",
+        "#4a80b0",
+        "#ffffff",
+        "#ff0000",
+        "#b8b3b0"
+      ],
+      "texts": [
+        "248 BFN"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Valgustus muutub esitulede valgest tugevaks punaseks tagatulede särale",
+        "Mehe poos ja tegevus muutuvad maast otsimisest auto tagaosaga tegelemiseks ja salapäraseks kükitavaks asendiks punases valguses",
+        "Perspektiiv muutub auto esiküljelt ja küljelt tagaosale ja lähemalegi, abstraktsele vaatele punases valguses"
+      ],
+      "snr": "008",
+      "ajad": [
+        "102.375",
+        "110.167"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist sündmust tihedas metsas või võsastikus, kus domineerib pimedus ja varjud. Vasakult paistab intensiivne valgusallikas, mis valgustab stseeni keskosa. Esiplaanil vasakul on näha tumedat siluetti, mis viitab kas vaatlejale, autole või mõnele objektile, mis valgust varjab. Stseeni keskel on kaks inimfiguuri. Pikem ja heledanahalised inimene, kandes heledat (võimalik, et helesinist või rohekassinise varjundiga) särki, kannab või lohistab teist, lühemat inimest. Veetav isik on riietatud tumedasse ülikonda (tumedad püksid, tume pintsak), valgetesse kinnastesse ja silmatorkavatesse punastesse kingadesse. Tema pea on kaetud heleda (rohekas-halli) peakatte või maskiga ning ta paistab olevat elutu või teadvuseta. Figuurid liiguvad valgusallikast eemale, metsa sügavusse. Ümbrust katavad puud, põõsad ja maapind on kaetud lehtede või mullaga, mis lisab stseenile salapärase ja veidi hirmutava atmosfääri.",
+      "actions": [
+        "Kandmine",
+        "Lohistamine",
+        "Liikumine läbi metsa pimeduses"
+      ],
+      "keywords": [
+        "Öine mets",
+        "Pimedus",
+        "Varjud",
+        "Salapärane",
+        "Kriminaalne",
+        "Vägivaldne",
+        "Autotuled",
+        "Kostüüm",
+        "Elutu keha",
+        "Punased kingad",
+        "Valged kindad"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Põõsad",
+        "Maapind",
+        "Lehed",
+        "Auto (implied)",
+        "Tumedat värvi ülikond",
+        "Valged kindad",
+        "Punased kingad",
+        "Heledavärviline särk",
+        "Peakate/mask"
+      ],
+      "colorcodes": [
+        "#0C0B0C",
+        "#2F3D2F",
+        "#8B9889",
+        "#608E8B",
+        "#A91815",
+        "#E8E4E5"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest (üks vedaja, teine veetav)",
+        "Üks siluett (vaatleja/juht)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Teisel pildil on kesksed figuurid kaamerale lähemal ja seetõttu paremini detailidega näha kui esimesel pildil.",
+        "Esimesel pildil on stseen üldisem ja figuurid paistavad kaugemal."
+      ],
+      "snr": "009",
+      "ajad": [
+        "110.167",
+        "135.708"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pimedat metsa, kus üks inimene liigub läbi tiheda alusmetsa. Valgusvihk, mis tuleb paremalt poolt kaadrist välja, valgustab osaliselt inimest ja esiplaanil olevat taimestikku, samal ajal kui suurem osa metsast jääb varjatud pimedusse. Esiplaanil on näha mitu peenikest puutüve ja tihedat rohelist võsa, mis moodustab tee või raja, kus inimene sammub. Inimesest on näha tema alumine kehaosa, seljas heledam jakk või pluus ja sinised teksapüksid. Tema jalad on liikumises, mis viitab kõndimisele või ettevaatlikule sammumisele läbi ebaühtlase maastiku. Üldine atmosfäär on salapärane ja pingeline, tuues esile pimeduse ja isoleerituse tunde.",
+      "actions": [
+        "Inimene kõnnib või sammub läbi metsa",
+        "Inimese jalad on liikumises"
+      ],
+      "keywords": [
+        "Mets",
+        "Pimedus",
+        "Öö",
+        "Inimene",
+        "Kõndimine",
+        "Alusmets",
+        "Põõsad",
+        "Puud",
+        "Varjud",
+        "Salapärane",
+        "Pingeline",
+        "Isolatsioon"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Puu",
+        "Põõsas",
+        "Rohttaim",
+        "Metsamaa"
+      ],
+      "colorcodes": [
+        "#1b1b1b",
+        "#b69f8c",
+        "#58798e",
+        "#4b6a3f",
+        "#5f5f5f"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "summer",
+      "daytime": "night",
+      "differences": [
+        "Piltidel on näha inimese jalgade erinev asend, mis illustreerib tema liikumist või kõndimise järgmisi faase läbi metsa. Esimesel pildil on inimese parem jalg veidi ees, vasak taga, teisel pildil on vasak jalg ettepoole liikumas ja parem taga, vihjates pidevale sammumisele."
+      ],
+      "snr": "010",
+      "ajad": [
+        "135.708",
+        "147.500"
+      ]
+    },
+    {
+      "explanation": "Öine stseen tihedas metsas, kus esiplaanil on näha tume siluettkuju, kes jälgib sündmusi kaugemal. Kaugemal, eredalt valgustatud alal, toimetab teine inimene. See inimene on riietatud heledasse pruuni jakki või särki ja sinisesse püksipaari. Maapind on kaetud lehtede ja mullaga, ümbritsev mets on tihe puude ja alusmetsaga. Stseen on valgustatud tugeva kunstliku valgusallikaga, mis tekitab teravaid varje ja loob salapärase ning pingelise õhkkonna. Esiplaanil olev figuur on suures osas varjus, pakkudes vaatepunkti tegevusele.",
+      "actions": [
+        "Jälgimine (esimese plaani siluettkuju)",
+        "Kummardumine (teine inimene)",
+        "Midagi maast korjama või kaevama (teine inimene)",
+        "Püsti tõusmine (teine inimene)",
+        "Otse ette vaatamine (teine inimene)"
+      ],
+      "keywords": [
+        "Mets",
+        "öö",
+        "salapära",
+        "pinge",
+        "jälgimine",
+        "kaevamine",
+        "valgus",
+        "vari",
+        "tegevus",
+        "metsaalune"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "põõsad",
+        "lehed",
+        "muld",
+        "taskulamp/prožektor (valgusallikas)"
+      ],
+      "colorcodes": [
+        "#121410",
+        "#594c39",
+        "#346b82",
+        "#fcfcfc",
+        "#4a6e4a"
+      ],
+      "texts": [],
+      "persons": [
+        "Siluettkuju (esiplaanil)",
+        "Tegutsev inimene (tagaplaanil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Peamine erinevus piltide vahel on tagaplaanil tegutseva inimese kehahoiak ja suund, kuhu ta vaatab. Esimesel ja kolmandal pildil on ta kummardunud ja vaatab maha, justkui midagi maast korjates või kaevates. Teisel pildil on ta aga rohkem püsti tõusnud ja vaatab otse ettepoole, siluettkuju suunas või sellest mööda, suu kergelt avatud."
+      ],
+      "snr": "011",
+      "ajad": [
+        "147.500",
+        "151.583"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat öist metsa, kus eesplaanil on näha hõredat alusmetsa, noori puid ja tihedat pinnataimestikku. Keskel, valgustatud ala ja pimeda tausta piiril, seisab inimfiguur, kes on suuremas osas siluett. Isik kannab tumedat ülaosa ja heledaid pükse, mis meenutavad teksaseid. Figuur on aktiivses liikumises, sooritades pikliku esemega, mis näib olevat puuoks või ritv, korduvaid üle pea ulatuvaid löögi- või raiumisliigutusi maapinna suunas, vahepeal kummardudes. Eesplaanil olev taimestik on osaliselt valgustatud, andes detailsemaid varjundeid lehtedele ja okstele, samas kui sügavamal metsas valitseb peaaegu täielik pimedus, luues süngelt salapärase ja potentsiaalselt ähvardava atmosfääri.",
+      "actions": [
+        "sooritab esemega hoogsalt üle pea ulatuvaid lööke",
+        "kummardub maapinna kohale",
+        "teeb füüsilist tööd"
+      ],
+      "keywords": [
+        "öö",
+        "mets",
+        "pimedus",
+        "saladuslik",
+        "inimese siluett",
+        "raiumine",
+        "liikumine",
+        "metsik loodus",
+        "ohtlik",
+        "üksindus",
+        "ärevus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "inimene",
+        "puud",
+        "põõsad",
+        "taimestik",
+        "oks (või sarnane ese)",
+        "mets"
+      ],
+      "colorcodes": [
+        "#0d0d0d",
+        "#2e472e",
+        "#5c7a8f",
+        "#3b3b3b",
+        "#1a1a1a"
+      ],
+      "texts": [],
+      "persons": [
+        "üksik inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel ja kolmandal pildil hoiab inimene pikka eset pea kohal hoogu võtvas asendis, justkui valmistudes löögiks. Teisel pildil on inimene kummardunud, hoides eset maapinna lähedal, mis viitab kas löögi sooritamisele või millegi uurimisele maapinnal. See kujutab endast liikumistsüklit – hoogu võtmine, löögi sooritamine/uurimine ja uuesti hoogu võtmine."
+      ],
+      "snr": "012",
+      "ajad": [
+        "151.583",
+        "155.375"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset sügavas ja pimedas metsas öisel ajal. Esiplaanil on näha tumedas siluetis inimfiguur, kes on seljaga vaataja poole ning suures osas varjus, peaaegu nähtamatu. Tema ees, stseeni keskel, liigub ja seejärel seisatab teine meesterahvas. Ta kannab pruuni nahktagi, heledat pluusi, helesiniseid teksaseid ja tumedaid saapaid. Mees hoiab käes labidat. Esimeses hetkes sammub ta esiplaanil oleva figuuri suunas, labida vars ülespoole suunatud, pakkudes pingelist atmosfääri. Seejärel jääb ta seisma, pöörates ennast rohkem esiplaanil oleva figuuri poole, labida tera toetub nüüd maapinnale. Tugev valgusallikas (tõenäoliselt taskulamp, mida üks tegelastest hoiab) valgustab keskel seisvat meest ja tema vahetut ümbrust, luues sügavaid varje ja jättes suurema osa metsast pimedusse. Stseeni üle ilmub hiljem valge, sakilise kirjaga tiitelkaart tekstiga 'MAAKLER'. Üldmulje on salapärane, ehk isegi ähvardav ja sünge, mida võimendab pimedus ja labida olemasolu.",
+      "actions": [
+        "Kõndimine",
+        "Seisatamine",
+        "Labida hoidmine",
+        "Pööramine"
+      ],
+      "keywords": [
+        "Öö",
+        "Mets",
+        "Pimedus",
+        "Labidas",
+        "Mees",
+        "Vari",
+        "Salapärane",
+        "Ohtlik",
+        "Kohtumine",
+        "Tiitelkaart",
+        "Horror"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Põõsad",
+        "Mullane maapind",
+        "Labidas",
+        "Jakk",
+        "Teksad"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#6E462D",
+        "#A49E8A",
+        "#6F8CB5",
+        "#364426",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "MAAKLER"
+      ],
+      "persons": [
+        "Kaks inimest (üks siluetina, teine mees)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe asend ja suund muutuvad esimese ja teise kaadri vahel – ta kõnnib ja seejärel seisab paigal.",
+        "Labida asend muutub: esimeses kaadris on vars ülespoole, teises kaadris on tera vastu maad.",
+        "Kolmandal kaadril on stseenile lisatud suur valge tiiteltekst 'MAAKLER'."
+      ],
+      "snr": "013",
+      "ajad": [
+        "155.375",
+        "158.167"
+      ]
+    },
+    {
+      "explanation": "Stseen algab tiitlikaardiga, kus keskel on valge, kareda ja käsitsi kirjutatud stiilis tekst \"MAAKLER\". Esimesel pildil on teksti taga näha öine, halvasti valgustatud metsaala. Paremal pool on aimata taskulambi või sarnase valgusallika kiir, mis valgustab ebamääraselt puid ja lehestikku. Vasakul on näha tume siluett, mis võiks olla inimene või objekt. Teisel ja kolmandal pildil kaob metsa taust järk-järgult ja asendub ühtlase musta taustaga, samal ajal kui tekst \"MAAKLER\" jääb keskele selgelt nähtavaks. Üleminek on sujuv, jättes mulje fookuse nihkumisest või tausta tumenemisest sügavalt pimedaks.",
+      "actions": [
+        "Teksti kuvamine",
+        "Tausta tumenemine",
+        "Vaate teravustamine tekstile"
+      ],
+      "keywords": [
+        "Tiitlikaart",
+        "Pealkiri",
+        "Maakler",
+        "Pimedus",
+        "Mets",
+        "Öö",
+        "Valguskiir",
+        "Horror-stiil",
+        "Käekiri",
+        "Üleminek",
+        "Salapärane"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Tekst \"MAAKLER\"",
+        "Puud",
+        "Lehestik",
+        "Taskulambi valgus",
+        "Inimese siluett"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#262E25",
+        "#2B1D1D"
+      ],
+      "texts": [
+        "MAAKLER"
+      ],
+      "persons": [
+        "Inimese siluett"
+      ],
+      "imagetype": "effect",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt näitab teksti \"MAAKLER\" öise metsa taustal, kus on näha puid ja valguskiirt ning aimatavat siluetti.",
+        "Teisel pildil on taust osaliselt tumenenud, metsa detailid on vähem märgatavad.",
+        "Kolmandal pildil on taust täielikult must, välja arvatud valge tekst \"MAAKLER\", mis on nüüd ainus selgelt nähtav element.",
+        "See demonstreerib sujuvat visuaalset üleminekut detailsest taustast ühtlasele mustale taustale."
+      ],
+      "snr": "014",
+      "ajad": [
+        "158.167",
+        "165.417"
+      ]
+    },
+    {
+      "explanation": "Stseen algab sügaval mustal taustal, kus valges, kriimulise tekstuuriga ja käsitsi kirjutatud stiilis on kirjutatud pealkiri \"MAAKLER\". Seejärel ilmub pealkirja alla väiksemas kirjas alapealkiri \"ESIMENE OSA\", säilitades sama stiili ja värvi. Järgnevalt läheb pilt sujuvalt üle äärmiselt tumedaks visuaaliks, mis on peaaegu täielikult must. Üksikud väga nõrgad peegeldused või hägused kontuurid viitavad siseruumile, mis on kas valgustatud minimaalselt või pildistatud peaaegu täielikus pimeduses. Täpsemad detailid pole eristatavad, andes edasi salapärase ja sünge meeleolu.",
+      "actions": [
+        "Teksti kuvamine mustal taustal",
+        "Alapealkirja lisamine",
+        "Üleminek äärmiselt pimedale visuaalile"
+      ],
+      "keywords": [
+        "Tiitlikaart",
+        "Pealkiri",
+        "Alapealkiri",
+        "Pimedus",
+        "Müstika",
+        "Must taust",
+        "Valge tekst",
+        "Filmi algus"
+      ],
+      "shot_type": "not clear",
+      "placement": "indoor",
+      "objects": [
+        "Tekst",
+        "Võimalikud ruumi kontuurid või peegeldused"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "MAAKLER",
+        "ESIMENE OSA"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": 95,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil lisandub alapealkiri \"ESIMENE OSA\"",
+        "Kolmandal pildil asendub tekst visuaalse, peaaegu täiesti pimeda kaadriga"
+      ],
+      "snr": "015",
+      "ajad": [
+        "165.417",
+        "166.542"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist välisvaadet, kus esiplaanil on märg asfalttee, millel peegelduvad tagaplaanil asuva hoone tuled. Alguses on pilt väga pime ja hägune, andes edasi salapärase või ettevalmistava meeleolu. Seejärel muutub stseen heledamaks ja teravamaks, paljastades selgelt hoone fassaadi ja selle ees seisvad inimesed. Hoone on modernistliku arhitektuuriga, suurte akendega, mis lasevad välja sooja interjööri valgust. Hoone ees on taimekastid rohelusega ja punased tünnid, millel on kiri 'PÖÖ'. Maapinnal on märgade plekkide ja lompide tagajärjel peegeldused, mis loovad sügavust ja valguse mängu. Vasakpoolse sissepääsu kõrval on näha plakateid. Stseenis on näha vähemalt kolme täiskasvanud inimest, kes vestlevad või ootavad hoone sissepääsu juures. Üks neist kannab heledat jopet ja siniseid teksaseid, teised tumedamaid riideid. Üle hoone alumise osa kulgeb siniste ja kollaste triipudega piire. Üldine atmosfäär on vaikne ja jahe, vihjates jahedamale aastaajale.",
+      "actions": [
+        "Inimesed seisavad",
+        "Vestlevad (eeldatavalt)",
+        "Ootavad hoone ees"
+      ],
+      "keywords": [
+        "Öö",
+        "Märg tee",
+        "Peegeldused",
+        "Hoone",
+        "Inimesed",
+        "Väljas",
+        "Baar",
+        "Pime",
+        "Valge",
+        "Lomp",
+        "Linnaelu",
+        "Kogunemine",
+        "Jahe",
+        "Fookuse muutus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Märg asfalt",
+        "Lomp",
+        "Hoone",
+        "Aknad",
+        "Uks",
+        "Taimed",
+        "Taimekastid",
+        "Punased tünnid",
+        "Tool (aknast paistev)",
+        "Plakatid",
+        "Sinine triip",
+        "Kollane triip"
+      ],
+      "colorcodes": [
+        "#212121",
+        "#C8222A",
+        "#E6AD4E",
+        "#3E74C1",
+        "#F1E055",
+        "#4A6F3F"
+      ],
+      "texts": [
+        "PÖÖ"
+      ],
+      "persons": [
+        "Kolm inimest",
+        "Täiskasvanud"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "autumn",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on märgatavalt tumedam, hägusem ja fookusest väljas, samas kui teine pilt on heledam, teravam ja kõik detailid (nagu inimesed ja hoone) on selgelt nähtavad ja fookuses. Valgustus on teises pildis intensiivsem ja stseen tervikuna on paremini eksponeeritud."
+      ],
+      "snr": "016",
+      "ajad": [
+        "166.542",
+        "170.708"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab baari sisekujundust sumedas õhtuses või öises valguses, kus fookuses on üksik mees ja tema ümbrus. Mees on kiilakas, toetab oma pead käele ning vaatab paremale mõtliku või veidi igavleva ilmega. Ta on riietatud tumedatesse toonidesse, tõenäoliselt tumedasse jakki. Mehe ees baariletil on näha klaas tumeda joogiga, milles on marineeritud kurk või oliiv ja kokteiltikk. Laual on ka teisi tühje klaase ja roheline pakend, mis sisaldab ilmselt suupisteid. Taust on udune, paljastades baaririiulid pudelite ja lampidega, mis loovad baari õhkkonna. Üldine valgus on pehme, kunstlik ja intiimne, rõhutades stseeni melanhoolset või rahulikku meeleolu.",
+      "actions": [
+        "Istumine",
+        "Pea käele toetamine",
+        "Mõtisklemine",
+        "Igavlemine"
+      ],
+      "keywords": [
+        "Baar",
+        "Mees",
+        "Kiilakas",
+        "Jook",
+        "Kokteil",
+        "Mõtlik",
+        "Sume",
+        "Siseruum",
+        "Öine",
+        "Melanhoolia"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Klaas",
+        "Tume vedelik",
+        "Marineeritud kurk",
+        "Oliiv",
+        "Kokteiltikk",
+        "Baarilett",
+        "Pudelid",
+        "Suupisted",
+        "Lamp"
+      ],
+      "colorcodes": [
+        "#2E2A27",
+        "#1F1B1B",
+        "#D0AF85",
+        "#DBBDAC",
+        "#85A376",
+        "#BC646F"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader keskendub lähivõttes baariletil olevale joogiklaasile ja suupistetele.",
+        "Teine kaader on udune ja näitab mehe profiili (lõug, õlg), andes aimu tema kohalolekust.",
+        "Kolmas kaader on selge lähivõte mehe näost ja peast, tuues esile tema ilme ja kiilaka pea, samal ajal kui taust jääb uduselt baari sisekujunduseks.",
+        "Kaadrite fookus nihkub esemetelt (joogid) inimesele (mehe nägu ja emotsioonid)."
+      ],
+      "snr": "017",
+      "ajad": [
+        "170.708",
+        "178.000"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset hämaras ja hubases baaris, kus õhkkonda loob rustikaalne telliskivisein ja soojad valgustoonid. Vasakul, seljaga vaataja poole, istub kiilaspealine mees, seljas pruun nahktagi, süvenenud leti taga toimuvasse. Tema ees letil on klaas. Leti taga, riiulite taustal, tegutseb baarmen, noor mees mustas särgis. Baarmen liigutab ja korrastab klaase ühel riiulil, pöörates seejärel kehaga leti poole ja vaadates allapoole, justkui valmistudes klienti teenindama või oma letitöödega edasi minema. Baarilett on rikkalikult sisustatud: sellel asub eredalt helendav roosa neoonflamingo märk, elegantne roheline karp, klaas oliividega ning kauss värskete tsitrusviljadega, nagu laimid ja sidrunid. Tagaseinas on näha mitu riiulit täis erinevaid klaase ja pudeleid, mis annavad edasi baari hõngu.",
+      "actions": [
+        "Istumine (mees)",
+        "Klaaside korrastamine/asetamine (baarmen)",
+        "Pööramine (baarmen)",
+        "Vaatamine (baarmen)"
+      ],
+      "keywords": [
+        "Baar",
+        "Hämarus",
+        "Telliskivisein",
+        "Neoonflamingo",
+        "Nahktagi",
+        "Baarmen",
+        "Klaasid",
+        "Lets",
+        "Teenindus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Baarilett",
+        "Klaasid (veini-, kokteili-, pitsklaasid)",
+        "Pudelid",
+        "Neoonmärgi flamingo kujutis",
+        "Roheline karp",
+        "Oliivid klaasis",
+        "Tsitrusviljad (laimid, sidrunid)",
+        "Telliskivisein",
+        "Riiulid"
+      ],
+      "colorcodes": [
+        "#593A24",
+        "#7A4E3F",
+        "#1A1A1A",
+        "#FF0099",
+        "#D0D0D0"
+      ],
+      "texts": [],
+      "persons": [
+        "Kiilaspealine mees (klient)",
+        "Noor mees (baarmen)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Baarmeni asend ja tegevus muutub kaadrite vahel: esimesel pildil on ta fookusest väljas ja liigub paremale, teisel pildil on ta selgelt näha klaase riiulil korrastamas ja kolmandal pildil on ta pööranud näoga leti poole, vaadates allapoole.",
+        "Baarmeni fookus muutub: esimesel pildil on ta udune, samas kui teisel ja kolmandal pildil on ta teravaks seatud."
+      ],
+      "snr": "018",
+      "ajad": [
+        "178.000",
+        "187.750"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub kiilaspäisele heleda nahaga mehele, kes kannab pruuni jakki. Tema vasakul käel on näha tumedast, arvatavasti kootud kangast käise detail. Mees istub siseruumis, tõenäoliselt baaris või sarnases kohas, toetades alguses pead vasakule käele või küünarvarrele, mis annab talle mõtliku, veidi väsinud või melanhoolse ilme. Tema silmad on suunatud allapoole või eemale. Taust on hämaralt valgustatud, näha on tumepunane kardin ja tema paremal pool reas mitu pudelit erinevate värviliste etikettidega, millest mõned on roosaka tooniga. Taga paremal on ka dekoratiivne, võimalik, et valgustatud objekt. Hiljem stseenis muudab mees oma kehahoiakut, tõstes pead ja pöörates pilku oma paremale küljele (vaataja vasakule), mis viitab sellele, et ta on midagi või kedagi kaamerast väljaspool märganud või reageerib talle.",
+      "actions": [
+        "Mees istub",
+        "Mees toetab pead käele",
+        "Mees vaatab allapoole või eemale",
+        "Mees tõstab pead",
+        "Mees pöörab pilku paremale (vaataja vasakule)"
+      ],
+      "keywords": [
+        "Mõtlik",
+        "Mees",
+        "Baar",
+        "Ootamine",
+        "Mõtisklus",
+        "Reaktsioon",
+        "Vestlus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Pruun jakk",
+        "Tumedast riidest käise detail",
+        "Tumedapunane kardin",
+        "Pudelid",
+        "Dekoratiivne objekt"
+      ],
+      "colorcodes": [
+        "#E6D4BF",
+        "#6D4C41",
+        "#34313B",
+        "#611D2B",
+        "#F1A3A3"
+      ],
+      "texts": [
+        "Mis toimub? Ootad tüdrukut?"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mees muudab oma peahoidu ja pilku, tõstes pea ja vaadates esialgsest mõtlikust asendist paremale (vaataja vasakule).",
+        "Stseeni viimases osas ilmub ekraanile eestikeelne subtiiter: 'Mis toimub? Ootad tüdrukut?'"
+      ],
+      "snr": "019",
+      "ajad": [
+        "187.750",
+        "189.583"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest baaris. Esiplaanil paremal on noor mees, arvatavasti baarman, mustas särgis, kes räägib kliendiga. Tema pilk on suunatud kliendi poole, näoilme on tõsine ja tähelepanelik. Baarman seisab baarileti taga. Letil on näha kaks jooki, üks neist kokteil oliividega, ning väiksem rohelise paberiga ja kuldse paelaga kinkekarp. Vasakul istub seljaga vaataja poole vanem, kiilakas mees pruunis nahktagis, kes on baariklient. Tema selg on vaataja poole ja ta kuulab baarmani. Ta istub baaritoolil leti ääres. Tagaplaaniks on telliskivisein, mille ees on metallist riiulid klaaside ja pudelitega. Ülemistel riiulitel on erinevad alkoholipudelid ja joogiklaasid. Riiulite all on telliskivisein. Stseen on üldiselt tumeda ja hubase valgusega, mis loob õhtuse või öise baari atmosfääri. Paremal leti ääres on ka kauss puuviljadega, tõenäoliselt laimid ja apelsinid, mida kasutatakse kokteilides.",
+      "actions": [
+        "Baarman räägib kliendiga",
+        "Klient kuulab baarmani",
+        "Mõlemad mehed on baaris",
+        "Klient istub baaritoolil",
+        "Baarman seisab baari taga"
+      ],
+      "keywords": [
+        "Baar",
+        "Vestlus",
+        "Klienditeenindus",
+        "Jook",
+        "Ööelu",
+        "Siseruum",
+        "Teenindaja",
+        "Klient",
+        "Hubane",
+        "Telliskivi"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Baarilett",
+        "Klaasid",
+        "Pudelid",
+        "Telliskivisein",
+        "Jook",
+        "Kokteil",
+        "Kinkekarp",
+        "Puuviljad (laimid, apelsinid)",
+        "Must särk",
+        "Pruun nahktagi",
+        "Oliivid",
+        "Baarman",
+        "Klient",
+        "Baaritool"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#5C3D2E",
+        "#8B4513",
+        "#CCCCCC",
+        "#D4AF37",
+        "#2E2D2B"
+      ],
+      "texts": [
+        "Mis toimub? Ootad tüdrukut?"
+      ],
+      "persons": [
+        "Baarman (mees)",
+        "Klient (mees)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [],
+      "snr": "020",
+      "ajad": [
+        "189.583",
+        "194.917"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub kiilakale, heleda nahaga mehele, kes on näha profiilis, parem külg vaataja poole. Ta kannab tumepruuni nahktagi, mille all on näha tumedat kootud kangast. Mees toetab oma vasakut kätt lõua ja põse piirkonnale, olles sügavatesse mõtetesse vajunud või väsinud. Tema näoilme muutub piltide vahel: alguses on ta mõtlik, silmad ettepoole suunatud, seejärel sulgeb ta silmad, viitades väsimusele või süvenemisele, ning lõpuks avab silmad ja suu veidi, justkui rääkides või reageerides vestlusele. Taust on hämar ja summutatud toonides, vasakul on näha tumepunaseid või bordoovärvi kardinaid või seinakatteid. Paremal pool on baari- või letilaadne pind, kus reas on mitu värvilist pudelit, peamiselt roosades ja oranžides toonides. Samuti on taustal näha dekoratiivset lampi, mis annab sooja, kollaka valguse. Üldine atmosfäär on intiimne ja mõtisklev.",
+      "actions": [
+        "Toetub käele",
+        "Mõtiskleb",
+        "Sulgeb silmad",
+        "Avab silmad",
+        "Räägib",
+        "Reageerib"
+      ],
+      "keywords": [
+        "Mees",
+        "Baar",
+        "Mõtlik",
+        "Väsinud",
+        "Vestlus",
+        "Nahktagi",
+        "Pudelid",
+        "Sisekujundus",
+        "Hämar",
+        "Profiil"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Nahktagi",
+        "Pudelid",
+        "Kardinad",
+        "Lamp",
+        "Baarilett"
+      ],
+      "colorcodes": [
+        "#52372d",
+        "#4e1a26",
+        "#d88998",
+        "#e6b26c",
+        "#cc9955",
+        "#e0b490",
+        "#2b1d1e"
+      ],
+      "texts": [
+        "Aa, sünnipäev?"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses kaadris vaatab mees ette ja tema näoilme on mõtlik või veidi kurb.",
+        "Teises kaadris on mehe silmad suletud, pea toetub käele, mis annab märku väsimusest või süvenemisest.",
+        "Kolmandas kaadris on mehe silmad avatud ja suu veidi lahti, justkui ta räägiks. Samuti on selles kaadris näha eestikeelsed subtiitrid 'Aa, sünnipäev?'."
+      ],
+      "snr": "021",
+      "ajad": [
+        "194.917",
+        "196.583"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumis, ilmselt baaris või hämaras toas, kus on tume burgundiapunane kardinatega kaetud taust. Kaadris on lähivaates noorem mees kiilaspea ja lühikese habemega, näoga vasakule ja allapoole suunatud. Ta kannab pruuni jaki või vesti. Tema pilk on suunatud millegi poole, mis asub temast allpool või käes. Tema paremas käes on näha tume, ristkülikukujuline ese, mis meenutab kas mobiiltelefoni või kaardipakki, mida ta parajasti kahe käega manipuleerib. Taustal paremal on näha rida klaaspudeleid, mis sisaldavad roosakat vedelikku, tõenäoliselt jooke. Veidi kaugemal paremal on retrohõnguline, ruudukujuline valgusallikas, mis kiirgab sooja kollakat valgust ja mille sisemuses on näha valgustatud kujundit. Vasakul tagaplaanil on uduselt näha roheline toataim. Üldine atmosfäär on intiimne ja sume, viidates õhtusele või öisele ajale.",
+      "actions": [
+        "Mees vaatab allapoole",
+        "Mees haarab või manipuleerib tumeda esemega (mobiiltelefon/kaardipakk) kahe käega",
+        "Mees istub või toetub, tema käed on enamasti kaadrist väljas"
+      ],
+      "keywords": [
+        "baar",
+        "mees",
+        "kiilaspea",
+        "hämardatud valgus",
+        "pudelid",
+        "jook",
+        "mobiiltelefon",
+        "kaardid",
+        "siseruum",
+        "retrovalgusti",
+        "kardinad"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "klaaspudelid",
+        "valgusallikas",
+        "kardinad",
+        "toataim",
+        "mobiiltelefon",
+        "kaardid",
+        "pruun jakk/vest",
+        "tassid/klaasid"
+      ],
+      "colorcodes": [
+        "#C1997A",
+        "#5C0F1A",
+        "#613C1C",
+        "#E8A8B4",
+        "#F0C988",
+        "#0E0C16"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimeses kaadris on mehe käed kaadrist väljas või puhkeasendis, ta vaatab allapoole.",
+        "Teises kaadris on mees aktiivselt tegev, manipuleerides kahe käega tumeda esemega (näib olevat telefon või kaardipakk).",
+        "Kolmandas kaadris on mees taas vaatamas allapoole, tema käed on jälle enamasti kaadrist väljas ja tema kehahoiak on pisut muutunud, pakkudes veidi teistsugust nurka ja fookust tema peale."
+      ],
+      "snr": "023",
+      "ajad": [
+        "202.083",
+        "206.083"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivõttes näha käed, mis kasutavad kuldset/roosa kuldset nutitelefoni, mis asetseb puitlaual. Vasak käsi hoiab telefoni, samal ajal kui parem käsi, mille varrukaosa on kootud, ekraaniga suhtleb. Esialgu keritakse telefoni ekraanil sõnumirakenduse või kontaktide loendit, kus on näha nimed nagu Gergei, Annalise Kalamees ja Artur, samuti üks telefoninumber (+372 505 2477). Seejärel valitakse kontakt \"Artur\" ja alustatakse telefonikõnet. Helistamise ekraanil kuvatakse Arturi nimi, mobiiltelefoni number (+372 505 5573) ja profiilipilt. Kogu stseeni vältel on telefoni ekraanil näha silmatorkav roosakaslilla vertikaalne joon, mis viitab kas ekraani defektile või on osa visuaalsest efektist. Laual on lisaks telefonile kaks shotiklaasi, millest ühes on läbipaistev vedelik. Stseen annab aimu seltskondlikust koosviibimisest, võimalik, et baaris või kodus.",
+      "actions": [
+        "Nutitelefoni kerimine",
+        "Telefonikõne algatamine",
+        "Telefoni käes hoidmine",
+        "Telefoni liigutamine"
+      ],
+      "keywords": [
+        "Nutitelefon",
+        "Helistamine",
+        "Sõnumirakendus",
+        "Kontaktid",
+        "Käed",
+        "Puitlaud",
+        "Shotiklaasid",
+        "Jook",
+        "Ekraaniviga",
+        "Lilla joon",
+        "Suhtlus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Nutitelefon (kuldne/roosa kuldne)",
+        "Käed",
+        "Shotiklaasid",
+        "Läbipaistev vedelik",
+        "Puidust laud",
+        "Tumedast materjalist käevõru",
+        "Kootud tumedast materjalist varrukas"
+      ],
+      "colorcodes": [
+        "#B79F78",
+        "#754A2D",
+        "#1E2024",
+        "#4CAF50",
+        "#D843D8",
+        "#C0C0C0",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Search",
+        "RECENT",
+        "Gergei",
+        "Mobile",
+        "Annalise Kalamees",
+        "Artur",
+        "+372 505 2477",
+        "YESTERDAY",
+        "Dialing",
+        "Speaker",
+        "Keypad",
+        "Bluetooth",
+        "Mute",
+        "Call",
+        "09:06",
+        "07:57",
+        "09:20",
+        "19:57",
+        "+372 505 5573"
+      ],
+      "persons": [
+        "Kaks isikut (käed nähtavad)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 10,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Telefoni ekraani sisu muutub sõnumirakenduse/kontaktide loendist helistamise ekraaniks, kus kuvatakse Arturi nimi ja number.",
+        "Viimases kaadris on telefon veidi liigutatud või tõstetud, paljastades telefoni alaserva."
+      ],
+      "snr": "024",
+      "ajad": [
+        "206.083",
+        "208.542"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha kiilaspäine või väga lühikeste heledate juustega mees, kes istub baaris või mõnes muus hämaras siseruumis ja räägib telefoniga. Ta kannab pruuni jakki või mantlit ning tema paremas käes on hele nutitelefon. Vestluse käigus on ta algul suu kergelt avatud, justkui rääkides, seejärel toetab ta oma pea telefoni peale, kuulates hoolikalt, ja lõpuks vaatab otse ette mõtliku ilmega, hoides telefoni endiselt kõrva ääres. Taustal on näha tumelilla või burgundiapunane kardin, valgustatud retrostiilis lamp hõõgniidiga ja baariletil rivis mitu pudelit, millest mõnes on roosakas vedelik. Üldine atmosfäär on intiimne ja sume, viitades õhtusele või öisele ajale.",
+      "actions": [
+        "Telefoniga rääkimine",
+        "Telefoni kõrva ääres hoidmine",
+        "Pea toetamine telefonile",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Mees",
+        "Telefonikõne",
+        "Baar",
+        "Siseruum",
+        "Mõtlikkus",
+        "Jook",
+        "Hämar",
+        "Portree"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Nutitelefon",
+        "Pruun jakk",
+        "Tumedad varrukad",
+        "Kardin",
+        "Lamp",
+        "Pudelid",
+        "Baarilett"
+      ],
+      "colorcodes": [
+        "#4A211E",
+        "#B3A286",
+        "#3E0D19",
+        "#F3E0C0",
+        "#E76C70",
+        "#201A1C",
+        "#341416"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on mees pööratud profiilis paremale, tema suu on kergelt avatud ja telefon on käes allpool, mitte kõrva ääres.",
+        "Teisel pildil toetab mees oma pea telefonile, vaadates allapoole, ja hoiab telefoni kõrva ääres.",
+        "Kolmandal pildil on mehe nägu suunatud otse ette või kergelt vaataja poole, ilme on neutraalsem või mõtlikum ning telefon on endiselt kõrva ääres."
+      ],
+      "snr": "025",
+      "ajad": [
+        "208.542",
+        "211.750"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset hubases baaris, kus kiilakas, pruuni nahktagi kandev mees istub seljaga kaamera poole baarileti ääres. Tema küünarnukid toetuvad letile ja ta vaatab allapoole, tehes pausi või mõtiskledes. Baarileti taga on klaasriiulid, mis on täidetud erinevate alkoholipudelite ja hoolikalt paigutatud klaasidega, sealhulgas veiniklaasid ja pokaalid. Leti all olevat seina katab telliskivimüür, mida kaunistab ere roosa neoonflamingo märk. Letil on näha marineeritud kurkide purk, roheline karp ja hunnik tsitrusvilju nagu apelsinid ja laimid. Stseeni arenedes astub kaadrisse noorem baarmen, seljas tume särk, lähenedes letile paremalt poolt. Ta hakkab leti taga toimetama, vaadates letil olevaid esemeid, pakkudes teenindust või valmistudes jooke valmistama.",
+      "actions": [
+        "Baaris istumine",
+        "Küünarnukkidega letile toetumine",
+        "Letile allavaatamine",
+        "Baarmen läheneb letile",
+        "Baarmen toimetab letil",
+        "Baarmen seisab leti taga"
+      ],
+      "keywords": [
+        "Baar",
+        "Baarmen",
+        "Klient",
+        "Nahktagi",
+        "Neoonmärk",
+        "Alkoholipudelid",
+        "Klaasid",
+        "Baarilett",
+        "Tsitrusviljad",
+        "Rahulik õhkkond",
+        "Teenindus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Baarmen",
+        "Pruun nahktagi",
+        "Baarilett",
+        "Klaasriiulid",
+        "Alkoholipudelid",
+        "Veiniklaasid",
+        "Joogiklaasid",
+        "Telliskivisein",
+        "Roosa neoonflamingo märk",
+        "Marineeritud kurgid (klaasis)",
+        "Roheline karp",
+        "Apelsinid",
+        "Laimid",
+        "Must särk"
+      ],
+      "colorcodes": [
+        "#4A2D1F",
+        "#FF0099",
+        "#6B291D",
+        "#E5E0D7",
+        "#4C6F32",
+        "#F2A400",
+        "#1C1C1E"
+      ],
+      "texts": [
+        "MARTINI"
+      ],
+      "persons": [
+        "Kiilakas klient",
+        "Baarmen"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on baarmen kaadrist väljas ja ainult kiilakas klient istub baarileti ääres.",
+        "Teisel pildil ilmub baarmen kaadrisse paremalt poolt, liikudes baari leti poole.",
+        "Kolmandal pildil on baarmen täielikult kaadris, seistes leti taga ja tegeledes letil olevate esemetega, samal ajal kui klient püsib samas asendis."
+      ],
+      "snr": "026",
+      "ajad": [
+        "211.750",
+        "220.417"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähiplaanis kiilaspealist meest pruunis kapuutsiga särgis või jakis, kes istub siseruumis, mis sarnaneb baarile või salongile. Ta vaatab pilguga paremale (vaataja vasakule), tema näoilme muutub tõsisest kergeks muigeks või naeratuseks. Ta tundub olevat millegi üle mõtisklenud või kellegi poole pöörduv. Tema parem käsi liigub ettepoole, justkui sirutaks ta end millegi järele baariletil. Tagaplaanil on näha tumepunaseid kardinaid, valgustatud retrohõngulist lambi kujulist valgusallikat ja ridamisi pudeldatud jooke, millel on roosad etiketid. Üldine atmosfäär on hämar ja sume, viitades õhtusele ajale.",
+      "actions": [
+        "Mees vaatab paremale",
+        "Mees pöörab pead ja muigab",
+        "Mees sirutab parema käe millegi järele baariletil"
+      ],
+      "keywords": [
+        "kiilakas mees",
+        "baar",
+        "muie",
+        "õhtu",
+        "siseruum",
+        "pudelid",
+        "valgus",
+        "kardinad"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "pruun kapuutsiga särk/jakk",
+        "tumepunased kardinad",
+        "baarilett",
+        "valgustatud lamp",
+        "joogipudelid",
+        "roosad etiketid"
+      ],
+      "colorcodes": [
+        "#3A2B1D",
+        "#D2A687",
+        "#5C1C2C",
+        "#F0C850",
+        "#F4D7D3"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimeses kaadris on mehe näoilme tõsisem ja ta vaatab otse paremale. Tema käsi on puhkeasendis.",
+        "Teises kaadris hakkab mees pead kergelt pöörama ja tema näole ilmub kerge muie. Tema parem käsi hakkab liikuma ettepoole.",
+        "Kolmandas kaadris on muie selgem ja ta vaatab veidi allapoole. Tema parem käsi on selgemini sirutumas millegi järele baariletil."
+      ],
+      "snr": "027",
+      "ajad": [
+        "220.417",
+        "228.208"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, hubases ja veidi hämaras baaris, mis on tõenäoliselt õhtusel ajal. Baarileti ääres istub seljaga vaataja poole kalju mees, seljas pruun nahkjakk. Tema vastas, üle baari, seisab noor baarimees mustas särgis. Baarileti taga asub riiulite süsteem, mis on täidetud erinevate klaaside ja alkoholipudelitega, ja tagasein on kaetud punakaspruuni telliskiviga. Baariletil on näha puuvilju (sidrunid, laimid, apelsinid), roosa pudel jooki ning roheline, kingipakki meenutav karp. Baarimehe ees letil on klaas, milles on näha oliive või muud garneeringut. Alguses on baarimees süvenenud letil toimetamisse, pilk suunatud allapoole. Kliendi parem käsi on algul letil puhkamas, seejärel hetkeks ettepoole sirutatud ja lõpuks taas letil. Baarimehe pilk tõuseb lõpuks kliendi poole, andes märku, et nende vahel on algamas interaktsioon või vestlus.",
+      "actions": [
+        "Istumine baariletis",
+        "Baarimehe tegevused letil",
+        "Kliendi käe asendi muutumine",
+        "Baarimehe pilgu suunamine kliendi poole",
+        "Otsekontakti loomine"
+      ],
+      "keywords": [
+        "Baar",
+        "Baarilett",
+        "Baarimees",
+        "Klient",
+        "Teenindus",
+        "Õhtu",
+        "Jook",
+        "Interaktsioon",
+        "Telliskivisein",
+        "Nahkjakk"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Baarilett",
+        "Klaasid",
+        "Pudelid",
+        "Alkohol",
+        "Roheline karp",
+        "Oliivid",
+        "Puuviljad (sidrunid, laimid, apelsinid)",
+        "Pruun nahkjakk",
+        "Must särk",
+        "Telliskivisein",
+        "Roosa pudel",
+        "Baaririiulid"
+      ],
+      "colorcodes": [
+        "#4A2C1D",
+        "#0B0A09",
+        "#7D3C2F",
+        "#A3C844",
+        "#DEDEDE",
+        "#E0B080"
+      ],
+      "texts": [
+        "ШЕП"
+      ],
+      "persons": [
+        "Kalju mees",
+        "Baarimees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Kliendi parema käe asend muutub letil – esimesel pildil on käsi letil, teisel on see veidi tõstetud/sirutatud ja kolmandal taas letil puhkamas.",
+        "Baarimehe pilgu suund muutub – alguses on ta süvenenud letile, vaadates allapoole, kuid viimasel pildil vaatab ta otse kliendi poole, luues silmsideme."
+      ],
+      "snr": "028",
+      "ajad": [
+        "228.208",
+        "233.167"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaates kiilakat meest, kes kannab tumepruuni jakki või kampsunit ja istub siseruumis, tõenäoliselt kohvikus või baaris. Mees on parajasti toitu nautimas, tema suu liigub ja esimesel hetkel on näha aktiivset närimist. Seejärel suleb ta suu, vaatab hetkeks allapoole, ning siis tõstab pilgu üles ja tema näole ilmub kerge, peaaegu tagasihoidlik naeratus, mis viitab rahulolule. Taustal on näha tumepunaseid drapeeringuid või kardinaid, mis annavad ruumile hubase ja veidi piduliku tunde. Paremal pool pildist on hägune baarileti või riiuli osa koos mitmete joogipudelitega ning tagaplaanil on näha kollaka valgusega valgustit, mis loob sooja ja maheda atmosfääri.",
+      "actions": [
+        "Söömine (närimine)",
+        "Suu sulgemine",
+        "Pilgu tõstmine",
+        "Kergelt naeratamine"
+      ],
+      "keywords": [
+        "Mees",
+        "Söömine",
+        "Naeratus",
+        "Portree",
+        "Siseruum",
+        "Kohvik",
+        "Baar",
+        "Pruun",
+        "Tumepunane",
+        "Rahulolu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Pruun jakk/kampsun",
+        "Tumepunased kardinad/drapeeringud",
+        "Joogipudelid",
+        "Baarilett/riiul",
+        "Valgusti"
+      ],
+      "colorcodes": [
+        "#593C2C",
+        "#702035",
+        "#E0B46A",
+        "#E3C1A1"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehe suu kergelt avatud ja ta paistab aktiivselt närimist lõpetavat.",
+        "Teisel pildil on mehe suu suletud ja ta vaatab veidi allapoole, näos rahulolev ilme.",
+        "Kolmandal pildil on mees pilgu kergelt tõstnud ja tema näole on ilmunud tagasihoidlik naeratus."
+      ],
+      "snr": "029",
+      "ajad": [
+        "233.167",
+        "236.458"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumides, tõenäoliselt baaris või restoranis, mida iseloomustab rustikaalne, kuid korras keskkond. Baarileti taga on telliskivisein, millel on riiulid täis erinevaid pudeleid ja läikivaid klaase. Valgustus on pigem hämar, vihjates õhtusele või atmosfäärilisele miljööle. Esialgu läheneb letile vanem kiilas mees pruunis jopes, asetades midagi – rohelise paki – poleeritud puidust letile. Tema vastas seisab noorem baarman mustas särgis, kes tõstab käe peatavat žesti tehes, andes märku \"stop\" või \"oota\". Baariletil, baarmani läheduses, on näha napsiklaas läbipaistva vedeliku ja marineeritud kurgiga, mis viitab äsja serveeritud või serveeritavale joogile. Letil on ka muid pudelid ja värskeid tsitrusvilju, nagu sidrunid ja laimid. Stseeni edenedes pöördub vanem mees veidi paremale kaamera suunas, tema ilme on tõsine või ehk veidi ärritunud, varjates osaliselt baarmani vaateväljast. Ta näib kas lahkuvat või asendit muutvat, kuid roheline pakk jääb letile. Lõpuks lahkub vanem mees kaadrist täielikult. Baarman jääb leti taha üksi, vaadates nüüd allapoole letipinda. Tema eelmine žest on kadunud ja ta näib mõtisklevat või uurivat tema ees olevaid esemeid, eriti rohelist pakki ja kahte napsiklaasi, mis on nüüd selgelt nähtavad – üks kurgiga ja teine, tühi või läbipaistva vedelikuga, selle kõrval. Üldine atmosfäär viitab pingelisele hetkele või vaiksele järelkajahistusele pärast interaktsiooni.",
+      "actions": [
+        "Asetamine (roheline pakk) baariletile",
+        "Žesti tegemine (käega peatamine)",
+        "Pöördumine ja liikumine",
+        "Vaatamine (alla letile)"
+      ],
+      "keywords": [
+        "Baar",
+        "Baarman",
+        "Klient",
+        "Interaktsioon",
+        "Roheline pakk",
+        "Napsiklaas",
+        "Telliskivisein",
+        "Klaasid",
+        "Pudelid",
+        "Pinge",
+        "Õhtune aeg",
+        "Teenindus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Baar",
+        "Baarilett",
+        "Klaasid",
+        "Pudelid",
+        "Telliskivisein",
+        "Roheline pakk",
+        "Napsiklaas",
+        "Marineeritud kurk",
+        "Sidrunid",
+        "Laimid",
+        "Pruun jope",
+        "Must särk",
+        "Riiulid"
+      ],
+      "colorcodes": [
+        "#573D25",
+        "#1E1C1D",
+        "#5E2623",
+        "#57A460",
+        "#DDCE5E",
+        "#B8853D",
+        "#F4F4F4"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees (kiilas)",
+        "Noorem baarman"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimeses kaadris on vanem mees näoga baarileti poole ja noorem baarman teeb peatamismanöövrit käega.",
+        "Teises kaadris on vanem mees pööranud kaamera poole ja liigub paremale, varjates osaliselt baarmani, tema ilme on tõsine.",
+        "Kolmandas kaadris on vanem mees kaadrist lahkunud ja noorem baarman vaatab allapoole letile, käsi enam ei viipa; letil on selgemalt näha kaks napsiklaasi."
+      ],
+      "snr": "030",
+      "ajad": [
+        "236.458",
+        "237.667"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub öisel tänaval, kus valitseb hämar, tänavavalgustite poolt tekitatud soe oranžikaspruun valgus. Pea kohal sirgub pilgupüüdja, mis valgustab laialt ümbrust. Piki tänavat on pargitud autod ja ääristamas vanad puitmajad, mis loovad vana ja arhailise atmosfääri. Stseeni keskel on näha kiilaspäine mees, seljaga vaataja poole, kes kõnnib mööda tänavat. Ta kannab tumepruuni nahktagi, mis peegeldab õrnalt tänavavalgustust. Mees liigub sihikindlalt mööda tänavat ja läheneb ühele puitmajale, peatudes lõpuks selle ukse ees, uurides seda.",
+      "actions": [
+        "Kõndimine mööda tänavat",
+        "Lähenemine majale",
+        "Jõudmine maja ukse juurde",
+        "Ukse vaatlemine"
+      ],
+      "keywords": [
+        "Öö",
+        "Tänav",
+        "Mees",
+        "Puitmaja",
+        "Nahktagi",
+        "Tänavavalgustus",
+        "Hämar",
+        "Retro",
+        "Vana hoone",
+        "Linnaäär"
+      ],
+      "shot_type": "medium-long",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Nahktagi",
+        "Puitmaja",
+        "Aken",
+        "Auto",
+        "Tänavavalgusti",
+        "Tänav",
+        "Uks",
+        "Sillutis"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#A0522D",
+        "#FFD700",
+        "#1F1F1F",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel kaadril on mees kaugemal ja näidatud on laiemat tänavavaadet, paremal kaugemal näha ka teine hoone ja pargitud autod.",
+        "Teisel kaadril on mees natuke lähemal, näidates rohkem vasakpoolset maja ja paremal pargitud autot, ta pilk on suunatud üles tänavavalgustile.",
+        "Kolmandal kaadril on mees jõudnud maja ukse juurde ja on sellele väga lähedal, keskendudes mehe kuklale ja ukse detailidele. Mees on peaaegu paigal."
+      ],
+      "snr": "031",
+      "ajad": [
+        "237.667",
+        "239.833"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist vaatepilti elamu ees, kus mees teeb läbi väikese tegevustesarja. Pildil on näha kahekorruseline heledast horisontaalsest laudisest maja, millel on kivist sokkel ja kelderaknad. Maja esiosa keskel on sügavale sisenenud puituks, mille kohal on väike viilkatus. Ukse kummalgi küljel ja majanurkades on näha valgete raamidega aknad, mille taga paistavad punased ja heledad kardinad ning mõnedes akendes ka sisevalgustus. Paremal pool on tänavavalgustuspost ja selle läheduses väike hall elektrikapp. Vasakul pool on parkimas tumeda värvi sõiduauto. Mees, kellel on seljas pruun jakk ja tumedad püksid, läheneb esmalt maja uksele. Seejärel alustab ta jaki seljast võtmist, tõstes käed pea kohale. Lõpuks seisab ta rahulikult kõnniteel, jakk seljast võetud, palja pea ja heleda särgi väel, vaadates vasakule. Üldine õhkkond on hämar ja sume, valgustus tuleb peamiselt maja akendest ja eemalt paistvatest tänavavalgustitest.",
+      "actions": [
+        "Mees läheneb majale",
+        "Mees võtab jaki seljast",
+        "Mees seisab kõnniteel"
+      ],
+      "keywords": [
+        "Öine stseen",
+        "Maja",
+        "Tänav",
+        "Mees",
+        "Jakk",
+        "Korterelamu",
+        "Hämarus",
+        "Kõnnitee",
+        "Auto"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Maja",
+        "Aknad",
+        "Uks",
+        "Auto",
+        "Kõnnitee",
+        "Tänavavalgustuspost",
+        "Elektrikapp",
+        "Kardinad",
+        "Mees",
+        "Jakk",
+        "Püksid",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#b79c88",
+        "#8a4e4e",
+        "#746d65",
+        "#101014",
+        "#202020",
+        "#5c4a3b",
+        "#364e62",
+        "#fffacd"
+      ],
+      "texts": [
+        "H44 577"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil seisab mees ukse ees, parem käsi veidi tõstetud, justkui koputaks või helistaks uksekella.",
+        "Teisel pildil on mees pööranud majast eemale ja on jaki seljast võtmise protsessis, käed pea kohal.",
+        "Kolmandal pildil on mees jaki täielikult seljast võtnud ja seisab rahulikult kõnniteel, vaadates vasakule. Jakk ei ole enam nähtaval."
+      ],
+      "snr": "032",
+      "ajad": [
+        "239.833",
+        "257.958"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub pimedal öisel tänaval või kõrvaltänaval, mida valgustavad tänavavalgustid, andes üldisele atmosfäärile sooja, kergelt oranži tooni. Vasakul pool on parkimisel mitu sõiduautot ning kauguses on näha teisi hooneid ja valgusteid, mis viitab linna- või äärelinnakeskkonnale. Paremal pool asub vana hoone, mille fassaad on kaetud horisontaalse puitvoodriga ja millel on nähtav telliskivivundament koos väikeste kaarekujuliste avauste või akendega. Maa paistab niiske ja peegeldab valgust, mis võib viidata hiljutisele vihmasajule. Keskel on üksik mees, keda näeme selja tagant. Ta kannab pruuni nahktagi ja tumedaid pükse. Tema pea on kiilas. Stseen kujutab meest mööda tänavat eemale kõndimas.",
+      "actions": [
+        "Mees jalutab mööda tänavat eemale",
+        "Mees liigub edasi"
+      ],
+      "keywords": [
+        "öö",
+        "tänav",
+        "mees",
+        "jalutamine",
+        "hämardumine",
+        "linnakeskkond",
+        "vanad hooned",
+        "tänavavalgustus",
+        "varjud",
+        "niiske tee",
+        "nahktagi"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "mees",
+        "nahktagi",
+        "tänav",
+        "tänavavalgusti",
+        "autod",
+        "hoone",
+        "puitfassaad",
+        "telliskivivundament",
+        "keldriaknad",
+        "vari"
+      ],
+      "colorcodes": [
+        "#1c1c1c",
+        "#6d4626",
+        "#ffb861",
+        "#a37e63",
+        "#785a49"
+      ],
+      "texts": [],
+      "persons": [
+        "kiilas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mees liigub kaadrite vahel edasi mööda tänavat, muutudes iga kaadriga kaugemaks ja väiksemaks.",
+        "Mehe asend ja poos muutuvad kergelt jalutuskäigu ajal.",
+        "Esimeses kaadris on mees kaamerale lähemal, täites rohkem kaadri keskosa, viimases kaadris on ta oluliselt kaugemal ja tema vari on märgatavamalt näha tema ees."
+      ],
+      "snr": "033",
+      "ajad": [
+        "257.958",
+        "278.292"
+      ]
+    },
+    {
+      "explanation": "Stseen on täielikult pime ja kujutab endast ühtlast musta ala. Puudub igasugune valgus, mis võimaldaks näha objekte, isikuid või muid detaile. Kogu kaader on täielikult kaetud sügava pimedusega, andmata vihjeid keskkonna, sügavuse või sisu kohta. See loob tunde tühjusest või täielikust valguse puudumisest.",
+      "actions": [
+        "Tegevusi pole näha"
+      ],
+      "keywords": [
+        "Pimedus",
+        "must",
+        "tühjus",
+        "valgustus puudub",
+        "öö",
+        "varjud puuduvad",
+        "sügavus puudub",
+        "monokroomne"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Esindatud ei ole ühtegi objekti"
+      ],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [
+        "Tekste ei ole näha"
+      ],
+      "persons": [
+        "Isikuid ei ole näha"
+      ],
+      "imagetype": "not clear",
+      "emptypercent": 100,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad erinevused; kõik pildid on identselt mustad"
+      ],
+      "snr": "034",
+      "ajad": [
+        "278.292",
+        "292.583"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kiilast meest, kes ärkab unest siseruumis. Algselt magab ta sügavalt, lamades külili, pea triibulisel padjal ja kaetud ruudulise tekiga. Tema näoilme on rahulik ja pingevaba. Järk-järgult hakkavad tema silmad avanema, viidates ärkamisele ja kergele desorientatsioonile. Lõpuks on ta täielikult ärkvel, pilk terav ja näoilme muutunud murelikuks või ehmunuks. Mees hakkab keha liigutama, keerates või tõstes end üles, ja tekk on tema liigutuste tagajärjel nihkunud. Üldine valgustus on pehme, luues rahuliku, kuid samas pingeliseks muutuva atmosfääri. Taustal on näha mustrilisi patju ja mööblit, mis viitab magamistoale või elutoale.",
+      "actions": [
+        "Magab",
+        "Ärkab unest",
+        "Avab silmad",
+        "Vaatab ringi",
+        "Muudab näoilmet",
+        "Nihutab keha",
+        "Keerab end"
+      ],
+      "keywords": [
+        "Ärkamine",
+        "Uni",
+        "Mees",
+        "Siseruum",
+        "Hommik",
+        "Rahu",
+        "Mure",
+        "Tekk",
+        "Padi",
+        "Kiilaspäisus",
+        "Voodi",
+        "Diivan"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Tekk",
+        "Padi",
+        "Voodi",
+        "Diivan",
+        "Mustrilised padjad taustal"
+      ],
+      "colorcodes": [
+        "#E8C1A8",
+        "#EADCD1",
+        "#C2D5E1",
+        "#AC9C91",
+        "#8C7B83",
+        "#F0F2F4",
+        "#AE9E94"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "not clear",
+      "daytime": "morning",
+      "differences": [
+        "Mees liigub sügavast unest täieliku ärkamiseni.",
+        "Tema silmad on alguses suletud, siis kergelt avatud ja lõpuks täielikult lahti.",
+        "Tema näoilme muutub rahulikust murelikuks või ehmunuks.",
+        "Kehaasend ja teki asend muutuvad vastavalt mehe ärkamisele ja liikumisele."
+      ],
+      "snr": "035",
+      "ajad": [
+        "292.583",
+        "294.125"
+      ]
+    },
+    {
+      "explanation": "Stseen on filmitud auto seest, läbi tuuleklaasi, ja näitab autot sõitmas linna tänaval või vanemas piirkonnas. Alguses on vasakul pool näha heledates toonides vana hoonet, mille seinal on sinine ruudukujuline silt. Hoonest paremal paistab kitsas allee või tänav. Paremal pool on näha ehitusplatsi koos tellingutega ning ajutisi puitbarjääre, millest ühel on punavalged triibud ja teisel sinine ümmargune liiklusmärk, mis tähistab pööret või U-pööret. Auto liikudes mööda ehitusplatsist asendub parempoolne vaade heledama, sinaka varjundiga hoonega. Stseeni arenedes nihkub fookus auto sisemusse, kus ilmub nähtavale kiilaka peaga inimene (või inimene, kellel on kiilas parukas), kes kummardub ettepoole parema esiistme poole. Inimene kannab tumedaid riideid. Kogu stseeni vältel ripub tahavaatepeegli küljes puukujuline tumedat värvi õhuvärskendaja. Üldine valgusküllasus viitab päevasele ajale, kuid valgus on summutatud, mis võib anda märku pilvisest ilmast, hämarast varahommikust või hilisõhtust. Stseen on detailirohke, kuid värvipalett on pigem mahedates ja külmades toonides.",
+      "actions": [
+        "Auto sõidab mööda tänavat",
+        "Inimene kummardub auto sees ettepoole"
+      ],
+      "keywords": [
+        "Auto sees",
+        "Linna tänav",
+        "Ehitusplats",
+        "Hoone",
+        "Kitsas allee",
+        "Õhuvärskendaja",
+        "Tahavaatepeegel",
+        "Küljepeegel",
+        "Kiilas pea",
+        "Liiklusmärk",
+        "Tellingud"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor and outdoor",
+      "objects": [
+        "Auto",
+        "Tuuleklaas",
+        "Tahavaatepeegel",
+        "Küljepeegel",
+        "Õhuvärskendaja",
+        "Armatuurlaud",
+        "Hoone",
+        "Aknad",
+        "Tänav/allee",
+        "Ehitusplats",
+        "Tellingud",
+        "Puitbarjäärid",
+        "Sinine ruudukujuline silt",
+        "Sinine ümmargune liiklusmärk"
+      ],
+      "colorcodes": [
+        "#A0C0C0",
+        "#C8D8D8",
+        "#3060C0",
+        "#C00000",
+        "#FFFFFF",
+        "#402010",
+        "#303030",
+        "#E0E0E0"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene (näha on kiilas pea)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Auto asukoht ja vaade väljapoole muutuvad stseeni jooksul, liikudes mööda ehitusplatsist ja paljastades uusi hooneid.",
+        "Kahe esimese pildi fookus on auto välisel vaatel, samas kui kolmandal pildil nihkub fookus auto sisemusse ja ettepoole kummarduvale inimesele.",
+        "Ehitusplats paremal pool kaob vaateväljast ja asendub uue hoonega."
+      ],
+      "snr": "037",
+      "ajad": [
+        "305.833",
+        "315.125"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab auto interjööri läbi esiklaasi, keskendudes kolmele reisijale. Kaks meest ja üks naine on autos. Juht, kes on keskealine tumedate juustega mees, hoiab käsi roolil ja vaatab ettepoole, tema ilme on rahulik või mõtlik. Tema kõrval istub naine, kelle heledad juuksed on tahapoole seotud, ja ta vaatab samuti ette või alla, tema nägu on osaliselt varjus. Tagaistmel, juhi taga, istub kiilaspäine noorem mees, kes alguses vaatab alla, kuid tõstab seejärel pilgu üles ja vaatab otse ette, tema näole ilmub tõsine või murelik ilme. Valgus on jahe, rohekassinine toon, mis annab stseenile melanhoolse või pingelise meeleolu. Väljaspool autot on näha uduselt hooneid ja tänavapilti, mis viitab linnakeskkonnale. Tuuleklaasi vasakul alumisel serval on roheline ümmargune kleebis.",
+      "actions": [
+        "Kiilaspäine mees vaatab alguses alla, seejärel tõstab pilgu üles ja vaatab ettepoole, tema näoilme muutub.",
+        "Juht ja naine istuvad autos ja vaatavad ette."
+      ],
+      "keywords": [
+        "Auto",
+        "autosalong",
+        "inimesed",
+        "sõit",
+        "ootamine",
+        "mõtisklemine",
+        "päevaaeg",
+        "linn",
+        "melanhoolne",
+        "pingeline",
+        "vestlus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Auto esiklaas",
+        "rool",
+        "armatuurlaud",
+        "tahavaatepeegel",
+        "autoistmed",
+        "roheline kleebis tuuleklaasil",
+        "hooned (taustal)",
+        "tänav (taustal)"
+      ],
+      "colorcodes": [
+        "#3A6969",
+        "#212529",
+        "#B0B7BC",
+        "#4A4A4A"
+      ],
+      "texts": [
+        "Rohelisel kleebisel olev tekst on loetamatu."
+      ],
+      "persons": [
+        "Keskealine mees (juht), tumedate lühikeste juustega, kannab tumedaid riideid, ilme on rahulik või mõtlik.",
+        "Naine (eesmine reisija), heledad juuksed tahapoole seotud, kannab heledat jakki, vaatab ette või alla.",
+        "Noorem kiilaspäine mees (tagumine reisija), kannab tumedat jakki/särki, ilme muutub tõsiseks või murelikuks."
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kiilaspäise mehe pea asend ja pilgu suund muutuvad kaadrite vahel. Esimeses kaadris vaatab ta alla, teises ja kolmandas kaadris tõstab ta pilgu ning vaatab otse ette, tema näoilme muutub tõsisemaks või murelikumaks."
+      ],
+      "snr": "038",
+      "ajad": [
+        "315.125",
+        "325.292"
+      ]
+    },
+    {
+      "explanation": "Stseen on jäädvustatud auto seest, vaatega tagumiselt istmelt juhi poole ja läbi esiklaasi välja. Pildil on näha kiilakas mees, kes istub juhiistmel, peamiselt tema kuklast ja paremast õlast tagantvaates. Ta hoiab käes valget eset, mis meenutab paberit või ümbrikku, ja vaatab alguses seda süvenenult. Hiljem tõstab ta pilgu ja vaatab otse ette läbi esiklaasi. Tahavaatepeegli küljes ripub musta puukujuline õhuvärskendaja, millel on näha brändi \"Little Trees\" ja sordi \"Black Ice\" nime. Läbi esiklaasi avaneb vaade tänavale, kus on näha helesinistes ja hallikates toonides hooneid. Üldine valguskülje on summutatud ja jahe, andes stseenile vaikse ja mõtliku meeleolu.",
+      "actions": [
+        "Mees vaatab allapoole käes olevat eset",
+        "Mees tõstab pilgu ja vaatab ette"
+      ],
+      "keywords": [
+        "Auto interjöör",
+        "Mees",
+        "Juht",
+        "Kiilakas",
+        "Õhuvärskendaja",
+        "Tänav",
+        "Hooned",
+        "Summutatud valgus",
+        "Vaikne",
+        "Sinakas toon"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Auto armatuurlaud",
+        "Tahavaatepeegel",
+        "Õhuvärskendaja (Little Trees, Black Ice)",
+        "Rool",
+        "Autoiste",
+        "Valge paber/ümbrik",
+        "Hooned",
+        "Aknad",
+        "Tänav",
+        "Autoklaas"
+      ],
+      "colorcodes": [
+        "#2C3C46",
+        "#9DC4C9",
+        "#8AA4A5",
+        "#3C2E2A",
+        "#4C5E6E",
+        "#B0C8CD",
+        "#C4B8AD"
+      ],
+      "texts": [
+        "LITTLE TREES",
+        "BLACK ICE"
+      ],
+      "persons": [
+        "Mees (kiilakas)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0-10",
+      "season": "not clear",
+      "daytime": "hämarus",
+      "differences": [
+        "Mehe pea asend ja pilgu suund muutuvad, liikudes allapoole vaatamisest (esimesed kaks pilti) otse ette vaatamiseni (kolmas pilt).",
+        "Mehe käes hoitud valge ese (paber/ümbrik) on kahel esimesel pildil selgelt nähtav, kuid kolmandal pildil enam mitte või on see asendit muutnud."
+      ],
+      "snr": "039",
+      "ajad": [
+        "325.292",
+        "332.542"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab autostseeni, mis on filmitud auto esiklaasi kaudu. Pildil on kolm inimest sõitmas autos, tõenäoliselt päeva ajal. Esiplaanil on näha auto esiosa, sealhulgas esiklaas ja osa katust. Auto esiklaasi vasakul alumises nurgas on roheline ümmargune kleebis. Juhiistmel istub keskealine mees, kes vaatab ettepoole teele. Tema kõrval, kaassõitja istmel, istub noorem, heleda peaga mees. Tagapingil on näha naisterahva nägu, kes istub kahe eesistuja vahel ja vaatab samuti ettepoole. Üldine värvigamma on rohekassinise tooniga filtreeritud, andes stseenile jahedama ilme. Kaassõitja käed ei ole nähtavad, kuid juhi käed on tõenäoliselt roolil.",
+      "actions": [
+        "Kolm inimest sõidavad autos",
+        "Juht vaatab ettepoole teele",
+        "Kaassõitja vaatab ettepoole/vasakule",
+        "Kaassõitja avab suu, tõenäoliselt räägib või reageerib",
+        "Tagumisel reisijal on pea ettepoole suunatud"
+      ],
+      "keywords": [
+        "Auto",
+        "Sõit",
+        "Inimesed",
+        "Interjöör",
+        "Päev",
+        "Vestlus",
+        "Liiklus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Auto esiklaas",
+        "Auto rool",
+        "Tagurpidipeegel",
+        "Roheline kleebis esiklaasil",
+        "Kaks meest",
+        "Üks naine"
+      ],
+      "colorcodes": [
+        "#A1CDD0",
+        "#3A474D",
+        "#FFFFFF",
+        "#0C1014",
+        "#8EC981",
+        "#C8D8CE"
+      ],
+      "texts": [
+        "Rohelisel kleebisel on näha valget teksti, kuid see pole loetav."
+      ],
+      "persons": [
+        "Juht (mees)",
+        "Kaassõitja (mees)",
+        "Tagumine reisija (naine)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab kaassõitja mees otse alla/ette, suu on suletud ja näoilme neutraalne.",
+        "Teisel ja kolmandal pildil on kaassõitja pea pööratud veidi vasakule/ette, tema suu on kergelt avatud, mis viitab rääkimisele või reaktsioonile. Juhi ja tagumise reisija asend ja näoilmed jäävad kõigil kolmel pildil suures osas samaks."
+      ],
+      "snr": "040",
+      "ajad": [
+        "332.542",
+        "337.375"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab auto tumedates toonides sisemust, vaadatuna tagaistmelt ettepoole. Fookuses on auto keskkonsool käigukangiga ja armatuurlaud. Üks käsi, ilmselt juhi oma, on näha käigukangi haarates ja käiku vahetades ning seejärel kangist eemaldununa. Armatuurlaual on näha raadiosüsteemi ja kliimaseadme ekraane, mis kuvavad temperatuuri \"19.0°C\" ja muid andmeid, tõenäoliselt siniste ja punaste numbritega. Vasakul on näha rooli osa koos BMW logoga. Kogu stseenil on üleüldine jahe sinakas-rohekas varjund. Näha on ka juhi ja kaassõitja õlgu ning selga, kes kannavad jopesid või pükse. Pildi allosas on ka ingliskeelne subtiiter, mis küsib: \"What's the plan for today, then?\".",
+      "actions": [
+        "Käigu vahetamine",
+        "Autojuhtimine (kaudselt)",
+        "Vestlemine (kaudselt subtiitrite kaudu)"
+      ],
+      "keywords": [
+        "Auto",
+        "BMW",
+        "Sõit",
+        "Käiguvahetus",
+        "Autosisene",
+        "Pime",
+        "Keskkonsool",
+        "Armatuurlaud",
+        "Dialoog"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Auto",
+        "Käigukang",
+        "Armatuurlaud",
+        "Raadiosüsteem",
+        "Kliimaseade",
+        "Rool",
+        "BMW logo",
+        "Juhi iste",
+        "Kaassõitja iste",
+        "Käed",
+        "Jope",
+        "Teksapüksid"
+      ],
+      "colorcodes": [
+        "#2B3D46",
+        "#1A1A1A",
+        "#C8B5A2",
+        "#E70A0A",
+        "#0066CC",
+        "#665C52"
+      ],
+      "texts": [
+        "What's the plan for today, then?",
+        "19.0°C"
+      ],
+      "persons": [
+        "Juht",
+        "Kaassõitja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on juhi käsi käigukangi haarates ja käiku vahetamas, olles liikumises.",
+        "Teisel pildil on juhi käsi käigukangist eemaldunud ja kang on paigal, kaader on esimesest veidi sisse suumitud ning näha on juhi teksapükse.",
+        "Kolmandal pildil on kaader laiem, paljastades rohkem armatuurlauda, rooli koos BMW logoga ja kaassõitja õla. Käsi on ikka näha, kuid kaugemal käigukangist ja paigal. Samuti on näha pildi allosas ingliskeelne subtiiter."
+      ],
+      "snr": "041",
+      "ajad": [
+        "337.375",
+        "350.542"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub sõitva auto sees, vaadatuna tagaistmelt juhi poole. Vanem, heledate juustega mees juhib autot, olles esmalt näha tagantpoolt ja seejärel pöörab pead, et rääkida nähtamatu reisijaga, kes istub kõrvalistmel (reisijat on näha vaid ähmaselt tahavaatepeeglist). Juht hoiab käsi roolil, mis on BMW embleemiga. Vestlus käib päevaplaani üle, mainides vajadust hankida palkmaja kellegi „Järvpöldi-venna“ käest. Seejärel pöörab juht pead ja küsib vestluskaaslaselt sarkastiliselt või naljatlevalt, miks too muretseb, kuna ka tema elab palkmajas. Läbi auto esiklaasi ja külgakende paistab linnatänav, mille ääres on hooned, puud ja teisi autosid, mis viitab päevasele ajale ja kevadele või suvele.",
+      "actions": [
+        "Autot juhtima",
+        "Vestlema",
+        "Pea pööramine",
+        "Rooli hoidma",
+        "Märki andma (kätega roolil)"
+      ],
+      "keywords": [
+        "Auto",
+        "Sõit",
+        "Vestlus",
+        "Linnatänav",
+        "Juht",
+        "Palkmaja",
+        "Päev",
+        "BMW",
+        "Dialoog",
+        "Päevaplaan"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Auto",
+        "Rool (BMW logo)",
+        "Armatuurlaud",
+        "Tahavaatepeegel",
+        "Istme seljatugi",
+        "Peatoe",
+        "Rippuv ornament tahavaatepeegli küljes",
+        "Hooned",
+        "Puud",
+        "Teised autod"
+      ],
+      "colorcodes": [
+        "#1E2328",
+        "#68737D",
+        "#7D8E9A",
+        "#5F6B5D",
+        "#F5F5F5"
+      ],
+      "texts": [
+        "What's the plan for today, then?",
+        "We need to get the log house from the Järvpöld-guy",
+        "What's up with you? You also live in a log house."
+      ],
+      "persons": [
+        "Vanem mees (autojuht)",
+        "Reisija (nähtamatu, kuid peeglist ja vestlusest järeldatav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Juhi pea asend muutub järk-järgult paremale, pöörates ennast kõrvalistmele rääkima.",
+        "Juhi parem käsi liigub roolil aktiivsemast haardest puhkamise asendisse.",
+        "Subtiitrite tekst muutub igal kaadril, kajastades vestluse edenemist.",
+        "Taust läbi autoakende muutub veidi, mis viitab auto liikumisele."
+      ],
+      "snr": "042",
+      "ajad": [
+        "350.542",
+        "353.292"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kitsast munakivisillutisega tänavat vanalinnas või ajaloolises linnaosas. Tänavat ääristavad kõrged kivimajad: vasakul pool tumedam, massiivse ehitusega hoone ja paremal pool keskaegne kirikulaadne ehitis gooti kaartega. Taamal paistab heledam hoone kaarväravaga, mille alt on näha kahte inimfiguuri kõndimas. Tee vasakus servas jookseb kivist kõnnitee. Üldine valgus on hajutatud ja hallikas, viidates pilvisele päevale, mis annab stseenile jaheda ja pisut melanhoolse tooni. Stseeni fookuses on heledat värvi BMW E36 sedaankerega auto, mis läheneb kaamera poole, esituled põlemas. Paremal tee ääres on pargitud must Audi Q5 ja selle taga veel üks tume maastur. Autode liikumine ja subtitri muutumine viitavad käimasolevale dialoogile ja tegevusele.",
+      "actions": [
+        "Heledat värvi BMW läheneb kaamerale mööda tänavat",
+        "Kaks inimest kõnnivad taamal kaarvärava all",
+        "Autod on pargitud tänava paremasse serva"
+      ],
+      "keywords": [
+        "Vanalinn",
+        "Munakivisillutis",
+        "Tänav",
+        "Autod",
+        "Sõitmine",
+        "Kivimajad",
+        "Pilvine ilm",
+        "Dialoog",
+        "Eesti"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "BMW E36 (helehall/hõbedane)",
+        "Audi Q5 (must)",
+        "Tume maastur",
+        "Munakivisillutis",
+        "Kõnnitee",
+        "Kivimajad",
+        "Kirikuhoone",
+        "Kaarvärav",
+        "Tänavavalgusti"
+      ],
+      "colorcodes": [
+        "#6B7B8D",
+        "#A1A2A6",
+        "#D4D4C7",
+        "#B1B8BD",
+        "#2E3339",
+        "#A7AFB6"
+      ],
+      "texts": [
+        "What's up with you? You also live in a log house.",
+        "How are we going to do that?"
+      ],
+      "persons": [
+        "Kaks inimest (kõndimas kauguses)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Heledat värvi BMW E36 liigub stseeni edenedes kaamerale lähemale, muutudes järjest dominantsemaks objektiks kaadris.",
+        "Subtiitrite tekst muutub esimeselt lauselt (\"What's up with you? You also live in a log house.\") teisele (\"How are we going to do that?\"), viidates dialoogi jätkumisele või vahetusele."
+      ],
+      "snr": "043",
+      "ajad": [
+        "353.292",
+        "362.750"
+      ]
+    },
+    {
+      "explanation": "Stseen on filmitud auto seest, vaadatuna juhi selja tagant, vasaku õla kohalt. Fookus on juhi ja läbi esiklaasi avaneval linnavaatel. Juht hoiab rooli, mille keskel on selgelt nähtav BMW logo. Juhi pea, vasak õlg ja käsi on esiplaanil. Läbi esiklaasi avaneb vaade tihedale linnatänavale, kus on näha mitmekorruselisi, vana Euroopa arhitektuuriga hooneid arvukate akendega. Tänaval liigub teisi sõidukeid, sealhulgas punane sedaan, tumedam auto ja mis näib olevat valge kaubik või veok, mis viitab aktiivsele liiklusele. Puudel on rohelised lehed, mis annab aimu kevadisest või suvisest aastaajast. Tahavaatepeegli küljes ripub dekoratiivne ese või õhuvärskendaja, mis stseenis kergelt kõigub. Armatuurlaual on märgata pabereid või kaarte. Üldine valgus on päevane, võimalik, et veidi pilvine või pehme päikeseline. Kaadri allosas on näha subtiiter küsimusega.",
+      "actions": [
+        "sõitmine",
+        "rooli hoidmine",
+        "linnaliikluses viibimine",
+        "vaatamine",
+        "kõikumine (rippuv ese)"
+      ],
+      "keywords": [
+        "auto salong",
+        "linnavaade",
+        "BMW",
+        "liiklus",
+        "päevaaeg",
+        "Euroopa arhitektuur",
+        "vestlus",
+        "sõit",
+        "kevad",
+        "suvi"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "rool",
+        "BMW logo",
+        "armatuurlaud",
+        "esiklaas",
+        "tahavaatepeegel",
+        "pea",
+        "õlg",
+        "käsi",
+        "peatoed",
+        "autoistmed",
+        "hooned",
+        "puud",
+        "tänav",
+        "autod (punane, tume, valge kaubik)",
+        "rippuv ese (õhuvärskendaja/charm)",
+        "paberid"
+      ],
+      "colorcodes": [
+        "#1c1c1c",
+        "#3a3a3a",
+        "#b8b8b8",
+        "#405040",
+        "#e0e0e0",
+        "#d21c1c"
+      ],
+      "texts": [
+        "How are we going to do that?"
+      ],
+      "persons": [
+        "juht",
+        "võimalik kaasreisija (paremal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Välismaailma vaade läbi esiklaasi muutub, viidates auto liikumisele või liikluse muutumisele.",
+        "Punane auto esiplaanil liigub piltide vahel edasi.",
+        "Tahavaatepeegli küljes rippuv ese kõigub asendit muutes.",
+        "Hoonete ja tänavapildi detailid muutuvad ja nihkuvad edasi, näidates dünaamilist stseeni."
+      ],
+      "snr": "044",
+      "ajad": [
+        "362.750",
+        "366.083"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab päikeselist päevast linnavaadet, kus helehall BMW E36 sedaan sõidab mööda laia mitmerealist asfaltteed. Tee ääres on hoolitsetud murualad ja tihe puude allee. Taamal on näha erinevaid linnaehitisi, sealhulgas kortermaju, tööstuskorsten ja madalamaid hooneid. Teel liigub lisaks BMW-le ka punavalge linnaliini buss. Taevas on pilvitu või väheste pilvedega, mis viitab suvisele või kevadisele päevale. Üldmulje on dünaamiline, edastades sõiduki liikumist läbi linnakeskkonna.",
+      "actions": [
+        "Sõiduk sõidab mööda teed",
+        "Buss liigub linnatänaval"
+      ],
+      "keywords": [
+        "Linnaliiklus",
+        "BMW E36",
+        "Asfalttee",
+        "Päevane aeg",
+        "Suvi",
+        "Päikesepaiste",
+        "Rohelus",
+        "Linnakeskkond",
+        "Buss",
+        "Sõiduk"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "BMW E36 sedaan",
+        "Asfalttee",
+        "Muruala",
+        "Puu",
+        "Linnaliini buss",
+        "Hoone",
+        "Tööstuskorsten",
+        "Valgustuspost",
+        "Lipud",
+        "Trollibussijuhtmed",
+        "Liiklusmärgid",
+        "Teejooned"
+      ],
+      "colorcodes": [
+        "#C0C0C0",
+        "#3D4A4A",
+        "#4A804A",
+        "#A0C0D0",
+        "#E0E0E0",
+        "#403020"
+      ],
+      "texts": [
+        "Mõned tekstid lippudel ja plakatitel, kuid pole loetavad"
+      ],
+      "persons": [
+        "Autojuht (BMW-s)",
+        "Inimesed kauguses"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Erinevad kaadrid näitavad sama heledat sedaani liikumises mööda laia teed, kus auto positsioon ja suund vaataja suhtes muutuvad.",
+        "Esimene kaader näitab autot lähenemas eestvaates, teine kaader jälgib autot tagantvaates ja kolmas kaader on autost juba kaugemal, kui see jätkab teel liikumist.",
+        "Tagaplaani elemendid (hooned, buss) muutuvad auto liikumisega kooskõlas, pakkudes erinevaid vaatenurki linnamaastikule.",
+        "Esimene pilt keskendub rohkem auto ette ja kaugusesse jäävale tööstuskorstnale, samas kui hilisemates piltides on paremini näha elumaju ja lähedal liikuvat bussi."
+      ],
+      "snr": "045",
+      "ajad": [
+        "366.083",
+        "373.333"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab autosalongi tagumiselt istmelt vaadatuna ettepoole läbi esiklaasi. Autos istuvad kaks meest: vasakul on juht, kelle käed hoiavad rooli, ja paremal on kaassõitja. Juhi nägu peegeldub tahavaatepeeglis. Peegli küljes ripub männipuu kujuline õhuvärskendaja. Esiklaasil on näha vihmapiiskasid, mis viitavad niiskele ilmale. Autos on näha armatuurlaud ja raadio/CD-mängija. Väljaspool autot muutub maastik: alguses on näha roheline puude ja põõsastega ääristatud tee, mis viib välja avaramale alale majade ja garaažiuksega. Kauguses on näha teisi hooneid ja autosid. Üldmulje on päevasest autosõidust läbi mitmekesise maastiku, mis algab rohelisemast ja muutub hoonestatumaks.",
+      "actions": [
+        "Sõitmine autoga",
+        "Vaade läbi esiklaasi"
+      ],
+      "keywords": [
+        "Auto",
+        "Sõit",
+        "BMW",
+        "Mees",
+        "Teekond",
+        "Maastik",
+        "Vihm",
+        "Salong"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "BMW rool",
+        "Armatuurlaud",
+        "Tahavaatepeegel",
+        "Õhuvärskendaja (männipuu)",
+        "Raadio/CD-mängija",
+        "Esiklaas",
+        "Vihmapiisad",
+        "Tee",
+        "Puud",
+        "Põõsad",
+        "Maja",
+        "Garaažiuks",
+        "Auto (teine)"
+      ],
+      "colorcodes": [
+        "#434C48",
+        "#7AA249",
+        "#B0B8BF",
+        "#D9D9D9",
+        "#262626"
+      ],
+      "texts": [
+        "BMW"
+      ],
+      "persons": [
+        "Juht (mees)",
+        "Kaassõitja (mees)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on esiklaasil näha vihmapiiskasid, järgmistel piltidel on need kadunud või vähem märgatavad.",
+        "Väljaspool autot muutub maastik: esimesel pildil on rohkem rohelust ja kauguses metsa, järgmistel piltidel on rohkem näha maju, aedasid ja garaažiuksi.",
+        "Tahavaatepeegli peegeldus ja vaatenurk on piltidel veidi erinevad, mis viitab auto liikumisele.",
+        "Juhi käte asend roolil on piltide vahel pisut muutunud."
+      ],
+      "snr": "046",
+      "ajad": [
+        "373.333",
+        "379.000"
+      ]
+    },
+    {
+      "explanation": "Stseen on filmitud auto esiklaasi tagant, vaadates sisse auto salongi vihmasel päeval. Esiklaas on kaetud tihedalt vihmapiiskadega, mis annab stseenile pisut melanhoolse või pingelise varjundi. Autos on kolm inimest: kiilakas mees istub ees paremal (kaadri järgi vasakul) kaasreisija kohal, naine istub tagaistmel juhi taga (kaadri järgi paremal) ja mees roolil (kaadri järgi paremal). Juhi nägu on rooli ja vaatenurga tõttu osaliselt varjatud. Taustal, läbi tagaklaasi ja esiklaasi, paistab roheline loodus ja majad, vihjates asulale või äärelinnale. Auto värvus on hele, tõenäoliselt valge või helehall. Üldine valgus on hajutatud, nagu vihmasel päeval ikka.",
+      "actions": [
+        "Autoga sõidetakse või ollakse peatatud vihmases ilmas",
+        "Kiilakas mees ees vaatab kord otse ette, kord kõrvale, tema ilme muutub pingsamaks",
+        "Naine tagaistmel jälgib tegevust või vestleb, näol kerge naeratus",
+        "Juht on keskendunud roolimisele"
+      ],
+      "keywords": [
+        "Auto",
+        "Vihm",
+        "Sõit",
+        "Inimesed",
+        "Salong",
+        "Vihmane päev",
+        "Melanhoolne",
+        "Pingeline",
+        "Roheline",
+        "Maantee",
+        "BMW (võimalik automark)"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Valge auto",
+        "Esiklaas",
+        "Vihmapiisad",
+        "Tagavaatepeegel",
+        "Rool",
+        "Istmed",
+        "Turvavööd",
+        "Õhuvärskendaja (puu kujuline)",
+        "Roheline kleebis numbriga '4'",
+        "Hooned taustal",
+        "Puud taustal",
+        "Aed",
+        "Armatuurlaud"
+      ],
+      "colorcodes": [
+        "#E7E7E7",
+        "#4B7853",
+        "#405C61",
+        "#C39982",
+        "#272B2C",
+        "#805E4C",
+        "#627F83",
+        "#729675"
+      ],
+      "texts": [
+        "4",
+        "Stiliseeritud sümbol/logo (rohelisel kleebisel)",
+        "Tundmatu tekst/logo (õhuvärskendajal)"
+      ],
+      "persons": [
+        "Kiilakas mees (ees kaasreisija kohal, hele nahk, tumedam särk, vahetab pilgu suunda ja ilmet)",
+        "Naine (tagaistmel, heledate juustega, heledas riietuses, kergelt naeratav või rõõmus)",
+        "Meesjuht (roolis, tumedate juustega, nägu osaliselt varjatud)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "suvi",
+      "daytime": "päev",
+      "differences": [
+        "Kaadrite vahel muutub ees paremal istuva kiilaka mehe pilgu suund ja ilme – ta vaatab kord otse ette, kord veidi paremale, kord vasakule, ilme muutub pingsamaks.",
+        "Naise pea asend ja ilme tagaistmel muutuvad kergelt.",
+        "Vihmapiiskade asetus ja suurus esiklaasil on iga kaadri puhul erinev, viidates jätkuvale vihmale ja/või auto liikumisele."
+      ],
+      "snr": "047",
+      "ajad": [
+        "379.000",
+        "387.500"
+      ]
+    },
+    {
+      "explanation": "Vaade autost, tõenäoliselt BMW-st, läbi esiklaasi vihmasesse väliskeskkonda. Stseen on filmitud tagumiselt istmelt, vaadates ettepoole. Esiklaasil on näha vihmapiiskasid. Tahavaatepeegli küljes ripub pruuni värvi \"Little Tree\" õhuvärskendaja. Auto sisustus on tumedat tooni, armatuurlaud on varustatud vanema mudeli autoraadioga, millel on sinine taustvalgus. Parempoolsel kaassõitjaistmel on näha osaliselt inimest, kes kannab pruuni jaki ja süles on helesinine ese. Läbi esiklaasi on kauguses näha inimest, kes seisab valge garaažiukse või suure hoone ees. Taustal on rohelised puud, puidust tara ja rehvihunnikud, mis viitavad kas maalähedasele või tööstuslikule keskkonnale. Kolmandal pildil on auto kapott avatud, paljastades mootoriruumi.",
+      "actions": [
+        "Vihmasadu",
+        "Autokapoti avamine",
+        "Autos ootamine/vaatlemine"
+      ],
+      "keywords": [
+        "Auto",
+        "Vihm",
+        "BMW",
+        "Kapott avatud",
+        "Õhuvärskendaja",
+        "Garaaž",
+        "Ootamine",
+        "Päevaaeg"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor/outdoor",
+      "objects": [
+        "BMW rool",
+        "Armatuurlaud",
+        "Autoraadio",
+        "Tahavaatepeegel",
+        "Õhuvärskendaja (Little Tree)",
+        "Esiklaas",
+        "Vihmapiisad",
+        "Puud",
+        "Tara",
+        "Rehvid",
+        "Garaažiuks/Hoone",
+        "Autokapott",
+        "Autosalong",
+        "Istmed",
+        "Kleebis esiklaasil"
+      ],
+      "colorcodes": [
+        "#333333",
+        "#4CAF50",
+        "#FFFFFF",
+        "#8B4513",
+        "#00BFFF",
+        "#D2B48C",
+        "#FF0000"
+      ],
+      "texts": [
+        "BMW (roolil)",
+        "Little Trees (õhuvärskendajal, oletatav)",
+        "Punane kleebis (tekst loetamatu)"
+      ],
+      "persons": [
+        "Üksikisik autos (kaassõitja, osaliselt nähtav)",
+        "Üksikisik väljas (kauguses, osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "suvi",
+      "daytime": "day",
+      "differences": [
+        "Kolmandal pildil on auto kapott avatud, samal ajal kui esimesel ja teisel pildil on see suletud."
+      ],
+      "snr": "048",
+      "ajad": [
+        "387.500",
+        "396.542"
+      ]
+    },
+    {
+      "explanation": "Stseen on filmitud valgest autost väljastpoolt, läbi esiklaasi auto sisemusse. Paistab, et on sadanud vihma või sajab, sest esiklaasil ja auto kapotil on näha veetilku. Taustal on roheline taimestik ja hoone kontuur, mis viitab välitingimustele, tõenäoliselt elamurajoonis või koduhoovis. Kaassõitja istmel istub kiilaspea mees, kes kannab ruudulist särki ja vaatab kergelt paremale, juhi poole või otse ette. Tagantjärele liigub juhiistmele pikajuukseline naine, kes võtab rooli ja pöörab pilgu mehe poole. Naine kannab punaka varjundiga riietust ja tema sõrmusesõrmes on rõngas. Auto sisemuses ripub tahavaatepeegli küljes puukujuline õhuvärskendaja ning esiklaasi paremal pool on roheline kleeps, millel on kiri \"EKO\" ja lehe sümbol. Üldine valgusküllus on pehme, iseloomulik pilvisele või vihmasele päevale.",
+      "actions": [
+        "Mees istub kaassõitja kohal ja vaatab ringi",
+        "Naine istub juhiistmele",
+        "Naine hoiab rooli",
+        "Naine vaatab mehe poole"
+      ],
+      "keywords": [
+        "auto",
+        "sõit",
+        "vihm",
+        "vihmane ilm",
+        "siseruum",
+        "väli",
+        "valge auto",
+        "inimesed",
+        "paar",
+        "vestlus",
+        "ootamine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "auto (valge)",
+        "esiklaas",
+        "vihmapiisad",
+        "rool",
+        "tahavaatepeegel",
+        "õhuvärskendaja (puukujuline)",
+        "istmed",
+        "armatuurlaud",
+        "kleeps (roheline)",
+        "taimestik",
+        "hoone",
+        "mehe särk (ruuduline)",
+        "naise riietus (punane)",
+        "sõrmus"
+      ],
+      "colorcodes": [
+        "#E0E0E0",
+        "#4F7049",
+        "#806A57",
+        "#BF3B3B",
+        "#2E2E2E"
+      ],
+      "texts": [
+        "EKO (rohelisel kleepsul, lehe sümboliga)"
+      ],
+      "persons": [
+        "mees (kiilas)",
+        "naine (blondide juustega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "suvi",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on juhiiste tühi.",
+        "Teisel pildil hakkab naine juhiistmele istuma, näha on ta juuste ja õla osa.",
+        "Kolmandal pildil istub naine täielikult juhiistmel, hoiab roolist ja vaatab kaassõitja poole."
+      ],
+      "snr": "049",
+      "ajad": [
+        "396.542",
+        "399.583"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub auto salongis, kus on kaks inimest: mees esiplaanil vasakul ja naine taga paremal. Väljas sajab vihma, mis on näha autoaknalt voolavate piiskade kaudu ja loob üldiselt sumeda roheka-halli valguse. Mees on kiilas või väga lühikeste juustega, tal on vuntsid ja ta vaatab kaamera poole kerge muigega või rahulikul ilmel. Naine on pikkade blondide juustega ja kannab punase-valge äärisega jopet. Tema näoilme muutub stseeni jooksul, peegeldades erinevaid emotsioone või reaktsioone dialoogile. Auto sisustus on tume, peamiselt musta või tumehalli värvi istmetega. Üldine atmosfäär on tingitud vihmast ja dialoogist, mis viitab võimalikule pingele või tõsisele vestlusele.",
+      "actions": [
+        "Mehe vaatamine kaamera poole",
+        "Naise pilgu ja näoilme muutumine",
+        "Vihmasadu väljaspool autot",
+        "Vestlus auto sees"
+      ],
+      "keywords": [
+        "Autostseen",
+        "Siseruum",
+        "Vihmane ilm",
+        "Vestlus",
+        "Mees",
+        "Naine",
+        "Vuntsid",
+        "Blondid juuksed",
+        "Pingeline olukord"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Auto",
+        "Autoiste",
+        "Vihmapiisad",
+        "Aken",
+        "Jope"
+      ],
+      "colorcodes": [
+        "#2b2b2b",
+        "#4f6a61",
+        "#ae3c3e",
+        "#dcdcdc",
+        "#e5d8b7",
+        "#b5b7b9",
+        "#a0b2ae"
+      ],
+      "texts": [
+        "You don't have to be afraid of me,",
+        "I know what is going on, but.."
+      ],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise näoilme ja pilk muutub: esimesel pildil vaatab ta ette ja paremale, teisel pildil on ta silmad suletud või vaatab ta alla nukra/mõtiskleva ilmega, kolmandal pildil vaatab ta jälle paremale ette.",
+        "Subtiitrid muutuvad: esimesel ja teisel pildil on tekstiks \"You don't have to be afraid of me,\", kolmandal pildil \"I know what is going on, but..\".",
+        "Mehe suu asend muutub: esimesel ja teisel pildil on suu suletud, kolmandal pildil on suu kergelt avatud, mis viitab, et ta räägib."
+      ],
+      "snr": "050",
+      "ajad": [
+        "399.583",
+        "404.208"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kaht inimest autos vihmasel päeval. Keskel on kiilas mees, kes istub juhi kõrvalistmel, suunaga esiakna poole. Tema pilk ja kehahoiak muutuvad stseeni jooksul: esialgu vaatab ta aknast välja, mõtisklevalt, seejärel pöörab pilku ettepoole, otsekui vestlusesse kaasa haarates, ja lõpuks vaatab otse, ilme muutub tõsisemaks ja resignatiivsemaks. Mehel on seljas pruun pikkade varrukatega särk või jakk. Paremal on näha naise blondide juuste tagumine osa ja õlg, viidates, et ta on kas roolis või istub mehe kõrval. Auto aknast paistab vihmamärg roheline loodus – puud ja rohi –, mis annab tunnistust vihmasest suvepäevast. Vihmapiisad on näha ka auto aknal. Stseeni üldine toon on melanhoolne või tõsine, mida rõhutavad nii tegelaste ilmed kui ka subsotsiaalsed laused.",
+      "actions": [
+        "Vaatamine aknast välja",
+        "Mõtisklemine",
+        "Vestlemine (kaudselt, subtiitrite ja ilmete põhjal)",
+        "Autos istumine"
+      ],
+      "keywords": [
+        "Auto",
+        "Vestlus",
+        "Mõtisklus",
+        "Vihm",
+        "Loodus",
+        "Päev",
+        "Mehe ja naise vaheline interaktsioon",
+        "Reis",
+        "Tõsidus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Auto (interjöör)",
+        "Autoaken",
+        "Puud",
+        "Roheline maastik",
+        "Vihmapiisad"
+      ],
+      "colorcodes": [
+        "#2F6131",
+        "#6F5B4B",
+        "#4C5357",
+        "#C7B28F"
+      ],
+      "texts": [
+        "I know what is going on, but..",
+        "It's just a job.",
+        "what does it matter?"
+      ],
+      "persons": [
+        "Kiilas mees",
+        "Naine (blondide juustega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Mehe pea asend ja pilgu suund muutuvad esimeses kaadris aknast välja vaatamisest teises kaadris ettepoole ja kolmandas otse vaatamiseks.",
+        "Mehe näoilme muutub mõtisklevast tõsisemaks ja resignatiivsemaks.",
+        "Kaadrite all olevad subtiitrid muutuvad, peegeldades vestluse või mõtiskluse arengut."
+      ],
+      "snr": "051",
+      "ajad": [
+        "404.208",
+        "410.708"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kaht inimest – kiilaka heleda nahaga meest ja pikkade blondide juustega heleda nahaga naist – autos vihmasel päeval. Mees asub kaadri vasakus servas, osaliselt nähtav ja vaatab ette või kergelt vasakule. Naine on paremal pool, paremini nähtav, istudes tõenäoliselt kaasreisija istmel. Ta on dialoogis, tema ilmed muutuvad murelikust ja mõtlikust enesekindla ja frustreeritu ning seejärel küsiva ja mureliku vastu. Akna taga sajab vihma ja on näha rohelist loodust, mis viitab väljas toimuvale tegevusele päevasel ajal. Auto sisemus on tumedates toonides, iste on tume. Üldine atmosfäär on pingeline või tõsine, mida rõhutavad ekraanil kuvatavad subtiitrid. Valgus on jahe, desatureeritud rohelised ja sinised toonid väljastpoolt kontrastivad inimeste nahatooni ja naise heleda jopega roosaka topi peal.",
+      "actions": [
+        "Naine räägib/küsimusi esitab",
+        "Mees kuulab/vaatab ette",
+        "Vihm sajab aknal",
+        "Auto sõidab/seisab"
+      ],
+      "keywords": [
+        "Autostseen",
+        "Vihmane ilm",
+        "Vestlus",
+        "Pingeline",
+        "Sisevaade",
+        "Päevaaeg",
+        "Dramaatiline",
+        "Põhjamaalik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Auto interjöör",
+        "Autoaken",
+        "Vihmapiiskad",
+        "Rool (osaliselt nähtav)",
+        "Peatugi",
+        "Riietus (jakk, pluus)"
+      ],
+      "colorcodes": [
+        "#4D766F",
+        "#D9C1B1",
+        "#B0A28F",
+        "#3C3D3E",
+        "#E8E8E8",
+        "#F48A8B"
+      ],
+      "texts": [
+        "what does it matter?",
+        "Just go home!",
+        "Why do you need these suits?"
+      ],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Naise näoilme muutub murelikust ja mõtlikust enesekindlaks ja seejärel küsivaks.",
+        "Naise peapööre ja pilgu suund varieeruvad kaadrite vahel.",
+        "Subtiitrid muutuvad, esitades erinevaid dialoogirepliike."
+      ],
+      "snr": "052",
+      "ajad": [
+        "410.708",
+        "419.000"
+      ]
+    },
+    {
+      "explanation": "Stseen on filmitud auto seest vihmasel päeval, vaadates läbi märja esiklaasi välja. Esiklaasil on näha vihmapiisku, mis annavad pildile udusema ja märja tunde. Auto salongis on esiplaanil rooli vasakpoolne osa ja armatuurlaud. Tahavaatepeegli küljes ripub musta värvi kollaste leekidega autolõhnastaja 'Little Tree' sildiga 'Black Ice'. Peegli kohal on sisevalgusti põlema pandud. Läbi esiklaasi paistab kauguses valge angaari- või laohoone. Hoone ees on näha virnas rehve ja üks inimfiguur, kes on teisel ja kolmandal pildil selgemalt ja natuke lähemal kui esimesel. Stseeni valgustus viitab päevasele ajale, kuid pilvisele ilmale. Subtiitrid viitavad käimasolevale dialoogile.",
+      "actions": [
+        "Vestlus autos",
+        "Inimene seisab väljas"
+      ],
+      "keywords": [
+        "vihm",
+        "auto salong",
+        "armatuurlaud",
+        "tahavaatepeegel",
+        "autolõhnastaja",
+        "laohoone",
+        "rehvid",
+        "dialoog",
+        "pilvine ilm"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "auto armatuurlaud",
+        "rool",
+        "tahavaatepeegel",
+        "auto sisemine valgusti",
+        "tuuleklaas",
+        "vihmapiiskad",
+        "autolõhnastaja (Little Tree, Black Ice)",
+        "valge angaar/laohoone",
+        "rehvihunnikud",
+        "autoiste",
+        "subtiitrid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#A9A9A9",
+        "#FFD700"
+      ],
+      "texts": [
+        "Why do you need these suits?",
+        "It is Ragnar's thing",
+        "Black Ice"
+      ],
+      "persons": [
+        "kaks inimest (üks autos (osaliselt nähtav), üks väljas)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimese pildi subtiitrid \"Why do you need these suits?\" erinevad teise ja kolmanda pildi subtiitritest \"It is Ragnar's thing\".",
+        "Teise ja kolmanda pildi subtiitrid on identsed.",
+        "Inimfiguur angaari ees on esimesel pildil veidi kaugemal ja vähem selge, samas kui teisel ja kolmandal pildil on ta veidi lähemal ja detailsemalt näha, kuid tema asukoht ei muutu teise ja kolmanda pildi vahel."
+      ],
+      "snr": "053",
+      "ajad": [
+        "419.000",
+        "428.542"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub auto sees, kus kaks inimest – mees ja naine – vestlevad. Väljas sajab vihma, mis on näha läbi autoakna. Üldine valgus on hämar ja rohekassinise tooniga, luues melanhoolse ja mõtliku atmosfääri. Naine alustab juttu, öeldes, et tal on midagi vaja öelda, seejärel vajab mõtlemisaega ja lõpuks täpsustab, et jutt käib Arturist. Mees kuulab tähelepanelikult, vahetades pilke naisega ja jälgides tema ilmet. Stseenis on tunda teatavat pinget ja ebakindlust, eriti seoses teemaga \"Artur\".",
+      "actions": [
+        "Vestlemine",
+        "Mõtlemine",
+        "Kuulamine",
+        "Vaatamine",
+        "Naeratamine",
+        "Sajab vihma"
+      ],
+      "keywords": [
+        "Auto",
+        "Vestlus",
+        "Pingeline",
+        "Mõtlik",
+        "Vihmane",
+        "Hämar",
+        "Ebakindlus",
+        "Saladus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Auto",
+        "Autoiste",
+        "Autoaken",
+        "Vihm"
+      ],
+      "colorcodes": [
+        "#3a5c57",
+        "#b8a67a",
+        "#c7d1cc",
+        "#e6e5d8",
+        "#2a2a2a",
+        "#000000"
+      ],
+      "texts": [
+        "I have to tell you something.",
+        "I have to think.",
+        "No. About where is Artur."
+      ],
+      "persons": [
+        "Mees (lühikeste heledate juuste ja vuntsidega)",
+        "Naine (pikkade blondide juustega, seljas hele riideese punaste detailidega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil vaatab naine tõsise ilmega mehe poole ja ütleb, et tal on midagi öelda, samal ajal kui mees teda kuulab.",
+        "Teisel pildil on naine mõtlikult allapoole ja eemale vaatamas, öeldes, et tal on vaja mõelda. Mees pöörab kergelt pead temast eemale.",
+        "Kolmandal pildil pöörab naine pilgu tagasi mehe poole ja naeratab kergelt, peaaegu närviliselt, täpsustades, et jutt käib Arturist. Mees vaatab talle nüüd intensiivsemalt otsa.",
+        "Tegelaste näoilmed ja kehakeel arenevad koos dialoogi kulgemisega."
+      ],
+      "snr": "054",
+      "ajad": [
+        "428.542",
+        "431.917"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset auto salongis vihmase ilmaga, kus on näha vähemalt kolme inimest. Kaamera on paigutatud keskmisesse lähivõttesse, keskendudes esiistmel istuvale kiilakale mehele ja tema kõrval istuvale naisele. Autojuht on näha vaid osaliselt pildi vasakus servas. Väljaspool autot on näha rohelist puudega kaetud maastikku, mis on vihma tõttu udune ja aknal on näha veetilku. Mehe pilk on alguses suunatud ette, kuid viimases kaadris pöörab ta pea ja vaatab naisele otsa. Naine on enamasti näha profiilis, tema juuksed on heledad. Valgus on summutatud ja sinakashallika tooniga, mis annab stseenile melanhoolse või tõsise meeleolu.",
+      "actions": [
+        "Vestlemine",
+        "Vaatamine ette",
+        "Pea pööramine",
+        "Kuulamine",
+        "Sõitmine (kaudselt)"
+      ],
+      "keywords": [
+        "Autosalong",
+        "Vihm",
+        "Vestlus",
+        "Pinge",
+        "Sõit",
+        "Mehed ja naised",
+        "Melanhoolne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Autoaken",
+        "Vihmapiisk",
+        "Auto iste",
+        "Puud (väljaspool autot)",
+        "Auto armatuurlaud (osaliselt)"
+      ],
+      "colorcodes": [
+        "#3b7b4d",
+        "#6a8286",
+        "#634b3c",
+        "#a59e8d",
+        "#2b3c4a"
+      ],
+      "texts": [
+        "No. About where is Artur.",
+        "He's not working with us anymore.",
+        "He did not tell me anything about it."
+      ],
+      "persons": [
+        "Kiilakas mees",
+        "Naine (heledate juustega)",
+        "Autojuht (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Kiilaka mehe pilk ja näoilme muutuvad: esimeses kaadris vaatab ta ette mõtlikult, teises kaadris jätkab ette vaatamist, justkui kuulates, ning kolmandas kaadris pöörab ta pea teravalt naise poole, ilmega, mis viitab üllatusele või murele."
+      ],
+      "snr": "055",
+      "ajad": [
+        "431.917",
+        "443.958"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset vihmasel ja sombusel päeval autos ja selle vahetus läheduses, üldise jaheda sinakasrohelise tooniga. Kaamera fookuses on kiilakas mees auto juhiistmel, nähtud tagantpoolt, ning blondide juustega naine kaasreisija istmel, kes sarnaneb Amy Schumeriga. Naine vaatab mehele mureliku või pinges ilmega, vestlusest annab aimu subtiiter. Hiljem näeme naist autost väljumas, kandes punase ja valge detailiga jopet ning tumedaid pükse. Tema kõrval on näha teist meest, kes kannab mustrilist särki ja pruuni jopet, seistes rohelise taimestiku ja puitaiaga maastiku taustal. Vihm jätkub. Stseeni lõpupoole muutub auto interjöör märkimisväärselt pimedamaks, mees on endiselt rooli taga istumas, suures osas siluettidena. Tahavaatepeegli küljes ripub puukujuline auto lõhnaõhuti, andes edasi melanhoolset või järelemõtlikku meeleolu.",
+      "actions": [
+        "Vestlemine autos",
+        "Autost väljumine",
+        "Autos istumine",
+        "Vihmas seilamine (kaudselt)"
+      ],
+      "keywords": [
+        "Vihmane ilm",
+        "Autointerjöör",
+        "Vestlus",
+        "Lahkumine",
+        "Maapiirkond",
+        "Pingeline õhkkond",
+        "Mure",
+        "Sombune"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Auto",
+        "Mees (kiilakas)",
+        "Naine (blondide juustega)",
+        "Vihm",
+        "Roosakaspunane jope",
+        "Tume särk",
+        "Sinised teksad",
+        "Puitai",
+        "Roheline taimestik",
+        "Tahavaatepeegel",
+        "Auto lõhnaõhuti",
+        "Aken"
+      ],
+      "colorcodes": [
+        "#3C5A66",
+        "#D53F4C",
+        "#E0DFDD",
+        "#566D3C",
+        "#282C2E"
+      ],
+      "texts": [
+        "He did not tell me anything about it."
+      ],
+      "persons": [
+        "Mees (kiilakas)",
+        "Naine (blondide juustega)",
+        "Teine mees (pruuni jopega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "suvi",
+      "daytime": "päev",
+      "differences": [
+        "Valgustus muutub stseeni jooksul heledamast (vestluse ajal) oluliselt tumedamaks (auto interjööris pärast lahkumist), viitades meeleolu või aja muutusele.",
+        "Kaadrite fookus nihkub: alguses on vestlus autos, seejärel naise autost väljumine koos teise isikuga väljas ja lõpuks üksildane mees pimenevas auto salongis.",
+        "Tegevused muutuvad: vestlusest autost väljumiseks ja lõpuks passiivseks olemiseks autos."
+      ],
+      "snr": "056",
+      "ajad": [
+        "443.958",
+        "451.458"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab auto interjööri esiakna kaudu, kus mees istub juhiistmel. Pildistatud on tema selja tagant ja seejärel pöörab ta pea kaamera poole. Auto tahavaatepeegli küljes ripub Little Treesi kujuline õhuvärskendaja. Väljaspool autot on näha rohelisi puid ja põõsaid, mis viitavad maastikule või metsaäärsele alale, ning ähmane puidust aed või tara. Esimene kaader on tunduvalt pimedam ja summutatud toonides, järgnevad kaadrid on heledamad ja selgemad. Kolmandas kaadris on mehe suu avatud, mis viitab rääkimisele, ning ekraani allservas on näha subtiitrid. Mehel on paljas pea ja ta kannab tumedat riietust. Tema vasak käsi hoiab kinni auto lae vooderdist juhipoolse päikesesirmi lähedalt.",
+      "actions": [
+        "Istumine autos",
+        "Auto juhtimine (kaudne)",
+        "Pea pööramine",
+        "Rääkimine"
+      ],
+      "keywords": [
+        "Auto interjöör",
+        "Juht",
+        "Õhuvärskendaja",
+        "Metsaäär",
+        "Roheline loodus",
+        "Pimedus",
+        "Valgusmuutus",
+        "Subtiitrid",
+        "Mehe profiil",
+        "Sõit"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Auto",
+        "Tahavaatepeegel",
+        "Õhuvärskendaja (Little Trees)",
+        "Esiklaas",
+        "Päikesesirmi piirkond",
+        "Auto lagi",
+        "Juhiiste",
+        "Rool (osaliselt)",
+        "Puud",
+        "Põõsad",
+        "Tara/Aed",
+        "Mehe riietus",
+        "Mehe käsi"
+      ],
+      "colorcodes": [
+        "#30353A",
+        "#4F664A",
+        "#7B9C74",
+        "#B09177",
+        "#B45E1F",
+        "#311C10",
+        "#7A8D8E"
+      ],
+      "texts": [
+        "The job is easy,"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimese pildi valgustus on oluliselt tumedam ja desatureeritum võrreldes teise ja kolmanda pildiga, mis on märgatavalt heledamad ja värvilisemad.",
+        "Mehe pea asend muutub: esimeses ja teises pildis on ta suunatud ettepoole või kergelt eemale, kolmandas pildis on ta pea pööratud vasakule (vaataja paremale), vaadates ja ilmselt rääkides kellegagi.",
+        "Suu asend: esimeses kahes pildis on mehe suu suletud, kolmandas aga kergelt avatud, mis on kooskõlas rääkimisega.",
+        "Subtiitrid: ainult kolmandal pildil on näha subtiitrid \"The job is easy,\".",
+        "Käe asend: esimesel pildil ei ole mehe vasak käsi (vaataja paremal) selgelt näha, teises ja kolmandas pildis on see aga nähtavalt haaramas auto lae vooderdist päikesesirmi lähedalt."
+      ],
+      "snr": "057",
+      "ajad": [
+        "451.458",
+        "462.250"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub auto sees, vaadatuna tagantpoolt juhi õla tagant. Keskealine või vanem mees juhib autot, kandes tumedaid roheka läikega päikeseprille ja pruunikat särki. Tema suu on avatud, viidates rääkimisele. Autoks on BMW, mida reedab roolil olev logo. Paremal pool on näha armatuurlauda ja õhuavasid. Tahavaatepeegli küljes ripub musta värvi leegimustriga (kollased ja oranžid leegid) männikujuline auto lõhnakuusk, millel on näha ka tekstid \"LITTLE TREES\" ja \"Cinnamon S...\". Tuuleklaasi vasakul ülaosas on näha roosakat kleepsu. Auto aknast paistab välja lopsakas roheline puittaimestik, mis annab märku suvisest või kevadisest aastaajast ja päevasest ajast. Stseenis on näha ka teise isiku õlga paremal pool, viidates kaasreisijale. Kaks esimest pilti sisaldavad subtiitreid, kolmandal pildil need puuduvad.",
+      "actions": [
+        "Auto juhtimine",
+        "Rääkimine",
+        "Auto sees istumine",
+        "Reisimine"
+      ],
+      "keywords": [
+        "Auto",
+        "Autojuht",
+        "Päikeseprillid",
+        "Lõhnakuusk",
+        "Roheline loodus",
+        "Subtiitrid",
+        "Rääkimine",
+        "Sõit",
+        "BMW"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Auto",
+        "Rool",
+        "Armatuurlaud",
+        "Õhuavad",
+        "Tahavaatepeegel",
+        "Lõhnakuusk",
+        "Päikeseprillid",
+        "Roosakas kleeps/silt",
+        "Puud",
+        "Lehestik"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#2b2b2b",
+        "#4c6f4a",
+        "#788d75",
+        "#6a5e4d",
+        "#e08c9f",
+        "#f0a20a",
+        "#e05e1a",
+        "#c0c0c0"
+      ],
+      "texts": [
+        "The job is easy,",
+        "but the man is heavy, as you know.",
+        "BMW logo",
+        "LITTLE TREES",
+        "Cinnamon S..."
+      ],
+      "persons": [
+        "Autojuht (mees)",
+        "Kaasreisija"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimene ja teine pilt sisaldavad subtiitreid, kolmandal pildil need puuduvad.",
+        "Subtiitrite tekst erineb esimesel ja teisel pildil.",
+        "Mehe suu asend on veidi erinev esimesel ja teisel pildil, mis viitab rääkimisele.",
+        "Kaamera asendis on minimaalsed muutused, mis aga ei muuda stseeni üldmuljet."
+      ],
+      "snr": "058",
+      "ajad": [
+        "462.250",
+        "478.125"
+      ]
+    },
+    {
+      "explanation": "Stseen on filmitud auto salongist, vaadates üle kiilaspäise mehe õla, kes istub juhiistmel. Mees on seljaga kaamera poole ja vaatab alla armatuurlaua või keskkonsooli suunas. Salongi tahavaatepeegli küljes ripub klassikaline puukujuline õhuvärskendaja, mis on oranži-musta värvi. Auto esiklaasist paistab välja roheline loodus koos puidust aiaga, mis viitab maapiirkonnale või rohelisele alale. Valgus viitab päevaajale. Kaadrid näitavad mehe tegevust auto sees, kus ta ulatub millegi järele, ja hiljem hoiab käes tumedat, ristkülikukujulist eset, mis näib olevat tulirelv.",
+      "actions": [
+        "Mees vaatab alla",
+        "Mees ulatab käega millegi järele",
+        "Mees hoiab käes tumedat tulirelva"
+      ],
+      "keywords": [
+        "Autosalong",
+        "Kiilaspäine mees",
+        "Õhuvärskendaja",
+        "Tahavaatepeegel",
+        "Roheline loodus",
+        "Puidust aed",
+        "Tulirelv",
+        "Päevaaeg"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Auto armatuurlaud",
+        "Tahavaatepeegel",
+        "Päikesesirm",
+        "Istme seljatugi",
+        "Rool (osaliselt)",
+        "Puukujuline õhuvärskendaja",
+        "Puidust aed/hekk",
+        "Rohelised puud/põõsad",
+        "Püstol (tume, ristkülikukujuline ese)"
+      ],
+      "colorcodes": [
+        "#4A6C4A",
+        "#E0E0E0",
+        "#5A3C2A",
+        "#F4C000",
+        "#202020",
+        "#A0B0B0"
+      ],
+      "texts": [
+        "LITTLE TREES"
+      ],
+      "persons": [
+        "Kiilaspäine mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab mees lihtsalt alla ja tema käed ei ole nähtavad.",
+        "Teisel pildil on mees kergelt asendit muutnud ja tema parem käsi on näha hoidmas tumedat püstolit auto keskkonsooli või armatuurlaua lähedal.",
+        "Mehe pea on teisel pildil veidi rohkem kallutatud kui esimesel."
+      ],
+      "snr": "059",
+      "ajad": [
+        "478.125",
+        "482.167"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub auto salongis, vaadatuna tagaistmelt ettepoole. Näha on kahte meest: vanem mees juhiistmel ja osaliselt nähtav reisija kõrvalistmel. Autojuht kannab prille ja pruunikat jakki ning hoiab käsi BMW roolil. Reisija hoiab paremas käes musta püstolit, mis on suunatud ettepoole. Auto esiklaas on kaetud vihmapiiskadega, viidates vihmasele või märjale ilmale. Läbi esiklaasi on näha tihedat rohelist metsa või puuderivi, mis annab stseenile metsiku või eraldatud asukoha tunde. Tahavaatepeegli küljes ripub leegimotiiviga 'Little Trees' õhuvärskendaja. Esiklaasi ülaosas on näha ka punane kleebis. Stseen on üldiselt sünges ja pingelises meeleolus, mida võimendab relva kohalolek.",
+      "actions": [
+        "Autojuht juhib autot",
+        "Reisija hoiab püstolit",
+        "Püstol on suunatud ettepoole"
+      ],
+      "keywords": [
+        "Autosalong",
+        "BMW",
+        "Püstol",
+        "Käsi",
+        "Autojuht",
+        "Reisija",
+        "Mets",
+        "Vihm",
+        "Pingeline",
+        "Sünge",
+        "Relvastatud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "BMW auto",
+        "Rool",
+        "Püstol",
+        "Prillid",
+        "Autojuhi jakk",
+        "Tahavaatepeegel",
+        "Auto õhuvärskendaja (Little Trees)",
+        "Esiklaas",
+        "Vihmapiiskad",
+        "Mets",
+        "Puud",
+        "Punane kleebis"
+      ],
+      "colorcodes": [
+        "#614E3F",
+        "#345A46",
+        "#1E1F21",
+        "#E24A58",
+        "#D98632"
+      ],
+      "texts": [
+        "Black Ice",
+        "AIR FRESHENER"
+      ],
+      "persons": [
+        "Autojuht (vanem mees, prillidega)",
+        "Reisija (käsi püstoliga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Püstolit hoidva käe asend on muutunud: esimesel pildil on käsi madalamal, teisel pildil on käsi veidi kõrgemal ja püstol paremini nähtav.",
+        "Autojuhi pea asend on veidi muutunud: teisel pildil on tema pea veidi rohkem vasakule (akna poole) pööratud."
+      ],
+      "snr": "060",
+      "ajad": [
+        "482.167",
+        "485.333"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maalähedast või metsast ümbritsetud keskkonda, kus asub puidust palkmaja. Kruusa- või mullateel maja ees on pargitud kaks autot: hall BMW sedaan ja must Subaru Forester maastur koos katusel oleva pagasiboksiga. Ühes kaadris on näha, kuidas isik väljub BMW-st, misjärel ta kõnnib maja veranda suunas ja siseneb puidust ustest. Ümbruskonda iseloomustab tihe roheline taimestik, kõrged puud ja rustikaalne puitai. Verandal on lisaks näha ka sinise raamiga jalgratas ja roheline kott.",
+      "actions": [
+        "Isik väljub autost",
+        "Isik kõnnib maja poole",
+        "Isik siseneb majja"
+      ],
+      "keywords": [
+        "Puitmaja",
+        "BMW",
+        "Subaru",
+        "Maastur",
+        "Sedaan",
+        "Pagasiboks",
+        "Mets",
+        "Maalähedane",
+        "Veranda",
+        "Jalgratas",
+        "Kruusatee"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "BMW sedaan",
+        "Subaru Forester",
+        "Pagasiboks (hall)",
+        "Puitmaja",
+        "Veranda",
+        "Puitai",
+        "Puud",
+        "Jalgratas (sinine)",
+        "Roheline kott",
+        "Kivist plaadid",
+        "Kruusatee"
+      ],
+      "colorcodes": [
+        "#8B8C8F",
+        "#0A0A0A",
+        "#4F6B4C",
+        "#785A3F",
+        "#B7B4A8",
+        "#344E41"
+      ],
+      "texts": [
+        "763 MRJ",
+        "942 BIJ"
+      ],
+      "persons": [
+        "Üks isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on BMW juhiuks avatud ja inimene on autost väljumas.",
+        "Teisel pildil on stseen fookuses majale, inimene siseneb majja ja valgus on märgatavalt pimedam, mis viitab kas ajamuutusele või stilistilisele valikule.",
+        "Kolmandal pildil on BMW juhiuks suletud, inimene ei ole enam autos ega selle läheduses nähtav ja valgus on taas heledam."
+      ],
+      "snr": "061",
+      "ajad": [
+        "485.333",
+        "493.125"
+      ]
+    },
+    {
+      "explanation": "Stseen on täiesti must. Pilte vaadates ei ole näha ühtegi objekti, tegelast, teksti ega värvitooni peale musta. Terviklik pilt koosneb kolmest identsest mustast ruudust, mis ei anna mingit visuaalset informatsiooni.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "tühi",
+        "pime",
+        "mitte midagi",
+        "kaadri puudumine"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik pildid on identsed – täiesti mustad. Erinevusi piltide vahel ei ole."
+      ],
+      "snr": "062",
+      "ajad": [
+        "493.125",
+        "540.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab dramaatilist ja kurba hetke vabas õhus. Keskel lamab mees rohelisel murul, seljas tume ülikond, valge särk ja tume lips. Tema valgel särgil on märgatav verelaik, mis viitab raskele vigastusele. Mehe silmad on suletud, mis annab aimu teadvusetusest või surmast. Ümber mehe tegutsevad teised isikud, kelle käed on nähtavad. Algselt on üks käsi mehe haava lähedal. Seejärel asetatakse mehe näole ja peale roheline, valge ja kollane lipp, mis meenutab Leedu lippu. Lipu asetavad ettevaatlikult paika teise isiku käed. Samal ajal on näha ka teisi käsi, millest ühel on digitaalkell, tegelemaks mehe haavaga. Stseen toimub rohusel alal, kus on ka mõned üksikud kuivanud lehed, mis viitab päevaajale ja võimalikule kevad-, suve- või varasügise hooajale.",
+      "actions": [
+        "lamamine",
+        "haavatuna olemine",
+        "verejooks",
+        "lipu asetamine",
+        "hoolitsemine haava eest (võimalik)",
+        "surnu katmine (võimalik)"
+      ],
+      "keywords": [
+        "mees",
+        "haavatu",
+        "veri",
+        "lipp",
+        "surm",
+        "ohver",
+        "muru",
+        "väljas",
+        "tragöödia",
+        "lein",
+        "Leedu lipp"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "mees",
+        "ülikond",
+        "särk",
+        "lips",
+        "veri",
+        "muru",
+        "käed",
+        "lipp (roheline, valge, kollane)",
+        "digitaalkell",
+        "kuivanud lehed"
+      ],
+      "colorcodes": [
+        "#3E5A2A",
+        "#FFFFFF",
+        "#2D2A3B",
+        "#8E0F0F",
+        "#32813E",
+        "#F3F3F3",
+        "#CFA62D",
+        "#B88E76",
+        "#4D4F50"
+      ],
+      "texts": [],
+      "persons": [
+        "haavatud/surnud mees",
+        "teised isikud (kelle käed on nähtavad)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel kaadril lamab mees üksi haavatuna murul ja üks käsi on tema haava lähedal.",
+        "Teisel kaadril hakatakse mehe näole ja peale asetama rohelist, valget ja kollast lippu ning ilmub rohkem käsi, millest ühel on digitaalkell.",
+        "Kolmandal kaadril katab lipp mehe pea täielikult ning käed tegelevad nii lipu sättimisega kui ka haavatud piirkonnaga."
+      ],
+      "snr": "063",
+      "ajad": [
+        "540.000",
+        "540.708"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub õues, rohelise looduse keskel, kus on näha puid, põõsaid ja rohumaad. Taevas on pilvine ja hallikas, mis annab stseenile kergelt sünge või tõsise meeleolu. Kaadris on kaks meest ja auto avatud pagasiruumiga. Üks meestest, kiilakas ja pruunis nahktagis ning sinistes teksades, kükitab maa peal, tegeledes millegagi, mis pole täpselt nähtav. Tema pilk on suunatud allapoole. Teine mees, kes on blondikate juuste ja päikeseprillidega, kannab samuti pruuni jakki, mustrilist särki ja siniseid teksaseid. Ta seisab, käed taskus, ja vaatab kükitava mehe poole. Meeste vahel toimub dialoog, mis on edastatud subtiitrite kaudu. Üldine atmosfäär on tõsine ja sisaldab küsimusi ja vastuseid tööga seotud õnnetuse kohta. Stseeni iseloomustab maaelu miljöö ja kahe mehe vaheline keskustelu.",
+      "actions": [
+        "Mees kükitab ja tegeleb maapinnal millegagi",
+        "Mees seisab ja jälgib kükitavat meest",
+        "Mehed räägivad omavahel",
+        "Auto pagasiruum on avatud"
+      ],
+      "keywords": [
+        "vestlus",
+        "maastik",
+        "õues",
+        "auto",
+        "mehed",
+        "nahktagi",
+        "teksad",
+        "pilvine",
+        "õnnetus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "auto",
+        "pagasiruum",
+        "puud",
+        "põõsad",
+        "rohi",
+        "pruun nahktagi",
+        "sinised teksad",
+        "päikeseprillid",
+        "mustriline särk"
+      ],
+      "colorcodes": [
+        "#A88058",
+        "#3C4C5C",
+        "#789060",
+        "#8C9CA4",
+        "#2C2C2C"
+      ],
+      "texts": [
+        "Jane told me that Artur is not working for you anymore?",
+        "Yes, he had an accident while working."
+      ],
+      "persons": [
+        "kiilakas mees (kükitab)",
+        "blondide juustega mees (seisab)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Erinevused piltide vahel seisnevad eelkõige subtiitrite lisandumises ja dialoogi edenemises.",
+        "Kükitava mehe asend muutub pisut, tema käed liiguvad pildilt pildile.",
+        "Seisva mehe pilk ja pea asend varieeruvad kergelt, viidates aktiivsele vestlusele."
+      ],
+      "snr": "065",
+      "ajad": [
+        "544.875",
+        "558.083"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest õues rohelise rohu ja mullateega kaetud alal. Vasakul on kiilaspeaga mees, seljas pruun nahktagi ja rohelised püksid, kes vestleb teise, osaliselt nähtava mehega. Vestluse käigus kiilaspeaga mees liigub kummardunud asendist, kus ta vaatab alla, püstisemasse asendisse, kus ta tõstab pea ja vaatab ettepoole, justkui rääkides või küsimust esitades. Teine mees on näha vaid paremalt poolt õlgade ja ülakeha osas, samuti pruunis nahktagis. Taustal on lai ala rohelise rohuga ja vasakul pool kulgeb pruunikas mullarada või -tee. Stseeni üldine õhkkond tundub tõsine, viidates arutelule tööl juhtunud õnnetuse üle.",
+      "actions": [
+        "Kummardumine",
+        "Pea tõstmine",
+        "Rääkimine",
+        "Vestlemine"
+      ],
+      "keywords": [
+        "Vestlus",
+        "Mehed",
+        "Õues",
+        "Nahktagi",
+        "Rohelus",
+        "Tõsine",
+        "Õnnetus",
+        "Küsimus",
+        "Mullatee"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Nahktagi (pruun)",
+        "Püksid (rohelised)",
+        "Rohi",
+        "Pinnas/muld",
+        "Mullatee",
+        "Taimestik"
+      ],
+      "colorcodes": [
+        "#593625",
+        "#4a6e3b",
+        "#7e6c5c",
+        "#c6ad98"
+      ],
+      "texts": [
+        "Yes, he had an accident while working.",
+        "What happened?"
+      ],
+      "persons": [
+        "Kiilaspeaga mees",
+        "Teine mees (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on kiilaspeaga mees kummardunud ja vaatab alla, samal ajal kui teisel pildil on ta pea üles tõstnud ja vaatab ettepoole, suu veidi avatud justkui räägiks.",
+        "Subtiitrite tekst on erinev: esimesel pildil on 'Yes, he had an accident while working.' ja teisel pildil 'What happened?'."
+      ],
+      "snr": "066",
+      "ajad": [
+        "558.083",
+        "563.625"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest avatud maastikul, mis on ümbritsetud tiheda rohelise taimestiku ja halli pilvise taevaga. Nad seisavad arvatavasti liiva- või kruusateel või metsalagendikul. Paremal pool on pargitud tumeda värvi sedaanauto, mille pagasiruum on avatud. Üks meestest, kiilaspäine ja tõsise ilmega, kannab tumepruuni nahktagi ja rohekaid pükse. Alguses vaatab ta teist meest, seejärel kükitab maha, pilk suunatud allapoole, justkui uurides midagi maapinnal või auto läheduses. Teine mees, kellel on heledad juuksed ja päikeseprillid, kannab samuti pruuni nahktagi, mustrilist särki ja teksapükse. Tema kehahoiak on enesekindlam, käed on sageli taskus või hoiavad vöökohta. Üldine õhkkond on tõsine ja dramaatiline, vihjates võimalikule kriminaalsele tegevusele või pingelisele vestlusele.",
+      "actions": [
+        "Meeste seismine",
+        "Mehe kükitamine",
+        "Pagamiruumi avamine",
+        "Üksteise vaatamine",
+        "Millegi uurimine maapinnalt"
+      ],
+      "keywords": [
+        "Pingeline",
+        "Krimi",
+        "Maastik",
+        "Mets",
+        "Pruun",
+        "Hall",
+        "Roheline",
+        "Mees",
+        "Auto",
+        "Nahktagi",
+        "Päikeseprillid",
+        "Kükitamine",
+        "Pilk",
+        "Pilvine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Kaks meest",
+        "Sedaanauto",
+        "Pagamiruumi luuk",
+        "Pruunid nahktagid",
+        "Päikeseprillid",
+        "Teksapüksid",
+        "Puud",
+        "Põõsad",
+        "Roheline taimestik",
+        "Pilves taevas"
+      ],
+      "colorcodes": [
+        "#5C3D2E",
+        "#3A5B3B",
+        "#99A1A5",
+        "#3C3F44",
+        "#56728C",
+        "#6B4E3B",
+        "#577852"
+      ],
+      "texts": [],
+      "persons": [
+        "Kiilaspäine mees (tumedas nahktagis)",
+        "Heledate juustega mees (päikeseprillidega, nahktagis)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab kiilaspäine mees teist meest, samal ajal kui teine mees vaatab otse ette või vasakule.",
+        "Teisel ja kolmandal pildil on kiilaspäine mees kükitavas asendis, pilk suunatud allapoole või auto pagasiruumi suunas, käed allapoole suunatud.",
+        "Heledate juustega mees muudab piltide vahel kergelt oma kehahoiakut ja käte asendit, olles esimesel pildil käed all, teisel käsi vöökohataskul ja kolmandal käed külgedel all."
+      ],
+      "snr": "067",
+      "ajad": [
+        "563.625",
+        "565.833"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kiilaspäist meest õues, kes on kummardumas millegi poole maapinnal. Mehel on seljas pruun nahktagi ja türkiissinised püksid. Ta asub kruusatee ääres, mille kõrval kasvab rohi ja lehtpuud, sh üks kasetüvi paistab pildi paremas servas. Mees vaatab allapoole ja on piltide järjestuses sügavamale kummardunud, nii et tema pea on lõpuks peaaegu täielikult varjatud. Ümbritsev rohelus viitab soojale aastaajale ja päevasele ajale. Kaamera nurk on ülalt alla, fookuses on kummarduv mees.",
+      "actions": [
+        "kummardumine",
+        "millegi poole vaatamine",
+        "painutamine"
+      ],
+      "keywords": [
+        "kiilaspäine mees",
+        "õues",
+        "rohi",
+        "nahktagi",
+        "kummardumas",
+        "loodus",
+        "metsatee",
+        "pruun",
+        "roheline",
+        "kasetüvi"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "mees",
+        "nahktagi",
+        "püksid",
+        "rohi",
+        "kruusatee",
+        "puutüvi",
+        "lehed",
+        "muld"
+      ],
+      "colorcodes": [
+        "#75492B",
+        "#396752",
+        "#9C9271",
+        "#648A39",
+        "#A6A090",
+        "#C8C8C8"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on mees kummardunud vähem, tema pea ja näo profiil on selgemalt nähtavad. Teisel pildil on mees sügavamale kummardunud, tema pea on rohkem allapoole kallutatud ja nägu on peaaegu varjatud tema enda keha poolt, rõhutades tema selga ja kehaasendi muutust."
+      ],
+      "snr": "068",
+      "ajad": [
+        "565.833",
+        "569.250"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest sünges looduskeskkonnas veekogu ääres. Mehed, mõlemad riietatud pruunidesse jakkidesse ja teksadesse, toimetavad vee äärde rasket musta kotti, mis näib sisaldavat suurt objekti, võimalik, et keha. Alguses kannavad nad kotti mööda puitlaudist vee poole, kusjuures üks mees (heledate juustega ja saledam) on eestpoolt ja teine (kogukam) tagantpoolt toetamas. Seejärel asetavad nad koti vee piirile. Meeste kehahoiak ja üldine õhkkond viitavad salajasele või kuritegelikule tegevusele, mis on seotud koti veekogusse heitmisega. Ümbrus on metsane, tiheda pillirooga kaetud veekallas ja rahuliku veepinnaga, mis peegeldab pilvist taevast ja puid. Valgus on hämar, mis lisab stseenile melanhoolse ja rõhuva tunde.",
+      "actions": [
+        "Koti kandmine",
+        "Koti vee äärde toimetamine",
+        "Koti asetamine veepiirile",
+        "Vee poole vaatamine",
+        "Millegi salajase tegemine"
+      ],
+      "keywords": [
+        "Kuritegu",
+        "Koti viskamine",
+        "Mets",
+        "Järv",
+        "Vesi",
+        "Kaks meest",
+        "Must kott",
+        "Süngus",
+        "Saladus",
+        "Maaseiklus",
+        "Märgalad",
+        "Pilliroog",
+        "Puitlaudis",
+        "Hämarus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Must kott",
+        "Vesi",
+        "Pilliroog",
+        "Puitlaudis/sild",
+        "Puid",
+        "Roheline taimestik"
+      ],
+      "colorcodes": [
+        "#82634B",
+        "#6A4B3A",
+        "#4F6D43",
+        "#6B8B5B",
+        "#2A2A2A",
+        "#8FA3A9",
+        "#6D7D81"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks meest",
+        "Saledam mees heledate juustega",
+        "Kogukam mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Stseeni alguses kannavad mehed musta kotti mööda puitlaudist vee suunas.",
+        "Hilisemates kaadrites on kott vee ääres maas ning mehed seisavad selle kõrval, vaadates alla vee poole.",
+        "Vaatenurk muutub stseeni jooksul, näidates mehi nii eest, küljelt kui ka tagant."
+      ],
+      "snr": "069",
+      "ajad": [
+        "569.250",
+        "572.292"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest seismas väikese puidust kai või purde peal, mis ulatub rahuliku veekogu, tõenäoliselt järve või laia jõe sisse. Kai on lihtne ja rustikaalne, koosnedes laudadest, mis toetuvad vees olevatele postidele. Vesi peegeldab hallikat taevast ning meeste ja kai allosa. Veekogu ümbritseb tihe pilliroog ja pikad heintaimed, mis viitavad soisele või märgalale. Taustal laiub männimets pilves taeva all. Üldine atmosfäär on rahulik ja looduslik, veidi melanhoolne sumeda valguse tõttu. Mõlemad mehed on kaetud jopedega ja vaatavad kaugusesse vee poole, seljad vaataja poole.",
+      "actions": [
+        "Mõlemad mehed seisavad alguses sirgelt ja vaatavad vee poole.",
+        "Vasakpoolne mees kummardub hetkeliselt vee poole, käed allapoole suunatud, näib, et ta kas võtab midagi veest või asetab sinna midagi. Kai kõrval vees on näha tume ese.",
+        "Seejärel tõuseb vasakpoolne mees taas püsti, naastes algsesse asendisse.",
+        "Mõlemad mehed jätkavad vee vaatlemist."
+      ],
+      "keywords": [
+        "Loodus",
+        "kai",
+        "vesi",
+        "pilliroog",
+        "mets",
+        "rahu",
+        "sügis",
+        "pilvine",
+        "mehed",
+        "järv",
+        "jõgi",
+        "maastik",
+        "hilisõhtu"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "puidust kai",
+        "vesi",
+        "pilliroog",
+        "heintaimed",
+        "mets",
+        "taevas",
+        "meeste rõivad (joped, püksid)",
+        "tume ese vees"
+      ],
+      "colorcodes": [
+        "#a0a8b0",
+        "#607078",
+        "#607050",
+        "#908060",
+        "#405040",
+        "#806040",
+        "#705030",
+        "#406080"
+      ],
+      "texts": [],
+      "persons": [
+        "kaks meest (vasakpoolne pruuni jope ja siniste teksadega, parempoolne tumepruuni jope ja sinakasroheliste pükstega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 60,
+      "season": "sügis",
+      "daytime": "päev",
+      "differences": [
+        "Vasakpoolse mehe tegevus: esimesel pildil seisab ta püsti, teisel kummardub vee poole ja kolmandal on taas püsti.",
+        "Teises ja kolmandas kaadris on kai kõrval vees näha tume ese, mis esimeses kaadris ei olnud selgelt nähtav."
+      ],
+      "snr": "070",
+      "ajad": [
+        "572.292",
+        "610.583"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest vabas õhus tihedas rohelises taimestikus. Vasakpoolne mees on kiilakas, riietatud pruuni nahkjakki ja halli särki. Tema pilk on suunatud veidi vasakule ja ta räägib, suu on kergelt avatud. Parempoolne mees on vanem, kannab tumedaid päikeseprille ja sarnast pruuni jakki. Tema nägu on suunatud paremale kaadri serva poole ning ta tundub kuulavat või vaatlevat. Mõlema mehe nägudel on näha nahatekstuuri ja kergeid kortse. Taustal domineerib lopsakas roheline võsa ja kõrge rohi, mis viitab suvisele või varasügisesele ajale. Stseenis valitseb hallikas-roheline ja pruun värvigamma. Teine kaader sisaldab ingliskeelseid subtiitreid, mis selgitavad vasakpoolse mehe öeldut.",
+      "actions": [
+        "Kiilakas mees räägib",
+        "Mees päikeseprillidega kuulab/vaatleb",
+        "Mõlemad mehed seisavad"
+      ],
+      "keywords": [
+        "Mehed",
+        "loodus",
+        "rohelus",
+        "vestlus",
+        "jakid",
+        "päikeseprillid",
+        "maastik",
+        "dialoog",
+        "väljas"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Pruun nahkjakk",
+        "Hall särk",
+        "Päikeseprillid",
+        "Rohelised taimed",
+        "Võsa",
+        "Kõrge rohi"
+      ],
+      "colorcodes": [
+        "#6F4C33",
+        "#3D5E2D",
+        "#B27E61",
+        "#5A7F45",
+        "#3C3C3C"
+      ],
+      "texts": [
+        "What happened then?"
+      ],
+      "persons": [
+        "Kaks meest (üks kiilakas, teine päikeseprillidega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Teises pildis on lisatud ingliskeelsed subtiitrid \"What happened then?\".",
+        "Kiilaka mehe suu on teises pildis veidi rohkem avatud, justkui rääkimise rõhuasetuse muutudes."
+      ],
+      "snr": "071",
+      "ajad": [
+        "610.583",
+        "619.458"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest vabas õhus, veekogu ääres tiheda roostiku ja puudega metsa taustal. Vasakul esiplaanil on kiilaspäine noorem mees, heleda nahatooniga ja seljas pruun nahktagi, kelle suu on kergelt avatud, justkui räägiks või reageeriks vestlusele. Paremal tagaplaanil on vanem mees, kes kannab päikeseprille, pruuni nahktagi ja musta-valgemustrilist T-särki. Tema kõrvas on näha mingi sidevahend. Vanem mees vaatab algselt paremale, kuid pöörab seejärel oma pilgu ja pead kergelt noorema mehe poole. Üldine õhkkond on jahe, metsaäärne ja veidi pingeline, mis on rõhutatud meeste tõsiste ilmetega ja dialoogiga. Valgus on pilvine, mis viitab tavalisele päevavalgusele, mitte otsesele päikesepaistele.",
+      "actions": [
+        "Mees räägib/reageerib",
+        "Mees kuulab",
+        "Mees pöörab pead",
+        "Seisavad/paiknevad veekogu ääres"
+      ],
+      "keywords": [
+        "Vestlus",
+        "Mehed",
+        "Loodus",
+        "Metsaäär",
+        "Järv",
+        "Roostik",
+        "Nahktagid",
+        "Päikeseprillid",
+        "Draama",
+        "Pinge",
+        "Välitingimused"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Pruun nahktagi",
+        "Päikeseprillid",
+        "Sidevahend/mikrofon kõrvas",
+        "Roostik/kõrkjad",
+        "Vesi",
+        "Puud",
+        "Mets"
+      ],
+      "colorcodes": [
+        "#4A3A2C",
+        "#3E5A35",
+        "#BFB6AD",
+        "#0A0A0A",
+        "#6E6D6C",
+        "#303A3F"
+      ],
+      "texts": [
+        "What happened then?",
+        "Why, did he owe you something?"
+      ],
+      "persons": [
+        "Noorem mees (kiilaspäine)",
+        "Vanem mees (päikeseprillidega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Vanema mehe pea asend: esimesel pildil vaatab ta otse paremale, teisel pildil on ta pead kergelt pööranud noorema mehe poole.",
+        "Subtiitrite tekst: esimene pilt sisaldab küsimust 'What happened then?', teine pilt sisaldab küsimust 'Why, did he owe you something?'"
+      ],
+      "snr": "072",
+      "ajad": [
+        "619.458",
+        "622.208"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kaks meest õues keset tihedat rohelist taimestikku, mis koosneb peamiselt pilliroost või kõrgetest rohttaimedest. Kaameranurk on suunatud meestele, näidates neid rinnust ülespoole, kusjuures roheline taust domineerib ülejäänud kaadri. Vasakpoolne mees on kiilakas ja kannab tumepruuni nahktagi, tema näoilme on veidi murelik või tõsine. Parempoolne mees, kelle nägu on osaliselt varjatud tumedate päikeseprillidega, on samuti tõsise ilmega. Mehed vestlevad, parempoolne mees teeb kolmandal kaadril käega žesti, mis viitab aktiivsele vestlusele. Üldine atmosfäär on vaikne ja dramaatiline, fookus on meeste vahelisel dialoogil.",
+      "actions": [
+        "Kaks meest vestlevad",
+        "Üks mees esitab küsimuse",
+        "Teine mees vastab küsimusele",
+        "Parempoolne mees žestikuleerib käega"
+      ],
+      "keywords": [
+        "Vestlus",
+        "Õues",
+        "Loodus",
+        "Mehed",
+        "Kiilakas",
+        "Prillid",
+        "Päikeseprillid",
+        "Pilliroog",
+        "Rohelus",
+        "Nahktagi",
+        "Sünnipäev",
+        "Vend"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kaks meest",
+        "Roheline taimestik",
+        "Päikeseprillid",
+        "Pruun nahktagi"
+      ],
+      "colorcodes": [
+        "#4CAF50",
+        "#8B4513",
+        "#E0B49B",
+        "#000000"
+      ],
+      "texts": [
+        "Why, did he owe you something?",
+        "No, he's my brother.",
+        "We had to celebrate his birthday yesterday"
+      ],
+      "persons": [
+        "Kiilaspäine mees",
+        "Prillidega mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrid muutuvad kaadrite vahel vastavalt dialoogile.",
+        "Parempoolne mees (prillidega mees) tõstab kolmandal kaadril oma parema käe üles, žestikuleerides.",
+        "Vasakpoolse mehe (kiilaspäine mees) suu asend muutub, viidates, et ta on vestluses aktiivne.",
+        "Parempoolse mehe näoilme ja suu asend muutuvad samuti dialoogi käigus."
+      ],
+      "snr": "073",
+      "ajad": [
+        "622.208",
+        "624.583"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub välitingimustes veekogu ääres, mille kaldal kasvab tihe roheline pilliroog. Taustal on näha tihedat lehtmetsa, kus domineerivad kased ja teised puud, mis annavad aimu suvisest või hiliskevadisest ajast. Kaadris on kaks meest, kes näivad vestlevat. Esiplaanil on noorem, kiilas mees, seljas tumepruun nahktagi. Tema nägu on esialgu profiilis, vaadates vasakule või ette, ja hiljem pöörab ta näo veidi paremale, vanema mehe poole, pakkudes temast veidi rohkem profiili. Tagaplaanil, veidi paremal ja kaugemal, seisab vanem mees, lühemate helepruunide juustega, seljas samuti pruun jope ja selle all musta-valgekirju särk. Tema silmadel on tumedad päikeseprillid, mis esimeses kaadris on ninale nihkunud, ja ta kohendab neid käega. Hiljem vaatab ta otse noorema mehe poole tõsise ja mõtliku ilmega. Stseenis on näha subtiitreid, mis annavad edasi dialoogi. Üldine õhkkond on mõtlik ja tõsine, viidates sügavale vestlusele.",
+      "actions": [
+        "Vestlemine",
+        "Päikeseprillide kohendamine",
+        "Silmside loomine",
+        "Pööramine teise isiku poole"
+      ],
+      "keywords": [
+        "Vestlus",
+        "Mõtlikkus",
+        "Pilliroog",
+        "Mets",
+        "Nahktagi",
+        "Päikeseprillid",
+        "Veekogu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Nahktagi",
+        "Päikeseprillid",
+        "Pilliroog",
+        "Puud (kased, lehtmets)",
+        "Vesi (oletatav)",
+        "Särk (musta-valgekirju)"
+      ],
+      "colorcodes": [
+        "#6B5C4E",
+        "#4F6D4C",
+        "#A0A0A0",
+        "#202020",
+        "#8B4513"
+      ],
+      "texts": [
+        "We had to celebrate his birthday yesterday",
+        "If I only knew."
+      ],
+      "persons": [
+        "Kiilas mees (noorem)",
+        "Vanem mees (heledate juustega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris kohendab vanem mees päikeseprille ja vaatab pigem alla või eemale, samal ajal kui noorem mees on profiilis.",
+        "Teises kaadris on vanem mees pööranud pilgu otse noorema mehe poole, luues silmsideme.",
+        "Kolmandas kaadris on noorem mees rohkem pööratud vanema mehe poole ja subtiitrite tekst on muutunud, kajastades vestluse jätku. Vanema mehe näoilme on tõsisem ja mõtlikum."
+      ],
+      "snr": "074",
+      "ajad": [
+        "624.583",
+        "628.542"
+      ]
+    },
+    {
+      "explanation": "Stseenis vestlevad kaks meest tihedas rohelises looduskeskkonnas. Mõlemad mehed kannavad pruunides toonides jakke. Kaamera fookus on nende nägudel ja ülakehadel, näidates nende emotsioone ja dialoogi. Vasakul paiknev kiilakas mees räägib, vaadates otse oma vestluskaaslase poole, tema näoilme on tõsine ja murelik. Paremal paiknev heledate juustega mees kuulab, tema pilk on suunatud allapoole või kõrvale, andes edasi mõtisklevat või kurba meeleolu. Taustaks on tihe ja lopsakas taimestik, mis annab stseenile privaatse ja looduslähedase atmosfääri. Üldine õhkkond on tõsine ja emotsionaalne, viidates olulisele ja võimalikule dramaatilisele vestlusele.",
+      "actions": [
+        "Vestlemine",
+        "Rääkimine",
+        "Kuulamine",
+        "Vaatamine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Vestlus",
+        "Mehed",
+        "Loodus",
+        "Rohelus",
+        "Tõsidus",
+        "Emotsioon",
+        "Õues",
+        "Murelikkus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Rohelised taimed",
+        "Põõsad",
+        "Joped",
+        "Metsaääre taimestik"
+      ],
+      "colorcodes": [
+        "#3A5137",
+        "#5B6F42",
+        "#87654C",
+        "#6E533F",
+        "#E0C7B4",
+        "#E1C1A6"
+      ],
+      "texts": [
+        "If I only knew.",
+        "It was a terrible night."
+      ],
+      "persons": [
+        "Kiilakas mees (umbes 30-40-aastane)",
+        "Heledate juustega mees (umbes 40-50-aastane)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on subtiiter \"If I only knew.\", teisel pildil puuduvad subtiitrid, kolmandal pildil on subtiiter \"It was a terrible night.\".",
+        "Meeste näoilmed ja pilgud muutuvad vestluse käigus, peegeldades dialoogi ja emotsioonide arengut. Eriti parempoolse mehe pilk muutub esimesel pildil kõrgemale suunatud olekust allapoole või kõrvale suunatuks teisel ja kolmandal pildil.",
+        "Kiilaka mehe suu on esimesel ja teisel pildil kergelt avatud, viidates aktiivsele kõnelemisele, samas kui kolmandal pildil on see suletud, kuid näoilme endiselt tõsine."
+      ],
+      "snr": "075",
+      "ajad": [
+        "628.542",
+        "633.542"
+      ]
+    },
+    {
+      "explanation": "Stseen avaneb sünges, peaaegu täielikus pimeduses, kus ekraani allosas on valge tekstiga edastatud dramaatiline sissejuhatus õudusrohkest ööst. Seejärel muutub vaade mustvalgeks välikaadriks, mis kujutab üksildast inimfiguuri kõndimas öisel teel või sillal. Algselt on inimene näha eemal, liikumises eredate, vastutulevate esitulede valguses, mis loovad tugeva kontrasti pimeduse ja valguse vahel. Vaatevälja esiplaanil on näha tumedaid vertikaalseid elemente, mis osaliselt varjavad stseeni. Jätkuvalt püsides pikal võttel, jälgib kaamera inimest, kes kõnnib edasi sillal või kail, mida ääristavad mõlemalt poolt metallpiirded, ulatudes kaugele pimedusse. Ümbritsev valgus on napp, vaid üksikud valgusallikad murravad läbi öise pimeduse. Kogu visuaalne esitus on mustvalge, mis annab stseenile melanhoolse ja tõsise tooni. Kaasnevad tekstid paljastavad sügavama ja tumedama narratiivi: ülesande jälgida 'vana meest' tsemendi kuivamise ajal ning vihje traagilisele sündmusele, kus keegi visati sillalt alla. See loo fragment loob pinget ja süngust, viidates mineviku kuritegudele ja kahtlastele tegevustele ööpimeduses.",
+      "actions": [
+        "Kõndimine",
+        "Jälgimine",
+        "Viskamine"
+      ],
+      "keywords": [
+        "Öö",
+        "Mustvalge",
+        "Sild",
+        "Pimedus",
+        "Saladus",
+        "Dramaatika",
+        "Üksildus",
+        "Kuritöö",
+        "Varjud",
+        "Valgus",
+        "Teekond"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Tee",
+        "Piirded",
+        "Sild",
+        "Esituled",
+        "Inimene",
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "It was a terrible night.",
+        "Artur's only job was to keep an eye on the old man while the cement dries.",
+        "and he had thrown your brother off the bridge."
+      ],
+      "persons": [
+        "Inimene (kõndimas)",
+        "Vana mees (mainitud tekstis)",
+        "Sinu vend (mainitud tekstis)",
+        "Tema (mainitud tekstis)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader on peaaegu täielikult must taustaga tekst, ülejäänud on visuaalsed stseenid.",
+        "Kaadrite fookus ja kompositsioon muutuvad: esimeses visuaalses kaadris on inimene kaugel ja eesmised piirded varjavad vaadet, teises visuaalses kaadris on inimene selgemalt näha ja piirded raamivad teed pikalt.",
+        "Piltidel on erinevad saatetekstid, mis edastavad narratiivi eri osi.",
+        "Valgusallikad erinevad: ühes kaadris on näha eredaid esitulesid, teises hajusat üldvalgust."
+      ],
+      "snr": "076",
+      "ajad": [
+        "633.542",
+        "643.125"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kaks meest, kes seisavad vabas õhus rahuliku veekogu ääres. Neid ümbritseb tihe roheline taimestik, sealhulgas puud ja pilliroog, mis annab keskkonnale loodusliku ja veidi eraldatud tunde. Meeste vahel tundub olevat tõsine vestlus. Üks meestest on kiilas, näoga osaliselt kaadri tagakülje poole, kandes tumepruuni nahktagi. Teine mees, kellel on lühikesed heledad juuksed, kannab tumedaid päikeseprille ja mustrilist heledat T-särki tumepruuni nahktagi all. Tema pilk varieerub – esimeses kaadris vaatab ta üles, teises ja neljandas kaadris teise mehe poole ning kolmandas kaadris allapoole, andes märku mõtisklevast või pingelisest meeleolust. Ühes kaadris on näha subtiiter, mis vihjab vestluse tõsidusele ja võimalikule traagilisele sündmusele.",
+      "actions": [
+        "Mehed räägivad",
+        "Mees vaatab üles",
+        "Mees vaatab teise mehe poole",
+        "Mees vaatab allapoole"
+      ],
+      "keywords": [
+        "Vestlus",
+        "Loodus",
+        "Vesi",
+        "Pilliroog",
+        "Puud",
+        "Nahktagi",
+        "Päikeseprillid",
+        "Sünge",
+        "Draama"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Nahktagi",
+        "Päikeseprillid",
+        "T-särk",
+        "Puud",
+        "Pilliroog",
+        "Vesi"
+      ],
+      "colorcodes": [
+        "#4F3B2C",
+        "#6A4D38",
+        "#4C7D4C",
+        "#718F6F",
+        "#2A3638",
+        "#B49682",
+        "#1A1A1A",
+        "#7A7F7A",
+        "#E0E2E0"
+      ],
+      "texts": [
+        "and he had thrown your brother off the bridge."
+      ],
+      "persons": [
+        "Kiilas mees",
+        "Päikeseprillidega mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Päikeseprillidega mehe pilgu suund muutub kaadrite vahel (esimeses üles, teises ja neljandas teise mehe poole, kolmandas allapoole).",
+        "Kaamera liigub kergelt, muutes kadreeringut ja meeste proportsioone kaadris.",
+        "Kolmandas kaadris on päikeseprillidega mees lähemal ja kiilas mees on osaliselt kaadrist väljas.",
+        "Subtiiter on nähtav ainult esimeses kaadris."
+      ],
+      "snr": "077",
+      "ajad": [
+        "643.125",
+        "697.500"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte täiskasvanud meest õues looduslikus keskkonnas. Nad asuvad vaikse veekogu ääres, mis on tihedalt roo ja muu taimestikuga palistatud. Paremal pool pildil on näha lihtne, ilmastikust kulunud puidust sild või kai, mis ulatub vette rohuselt kaldalt. Tagaplaanil domineerib tihe mets pikkade puudega, mis kohtub helehalli, pilves taevaga, andes edasi hämaravõitu päevavalguse meeleolu. Üldine värvipalett on roheliste, pruunide ja summutatud hallide toonides, luues rahuliku, ent pisut mõtliku õhkkonna. Mehed on riietatud vabaaja riietesse, tumedatesse jopedesse ja teksapükstesse. Esialgu on üks mees sillal ja teine selle kõrval, seejärel liiguvad nad mõlemad sillalt eemale ja kõnnivad mööda kaldarada.",
+      "actions": [
+        "Mehed jalutavad puidust sillal ja selle läheduses.",
+        "Üks mees viskab midagi vette või vaatab vette.",
+        "Mehed liiguvad sillalt kaldale.",
+        "Mehed kõnnivad piki rohusest kallast."
+      ],
+      "keywords": [
+        "Loodus",
+        "Veekogu",
+        "Mets",
+        "Sild",
+        "Kai",
+        "Mehed",
+        "Pilvine taevas",
+        "Roostik",
+        "Vaikus",
+        "Rahulikkus",
+        "Kõndimine"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Puidust sild/kai",
+        "Vesi",
+        "Roo",
+        "Taimestik",
+        "Puud",
+        "Mets",
+        "Rohi",
+        "Muld"
+      ],
+      "colorcodes": [
+        "#6B7B61",
+        "#A9AEB2",
+        "#4A514D",
+        "#565B5E",
+        "#726456",
+        "#724E3F",
+        "#334D69"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (heledama jopega)",
+        "Mees (tumeda jopega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 75,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil seisab üks mees (tumeda jopega) puidust sillal, vaadates alla vette või visates midagi, teine mees (heledama jopega) seisab silla otsa lähedal tema taga.",
+        "Teisel ja kolmandal pildil liiguvad mõlemad mehed sillalt eemale ja kõnnivad mööda rohusest kallast kaamera suunast paremale poole.",
+        "Meeste asend ja liikumissuund on kaadrite vahel muutunud."
+      ],
+      "snr": "078",
+      "ajad": [
+        "697.500",
+        "703.917"
+      ]
+    },
+    {
+      "explanation": "Kaks meest astuvad lopsakast rohelisest taimestikust, mis piirneb veekoguga ja puidust teega, välja metsatee äärde. Esimene mees on kiilaspea, kandes tumepruuni jakki ja tumedat särki, ning teine, prillidega mees, on samuti pruunis jakis. Nad paistavad tõsised ja sihipärased. Seejärel näeb teist meest (prillidega) heledasse sedaani (tõenäoliselt BMW) sisenemas, mis on pargitud metsatee äärde. Auto uks on avatud ja mees on just autossse istumas. Stseen lõpeb valgete lõputiitritega, mis on asetatud hägusele, kuid äratuntavale metsatee ja rohelise taimestiku taustale, sarnanedes stseeni varasematele osadele. Üldine meeleolu on pigem dramaatiline ja vaikne, toimub eemal tsivilisatsioonist, sügaval looduses.",
+      "actions": [
+        "kaks meest kõnnivad",
+        "üks mees siseneb autosse",
+        "autosse istumine",
+        "autoga sõitmiseks valmistumine"
+      ],
+      "keywords": [
+        "mets",
+        "tee",
+        "auto",
+        "mehed",
+        "rohelus",
+        "dramaatiline",
+        "vaikus",
+        "loodus",
+        "lõputiitrid",
+        "väljasõit",
+        "järve ääres"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "mees (kiilaspea)",
+        "mees (prillidega)",
+        "pruun jope",
+        "tume särk",
+        "päikeseprillid",
+        "heledavärviline sedaan (BMW)",
+        "autouks",
+        "metsatee",
+        "rohelised taimed",
+        "kõrkjad",
+        "puud",
+        "veekogu",
+        "puidust sild/tee",
+        "lõputiitrite tekst"
+      ],
+      "colorcodes": [
+        "#505C2B",
+        "#6D6F6A",
+        "#9B8E7C",
+        "#A2C376",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "REŽISSÖÖR... SANDER GERING",
+        "STSENAARIST... ANN EINBERG",
+        "OPERAATOR... KARL ANDERS VAIKLA",
+        "PRODUTSENT... ANNALIISE KALAMEES",
+        "REŽISSÖÖRI ASSISTENT... NORA A TSAHKNA",
+        "PRODUTSENDI ASSISTENT... FRED SAUL",
+        "HELI... DMITRI MAKARENKO",
+        "VALGUS... EDVARD TARANTEVITCH",
+        "KUNST... MARIA KRIISA",
+        "MUUSIKA... JAANUS KARLSON",
+        "CATERING... JOHANNA HEINONEN"
+      ],
+      "persons": [
+        "kiilaspea mees",
+        "prillidega mees",
+        "Sander Gering",
+        "Ann Einberg",
+        "Karl Anders Vaikla",
+        "Annaliise Kalamees",
+        "Nora A Tsahkna",
+        "Fred Saul",
+        "Dmitri Makarenko",
+        "Edvard Tarantevitch",
+        "Maria Kriisa",
+        "Jaanus Karlson",
+        "Johanna Heinonen"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader näitab kahte meest kõndimas läbi tiheda taimestiku veekogu ääres puidust tee poole, fookuses on tegelased ja looduslik keskkond.",
+        "Teine kaader näitab ühte meest (prillidega) sisenemas heledasse autosse, mis on pargitud kruusatee äärde, fookuses on auto ja tegevus.",
+        "Kolmas kaader on lõputiitrite ekraan, kus valge tekst on asetatud hägusele metsatee ja rohelise taimestiku taustale, muutes kaadri eesmärki informatiivseks krediitide kuvamiseks."
+      ],
+      "snr": "079",
+      "ajad": [
+        "703.917",
+        "708.958"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab filmi lõputiitreid, mis algavad tootmismeeskonna ja rollide loeteluga. Esimeses kaadris on valge tekst tumedal, udusel taustal, mis näib olevat maastik, tõenäoliselt metsatee öösel või hämaras. Taust on ebaselge, kuid aimatav on rohekaid ja tumedaid toone. Seejärel muutub taust täiesti mustaks ning ekraanile ilmuvad tänusõnad ja tänuavalduse saajate nimed. Viimases kaadris on ekraan täielikult must, tähistades tiitrite ja filmi lõppu.",
+      "actions": [
+        "Teksti kuvamine ekraanil",
+        "Tausta muutumine udusest maastikust mustaks",
+        "Ekraani tuhmumine täielikult mustaks"
+      ],
+      "keywords": [
+        "filmitiitrid",
+        "lõputiitrid",
+        "tekst",
+        "tänusõnad",
+        "must taust",
+        "udune taust",
+        "öö",
+        "hämardumine"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "valge tekst",
+        "udune maastik",
+        "tee",
+        "tume taimestik"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#1C211A",
+        "#262C23",
+        "#343C34"
+      ],
+      "texts": [
+        "REŽISSÖÖR... SANDER GERING",
+        "STSENARIST... ANN EINBERG",
+        "OPERAATOR... KARL ANDERS VAIKLA",
+        "PRODUTSENT... ANNALIISE KALAMEES",
+        "REŽISSÖÖRI ASSISTENT... NORA A TSAHKNA",
+        "PRODUTSENDI ASSISTENT... FRED SAUL",
+        "HELI... DMITRI MAKARENKO",
+        "VALGUS... EDVARD TARANTEVITCH",
+        "KUNST... MARIA KRIISA",
+        "MUUSIKA... JAANUS KARLSON",
+        "CATERING... JOHANNA HEINONEN",
+        "TÄNAME",
+        "ANDERS TSAHKNA",
+        "ALESSANDRO NANI",
+        "ERIKA GERING",
+        "MIHKEL KÄRNER",
+        "SVETA BAAR",
+        "KORP! AMICITIA",
+        "TAUNO MAKKE",
+        "JORVEN TSAHKNA",
+        "KARMEN GLORIA KÕVA",
+        "ANNA PADRIK",
+        "RUMMU KARJAÄÄR",
+        "SA PJV HOOLDUSRAVI"
+      ],
+      "persons": [
+        "Sander Gering",
+        "Ann Einberg",
+        "Karl Anders Vaikla",
+        "Annaliise Kalamees",
+        "Nora A Tsahkna",
+        "Fred Saul",
+        "Dmitri Makarenko",
+        "Edvard Tarantevitch",
+        "Maria Kriisa",
+        "Jaanus Karlson",
+        "Johanna Heinonen",
+        "Anders Tsahkna",
+        "Alessandro Nani",
+        "Erika Gering",
+        "Mihkel Kärner",
+        "Sveta Baar",
+        "Tauno Makke",
+        "Jorven Tsahkna",
+        "Karmen Gloria Kõva",
+        "Anna Padrik"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": 80,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Stseeni alguses on tekst udusel välitingimuste taustal, mis muutub hiljem täiesti mustaks.",
+        "Tiitrite sisu muutub tootmismeeskonna loetelust tänusõnade ja toetajate loeteluks.",
+        "Viimane kaader on täiesti must ja tekstitu, samas kui varasemates kaadrites on teksti."
+      ],
+      "snr": "080",
+      "ajad": [
+        "708.958",
+        "730.375"
+      ]
+    }
+  ]
+}

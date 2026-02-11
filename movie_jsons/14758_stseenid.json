@@ -1,0 +1,3879 @@
+{
+  "film": [
+    "14758",
+    "14737",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Üle läve",
+    "96cff6cb674b0a5cd99dd255faf1d4d44687b260.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab abstraktse visuaalse efektiga, kus kolm hägust valget valguspunkti hõljuvad täiesti mustal taustal, luues ülemineku või ootuse tunde. Seejärel muutub stseen rahulikuks väliskaadriks, mis kujutab lainetavat veepinda, kus peegelduvad lopsakad rohelised puud ja tumedamad elemendid. Valgus mängib veepinnal dünaamiliselt, luues elava, kuid samas rahustava loodusmaastiku. Kolmandaks siirdub stseen siseruumi intiimsesse keskkonda, kus kaks inimest, mees ja naine, istuvad. Mees, kellel on tumedad lokkis juuksed ja habe, kannab oliivrohelist pusa, samal ajal kui blondiin naine kannab tumedat riietust. Nad on paigutatud musta tiibklaveri ette, tagataustal on rustikaalne kivisein ja trepp. Kaadri alumises paremas nurgas on tekst \"SASHA ja KAUSHALYA\", mis viitab nende identiteedile ja annab tunnistust intervjuust või muusikalisest esinemisest.",
+      "actions": [
+        "istumine",
+        "vaatamine",
+        "vestlemine (oletatav)",
+        "peegeldamine (vee poolt)"
+      ],
+      "keywords": [
+        "abstraktne",
+        "loodus",
+        "vesi",
+        "peegeldus",
+        "siseruum",
+        "intervjuu",
+        "muusika",
+        "klaver",
+        "inimesed",
+        "üleminek",
+        "roheline",
+        "must",
+        "valge",
+        "rahulik",
+        "linnaloodus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor, outdoor",
+      "objects": [
+        "valguspunktid",
+        "vesi",
+        "puud",
+        "rohelus",
+        "klaver",
+        "kivisein",
+        "trepp",
+        "riietus",
+        "raamid (seinal)",
+        "toolid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#4B6F3E",
+        "#2F4F4F",
+        "#A0B5D9",
+        "#7C7F60",
+        "#5A5B5A",
+        "#8B4513"
+      ],
+      "texts": [
+        "SASHA ja KAUSHALYA"
+      ],
+      "persons": [
+        "Sasha (mees)",
+        "Kaushalya (naine)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Erinevad asukohad: abstraktne, välitingimustes loodus, siseruumid.",
+        "Erinev fookus: abstraktsetelt valguspunktidelt veepinnale ja seejärel inimestele.",
+        "Erinevad värvipaletid: must/valge, rohelised/sinised, mahedad pruunid/mustad/oliivrohelised.",
+        "Erinev sisu: efekt, loodusmaastik, inimeste intervjuu/esinemine.",
+        "Teksti olemasolu ainult ühes kaadris."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "90.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, meest ja naist, hubases siseruumis, millel on rustikaalne, kuid samas viimistletud hõng. Vasakul istub tume lokkis juuste ja habemega mees, kes kannab oliivrohelist või hallikasrohelist pikkade varrukatega särki ja tumedaid pükse. Ta paistab pingevaba, käed on risti ja näol on kerge naeratus, mis viitab meeldivale vestlusele või kuulamisele. Tema vastas, musta tiibklaveri taga paremal, istub pikkade blondide juustega naine, seljas tume, tõenäoliselt must, rullkraega pluus. Ta on keskendunud, justkui rääkides või tähelepanelikult kuulates. Taustal vasakul on silmatorkav karestatud kivi- või tellissein, mida kaunistavad mitmed ruudukujulised paneelid või raamitud kunstiteosed. Paremal tõuseb üles tume puidust trepp valge käsipuuga, lisades ruumile sügavust. Mehe lähedal on märgata mikrofoni koos alusega, mis viitab salvestus- või esinemiskeskkonnale. Üldine valgustus on soe ja kutsuv. Stseeni all paremas nurgas on valge tekstiga kiri \"SASHA ja KAUSHALYA\". Ühes kaadris on stseenile lisatud sinakas, poolläbipaistev filter, mis annab stseenile summutatud ja unenäolise kvaliteedi, varjates mõningaid detaile, kuid säilitades üldise kompositsiooni. Üks kaader on täiesti must, mis tõenäoliselt tähistab segmendi lõppu või üleminekut.",
+      "actions": [
+        "istumine",
+        "vestlemine",
+        "kuulamine",
+        "musitseerimine (kaudselt vihjatud)"
+      ],
+      "keywords": [
+        "siseruum",
+        "muusika",
+        "klaver",
+        "intervjuu",
+        "vestlus",
+        "kivisein",
+        "mikrofon",
+        "artistid",
+        "kontsert"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "naine",
+        "tiibklaver",
+        "mikrofon",
+        "mikrofonialus",
+        "trepp",
+        "kivisein",
+        "pildiraamid",
+        "särk",
+        "püksid",
+        "pluus"
+      ],
+      "colorcodes": [
+        "#D0CEC1",
+        "#6B7062",
+        "#0A0A0A",
+        "#FFFFFF",
+        "#7091B4",
+        "#7F7F7F"
+      ],
+      "texts": [
+        "SASHA ja KAUSHALYA"
+      ],
+      "persons": [
+        "Sasha",
+        "Kaushalya",
+        "mees",
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Ühes kaadris on stseenile lisatud sinakas, poolläbipaistev filter, mis summutab värvid ja varjab detaile võrreldes selge originaalstseeniga.",
+        "Üks kaader on täiesti must, samal ajal kui teised kaadrid näitavad stseeni."
+      ],
+      "snr": "002",
+      "ajad": [
+        "90.520",
+        "153.240"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealist Aasia päritolu naist, kes räägib otse kaamerasse. Naine on kaadris näha rinnust ülespoole, tal on lühikesed tumedad juuksed. Seljas on tal pruunikas või punakaspruun mustriga särk, millel on näha trükitud teksti, mis sarnaneb sanskriti mantratele. Taustaks on lihtne sein, millel on märgata vertikaalseid paneele või jooni. Stseeni valgustus on väga muutlik – kaadrid vahelduvad äärmiselt tumedast, kus nägu ja ümbrus on vaevu eristatavad, kuni märkimisväärselt heledamani, kus naise näojooned, riietus ja taust on selgelt nähtavad. Ühes kaadris on stseenile lisatud poolläbipaistev mere- või veekogu ülekate, mis annab stseenile unenäolise või mõtiskleva ilme. Tumedamates kaadrites on paremas alanurgas näha tekst \"MARI SAAT\". Naise suu on enamikus kaadrites avatud, mis viitab rääkimisele.",
+      "actions": [
+        "Naine räägib"
+      ],
+      "keywords": [
+        "naine",
+        "portree",
+        "rääkimine",
+        "video",
+        "tume",
+        "hele",
+        "kontrast",
+        "valguse muutus",
+        "veepeegeldus",
+        "siseruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "särk",
+        "sein",
+        "meri",
+        "vesi"
+      ],
+      "colorcodes": [
+        "#0F0F0F",
+        "#1D1D1D",
+        "#8B6F5D",
+        "#553A33",
+        "#C8C8C8",
+        "#A8BCC0"
+      ],
+      "texts": [
+        "MARI SAAT",
+        "tekst särgil"
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Valgustus on piltide vahel oluliselt erinev, ulatudes väga pimedast heledani.",
+        "Kontrast ja värvide küllastus muutuvad vastavalt valgustusele; heledamas kaadris on värvid elavamad ja detailid selgemad.",
+        "Ühes kaadris on stseenil poolläbipaistev mere või veekogu ülekate, mis teistes puudub.",
+        "Tekst \"MARI SAAT\" on nähtav ainult tumedamates kaadrites.",
+        "Naise näojoonte ja särgi detailide nähtavus on valgustuse tõttu erinev."
+      ],
+      "snr": "003",
+      "ajad": [
+        "153.240",
+        "198.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist meest siseruumis, tõenäoliselt köögis või söögitoas. Mehel on lühikesed hallikaspruunid juuksed ja ta kannab prille ning heledat ruudulist särki. Ruumi sisustusse kuuluvad aken valgete kardinatega, punakaspruun sein ning suur, hõbedane kaheukseline külmkapp, millel on veeautomaat. Laual mehe ees on puuviljakauss õunte ja teiste viljadega. Alguses on ruum eredalt valgustatud, ilmselt päevavalgusest, ja mees paistab rääkivat. Seejärel muutub stseen drastiliselt pimedaks, jättes suurema osa ruumist ja mehe varjudesse. Pimeduses hakkab silma helendav, kollakasroheline liblikamustritega latern, mis on ainus oluline valgusallikas ja valgustab veidi ka selle lähedal asuvaid puuviljatükke, näiteks apelsiniviile. Mehe siluett on endiselt nähtav, kuid ülejäänud ruum on peaaegu täielikult must.",
+      "actions": [
+        "Rääkimine"
+      ],
+      "keywords": [
+        "Mees",
+        "Siseruum",
+        "Köök",
+        "Söögituba",
+        "Külmkapp",
+        "Puuviljakauss",
+        "Prillid",
+        "Ruuduline särk",
+        "Pimedus",
+        "Valgus",
+        "Laterna",
+        "Liblikad",
+        "Interjöör"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Prillid",
+        "Ruuduline särk",
+        "Aken",
+        "Valged kardinad",
+        "Punakaspruun sein",
+        "Hõbedane kaheukseline külmkapp",
+        "Veeautomaat",
+        "Riiul",
+        "Riided (riietestange või riiul)",
+        "Puuviljakauss",
+        "Õunad",
+        "Puuviljad",
+        "Helendav latern",
+        "Liblikamustrid",
+        "Apelsiniviilud"
+      ],
+      "colorcodes": [
+        "#662222",
+        "#B3B3B3",
+        "#FFFFFF",
+        "#000000",
+        "#99FF33"
+      ],
+      "texts": [],
+      "persons": [
+        "Keskealine mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 70,
+      "season": "not clear",
+      "daytime": "päev/öö",
+      "differences": [
+        "Peamine erinevus kaadrite vahel on valgustus: alguses on stseen heledalt valgustatud ja detailid selgelt nähtavad, hiljem aga valitseb peaaegu täielik pimedus, kus ainsaks valgusallikaks on helendav liblikatega latern. Esimene kaader on täiesti must, tähistades üleminekut või täielikku pimedust."
+      ],
+      "snr": "004",
+      "ajad": [
+        "198.360",
+        "236.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat sisekeskkonda, kus domineerib dekoratiivne latern, mis kiirgab ere rohelist valgust. Latern on kolmnurkse kujuga ja selle külgedel on välja lõigatud liblikate siluetid, mis lasevad rohelist valgust läbi paista. Laterna kõrval laual on näha mõned toidujäänused, mis meenutavad apelsiniviile või kuivatatud puuviljatükke. Kogu ümbrus on väga pime, luues intiimse ja veidi salapärase õhkkonna. Esimesel pildil on näha vasakul servas inimese siluett, mis on peaaegu täielikult varjus, taust on üldiselt tume ja detailid on raskesti eristatavad.",
+      "actions": [],
+      "keywords": [
+        "latern",
+        "roheline valgus",
+        "liblikad",
+        "tume",
+        "hämar",
+        "siseruum",
+        "dekoratiivne",
+        "soe valgus",
+        "apelsiniviilud",
+        "salapärane",
+        "õhtune",
+        "inimene"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "dekoratiivne latern",
+        "roheline valgus",
+        "liblikate siluetid",
+        "apelsiniviilud",
+        "laud",
+        "inimene (esimesel pildil)",
+        "vari",
+        "tumedus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#33CC00",
+        "#FFA500"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on vasakul pool näha inimese siluett, mis teisel ja kolmandal pildil puudub.",
+        "Teine ja kolmas pilt on identsed."
+      ],
+      "snr": "005",
+      "ajad": [
+        "236.160",
+        "237.360"
+      ]
+    },
+    {
+      "explanation": "Stseen hõlmab nii pimedat ja intiimset õhkkonda kui ka heledamat siseruumi. Pimedas osas valgustab rohekaskollaselt hõõguv latern, mille külgedel on liblika kujutised, lauapinda, kus lebavad mõned heledad esemed, mis võivad olla toidujäänused või dekoratsioonid. Ülejäänud ümbrus on varjudesse mattunud, pakkudes salapärast ja rahulikku meeleolu. Teises osas on näha keskealine mees, prillide ja ruudulise särgi seljas, istumas siseruumis. Tema taga on näha moodne roostevabast terasest külmkapp ja akna ees heledad kardinad. Laual, mille ääres mees istub, on kauss puuviljadega, eeldatavasti apelsinidega. Valgusolud ja meeleolud on stseeni erinevate osade vahel selgelt kontrastis.",
+      "actions": [
+        "Istumine"
+      ],
+      "keywords": [
+        "Laternavalgus",
+        "pimedus",
+        "roheline kuma",
+        "liblikad",
+        "siseruum",
+        "mees",
+        "prillid",
+        "ruuduline särk",
+        "külmkapp",
+        "puuviljad",
+        "intiimne",
+        "kodune",
+        "kontrast"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Latern",
+        "liblika kujutised",
+        "heledad esemed",
+        "külmkapp",
+        "kardinad",
+        "puuviljad",
+        "kauss",
+        "laud"
+      ],
+      "colorcodes": [
+        "#60EB10",
+        "#010101",
+        "#C08060",
+        "#FFA500",
+        "#B0B0B0",
+        "#503020"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesed kaks pilti on peaaegu identsed, kujutades pimedat ruumi laternavalgusega. Kolmas pilt erineb neist drastiliselt, näidates heledalt valgustatud siseruumi koos inimese, külmkapi ja puuviljadega, kusjuures pildil on näha ka horisontaalseid triipe, mis viitavad videokaadrile või ekraanipildile."
+      ],
+      "snr": "006",
+      "ajad": [
+        "237.360",
+        "276.560"
+      ]
+    },
+    {
+      "explanation": "Stseen algab täieliku pimedusega mustas kaadris, mis annab edasi ülemineku tunde. Seejärel avaneb vaade tormisele merele, kus mitmed lained rulluvad üle veepinna, moodustades valgeid vahuseid murdlaineid. Vesi on sinakashall ning taustal on näha horisontaalne, tumedam struktuur, mis võib olla muul või veetakistus. Pildil on tunda vanema videokasseti salvestuse kvaliteeti, mis väljendub kerges müras ja värvide tagasihoidlikkuses. Järgmisena keskendub kaader tumedapäisele naisele, kes on jäädvustatud keskmises lähivaates. Tema nägu on varjus, kuid suu on kergelt avatud, justkui ta räägiks. Naine kannab tumedaid riideid, millel on näha nööpe. Naise selja taga on udune taust, kus paistavad puud, mis on ilmselt lehtedeta, viidates sügis- või talveperioodile. Stseeni üldine meeleolu on pigem sünge ja mõtisklev, rõhutades looduse jõudu ja inimliku kommentaari asetust selles kontekstis.",
+      "actions": [
+        "Lained murduvad",
+        "Vesi liigub",
+        "Naine räägib (oletus)"
+      ],
+      "keywords": [
+        "Meri",
+        "Lained",
+        "Naine",
+        "Vari",
+        "Puud",
+        "Vana video",
+        "Tume",
+        "Hall",
+        "Ookean",
+        "Intervjuu",
+        "Loodus",
+        "Muul",
+        "Üleminek"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Lained",
+        "Meri",
+        "Puud",
+        "Veetakistus/muul",
+        "Nööbid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#7f8a9e",
+        "#b1bfc5",
+        "#2b2b2b",
+        "#5c5c5c",
+        "#7f8a7f"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Stseenis on kolm erinevat kaadrit: üks täiesti must, üks avar vaade merele ja üks lähivaade naisele.",
+        "Erinevad fookused: esimene kaader on fookuseta, teine keskendub loodusele (meri), kolmas inimesele.",
+        "Valgustus varieerub: esimene kaader on täiesti pime, teine on heledam päevane vaade, kolmas on varjuline, kuigi toimub päevaajal.",
+        "Subjektid ja objektid vahelduvad mustast kaadrist loodusmaastikuni ja sealt edasi inimese portreeni."
+      ],
+      "snr": "007",
+      "ajad": [
+        "276.560",
+        "302.400"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine naine, kes on esiplaanil, vaadates kergelt alla ja paremale. Tal on tumedad lühikesed juuksed tuka ja bob-lõikusega. Naine kannab tumedat pluusi või kampsunit, mille kaelusel on heledad kaunistused, mis sarnanevad nööpidele või pärlitele. Kaela ümber on tal peenike hõbedane kett. Tema näoilme viitab sellele, et ta räägib või mõtiskleb sügavalt. Tagaplaanil, läbi akna, on näha talvine või varakevadine maastik. Maapind on kaetud lumega, näha on mitmeid puid, millest enamik on raagus, kuid mõnedel on juba märgata helerohelisi pungi või esimesi lehti. Vasakul kaugemal on näha tee või rada ning selle ääres pargitud punane auto. Stseen on valgustatud loomuliku päevavalgusega, andes sellele jaheda ja rahuliku tooni.",
+      "actions": [
+        "rääkimine",
+        "mõtisklemine",
+        "vaatamine (alla paremale)"
+      ],
+      "keywords": [
+        "naine",
+        "portree",
+        "talv",
+        "varakevad",
+        "aken",
+        "loodus",
+        "puud",
+        "lumi",
+        "siseruum",
+        "mõtisklus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "juuksed",
+        "pluus",
+        "kampsun",
+        "kaelakee",
+        "aken",
+        "puud",
+        "lumi",
+        "punane auto",
+        "tee"
+      ],
+      "colorcodes": [
+        "#1D1D1D",
+        "#D4D4D4",
+        "#A7816B",
+        "#7A8968",
+        "#E0E4E7",
+        "#4A3A2F",
+        "#AE291B"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on täiesti must, ilma nähtavate detailideta.",
+        "Teine pilt on väga tume, kuid sellel on näha naise ja tausta udused kontuurid.",
+        "Kolmas pilt on täielikult valgustatud, näidates kõiki detaile selgelt ja täieliku värviga."
+      ],
+      "snr": "008",
+      "ajad": [
+        "302.400",
+        "304.280"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub siseruumides viibivale naisele, kes on jäädvustatud kesklähivõttena, tausta moodustab suur aken, millest avaneb vaade väliruumile. Naisel on tumedad, keskmise pikkusega tuka ja soenguga juuksed ning ta kannab tumedat pluusi, millel on metalliläikelised detailid ja hõbedane kaelakee. Tema pilk on suunatud allapoole ja ta näib rääkivat või mõtisklevat. Akna tagune maastik kujutab parki või tänavat talve lõpul või varakevadel, kus on näha lumega kaetud maapinda, kuid ka rohelisi rohulaike. Puud on suures osas raagus, kuid mõnedel on näha esimesi pungi. Taustal on ka autosid ja tänavalaternad. Ühel hetkel ilmub visuaalselt esile läbipaistev kiht või peegeldus, mis katab nii naise kui ka välivaate, andes stseenile kahekordse särituse efekti, kus on aimata ebaselgeid kujusid. Järgnevalt muutub ekraan täiesti mustaks.",
+      "actions": [
+        "Rääkimine",
+        "Vaatamine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Naine",
+        "Aken",
+        "Talv",
+        "Kevad",
+        "Lumi",
+        "Puud",
+        "Park",
+        "Siseruum",
+        "Väliruum",
+        "Ülekate",
+        "Peegeldus",
+        "Must ekraan",
+        "Kahekordne säritus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Tumedad juuksed",
+        "Must pluus",
+        "Hõbedane kaelakee",
+        "Aken",
+        "Puud",
+        "Lumi",
+        "Roheline rohi",
+        "Autod",
+        "Tänavalaternad"
+      ],
+      "colorcodes": [
+        "#363636",
+        "#A6A6A6",
+        "#663300",
+        "#FF0000",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 33,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader näitab naist ja välivaadet selgelt.",
+        "Teine kaader lisab naisele ja taustale läbipaistva ülekatte või peegelduse, mis loob kummitusliku või kahekordse särituse efekti.",
+        "Kolmas kaader on täiesti must, märkides stseeni lõppu või üleminekut."
+      ],
+      "snr": "009",
+      "ajad": [
+        "304.280",
+        "346.120"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine naine, kes on paigutatud rikkaliku rohelise taimestiku keskele, mis annab edasi kasvuhoone või siseruumi loodusliku keskkonna mulje. Naine kannab sinist, rohelist ja valget mustrilist pluusi. Tal on keskmise pikkusega tumedamad juuksed ja ta on pööratud veidi paremale (vaataja vasakule), nägu profiilis. Tema suu on kergelt avatud, mis viitab rääkimisele või intervjueerimisele. Taustal on näha mitmesuguseid lopsakaid rohelisi taimi ja puuvõõrandatuid, samuti heledaid aknaraame või klaaspaneelide struktuure, mis lasevad sisse päevavalgust. Üldine õhkkond on rahulik ja looduslähedane, vaatamata siseruumile.",
+      "actions": [
+        "naine räägib",
+        "naine annab intervjuud"
+      ],
+      "keywords": [
+        "naine",
+        "intervjuu",
+        "kasvuhoone",
+        "taimestik",
+        "loodus",
+        "roheline",
+        "siseruum",
+        "portree"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "rohelised taimed",
+        "aknaraamid",
+        "pluus"
+      ],
+      "colorcodes": [
+        "#001002",
+        "#0d180c",
+        "#4d8628",
+        "#346820",
+        "#7cc854",
+        "#b8d1d8",
+        "#57a5ad"
+      ],
+      "texts": [
+        "KARMEL TALL"
+      ],
+      "persons": [
+        "Karmel Tall"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimeses ja kolmandas kaadris on pilt oluliselt tumedam, peaaegu mustaks tuhmunud, jättes nähtavale vaid ähmased kontuurid ja teksti 'KARMEL TALL'.",
+        "Teine kaader on hele ja selgelt valgustatud, näidates stseeni täielikult ja detailirohkelt.",
+        "Tekst 'KARMEL TALL' on nähtav ainult tumedamates kaadrites (esimene ja kolmas)."
+      ],
+      "snr": "010",
+      "ajad": [
+        "346.120",
+        "378.280"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha keskealine naine, kes on paigutatud kaadri keskossa. Tal on tumedad, õlgadeni ulatuvad juuksed tuka ja soenguga, mis raamib tema nägu. Naine kannab tumedat särki või kampsunit, millel on mõned heledad nööbid või kaunistused, ning kaelas on tal metallist kaelakee. Tema suu on kergelt avatud, mis viitab rääkimisele või intervjuu andmisele. Ta vaatab kaamerast veidi kõrvale. Taustal paistab läbi akna talvine või varakevadine väliskeskkond, kus on näha lumiseid pindu, paljaid puid ning mõningaid kollakasrohelisi põõsaid või puid, mis annab aimu varakevadest. Samuti on taustal näha hooneid ja pargitud autosid. Valgus on piisav ja näib tulevat aknast või siseruumist.",
+      "actions": [
+        "Rääkimine",
+        "Vaatamine kaamerast veidi eemale"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Intervjuu",
+        "Siseruum",
+        "Aken",
+        "Talv",
+        "Varakevad",
+        "Lumi",
+        "Puu",
+        "Ehted",
+        "Nööp",
+        "Taust"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Aken",
+        "Puu",
+        "Lumi",
+        "Auto",
+        "Hoone",
+        "Kaelakee",
+        "Kampsun",
+        "Nööbid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#5E3D2D",
+        "#C89980",
+        "#1A1A1A",
+        "#A0A0A0",
+        "#E0E0E0",
+        "#807060",
+        "#A0B060"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on täiesti must, kuvades tühja kaadri.",
+        "Kolmas pilt on oluliselt tumedam kui teine pilt ja sellel on näha horisontaalseid triipe/artefakte, mis viitavad videokvaliteedi probleemile või üleminekule."
+      ],
+      "snr": "011",
+      "ajad": [
+        "378.280",
+        "401.480"
+      ]
+    },
+    {
+      "explanation": "Stseen pakub visuaalset kontrasti rahuliku looduskeskkonna ja elava inimtegevuse vahel. Üks hetk kujutab naist lopsakas ja rohelises siseruumis, mis meenutab kasvuhoonet või botaanikaaeda, ümbritsetuna mitmesugustest troopilistest taimedest ja läbi suurte akende langevast loomulikust valgusest. Naine vaatab siira ilmega ja tema riietus on mustriline, roheliste ja siniste toonidega. Teisel hetkel avaneb vaade väljapoole, kus on näha suur rahvahulk kogunemas vabas õhus, tõenäoliselt mingil üritusel või avalikul platsil linnakeskkonnas. See välivaade on jäädvustatud seestpoolt läbi akna, mille raamid ja üks toataim osaliselt varjavad vaatepunkti. Taustal paistavad hooned. Stseen algab täieliku pimedusega.",
+      "actions": [
+        "Naine vaatab ja naeratab/mõtiskleb",
+        "Inimesed kogunemas vabas õhus",
+        "Inimesed suhtlevad omavahel",
+        "Mõned inimesed istuvad maapinnal"
+      ],
+      "keywords": [
+        "Botaanikaaed",
+        "Kasvuhoone",
+        "Rohelus",
+        "Loodus",
+        "Rahvakogunemine",
+        "Üritus",
+        "Linnakeskkond",
+        "Siseruum",
+        "Väliruum",
+        "Naine",
+        "Taimed",
+        "Aknad",
+        "Pimedus",
+        "Kontrast"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor and outdoor",
+      "objects": [
+        "Naine",
+        "Lopsakad rohelised taimed (palmid, sõnajalad)",
+        "Aknaraamid",
+        "Potitaim (toataim)",
+        "Hooned",
+        "Rahvahulk",
+        "Erinevad riided",
+        "Muruplats/pinnas"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#4B79A1",
+        "#3B5F3B",
+        "#A0B0C0",
+        "#6B4C2A"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Inimesed",
+        "Rahvahulk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "suvi",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader on täiesti must, teised sisaldavad visuaalset sisu.",
+        "Stseen vaheldub siseruumi (kasvuhoone/botaanikaaed) ja väliruumi (linnaplats) vahel.",
+        "Fookus on erinevatel objektidel: ühes kaadris naisel ja taimestikul, teises suurel hulgal inimestel ja hoonetel.",
+        "Kaamera asetus ja kaadri tüüp varieeruvad: üks on poolplaan, teine on üldisem vaade läbi akna väljapoole."
+      ],
+      "snr": "012",
+      "ajad": [
+        "401.480",
+        "458.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kirjeldab tegevust kahes erinevas keskkonnas, mis vahelduvad: esiteks, vaade tumendatud siseruumist läbi akna suurele inimhulgas väljaspool ning teiseks, intervjuu naisega lopsakas rohelises kasvuhoones. Siseruumist avaneb vaade väljapoole, kus on näha rahvarohket kogunemist. Inimesed on erinevas vanuses ja kannavad vabaajariideid, mõned seisavad, teised istuvad maapinnal. Tagaplaanil on näha mitmekorruselisi hooneid. Aknalaual on toataim, mis osaliselt varjab vaadet. Siseruumis istuvad või seisavad inimesed, kes jälgivad õues toimuvat tegevust. Üks stseen on pimedam, rõhutades siseruumi ja akna valgust. Teine stseen on eredalt valgustatud kasvuhoones, kus naine annab intervjuud, olles ümbritsetud mitmesugustest rohelistest taimedest.",
+      "actions": [
+        "Vaatlemine",
+        "Kogunemine",
+        "Intervjueerimine",
+        "Vestlemine",
+        "Seismine",
+        "Istumine"
+      ],
+      "keywords": [
+        "Rahvahulk",
+        "Intervjuu",
+        "Vaade aknast",
+        "Siseruum",
+        "Väliüritus",
+        "Toataimed",
+        "Kasvuhoone",
+        "Loodus",
+        "Jälgimine",
+        "Päevaaeg"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor or outdoor",
+      "objects": [
+        "Inimesed",
+        "Aken",
+        "Toataim",
+        "Hooned",
+        "Pudelid",
+        "Dekoratiivkujuke",
+        "Kasvuhoonetaimed",
+        "Laud/aknalaud"
+      ],
+      "colorcodes": [
+        "#2E4C20",
+        "#7BB340",
+        "#A8C6E4",
+        "#3A67A2",
+        "#1E1E1E",
+        "#A0A0A0",
+        "#FFFFFF",
+        "#401F0D",
+        "#C8C8C8"
+      ],
+      "texts": [],
+      "persons": [
+        "Mitmed inimesed (rahvahulk)",
+        "Intervjueeritav naine",
+        "Vaatlejad (akna juures)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Stseenid vahelduvad välisündmuse jälgimise ja kasvuhoones toimunud intervjuu vahel.",
+        "Valgustus varieerub heledast päevavalgusest (kasvuhoone, õueala) tumendatud siseruumi (vaatluspunkt).",
+        "Ühes osas on fookuses inimeste kogunemine õues, teises aga konkreetne intervjueeritav naine siseruumis, kasvuhoones.",
+        "Perspektiiv muutub akna kaudu vaatlemisest lähiplaaniks intervjueeritavale."
+      ],
+      "snr": "013",
+      "ajad": [
+        "458.880",
+        "498.480"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab vaadet pimedast siseruumist aknast välja rahvarohkele linnamaastikule. Siseruumis on kaks inimest, kes on suuremas osas siluetina, üks vasakul ja teine paremal, vaadates tõenäoliselt aknast välja. Vasakpoolne isik kannab prille ja paistab hoidvat kätt lõua juures. Aknalaual on näha mitu pudelit ja väike roheline taim. Aken ise on valge raamiga ja koosneb kahest osast, millest parempoolne on veidi avatud. Väljas on päevavalgus ja tänav on täis inimesi, kes on kogunenud ilmselt mingile üritusele või demonstratsioonile. Taustal on näha mitmekorruselisi hooneid, millest üks on heledat tooni ja teine sinakas-hall. Puudel on rohelised lehed. Üks inimene on akna all maas kükitamas ja rahvahulga seas on märgata ka jalgratast. Üldine meeleolu on siseruumis rahulik ja jälgiv, samal ajal kui väljas valitseb aktiivne kogunemine.",
+      "actions": [
+        "Inimesed siseruumis vaatlevad akendest välja",
+        "Rahvahulk väljas on kogunenud",
+        "Üks inimene õues kükitab"
+      ],
+      "keywords": [
+        "siseruum",
+        "väliruum",
+        "aken",
+        "rahvahulk",
+        "siluett",
+        "kogunemine",
+        "üritus",
+        "linnakeskkond",
+        "jälgimine",
+        "pudelid",
+        "päevaaeg"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "aken",
+        "pudelid",
+        "taim",
+        "hooned",
+        "puud",
+        "jalgratas",
+        "prillid"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#b1c1ce",
+        "#6a82a0",
+        "#455c82",
+        "#f2f2f2",
+        "#9c9e82"
+      ],
+      "texts": [],
+      "persons": [
+        "naine siseruumis",
+        "eakam inimene siseruumis",
+        "rahvahulk",
+        "kükitav inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Pildid on praktiliselt identsed, näitades sama stseeni ilma märkimisväärsete erinevusteta valguses, asendites või objektides, mis viitab järjestikustele kaadritele videost."
+      ],
+      "snr": "014",
+      "ajad": [
+        "498.480",
+        "499.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet hämarast siseruumist läbi akna välja, kus paistab päevavalgusesse mattunud tänav ja suur rahvahulk. Toas on näha kahe inimese siluette, kes istuvad akna lähedal, üks neist on näoga vasakule ja paistab mõtisklevat, toetades käe lõuale, kandes heledat salli või kraed. Teine inimene on näoga paremale, samuti hämaras siluetina. Aknalaual on näha paar pudelit ja väike potitaim. Väljaspool akent, heledama taeva ja valgete või helehallide hoonete taustal, on tänav täitunud inimestega, kes seisavad ja liiguvad, luues mulje mingist üritusest või kogunemisest. Rahvahulgas on näha erinevas vanuses inimesi, riietatuna mitmesugustesse rõivastesse. Akna all maapinnal kükitab üks mees. Sise- ja välisruumi vahel on tugev valgus- ja värvikontrast, kus sisemus on peaaegu täielikult varjus ja väljas valitseb päevavalgus.",
+      "actions": [
+        "Akna taga inimeste vaatlemine",
+        "Rahvahulga kogunemine ja liikumine",
+        "Mõtisklemine",
+        "Istumine",
+        "Kükitamine (väljas)"
+      ],
+      "keywords": [
+        "Akna vaade",
+        "Siseruum",
+        "Välisruum",
+        "Rahvahulk",
+        "Siluetid",
+        "Vaatlejad",
+        "Kogunemine",
+        "Kontrast",
+        "Päevavalgus",
+        "Hämar",
+        "Üritus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Aken",
+        "Aknaraam",
+        "Aknalaud",
+        "Pudelid",
+        "Potitaim",
+        "Inimesed",
+        "Hooned",
+        "Tänav"
+      ],
+      "colorcodes": [
+        "#0A0A0A",
+        "#A0C0E0",
+        "#D0D0D0",
+        "#608060",
+        "#F0F0F0",
+        "#406080",
+        "#C0D0E0",
+        "#806040"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest toas (siluetid)",
+        "Suur rahvahulk väljas (kümneid inimesi)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Siseruumis oleva vasakpoolse isiku pea ja käe asend on veidi muutunud (käsi on vahel lõual ja vahel veidi allpool).",
+        "Väljas oleva rahvahulga inimeste asukohad on veidi nihkunud, viitades liikumisele.",
+        "Akna all kükitava mehe kehahoiak on minimaalselt erinev."
+      ],
+      "snr": "015",
+      "ajad": [
+        "499.680",
+        "500.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet hämarast toast läbi suure akna väljapoole, kus toimub rahvarohke kogunemine. Toa interjöör on peaaegu täielikult pimeduses, mis loob sügava kontrasti aknast paistva valgusküllase välismaailmaga. Esiplaanil on näha kaks inimest, peamiselt siluettidena, kes istuvad laua taga ja vaatavad aknast välja. Vasakul olev inimene hoiab kätt lõua juures, justkui mõtiskledes või olukorda jälgides. Aknalaual on näha paar pudelit ja väike potitaim. Väljaspool akent avaneb vaade tänavale või platsile, kus on suur rahvahulk. Hoone taustal on näha mitmekorruselisi maju – üks on heledavärviline (valge või kreemjas) siniste detailidega (võimalik bänner või varikatus) ja teine on helesinine/hall. Rahvahulk on juhuslikult riietatud ja paistab, et nad kas suhtlevad omavahel või jälgivad mingit sündmust. Üks inimene on näha õues maas istumas, tema lähedal on samuti pudelid. Aknalähedal väljaspool seisab pikkredel või sarnane konstruktsioon. Üldine atmosfäär on sotsiaalne ja kogunemist iseloomustav, justkui vaataksid sisemised vaatlejad pealt tänavasündmust.",
+      "actions": [
+        "Vaatamine aknast välja",
+        "Kogunemine",
+        "Suhtlemine",
+        "Jälgimine",
+        "Istumine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Rahvakogunemine",
+        "Aken",
+        "Siseruum",
+        "Väliruum",
+        "Siluetid",
+        "Sotsiaalne sündmus",
+        "Linnavaade",
+        "Kontrast",
+        "Pudelid"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Aken",
+        "Pudelid",
+        "Potitaim",
+        "Hoone",
+        "Tänav",
+        "Rahvahulk",
+        "Aknaraam",
+        "Laud (oletatav)",
+        "Bänner/presendi (sinine)",
+        "Redel"
+      ],
+      "colorcodes": [
+        "#1F1F1F",
+        "#F0F0F0",
+        "#E5E5E5",
+        "#A0B9CD",
+        "#4A82B0",
+        "#60884A",
+        "#9C8F79"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (eesplaanil vasakul)",
+        "Mees (eesplaanil paremal, oletatav)",
+        "Rahvahulk (väljas)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Eesplaanil vasakul oleva inimese käe ja pea asendi minimaalne muutus kaadrite vahel."
+      ],
+      "snr": "016",
+      "ajad": [
+        "500.880",
+        "502.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet toast läbi avatud akna õue. Tuba on hämar ja tumedates toonides, luues kontrasti väljas oleva heleda ja rahvarohke stseeniga. Esiplaanil, toas, on näha kahe inimese siluetid, kes istuvad akna suunas. Vasakul istub naine, käsi lõua all, pilk suunatud paremale. Tema kaelas on heledam sall. Paremal on näha mehe seljaosa ja pea siluett. Aknalaual on näha mõned pudelid ja roheline taim. Aken ise on valgete raamidega ja selle kaudu avaneb vaade tänavale või platsile, mis on täis inimesi. Rahvahulk on tihe ja paljud inimesed on koondunud akna alla. Mõned inimesed paistavad kükitavat või istuvat madalamal. Taamal on näha kahte hoonet – vasakul valge ja paremal helesinine – ning rohelist puud, mis viitab suvisele või varasügisesele ajale. Üldine meeleolu on jälgiv, toas viibijad jälgivad aktiivset saginat väljaspool.",
+      "actions": [
+        "Toas viibivad inimesed vaatavad aknast välja",
+        "Õues viibivad inimesed on kogunenud",
+        "Õues keegi kükitab",
+        "Inimesed õues seisavad"
+      ],
+      "keywords": [
+        "siseruum",
+        "välisruum",
+        "aken",
+        "vaade",
+        "rahvahulk",
+        "kogunemine",
+        "jälgimine",
+        "vari",
+        "inimesed",
+        "tänav",
+        "hooned",
+        "päevane aeg",
+        "kontrast",
+        "hämarus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "aken",
+        "aknarraamid",
+        "pudelid",
+        "taim",
+        "hooned",
+        "tänav",
+        "puu",
+        "riided"
+      ],
+      "colorcodes": [
+        "#0A0A0A",
+        "#F0F0F0",
+        "#FFFFFF",
+        "#A8D0E0",
+        "#406030",
+        "#A08060",
+        "#405070",
+        "#C0C0C0",
+        "#A0C0E0"
+      ],
+      "texts": [],
+      "persons": [
+        "naine (vasakul toas)",
+        "mees (paremal toas)",
+        "rahvahulk (õues)",
+        "kükitav inimene (õues)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad erinevused, need on sisuliselt identsed kaadrid."
+      ],
+      "snr": "017",
+      "ajad": [
+        "502.080",
+        "503.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet toast läbi akna õues toimuvale inimeste kogunemisele. Siseruum on hämaralt valgustatud, jättes esiplaanil kaks inimest silueti varju. Vasakul istub naine, toetades lõua käele, ja paremal on näha teise inimese siluett. Aknalaual on näeb pudeleid ja rohelist taime. Aken on jaotatud mitmeks ruuduks, pakkudes raamitud vaadet õue. Väljas on ere päevavalgus, kus on näha suur rahvahulk seisvate ja vestlevate inimestega. Taustal paistavad heledad hooned ja rohelised puud. Üldine meeleolu on pigem rahulik ja vaatlev, rõhutades kontrasti hämarate siseruumide ja elava väliskeskkonna vahel.",
+      "actions": [
+        "Istumine laua taga",
+        "Vaatamine aknast välja",
+        "Lõua toetamine käele",
+        "Kogunemine ja seismine õues",
+        "Vestlemine (oletatav õues)"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Väliruum",
+        "Aken",
+        "Siluett",
+        "Rahvahulk",
+        "Kogunemine",
+        "Päevavalgus",
+        "Hämarus",
+        "Vaade",
+        "Linnakeskkond"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Aken",
+        "Aknaraam",
+        "Pudelid",
+        "Roheline taim",
+        "Laud",
+        "Hoone",
+        "Puud",
+        "Inimesed",
+        "Riietus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#A52A2A",
+        "#008000",
+        "#C0C0C0",
+        "#ADD8E6",
+        "#FFD700"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (siluett)",
+        "Mees (siluett, oletatav)",
+        "Rahvahulk (õues)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [],
+      "snr": "018",
+      "ajad": [
+        "503.280",
+        "504.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumist avanevat vaadet läbi suure, eredalt valgustatud akna välismaailma. Toas istub kaks inimest, kes on enamasti näha tumedate siluettidena heleda välitingimuste taustal. Vasakpoolne isik, kellel on lühikesed juuksed, on profiilis ja vaatab aknast välja, käsi lõua lähedal. Parempoolne isik on samuti tume siluett, kes vaatab akna poole, tema näojooned on suuresti varjatud. Aknalaual või lähedalasel laual on näha mitu pudelit, millest mõned on merevaigukarva ja teised läbipaistvad või rohelised. Tuba ise on peaaegu täielikult pime, mis teeb mööbli või muude detailide eristamise keeruliseks, rõhutades kontrasti väliskeskkonnaga. Väljaspool akent toimub tänaval või avatud alal elav kogunemine või üritus. Näha on suur rahvahulk, enamik inimesi seisab, mõned on vestluses või liiguvad. Taustal on näha heledate fassaadide ja mitme aknaga hooneid. Rahvahulga keskel on märgatav valge redel või tellingud ning puude või põõsaste roheline lehestik lisab linnakeskkonnale loodusliku elemendi. Üldmulje on vaikne vaatlus pimedast ja eraldatud interjöörist elavale ja eredale välisündmusele.",
+      "actions": [
+        "Istudes vaatamine",
+        "Kogunemine",
+        "Seismine",
+        "Suhtlemine"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Väliruum",
+        "Aken",
+        "Siluetid",
+        "Rahvahulk",
+        "Kogunemine",
+        "Hooned",
+        "Vaatlus",
+        "Kontrast",
+        "Pime",
+        "Hele",
+        "Pudelid",
+        "Redel",
+        "Linn",
+        "Üritus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Aken",
+        "Pudelid",
+        "Hoone",
+        "Redel",
+        "Taimestik",
+        "Inimesed"
+      ],
+      "colorcodes": [
+        "#0C0C0C",
+        "#D9D9D9",
+        "#4B4B4B",
+        "#8B8B8B",
+        "#2F699A",
+        "#008000",
+        "#A0A0A0"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest toas (siluetid)",
+        "Suur rahvahulk õues"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Vasakpoolse isiku pea asend muutub veidi",
+        "Vasakpoolse isiku käe asend lõua juures muutub pisut",
+        "Õues olevas rahvahulgas on näha kerget inimeste liikumist",
+        "Kaamera või vaatenurk nihkub minimaalselt, mis muudab aknaraami detailide või siseruumide kontuuride nähtavust"
+      ],
+      "snr": "019",
+      "ajad": [
+        "504.480",
+        "505.680"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb mitmest vaatenurgast, mis kujutavad inimeste elu ja tegevust nii sise- kui ka väliskeskkonnas. Ühes osas on näha hämaras ruumis istuv inimene, kes vaatab läbi suure akna välja. Siseruum on valdavalt tumedates toonides, kontrastiks eredale välisvaatele, kus tänaval paistab rahvamass, mõned inimesed redeli juures ja kauguses hooned ning paljad puud. Akna ääres istuv inimene kannab prille ja on käe lõua alla toetanud, paistes mõtisklev. Temast paremal on osaliselt näha teise inimese pea. Teises osas on lähivaates rõõmsameelne, lühikeste tumedate juustega naine, kes naeratab ja potentsiaalselt räägib. Tal on seljas mustriline kampsun ja kõrvas kõrvarõngad. Tema taustaks on avar, lumine park paljaste puude ja modernsete valgete ehitistega. See osa stseenist on heledalt valgustatud, peegeldades selget talvepäeva. Stseen kujutab erinevaid ajahetki ja kohti, ühendades vaikse sisemise vaatluse ja elava talvise väliskeskkonna.",
+      "actions": [
+        "vaatamine",
+        "mõtisklemine",
+        "naeratamine",
+        "rääkimine",
+        "rahvahulga kogunemine"
+      ],
+      "keywords": [
+        "vaatlus",
+        "avalik sündmus",
+        "talvine maastik",
+        "siseruum",
+        "väliruum",
+        "mõtisklemine",
+        "naeratus",
+        "linnakeskkond",
+        "inimesed",
+        "aken"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "aken",
+        "prillid",
+        "kampsun",
+        "kõrvarõngad",
+        "tänav",
+        "redel",
+        "hoone",
+        "puud",
+        "lumi",
+        "valged ehitised/installatsioonid",
+        "sein"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#5c4731",
+        "#6f7478",
+        "#2f2f2f",
+        "#d9e2e6",
+        "#7d7e7e",
+        "#a4b4c7"
+      ],
+      "texts": [],
+      "persons": [
+        "naine (prillidega)",
+        "naine (naeratav)",
+        "teine isik (osaliselt nähtav)",
+        "rahvahulk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "talv",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on tegevus pimedas siseruumis, kust vaadatakse välja, samas kui ülejäänud piltidel on tegevus heledas väliskeskkonnas või vaade talvisele väljale.",
+        "Esimesel pildil on näha rahvamass ja redel tänaval, teistel piltidel on lumine park ja modernsed hooned.",
+        "Esimene pilt on tumedama tooniga siseruumi osas, teised pildid on üldiselt eredalt valgustatud.",
+        "Piltidel on kujutatud erinevaid inimesi: esimesel pildil on prillidega naine ja osaliselt teine isik, teistel piltidel on naeratav naine.",
+        "Kolmas pilt on teise pildiga võrreldes veidi tumedam ja madalama küllastusega."
+      ],
+      "snr": "020",
+      "ajad": [
+        "505.680",
+        "584.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat naist, kellel on tumepruunid lühikesed juuksed ja tukk. Naine on riietatud tumedasse mustriga kampsunisse või jakki ja kannab kõrvarõngaid. Ta on fookuses ja vaatab allapoole ning veidi paremale, suu on kergelt avatud, justkui räägiks ta parajasti või kavatseks rääkida. Ta asub siseruumis või katusealusel rõdul, taustaks on suur aken või klaasitud sein. Akna tagant paistab talvine maastik, kus on palju lumega kaetud puid, mis on enamasti raagus, kuigi mõnel puul on näha ka esimesi heledaid rohelisi pungi, viidates hilistalvisele või varakevadisele ajale. Maapind on kaetud lumega. Paremal pool on näha kaasaegse arhitektuuriga hoone osa, millel on klaaspinnad. Kaadris on näha ka valgeid horisontaalseid elemente, mis võivad olla rõdu piirded või dekoratiivsed elemendid. Stseen muutub drastiliselt valgustuse ja heleduse osas – esimestel piltidel on stseen selgelt valgustatud, kolmandal aga on kogu pilt tugevalt tumendatud, luues peaaegu silueti efekti.",
+      "actions": [
+        "Rääkimine",
+        "Vaatamine (allapoole, paremale)"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Talv",
+        "Varakevad",
+        "Vari",
+        "Kõrvarõngad",
+        "Akna taga",
+        "Lumesadu",
+        "Raagus puud",
+        "Siseruum",
+        "Intervjuu",
+        "Eakus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Kampsun/jakk",
+        "Kõrvarõngad",
+        "Puud",
+        "Lumi",
+        "Hoone",
+        "Aken/klaaspind",
+        "Rõdu piire"
+      ],
+      "colorcodes": [
+        "#2C2522",
+        "#4D4D4D",
+        "#D6E0E6",
+        "#AABBCD",
+        "#C8D4DA",
+        "#6C7A58"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Piltide peamine erinevus seisneb valgustuses ja heleduses.",
+        "Esimene ja teine pilt on sarnase valgustusega, pakkudes selget ja detailset vaadet naisele ja taustale.",
+        "Kolmas pilt on oluliselt tumedam, peaagu mustaks varjutatud, muutes detailid raskesti eristatavaks ja luues dramaatilise silueti efekti.",
+        "Naise näoilme on esimesel kahel pildil paremini nähtav, kolmandal pildil varjutab pimedus selle peaaegu täielikult.",
+        "Tausta detailid (puud, lumi, hooned) on esimestel piltidel selgelt nähtavad, kolmandal aga muutuvad need peaaegu nähtamatuks tumenduse tõttu.",
+        "Värvid on esimesel ja teisel pildil elavamad ja eristatavad, kolmandal on värvid peaaegu kadunud, asendudes tumedate toonidega."
+      ],
+      "snr": "021",
+      "ajad": [
+        "584.480",
+        "587.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealist või vanemat naist siseruumis, kes on suunatud otse kaamera poole. Tal on pruunid õlgadeni ulatuvad juuksed ja ta kannab tumedat mustrilist kampsunit. Naine näib rääkivat või tähelepanelikult kuulavat, suu on veidi avatud ja näol on mõtlik ilme. Tema taga, läbi suure akna, avaneb vaade talvisele maastikule, kus on näha lumega kaetud puid ja mõningaid hooneid. Üldine valgus viitab päevasele ajale. Stseen sisaldab ka kaadreid, mis on suures osas või täielikult mustad, viidates tõenäoliselt üleminekutele või valguse muutustele kaadrite vahel.",
+      "actions": [
+        "Naine räägib",
+        "Naine kuulab"
+      ],
+      "keywords": [
+        "Naine",
+        "Talv",
+        "Lumi",
+        "Aken",
+        "Puud",
+        "Hooned",
+        "Siseruum",
+        "Välisruum",
+        "Kampsun",
+        "Portree",
+        "Vestlus",
+        "Vari",
+        "Pime"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Kampsun",
+        "Aken",
+        "Puud",
+        "Lumi",
+        "Hooned"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#5C3D2F",
+        "#2F2F2F",
+        "#888888",
+        "#E8F0F3",
+        "#AABBCB",
+        "#D4BBAA"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on täielikult must, ilma nähtava sisuta.",
+        "Kolmas pilt on peaaegu täielikult must, kuid sellel on väga nõrgalt ja tumedalt eristatavad stseeni kontuurid, viidates suurele alavalgustusele või varjulisele kaadrile.",
+        "Teine pilt on selge ja hästi valgustatud, pakkudes täieliku ülevaate naisest ja taustast."
+      ],
+      "snr": "022",
+      "ajad": [
+        "587.000",
+        "595.480"
+      ]
+    },
+    {
+      "explanation": "Stseen algab täieliku pimedusega, misjärel ilmub pildile keskealine naine, kes asub lopsakas rohelises keskkonnas, tõenäoliselt botaanikaaias või kasvuhoones. Naine on kaadris õlgadest ülespoole, tal on tumepruunid, keskmise pikkusega juuksed ja seljas sinise, valge ja musta mustriga pluus. Ta naeratab kergelt ja räägib, žestikuleerides parema käega. Tema selja taga on näha suuri lehttaimi, sealhulgas palmilehti ja mitmesuguseid põõsaid, ning valguse läbi paistvaid aknaid, mis viitavad siseruumile ja loomulikule päevavalgusele. Stseen tumeneb järk-järgult, kuni muutub peaaegu täiesti pimedaks, kusjuures figuurid ja taimestik on vaevu aimatavad, enne kui kaob taas täielikku musta.",
+      "actions": [
+        "rääkimine",
+        "žestikuleerimine",
+        "stseeni heleduse muutus (tumenemine)"
+      ],
+      "keywords": [
+        "naine",
+        "botaanikaaed",
+        "kasvuhoone",
+        "roheline",
+        "taimed",
+        "aknad",
+        "intervjuu",
+        "päevavalgus",
+        "pimedus",
+        "hele",
+        "tume",
+        "rääkimine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "taimed",
+        "palmipuulehed",
+        "aknad",
+        "akna raamid",
+        "pluus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#2F7C8F",
+        "#A8C9A8",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on täiesti must, tähistades stseeni algust või üleminekut.",
+        "Teine pilt näitab stseeni heledas, loomulikus päevavalguses, kus naine ja taimestik on selgelt nähtavad.",
+        "Kolmas pilt on teise pildi tumedam versioon, kus valgustus on oluliselt vähenenud, luues hämara atmosfääri."
+      ],
+      "snr": "023",
+      "ajad": [
+        "595.480",
+        "671.680"
+      ]
+    },
+    {
+      "explanation": "Stseen algab pimedusega, misjärel avaneb vaade intiimsele siseruumile, tõenäoliselt muusikapaigale või hubasele asutusele. Ühel hetkel näidatakse salapärast ukseava, kust kiirgab tugev, soe ja kuldne valgus, luues ootusärevuse või kutsuva atmosfääri. See valgus rõhutab rustikaalset puidust ukseraami ja valgustab rippuvat tumedat rõivast esikuruumis. Seejärel siirdub kaamera blondile naisele, keda näeme selja tagant ja kergelt külje pealt, esitamas muusikat suurel tiibklaveril. Ta viibib rustikaalse kiviseina taustal, mis on kaunistatud kunstiteostega, ja esineb sumedas valguses. Tema ees seisab mikrofon, mis viitab elavale esinemisele. Klaveri peal on näha ka teisi muusikariistu, näiteks viiulit. Üldine meeleolu on vaikne, soe ja kunstiline, sobilik õhtuseks või öiseks sündmuseks.",
+      "actions": [
+        "Klaveril mängimine",
+        "Muusika esitamine"
+      ],
+      "keywords": [
+        "Muusikaline ettekanne",
+        "Siseruum",
+        "Hubane",
+        "Soe valgus",
+        "Tiibklaver",
+        "Naine",
+        "Esineja",
+        "Rustikaalne",
+        "Ukseava",
+        "Pimedus",
+        "Kivi sein",
+        "Mikrofon"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Ukseava",
+        "Puidust ukseraam",
+        "Rõivas",
+        "Seinariiul",
+        "Tiibklaver",
+        "Mikrofon",
+        "Naine",
+        "Kivi sein",
+        "Kunstiteosed",
+        "Viiul",
+        "Poognad"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#D9A50F",
+        "#8B5B11",
+        "#2F2F2F",
+        "#BDBDBD",
+        "#7D0C0C",
+        "#3D4A3C"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "33",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on täiesti must, viidates stseeni algusesse või vahel olevale üleminekule.",
+        "Teine pilt keskendub ukseavale ja sealt kiirgava tugeva kollase valguse peale.",
+        "Kolmas pilt keskendub naisele, kes mängib tiibklaverit ja ümbritsevale esinemispaiga interjöörile.",
+        "Valgusfookus on erinev: teisel pildil on ere, kontsentreeritud valgusallikas, kolmandal aga sume ja hajutatud valgustus."
+      ],
+      "snr": "024",
+      "ajad": [
+        "671.680",
+        "696.880"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb mitmest erinevast hetkest, mis kujutavad kahte erinevat naist ja kahte erinevat tegevuspaika. Ühes stseenis on näha blondide juustega naine, kes istub musta tiibklaveri taga ja mängib, tema käed puudutavad klaveri klahve. Tema ees on mitu mikrofoni, mis viitab helisalvestusele või võimendusele. Taustal on rustikaalne kivist sein, mis annab ruumile hubase ja intiimse atmosfääri. Seinal on ka pilt või maal ning klaveri peal on näha viiul. Teises stseenis on pruunide juustega naine, kes istub siseruumis ja näib mõtisklevat või rääkivat. Tema taga avaneb aknast vaade talvisele maastikule, kus on näha lumiseid puid ja teid. Üldiselt loob stseen kontrasti muusikalise esituse ja vaiksema, introspektiivse hetke vahel, kus mõlemal juhul on fookuses naine ja tema tegevus või mõtted.",
+      "actions": [
+        "klaverimängimine",
+        "istumine",
+        "rääkimine/mõtisklemine"
+      ],
+      "keywords": [
+        "muusika",
+        "pianist",
+        "kontsert",
+        "intervjuu",
+        "siseruum",
+        "talv",
+        "klaver",
+        "naine",
+        "mikrofon",
+        "kivist sein",
+        "lumi",
+        "puud",
+        "viiul"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "klaver",
+        "mikrofon",
+        "viiul",
+        "tool",
+        "kivist sein",
+        "maal/pilt",
+        "puud",
+        "lumi",
+        "aken",
+        "riided"
+      ],
+      "colorcodes": [
+        "#1c1a1b",
+        "#dbc796",
+        "#c4a180",
+        "#8c7e6e",
+        "#ffffff",
+        "#e0e8f0",
+        "#6e4e3e",
+        "#687e83",
+        "#a00000"
+      ],
+      "texts": [],
+      "persons": [
+        "naine",
+        "pianist",
+        "intervjueeritav"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "winter",
+      "daytime": "not clear",
+      "differences": [
+        "Kaadrite tegelased on erinevad: esimesel ja kolmandal pildil on blond naine klaverit mängimas, teisel pildil on pruunijuukseline naine rääkimas.",
+        "Tegevuspaigad on erinevad: muusikaline esinemine hubases kiviseintega ruumis ja intervjuu aknaga siseruumis, kust paistab talvine maastik.",
+        "Valgustus ja atmosfäär on erinevad: esinemine on sumedas valguses, intervjuu päevavalguses.",
+        "Aastaaeg on selgelt näha vaid ühel pildil (talv), teistel pole see määratletav."
+      ],
+      "snr": "025",
+      "ajad": [
+        "696.880",
+        "728.080"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb kolmest erinevast kaadrist, mis portreteerivad keskealist naist mitmesugustes keskkondades ja tegevustes. Ühes kaadris on naine tagantvaates, musta tiibklaverit mängimas hämaras, rustikaalses siseruumis, mille taustal on kivisein. Klaveri läheduses on näha mikrofone, mis viitab muusikalisele esinemisele või salvestussessioonile. Teises kaadris on sama naine (või sarnane isik) lähivõttes, tõsise ilmega, vaadates veidi kaamerast eemale. Tema taga avaneb aknast vaade lumisele talvisele maastikule, kus on näha paljaid puid ja modernset hoonet, mis loob kontrasti siseruumi ja välise vahel. Kolmas kaader on väga pime ja seal on tegelane (tõenäoliselt sama naine) sügavas varjus, istudes lopsakas rohelises, džunglisarnases sisekeskkonnas, mis meenutab botaanikaaeda või kasvuhoonet. Detailid on varjude tõttu suures osas varjatud, andes edasi vaikse või mõtiskleva hetke. Üldmulje on mitmekülgne pilt inimese elust, mis hõlmab kunsti, mõtisklust ja looduslähedust.",
+      "actions": [
+        "mängib klaverit",
+        "istub",
+        "vaatab mõtlikult"
+      ],
+      "keywords": [
+        "naine",
+        "muusik",
+        "klaver",
+        "esinemine",
+        "talv",
+        "loodus",
+        "siseruum",
+        "rohelus",
+        "portree"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "tiibklaver",
+        "mikrofonid",
+        "kivisein",
+        "lumi",
+        "puud",
+        "hoone",
+        "lehed",
+        "taimed"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#313131",
+        "#9b9b9b",
+        "#e0e0e0",
+        "#7a4f3b",
+        "#1a2b16"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaadrite keskkonnad on erinevad: kontserdisaal/prooviruum, siseruum talvise väljavaatega ja roheline botaanikaaed/kasvuhoone.",
+        "Valgustingimused varieeruvad oluliselt: hämar esinemiskaader, ere päevavalgus intervjuu/portreekaadris ja väga pime roheluse kaader.",
+        "Kaadrite kompositsoon on erinev, hõlmates poolkeha/keskmist võtet klaveriga, lähivõtet näost ja keskmist võtet roheluses istuvast figuurist."
+      ],
+      "snr": "026",
+      "ajad": [
+        "728.080",
+        "921.880"
+      ]
+    },
+    {
+      "explanation": "Stseen algab ja lõppeb pimedusega, mille vahel ilmub nähtavale keskealine naine, kes on paigutatud rikkaliku rohelusega täidetud kasvuhoonesse. Naine on tumedate juustega ja kannab värvilist, sinise-rohelise-valge mustriga pluusi. Ta räägib või vaatleb midagi, pilk on suunatud paremale. Tema taga on näha tihedaid troopilisi taimi ja kasvuhoone klaasitud struktuuri, mis laseb sisse eredat päevavalgust. Stseen on üldiselt hele ja elav, kuid tuhmub alguses sisse ja lõpus välja peaaegu täielikuks pimeduseks.",
+      "actions": [
+        "Naine räägib",
+        "Naine vaatleb"
+      ],
+      "keywords": [
+        "Naine",
+        "Kasvuhoone",
+        "Taimed",
+        "Roheline",
+        "Siseruum",
+        "Portree",
+        "Video",
+        "Sisse-tuhmumine",
+        "Välja-tuhmumine",
+        "Intervjuu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Taimed",
+        "Lehed",
+        "Kasvuhoone struktuur",
+        "Klaaspinnad"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#366C29",
+        "#5E8424",
+        "#2C4A1E",
+        "#29748B",
+        "#70B7C1",
+        "#C8D8D7",
+        "#A16E53",
+        "#4A332D",
+        "#C6C6C6"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Stseen algab täielikult musta ekraaniga, mis seejärel tuhmub sisse, et näidata naist kasvuhoones. Pärast mõnda aega tuhmub sama stseen uuesti välja, jättes alles vaid hägusa ja pimeda kontuuri algsest pildist. See viitab video algusele või lõpule, kus kasutatakse sisse- ja väljatuhmumise efekti."
+      ],
+      "snr": "027",
+      "ajad": [
+        "921.880",
+        "947.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist naist, kes istub siseruumis, tõenäoliselt kasvuhoones või talveaias, mis on täis lopsakaid rohelisi taimi. Naine vaatab paremale, kergelt naeratades, ja tema ilme on rahulolev ja sõbralik. Tal on pruunid juuksed ja seljas on mitmevärviline abstraktse mustriga pluus, milles domineerivad sinised, valged ja mustad toonid. Taustal on näha suurte klaaspindadega aknaid ja metallkonstruktsioone, mis viitavad kasvuhoone struktuurile. Ümberringi kasvab tihe troopiline taimestik, luues eksootilise ja rohelise keskkonna. Valgus on ere ja loomulik, valgustades stseeni ülalt, mis annab pildile elava ja värske ilme.",
+      "actions": [
+        "Naine istub",
+        "Naine vaatab paremale",
+        "Naine naeratab"
+      ],
+      "keywords": [
+        "Kasvuhoone",
+        "Naine",
+        "Taimestik",
+        "Roheline",
+        "Siseruum",
+        "Naeratus",
+        "Troopiline",
+        "Intervjuu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Taimed",
+        "Lehed",
+        "Klaaspinnad",
+        "Aknaraamid",
+        "Pluus"
+      ],
+      "colorcodes": [
+        "#4A7A4A",
+        "#008CBA",
+        "#D2B48C",
+        "#FFFFFF",
+        "#2F4F2F",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 5,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on täiesti must.",
+        "Kolmas pilt on väga tume, peaaegu must, kuid sellel on eristatavad stseeni udused kontuurid ja varjud.",
+        "Teine pilt on ere ja selge, näidates stseeni täielikus valguses ja detailsuses."
+      ],
+      "snr": "028",
+      "ajad": [
+        "947.960",
+        "960.040"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb erinevatest kaadritest, mis kokku loovad kontrasti. Ühes kaadris on esiplaanil keskealine naine, kes vaatab siseruumist välja läbi akna või rõdult. Tal on lühikesed pruunid juuksed ja seljas tumepruun mustriline kampsun. Naine on mõtliku või melanhoolse ilmega, pilk suunatud allapoole või eemale. Tema taustal avaneb vaade paljastele puudele ja lumisele maastikule, mis annab märku hilistalvisest või varakevadisest ajast. Teine kaader on abstraktne lähivõte tumedast veepinnast, mida katavad virvendused ja heledad peegeldused. Lisaks on stseenis täiesti must kaader, mis võib tähistada pausi, stseenivahetust või algust/lõppu.",
+      "actions": [
+        "Naine vaatab välja",
+        "Vesi lainetab"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Talv",
+        "Kevad",
+        "Puud",
+        "Lumi",
+        "Vesi",
+        "Lained",
+        "Must",
+        "Siseruum",
+        "Välisruum",
+        "Mõtlik",
+        "Peegeldus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Naine",
+        "Kampsun",
+        "Puud",
+        "Lumi",
+        "Hoone",
+        "Aken",
+        "Vesi",
+        "Veepind"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#4C3C32",
+        "#3D3D3D",
+        "#B0C0D0",
+        "#D0E0E0",
+        "#1A201A",
+        "#708070"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on täiesti must, teisel pildil on inimene välivaate taustal ja kolmandal pildil on abstraktne vaade veepinnale.",
+        "Kaadrite sisu ja fookus erinevad drastiliselt.",
+        "Värvipalett varieerub mustast ja tumedatest toonidest (vesi, must kaader) heledamate hallide ja pruunideni (naine, lumine maastik)."
+      ],
+      "snr": "029",
+      "ajad": [
+        "960.040",
+        "987.840"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud naisterahvast, kelle kuju on ümbritsetud ja kihistatud mitmesuguste visuaalsete efektidega, mis annavad edasi müstilise ja kunstilise atmosfääri. Naine, kellel on tumedad juuksed, esineb erinevates läbipaistvuse ja moonutuse astmetes. Ühel hetkel on ta selgemalt nähtav, kergelt läbipaistvana, pruunides toonides riietuses, millel aimatav sanskriti keelne tekst. Tema nägu on esiplaanil, suu kergelt avatud, justkui rääkides või lauldes, ning teda katavad horisontaalsed jooned ja valged, voolavad mustrid. Teisel juhul on ta sulandunud taustale projitseeritud suure sinise ja kuldse päikesekella või sarnase ornamendi sisse, kus tema keha on põimitud kella kuldsete kiirtega ja nägu asub kella keskosa lähedal. Kolmandas variatsioonis on naine tumedas riietuses ja stseen on äärmiselt pime, peaaegu siluett. Tema tumedatest riietest kumavad läbi nööbid ja taustaks on hämar välitingimustes puude ja maastikuga. Kõigil kujutistel on märgata horisontaalset triibutust, mis viitab video- või digitaalsele töötlusele. Kogu stseen kombineerib reaalsust, projektsiooni ja digitaalseid efekte, et luua sügav ja ajatu narratiiv, mis mängib läbipaistvuse ja sümbolismiga.",
+      "actions": [
+        "Rääkimine või laulmine",
+        "Vaatamine",
+        "Olemine"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Kihistused",
+        "Läbipaistvus",
+        "Projektsioon",
+        "Päikesekell",
+        "Aja dimensioon",
+        "Kunstiline",
+        "Digitaalne",
+        "Müstiline",
+        "Sanskritis tekst",
+        "Visuaalne efekt"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Naine",
+        "Päikesekell",
+        "Kellamehhanism",
+        "Dekoratiivne osuti",
+        "Puud",
+        "Nööbid"
+      ],
+      "colorcodes": [
+        "#A0644D",
+        "#FFFFFF",
+        "#28446C",
+        "#D4AF37",
+        "#0F0F0F"
+      ],
+      "texts": [
+        "अध्ययन",
+        "विचार"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "effect",
+      "emptypercent": "15",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Erinevad taustad ja kihistused: üks pilt abstraktse, teine päikesekellaga, kolmas puudega välitingimustes.",
+        "Erinev läbipaistvus ja moonutatus: naine on erinevates kaadrites erinevalt läbipaistev ja moonutatud.",
+        "Valgustus: piltide valgustus varieerub heledast ja projitseeritud valgusest äärmiselt pimedani.",
+        "Riietus: ühel pildil on näha heledamat pruunikat riietust, teisel tumedat nööpidega riietust.",
+        "Üldine atmosfäär: stseeni atmosfäär varieerub abstraktset ja helgest sümboolse ja salapäraseni ning melanhoolse ja pimedani."
+      ],
+      "snr": "030",
+      "ajad": [
+        "987.840",
+        "1048.640"
+      ]
+    },
+    {
+      "explanation": "Stseen on täiesti pime. Kõik kolm pilti on üleni mustad, ilma igasuguse nähtava sisu, objekti, isiku või tegevuseta. Tegemist on puhta musta värvi kuvamisega, mis ei anna visuaalset informatsiooni kujutatud keskkonna kohta.",
+      "actions": [],
+      "keywords": [
+        "pime",
+        "must",
+        "tühjus",
+        "null",
+        "puudumine",
+        "monokroomne",
+        "ebamäärasus"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik kolm pilti on identsed ja mustad, puuduvad igasugused erinevused kaadrite vahel."
+      ],
+      "snr": "031",
+      "ajad": [
+        "1048.640",
+        "1049.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tumedajuukselist naist, kes istub või puhkab lopsakas rohelises keskkonnas, mis sarnaneb troopilise aiaga, botaanikaaiaga või kasvuhoonega. Ta on riietatud mustrilisse pluusi ning vaatab veidi paremale, tema nägu on suuresti varjus. Ümbritsev keskkond on täis erinevaid taimi ja lehestikku, luues tiheda ja looduslähedase atmosfääri. Tagaplaanil on märgata ka konstruktsioone, mis viitavad siseruumile. Valgustus on üldiselt hämar, andes stseenile mõtliku ja salapärase tooni.",
+      "actions": [
+        "istumine",
+        "vaatamine",
+        "puhkamine (võimalik)",
+        "vestlemine (võimalik)"
+      ],
+      "keywords": [
+        "naine",
+        "taimed",
+        "rohelus",
+        "kasvuhoone",
+        "džungel",
+        "siseruum",
+        "hämar",
+        "varjud"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "taimed",
+        "lehestik",
+        "kasvuhoone konstruktsioonid"
+      ],
+      "colorcodes": [
+        "#1e1e1e",
+        "#344e3e",
+        "#2a2a2a"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 70,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses kaadris on stseen äärmiselt tume, peaaegu täiesti must, kus on vaevumärgatavad kontuurid.",
+        "Teises kaadris on valgustus märgatavalt parem, tuues esile naise näojooned, riietuse mustri ja ümbritseva taimestiku detailid, kuigi stseen jääb endiselt hämaraks."
+      ],
+      "snr": "032",
+      "ajad": [
+        "1049.200",
+        "1097.240"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähiplaani naisest, kellele on üle projitseeritud pilt. Naine on tumedate lühikeste juustega, tal on seljas pruunikas-oranž särk, millel on korduvad tekstuurid ja kirjad. Tema silmad on peaaegu suletud ja suu veidi avatud, justkui räägiks või laulaks. Projektsioon hõlmab vasakul pool klaveriklahve mängivaid käsi ning paremal pool peegeldusi või abstraktseid kujutisi, mis meenutavad klaveri sisemust või metallist pindu. Kogu stseen annab edasi kunstilise ettekande või muusikalise sündmuse meeleolu.",
+      "actions": [
+        "Naine räägib/laulab",
+        "Käed mängivad klaverit"
+      ],
+      "keywords": [
+        "Naine",
+        "Klaver",
+        "Muusika",
+        "Projektsioon",
+        "Ettekanne",
+        "Siseruum",
+        "Kunst",
+        "Abstraktne",
+        "Must"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Käed",
+        "Klaveriklahvid",
+        "Klaveri sisemus/peegeldused",
+        "Särk",
+        "Tekst särgil"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#3c2a26",
+        "#8a6c5b",
+        "#b58c70",
+        "#ffffff",
+        "#c0c0c0"
+      ],
+      "texts": [
+        "ॐ नमः शिवाय"
+      ],
+      "persons": [
+        "Naine",
+        "Klaverit mängiv inimene (käed)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 67,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kaks kaadrit kolmest on täiesti mustad, samal ajal kui üks kaader sisaldab detailset visuaalset sisu. See viitab ilmselt videost võetud stoppkaadritele, kus mustad kaadrid tähistavad stseenide vahelisi üleminekuid või tühja aega."
+      ],
+      "snr": "033",
+      "ajad": [
+        "1097.240",
+        "1109.440"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine naine, kes istub siseruumis, tõenäoliselt kasvuhoones või talveaias. Teda ümbritseb tihe ja lopsakas roheline taimestik, sealhulgas palmilehti meenutavad suured lehed ja teised troopilised taimed. Taustal on näha klaasist aknaid ja metallist karkassi, mis on iseloomulikud kasvuhoonele. Naine kannab mitmevärvilist pluusi, millel on sinise, rohelise, valge ja musta toonides mustrid. Tema tumedad juuksed on lahti ja ulatuvad õlgadeni. Naine vaatab paremale (vaataja seisukohast) ja tema näol on sõbralik ilme, mis viitab vestlusele või intervjuule. Stseenis on oluline erinevus valgustuses: kaks kaadrit on peaaegu täiesti pimedad, näidates vaid hägusat siluetti, samas kui üks kaader on eredalt valgustatud, paljastades kõik detailid ja värvid.",
+      "actions": [
+        "Istumine",
+        "Rääkimine (võimalik)",
+        "Vestlemine (võimalik)"
+      ],
+      "keywords": [
+        "Naine",
+        "Kasvuhoone",
+        "Taimestik",
+        "Roheline",
+        "Klaasist konstruktsioon",
+        "Siseruum",
+        "Portree",
+        "Intervjuu",
+        "Pimendus",
+        "Hele"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Taimed",
+        "Lehed",
+        "Klaasaken",
+        "Karkass",
+        "Pluus"
+      ],
+      "colorcodes": [
+        "#4C8DAA",
+        "#6CA4C4",
+        "#5F8F61",
+        "#8ABF8C",
+        "#E0E0E0",
+        "#1A1A1A",
+        "#3F6F41",
+        "#A0A0A0",
+        "#D5B1A0",
+        "#2D4D2E"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene ja kolmas pilt on äärmiselt pimedad, peaaegu täiesti mustad, kusjuures on näha ainult häguseid kontuure. Teine pilt on eredalt valgustatud, näidates selgelt naist ja rikkalikku rohelist kasvuhoone keskkonda koos kõigi detailide ja värvidega."
+      ],
+      "snr": "034",
+      "ajad": [
+        "1109.440",
+        "1146.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist meest, kes kannab prille ja ruudulist särki, istumas siseruumis. Ta vaatab kaamerast veidi paremale. Taustal on vasakul aken valgete, läbipaistvate kardinatega, millest paistab sisse ere päevavalgus. Akna ees laual on punases võrgust kausis mitmesugused puuviljad: õunad, apelsinid ja tõenäoliselt laimid. Seina värvus on sügav punakaspruun. Mehe paremal käel on suur roostevabast terasest külmik, millel on vee- või jäädosaator ja kaks käepidet. Külmiku taga ja küljele jääb tumeda kapi või riidekapi osa riietega.",
+      "actions": [
+        "Mees istub",
+        "Mees vaatab kaamerast veidi paremale"
+      ],
+      "keywords": [
+        "Mees",
+        "Siseruum",
+        "Prillid",
+        "Ruuduline särk",
+        "Külmik",
+        "Aken",
+        "Puuviljad",
+        "Kodu",
+        "Intervjuu",
+        "Elutuba",
+        "Köök"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Prillid",
+        "Ruuduline särk",
+        "Aken",
+        "Valged kardinad",
+        "Laud",
+        "Punane võrgust kauss",
+        "Puuviljad",
+        "Õunad",
+        "Apelsinid",
+        "Laimid",
+        "Punakaspruun sein",
+        "Roostevabast terasest külmik",
+        "Veekraaniga külmiku uks",
+        "Kapi/riidekapi uks",
+        "Riiulid",
+        "Riided"
+      ],
+      "colorcodes": [
+        "#703030",
+        "#D0D0D0",
+        "#404040",
+        "#C0C0C0",
+        "#F0F0F0",
+        "#DD4040",
+        "#FF8C00",
+        "#80C040",
+        "#A9A9A9"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on täiesti must, ei sisalda visuaalset informatsiooni.",
+        "Teine pilt on väga tume ja ähmane, näidates vaevu stseeni kontuure.",
+        "Kolmas pilt on selge, detailne ja hästi valgustatud, pakkudes täieliku ülevaate stseenist."
+      ],
+      "snr": "035",
+      "ajad": [
+        "1146.080",
+        "1148.320"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine mees, kes istub siseruumides, tõenäoliselt köögis või söögitoas. Mees kannab prille ja ruudulist särki ning vaatab veidi kaamerast paremale. Tema selja taga vasakul on suur aken valgete kardinatega, millest paistab sisse ere päevavalgus. Akna kõrval on punaseks värvitud sein, millel ripub raamitud pilt või maal. Esiplaanil vasakul laual on punases võrgust kausis assortii puuviljadest, sealhulgas õunad ja pirnid. Mehe selja taga paremal on suur roostevabast terasest kaheukseline külmkapp, millel on ka vee- ja jäädosaator. Külmkapi kohal ja taga paistavad rippuvad riided või riidepuu.",
+      "actions": [
+        "Mees istub",
+        "Mees vaatab"
+      ],
+      "keywords": [
+        "Mees",
+        "Prillid",
+        "Ruuduline särk",
+        "Köök",
+        "Söögituba",
+        "Külmkapp",
+        "Puuvili",
+        "Aken",
+        "Kardinad",
+        "Siseruum",
+        "Portree"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Prillid",
+        "Ruuduline särk",
+        "Aken",
+        "Valged kardinad",
+        "Punane sein",
+        "Pilt",
+        "Laud",
+        "Puuvili",
+        "Õunad",
+        "Pirnid",
+        "Kauss",
+        "Roostevaba külmkapp",
+        "Veeautomaat",
+        "Riided"
+      ],
+      "colorcodes": [
+        "#801E1A",
+        "#FFFFFF",
+        "#8F6B4B",
+        "#E0E0E0",
+        "#4C6F8E",
+        "#B0B0B0",
+        "#E03030",
+        "#609040",
+        "#D0C070"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Pilt 1 on selge, hästi valgustatud ja erksate värvidega.",
+        "Pilt 2 on sarnane pildile 1, kuid sellel on peen hajutatud või tekstuuriga ülekate, mis muudab selle veidi pehmemaks ja vähem teravaks, andes veidi tuhmunud ilme.",
+        "Pilt 3 on oluliselt tumedam, näib olevat tehtud väga hämaras või öises valguses, mistõttu detailid on raskesti eristatavad. Lisaks on pildil näha horisontaalsed jooned, mis viitavad võimalikele video skaneerimisvigadele või efektile."
+      ],
+      "snr": "036",
+      "ajad": [
+        "1148.320",
+        "1175.880"
+      ]
+    },
+    {
+      "explanation": "Stseen algab täieliku pimedusega, mis hajub, et paljastada öise linnavaate ajaloolises miljöös. Vaade on suunatud läbi kaarja läbipääsu kitsale munakivisillutisega tänavale, mida valgustavad strateegiliselt paigutatud maapealsed valgustid ja ülal rippuvad sinakad dekoratiivvalgustid, mis annavad edasi pidulikku atmosfääri. Vasakul on näha heledast kivist hoone osa, millel on ristkülikukujuline mitme ruuduga aken ja seinal on tekstijuppe ning Rooma number \"I\". Ülemises osas on näha kiri, mis viitab \"Tallinna Toom...\"-le. Seejärel muutub stseen sootuks, pakkudes pilti talvisest välitingimustest, kus esiplaanil on näha tumedas siluetis inimene, tõenäoliselt naine, kelle taustaks on lumevaip ja raagus puud. See viitab külmale ja vaiksele talvepäevale või -õhtule, mis on teravas kontrastis eelneva elava linnamiljööga.",
+      "actions": [
+        "valguse vähenemine/suurenemine",
+        "üleminek ühest asukohast teise"
+      ],
+      "keywords": [
+        "pimedus",
+        "öö",
+        "linnavaade",
+        "ajalooline arhitektuur",
+        "kaarjas läbipääs",
+        "munakivisillutis",
+        "dekoratiivvalgustid",
+        "talv",
+        "lumi",
+        "raagus puud",
+        "inimene (siluett)",
+        "kontrast"
+      ],
+      "shot_type": "not clear",
+      "placement": "outdoor",
+      "objects": [
+        "aken",
+        "hoone",
+        "kaarjas läbipääs",
+        "munakivisillutis",
+        "valgustid",
+        "puud",
+        "lumi"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#D1C4B0",
+        "#202E4E",
+        "#A8C6D9",
+        "#6B6D6F",
+        "#E0E0E0"
+      ],
+      "texts": [
+        "Tallinna Toom...",
+        "I"
+      ],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene kaader on täiesti must, puudub igasugune visuaalne informatsioon, toimides ilmselt üleminekukaadrina.",
+        "Teine kaader kujutab öist linnavaadet ajaloolises Tallinna kesklinnas, kus on fookuses arhitektuur ja sinakad dekoratiivvalgustid.",
+        "Kolmas kaader kujutab inimest talvises, lumises väliskeskkonnas, kus domineerivad tumedad toonid ja raagus puud.",
+        "Stseenide tegevuspaik, valgustus ja üldine atmosfäär varieeruvad märkimisväärselt kaadrite vahel."
+      ],
+      "snr": "037",
+      "ajad": [
+        "1175.880",
+        "1244.840"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud naist, kes istub siseruumis suure akna ees. Aknast avaneb vaade pargilaadsele maastikule. Naisel on tumedad, lühikesed, tuka ja otseks lõigatud soenguga juuksed. Seljas on tal tume pluus või kampsun, mille õla- või kraeosa on kaunistatud metallikvärvi nööpide või neetidega. Tema kaela ehib kaelakee. Naise ilme on mõtlik ja tõsine, pilk suunatud pigem alla või otse ette. Akna taga on näha puid, millest osad on veel raagus, osadel aga juba esimesed pungad või noored lehed. Maapind on kaetud sulava lume või jääga, mis viitab varakevadele või hilistalvele. Kaugemal on näha tee või tänav, kus paikneb punane auto, samuti tänavavalgustid ja taamal hooned.",
+      "actions": [
+        "Istub",
+        "Vaatab alla või otse ette"
+      ],
+      "keywords": [
+        "Portree",
+        "Naine",
+        "Aken",
+        "Park",
+        "Siseruum",
+        "Väliruum",
+        "Varakevad",
+        "Hiline talv",
+        "Mõtlik",
+        "Visuaalne efekt"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Aken",
+        "Puud",
+        "Lumi",
+        "Tee",
+        "Auto",
+        "Hooned",
+        "Tänavavalgusti",
+        "Pluus/kampsun",
+        "Kaelakee"
+      ],
+      "colorcodes": [
+        "#2C2C2C",
+        "#5C3D32",
+        "#7B857A",
+        "#AB2525",
+        "#C7B58F",
+        "#9C6C50"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real, effect",
+      "emptypercent": "100",
+      "season": "winter, spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on täiesti must tühi kaader.",
+        "Kolmandal pildil on naise näole ja ülakehale lisatud poolläbipaistev, keerlev ja abstraktne punakaspruun visuaalne efekt, mis muudab tema näojooned vähem selgeks. Teine pilt on selge ja ilma igasuguste efektideta."
+      ],
+      "snr": "038",
+      "ajad": [
+        "1244.840",
+        "1308.800"
+      ]
+    },
+    {
+      "explanation": "Stseenil on keskealine naine, kes on jäädvustatud kesklähivõttes. Tal on tumedad bob-soenguga juuksed ja tukk. Naine kannab musta pluusi või kampsunit, millel on mõned heledad nupud või detailid rinnaesisel, ja tagasihoidlikku kaelakeed. Tema ilme on tõsine või mõtisklev, pildil 2 on ta suu kergelt avatud, justkui rääkides. Taustal on suur aken, millest avaneb vaade välitingimustele – maastik on kaetud lumega, näha on raagus puid, kuid vasakul paistab ka üksikuid rohelisi võrseid. Kauguses on näha hooneid, autosid ja ebaselgeid inimkujusid. Kolmas pilt on peaaegu täielikult pime, viidates stseeni lõppemisele või üleminekule. Valgus on loomulik, päevaajale iseloomulik.",
+      "actions": [
+        "Rääkimine (implitsiitne)",
+        "Kuulamine (implitsiitne)",
+        "Pildi tumenemine/fade to black"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Talv",
+        "Lumi",
+        "Aken",
+        "Siseruum",
+        "Õues",
+        "Tumedad juuksed",
+        "Must riietus",
+        "Puu",
+        "Hoone",
+        "Päevaaeg"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Juuksed",
+        "Must pluus/kampsun",
+        "Kaelakee",
+        "Aken",
+        "Lumi",
+        "Puu",
+        "Hoone",
+        "Auto",
+        "Tänavavalgusti"
+      ],
+      "colorcodes": [
+        "#2E1A14",
+        "#1A1A1A",
+        "#A8816C",
+        "#F0F0F0",
+        "#5C4D40",
+        "#333333"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Naine muudab piltidel 1 ja 2 veidi oma suu asendit: pildil 1 on suu suletud või väga kergelt avatud, pildil 2 on see selgemalt avatud, vihjates rääkimisele.",
+        "Pilt 3 on peaaegu täielikult must, samas kui pildid 1 ja 2 on hästi valgustatud."
+      ],
+      "snr": "039",
+      "ajad": [
+        "1308.800",
+        "1359.080"
+      ]
+    },
+    {
+      "explanation": "Stseen algab mustast ekraanist, mis seejärel avaneb siseruumiks. Keskel on näha keskealine mees prillide ja ruudulise särgiga, kes tundub rääkivat. Ta on paigutatud kaadri paremasse poolde, vaadates veidi vasakule. Tema taga vasakul on suur aken valgete kardinatega, millest paistab ere päevavalgus. Akna all on tumepruun või punakas laud punase võrgust puuviljakausiga, kus on näha punaseid ja rohelisi õunu ning oranže puuvilju. Seinal akna kohal on osaliselt näha maal. Seina värv on sügav punakaspruun. Mehe taga paremal on suur kahekordne roostevabast terasest külmkapp koos veeautomaadi ja jäämasinaga vasakul uksel. Külmkapist paremal on näha avatud riidekapi või sahvri osa, kus ripuvad riided või esemed. Üldmulje on kodune ja hubane, tõenäoliselt intervjuu või vestlus koduses keskkonnas.",
+      "actions": [
+        "Mees räägib"
+      ],
+      "keywords": [
+        "mees",
+        "prillid",
+        "ruuduline särk",
+        "kodu",
+        "siseruum",
+        "köök",
+        "söögituba",
+        "intervjuu",
+        "külmkapp",
+        "puuviljakauss",
+        "õunad",
+        "aken",
+        "kardinad",
+        "maal",
+        "punased seinad",
+        "roostevaba teras"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "prillid",
+        "ruuduline särk",
+        "aken",
+        "valged kardinad",
+        "laud",
+        "punane võrgust puuviljakauss",
+        "punased õunad",
+        "rohelised õunad",
+        "oranžid puuviljad",
+        "maal",
+        "sein",
+        "roostevabast terasest kahekordne külmkapp",
+        "veeautomaat",
+        "jäämasin",
+        "riidekapp/sahver"
+      ],
+      "colorcodes": [
+        "#7C2A2D",
+        "#997B63",
+        "#F0F0F0",
+        "#4A3C32",
+        "#B8B8B8",
+        "#CC3333",
+        "#D14545",
+        "#87B056",
+        "#FDFDFD",
+        "#6A4F3F"
+      ],
+      "texts": [],
+      "persons": [
+        "üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesed kaks kaadrit on täiesti mustad, viimane kaader näitab siseruumi inimestega."
+      ],
+      "snr": "040",
+      "ajad": [
+        "1359.080",
+        "1361.600"
+      ]
+    },
+    {
+      "explanation": "Stseen pakub mitmekülgset vaadet, kombineerides sise- ja väliskeskkondi. Esimesel kaadril on näha keskealine prillidega mees, seljas ruuduline särk, kes istub ja räägib hästi valgustatud koduses interjööris. Tema selja taga on punane sein, valged kardinad, seinal pildiraam ja kaasaegne hõbedane külmkapp. Esiplaanil laual on punases korvis puuvilju, nagu õunad ja pirnid. Teine kaader viib meid õue, kus on näha avar park pilvise taeva all. Keskel asub ringikujuline purskkaev, millest vesi üles purskab, ning selle ümber on rohelised lehtpuud ja mitu valget pargipinki. Kolmas kaader näitab naist, kes istub tihedas rohelises taimestikus, mis viitab kasvuhoonele või botaanikaaiale. Naine kannab mustrilist pluusi ja on üsna hämaras valguses, samuti paistab ta rääkivat. Üldmulje on intervjuudest, mis on põimitud loodus- ja linnavaadetega.",
+      "actions": [
+        "Mees räägib või vestleb.",
+        "Naine räägib või vestleb.",
+        "Purskkaevust voolab vesi."
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Vestlus",
+        "Kodu",
+        "Park",
+        "Purskkaev",
+        "Taimed",
+        "Loodus",
+        "Siseruum",
+        "Väliskeskkond",
+        "Inimesed",
+        "Rohelus",
+        "Külmkapp",
+        "Puuviljad",
+        "Kodune",
+        "Puhkus",
+        "Kasvuhoone"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor and outdoor",
+      "objects": [
+        "Mees",
+        "Naine",
+        "Prillid",
+        "Ruuduline särk",
+        "Mustriline pluus",
+        "Õunad",
+        "Pirnid",
+        "Punane korv",
+        "Laud",
+        "Valged kardinad",
+        "Punane sein",
+        "Pildiraam",
+        "Hõbedane külmkapp",
+        "Puud",
+        "Purskkaev",
+        "Pargipingid",
+        "Pilves taevas",
+        "Roheline taimestik",
+        "Lehed"
+      ],
+      "colorcodes": [
+        "#A02E2D",
+        "#D3D3D3",
+        "#FFFFFF",
+        "#4F6D41",
+        "#87CEEB",
+        "#8B4513",
+        "#36454F"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Erinevad asukohad: Siseruumid (kodu, kasvuhoone) ja välitingimused (park).",
+        "Erinevad isikud: Ühes stseenis mees, teises naine ja kolmas stseen on inimtühi.",
+        "Valgustus ja atmosfäär: Esimene stseen on hele ja avatud, kolmas stseen on hämaram ja intiimsem (taimede vahel), teine stseen on pilves päevavalgel.",
+        "Taustad: Kaasaegne köök/elutuba, park purskkaevu ja puudega, tihe troopiline taimestik kasvuhoones."
+      ],
+      "snr": "041",
+      "ajad": [
+        "1361.600",
+        "1461.200"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb mitmest siseruumis filmitud kaadrist, mis esitavad kahte või isegi kolme erinevat inimest ja mitmeid interjööre, mille ühiseks teemaks on aknad ja taimed. Ühes kaadris on näha keskealine naine, tumedate juuste ja heledama nahaga, kes istub tumedalt valgustatud, kuid lopsakalt rohelises keskkonnas, mis sarnaneb kasvuhoonele või botaanikaaiale. Naine kannab sinist mustrilist pluusi ja tema nägu on osaliselt varjus, ta vaatab paremale, justkui kuulaks või räägiks. Ümberringi on tihedad rohelised lehttaimed ja tagaplaanil on aimata akende konstruktsioone. Teises kaadris on fookuses vanem naine, kellel on lühikesed pruunikad juuksed ja kes kannab tumedat mustrilist jakki koos kõrvarõngastega. Ta on paigutatud akna ette, kust avaneb vaade talvisele maastikule – paljaste puude ja lumehangedega pargile. Akna taga on näha valgeid piirdeid ja kaugemaid hooneid. Naine vaatab otse ette ja näib olevat süvenenud vestlusesse. Kolmas kaader näitab avatud valget akent, millel seisab valges potis siseruumide taim, millel on paljad oksad. Akna taga on näha hoone kollakat välisseina. Akna taga olevas toas on väga pime ja vaevu on aimata mingit inimkuju või käsi, mis toas viibib, luues salapärase õhkkonna. Stseenide valgustus ja meeleolu varieeruvad, alates tumedast ja rohelisest keskkonnast kuni valgustatud talvise vaateni, peegeldades erinevaid olukordi ja fookuspunkte.",
+      "actions": [
+        "rääkimine",
+        "kuulamine",
+        "vaatamine",
+        "istumine"
+      ],
+      "keywords": [
+        "naine",
+        "intervjuu",
+        "taimed",
+        "aken",
+        "siseruum",
+        "kasvuhoone",
+        "talv",
+        "lumi",
+        "rohelus",
+        "vari",
+        "valgus",
+        "puit",
+        "aknalaud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "rohelised taimed",
+        "paljaste okstega taim potis",
+        "valge lillepott",
+        "valge aknaraam",
+        "avatud aken",
+        "puud",
+        "lumi",
+        "valged piirded",
+        "hoone välissein (kollakas/pruun)",
+        "kõrvarõngad"
+      ],
+      "colorcodes": [
+        "#0A0A0A",
+        "#4A5B3E",
+        "#728E8C",
+        "#C8D7DB",
+        "#704C3F",
+        "#D1BE94",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "naine (tumeda juustega)",
+        "vanem naine (pruunikate juustega)",
+        "isik (vaevu aimatav akna taga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "erinevad naised kaadrites (välimuse poolest)",
+        "erinevad siseruumid (lopsakas roheline keskkond vs. aknaga tuba vs. pime tuba)",
+        "erinev valgustus (tumedam ja varjulisem vs. hele ja loomulik)",
+        "aastaaegade erisused (rohelised taimed vs. talvine lumevaip ja paljad puud)",
+        "kaadrite fookus (isikud vs. aken ja selle kaudu nähtav)"
+      ],
+      "snr": "042",
+      "ajad": [
+        "1461.200",
+        "1517.600"
+      ]
+    },
+    {
+      "explanation": "Stseen algab detailse lähivõttega valgest aknaraamist ja avatud aknast, mille aknalaual seisab pika lehestikuga toataim valges potis. Akna klaasis peegeldub pilvise ilma tõttu hall välisilme koos hoonete kontuuridega, samas kui avatud akna taga siseruumis on näha tumedaid ja ähmaselt eristatavaid kujusid. Seejärel laieneb vaateväli avarale ja elavale laste mänguväljakule, mis on täidetud paljude laste ja täiskasvanutega. Mänguväljakul on mitu kiike, millel lapsed mängivad, ning maa on märg ja mudane, moodustades porilompe, mis viitab hiljutisele vihmale. Taustal on näha vananenud hallid elumajad ja rohelised puud. Stseen lõpeb fookusega ühele üksikule, tumedale ja siluetina paistvale isikule, kelle nägu on täielikult varjus ja kelle taust on samuti tume ja ähmane, pakkudes anonüümset ja mõtlikku ilmet. Üldine atmosfäär on melanhoolne ja pildid loovad narratiivi intiimsest vaatlusest laiemale kogukonnaelu pildile ja seejärel süvenemisele üksikisiku figuuri.",
+      "actions": [
+        "Vaatamine läbi avatud akna",
+        "Mängimine kiikudel",
+        "Liikumine mänguväljakul",
+        "Laste jälgimine",
+        "Seismine või poseerimine (silueti puhul)"
+      ],
+      "keywords": [
+        "Aken",
+        "Aknalaud",
+        "Toataim",
+        "Mänguväljak",
+        "Kiiged",
+        "Lapsed",
+        "Täiskasvanud",
+        "Märg maa",
+        "Muda",
+        "Hooned",
+        "Pilves ilm",
+        "Siluett",
+        "Varjud",
+        "Melanhoolia",
+        "Kogukond"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Aken",
+        "Aknaraamid",
+        "Lillepott",
+        "Toataim",
+        "Kiiged",
+        "Mänguväljak",
+        "Hooned",
+        "Puud",
+        "Porilombid",
+        "Rõivad"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#32CD32",
+        "#A9A9A9",
+        "#8B4513",
+        "#000000",
+        "#FFC0CB",
+        "#ADD8E6",
+        "#FFFF00"
+      ],
+      "texts": [],
+      "persons": [
+        "Lapsed",
+        "Täiskasvanud",
+        "Tundmatu isik (siluetina)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "kevad",
+      "daytime": "päev",
+      "differences": [
+        "Fookuse ja kaadri tüübi varieeruvus: lähivõttest aknast laia plaanini mänguväljakust ja seejärel lähivaatele isikust.",
+        "Sise- ja välisruumi üleminek: esialgne vaade ühendab sise- ja välisruumi, millele järgneb selgelt välistseen ja lõpuks ebaselge taustaga isik.",
+        "Inimeste nähtavus ja arv: alguses ähmaselt nähtavad kujud, siis palju selgeid inimesi ja lõpus üks anonüümne siluett.",
+        "Valguse ja värvitoonide muutumine: alates pilvisest hallist toonist ja pimedast siseruumist kuni mänguväljaku heledamate toonideni ning lõpuks valdavalt musta siluetini.",
+        "Stseeni atmosfääri areng: alguse vaikne ja vaatlev toon areneb elavaks ja veidi melanhoolseks õues ja lõpeb müstilise ning mõtliku üksikisiku pildiga."
+      ],
+      "snr": "043",
+      "ajad": [
+        "1517.600",
+        "1618.760"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub keskealisele naisele, kellel on lühikesed tumepruunid juuksed ja heledad silmad. Ta kannab pruuni ümmarguse kaelusega pluusi, mis on kaunistatud korduvate Om-sümbolite ja sanskritikeelse tekstiga \"Om Namah Shivaya\" heledamas toonis. Tema ilme on rahulik ja kergelt mõtlik, huuled on pisut avatud, nagu ta oleks just rääkinud või hakkaks rääkima. Valgus on kunstlik, langeb peamiselt vasakult ja eest, tekitades tema näo paremale poolele ja pea taha vasakule seinale pehme varju. Taust on hele, püstiste joontega paneel või sein, mis annab ruumile tekstuurilise ilme. Stseenis on näha ka kaadreid, mis on peaaegu täielikult pimedad või mustad, viidates video algusele/lõpule või üleminekule, kusjuures ühes pimedas kaadris on aimatav tumenenud sisekujundus, sealhulgas võimalik külmkapp paremal pool. Üldmulje on vaikne ja keskendunud.",
+      "actions": [
+        "Rääkimine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Sisekujundus",
+        "Vaimsus",
+        "Video",
+        "Hämarus",
+        "Vari",
+        "Rahulik",
+        "Keskendunud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Pluus",
+        "Seinapaneelid",
+        "Külmkapp",
+        "Vari"
+      ],
+      "colorcodes": [
+        "#724F3A",
+        "#CEC0A1",
+        "#C8A38E",
+        "#83B2B1",
+        "#E0E2E3",
+        "#5A6F72"
+      ],
+      "texts": [
+        "Om Namah Shivaya",
+        "ॐ"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene kaader on täiesti must, ilma nähtava sisuta.",
+        "Teine kaader näitab heledalt valgustatud keskealist naist, kes vaatab kaamerasse, detailse tausta ja riietusega.",
+        "Kolmas kaader on väga pime, kuid näitab sama siseruumi kontuure, kusjuures paremal on aimatav külmkapi sarnane objekt ja valgustus puudub peaaegu täielikult."
+      ],
+      "snr": "044",
+      "ajad": [
+        "1618.760",
+        "1850.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist naist, kes istub kasvuhoones või botaanikaaias, mida ümbritsevad lopsakad rohelised taimed. Naine on kaadri keskel, vaatab veidi paremale (vaataja vasakule) ja tal on kerge naeratus näol. Tal on tumepruunid, õlgadeni juuksed ja seljas sinise-, valge- ja mustrilise mustriga pluus. Tagaplaanil on näha erinevaid rohelisi lehttaimi, palmipuid ja hoone klaasakende struktuuri, mis laseb sisse loomulikku valgust. Kaadri ülemine ja alumine osa on veidi tumedad, viitades kaamera fookusele või kadreeringule, jättes mulje, et naine on sügavalt taimekeskkonda paigutatud.",
+      "actions": [
+        "Naine istub",
+        "Naine vaatab",
+        "Naine naeratab"
+      ],
+      "keywords": [
+        "Naine",
+        "Kasvuhoone",
+        "Botaanikaaed",
+        "Taimed",
+        "Rohelus",
+        "Intervjuu",
+        "Siseruum",
+        "Loomulik valgus",
+        "Portree",
+        "Lopsakas"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Taimed",
+        "Rohelised lehed",
+        "Palmipuu",
+        "Aknad",
+        "Hoone struktuur"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#4CAF50",
+        "#2E8B57",
+        "#008CBA",
+        "#C19A6B",
+        "#4A2C2A",
+        "#344E41"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene ja kolmas pilt on täiesti mustad või väga tumedad, samas kui keskmine pilt näitab selgelt stseeni naise ja taimedega. See viitab üleminekuhetkedele või mustadele kaadritele videos, kus keskmine pilt on ainus visuaalselt informatiivne kaader."
+      ],
+      "snr": "045",
+      "ajad": [
+        "1850.000",
+        "1894.040"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine naine, kes on jäädvustatud siseruumis akna ees, mille tagant paistab väline maastik. Naise juuksed on tumepruunid, lühikesed ja sirged, otstest keeratud sissepoole ning ees on tukk. Tal on hele nahk ja ta vaatab otse ette või kergelt allapoole. Tema suu on kergelt avatud, justkui räägiks ta. Seljas on tal tumedat värvi (arvatavasti must) kampsun või pluus, mille all on näha heledam mustriga särk. Kaela ehib mitmerealine hõbedast tooni kaelakee. Akna tagune maastik on talvine või varakevadine, puud on raagus ja maapinnal on näha lund või külma. Taamal paistab linnamaastik hoonete ja mõne pargitud autoga. Üldine õhkkond on jahe ja argipäevane.",
+      "actions": [
+        "Naine räägib või valmistub rääkima"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Siseruum",
+        "Aken",
+        "Väline maastik",
+        "Talv",
+        "Varakevad",
+        "Puud",
+        "Lumi",
+        "Kaelakee",
+        "Tumedad riided"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kaelakee",
+        "Riided",
+        "Aken",
+        "Puud",
+        "Sõidukid"
+      ],
+      "colorcodes": [
+        "#1D1D1D",
+        "#C8C6C6",
+        "#8B7462",
+        "#A7A6A6",
+        "#B0A299",
+        "#3E3128"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on täiesti must, pakkudes null visuaalset informatsiooni.",
+        "Teine pilt on selge ja hästi valgustatud, näidates naist ja taustal olevat maastikku detailidega.",
+        "Kolmas pilt on äärmiselt tume, peaaegu must, kuid siiski on vaevumärgatavad naise ja tausta kontuurid, vihjates, et see on teise pildi tugevalt tumendatud versioon."
+      ],
+      "snr": "046",
+      "ajad": [
+        "1894.040",
+        "1931.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist parki, mis on kaetud paksu lumekihiga. Eesplaanil ja keskel on näha lumi, mis katab maapinna ja teerajad. Pargiteel seisab rivi musti poste ja valgete ümarate kuplitega tänavalaternaid, mis ulatuvad kaugusse, andes edasi sügavust. Puud, mille oksad on raagus ja mõnedel on näha ka lumekirmeid, raamivad teed mõlemalt poolt. Paremal pool on laternad ja puud lähemal, vasakul taanduvad kaugusse koos musta metallaiaga. Taustal, läbi puude hõredate okste kumavad heledad hooned või paviljonid, mis lisavad stseenile arhitektuurilise elemendi. Üldine meeleolu on rahulik ja külm.",
+      "actions": [],
+      "keywords": [
+        "Talv",
+        "park",
+        "lumi",
+        "tänavalaternad",
+        "puud",
+        "raagus puud",
+        "külm",
+        "rahulik",
+        "talvine maastik",
+        "aed"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Lumi",
+        "tänavalaternad",
+        "puud",
+        "tara",
+        "hooned"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#333333",
+        "#A0A0A0",
+        "#F0F0F0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaks pilti kolmest on täiesti mustad, samas kui üks pilt kujutab detailset talvist pargimaastikku."
+      ],
+      "snr": "047",
+      "ajad": [
+        "1931.000",
+        "2102.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mitmekülgset visuaalset kogemust, mis hõlmab nii välis- kui ka sisekeskkonda, kombineerides erinevaid meeleolusid ja visuaalset esteetikat. Esimeses plaanis on näha hämar inimfiguur, mille detaile on raske eristada, seistes pimedas õues. Taustal on näha paljaid puid, mis viitavad talvisele või varakevadisele perioodile, luues melanhoolse ja mõtiskleva atmosfääri. Järgmises vaates on siseruum, mis meenutab koobast või kiviseintega keldrit, kus toimub sündmus. Mitmed inimesed jälgivad ekraane ja tehnikat (kõlarid, segistid, monitorid), mis on osa kunstilisest või muusikalisest etendusest. Ruumi valgustavad soojad oranžid ja kollased prožektorid, samas kui monitoride sinine kuma lisab kaasaegse tehnoloogilise kontrasti. See siseruumi vaade on osaliselt kaetud läbipaistvate kihtidega, mis sisaldavad elemente teistest kaadritest (näiteks esimese kaadri puude kontuurid ja kolmanda kaadri trepi fragmendid), andes stseenile unenäolise ja abstraktse ilme. Kolmas visuaal keskendub detailsele, sepistatud keerdtrepile, mis on iseloomulik vintage stiilile ja valgustatud ülevalt soojalt hõõguva lambipirniga. Trepp asub soojades oranžikaspunastes toonides ruumis, pakkudes ajaloolist ja romantilist momenti. Kokkuvõttes loob see visuaalide komplekt tervikpildi kunstilisest sündmusest, mis mängib valguse, varju, looduse, tehnoloogia ja ajalooliste elementidega.",
+      "actions": [
+        "Inimene seisab ja vaatab",
+        "Inimesed istuvad ja jälgivad",
+        "Inimesed suhtlevad (võimalik)",
+        "Tehnika töötab",
+        "Valgus paistab"
+      ],
+      "keywords": [
+        "Kunstiline etendus",
+        "Installatsioon",
+        "Kontsert",
+        "Hämarus",
+        "Talv",
+        "Varakevad",
+        "Siseruum",
+        "Õues",
+        "Koobas",
+        "Kiviseinad",
+        "Tehnika",
+        "Valgusefektid",
+        "Ülekatted",
+        "Abstraktne",
+        "Keerdtrepp",
+        "Vintage",
+        "Atmosfääriline"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Inimesed",
+        "Puud (paljad)",
+        "Kõlarid",
+        "Monitorid (ekraanid)",
+        "Elektrooniline varustus",
+        "Kiviseinad",
+        "Valgustid (prožektorid, lambipirn)",
+        "Mööbel (toolid, lauad)",
+        "Abstraktne kunst / dekoratsioonid",
+        "Sepistatud keerdtrepp",
+        "Oranžikaspunased seinad"
+      ],
+      "colorcodes": [
+        "#0C0C0C",
+        "#2F3E4D",
+        "#7C6C58",
+        "#CC8E3D",
+        "#2A568C",
+        "#2E2E2E",
+        "#A03D2E",
+        "#F5D370"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene (siluett)",
+        "Publik / pealtvaatajad",
+        "Esineja / korraldaja"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevad tegevuskohad: üks kaader on õues, teised kaks siseruumides.",
+        "Erinev valgustus: esimene kaader on hämar ja loomuliku valgusega, teised kunstliku ja soojema valgusega.",
+        "Erinev fookus: esimene kaader keskendub inimfiguurile ja loodusele, teine sündmusele ja tehnikale ning kolmas detailsele arhitektuursele elemendile.",
+        "Erinevad värvipaletid: esimene kaader on tumedates, sinakashallides toonides, teine pruunikas-kollastes ja siniste ekraanidega ning kolmas tumedas metallis ja oranžikaspunastes toonides.",
+        "Piltide segamine ja ülekatted: keskmine pilt sisaldab läbipaistvaid elemente esimesest ja kolmandast pildist, luues visuaalse kihilisuse.",
+        "Inimeste arv: esimene kaader näitab ühte inimest, teine mitut inimest ja kolmandal pole inimesi näha.",
+        "Aastaaeg: esimene kaader viitab talvele või varakevadele, sisekaadritel aastaaeg puudub."
+      ],
+      "snr": "048",
+      "ajad": [
+        "2102.920",
+        "2134.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte erinevat keskkonda. Peamiselt on näha siseruumis toimuvat kunstisündmust või näitust, mis asetseb vanas, kiviseintega keldrikorrusel või sarnases rustikaalses ruumis. Valgustus on soe ja hubane, strateegiliste valgusallikatega, mis toovad esile ruumi kivised tekstuurid ja dekoratiivsed metallreelingud. Kohal on grupp inimesi, kes jälgivad ekraanil kuvatavat sisu, tõenäoliselt kunstiteoseid või esitlust. Üks heledate juustega naine tegutseb laua taga elektroonilise varustusega, olles ilmselt esineja või operaator. Ruumis on märgata ka raamatuid või muid kunstiesemeid väljapanekul ning helisüsteemi kõlareid. Teine osa stseenist viib vaataja õue, kus on lähivaates kujutatud tumedate juustega naist. Ta on riietatud mustrilisse kampsunisse ning taustaks on udused puud ja miski, mis sarnaneb veekogu või teega. Välikaadri valgus on tuhm ja looduslik, jättes naise näo varju, mis viitab kas pilvisele ilmale või varajasele hommikule/hilisele õhtule. See väikaader pakub kontrasti sisetingimustes toimuva sündmusega, pakkudes ehk intervjuu või jutustuse elemente.",
+      "actions": [
+        "Inimesed jälgivad ekraanil kuvatavat",
+        "Naine opereerib elektroonilist varustust",
+        "Kogukondlik kogunemine",
+        "Vaatamine ja kuulamine"
+      ],
+      "keywords": [
+        "Kunstisündmus",
+        "Keldrikorrus",
+        "Kiviseinad",
+        "Esitlus",
+        "Näitus",
+        "Helitehnika",
+        "Dekoratiivne reeling",
+        "Loodus",
+        "Portree",
+        "Hämardatud valgus"
+      ],
+      "shot_type": "wide",
+      "placement": "nii sise- kui välitingimustes",
+      "objects": [
+        "Kiviseinad",
+        "Ekraan",
+        "Raamatud",
+        "Riiulid",
+        "Kõlarid",
+        "Laud",
+        "Toolid",
+        "Elektrooniline varustus",
+        "Metallist reeling",
+        "Valgustid",
+        "Puud"
+      ],
+      "colorcodes": [
+        "#A0836F",
+        "#C09249",
+        "#2E2224",
+        "#3A3D3C",
+        "#4B5F5D"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (esineja/operaator)",
+        "Publik (vaatajad)",
+        "Naine (välikaadris)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "sügis",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevad asukohad: Sisesündmus kiviseintega ruumis ja välikaader looduses puudega taustal.",
+        "Erinev valgustus: Siseruumis soe, tehislik ja strateegiliselt paigutatud valgus, väljas tuhm ja loomulik valgus.",
+        "Erinev fookus: Sisesündmusel on näha grupp inimesi ja ruumi detaile, väliskaadris on fookuses üksik inimene."
+      ],
+      "snr": "049",
+      "ajad": [
+        "2134.400",
+        "2144.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kunstisündmuse, võimalik, et kontserdi või näituse jäädvustust, mis vaheldub intiimsema ja märksa pimedama momendiga. Algselt on ekraan täiesti must. Seejärel avaneb pilt siseruumis toimuvale etteastele, kus kaks inimest esinevad: naine laulab mikrofoni ja mees mängib instrumenti, mis meenutab süntesaatorit või klaverit. Tegevus toimub rustikaalses kiviseintega ruumis, mis on kaunistatud erinevate kunstiteoste või ekraanidega, millest osad on valgustatud. Ruumi vasakus servas on näha ka telerimonitor. Valgustus on siseruumis kunstlik ja soe, kuid annab edasi hubase atmosfääri. Stseen vahetub seejärel väga pimedaks lähivõtteks naisest, kes vaatab otse kaamerasse. Tema taust on hägune ja tundub olevat õues paljaste puudega, mis viitab talvisele või hilissügisesele ajale. Lähivõtte valgustus on äärmiselt halb, mistõttu detailid on raskesti eristatavad.",
+      "actions": [
+        "Laulmine",
+        "Pillimäng",
+        "Esinejate etteaste",
+        "Kaamerasse vaatamine",
+        "Ruumi kaunistamine",
+        "Pimedas olemine"
+      ],
+      "keywords": [
+        "Kontsert",
+        "Esinejad",
+        "Kivisein",
+        "Siseruum",
+        "Väliruum",
+        "Pime",
+        "Kunst",
+        "Muusika",
+        "Etteaste",
+        "Lähivõte",
+        "Lai plaan",
+        "Valguse ja varju mäng"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor and outdoor",
+      "objects": [
+        "Mikrofon",
+        "Süntesaator/klaver",
+        "Kunstiteosed/ekraanid (seinal)",
+        "Kivisein",
+        "Telemonitor",
+        "Punane tulekustuti",
+        "Riided",
+        "Inimesed",
+        "Puuoksad (taustal)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#A69F9B",
+        "#7A7572",
+        "#FFD700",
+        "#ADD8E6",
+        "#FF0000",
+        "#B0A89C",
+        "#555555"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees",
+        "Esinejad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "evening",
+      "differences": [
+        "Esimene kaader on täiesti must, samas kui teised kaadrid sisaldavad visuaalset informatsiooni.",
+        "Teine kaader on laia plaaniga siseruumist, kus toimub kontsert või näitus, kolmas kaader aga on pimestav lähivõte inimesest, mille taust viitab õues viibimisele või on äärmiselt hämar.",
+        "Valgustus varieerub täielikust pimedusest (esimene kaader), mõõdukalt heledast kunstlikust valgusest (teine kaader) kuni äärmiselt nõrga valguseni, mis muudab detailid raskesti eristatavaks (kolmas kaader).",
+        "Teises kaadris on näha kaks inimest esinemas, kolmandas kaadris aga üks inimene vaatab otse kaamerasse.",
+        "Kaadrite kompositsioon ja fookus muutuvad oluliselt: teine kaader keskendub keskkonnale ja tegevusele, kolmas kaader aga on intiimne portree."
+      ],
+      "snr": "050",
+      "ajad": [
+        "2144.720",
+        "2290.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mitmekesiseid keskkondi ja tegevusi, mis vahelduvad elavast siseüritusest mõtisklevate välihetkedeni talvises maastikus. Ühes stseenis toimub kontsert või kunstinäitus ainulaadses maa-aluses kiviseintega ruumis, mis on valgustatud prožektoritega. Publik, sealhulgas naised ja mehed, jälgib esinejaid – muusikut kitarril ja teist inimest klahvpillide taga. Kiviseinad on kaunistatud mitmete raamitud kunstiteostega, mis kujutavad erksates värvides maastikke, tõenäoliselt päikeseloojanguid või -tõuse, tuues esile roosa, oranži ja sinise toonid. Vastandina sellele näitab stseen ka talvist väliskeskkonda, kus lumi katab maad ja puud on raagus. Üks kaader on peaaegu täielikult pime, näidates vaid inimese siluetti lume ja raagus puude taustal, luues salapärase ja hämaruse meeleolu. Teises väliskaadris räägib naine otse kaamerasse, taustaks lumine park raagus puude ja moodsa hoone osadega, sealhulhulgas valgete piiretega. Üldine aastaaeg on selgelt talv, pakkudes nii päevaseid kui ka madala valgustusega momente.",
+      "actions": [
+        "Muusikaline esinemine",
+        "Publiku jälgimine",
+        "Intervjuu andmine",
+        "Pillide mängimine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Talv",
+        "Kontsert",
+        "Näitus",
+        "Muusika",
+        "Kunst",
+        "Kiviseinad",
+        "Lumi",
+        "Puud",
+        "Siluett",
+        "Intervjuu",
+        "Siseruum",
+        "Välisruum",
+        "Publik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor and outdoor",
+      "objects": [
+        "Kiviseinad",
+        "Raamitud kunstiteosed",
+        "Kitarr",
+        "Klahvpillid",
+        "Prožektorid",
+        "Teler/monitor",
+        "Toolid",
+        "Lumi",
+        "Raagus puud",
+        "Moodne hoone",
+        "Piirded",
+        "Riided"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#D3D3D3",
+        "#8B4513",
+        "#FFC0CB",
+        "#FFA500",
+        "#B0C4DE",
+        "#556B2F",
+        "#F5DEB3"
+      ],
+      "texts": [],
+      "persons": [
+        "Naised",
+        "Mehed",
+        "Muusikud",
+        "Publik",
+        "Intervjueeritav"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "day, night, evening",
+      "differences": [
+        "Erinevad asukohad (siseruum vs. välisruum)",
+        "Erinev valgustus (kunstlik sisevalgustus, looduslik päevavalgus, hämar/pime)",
+        "Erinevad tegevused (muusikaline etteaste/näitus, intervjuu)",
+        "Erinev inimeste arv (üksikisik vs. grupp)"
+      ],
+      "snr": "051",
+      "ajad": [
+        "2290.840",
+        "2350.240"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb mitmest erinevast vaatepildist, mis pakuvad mitmekülgse ülevaate nii inimestest kui ka keskkonnast. Ühel hetkel on fookuses keskealine naine, lühikeste tumedate juuste ja heleda nahaga, kes kannab tumedat tekstuuriga kampsunit. Ta vaatab kergelt kaamerast eemale, taustal avaneb vaade talvisele või varakevadisele maastikule, kus on näha paljaid puid ja valge pinnaga maad, mis viitab lumele või jahedale ilmale; naine paistab olevat siseruumis ja vaatab aknast välja. Teises kaadris on sama naine siseruumis, otse kaamera poole pööratud, avatud suuga, mis viitab kõnelemisele või vestlusele. Ta kannab punakaspruuni särki, millel kordub sanskritikeelne tekst \"ॐ नमः शिवाय\" (Om Namah Shivaya). Tema taustaks on lihtne, hele sein. Kolmas kaader kujutab endast pimedat öist väliskeskkonda, kus on näha telgilaadne struktuur, mis on kaunistatud punaste ja kollaste valgusketidega. Kauguses paistab nõrgalt valgustatud hoone akendega ja üksik inimese siluett selle sees, lisaks on näha veel üks lambivalgus taamal. Stseen vaheldub päevase/hämaruse välisvaatega, selgelt valgustatud siseruumiga ja pimeda öise välisvaatega, luues kontrasti valguse ja keskkonna vahel.",
+      "actions": [
+        "Naine räägib või vestleb"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Talv",
+        "Öö",
+        "Valgusketid",
+        "Religioosne tekst",
+        "Sanskrit",
+        "Intervjuu",
+        "Siseruum",
+        "Väliruum",
+        "Puud",
+        "Lumi",
+        "Päev",
+        "Hämarus",
+        "Pimedus",
+        "Tempel"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor ja outdoor",
+      "objects": [
+        "Naine",
+        "Tumedate tekstuuriga kampsun",
+        "Punakaspruun särk",
+        "Paljad puud",
+        "Lumi",
+        "Hoone",
+        "Aknad",
+        "Telgilaadne konstruktsioon",
+        "Punased valgusketid",
+        "Kollased valgusketid",
+        "Lamp",
+        "Sein",
+        "Akna raam"
+      ],
+      "colorcodes": [
+        "#2F4F4F",
+        "#8B4513",
+        "#FFFFFF",
+        "#FF0000",
+        "#FFFF00",
+        "#000000",
+        "#A9A9A9",
+        "#D3D3D3"
+      ],
+      "texts": [
+        "ॐ नमः शिवाय",
+        "Om Namah Shivaya"
+      ],
+      "persons": [
+        "Üks naine",
+        "Üks siluett taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "talv",
+      "daytime": "päev, öö",
+      "differences": [
+        "Keskkond varieerub: üks kaader on talvisest/varakevadisest välismaastikust (nähtud aknast), teine siseruumist heledal taustal ja kolmas pimedast öisest väliskeskkonnast.",
+        "Valgustus on väga erinev: hämarast päevavalgusest (esimene kaader) ja eredast sisevalgusest (teine kaader) kuni täieliku pimeduseni, mida valgustavad vaid dekoratiivsed tuled (kolmas kaader).",
+        "Naine kannab kahes erinevas stseenis kahte erinevat riietust: tumedat tekstuuriga kampsunit ja punakaspruuni särki sanskriti tekstiga.",
+        "Tegevus ja fookus on erinevad: esimesed kaks kaadrit keskenduvad naisele ja tema kõnelemisele, kolmas kaader on lai panoraam öisest sündmuspaigast või installatsioonist."
+      ],
+      "snr": "052",
+      "ajad": [
+        "2350.240",
+        "2422.040"
+      ]
+    },
+    {
+      "explanation": "Pildiseeria kujutab öist välisstseeni, kus esiplaanil on näha tumedat telki või katusealust, mille serva mööda jooksevad dekoratiivsed stringtuled. Taustal paistab läbi katusealuse ava hämaralt maja, mille aknad on valgustatud, heites õrna kollakasvalget kuma pimedusse. Maja juures on näha ka redelit, mis on akna lähedal püsti. Stseeni paremas servas, kaugemal, särab veel üks ere kollakasvalge valgusallikas. Üldine atmosfäär on pime, kuid valgustite tõttu pidulik ja hubane.",
+      "actions": [],
+      "keywords": [
+        "öö",
+        "pimedus",
+        "tuled",
+        "dekoratiivtuled",
+        "telk",
+        "katusealune",
+        "maja",
+        "aknad",
+        "valgustus",
+        "väljas",
+        "õhtu",
+        "pidulik",
+        "redel"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "telk",
+        "katusealune",
+        "dekoratiivtuled",
+        "maja",
+        "aknad",
+        "redel",
+        "valgusallikas"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#00FF00",
+        "#0000FF",
+        "#FF0000",
+        "#FFFACD",
+        "#FFA500"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "85",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Dekoratiivsete stringtulede värv katusealusel muutub. Esimesel pildil on need rohelised ja sinised, teisel ja kolmandal pildil aga punased."
+      ],
+      "snr": "053",
+      "ajad": [
+        "2422.040",
+        "2426.840"
+      ]
+    },
+    {
+      "explanation": "Stseen vaheldub elamu välisvaatega öisel ajal ja sees istuva mehe sisevaatega. Õues on näha maja osa, mis on kaunistatud värviliste stringtuledega rohelistes, sinistest ja punastes toonides. Taamal paistab valgustatud aken ja teine välisvalgusallikas, mis annavad edasi öise atmosfääri. Siseruumides istub keskealine mees prillide ja ruudulise särgiga toas, mille seinad on sügavpunased. Tema taga paistab aken, millest tuleb sisse ere päevavalgus, läbides valgeid kardinaid. Ruumis on ka suur roostevabast terasest külmkapp joogiautomaadiga ning riiul, millel on riided. Laual mehe ees on dekoratiivne kauss täis puuvilju, peamiselt õunu ja väiksemaid punaseid vilju. Üks sisekaadritest on märkimisväärselt pimedam ja alavalgustatud, kandes horisontaalseid jooni, mis annab sellele öisema või efektiivsema ilme.",
+      "actions": [
+        "Mees istub"
+      ],
+      "keywords": [
+        "Kodu",
+        "maja",
+        "öö",
+        "päev",
+        "mees",
+        "interjöör",
+        "eksterjöör",
+        "pidulikud tuled",
+        "stringtuled",
+        "külmkapp",
+        "puuviljad",
+        "aken",
+        "kardinad",
+        "siseruumid",
+        "välisruumid",
+        "valgustus",
+        "punane sein"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Värvilised stringtuled",
+        "roheline tuli",
+        "sinine tuli",
+        "punane tuli",
+        "hoone",
+        "varikatus",
+        "katus",
+        "aken",
+        "valgus",
+        "latern",
+        "mees",
+        "prillid",
+        "ruuduline särk",
+        "valged kardinad",
+        "roostevabast terasest külmkapp",
+        "prantsuse uksega külmkapp",
+        "jaotur",
+        "riiul",
+        "riided",
+        "laud",
+        "kauss",
+        "puuviljad",
+        "õunad",
+        "pildiraam",
+        "sein"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#00FF00",
+        "#00FFFF",
+        "#FF0000",
+        "#FFFFFF",
+        "#B0B0B0",
+        "#8B0000",
+        "#DC143C",
+        "#FFD700"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on väliskaader majast öösel, mis on kaunistatud värviliste tuledega.",
+        "Teine ja kolmas pilt on siseruumides tehtud kaadrid mehest.",
+        "Teine pilt kujutab meest päevavalguses, kolmas aga näitab sama interjööri ja meest pimeduses või tugevalt alavalgustatud olekus, horisontaalsete joontega kaadri peal.",
+        "Valgustingimused ja keskkond erinevad oluliselt kaadrite vahel, hõlmates nii öist välisvaadet kui ka päevast ja pimendatud sisevaadet."
+      ],
+      "snr": "054",
+      "ajad": [
+        "2426.840",
+        "2480.240"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealist naist, kes on jäädvustatud portreelaadses keskmises plaanis siseruumides. Naine on tumedate lühikeste juuste ja tukkadega, seljas on tal tume kampsun või sviiter heledate nööpidega ning kaelas õhuke kaelakee. Tema ilme on tõsine või mõtlik, suu on kergelt avatud, justkui ta räägiks või kuulaks tähelepanelikult. Taustal, läbi akna, paistab talvine või varakevadine välisvaade, kus on näha lumiseid pindu, raagus puid ning kauguses kahte inimest ja paari autot teel. Üldine õhkkond on jahe ja rahulik, vihjates varahommikule või päevale.",
+      "actions": [
+        "Rääkimine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Aken",
+        "Talv",
+        "Kevad",
+        "Puud",
+        "Lumi",
+        "Intervjuu",
+        "Siseruum",
+        "Väliruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Kampsun",
+        "Kaelakee",
+        "Aken",
+        "Puud",
+        "Lumi",
+        "Auto",
+        "Inimesed"
+      ],
+      "colorcodes": [
+        "#1C1C1C",
+        "#3B2A2D",
+        "#C0C0C0",
+        "#D4D8DC",
+        "#5F5F5F",
+        "#9C796C"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on täiesti must, näitamata mingit sisu.",
+        "Teine pilt on selgelt valgustatud ja näitab stseeni detailides.",
+        "Kolmas pilt on oluliselt tumedam ja alavalgustatud võrreldes teise pildiga, kuigi tegelased ja taust on aimatavad."
+      ],
+      "snr": "055",
+      "ajad": [
+        "2480.240",
+        "2484.880"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha keskealine naine, kes on kaadri esiplaanil, rääkimas või vestlemas. Tal on lühikesed tumepruunid juuksed tuka ja soenguga, mis ulatub õlgadeni. Naine kannab tumedat, tõenäoliselt musta, pikavarrukaga pluusi või kampsunit, millel on õlgade piirkonnas hõbedased kaunistused (näiteks nööbid või litrid). Kaela ümber on tal hõbedane kaelakee. Tema pilk on suunatud allapoole või kaadrist välja. Taustal avaneb vaade õues asuvale linnamaastikule, kus on näha lumiseid puid, millest mõnel on juba helerohelised lehed, viidates varakevadele. Samuti on taustal teed, mõned autod ja tänavavalgustuspostid. Paremas alanurgas on näha mingit piiret või aknalauda, mis viitab, et naine on siseruumis või rõdul.",
+      "actions": [
+        "Naine räägib",
+        "Naine vaatab alla"
+      ],
+      "keywords": [
+        "Naine",
+        "Intervjuu",
+        "Rääkimine",
+        "Kevad",
+        "Lumi",
+        "Puud",
+        "Linnakeskkond",
+        "Portree",
+        "Keskmine plaan",
+        "Mustad juuksed",
+        "Kaelakee"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Juuksed",
+        "Pluus/kampsun",
+        "Kaelakee",
+        "Kaunistused rõivastel",
+        "Puud",
+        "Lumi",
+        "Tee/tänav",
+        "Autod",
+        "Postid",
+        "Piire/aknalaud"
+      ],
+      "colorcodes": [
+        "#0A0A0A",
+        "#3E241E",
+        "#C1A299",
+        "#E0E0E0",
+        "#6B6B6B",
+        "#8FB238"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene ja kolmas pilt on peaaegu täielikult mustad, pakkudes minimaalselt visuaalset informatsiooni, samas kui teine pilt on selge ja hästi valgustatud. See viitab kaadrite vahelisele üleminekule, video algusele või lõpule."
+      ],
+      "snr": "056",
+      "ajad": [
+        "2484.880",
+        "2504.880"
+      ]
+    },
+    {
+      "explanation": "Stseen algab täieliku pimedusega, mis seejärel tuhmub sisse, et näidata keskealist naist, kes on jäädvustatud lähivõttes siseruumis. Naine vaatab veidi kaamerast paremale, justkui räägiks või mõtiskleks. Tal on lühikesed tumepruunid juuksed ja seljas tume, heleda mustriga kampsun või sviiter. Tema taga on suur aken, kust paistab välja talvine või varakevadine maastik. Taustal on näha palju raagus puid, maa on kaetud lume või härmatisega ning horisondil on aimata valgeid arhitektuurseid elemente. Stseen on loomuliku päevavalgusega hästi valgustatud, mis langeb aknast sisse naise näole ja õlgadele. Pärast mõnda aega tuhmub pilt aeglaselt tagasi pimedusse, kuni on taas peaaegu täiesti must.",
+      "actions": [
+        "naine räägib või mõtleb",
+        "pilt tuhmub sisse",
+        "pilt tuhmub välja"
+      ],
+      "keywords": [
+        "naine",
+        "portree",
+        "siseruum",
+        "aken",
+        "talv",
+        "varakevad",
+        "puud",
+        "lumi",
+        "interjöör",
+        "mõtlik",
+        "intervjuu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "kampsun",
+        "aken",
+        "puud",
+        "lumi",
+        "arhitektuurilised elemendid"
+      ],
+      "colorcodes": [
+        "#2E2E2E",
+        "#4A352E",
+        "#C09A87",
+        "#7A7A7A",
+        "#E0E0E0"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader on täielikult must, tähistades pimedust või stseeni algust.",
+        "Teine kaader näitab stseeni eredalt ja selgelt, olles hästi valgustatud.",
+        "Kolmas kaader on sama stseen mis teine, kuid see on oluliselt tumedam, peaaegu mustaks tuhmunud, viidates stseeni lõppemisele või pimedusse hajumisele."
+      ],
+      "snr": "057",
+      "ajad": [
+        "2504.880",
+        "2545.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab erinevaid hetki siseruumides, alustades või lõpetades täiesti musta kaadriga, mis loob kontrasti järgnevate visuaalselt rikkalike stseenidega. Ühes kaadris on näha kahte inimest hubases koduses miljöös: naine heledates juustes, kandes rohelist pluusi, istub ja vaatab paremale, samal ajal kui mees sinises ruudulises särgis ja nokamütsis loeb süvenenult raamatut. Nad on paigutatud tuppa, kus suur aken laseb sisse ere päevavalguse, luues ruumi vasakpoolsesse ossa valge kuma. Taustal on näha rikkalikult raamaturiiuleid täis raamatuid, mis annavad ruumile intellektuaalse ja koduse ilme. Kolmas kaader on aga lähivõte naise näost, mis on väga hämaras valguses, vaevalt valgustatud. Naine vaatab otse kaamerasse, luues intiimse või salapärase atmosfääri ning vihjates kas ajamuutusele või stseeni dramaatilisele valguseolude muutusele. Üldiselt edastab stseen rahulikke ja mõtisklevaid hetki koduses keskkonnas, kus päevane valgus ja öine hämarus loovad tugeva kontrasti.",
+      "actions": [
+        "Istumine",
+        "Lugemine",
+        "Vaatamine",
+        "Olemine pimeduses"
+      ],
+      "keywords": [
+        "Siseruumid",
+        "Kodune",
+        "Lugemine",
+        "Raamatud",
+        "Hämarduv",
+        "Vaikus",
+        "Päevavalgus",
+        "Hämarus",
+        "Kontrast"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Raamatud",
+        "Raamaturiiulid",
+        "Aken",
+        "Särgid",
+        "Teksad",
+        "Nokamüts"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#339933",
+        "#2C5B8C",
+        "#FFFFFF",
+        "#8B4513"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (heledate juustega, rohelises pluusis)",
+        "Mees (nokamütsiga, sinises särgis, lugemas)",
+        "Naine (lähivõttes, pimedas)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader on täiesti must, ülejäänud kaks sisaldavad visuaalset sisu.",
+        "Valgusolud kaadrite vahel on drastiliselt erinevad: teine kaader on eredalt valgustatud päevavalgusega, samas kui kolmas kaader on väga hämaras valguses, peaaegu pime.",
+        "Teises kaadris on näha kahte inimest ja suuremat osa ruumist (medium shot), kolmas kaader on lähivõte vaid ühest inimesest (medium close-up).",
+        "Teises kaadris on tegevuseks lugemine ja istumine, kolmandas kaadris naine vaatab otse kaamerasse."
+      ],
+      "snr": "058",
+      "ajad": [
+        "2545.200",
+        "2601.800"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine või vanem Ida-Aasia naine, lühikeste tumedate juustega, kes on suunatud otse kaamera poole ja näib rääkivat. Stseenil on tugev valguse ja meeleolu kontrast. Ühes variatsioonis on naine heledalt valgustatud, tema pildile on ülekattena lisatud taevas suurte valgete pilvedega, mis loob unistava ja vaimse atmosfääri. Tema seljas on musterdisainiga särk, millel on näha Devanagari kirjas mantrat \"ॐ नमः शिवाय\", andes stseenile sügavama tähenduse. Selle kaadri värvid on erksad: sinine, valge ja pruunikas-punane. Teises variatsioonis on sama naine kujutatud peaaegu täielikus pimeduses, kus tema näojooned ja riided on vaevu eristatavad, andes stseenile sombrama või salapärasema ilme. Üks kaader on täiesti must, sümboliseerides pimedust või stseeni algust/lõppu. Üldine kaadri tüüp on poolplaan, keskendudes naise ülakehale ja näole. Siseruumides filmitud stseenis on kasutatud visuaalefekte.",
+      "actions": [
+        "Rääkimine"
+      ],
+      "keywords": [
+        "Naine",
+        "Pilved",
+        "Mantra",
+        "Vaimsus",
+        "Pimedus",
+        "Valgus",
+        "Kontrast",
+        "Ida-Aasia",
+        "Videoefekt",
+        "Ülekatte",
+        "Must ekraan"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Särk",
+        "Pilved",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#7A9FBD",
+        "#E0EBF5",
+        "#7C4537",
+        "#A77C6B",
+        "#1A1A1A"
+      ],
+      "texts": [
+        "ॐ नमः शिवाय"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Valguse ja kontrasti erinevus: Üks kaader on eredalt valgustatud ja selge, teine on peaaegu täielikult pime.",
+        "Taust: Ühel kaadril on naise pildile lisatud taevas pilvedega, teisel on taust tume ja ühevärviline.",
+        "Meeleolu: Hele kaader on unistav ja vaimne, tume kaader on sombsem või salapärasem.",
+        "Esimese kaadri täielik mustus võrreldes teiste kaadrite sisuga."
+      ],
+      "snr": "059",
+      "ajad": [
+        "2601.800",
+        "2787.880"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb mitmest sisetingimustes toimuvast tegevusest, alustades täiesti mustast kaadrist. Järgmises stseenis toimub intiimne muusikaesinemine ja kunstinäitus omapärases, koopa- või keldritaolises kiviseintega ruumis. Valgustus on sume, prožektorid valgustavad nii esinejaid kui ka seintel rippuvaid kunstiteoseid või ekraane, mis kujutavad peamiselt päikeseloojanguid või abstraktseid maastikke. Keskel mängib habe ja mustrilise särgiga mees elektrikitarri, tema kõrval esitab blond naine muusikat tiibklaveril. Esiplaanil on näha publikut, kes istub ja kuulab esinejaid. Teises stseenis on fookuses keskealine mees prillide ja ruudulise särgiga, kes istub koduses keskkonnas ning räägib. Tema taga on punane sein, aknad valgete kardinatega ja suur roostevabast terasest külmkapp. Laual, millel on punase mustriga laudlina, asub puuviljavaagen õunte ja viinamarjadega.",
+      "actions": [
+        "Muusikat esitama",
+        "Kitarri mängima",
+        "Klaverit mängima",
+        "Kuulama",
+        "Rääkima",
+        "Vaatama",
+        "Istuma",
+        "Seisma"
+      ],
+      "keywords": [
+        "Kontsert",
+        "Kunstinäitus",
+        "Muusika",
+        "Intervjuu",
+        "Siseruum",
+        "Kivihoone",
+        "Kodu",
+        "Elav muusika",
+        "Esinejad",
+        "Publik",
+        "Kodune"
+      ],
+      "shot_type": "not clear",
+      "placement": "indoor",
+      "objects": [
+        "Elektrikitarri",
+        "Tiibklaver",
+        "Mikrofon",
+        "Sülearvuti/monitor",
+        "Kiviseinad",
+        "Prožektorid",
+        "Kunstiteosed/ekraanid",
+        "Toolid",
+        "Publik",
+        "Meheprillid",
+        "Ruuduline särk",
+        "Puuviljavaagen",
+        "Õunad",
+        "Viinamarjad",
+        "Laud",
+        "Laualina",
+        "Aknad",
+        "Kardinad",
+        "Punane sein",
+        "Külmkapp",
+        "Pilt seinal"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#A83B3B",
+        "#C0C0C0",
+        "#F7E59D",
+        "#6B6D6D",
+        "#8BBA36",
+        "#B09F8C",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Kitarrist",
+        "Klaverimängija",
+        "Publiku liige",
+        "Intervjueeritav mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene kaader on täiesti must, samas kui teised kaadrid sisaldavad detailseid stseene.",
+        "Teine kaader kujutab elavat muusikaesinemist ja kunstinäitust avalikus või poolavalikus, rustikaalses kiviseintega keskkonnas, kus viibib mitu inimest.",
+        "Kolmas kaader keskendub ühele mehele koduses keskkonnas, kes on ilmselt seotud intervjuu või vestlusega.",
+        "Stseenide üldine meeleolu, valgustus ja eesmärk erinevad oluliselt teise ja kolmanda kaadri vahel (avalik esinemine vs kodune vestlus).",
+        "Kaadrite tüübid on erinevad (üldvaade vs poollähivõte)."
+      ],
+      "snr": "060",
+      "ajad": [
+        "2787.880",
+        "2791.600"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb kahest selgelt eristatavast keskkonnast ja tegevusest. Esimeses osas on näha keskealine mees prillidega ruudulises särgis, kes räägib kaamerasse või vastab küsimustele elutoa või köögi taustal. Tema taga on punakaspruun sein, aken valgete kardinatega, seinamaal ja paremal suur roostevabast terasest külmkapp. Laual on punases punutud kausis puuviljad, sealhulgas õunad ja apelsinid. Teises osas toimub muusikaline etteaste kiviseintega kontserdi- või kunstigalerii stiilis ruumis. Blond naine mängib viiulit, seistes valgetes pükstes ja mustas särgis. Tema kõrval istub mees tumedate lokkis juustega, mängides tiibklaverit. Lava ees on näha publiku peanuppe. Taustal on seinal kunstiteosed või ekraanid ja erinevat tehnilist varustust nagu mikrofonid ja sülearvutid. Valgustus on kontserdi osas hämaram, luues intiimse atmosfääri.",
+      "actions": [
+        "rääkimine",
+        "viiuli mängimine",
+        "klaveri mängimine",
+        "esineb",
+        "kuulamine"
+      ],
+      "keywords": [
+        "intervjuu",
+        "muusika",
+        "kontsert",
+        "esinemine",
+        "viiul",
+        "klaver",
+        "elutuba",
+        "köök",
+        "muusikud",
+        "publik",
+        "kivisein",
+        "puuviljad"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "puuviljakauss",
+        "õunad",
+        "apelsinid",
+        "maal",
+        "külmkapp",
+        "aken",
+        "kardinad",
+        "laud",
+        "viiul",
+        "tiibklaver",
+        "mikrofon",
+        "sülearvuti",
+        "monitor",
+        "kunstiteosed seinal",
+        "kivisein"
+      ],
+      "colorcodes": [
+        "#8B0000",
+        "#FFFFFF",
+        "#C0C0C0",
+        "#000000",
+        "#A52A2A",
+        "#008000",
+        "#D3D3D3"
+      ],
+      "texts": [],
+      "persons": [
+        "mees (intervjueeritav)",
+        "naine (viiuldaja)",
+        "mees (pianist)",
+        "publik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene osa kujutab intervjuud koduses keskkonnas päevase valgusega, samas kui teised kaks osa näitavad muusikalist etteastet hämaras kontserdi- või galerii miljöös.",
+        "Erinevad subjektid ja tegevused kaadrite vahel.",
+        "Kolmas kaader on teisest kaadrist pisut tumedam, võimalik, et erineva valgustuse või kaamera särituse tõttu."
+      ],
+      "snr": "061",
+      "ajad": [
+        "2791.600",
+        "2875.400"
+      ]
+    },
+    {
+      "explanation": "Stseen algab atmosfäärilise sisevaatega muusikalisest etteastest. Blond naine, riietatud musta toppi ja heledatesse pükstesse, mängib viiulit, samal ajal kui tumedate juustega ja rohelises särgis mees mängib tiibklaverit. Nad asuvad ruumis, millel on rustikaalsed kiviseinad, mida kaunistavad mitmed vertikaalselt laotud ristkülikukujulised ekraanid või monitorid, luues moodsa kontrasti. Valgustus on hämar, andes etteastele meeleoluka kuma, mis viitab õhtusele või öisele sündmusele. Muusikalisele segmendile järgneb stseen, mis siirdub mustale taustale valge tekstiga, mälestades JÜRI SILLARTIT, ANDRES EHINIT ja UUE MAAILMA SELTSIMAJA. Jada lõpeb täiesti musta ekraaniga.",
+      "actions": [
+        "Viiulit mängimine",
+        "Klaverit mängimine",
+        "Mälestamine"
+      ],
+      "keywords": [
+        "Muusika",
+        "Kontsert",
+        "Esitus",
+        "Viiul",
+        "Klaver",
+        "Siseüritus",
+        "Kivihoone",
+        "Hämar",
+        "Mälestamine",
+        "Kunst"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Viiul",
+        "Viiulipoogen",
+        "Klaver (tiibklaver)",
+        "Mikrofonialus",
+        "Ekraanid/monitorid",
+        "Kivisein",
+        "Naissoost muusik",
+        "Meessoost muusik"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#cccccc",
+        "#4a5c4e",
+        "#000000",
+        "#ffffff"
+      ],
+      "texts": [
+        "Meenutame",
+        "JÜRI SILLARTIT, ANDRES EHINIT",
+        "ja UUE MAAILMA SELTSIMAJA."
+      ],
+      "persons": [
+        "Naissoost viiulimängija",
+        "Meessoost klaverimängija",
+        "Jüri Sillart",
+        "Andres Ehin"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimene pilt kujutab muusikalist etteastet hämaras interjööris, kus on näha kaks muusikut ja taustal kivisein ning ekraanid.",
+        "Teine pilt on must taustaga tekstikaader, millel on mälestustekst.",
+        "Kolmas pilt on täiesti must ekraan.",
+        "Visuaalne sisu muutub rikkast ja detailirohkest stseenist puhta tekstini ja seejärel täieliku tühjuseni.",
+        "Valgusolud ja värvipalett muutuvad dramaatiliselt heledatest elementidest tumedas keskkonnas täielikult mustvalgeks tekstiekraaniks ja seejärel ainult mustaks."
+      ],
+      "snr": "062",
+      "ajad": [
+        "2875.400",
+        "3084.600"
+      ]
+    }
+  ]
+}

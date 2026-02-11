@@ -1,0 +1,2181 @@
+{
+  "film": [
+    "11452",
+    "11446",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Kui päike loojub",
+    "420aa489b501cf26308248acc15a8fa1be1c7e68.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab mustal taustal kuvatud selge ja minimalistliku logoga. Logo koosneb kolmest eredavärvilisest ringist: punane üleval, roheline paremal ja sinine all vasakul, mis moodustavad kolmnurga ümber väikese valge punkti. Sellest graafilisest elemendist paremal on suured valged tähed \"BFM\" ning nende all peenemas kirjas \"Baltic Film and Media School\". Kogu kujutis on staatiline ja professionaalne, täites vaid väikese osa ekraanist, ülejäänud pind on sügavmust. Stseen lõpeb täielikult musta ekraaniga, mis annab märku üleminekust või vahepause. Valgus on ühtlane ja ilma varjudeta, keskendudes ainult logole.",
+      "actions": [
+        "Logo ilmumine",
+        "Logo kuvamine",
+        "Ekraani mustaks minemine"
+      ],
+      "keywords": [
+        "Logo",
+        "Kool",
+        "Film",
+        "Meedia",
+        "Haridus",
+        "Must taust",
+        "Värvilised ringid",
+        "Bränding",
+        "Tiitrid",
+        "Eesti"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Logo",
+        "Punane ring",
+        "Roheline ring",
+        "Sinine ring",
+        "Valge punkt"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#FF0000",
+        "#00FF00",
+        "#0000FF"
+      ],
+      "texts": [
+        "BFM",
+        "Baltic Film and Media School"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha kooli logo ja tekst mustal taustal, samal ajal kui teine pilt on täiesti must, sümboliseerides üleminekut või stseeni lõppu."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "5.760"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noort poissi õues looduslikus keskkonnas, mille taustaks on roheline rohi või kõrrelised, mis meenutavad luiteid. Valgustus varieerub drastiliselt pimedast hämarusest ereda päevavalgeni, paljastades selge sinise taeva. Poiss vaatab otse kaamerasse, heledamatel kaadritel on tal kerge naeratus ja hambad paistavad. Seljas kannab ta ruudulist särki.",
+      "actions": [
+        "Poiss vaatab otse kaamerasse",
+        "Poiss naeratab kergelt"
+      ],
+      "keywords": [
+        "Laps",
+        "poiss",
+        "naeratus",
+        "väli",
+        "rohi",
+        "loodus",
+        "päevavalgus",
+        "hämarus",
+        "portree"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Poiss",
+        "rohi",
+        "kõrrelised",
+        "särk",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#87C2DC",
+        "#658E5E",
+        "#DDC2AA",
+        "#B4B0A7",
+        "#94C1D9"
+      ],
+      "texts": [],
+      "persons": [
+        "Poiss"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Valgustus muutub drastiliselt: esimene pilt on väga tume, peaaegu must, samas kui teised pildid on eredad ja päevavalguses.",
+        "Poisi näoilme muutub: tumedal pildil on näoilme raskesti tuvastatav, heledamatel piltidel aga naeratab poiss kergelt, hambad paistavad.",
+        "Heledamatel piltidel on näha selge sinine taevas, mis tumedal pildil puudub."
+      ],
+      "snr": "002",
+      "ajad": [
+        "5.760",
+        "16.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil on lähikaadris noor tüdruk, kelle pikad, helepruunid juuksed lehvivad tuules ümber tema näo. Tema näoilme muutub piltidel neutraalsest ja mõtlikust õrna naeratuseni. Ta vaatab otse kaamerasse, mõnel hetkel silmad kergelt suletud. Taustal paistavad rohelised puud ja selge sinine taevas, mis viitab välitingimustele ja suvisele päevale. Tuule poolt näo ette kantud rohukõrred lisavad stseenile orgaanilise ja vaba õhkkonna.",
+      "actions": [
+        "Tüdruk seisab ja vaatab otse kaamerasse.",
+        "Tuul puhub läbi tüdruku juuste ja kannab neid üle näo.",
+        "Tüdruku näoilme muutub neutraalsest naeratavaks.",
+        "Tüdruk naeratab õrnalt."
+      ],
+      "keywords": [
+        "Tüdruk",
+        "Laps",
+        "Portree",
+        "Väljas",
+        "Tuul",
+        "Juuksed",
+        "Loodus",
+        "Suvi",
+        "Naeratus",
+        "Õrnus",
+        "Päev"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Tüdruk",
+        "Juuksed",
+        "Puud",
+        "Rohi",
+        "Taevas",
+        "Võimalik veekogu horisondil"
+      ],
+      "colorcodes": [
+        "#9B7B5B",
+        "#E2C7B3",
+        "#375F33",
+        "#78BBE9",
+        "#F0F0F0"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor tüdruk"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on tüdruku juuksed tuule tõttu rohkem näo ees ja ta pilk on otse kaamerasse suunatud, näol neutraalsem ilme, suu kergelt avatud.",
+        "Teisel pildil on tüdruku silmad kergelt suletud ja ta näol on pehme, rahulik ilme, juuksed on endiselt tuules ja veidi eemal näost.",
+        "Kolmandal pildil on tüdrukul õrn naeratus näol ja ta vaatab otse kaamerasse, juuksed on näo eest veidi eemal ja tema ilme on rõõmsam.",
+        "Üldiselt näitavad pildid tüdruku näoilme ja juuste asendi muutumist tuule mõjul, liikudes neutraalsest pilgust õrna naeratuseni."
+      ],
+      "snr": "003",
+      "ajad": [
+        "16.000",
+        "26.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lapsi mängimas liivadüünidele või rannaäärsele alale paigaldatud puust kiigel. Maapind on kaetud rohelise rohu ja liivaga. Kiigele on kinnitatud trossidest või köitest istmed. Stseen algab pilvise päevaga, mil taevas on näha suuri valgeid ja halle pilvi ning valgus on ere. Lapsed kiiguvad rõõmsalt, mõnel hetkel on kiigel kaks last, teisel hetkel üks kiigub ja teised on maas. Aja möödudes stseen tumeneb märgatavalt, viidates kas hilisele õhtutunnile või lähenevale tormile. Lõpuks on valgustus peaaegu olematu, luues öise või väga pimeda atmosfääri, kus detailid muutuvad raskesti eristatavaks. See annab stseenile dünaamilise ja muutliku ilme, rõhutades päeva möödumist või ilmastikuolude dramaatilist muutust.",
+      "actions": [
+        "Kiikumine",
+        "Mängimine",
+        "Jooksmine"
+      ],
+      "keywords": [
+        "Kiik",
+        "Lapsed",
+        "Düünid",
+        "Rand",
+        "Pilved",
+        "Mäng",
+        "Õues",
+        "Hämarus",
+        "Loodus",
+        "Ilm"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kiik (puust)",
+        "Kiige istmed (trossidest/köitest)",
+        "Muru",
+        "Liiv",
+        "Pilved",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#5B8CA7",
+        "#5E7A3D",
+        "#B1A084",
+        "#B7C3CC",
+        "#1A1C1D"
+      ],
+      "texts": [],
+      "persons": [
+        "Lapsed"
+      ],
+      "imagetype": "real",
+      "emptypercent": 75,
+      "season": "summer",
+      "daytime": "day, transitioning to night",
+      "differences": [
+        "Valgustus muutub oluliselt heledast (päevane) väga tumedaks (öö/torm).",
+        "Taeva värv ja toon muutuvad helesinisest ja hallist tumesiniseks ja peaaegu mustaks.",
+        "Pilvede kontuurid ja nähtavus vähenevad tumenemise tõttu.",
+        "Laste asukohad ja tegevused kiigel ja selle ümber varieeruvad kaadrite vahel (nt kiigel on alguses kaks last, hiljem üks ja teine on maas).",
+        "Üldine stseeni atmosfäär muutub muretumast ja helgest tumedamaks ning potentsiaalselt ähvardavamaks."
+      ],
+      "snr": "005",
+      "ajad": [
+        "30.920",
+        "42.280"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb täielikult mustast taustast, mille keskel on valge tekst. See annab edasi minimalistliku ja lihtsa esteetika, keskendudes ainult sõnumile. See on tüüpiline tiitlikaart või ülemineku ekraan filmis või videos, mis loob atmosfääri või tutvustab peatükki.",
+      "actions": [],
+      "keywords": [
+        "tiitlikaart",
+        "must taust",
+        "valge tekst",
+        "minimalistlik",
+        "pime",
+        "sõnum",
+        "üleminek",
+        "atmosfäär"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "When the sun goes down"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": 100,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Pildid on identsed ja ei sisalda ühtegi erinevust."
+      ],
+      "snr": "006",
+      "ajad": [
+        "42.280",
+        "50.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab intiimset ja hellat hetke eakate paari vahel. Eakas naine lamab voodis või diivanil, kandes heledat lillemustriga pluusi ja tema hallid juuksed on sasipuntrad. Naine puhkab, silmad suletud, pea asetatud pehmele pruunile tekile või padjale. Mees, samuti eakas ja hallipäine, riietatud ruudulisse särki, läheneb talle hellalt. Alguses ta kummardub naise kohale, silitab tema nägu ja vaatab talle armastusega otsa. Seejärel surub ta oma pea vastu naise pead, andes märku sügavast kiindumusest ja hoolitsusest. Stseen leiab aset siseruumides, tõenäoliselt magamistoas, kus akendest paistab läbi pitskardinate pehme päevavalgus. Üldine õhkkond on rahulik, intiimne ja südamlik, rõhutades eakate inimeste vahelist armastust ja lähedust.",
+      "actions": [
+        "Naine lamab ja puhkab",
+        "Mees kummardub naise kohale",
+        "Mees silitab naise nägu",
+        "Mees asetab oma pea naise pea vastu",
+        "Mees vaatab naist hellalt"
+      ],
+      "keywords": [
+        "eakas paar",
+        "armastus",
+        "hoolitsus",
+        "intiimsus",
+        "hellus",
+        "puhkus",
+        "magamistuba",
+        "päevavalgus",
+        "perekond",
+        "vanadus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "eakas naine",
+        "eakas mees",
+        "heledat värvi pluus (lillemustriga)",
+        "ruuduline särk",
+        "pruun tekk/padi",
+        "aken",
+        "pitskardinad"
+      ],
+      "colorcodes": [
+        "#E0D4C2",
+        "#82837B",
+        "#4F4F48",
+        "#A0917A",
+        "#D4C1B1"
+      ],
+      "texts": [],
+      "persons": [
+        "eakas naine",
+        "eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil lamab naine üksi, silmad suletud, olles stseeni fookuses.",
+        "Teisel pildil on mees kummardunud naise kohale, tema käsi puudutab naise nägu ja ta vaatab naeratades naisele otsa.",
+        "Kolmandal pildil on mees naisele veelgi lähemal, tema pea on asetatud vastu naise pead, sümboliseerides sügavamat intiimsust ja kiindumust."
+      ],
+      "snr": "007",
+      "ajad": [
+        "50.440",
+        "57.920"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähiplaani tolmusele ja määrdunud aknale, mis on kaetud tiheda ämblikuvõrguga. Ämblikuvõrk särab vastu valgust, peegeldades vikerkaarevärve, mis annab sellele müstilise ja eeterliku ilme. Aknaklaas on kriimustatud ja sellele on ladestunud paks tolmukiht, viidates hooldamatusele ja ajale. Vasakul pool on näha tumedat, vertikaalset aknaraami osa, mis piirab vaadet, ning paremal allpool paistab tolmune aknalaud või horisontaalne raami osa. Akna tagune taust on udune ja hämar, koosnedes tumedatest rohelistest ja hallidest toonidest, mis viitab kas hämarale õuealale või tumedale siseruumile. Üldmulje on mahajäetusest ja vanadusest, valgus tungib läbi räpase klaasi ja võrgu, luues kontrastseid varjundeid ja valgushelke.",
+      "actions": [],
+      "keywords": [
+        "Ämblikuvõrk",
+        "Tolmune aken",
+        "Kriimustatud klaas",
+        "Mahajäetud",
+        "Vana",
+        "Hämar",
+        "Valguspeegeldus",
+        "Vikerkaarevärvid",
+        "Aknalaud"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Aken",
+        "Aknaklaas",
+        "Ämblikuvõrk",
+        "Tolm",
+        "Aknaraam",
+        "Aknalaud"
+      ],
+      "colorcodes": [
+        "#2b1f1d",
+        "#4e4d4a",
+        "#354238",
+        "#b2c9e7",
+        "#d8e5f1",
+        "#e0d0cf",
+        "#b5b5ac"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad nähtavad erinevused, kõik kolm pilti on identsed kaadrid."
+      ],
+      "snr": "008",
+      "ajad": [
+        "57.920",
+        "99.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaadet vana ja tolmuse akna nurgast, kus aknaraam kohtub määrdunud klaaspinnaga. Tugev päikesevalgus paistab läbi akna, valgustades klaasil olevaid tolmuosakesi ja kriimustusi, luues uduselt atmosfäärilise efekti. Aknaraami sisekülg on tumedam ja detailidelt vähem selge, vihjates mahajäetud või unustatud ruumile. Valgus toob esile peened detailid klaasil, nagu hõõguvad tolmupunktikesed ja õrnad kiud aknaraami ning klaasi liitekohtades. Üldine meeleolu on melanhoolne, nostalgiline ja veidi mõtisklev.",
+      "actions": [
+        "Valgus paistab läbi akna"
+      ],
+      "keywords": [
+        "Vana",
+        "tolmune",
+        "aken",
+        "valgus",
+        "päikesevalgus",
+        "kriimustused",
+        "udune",
+        "atmosfääriline",
+        "nurgake",
+        "unustatud",
+        "mahajäetud",
+        "melanhoolia",
+        "nostalgia",
+        "praht",
+        "puru"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Aken",
+        "aknaraam",
+        "klaas",
+        "tolm",
+        "valgus",
+        "kiud"
+      ],
+      "colorcodes": [
+        "#564D45",
+        "#3C3C3C",
+        "#DDE0E0",
+        "#A3B5B8",
+        "#2B2B2B"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on klaasil ja aknaraamil olevad tolm ja valguspeegeldused teravamalt ja selgemalt näha.",
+        "Teisel ja kolmandal pildil on valgus veidi summutatum või nihkunud, muutes üldpildi pehmemaks ja udustetumaks.",
+        "Teisel ja kolmandal pildil on näha akna raami ja klaasi liitekohas ümaram, udune valguslaik või peegeldus, mis esimesel pildil puudub või on vähem märgatav. Need pildid annavad edasi kerge fookuse või valguse muutuse."
+      ],
+      "snr": "009",
+      "ajad": [
+        "99.560",
+        "104.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kodust ja vaikset interjööri, kus fookus on laual olevatel esemetel. Esipaanil on valge ümmargune taldrik, millel paiknevad mitu ruudukujulist, hõbedasse fooliumisse pakitud eset, mis näivad olevat kommid või juustukuubikud. Mõned neist on osaliselt avatud, paljastades heledat sisu. Taldriku taga, vasakul pool, seisab valge keraamiline kaanega suhkrutoos või kauss, mida kaunistavad mustad ja oranžikas-punased abstraktsed triibud ja mustrid. Paremal pool suhkrutoosi taga on näha kaks puidust raamistikuga ortodoksset ikooni. Vasakpoolsel ikoonil on kujutatud Neitsi Maarja, kes hoiab süles last Jeesust. Ikooni allosas on näha kirillitsas teksti. Parempoolsel ikoonil on kujutatud Jeesus Kristus, kes hoiab avatud raamatut, millel on kirillitsas tekst. Jeesuse pea kohal on näha kirjad. Taustal paistab aken, mis on kaetud valge, heegeldatud või pitsilist kangast kardinaga. Läbi kardina on näha helekollase mustriga (võib-olla päikesekujuline või lilleline) seinakate. Laud, millel esemed asuvad, on puidust või kaetud mustrilise kattega. Üldine valgus on pehme ja hajutatud, mis viitab päevavalgusele toas.",
+      "actions": [],
+      "keywords": [
+        "ikoonid",
+        "religioon",
+        "kodune",
+        "toit",
+        "vaikne",
+        "traditsiooniline",
+        "ortodoksne",
+        "kommid",
+        "suhkrutoos"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "taldrik",
+        "kommid fooliumis",
+        "juustukuubikud fooliumis",
+        "suhkrutoos",
+        "kauss kaanega",
+        "ikoon Neitsi Maarjaga",
+        "ikoon Jeesus Kristusega",
+        "kardin",
+        "laud"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#C0C0C0",
+        "#A52A2A",
+        "#8B4513",
+        "#F5DEB3",
+        "#000000",
+        "#FFFF00"
+      ],
+      "texts": [
+        "Богородица",
+        "ІС ХС",
+        "tekst raamatus"
+      ],
+      "persons": [
+        "Neitsi Maarja",
+        "Jeesus Kristus"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "010",
+      "ajad": [
+        "104.360",
+        "113.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaates potti, milles keeb teraline helebeež-pruunikas toit, mis meenutab putru või hautist. Toit mullitab ja aurab intensiivselt, täites suurema osa kaadrist. Kolmandal pildil ilmub kaadri vasakust alumisest nurgast nähtavale käsi, mis näib potis toitu segavat. Kaader fookustub toiduvalmistamise protsessi dünaamikale ja detailidele, kus aur ja mullid loovad pideva liikumise tunde. Valgus on pehme ja hajutatud, rõhutades toidu tekstuuri ja keemist.",
+      "actions": [
+        "Toidu keemine",
+        "Mullitamine",
+        "Auramine",
+        "Segamine"
+      ],
+      "keywords": [
+        "Puder",
+        "Hautis",
+        "Keemine",
+        "Toit",
+        "Köök",
+        "Toiduvalmistamine",
+        "Pott",
+        "Käsi",
+        "Aur",
+        "Hommikusöök"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Pott",
+        "Toit",
+        "Aur",
+        "Käsi"
+      ],
+      "colorcodes": [
+        "#B8A691",
+        "#D4C7B8",
+        "#8C8C8C",
+        "#F0F0F0"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel ja teisel pildil on näha pidevat toidu keemist ja auramist, kuid nende vahel on vaid minimaalsed erinevused mullide ja auru jaotumises, mis viitavad lühikesele aja möödumisele.",
+        "Kolmandal pildil ilmub kaadri vasakust alumisest nurgast sisse inimese käsi, mis segab poti sisu, põhjustades toidu pinnal märgatavaid muutusi mullide ja vahu jaotumises."
+      ],
+      "snr": "011",
+      "ajad": [
+        "113.880",
+        "118.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat paari nende koduses ja hubases keskkonnas. Tuba on kaetud puidust seinapaneelidega ja sisaldab samas stiilis puidust kappe ja riiuleid, mis loovad rustikaalse õhkkonna. Päevavalgus paistab sisse aknast, mis on kaetud soojatooniliste kollakasoranžide kardinatega. Eakas hallipäine mees, seljas ruuduline särk ja traksid, toob hoolikalt lauale kausitäie toitu. Ta asetab selle värvilistele kohamattidele, millel on ka taldrikud, söögiriistad ja pühapildid. Eakas naine istub ratastoolis. Algselt on ta näoga kaamerast eemale, vaadates telerit, mis on toa tagumises osas. Hiljem on ta laua ääres, näoga mehe poole, kes seisab tema taga kerge ja hooliva naeratusega. Laual on ka sinine laualamp ja seinal ripub peegel. Stseen õhkab kodusust, vaikset hoolitsust ja igapäevaelu rutiini.",
+      "actions": [
+        "Mees toob toitu",
+        "Mees asetab toidu lauale",
+        "Mees seisab naise taga",
+        "Mees naeratab",
+        "Naine istub ratastoolis",
+        "Naine vaatab telerit",
+        "Naine istub laua ääres"
+      ],
+      "keywords": [
+        "Eakad",
+        "Hoolitsus",
+        "Kodu",
+        "Ratastool",
+        "Söögiaeg",
+        "Puidust interjöör",
+        "Igapäevaelu",
+        "Plaaniline",
+        "Peresuhted"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Vanem mees",
+        "Vanem naine",
+        "Ratastool",
+        "Toidukauss",
+        "Teler",
+        "Puidust seinapaneelid",
+        "Puidust kapid",
+        "Puidust riiulid",
+        "Laud",
+        "Kohamatid",
+        "Taldrikud",
+        "Söögiriistad",
+        "Pühapildid (ikonid)",
+        "Sinine laualamp",
+        "Aken",
+        "Kardinad",
+        "Peegel",
+        "Korv",
+        "Salvrätikud"
+      ],
+      "colorcodes": [
+        "#4a2c1f",
+        "#b18f56",
+        "#8b8e8f",
+        "#4b6754",
+        "#c0c0c0",
+        "#5c8789",
+        "#724e3c"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees",
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe asukoht ja tegevus muutuvad: ta toob toitu, asetab selle lauale ja seisab hiljem naise taga.",
+        "Naise asend muutub: alguses vaatab ta telerit seljaga kaamera poole, hiljem istub ta laua ääres ja on näoga kaamera poole pööratud (või kergelt vasakule).",
+        "Laua esemed ja paigutus on detailsemalt näha hilisematel piltidel.",
+        "Üldine kaamera nurk ja valguse jaotus ruumis on veidi erinevates kaadrites."
+      ],
+      "snr": "012",
+      "ajad": [
+        "118.560",
+        "131.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab intiimset hetke siseruumides, kus üks eakas inimene toidab teist. Pildil on esiplaanil eaka naise pea ja ülakeha. Tal on pikemad hallid juuksed, mis on kammitud näost eemale, ja ta kannab heledat, ilmselt lillemustriga särki tumeda pruunika kampsuniga. Tema pilk on suunatud otse ette, suu on kergelt avatud, mis viitab söömise protsessile või valmistumisele. Vasakul pool on näha teise inimese (tõenäoliselt eaka mehe) käsi, kes hoiab valget kaussi ja toidab naist lusikaga. Kauss sisaldab heledat, pudrutaolist toitu, mis näib olevat riis või mingi puder. Käsi, mis naist toidab, on kortsuline ja selle randmel on näha tumeda ruudulise särgi varrukat. Taustal on näha akent, millest paistab ere päevavalgus, ja selle ees on tumedamad pruunikad kardinad. Vasakus servas on ähmaselt näha vanaaegset telerit, mis kiirgab sinist valgust. Üldine atmosfäär on vaikne ja hooliv, andes edasi vanaduse ja hooldamise teemat.",
+      "actions": [
+        "Söötmine",
+        "Söömine",
+        "Kaussi hoidmine",
+        "Lusika liigutamine"
+      ],
+      "keywords": [
+        "Eakas naine",
+        "Hooldamine",
+        "Söötmine",
+        "Interjöör",
+        "Toit",
+        "Vanadus",
+        "Hoolitsus",
+        "Päevavalgus",
+        "Teler"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Eakas naine",
+        "Eaka inimese käed",
+        "Kauss",
+        "Lusikas",
+        "Toit (puder/riis)",
+        "Teler",
+        "Aken",
+        "Kardinad",
+        "Särk",
+        "Kampsun",
+        "Ruuduline särk"
+      ],
+      "colorcodes": [
+        "#8d6b5e",
+        "#454546",
+        "#c0d1e5",
+        "#edbe7c",
+        "#572d31",
+        "#38312e",
+        "#d9d0c2",
+        "#e0e0e0",
+        "#a0a0a0",
+        "#d5e9f8",
+        "#694a37"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakas naine",
+        "Eakas inimene (käed)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Lusika asend muutub kergelt kaadrite vahel, näidates toitmise dünaamikat. Esimeses kaadris on lusikas madalamal, teises on see kergelt tõusnud ja kolmandas jälle veidi madalamal.",
+        "Toidu kogus lusikal tundub pisut erinev või toitu on liigutatud.",
+        "Naise näoilme ja suu asend muutuvad pisut kaadrite vahel, peegeldades hetke möödumist ja suu liikumist söömise ajal."
+      ],
+      "snr": "013",
+      "ajad": [
+        "131.680",
+        "173.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab detailset vaadet toataimele, mis on akna ees, heleda pilvise taeva taustal. Taim on peaaegu täielikult siluetina, kuna ta on tugevas vastuvalguses, luues dramaatilise ja rahuliku atmosfääri. Vasakpoolsel taimel on näha paksud, ümarad lehed ja hargnevad varred, mis viitavad sukulendile või rahakodule. Akna klaas on veidi udune või vihmast märjaks saanud, peegeldades läbi selle aimatavalt välismaailma kontuure, näiteks hooneid vasakul. Paremal pool on näha veelgi tumedam ja vähem detailne taimeosa, mis lisab sügavust. Üldine toon on jahe, domineerivad tumedate siluettide ja heleda hallikas-sinise taeva kontrastid.",
+      "actions": [],
+      "keywords": [
+        "siluett",
+        "toataim",
+        "aken",
+        "vastuvalgus",
+        "pilvine taevas",
+        "rahulik",
+        "siseruum",
+        "loodus",
+        "kontrast"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "toataim",
+        "aken",
+        "taevas",
+        "aknaklaas"
+      ],
+      "colorcodes": [
+        "#2e352b",
+        "#1e261d",
+        "#b0c9d7",
+        "#a8b8c2"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaadrid on peaaegu identsed ja olulisi visuaalseid erinevusi nende vahel ei ole."
+      ],
+      "snr": "014",
+      "ajad": [
+        "173.760",
+        "187.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat abielupaari vannitoas, kus mees hooldab või toetab istuvat naist. Naine on mähitud heledasse rüüdesse ja vaatab üles mehe poole. Mees seisab tema kohal, kummardudes naise poole ja vaadates talle sügavalt otsa. Nende peegeldused on näha ovaalses tumeda raamiga peeglis, mis lisab stseenile intiimsust ja teise vaatenurga. Vannitoas on pruunikas-beežid kahhelplaadid, valge kraanikauss ja seinal paiknev veeboiler või ventilatsiooniseade. Kraanikausi kõrval on väike lillevaas. Valgus on summutatud, luues sooja, hooliva, kuid samas ka melanhoolse ja südamliku atmosfääri. Stseen õhkab hellust ja tuge rasketel hetkedel.",
+      "actions": [
+        "Mees kummardub naise poole",
+        "Naine vaatab üles mehe poole",
+        "Mees pakub naisele tuge või hoolitsust",
+        "Peegelpildid näitavad paari vastastikust vaatamist ja emotsionaalset sidet"
+      ],
+      "keywords": [
+        "Vanapaar",
+        "Vannituba",
+        "Hooldus",
+        "Tugi",
+        "Intiimsus",
+        "Peegel",
+        "Hellus",
+        "Eakad",
+        "Emotsioon",
+        "Abielu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Vanem naine",
+        "Vanem mees",
+        "Ovaalne peegel",
+        "Kraanikauss",
+        "Kahhelplaadid",
+        "Veeboiler/ventilatsiooniseade",
+        "Lilled vaasis",
+        "Hõbedane kraan",
+        "Hele rüü/tekk",
+        "Ruuduline särk",
+        "Tumedad püksid"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#F5F5DC",
+        "#A9A9A9",
+        "#2F4F4F",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem naine",
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe peegelpilt peeglis muutub kaadrite vahel peenelt: esimeses kaadris on tema nägu neutraalsem, teises kaadris on ta pea kergelt naise poole kallutatud ja suu ehk veidi avatud, kolmandas kaadris on ta nägu veelgi lähemal naise peegelpildile, justkui sosistaks midagi või annaks õrna suudluse, väljendades suuremat hellust või muret. Naine jääb suhteliselt muutumatuks."
+      ],
+      "snr": "015",
+      "ajad": [
+        "187.560",
+        "192.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest siseruumis, kus valgus on hämar ja summutatud. Fookus on suunatud inimese õlale ja kaelale, mis on kaetud väikeste veepiiskadega, viidates hiljutisele pesemisele või higistamisele. Inimene on parajasti endale selga panemas või kohendamas heledat, valge põhjaga riideeset, millel on roosad ja oranžid lillelised või abstraktsed mustrid. Üks käsi on nähtav, kohendamas seda riietust õla ja rinna piirkonnas. Taust on udune ja tume, aimatava puitpinna ja metallist detailiga, mis viitab vannitoale või magamistoale ning loob stseenile intiimse ja privaatse atmosfääri.",
+      "actions": [
+        "Kuivatamine",
+        "Riietumine",
+        "Riiete kohendamine",
+        "Pesemise järgne toimetus"
+      ],
+      "keywords": [
+        "Intiimne",
+        "Privaatne",
+        "Niiskus",
+        "Nahk",
+        "Hämar valgus",
+        "Hommikumantel",
+        "Magamisriie",
+        "Lillemuster",
+        "Siseruum",
+        "Puit",
+        "Vesi",
+        "Riietumine"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese õlg",
+        "Inimese kael",
+        "Veepiisad",
+        "Magamisriie",
+        "Hommikumantel",
+        "Käsi",
+        "Puitsein",
+        "Metallist käepide"
+      ],
+      "colorcodes": [
+        "#E8C3A4",
+        "#C49673",
+        "#F8F8F8",
+        "#E09BA5",
+        "#EAA25B",
+        "#3D2E24",
+        "#6C6C6C"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on rohkem näha paljast nahka, mis on kaetud veepiiskadega.",
+        "Teisel pildil on rohkem näha mustrilist riideeset ja kätt, mis seda kohendab, kattes suurema osa nahast."
+      ],
+      "snr": "016",
+      "ajad": [
+        "192.680",
+        "197.120"
+      ]
+    },
+    {
+      "explanation": "Ühes pimedas vannitoas, mille seinad on kaetud pruunikate plaatidega, toimub dramaatiline stseen. Kesksel kohal on tumedast, ornamendiga raamistatud ovaalne peegel. Peegelpildis on näha hallipäine, ruudulise särgi ja traksidega vanem mees, kes kummardub ettepoole, vaadates sügavalt peeglisse. Tema kõrval peegeldub tumedajuukseline inimene, kelle nägu on kurb, mõtlik või valust moondunud. Stseeni arenedes liigub vanem mees veidi, tema selg pöördub vaataja poole, kuid tema intensiivne pilk on endiselt suunatud peeglisse. Esialgu on tumedajuukselise inimese nägu peeglist selgelt näha, kuid hiljem on tema pea langetatud ja juuksed varjavad ta nägu, jäädes kaadri esiplaanile fookusest välja. Paistab, et tema peas või kaela piirkonnas on midagi punast, mis võib viidata verele või vigastusele. Peegli taustal on näha puitriiul, millel ripuvad roosa ja sinine rätik. Üldine meeleolu on pingeline ja melanhoolne, rõhutades intiimset ja emotsionaalset hetke kahe inimese vahel.",
+      "actions": [
+        "kummardumine",
+        "peeglisse vaatamine",
+        "muretsemine",
+        "pea langetamine",
+        "liikumine",
+        "toetamine (võimalik)"
+      ],
+      "keywords": [
+        "vannituba",
+        "peegel",
+        "vanem mees",
+        "tumedajuukseline inimene",
+        "kurbus",
+        "mure",
+        "intiimne hetk",
+        "draama",
+        "vigastus (võimalik)",
+        "plaadid",
+        "rätikud",
+        "refleksioon"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "peegel",
+        "vanem mees",
+        "tumedajuukseline inimene",
+        "ruuduline särk",
+        "traksid",
+        "plaadid",
+        "rätikud (roosa, sinine)",
+        "puitriiul",
+        "valgustus (kunstlik)"
+      ],
+      "colorcodes": [
+        "#543D30",
+        "#787D81",
+        "#9B9B9B",
+        "#3A2F25",
+        "#7E2833",
+        "#4D566E",
+        "#2F231D",
+        "#E0D3C4"
+      ],
+      "texts": [],
+      "persons": [
+        "vanem mees",
+        "tumedajuukseline inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevus kaadri fookuses: stseeni alguses on esiplaanil peegeldus, kus on näha mõlema inimese näod, hiljem on esiplaanil tumedajuukselise inimese pea ja vanema mehe selg, mis on osaliselt fookusest väljas.",
+        "Tumedajuukselise inimese näo nähtavus: stseeni alguses on tema nägu peeglis selgelt nähtav, hiljem on tema pea langetatud ja nägu varjatud.",
+        "Vanema mehe asend: stseeni alguses on näha tema nägu peeglis ja ta on veidi rohkem küljega, hiljem on tema selg rohkem vaataja poole.",
+        "Võimalik verejäljend: stseeni hilisemas osas on tumedajuukselise inimese peas või kaelal näha punakat jälge, mida alguses nii selgelt ei eristu.",
+        "Kaamera nurk: kaamera nurk tundub olevat veidi muutunud, pakkudes stseenist erinevaid perspektiive ja rõhutades erinevaid detaile."
+      ],
+      "snr": "017",
+      "ajad": [
+        "197.120",
+        "204.720"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset hubases, puitpaneelidega sisekujundusega toas, mis näib olevat magamistuba. Suur aken, kaetud heledate läbipaistvate kardinatega, laseb sisse pehmet päevavalgust, paljastades väljaspool rohelust. Stseenis on kaks eakat inimest: mees ja naine. Mees osutab naisele õrna ja hoolitsevat abi. Alguses põlvitab mees ratastoolis istuva naise ees, hoides tema käsi, pakkudes tuge ja lohutust. Seejärel aitab ta naisel ratastoolist voodisse pikali heita, juhendades teda ettevaatlikult. Lõpuks on naine kaetud tekiga voodis puhkamas, samal ajal kui mees seisab voodi kõrval, vaadates teda mureliku või hooliva pilguga. Õhkkond on intiimne ja kodune, rõhutades hoolitsust ja haavatavust.",
+      "actions": [
+        "Hoolitsemine",
+        "Aitamine",
+        "Põlvitamine",
+        "Käte hoidmine",
+        "Voodisse aitamine",
+        "Pikali heitmine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Hoolitsus",
+        "Vanadus",
+        "Haigus",
+        "Tugi",
+        "Kodu",
+        "Magamistuba",
+        "Puit",
+        "Päevavalgus",
+        "Intiimsus",
+        "Abivajaja",
+        "Peresuhted"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Ratastool",
+        "Voodi",
+        "Padjad",
+        "Tekid",
+        "Puitseinad",
+        "Aken",
+        "Kardinad",
+        "Riiul",
+        "Raamatud",
+        "Figuriinid",
+        "Toataim",
+        "Elektriline pistikupesa",
+        "Ruuduline särk (mehel)",
+        "Hele hommikumantel/kleit (naisel)"
+      ],
+      "colorcodes": [
+        "#8D6B4E",
+        "#F5F5DC",
+        "#ADD8E6",
+        "#8B4513",
+        "#465561",
+        "#D2B48C",
+        "#A9A9A9"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees",
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Naine liigutatakse ratastoolist voodisse.",
+        "Mees muudab oma kehaasendit põlvitavast asendist (ratastooli juures) püstiseisvaks (voodi kõrval), aidates samal ajal naisel asendit vahetada.",
+        "Voodis lamav naine kaetakse teki või pleediga.",
+        "Naise kehaasend muutub istuvast (ratastoolis) lamavaks (voodis)."
+      ],
+      "snr": "018",
+      "ajad": [
+        "204.720",
+        "238.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest suvises päikeselises männimetsas. Metsaalune on kaetud tiheda rohelise alustaimestikuga, kus kasvavad põõsad ja rohi. Valgus langeb läbi puude ladvade, luues laike heledust metsapõrandale, mis loob mängleva valguse ja varju efekti. Stseenis on näha mitmeid murdunud ja langenud puutüvesid ning -oksi, mis paiknevad maapinnal ja moodustavad ebakorrapäraseid struktuure, viidates võimalikule tormikahjustusele. Paremal ees on näha üks puuoks, mille okkad on pruuniks kuivanud, tuues stseeni kontrasti. Keskel on vanem mees, hallide juustega, riietatud roheliseruudulisse särki ja tumedatesse traksidesse. Tema kehahoiak ja ilme on tõsine, justkui hindaks ta ümbritsevat või oleks süvenenud mõtetesse. Stseen on üldiselt rohelistes ja pruunides toonides, heleda päikesevalgusega, mis annab pildile elava ja loodusliku atmosfääri.",
+      "actions": [
+        "Mees kõnnib või seisab metsas",
+        "Mees vaatab ringi",
+        "Mees hindab ümbritsevat"
+      ],
+      "keywords": [
+        "Mets",
+        "Männimets",
+        "Langenud puud",
+        "Tormikahjustus",
+        "Mees",
+        "Loodus",
+        "Suvi",
+        "Päikesepaiste",
+        "Roheline",
+        "Pruun",
+        "Alustaimestik"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Männimets",
+        "Puud",
+        "Langenud puutüved",
+        "Murdunud oksad",
+        "Roheline alustaimestik",
+        "Põõsad",
+        "Kuivanud okkadega oks",
+        "Särk",
+        "Traksid",
+        "Püksid"
+      ],
+      "colorcodes": [
+        "#4A6E32",
+        "#749E5D",
+        "#8B5A2B",
+        "#B58A5F",
+        "#BFC0C2",
+        "#3C5C6E"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Erinevad kaadrid näitavad meest erinevast kaugusest: esimene kaader on lai kaader, teine kaader on samuti lai kaader, kuid veidi suumitum, ja kolmas kaader on mehest keskmise lähivõttega.",
+        "Mehe asend ja näoilme muutuvad kergelt kaadrite vahel, viidates liikumisele või vaatenurga muutusele.",
+        "Kolmandas kaadris on mees detailsemalt näha, tema nägu ja riietus on esiplaanil."
+      ],
+      "snr": "019",
+      "ajad": [
+        "238.000",
+        "295.760"
+      ]
+    },
+    {
+      "explanation": "Piltidel on kujutatud vana, tugevalt roostetanud metallist anumat, tõenäoliselt tünni või kanistrit, mis lamab maapinnal. Anum on osaliselt roheliseks värvitud, kuid enamus nähtavast pinnast on kaetud tumeda pruunika roostega, millel on kooruvad ja mõranenud kihid. Anumal on mitu auku ja sügavat mõlki. Suurimas avas on näha hunnik heledat, liivase tekstuuriga mulda või pinnast. Anum asub õues, rohelise muru ja paljastatud pinnase vahel. Stseen on valgustatud otsese päikesevalgusega, mis loob varjud ja toob esile rooste ning pinnase tekstuuri. Üldmulje on kulunud ja mahajäetud.",
+      "actions": [],
+      "keywords": [
+        "roostes",
+        "metallist anum",
+        "tünn",
+        "kanister",
+        "mulk",
+        "auk",
+        "muld",
+        "liiv",
+        "muru",
+        "õues",
+        "vana",
+        "kulunud",
+        "roheline",
+        "pruun",
+        "lagunenud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "metallist anum",
+        "rooste",
+        "muld",
+        "liiv",
+        "muru"
+      ],
+      "colorcodes": [
+        "#6D412D",
+        "#3F6C4C",
+        "#A79073",
+        "#557F3A"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "020",
+      "ajad": [
+        "295.760",
+        "308.720"
+      ]
+    },
+    {
+      "explanation": "Detailne vaade rohelistele taimeokstele, mis on tõenäoliselt kanarbikulaadne põõsas. Oksad on kaetud väikeste roheliste lehtedega, mis annavad pildile värske ja elava ilme. Mitmel oksal, eriti pildi ülaosas keskel, on näha pisikesi heledaid õisi, mis on veel nupustaadiumis või alles avanemas. Pildi paremal küljel, tumedamal ja peenimal oksal, on õrnalt nähtav ämblikuvõrk, mis püüab valgust ja loob hõrgu detaili. Taust on roheline ja uduseks hajutatud, mis annab stseenile sügavuse ja toob esiplaanil olevad taimed selgelt esile. Valgus on pehme ja loomulik, valgustades taimeoksasid ja ämblikuvõrku. Osaliselt on näha ka kuivanud, tumedamaid oksi, mis lisavad tekstuurset mitmekesisust.",
+      "actions": [
+        "Taimed kasvavad",
+        "Õied õitsevad",
+        "Ämblikuvõrk õõtsub kergelt"
+      ],
+      "keywords": [
+        "Loodus",
+        "Taimestik",
+        "Roheline",
+        "Ämblikuvõrk",
+        "Õied",
+        "Suvi",
+        "Põõsas",
+        "Detail",
+        "Värskus",
+        "Vabas õhus"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Taimeoksad",
+        "Lehed",
+        "Õied",
+        "Ämblikuvõrk"
+      ],
+      "colorcodes": [
+        "#4CAF50",
+        "#2E8B57",
+        "#4B3A2A",
+        "#F0F8FF",
+        "#F5F5F5",
+        "#8BC34A"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "suvi",
+      "daytime": "päev",
+      "differences": [
+        "Ämblikuvõrk pildi paremal küljel näitab piltide vahel kerget liikumist või asendi muutust, viidates õrnale tuulehoole.",
+        "Ämblikuvõrgu kuju ja venitus tunduvad muutuvat, eriti paremas servas."
+      ],
+      "snr": "021",
+      "ajad": [
+        "308.720",
+        "315.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat meest jalutamas tihedas, sammaldunud metsas. Metsapõrand on kaetud erkrohelise sambla, kuivanud rohu ja väikeste taimedega. Mees on keskealine kuni vanem, hallide juustega, kannab ruudulist särki ja traksidega tumedaid pükse. Ta liigub läbi metsa, kus domineerivad männipuud, moodustades tiheda, ent valgusrikka keskkonna. Mees on nähtud nii profiilis, kui ta vaatab ringi ja üles, kui ka otse kaamerasse vaatamas, ilmel on kerge mõtlikkus või isegi mure. Valgus on pehme, vihjates pilvisele päevale või varajasele hommikule/õhtule. Üldine meeleolu on rahulik ja looduslähedane, ent mehe ilme lisab stseenile sügavust.",
+      "actions": [
+        "jalutamine",
+        "vaatamine ringi",
+        "mõtisklemine"
+      ],
+      "keywords": [
+        "mets",
+        "loodus",
+        "eakas mees",
+        "jalutuskäik",
+        "sammal",
+        "männid",
+        "mõtlikkus",
+        "roheline",
+        "maastik"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "eakas mees",
+        "sammal",
+        "rohi",
+        "kuivanud oksad",
+        "puud",
+        "männid",
+        "särk",
+        "traksid",
+        "püksid",
+        "kingad"
+      ],
+      "colorcodes": [
+        "#4A6E2D",
+        "#2F5224",
+        "#6B8B4C",
+        "#7B795D",
+        "#807B63",
+        "#4F4F4F",
+        "#5B6B78",
+        "#2B2D31",
+        "#3E5334"
+      ],
+      "texts": [],
+      "persons": [
+        "eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader on detailne metsateest ja samblast, ilma inimeseta, keskendudes tekstuuridele ja taimestikule.",
+        "Teisel kaadril on mees nähtav profiilis, kõndimas läbi metsa ja vaatamas üles, sügavust rõhutades.",
+        "Kolmandal kaadril on mees pööranud näoga kaamera poole, tema ilmel on mõtlikkus, esiplaanil on selgemalt näha tema nägu ja riietus."
+      ],
+      "snr": "022",
+      "ajad": [
+        "315.800",
+        "321.120"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset päikeselises metsas, kus vanamees ja noor tüdruk jalutavad läbi tiheda alusmetsa. Vanamehel on heledad juuksed, seljas ruuduline särk ja tumedad püksid koos traksidega. Tüdrukul on pikad heledad juuksed ja seljas valge kleit. Nad hoiavad algselt käest kinni, liikudes rohelisel, tiheda taimestikuga kaetud metsaalusel. Ümberringi on näha puutüvesid, rohelisi lehti ja ka kuivanud, punakaspruune oksi ning langenud puid. Vanamees paistab rääkivat või midagi selgitavat, samal ajal kui tüdruk liigub temast veidi eespool, vaadates ette. Stseeni valgus on ere ja varjud näitavad päikesepaistelist päeva. Üldine meeleolu on rahulik ja looduslik.",
+      "actions": [
+        "Vanamees ja tüdruk jalutavad metsas",
+        "Vanamees hoiab tüdruku kätt (alguses)",
+        "Vanamees vaatab tüdrukut",
+        "Vanamees paistab rääkivat või midagi väljendavat",
+        "Tüdruk liigub edasi"
+      ],
+      "keywords": [
+        "Mets",
+        "Loodus",
+        "Jalutuskäik",
+        "Vanamees",
+        "Tüdruk",
+        "Roheline",
+        "Päikesepaiste",
+        "Rahulik",
+        "Koos"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Metsa alusmets",
+        "Rohttaimed",
+        "Kuivanud oksad",
+        "Puuoksad",
+        "Vanamehe särk",
+        "Vanamehe püksid",
+        "Vanamehe traksid",
+        "Tüdruku kleit"
+      ],
+      "colorcodes": [
+        "#4A6F32",
+        "#8C4E3C",
+        "#5C4A33",
+        "#E0E0E0",
+        "#F0F0F0",
+        "#5A6D80"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanamees",
+        "Tüdruk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Kaamera on liikunud või suuminud sisse, tuues tegelased lähemale kaadri keskpunkti.",
+        "Vanamehe poos ja ilme on muutunud: esimesel pildil seisab ta puu kõrval rahulikumalt, hoides tüdruku kätt, samas kui viimasel pildil on ta pööranud rohkem kaamera poole ja näib rääkivat või olema üllatunud, käsi on tüdrukust lahti lasknud või just lahti laskmas.",
+        "Tüdruku asend on muutunud: esimesel pildil vaatab ta otse ette või alla, hoides vanamehe kätt, viimasel pildil on ta pööranud peaaegu seljaga kaamera ja vanamehe poole, vaadates paremale ning ei hoia enam vanamehe kätt.",
+        "Kaadri kompositsioon on muutunud laiemast võttest kitsamaks keskmiseks võtteks, keskendudes rohkem tegelastele ja nende interaktsioonile."
+      ],
+      "snr": "023",
+      "ajad": [
+        "321.120",
+        "364.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest, kellel on valged juuksed ja hallisegune habe. Ta toetub õues jämeda puutüve vastu, mis asub kaadri vasakul küljel ja on samuti fookuses. Mees kannab tumedat ruudulist särki, millel on näha punakate mustritega traksid. Tema näoilme ja suu asend varieeruvad kaadrites, viidates vestlusele, tugevale emotsioonile või lihtsalt mõtisklemisele. Tema pilk on peamiselt suunatud allapoole või eemale kaadrist. Taustal on hägune roheline mets, mis loob sügavuse ja loodusliku keskkonna tunde. Valgus on ere ja loomulik, mis viitab päevale.",
+      "actions": [
+        "Toetub puutüvele",
+        "Räägib või väljendab emotsioone",
+        "Vaatab allapoole või eemale"
+      ],
+      "keywords": [
+        "Vana mees",
+        "Mets",
+        "Puutüvi",
+        "Valged juuksed",
+        "Hall habe",
+        "Ruuduline särk",
+        "Traksid",
+        "Emotsionaalne",
+        "Loodus",
+        "Päevavalgus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Vana mees",
+        "Puutüvi",
+        "Ruuduline särk",
+        "Traksid",
+        "Mets",
+        "Puu"
+      ],
+      "colorcodes": [
+        "#D3D3D3",
+        "#C19A6B",
+        "#4F5E6A",
+        "#8B0000",
+        "#8B4513",
+        "#4F7942"
+      ],
+      "texts": [],
+      "persons": [
+        "Vana mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Erinevused on mehe näoilmetes ja suu asendis. Esimesel pildil on suu kergelt avatud ja pilk suunatud vasakule alla, viidates mõtlikkusele või vaiksele kõnele.",
+        "Teisel pildil on mehe suu suletud ja näoilme pigem rahulik või mõtisklev, pilk on suunatud otse ette ja alla.",
+        "Kolmandal pildil on mehe suu laialt avatud, justkui räägiks ta valjuhäälselt, karjuks või väljendaks tugevat emotsiooni, pilk on suunatud sügavale alla ja paremale."
+      ],
+      "snr": "024",
+      "ajad": [
+        "364.480",
+        "377.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab päikesepaistelist päeva rannikualal, kus asub puust kiik. Taevas on selge sinine, kaunistatud suurte valgete pilvedega, mis loovad dünaamilise tausta. Maapind on liivane, kaetud hajutatud rohttaimede ja düünidega, mis annavad edasi loodusliku ja rannaäärse atmosfääri. Stseeni keskel on lihtne kahe kiigega puust kiik, mille kettidel ripuvad sinised istmed. Pildiseeria käigus näeme, kuidas algselt tühjale kiigele ilmub noor tüdruk, keda vanem mees kiigutab. Hiljem võtab mees ise kiigele hoo sisse, ulatudes taevasse, samal ajal kui tüdruk teda mänguliselt kõrvalt jälgib. Atmosfäär on rõõmus ja muretu, iseloomulik suvisele perega veedetud ajale õues.",
+      "actions": [
+        "Kiikumine",
+        "Lapse kiigutamine",
+        "Mängimine",
+        "Lapse jälgimine",
+        "Loodusest nautimine"
+      ],
+      "keywords": [
+        "Kiik",
+        "Rand",
+        "Liiv",
+        "Düünes",
+        "Taevas",
+        "Pilved",
+        "Suvi",
+        "Laps",
+        "Täiskasvanu",
+        "Mäng",
+        "Vabadus",
+        "Rõõm",
+        "Vaba aeg",
+        "Õues",
+        "Pere"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kiik",
+        "Liiv",
+        "Rohttaimed",
+        "Pilved",
+        "Taevas",
+        "Tüdruku kleit",
+        "Mehe särk",
+        "Mehe püksid",
+        "Väike silt"
+      ],
+      "colorcodes": [
+        "#4C8ACA",
+        "#D1C0A5",
+        "#869B72",
+        "#A07F5B",
+        "#F5F5F5",
+        "#5C5C5C",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Väike loetamatu silt"
+      ],
+      "persons": [
+        "Laps (tüdruk)",
+        "Täiskasvanud mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader näitab tühja kiike liivases ja rohtses maastikus sinise pilvise taeva all.",
+        "Teisel kaadril kiigutab täiskasvanud mees väikest tüdrukut kiigel, pildistatuna veidi vasakult nurga alt.",
+        "Kolmandal kaadril kiigub täiskasvanud mees ise kõrgele, jalad õhus, samal ajal kui tüdruk seisab tema kõrval ja vaatleb."
+      ],
+      "snr": "025",
+      "ajad": [
+        "377.640",
+        "391.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest – vanemat meest ja nooremat naist – kes naudivad päikeselist päeva kiikudes liivase ja rohelise düüniala keskel, sinise taeva ja valgete pilvede all. Kiiged on kinnitatud robustse puitkonstruktsiooni külge. Mees kannab ruudulist särki ja tumedaid pükse ning on näha erinevates entusiastliku kiikumise etappides, sealhulgas kõrgel õhus selili, pea taha visatud ja suu lahti, mis viitab rõõmule või naerule. Noor naine, kellel on pikad voolavad juuksed ja seljas heledavärviline kleit, kiigub samuti hoogsalt, tema juuksed lendavad liikumise taktis. Stseenist õhkub rõõmsameelset ja muretut õues veedetud puhkuse atmosfääri. Kaadri vasakus servas on näha osa puidust postist.",
+      "actions": [
+        "Kiikumine",
+        "Lõbutsemine",
+        "Naermine",
+        "Hoogu võtmine"
+      ],
+      "keywords": [
+        "Kiik",
+        "Rõõm",
+        "Lõbu",
+        "Vaba aeg",
+        "Liiv",
+        "Muru",
+        "Taevas",
+        "Pilved",
+        "Vana mees",
+        "Noor naine",
+        "Loodus",
+        "Väljas",
+        "Suvi",
+        "Päikeseline"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kiik",
+        "Kiikraam",
+        "Puitpost",
+        "Liiv",
+        "Muru",
+        "Taevas",
+        "Pilved",
+        "Mehe ruuduline särk",
+        "Mehe tumedad püksid",
+        "Naise hele kleit"
+      ],
+      "colorcodes": [
+        "#4A90E2",
+        "#FFFFFF",
+        "#D4B98D",
+        "#78A858",
+        "#5B4B4B",
+        "#F5F5DC",
+        "#8B4513"
+      ],
+      "texts": [],
+      "persons": [
+        "Vana mees",
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Kaadrite järjestus näitab kiikumise erinevaid etappe ja inimeste positsioone.",
+        "Esimesel pildil on näha mõlemat inimest korraga kiikumas, naine vasakul ja mees paremal kõrgel õhus, naine madalamal.",
+        "Teisel pildil on näha ainult meest, kes on oma kiigega kõige kõrgemas punktis, peaaegu horisontaalselt maapinnaga.",
+        "Kolmandal pildil on mees kiigel püsti, justkui hoogu võtmas või maha tulemas, samas kui teine kiik on tühi ja eemal.",
+        "Naise pikad juuksed lendavad esimesel pildil selgelt hooga kaasa.",
+        "Mehe näoilme ja kehaasend varieeruvad kaadrite vahel, näidates erinevaid emotsioone ja liikumise faase."
+      ],
+      "snr": "026",
+      "ajad": [
+        "391.840",
+        "433.800"
+      ]
+    },
+    {
+      "explanation": "Stseen algab laia kaadriga päikeselisest rannikumaastikust, kus domineerivad liivaluited ja harv rohi. Taevas on selge, kaetud suurte valgete pilvedega. Keskel seisab puidust kiik, millel on kolm siniste nööridega kiike. Vanem mees, hallide juustega ja heleda mustrilise särgi ning tumedate pükstega, seisab esmalt kiige kõrval, justkui mõtiskledes. Seejärel kõnnib ta kiikudest eemale, liikudes kaadri paremasse serva. Maastik on avar ja rahulik. Seejärel muutub stseen dramaatiliselt, liikudes pimedamasse keskkonda, mis on tõenäoliselt öine. Lähivaates on näha metallist tünni, milles põleb eredalt oranž ja kollane tuli. Sama vanem mees, nüüd ruudulises särgis, jälgib tuld tünni tagant, tema nägu on osaliselt tule leekide ja pimeduse varjus. Üleminek valgusküllaselt avatud alalt pimedasse, tulega valgustatud kohta loob terava kontrasti ja meeleolumuutuse.",
+      "actions": [
+        "Mõtisklemine kiige juures",
+        "Kõndimine liivaluidetel",
+        "Tule jälgimine tünnis"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Kiik",
+        "Liivaluited",
+        "Rannik",
+        "Päev",
+        "Öö",
+        "Tuli",
+        "Tünn",
+        "Kontrast",
+        "Mõtisklus",
+        "Üksindus",
+        "Melanhoolia"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puidust kiik",
+        "Kiiged",
+        "Liivaluited",
+        "Rohttaimed",
+        "Pilved",
+        "Taevas",
+        "Metallist tünn",
+        "Põlev tuli",
+        "Märk (kaugel)"
+      ],
+      "colorcodes": [
+        "#ADD8E6",
+        "#F5DEB3",
+        "#8B4513",
+        "#006400",
+        "#FF4500",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "not clear"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "summer",
+      "daytime": "not clear",
+      "differences": [
+        "Esimestel piltidel on stseen valgusküllases päevases rannikukeskkonnas, samas kui viimasel pildil on stseen pimedas, tõenäoliselt öises keskkonnas.",
+        "Esimesel kahel pildil on mees kiige juures avatud maastikul, kolmandal pildil on ta tule taga tünni juures, mis loob erineva meeleolu ja konteksti.",
+        "Kaadrite tüüp erineb: esimesed on laiad võtted, mis näitavad keskkonda tervikuna, samas kui viimane on lähivaade, mis keskendub tegelasele ja tulele.",
+        "Meeleolu muutub rahulikust ja avarast dramaatiliseks, intiimsemaks ja potentsiaalselt melanhoolseks."
+      ],
+      "snr": "027",
+      "ajad": [
+        "433.800",
+        "456.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab detailset lähivõtet surnud ja ilmselt lagunemise algfaasis olevast rotist, mis lebab niiskel, sinakas-hallil pinnal. Roti karvastik on märg ja sasitud, pakkudes räpast ja ebameeldivat vaatepilti. Roti keha ümber on näha üksikuid heledaid tükikesi, mis võivad olla praht või isegi putukavastsed. Pinnas, millel rott lebub, on määrdunud ja paistab olevat mingi süvendi või renni põhi. Pildi paremas servas on näha vertikaalset äärt või seina, millel on punakaspruunid ja oranžikad toonid. Üldvalgustus on sume ja annab stseenile jaheda, sinaka varjundi, rõhutades rusuva ja ebasanitaarse keskkonna tunnet.",
+      "actions": [
+        "Puuduvad (rott on surnud)"
+      ],
+      "keywords": [
+        "Surnud rott",
+        "mädanemine",
+        "niiske",
+        "määrdunud",
+        "lagunemine",
+        "roiskumine",
+        "sinakas toon",
+        "hall",
+        "ebasanitaarne",
+        "kahjur",
+        "rott",
+        "jäine",
+        "külm",
+        "vastik",
+        "ebameeldiv"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Surnud rott",
+        "niiskus/vesi",
+        "sinakas-hall pinnas",
+        "punakaspruun äär/sein",
+        "tõugud/praht"
+      ],
+      "colorcodes": [
+        "#415A6B",
+        "#2B2625",
+        "#764735",
+        "#CCCEBF",
+        "#1B1B1B"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Puuduvad märkimisväärsed visuaalsed erinevused piltide vahel."
+      ],
+      "snr": "028",
+      "ajad": [
+        "456.440",
+        "510.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat paari, kus mees tegeleb erinevate tegevustega, mis viitavad hoolitsusele ja argipäevale. Esimeses osas on eakas hallipäine mees õues videvikus, jälgides suurt tuld, mis põleb metallist tünnis. Ta kannab ruudulist särki ja tema pilk on süvenenud. Taustal on näha rohelist lehestikku. Järgmistes kaadrites on mees siseruumides, puidust seintega toas, mille aknast paistab sisse ere päevavalgus läbi pitskardinate. Ta on riietatud tumedasse särki ja pruunidesse pükstesse. Ta toetab ja lohutab eakat naist, kes algselt on küürus ja vajab abi, ning seejärel istub ratastoolis. Mees kükitab naise kõrval, hoiab tema kätt ja vaatab talle mureliku, ent hooliva pilguga silma. Stseenis valitseb tundlik ja toetav õhkkond, mis kujutab vanaduspõlve väljakutseid ja partneritevahelist sidet.",
+      "actions": [
+        "Tule põletamine",
+        "Jälgimine",
+        "Abistamine",
+        "Lohutamine",
+        "Toetamine",
+        "Käe hoidmine",
+        "Suhtlemine",
+        "Istumine ratastoolis"
+      ],
+      "keywords": [
+        "Vanadus",
+        "Hoolitsus",
+        "Tugi",
+        "Armastus",
+        "Ratastool",
+        "Tuli",
+        "Kodune",
+        "Mure",
+        "Partnerlus",
+        "Argipäev"
+      ],
+      "shot_type": "medium",
+      "placement": "mõlemad",
+      "objects": [
+        "Metallist tünn",
+        "Tuli",
+        "Ratastool",
+        "Pitskardinad",
+        "Puitsein",
+        "Lehestik"
+      ],
+      "colorcodes": [
+        "#FF6600",
+        "#1A1A1A",
+        "#999999",
+        "#4A4A4A",
+        "#D9D9D9",
+        "#8B4513",
+        "#668C66",
+        "#C0C0C0"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakas mees",
+        "Eakas naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "suvi",
+      "daytime": "mõlemad",
+      "differences": [
+        "Esimene pilt on tehtud õues pimedas/hämaruses, teised pildid on siseruumides päevavalges.",
+        "Mehe riietus erineb: esimesel pildil on tal ruuduline särk, teistel tumedam ühevärviline särk.",
+        "Esimene pilt kujutab meest üksinda tule ääres, teised pildid näitavad meest koos naisega, keda ta toetab.",
+        "Ratastool on nähtav ainult siseruumides tehtud piltidel.",
+        "Tuli on nähtav ainult esimesel pildil."
+      ],
+      "snr": "029",
+      "ajad": [
+        "510.960",
+        "530.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist siseruumides, kes vaatab üles ja veidi paremale, tema ilme on mõtlik või veidi kurvameelne. Ta on kaadri keskmes ja tema nägu ning ülakeha on selgelt näha. Tema hallikaspruunid juuksed on lahti ja kukuvad üle õlgade. Ta kannab musta-valgekirjut pluusi. Tagaplaanil on näha valged pitskardinad, mis viitavad aknale ja annavad stseenile pehme, difuusse valguse. Stseeni arenedes pannakse naisele kaela valge pärlikee, mille asetab talle keegi teine, kelle käsi on näha kaadri vasakus servas. Valgus langeb naisele peamiselt eest ja küljelt, jättes tema näo teatud osad varju.",
+      "actions": [
+        "Vaatab üles",
+        "Vaatab kõrvale",
+        "Kaelakee asetamine"
+      ],
+      "keywords": [
+        "Vanem naine",
+        "Pärlikee",
+        "Siseruum",
+        "Pitskardinad",
+        "Emotsionaalne",
+        "Mõtlik",
+        "Kaastundlik",
+        "Ehete panek"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Pitskardinad",
+        "Pärlikee",
+        "Pluus"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#F5F5DC",
+        "#8B4513",
+        "#C0C0C0",
+        "#A9A9A9",
+        "#36454F"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem naine",
+        "Teine isik (käsi)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on naine ilma eheteta ja vasakul pool kaadrit on vaid tume ala, mis ei paljasta teise isiku kohalolekut.",
+        "Teisel pildil ilmub kaadri vasakule servale tumeda kogu ja käe kontuur, mis on alustanud pärlikee asetamist naise kaela, hoides keed justkui paika panemise alguspunktis.",
+        "Kolmandal pildil on pärlikee peaaegu täielikult naise kaela ümber ja vasakul olev käsi on endiselt näha, justkui viimistleks kee asendit. Valgus ja naise näoilme on kõigil piltidel veidi erinevad, andes edasi stseeni progressiooni lühikese aja jooksul."
+      ],
+      "snr": "030",
+      "ajad": [
+        "530.600",
+        "564.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähiplaanis vanema naise nägu, keskendudes detailidele nagu nahk, kõrv ja juuksed. Naine on keskealine või vanem, näonahk on kortsuline ja kohati pigmendilaikudega, andes tunnistust elukogemusest. Tema hallikaspruunid juuksed on näha õlgadele langevana, moodustades pehme tekstuuri. Valgus on pehme ja loomulik, valgustades tema näo profiili ja tuues esile naha tekstuuri. Kahes esimeses kaadris on tagaplaan tume ja ähmastunud, luues intiimse ja keskendunud atmosfääri. Kolmandas kaadris on tagaplaan heledam, näidates ähmaselt mustrilist tapeeti või kardinat, mis viitab siseruumile. Naise näoilme on mõtlik ja rahulik, kolmandas kaadris on märgata ka tema huulte kerget tõmbumist, mis viitab pehmele naeratusele või pingsale kuulamisele. Üldine toon on intiimne ja kontemplatiivne.",
+      "actions": [
+        "Vaatamine",
+        "Kuulamine",
+        "Mõtisklemine",
+        "Naeratamine"
+      ],
+      "keywords": [
+        "Vanus",
+        "Naine",
+        "Portree",
+        "Lähiplaan",
+        "Kõrv",
+        "Pärlkõrvarõngas",
+        "Hallid juuksed",
+        "Siseruum",
+        "Emotsioon",
+        "Kortsud"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Pärlkõrvarõngas",
+        "Kortsud",
+        "Juuksed",
+        "Nahk",
+        "Kõrv",
+        "Nina",
+        "Huuled",
+        "Silmad",
+        "Tapeet/Kardin"
+      ],
+      "colorcodes": [
+        "#946f5c",
+        "#524e4d",
+        "#2a221f",
+        "#e2e1d7",
+        "#dcd6d0"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puudub kõrvarõngas, teisel pildil on kõrvas suur pärlkõrvarõngas.",
+        "Kaamera nurk ja subjekti näo asend muutuvad kaadrite vahel, pakkudes erinevaid vaatenurki näo detailidele.",
+        "Tagaplaan on kahes esimeses kaadris tume ja ähmastunud, kolmandas aga heledam ja mustriga, mis annab aimu erinevast ruumi osast või valgustusest.",
+        "Kolmandal pildil on näha subjekti nina ja huulte piirkonda rohkem kui kahes esimeses, mis keskenduvad rohkem kõrvale ja näo profiilile."
+      ],
+      "snr": "031",
+      "ajad": [
+        "564.560",
+        "584.320"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab äärmiselt lähivaadet eaka inimese näost, keskendudes nina alaosa, huulte ja põsepiirkonna detailidele. Nahk on kortsuline ja tekstuuriga, andes tunnistust vanusest. Valgustus on pehme ja dramaatiline, tuues esile näo kontuurid ja luues peeneid varje, eriti nina ümber. Üldine värvipalett on soe, domineerivad nahatoonid ja summutatud taustavärvid. Ühel hetkel on näha sõrme, mis tõenäoliselt kuulub samale inimesele, liikumas huulte lähedale või neid puudutamas, mis viitab mõtisklusele, sügavale mõttele või ehk närvilisele harjumusele. Taust on udune ja fookusest väljas, paistes heledana, tõenäoliselt seina pinnana, millel on toonierinevusi.",
+      "actions": [
+        "Sõrme puudutamine huultele või nende lähedal hoidmine",
+        "Vaatlemine (kaadri fookuse kaudu)"
+      ],
+      "keywords": [
+        "Äärmuslik lähivaade",
+        "Nägu",
+        "Eakas",
+        "Nahk",
+        "Huuled",
+        "Nina",
+        "Sõrm",
+        "Kortsud",
+        "Mõtisklus",
+        "Detail"
+      ],
+      "shot_type": "extreme close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese nägu",
+        "Nina",
+        "Huuled",
+        "Nahk",
+        "Sõrm"
+      ],
+      "colorcodes": [
+        "#634732",
+        "#7a5e4d",
+        "#947b6a",
+        "#c2c3c1",
+        "#a7a6a5"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teises kaadris on näha sõrme, mis on huulte lähedal või puudutab neid, samal ajal kui esimeses ja kolmandas kaadris sõrm puudub.",
+        "Kaadrite kompositsioon ja fookuspunkt on pisut erinevad, eriti esimese ja kolmanda pildi vahel, kus nurk on veidi muutunud."
+      ],
+      "snr": "032",
+      "ajad": [
+        "584.320",
+        "598.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia, lillakaid õisi täis välja õhtusel ajal. Kõrged ja sihvakad lilled, mis sarnanevad põdrakanepile, domineerivad maastikul, luues sumeda ja veidi unenäolise atmosfääri. Taamal paistab tihe metsaserv ja helenduv, ent pilvine taevas. Välja keskel on näha vanapaari: naine istub ratastoolis, seljas heledam, mustriga kleit, ja mees seisab tema taga, hoides naist hellalt kinni. Mehel on seljas hele jakk ja peas rätik või müts. Ümbrus on roheline ja lopsakas, õied ulatuvad kohati peaaegu inimeste kõrguseni, andes stseenile privaatse ja rahuliku tunde. Valgus on pehme ja hajutatud, vihjates päikeseloojangu eelsetele hetkedele.",
+      "actions": [
+        "Puhkamine looduses",
+        "Kallistamine",
+        "Looduse nautimine",
+        "Ratastoolis viibimine"
+      ],
+      "keywords": [
+        "Loodus",
+        "Väli",
+        "Lilled",
+        "Põdrakanep",
+        "Vanadus",
+        "Armastus",
+        "Hoolitsus",
+        "Õhtu",
+        "Rahu",
+        "Ratastool",
+        "Paar",
+        "Idüll"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Lilled",
+        "Ratastool",
+        "Põdrakanep",
+        "Puu",
+        "Metsaserv"
+      ],
+      "colorcodes": [
+        "#3F3C4B",
+        "#8E7BA0",
+        "#A0B0BF",
+        "#BDBFB0",
+        "#A7B0A0"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem naine",
+        "Vanem mees",
+        "Vanapaar"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "summer",
+      "daytime": "evening",
+      "differences": [
+        "Ühel pildil on näha vanapaari ratastoolis keset lillelist välja, teised pildid keskenduvad vaid õitelisele väljale.",
+        "Valgus varieerub kaadrite vahel kergelt, viidates õhtu algusele ja valguse järkjärgulisele hämardumisele.",
+        "Kaadrite fookus ja kompositsioon on veidi erinevad, paari pildil on nad kaadri keskel ja detailsemalt näha."
+      ],
+      "snr": "033",
+      "ajad": [
+        "598.240",
+        "616.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab avarust mere ääres loojuva päikese aegu. Taevas on täis pilvi, mis värvuvad horisondi lähedal roosakaspruunidesse ja helesinistesse toonidesse, sulandudes ülemises osas tumedamaks sinakashalliks. Horisondil paistab laialivalguv meri, mis peegeldab õrna valgust. Esile plaanil on rannikuala tumedate siluettidena, kus kasvavad mõned puud vasakul ja rohi paremal pool. Mööda seda rannikut liiguvad kaks inimfiguuri, samuti siluetina näha: üks inimene lükkab ratastoolis istuvat teist inimest paremale poole. Kogu stseen õhkub rahu ja vaikust, pakkudes melanhoolset ja samas rahulikku meeleolu.",
+      "actions": [
+        "ratastooli lükkamine",
+        "jalutamine",
+        "liikumine"
+      ],
+      "keywords": [
+        "loojang",
+        "õhtu",
+        "videvik",
+        "meri",
+        "horisont",
+        "pilved",
+        "siluetid",
+        "ratastool",
+        "abistamine",
+        "loodus",
+        "rahu",
+        "melanhoolia",
+        "rannik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "ratastool",
+        "meri",
+        "pilved",
+        "puu",
+        "rohi",
+        "rannik"
+      ],
+      "colorcodes": [
+        "#4D6D83",
+        "#E8C6A3",
+        "#B3908F",
+        "#1E2021",
+        "#72A9C9"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene lükkab ratastooli",
+        "inimene ratastoolis"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Teises kaadris on näha kaks inimfiguuri, kes lükkavad ratastooli mööda rannikut, samas kui esimeses ja kolmandas kaadris on stseen inimestest tühi.",
+        "Esimene ja kolmas kaader on väga sarnased, kuid neis on märgatavad minimaalsed loomulikud erinevused pilvede asukohas ja valguse intensiivsuses, mis on tingitud kaadrite järjestikulisusest."
+      ],
+      "snr": "034",
+      "ajad": [
+        "616.880",
+        "665.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte vanemat inimest mere või suure veekogu kaldal päikeseloojangu ajal. Mees lükkab naist ratastoolis veepiiri lähedale kivisele kaldale, kus nad jäävad peatuma. Mees seisab ratastooli taga, toetades käed seljatoele ja vaadates koos naisega horisondi poole, kus taevas on värvunud roosakasoranžide ja kollakate toonidega. Vesi peegeldab õrna valgust, luues rahustava ja melanhoolse atmosfääri. Ühel hetkel pöörab mees pilgu naise poole, kummardub veidi ja asetab hellalt oma käe naise peale, paitades teda, mis annab edasi sügava hoolivuse ja läheduse tunde. Ratastoolis naine on riietatud mustrilisse pluusi ja pükstesse, samal ajal kui mehel on seljas hele beežikas pintsak. Panoraamvaade samast maastikust näitab laiuvaid veekogusid ja taevast, mis on kaetud õhuliste pilvedega ja värvunud päikeseloojangu pastelsetesse toonidesse, rõhutades stseeni avarust ja ilu.",
+      "actions": [
+        "Mees lükkab ratastooli",
+        "Mõtisklev vaatamine vee poole",
+        "Mees paitab naise pead",
+        "Imetleda päikeseloojangut"
+      ],
+      "keywords": [
+        "Päikeseloojang",
+        "Mereäär",
+        "Ratastool",
+        "Vanapaar",
+        "Rahu",
+        "Hoolitsus",
+        "Vesi",
+        "Horisont",
+        "Pilved",
+        "Paitamine",
+        "Sügis"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Ratastool",
+        "Vesi",
+        "Kallas",
+        "Pilved",
+        "Taevas",
+        "Mehe pintsak",
+        "Naise riietus"
+      ],
+      "colorcodes": [
+        "#F0B090",
+        "#F0A080",
+        "#DDC0B0",
+        "#405060",
+        "#506070",
+        "#304050",
+        "#303030",
+        "#404040",
+        "#DDC0A0"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees",
+        "Naine ratastoolis"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimeses pildis vaatab mees otse mere poole, käed naise ratastooli seljatoel.",
+        "Teises pildis on mees pööranud pea naise poole ja paitab hellalt tema pead.",
+        "Kolmas pilt on lai kaader merest ja taevast, millelt puuduvad inimesed, näidates ainult maastikku."
+      ],
+      "snr": "035",
+      "ajad": [
+        "665.840",
+        "680.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab liigutavat hetke kahe inimese, tõenäoliselt vanema ja noorema vahel, fookusega nende kätele. Vanem inimene, kelle kortsulised, tumedama nahatooniga käed on näha, istub tõenäoliselt ratastoolis, mille käetugi on paremal näha. Ta kannab lillelist (valge taust tumedate lehtedega) kleiti või pluusi ja pärlikeed. Noorem inimene, heledama nahatooniga ja heledas (beežis) jakis, asetab oma käe õrnalt vanema inimese käte peale, pakkudes tuge ja lohutust. Stseen toimub õues, pehme hajutatud valgusega, mis viitab õhtuhämarusele või pilvisele päevale. Taustal on näha rohelist maastikku ja helesinist või hallikat taevast, mis annab avarustunde. Kaameranurk vaheldub, esmalt keskendudes vanema inimese kätele ja seejärel laienedes, et näidata kätevahelist interaktsiooni ja taevast. Üldine meeleolu on soe, hooliv ja emotsionaalselt laetud.",
+      "actions": [
+        "Käte puhkamine süles",
+        "Käte kokkupanek",
+        "Teise inimese käte hoidmine",
+        "Lohutuse ja toe pakkumine"
+      ],
+      "keywords": [
+        "Käed",
+        "Vanadus",
+        "Tugi",
+        "Hellus",
+        "Hoolitsus",
+        "Lohutus",
+        "Ühendus",
+        "Väljas",
+        "Õhtu",
+        "Lilleline muster",
+        "Ratastool"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Käed",
+        "Ratastooli käetugi",
+        "Lilleline kleit/särk",
+        "Pärlikee",
+        "Helesinine särk/jakivarrukas"
+      ],
+      "colorcodes": [
+        "#452b21",
+        "#835d4b",
+        "#e0e6e0",
+        "#3f4e4e",
+        "#d4c8b0",
+        "#a8c1d5",
+        "#4b5a3d"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem inimene",
+        "Noorem inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on näha ainult vanema inimese käsi tema süles, lillelise kleidi peal.",
+        "Teisel pildil on lisaks vanema inimese kätele näha ka teise inimese heledas riietuses käsi, mis on asetatud õrnalt vanema inimese käte peale.",
+        "Kolmandal pildil on käed omavahel seotud/hoitud, kaader on veidi laiem, paljastades rohkem taevast taustal ning vanema inimese pärlikee."
+      ],
+      "snr": "036",
+      "ajad": [
+        "680.680",
+        "715.440"
+      ]
+    },
+    {
+      "explanation": "Eakas mees lühikeste, laineliste hallide juustega ja tõsise, mõtliku ilmega seisab avatud põllul õhtusel ajal. Ta kannab heledat beeži pintsakut tumeda, tõenäoliselt musta, polosärgi peal, millel on mõned nööbid kaeluse juures. Mehe pilk on suunatud kas otse ette või veidi allapoole, andes edasi pingsat mõtisklust. Taust koosneb pikast, kuivast rohust ja madalatest põõsastest esiplaanil, mis läheb sujuvalt üle tihedaks puudereaks keskel ning pilviseks, pehmeks sinakashalliks taevaks. Maastik on avar ja looduslik. Kauguses vasakul on näha veekogu (jõgi või järv) ja paremal kaugemal puude tagant kumab ere valgusallikas, tõenäoliselt loojuv päike, luues horisondile heleda laigu. Valgus on hajutatud ja pehme, mis viitab pilvisele taevale või videvikule, andes stseenile rahuliku, ent kergelt melanhoolse atmosfääri.",
+      "actions": [
+        "Mõtiskleb",
+        "Vaatleb ümbrust",
+        "Seisab paigal"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Loodus",
+        "Õhtu",
+        "Päikeseloojang",
+        "Mõtlik",
+        "Vaikne",
+        "Maastik",
+        "Pilvine",
+        "Vesi",
+        "Rohi",
+        "Puud",
+        "Põõsad",
+        "Avatud ala"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Pintsak",
+        "Polosärk",
+        "Rohi",
+        "Puud",
+        "Põõsad",
+        "Taevas",
+        "Pilved",
+        "Vesi",
+        "Päike (valgusallikas)"
+      ],
+      "colorcodes": [
+        "#D9D2BF",
+        "#1E1F21",
+        "#A0B9C9",
+        "#7E97A7",
+        "#44593C",
+        "#6A7B4D",
+        "#304128",
+        "#A4A6A8"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "summer",
+      "daytime": "evening",
+      "differences": [
+        "Mehe pilk ja pea asend muutuvad kahe esimese pildi vahel: esimesel pildil vaatab mees otse või veidi paremale, teisel pildil on tema pilk suunatud allapoole ja veidi vasakule, mis muudab tema ilme mõtlikumaks või kurvemaks.",
+        "Kolmas pilt on lai võte samast maastikust, mis on udune ja annab stseenile laiemat konteksti, kuid puudub mees, kes on fookuses kahel esimesel pildil."
+      ],
+      "snr": "037",
+      "ajad": [
+        "715.440",
+        "734.720"
+      ]
+    },
+    {
+      "explanation": "Stseen algab laia ja dramaatilise välikaadriga, mis kujutab tühja musta ratastooli kaljusel kaldaservas, vaatega avarale veekogule. Taevas horisondi kohal on värvitud loojangu või päikesetõusu oranžikate ja roosade toonidega, mis sulanduvad kõrgemal jahedamaks sinakashalliks. Vee pind peegeldab neid värve, luues meditatiivse ja pisut melanhoolse atmosfääri. Kaldal vasakul on näha kuivanud rohtu ja kive. Ratastooli asukoht ja selle tühjus tekitavad tunde sügavast mõtisklusest, lahkumisest või vabanemisest. See emotsionaalselt laetud visuaal asendub musta taustaga, millel kuvatakse valged tiitrid. Tiitrid nimetavad filmi \"Written and Directed by Aleksandr Rachynsky\", \"Cinematography by Astrida Konstande\" ning \"Sound recording and Sound Design by Evgenii Chernov\". Stseen lõppeb täieliku musta ekraaniga, mis jätab vaatajale mõtisklema nähtud maastiku ja selle potentsiaalse süžee üle.",
+      "actions": [
+        "Visuaalne stseenimuutus",
+        "Filmitiitrite kuvamine",
+        "Kaadri tuhmumine mustaks"
+      ],
+      "keywords": [
+        "ratastool",
+        "loojang",
+        "meri",
+        "järv",
+        "kallas",
+        "kaljuserv",
+        "loodus",
+        "vesi",
+        "üksindus",
+        "vabadus",
+        "melanhoolia",
+        "tiitrid",
+        "film"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "ratastool",
+        "vesi",
+        "taevas",
+        "kivid",
+        "rohi"
+      ],
+      "colorcodes": [
+        "#E6A490",
+        "#5B889C",
+        "#34485D",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Written and Directed by Aleksandr Rachynsky",
+        "Cinematography by Astrida Konstande",
+        "Sound recording and Sound Design by Evgenii Chernov"
+      ],
+      "persons": [
+        "Aleksandr Rachynsky",
+        "Astrida Konstande",
+        "Evgenii Chernov"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "summer",
+      "daytime": "evening",
+      "differences": [
+        "Esimene kaader näitab reaalset maastikku ratastooliga kaljuservas.",
+        "Teine kaader on must taust valgete filmitiitritega.",
+        "Kolmas kaader on täielikult must ja tühi.",
+        "Kaadrite sisuline eesmärk erineb: stseeni tutvustus, loojate krediteerimine ja stseeni/filmi lõpp."
+      ],
+      "snr": "038",
+      "ajad": [
+        "734.720",
+        "749.840"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4962 @@
+{
+  "film": [
+    "17836",
+    "17711",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Pikk tee alla",
+    "24737852972e2331cebc369897d93ba89739c105.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen on minimalistlik ja koosneb mustast taustast, mis domineerib kogu esitust. Alguses ilmuvad ekraani keskele kolm udust, hajutatud helehalli või valget ringi, mis loovad bokeh-efekti ja on paigutatud kolmnurkse kujundina. Seejärel muutub ekraan täiesti mustaks, olles mõnda aega tühjaks ja pimedaks. Lõpuks ilmub mustale taustale valge suurtähtedes tekst \"LONG WAY DOWN\", mis on paigutatud keskele. Kogu stseen on tume ja loob atmosfääri, mis võib viidata sissejuhatusele, üleminekule või teose tiitlile, rõhutades kontrasti valguse ja pimeduse vahel ning teksti mõjuvust.",
+      "actions": [
+        "Hajutatud valgusringide ilmumine",
+        "Täielik pimedus",
+        "Teksti ilmumine ekraanile"
+      ],
+      "keywords": [
+        "Minimalistlik",
+        "Abstraktne",
+        "Pimedus",
+        "Bokeh",
+        "Valgus",
+        "Tekst",
+        "Tiitel",
+        "Kontrast",
+        "Üleminek",
+        "Must taust",
+        "Pime",
+        "Sügavus"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Bokeh-efektiga ringid",
+        "Tekst (LONG WAY DOWN)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#CCCCCC"
+      ],
+      "texts": [
+        "LONG WAY DOWN"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt sisaldab kolme hajutatud valgusringi mustal taustal, teine pilt on täiesti must ja kolmandal pildil on valge tekst \"LONG WAY DOWN\" mustal taustal.",
+        "Visuaalsete elementide järkjärguline muutus abstraktsetest valgustest täieliku visuaalse puudumiseni ja seejärel selge tekstini."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "38.680"
+      ]
+    },
+    {
+      "explanation": "Piltidel on kujutatud filmistuudio interjöör ülaltvaates. Kesksel kohal on suur, kortsuline roheline ekraan, mis katab põrandat. Paremalt poolt siseneb kaadrisse tumehalli servaga tasand, millel istub üks isik, seljaga vaataja poole. Isikul on seljas tumedad riided ja peas on kapuuts või kiiver. Vasakul, rohelise ekraani ääres, on teine isik, kes on heledamate riietega ning hoiab käes kaamerat või muud tehnilist varustust. Ümbritsev keskkond on pime, kuid taustal on näha stuudiovalgusteid, kaableid ja muud võttetehnikat, mis viitab filmivõtete toimumisele või ettevalmistamisele. Üldine meeleolu on hämar ja tehniline.",
+      "actions": [
+        "istumine",
+        "varustuse opereerimine",
+        "filmivõtete ettevalmistamine"
+      ],
+      "keywords": [
+        "stuudio",
+        "roheline ekraan",
+        "filmivõtted",
+        "operaator",
+        "näitleja",
+        "pime",
+        "ülaltvaade",
+        "kulissid",
+        "visuaalefektid"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "roheline ekraan",
+        "serv",
+        "sein",
+        "kaamera",
+        "stuudiovalgustid",
+        "kaablid",
+        "tool"
+      ],
+      "colorcodes": [
+        "#4B964B",
+        "#272727",
+        "#1A1A1A"
+      ],
+      "texts": [],
+      "persons": [
+        "istuv isik (oletatavasti näitleja)",
+        "seisev/kükitav isik (oletatavasti operaator või tehnik)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Vasakpoolse isiku (kes hoiab varustust) kehahoiak muutub kergelt. Esimesel pildil on ta veidi rohkem ettepoole kallutatud kui teisel ja kolmandal pildil.",
+        "Vasakpoolse isiku pea asend muutub kergelt kaadrite vahel."
+      ],
+      "snr": "002",
+      "ajad": [
+        "38.680",
+        "46.120"
+      ]
+    },
+    {
+      "explanation": "Üks mees on filmitud profiilis rohelise ekraani ees. Tema nägu on dramaatiliselt küljelt valgustatud sooja tooniga valgusega, mis loob teravaid varje ja toob esile näojooni. Stseenis on näha, kuidas mees toob veipimisseadme suu juurde, hingab sellest sisse ning seejärel eemaldab seadme suust, olles samal ajal sügavalt keskendunud.",
+      "actions": [
+        "veipimine",
+        "sissehingamine",
+        "näo valgustamine",
+        "vaatamine ettepoole"
+      ],
+      "keywords": [
+        "mees",
+        "profiil",
+        "roheline ekraan",
+        "kroma key",
+        "veipimine",
+        "e-sigaret",
+        "dramaatiline valgustus",
+        "küljevalgus",
+        "vari",
+        "stuudiovõte",
+        "nägu",
+        "kontrast"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "e-sigaret",
+        "veipimisseade",
+        "roheline ekraan"
+      ],
+      "colorcodes": [
+        "#3B7C4B",
+        "#1D0D0D",
+        "#8B4D2F"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehe suu veidi avatud, justkui ta oleks rääkimise alustamas või lõpetamas.",
+        "Teisel pildil toob mees veipimisseadme suu juurde ja hingab sellest sisse.",
+        "Kolmandal pildil on veipimisseade suust eemaldatud ja mehe suu on suletud."
+      ],
+      "snr": "003",
+      "ajad": [
+        "46.120",
+        "69.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab elavat pidu, mis toimub väidetavalt katusel või kõrgendatud platvormil, taustaks suur roheline ekraan, mis viitab filmitootmisele ja järelproduktsioonile. Pildil on umbes 15-20 täiskasvanust koosnev seltskond, kes tähistab, paljud neist kannavad värvilisi koonilisi peomütse. Üleval on rippuvad stringtuled paljude helendavate pirnidega, mis pakuvad ümbritsevat valgustust. Paremal pool on kõrgendatud, tumedahall või sinise tooniga konstruktsioon, mis on valgustatud siniste lavavalgustega. Inimesed suhtlevad aktiivselt, tantsivad ja suhtlevad. Nende riietus, mis koosneb valdavalt talvemantlitest ja soojadest riietest, viitab jahedale keskkonnale, võimalik, et hilisõhtule või ööle. Üldine atmosfäär on pidulik ja dünaamiline, jäädvustatud pideva võtte käigus, kus kaadrite vahel on näha kerget liikumist ja pooside muutumist.",
+      "actions": [
+        "Tantsimine",
+        "Suhtlemine",
+        "Seismine",
+        "Istumine",
+        "Joomine",
+        "Naermine",
+        "Liikumine",
+        "Pidutsemine"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Peostseen",
+        "Filmivõtted",
+        "Katusel",
+        "Inimeste grupp",
+        "Tantsimine",
+        "Pidu",
+        "Stringtuled",
+        "Talvemantlid",
+        "Peomütsid",
+        "Öine"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Roheline ekraan",
+        "Stringtuled",
+        "Peomütsid",
+        "Pidulikud lipukesed (bunting)",
+        "Lavakonstruktsioon (sinise valgusega)",
+        "Toolid",
+        "Talvemantlid"
+      ],
+      "colorcodes": [
+        "#3C7F45",
+        "#1C27D5",
+        "#FEF7D2",
+        "#B8343D",
+        "#222222"
+      ],
+      "texts": [],
+      "persons": [
+        "Umbes 15-20 täiskasvanut",
+        "Meesisikud",
+        "Naisisikud"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Inimesed vahetavad asukohti ja poose stseeni erinevate hetkede vahel, näiteks liigutakse, tantsitakse või pööratakse nägu teistele.",
+        "Mõned üksikud isikud on kaadrite vahel silmatorkavamalt oma positsiooni muutnud, liikudes edasi-tagasi või pöörates end teise suunda.",
+        "Üldine grupi koosseis ja tegevusmuster jäävad sarnaseks, kuid detailides on näha pidevat liikumist ja stseeni dünaamikat."
+      ],
+      "snr": "004",
+      "ajad": [
+        "69.160",
+        "78.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha mees profiilis, vaatamas paremale, selge rohelise ekraani taustal. Mehe nägu on valgustatud soojast, oranžikaspunasest allikast, mis heidab tugevaid varje tema kaelale ja juustele. Tema silmad on avatud ja suunatud ettepoole. Üldiselt on kaader tume, välja arvatud esiletoodud näoosa ja roheline taust. Mees on mustas riietuses, mis sulandub varjudega. Stseen annab aimu, et tegemist on võtteplatsiga, kus kasutatakse kromakei tehnikat tausta hilisemaks asendamiseks.",
+      "actions": [
+        "Mees vaatab paremale",
+        "Mees avab ja sulgeb suud",
+        "Mees räägib või reageerib"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Kromakei",
+        "Mees profiilis",
+        "Võtteplats",
+        "Stuudio",
+        "Oranž valgus",
+        "Vari",
+        "Näitleja",
+        "Post-produktsioon"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan"
+      ],
+      "colorcodes": [
+        "#3d9354",
+        "#b36332",
+        "#1a1a1a"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe suu asend varieerub: esimesel pildil on suu kergelt avatud, teisel pildil suletud ja kolmandal pildil on suu märgatavalt rohkem avatud, justkui rääkides või reageerides.",
+        "Näoilme muutub kergelt, peegeldades erinevaid suu asendeid ja võimalikku emotsiooni."
+      ],
+      "snr": "005",
+      "ajad": [
+        "78.000",
+        "88.400"
+      ]
+    },
+    {
+      "explanation": "Stseenil on fookuses inimese jalgade alumised osad, täpsemalt jalad tumedate, tõenäoliselt mustade, poleeritud meeste kingade või pahkluu saabastega. Inimesel on jalas tumedad viigipüksid. Jalad on asetatud kitsale, kõrgendatud servale või platvormile, mis on valmistatud helehallist, kergelt tekstuuriga materjalist. Valgustus on üldiselt hämar, luues kingadele ja pükstele tugeva silueti efekti, kuigi mõned peened valgusepeegeldused vihjavad kingade materjalile ja läikele. Taustaks on erk, ühtlane roheline ekraan, mis annab märku stuudiovõttest, kus stseen filmitakse hilisemaks digitaalseks töötlemiseks või tausta asendamiseks. Muid nähtavaid elemente või segavaid faktoreid ei ole, hoides fookuse täielikult jalgadel ja nende näiliselt ohtlikul asetusel serval.",
+      "actions": [
+        "Seisab",
+        "Seisab äärel"
+      ],
+      "keywords": [
+        "Jalad",
+        "Kingad",
+        "Äär",
+        "Roheline ekraan",
+        "Stuudio",
+        "Siluett",
+        "Tume",
+        "Meeste mood"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Jalad",
+        "Meeste kingad",
+        "Püksid",
+        "Äär/platvorm",
+        "Roheline ekraan"
+      ],
+      "colorcodes": [
+        "#288C3A",
+        "#0C0C0C",
+        "#606060"
+      ],
+      "texts": [],
+      "persons": [
+        "Isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt näitab mõlemat jalga, vasak jalg on veidi rohkem esiplaanil.",
+        "Teine ja kolmas pilt on sarnased, keskendudes rohkem paremale jalale, vasak jalg on suures osas vaateväljast väljas või vähem selgelt näha.",
+        "Teise ja kolmanda pildi vahel on vaid marginaalne vaatenurga või hetkeerinevus."
+      ],
+      "snr": "006",
+      "ajad": [
+        "88.400",
+        "92.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest profiilis, vaadates paremale, lihtsa tumerohelise tausta ees. Tegemist on ilmselt kroomavõtme ekraaniga, mis viitab stuudiovõttele. Mehe nägu on suuresti varjus, kuid paremalt langeb talle soe, oranžikaspunane valgus, mis valgustab osaliselt tema põsesarna, nina ja lõuga, luues dramaatilise ja kontrastsena mõjuva efekti. Tema juuksed on lühikesed ja taanduvad. Mees kannab tumedaid riideid. Stseeni jooksul muutub mehe näoilme rahulikust ja suletud suuga olekust aktiivseks rääkimiseks, kus suu on avatud. Valguse ja varjude mäng loob mõtiskleva või intensiivse atmosfääri, rõhutades mehe näoilme muutust.",
+      "actions": [
+        "Mõtisklemine",
+        "Suu avamine",
+        "Rääkimine",
+        "Reageerimine"
+      ],
+      "keywords": [
+        "Mees",
+        "Profiil",
+        "Roheline ekraan",
+        "Kroomavõti",
+        "Vari",
+        "Soe valgus",
+        "Portree",
+        "Stuudiovõte",
+        "Näoilme muutus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Roheline ekraan",
+        "Tumedad riided"
+      ],
+      "colorcodes": [
+        "#286438",
+        "#2a1c1d",
+        "#7a3e2a"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehe suu suletud ja näoilme rahulik või mõtlik.",
+        "Teisel pildil on mehe suu kergelt avatud, justkui alustaks ta rääkimist või reageeriks millelegi.",
+        "Kolmandal pildil on mehe suu veelgi laiemalt avatud, andes märku aktiivsest kõnest või reageerimisest.",
+        "Lisaks suu asendile on märgata ka pisemaid erinevusi näo lihaspingetes, mis on kooskõlas kõnelemise alustamisega."
+      ],
+      "snr": "007",
+      "ajad": [
+        "92.840",
+        "100.880"
+      ]
+    },
+    {
+      "explanation": "Pildiseeria kujutab filmivõtteplatsi või fotostuudiot, mis on nähtav ülevalt alla suunatud laia kaameranurgaga. Stseeni keskmes on tumehallil platvormil või äärel seisev inimene, kes on riietatud tumedatesse riietesse (tõenäoliselt must mantel või jakk) ja vaatab otse alla suurele, rohelisele kangale, mis katab põrandat. See roheline kangas on tüüpiline green screen (roheline ekraan), mida kasutatakse tausta asendamiseks visuaalefektide loomisel. Inimese asend viitab sellele, et ta on kas hüppamas, kukkumas või lihtsalt seisab äärel ja vaatab alla. Platvormi vasakul pool, otse rohelise ekraani ääres, on teine inimene, kes kükitab või põlvitab. Tal on seljas tume riietus ja heledam peakate (võib-olla valge müts või heledad juuksed), ning ta hoiab käes kaamerat, suunates selle ülespoole, platvormil seisva isiku poole. Ümbritsev keskkond on tume, domineerivad mustad ja hallid toonid. Taustal on näha stuudiovarustust, nagu valgusstatiivid, kaablid ja mõned valged toolid. Valgus on suunatud stseenile, kuid üldine atmosfäär on hämar, luues dramaatilise meeleolu.",
+      "actions": [
+        "Inimene seisab platvormil ja vaatab alla",
+        "Operaator põlvitab ja filmib kaameraga",
+        "Ettevalmistus stseeniks, kus tegelane kas hüppab või kukub"
+      ],
+      "keywords": [
+        "Filmiplats",
+        "Green screen",
+        "Stuudio",
+        "Võtted",
+        "Operaator",
+        "Näitleja",
+        "Kõrgus",
+        "Visuaalefektid",
+        "Kameranurk",
+        "Roheline ekraan"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan",
+        "Platvorm",
+        "Kaamera",
+        "Valgustid",
+        "Kaablid",
+        "Toolid (valged)",
+        "Seinad (tumedad)"
+      ],
+      "colorcodes": [
+        "#202020",
+        "#396A33",
+        "#A8A8A8",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Näitleja/karakter (platvormil)",
+        "Operaator/võttemeeskonna liige (maapinnal kaameraga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Platvormil seisva isiku kehahoid ja käte asend muutuvad kaadrite vahel minimaalselt, viidates väikesele liikumisele või järjestikustele kaadritele.",
+        "Kaamerat hoidva operaatori asendis ja pea kaldenurgas on märgata väga väikseid nihkeid."
+      ],
+      "snr": "008",
+      "ajad": [
+        "100.880",
+        "103.000"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud meest, kes pöörab oma pead vasakule, vaadates üle oma õla. Mees on keskmises vanuses, lühikeste tumedate juuste ja taanduva juuksepiiriga. Ta kannab tumedaid riideid, mis sulanduvad osaliselt varjudega. Tema nägu on esimeses kaadris suures osas varjus, kuid teises kaadris on tema vasak profiil ja pilk selgemalt näha. Ta vaatab intensiivselt vasakule. Taustaks on ühevärviline roheline ekraan, mis viitab, et tegemist on filmivõtetega, kus taust asendatakse hiljem visuaalsete efektidega. Valgus on sume ja mõnevõrra dramaatiline, luues mehe näole varjude ja valguslaikude mängu, eriti on märgata rohelist helki taustalt.",
+      "actions": [
+        "Mees pöörab pead",
+        "Mees vaatab üle õla",
+        "Näitlemine"
+      ],
+      "keywords": [
+        "Mees",
+        "Roheline ekraan",
+        "Stuudio",
+        "Näitleja",
+        "Varjud",
+        "Pöördumine",
+        "Pilk",
+        "CGI taust",
+        "Filmilik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Roheline ekraan"
+      ],
+      "colorcodes": [
+        "#4B7C4B",
+        "#2D2A2B",
+        "#3C3737"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe pea asend ja pilgu suund muutuvad. Esimesel pildil on mehe nägu varjulisem ja ta vaatab otse või veidi paremale, teisel pildil on ta pead vasakule pööranud, paljastades oma vasaku profiili selgemalt ja vaadates vasakule."
+      ],
+      "snr": "009",
+      "ajad": [
+        "103.000",
+        "103.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab naist filmivõtetel, kes on sisenemas või väljumas pimedast uksest. Naine kannab heledat talvejopet, mütsi ja salli, mis viitab jahedale ilmale. Tema näoilme on ahastuses või valust tingitud, ta hoiab kätt rinnal. Ümberringi on näha suuri rohelisi ekraane punaste jälgimismarkeritega, mis annavad tunnistust filmi eriefektide jaoks ettevalmistusest. Valgus on hämar, rõhutades stseeni dramaatilist ja melanhoolset meeleolu. Paremal seinal on näha tulekahjualarmi. Kaamera fookus nihkub naiselt laiast kaadrist lähivõttele, süvendades vaataja tunnet tema emotsioonide suhtes.",
+      "actions": [
+        "Väljub uksest",
+        "Hoiab kätt rinnal",
+        "Kortsutab nägu",
+        "Ahastab/kurvastab",
+        "Sulgeb silmad",
+        "Vaatab üles"
+      ],
+      "keywords": [
+        "Filmivõtted",
+        "Roheline ekraan",
+        "Näitleja",
+        "Emotsioon",
+        "Pimedus",
+        "Hall",
+        "Ukseava",
+        "Talveriietus",
+        "Ahastus",
+        "VFX",
+        "Filmitegemine",
+        "Alarmi nupp"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Uks",
+        "Roheline ekraan",
+        "Punased jälgimismarkerid",
+        "Tulekahjualarm",
+        "Sein",
+        "Jakk",
+        "Müts",
+        "Sall",
+        "Käepidemed"
+      ],
+      "colorcodes": [
+        "#2C6B37",
+        "#C8BDA7",
+        "#4B4B48",
+        "#2F2F2F",
+        "#D7332C"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on näha laiemat kaadrit, mis hõlmab rohkem rohelist ekraani ja avatud ukseava, samal ajal kui naine on just uksest välja astumas.",
+        "Teisel ja kolmandal pildil on kaader kitsam, keskendudes rohkem naise näole ja ülakehale. Uks on neis kaadrites peaaegu suletud või suletud.",
+        "Naise näoilme muutub: esimesel pildil on ta ehmatanud või valus, vaatab otse ette; teisel pildil on ta silmad suletud ja pea otse; kolmandal pildil vaatab ta ahastavalt ülespoole."
+      ],
+      "snr": "010",
+      "ajad": [
+        "103.800",
+        "111.240"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset hämaralt valgustatud siseruumis, mis jätab mulje koridorist või tööstushoone sissepääsust. Kaadri vasakul küljel on näha suur roheline ekraan, mis viitab filmivõttele ja vajadusele lisada digitaalne taust. Keskel seisab tumeda, robustse ukse ees naine, seljas pikk hele mantel ja peas hele müts. Tema kehahoiak on esialgu veidi kohmetu või murelik. Ukse kõrval paremal seinal on punane tulekahjuhäire nupp. Kaadri esiplaanil, paremal ja fookusest väljas, on näha mehe seljaosa ja õlg, mis viitab kaamera asukohale tema taga. Stseeni arenedes sirutab mees oma parema käe naise poole, sooritades peatamisžesti, ja ekraanile ilmub subtiiter tekstiga \"Don't come closer.\" Naise näoilme ja kehahoiak muutuvad stseeni jooksul, peegeldades reageerimist mehe žestile ja sõnadele. Üldine õhkkond on pingeline ja dramaatiline, keskendudes kahe tegelase vahelisele konfrontatsioonile või olulisele vestlusele.",
+      "actions": [
+        "Naine seisab ukse ees ja vaatab mehe poole.",
+        "Mees sirutab käe naise poole, sooritades peatamisžesti.",
+        "Naine kohandab oma poosi ja näoilmet, reageerides mehe tegevusele."
+      ],
+      "keywords": [
+        "pingeline",
+        "dramaatiline",
+        "siseruum",
+        "roheline ekraan",
+        "filmivõtted",
+        "koridor",
+        "hämar",
+        "ootusärevus",
+        "peatamine",
+        "konfrontatsioon"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "roheline ekraan",
+        "uks",
+        "punane tulekahjuhäire nupp",
+        "sein",
+        "põrand",
+        "naise mantel",
+        "naise müts",
+        "mehe käsi"
+      ],
+      "colorcodes": [
+        "#2E5C33",
+        "#BCB4A5",
+        "#292929",
+        "#4C4F4E",
+        "#C82D2F"
+      ],
+      "texts": [
+        "Don't come closer."
+      ],
+      "persons": [
+        "naine",
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe parem käsi on viimases kaadris tõstetud naise poole, tehes peatamisžesti.",
+        "Kolmandas kaadris on näha ingliskeelne subtiiter \"Don't come closer.\".",
+        "Naise asend ja pea hoiak muutuvad kaadrite vahel kergelt, vihjates emotsioonide või reaktsiooni arengule."
+      ],
+      "snr": "011",
+      "ajad": [
+        "111.240",
+        "115.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest keskmises lähivõttes tumedates riietes, kelle vasak käsi on tõstetud ettepoole, avatud peopesaga, justkui hoiatades kedagi mitte lähenema. Mehel on lühikesed tumedad juuksed, mille juures on märgata taandumist. Tema nägu on valgustatud eestpoolt ja kergelt paremalt, mis loob sügavamaid varje ja annab ilmele dramaatilisust. Mehe pilk on intensiivne ja otse kaamerasse suunatud, andes edasi tõsist ja hoiatavat meeleolu. Taustaks on ühtlane roheline värv, mis viitab rohelise ekraani kasutamisele stuudios, eesmärgiga hiljem tausta asendada. Stseeni üldine valgustus on tume, rõhutades mehe näojooni ja žesti.",
+      "actions": [
+        "käega žestikuleerima",
+        "hoiatama",
+        "rääkima"
+      ],
+      "keywords": [
+        "mees",
+        "hoiatav",
+        "käsi",
+        "roheline ekraan",
+        "stuudio",
+        "tumedad riided",
+        "lähivõte",
+        "draama",
+        "subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "käsi"
+      ],
+      "colorcodes": [
+        "#3C8A5B",
+        "#1D1D1D",
+        "#634B3D"
+      ],
+      "texts": [
+        "Don't come closer."
+      ],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 60,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha subtiitrid \"Don't come closer.\", mis puuduvad teisel ja kolmandal pildil.",
+        "Kaadrite vahel on märgata väga väikseid nihkeid kadreeringus ja mehe pilgus, mis annab edasi stseeni liikumist ja järjepidevust.",
+        "Kolmas pilt on eelmistest pisut tumedam, viitades stseeni süvenevale toonile või valguse muutusele."
+      ],
+      "snr": "012",
+      "ajad": [
+        "115.320",
+        "117.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat naist filmivõtetel siseruumis. Naine on riietatud soojalt, kandes heledat beeži või pruunikat puhvis jopet, pruuni salli ja pruuni baretti. Ta seisab, käed rinnal või kõhu kohal kokku pandud, ja tema pilk vaheldub ülespoole vaatamise ja allapoole vaatamise vahel, väljendades muret, kurbust või hoiatavat meelsust. Tema miimika on pinge all. Paremal pool on näha tume uks, millel on ukse silm, ja uksest paremal heledamal seinal punane tuletõrjealarm. Vasakul pool on aga selgelt näha filmivõtete element – suur roheline ekraan, millel on mitmed punased ristikujulised märgised ja mõned väikesed sinakad tuled. Valgus on stseenis hämar ja summutatud, luues melanhoolse või pingelise atmosfääri. Tundub, et stseen on osa dramatiseeritud etteastest, kus naine reageerib millelegi väljaspool kaadrit.",
+      "actions": [
+        "Naine seisab",
+        "Naine vaatab üles",
+        "Naine vaatab alla",
+        "Naine hoiab käsi kokku pandud",
+        "Naine väljendab muret"
+      ],
+      "keywords": [
+        "filmitud",
+        "filmivõtted",
+        "näitleja",
+        "roheline ekraan",
+        "siseruum",
+        "pime",
+        "hämar",
+        "murelik",
+        "hoiatav",
+        "uks",
+        "tuletõrjealarm",
+        "müts",
+        "jope",
+        "sall",
+        "külm",
+        "filmikomplekt"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "jope",
+        "sall",
+        "barett",
+        "uks",
+        "ukse silm",
+        "tuletõrjealarm",
+        "sein",
+        "roheline ekraan",
+        "punased märgised",
+        "tuled"
+      ],
+      "colorcodes": [
+        "#B1A494",
+        "#7D5E4D",
+        "#302B2D",
+        "#7A7778",
+        "#FF0000",
+        "#008000"
+      ],
+      "texts": [
+        "Don't climb Hilje."
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Naise pilgu suund varieerub üles vaatamise ja allapoole vaatamise vahel.",
+        "Teisel pildil on nähtav subtiiter 'Don't climb Hilje.', mis puudub teistel piltidel.",
+        "Naise käte asend ja näoilme varieeruvad pisut kaadrite vahel, peegeldades erinevaid emotsioone või hetki stseenis."
+      ],
+      "snr": "013",
+      "ajad": [
+        "117.080",
+        "125.040"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud kiilaspäisevõitu mehe pead ja õlgu, kes vaatab üle oma parema õla otse vaataja poole. Tema ilmel on näha uudishimu, kerget muret või üllatust. Mehe nägu on valgustatud sinakas-violetse tooniga, mis annab stseenile dramaatilise või salapärase meeleolu. Ta kannab tumedat, tõenäoliselt musta kõrge kaelusega riietust. Taust on ühtlane roheline, mis viitab kroma-key tehnika kasutamisele ehk rohelisele ekraanile, mille asemele on plaanis hiljem paigutada teine taust.",
+      "actions": [
+        "Mees vaatab üle õla",
+        "Mees poseerib kaamera ees"
+      ],
+      "keywords": [
+        "Mees",
+        "Portree",
+        "Roheline ekraan",
+        "Kroma-key",
+        "Üle õla vaatamine",
+        "Murelik ilme",
+        "Sinakas valgus",
+        "Tume riietus",
+        "Kiilaspäine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Tume turtleneck särk/jakk",
+        "Roheline taust"
+      ],
+      "colorcodes": [
+        "#338B4B",
+        "#1A1A1A",
+        "#4F518B"
+      ],
+      "texts": [
+        "I'm a mature woman."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil on subtiitrid \"I'm a mature woman.\", samas kui esimesel ja kolmandal pildil need puuduvad.",
+        "Kõik kolm pilti on muidu visuaalselt identsed, kujutades sama hetke või väga lähedasi kaadreid."
+      ],
+      "snr": "014",
+      "ajad": [
+        "125.040",
+        "129.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab naist, kes seisab siseruumis, tõenäoliselt pimedas koridoris või saalis. Ta kannab heledat, talvist mantlit, pruuni salli ja baretit, mis viitab jahedale ilmale. Naine vaatab ülespoole ja kergelt paremale, näoilme on mõtlik ja veidi murelik. Valgustus on hämar, jättes ta näole varjud. Vasakul pool on näha suur erkroheline ekraan, millel on punased X-kujulised märgised ja paar helendavat täppi, mis annab märku, et tegemist on filmivõttepaiga või visuaalefektide ettevalmistusega. Paremal pool naise taga on tume uks ja hall sein, millele on kinnitatud punane tuletõrjehäire kast koos valgete juhtmetega. Üldine atmosfäär on vaikne ja pingeline, rõhutades naise sisemist dilemmat.",
+      "actions": [
+        "Seisab",
+        "Vaatab üles",
+        "Mõtiskleb"
+      ],
+      "keywords": [
+        "Naine",
+        "Siseruum",
+        "Koridor",
+        "Roheline ekraan",
+        "Filmilavastus",
+        "Mõtlik",
+        "Pime",
+        "Talveriided",
+        "Mantel",
+        "Sall",
+        "Barett",
+        "Uks",
+        "Tuletõrjehäire"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Mantel",
+        "Sall",
+        "Barett",
+        "Roheline ekraan",
+        "Punased X-märgid",
+        "Valguspunktid",
+        "Uks",
+        "Sein",
+        "Tuletõrjehäire",
+        "Juhtmed"
+      ],
+      "colorcodes": [
+        "#316431",
+        "#a39f99",
+        "#846849",
+        "#2b2729",
+        "#54504b",
+        "#9e1c1c"
+      ],
+      "texts": [
+        "What to do or not to do."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Teisel pildil ilmub alumisse äärde ingliskeelne subtiiter: \"What to do or not to do.\""
+      ],
+      "snr": "015",
+      "ajad": [
+        "129.000",
+        "138.440"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine kiilaspäine mees, kes vaatab üle parema õla, pilk suunatud kaadrist paremale poole. Tema nägu on osaliselt varjudes, kuid paremalt poolt langeb talle sinakas valgus, mis toob esile tema mureliku ja ettevaatliku ilme. Mees kannab tumedaid riideid, tõenäoliselt paksu kampsunit ja mantlit, mis sulanduvad varjudesse. Tervet tausta katab ühtlane roheline ekraan, mis viitab, et tegu on filmitud stuudios eriefektide loomiseks.",
+      "actions": [
+        "Vaatab üle õla",
+        "Reageerib näoilmega"
+      ],
+      "keywords": [
+        "Mees",
+        "Roheline ekraan",
+        "Stuudio",
+        "Portree",
+        "Tume valgustus",
+        "Varjud",
+        "Sinakas valgus",
+        "Murelik",
+        "Ettevaatlik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Roheline ekraan",
+        "Mantel",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#2D783B",
+        "#1B1822",
+        "#33336B"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel puuduvad märkimisväärsed visuaalsed erinevused, need on sisuliselt identsed kaadrid."
+      ],
+      "snr": "016",
+      "ajad": [
+        "138.440",
+        "142.520"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud lähivaates inimest, tõenäoliselt naist, kes on filmitud rohelise ekraani taustal. Tal on seljas soe riietus, mis koosneb pruunist baretist, heledast, beežist või pruunikast kapuutsiga jakist ja samuti pruunikat tooni sallist. Tema näoilme on tõsine ja mõtlik, kohati isegi kurb või väsinud. Ühel hetkel hoiab ta vasakut kätt näo lähedal, paremas käes näib olevat väike, tume ese, mida ta suu juurde viib. Ta pöörab pead aeglaselt ja vaatab erinevatesse suundadesse – kord paremale profiilis, kord otse ette, kord vasakule profiilis. Taustal on roheline ekraan, millel on kohati nähtavad udused oranžid ristkülikukujulised markerid või esemed, mis viitavad VFX-töötlusele ja et tegemist on filmivõtetega. Valgus on pehme ja soe, valgustades näo üht poolt ja luues varjud teisele poolele.",
+      "actions": [
+        "Pöörab pead",
+        "Vaatab mõtlikult",
+        "Hoiab kätt ja väikest eset suu lähedal"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Filmilavastus",
+        "VFX võtted",
+        "Kromakei",
+        "Mõtlik",
+        "Tõsine",
+        "Talveriietus",
+        "Bereett",
+        "Sall",
+        "Jakk",
+        "Näitleja"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Bereett",
+        "Jakk",
+        "Sall",
+        "Väike ese (käes)",
+        "Roheline ekraan",
+        "Oranžid markerid/esemed"
+      ],
+      "colorcodes": [
+        "#3F723F",
+        "#6B4E32",
+        "#A0917A",
+        "#C29F89",
+        "#FF8C00"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "not clear",
+      "differences": [
+        "Inimese pea asend ja pilgu suund muutuvad kaadrite vahel.",
+        "Näoilme varieerub kergelt mõtlikust tõsiseni.",
+        "Väike ese on nähtav ainult ühel kaadril inimese käes, teistel see puudub või on peidus.",
+        "Oranžid markerid/esemed taustal on nähtavad vaid kahes kaadris kolmest, mis viitab liikumisele kaamera või subjekti suhtes."
+      ],
+      "snr": "017",
+      "ajad": [
+        "142.520",
+        "159.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest pimedalt valgustatud laval, mis on suurel määral kaetud rohelise ekraaniga. Paremal servas seisab tume, lai sein või kaiäär. Ekraanil on näha mitmeid punaseid jälgimismarkereid, mis on vajalikud visuaalefektide lisamiseks. Vasakul seisab kiilakas mees tumedas mantlis ja pükstes, vaadates paremale. Paremal, temast eemal, seisab algselt seljaga kaamera poole ja kergelt ette kummardunult teine inimene, kes paistab olevat mütsiga. Seejärel kummardub inimene sügavamalt, et võtta tumedalt seinalt kotti. Pärast koti haarajamist sirutab ta ennast uuesti püsti, paljastades heleda, kapuutsiga talvemantli ja pöörab end kergelt kiilaka mehe poole. Stseeni üldine valgustus on hämar, mis viitab öisele ajale või hilisõhtule, ning tegelaste riietus annab märku jahedast aastaajast, tõenäoliselt talvest.",
+      "actions": [
+        "Seisab ja vaatab",
+        "Kummardub",
+        "Võtab koti",
+        "Tõuseb püsti",
+        "Pöörab ennast"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "VFX võte",
+        "Filmilavastus",
+        "Öine stseen",
+        "Kaks inimest",
+        "Kaiäär",
+        "Visuaalefektid",
+        "Jälgimismarkerid",
+        "Filmivõtted"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Roheline ekraan",
+        "Jälgimismarkerid (punased ristid ja nooled)",
+        "Tume sein/äär",
+        "Mees (kiilakas)",
+        "Naine (heledas mantlis)",
+        "Kott",
+        "Mantel (tume)",
+        "Püksid (tumedad)",
+        "Mantel (hele, talve)",
+        "Müts"
+      ],
+      "colorcodes": [
+        "#31643c",
+        "#262729",
+        "#a79f8b",
+        "#232223",
+        "#de3d26"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (kiilakas)",
+        "Naine (heledas mantlis)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 75,
+      "season": "talv",
+      "daytime": "öö",
+      "differences": [
+        "Teise isiku asend ja tegevus muutub läbi kaadrite: esmalt kergelt kummargil seismine, seejärel sügav kummardus eseme (koti) võtmiseks seinalt ja lõpuks püsti tõusmine ning pöördumine esimese mehe poole.",
+        "Teise isiku riietuse detailid muutuvad nähtavaks tegevuse käigus: esialgu nähtav müts ja üldine kuju asenduvad selgemalt heleda talvemantliga, kui ta püsti tõuseb."
+      ],
+      "snr": "018",
+      "ajad": [
+        "159.720",
+        "170.040"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud keskealist kiilaneva pealaega meest, kes vaatab üle oma parema õla, kergelt vasakule, otse kaamerasse. Tema pilk on intensiivne ja tõsine. Mehel on seljas tumedat värvi kõrge kaelusega rõivaese. Ta on paigutatud lihtsa rohelise tausta ette, mis viitab stuudiokeskkonnale või kroomitud rohelisele ekraanile. Tema nägu on valgustatud dramaatiliselt, kusjuures vasakult poolt (vaataja seisukohalt) langeb näole sinakas-lilla tooniga valgus, samal ajal kui parem pool jääb sügavale varju, luues kontrastse ja salapärase meeleolu. Mehe näojooned on teravad ja ta on raseeritud.",
+      "actions": [
+        "Mees vaatab üle õla",
+        "Mees pöörab pead",
+        "Mees pilgutab kergelt"
+      ],
+      "keywords": [
+        "Meesteportree",
+        "Sisevõte",
+        "Roheline taust",
+        "Kromakei",
+        "Kontrastne valgustus",
+        "Salapärane",
+        "Tõsine",
+        "Keskendunud",
+        "Kiilanev mees",
+        "Tumedad riided"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kõrge kaelusega sviiter"
+      ],
+      "colorcodes": [
+        "#3B7E3B",
+        "#5D607C",
+        "#4B3E39",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel on märgata väga kerget pealiigutust ja näoilme muutust, eriti lõualuu ja suu piirkonnas, mis viitab järjestikustele kaadritele videost või filmist."
+      ],
+      "snr": "019",
+      "ajad": [
+        "170.040",
+        "174.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast lähivõtet inimesest, kes on profiilis ja vaatab vasakule. Inimene kannab pruuni baretit, heledat (beeži või helepruuni) tepitud jopet ja salli. Tema nägu on tõsine või mõtlik. Valgus on soe ja langeb ees-küljelt, luues näole pehmeid varjusid. Taustaks on ühtlane roheline ekraan, mis viitab sellele, et tegemist on filmimisega, kus taust asendatakse hiljem visuaalefektidega. Rohelisel ekraanil on näha ka mõned ähmased oranžikaspunased horisontaalsed jooned, mis võivad olla kas jälituselemendid või valgustuse peegeldused.",
+      "actions": [
+        "Vaatamine vasakule",
+        "Mõtlemine"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Filmimine",
+        "Profiil",
+        "Näitleja",
+        "Jope",
+        "Barett",
+        "VFX",
+        "Postproduktsioon",
+        "Mõtlik",
+        "Ettevalmistus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Barett",
+        "Jope",
+        "Sall",
+        "Roheline ekraan",
+        "Oranžikaspunased jooned"
+      ],
+      "colorcodes": [
+        "#634E3F",
+        "#B8A18E",
+        "#316C37",
+        "#DF5328"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel ei ole märgatavaid erinevusi."
+      ],
+      "snr": "020",
+      "ajad": [
+        "174.360",
+        "178.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast filmi võtteplatsi, kus kaks inimest seisavad suure rohelise ekraani ees, mis katab kogu tausta ja ulatub kõrgele. Mõlemad isikud on kaamerale seljaga ja seisavad tumedal, laial äärisel või platvormil, mis on pildil esiplaanil. Vasakul on mees, kes kannab tumedat mantlit ja pükse. Paremal on naine, seljas hele, pikem, tõenäoliselt beeži või helehalli tooni mantel ja tumedad püksid. Rohelisel ekraanil on näha mitu punast ristikujulist jälgimismärki, mis on vajalikud visuaalefektide lisamiseks hilisemas postproduktsioonis. Valgus on summutatud ja ühtlane, viitades kontrollitud stuudiokeskkonnale ja andes stseenile teatud meeleolu. Stseen on ilmselt ette valmistatud selleks, et roheline taust asendataks hiljem digitaalselt mõne muu keskkonnaga.",
+      "actions": [
+        "Seisavad",
+        "Vaatavad ettepoole"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Võtteplats",
+        "VFX",
+        "Filmindus",
+        "Jälgimismärgid",
+        "Mees",
+        "Naine",
+        "Mantel",
+        "Stuudio"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Roheline ekraan",
+        "Jälgimismärgid (punased ristid)",
+        "Tume mantel",
+        "Hele mantel",
+        "Ääris/platvorm"
+      ],
+      "colorcodes": [
+        "#407746",
+        "#201E1D",
+        "#DE1D00",
+        "#C3C3B9"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "68",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltidel ei ole visuaalselt märgatavaid erinevusi; kaadrid tunduvad olevat identsed."
+      ],
+      "snr": "021",
+      "ajad": [
+        "178.480",
+        "183.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pimedat ja dramaatilist hetke võtteplatsil, kus kesksel kohal on suur roheline ekraan, mis ootab järeltöötluses digitaalset tausta. Paremalt poolt ilmub stseeni sügavast mustast uksest välja mees, keda iseloomustavad kiired ja dünaamilised liigutused. Ta kannab tumedaid riideid, sealhulgas jopet ja mütsi, mis annab talle salapärase ja tegutsemisvalmis ilme. Ukse kohal asub üksik valgusti ja ukse kõrval seinal on näha punast alarmilülitit meenutav objekt koos juhtmetega, lisades stseenile industriaalset hõngu. Põrand on tume ja tekstuuriga ning vasakul on näha suure tumeda objekti osa. Rohelisel ekraanil on näha oranže jälgimismärke, mis on vajalikud visuaalefektide täpseks integreerimiseks.",
+      "actions": [
+        "Mees piilub uksest",
+        "Mees astub uksest välja",
+        "Mees sooritab dünaamilise liigutuse",
+        "Mees reageerib intensiivselt"
+      ],
+      "keywords": [
+        "roheline ekraan",
+        "võtteplats",
+        "näitleja",
+        "dünaamiline liikumine",
+        "uks",
+        "saladuslik",
+        "lavastus",
+        "pime",
+        "tegevus",
+        "stunt",
+        "visuaalefektid"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "uks",
+        "sein",
+        "roheline ekraan",
+        "oranžid jälgimismärgid",
+        "põrand",
+        "silindriline objekt",
+        "valgusti ukse kohal",
+        "juhtmed",
+        "punane lüliti"
+      ],
+      "colorcodes": [
+        "#4a4a4a",
+        "#2f722a",
+        "#8a4f1e",
+        "#7a7a7a",
+        "#c30000",
+        "#1d1d1d"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on peamine erinevus mehe asukoht ja tegevus. Esimesel pildil on näha vaid ukse tagant piiluvat kätt. Teisel pildil astub mees kiirelt uksest välja, olles liikumises ja osaliselt ukseava veel varjab teda. Kolmandal pildil on mees uksest täielikult välja astunud, tehes dramaatilise ja tasakaalust väljas poosi, mis viitab intensiivsele reaktsioonile või tegevusele."
+      ],
+      "snr": "022",
+      "ajad": [
+        "183.840",
+        "184.760"
+      ]
+    },
+    {
+      "explanation": "Stseen algab abstraktse ja tumeda kaadriga, kus horisontaalselt eristub tuhm sinakashall joon pruunikal taustal, vihjates kas kaugele horisondile või valgusallikale pimeduses. Seejärel avaneb panoraamne ülaltvaade, mis näitab meest lamamas selili tumedal betoonpõrandal või katusel. Mees on riietatud tumedatesse riietesse – jope, püksid ja kingad – ning tema kehaasend viitab kukkumisele või teadvuse kaotusele, käed on veidi tõstetud ja üks põlv kergelt kõverdatud. Ülevalt vasakult paistab roheline kuma, mis valgustab osa stseenist, samal ajal kui paremal pool on näha tumedat seina või hoone fassaadi, millel on uks ja punane vilkuv või hoiatustuli. Üldine valgustus on hämar ja summutatud, luues öise või pimeda siseruumi atmosfääri. Stseen on üldiselt sünges ja salapärases toonis.",
+      "actions": [
+        "Lamamine"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Katus",
+        "Kukkumine",
+        "Mees",
+        "Ülevaltvaade",
+        "Betoonpõrand",
+        "Hämar",
+        "Öö",
+        "Hoone",
+        "Alarmtuli"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Mees",
+        "Tumedad riided",
+        "Jope",
+        "Püksid",
+        "Kingad",
+        "Põrand",
+        "Sein",
+        "Uks",
+        "Punane tuli",
+        "Roheline kuma"
+      ],
+      "colorcodes": [
+        "#1E1C1F",
+        "#3B465C",
+        "#4F402D",
+        "#5DAB4C",
+        "#A92429"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "85",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on abstraktne, tume ja udune kaader, mis kujutab tumesinist ja pruunikat horisontaalset joont. Teine ja kolmas pilt on identsed, ülaltvaatega laiad kaadrid, mis näitavad meest lamamas tumedal põrandal, hoone seina, ust ning rohelist ja punast tuld."
+      ],
+      "snr": "023",
+      "ajad": [
+        "184.760",
+        "188.960"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kaks inimest rohelise ekraani taustal, mis viitab filmivõtetele. Esiplaanil on mees, kelle selg on kaamera poole või kergelt külje pealt nähtav. Ta kannab tumedat mantlit või jakki ja vaatab paremale, ilmselt teise tegelase poole. Mehe figuur on kergelt fookusest väljas, luues sügavusefekti. Tagaplaanil, rohelise ekraani ees, seisab vanem naine. Ta kannab beeži baretti, sama tooni salli ja heledat jopet. Naine vaatab allapoole või kergelt mööda, tema ilme on mõtlik ja veidi kurb. Rohelisel ekraanil on näha mitmeid oranže märgistusi, mis on tõenäoliselt mõeldud visuaalefektide hõlbustamiseks. Üldine valgustus on hämar ja atmosfäär tundub tõsine või dramaatiline. Tegelaste kehahoiakud ja pilgud viitavad dialoogile või olulisele stseenihetkele.",
+      "actions": [
+        "Vaatamine",
+        "Seismine",
+        "Mõtisklemine",
+        "Suhtlemine"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Filmilava",
+        "Võtteplats",
+        "Näitlejad",
+        "Draama",
+        "Interaktsioon",
+        "Mõtlik",
+        "Sünge",
+        "Visuaalefektid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan",
+        "Oranžid märgistused",
+        "Müts",
+        "Sall",
+        "Jakk",
+        "Mantel"
+      ],
+      "colorcodes": [
+        "#2E6931",
+        "#1C1C1C",
+        "#B2A082",
+        "#D37332",
+        "#5A4F42"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise pea asend muutub piltide vahel kergelt, vaadates kord rohkem allapoole, kord veidi otsemalt.",
+        "Mehe pea ja hoiak muutuvad samuti kergelt, peegeldades väikseid liikumisi võtte ajal.",
+        "Mõlema tegelase pilk ja hoiak muutuvad kergelt, mis on iseloomulik järjestikustele kaadritele stseenist."
+      ],
+      "snr": "024",
+      "ajad": [
+        "188.960",
+        "198.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, tõenäoliselt filmistuudiot, mida iseloomustab suur roheline ekraan taustal, viidates visuaalefektide (VFX) töötlusele. Esiplaanil, tumedal põrandal, lamab liikumatult noor inimene (tõenäoliselt naine) mustas neetidega kaunistatud jakis. Tema poole läheneb kaks teist isikut: üks on kiilakas mees tumedas ülikonnas, teine on vanem inimene heledas mantlis ja baretiga. Algselt seisavad nad kõrgemal platvormil, jälgides maaslamajat. Kiilakas mees astub seejärel platvormilt maha ja kummardub lamaja juurde, püüdes teda toetada või tema seisundit kontrollida, hoides lõpuks tema kätt. Vanem isik jääb platvormile, jälgides sündmuste arengut. Rohelisel ekraanil on näha oranže markereid, mis on vajalikud jälgimiseks ja tausta asendamiseks järeltöötluses. Stseenis valitseb murelik ja potentsiaalselt dramaatiline õhkkond.",
+      "actions": [
+        "Lamab maas liikumatult",
+        "Kõnnib platvormil",
+        "Astub platvormilt maha",
+        "Kummardub lamaja kohale",
+        "Põlvitab lamaja kõrvale",
+        "Hoiab lamaja kätt/randmet",
+        "Jälgib sündmustikku"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "VFX",
+        "Chroma key",
+        "Filmilava",
+        "Stuudio",
+        "Draama",
+        "Mure",
+        "Lamav isik",
+        "Põlvitav isik",
+        "Jälgiv isik",
+        "Oranžid markerid",
+        "Subtiitrid"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan",
+        "Tume põrand",
+        "Tume platvorm/sein",
+        "Oranžid markerid",
+        "Must jakk neetidega",
+        "Tume ülikond/mantel",
+        "Valge särk",
+        "Hele mantel",
+        "Barett",
+        "Tumeda värvi postilaadsed objektid"
+      ],
+      "colorcodes": [
+        "#1D7729",
+        "#3B3D40",
+        "#C5A796",
+        "#E16E00",
+        "#64726D"
+      ],
+      "texts": [
+        "if I can still read this letter..."
+      ],
+      "persons": [
+        "Noor lamav isik",
+        "Kiilakas mees",
+        "Vanem isik baretiga"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil seisab kiilakas mees platvormil ja vaatab lamajat. Teisel pildil on kiilakas mees platvormilt maha astunud ja kummardub lamaja kohale. Kolmandal pildil põlvitab kiilakas mees lamaja kõrval ja hoiab tema kätt. Kaamera on viimasel pildil veidi lähemale suumitud ning ilmub subtiiter."
+      ],
+      "snr": "025",
+      "ajad": [
+        "198.400",
+        "267.960"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub inimkätele hämaras keskkonnas. Üks käsi hoiab õrnalt teise käe rannet, millel on selgelt nähtav ja kergelt kõrgendatud arm. Kaadris on näha käte ja randme detaile, sealhulgas sõrmi ja küüsi. Valgus on pehme, soe ja suunatud, valgustades käsi tumedal ja udusel taustal. Armi peal on märgatavad valguse peegeldused, mis rõhutavad selle tekstuuri. Alumises osas on nähtav ingliskeelne subtiiter. Üldine atmosfäär on vaikne ja intiimne, viitades võimalikule mõtisklevale või emotsionaalsele hetkele.",
+      "actions": [
+        "Käsi hoiab teise käe rannet",
+        "Rannet vaadeldakse / uuritakse"
+      ],
+      "keywords": [
+        "Käed",
+        "Ranne",
+        "Arm",
+        "Hämarus",
+        "Lähivõte",
+        "Introspektsioon",
+        "Valgus",
+        "Peegeldused"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese käed",
+        "Ranne",
+        "Arm",
+        "Sõrmed",
+        "Küüned"
+      ],
+      "colorcodes": [
+        "#261f1b",
+        "#1e1915",
+        "#b58d6e",
+        "#a77c5e",
+        "#966f54",
+        "#cfba9b",
+        "#c4a98a"
+      ],
+      "texts": [
+        "if I can still read this letter..."
+      ],
+      "persons": [
+        "Isik (käed)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on väga väikesed, peaaegu märkamatud erinevused valguse peegeldustes käte nahal, mis on tingitud videokaadrite järjepidevusest."
+      ],
+      "snr": "026",
+      "ajad": [
+        "267.960",
+        "270.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pingelist võitlust või rabelemist, mille keskmes on mees tumedas jakis, kiilaneva peaga. Tema nägu väljendab intensiivset pinget ja keskendumist, kui ta hoiab oma parema käe rusikasse surutuna ja seda haarab tugevalt teise isiku käsi, kelle heledad juuksed ja pea on nähtavad pildi paremas alumises nurgas. Taustaks on eredalt roheline ekraan, mida tavaliselt kasutatakse filmivõtetel visuaalefektide lisamiseks, ning sellel on näha hajali oranže või punaseid elemente, mis võivad olla praht, märkimispunktid või rekvisiidid. Stseen annab edasi dramaatilise hetke, kus tegelane on füüsilises konfliktis, samal ajal kui ekraanil kuvatavad subtiitrid viitavad tema sisemistele mõtetele või dialoogile sündmuste käigus.",
+      "actions": [
+        "Võitlemine",
+        "Rabelemine",
+        "Rusika hoidmine",
+        "Pingutamine"
+      ],
+      "keywords": [
+        "Võitlus",
+        "Roheline ekraan",
+        "Filmivõtted",
+        "VFX",
+        "Pinge",
+        "Dramaatiline",
+        "Subtiitrid",
+        "Stseen",
+        "Kroomi võti"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Roheline ekraan",
+        "Tume jakk/ülikond",
+        "Inimese käed",
+        "Rusikas",
+        "Heledad juuksed",
+        "Oranžid/punased elemendid"
+      ],
+      "colorcodes": [
+        "#2C663D",
+        "#1F1F1F",
+        "#D1A073",
+        "#A0A0A0",
+        "#E45E20"
+      ],
+      "texts": [
+        "if I can still read this letter...",
+        "I should...",
+        "Jump again."
+      ],
+      "persons": [
+        "Mees (peaosas)",
+        "Teine isik (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrid on igal pildil erinevad, moodustades järjestikuse dialoogi: esimesel pildil \"if I can still read this letter...\", teisel pildil \"I should...\" ja kolmandal pildil \"Jump again.\".",
+        "Peategelase mehe näoilme ja pea asend on esimesel pildil veidi erinev võrreldes teise ja kolmanda pildiga, kus need on peaaegu identsed. Esimesel pildil on pea kergemini paremale kaldu ja suu veidi avatum, samas kui kahel viimasel pildil on pea sirgem ja suu suletud.",
+        "Oranžide/punaste elementide täpne paigutus rohelisel taustal võib kaadrite vahel pisut varieeruda, kuid üldine kompositsioon ja stseen on samad."
+      ],
+      "snr": "027",
+      "ajad": [
+        "270.520",
+        "273.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pingelist olukorda, kus üks inimene on surutud vastu maad ja teine hoiab teda randmest kinni. Maas lamaval isikul on pikad heledad juuksed, habe ja vuntsid ning silmad on suletud, mis annab märku kas teadvusetusest, valust või alistumisest. Ta kannab musta, naastudega kaunistatud nahkjakki. Teise isiku käsi ja käsivars on esiplaanil, kindlalt haaramas maas lamaja randmest. Üldine atmosfäär on sünge ja tume, mis viitab kas öisele ajale või halvasti valgustatud siseruumile. Valgusallikas näib olevat eemalt või kõrvalt, heites tegelastele pehme, ent piiratud valguse. Stseeni allosas on subtiiter, mis annab edasi dialoogi fragmendi.",
+      "actions": [
+        "Maas lamamine",
+        "Randmest kinni hoidmine",
+        "Sundimine või alistumine"
+      ],
+      "keywords": [
+        "Pinge",
+        "Sund",
+        "Vägivald",
+        "Alistumine",
+        "Öine",
+        "Tume",
+        "Maas",
+        "Kinnihoidmine",
+        "Naastudega jakk"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Naastudega jakk",
+        "Käsi",
+        "Ranne",
+        "Pikad juuksed",
+        "Habe",
+        "Vuntsid"
+      ],
+      "colorcodes": [
+        "#211E1A",
+        "#3A332C",
+        "#000000"
+      ],
+      "texts": [
+        "Jump again."
+      ],
+      "persons": [
+        "Maas lamav isik",
+        "Randmest kinni hoidev isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene vaade näitab laiemalt maas lamava isiku ülakeha ja nägu koos teise isiku käega, andes konteksti. Teine vaade on lähivõte, mis keskendub peamiselt kahe käe vahelisele haardele ja randmele, rõhutades füüsilist kontakti ja sundi."
+      ],
+      "snr": "028",
+      "ajad": [
+        "273.680",
+        "275.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast filmivõtete olukorda, kus toimub füüsiline kokkupõrge mehe ja naise vahel. Alguses on näha tumedates riietes meest ründamas naist, kellel on pikad heledad juuksed. Mehe nägu on pingul ja ta paistab naist kinni hoidvat või talle lööki andvat, samal ajal kui naine reageerib füüsilise pingutusega. Taustaks on erkroheline ekraan, millel on näha ka mõned punased märgised, viitades sellele, et tegu on stuudiovõtetega, kus tausta hiljem digitaalselt töödeldakse. Järgnevalt on naine kukkumas maapinnale, tema keha on horisontaalses asendis õhus. Lõppkaadris lamab naine juba täielikult maas, käed ja jalad välja sirutatud, mis viitab tugevale löögile või mahaviskamisele. Mehe vari on jätkuvalt nähtav, mis annab aimu tema kohalolekust stseenis. Valgustus on üldiselt tume ja dramaatiline, mis loob intensiivse ja pingelise atmosfääri kogu võitlusstseenile.",
+      "actions": [
+        "Võitlus",
+        "Rünnak",
+        "Löömine",
+        "Kukkumine",
+        "Maas lamamine",
+        "Haardes hoidmine"
+      ],
+      "keywords": [
+        "Võitlusstseen",
+        "Roheline ekraan",
+        "Filmivõtted",
+        "Stunt",
+        "Vägivald (fiktiivne)",
+        "Pingeline",
+        "Dramaatiline",
+        "Pimedus",
+        "Stuudiovõtted"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan",
+        "Seinapaneelid",
+        "Põrand",
+        "Punased märgised",
+        "Mehe riided",
+        "Naise juuksed"
+      ],
+      "colorcodes": [
+        "#008000",
+        "#0A0A0A",
+        "#D4AF37",
+        "#333333",
+        "#FF0000"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mees naist ründamas, hoides teda kinni ja andes talle löögi, samal ajal kui naine on veel püsti.",
+        "Teisel pildil on naine keset kukkumist, tema keha on horisontaalselt maapinna poole liikumas.",
+        "Kolmandal pildil lamab naine juba täielikult maas, sirutatud käte ja jalgadega, mis näitab võitluse tulemust.",
+        "Kaadrite vahel on selgelt näha tegevuse progressiooni võitluse käigus, alates rünnakust kuni maapinnale kukkumiseni."
+      ],
+      "snr": "029",
+      "ajad": [
+        "275.480",
+        "276.280"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset hämaralt valgustatud siseruumis, tõenäoliselt toas või koridoris, mille seinad on tumedad ja ühevärvilised. See kujutab endast pingelist ja vägivaldset vastasseisu kahe isiku vahel. Üks mees, keda nimepidi Mikkiks kutsutakse, on näha lähivõttes, olles ilmselt hädas või vigastatud, lamades või longus asendis, suu lahti. Teine isik, pikkade blondide juustega, on näha agressiivses lähivõttes, karjudes ähvardusi ja väljendades intensiivset viha. Valgustus on throughout tuhm, andes stseenile süngemeelse ja intensiivse meeleolu.",
+      "actions": [
+        "Üks inimene räägib/karjub (Mikk)",
+        "Teine inimene karjub/ähvardab",
+        "Agressiivne vastasseis"
+      ],
+      "keywords": [
+        "Pinge",
+        "Vägivald",
+        "Ähvardus",
+        "Pimedus",
+        "Sisekonflikt",
+        "Draama",
+        "Karjumine",
+        "Vastasseis"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Tumedad seinad"
+      ],
+      "colorcodes": [
+        "#201E1C",
+        "#2C2825",
+        "#0A0A0A",
+        "#B48D73",
+        "#D0AC95",
+        "#E0C79A"
+      ],
+      "texts": [
+        "Mikk",
+        "I will fucking kill you!",
+        "Just do it!"
+      ],
+      "persons": [
+        "Mikk (mees)",
+        "Teine inimene (pikkade blondide juustega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on näha mees (Mikk) hädas, samas kui kolmandal pildil on näha agressiivne pikkade blondide juustega inimene.",
+        "Esimesel pildil on tekstiks \"Mikk\", kolmandal pildil on tekstiks \"I will fucking kill you! Just do it!\".",
+        "Teine pilt on märgatavalt tumedam ja hägusem, toimides ülemineku või kiire kaadrina, samas kui esimene ja kolmas on selgemad fookuskaadrid inimestest.",
+        "Kaamera nurk ja kadreering muutuvad, alustades kergelt kaldus vaatest Mikkile ja lõpetades otsesema, agressiivsema lähivõttega teisest isikust."
+      ],
+      "snr": "030",
+      "ajad": [
+        "276.280",
+        "285.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pingelist vastasseisu või füüsilist heitlust kahe tegelase vahel, mis on filmitud rohelise ekraani taustal, viidates hilisemale eriefektide lisamisele. Piltide keskmes on kiilakas mees, kes on esimeses vaates näha avatud suuga karjumas või rääkimas, väljendades suurt ärritust või valu. Teda varjab osaliselt eespool olev tume kuju, kelle identiteet pole selgelt eristatav. Teises hetkes on kiilaka mehe pea veidi allapoole suunatud, endiselt pingestatult. Kolmandas hetkes on fookus nihkunud esiplaanile, kus on näha tumeda kujuga tegelase pikad juuksed, mis on liikumisest hägused, viidates kiirele pealiigutusele või raputamisele. Rohelisel ekraanil on näha oranže markereid, mis on vajalikud postproduktsioonis efekti lisamiseks. Alumises osas on näha tekstirida ähvardustega, mis rõhutavad stseeni dramaatilist ja ohtlikku olemust.",
+      "actions": [
+        "Vastasseis",
+        "Heitlus",
+        "Karjumine/rääkimine vihaselt",
+        "Pealiigutus/pea raputamine",
+        "Ähvardamine"
+      ],
+      "keywords": [
+        "Konflikt",
+        "Draama",
+        "Green screen",
+        "Pingeline",
+        "Ähvardus",
+        "Liikumine",
+        "Stuudio",
+        "Eriefektid",
+        "Filmimine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan",
+        "Oranžid markerid",
+        "Tume riietus",
+        "Inimese juuksed"
+      ],
+      "colorcodes": [
+        "#4CAF50",
+        "#000000",
+        "#FF8C00"
+      ],
+      "texts": [
+        "I will fucking kill you!",
+        "Just do it!"
+      ],
+      "persons": [
+        "Kiilakas mees",
+        "Tumeda kujuga tegelane"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kiilaka mehe peapööre on kaadrite vahel erinev; esimeses on suu avatud ja nägu rohkem näha, teises on pea madalamal.",
+        "Esimeses kaadris on näha kaks tekstirida, järgmises kahes kaadris on näha vaid üks tekstirida (\"I will fucking kill you!\").",
+        "Kolmandas kaadris on esiplaanil olev tegelane tunduvalt liikuvam, tema juuksed on hägused ja kiilakas mees on peaaegu täielikult varjatud.",
+        "Oranžide markerite ja tegelaste asukohad muutuvad piltide vahel, mis näitab kas kaamera liikumist või tegelaste liikumist."
+      ],
+      "snr": "031",
+      "ajad": [
+        "285.480",
+        "289.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest ägedas füüsilises kakluses. Ühel mehel on pikad, heledad juuksed ja habe, seljas tume, neetidega nahkjakk. Ta näib saavat löögi või maadlevat, näol on valu või pingutuse ilme, pea taha kallutatud ja suu kergelt avatud. Teine mees, keda alguses on enamasti varjatud või nähtud tagant, on tumedanahaline lühikeste juustega ja kannab tumedaid riideid, olles aktiivselt kakluses osaline. Keskkond muutub dramaatiliselt. Algselt toimub võitlus hämaras, tumedas siseruumis, ilmselt koridoris või toas tumedate seintega, mis annab realistliku ja karge tunde. Valgustus on madal, luues sügavaid varje. Seejärel aga stseen läheb üle telgitagusteks või eriefektide kaadriks, paljastades, et tegevust filmitakse ereda rohelise ekraani ees oranžide jälgimismarkeritega, mis viitab sellele, et lõplik taust lisatakse järeltöötluses. Võitluse käigus liigub üks mees agressiivselt, põhjustades teise mehe taganemise või kukkumise. Ühes kaadris on näha subtiiter, mis edastab dialoogi: \"Come on then!\".",
+      "actions": [
+        "kaklus",
+        "füüsiline vastasseis",
+        "maadlemine",
+        "löömine",
+        "kukkumine",
+        "filmimine",
+        "näitlemine"
+      ],
+      "keywords": [
+        "kaklus",
+        "võitlus",
+        "dramaatiline",
+        "filmimine",
+        "roheline ekraan",
+        "järeltöötlus",
+        "action",
+        "vägivald",
+        "telgitagused"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "nahkjakk",
+        "needid",
+        "roheline ekraan",
+        "oranžid markerid",
+        "sein",
+        "ukseraam"
+      ],
+      "colorcodes": [
+        "#332f27",
+        "#1f1d1e",
+        "#71bb4e",
+        "#442e1f",
+        "#d87a22",
+        "#3e3e3e"
+      ],
+      "texts": [
+        "Come on then!"
+      ],
+      "persons": [
+        "mees pikkade juustega",
+        "mees lühikeste juustega",
+        "kaklejad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesed kaadrid kujutavad stseeni lõplikku ilmet pimedas siseruumis, viimane kaader aga paljastab filmimise rohelisel ekraanil oranžide markeritega, näidates järeltöötluse etappi.",
+        "Valgusolud ja taust muutuvad drastiliselt: tumedast ja hämarast siseruumist eredale rohelisele ekraanile.",
+        "Ühes kaadris on näha subtiitreid, teistes mitte.",
+        "Kaadrite kompositsioon ja fookus erinevad veidi, näidates kas tegevuse kulgu või filmimisprotsessi aspekte."
+      ],
+      "snr": "032",
+      "ajad": [
+        "289.000",
+        "292.880"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud naisterahvast, kellel on pikad, heledamad juuksed ja seljas tume riietus, mis koosneb arvatavasti tumedast jakist (võimalik, et nahast) ja tumedast pluusist. Ta on keset liikumist või reaktsiooni, tuues käed pea või näo juurde, väljendades šokki, üllatust või ehmumist. Tema suust kostub lause \"What the fuck?!\". Stseeni taust on muutuv – alguses ja lõpus on see tume ja mittespetsiifiline, samas kui ühes kaadris ilmub taustale selge roheline ekraan, mis viitab sellele, et tegemist on filmivõtetega või eriefektide loomisega stuudiokeskkonnas. Valgus langeb peamiselt vasakult, valgustades juukseid ja riietuse detaile.",
+      "actions": [
+        "Reageerimine üllatusele/šokile",
+        "Käte pea juurde tõstmine",
+        "Liikumine/dünaamika",
+        "Rääkimine"
+      ],
+      "keywords": [
+        "Naine",
+        "Reaktsioon",
+        "Šokk",
+        "Üllatus",
+        "Roheline ekraan",
+        "Filmivõtted",
+        "Stuudio",
+        "Tume riietus",
+        "Juuksed"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Pikad juuksed",
+        "Tume jope",
+        "Tume pluus",
+        "Roheline ekraan"
+      ],
+      "colorcodes": [
+        "#1e201b",
+        "#0b120c",
+        "#34743c",
+        "#d2b48c",
+        "#2f3130"
+      ],
+      "texts": [
+        "What the fuck?!"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Taust muutub tumedast roheliseks ekraaniks ja tagasi tumedaks, mis viitab eriefektide kasutamisele või filmivõtetest.",
+        "Isiku asend ja käte paigutus on kaadrite vahel dünaamiliselt muutuv, peegeldades liikumist ja reaktsiooni."
+      ],
+      "snr": "033",
+      "ajad": [
+        "292.880",
+        "299.120"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha vähemalt ühte, võimalik, et kahte inimest, kes viibivad pimedas siseruumis, tõenäoliselt koridoris või ruumis, kus seinad on tumedad. Esimeses hetkes on kaadri vasakus servas näha inimest, kes on osaliselt kaadrist väljas ja kel on tõstetud käsi. Järgnevates hetkedes nihkub fookus keskel olevale tegelasele, kes on kummardunud ja näib end riidega katvat või pingutavat. Rõivastus on heledam, viitades võimalikule jopele või tekile. Valgustus muutub stseeni jooksul drastiliselt: algsest tuhmist ja rohekast varjundiga valgusest siirdutakse intensiivse punase valguse juurde, mis valgustab keskset tegelast ja lisab olukorrale dramaatilist pinget. Taustal on näha tumedat ust ja seinal paiknevat punast tulekahjusignalisatsiooni andurit või valgustit.",
+      "actions": [
+        "inimene liigub",
+        "inimene tõmbab kangast üle pea",
+        "inimene pingutab",
+        "inimene katab ennast"
+      ],
+      "keywords": [
+        "pime",
+        "siseruum",
+        "punane valgus",
+        "inimene",
+        "pinge",
+        "liikumine",
+        "dramaatiline",
+        "sein",
+        "uks",
+        "tulekahjusignalisatsioon",
+        "varjud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "sein",
+        "uks",
+        "punane signaal/valgusti",
+        "riie/kangas",
+        "inimene"
+      ],
+      "colorcodes": [
+        "#3a3a3a",
+        "#e02f2f",
+        "#2f7a4e",
+        "#524f4e",
+        "#8b6e68"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene",
+        "inimesed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Valgustus muutub oluliselt: esimeses kaadris on üldine hämar rohekas-pruunikas valgus, teises ja kolmandas kaadris domineerib intensiivne punane valgus, mis annab stseenile dramaatilise ilme.",
+        "Kaadrite fookus ja inimeste positsioon muutuvad. Esimene kaader näitab tegelast vasakul, kelle käsi on tõstetud, samas kui järgmised kaadrid keskenduvad tegelasele, kes on keskel ja katab oma pead.",
+        "Kaamera nurk ja raamimine muutuvad veidi, pakkudes erinevaid vaateid tegelastele ja taustale. Kolmandas kaadris on uks ja punane signaal seinal selgemalt näha."
+      ],
+      "snr": "034",
+      "ajad": [
+        "299.120",
+        "303.560"
+      ]
+    },
+    {
+      "explanation": "Stseen on filmitud siseruumides, tõenäoliselt filmivõtteplatsil, mida kinnitab taustal olev suur roheline ekraan, mis hõlmab suure osa kaadrist. Valgustus on üldiselt hämar ja dramaatiline, luues sügavaid varje ja jättes objektid osaliselt siluetiks. Stseenis on kujutatud kahte erinevat inimest, kes mõlemad näitavad üles äärmuslikku stressi või valu. Üks isik, kelle pea on kiilas või lühikeste juustega, on enamasti varjus, käed pea lähedal. Teine isik on naine pikkade juustega, kes hoiab mõlema käega peast kinni, tema nägu on väändunud piinast või ahastusest. Naise näole langeb punakas valgus. Üldine meeleolu on pingeline ja intensiivne, viitades dramaatilisele sündmusele, mille tausta hakatakse hiljem rohelise ekraani abil visuaalefektidega täiendama.",
+      "actions": [
+        "Käed pea juures hoidmine",
+        "Peast kinni hoidmine",
+        "Valu väljendamine",
+        "Stressi ilmutamine"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Võtteplats",
+        "Pingeline",
+        "Valu",
+        "Draama",
+        "Siluett",
+        "Siseruum",
+        "Eriefektid",
+        "Hämar valgus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan",
+        "Inimesed",
+        "Riided",
+        "Diivan/iste"
+      ],
+      "colorcodes": [
+        "#337340",
+        "#0d0d0d",
+        "#b33d2d"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel kahel pildil on kujutatud ühte ja kolmandal pildil teist isikut.",
+        "Kaamera nurk ja kaugus isikutest varieeruvad veidi kaadrite vahel.",
+        "Kolmandal pildil on naise nägu valgustatud punaka tooniga, samas kui esimesed kaks kaadrit on tumedamates toonides ja siluetsemad."
+      ],
+      "snr": "035",
+      "ajad": [
+        "303.560",
+        "308.360"
+      ]
+    },
+    {
+      "explanation": "Stseenis kujutatakse siseruumides inimest, tõenäoliselt meest, kes on dramaatilise punase valguse käes. Isik paistab olevat suures hädas või valus, kattes kätega oma pead või kõrvu, mis viitab reaktsioonile valjule mürale, plahvatusele või intensiivsele emotsionaalsele/füüsilisele pingele. Esimeses kaadris on tema käsivarrel näha kott. Taustal on tumepruun sein ühel pool ja hele roheline sein teisel pool, luues tugeva kontrasti. Inimese kehakeel väljendab haavatavust ja kannatusi ning kaamera liigub kergelt, rõhutades tema võitlust.",
+      "actions": [
+        "Katab kõrvu/pead",
+        "Reageerib distressile/valule",
+        "Võimalik, et taandub või variseb kokku"
+      ],
+      "keywords": [
+        "Häda",
+        "Valu",
+        "Punane valgus",
+        "Siseruumides",
+        "Dramaatiline",
+        "Intensiivne",
+        "Haavatavus",
+        "Reaktsioon",
+        "Hirm",
+        "Kott",
+        "Jakk",
+        "Roheline sein"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Jakk",
+        "Käekott/õlakott",
+        "Tume sein",
+        "Roheline sein"
+      ],
+      "colorcodes": [
+        "#A30000",
+        "#302C29",
+        "#359D73"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kaamera nurk ja subjekti asend muutuvad kergelt, viidates süvenevale stressile või kergelt kokkuvarisemisele.",
+        "Kott muutub kaadrites vähem nähtavaks.",
+        "Üldine valgus jääb punaseks, kuid tundub kaadrite vahel veidi tumedamaks muutuvat."
+      ],
+      "snr": "036",
+      "ajad": [
+        "308.360",
+        "310.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest rohelise ekraani taustal, mis viitab stuudios filmitud materjalile, kus hiljem lisatakse eriefekte. Mehe nägu ja ülakeha on esiplaanil, valgustatud intensiivse punase valgusega, mis loob dramaatilise ja pingelise atmosfääri. Mees on kiilas või lühikeste juustega ning kannab tumedaid riideid. Tema paremal kõrval on ebatavaline, valge ja nurgeline kõrva külge kinnitatud seade või ehe. Mehe ilme on üllatunud, kartlik või intensiivselt millegi poole reageeriv, suu on kergelt avatud. Rohelisel taustal hõljuvad hajutatult väikesed, oranžid ja piklikud osakesed, mis võivad olla praht, sädemed või visuaalefektide elemendid. Stseen on dünaamiline, kujutades mehe pea pöörlemist eestvaatest paremale profiili, justkui reageeriks ta kiirele sündmusele või ohule.",
+      "actions": [
+        "Pöörab pead paremale",
+        "Reageerib millelegi väljaspool kaadrit",
+        "On šokis või hirmul"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Eriefektid",
+        "Stuudio",
+        "Punane valgus",
+        "Pinge",
+        "Hirm",
+        "Reageerimine",
+        "Dünaamiline",
+        "Oranžid osakesed",
+        "Kõrva-seade"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Roheline ekraan",
+        "Oranžid osakesed",
+        "Kõrva külge kinnitatud seade",
+        "Tumedad riided"
+      ],
+      "colorcodes": [
+        "#2B4C38",
+        "#80181A",
+        "#0B0B0B",
+        "#D46A1D",
+        "#F0F0F0"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe pea liigub esimesest kaadrist kolmandani järjest enam paremale (vaataja vasakule), muutudes eestvaatest profiilvaateks.",
+        "Mehe näoilme ja suu asend muutuvad peegeldades pidevat reaktsiooni või emotsiooni.",
+        "Oranžide osakeste positsioon taustal muutub kaadrite vahel, mis viitab tegevuse jätkumisele või osakeste liikumisele."
+      ],
+      "snr": "037",
+      "ajad": [
+        "310.280",
+        "312.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast filmivõtteplatsi siseruumides, mis on valdavalt pime ja minimalistlik. Vasakul on tumedad seinad, mis loovad kitsa koridori või nurgatunde. Paremal pool on suur ere roheline ekraan, millel on näha paar oranži märki. Põrand on samuti tume. Stseeni jooksul ilmuvad vasakpoolse seina äärde kolm inimest – kaks meest ja üks naine –, kes istuvad põrandal ja toetuvad seinale. Nad vaatavad ülespoole, justkui jälgiksid või ootaksid midagi. Ühes hetkes on nende ees põrandal märgatav punane valgusvihk, mis hiljem kaob või oluliselt sumbub, samal ajal kui üldvalgustus stseenis veidi heledamaks muutub, muutes tegelased paremini nähtavaks.",
+      "actions": [
+        "Istuvad põrandal",
+        "Toetuvad seina vastu",
+        "Vaatavad ülespoole"
+      ],
+      "keywords": [
+        "Filmiplats",
+        "Roheline ekraan",
+        "Pimedus",
+        "Ootus",
+        "Inimesed",
+        "Stseen",
+        "Siseruum",
+        "Valgustus",
+        "Näitlejad",
+        "Võtteplats"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Seinad",
+        "Põrand",
+        "Roheline ekraan",
+        "Redel (paremal seinal)",
+        "Oranžid markerid"
+      ],
+      "colorcodes": [
+        "#2D2722",
+        "#2E9042",
+        "#6C0000",
+        "#1B1B1B",
+        "#3C342C"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks meest",
+        "Üks naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil puuduvad inimesed, samas kui teisel ja kolmandal pildil on näha kolm inimest.",
+        "Teisel pildil on põrandal selge punane valgusvihk, mis kolmandal pildil puudub või on oluliselt nõrgem.",
+        "Kolmandal pildil on üldine valgustus veidi heledam kui teisel pildil, muutes inimesed paremini nähtavaks."
+      ],
+      "snr": "038",
+      "ajad": [
+        "312.440",
+        "369.120"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab kolme inimest profiilis, kes kõnnivad või seisavad rohelise ekraani ees. Roheline ekraan on kaetud oranžide jälgimismarkeritega (ristid ja kriipsud), mis viitavad sellele, et tegemist on võtteplatsiga visuaalefektide loomiseks. Inimesed on riietatud soojalt, mis viitab jahedamale aastaajale, kandes jakke ja mütsi. Valgus on kunstlik ja suunatud peamiselt inimestele. Stseen on ilmselt ettevalmistus filmi või videolõigu jaoks, kus taust lisatakse digitaalselt.",
+      "actions": [
+        "Kõndimine",
+        "Seismine",
+        "Filmimine",
+        "Näitlemine",
+        "Liikumine"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Chroma key",
+        "Visuaalefektid",
+        "Võtteplats",
+        "Inimesed",
+        "Profiilis",
+        "Markerid",
+        "Filmivõtted",
+        "Stuudio"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan",
+        "Markerid (oranžid ristid ja kriipsud)",
+        "Paksud jakid",
+        "Müts"
+      ],
+      "colorcodes": [
+        "#3D8860",
+        "#F06A3F",
+        "#252329",
+        "#B2A18D"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem inimene heledas jakis ja mütsis (vasakul)",
+        "Mees tumedas mantlis (keskel)",
+        "Pikemate heledate juustega inimene tumedas jakis (paremal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha ainult roheline ekraan koos markeritega, ilma inimesteta.",
+        "Inimesed liiguvad kaadrites paremalt vasakule (või muudavad oma positsiooni kaadri sees).",
+        "Inimeste positsioonid ja kehahoiakud muutuvad teise ja kolmanda pildi vahel kergelt, viidates liikumisele."
+      ],
+      "snr": "039",
+      "ajad": [
+        "369.120",
+        "384.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme inimest stuudiokeskkonnas, mille taustaks on ere roheline ekraan, vihjates sellele, et pildile lisatakse digitaalne taust. Keskel seisab tumedasse mantlisse ja riietesse riietatud mees, tema paremal pool (vaataja vaatepunktist) on nahktagis ja tumedates riietes pikemate juustega mees. Vasakul pool seisab vanem naine, kes kannab heledat tepitud mantlit ja mütsi ning hoiab süles mingit väikest eset, mis võib olla laps või pakk. Kõik kolm seisavad ettepoole suunatud pilguga, kuigi nende pilgud on veidi allapoole suunatud. Nende taga on tumedat värvi ehitis, mis näib olevat sissepääs või liftišakt. Põrand, millel nad seisavad, on tume ja tasane, moodustades platvormi rohelise ekraani ees. Üldine atmosfäär on pigem tõsine ja ootusärev. Paremal maapinnal on näha ka üks väike musta värvi objekt. Stseen on ilmselt filmitud tegelaste digitaalseks integreerimiseks teise keskkonda.",
+      "actions": [
+        "Inimesed seisavad paigal",
+        "Naine hoiab süles eset"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Stuudiofilmimine",
+        "Eriefektid",
+        "Inimesed",
+        "Mantel",
+        "Nahktagi",
+        "Ootus",
+        "Tume ehitis",
+        "Platvorm"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan",
+        "Tume ehitis",
+        "Uks",
+        "Platvorm",
+        "Naise mantel",
+        "Naise müts",
+        "Naise süles olev ese",
+        "Mehe tume mantel",
+        "Mehe nahktagi",
+        "Neetid nahktagil",
+        "Väike must ese põrandal"
+      ],
+      "colorcodes": [
+        "#31823B",
+        "#1F1F1F",
+        "#BCB29C",
+        "#474747"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem naine",
+        "Noorem mees (keskel)",
+        "Noorem mees (paremal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kaadrite vahel on näha inimeste asendites ja pilkudes väga väikseid erinevusi. Eriti keskmise mehe pea asendis ja vasaku käe asendis on näha kerget liikumist, viidates lühikesele ajahetkele videos, kus toimub minimaalne tegevus. Teised tegelased püsivad peaaegu muutumatult paigal."
+      ],
+      "snr": "040",
+      "ajad": [
+        "384.520",
+        "389.120"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõttes kolme inimese jalgu ja jalatseid, kes seisavad betoonist või kivist äärel või müüril. Esiplaanil on näha tumedaid, kulunud kõrge säärega ketsisarnaseid jalanõusid valgete paeltega, mille kandja jalad on tumedates, veidi kortsus pükstes. Tema taga seisab teine inimene, kes kannab tumedaid, ametlikuma stiiliga jalanõusid ja siledamaid tumedaid pükse. Kolmanda inimese jalad on osaliselt näha tagapool vasakul ja nad kannavad tumedaid, possibly saabaste moodi jalatseid. Kogu taust on ühtlane roheline ekraan, mis viitab sellele, et tegemist on filmivõttega, kus taust asendatakse hiljem postproduktsioonis. Valgus on hämar, rõhutades varjulisemaid toone ja luues dramaatilise meeleolu. Üldine esteetika on tume ja veidi sünge, rõhutades tegelaste jalanõude erinevaid stiile ja nende asendit äärel.",
+      "actions": [
+        "Seisavad",
+        "Posenid"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Filmilavastus",
+        "Jalatsid",
+        "Jalad",
+        "Ääris",
+        "Müür",
+        "Postproduktsiooni ettevalmistus",
+        "Ketsid",
+        "Saapad",
+        "Ametlikud jalanõud",
+        "Hämar valgus",
+        "Tumedad toonid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Jalad",
+        "Ketsid",
+        "Ametlikud kingad",
+        "Saapad",
+        "Püksid",
+        "Ääris/müür",
+        "Roheline ekraan"
+      ],
+      "colorcodes": [
+        "#34b934",
+        "#0d0f11",
+        "#2d2d2d",
+        "#8e918d",
+        "#3a3a3a"
+      ],
+      "texts": [],
+      "persons": [
+        "Kolm inimest (jalad ja jalatsid)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel on visuaalselt väga väikesed erinevused, mis võivad viidata järjestikustele kaadritele või minimaalsetele kaamera seadistuste muudatustele. Erinevused on peamiselt rohelise ekraani toonides ja teravuses, kusjuures esimene pilt näib olevat pisut teravam ja kontrastsem esiplaanil olevate jalatsite detailides võrreldes järgnevate piltidega."
+      ],
+      "snr": "041",
+      "ajad": [
+        "389.120",
+        "392.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme inimest, kes seisavad platvormil või katusel, mille taga on suures osas erkroheline ekraan, mis viitab visuaalefektide filmivõtetele. Keskel tagaplaanil on näha tume ukse- või sissepääsulaadne struktuur. Vasakul seisab vanem isik, kes kannab heledat, tepitud pikka mantlit ja sellega sobivat mütsi ning hoiab käes väikest eset. Keskel on mees tumedas mantlis ja tumedates riietes, kes vaatab allapoole. Paremal seisab noor mees, kellel on seljas must naastudega nahktagi, tume särk ja tumedad püksid, ning tal on pikad juuksed. Ta vaatab samuti allapoole. Valgustus on kunstlik, luues dramaatilise või ootuse õhkkonna. Inimesed on paigutatud ritta, kuid nende pilgud ja kehahoiakud viitavad mõningasele ebakindlusele või ootusele. Rohelisel ekraanil on märgata ka mitmeid väikeseid oranže märgistusi.",
+      "actions": [
+        "Seismine",
+        "Vaatamine allapoole",
+        "Pea pööramine",
+        "Objekti hoidmine"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Filmivõtted",
+        "Visuaalefektid",
+        "Katus",
+        "Platvorm",
+        "Ootus",
+        "Kolm inimest",
+        "Kunstlik valgustus",
+        "Tumedad riided",
+        "Nahktagi",
+        "Mantel"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor (filmivõtteplatsil), intended outdoor (katusel/platvormil)",
+      "objects": [
+        "Roheline ekraan",
+        "Platvorm",
+        "Uks (või uksekujuline struktuur)",
+        "Tepitud mantel",
+        "Müts",
+        "Naastudega nahktagi",
+        "Väike ese (vasaku isiku käes)",
+        "Mööbliese (paremal tagapool, diivanilaadne)",
+        "Valgusti/tehnika (paremal all)",
+        "Oranžid märgistused"
+      ],
+      "colorcodes": [
+        "#316E34",
+        "#2A5E2E",
+        "#B5A280",
+        "#A08C69",
+        "#1C1C1C",
+        "#252525",
+        "#2E2E2E",
+        "#5C5C5C",
+        "#6D6D6D",
+        "#D9B79B"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem isik (vasakul)",
+        "Mees (keskel)",
+        "Noor mees (paremal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel ja teisel pildil on inimeste asendid ja pilgud peaaegu identsed.",
+        "Kolmandal pildil on vasakpoolne isik oma pead veidi paremale pööranud.",
+        "Kolmandal pildil on keskmine mees pead veidi paremale kallutanud.",
+        "Kolmandal pildil on parempoolne noor mees pead kallutanud ja pilgu suunanud keskmise mehe poole.",
+        "Kolmandal pildil on näha väikeseid muutusi näoilmetes, eriti parempoolse mehe puhul, kes näib kergelt üles vaatavat."
+      ],
+      "snr": "042",
+      "ajad": [
+        "392.280",
+        "395.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme inimest rohelisel ekraanil (greenscreen) asuvas filmistuudios, mis on ette valmistatud visuaalefektide lisamiseks. Keskealine, kiilakas mees tumedas mantlis seisab stseeni keskel, vaadates otse kaamerasse tõsise ilmega. Temast vasakul on pikkade blondide juustega noorem mees mustas jakis ja pükstes, kes on osaliselt kaamerast eemale pööratud, kuid liigutab käsi ja vaatab ümber. Paremal seisab vanem naine heleda peakatte ja beeži mantliga, hoides käes väikest eset, ja tema pilk liigub keskmiselt mehelt kaamera suunas. Põrandal on näha oranže markereid, mis aitavad hiljem arvutigraafikat paigutada. Üldine õhkkond on lavastuslik ja ettevalmistav.",
+      "actions": [
+        "Keskmine mees pöörab ennast kaamera poole ja vaatab otse ette.",
+        "Vasakpoolne mees liigutab käsi ja pöörab end kergelt.",
+        "Naine nihutab oma pilku keskmiselt mehelt kaamera suunas.",
+        "Kõik tegelased seisavad rohelisel ekraanil."
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Greenscreen",
+        "Filmivõtted",
+        "Eriefektid",
+        "Stuudio",
+        "Näitlejad",
+        "Lavastus",
+        "Visuaalefektid",
+        "Tumedad riided",
+        "Heledad riided"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan",
+        "Oranžid markerid",
+        "Mees mustas mantlis",
+        "Mees mustas jakis",
+        "Naine beežis mantlis",
+        "Ese naise käes"
+      ],
+      "colorcodes": [
+        "#3D8C3E",
+        "#1F2228",
+        "#8C6F59",
+        "#EE6E2B",
+        "#C1BFBB"
+      ],
+      "texts": [],
+      "persons": [
+        "Keskealine mees",
+        "Noor mees",
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Keskmise mehe pea ja keha asend muutub, pöörates ennast rohkem kaamera poole ja vaadates otse ette.",
+        "Vasakpoolse mehe käte asend muutub kaadrite vahel, samuti tema keha kerge pööre.",
+        "Naine nihutab oma pilku, vaadates alguses rohkem keskmise mehe poole ja seejärel kaamera suunas."
+      ],
+      "snr": "043",
+      "ajad": [
+        "395.680",
+        "399.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast pimedat välialad, mis näib olevat parkla või tänav, öösel. Mitmed autod on pargitud või õnnetusse sattunud. Kaks autot keskosas näivad olevat kokku põrganud või on paigutatud ebatavaliselt lähestikku, üks neist on teisega risti. Nende kesksete autode ümber on mitu inimest füüsilistes kokkupõrgetes. Kaadri vasakus servas on ala rohkemate pargitud autodega ja valgusallikaga, võimalik, et tänavavalgusti. Paremal on näha rohkem autosid, mis on pargitud paralleelselt äärekiviga. Üldine atmosfäär on pingeline ja vägivaldne.",
+      "actions": [
+        "Inimesed kaklevad ja rüseldavad",
+        "Üks inimene kukub või lükatakse maha",
+        "Autod on kokku põrganud või ebatavaliselt lähestikku paigutatud",
+        "Inimesed liiguvad autode ümber"
+      ],
+      "keywords": [
+        "Öö",
+        "Kaklus",
+        "Autoõnnetus",
+        "Pimedus",
+        "Konflikt",
+        "Tänav",
+        "Parkla",
+        "Pealtvaade",
+        "Vägivald"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Autod",
+        "Asfalt/tee",
+        "Tänavapostid",
+        "Valgustid",
+        "Killud/praht"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#C0392B",
+        "#2980B9",
+        "#D5D6D5",
+        "#FBC02D",
+        "#2E2824"
+      ],
+      "texts": [],
+      "persons": [
+        "Mitu meest",
+        "Üks punases jakis isik",
+        "Üks sinises jakis isik",
+        "Üks valges särgis isik (maas)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltidel on näha kakluse arengut ja tegelaste liikumist.",
+        "Esimesel pildil on näha aktiivne rüselus kahe auto ümber, kus tegelased on esialgsetes positsioonides.",
+        "Teisel pildil on kaklejad positsioone muutnud ja rüselus on intensiivistunud, kusjuures üks sinises jakis isik on aktiivselt teise tegelasega füüsilises kontaktis.",
+        "Kolmandal pildil on üks inimene (valges särgis) maha kukkunud või pikali lükatud, lamades maas vasakus alaservas, samal ajal kui teised tegelased jätkavad rüselemist või on oma asukohti muutnud."
+      ],
+      "snr": "045",
+      "ajad": [
+        "401.920",
+        "409.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab filmi võtteplatsi, kus on näha kolm meest rohelise ekraani taustal, mis on ette nähtud hilisemaks visuaalefektide lisamiseks. Mehed asuvad kaadri paremal poolel, vasakpoolne neist on lühem ja kannab beeži mütsi ning sarnase tooniga jopet, olles ettepoole kummardunud ja vaadates alla, justkui uurides midagi maapinnal või teostades mingit tegevust. Tema taga, kaadri keskel, seisab pikema kasvuga mees lühikeste tumedate juuste ja habemega, riietatuna tumedasse jopesse või mantlisse, ja vaatab vasakule, näol tõsine ilme. Kaadri esiplaanil, paremal pool, on pikemate heledate juuste ja habemega mees, seljas tume nahkjakk metallist detailidega. Ta räägib aktiivselt, suu avatud, väljendades dialoogi kaudu kiireloomulisust ja küsimusi. Rohelisel ekraanil on näha paar oranži X-kujulist märki, mis on tõenäoliselt jälgimismärgid. Stseeni valgus on pigem hämar, mis võib vihjata, et loodav keskkond on pimedas või öine. Üldine meeleolu viitab mingile ootamatule avastusele või segadusele.",
+      "actions": [
+        "Mehed seisavad",
+        "Parempoolne mees räägib",
+        "Vasakpoolne mees kummardub ette",
+        "Kõik mehed vaatavad vasakule"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Filmi võtteplats",
+        "Näitlejad",
+        "Dialoog",
+        "Visuaalefektid",
+        "Hämar valgus",
+        "Kriitiline hetk",
+        "Aktiivne vestlus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan",
+        "Oranžid X-märgid",
+        "Müts",
+        "Beež jakk",
+        "Tumedad jakid",
+        "Nahkjakk",
+        "Metallist detailid"
+      ],
+      "colorcodes": [
+        "#227122",
+        "#333133",
+        "#645E56",
+        "#A67117"
+      ],
+      "texts": [
+        "Come to take a look!",
+        "Hey, c'mon! C'mon!",
+        "What the fuck is going on?"
+      ],
+      "persons": [
+        "Mees beeži mütsiga",
+        "Mees tumedas jopes",
+        "Pikajuukseline mees nahkjakis"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrid ilmuvad ja muutuvad kaadrite vahel vastavalt dialoogile.",
+        "Parempoolse mehe suu asend varieerub rääkimise käigus, näidates kõne dünaamikat.",
+        "Vasakpoolse mehe kummardumise aste ja käte asend veidi varieerub, viidates pidevale tegevusele või reageerimisele.",
+        "Üldine kaamera asend või näitlejate mikroliikumised põhjustavad kergeid nihkeid positsioonides kaadrite vahel."
+      ],
+      "snr": "046",
+      "ajad": [
+        "409.800",
+        "411.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast filmi võtteplatsi või pidu rohelise ekraani taustal, andes edasi aastavahetuse või pidustuste meeleolu. Vasakul pool on näha tumedat ala, mis meenutab paati või platvormi. Paremal pool on sinises valguses väike ehitis või putka, mille ees seisab üks valge tool. Üle kogu võtteplatsi on paigaldatud värvilised lipukesed ja rippuvad valgusketid, mis loovad piduliku õhkkonna. Keskel on suur grupp inimesi, enamikul neist on peas värvilised partiimütsid. Inimesed näivad omavahel suhtlevat ja pidutsevat, mõned hoiavad käes jooke. Üks silmapaistvalt punase jopega inimene paistab silma rahvahulgas. Kaadri alumises servas on tumedat värvi rinnatis või piire, mille taga üks inimene üle ääre kummardub. Kogu stseen on valgustatud nii, et tekib öise sündmuse mulje.",
+      "actions": [
+        "Inimesed suhtlevad ja vestlevad",
+        "Peorahvas tantsib või liigub",
+        "Mõned inimesed hoiavad jooke",
+        "Üks inimene kummardub üle piirde",
+        "Üks inimene hüüab või räägib valjuhäälselt",
+        "Pidutsemine"
+      ],
+      "keywords": [
+        "Pidu",
+        "Aastavahetus",
+        "Roheline ekraan",
+        "Filmi võtteplats",
+        "Partiimütsid",
+        "Valgusketid",
+        "Lipukesed",
+        "Öine",
+        "Seltskond",
+        "Meeleolu"
+      ],
+      "shot_type": "wide",
+      "placement": "siseruum",
+      "objects": [
+        "Roheline ekraan",
+        "Valgusketid",
+        "Nöörid lipukestega",
+        "Partiimütsid",
+        "Joogid/klaasid",
+        "Rinnatis/piire",
+        "Sinine ehitis/putka",
+        "Valge tool",
+        "Inimfiguurid",
+        "Punane jope"
+      ],
+      "colorcodes": [
+        "#1C6428",
+        "#1E1F23",
+        "#C72622",
+        "#3D3B9F",
+        "#FCD00D",
+        "#FE8938",
+        "#D4397B"
+      ],
+      "texts": [
+        "Hey, c'mon! C'mon!",
+        "What the fuck is going on?",
+        "Happy Fucking New Year motherfucker!"
+      ],
+      "persons": [
+        "Palju inimesi",
+        "Erinevas vanuses peolised",
+        "Mehed",
+        "Naised",
+        "Punase jopega isik",
+        "Piirde ääres kummarduv isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on subtiitrid \"Hey, c'mon! C'mon!\" ja \"What the fuck is going on?\".",
+        "Teisel pildil on subtiitrid \"Happy Fucking New Year motherfucker!\".",
+        "Kolmandal pildil puuduvad subtiitrid.",
+        "Inimeste asukohad ja kehahoiakud on kaadrite vahel minimaalselt muutunud, viitades järjestikustele kaadritele."
+      ],
+      "snr": "047",
+      "ajad": [
+        "411.280",
+        "422.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme inimest, tõenäoliselt näitlejaid, kes seisavad rohelise ekraani taustal stuudios. Kõik kolm on paigutatud ritta, vaadates üldiselt kaadrist paremale poole. Vasakpoolne isik kannab heledat, kergelt polsterdatud riietust ja bareti sarnast mütsi, olles peamiselt profiilis. Keskmine isik on kiilakas või väga lühikeste juustega mees tumedas mantlis, kes mõnes kaadris pöörab pilku kaamera poole. Parempoolne isik on pikemate heledate juustega noorem mees tumedas jakis, millel on näha säravaid detaile, näiteks neete või litrid. Rohelisel ekraanil on näha mitmeid oranže X-tähe kujulisi märke, mis on tõenäoliselt kasutusel visuaalefektide jälgimiseks. Valgus paistab tulevat eest paremalt poolt, luues kergeid varjusid. Tervikuna annab stseen edasi filmivõtte õhkkonda, kus valmistatakse ette digitaalselt töödeldavat tausta.",
+      "actions": [
+        "Seismine",
+        "Vaatamine ettepoole",
+        "Pilgu pööramine (keskmisel isikul kaamera poole)"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Filmitöö",
+        "Näitlejad",
+        "Võtteplats",
+        "Visuaalefektid",
+        "Stuudio",
+        "Tegelased",
+        "Filmimine",
+        "Digitaalne töötlus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan",
+        "Oranžid X-tähed",
+        "Tumedad jakid",
+        "Hele jope",
+        "Barett"
+      ],
+      "colorcodes": [
+        "#008000",
+        "#202020",
+        "#C0B0A0",
+        "#FF4500"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees heleda riietuse ja mütsiga (vasakul)",
+        "Mees lühikeste juustega tumedas mantlis (keskel)",
+        "Mees pikkade heledate juuste ja tumeda jakiga (paremal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Keskmise isiku pilk on erinev: teisel pildil vaatab ta otse kaamerasse, samas kui esimesel ja kolmandal pildil vaatab ta ettepoole (paremale).",
+        "Kaadrite vahel on märgata pisemaid pea ja kehaasendi muutusi kõigi kolme isiku puhul, mis viitab jätkuvale liikumisele."
+      ],
+      "snr": "048",
+      "ajad": [
+        "422.040",
+        "425.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast pidulikku kogunemist või pidu, mis toimub avatud platsil, tõenäoliselt katusel või laval, taustaks suur roheline ekraan. See viitab sellele, et tegemist on filmi või muu produktsiooni võtteplatsiga. Kogu ala on kaunistatud nöörvalgustite ja värviliste vimplitega, luues rõõmsa ja piduliku meeleolu. Kohal on umbes 15-20 inimest, kellest enamik kannab peomütse. Inimesed vestlevad, seltsivad ja hoiavad käes tasse, justkui nautides sündmust. Paremal pool platsil asub väiksem hoone või kuur, mille siseruum on sinise valgusega valgustatud. Esiküljel on näha üks inimene, kes toetub piirdele ja on osaliselt kaadri allosast välja lõigatud, tema kehakeel näitab aktiivset osalemist sündmuses. Üldine valgustus, sealhulgas nöörvalgustite kuma, annab märku õhtu- või ööajast.",
+      "actions": [
+        "Inimesed seltsivad ja vestlevad omavahel",
+        "Inimesed hoiavad käes jooke tassides",
+        "Inimesed liiguvad platsil ringi",
+        "Inimesed tähistavad ja naudivad pidu",
+        "Esiplaanil olev inimene kummardub ette ja seejärel sirutab ennast, vaadates vasakule ja paremale ning naeratades"
+      ],
+      "keywords": [
+        "Peostseen",
+        "Roheline ekraan",
+        "Võtteplats",
+        "Pidulik kogunemine",
+        "Katusepidu",
+        "Ööaeg",
+        "Nöörvalgustid",
+        "Värvilised vimplid",
+        "Peomütsid",
+        "Seltskond"
+      ],
+      "shot_type": "wide",
+      "placement": "väljas",
+      "objects": [
+        "Roheline ekraan",
+        "Nöörvalgustid",
+        "Värvilised vimplid",
+        "Peomütsid",
+        "Klaasid/tassid",
+        "Laud",
+        "Toolid",
+        "Platvorm/lava",
+        "Väike hoone/kuur",
+        "Piire",
+        "Joogipudel"
+      ],
+      "colorcodes": [
+        "#008000",
+        "#FF0000",
+        "#FFA500",
+        "#FFFF00",
+        "#0000FF",
+        "#808080",
+        "#000000",
+        "#A52A2A",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Pidulised",
+        "Mehed",
+        "Naised",
+        "Näitlejad",
+        "Esiplaanil olev isik",
+        "Vanemad inimesed",
+        "Nooremad inimesed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "ei ole selge",
+      "daytime": "õhtu",
+      "differences": [
+        "Esiplaanil olev inimene muudab oma kehaasendit: esimesel pildil on ta rohkem ette kummardunud ja pead all hoidmas, teisel pildil sirutab ta end veidi üles ja pead kergitades, ning kolmandal pildil on ta veelgi püstisem, vaatab kaadri paremale poole, naeratab ja käed on selgemalt näha piirdele toetumas.",
+        "Tagaplaanil olevad inimesed liiguvad ja muudavad oma positsioone, vesteldes ja suheldes omavahel, näidates pidustuste dünaamikat.",
+        "Üksikute inimeste žestid ja näoilmed varieeruvad piltide vahel, peegeldades jätkuvat suhtlust ja pidu."
+      ],
+      "snr": "049",
+      "ajad": [
+        "425.480",
+        "435.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme tegelast filmivõtetel, mida iseloomustab suur roheline ekraan taustana. Keskel asub tume struktuur, mis sarnaneb liftišahti või hoone sissepääsuga, ning paremal on tume diivan või pink. Valgustus on üldiselt hämar ja dramaatiline, luues pingeid täis õhkkonna. Vasakul seisab vanem naine heledas beezikas pikas mantlis ja mütsis, käsi lõua juures või mingit eset kinni hoides, vaadates paremale mureliku või üllatunud ilmega. Tema kehaasend ja ilme viitavad reageerimisele. Keskmine tegelane on pikk, kiilakas või väga lühikeste juustega mees, seljas tume mantel ja püksid. Ta seisab paigal, pilk suunatud paremale, väljendades tõsist ja keskendunud olekut. Paremal on pikajuukseline noorem mees, riietatud naeltega kaunistatud musta nahktagi ja tumedatesse riietesse. Tema näoilme on intensiivne ja muutuv, viidates tugevale emotsioonile või kõnelemisele. Kolme kaadri jooksul on näha, kuidas parempoolse mehe suu avaneb järjest laiemalt, justkui ta räägiks või karjuks, ja tema näoilme muutub üha intensiivsemaks. Naise käe asend ja näoilme varieeruvad samuti kergelt kaadrite vahel.",
+      "actions": [
+        "Vanem naine vaatab paremale ja reageerib üllatuse või murega.",
+        "Vanem naine hoiab eset või kätt lõua lähedal, justkui peegeldades oma emotsiooni.",
+        "Keskmine mees seisab paigal ja vaatab paremale, säilitades tõsise ilme.",
+        "Noorem mees vaatab vasakule ja reageerib intensiivselt, tõenäoliselt räägib või karjub.",
+        "Noorem mees avab suu, viidates kõnelemisele või emotsionaalsele väljendusele."
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Filmivõtted",
+        "Stuudio",
+        "Dramaatiline",
+        "Pinge",
+        "Kohtumine",
+        "Reageerimine",
+        "Rääkimine",
+        "Vanem naine",
+        "Mehed",
+        "Mantel",
+        "Nahktagi",
+        "Hämar valgus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan",
+        "Tume sein",
+        "Ukseava",
+        "Tume diivan",
+        "Naise mantel",
+        "Naise müts",
+        "Ese naise käes",
+        "Mehe mantel",
+        "Mehe nahktagi",
+        "Needid nahktagil"
+      ],
+      "colorcodes": [
+        "#3C7B3C",
+        "#A3967C",
+        "#1A1A1A",
+        "#3F3C3B",
+        "#D4B29E",
+        "#C79D85",
+        "#2C2C2C"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem naine",
+        "Keskmine mees",
+        "Noorem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Naise parem käsi ja näoilme muutuvad kergelt kaadrite vahel.",
+        "Parempoolse mehe suu asend muutub: esimesel pildil on see suletud, teisel veidi avatud ja kolmandal laialt avatud, viidates järjest intensiivsemale kõnelemisele või reaktsioonile.",
+        "Parempoolse mehe näoilme muutub järjest intensiivsemaks ja emotsionaalsemaks."
+      ],
+      "snr": "050",
+      "ajad": [
+        "435.720",
+        "440.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab grupp inimesi pidulikul koosviibimisel, tõenäoliselt lavakujundusel või võtteplatsil. Taustaks on erkroheline ekraan, mis viitab filmi- või visuaalefektide loomisele. Ruum on kaunistatud värviliste lipukeste ja rippuvate pirnilaternatega, luues peomeeleolu. Inimesed on riietatud erinevalt, mõned kannavad lõbusaid peamütse, mis meenutavad looma kõrvu või teravaid koonuseid. Stseeni paremas servas on siniseks värvitud konstruktsioon, mis näeb välja nagu väike kuur või majake, ning puidust piirded. Üldine valgustus on hämar, rõhutades õhtust või öist aega. Esimesel plaanil on tume platvorm või käsipuu, mille tagant stseeni vaadatakse.",
+      "actions": [
+        "Tantsimine",
+        "Suhtlemine",
+        "Pidutsemine",
+        "Seismine",
+        "Istumine",
+        "Žestikuleerimine",
+        "Jutustamine",
+        "Liikumine"
+      ],
+      "keywords": [
+        "Peomeeleolu",
+        "Roheline ekraan",
+        "Võtteplats",
+        "Inimesed",
+        "Laternad",
+        "Lipukesed",
+        "Öö",
+        "Koosviibimine",
+        "Rekvisiidid",
+        "Kostüümid",
+        "Tantsimine",
+        "Filmi tootmine"
+      ],
+      "shot_type": "long",
+      "placement": "not clear",
+      "objects": [
+        "Roheline ekraan",
+        "Rippvalgustid/laternad",
+        "Värvilised lipukesed/girlandid",
+        "Sinine majake/kuur",
+        "Puidust piirded/käsipuud",
+        "Peamütsid",
+        "Toolid",
+        "Pudel",
+        "Klaasid",
+        "Platvorm/lava"
+      ],
+      "colorcodes": [
+        "#21B10D",
+        "#4E57B7",
+        "#CC0C09",
+        "#EE6E04",
+        "#F9FF0F",
+        "#FFFFFF",
+        "#1F1F1F",
+        "#4E3C2F"
+      ],
+      "texts": [
+        "Come here to have fun!"
+      ],
+      "persons": [
+        "Peolised",
+        "Mehed",
+        "Naised",
+        "Tantsija"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel ja teisel pildil puudub subtiiter, kolmandal pildil on näha subtiiter 'Come here to have fun!'.",
+        "Mõned inimeste poosid ja asendid on kaadrite vahel minimaalselt muutunud, mis viitab video kaadritele.",
+        "Keskmise isiku käsi paremal eespool liigub ülespoole esimesel kaadril, on veidi allpool keskmisel ja veelgi allpool kolmandal kaadril."
+      ],
+      "snr": "051",
+      "ajad": [
+        "440.560",
+        "446.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab võtteplatsi öisel ajal, kus on üles ehitatud lavastus pidu stseeni jaoks. Taustaks on suur roheline ekraan, mis hiljem asendatakse digitaalselt. Esipildil on grupp täiskasvanuid, kes tähistavad sünnipäeva või muud pidustust. Nad kannavad koonusekujulisi sünnipäevamütse ja hoiavad käes jooke. Üle pea on riputatud värvilised pärlid/lipukesed ja hõõguvad lambipirnid loovad hubase valgustuse. Üks inimene kannab silmatorkavat punast jopet. Paremal pool on sinises valguses valgustatud kastitaoline struktuur ja mõned rekvisiittoolid. Stseen tekitab mulje rõõmsast ja seltskondlikust kogunemisest lavastusliku keskkonna piirides.",
+      "actions": [
+        "Inimesed seisavad ja suhtlevad omavahel",
+        "Hoiavad käes jooke",
+        "Mõned žestikuleerivad",
+        "Üks inimene paremal osutab millegi poole",
+        "Liiguvad ja vahetavad asendit"
+      ],
+      "keywords": [
+        "Pidu",
+        "roheline ekraan",
+        "võtteplats",
+        "sünnipäevamütsid",
+        "pidustused",
+        "filmitöö",
+        "öö",
+        "kunstlik valgus",
+        "seltskond",
+        "lavastus"
+      ],
+      "shot_type": "wide",
+      "placement": "võtteplats",
+      "objects": [
+        "Sünnipäevamütsid",
+        "värvilised pärlid/lipukesed (bunting)",
+        "rippuvad lambipirnid",
+        "toolid",
+        "väike laud/tünn",
+        "klaasid/kruusid",
+        "roheline ekraan",
+        "kastitaoline struktuur (hoone rekvisiit)"
+      ],
+      "colorcodes": [
+        "#3B9D46",
+        "#4076C3",
+        "#F8D8A0",
+        "#E0302E",
+        "#302E32",
+        "#D43E38",
+        "#EBC74C",
+        "#4E75BC"
+      ],
+      "texts": [],
+      "persons": [
+        "Mitmed täiskasvanud (mehed ja naised)",
+        "Erinevas vanuses inimesed"
+      ],
+      "imagetype": "real",
+      "emptypercent": 55,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Inimeste asendid ja žestid muutuvad kaadrite vahel, mis viitab tegevuse ja vestluse edenemisele.",
+        "Mõned tegelased vahetavad oma asukohti grupis kergelt."
+      ],
+      "snr": "053",
+      "ajad": [
+        "456.080",
+        "465.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab filmiplatsi öist meeleolu, kus kolm inimest istuvad või seisavad tumedal platvormil, mille taga laiub suur roheline ekraan. Paremal esiplaanil istub maas mees, seljaga vastu seina, riietatuna tumedasse mantlisse ja pükstesse. Ta hoiab ühes käes väikest eset, mis meenutab sigaretti või pliiatsit, ja vahetab pilku kaugemale suunatud vaate ning naise vahel. Vasakul istub maas naine heledas paksus jopes, toetades end samuti vastu seina ja hoides tassi huulte juures. Keskel, tagapool, istub algselt teine isik (tõenäoliselt mees) madalamal serval, kandes tumedat kapuutsi, kuid hiljem tõuseb ta püsti ja kummardub ettepoole, justkui midagi uurides. Üldine valgus on hämar ja sinakashall, luues mõtiskleva ja veidi kurva õhustiku. Rohelisel ekraanil on näha üksikud oranžid markerid.",
+      "actions": [
+        "Istumine",
+        "Naisega rääkimine",
+        "Pähe koondumine",
+        "Tassi hoidmine",
+        "Ettepoole kummardumine",
+        "Püsti tõusmine",
+        "Pilu vahetamine"
+      ],
+      "keywords": [
+        "Filmiplats",
+        "roheline ekraan",
+        "öine stseen",
+        "kolm inimest",
+        "mõtisklev",
+        "ootus",
+        "lavastus",
+        "hämar valgus",
+        "külm toon",
+        "dramaatiline"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "roheline ekraan",
+        "seinad",
+        "põrand",
+        "mehe mantel",
+        "naise jope",
+        "tass",
+        "sigaret/pliiats",
+        "silindriline objekt",
+        "oranžid markerid"
+      ],
+      "colorcodes": [
+        "#339933",
+        "#262a2d",
+        "#1a1a1c",
+        "#a0a09e",
+        "#c0997e",
+        "#2e3c4a"
+      ],
+      "texts": [],
+      "persons": [
+        "mees",
+        "naine",
+        "kolmas isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esiplaanil oleva mehe pilk ja näoilme muutuvad, peegeldades kergelt teistsugust emotsiooni (nt. kerge naeratus).",
+        "Keskel asuv kolmas isik liigub istuvast asendist püsti ja kummardub ettepoole, vaadates alla, mis viitab tegevusele või tähelepanu nihkele."
+      ],
+      "snr": "054",
+      "ajad": [
+        "465.400",
+        "488.920"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha pikajuukseline mees, kes istub põrandal, toetudes tumedale madalale seinale või pingile. Tema seljataga on erkroheline taust, mis viitab võtteplatsile või rohelise ekraani kasutamisele järeltöötluses. Mehel on seljas tume riietus, sealhulgas nahkjakk, mis on kaunistatud metallist neetidega. Tema näol on märgata kunstverest tekitatud vigastusi nina ümber ja silma all, mis annavad talle räsitud välimuse. Mees hoiab käsi põimitud sõrmedega sülest. Tema pilk varieerub stseeni jooksul, andes edasi mõtiskleva või väsinud meeleolu. Ülal vasakul on näha ka üks oranžikas-punane riba, mis võib olla osa võttematerjalist või kaadrist.",
+      "actions": [
+        "Istumine põrandal",
+        "Käte hoidmine põimitud sõrmedega",
+        "Üles vaatamine",
+        "Otse ette vaatamine",
+        "Mõtisklemine/puhkamine"
+      ],
+      "keywords": [
+        "Mees",
+        "Pikad juuksed",
+        "Nahkjakk",
+        "Vigastused",
+        "Roheline ekraan",
+        "Võtteplats",
+        "Tume riietus",
+        "Mõtlik",
+        "Räsitud",
+        "Siseruum",
+        "Veri",
+        "Sinikas"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Nahkjakk",
+        "Tume pusa/särk",
+        "Tumedad püksid",
+        "Roheline ekraan",
+        "Tume sein/pink",
+        "Punane riba"
+      ],
+      "colorcodes": [
+        "#40a840",
+        "#2c2c2c",
+        "#b8927e",
+        "#8c2b2b",
+        "#e03c20",
+        "#484848"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks mees pikkade blondide/heleprunide juustega, habemega, näol vigastused (veri nina all, sinikas silma ümber). Seljas tume nahkjakk."
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel kaadril on mehe pea allapoole suunatud ja keha küüru, justkui oleks ta liikumises või asendit võtmas.",
+        "Teisel kaadril vaatab mees ülespoole, pilk on suunatud vasakule üles.",
+        "Kolmandal kaadril vaatab mees otse ette kaamerasse või veidi allapoole, tema näoilme on mõtlikum ja paigal.",
+        "Esimesel kaadril on mees rohkem küürus, teisel ja kolmandal istub ta sirgemalt vastu seljatuge.",
+        "Käte asend on kõigil kaadritel sarnane, kuid esimesel kaadril on käed pisut kõrgemal kaadris ja tundub, et ta on end just positsioneerimas."
+      ],
+      "snr": "055",
+      "ajad": [
+        "488.920",
+        "515.520"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha siseruumis istuvat meest, kes toetub räsitud tekstuuriga seina vastu. Valgus on sume ja soe, luues mehest pika ja selge varju seinale tema taha. Mees kannab tumedaid riideid, mis sulanduvad hämarasse ümbrusse. Tema paremal pool, taustal, on suur erkroheline pind, millel on mõned hajutatud punakad laigud. Mehe pilk on esmalt suunatud allapoole, käsi lõua juures, andes edasi mõtliku meeleolu. Seejärel tõstab ta pilgu ja vaatab otse ette, ilme tõsine ja veidi väsinud. Tema nägu on ovaalne ja tal on kiilanev pealagi. Stseenis valitseb melanhoolne ja kaalutlev õhkkond. Hiljem ilmub ekraani alumisse serva ingliskeelne tekst.",
+      "actions": [
+        "Istumine",
+        "Mõtisklemine",
+        "Pilgu tõstmine",
+        "Vaatamine ette"
+      ],
+      "keywords": [
+        "Mees",
+        "Siseruum",
+        "Hämarus",
+        "Mõtlik",
+        "Vari",
+        "Roheline ekraan",
+        "Tumedad riided",
+        "Väsimus",
+        "Melanhoolia"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Sein",
+        "Roheline pind",
+        "Tumedad riided",
+        "Vari"
+      ],
+      "colorcodes": [
+        "#7D6F60",
+        "#2A2A2D",
+        "#349F4B",
+        "#CC3300",
+        "#A18B7A"
+      ],
+      "texts": [
+        "Nothing happened."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil vaatab mees allapoole, mõtlikult. Tekst puudub.",
+        "Teisel pildil on mees pilgu tõstnud ja vaatab otse kaamera/vaataja poole, ilme on tõsisem ja alertim. Tekst puudub.",
+        "Kolmas pilt on identne teise pildiga, kuid alumises keskel on lisatud subtiiter 'Nothing happened.'."
+      ],
+      "snr": "056",
+      "ajad": [
+        "515.520",
+        "518.680"
+      ]
+    },
+    {
+      "explanation": "Stseenil on keskealine kuni vanem naine, kes istub siseruumis, tõenäoliselt stuudios. Ta kannab heledat, pruunika tooniga baretti, beeži-pruuni puhvis talvejopet ja heledat kudumist salli. Tema näoilme on murelik ja pilk on suunatud vasakule kaadrist välja, andes edasi tähelepanelikkuse või kerge ärevuse tunde. Tema süles on näha tumedat kangast. Taustal on näha rohelist ekraani, mis viitab sellele, et pilt on võetud filmivõtete ajal ja taust on hiljem asendatav. Rohelise ekraani all on tumedam sein või iste, mis loob tumeda fooni naise pea taha. Esimene kaader sisaldab ka subtiitrit, mis ütleb \"Nothing happened.\", vihjates dialoogile või mõtisklusele.",
+      "actions": [
+        "Istub",
+        "Vaatab",
+        "Räägib (subtiitri järgi)"
+      ],
+      "keywords": [
+        "Vanem naine",
+        "Roheline ekraan",
+        "Stuudiovõte",
+        "Murelik",
+        "Berett",
+        "Jope",
+        "Sall",
+        "Subtiitrid",
+        "Filmilik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Berett",
+        "Jope",
+        "Sall",
+        "Roheline ekraan",
+        "Tume riie"
+      ],
+      "colorcodes": [
+        "#927557",
+        "#998363",
+        "#42413e",
+        "#33a733",
+        "#ffffff"
+      ],
+      "texts": [
+        "Nothing happened."
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on subtiiter \"Nothing happened.\", mis puudub teisel ja kolmandal pildil."
+      ],
+      "snr": "057",
+      "ajad": [
+        "518.680",
+        "520.880"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha nooremapoolne pikkade heledate juustega mees, kes istub tumedal pingil või platvormil. Tema taga on hele roheline ekraan, mis viitab stuudiovõttele. Mehel on seljas tume nahktagi, millel on needid, ja tumedad püksid. Tema näol on veidi habet ja vuntsid ning suunurga juures on märgata verd, mis viitab võimalikule vigastusele või värskele traumale. Mehe ilme on mõtlik ja veidi murelik. Tema käte asend muutub stseeni jooksul: alguses on käed sülle toetatud ja sõrmed omavahel põimitud, hiljem toob ta käed näo juurde ja hoiab neid juustes. Kaamera ees vasakul ülaosas on näha punane piklik objekt, mis võib olla märkimispunkt või osa valgustusest. Stseenis puudub otsene tegevus, keskendudes pigem tegelase emotsionaalsele seisundile.",
+      "actions": [
+        "Istub tumedal pingil",
+        "Vaatab kaamerasse",
+        "Hoiab käsi sülle toetatud ja sõrmed põimitud",
+        "Viib käed näo ja juuste juurde",
+        "Ilmutab mõtlikku ja murelikku ilmet"
+      ],
+      "keywords": [
+        "Mees",
+        "Murelik",
+        "Mõtlik",
+        "Roheline ekraan",
+        "Stuudio",
+        "Nahktagi",
+        "Needid",
+        "Vigastus",
+        "Veri",
+        "Istumine",
+        "Alternatiivstiil"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Nahktagi",
+        "Needid",
+        "Tumedad püksid",
+        "Tume pink/platvorm",
+        "Roheline ekraan",
+        "Punane objekt"
+      ],
+      "colorcodes": [
+        "#30B445",
+        "#2D2D2D",
+        "#A49364",
+        "#C43428"
+      ],
+      "texts": [
+        "After all of our struggles."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil puudub nähtav veri suunurgal, teisel ja kolmandal on see märgatav.",
+        "Käte asend muutub: esimesel ja teisel pildil on käed sülle toetatud ja sõrmed põimitud, kolmandal on käed juustes/pea küljes.",
+        "Kolmandal pildil on näha ingliskeelsed subtiitrid: 'After all of our struggles.'"
+      ],
+      "snr": "058",
+      "ajad": [
+        "520.880",
+        "529.920"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud kiilaspäine, lühikeste juuste ja põskhabemega mees, kes kannab tumedaid riideid ja istub põrandal, toetudes tekstuursele, heledapruunile või beežile seinale. Tema ilme varieerub piltide vahel mõtlikust ja veidi murelikust otsekohesema ja küsitlevamani. Mehe paremal käel, mis moodustab suure osa taustast, asub ere roheline ekraan, millel on näha mitu ebaregulaarset, tumepunast kujundit. Valgus on hämar ja soe, luues dramaatilise meeleolu ja heites mehest seinale pika varju. Kaadrite allservas on subtiitrid, mis annavad edasi dialoogi või monoloogi. Roheline ekraan annab aimu, et tegemist võib olla filmi- või telestseeniga, mis viitab visuaalsete efektide kasutamisele.",
+      "actions": [
+        "Istumine",
+        "Rääkimine",
+        "Mõtisklemine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Stseen",
+        "Mees",
+        "Siseruum",
+        "Roheline ekraan",
+        "Hämarus",
+        "Murelik",
+        "Vestlus",
+        "Varjud",
+        "Dramaatiline",
+        "Produktsioon"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Sein",
+        "Roheline ekraan",
+        "Punased kujundid",
+        "Mehe vari",
+        "Tumepruunid riided"
+      ],
+      "colorcodes": [
+        "#634f40",
+        "#1e6d30",
+        "#1c1a1f",
+        "#8b110b"
+      ],
+      "texts": [
+        "After all of our struggles.",
+        "How can you be so sure now?",
+        "We are sitting here..."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe näoilme ja peahoid muutuvad pisut igas kaadris, alustades kergelt küsivast pilgust vaataja poole, liikudes suuga rääkimisele ja seejärel pöörates pead veidi paremale (vaataja vasakule).",
+        "Mehe vasaku käe asend muutub: esimeses kaadris on see selgelt näha tema süles/rinna ligidal, kolmandas kaadris on see vähem nähtav või keha poolt varjatud.",
+        "Subtiitrid muutuvad iga kaadri all, edastades erinevaid dialoogikatkeid."
+      ],
+      "snr": "059",
+      "ajad": [
+        "529.920",
+        "559.200"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kesksel kohal vanem naine, kes istub tumedal polsterdatud pinnal, mis võib olla diivan või pink. Tema taga on hele roheline ekraan, mis viitab filmivõttele või järeltöötlusele, ning ekraanil on näha ka mõned tuhmid oranžid märgistused. Naine kannab heledat beeži barette, heledat (tõenäoliselt beeži või kreemikasvalget) paksusulatustega jopet ja samas toonis salli. Tema näoilme on murelik, veidi üllatunud või hajevil, pilk on suunatud otse ettepoole. Valgus paistab olevat kunstlik ja soe, rõhutades naise nägu. Alamtekstid annavad mõista, et tegemist on isolatsiooni või kriisiga seotud teemaga.",
+      "actions": [
+        "Naine istub",
+        "Naine vaatab ettepoole",
+        "Naine kannab riideid"
+      ],
+      "keywords": [
+        "vanem naine",
+        "filmivõte",
+        "roheline ekraan",
+        "beret",
+        "jakk",
+        "sall",
+        "murelik ilme",
+        "alamtekstid",
+        "siseruum",
+        "isolatsioon"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "beret",
+        "jakk",
+        "sall",
+        "polsterdatud pind",
+        "roheline ekraan",
+        "oranžid märgised",
+        "alamtekstid"
+      ],
+      "colorcodes": [
+        "#e1c9aa",
+        "#e8e7e1",
+        "#d1c8b3",
+        "#33a633",
+        "#494949",
+        "#d0a187"
+      ],
+      "texts": [
+        "We are sitting here...",
+        "while there's an infected world."
+      ],
+      "persons": [
+        "vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on alamtekst \"We are sitting here...\".",
+        "Teisel pildil on alamtekst \"while there's an infected world.\".",
+        "Kolmandal pildil puudub alamtekst."
+      ],
+      "snr": "060",
+      "ajad": [
+        "559.200",
+        "563.920"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine kiilaspäine mees, kellel on tumedad juuksed ja põskhabe. Ta kannab tumedat riietust, ilmselt jopet või mantlit, ja toetub vasakpoolsele heledale, kareda tekstuuriga seinale. Mehe vari on seinale projitseeritud, andes stseenile sügavust ja dramaatilisust. Tema näoilme muutub piltide vahel: alguses on ta pisut üllatunud või murelik, siis rahulikum ja lõpuks avab suu, justkui rääkides. Paremal pool on näha ere roheline ekraan koos mõnede oranžikate või punakate markeritega, mis viitab sellele, et tegemist on filmivõtetega, kus kasutatakse visuaalefekte. Valgus on hämar, luues intiimse ja veidi salapärase atmosfääri. Kolmandal pildil on näha subtiitrid, mis annavad mehe öeldud dialoogi edasi.",
+      "actions": [
+        "Mees vaatab paremale",
+        "Mees toetub seinale",
+        "Mehe näoilme muutub",
+        "Mees räägib"
+      ],
+      "keywords": [
+        "Mees",
+        "Roheline ekraan",
+        "VFX",
+        "Filmimine",
+        "Hämarus",
+        "Sisekeskkond",
+        "Vari",
+        "Dialoog",
+        "Emotsioon",
+        "Küsimus",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Sein",
+        "Roheline ekraan",
+        "Oranžid markerid",
+        "Vari"
+      ],
+      "colorcodes": [
+        "#776a5e",
+        "#1e1e1e",
+        "#008f1f",
+        "#a2725a",
+        "#d1502f"
+      ],
+      "texts": [
+        "What's wrong with you two?"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe näoilme ja suu asend muutuvad piltide vahel. Esimesel pildil on mees pisut üllatunud või murelik, teisel pildil rahulikum ja suu kinni, kolmandal pildil on suu avatud ja ta räägib.",
+        "Kolmandal pildil on lisatud subtiitrid: \"What's wrong with you two?\".",
+        "Ülejäänud stseen (taust, valgus) jääb samaks."
+      ],
+      "snr": "061",
+      "ajad": [
+        "563.920",
+        "582.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanemat naist, kes istub filmi võtteplatsil, mille taustaks on ere roheline ekraan koos paari oranži märgisega. Naine kannab heledat bešvärvi baretti, paksult vooderdatud beesi/khakitooni jakki ja sama tooni salli kaela ümber. Ta istub tumeda, arvatavasti kangaga kaetud istmepeal, mis meenutab pingi seljatuge. Naise käed hoiavad midagi tumedat, mis paistab olevat riideese. Stseeni jooksul muutub naise näoilme drastiliselt: esialgu on ta range ja küsiv, suu avatud justkui rääkides. Järgmistel hetkedel on tema ilme üllatunud või murelik, silmad pärani ja pilk suunatud kaadrist välja. Lõpuks on ta tähelepanelikum, suu suletud, kuid endiselt pinge all. See viitab dialoogile või sündmustele, mis toimuvad väljaspool kaadrit.",
+      "actions": [
+        "Naine räägib või küsib",
+        "Naine vaatab pingeliselt kaadrist välja",
+        "Naine väljendab üllatust või muret",
+        "Naine istub",
+        "Naine hoiab käes tumedat eset"
+      ],
+      "keywords": [
+        "Naine",
+        "Vanem inimene",
+        "Filmilavastus",
+        "Roheline ekraan",
+        "Emotsioonid",
+        "Barett",
+        "Jakk",
+        "Sall",
+        "Võtteplats",
+        "Näitleja"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Barett",
+        "Jakk",
+        "Sall",
+        "Roheline ekraan",
+        "Oranžid märgised",
+        "Iste/pink",
+        "Tume riideese"
+      ],
+      "colorcodes": [
+        "#359B28",
+        "#B19A74",
+        "#BFB8AA",
+        "#B09B7A",
+        "#474542",
+        "#362B35"
+      ],
+      "texts": [
+        "What's wrong with you two?",
+        "Do you want that?"
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise näoilme muutub küsivalt ja tõsiselt üllatunuks või murelikuks ning seejärel vaatavamaks ja pingelisemaks.",
+        "Naise suu asend muutub avatust (rääkimine) veidi avatuks (üllatus) ja seejärel suletuks (jälgimine).",
+        "Subtiitrid muutuvad, peegeldades erinevaid dialoogilõike: esimesel pildil \"What's wrong with you two?\" ja kolmandal pildil \"Do you want that?\"."
+      ],
+      "snr": "062",
+      "ajad": [
+        "582.000",
+        "594.360"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine mees, kellel on taanduv juuksepiir ja põskhabe. Ta kannab tumedaid riideid, mis võivad olla jakk või mantel. Mees vaatab paremale kaadri suunast, tema ilme on tõsine ja mõtlik. Ta asub kaadri vasakul poolel, taustal on helepruun, tekstuuriga sein, millel on näha tume ja ebamäärane vari, mis ulatub mehe selja tagant üles. Kaadri paremas servas on eredalt roheline ekraan, millel on mõned oranžikaspunased täpid või markerid, mis viitavad visuaalefektide loomise seadeks. Üldine valgustus on hämar, luues veidi melanhoolse või dramaatilise meeleolu. Kaadri allosas on subtiitrid, mis näitavad dialoogi kulgu.",
+      "actions": [
+        "Mees vaatab",
+        "Mees räägib (läbi subtiitrite)"
+      ],
+      "keywords": [
+        "Mees",
+        "Portree",
+        "Roheline ekraan",
+        "Vari",
+        "Siseinterjöör",
+        "Dialoog",
+        "Filmikaader",
+        "Dramaatiline",
+        "Hämar valgus",
+        "Visuaalefektide võte"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Sein",
+        "Vari",
+        "Roheline ekraan",
+        "Punased/oranžid markerid"
+      ],
+      "colorcodes": [
+        "#A08060",
+        "#604830",
+        "#2E8B57",
+        "#1E6C3D",
+        "#CC3300",
+        "#1F1F1F",
+        "#B79075",
+        "#7A5A41",
+        "#4A382C"
+      ],
+      "texts": [
+        "Do you want that?",
+        "Fine.",
+        "Go then."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevused on ainult ekraani allosas olevates subtiitrites, mis näitavad dialoogi arengut.",
+        "Esimesel pildil on tekst: \"Do you want that?\"",
+        "Teisel pildil on tekst: \"Fine.\"",
+        "Kolmandal pildil on tekst: \"Go then.\"",
+        "Mehe ilme ja asend jäävad kõigil kolmel pildil samaks."
+      ],
+      "snr": "063",
+      "ajad": [
+        "594.360",
+        "597.800"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noor mees, kes istub tumedal diivanil rohelise ekraani ees. Mehel on pikad heledad juuksed, seljas must nahktagi ja pusa. Tema näol, täpsemalt ülahuulel ja ninal, on näha verd, mis viitab vigastusele. Mees vaatab üles ja kergelt paremale, tema käed on rinna ees kokku pandud. Tema poos on veidi nõjatud ja mõtlik. Vasakul ülal, rohelise ekraani taustal, on näha erepunane objektiiv, mis on tõenäoliselt jälgimismarker (tracking marker) hilisemaks visuaalefektide lisamiseks. Valgus on fookuses mehel, samas kui roheline ekraan on ühtlaselt valgustatud.",
+      "actions": [
+        "Mees istub",
+        "Mees vaatab üles",
+        "Käed on kokku pandud",
+        "Mõtiskleb"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Filmivõtted",
+        "Mees",
+        "Vigastus",
+        "Nahktagi",
+        "Diivan",
+        "Siseruum",
+        "Mõtlik",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Noor mees",
+        "Must nahktagi",
+        "Must pusa",
+        "Tumedad püksid",
+        "Tume diivan",
+        "Roheline ekraan",
+        "Veri",
+        "Punane jälgimismarker"
+      ],
+      "colorcodes": [
+        "#407d3f",
+        "#262a2d",
+        "#0d0d0d",
+        "#dd1b14",
+        "#c69562"
+      ],
+      "texts": [
+        "Go then."
+      ],
+      "persons": [
+        "Noor mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on allservas näha subtiitrid 'Go then.', teisel pildil need puuduvad."
+      ],
+      "snr": "064",
+      "ajad": [
+        "597.800",
+        "601.440"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset filmistuudio võtteplatsil, kus domineerib suur roheline ekraan taustal, mis annab märku, et lõplikku keskkonda lisatakse hiljem eriefektide abil. Eesplaanil on minimalistlik, betooni meenutav põrand ja madalad seinad, luues tööstusliku või mahajäetud ruumi mulje. Valgus on hämar, andes stseenile melanhoolse või dramaatilise tooni. Stseenis on kolm inimest: kaks meest ja üks naine. Üks mees istub põrandal vastu seina, teine mees liigub stseenis ringi ja naine istub tagapool põrandal. Üldine atmosfäär viitab ootusele, pingele või kahetsemisele.",
+      "actions": [
+        "Mees tumedas mantlis istub vastu seina, vahel pilk kõrvale suunatud, vahel teisi tegelasi jälgides, hoides kätt oma näo või lõua juures.",
+        "Mees heledas mantlis kummardub esimeses kaadris, justkui võtaks või paneks midagi maha.",
+        "Mees heledas mantlis seisab teises kaadris püsti ja vaatab naise poole.",
+        "Naine istub teises plaanis põrandal, esialgu vaadates heledas mantlis mehe poole, seejärel pilku maha või eemale pöörates."
+      ],
+      "keywords": [
+        "Filmistuudio",
+        "võtteplats",
+        "roheline ekraan",
+        "näitlejad",
+        "lavastus",
+        "melanhoolia",
+        "ootamine",
+        "suhtlus",
+        "dramaatiline",
+        "kaader",
+        "taust",
+        "rekvisiidid",
+        "betoon"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan",
+        "Betoonpõrand",
+        "Madal sein",
+        "Kaks silindrilist objekti (postid)",
+        "Väike metallist purk/tass",
+        "Kott või ese põrandal",
+        "Tumedad saapad",
+        "Hele mantel",
+        "Tumedad riided",
+        "Barett"
+      ],
+      "colorcodes": [
+        "#336633",
+        "#4D4C4B",
+        "#0F0F0F",
+        "#CFCBC9",
+        "#A33121"
+      ],
+      "texts": [
+        "I'm enough of it."
+      ],
+      "persons": [
+        "Mees tumedas mantlis",
+        "Mees heledas mantlis",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Mees heledas mantlis on esimesel pildil kummardunud ja tegeleb millegagi maas; teisel pildil seisab ta püsti ja vaatab naise poole; kolmandal pildil on ta kaadrist väljas või on tema asukoht oluliselt muutunud.",
+        "Naine istub teises plaanis: esimesel pildil on ta vähem nähtav; teisel pildil vaatab ta mehe poole; kolmandal pildil vaatab ta maha või eemale.",
+        "Subtiitrid \"I'm enough of it.\" ilmuvad ainult teisel pildil.",
+        "Mees tumedas mantlis säilitab oma istuva asendi vastu seina, kuid tema pilk ja käe asend näo juures muutuvad pisut kaadrite vahel."
+      ],
+      "snr": "065",
+      "ajad": [
+        "601.440",
+        "611.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest siseruumis, tõenäoliselt filmivõtetel või lavastatud keskkonnas. Vasakul pool on näha helepruuni tekstuuriga sein ja sellele langev pikk tume vari, mis viitab külgmisele valgusallikale. Mees asub kaadri paremas pooles, kandes tumedaid riideid. Tema pilk on suunatud paremale. Esimesel hetkel tundub mees olevat mõtlik või valvas, vaadates veidi allapoole paremale. Seejärel, järsku, tõstab ta pea, silmad on laialt avatud ja näole ilmub selge üllatuse või alarmi ilme. Ta suu on kergelt avatud. Mehe selja taga ja paremal pool on selgelt näha erkroheline ekraan, mida kasutatakse filminduses digitaalsete taustade lisamiseks.",
+      "actions": [
+        "Mees vaatab paremale",
+        "Mees tõstab pead",
+        "Mees reageerib üllatusega",
+        "Mees avab silmi laialt",
+        "Mees avab suud kergelt"
+      ],
+      "keywords": [
+        "Mees",
+        "Siseruum",
+        "Filmivõtted",
+        "Roheline ekraan",
+        "Vari",
+        "Sein",
+        "Pingeline",
+        "Üllatus",
+        "Valvsus",
+        "Hämar valgus"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Sein",
+        "Roheline ekraan",
+        "Vari",
+        "Tumedad riided"
+      ],
+      "colorcodes": [
+        "#8c7e6c",
+        "#33bb33",
+        "#9e6d42",
+        "#2a2a2a",
+        "#3b3b3b"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehe pilk suunatud kergelt allapoole paremale, tema ilme on mõtlik või valvas.",
+        "Teisel pildil on mees tõstnud pead ja tema silmad on laialt avatud, väljendades üllatust või ärevust. Suunurk on kergelt allapoole suu veidi avatud.",
+        "Kolmas pilt on peaaegu identne teisega, säilitades üllatunud ilme, võimalik, et väga lühike ajaline nihe teise pildi suhtes."
+      ],
+      "snr": "066",
+      "ajad": [
+        "611.640",
+        "614.080"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noorem mees pikkade heledate juuste, habeme ja vuntsidega. Ta istub maas, toetudes tumedale, polsterdatud objektile, mis meenutab diivani seljatuge või madalat seina. Mees kannab musta nahkjakki, mis on kaunistatud neetidega, ning selle all paistab tume kapuutsiga särk ja tumedad püksid. Tema käed on ees ristatud või kokku pandud. Mehe taga on ere roheline ekraan, mis viitab filmivõtetele või postproduktsioonile. Rohelise ekraani vasakus ülemises nurgas on näha punane ristkülikukujuline marker. Üldine valgustus on veidi hämar, tuues esile mehe ja tema riietuse detailid. Mees vahetab pilku ja näoilmet kaadrite vahel, olles kord mõtlikul ilmel ja kord suletud silmadega, andes stseenile sügava ja introspektiivse meeleolu.",
+      "actions": [
+        "Istumine",
+        "Käte hoidmine ees",
+        "Vaatamine ette vasakule (kaamera suunast)",
+        "Silmade sulgemine",
+        "Pea kergelt langetamine"
+      ],
+      "keywords": [
+        "Mees",
+        "Nahkjakk",
+        "Needid",
+        "Pikad juuksed",
+        "Habe",
+        "Roheline ekraan",
+        "Filmivõtted",
+        "Stuudio",
+        "Mõtlik",
+        "Kaasaegne stiil",
+        "Punk stiil"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Nahkjakk",
+        "Tumedad püksid",
+        "Tume kapuutsiga särk",
+        "Diivani seljatugi või polsterdatud sein",
+        "Roheline ekraan",
+        "Punane marker"
+      ],
+      "colorcodes": [
+        "#2E2E2E",
+        "#00A859",
+        "#B82B1F",
+        "#4B4B4B",
+        "#A2826A",
+        "#3A3A3A"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel ja kolmandal pildil vaatab mees ette, vasakule kaamera suunast, suu kergelt suletud ja näoilme mõtlik. Teisel pildil on mehe silmad suletud ja pea on kergelt langetatud, andes edasi rahuliku või väsinud ilme.",
+        "Mehe näoilme ja pilgu suund erinevad kaadrite vahel, pakkudes erinevaid emotsionaalseid nüansse – esimesel ja kolmandal pildil teatud otsingut või kaalutlemist, teisel pildil aga puhkust või sisekaemust."
+      ],
+      "snr": "067",
+      "ajad": [
+        "614.080",
+        "622.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme inimest filmivõtteplatsil, kus domineerib erkroheline taust, mis viitab green screen'i tehnoloogia kasutamisele. Taustal on näha mitmeid oranže jälgimispunkte. Esiplaanil on vanem naine beeži mütsi ja heleda tepitud jakiga, kes hoiab käes mingit väikest eset või paberit ja vaatab paremale-ülespoole. Keskel seisab tumedas mantlis mees, profiilis, vaatab paremale-allapoole. Temast paremal, tagaplaanil, on noorem naine tumedas riietuses ja pikemate heledate juustega, samuti profiilis ja allapoole vaatamas. Valgus on soe ja kunstlik, eriti esiplaanil oleva naise näol ja riietel, luues kerge oranžika kuma vasakult. Üldine õhkkond on tõsine ja keskendunud, viitades võtteprotsessile. Põrand on tume ja nähtav vaid osaliselt alumises servas.",
+      "actions": [
+        "Inimesed seisavad või kõnnivad aeglaselt",
+        "Naine esiplaanil hoiab käes eset",
+        "Inimesed vaatavad paremale"
+      ],
+      "keywords": [
+        "Green screen",
+        "Filmi võtteplats",
+        "Kromakei",
+        "Näitlejad",
+        "Kulisid",
+        "Jälgimispunktid",
+        "Siseruum",
+        "Kunstlik valgus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Green screen",
+        "Oranžid jälgimispunktid",
+        "Müts",
+        "Jakk",
+        "Mantel",
+        "Väike ese (käes)"
+      ],
+      "colorcodes": [
+        "#37A845",
+        "#CED0C8",
+        "#8C7863",
+        "#1A1A1A",
+        "#D96F19",
+        "#E0C7B4"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem naine",
+        "Mees",
+        "Noorem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Väikesed, peaaegu märkimatud erinevused kaadrite vahel, mis viitavad minimaalsele liikumisele või kaamera fookuse väga õrnale muutusele."
+      ],
+      "snr": "068",
+      "ajad": [
+        "622.960",
+        "628.720"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskmises plaanis meest, kes on riietatud tumedasse mantlisse või jakki. Tema nägu on altpoolt valgustatud sooja oranži tooniga, mis loob dramaatilisi varje ja annab stseenile intensiivse, ehk isegi müstilise hõngu. Mehe silmad on kahes kaadris suletud ja suu kergelt avatud, mis viitab sügavale kontsentratsioonile, mediteerimisele või hingamisele. Ühes kaadris on tema silmad kergelt avatud ja suu suletud, mis annab edasi hetkelise muutuse emotsioonis või tegevuses. Taustaks on ühtlane roheline ekraan, mis annab märku, et tegemist on filmivõtetega, kus taust hiljem digitaalselt asendatakse. Paremal tagapool on näha tumedat, ebamäärast objekti, mis võib olla osa stuudiovarustusest, ning sellel paistab väike punane tuli. Üldine atmosfäär on vaikne ja intensiivne, keskendudes mehe sisemisele seisundile.",
+      "actions": [
+        "Mees sulgeb silmad",
+        "Mees avab silmad kergelt",
+        "Mees hingab sügavalt",
+        "Mees on sügavas kontsentratsioonis"
+      ],
+      "keywords": [
+        "Mees",
+        "Portree",
+        "Roheline ekraan",
+        "Filmivõtted",
+        "VFX",
+        "Kontsentratsioon",
+        "Emotsioon",
+        "Dramaatiline valgus",
+        "Stuudio"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Tume mantel",
+        "Roheline ekraan",
+        "Stuudiovarustus (tumedad objektid taustal)",
+        "Punane tuli"
+      ],
+      "colorcodes": [
+        "#389f66",
+        "#b86842",
+        "#2a2b34",
+        "#38302f",
+        "#9c3127"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 55,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel ja kolmandal pildil on mehe silmad suletud ning suu kergelt avatud.",
+        "Teisel pildil on mehe silmad kergelt avatud või allapoole vaatamas ning suu suletud.",
+        "Mehe näoilme ja kehaasend on kaadrite vahel väga peenelt muutunud, viidates liikumisele.",
+        "Valguses on märgata minimaalseid erinevusi."
+      ],
+      "snr": "070",
+      "ajad": [
+        "635.840",
+        "640.160"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud pikajuukseline mees, kellel on helepruunid või blondid lainelised juuksed ja habe, nähtuna profiilis. Ta vaatab allapoole kaadri parema serva suunas, andes talle tõsise või mõtiskleva ilme. Mehel on seljas must kapuutsiga särk, mille peal on must nahkjakk needitud õlaga. Taustaks on erkroheline ekraan, mis viitab sellele, et tegemist on filmi- või videoproduktsiooniga, kus kasutatakse visuaalefekte. Rohelisel ekraanil on näha ka mõned väiksed oranžikad täpid, mis on tõenäoliselt jälgimismärgid. Valgusallikas paistab vasakult, rõhutades mehe juuste ja näo kontuure.",
+      "actions": [
+        "Vaatab alla",
+        "Poseerib"
+      ],
+      "keywords": [
+        "Mees",
+        "Pikkad juuksed",
+        "Habe",
+        "Roheline ekraan",
+        "VFX",
+        "Stuudio",
+        "Profiil",
+        "Nahkjakk",
+        "Needid",
+        "Filmimine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Roheline ekraan",
+        "Nahkjakk",
+        "Kapuuts",
+        "Needid",
+        "Jälgimismärgid"
+      ],
+      "colorcodes": [
+        "#2A9D49",
+        "#CCA677",
+        "#241E1C",
+        "#9E6F53",
+        "#F47B2E"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Puuduvad märkimisväärsed erinevused; pildid on peaaegu identsed kaadrid, mis võivad pärineda samast videolõigust, kus on minimaalsed või olematud liikumised."
+      ],
+      "snr": "071",
+      "ajad": [
+        "640.160",
+        "645.280"
+      ]
+    },
+    {
+      "explanation": "Stseenis on esiplaanil keskealine või vanem naine, kelle näole on maalitud murelik, hirmunud või šokeeritud ilme. Tema pilk on suunatud ülespoole, suu on kergelt avatud ja silmad laialt pärani. Ta kannab sooje riideid: barett-laadset mütsi, salli kaelas ja paksust materjalist jopet või mantlit. Naine hoiab käsi rinna kõrgusel kokku surutud, mis annab edasi haavatavuse või pingeseisundi. Tema nägu ja riietus on valgustatud altpoolt tuleva sooja, oranžikaskollase valgusega, mis loob draamapunkti ja sügavuse. Taust on erkroheline ekraan (green screen), mis viitab filmivõtetele ja et tausta on plaanis hiljem asendada. Stseeni üldine toon on tume ja intensiivne, rõhutades naise emotsionaalset seisundit.",
+      "actions": [
+        "Naine vaatab ülespoole",
+        "Naine hoiab käsi rinna kõrgusel"
+      ],
+      "keywords": [
+        "Naine",
+        "murelik",
+        "hirmunud",
+        "šokeeritud",
+        "roheline ekraan",
+        "pimedus",
+        "soe valgus",
+        "kostüüm",
+        "filmivõtted",
+        "emotsioon",
+        "pinge"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "müts",
+        "sall",
+        "jope",
+        "roheline ekraan"
+      ],
+      "colorcodes": [
+        "#2E8B57",
+        "#C18E66",
+        "#826E65",
+        "#FFA500",
+        "#6A5A52"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on märgatavad nüansid naise näoilmes. Esimesel pildil on kergelt avatud suu ja ülespoole suunatud pilk, silmad on laialt avatud. Teisel pildil on naise pilk endiselt ülespoole, kuid suu on veidi rohkem avatud ja ilme on intensiivsemalt šokeeritud. Kolmandal pildil on suu taas veidi suletum ja ilme muutub pisut enam nördinuks või kurvaks, samal ajal kui pilk jääb ülespoole. Need väikesed muutused loovad mulje järjestikustest emotsioonidest või reaktsioonidest, nagu reaktsioon mingile sündmusele."
+      ],
+      "snr": "072",
+      "ajad": [
+        "645.280",
+        "649.720"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõttes meest, kelle pilk on suunatud pingsalt allapoole. Tema nägu on valgustatud altpoolt sooja, oranži tooniga, mis loob dramaatilise ja mõtliku ilme. Mehel on seljas tume, kõrge kaelusega mantel. Taustaks on erkroheline ekraan, mis viitab filmi võtteplatsile, kus tausta hakatakse hiljem digitaalselt asendama. Stseenis on näha numbritega loendur, mis langeb, andes märku olulise sündmuse lähenemisest. Paremal taustal on näha udune tume objekt, millel helendab väike punane tuluke, lisades stseenile salapära. Üldine atmosfäär on pingeline ja ootusärev.",
+      "actions": [
+        "Mees vaatab intensiivselt allapoole",
+        "Loendur tiksub"
+      ],
+      "keywords": [
+        "Pingeline",
+        "Loendur",
+        "Roheline ekraan",
+        "Mees",
+        "Siseruum",
+        "Draama",
+        "Ettevalmistus",
+        "Võtteplats",
+        "Salapära"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Roheline ekraan",
+        "Tume mantel",
+        "Udune seade taustal",
+        "Punane tuluke",
+        "Mustad raamid"
+      ],
+      "colorcodes": [
+        "#32CD32",
+        "#000000",
+        "#1A1A1A",
+        "#D18B63",
+        "#FF0000"
+      ],
+      "texts": [
+        "7...",
+        "6..."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Loenduri number muutub '7...' pealt '6...' peale."
+      ],
+      "snr": "074",
+      "ajad": [
+        "656.000",
+        "658.680"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealist meest, pikkade heledate juustega, kes vaatab paremale kaadri servast välja. Tema parem külg ja juuksed on valgustatud sooja, punakasoranži valgusega, samal ajal kui ülejäänud nägu on osaliselt varjus. Mees kannab tumedat, ilmselt neetidega kaunistatud jakki või pusa, mille õlgadel on näha neetide ridu. Taustaks on ühtlane roheline ekraan, mis viitab filmimisele või eriefektide loomisele stuudios. Rohelisel taustal on märgata ka mitmeid udusid oranže täppe, mis võivad olla peegeldused või mingeid tausta elemente. Kaadri allservas jookseb loendur.",
+      "actions": [
+        "Mees seisab paigal",
+        "Mees vaatab paremale",
+        "Loendur tiksub"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Loendur",
+        "Mees",
+        "Pikad juuksed",
+        "Stuudio",
+        "Filmimine",
+        "VFX",
+        "Eriefektid",
+        "Tume riietus",
+        "Neetidega jakk",
+        "Valgustus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Roheline ekraan",
+        "Jakk/pusa",
+        "Neetidega kaunistus"
+      ],
+      "colorcodes": [
+        "#52AE52",
+        "#1A1A1A",
+        "#AD8E65",
+        "#FF7F50",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "6...",
+        "5...",
+        "4..."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Loenduri number pildi allservas muutub: esimesel pildil on \"6...\", teisel \"5...\" ja kolmandal \"4...\".",
+        "Mehe asendis, ilmes või valgustuses olulisi muutusi piltide vahel ei ole."
+      ],
+      "snr": "075",
+      "ajad": [
+        "658.680",
+        "661.400"
+      ]
+    },
+    {
+      "explanation": "Stseenil on keskealine või vanem naine, kes on riietatud soojalt, kandes heledat vatitud jopet, tumepruuni või bordoovärvi kootud salli ja samas toonis baretti. Tema näoilme on murelik, väsinud ja kergelt nördinud, silmade all on tumedad ringid ning suu on kergelt avatud, justkui rääkides või rääkima hakates. Valgus langeb naisele altpoolt vasakult, luues dramaatilisi varje ja rõhutades tema näojooni, andes stseenile sügava ja melanhoolse tooni. Ta hoiab käsi rinna ees, kergelt jopest kinni hoides. Taustal vasakul on ere roheline ekraan, mis viitab filmivõtetele ja digitaalsele töötlusele. Paremal pool on hämaram ja vähem detailne taust, mis sarnaneb siseruumi seinaga. Stseeni üldine meeleolu on tõsine ja rasket saatust peegeldav. Piltidel on näha filmivõtete loendur ekraani allosas.",
+      "actions": [
+        "Naine vaatab otse ette",
+        "Naine hoiab käsi rinna ees",
+        "Naine räägib (oletatav suu asendi põhjal)"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Filmivõtted",
+        "Roheline ekraan",
+        "Barett",
+        "Sall",
+        "Jope",
+        "Väsinud",
+        "Murelik",
+        "Dramatiline valgus",
+        "Siseruum",
+        "Külm",
+        "Loendus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Barett",
+        "Sall",
+        "Jope",
+        "Roheline ekraan"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#2B7F43",
+        "#C5B5A8",
+        "#BF967F",
+        "#6F534F"
+      ],
+      "texts": [
+        "4...",
+        "3...",
+        "2..."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Numbrid ekraani allservas vähenevad: esimesel pildil \"4...\", teisel \"3...\" ja kolmandal \"2...\". See viitab loendurile või kaadri järjekorrale."
+      ],
+      "snr": "076",
+      "ajad": [
+        "661.400",
+        "664.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast siseruumides toimuvat pidu, mis on valgustatud dramaatiliste punaste ja siniste toonidega. Taustal paistab kivisein. Grupp täiskasvanuid tantsib, suhtleb ja joob joogitopse hoides, luues rõõmsa ja elava atmosfääri. Mitmetel peolistel on peas värvilised peomütsid. Osa inimestest kannab paksemaid talvejopesid või mantleid. Stseeni arenedes ilmub esiplaanile paremale mees pruunis karvase kapuutsiga talvemantlis ja kollases peomütsis, toetades käed tumedale esiplaanile. Ta paistab jälgivat tegevust või suhtlevat kellegagi pildiväliselt, samal ajal kui pidu tema taga jätkub.",
+      "actions": [
+        "Tantsimine",
+        "Suhtlemine",
+        "Joomine (topsist)",
+        "Peo nautimine",
+        "Kummardumine/esile ilmumine (esimesel plaanil olev mees)"
+      ],
+      "keywords": [
+        "Pidu",
+        "Tants",
+        "Seltskond",
+        "Öö",
+        "Neoonvalgus",
+        "Rõõmus",
+        "Atmosfäär",
+        "Talvemantlid",
+        "Peomütsid",
+        "Siseruum"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Joogitopsid",
+        "Peomütsid",
+        "Talvemantlid",
+        "Valge karusnahast vest",
+        "Valge tool",
+        "Tumeda värvi anum/kast (paremal taga)",
+        "Telliskivi sein",
+        "Tume latt/reeling esiplaanil"
+      ],
+      "colorcodes": [
+        "#FF0000",
+        "#0000FF",
+        "#8B4513",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "1..."
+      ],
+      "persons": [
+        "Grupp täiskasvanuid",
+        "Mees pruunis talvemantlis ja kollases peomütsis (esiplaanil)",
+        "Naine valge karusnahast vestiga ja peomütsiga (keskel)",
+        "Inimesed roheliste ja punaste peomütsidega"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esiplaanil olev must latt/reeling liigub veidi üles ja vasakule esimese ja teise kaadri vahel.",
+        "Teises kaadris ilmub ekraani keskel allservas tekst \"1...\".",
+        "Kolmandas kaadris ilmub esiplaanile paremale mees pruunis talvemantlis ja kollases peomütsis, toetades käed esiplaanil olevale latile.",
+        "Inimeste asendid ja tegevused taustal muutuvad pidevalt, mis viitab video liikumisele."
+      ],
+      "snr": "077",
+      "ajad": [
+        "664.240",
+        "666.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab professionaalset filmimis- või fotostuudiot, mille taustaks on lai roheline ekraan, mis katab enamiku seintest ja ulatub põrandale. Stuudio keskel on üks mees rippumas tagurpidi, olles kinnitatud rakmetega köie külge, mis omakorda on ühendatud laes oleva kinnituskonstruktsiooniga. Mees kannab tumedaid riideid, mis näivad olevat must jope või talaar. Stuudios on paigutatud mitmesuguseid valgustus- ja filmimisseadmeid. Vasakul on kaks suurt musta softboxi statiividel, mis on suunatud stseenile. Paremal pool on suur valge reflektorplaat eredalt valgustatud, mis aitab stseeni heledamaks muuta. Põrandal on näha kaablid, väiksemaid statiive ja muid seadmeid, sealhulgas must kohver ja kott logoga \"SU\". Vasakul ääres on valge tahvel, millel on mõned visandid või märkmed. Üldine atmosfäär viitab aktiivsele tootmisprotsessile, kus valmistatakse ette visuaalefekte või keerulist pildistamist.",
+      "actions": [
+        "Inimese riputamine/vedrustamine",
+        "Filmimine/pildistamine",
+        "Erirekvisiitide seadistamine",
+        "Valgustamine"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Filmistuudio",
+        "Erirekvisiit",
+        "Suspendeeritud inimene",
+        "Tagurpidi",
+        "Valgustus",
+        "Pehmekarbid",
+        "Reflektor",
+        "Köis",
+        "Turvavarustus",
+        "Filmi võtted",
+        "Postproduktsioon",
+        "Visuaalsed efektid",
+        "Chroma key"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan",
+        "Mees",
+        "Köis",
+        "Rakmed",
+        "Valgustuspehmekarbid",
+        "Valgusstatiivid",
+        "Reflektor",
+        "Valgusallikas",
+        "Kaablid",
+        "Põrand",
+        "Tahvel",
+        "Must kohver/kast",
+        "Statiivid",
+        "Kott \"SU\" logoga",
+        "Ülemine kinnituskonstruktsioon"
+      ],
+      "colorcodes": [
+        "#37AC39",
+        "#E1E1E1",
+        "#1A1A1A",
+        "#0D0D0D",
+        "#5E5E5E",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "SU",
+        "Märkmed tahvlil"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pildid on identsed, erinevusi ei ole."
+      ],
+      "snr": "078",
+      "ajad": [
+        "666.760",
+        "669.080"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kolm inimest, kes seisavad rohelise ekraani taustal, mis viitab sellele, et tegemist on filmivõtetega või eriefektide loomisega. Vasakul on vanem naine, kes kannab paksu pruunikas-beeži jopet ja mütsi ning hoiab midagi helendavat või valgust kiirgavat oma kätes, mis heidab valgust tema näole ja riietele. Tema kõrval keskel seisab pikk ja kõhn mees tumedas pikas mantlis, vaadates otse ette või kergelt allapoole. Paremal on pikajuukseline noorem mees, seljas naastudega (või okastega) tume jope. Kõik kolm hoiavad tõsist nägu ning tunduvad olevat keskendunud. Üldine valgustus on hämar, luues salapärase ja dramaatilise meeleolu. Ülal vasakul paistab helevalge ekraan või valgusti. Keskel tagapool on näha ka tume mööblieseme moodi rekvisiit.",
+      "actions": [
+        "seisavad paigal",
+        "vaatavad ette või allapoole",
+        "hoiavad helendavat objekti (vanem naine)"
+      ],
+      "keywords": [
+        "roheline ekraan",
+        "filmivõtted",
+        "eriefektid",
+        "salapärane",
+        "dramaatiline",
+        "hämar valgus",
+        "stuudio",
+        "kolm inimest",
+        "naastudega jope",
+        "mantel",
+        "helendav objekt"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "roheline ekraan",
+        "mantel",
+        "jope",
+        "naastudega jope",
+        "müts",
+        "valgusallikas",
+        "monitor",
+        "rekvisiit (tume raam)",
+        "helendav objekt"
+      ],
+      "colorcodes": [
+        "#318231",
+        "#1D1C1C",
+        "#8F6F52",
+        "#FFFFFF",
+        "#C79E80"
+      ],
+      "texts": [],
+      "persons": [
+        "vanem naine",
+        "pikk mees (tumedas mantlis)",
+        "pikajuukseline mees (naastudega jopes)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel puuduvad nähtavad erinevused."
+      ],
+      "snr": "079",
+      "ajad": [
+        "669.080",
+        "671.480"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab pimedat õhuvõtet, kus keskel on näha maas lamavat inimest. Ta lamab selili, käed ja jalad veidi laiali. Ümberringi on asfalteeritud või betoneeritud ala, mis sarnaneb parklale või tänavale. Vasakul ja paremal pool on pargitud autod, mis annavad aimu urbanistlikust keskkonnast. Vasakul pool paistab ka üks ere kollakas valgusallikas, mis valgustab väikest ala. Üldine meeleolu on sügavalt tume ja salapärane, rõhutades sündmuse tõsidust või traagilisust. Taustal on märgata ka mõningaid heledamaid ringjaid kohti, mis võivad olla kanalisatsiooniluugid või muud maapinna elemendid. Valgus on väga napp ja dramaatiline, luues varjud ja hääbuvaid piirjooni.",
+      "actions": [
+        "inimene lamab liikumatult maas"
+      ],
+      "keywords": [
+        "öö",
+        "pimedus",
+        "inimene maas",
+        "parkla",
+        "autod",
+        "õhuvõte",
+        "traagiline",
+        "salapärane",
+        "õues",
+        "liikumatu"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "inimene",
+        "auto",
+        "parkimisala",
+        "valgusallikas",
+        "kanalisatsiooniluugid"
+      ],
+      "colorcodes": [
+        "#1e1e1e",
+        "#3a342c",
+        "#d4cb9c",
+        "#2d2929",
+        "#211e1f"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [],
+      "snr": "080",
+      "ajad": [
+        "671.480",
+        "674.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme inimest filmivõtetel rohelise ekraani taustal. Vasakul seisab vanem naine, kes kannab beeži toonides polsterdatud jopet ja sarnast peakatet. Tema kätes on näha valgust kiirgavat või helendavat eset. Algselt vaatab ta allapoole tõsise ilmega, kuid hiljem tõstab pilgu üles, tema suu on veidi avatud, väljendades üllatust või imestust. Keskel seisab mees tumedas mantlis, särgis ja lipsus. Ka tema vaatab alguses allapoole mõtliku või tõsise ilmega, ent hiljem pöörab pilgu üles, suu kergelt avatud, sarnase üllatunud või vapustatud ilmega. Paremal pool seisab mees pikkade heledate juustega, seljas naastudega must nahkjakk ja tumedam pusa. Tema pilk on kõigis kaadrites suunatud allapoole, tema ilme on intensiivne ja tõsine. Taustaks on lai roheline ekraan ja roheline põrand, mille keskel asub tume, ristkülikukujuline rekvisiit, mis meenutab kaminat või altarit. Rohelisel seinal on näha üks valgustatud monitor ja mitmeid väikeseid punaseid punkte, mis võivad olla markeerimiseks või rekvisiidid. Stseenis kasutatud valgus on kunstlik ja loob tegelaste ümber kontraste, eriti naise käes olevast esemest kiirgav valgus. Kõik viitab filmimise olukorrale, kus tegelased reageerivad millegile, mis lisatakse hiljem eriefektidega.",
+      "actions": [
+        "Inimesed seisavad paigal",
+        "Naine ja keskel olev mees muudavad pilgu suunda allapoole vaatamisest ülespoole",
+        "Naine hoiab helendavat eset",
+        "Tegelased reageerivad sündmustele näoilmetega"
+      ],
+      "keywords": [
+        "roheline ekraan",
+        "filmivõtted",
+        "siseruum",
+        "rekvisiidid",
+        "üllatus",
+        "tõsidus",
+        "näitlejad",
+        "eriefektid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "roheline ekraan",
+        "roheline põrand",
+        "monitor",
+        "punased täpid",
+        "tume ristkülikukujuline rekvisiit (kamin/altar)",
+        "polsterdatud jope",
+        "peakate",
+        "helendav ese",
+        "tume mantel",
+        "särk",
+        "lips",
+        "must nahkjakk",
+        "naastud",
+        "kapuutsiga pusa"
+      ],
+      "colorcodes": [
+        "#2F7730",
+        "#B9A588",
+        "#1A1A1A",
+        "#000000",
+        "#FFFFFF",
+        "#FF0000",
+        "#FFA500",
+        "#D4C1A5"
+      ],
+      "texts": [],
+      "persons": [
+        "vanem naine",
+        "mees tumedas mantlis",
+        "mees naastudega nahkjakis"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses ja teises kaadris vaatavad kõik kolm tegelast allapoole, tõsise või mõtliku ilmega.",
+        "Kolmandas kaadris tõstavad vanem naine ja keskel olev mees pilgu üles, väljendades üllatust või imestust, samal ajal kui paremal olev mees jätkab allapoole vaatamist."
+      ],
+      "snr": "081",
+      "ajad": [
+        "674.600",
+        "679.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist taevast, mida valgustavad värvilised ilutulestikud. Keskel ja paremal üleval domineerib suur ilutulestik, mis purskab välja lugematul hulgal säravaid kiiri. Algselt on kiired valged või kollakasvalged, moodustades tähistaolise või ümmarguse mustri. Aja möödudes ilutulestik paisub ja kiirte otstesse ilmuvad kirkad rohelised sädemed, luues rohelise helendava rõnga või halona ümber hääbuva valge tuuma. Samal ajal on näha ka teist ilutulestikku, mis tõuseb taeva poole, jättes endast maha pika, sädemeid pilduva jälje enne, kui ka see hajub. Ülejäänud taevas on sügavalt must ja pime, rõhutades ilutulestike valgusmängu intensiivsust.",
+      "actions": [
+        "Ilutulestik purskub",
+        "Ilutulestik süttib",
+        "Sädemeid lendab",
+        "Valgus hajub",
+        "Rakett tõuseb",
+        "Valguskiired levivad",
+        "Värvid muutuvad"
+      ],
+      "keywords": [
+        "Ilutulestik",
+        "Öötaevas",
+        "Paugutamine",
+        "Valgusshow",
+        "Sädemeid",
+        "Pühad",
+        "Tähistamine",
+        "Öö",
+        "Pimedus",
+        "Roheline",
+        "Valge",
+        "Rakett",
+        "Plahvatus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Ilutulestik",
+        "Rakett",
+        "Sädemed",
+        "Valguskiired"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#FFFFE0",
+        "#00FF00"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 70,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Peamine ilutulestik paisub aja jooksul ja selle valguskiirte otstesse ilmuvad rohelised sädemed.",
+        "Teine, alt üles tõusev ja sädemeid jättev rakett on nähtav esimestel kaadritel, kuid hilisemates kaadrites see kaob.",
+        "Ilutulestike intensiivsus ja levik arenevad, alates esmasest purskest, saavutades täieliku laiuse ja seejärel hääbudes."
+      ],
+      "snr": "082",
+      "ajad": [
+        "679.480",
+        "680.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab dünaamilist ilutulestiku plahvatust sügavas pimedas öötaevas. Pildiseeria näitab ilutulestiku arengut selle algsest tihedamast vormist kuni täieliku laialivalgumiseni. Kesksel kohal on suur, ümmargune valgete või hõbedaste sähvatuste ja sabade kobar, mis kiirgub keskpunktist välja nagu hiiglaslik, hõõguv anemoon või täht. Valgete sädemete vahel ja ilutulestiku servades on näha eredalt rohelisi punkte ja sädemeid, mis lisavad üldpildile värvikontrasti. Ümbritsev taevas on täiesti must, rõhutades ilutulestiku eredust ja isoleeritust. Puuduvad muud valgusallikad ega ümbritsevad maastiku detailid, mis laseb kogu tähelepanul keskenduda valgusmängule.",
+      "actions": [
+        "plahvatamine",
+        "sähvatamine",
+        "laialivalgumine",
+        "hajumine",
+        "valgustamine",
+        "särisemine"
+      ],
+      "keywords": [
+        "ilutulestik",
+        "öö",
+        "plahvatus",
+        "valgusmäng",
+        "särin",
+        "roheline",
+        "valge",
+        "must",
+        "pimedus",
+        "tähistamine",
+        "efekt"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "ilutulestik",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#00A800"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on ilutulestiku plahvatus kompaktsem ja sähvatuste jooned on lühemad ning tihedamalt koos.",
+        "Teisel pildil on ilutulestik laialdasemalt levinud, sähvatuste sabad on pikemad ja rohelised sädemed hakkavad rohkem välja paistma.",
+        "Kolmandal pildil on plahvatus oma haripunktis, täites suurema osa kaadrist, valged sabad on kõige pikemad ja rohelised sädemed on kõige arvukamad ja laialdasemalt jaotunud, andes ilutulestikule kõige täielikuma ja dünaamilisema kuju."
+      ],
+      "snr": "083",
+      "ajad": [
+        "680.600",
+        "684.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme erinevat inimest – vanemat naist, meest mustas mantlis ja meest neetidega nahkjakis – eraldi kaadrites rohelise ekraani taustal, mis viitab filmivõttele või visuaalefektide loomise protsessile. Kõik tegelased vaatavad ülespoole, reageerides nähtamatule elemendile, mis lisatakse hiljem postproduktsioonis. Taustal on näha tumedaid struktuure, mis võivad olla stuudioseina või rekvisiitide osad, ning rohelisel ekraanil on siin-seal punaseid markereid.",
+      "actions": [
+        "Üles vaatamine",
+        "Seismine",
+        "Reageerimine"
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Filminurga tagant",
+        "Näitlejad",
+        "Eriefektid",
+        "Postproduktsioon",
+        "Siseruum",
+        "Stuudio",
+        "Reageerimine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan",
+        "Tume uks",
+        "Tumedat värvi kapp/struktuur",
+        "Punased tuled/markerid",
+        "Naise beež jope",
+        "Barett",
+        "Sall",
+        "Kotid",
+        "Meeste tumedad mantlid/jakid",
+        "Neetidega nahkjakk"
+      ],
+      "colorcodes": [
+        "#00B000",
+        "#36302B",
+        "#FF0000",
+        "#C6B4A4",
+        "#1A1A1A",
+        "#201E1E",
+        "#C85050"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem naine",
+        "Mees",
+        "Mees pikkade juustega"
+      ],
+      "imagetype": "real",
+      "emptypercent": 50,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Igas kaadris on kujutatud erinevat inimest: esimene kaader näitab vanemat naist, teine kaader lühikeste juustega meest ja kolmas kaader pikkade juustega meest.",
+        "Isikutel on erinevad riietused: naisel on beež jope, barett ja sall; esimesel mehel on must mantel; teisel mehel on neetidega nahkjakk.",
+        "Kolmanda kaadri mehel on huulel väike vereplekk.",
+        "Taustal olevate tumedate struktuuride paigutus varieerub veidi kaadrite vahel: naise taga on tume uks, meeste taga on tumedam kappi meenutav struktuur punase tulega."
+      ],
+      "snr": "084",
+      "ajad": [
+        "684.480",
+        "694.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab dünaamilist ja värvilist ilutulestikku sügavas mustas öises taevas. Pime taust rõhutab eredate plahvatuste ja sädemete visuaalset kontrasti. Ilutulestik koosneb arvukatest valguskiirtest ja sädemejälgedest, mis levivad laiali eri suundades, luues abstraktseid ja keerukaid mustreid. Mõned plahvatused on tihedamad ja tsentreeritumad, kiirates valget ja kollakasoranži valgust, samas kui teised moodustavad pikki, looklevaid ja hajuvaid jooni üle kogu kaadri. Valgusjäljed varieeruvad intensiivsuselt ja pikkuselt, andes stseenile sügavuse ja liikumise tunde. Kohati on näha ka punakaid ja oranže sädemeid, mis lisavad värvigammat, kuigi domineerivad on valged ja kuldse varjundiga toonid. Stseen edastab pidulikku ja energilist õhkkonda, kus taevas on täidetud kiirete ja kaduvate valgusetendustega.",
+      "actions": [
+        "Ilutulestiku plahvatamine",
+        "Sädemete ja valguskiirte lendlemine",
+        "Valguse hajumine ja levimine"
+      ],
+      "keywords": [
+        "Ilutulestik",
+        "Öötaevas",
+        "Plahvatused",
+        "Sädemed",
+        "Valguskiired",
+        "Pime",
+        "Pidustus",
+        "Eredus",
+        "Dünaamika",
+        "Abstraktne"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Ilutulestik"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#FFD700",
+        "#FF4500",
+        "#FFA500"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel kaadril on ilutulestik hõredam, keskelt paistab üks intensiivne valge plahvatus, mille ümber on pikad, hajuvad heledad jäljed.",
+        "Teisel kaadril on ilutulestik tihedam ja laialdasem, täites suurema osa kaadrist oranžikate ja valgete sädemetega, mis moodustavad tiheda, mitmeplahvatusega mustri, sisaldades ka üksikuid punakaid sädemeid.",
+        "Kolmandal kaadril on ilutulestik tihedam kui esimesel, kuid veidi hõredam kui teisel. Valgusjäljed on pikemad ja selgemalt eristuvad, peamiselt valged ja kollakasoranžid, andes stseenile rohkem liikumise ja voogamise tunde."
+      ],
+      "snr": "085",
+      "ajad": [
+        "694.680",
+        "704.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat inimest, tõenäoliselt naist, kes on pildistatud poollähivõttes rinnust ülespoole. Ta kannab pruunikat barette, paksu helepruuni jopet ja salli. Tema nägu on valgustatud altpoolt tuleva sooja, oranži valgusega, mis loob dramaatilised varjud ja rõhutab ilmet. Ta ilme muutub stseeni jooksul šokist ja üllatusest kuni sügava vapustuseni. Alguses on ta silmad laiad ja suu avatud, justkui oleks ta midagi ootamatut ja hirmutavat näinud. Seejärel proovib ta oma emotsioone tagasi hoida, pingutades oma nägu. Lõpuks katab ta oma käega suu, justkui püüdes häält või karjet tagasi hoida, samal ajal kui silmad on endiselt laiad ja pilk suunatud ülespoole, mis annab märku, et ta on tunnistajaks millelegi intensiivsele. Taustal on vasakul pool näha erkroheline ekraan, mida kasutatakse eriefektide loomiseks, paremal pool on tume ja ähmane interjöör, mis annab vihje siseruumidele.",
+      "actions": [
+        "Vapustatud ilme hoidmine",
+        "Suu avamine ja sulgemine",
+        "Pea pööramine",
+        "Käega suu katmine",
+        "Pilgu hoidmine ülespoole",
+        "Emotsioonide talitsemine"
+      ],
+      "keywords": [
+        "Šokk",
+        "Üllatus",
+        "Hirm",
+        "Vanem naine",
+        "Soe valgus",
+        "Roheline ekraan",
+        "Emotsioon",
+        "Vapustus",
+        "Filmivõtted",
+        "Dramaatiline",
+        "Talveriided"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Barett",
+        "Jope",
+        "Sall",
+        "Roheline ekraan"
+      ],
+      "colorcodes": [
+        "#409040",
+        "#A07050",
+        "#FFB070",
+        "#201008"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimesel kaadril on isiku suu avatud ja ilme on selgelt šokeeritud. Pilk on suunatud otse üles.",
+        "Teisel kaadril on isiku suu veidi suletud ja ilme pinges, justkui ta prooviks oma emotsioone talitseda. Pilk on veidi alla ja paremale suunatud.",
+        "Kolmandal kaadril on isik katnud oma suu käega, väljendades sügavat vapustust või hirmu, samal ajal kui silmad on endiselt laiad ja pilk suunatud taas üles."
+      ],
+      "snr": "086",
+      "ajad": [
+        "704.120",
+        "710.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pikajuukselist, habemega meest filmivõtetel rohelise ekraani taustal. Mees kannab musta kapuutsi all musta nahkset jakki, mille õlal on näha metallist needid. Tema juuksed on pikad, heledad ja kergelt sassis. Valgustus on dramaatiline, heites mehe näole ja juustele sooja, punakaid toone paremalt poolt (vaataja vaatenurgast), samal ajal kui tema vasak pool jääb varju. Roheline ekraan on valgustatud ja sellel on näha mõned oranžikad täpid, mis võivad olla jälgimismärgid või valguse peegeldused. Stseeni jooksul pöörab mees oma pead aeglaselt paremalt vasakule, alustades profiilis paremale vaatamisest ja lõpetades kolmveerandprofiilis, pilk suunatud kergelt vasakule, näol üllatunud või murelik ilme, justkui oleks ta midagi ootamatut märganud.",
+      "actions": [
+        "pea pööramine",
+        "vaatamine",
+        "reageerimine"
+      ],
+      "keywords": [
+        "roheline ekraan",
+        "filmi võtted",
+        "mees",
+        "pikk juuksed",
+        "nahktagi",
+        "dramaatiline valgustus",
+        "üllatus",
+        "stuudio",
+        "postproduktsioon"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "roheline ekraan",
+        "nahktagi",
+        "kapuuts",
+        "needid"
+      ],
+      "colorcodes": [
+        "#318237",
+        "#1A1A1A",
+        "#AB260A",
+        "#997B4D",
+        "#C79A7C"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe pea asend muutub paremalt profiilist kolmveerandprofiili suunas vasakule.",
+        "Mehe näoilme areneb rahulikust või mõtlikust üllatunud või murelikuks."
+      ],
+      "snr": "087",
+      "ajad": [
+        "710.000",
+        "717.480"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud keskealist meest, kes vaatab ülespoole või otse ette kergelt üllatunud ja šokeeritud ilmega. Tema suu on veidi avatud ning silmad on laiad. Mees kannab tumedat mantlit või ülikonnajakki tumeda särgi ja lipsuga. Tema kaelale ja lõuale langeb ere punakas kuma, mis viitab tugevale valgusallikale kaadri alumisest osast. Taustaks on ühtlane rohekas-sinine pind, mis on tüüpiline kroma key ekraan, vihjates filmivõtetele. Tagaplaanil, paremal pool, on näha tumepruuni horisontaalset objekti, mis meenutab letti või riiulit, ning selle kohal paistab väike punane märgutuli. Üldine atmosfäär on pingeline ja ootust täis.",
+      "actions": [
+        "Vaatamine ülespoole või otse ette",
+        "Näoilme muutumine üllatusest šokiks"
+      ],
+      "keywords": [
+        "Mees",
+        "Üllatus",
+        "Šokk",
+        "Roheline ekraan",
+        "Kroma key",
+        "Filmivõtted",
+        "Valgusmäng",
+        "Siseruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Mantel",
+        "Särk",
+        "Lips",
+        "Rohekas-sinine taust",
+        "Tumepruun struktuur",
+        "Punane märgutuli"
+      ],
+      "colorcodes": [
+        "#4D9A75",
+        "#16181B",
+        "#6E2D2F",
+        "#C02D2E",
+        "#B58F78"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesed kaks pilti on praktiliselt identsed, näidates sama hetke mehe ülespoole suunatud pilgu ja kergelt avatud suuga.",
+        "Kolmandal pildil on mehe pilk nihkunud veidi allapoole ning tema suu on selgemalt avatud, mis intensiivistab tema üllatunud või šokeeritud ilmet. Pea asend on samuti pisut muutunud."
+      ],
+      "snr": "088",
+      "ajad": [
+        "717.480",
+        "726.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme inimest, kes seisavad tumedal platvormil laia rohelise ekraani ees, mis on tõenäoliselt ette nähtud visuaalefektide loomiseks. Inimesed on valdavalt siluetid, valgustatud tagant ja veidi eestpoolt, mis toob esile nende kontuurid ja riietuse. Vasakpoolne isik kannab tumedaid riideid, sh jakki ja kitsaid pükse, ning tal on pikad juuksed. Keskel seisab meesterahvas tumedas ülikonnas või mantlis. Parempoolne isik on riietatud heledasse, paksu jopesse või mantlisse. Rohelisel ekraanil on näha mitmeid väikeseid punaseid markereid või ristikesi, mida kasutatakse kaadrite jälgimiseks ja positsioneerimiseks eriefektide loomisel. Platvormi servadel on näha kaks tumedat, silindrilist eset, mis võivad olla valgustid või rekvisiidid. Stseen näib olevat filmivõtteplatsil või proovisaalis, kus valmistutakse eriefektidega seotud stseeniks.",
+      "actions": [
+        "Vasakpoolne isik liigutab pead: esmalt on pea allapoole suunatud, seejärel tõstab ta seda järk-järgult üles, kuni vaatab otse ette.",
+        "Keskmine ja parempoolne isik seisavad paigal, nende kehahoiak ja asend jäävad muutumatuks."
+      ],
+      "keywords": [
+        "Roheline ekraan",
+        "Chroma key",
+        "Võtteplats",
+        "Eriefektid",
+        "Siluetid",
+        "Markerid",
+        "Näitlejad",
+        "Stuudio",
+        "Platvorm"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Roheline ekraan",
+        "Tume platvorm",
+        "Punased markerid",
+        "Tumedad silindrilised esemed (võimalikud prožektorid või rekvisiidid)",
+        "Püksid",
+        "Jakid/mantlid"
+      ],
+      "colorcodes": [
+        "#306B36",
+        "#1F1D1E",
+        "#B6C8D6",
+        "#E60000"
+      ],
+      "texts": [],
+      "persons": [
+        "Kolm inimest (üks mees ja kaks arvatavasti naisterahvast, kuigi siluettide tõttu on täpne sugu raske määratleda)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Peamine erinevus piltide vahel on vasakpoolse isiku pea asend. Esimesel pildil on tema pea allapoole suunatud, teisel on see veidi tõstetud ja kolmandal vaatab ta otse ette.",
+        "Keskmise ja parempoolse isiku asend ja kehahoiak ning ülejäänud stseen (roheline ekraan, markerid, platvorm ja esemed platvormil) jäävad kõigil kolmel pildil samaks."
+      ],
+      "snr": "089",
+      "ajad": [
+        "726.160",
+        "742.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab filmi või video lõputiitreid, mis on esitatud mustal taustal valge tekstina. Esimene kaader on täiesti must, justkui eelmise tiitrite jupi ja järgmise vaheline paus või sissejuhatus. Teine kaader kuvab konkreetset infot, sealhulgas rollid nagu 'Catering' ja 'Translator' koos inimeste nimedega ('Heli Jurisson', 'Heli Luik', 'Greta Varts'). Lisaks on esitatud jaotis 'Special Thanks to', mis loetleb mitmeid isikuid ja organisatsioone, näiteks 'Postimees', 'Hendrik Saks/Saksavalguus', 'Christian Routh', 'Heiki Luts/Frost FX' jt. Tekst on selge ja professionaalne, viidates ametlikele tunnustustele ja tänuavaldustele tootmise lõpus. Kogu stseen on minimalistlik ja keskendub ainult informatsiooni edastamisele.",
+      "actions": [
+        "Teksti kuvamine",
+        "Teksti kerimine või vahetamine"
+      ],
+      "keywords": [
+        "Lõputiitrid",
+        "Must taust",
+        "Valge tekst",
+        "Tunnustus",
+        "Filmitootmine",
+        "Tänusõnad",
+        "Krediidid"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Heli Jurisson",
+        "Catering",
+        "Heli Luik",
+        "Translator",
+        "Greta Varts",
+        "Special Thanks to",
+        "Postimees",
+        "Hendrik Saks/Saksavalguus",
+        "Christian Routh",
+        "Heiki Luts/Frost FX",
+        "Raul Tõnurist",
+        "Kirke Tinno",
+        "Anu Rautakost",
+        "Christian Routh",
+        "Peeter Simm",
+        "Elen Lotman",
+        "Rauno Linnamäe"
+      ],
+      "persons": [
+        "Heli Jurisson",
+        "Heli Luik",
+        "Greta Varts",
+        "Hendrik Saks",
+        "Christian Routh",
+        "Heiki Luts",
+        "Raul Tõnurist",
+        "Kirke Tinno",
+        "Anu Rautakost",
+        "Peeter Simm",
+        "Elen Lotman",
+        "Rauno Linnamäe"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on täielikult must, ilma igasuguse tekstita, samas kui teisel pildil on nähtavad lõputiitrid valge tekstina mustal taustal. See näitab tiitrite edasikerimist või erinevate sektsioonide vaheldumist."
+      ],
+      "snr": "090",
+      "ajad": [
+        "742.200",
+        "775.600"
+      ]
+    }
+  ]
+}

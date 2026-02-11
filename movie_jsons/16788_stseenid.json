@@ -1,0 +1,2123 @@
+{
+  "film": [
+    "16788",
+    "16666",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Õhuloss",
+    "079ce8e3b519a698a88f4dab3ac2ee616c47c837.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab ja lõpeb täiesti musta ekraaniga. Kaadrite vahel ilmub mustale taustale keskele logo ja tekst. Logo koosneb kolmest värvilisest ringist – punane, roheline ja sinine – mis on paigutatud kolmnurka, mille keskel on väike valge punkt. Logo paremal küljel on valge tekst \"BFM\" ja selle all \"Baltic Film and Media School\". See on lühike ja minimalistlik animatsioon, tõenäoliselt sissejuhatus või lõputiiter filmile või videole.",
+      "actions": [
+        "Logo ilmumine",
+        "Teksti ilmumine",
+        "Pildi kadumine"
+      ],
+      "keywords": [
+        "Logo",
+        "Tekst",
+        "Must taust",
+        "Animatsioon",
+        "Filmiinstituut",
+        "BFM",
+        "Sissejuhatus"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Logo",
+        "Punane ring",
+        "Roheline ring",
+        "Sinine ring",
+        "Valge punkt",
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FF0000",
+        "#00FF00",
+        "#0000FF",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "BFM",
+        "Baltic Film and Media School"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene ja viimane kaader on täiesti mustad.",
+        "Keskmine kaader sisaldab mustal taustal värvilist logo ja valget teksti."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "14.760"
+      ]
+    },
+    {
+      "explanation": "Stseen algab pilvise taeva all lendava ühemootorilise propellerlennukiga, mis liigub horisontaalselt vasakult paremale. Lennuk on heledat värvi, tõenäoliselt hõbedane või helesinine, ja sellel on tiibade all telik ning kerel märgistused. Taevas on kaetud valgete ja hallide pilvedega, luues üsna heleda, kuid sombuse atmosfääri. Stseeni arenedes lennuk kaob ja pilved muutuvad järjest tumedamaks ja tihedamaks. Teises etapis valitsevad tumedamad hallikaspruunid pilved, mis loovad horisontaalse tumeda vööndi ja annavad õhustikule ähvardavama ilme. Kolmandas etapis muutub stseen peaaegu täielikult mustaks, kusjuures vaid vaevumärgatavad tumepruunid varjundid annavad tunnistust pilvede olemasolust, süvendades tunnet sügavast pimedusest või halvast ilmast. Üldine meeleolu muutub heledast ja pilvisest süngeks ja pimedaks.",
+      "actions": [
+        "Lennuk lendab",
+        "Taevas tumeneb",
+        "Pilved muutuvad tihedamaks",
+        "Stseen hajub pimedusse"
+      ],
+      "keywords": [
+        "Lennuk",
+        "Pilved",
+        "Taevas",
+        "Lend",
+        "Pimedus",
+        "Meteoroloogia",
+        "Halb ilm",
+        "Üleminek",
+        "Atmosfäär"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Lennuk",
+        "Pilved",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#A7AFB5",
+        "#999DA3",
+        "#5F5C5B",
+        "#1A1817"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha lennukit pilvede taustal, teistel piltidel lennuk puudub.",
+        "Piltide järjestuses muutub taevas järjest tumedamaks, heledatest hallidest pilvedest tumedate pruunikhallide toonideni ja lõpuks peaaegu täieliku mustuseni.",
+        "Valgustus väheneb drastiliselt esimeselt pildilt viimasele, muutudes päevasest valgusesäritusest peaaegu täielikuks pimeduseks.",
+        "Pilvede struktuur ja tihedus muutuvad, muutudes esimesel pildil selgemalt eristuvatest valgetest ja hallidest pilvedest teisel pildil tihedaks ja ühtlaseks tumedaks massiks ning kolmandal pildil peaaegu eristamatuks tumedaks massiks."
+      ],
+      "snr": "003",
+      "ajad": [
+        "23.120",
+        "28.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort last, tõenäoliselt poissi, kes kannab piloodikostüümi pimedas keskkonnas. Laps on riietatud karvasse aviaatorimütsi, mille küljes on prillid, ning tumerohelisse lennujakki, millel on mitmeid embleeme. Ta vaatab üles ja veidi paremale, tema näoilme on mõtlik või imestunud. Taust on udune ja peaaegu täielikult pimendatud, kuid paistavad pehmed, udused ja kollakasoranžid valgusallikad, mis viitavad kunstlikule valgusele öisel ajal. Üldine atmosfäär on salapärane, unistav ja ehk veidi nostalgiline.",
+      "actions": [
+        "Laps vaatab üles",
+        "Laps jälgib midagi taevas või kõrgemal"
+      ],
+      "keywords": [
+        "Laps",
+        "Piloot",
+        "Aviaator",
+        "Kostüüm",
+        "Öö",
+        "Pimedus",
+        "Unistus",
+        "Vaatamine",
+        "Imestus",
+        "Lennujakk",
+        "Prillid",
+        "Müts"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Aviaatorimüts",
+        "Prillid",
+        "Lennujakk",
+        "Embleemid (jakil)",
+        "Udused valgusallikad taustal"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#3C4B3E",
+        "#736E67",
+        "#D5B19E",
+        "#F0C44C",
+        "#2A2A2A"
+      ],
+      "texts": [
+        "FLYING OF EAGLES",
+        "ACE"
+      ],
+      "persons": [
+        "Laps",
+        "Poiss"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesed kaks pilti on peaaegu identsed, näidates last selge fookusega ja sarnase poosiga. Väiksed erinevused võivad olla tingitud kaamera pisikesest nihkest või lapse näoilme õrnast muutusest kaadrite vahel.",
+        "Kolmas pilt erineb oluliselt: see on hägune ja fookusest väljas, kujutades lapse jakist ja õlast lähivõtet, kusjuures lapse nägu pole näha. See viitab kaamera liikumisele või stseeni üleminekule."
+      ],
+      "snr": "004",
+      "ajad": [
+        "28.640",
+        "33.040"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub pimedal kaubasadama kail öisel ajal, mida valgustavad kunstlikud tuled. Suur laev on taustal dokitud, selle tumedat siluetti ja tekiehitisi on vaevu näha. Kail on näha lund või jäälaike, mis viitab külmale ilmale. Esiplaanil tegeleb üks mees, riietatud tumedasse madrusevormi ja mütsi, paksu valge ja rohelise/türkiissinise köiega, sidudes seda kollase polleri ümber. Temast paremal seisab teine mees, tõenäoliselt ohvitser, pikas tumedas mantlis ja mütsis, jälgides toimuvat. Kaadri paremas servas on näha oranži elupäästerõngast. Äkitselt ilmub kaadri paremalt servalt jooksuhoos väike laps, kes on riietatud tumedasse jopesse ja mütsi, läbides kiiresti kaid ja möödudes meestest ning köitest. Lapse kiire liikumine on edasi antud kerge uduse efektiga.",
+      "actions": [
+        "Madrus kinnitab/lahutab köisi",
+        "Ohvitser jälgib",
+        "Laps jookseb mööda kaid"
+      ],
+      "keywords": [
+        "Sadam",
+        "Öö",
+        "Laev",
+        "Kai",
+        "Köied",
+        "Madrus",
+        "Ohvitser",
+        "Laps",
+        "Talv",
+        "Pimedus",
+        "Liikumine",
+        "Elupäästerõngas",
+        "Dokkimine"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Laev",
+        "Kai",
+        "Köied",
+        "Pollar",
+        "Elupäästerõngas",
+        "Puidust pruss/palk",
+        "Mütsid",
+        "Mundrid",
+        "Jope",
+        "Lume- või jäälaigud"
+      ],
+      "colorcodes": [
+        "#1f242e",
+        "#f3f3f3",
+        "#84a78c",
+        "#e3a53e",
+        "#b13c1c",
+        "#3a3d46"
+      ],
+      "texts": [
+        "NUE"
+      ],
+      "persons": [
+        "Madrus",
+        "Ohvitser",
+        "Laps"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil puudub laps täielikult.",
+        "Teisel pildil ilmub laps kaadri paremast servast ja on just alustanud jooksmist vasakule.",
+        "Kolmandal pildil on laps liikunud veelgi vasakule, möödudes meestest, ning tema liikumine on kiiruse tõttu udune. Madrus on veidi püstisemas asendis kui eelmistel piltidel."
+      ],
+      "snr": "005",
+      "ajad": [
+        "33.040",
+        "36.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist ööd välitingimustes, kus domineerib suur, omapärane hoone, mis meenutab angaari või näitusehalli. Maapind on kaetud lumega. Hoone esiosa on kaetud tumeda, geomeetrilise, rombikujulise mustriga fassaadiga, mis on altpoolt valgustatud, luues valguse ja varjude mängu. Hoone ülemine osa on tumedam, kaarduva katusega. Vasakus servas on näha dekoratiivseid tulesid, mis meenutavad jõulutulesid. Hoone ees ja ümber on mitu kõrget posti ning kaugemal paremal tänavavalgusteid. Taevas on pime ja pilvine, mis rõhutab öist aega. Stseeni alguses on vasakul esiplaanil suur sõiduki rehv ja paremal pool on osaliselt näha inimest, kes paistab kõndivat lumisel pinnasel.",
+      "actions": [
+        "Inimene kõnnib",
+        "Kaamera liigub (panoramineb/jälgib)",
+        "Valgustus on sisse lülitatud"
+      ],
+      "keywords": [
+        "Öö",
+        "Lumi",
+        "Talv",
+        "Välitingimused",
+        "Hoone",
+        "Angaar",
+        "Modernne arhitektuur",
+        "Geomeetriline muster",
+        "Valgustatud fassaad",
+        "Pime taevas",
+        "Sõiduki rehv",
+        "Inimene",
+        "Postid",
+        "Tänavavalgustus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone",
+        "Lumi",
+        "Tänavavalgustid",
+        "Postid",
+        "Sõiduki rehv",
+        "Sõiduk (osaliselt)",
+        "Inimene (osaliselt)",
+        "Dekoratiivtuled"
+      ],
+      "colorcodes": [
+        "#262626",
+        "#A0A0A0",
+        "#FFFFFF",
+        "#D0B480"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Kaamera perspektiiv nihkub vasakult paremale, avades järjest laiema vaate stseenile.",
+        "Esimesel pildil on vasakul esiplaanil suur sõiduki rehv ja paremal on näha inimese jalgu/alaha. Järgmistes piltides need elemendid kaovad pildiraamist, tuues esile hoone ja selle ümbruse.",
+        "Viimasel pildil on näha hoonet täies ulatuses koos selle ümbrusega paremal pool, mis varem oli varjatud."
+      ],
+      "snr": "006",
+      "ajad": [
+        "36.240",
+        "46.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab suurt, tumedat ja futuristlikku oktagonaalset metallkonstruktsiooni, mis meenutab hiiglaslikku drooni või õhulaeva propulsioonisüsteemi, vaadatuna alt üles pimedas keskkonnas. Konstruktsiooni küljes on suur kolmeharuline propeller, mis pöörleb. Valguskiired valgustavad konstruktsiooni alumisi servi ning langevad alla tumedale, ebakorrapärase tekstuuriga pinnale, mis meenutab liivast või tolmupinnast angari põrandat või koopa põhja. Üldine atmosfäär on sünge, salapärane ja tööstuslik, rõhutades seadme massiivsust ja tehnoloogilist olemust. Taust on valdavalt sügavmust, vihjates piiritule või väga sügavale ruumile.",
+      "actions": [
+        "Propeller pöörleb",
+        "Valgus langeb alla"
+      ],
+      "keywords": [
+        "Futuristlik",
+        "Droon",
+        "Õhulaev",
+        "Propeller",
+        "Oktagonaalne",
+        "Tööstuslik",
+        "Müstiline",
+        "Pime",
+        "Ulme",
+        "Vari"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Oktagonaalne metallkonstruktsioon",
+        "Propeller",
+        "Valgusallikas",
+        "Tekstuuriga pind (põrand/maa)",
+        "Varjud"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#333d42",
+        "#6f8897"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Propelleri asend ja pöörlemine on iga kaadri vahel muutunud, näidates selle liikumist.",
+        "Propelleri tekitatud vari alumisel pinnal on iga kaadriga muutunud ja viitab aktiivsele pöörlemisele."
+      ],
+      "snr": "007",
+      "ajad": [
+        "46.560",
+        "54.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab müstilist ja pimedat veekogu, mis on kaetud sinakasrohelise udu või auruga. Esiplaanil hõljub detailne mudellaev, mis meenutab vanaaegset aurulaeva või väiksemat reisilaeva. Laeval on tume kere, hele tekk, kaks kollast korstnat ja mastid. Ahtris lehvib Eesti lipp. Vesi on tume ja peegeldav, luues laeva siluetist ähvardava reflektsiooni. Vasakult poolt tungib sisse ere sinakasroheline valgus, mis valgustab udust õhustikku ja laeva vasakut külge. Tagaplaanil on näha veel teine, väiksem ja tumedam paat või laev, mis liigub samas uduses keskkonnas. Kogu stseen on dramaatiline ja salapärane, jättes mulje sügavast merest või suduse ööga kaetud veekogust.",
+      "actions": [
+        "Laevad hõljuvad vees",
+        "Valgus hajutab udu"
+      ],
+      "keywords": [
+        "Laevamudel",
+        "Udu",
+        "Vesi",
+        "Öö",
+        "Müsteerium",
+        "Sinine valgus",
+        "Aurulaev",
+        "Miniatuur",
+        "Reflektsioon",
+        "Eesti lipp",
+        "Sügavus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Laevamudel",
+        "Veepind",
+        "Eesti lipp",
+        "Korstnad",
+        "Mastid",
+        "Teine laev",
+        "Valgusallikas",
+        "Udu"
+      ],
+      "colorcodes": [
+        "#0C1E26",
+        "#1A3E4D",
+        "#225166",
+        "#C0A150",
+        "#CDB267",
+        "#D6D6D6",
+        "#CFCFCF",
+        "#1F2228",
+        "#181A1D",
+        "#1E73B9"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Tagaplaanil asuva teise laeva nähtavus suureneb järk-järgult esimesest pildist kolmandani, muutudes selgemaks ja detailsemaks.",
+        "Tagaplaanil asuva laeva asukoht nihkub piltide edenedes paremale ja ilmub veidi lähemale.",
+        "Vasakult tuleva sinakasrohelise valguse ulatus ja intensiivsus suureneb piltide vahel, valgustades rohkem stseeni ja hajutades udust varju.",
+        "Üldine stseeni selgus ja detailsus taustal paraneb esimesest pildist kolmandani."
+      ],
+      "snr": "008",
+      "ajad": [
+        "54.840",
+        "59.680"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud suur rohekaspruuni värvi sõjaline masin, tõenäoliselt liikuv õhutõrjekahur (SPAAG), mis asub siseruumides, meenutades muuseumi või näitusepaika. Ümbruskond on täidetud tiheda suitsu või uduga, mis annab stseenile salapärase ja dramaatilise atmosfääri ning hajutab valgust. Masinal on kaks pikka kahuritoru ja radaritaoline torn. Pildistatud on läbi läbipaistva barjääri, mis võib olla klaasist sein, ja see ulatub horisontaalselt üle pildi alumise osa. Vasakpoolsel esiplaanil on näha ruuduline põrand. Taustal on hämaralt valgustatud seinad, millel on graffiteid. Paremalt poolt tuleb tugev, võimalik, et sinaka tooniga valgusallikas, mis valgustab suitsu ja loob kontraste varjudega. Üldine mulje on võimas, sünge ja intrigeeriv.",
+      "actions": [
+        "Sõiduki eksponeerimine",
+        "Suitsuefekti loomine"
+      ],
+      "keywords": [
+        "Tank",
+        "Lahingumasin",
+        "Õhutõrjekahur",
+        "Sõjamuuseum",
+        "Näitus",
+        "Suits",
+        "Udu",
+        "Pime",
+        "Klaas",
+        "Siseruum",
+        "Graffiti",
+        "Atmosfääriline",
+        "Varjud"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Lahingumasin",
+        "Tank",
+        "Suits",
+        "Udu",
+        "Klaasist vahesein",
+        "Seinad",
+        "Graffitid",
+        "Põrand",
+        "Valgusallikad"
+      ],
+      "colorcodes": [
+        "#262626",
+        "#666A59",
+        "#718F9A",
+        "#D0D0D0",
+        "#CFCFCF",
+        "#282828"
+      ],
+      "texts": [
+        "Graffiti"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on näha kerge suitsu/udu liikumine ja hajumine, mis on tingitud atmosfääriefektist."
+      ],
+      "snr": "009",
+      "ajad": [
+        "59.680",
+        "63.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast pimedat ja udust sisekeskkonda, kus domineerivad soojad valguskiired, mis lõikuvad läbi õhus oleva udu või suitsu, luues dramaatilise ja müstilise atmosfääri. Keskel on näha selja tagant üks inimene, kes kõnnib mööda kitsast, puidust käsipuude ja võrgust/köitest reelingutega varustatud käiguteed. Käigutee on valgustatud mitme tööstusliku stiiliga laelambi abil, mis heidavad tugevaid valgusvihke. Ümbritsev taust on peamiselt sügavates tumesinistes ja hallides toonides, mis neelavad suure osa valgusest, jättes vaid esile tõstetud alad valgustatuks. Valguse ja varjude mäng loob sügavuse ja saladusliku tunde.",
+      "actions": [
+        "Inimene kõnnib edasi",
+        "Inimene sirutab kätt, hoides midagi käes"
+      ],
+      "keywords": [
+        "Pime",
+        "Udu",
+        "Valguskiired",
+        "Käigutee",
+        "Müsteerium",
+        "Üksildus",
+        "Seiklus",
+        "Varjud",
+        "Tööstuslik",
+        "Hirmutav"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Lambid",
+        "Valguskiired",
+        "Käigutee",
+        "Käsipuud",
+        "Võrk/köied reelingul",
+        "Punane ese käes"
+      ],
+      "colorcodes": [
+        "#1a1a1e",
+        "#ffb366",
+        "#5e4c3d",
+        "#2e3032",
+        "#e25a50"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Inimese parema käe asend varieerub piltide vahel: esimesel pildil on käsi tõstetud kõrgemale ja suunatud veidi ülespoole, teisel pildil on käsi veidi allpool ja rohkem ette sirutatud, hoides selgelt punast eset, kolmandal pildil on käsi täielikult all ja inimene kõnnib otse edasi.",
+        "Punane ese on kõige selgemalt näha teisel pildil."
+      ],
+      "snr": "010",
+      "ajad": [
+        "63.240",
+        "69.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort poissi, kes liigub läbi tiheda udu või suitsuga täidetud, hämaralt valgustatud siseruumi, mis sarnaneb koridori või käiguga. Kaks tumedat, allapoole suunatud lampi, mis seisavad kõrgetel alustel, valgustavad stseeni ülevalt, tekitades eredaid valgusvihke, mis läbistavad uduse atmosfääri. Poiss, riietatud tumedasse jakki ja heledatesse pükstesse, hoiab käes taskulampi, mille ere kiir valgustab otse tema ette teed. Ta liigub aeglaselt vaataja poole, muutudes udust läbi tulles progressively selgemaks. Taustal olevad konstruktsioonid, nagu seinad või piirded, on udu tõttu ähmased ja aimatavad, luues müstilise ja pisut pingelise õhkkonna. Valgusmäng ja udu rõhutavad poisi üksildast teekonda läbi pimeduse.",
+      "actions": [
+        "Poiss kõnnib / liigub edasi",
+        "Poiss hoiab taskulampi",
+        "Taskulamp valgustab teed",
+        "Laternad valgustavad stseeni ülevalt",
+        "Udu täidab ruumi"
+      ],
+      "keywords": [
+        "udu",
+        "suits",
+        "koridor",
+        "käik",
+        "laps",
+        "poiss",
+        "taskulamp",
+        "hämar",
+        "müstiline",
+        "pingeline",
+        "valgusvihk",
+        "varjud",
+        "seiklus",
+        "siseruum"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "taskulamp",
+        "lamp",
+        "valgusvihud",
+        "udu",
+        "suits",
+        "sein",
+        "piire",
+        "põrand"
+      ],
+      "colorcodes": [
+        "#2a2c3a",
+        "#d3b482",
+        "#ffffff",
+        "#2c333a",
+        "#a0a0a0"
+      ],
+      "texts": [],
+      "persons": [
+        "poiss",
+        "laps"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Peamine erinevus piltide vahel on poisi asukoht kaadri sügavuses – igas järgnevas kaadris on poiss liikunud vaatajale lähemale. Esimeses kaadris on ta kõige kaugemal ja kõige udusem, teises kaadris on ta lähemal ja veidi selgemalt eristatav ning kolmandas kaadris on ta kõige lähemal, hõlmates suurema osa kaadrist ja pakkudes rohkem detaile.",
+        "Taskulambi valguskiir ja selle mõju udule muutuvad poisi lähenemisel, näidates dünaamikat stseenis.",
+        "Kuigi üldine atmosfäär jääb samaks, muutub poisi figuur ja riietus detailsemaks, kui ta lähemale tuleb."
+      ],
+      "snr": "011",
+      "ajad": [
+        "69.680",
+        "72.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast pimedat ja suitsust siseruumi, mis sarnaneb laohoone või tööstusliku rajatisega. Õhk on täis hajutatud udu või suitsu, millest lõikuvad läbi intensiivsed sinakasvalged valguskiired, luues müstilise ja dramaatilise atmosfääri. Vasakul pool on näha suur tume ristkülikukujuline objekt, mis sulandub varjudesse. Stseeni keskel ripub laest alla tume kerajas või ovaalne ese, mis on ühe valguskiire poolt osaliselt valgustatud. Selle all maapinnal on veel üks tume ristkülikukujuline ese, mis paistab olevat mingi alus või masin. Paremal pool on nähtav suur kaarjas struktuur vertikaalsete ribadega, mis võib olla aken, ventilatsiooniava või osa hoone konstruktsioonist. Üldine meeleolu on salapärane, sünge ja tööstuslik.",
+      "actions": [
+        "Valgusallika intensiivsuse muutumine",
+        "Suitsu või udu hajumine/liikumine valguses",
+        "Varjude muutumine valguse vähenemise tõttu"
+      ],
+      "keywords": [
+        "Tööstusruum",
+        "Ladu",
+        "Pimedus",
+        "Suits",
+        "Udu",
+        "Valguskiired",
+        "Salapärane",
+        "Sünge",
+        "Tume",
+        "Tööstuslik"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Suur kapp/masin",
+        "Rippuv kerajas ese",
+        "Alus/masin",
+        "Kaarjas struktuur/aken",
+        "Valguskiired",
+        "Suits/udu"
+      ],
+      "colorcodes": [
+        "#0c121e",
+        "#44a0d9",
+        "#000000",
+        "#202b3c"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Valguskiire intensiivsus ja ulatus väheneb oluliselt esimesest pildist kolmandani.",
+        "Stseen muutub järjest tumedamaks ja varjulisemaks, eriti keskosas asuvate objektide ümber.",
+        "Keskosas rippuv kerajas ese ja selle all olev alus muutuvad vähem nähtavaks ja hämarduvad.",
+        "Suits/udu on esimeses kaadris selgemalt valgustatud, hilisemates kaadrites sulandub see pigem tumedusse."
+      ],
+      "snr": "012",
+      "ajad": [
+        "72.840",
+        "76.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist või väga hämarat keskkonda, mis on täidetud tiheda udu või suitsuga. Valgust annavad mitmed rippuvad lambid, mis loovad tugevad, kollakas-oranžid valgusvihud läbi hõljuva udu. Vihma või udu tõttu on õhk raske ja atmosfäär salapärane ning ehk veidi ähvardav. Keskel on näha üks inimfiguur, kes kõnnib eemale, seljaga vaataja poole. Paremal pool on teine, tumedam ja vähem detailne figuur, kes samuti liigub või seisab. Stseeni mõlemal küljel on näha piirdeid, mis loovad mulje teeraja või silla olemasolust. Üldine meeleolu on dramaatiline ja müstiline, rõhutades valguse ja varjude mängu uduseis õhus.",
+      "actions": [
+        "Keskne figuur kõnnib eemale",
+        "Parem figuur liigub või seisab"
+      ],
+      "keywords": [
+        "Öine",
+        "Udune",
+        "Salapärane",
+        "Laternavalgus",
+        "Siluetid",
+        "Atmosfääriline",
+        "Tume",
+        "Liikumine",
+        "Varjud"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Ripplambid",
+        "Valguskiired",
+        "Udu/suits",
+        "Piirded",
+        "Teerada/põrand"
+      ],
+      "colorcodes": [
+        "#20262E",
+        "#F2E8D7",
+        "#3A3A3A",
+        "#8B8377",
+        "#2E343A"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Keskne inimfiguur liigub piltide vahel, näidates kõndimise erinevaid etappe. Esimesel pildil on figuuri parem jalg taga ja vasak ees; teisel pildil on parem jalg ettepoole liikumas; kolmandal pildil on parem jalg veelgi enam ettepoole liikunud."
+      ],
+      "snr": "013",
+      "ajad": [
+        "76.480",
+        "78.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab avaralt ja atmosfääriliselt interjööri, mis sarnaneb muuseumi või näitusesaaliga. Pildil on eksponeeritud kolm suurt militaarrelva, mis näivad olevat laevakahurid või kahuritornid. Kaks vasakpoolset kahurit on tumedamad ja robustsema kujuga, samas kui parempoolne on veidi heledam ja detailsem. Relvad on paigutatud tagumisse plaani, nende ees on klaasist või läbipaistvast materjalist piire, mis eraldab vaataja ekspositsioonist. Kogu stseen on mattunud sinakasrohelisse (türkiissinisesse) valgusvinetti, mis loob müstilise ja pisut melanhoolse atmosfääri. Õhus on näha udu- või suitsukihte, mis püüavad valgust ja annavad ruumile sügavust. Tagaseinal on aimatavad suured graafikad või freskod, kuid need ei ole detailselt eristatavad. Ülevalt on näha lae konstruktsioone ja valgusteid, mis viitavad tööstuslikule või kaasaegsele arhitektuurile. Valgusvihud loovad relvade ümber dramaatilisi varje ja helke.",
+      "actions": [
+        "Eksponeeritud relvad seisavad liikumatult",
+        "Õhus on märgata udu või suitsu liikumist ja hajumist"
+      ],
+      "keywords": [
+        "Muuseum",
+        "Kahurid",
+        "Laevakahurid",
+        "Militaar",
+        "Näitus",
+        "Pime",
+        "Atmosfääriline",
+        "Sinakasroheline valgus",
+        "Udu",
+        "Härmatis",
+        "Klaaspiire"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Laevakahurid",
+        "Kahuritornid",
+        "Klaasist piire",
+        "Sein",
+        "Laekonstruktsioonid",
+        "Udu",
+        "Valgusvihud"
+      ],
+      "colorcodes": [
+        "#2E5F64",
+        "#1A1A1A",
+        "#3F3C3B",
+        "#5A5A5A",
+        "#708090"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel on näha väga peeneid muutusi õhus hõljuva udu või suitsu tiheduses ja jaotumises.",
+        "Valgusvihkude teravus ja jaotumine ruumis, eriti relvade ümber, varieerub kergelt, viidates pidevale atmosfäärilisele nihkele.",
+        "Mõned alad võivad ühel pildil olla pisut heledamad või tumedamad kui teisel, andes stseenile õrna dünaamilisuse."
+      ],
+      "snr": "014",
+      "ajad": [
+        "78.960",
+        "81.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat, udust või aurust täidetud industriaalset või sadamalaadset keskkonda öösel. Üksik tee või käigutee on valgustatud mitmete tugevate, kollakasvalgete lampidega, mis ripuvad kõrgelt ja projitseerivad pikki valguskiiri läbi paksu udu, luues dramaatilise ja salapärase atmosfääri. Valgusvihud valgustavad esiplaanil nähtavaid reelinguid või puidust platvormi elemente. Taust on sügavalt tume ja ähmane, vihjates avatud või väga suurele ruumile. Keskel on näha üksik inimfiguur siluetina, mis on osaliselt lampide valgusega valgustatud, liikudes mööda rada sügavama varju poole.",
+      "actions": [
+        "Inimene kõnnib või liigub edasi"
+      ],
+      "keywords": [
+        "öö",
+        "udu",
+        "aur",
+        "industriaalne",
+        "sadamaala",
+        "jalakäijate tee",
+        "lambivalgus",
+        "siluett",
+        "salapärane",
+        "melanhoolne",
+        "üksildane",
+        "hämar"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "lambid",
+        "reelingud",
+        "käigutee",
+        "udu",
+        "inimfiguur"
+      ],
+      "colorcodes": [
+        "#2F3A47",
+        "#F2C787",
+        "#FFFFFF",
+        "#8A7E6C",
+        "#5C6B7B"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on inimfiguur selgelt nähtav keset valgusvihku.",
+        "Teisel pildil on inimene liikunud pisut paremale ja on natuke vähem selge, sulandudes rohkem varjudesse.",
+        "Kolmandal pildil on inimfiguur kaadrist täielikult kadunud või liikunud sügavamale varju, kus ta pole enam nähtav, mis viitab ajale ja liikumisele stseenis."
+      ],
+      "snr": "015",
+      "ajad": [
+        "81.240",
+        "87.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort poissi, kes uurib salapärast ja udust või suitsust sisekeskkonda. Ta on riietatud iseloomulikku rõivastusse, mis koosneb karvase äärega piloodimütsist, triibulisest kõrge kaelusega kampsunist ja militaarstiilis rohelisest pommitajajopest, millel on mitmeid embleeme, sealhulgas tekst 'CONFEDERATE AIR FORCE' ja Ameerika lipu paik. Poiss liigub ettevaatlikult läbi hämaralt valgustatud koridori, hoides käes sisselülitatud taskulampi, mis on tema peamine valgusallikas. Valguskiired lõikavad läbi paksu udu, mis täidab ruumi, luues pingelise ja müstilise atmosfääri. Koridoris on näha seinu ja põrandaid ning kohati ka vertikaalseid lambiposte, mille prožektorid valgustavad ülalpoolt, rõhutades udu olemasolu. Poisi näoilme on tõsine ja uuriv, vihjates, et ta on mingil missioonil või avastamas midagi ebatavalist.",
+      "actions": [
+        "Kõndimine",
+        "Uurimine",
+        "Taskulambi hoidmine",
+        "Ringi vaatamine"
+      ],
+      "keywords": [
+        "Laps",
+        "Uurija",
+        "Udu",
+        "Suits",
+        "Taskulamp",
+        "Piloot",
+        "Pommitajajope",
+        "Piloodimüts",
+        "Siseruum",
+        "Seiklus",
+        "Salapärane",
+        "Hämar",
+        "Koridor",
+        "Prožektorid"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Taskulamp",
+        "Pommitajajope",
+        "Piloodimüts",
+        "Triibuline kampsun",
+        "Seinad",
+        "Lambipostid",
+        "Udu/suits"
+      ],
+      "colorcodes": [
+        "#E0C79A",
+        "#525C37",
+        "#7A2E2B",
+        "#2A2426",
+        "#8C6A39",
+        "#CFCFCF",
+        "#5D5A56"
+      ],
+      "texts": [
+        "CONFEDERATE AIR FORCE",
+        "Ameerika lipp"
+      ],
+      "persons": [
+        "Noor poiss"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Poisi asend ja kehaasend muutuvad kaadrite vahel.",
+        "Taskulambi valgusvihu prominentsus varieerub.",
+        "Kaamera kaugus ja nurk muutuvad, liikudes laiemast plaanist kesklähedasele plaanile.",
+        "Kolmandal pildil on poisi näoilme ja detailid selgemalt nähtavad."
+      ],
+      "snr": "016",
+      "ajad": [
+        "87.880",
+        "93.480"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha tšellokvarteti kontsert pimedas, kuid dramaatiliselt valgustatud siseruumis. Neli meest, kõik tumedates ülikondades, istuvad lava keskel ja mängivad tšellot. Igal muusikul on ees noodipult ja kaks suunatud valgustit, mis valgustavad nende pille ja noote. Lava põrand on tumedat värvi ja kaunistatud punaste tulukestega, mis lisavad stseenile pidulikku või melanhoolset meeleolu. Taust on udune ja tume, vihjates suurele, avarale ruumile. Ees on näha tume piire, mis eraldab esinemisala vaatajatest. Stseen on üldiselt sünges, kuid elegantse ja keskendunud atmosfääriga.",
+      "actions": [
+        "Tšello mängimine",
+        "Muusika esitamine",
+        "Istumine",
+        "Keskendumine"
+      ],
+      "keywords": [
+        "Tšellokvartett",
+        "Kontsert",
+        "Lava",
+        "Muusika",
+        "Dramaatiline valgustus",
+        "Esitus",
+        "Elegants",
+        "Öine",
+        "Siseüritus",
+        "Keskendumine",
+        "Süngus",
+        "Klassikaline muusika"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Neli tšellot",
+        "Neli meest",
+        "Neli noodipulti",
+        "Neli tooli",
+        "Kaheksa suunatud valgustit (kaks iga muusiku kohta)",
+        "Lava",
+        "Piire/käsipuu",
+        "Punased tulukesed/dekoratsioonid",
+        "Tumedad ülikonnad/jakid",
+        "Vertikaalne post paremal"
+      ],
+      "colorcodes": [
+        "#222222",
+        "#333333",
+        "#6B4C2D",
+        "#FFFFE0",
+        "#C00000"
+      ],
+      "texts": [],
+      "persons": [
+        "Neli meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Muusikute käte ja vibude asendid on kaadrite vahel veidi erinevad, mis näitab pidevat liikumist muusika esitamisel.",
+        "Valguse peegeldused tšellodel ja muusikute nägudel võivad minimaalselt varieeruda, kuid üldine valgustus ja kompositsioon jäävad samaks."
+      ],
+      "snr": "017",
+      "ajad": [
+        "93.480",
+        "97.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab nelja tšellisti, kes esitavad muusikat pimedas, atmosfäärilises keskkonnas. Muusikud on paigutatud kõrgele platvormile või lavale, mida ümbritseb metallist reeling või piire. Nad on riietatud tumedatesse, ilmselt pidulikesse rõivastesse ja istuvad toolidel, mängides oma tšellosid noodipultide taga. Lava on valgustatud tugevate prožektoritega, mis loovad uduse või suitsuse efekti, andes stseenile dramaatilise ja müstilise ilme. Taust on enamasti pime, kuid vasakul paistab intensiivne valgusallikas, mis valgustab ala ja toob esile tolmuosakesed või udu. Üldine atmosfäär on sünge, kuid samal ajal elegantne ja kontserdilik. Vaatepunkt on veidi alt üles, andes lavale ja esinejatele suursuguse mõõtme.",
+      "actions": [
+        "Muusika esitamine",
+        "Tšello mängimine",
+        "Istumine"
+      ],
+      "keywords": [
+        "Kontsert",
+        "Orkester",
+        "Tšellistid",
+        "Öö",
+        "Udu",
+        "Prožektorid",
+        "Pimedus",
+        "Dramaatiline",
+        "Muusikaline ettekanne",
+        "Lava",
+        "Reelingud"
+      ],
+      "shot_type": "long",
+      "placement": "väljas",
+      "objects": [
+        "Tšellod",
+        "Noodipuldid",
+        "Toolid",
+        "Prožektorid/valgusallikad",
+        "Metallist reelingud/piirded",
+        "Kaablid/ketid reelingutel",
+        "Hägusus/suits",
+        "Tumedad rõivad (ülikonnad/jakid)"
+      ],
+      "colorcodes": [
+        "#0A0A0A",
+        "#D9D9D9",
+        "#8C541D",
+        "#303030",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Neli tšellisti/muusikut"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Väikesed, peaaegu märkamatud muutused valguse intensiivsuses ja suitsu/udu hajumises kaadrite vahel."
+      ],
+      "snr": "018",
+      "ajad": [
+        "97.600",
+        "101.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab nelja meest, kes esinevad tšellokvartetina pimedas ja dramaatiliselt valgustatud siseruumis. Muusikud istuvad laval või platvormil, igaüks mängib tšellot. Laval on metallist piire, mis eraldab esinejaid vaateväljast. Valgusvihud on suunatud otse esinejatele, luues eredalt valgustatud fookuspunkti tumeda ja peaaegu musta tausta ees. Taustal on näha ebamääraseid tööstuslikke struktuure või seinu. Iga tšellisti ees on noodipult, mida valgustab väike lamp, tagades nootide nähtavuse. Lava põrandal on punaseid detaile, mis lisavad muidu süngele keskkonnale värvi. Mehed on riietatud tumedatesse ülikondadesse või jakkidesse ja on süvenenud oma muusikalisse esitusse.",
+      "actions": [
+        "tšello mängimine",
+        "esineb kontserdil",
+        "muusika tegemine",
+        "istumine"
+      ],
+      "keywords": [
+        "tšellokvartett",
+        "klassikaline muusika",
+        "kontsert",
+        "lavastus",
+        "pimedus",
+        "valgusvihud",
+        "muusikud",
+        "pillimäng",
+        "dramaatiline",
+        "siseruum"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "tšellod",
+        "tšellopoognad",
+        "noodipuldid",
+        "noodipultide lambid",
+        "toolid",
+        "metallist piire",
+        "lava",
+        "punased lavadetailid",
+        "valgusvihud",
+        "seinastruktuurid"
+      ],
+      "colorcodes": [
+        "#0F0F0F",
+        "#E0E0E0",
+        "#B00000",
+        "#916F52",
+        "#5B2B0A"
+      ],
+      "texts": [],
+      "persons": [
+        "neli meest",
+        "muusikud",
+        "tšellistid"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "snr": "019",
+      "ajad": [
+        "101.960",
+        "105.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab suurt ja tumedat siseruumi, mis on tõenäoliselt angaar, kuivdokk või muuseum. Kesksel kohal on massiivne allveelaev, mis on vaatepunktist veidi altpoolt ja küljelt nähtav. Allveelaeva vasakus otsas on selgelt eristatav propeller. Laeva peal on näha käiguteed või silda. Ümberringi valitseb udune või suitsune atmosfäär, mida rõhutab kunstlik valgustus. Vasakult paistavad purpur-sinised toonid, samal ajal kui allveelaeva alumist osa ja paremat külge valgustavad kollakasrohelised ja türkiissinised toonid, luues müstilise ja jaheda atmosfääri. Esiplaanil ja taustal on näha tumedaid metallkonstruktsioone, mis raamivad vaadet. Taustal ripub laest alla ka väiksem õhulaev või sarnane mudel, mis lisab stseenile sügavust ja konteksti.",
+      "actions": [],
+      "keywords": [
+        "allveelaev",
+        "muuseum",
+        "angaar",
+        "kuivdokk",
+        "tööstuslik",
+        "pime",
+        "udune",
+        "müstiline",
+        "jahe",
+        "tehnoloogia",
+        "laev",
+        "propeller",
+        "valgustus",
+        "siseruum"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "allveelaev",
+        "propeller",
+        "käigutee",
+        "valgustid",
+        "udu",
+        "suits",
+        "metallkonstruktsioonid",
+        "õhulaev"
+      ],
+      "colorcodes": [
+        "#1a0033",
+        "#2b005e",
+        "#00b0b0",
+        "#b09000",
+        "#1a1a1a"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kaamera on liikunud esimese ja teise pildi vahel veidi paremale, nihutades vaadet ja paljastades allveelaeva paremat osa ning tausta rohkem. Kolmas pilt on praktiliselt identne teise pildiga, näidates minimaalseid või olematuid lisamuutusi kaamera asukohas."
+      ],
+      "snr": "020",
+      "ajad": [
+        "105.480",
+        "109.560"
+      ]
+    },
+    {
+      "explanation": "Stseen algab pimeda, atmosfäärilise üldvaatega suurele ruumile või välialale õhtusel/öisel ajal, kus domineerib tume, tööstuslik või sõjaline struktuur, mis meenutab sukelpaadi korpust. Struktuur on valgustatud ja selle taga on näha helesiniseid või türkiissiniseid tulesid. Seejärel fookus nihkub punasele vaibale, mis on paigutatud mööda sukelpaadi külge või tekki. Vaip on ääristatud madalate kuldsete postide ja nöörpiiretega ning mööda selle servi on reas väikesed helendavad punased tuled. Stseeni keskmeks on väike laps, kes on riietatud vanamoelisse lennukijuhi kostüümi – tumeroheline pommitaja jakk, heledad püksid, tumedad saapad, lennukijuhi kiiver prillidega ja jakil mitmed märgid või embleemid. Laps esmalt läheneb vaibale, siis kükitab maha ja lõpuks istub, tegeledes pingsalt väikese heleda esemega, mis näib olevat paber või miniatuurne mudel. Üldine meeleolu on salapärane ja keskendunud, kus kunstlik valgustus tõstab esile lapse ja punase vaiba tumedas ümbruses.",
+      "actions": [
+        "Laps läheneb vaibale",
+        "Laps kükitab vaibal",
+        "Laps istub vaibal",
+        "Laps uurib väikest eset",
+        "Laps hoiab paberit või eset"
+      ],
+      "keywords": [
+        "Laps",
+        "Lennukijuht",
+        "Sukelpaat",
+        "Punane vaip",
+        "Näitus",
+        "Muuseum",
+        "Öine stseen",
+        "Prillid",
+        "Kiiver",
+        "Märgid",
+        "Piirded",
+        "Punased tuled",
+        "Paberlennuk"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Sukelpaadi korpus",
+        "Punane vaip",
+        "Laps",
+        "Lennukijuhi kiiver",
+        "Prillid",
+        "Jakk",
+        "Püksid",
+        "Saapad",
+        "Märgid jakil",
+        "Piirdepostid",
+        "Nöörpiirded",
+        "Väikesed punased tuled",
+        "Paber"
+      ],
+      "colorcodes": [
+        "#0C0C0C",
+        "#FF0000",
+        "#40B0B0",
+        "#606C38",
+        "#B8A880",
+        "#C8A848"
+      ],
+      "texts": [],
+      "persons": [
+        "Laps"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader on lai üldvõte sukelpaadi struktuurist ja ümbritsevast pimedast keskkonnast, kus laps veel puudub.",
+        "Teine kaader näitab last lähenemas punasele vaibale kükitavas asendis.",
+        "Kolmas kaader näitab last istumas punasel vaibal ja tegelemas paberiga, kaamera on lapsele lähemale suumitud.",
+        "Lapse asend ja tegevus muutuvad kaadrite vahel (lähenemine, kükitamine, istumine)."
+      ],
+      "snr": "021",
+      "ajad": [
+        "109.560",
+        "121.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort last, kes on riietatud lendurikostüümi, istumas punasel vaibal hämaras siseruumis. Laps kannab aviatori mütsi koos kõrvaklappide ja prillidega, seljas on lennukijakk mitmete embleemidega. Ümber lapse on püstitatud ajutine tara või piire, mis koosneb vertikaalsetest postidest ja nende vahele pingutatud nööridest. Punase vaiba peal on hajutatult väiksed punased valguspunktid, mis loovad mahedalt kumava valgusketi efekti. Laps hoiab käes paberlennukit, millega ta näib tegelevat või mida ta vaatleb. Stseeni alguses on lapse pilk suunatud allapoole oma käte poole, hiljem aga tõstab ta pilgu üles, justkui vaadeldes midagi ülevalpool või unistades.",
+      "actions": [
+        "Istub punasel vaibal",
+        "Hoiab paberlennukit",
+        "Vaatab alguses kätesse",
+        "Vaatab hiljem ülespoole"
+      ],
+      "keywords": [
+        "Laps",
+        "Piloot",
+        "Lendur",
+        "Paberlennuk",
+        "Mäng",
+        "Unistamine",
+        "Siseruum",
+        "Hämar",
+        "Punane vaip",
+        "Nöörid",
+        "Postid",
+        "Valgusketid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laps",
+        "Piloodimüts",
+        "Kaitseprillid",
+        "Lennukijakk",
+        "Embleemid",
+        "Paberlennuk",
+        "Punane vaip",
+        "Väikesed punased tuled",
+        "Postid",
+        "Nöörid"
+      ],
+      "colorcodes": [
+        "#0C0C0C",
+        "#3D4A31",
+        "#8B4513",
+        "#CC0000",
+        "#6A7F8E",
+        "#C69A80"
+      ],
+      "texts": [],
+      "persons": [
+        "Laps"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Laps muudab oma pilgu suunda: esimesel pildil vaatab ta kätesse, hiljem vaatab ta ülespoole.",
+        "Laps hoia paberlennukit eri nurkade alt, kuid see jääb kogu stseeni vältel tema kätte."
+      ],
+      "snr": "022",
+      "ajad": [
+        "121.440",
+        "127.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab suurt, tumedat ja keerulist mehaanilist seadet, mis on riputatud kaablitega hämarasse, tõenäoliselt koopa- või tööstuslikku siseruumi. Seadmel on peamine heksagonaalne või kaheksanurkne korpus, mille all on mitu propellerilaba. Seadme servadel või pinnal on näha väikesi, tuhmi rohelisi tulesid. Taustaks on tumedad, tekstuuriga seinad, mis viitavad sügavale šahtile, koopale või suurele punkrile. Propellerilabad on liikumises, mis annab märku, et seade on aktiivne või töös. Üldine atmosfäär on salapärane ja mõnevõrra kõhe tänu pimedusele ja masinavärgi tundmatule otstarbele.",
+      "actions": [
+        "Propellerite pöörlemine",
+        "Seadme rippumine kaablite abil"
+      ],
+      "keywords": [
+        "Tume",
+        "Salapärane",
+        "Industriaalne",
+        "Masin",
+        "Seade",
+        "Kaablid",
+        "Propeller",
+        "Rohelised tuled",
+        "Siseruum",
+        "Pimedus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Suur mehaaniline seade",
+        "Propellerilabad",
+        "Kaablid",
+        "Rohelised tuled",
+        "Tekstuuriga seinad"
+      ],
+      "colorcodes": [
+        "#2b3336",
+        "#414b4f",
+        "#00ff00",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Propellerilabade asend muutub kaadrite vahel, mis näitab pidevat pöörlemist või liikumist."
+      ],
+      "snr": "023",
+      "ajad": [
+        "127.080",
+        "132.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast tumedat, uduse või suitsuse õhuga kaetud siseruumi, mis näib olevat mingi tööstushoone, angaar või mahajäetud vangla. Vaade on ülaltpoolt, ilmselt mingilt estakaadilt või kõrgemalt platvormilt, vaadates alla põrandatasandile. Esiplaanil on näha tumedaid, ristuvaid metall- või puitkonstruktsioone ja juhtmeid, mille küljes ripuvad paljad hõõguvad lambipirnid, valgustades ümbrust. Kaugemal, stseeni keskel, on näha pikka punast vaipa, mis viib üles väikesele platvormile. Sellel platvormil seisab või istub üksik isik. Üldine atmosfäär on salapärane ja melanhoolne, rõhutatud hämaruse ja suitsu poolt, mis kohati blokeerib vaate tagaplaanile. Valguskiired läbivad udu, luues dramaatilise efekti. Tagaplaanil on aimata veelgi konstruktsioone, treppe ja torustikke.",
+      "actions": [
+        "Isik seisab või istub punasel platvormil",
+        "Suits või udu hõljub ruumis",
+        "Lambipirnid hõõguvad"
+      ],
+      "keywords": [
+        "Tööstushoone",
+        "Pimedus",
+        "Suits",
+        "Udu",
+        "Punane vaip",
+        "Platvorm",
+        "Salapärane",
+        "Hämarus",
+        "Öine",
+        "Ülevalt vaade",
+        "Metallkonstruktsioonid"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Lambipirnid",
+        "Kaablid",
+        "Metallkonstruktsioonid",
+        "Punane vaip",
+        "Platvorm",
+        "Isik",
+        "Suits/udu",
+        "Redelid/trepid",
+        "Torud"
+      ],
+      "colorcodes": [
+        "#0a0b0d",
+        "#b3e0ff",
+        "#c00000",
+        "#505a6b",
+        "#808080",
+        "#ffffff"
+      ],
+      "texts": [],
+      "persons": [
+        "Üksik isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on stseen kõige eredamalt valgustatud ning suitsu/udu on ruumis kõige tihedamalt. Valguskiired on selgelt nähtavad ja loovad atmosfääri.",
+        "Teisel pildil on valgustus veidi tuhmimaks muutunud ja suitsu/udu on hõredam. Stseen on üldiselt tumedam kui esimesel pildil, kuid detailid on veel hästi eristatavad.",
+        "Kolmandal pildil on stseen oluliselt pimedamaks muutunud. Suur osa valgusallikatest on kas kustunud või tugevalt hämardunud, eriti tagaplaanil olev eredam valgus. Suits/udu on peaaegu täielikult kadunud või enam mitte valgustatud, mistõttu kaob suurem osa atmosfäärist. Punane vaip ja sellel olev isik on vaevu nähtavad, sulandudes peaaegu täielikult pimedusse."
+      ],
+      "snr": "024",
+      "ajad": [
+        "132.320",
+        "136.440"
+      ]
+    },
+    {
+      "explanation": "Kogu stseen on täiesti pime, must. Puudub igasugune visuaalne teave, objekte, isikuid, tegevusi ega tekste ei ole võimalik eristada. Piltidel valitseb täielik pimedus.",
+      "actions": [],
+      "keywords": [
+        "pime",
+        "must",
+        "tühjus",
+        "valguse puudumine",
+        "öö"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel puuduvad nähtavad erinevused, kõik kaadrid on identselt mustad ja tühjad."
+      ],
+      "snr": "025",
+      "ajad": [
+        "136.440",
+        "138.920"
+      ]
+    },
+    {
+      "explanation": "Stseen algab peaaegu täielikus pimeduses, kust hakkab välja kooruma horisontaalne valgusriba. Järk-järgult paljastatakse kolme inimese siluetid, kes on näha tagant ja vaatavad välja suurest aknast või avast. Nad seisavad pimedas siseruumis, kust avaneb vaade helgele, tõenäoliselt tööstuslikule või lennuvälja meenutavale välialale. Väljas on näha struktuurseid elemente, nagu kaared ja talad, ning lai, valge pinnas, mis võiks olla lennurada. Isikud on riietatud tõenäoliselt vormiriietusesse ja nende kujud joonistuvad teravalt esile vastu heledat tausta. Stseen on üldiselt pime ja loob vaatleva, isegi pisut saladusliku meeleolu.",
+      "actions": [
+        "Vaatavad välja aknast",
+        "Seisavad",
+        "Jälgivad"
+      ],
+      "keywords": [
+        "Siluetid",
+        "Pimedus",
+        "Vaatlus",
+        "Aken",
+        "Lennuväli",
+        "Tööstushoone",
+        "Pimedus ja valgus",
+        "Siseruum",
+        "Välialastse",
+        "Ootamine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Inimese siluetid",
+        "Aken",
+        "Hoone konstruktsioonid",
+        "Lennurada"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#f0f0f0"
+      ],
+      "texts": [],
+      "persons": [
+        "Kolm isikut"
+      ],
+      "imagetype": "real",
+      "emptypercent": 70,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses kaadris on näha vaid kitsas valgusriba pimeduses, samas kui hilisemates kaadrites paljastuvad inimeste siluetid ja laiem vaade välialale.",
+        "Kaadrite vahel kaamera eemaldub või fookus muutub, paljastades üha rohkem stseeni detaile ja isikuid.",
+        "Iga järgnev kaader näitab rohkem inimesi: esimeses pole kedagi näha, teises kaks, kolmandas kolm.",
+        "Kaadrite vahel suureneb ekraanil nähtava väliala suurus ja detailide hulk."
+      ],
+      "snr": "026",
+      "ajad": [
+        "138.920",
+        "147.280"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha ritta seatud mannekeene, mis on riietatud erinevatesse sõjaväe- ja mereväevormidesse. Valgustus stseenis suureneb järk-järgult, minnes täielikust pimedusest hästi valgustatud pildini, paljastades nii nukkude detailid kui ka ümbritseva keskkonna. Mannekeenid on paigutatud sirgesse ritta ja tunduvad kujutavat erinevaid ametiastmeid ja teenistusharusid, kandes halli värvi ohvitserijakke kuldsete triipudega varrukatel, valgeid või helesiniseid madrusepluuse tumedate kraedega ning ühte pikka tumedat mantlit. Mõnedel mannekeenidel on peas mütsid. Nukkude näod on tumedad ja ilma selgete tunnusteta. Nad seisavad tumedatel ristkülikukujulistel alustel. Taustal on suur, tume ja tööstuslikku laadi sisesaal, millel on kaarjad konstruktsioonid ja kauguses nähtavad tuled. Esiplaanil olev põrand on poleeritud, võimalik, et peegeldav, ja sellel on sinakaid toone. Paremas alanurgas on põrandal näha tagurpidi kirjutatud teksti 'anina'.",
+      "actions": [
+        "Valguse intensiivsuse järkjärguline suurendamine",
+        "Mannekeenide vaatlemine"
+      ],
+      "keywords": [
+        "Mannekeenid",
+        "Vormiriietus",
+        "Sõjavägi",
+        "Merevägi",
+        "Näitus",
+        "Saal",
+        "Pimedus",
+        "Valgus",
+        "Detailid",
+        "Tumefiguurid",
+        "Mütsid",
+        "Kuldsed triibud",
+        "Madrusevorm"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Mannekeenid",
+        "Sõjaväevormid",
+        "Mereväevormid",
+        "Mütsid",
+        "Suur saal",
+        "Kaarjad konstruktsioonid",
+        "Valgustid",
+        "Tumedad alused",
+        "Põrand"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#2b2b2b",
+        "#4f5763",
+        "#6a747c",
+        "#b5c7e1",
+        "#a38d5e",
+        "#ffffff"
+      ],
+      "texts": [
+        "anina"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide peamine erinevus on valgustuse tase. Esimene pilt on väga tume, teine on veidi heledam ja kolmas on täielikult valgustatud, paljastades stseeni kõik detailid.",
+        "Valgustuse järkjärguline suurenemine võimaldab näha rohkem mannekeenide ja nende vormiriietuse detaile ning tausta."
+      ],
+      "snr": "027",
+      "ajad": [
+        "147.280",
+        "149.720"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud rida tumedate, peadeta mannekeenide, mis eksponeerivad erinevaid militaar- või teenistusvorme pimedas ja suures saalis. Vasakult paremale on näha 11 mannekeeni. Mitmed neist kannavad helehalle või sinakashalle vormijakke kuldsete pagunite ja varrukamärkidega, mis viitavad ohvitseridele, koos tumedate seelikute või pükstega. Mõnel mannekeenil on seljas valge meremehesärk tumesinise kraega. Keskel on üks mannekeen, kes kannab pikka tumesinist või musta talvemantlit kuldsete nööpidega ja kaptenimütsi, mis viitab kõrgemale auastmele. Üksikud vormid on ka oliivrohelised või tumesinised heleda särgi ja lipsuga. Taust on äärmiselt pime ja udune, kuid paistavad suured tööstushoone-laadsed struktuurid või laevade osad, mida valgustavad kauged üksikud tuled. Põrandal mannekeenide ees on näha modernistlikke värvilisi mustreid, sealhulgas siniseid jooni ja punase-valge triibuga sfääri paremal pool, mis annab edasi näitusekeskuse või muuseumi atmosfääri.",
+      "actions": [
+        "Eksponeeritakse vormiriietust",
+        "Mannekeenid seisavad reas"
+      ],
+      "keywords": [
+        "mannekeenid",
+        "vormiriietus",
+        "militaarvormid",
+        "näitus",
+        "muuseum",
+        "sõjavägi",
+        "merevägi",
+        "ühtsed",
+        "ohvitserid",
+        "meremehed",
+        "pime",
+        "interjöör"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "mannekeenid",
+        "vormijakid",
+        "vormimantel",
+        "meremehesärgid",
+        "mütsid",
+        "püksid",
+        "seelikud",
+        "kuldne pagunid",
+        "kuldne nööbid",
+        "näitusepõrand",
+        "hoone konstruktsioonid"
+      ],
+      "colorcodes": [
+        "#2E3547",
+        "#8C95A7",
+        "#F0F0F0",
+        "#D2AF3C",
+        "#4A4D53",
+        "#1E202A",
+        "#C80000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel puuduvad olulised nähtavad erinevused. Need on tõenäoliselt järjestikused kaadrid samast stseenist."
+      ],
+      "snr": "028",
+      "ajad": [
+        "149.720",
+        "150.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab minimalistlikku, modernset interjööri, mida valgustavad suured vertikaalsed aknapaneelid. Ruumi vasakus servas on siluetina tume, moodsa disainiga trepp, mille all ja ümber on näha tumedaid struktuure. Siseruum on valdavalt pime ja varjudesse mattunud, luues tugeva kontrasti läbi akende paistva ereda päevavalgusega. Põrand on läikiv ja peegeldab eredalt akendest sisse langevat valgust, luues pikad valgusribad, mis ulatuvad sügavale ruumi. Akendest avaneb vaade talvisele maastikule, kus on näha paljaste okstega puid ja lumega kaetud maapinda. Paremal akende taga paistavad kauguses värvilised signaallipud või märgid (punane, kollane, sinine, valge). Üldmulje on vaikne ja rahulik, rõhutades arhitektuuri ja loodusliku valguse mängu ruumis. Päike või ere valgusallikas paistab otse akendesse, luues valgusefekte ja halonähtuseid. Tegemist on avara ja tühja ruumiga, mis loob meditatiivse atmosfääri.",
+      "actions": [],
+      "keywords": [
+        "Modernne arhitektuur",
+        "minimalistlik interjöör",
+        "suured aknad",
+        "talvine maastik",
+        "valguse peegeldus",
+        "trepp",
+        "vaikne",
+        "rahulik",
+        "disain",
+        "siseruum",
+        "valgusmäng",
+        "varjud"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Läikiv põrand",
+        "suured aknad",
+        "modernne trepp",
+        "tumedad seinad",
+        "puud",
+        "lumi",
+        "signaallipud/märgid",
+        "aknapostid"
+      ],
+      "colorcodes": [
+        "#212121",
+        "#F0F0F0",
+        "#D0D0D0",
+        "#6A797F",
+        "#404020",
+        "#FF0000",
+        "#FFFF00",
+        "#0000FF",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 70,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on väga väikesed erinevused valguse intensiivsuses ja peegelduste teravuses.",
+        "Esimene pilt on üldiselt kõige tumedam ja peegeldused põrandal on veidi tagasihoidlikumad.",
+        "Teine pilt on pisut heledam kui esimene, valguse peegeldused on veidi tugevamad.",
+        "Kolmas pilt on kolmest kõige eredam, eriti on märgatav tugevam ja kaugemale ulatuv peegeldus põrandal akende ees ning läbi akende paistev välisvaade tundub kirkam. Need muutused viitavad kas väga lühikesele ajahetke nihkele valguse muutumises või kaamera särituse kergele varieeruvusele."
+      ],
+      "snr": "029",
+      "ajad": [
+        "150.840",
+        "155.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laiaulatuslikku talvist maastikku, mida iseloomustab üleüldine valge lumekiht ja hallikad toonid. Esimesel plaanil on üks inimene, kes seisab avaras, sügava lumega kaetud alal, käed laiali sirutatud, riietatuna tumedatesse talverõivastesse. Ta on ainuke värvilaik valgel taustal, mis annab edasi eraldatuse ja rahulikkuse tunde. Edasi vaadates avaneb õhust vaade mitmele arhitektuurselt huvitavale hoonele, mille kaardus katused on samuti lumega kaetud. Need hooned asuvad suure halli veekogu (mere või järve) ääres, mille kaldal on näha ka sadamalaevu. Üle veekogu, silmapiiril, paistab maad ja kauge tornilaadne ehitis. Üldmulje on külm, vaikne ja avar talvepäev. Taevas on hall ja pilvine, mis rõhutab stseeni monokroomset iseloomu.",
+      "actions": [
+        "Seismine",
+        "Käte laialilaotamine"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Arhitektuur",
+        "Meri",
+        "Hooned",
+        "Üksildus",
+        "Maastik",
+        "Talvepäev",
+        "Hall",
+        "Avarus",
+        "Kaardus katused"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Lumi",
+        "Hooned",
+        "Kaardus katused",
+        "Meri/järv",
+        "Laevad",
+        "Sadam",
+        "Torn",
+        "Puud",
+        "Taevas",
+        "Talveriietus"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#808080",
+        "#C0C0C0",
+        "#000000",
+        "#404040"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt keskendub ühele inimesele avaras, peaaegu tühjas lumises maastikus.",
+        "Teine pilt näitab detailsemalt ühe hoone lumist kaarjat katust, pakkudes lähemat vaadet arhitektuurile.",
+        "Kolmas pilt on laiem õhuvõte, mis haarab mitu hoonet mere ääres, näidates kogu talvist rannamaastikku koos laevade ja veekoguga."
+      ],
+      "snr": "030",
+      "ajad": [
+        "155.840",
+        "198.080"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab droonivaadet suurele, unikaalse arhitektuuriga hoonele lumises mereäärses maastikus pilvise taeva all. Hoone katus on kaetud paksu lumekihiga ja sellel on kolm suuremat ümmargust katuseakent või ventilatsiooniava. Hoone esiosa (pildi vasakul all) on tumedama halli tooniga, samas kui paremal pool on näha suuremaid klaasist või tumeda raamiga aknaid. Hoone taga ja vasakul on näha sadamaala koos kai ja mitme laevaga, millel on valged tekiehitised. Taustal laiub hall veekogu, mis sulandub horisondil kokku pilvise taevaga. Paremalt poolt piirab veekogu lumine rannik koos puudega ja mõnede tööstuslikku ilmega ehitistega, mis on samuti lumega kaetud. Üldine meeleolu on karge ja talvine.",
+      "actions": [
+        "Hoone seisab mere ääres",
+        "Laevad seisavad sadamas"
+      ],
+      "keywords": [
+        "Droonivaade",
+        "Talv",
+        "Lumi",
+        "Meri",
+        "Sadam",
+        "Hoone",
+        "Kuppelkatus",
+        "Arhitektuur",
+        "Hall",
+        "Valge",
+        "Külm",
+        "Pilvine",
+        "Mereäärne",
+        "Sadamahoone"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone",
+        "Katus",
+        "Lumi",
+        "Meri/Veekogu",
+        "Sadam",
+        "Laevad/Paadid",
+        "Kajad",
+        "Puud",
+        "Tööstushooned",
+        "Taevas",
+        "Pilved",
+        "Katuseaknad/Ventilatsiooniavad"
+      ],
+      "colorcodes": [
+        "#F7F7F7",
+        "#808385",
+        "#B2B7B8",
+        "#2B2C2E",
+        "#C8C8BE"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Erinevused puuduvad"
+      ],
+      "snr": "031",
+      "ajad": [
+        "198.080",
+        "199.400"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab laia aerovaadet lumega kaetud maastikule talvisel päeval. Esiplaanil domineerib suur modernse arhitektuuriga hoone, millel on kaarjas ja laineline katus, mis on paksult lumega kaetud. Katuse peal on kolm silindrikujulist või ümarat struktuuri. Hoone külgedel on näha suuri aknaid või klaassekstsioone, mis viitavad avatud interjöörile. Hoone asub suure veekogu, tõenäoliselt mere või suure järve ääres, mis ulatub horisondini välja ja on hallides toonides. Vasakul pool hoonet on näha sadamaala koos mitme kai ääres seisva laevaga, millest üks paistab olevat vana aurulaev või muuseumlaev. Sadama ümbrus ja teed on samuti lumega kaetud. Paremal pool hoonet ja edasi ranniku suunas on näha muid väiksemaid hooneid ja tööstuslikku ala, kus on pargitud sõidukeid ja ladustatud materjale, kõik samuti lumine. Üldine õhkkond on rahulik ja jahe, pilvise taeva tõttu on valgus pehme ja hajameelne. Stseen annab ülevaate rannikust ja inimtegevusest talvises keskkonnas.",
+      "actions": [],
+      "keywords": [
+        "talv",
+        "lumi",
+        "meri",
+        "hoone",
+        "sadamaala",
+        "aerovaade",
+        "arhitektuur",
+        "külm",
+        "hallid toonid",
+        "laevad",
+        "rannik",
+        "pilves ilm",
+        "modernne"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "hoone",
+        "lumi",
+        "meri",
+        "sadamaala",
+        "laevad",
+        "katus",
+        "aknad",
+        "puud (raagus)",
+        "sõidukid",
+        "teed",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#F7F9FB",
+        "#8F9CA4",
+        "#3C3F45",
+        "#607380",
+        "#2D2E2F"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [],
+      "snr": "032",
+      "ajad": [
+        "199.400",
+        "200.720"
+      ]
+    },
+    {
+      "explanation": "Kaadrites on näha lai õhupilt suursugusest hoonest, millel on iseloomulikud kumera disainiga katused. Hoone on kaetud paksu lumekihiga, mis annab sellele talvise ilme. Hoone asub suure veekogu, tõenäoliselt mere või lahe ääres, mis on hall ja rahulik. Vasakul pool on näha sadamaala koos kaide ja mõnede laevadega, sealhulgas üks vanema stiilis purjelaev või muuseumilaev. Hoone ümbrus ja esiplaan on samuti lumega kaetud, paistavad mõned puud ja tööstuslikumad rajatised paremal pool. Taevas on ühtlaselt hall ja pilvine, mis viitab külmale ja pilvisele talvepäevale. Üldpilt annab edasi rahuliku, pisut melanhoolse talvise stseeni mere ääres asuva arhitektuurselt huvitava hoonega.",
+      "actions": [],
+      "keywords": [
+        "talv",
+        "lumi",
+        "arhitektuur",
+        "veekogu",
+        "meri",
+        "sadam",
+        "hoone",
+        "õhupilt",
+        "hall",
+        "pilvine",
+        "kaarjad katused",
+        "tööstusala"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "hoone",
+        "katused",
+        "lumi",
+        "veekogu",
+        "meri",
+        "laevad",
+        "kai",
+        "puud",
+        "autod",
+        "laohooned",
+        "korsten",
+        "postid"
+      ],
+      "colorcodes": [
+        "#E0E0E0",
+        "#607080",
+        "#303030",
+        "#A0A0A0",
+        "#404040"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaadrid on peaaegu identsed, näidates sama stseeni ilma märgatavate muutusteta kaadrist kaadrisse."
+      ],
+      "snr": "033",
+      "ajad": [
+        "200.720",
+        "202.040"
+      ]
+    },
+    {
+      "explanation": "Pildid kujutavad laia õhupilti lumisest mereäärsest maastikust, kus domineerib suur modernse arhitektuuriga hoone. Hoone on kaetud paksu lumekihiga, eriti selle kaarjad katused, millel on näha kolm ümarat kõrgendatud elementi. Hoone merepoolsel küljel on suured, piklikud kaaraknad, mille ees asub samuti lumega kaetud terrass või väliala. Vasakul pool hoone taga laieneb sadamaala koos kai ja mitme vees oleva laevaga, kõik lumega kaetud. Paremal pool hoone kõrval, mere kaldal, on näha mitmeid väiksemaid hooneid, mis näivad olevat tööstuslikud või laod, samuti kaetud lumega. Nende hoonete ümber on näha virnasid erinevaid materjale. Maapind on üldiselt ühtlaselt lumine. Taevas on ühtlaselt hall ja pilvine, luues jaheda ja talvise meeleolu. Meri on hall ja rahulik, ulatudes horisondini, kus paistab ähmane rannajoon või kaugemad ehitised. Stseen on jahe, rahulik ja visuaalselt domineerivad valged ja hallid toonid.",
+      "actions": [],
+      "keywords": [
+        "talv",
+        "lumi",
+        "meri",
+        "sadam",
+        "hoone",
+        "arhitektuur",
+        "kaarjas katus",
+        "tööstusala",
+        "õhupilt",
+        "hall taevas",
+        "külm",
+        "panoraam",
+        "mereäärne",
+        "laevad",
+        "terrass",
+        "sadamaala"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "hoone",
+        "katus",
+        "lumi",
+        "meri",
+        "sadam",
+        "kai",
+        "laevad",
+        "paadid",
+        "aknad",
+        "terrass",
+        "puud",
+        "postid",
+        "väiksemad hooned",
+        "materjalivirnad",
+        "taevas",
+        "rannajoon"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#8C98A2",
+        "#A8B8C8",
+        "#3B424D",
+        "#555E68",
+        "#4A4A4A"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [],
+      "snr": "034",
+      "ajad": [
+        "202.040",
+        "203.360"
+      ]
+    },
+    {
+      "explanation": "Pildid kujutavad droonivaadet suurele kaarja katusega hoonele, mis on kaetud lumega. Hoone asub mere või suure lahe kaldal, mis on hallikas ja külma ilmega. Vasakul pool on näha sadamaala koos kaide, muulide ja mitmete laevadega, sealhulgas üks suur ajaloolise väljanägemisega laev. Hoone ümbrus ja sadam on samuti lumega kaetud. Paremal pool hoonest laiub lumine ja pisut tööstuslikku või mahajäetud muljet jättev ala, kus on väiksemad hooned, mõned sõidukid ja raagus puud. Taevas on ühtlaselt hall ja pilves, andes stseenile jaheda ja talvise atmosfääri. Kogu maastik on ühtlaselt valge lume ja hallikate toonidega kaetud.",
+      "actions": [],
+      "keywords": [
+        "Lennusadam",
+        "Tallinn",
+        "talv",
+        "lumi",
+        "meri",
+        "sadam",
+        "muuseum",
+        "angaar",
+        "droonivaade",
+        "külm",
+        "hall",
+        "laevad"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "suur kaarja katusega hoone",
+        "meri/laht",
+        "sadam",
+        "muulid",
+        "laevad",
+        "ajalooline laev",
+        "lumi",
+        "väiksemad hooned",
+        "sõidukid",
+        "raagus puud",
+        "lambipostid",
+        "kai"
+      ],
+      "colorcodes": [
+        "#E6E6E6",
+        "#A0A0A0",
+        "#708090",
+        "#303030",
+        "#C8C8C8",
+        "#4F4F4F"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [],
+      "snr": "035",
+      "ajad": [
+        "203.360",
+        "204.680"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab talvist õhust vaadet suurele hallile hoonele, mille kumerad katused on paksult lumega kaetud. Hoone asub mere ääres, kus vasakul on näha kai ja sadamalaevu. Vee värvus on hallikas-sinine, mis viitab külmale ilmale. Hoone taga paremal on väiksemad lumega kaetud hooned ja puudetaolised objektid. Taamal paistab veepiir ja rannik. Üldine meeleolu on jahe ja vaikne, pilves taeva all.",
+      "actions": [],
+      "keywords": [
+        "talv",
+        "lumi",
+        "hoone",
+        "meri",
+        "sadam",
+        "kai",
+        "laevad",
+        "merevägi",
+        "muuseum",
+        "hall",
+        "külm",
+        "õhuvaade"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "hoone",
+        "katus",
+        "lumi",
+        "meri",
+        "sadam",
+        "kai",
+        "laevad",
+        "puud",
+        "autod",
+        "teed",
+        "tänavavalgustid",
+        "väiksemad hooned",
+        "müür",
+        "pilves taevas"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#E0E0E0",
+        "#606060",
+        "#809098",
+        "#A0A8B0",
+        "#404040",
+        "#A0A0A0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [],
+      "snr": "036",
+      "ajad": [
+        "204.680",
+        "206.000"
+      ]
+    },
+    {
+      "explanation": "Pilt esitab laia õhuvõtte talvisest sadamaalast, kus keskne element on massiivne, pikk ja lumega kaetud kumerakatusega hoone. Hoone katus on kaetud paksu lumekihiga ja sellel paikneb kolm silindrikujulist katuseluuki või ventilatsiooniava. Üks hoone esiosa on kaunistatud suurte klaasakendega, mis avanevad vaatega merele. Maapind ja ümbritsevad teed on paksult lumega kaetud, andes stseenile jaheda ja rahuliku talvise meeleolu. Vasakul kauguses on näha pikk kai, kuhu on sildunud mõned alused või laevad. Merevesi on hall ja lainetuseta, sulandudes kauge horisondi joonel halli taevaga. Paremal pool on näha mitu väiksemat hoonet ja hõredat puudeala, mille oksad on lumised ja lehtedeta. Stseeni üldine värvipalett koosneb valge, halli ja tumedamate toonide varjunditest.",
+      "actions": [],
+      "keywords": [
+        "talv",
+        "lumi",
+        "meri",
+        "hoone",
+        "sadamaala",
+        "õhufoto",
+        "arhitektuur",
+        "kumer katus",
+        "klaassein",
+        "kai",
+        "alused",
+        "jahe ilm",
+        "merevaade",
+        "hall",
+        "monokroomne"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "suur hoone",
+        "kumer katus",
+        "lumi",
+        "meri",
+        "kai",
+        "paadid",
+        "laevad",
+        "puud",
+        "teed",
+        "väiksemad hooned",
+        "katuseluugid",
+        "klaasfassaad",
+        "parkla",
+        "sõidukid"
+      ],
+      "colorcodes": [
+        "#E2E6EC",
+        "#6D7E8F",
+        "#4B4B4B",
+        "#C8C8C8",
+        "#313131"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kuvatud piltidel puuduvad erinevused, kuna tegemist on sama kaadriga."
+      ],
+      "snr": "037",
+      "ajad": [
+        "206.000",
+        "206.920"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb minimalistlikust mustast ekraanist, millel kuvatakse valget teksti. Alguses on ekraan täiesti must, seejärel ilmuvad ekraani keskele järjestikku valged filmi lõputiitrid eesti keeles. Tekst on jaotatud kategooriatesse nagu 'Helirežissöör', 'Monteerija', 'Animeerija', 'Näitlejad', 'Muusikud' ning lisatakse eraldi märkus interjööri lisakaadrite tegijate kohta ja lõpus 'Filmide teoks saamist aitasid ja juhendasid'. Iga kategooria all on loetletud vastavad nimed. Üldmulje on ametlik ja puhas, iseloomustades filmi või muu audiovisuaalse teose lõppu.",
+      "actions": [
+        "Teksti ilmumine ekraanile",
+        "Lõputiitrite kuvamine"
+      ],
+      "keywords": [
+        "Lõputiitrid",
+        "Tiitrid",
+        "Must ekraan",
+        "Valge tekst",
+        "Filmi lõpp",
+        "Minimalistlik",
+        "Ametlik"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Helirežissöör",
+        "TANEL TÄNNA",
+        "Monteerija",
+        "ANDRI ALLAS",
+        "Animeerija",
+        "PEETER RITSO",
+        "Interjööri lisa kaadrite režissöör TANEL TOOM ja operaator CÄI KASK.",
+        "Näitlejad",
+        "Väike poiss",
+        "GUSTAV KÕRVITS",
+        "Muusikud",
+        "kollektiiv Cšam:",
+        "PART TARVAS, LEVI DANIEL MÄGILA, MARCUS UUS, ANDREAS LEND",
+        "Madlused:",
+        "MARTIN KULLUS, ANDRI ALLAS",
+        "Filmide teoks saamist aitasid ja juhendasid",
+        "Kalle Vellevoog",
+        "Anneli Alven"
+      ],
+      "persons": [
+        "Tanel Tänna",
+        "Andri Allas",
+        "Peeter Ritso",
+        "Tanel Toom",
+        "Cäi Kask",
+        "Gustav Kõrvits",
+        "Part Tarvas",
+        "Levi Daniel Mägila",
+        "Marcus Uus",
+        "Andreas Lend",
+        "Martin Kullus",
+        "Kalle Vellevoog",
+        "Anneli Alven"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on täiesti must ekraan.",
+        "Teisel pildil on mustal taustal kuvatud valged lõputiitrid."
+      ],
+      "snr": "038",
+      "ajad": [
+        "206.920",
+        "249.160"
+      ]
+    }
+  ]
+}

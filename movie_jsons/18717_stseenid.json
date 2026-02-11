@@ -1,0 +1,3152 @@
+{
+  "film": [
+    "18717",
+    "18572",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Intervjuu Sirje-Mai Hallastega",
+    "7e55b83e826fc8815f1ee6044b30f35807735cfd.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab minimalistlikku logo animatsiooni mustal taustal. Alguses on näha kolm udust halli punkti, mis paiknevad vertikaalselt kahes reas (kaks üleval, üks all) kaadri keskel. Punktid hakkavad järk-järgult selgepiirilisemaks muutuma ja omandavad värvi, samal ajal kui nende kõrvale ilmub tekst. Teises etapis on näha kolm selget punkti: tume sinine, ere punane ja valkjas-hall, mille kõrval paremal pool on tekst \"B M\". Punktid on endiselt kolmnurkses formatsioonis, kaks ülemist ja üks alumine. Kolmandas ja viimases etapis on punktide värvid ja paigutus muutunud – nüüd on näha ere punane punkt üleval ning roheline ja tume sinakas-hall punkt all, moodustades kolmnurga, mille tipp on üleval. Tekst on täienenud \"BFM\"-iks. Kogu animatsioon toimub puhtal, sügavmustal taustal, keskendudes punktide ja teksti ilmumisele, värvimuutusele ja logo moodustumisele.",
+      "actions": [
+        "Punktid ilmuvad",
+        "Värvid muutuvad",
+        "Tekst ilmub",
+        "Logo moodustub",
+        "Punktide paigutus muutub"
+      ],
+      "keywords": [
+        "Logo",
+        "Animatsioon",
+        "Bränd",
+        "Punktid",
+        "Värvid",
+        "Must taust",
+        "Minimalistlik",
+        "Digitaalne",
+        "Tutvustus",
+        "Visuaalne identiteet"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Ringid",
+        "Punktid",
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#7D7D7D",
+        "#2C487C",
+        "#D62A32",
+        "#E0E0E0",
+        "#D52730",
+        "#435A8E",
+        "#316B3F"
+      ],
+      "texts": [
+        "B M",
+        "BFM"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on udused hallid punktid mustal taustal, ilma tekstita.",
+        "Teisel pildil on selgepiirilisemad, värvilised punktid (tume sinine, ere punane, valkjas-hall) ning nende kõrval ilmub tekst \"B M\". Punktide paigutus on kolmnurkne, kaks üleval ja üks all.",
+        "Kolmandal pildil on punktide värvid ja paigutus muutunud (punane üleval, roheline ja tume sinakas-hall all) ning tekst on täienenud \"BFM\"-iks. Punktide udusus on täielikult kadunud ja värvid on selged."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "6.200"
+      ]
+    },
+    {
+      "explanation": "Pildil on näha filmi rull, mis on keritud musta plastist südamiku ümber. Filmirulli parem külg on tihedalt kokku keritud, samas kui vasakult poolt jookseb filmiriba lahti, moodustades pikema lindi. Film ise on pruunikas-oranži värvi ja selle servas on näha perforatsiooniavad. Südamiku keskel on näha metallist hammasratas või võll, mis hoiab filmi paigal ja juhib kerimist. Valgus paistab filmirullile paremalt poolt, luues läikiva pinna ja pehme varju filmi vasakule küljele. Taust on udune ja helehall, vihjates sisetingimustele, kus toimub filmi töötlemine või montaaž.",
+      "actions": [
+        "filmi kerimine",
+        "filmi lahtikerimine"
+      ],
+      "keywords": [
+        "film",
+        "filmirull",
+        "analookfilm",
+        "filmitehnika",
+        "kinofilm",
+        "rull",
+        "kaamerafilm",
+        "perforatsioon",
+        "montaaž",
+        "filmilabor"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "filmirull",
+        "filmilint",
+        "filmi südamik",
+        "hammasratas/võll",
+        "perforatsiooniavad"
+      ],
+      "colorcodes": [
+        "#B06D4D",
+        "#0A0A0A",
+        "#6D6D6D",
+        "#D0D0D0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel on näha väga väikseid erinevusi valguse intensiivsuses ja peegelduste asukohas filmirulli pinnal ning metallist südamikul. Need erinevused on minimaalsed ja viitavad pigem kaamera liikumisele või valguse kõikumisele lühikese aja jooksul, mitte olulistele sisulistele muutustele."
+      ],
+      "snr": "002",
+      "ajad": [
+        "6.200",
+        "10.040"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõtet keerukast masinast, mis on tõenäoliselt filmiaparaat või filmitöötlemise seade. Kaadris on näha mitmeid metallist rullikuid, juhikuid ja teisi mehaanilisi komponente. Vasakul pool on selgelt nähtav filmiriba, mis läbib masinat. Masinaosad on valdavalt hõbedase või hallika metallitooniga, mõned tumedamad detailid on mustad või tumepruunid, näiteks rihm. Taustal paistab valgusallikas, mis heidab valgust masina osadele. Üldine mulje on tööstuslikust täpsusest ja mehhaanilisest keerukusest.",
+      "actions": [
+        "Film liigub läbi masina"
+      ],
+      "keywords": [
+        "Filmimasin",
+        "Filmiparatuur",
+        "Mehaanika",
+        "Tööstus",
+        "Rullikud",
+        "Metall",
+        "Analoog",
+        "Kino",
+        "Projektsioon"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Filmirullikud",
+        "Filmiriba",
+        "Metallist masinaosad",
+        "Juhikud",
+        "Valgusallikas",
+        "Rihm"
+      ],
+      "colorcodes": [
+        "#A0A0A0",
+        "#C0C0C0",
+        "#303030",
+        "#6F4E37",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "I want to talk about moving pictures"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kolmandal pildil on tekst 'I want to talk about moving pictures' lisatud ekraani alaossa. Esimesed kaks pilti on identsed."
+      ],
+      "snr": "003",
+      "ajad": [
+        "10.040",
+        "12.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab detailset lähivaadet mehaanilisele seadmele siseruumides, mis meenutab filmiarhiivi või projektsiooniruumi seadmestikku. Esikümnes on näha valges kindas käsi, mis opereerib masina ümmargust osa. Käevarrel on näha tumesinist varrukat. Masina helehallil pinnal paremal puhkavad tumepunaste raamidega prillid. Tagaplaanil, fookusest väljas, on näha mitmeid läikivaid metallist silindrilisi osi ja pruunikaid rullikujulisi objekte, mis viitavad filmi rullidele või seadmestiku komponentidele. Pildi alaosas on ingliskeelne subtiiter.",
+      "actions": [
+        "Valges kindas käsi opereerib masina osaga",
+        "Prillid puhkavad masina pinnal"
+      ],
+      "keywords": [
+        "filmiarhiiv",
+        "kinotehnika",
+        "valged kindad",
+        "mehhaaniline seade",
+        "prillid",
+        "subtiitrid",
+        "filmirullid",
+        "operaator"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "käsi",
+        "valge kinnas",
+        "tume sinine varrukas",
+        "prillid",
+        "masin",
+        "metallist silindrid",
+        "pruunid rullid/osad",
+        "masina helehall pind"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#2C3E50",
+        "#A9A9A9",
+        "#704214",
+        "#8B0000"
+      ],
+      "texts": [
+        "I want to talk about moving pictures"
+      ],
+      "persons": [
+        "operaator"
+      ],
+      "imagetype": "real",
+      "emptypercent": 10,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pildid on identsed."
+      ],
+      "snr": "004",
+      "ajad": [
+        "12.920",
+        "16.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist, kellel on oranžikas-pruunid juuksed, istumas naeratades ja rääkimas filmistuudio töökeskkonnas. Ta kannab tumesinist kleiti, halli mustrilist salli kaela ümber ja valgeid kindaid. Naine istub mustas kontoritoolis, paremal käel mustal laual on näha mitu väikest filmirulli või seadet. Tema selja taga domineerib suur professionaalne filmimontaažilaua-sarnane konsol, mille peal on filmirullid ja mustvalge monitor, mis näitab siseruumi pilti (võimalik, et koridor või uks). Konsoli vasakul küljel on veel üks monitor ja laual laualamp. Taustal paistab aken vertikaalsete ruloodega, mis laseb sisse loomulikku päevavalgust. Seinal on ka paar tumedasse raamitud pilti. Stseen õhkab nostalgilist ja professionaalset õhkkonda, kus naine jagab oma kogemusi filmimaailmast.",
+      "actions": [
+        "Naine räägib ja naeratab",
+        "Naine žestikuleerib kergelt oma kindaga käega",
+        "Naine istub toolis"
+      ],
+      "keywords": [
+        "Filmistuudio",
+        "Filmitoimetaja",
+        "Vana naine",
+        "Intervjuu",
+        "Ajalugu",
+        "Tallinnfilm",
+        "Filmimontaaž",
+        "Retrospektiiv"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Vanem naine",
+        "Tumesinine kleit",
+        "Hall mustriline sall",
+        "Valged kindad",
+        "Kontoritool",
+        "Must laud",
+        "Filmirullid",
+        "Filmi montaažikonsol",
+        "Monitor (mustvalge)",
+        "Arvutimonitor",
+        "Laualamp",
+        "Aken",
+        "Vertikaalsed rulood",
+        "Raamitud pildid"
+      ],
+      "colorcodes": [
+        "#2C394A",
+        "#8B99A4",
+        "#404040",
+        "#A8A8A8",
+        "#D0D0D0",
+        "#B06C3E",
+        "#181C20"
+      ],
+      "texts": [
+        "Nowadays moving picture is called something",
+        "But when I came to work in Tallinnfilm studio",
+        "and worked there from 1972 to 1998"
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel muutuvad ainult subtiitrid, mis edastavad naise juttu. Visuaalne sisu jääb kõigil kolmel pildil samaks."
+      ],
+      "snr": "005",
+      "ajad": [
+        "16.080",
+        "48.640"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud siseruumi, mis sarnaneb filmiarhiivi või montaažiruumiga. Kaadris keskel ja paremal on vanem, umbes 60-70-aastane naine, kellel on punakaspruunid lokkis juuksed. Ta kannab tumesinist kootud kardigani või pluusi ja helehalli mustriliste detailidega salli. Naine istub laua taga, toetades oma vasakut kätt lauale, kusjuures tal on käes valge kinnas. Ta naeratab ja vaatab kaadrist vasakule, justkui räägiks kellegagi. Laual on näha filmirullidele või kanistritele sarnaseid esemeid ja prillid. Vasakul taustal on vanem filmitöötlusseade või vaatur, mille ekraanil kuvatakse mustvalget pilti, mis paistab olevat mingi sisustus või mehaaniline ruum. Keskel taustal on veel üks tumedam monitor, mis on välja lülitatud või kuvab musta pilti. Mõnes kaadris on näha ka ingliskeelsed subtiitrid, mis kirjeldavad filmitootmise ajaloolist standardit.",
+      "actions": [
+        "Istumine",
+        "Naeratamine",
+        "Rääkimine",
+        "Käega lauale toetumine"
+      ],
+      "keywords": [
+        "Naine",
+        "Filmiarhiiv",
+        "Montaažiruum",
+        "Filmitöötlusseade",
+        "Subtiitrid",
+        "Naeratus",
+        "Siseruum",
+        "Punased juuksed"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Filmitöötlusseade",
+        "Monitor",
+        "Laud",
+        "Sall",
+        "Kinnas",
+        "Prillid",
+        "Filmirullid"
+      ],
+      "colorcodes": [
+        "#222B36",
+        "#A1523E",
+        "#B6B4B3",
+        "#F0F0F0",
+        "#D2D2D2",
+        "#777977"
+      ],
+      "texts": [
+        "film production was based on 35-millimeter film"
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kaadrite vahel on erinevuseks subtiitrite ilmumine teises ja kolmandas pildis, mis esimeses puuduvad. Naise näoilme ja poos on kõigis kaadrites peaaegu identsed, viidates pidevale hetkele."
+      ],
+      "snr": "006",
+      "ajad": [
+        "48.640",
+        "53.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist oranžikaspruunide juustega, kes seisab arhiivi- või laoruumis, kus riiulid on täis vanu hõbedasi filmirullide karpe. Naine kannab tumedat jakki või kardigani ja helehalli mustrilist salli. Ta naeratab ja on parajasti tegelemas riiulist filmirulli karbi võtmisega. Esimestel kaadritel sirutab ta käe riiuli poole ja teisel kaadril on ta karbi haaramas. Kolmandal kaadril hoiab ta filmirulli karpi kahe käega, uurides seda. Riiulid on tihedalt täidetud virnastatud filmirullidega, millele on käsitsi kirjutatud numbreid ja muid tähiseid. Taustal paistab valge sein. Pildil on ka subtiitrid, mis annavad infot filmitootmise kohta.",
+      "actions": [
+        "sirutab kätt",
+        "võtab filmirulli karbi riiulist",
+        "hoiab filmirulli karpi",
+        "naeratab"
+      ],
+      "keywords": [
+        "naine",
+        "filmiarhiiv",
+        "filmiladu",
+        "filmirullid",
+        "filmikarbid",
+        "riiulid",
+        "säilitamine",
+        "ajalugu",
+        "Tallinnfilm"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "filmirulli karbid",
+        "riiulid",
+        "sein",
+        "sall",
+        "jakk"
+      ],
+      "colorcodes": [
+        "#91271D",
+        "#282A2D",
+        "#8E999E",
+        "#C9C9C9",
+        "#D0D2D0",
+        "#F5F5F5",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "film production was based on 35-millimeter film",
+        "In 1972 Tallinnfilm lab"
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise käte asend muutub: esimesel pildil sirutab ta kätt riiuli poole, teisel pildil on käsi filmikarbi juures ja kolmandal hoiab ta karpi kahe käega.",
+        "Subtiitrite tekst muutub: esimesel kahel pildil on tekst \"film production was based on 35-millimeter film\", kolmandal pildil \"In 1972 Tallinnfilm lab\"."
+      ],
+      "snr": "007",
+      "ajad": [
+        "53.440",
+        "59.680"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõtet vanadest filmilabori materjalidest, mis on asetatud suurele, tõenäoliselt metallist, kontsentriliste ringjoontega kaetud pinnale, mis võib olla osa mingist masinast või suurest rullist. Keskel on näha valget kausta või karpi, millel on musta värviga kiri \"POSITIIV\". Sellele on kinnitatud mitu erivärvilist kleepmärkmikku: üks oranž ja üks kollane on kausta küljes ning veel üks oranž kleepmärkmik asub kaustast vasakul. Kollasel kleepmärkmikul on näha käekirjaga teksti. Pildi allosas on näha subtiitreid, mis annavad konteksti Tallinnafilm labori ajaloost. Üldine toon on summutatud ja annab edasi retro- või arhiivimaterjali hõngu.",
+      "actions": [],
+      "keywords": [
+        "filmlabor",
+        "arhiiv",
+        "film",
+        "positiiv",
+        "vana",
+        "dokumentatsioon",
+        "märkmed",
+        "stuudio",
+        "vintage"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "filmirull (võimalik alus)",
+        "kaust",
+        "karp",
+        "kleepmärkmikud",
+        "pastakas (käsitsikirjutatud tekst viitab)"
+      ],
+      "colorcodes": [
+        "#828178",
+        "#e0e0e0",
+        "#e4eb95",
+        "#e6a74c",
+        "#0a0a0a"
+      ],
+      "texts": [
+        "POSITIIV",
+        "Algkirjas",
+        "06.05.15",
+        "JC.",
+        "VALMIS FE",
+        "In 1972 Tallinnfilm lab",
+        "has been producing only black and white films"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil on lisatud subtiitrite teine rida: \"has been producing only black and white films\"."
+      ],
+      "snr": "008",
+      "ajad": [
+        "59.680",
+        "62.880"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine või vanem naine punakate juustega, kes istub töölaua taga siseruumis. Tal on seljas tume riietus, kaelas heleda mustriga sall ja käes valged kindad. Naine räägib ja naeratab, vaadates kaamerast veidi paremale. Tema ees laual on mitmesugust tehnikat, mis viitab filmitöötlusele või arhiveerimisele – vasakul on suur monitor, mis kuvab mustvalget pilti, keskel väiksem tume monitor. Laual on ka prillid ja teised esemed, mis meenutavad filmihoidikuid või -rulle. Üldvalgus on pigem pehme ja jahedates toonides, mis loob rahuliku ja professionaalse atmosfääri.",
+      "actions": [
+        "rääkimine",
+        "naeratamine",
+        "istumine"
+      ],
+      "keywords": [
+        "naine",
+        "punased juuksed",
+        "sall",
+        "kindad",
+        "töölaud",
+        "monitor",
+        "mustvalge film",
+        "stuudio",
+        "arhiiv",
+        "vestlus",
+        "filmitöötlus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "monitor",
+        "töölaud",
+        "sall",
+        "kindad",
+        "prillid",
+        "filmihoidikud/rullid",
+        "tehnika"
+      ],
+      "colorcodes": [
+        "#913a2d",
+        "#c1634c",
+        "#a7a9ac",
+        "#e3e3e3",
+        "#f5f5f5",
+        "#2b2e3a",
+        "#3d3e40",
+        "#333333",
+        "#c7c7c7",
+        "#1f1f1f"
+      ],
+      "texts": [
+        "has been producing only black and white films",
+        "Black and white image was composed of metal silver"
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 55,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise näoilme ja suu asend muutuvad piltide vahel kergelt, peegeldades tema vestluse kulgu ja emotsiooni. Esimesel pildil on naise suu lahti rääkimise asendis, kolmandal on see samuti lahti, aga veidi teise ilmega. ",
+        "Subtiitrite tekst muutub iga kaadriga, esitades uut informatsiooni ja pakkudes edasist konteksti vestlusele."
+      ],
+      "snr": "009",
+      "ajad": [
+        "62.880",
+        "75.400"
+      ]
+    },
+    {
+      "explanation": "Üks eakas punaste juustega naine istub siseruumis laua taga, mis on kaetud filmimontaažiseadmetega. Ta kannab tumesinist pluusi ja heledat salli, ning teises ja kolmandas kaadris on selgelt näha, et tal on käes valged kindad, mis toetuvad lauale. Tema taga on suur filmimontaažipult, mille ekraanil kuvatakse mustvalget filmi. Laual on ka filmilindid, lambid ja muud tehnilised seadmed. Naine on ilmselt vestluses, kuna tema suu on avatud ja näoilme muutub piltide vahel. Taustal paistab aken vertikaalsete ruloode ja heledate seintega, samuti on näha raamitud pilt seinal.",
+      "actions": [
+        "Naine räägib",
+        "Naine istub",
+        "Filmirulli montaaž",
+        "Filmi vaatamine"
+      ],
+      "keywords": [
+        "Filmi montaaž",
+        "Filmitehnika",
+        "Vana film",
+        "Arhiiv",
+        "Intervjuu",
+        "Filmindus",
+        "Tootmine",
+        "Naine",
+        "Ekspert",
+        "Shostka tehas"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Eakas naine",
+        "Filmimontaažimasin",
+        "Monitorid",
+        "Filmilindid",
+        "Laud",
+        "Laualamp",
+        "Kontrollpaneelid",
+        "Vertikaalsed rulood",
+        "Raamitud pilt",
+        "Valged kindad"
+      ],
+      "colorcodes": [
+        "#2A3644",
+        "#C0C1C4",
+        "#1A1A1A",
+        "#4C261A",
+        "#D0D0D0",
+        "#8C8C8C",
+        "#E0DED9"
+      ],
+      "texts": [
+        "Black and white image was composed of metal silver",
+        "For negatives we used film produced in the Shostka factory, Ukraine",
+        "It contained a large amount of silver salt"
+      ],
+      "persons": [
+        "Eakas naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 10,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite (tekstide) sisu muutub piltide vahel, edastades naise öeldud lauseid.",
+        "Naise suu asend ja näoilme varieeruvad vastavalt kõnelemisele.",
+        "Valged kindad on selgemalt nähtavad teises ja kolmandas kaadris, toetudes lauale."
+      ],
+      "snr": "010",
+      "ajad": [
+        "75.400",
+        "96.280"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähedalt tumedat elektroonilist juhtpaneeli, millel on punane digitaalne LED-ekraan ja rida musti nuppe. Ekraani kohal on silt 'IMAGES' ja allpool näidatakse numbrilist väärtust, mis kaadrite vahel muutub, ning väiksemaid silte nagu 'HEURES', 'MIN', 'SEC', 'PIEDS', 'METRES' ja 'DM'. Paremal pool on viis musta nuppu, mille kohal põlevad punased indikaatortuled. Nuppude all on sildid 'IMAGE', 'PIED', 'METRE' ja 'TEMPS'. Paremal ääres on ka numbrid '35' ja '16'. Taustal paistab ere valge vertikaalne valgusallikas või ekraan. Pildi allosas on ingliskeelne subtiiter. Üldmulje on tehniline ja tööstuslik.",
+      "actions": [
+        "Numbriline loendur ekraanil inkrementeerub (suureneb)"
+      ],
+      "keywords": [
+        "Juhtpaneel",
+        "Elektroonika",
+        "Digitaalne ekraan",
+        "LED-ekraan",
+        "Nupud",
+        "Indikaatortuled",
+        "Loendur",
+        "Tehnikaseade",
+        "Punane valgus",
+        "Must paneel",
+        "Subtiiter"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Elektrooniline juhtpaneel",
+        "LED-ekraan",
+        "Nupud",
+        "Indikaatortuled",
+        "Valgusallikas (taustal)",
+        "Subtiiter"
+      ],
+      "colorcodes": [
+        "#262626",
+        "#E40C0C",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "IMAGES",
+        "HEURES",
+        "MIN",
+        "SEC",
+        "PIEDS",
+        "METRES",
+        "DM",
+        "IMAGE",
+        "PIED",
+        "METRE",
+        "TEMPS",
+        "35",
+        "16",
+        "It contained a large amount of silver salt"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "LED-ekraanil olev põhinumber muutub kaadrite vahel: esimeses kaadris on see '143.0', teises '143.7' ja kolmandas '144.4'. See näitab loenduri või ajamõõtja progressiooni."
+      ],
+      "snr": "011",
+      "ajad": [
+        "96.280",
+        "99.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab filmiekraani, millel jookseb mustvalge film, ja selle all asuvat juhtpaneeli. Ekraanil on näha eakas mees, kes istub laua taga, käed laual, ja vaatab keskendunult midagi oma käte vahel. Ta kannab tumedat ülikonda ja heledat särki. Filmikaadri vasakus servas on hele vertikaalne valgusriba, mis viitab filmi läbipaistvuse kontrollile või projitseerimisseadme osale. Stseeni alumises osas on tumedast materjalist juhtpaneel, millel on punased digitaalnäidikud, kuvades numbreid ja sildid nagu 'HEURES', 'MIN', 'METRES'. Paremal pool paneelil on rida ruudukujulisi nuppe, millest mõned on punase tulega valgustatud. Ekraani all, juhtpaneeli peal, on näha ingliskeelsed subtiitrid, mis viitavad vene mustvalgele filmile.",
+      "actions": [
+        "Vaatamine (filmi)",
+        "Istudes laua taga (filmi tegelane)",
+        "Rääkimine (subtiitrite kaudu)",
+        "Filmi kuvamine",
+        "Numbrite muutumine digitaalsel ekraanil"
+      ],
+      "keywords": [
+        "Filmi vaatamine",
+        "Mustvalge film",
+        "Juhtpaneel",
+        "Digitaalnäidik",
+        "Eakas mees",
+        "Subtiitrid",
+        "Filmiprojektor",
+        "Filmi restaureerimine",
+        "Vene film"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Filmiekraan",
+        "Juhtpaneel",
+        "Digitaalnäidik",
+        "Nupud",
+        "Mustvalge film",
+        "Laud",
+        "Tool (oletatavasti)",
+        "Uks",
+        "Mööbel (taustal)",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#363636",
+        "#FFFFFF",
+        "#D8011F",
+        "#000000"
+      ],
+      "texts": [
+        "and I believe that Russian black and white film",
+        "was one of the best in the world",
+        "IMAGS",
+        "HEURES",
+        "MIN",
+        "METRES",
+        "PDS",
+        "DM",
+        "HZ",
+        "ctm",
+        "7.26",
+        "7.47",
+        "7.50"
+      ],
+      "persons": [
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Punased digitaalnäidikud paneelil näitavad erinevaid numbreid, mis viitavad aja või filmi pikkuse muutumisele (7.26, 7.47, 7.50).",
+        "Ingliskeelsed subtiitrid muutuvad, täiendades lauset: 'and I believe that Russian black and white film' asendub järgmise kaadriga 'was one of the best in the world'.",
+        "Üks punastest indikaatortuledest juhtpaneelil süttib kolmandas kaadris, mis esimeses kahes polnud süttinud."
+      ],
+      "snr": "012",
+      "ajad": [
+        "99.560",
+        "104.760"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab detailset vaadet vanamoelisele filmi taasesitus- või monteerimissüsteemile siseruumides. Kesksel kohal on tumeda korpusega monitor, mille ekraanil kuvatakse mustvalget filmi. Ekraanil on näha erinevaid kaadreid filmist, ühes vanem mees ülikonnas ning teises kahes inimest, kellest üks on naine ja teine mees. Ekraani vasakus servas jookseb hele vertikaalne triip, mis võib olla filmiriba serv või artefakt. Monitori all on tumedas toonis juhtpaneel, millel on mitmeid nuppe ja kaks punase numbriga digitaalset näidikut. Vasakpoolne näidik kuvab aja või koodi, mis muutub piltide vahel. Alumine osa paneelist viitab salvestus- või taasesitusseadmetele. Pildil on näha ka subtiiter teksti kujul. Üldine värvigamma on tume, domineerivad hallid ja mustad toonid, millele lisavad kontrasti monitori mustvalge pilt ja juhtpaneeli punased valgustid ja numbrid.",
+      "actions": [
+        "filmikaadrite esitamine monitoril",
+        "aja/koodi kuvamine digitaalsel näidikul",
+        "subtiitri kuvamine"
+      ],
+      "keywords": [
+        "filmimonitor",
+        "filmi taasesitus",
+        "mustvalge film",
+        "vanatehnika",
+        "juhtpaneel",
+        "aegkood",
+        "digitaalne näidik",
+        "siseruum",
+        "ajalooline",
+        "subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "filmimonitor",
+        "juhtpaneel",
+        "nupud",
+        "digitaalsed näidikud",
+        "ekraan",
+        "filmikaadrid",
+        "subtiiter"
+      ],
+      "colorcodes": [
+        "#3F4143",
+        "#C8D1D5",
+        "#7D070D",
+        "#0C0C0D",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "4:13",
+        "TAPE",
+        "TIME",
+        "REEL",
+        "METRE",
+        "FRAMES",
+        "4:19",
+        "was one of the best in the world"
+      ],
+      "persons": [
+        "vanem mees (ekraanil)",
+        "naine (ekraanil)",
+        "mees (ekraanil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Monitoril kuvatav filmikaader muutub: esimesel pildil on vanem mees ülikonnas, järgmistel piltidel on kaks inimest, naine ja mees.",
+        "Vasakpoolsel digitaalsel näidikul kuvatav aeg/kood muutub 4:13 pealt 4:19 peale."
+      ],
+      "snr": "013",
+      "ajad": [
+        "104.760",
+        "109.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist, kellel on punakaspruunid juuksed, tumesinine pluus ja helesinine-hall mustriline sall. Ta istub mustas kontoritoolis filmilabori või arhiivi ruumis, mille taustal on suured filmitöötlusseadmed ja monitorid. Naine kannab vasakul käel valget kinnast ja paistab rääkivat, suu on kergelt avatud. Ta on suunaga kaamerast veidi paremale. Taustal on suur filmitöötluskonsool, millel on mitu filmirulli ja üks monitor, mis näitab mustvalget pilti siseruumist. Vasakul on lauvalgusti ja osaliselt varjatud arvutimonitor. Paremal pool on laual veel seadmeid ja seinal ripub raamitud pilt. Tagaplaanil on aken helesiniste vertikaalsete ribikardinatega. Ruumi seinad on heledat tooni.",
+      "actions": [
+        "Naine räägib",
+        "Naine istub"
+      ],
+      "keywords": [
+        "filmiarhiiv",
+        "filmitöötlus",
+        "naine",
+        "labor",
+        "intervjuu",
+        "filmilabor",
+        "vintage seadmed"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "filmitöötluskonsool",
+        "filmirullid",
+        "monitor",
+        "kontoritool",
+        "lauvalgusti",
+        "arvutimonitor",
+        "aken",
+        "ribikardinad",
+        "raamitud pilt",
+        "sall",
+        "valge kinnas"
+      ],
+      "colorcodes": [
+        "#2E3B50",
+        "#A3B1C2",
+        "#FFFFFF",
+        "#000000",
+        "#D3C9B8",
+        "#7D5A4C",
+        "#E6F0F6"
+      ],
+      "texts": [
+        "Despite the fact that in the lab we were treated only black and white film",
+        "Tallinnfilm studio itself has shot color movies already",
+        "So we started to think about"
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub kaadrite vahel"
+      ],
+      "snr": "014",
+      "ajad": [
+        "109.120",
+        "126.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist punaka lokkis juustega naist, kes istub laua taga ja räägib. Tal on seljas tume kampsun või jakk, mille all on tume pluus, ning kaelas sinakashall mustriga sall. Käes kannab ta valgeid kindaid, mis toovad esile tema žestikuleeriva vasaku käe, mis toetub lauale. Naine vaatab kaamerast veidi paremale poole ja tema näoilme on elav, suu on kergelt avatud, mis viitab käimasolevale kõnele. Valgus paistab tema näole ja juustele paremalt poolt, luues sooja kuma. Tema taga, vasakul pool, on näha vanemat tüüpi monitori, mis kuvab mustvalget filmitükki – ilmselt mingit tööstuslikku interjööri või masinaruumi. Edasi paremal ja sügavamal taustal on veel üks tumedam, suurem lameekraaniga monitor ja muid tehnilisi seadmeid või riiuleid. Laual naise ees, vasakul, on näha väikseid silindrilisi esemeid, mis võivad olla filmi rullid või anumad, samuti prillipaar. Stseen annab edasi intervjuu või selgituse olukorda, tõenäoliselt filmiarhiivis, -laboris või -stuudios.",
+      "actions": [
+        "Naine räägib",
+        "Naine žestikuleerib",
+        "Naine istub"
+      ],
+      "keywords": [
+        "intervjuu",
+        "naine",
+        "film",
+        "labor",
+        "arhiiv",
+        "Tallinnfilm",
+        "filmitehnoloogia",
+        "värvifilm",
+        "monitor",
+        "subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "laud",
+        "monitor",
+        "filmitükk ekraanil",
+        "sall",
+        "kindad",
+        "prillid",
+        "silindrilised anumad/rullid",
+        "tehniline varustus"
+      ],
+      "colorcodes": [
+        "#B04E38",
+        "#A2A8B3",
+        "#2D303B",
+        "#FFFFFF",
+        "#4A3E35",
+        "#000000",
+        "#8A8A8A",
+        "#C8C8C8"
+      ],
+      "texts": [
+        "So we started to think about",
+        "introduction of color film processing technology in Tallinnfilm lab",
+        "Prior to that colored films were shot in Estonia"
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst muutub piltide vahel, jätkates lauset.",
+        "Naise suu asend muutub kergelt, mis näitab kõne edenemist."
+      ],
+      "snr": "015",
+      "ajad": [
+        "126.760",
+        "142.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivõtet arhiivikastist ja selle sees olevatest vanadest dokumentidest. Kaadris domineerivad beežid, kreemikad ja hallikad toonid, luues vanaaegse ja ametliku atmosfääri. Esilplaanil on näha halli arhiivikasti ülemine osa, millele on kleebitud valge silt musta tekstiga \"1801-\" ja mis varieerub kaadrite vahel, muutudes lõpuks selgelt loetavaks kui \"1801-1830\". Kasti kohal ja osaliselt selle sisse paigutatult on tihedalt virnas vanu, heledates toonides dokumente ja kaustasid, mille ääred on kohati kortsus ja kulunud. Dokumendid on kollaka varjundiga paberil, andes märku nende vanusest. Mitmetel dokumentidel on näha trükitud ja käsitsi kirjutatud teksti eesti keeles. Loetavad on pealkirjad nagu \"FILMIDOKUMENDI TEHNILINE SEISUKORD\" ja \"EESTI FILMIARHIIV\", samuti kategooriad nagu \"FILMI MARK\", \"MUST-VALGE VÄRVILINE\", \"AASTA\", \"PLAANE\" ja \"PERFORATSIOONI KOKKULÕIKUMINE\". Ühel dokumendil on ka käsitsi kirjutatud märge \"jazzz festival Tallinn 1967\". Piltide all on näha ingliskeelseid subtiitreid, mis selgitavad, et \"Prior to that colored films were shot in Estonia but processed in the Lenfilm lab\". Stseen annab aimu arhiivi tööst ja materjalide säilitamisest.",
+      "actions": [
+        "Kaamera nihutamine või kerge suumimine, mis paljastab arhiivikasti sildil oleva teksti detailsemalt",
+        "Subtiitrite muutumine"
+      ],
+      "keywords": [
+        "Arhiiv",
+        "Dokumendid",
+        "Ajalugu",
+        "Film",
+        "Paber",
+        "Vana",
+        "Büroo",
+        "Uurimine",
+        "Säilitamine",
+        "Kaustad"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Arhiivikast",
+        "Dokumendid",
+        "Kaustad",
+        "Paber",
+        "Sildid",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#8B8B8B",
+        "#F5F5DC",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "1801-19",
+        "1801-18",
+        "1801-1830",
+        "FILMIDOKUMENDI TEHNILINE SEISUKORD",
+        "EESTI FILMIARHIIV",
+        "M-1801-?",
+        "FILMI MARK",
+        "MUST-VALGE VÄRVILINE",
+        "AASTA",
+        "PLAANE",
+        "PERFORATSIOONI KOKKULÕIKUMINE",
+        "jazzz festival Tallinn 1967",
+        "Prior to that colored films were shot in Estonia",
+        "but processed in the Lenfilm lab"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0-5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Arhiivikasti sildil olev tekst \"1801-\" muutub piltide jooksul täielikult nähtavaks kui \"1801-1830\".",
+        "Ingliskeelsed subtiitrid muutuvad ühelt lauselt (\"Prior to that colored films were shot in Estonia\") teisele lausele (\"but processed in the Lenfilm lab\"), pakkudes lisainformatsiooni."
+      ],
+      "snr": "016",
+      "ajad": [
+        "142.360",
+        "145.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaates töölauda või pinki, mis on varustatud mitmete tööstuslike seadmete ja tööriistadega. Vasakul laual on näha musta värvi ketas, mis meenutab vinüülplaati või alust. Selle kõrval on helehall metallist aparaat, millel on mitu vertikaalset sammast ja rõngakujulisi komponente, samuti digitaalne loendur sildiga 'F-LAB'. Keskel domineerib suurem ja robustsem helehall metallist masin, millel on musta nuppu hoob ja mitu keerulist kinnitus- või lõikemehhanismi. See näib olevat mingi täppisseade. Laua esiosas on läbipaistvad klaasplaadid, mille all on näha ruudustik. Paremal pool laual on valges hoidikus mitmesugused tööriistad, sealhulgas käärid punaste käepidemetega, pliiatsid ja pintsetid. Taust on udune, hallikassinist tooni, kus on näha seina ja võimaliku ukse või akna kontuure. Üldmulje on töine, tehniline ja pisut vanaaegne, viitades spetsialiseeritud labori- või töökojaruumile.",
+      "actions": [
+        "Masinate ja seadmete kasutamine (kaudselt, kuna need on tööasendis)",
+        "Salvestamine või töötlemine (viidates ketta ja masinate olemasolule)",
+        "Mõõtmine või loendamine (digitaalse loenduri abil)"
+      ],
+      "keywords": [
+        "Töölaud",
+        "Masinad",
+        "Tööriistad",
+        "Tööstuslik",
+        "Labor",
+        "Aparaat",
+        "Tehnika",
+        "Vanaaegne",
+        "Filmiprotsess",
+        "Negatiivid",
+        "Värvilised",
+        "Loendur",
+        "Fotograafia"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Tööpink/laud",
+        "Ketas (must)",
+        "Metallist aparaat (vasakul)",
+        "Digitaalne loendur",
+        "Silt 'F-LAB'",
+        "Metallist masin (keskel)",
+        "Hoob (musta nupuga)",
+        "Käärid (punaste käepidemetega)",
+        "Pliiatsid",
+        "Pintsetid",
+        "Tööriistahoidik (valge)",
+        "Klaasplaadid",
+        "Ruudustik/võrk",
+        "Sein (tagaplaanil)",
+        "Uks/aken (tagaplaanil)"
+      ],
+      "colorcodes": [
+        "#7b7b7b",
+        "#1a1a1a",
+        "#a0a0a0",
+        "#e0e0e0",
+        "#705842",
+        "#b03020",
+        "#608090"
+      ],
+      "texts": [
+        "In 1976 we received our first film-processing machine for color negatives",
+        "F-LAB"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pilt 1: Tekstiallkiri puudub. Kaader näitab ainult stseeni visuaalset sisu.",
+        "Pilt 2: Ekraani alumisse serva ilmub ingliskeelne tekstiallkiri: 'In 1976 we received our first film-processing machine for color negatives'.",
+        "Pilt 3: Tekstiallkiri on endiselt nähtav. Kaader on praktiliselt identne eelmise pildiga, näidates sama stseeni koos tekstiga."
+      ],
+      "snr": "017",
+      "ajad": [
+        "145.880",
+        "149.160"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivaade vanale mehaanilisele loendurile või mõõdikule, mis on musta värvi korpusega ja kinnitatud metallplaatidega. Loenduril on ülevalpool metalne silt veneaegse kirjaga. Sildil on näha pealkiri \"УКАЗАТЕЛЬ ГЛУБИНЫ\" (Sügavuse näitaja) ja all \"ТИПА УГН-1\" (Tüüp UGN-1) ning \"ПМАКС.=250 ОБ/МИН\" (Maksimaalne pöörete arv = 250 pööret minutis). Allpool on loenduri aken, kus on näha numbrid \"018\" ja edasi osaliselt liikuv või just seiskunud \"4\". Aken on klaasist ja numbrid on valged mustal taustal, kusjuures viimane number on punasel taustal või punase tooniga. Kogu seade näib olevat osa suuremast masinast, mille halli tooni detaile on näha taustal ja paremal servas. Valgus on pehme, osaliselt peegeldades metallpinnalt. Pildil on ka ingliskeelne subtiiter: \"In 1976 we received our first film-processing machine for color negatives\".",
+      "actions": [
+        "Numbrite kuvamine loenduril",
+        "Informatsiooni kuvamine"
+      ],
+      "keywords": [
+        "Loendur",
+        "Mõõdik",
+        "Vanaaegne tehnika",
+        "Nõukogude",
+        "Metall",
+        "Must",
+        "Digitaalekraan",
+        "Filmiprotsessor",
+        "Retro",
+        "Tööstus",
+        "Ajalugu"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mehaaniline loendur",
+        "Metallist nimesilt",
+        "Numbrid (0, 1, 8, 4)",
+        "Klaasaken",
+        "Kruvid",
+        "Seadme korpus"
+      ],
+      "colorcodes": [
+        "#3C3C3B",
+        "#2D2C2B",
+        "#707172",
+        "#FFFFFF",
+        "#DF2A26",
+        "#A0A1A2"
+      ],
+      "texts": [
+        "УКАЗАТЕЛЬ ГЛУБИНЫ",
+        "ТИПА УГН-1",
+        "ПМАКС.=250 ОБ/МИН",
+        "018",
+        "4",
+        "In 1976 we received our first film-processing machine for color negatives"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on loenduri viimane number liikumises, näides osaliselt eelmise numbri (nt '3' või 'F') ja '4' vahepealses asendis.",
+        "Teisel ja kolmandal pildil on loenduri viimane number selgelt ja stabiilselt '4', punasel taustal."
+      ],
+      "snr": "018",
+      "ajad": [
+        "149.160",
+        "150.360"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõtet vanast, tumedast tööstuslikust loendurist, mis on arvatavasti osa suuremast masinast. Loenduri mustal korpusel on hõbedane metallplaat, millel on kirillitsas kiri 'УКАЗАТЕЛЬ ГЛУБИНЫ' (sügavusnäidik), 'ТИПА УГН-1' (tüüp УГН-1) ja 'ПМАКС.=250 об/мин' (maksimaalne pöörlemiskiirus = 250 pööret minutis). Plaadi all on aken, kus kuvatakse mehaaniliselt liikuvad numbrid. Näha on valged numbrid '018', millele järgneb punane, muutuv number, mis esimesel pildil on pigem '3' ja teisel pildil selgelt '4'. Taust on hägune, viidates tööstuslikule keskkonnale. Pildi allosas on ingliskeelne subtiiter, mis annab konteksti: 'In 1976 we received our first film-processing machine for color negatives' (Aastal 1976 saime oma esimese värvinegatiivide ilmutusmasina). See viitab, et loendur on seotud filmi ilmutamise või töötlemisega.",
+      "actions": [
+        "Loendur näitab numbreid",
+        "Masin töötab (kaudselt, kontekstist lähtuvalt)",
+        "Numbrid muutuvad"
+      ],
+      "keywords": [
+        "Loendur",
+        "Mehaaniline näidik",
+        "Vintage tehnika",
+        "Tööstusseade",
+        "Filmitöötlus",
+        "Analoge",
+        "Nõukogude aeg",
+        "Sügavusnäidik",
+        "Pöörlemiskiiruse näidik",
+        "Numbrid"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mehaaniline loendur",
+        "Metallplaat",
+        "Numbrid",
+        "Masina korpus",
+        "Kirillitsas tekst",
+        "Taustal olev hägune masinavärk"
+      ],
+      "colorcodes": [
+        "#232323",
+        "#A6A6A6",
+        "#E0E0E0",
+        "#D43E3B",
+        "#5C5C5C"
+      ],
+      "texts": [
+        "УКАЗАТЕЛЬ ГЛУБИНЫ",
+        "ТИПА УГН-1",
+        "ПМАКС.=250 об/мин",
+        "018",
+        "3",
+        "4",
+        "In 1976 we received our first film-processing machine for color negatives"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Loenduri viimane punane number muutub esimesel pildil ebaselgest '3' või osalisest '4' teisel pildil selgeks '4'-ks.",
+        "Numbrite peegeldus ja valgus paistavad veidi erinevalt."
+      ],
+      "snr": "019",
+      "ajad": [
+        "150.360",
+        "151.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist, kellel on punakaspruunid juuksed ja hallisegune mustriline sall ümber kaela, istumas intervjuulauas või töökeskkonnas. Ta kannab tumesinist kleiti ja vasakul käel valget kindast. Naine istub mustas kontoritoolis, mis on paigutatud laua taha, mis on täis filmitöötlusseadmeid. Laual on näha mitu filminärvi rullikut, suur monitor, mis kuvab mustvalget pilti, ja erinevad juhtpaneelid. Monitori kohal on laualamp ja taustal paremal seinal ripub raamitud pilt. Vasakul pool on näha aken valgete ribakardinatega ja teine arvutiekraan. Kogu stseen annab edasi töise ja ajaloolise õhkkonna, ilmselt filmiarhiivist või -stuudiost, kus naine räägib oma kogemustest.",
+      "actions": [
+        "Naine istub ja räägib",
+        "Vasak käsi on toetatud lauale"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Filmiarhiiv",
+        "Filmitöötlus",
+        "Vanem naine",
+        "Siseruum",
+        "Tehnika",
+        "Kontor",
+        "Ajalugu",
+        "Mälestused"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Kontoritool",
+        "Laud",
+        "Filmitöötlusmasin",
+        "Filmirullid",
+        "Monitor",
+        "Arvutiekraan",
+        "Laualamp",
+        "Aken",
+        "Ribakardinad",
+        "Seinapilt",
+        "Valge kinnas",
+        "Sall"
+      ],
+      "colorcodes": [
+        "#2F3E5E",
+        "#B3B0A5",
+        "#B24F33",
+        "#4A4A4A",
+        "#FFFFFF",
+        "#F0F0F0",
+        "#FFD700",
+        "#000000"
+      ],
+      "texts": [
+        "In 1976 we received our first film-processing machine for color negatives",
+        "Although this was not very comfortable as well",
+        "who saw that their work has paid off"
+      ],
+      "persons": [
+        "Üks vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide ainukeseks erinevuseks on ekraani allservas kuvatavad ingliskeelsed subtiitrid, mis edastavad naise öeldud lauseid. Visuaalne sisu jääb kõigis kolmes kaadris samaks."
+      ],
+      "snr": "020",
+      "ajad": [
+        "151.480",
+        "189.680"
+      ]
+    },
+    {
+      "explanation": "Stseenis on keskealine punakate juustega naine, kes istub töölaua taga ja räägib, žestikuleerides vasaku käega, millel on valge kinnas. Tema nägu on ekspressiivne, näidates erinevaid emotsioone rääkimise käigus. Tal on seljas tume pluus või kampsun ja kaelas mustriline heledam sall. Tema ees laual on prillid. Taustal on näha tehnikat: vasakul suur monitor, mis kuvab mustvalget pilti, ilmselt arhiivimaterjali või valvekaamera salvestust, ja selle all juhtpaneelid rullikutega. Keskel-tagaplaanil on veel üks must ristkülikukujuline monitor alusel. Üldine värvigamma on summutatud, domineerivad tumedad ja hallikad toonid.",
+      "actions": [
+        "Rääkimine",
+        "Žestikuleerimine",
+        "Istumine"
+      ],
+      "keywords": [
+        "Naine",
+        "Intervjuu",
+        "Tööruum",
+        "Tehnika",
+        "Monitorid",
+        "Valge kinnas",
+        "Sall",
+        "Punakad juuksed",
+        "Ekspressiivne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Monitor",
+        "Juhtpaneelid",
+        "Rullikud",
+        "Laud",
+        "Valge kinnas",
+        "Sall",
+        "Prillid",
+        "Statiiv"
+      ],
+      "colorcodes": [
+        "#94341b",
+        "#2d313d",
+        "#aeb4c0",
+        "#f7f7f7",
+        "#5e666a",
+        "#42464c",
+        "#ececec",
+        "#d80000"
+      ],
+      "texts": [
+        "and that they can dismantle the set and start a new project",
+        "but when it was announced",
+        "you can see it on the screen right now"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise näoilme muutub piltide vahel, peegeldades erinevaid emotsioone – alates rõõmsast rääkimisest kuni üllatunud ja mõtliku ilmeni.",
+        "Naise vasaku käe asend ja žest on igal pildil erinev: esimesel pildil on käsi laual peopesaga ülespoole, teisel pildil on käsi veidi tõstetud ja kolmandal on käsi kõrgemal ja väljasirutatum, justkui millegi poole osutades.",
+        "Ekraanil kuvatavad subtiitrid muutuvad vastavalt räägitule."
+      ],
+      "snr": "021",
+      "ajad": [
+        "189.680",
+        "219.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist, kellel on oranžikaspruunid juuksed ja seljas tumesinine pluus ning helehall mustriga sall, kes istub filmikonsooli taga arhiivi- või kontoriruumis. Tema vasakul käel on valge kinnas ja ta toetab mõlemad käed konsoolile, pilk suunatud kord paremale, kord otse kaamera poole, suu avatud justkui rääkides. Konsooli ekraanil kuvatakse mustvalget filmi kaadrit, mis paistab olevat vana interjöör, kus on näha uks või läbikäik. Konsool on suur, musta värvi, varustatud mitmete nuppude ja juhtseadmetega, ning selle vasakul küljel on näha lahtikeritud filmilindi jupid. Vasakul taustal on aken vertikaalsete ribikardinatega, millest paistab sisse päevavalgus. Akna läheduses on ka musta värvi laualamp ja osaliselt nähtav arvutimonitor. Paremal taustal on heledal seinal raamitud pilt. Kaadri esiplaanil paremal on laual tumedat värvi tehniline varustus, mis koosneb läätsedest või nuppudest.",
+      "actions": [
+        "Istub toolil",
+        "Gesteerib parema käega ekraani poole",
+        "Räägib",
+        "Hoiab käsi konsoolil",
+        "Vaatab ekraani ja kaamera poole"
+      ],
+      "keywords": [
+        "Filmiarhiiv",
+        "Filmikonsool",
+        "Filmilint",
+        "Digitaalne säilitamine",
+        "Arhiivitöö",
+        "Dokumentalistika",
+        "Siseinterjöör",
+        "Naine",
+        "Tehnika",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Filmi monteerimise konsool",
+        "Ekraan",
+        "Mustvalge filmikaader",
+        "Filmilint",
+        "Laud",
+        "Kontoritool",
+        "Aken",
+        "Vertikaalsed ribikardinad",
+        "Laualamp",
+        "Arvutimonitor",
+        "Raamitud pilt",
+        "Tehniline varustus",
+        "Sall",
+        "Kindad"
+      ],
+      "colorcodes": [
+        "#242D3D",
+        "#A0B0B0",
+        "#B84A29",
+        "#1A1A1A",
+        "#D0D0D0",
+        "#F0F0F0",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "you can see it on the screen right now",
+        "we were treated all of our material in the Tallinfilm lab"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise parema käe asend ja žestid erinevad: esimesel pildil osutab ta ekraani poole, teisel pildil toetub käsi konsoolile.",
+        "Naise näoilme ja suu asend on veidi erinevad: esimesel pildil on naeratus laiem ja pilk suunatud rohkem paremale, teisel pildil on suu avatud nagu rääkimise ajal ja pilk suunatud rohkem kaamera poole.",
+        "Subtiitrite tekst on erinev, viidates erinevatele lausetele kõnes."
+      ],
+      "snr": "022",
+      "ajad": [
+        "219.920",
+        "234.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest (kelle käed on kaetud valgete kinnastega), kes tegeleb filmimaterjaliga hämaras sisekeskkonnas, tõenäoliselt laboris või arhiivis. Ühes kaadris on näha lahti rullitud filmi riba, millele paistab läbi ere valgus, rõhutades materjali läbipaistvust ja võimalikku kontrolli. Teistes kaadrites käsitletakse metallist ümmargust filmirulli või -konteinerit, mille ümber on keritud tume filmlint. Ühele rullile asetatakse peale tumedat, rihveldatud korki või spindlit. Lauapind on hallikas ja peegeldav, taust on tume ja udune, vihjates kontrollitud valgustusele ja spetsiifilisele töökeskkonnale.",
+      "actions": [
+        "filmi käitlemine",
+        "filmi rullimine",
+        "korgi asetamine",
+        "materjali töötlemine",
+        "filmi kontrollimine"
+      ],
+      "keywords": [
+        "filmilabor",
+        "filmimaterjal",
+        "restaureerimine",
+        "filmirull",
+        "kindad",
+        "tume",
+        "arhiiv",
+        "Tallinnfilm",
+        "filmilint"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "filmirull",
+        "filmlint",
+        "valged kindad",
+        "metallist konteiner",
+        "rihveldatud kork/spindel",
+        "laud/tööpind"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#BFBFBF",
+        "#2F2F2F",
+        "#ADADAD",
+        "#363A3C",
+        "#8DAFC2",
+        "#FFFFFF",
+        "#404040"
+      ],
+      "texts": [
+        "we were treated all of our material in the Tallinnfilm lab",
+        "Fairly complicated in regard to color positives",
+        "was that the picture was supposed to be color"
+      ],
+      "persons": [
+        "inimene (nähtavad vaid käed kinnastes)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene kaader näitab lahtist filmi riba, millele paistab läbi ere valgus, rõhutades materjali läbipaistvust.",
+        "Teine kaader keskendub ümmargusele metallist filmirullile või konteinerile, mille ümber on filmlint ja millel on näha sinakas-hallid ribad.",
+        "Kolmas kaader näitab sama filmirulli, millele asetatakse peale tumedat rihveldatud korki või spindlit.",
+        "Subtiitrite tekst muutub iga kaadriga vastavalt jutustusele.",
+        "Valgus on esimeses kaadris intensiivsem ja suunatum läbi filmi, samas kui teistes kaadrites on valgus ühtlasem.",
+        "Käe asend ja tegevus muutub igas kaadris vastavalt käsitletavale objektile ja toimingule."
+      ],
+      "snr": "023",
+      "ajad": [
+        "234.920",
+        "241.120"
+      ]
+    },
+    {
+      "explanation": "Piltidel on kujutatud stseen filmilaborist või restaureerimiskeskusest, kus keskendutakse filmilindi käsitsemisele. Kaadris domineerib valge lauapind, millel asub keerukas masin, ilmselt filmiskanner või tagasikerimisseade. Masina vasakul poolel on reas mitu metallist hõbedast kanistrit ja rulli, mis viitavad filmikassettidele või -varuosadele. Paremal pool on näha inimese käsi, mis kannavad valgeid kindaid ja tegelevad aktiivselt filmilindiga, mis jookseb üle masina rullikute. Filmi mustriline pind on detailne ning tekitab tunde vana ja ajaloolise materjali taastamisest. Üldine õhkkond on professionaalne ja keskendunud. Stseeni allosas on ingliskeelsed subtiitrid.",
+      "actions": [
+        "Filmi käsitsemine",
+        "Filmilindi kerimine",
+        "Filmi restaureerimine",
+        "Filmi skaneerimine"
+      ],
+      "keywords": [
+        "Film",
+        "Filmilint",
+        "Filmi restaureerimine",
+        "Filmi arhiiv",
+        "Filmi käitlemine",
+        "Labor",
+        "Masin",
+        "Kindad",
+        "Retro",
+        "Vana film",
+        "Postproduktsioon",
+        "Filmiskanner"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Filmi skaneerimismasin",
+        "Filmilint",
+        "Metallist rullid",
+        "Metallist kanistrid",
+        "Valged kindad",
+        "Laud"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#808080",
+        "#000000",
+        "#464646"
+      ],
+      "texts": [
+        "was that the picture was supposed to be color"
+      ],
+      "persons": [
+        "Üks inimene (käed ja käsivarred)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on näha filmi liikumise ja käte asendi väike progressioon, mis annab edasi pidevat tegevust filmilindiga töötamisel. Filmi keritakse üle masina rullikute, kusjuures igal kaadril on film veidi erinevas asendis."
+      ],
+      "snr": "024",
+      "ajad": [
+        "241.120",
+        "245.600"
+      ]
+    },
+    {
+      "explanation": "Stseenil on detailne vaade professionaalsele videomonitorile, mis on tõenäoliselt paigutatud stuudiosse või montaažiruumi. Monitori tumehalli korpust ja ekraani ümbritseb allpool juhtpaneel punaste digitaalsete aegkoodi näidikute ja nuppudega. Ekraanil kuvatakse animeeritud sisu: stiliseeritud inimkujuline tegelane seisab tumedal, robustsel künkana näival maastikuelemendil. Tegelane on riietatud punastesse ja tumepunastesse rõivastesse, millel on kollased detailid, ning tal on silmapaistev peakate või soeng. Ta on pööratud vaatajast veidi paremale. Animeeritud taust on valdavalt roheline, luues mulje tihedast džunglist või müstilisest maastikust, kus on näha tumedamaid taimestikku või kivimeid. Tegelase taga paremal on samuti kollakasoranže, teravaid esemeid. Ekraani alaosas on näha valgeid subtiitreid, mis ulatuvad osaliselt ka monitori tumedale alumisele raamile.",
+      "actions": [
+        "monitor kuvab animeeritud sisu",
+        "animeeritud tegelane seisab paigal või liigub kergelt",
+        "subtiitrid kuvatakse ekraanil",
+        "digitaalne aegkood jookseb"
+      ],
+      "keywords": [
+        "videomonitor",
+        "animatsioon",
+        "digitaalne",
+        "roheline",
+        "punane",
+        "tegelane",
+        "subtiitrid",
+        "stuudio",
+        "montaaž",
+        "aegkood",
+        "fantastika",
+        "multimeedia"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "videomonitor",
+        "juhtpaneel",
+        "nupud",
+        "digitaalnäidik",
+        "animeeritud tegelane",
+        "mäeküngas",
+        "roheline taimestik",
+        "teravad objektid (taimed/relvad)",
+        "subtiitrid"
+      ],
+      "colorcodes": [
+        "#3C7238",
+        "#1D311F",
+        "#A52B3C",
+        "#E3B42C",
+        "#2E2E2E",
+        "#E01717",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "was that the picture was supposed to be color",
+        "193.1",
+        "193.5",
+        "194.0"
+      ],
+      "persons": [
+        "animeeritud tegelane"
+      ],
+      "imagetype": "drawing",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Digitaalne aegkood monitori allosas muutub: 193.1, 193.5, 194.0.",
+        "Animeeritud tegelase asendis või liikumises on märgata väga väikseid nihkeid, mis viitab video edasikerimisele või animatsiooni kulgemisele."
+      ],
+      "snr": "025",
+      "ajad": [
+        "245.600",
+        "247.600"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt filmistuudios, filmiarhiivis või laboratooriumis. Pildil on näha punakate juuste, prillide ja mustrilise salliga naine, kes on kummardunud suure filmiskaneerimise või -redigeerimise masina kohale, jälgides selle tööd. Naine kannab tumesinist pluusi või jakki. Masin on halli värvi ja sellel on keskel ekraan, mis kuvab värvilisi animatsioonikaadreid. Ekraani all on digitaalne ekraan ja juhtnupud. Masina alumisel osal on mitmeid hõbedasi rulle ja spindleid, mille vahel jookseb filmilint. Vasakul on näha kaks suurt filmirulli. Taustal paistavad valged aknakatted või rulood, mis lasevad sisse pehmet päevavalgust. Mõlemal pildil on näha subtiitrid, mis annavad konteksti filmi omaduste või restaureerimise kohta.",
+      "actions": [
+        "Filmi skaneerimine või redigeerimine",
+        "Filmi materjali kontrollimine",
+        "Seadme operaatorina töötamine",
+        "Animatsiooni vaatamine"
+      ],
+      "keywords": [
+        "Film",
+        "Filmiarhiiv",
+        "Restaureerimine",
+        "Animatsioon",
+        "Filmiskanner",
+        "Redigeerimismasin",
+        "Operaator",
+        "Siseruumid",
+        "Tehnika",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Filmi töötlemise masin",
+        "Ekraan",
+        "Filmirullid",
+        "Filmilint",
+        "Lauaplaat",
+        "Laualamp",
+        "Prillid",
+        "Sall",
+        "Riided",
+        "Aknakatted",
+        "Aken"
+      ],
+      "colorcodes": [
+        "#4F5050",
+        "#2F3D4B",
+        "#AA472B",
+        "#F0F0F0",
+        "#B0B0B0",
+        "#77B63B",
+        "#E2C94A",
+        "#CC3D3D",
+        "#62B03C",
+        "#EBD146",
+        "#9E2D2D"
+      ],
+      "texts": [
+        "was that the picture was supposed to be color",
+        "but sound track should be possibly black and white"
+      ],
+      "persons": [
+        "Naine (operaator/restauraator)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Masina ekraanil kuvatav animatsioonikaader on erinev. Esimesel pildil on näha tegelane krooniga keset tähistaevast, teisel pildil on abstraktsem motiiv, mis meenutab stiliseeritud puud või paabulindu südamekujuga keskel.",
+        "Subtiitrite tekst on mõlemal pildil erinev, andes edasi erinevaid lause osi.",
+        "Naise kehahoiak on piltide vahel pisut muutunud, kuigi ta on endiselt masina kohale kummardunud."
+      ],
+      "snr": "026",
+      "ajad": [
+        "247.600",
+        "251.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist punakaspruunide juustega, kes istub filmi redigeerimislaua taga ja räägib, kergelt naeratades. Ta kannab tumesinist pluusi ja kardigani ning kaelkirikujärsest mustriga hallikas-sinist salli. Tema paremas käes on valge kinnas ja ta žestikuleerib sellega lauale asetatud prillide ja filmitöötlemisseadmete kohal. Vasakul pool on näha retrohõnguline filmi vaatamiseks mõeldud monitor, mille ekraanil kuvatakse must-valget kaadrit, mis meenutab rongi sisemust või tunnelit. Laual on näha erinevaid filmilintide rullikuid ja töövahendeid. Tagaplaanil paremal on teine must, välja lülitatud monitor ja hele sein. Alumises osas on näha filmilindiga töötlemise seadmete detailid ja nupuplokk. Pildi allosas on valge subtiiter teksti. Üldine atmosfäär viitab ajaloolisele või arhiivitööle.",
+      "actions": [
+        "Räägib",
+        "Žestikuleerib",
+        "Naeratab",
+        "Istub"
+      ],
+      "keywords": [
+        "Filmi redigeerimine",
+        "Filmi restaureerimine",
+        "Intervjuu",
+        "Naine",
+        "Arhiiv",
+        "Must-valge film",
+        "Heliriba",
+        "Filmilint",
+        "Töötuba",
+        "Retrokino"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Filmi redigeerimislaud",
+        "Monitor",
+        "Filmirullid",
+        "Prillid",
+        "Valged kindad",
+        "Sall",
+        "Pluus",
+        "Kardigan",
+        "Must monitor",
+        "Sein",
+        "Subtiiter"
+      ],
+      "colorcodes": [
+        "#8B3E2F",
+        "#0A0A0A",
+        "#A5B6C4",
+        "#F0F0F0",
+        "#D0D0C5",
+        "#3C4B59"
+      ],
+      "texts": [
+        "but sound track should be possibly black and white"
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevused piltide vahel on minimaalsed, peamiselt naise suu asendis ja näoilme nüanssides, mis viitab pideva videovoo kaadritele."
+      ],
+      "snr": "027",
+      "ajad": [
+        "251.400",
+        "256.800"
+      ]
+    },
+    {
+      "explanation": "Pildil on näha vanem punapäine naine, kes istub filmilõikamise või -töötluse laua taga siseruumis. Naine naeratab ja kannab tumesinist kleiti või pluusi, mustrilist salli ning valgeid kindaid. Tema taga vasakul on suur aken vertikaalsete ribikardinatega, mille ees laual on monitor ja laualamp. Keskel domineerib suur musta värvi filmitöötlusmasin, mille ekraanil kuvatakse mustvalget pilti siseruumist, mis näib olevat koridor uksega. Masina peal on näha mitu filmilinti ja juhtnuppe. Paremal seinal rippuvad raamitud pildid. Naine suhtleb kaamera poole ja žestikuleerib oma parema käega.",
+      "actions": [
+        "Naine istub",
+        "Naine naeratab",
+        "Naine räägib",
+        "Naine žestikuleerib käega",
+        "Naine näitab pöialt üles"
+      ],
+      "keywords": [
+        "Filmitöötlus",
+        "Filmiarhiiv",
+        "Vanaaegne tehnika",
+        "Naine",
+        "Siseruum",
+        "Filmilint",
+        "Mustvalge film",
+        "Steenbeck"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Filmitöötluslaud",
+        "Filmilindid",
+        "Monitor",
+        "Laualamp",
+        "Vertikaalsed ribikardinad",
+        "Raamitud pildid",
+        "Sall",
+        "Kindad"
+      ],
+      "colorcodes": [
+        "#36454F",
+        "#D3D3D3",
+        "#FFFFFF",
+        "#8B0000",
+        "#000000",
+        "#A9A9A9"
+      ],
+      "texts": [
+        "but sound track should be possibly black and white",
+        "only with monochrome film"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise parema käe žest muutub: esimesel pildil on käsi avatud ja toetub lauale, teisel pildil on pöial üles tõstetud ('thumbs-up' žest) ja seejärel toetub käsi uuesti lauale.",
+        "Alatesubtiitrite tekst on erinev, peegeldades vestluse erinevaid hetki."
+      ],
+      "snr": "028",
+      "ajad": [
+        "256.800",
+        "271.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist, punakaspruunide lokkis juustega naist, kes istub siseruumis laua taga, mis on kaetud vanade filmimontaažiseadmetega. Naine naeratab laialt ja vaatab paremale (vaataja vasakule), justkui kellegagi suheldes või midagi huvitavat jälgides. Tal on seljas tumesinine või must pluus, mille peal on helehall mustrilise mustriga sall. Käes on tal valged kindad, mis toetuvad lauale, kus on näha filmirulle, erinevaid väikeseid metallist anumaid, prille ja filmilõike. Taustal on kaks monitori, millest vasakpoolne kuvab mustvalget pilti ilmselt filmitöötlemise masinast. Teine monitor on tumendatud. Üldine õhkkond viitab filmiahiivile, muuseumile või montaažistuudiole, rõhutades ajaloolist või spetsiifilist filmitehnoloogiat. Pildil on tekstiga subtiitrid, mis kirjeldavad filmi töötlemist.",
+      "actions": [
+        "Naine naeratab ja vaatab paremale",
+        "Naine toetab käed lauale"
+      ],
+      "keywords": [
+        "filmiarhiiv",
+        "filmitöötlus",
+        "montaaž",
+        "punased juuksed",
+        "sall",
+        "valged kindad",
+        "monitorid",
+        "mustvalge pilt",
+        "vintage seadmed"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "laud",
+        "filmimontaaži seadmed",
+        "monitorid",
+        "filmilindid",
+        "filmikarbid",
+        "prillid",
+        "sall",
+        "kindad",
+        "käed"
+      ],
+      "colorcodes": [
+        "#913524",
+        "#A0A5A8",
+        "#1A1E27",
+        "#F0F0F0",
+        "#5D5C5B",
+        "#26272C",
+        "#0F0F0F",
+        "#383838"
+      ],
+      "texts": [
+        "In this machine, for example, the processing has been split into two parts",
+        "the film was processed in containers & sound track in other part"
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst on erinev: esimesel pildil on tekst \"In this machine, for example, the processing has been split into two parts\" ja teisel pildil \"the film was processed in containers & sound track in other part\"."
+      ],
+      "snr": "029",
+      "ajad": [
+        "271.880",
+        "282.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat punakate juustega naist istumas ruumis, mis näib olevat filmistuudio või arhiiv. Ta istub suure halli filmilõikus- või skaneerimismasina taga, millel on ekraan, mis näitab mustvalget kaadrit siseruumist. Naine naeratab ja vaatab paremale kaadrist välja. Tal on seljas tumesinine pluus, helehall mustriga sall ja valged kindad. Tema vasak käsi toetub masina tööpinnale. Masina peal on näha filmirullid ja mitu nuppu. Taustal on aken heledate ribakardinatega, laualamp ja teisi elektroonikaseadmeid. Paremal seinal on raamitud pilt. Pildi allosas on mustal taustal valge subtiitrite tekst.",
+      "actions": [
+        "Naine istub",
+        "Naine naeratab",
+        "Naine vaatab paremale",
+        "Käsi toetub masinale"
+      ],
+      "keywords": [
+        "filmistuudio",
+        "filmiarhiiv",
+        "filmi redigeerimine",
+        "telecine",
+        "vanem naine",
+        "filmimasin",
+        "monitor",
+        "mustvalge kaader",
+        "siseruum",
+        "tehnika"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "filmilõikusmasin",
+        "monitor",
+        "filmirullid",
+        "laud",
+        "tool",
+        "laualamp",
+        "aken",
+        "ribakardinad",
+        "arvutimonitor",
+        "raamitud pilt",
+        "subtiitrite tekst"
+      ],
+      "colorcodes": [
+        "#B83A20",
+        "#303A4C",
+        "#8896A0",
+        "#D0D0D0",
+        "#484E54",
+        "#C0C0C0",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "the film was processed in containers & sound track in other part"
+      ],
+      "persons": [
+        "vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "030",
+      "ajad": [
+        "282.480",
+        "290.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat naist punakaspruunide, lokkis juustega, kes istub siseruumides, tõenäoliselt filmiarhiivis või toimetamisstuudios. Naine on riietatud tumedasse pluusi ja tumedasse kampsunisse, kaelas on halli, pruuni ja valge mustriga sall. Tema vasakul käel on valge kinnas. Ta vaatab kaamerast veidi eemale, paremale poole, ja räägib ning žestikuleerib. Tema ees laual on filmi redigeerimise seadmed, sealhulgas mustvalge monitor, mis näitab vana, arhiivset kaadrit, mis paistab olevat mingi siseruumi või masinaosa mustvalge ülesvõte. Laual on ka filmirullid, metallist karbid, filmiribad ja punaste raamidega prillid. Tagapool on näha veel üks must monitor. Üldine õhkkond viitab professionaalsele töökeskkonnale, mis on seotud filmide säilitamise, taastamise või analüüsiga.",
+      "actions": [
+        "Rääkimine",
+        "Žestikuleerimine",
+        "Istumine"
+      ],
+      "keywords": [
+        "Filmiarhiiv",
+        "Filmi taastamine",
+        "Naine",
+        "Siseinterjöör",
+        "Filmitoimetaja",
+        "Subtiitrid",
+        "Kinnas"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Sall",
+        "Valge kinnas",
+        "Prillid",
+        "Must monitor",
+        "Filmirullid",
+        "Filmi redigeerimise seadmed",
+        "Lauaplaat",
+        "Must ekraan",
+        "Punased prilliraamid"
+      ],
+      "colorcodes": [
+        "#A03223",
+        "#2C2C32",
+        "#A6A093",
+        "#6D6964",
+        "#EBEBEB",
+        "#C7987B",
+        "#DCDCDC",
+        "#1A1A1A",
+        "#7F0000"
+      ],
+      "texts": [
+        "Great value has a processing liquid as well as constant temperature",
+        "Such demands were for Russian film as well as German film"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid, samas kui teisel ja kolmandal pildil on näha ingliskeelsed subtiitrid, mis kuvatakse ekraani allosas.",
+        "Naise vasaku käe (mis kannab valget kinnast) asend ja žestikuleerimine muutuvad piltide vahel, mis annab edasi jutu jätkumise või rõhuasetuse muutumise."
+      ],
+      "snr": "031",
+      "ajad": [
+        "290.480",
+        "314.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist, kes istub filmiarhiivi või filmitöötlusruumis suure vintage-stiilis filmitöötlusmasina taga. Naine, kellel on punakaspruunid lokkis juuksed ja elav näoilme, on riietatud tumesinisesse kleiti või pluusi, kaelas on halli-sinisekirju sall ning kätes kannab ta valgeid kindaid. Tema parem käsi toetub masina juhtpaneelile. Suur hall filmitöötlusmasin on varustatud mitmete rullide ja ekraaniga, kus kuvatakse must-valget filmi interjöörist, mis näib olevat koridor või ruum uksega. Laual on näha ka lauvalgusti ja teisi monitore. Taustal vasakul on suur aken vertikaalsete ribikardinatega, mis lasevad sisse pehmet päevavalgust, ja paremal seinal ripub raamitud pilt või dokument. Üldine atmosfäär viitab asjatundja või arhiivinduse spetsialisti töökeskkonnale.",
+      "actions": [
+        "Naine räägib ja selgitab",
+        "Naine naeratab",
+        "Naine žestikuleerib parema käega",
+        "Naine istub ja puhkab käsi masinal"
+      ],
+      "keywords": [
+        "Filmiarhiiv",
+        "Filmitöötlus",
+        "Naine",
+        "Intervjuu",
+        "Vanaaegne aparatuur",
+        "Rullfilm",
+        "Ekspert",
+        "Must-valge film",
+        "Kindad",
+        "Sall"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Filmitöötlusmasin",
+        "Monitor",
+        "Rullfilm",
+        "Valged kindad",
+        "Sall",
+        "Laud",
+        "Lauvalgusti",
+        "Tool",
+        "Aken",
+        "Rulood",
+        "Pildid seinal",
+        "Must-valge film ekraanil",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#4D4C4A",
+        "#3E4C5F",
+        "#9DA9BB",
+        "#FFFFFF",
+        "#997C63",
+        "#181818",
+        "#D2C3B4"
+      ],
+      "texts": [
+        "Such demands were for Russian film as well as German film",
+        "However, it did happen that the thermostat informed us",
+        "And as you can see the machine length is 1000-1200 meters"
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise näoilme ja käehoiak muutuvad kergelt: esimesel pildil on käed süles, teisel on parem käsi masinal ja vasak veidi tõstetud, kolmandal on parem käsi aktiivselt žestikuleerimas ja avatud.",
+        "Alumised subtiitrid ekraanil on igal pildil erinevad, näidates jutuajamise edenemist.",
+        "Naise naeratus on esimesel ja kolmandal pildil veidi laiem ja elavam, teisel pildil kergelt tagasihoidlikum."
+      ],
+      "snr": "032",
+      "ajad": [
+        "314.600",
+        "336.080"
+      ]
+    },
+    {
+      "explanation": "Stseenis on keskealine punapäine naine, kes istub laua taga sisetingimustes, mis meenutavad filmiarhiivi või montaažistuudiot. Ta kannab tumedaid riideid, sh tumedat pluusi, tumedat kardigani ja heledamustrilist salli. Naise vasakus käes on valge kinnas ja ta räägib aktiivselt, žestikuleerides käega. Tema taga on näha professionaalset tehnikat, sealhulgas mustvalget pilti kuvav monitor ja teine tume monitor. Laud on kaetud erinevate esemetega, nagu prillid ja võimalikud filmirullid või -kanistrid. Ruumi valgustus on hele ja ühtlane.",
+      "actions": [
+        "Rääkimine",
+        "Žestikuleerimine",
+        "Istumine"
+      ],
+      "keywords": [
+        "Naine",
+        "Filmistuudio",
+        "Arhiiv",
+        "Punased juuksed",
+        "Monitor",
+        "Mustvalge pilt",
+        "Tehnika",
+        "Intervjuu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Laud",
+        "Monitorid",
+        "Valge kinnas",
+        "Sall",
+        "Prillid",
+        "Filmirullid/kanistrid",
+        "Heliregulaatorid/nupud"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#404040",
+        "#A9A9A9",
+        "#F5F5DC",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "And as you can see the machine length is 1000-1200 meters",
+        "so the change in temperature could cause a very large number of waste",
+        "but with black and white negatives happened for sure"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise näoilme ja suu asend muutuvad kaadrite vahel, peegeldades erinevaid kõnehetki.",
+        "Naise vasaku käe asend ja žest on igal pildil veidi erinev, jätkates aktiivset rääkimist.",
+        "Alumine subtiitririba kuvab igal pildil erineva osa lausest."
+      ],
+      "snr": "033",
+      "ajad": [
+        "336.080",
+        "348.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivõtet kollasest kolmnurksest hoiatusmärgist, millel on musta värvi leegisümbol, mis tähistab süttivust või tuleohtu. Märgi servades on näha ka musti diagonaalseid jooni, mis moodustavad kolmnurga piire. Taust on udune ja helehall, mis suunab vaataja tähelepanu märgile. Pildiseeria on ilmselt võetud videost, millele viitavad kaadrite allservas olevad ingliskeelsed subtiitrid. Valgus on ühtlane ja tundub olevat tehislik.",
+      "actions": [],
+      "keywords": [
+        "Hoiatusmärk",
+        "Tuleoht",
+        "Leek",
+        "Süttiv",
+        "Kollane",
+        "Must",
+        "Lähivõte",
+        "Subtiitrid",
+        "Ohutus",
+        "Märk"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Hoiatusmärk",
+        "Leegisümbol",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#FADF00",
+        "#000000",
+        "#FBFBFB",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "but with black and white negatives happened for sure",
+        "But we were lucky that machine was smaller and the waste was much less"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 5,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimese pildi subtiitrite tekst on erinev teise ja kolmanda pildi subtiitrite tekstist.",
+        "Teise ja kolmanda pildi subtiitrid on identsed.",
+        "On märgata väga peeneid kaamera positsiooni või fookuse muutusi kaadrite vahel, mis viitab, et tegemist on videokaadritega. Näiteks leegisümboli vari ja üldine kadreering erinevad minimaalselt piltide vahel."
+      ],
+      "snr": "034",
+      "ajad": [
+        "348.600",
+        "353.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt virnastatud metalseid konteinereid, mis näivad olevat filmirullide karbid, koos pruunide ristkülikukujuliste karpidega riiulil või panipaigas. Konteinerid on hallid või hõbedased ja neil on musta värvi markeriga käsitsi kirjutatud numbrid, näiteks „P-4825“ ja „P-4848“. Mitmed konteinerid on üksteise peal virnas, luues ridamisi horisontaalseid jooni. Pruunid karbid, mis võivad olla valmistatud papist või puidust, asuvad samuti virnas, osaliselt metallkonteinerite taga ja osaliselt nende peal. Üldine valgus on summutatud ja pehme, luues arhiivi või lao atmosfääri. Kaadri fookus varieerub, vahetades teravust eri konteinerite vahel. Stseenis on näha ka inglisekeelseid subtiitreid, mis annavad edasi vestlust masinate suuruse, raiskamise ja negatiivide olulisuse kohta tootmises.",
+      "actions": [
+        "Ladustamine",
+        "Hoiustamine"
+      ],
+      "keywords": [
+        "Filmirullid",
+        "Arhiiv",
+        "Ladu",
+        "Metallkonteinerid",
+        "Numbrid",
+        "Hoiustamine",
+        "Negatiivid",
+        "Pruunid karbid",
+        "Säilitamine"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Metallkonteinerid",
+        "Filmirullide karbid",
+        "Pruunid karbid",
+        "Riiul"
+      ],
+      "colorcodes": [
+        "#C0C0C0",
+        "#8B4513",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "P-4825",
+        "P-4848",
+        "But we were lucky that machine was smaller and the waste was much less",
+        "Negative is a very important unit in production"
+      ],
+      "persons": [
+        "Mitte ühtegi"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Fookuspunkt muutub kaadrite vahel: esimeses kaadris on esiplaan udune, teises selgemalt P-4825, kolmandas on terav P-4848.",
+        "Kaamera nurk ja kompositsioon on veidi erinevad, paljastades eri hulkades konteinereid ja karpe.",
+        "Subtiitrid ilmuvad esimeses ja kolmandas kaadris, puuduvad teises kaadris.",
+        "Nähtavad numbrimärgised on erinevad: esimeses ja teises kaadris P-4825, kolmandas kaadris P-4848."
+      ],
+      "snr": "035",
+      "ajad": [
+        "353.880",
+        "357.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist, kellel on punakas-pruunid juuksed ja kes kannab tumesinist kleiti või pluusi koos hallikas-sinise mustrilise salliga, istumas sisetingimustes filmimontaažiruumis. Naine vaatab paremale ja räägib, tema ees laual on suur filmilindi montaažimasin koos monitoriga, mis näitab mustvalget kaadrit siseruumist (näib olevat köök või elutuba). Laual on ka mitu väiksemat monitori ja juhtimispaneelid. Tema parem käsi on kaetud valge kindaga. Taustal paistab aken läbi vertikaalsete ribikardinate, mis lasevad sisse loomulikku valgust. Seinal on ka pilt. Ülal vasakul laual on musta värvi laualamp. Kaadris on näha ka teksti, mis selgitab negatiivi olulisust filmitootmises.",
+      "actions": [
+        "Naine räägib",
+        "Naine žestikuleerib parema käega (osutab)"
+      ],
+      "keywords": [
+        "montaažiruum",
+        "filmitehnika",
+        "intervjuu",
+        "naine",
+        "negatiiv",
+        "originaalmaterjal",
+        "filmitootmine",
+        "mustvalge pilt",
+        "laualamp",
+        "aknakardinad"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "montaažimasin",
+        "monitorid",
+        "filmirull",
+        "laud",
+        "tool",
+        "valge kinnas",
+        "sall",
+        "laualamp",
+        "aken",
+        "ribikardinad",
+        "pilt seinal"
+      ],
+      "colorcodes": [
+        "#1F283C",
+        "#A3A8AF",
+        "#667586",
+        "#2D2F30",
+        "#555758",
+        "#D6D8D7",
+        "#8B4513",
+        "#F0F0F0",
+        "#2A2F34"
+      ],
+      "texts": [
+        "Negative is a very important unit in production",
+        "because negative is the original material in fact"
+      ],
+      "persons": [
+        "vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil toetab naine parema käega lauale, samas kui teisel pildil osutab ta parema nimetissõrmega.",
+        "Ekraanil olev subtiitri tekst on esimesel pildil “Negative is a very important unit in production” ja teisel pildil täieneb see lausega “because negative is the original material in fact”."
+      ],
+      "snr": "036",
+      "ajad": [
+        "357.560",
+        "366.680"
+      ]
+    },
+    {
+      "explanation": "See stseen kujutab keskealist või vanemat naist, kellel on oranžikaspunased juuksed, istumas laua taga ruumis, mis näib olevat filmiarhiiv või montaažiruum. Naine kannab tumedat pluusi, tumedat kardigani ja heledat pruunikashalli mustrilist salli. Tema paremas käes on valge puuvillane kinnas ja ta žestikuleerib rääkides, osutades millegi poole laual. Tema ilme on elav ja emotsionaalne, suu on sageli avatud. Laual tema ees on näha prillid, erinevad filmirullide hoidikud või konteinerid ja muu sarnane varustus. Taustal on monitor, millel kuvatakse mustvalge filmi kaader, ja teine tumedam ekraan. Ümbritsev keskkond viitab töökeskkonnale, mis on seotud filmi restaureerimise või arhiveerimisega.",
+      "actions": [
+        "Naine räägib",
+        "Naine žestikuleerib parema käega",
+        "Naine istub",
+        "Naine vaatab ja pöörab pead"
+      ],
+      "keywords": [
+        "filmiarhiiv",
+        "montaaž",
+        "restaureerimine",
+        "naine",
+        "intervjuu",
+        "film",
+        "monitor",
+        "kinnas",
+        "stuudio",
+        "arhiivitöö"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "laud",
+        "monitor",
+        "filmirullid",
+        "prillid",
+        "valge kinnas",
+        "sall",
+        "kardigan",
+        "pluus",
+        "tööjaam"
+      ],
+      "colorcodes": [
+        "#ff6600",
+        "#333333",
+        "#a0a0a0",
+        "#f8f8f8",
+        "#c8c8c8",
+        "#000000"
+      ],
+      "texts": [
+        "because negative is the original material in fact"
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise näoilmed, pealiigutused ja käe asend muutuvad kaadrite vahel, mis annab edasi liikumist ja rääkimist",
+        "Subtiitrid on näha ainult esimesel pildil"
+      ],
+      "snr": "037",
+      "ajad": [
+        "366.680",
+        "382.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist, kes istub filmi monteerimiseks mõeldud tööruumis, ilmselt filmistuudios või arhiivis. Naine, kellel on punakaspruunid lokkis juuksed ja prillid, on riietatud tumesinisesse pluusi ja hallimustrilisse salli. Ta istub suure, keeruka filmitöötlusseadme ees, millel on erinevad lindirullid ja juhtnupud. Seadme kohal on monitor, mis kuvab mustvalget pilti sisustusest, mis näib olevat koridor või tuba koos uksega. Naine osutab oma parema käega (mis kannab valget kinnast) monitori poole, ilmselt selgitades midagi filmi monteerimise või taastamise protsessi kohta. Tuba on tagasihoidlikult sisustatud helehallide seintega ja vasakul asuva suure aknaga, mille ees on vertikaalrulood. Laual on näha musta laualampi ja paremal seinal osa raamitud pildist või dokumendist. Üldmulje on professionaalsest ja tehnilisest keskkonnast.",
+      "actions": [
+        "Naine räägib ja selgitab",
+        "Naine žestikuleerib parema käega monitori suunas",
+        "Filmitöötlusseade on kasutuses või esitletakse seda",
+        "Monitor kuvab mustvalget pilti"
+      ],
+      "keywords": [
+        "Filmitoimetaja",
+        "Filmiajalugu",
+        "Filmiarhiiv",
+        "Tööruum",
+        "Stuudio",
+        "Filmilint",
+        "Monitor",
+        "Vanatehnika",
+        "Monteerimine",
+        "Seletamine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Filmiredigeerimisseade (tõenäoliselt Steenbeck-tüüpi)",
+        "Monitor",
+        "Filmilindid (rullidel)",
+        "Laualamp",
+        "Laud",
+        "Tool",
+        "Vertikaalrulood",
+        "Aken",
+        "Sein",
+        "Raamitud pilt/dokument",
+        "Kinnas"
+      ],
+      "colorcodes": [
+        "#2B3441",
+        "#8A969B",
+        "#F2F2F2",
+        "#D6D9DC",
+        "#1C1E20",
+        "#BD6B40",
+        "#7C5C42"
+      ],
+      "texts": [
+        "On the screen you can see the picture of the workprint",
+        "During shootings the picture and the sound are recorded independently",
+        "so negative is recorded in the camera and sound on the recording device"
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Alamtekstid kaadrite allservas muutuvad, edastades lause erinevaid osi.",
+        "Naise parema käe žest muutub veidi, liikudes esimesest kaadrist teravamast osutusest edasi rääkides pisut lõdvestunumaks."
+      ],
+      "snr": "038",
+      "ajad": [
+        "382.760",
+        "411.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat naist, kellel on punakaspruunid juuksed, istumas tumeda tooni laua taga, mis on varustatud filmide töötlemise ja vaatamise seadmetega. Naine kannab tumedat pluusi või kardiganit ja heledat mustrilist salli kaela ümber. Tema paremas käes on valge kinnas, ja ta räägib kaamera poole. Tema selja taga vasakul on vana stiilis monitor, mis näitab mustvalget filmi kaadrit, ja paremal pool on veel üks tume monitor või ekraan. Laual on näha erinevaid metallist konteinereid, rullikuid ja esemeid, mis viitavad filmirullidele või helilintidele. Stseenil on tekstid, mis pakuvad konteksti naise jutule filmide salvestamisest ja lindiauditest. Valgus on soe ja kunstlik, esile tõstes naise nägu.",
+      "actions": [
+        "Naine räägib",
+        "Naine naeratab",
+        "Naine žestikuleerib parema käega",
+        "Naine kannab valget kindat",
+        "Naine istub laua taga"
+      ],
+      "keywords": [
+        "Film",
+        "Arhiiv",
+        "Filmihoidla",
+        "Toimetamine",
+        "Naine",
+        "Intervjuu",
+        "Stuudio",
+        "Varustus",
+        "Vintage",
+        "Video",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Laud",
+        "Monitor",
+        "Filmivaatamisseade",
+        "Filmirullid",
+        "Helilindid (viide tekstis)",
+        "Valge kinnas",
+        "Prillid",
+        "Sall",
+        "Tume pluus/kardigan",
+        "Stuudioseadmed"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#A9A9A9",
+        "#2F4F4F",
+        "#F5F5DC",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "so negative is recorded in the camera and sound on the recording device",
+        "Here you can see a separate positive and magnetic audio tape"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise parema käe asend ja žest on erinev – alguses on käsi laual ja hiljem ta žestikuleerib.",
+        "Naise suu asend ja näoilme muutuvad kergelt vastavalt jutule.",
+        "Subtiitrite tekst muutub iga kaadriga, peegeldades naise jätkuvat juttu."
+      ],
+      "snr": "039",
+      "ajad": [
+        "411.000",
+        "427.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist naist, kes istub siseruumis professionaalse filmi monteerimislaua taga. Naisel on oranžikaspruunid lokkis juuksed ja seljas tume sinakasmust kampsun või pluus ning kaelas helehall sall. Ta kannab mõlemas käes valgeid kindaid ja on pööratud kaamera poole, rääkides ja žestikuleerides oma parema käega vasakule suunas. Tema näoilme on elav, naeratav ja animeeritud, mis annab edasi entusiasmi või selgitust. Naise ees on suur monteerimislaud mitme filmi- või helilindi rulliga ja keskel mustvalget pilti kuvav monitor. Laual on ka prillid ja teisi väiksemaid esemeid. Taustal on näha heleda kardinaga kaetud aken, mis laseb sisse päevavalgust, ning vasakul pool must laudlamp. Paremal tagaseinal on raamitud mustvalge pilt. Stseeni allosas kuvatakse valgel tekstiga ingliskeelsed subtiitrid mustal taustal.",
+      "actions": [
+        "rääkimine",
+        "žestikuleerimine",
+        "istumine",
+        "selgitamine (oletatavasti)"
+      ],
+      "keywords": [
+        "filmi montaaž",
+        "arhiiv",
+        "filmikonservatsioon",
+        "filmirullid",
+        "monteerimislaud",
+        "vanamoodne tehnika",
+        "naine",
+        "töö",
+        "valged kindad",
+        "monitor",
+        "subtiitrid",
+        "filmilint",
+        "helilint"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "monteerimislaud",
+        "filmi/helilindid (rullid)",
+        "monitor",
+        "laudlamp",
+        "aken",
+        "kardinad",
+        "prillid",
+        "tool",
+        "laud",
+        "pilt seinal",
+        "nuppudega konsool"
+      ],
+      "colorcodes": [
+        "#1e2a3c",
+        "#8a9ba7",
+        "#ba572d",
+        "#fdfdfd",
+        "#3d424b",
+        "#414247",
+        "#e0e5ea",
+        "#5a3d24",
+        "#949494",
+        "#000000",
+        "#ffffff"
+      ],
+      "texts": [
+        "Here you can see a separate positive and magnetic audio tape",
+        "Sound synchronization and editing is a big job",
+        "Editors have to check everything tens or even hundreds of times"
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise käeasend ja žestid muutuvad veidi piltide vahel, edasi andes räägitava sisu arengut ja rõhutades teatud punkte.",
+        "Naise näoilme ja naeratus muutuvad animeeritumaks ja rõõmsamaks, eriti viimases pildis, kus ta näib oma juttu rõhutamas.",
+        "Alumises osas kuvatavad subtiitrid muutuvad iga pildiga, andes edasi naise poolt öeldavat informatsiooni."
+      ],
+      "snr": "040",
+      "ajad": [
+        "427.560",
+        "453.400"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealist või vanemat naist, kellel on punased juuksed. Ta kannab tumedat pluusi või kampsunit ja heledat, mustrilist salli kaela ümber. Vasakus käes on tal valge kinnas, millega ta žestikuleerib, ja tema pilk on suunatud otse kaamera poole. Naine naeratab ja räägib, mis viitab intervjuule või esitlusele. Ta asub ilmselt filmitöötlusruumis, laua taga, kus on näha vanamoeline filmimontaažimasin, mille ekraanil kuvatakse mustvalget pilti. Laual on ka mitmeid filmirulle või -kassette ning laua ääres on prillid. Tagapool paistab veel üks moodsam must monitor ja valged seinad, mis loovad professionaalse ja rahuliku töökeskkonna.",
+      "actions": [
+        "Naine räägib",
+        "Naine naeratab",
+        "Naine žestikuleerib vasaku käega"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Filmitöötlus",
+        "Filmianalüüs",
+        "Arhiiv",
+        "Filmitehnika",
+        "Montaažimasin",
+        "Naine",
+        "Punased juuksed",
+        "Valge kinnas",
+        "Sall",
+        "Töötuba"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Filmi montaažimasin",
+        "Monitor",
+        "Filmirullid",
+        "Prillid",
+        "Valge kinnas",
+        "Sall",
+        "Laud"
+      ],
+      "colorcodes": [
+        "#8B0000",
+        "#A9A9A9",
+        "#1A1A1A",
+        "#E0E0E0",
+        "#F5F5DC",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Editors have to check everything tens or even hundreds of times",
+        "When all was done, the sound has been synchronized",
+        "then the original negative came into play"
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise näoilme ja suu asend muutuvad vastavalt räägitavale tekstile",
+        "Vasaku käe žestikuleerimise ulatus ja asend on igal kaadril veidi erinev",
+        "Piltide all olevad subtiitrid muutuvad räägitava lause järgi"
+      ],
+      "snr": "041",
+      "ajad": [
+        "453.400",
+        "486.960"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub toas, mis näib olevat filmi montaaži- või arhiiviruum. Kaadri keskel ja vasakul pool domineerib suur hall montaažilaud, millel on filmi rullid ja erinevad montaažiseadmed. Laua taga istub vanem naine punakaspruunide juustega, riietatuna tumesinisesse kleiti või pluusi ja mustrilisse salli. Tema vasak käsi, millel on valge kinnas, puhkab töölaual, kuigi ühel hetkel ta žestikuleerib elavalt monitori suunas. Naine on rõõmsameelne ja naeratav, suheldes nähtavasti kaadrist väljaspool oleva vestluskaaslasega. Tema taga on suur must monitor, mis kuvab mustvalget pilti vanast filmist. Vasakul on näha teinegi must monitor ja laudlamp. Paremal seinal ripub mustvalge pilt ning aknast paistab päevavalgus läbi helesiniste ribikardinate. Paremal esiplaanil on näha veel montaažiseadmete detaile, mis on osaliselt fookusest väljas.",
+      "actions": [
+        "Naine räägib",
+        "Naine žestikuleerib",
+        "Naine naeratab",
+        "Naine istub"
+      ],
+      "keywords": [
+        "Filmi montaaž",
+        "Filmi arhiiv",
+        "Montaažilaud",
+        "Film",
+        "Naine",
+        "Siseinterjöör",
+        "Professionaal",
+        "Intervjuu",
+        "Filmi taastamine",
+        "Montaažiseadmed"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Montaažilaud",
+        "Filmi rullid",
+        "Monitorid",
+        "Montaažiseadmed",
+        "Tool",
+        "Laud",
+        "Laudlamp",
+        "Valge kinnas",
+        "Sall",
+        "Pilt seinal",
+        "Kardinad",
+        "Ventilatsiooniava"
+      ],
+      "colorcodes": [
+        "#8A3E26",
+        "#2F3E50",
+        "#939D9F",
+        "#6B6D6D",
+        "#DDDDDD",
+        "#B4DBF2",
+        "#272B2B",
+        "#F1F1F1",
+        "#8E6E4E",
+        "#151515",
+        "#E0E0E0"
+      ],
+      "texts": [
+        "then the original negative came into play",
+        "and in accordance with the workprint the final movie has been assembled"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimeses ja kolmandas kaadris on naine sarnases asendis, vasak käsi puhkamas laual ja pea kergelt paremale pööratud, naeratades õrnalt. Teises kaadris žestikuleerib naine vasaku käega elavalt monitori suunas ja tema naeratus on laiem ning elavam.",
+        "Esimeses kaadris on subtiiter \"then the original negative came into play\" kaadri allosas.",
+        "Teises kaadris on subtiiter \"and in accordance with the workprint the final movie has been assembled\" kaadri allosas.",
+        "Kolmandas kaadris puuduvad subtiitrid."
+      ],
+      "snr": "042",
+      "ajad": [
+        "486.960",
+        "504.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat naist punakaspruunide juustega, kes istub siseruumis laua taga, mis on varustatud filmide vaatamise ja töötlemise seadmetega. Naine on riietatud tumedasse kampsunisse ja tumedasse pluusi, kaelas on tal helehall musterdusega sall. Tema paremal käel on valge kinnas. Tema nägu on heledalt valgustatud, tuues esile naeratuse või rääkimise ajal tekkinud ilme. Tema taga vasakul on suur filmi vaatamise monitor, millel kuvatakse mustvalget kaadrit, mis näib olevat siseruum rongi või metroovagunist. Laual on näha filmirulle, filmiriba, prille ja mitmesuguseid muid seadmeid. Ta suhtleb elavalt, rääkides ja žestikuleerides käega ekraani suunas.",
+      "actions": [
+        "Rääkimine",
+        "Naeratamine",
+        "Žestikuleerimine",
+        "Istumine",
+        "Käe tõstmine",
+        "Valgete kinnaste kandmine"
+      ],
+      "keywords": [
+        "Naine",
+        "Film",
+        "Arhiiv",
+        "Redigeerimine",
+        "Monitor",
+        "Siseruum",
+        "Intervjuu",
+        "Meedia",
+        "Kinnas",
+        "Sall"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Punakaspruunid juuksed",
+        "Tume kampsun",
+        "Tume pluus",
+        "Helehall musterdusega sall",
+        "Valge kinnas",
+        "Filmi vaatamise seade",
+        "Monitor",
+        "Mustvalge filmikaader",
+        "Filmirullid",
+        "Filmiriba",
+        "Prillid",
+        "Laud",
+        "Mikrofon (oletatav)"
+      ],
+      "colorcodes": [
+        "#8B3213",
+        "#B1B1B1",
+        "#2E333C",
+        "#F5F5F5",
+        "#E0B49B",
+        "#000000",
+        "#AAAAAA"
+      ],
+      "texts": [
+        "after that everything was mixed together"
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 20,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise näoilme ja suu asend muutuvad stseenis rääkimise ja naeratamise vahel.",
+        "Naise kehakeel muutub, lisandub käega žestikuleerimine ekraani suunas.",
+        "Teises pildis on näha ingliskeelsed subtiitrid (\"after that everything was mixed together\"), mis esimestel ja viimastel piltidel puuduvad."
+      ],
+      "snr": "043",
+      "ajad": [
+        "504.240",
+        "528.440"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumis, tõenäoliselt filmiarhiivi- või monteerimisstuudios. Keskealine, punakaspruunide juustega naine istub professionaalse filmitöötluslaua taga. Ta kannab tumedaid riideid, mustrilist salli ja valget kinnast ühel käel. Laud on varustatud mitme filmirulli, juhtpaneelide ja suure monitoriga, mis kuvab mustvalget filmi kaadrit. Naine on aktiivselt tegev filmimaterjaliga, esmalt žestikuleerides ekraani suunas ja seejärel füüsiliselt filmilinti käideldes ning seda rõõmsa ilmega uurides. Ta naeratab ja paistab jagavat teavet, mida viitab ka ekraanil olev subtiiter. Ruumi üldine õhkkond viitab pühendunud ja asjatundlikule tööle filmidega.",
+      "actions": [
+        "Žestikuleerimine",
+        "Filmilindi hoidmine",
+        "Filmilindi uurimine",
+        "Rääkimine",
+        "Naeratamine",
+        "Istumine"
+      ],
+      "keywords": [
+        "Filmiarhiiv",
+        "Filmitöötlus",
+        "Filmilint",
+        "Monteerimislaud",
+        "Professionaalne",
+        "Naine",
+        "Mustvalge film",
+        "Subtiitrid",
+        "Kassett",
+        "Kinnas"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Filmitöötluslaud",
+        "Monitor",
+        "Filmirullid",
+        "Filmilint",
+        "Laualamp",
+        "Tool",
+        "Kinnas",
+        "Sall",
+        "Prillid",
+        "Aken",
+        "Ribakardinad",
+        "Seinalamp",
+        "Raamitud pilt"
+      ],
+      "colorcodes": [
+        "#343d46",
+        "#a44738",
+        "#909390",
+        "#ffffff",
+        "#2f3030",
+        "#505154",
+        "#e0e0e0"
+      ],
+      "texts": [
+        "there is already a picture and sound recorded on one film"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise käte asend ja tegevus varieeruvad piltide vahel. Esimesel pildil žestikuleerib ta ekraani suunas, teisel ja kolmandal pildil hoiab ning uurib ta filmilinti.",
+        "Kahel viimasel pildil on näha ingliskeelsed subtiitrid, mis esimesel pildil puuduvad.",
+        "Naise näoilme on esimesel pildil pigem keskendunud või seletav, samas kui kahel viimasel pildil on ta naeratav ja rõõmsameelne."
+      ],
+      "snr": "044",
+      "ajad": [
+        "528.440",
+        "537.600"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine naine punaste lokkis juustega, kes kannab musta pluusi ja heledamates toonides mustrilist salli. Ta hoiab vasaku käega, millel on valge kinnas, ülespoole keritud filmirulli ja sealt jooksvat filmiriba. Paremas käes, mis on samuti valge kindaga kaetud, hoiab ta filmiriba allpool. Naine on rõõmsameelne, naeratades laialt ja vaadates filmi, justkui demonstreeriks või selgitaks selle eripärasid. Tema ilme on elav ja kaasatud. Taustal on hägune siseruum, kus on näha tumedaid mööbliesemeid või riiuleid, mis annab edasi professionaalse või arhiivi keskkonna tunde. Piltidel on näha subtiitrid, mis kirjeldavad, et filmil on nii pilt kui ka heli ning see on valmis suurel ekraanil näitamiseks.",
+      "actions": [
+        "Hoides filmirulli ja -riba",
+        "Näidates filmi",
+        "Naeratades",
+        "Rääkides/selgitades (suu avatud)",
+        "Osutades filmiribale (esimesel pildil)"
+      ],
+      "keywords": [
+        "Naine",
+        "Filmihoidja",
+        "Filmiriba",
+        "Filmirull",
+        "Kindad",
+        "Naeratus",
+        "Rõõm",
+        "Demonstratsioon",
+        "Siseruum",
+        "Arhiivindus",
+        "Kino",
+        "Heli ja pilt"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Filmiriba",
+        "Filmirull",
+        "Valged kindad",
+        "Must pluus",
+        "Mustriline sall",
+        "Tumepruunid/punased juuksed",
+        "Hägune mööbel/riiulid taustal"
+      ],
+      "colorcodes": [
+        "#722B1E",
+        "#1A1A1A",
+        "#948B77",
+        "#FFFFFF",
+        "#2C2C2C",
+        "#D19A7E",
+        "#4C4C4C"
+      ],
+      "texts": [
+        "there is already a picture and sound recorded on one film",
+        "and ready to be shown on the big screen"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil osutab naine parema käe nimetissõrmega filmiribale, samas kui teistel piltidel on see käsi allapoole, lõdvestunud asendis.",
+        "Naeratuse intensiivsus ja suu asend muutuvad: esimesel pildil on naeratus pisut tagasihoidlikum ja suu suletud, teisel ja kolmandal pildil on naeratus laiem ning suu on avatud, justkui räägiks või naeraks naine.",
+        "Filmirulli osa on esimesel pildil osaliselt varjatud, kolmandal pildil on rull selgemalt nähtav.",
+        "Subtiitrite tekst muutub iga pildiga, moodustades järjestikuse lause."
+      ],
+      "snr": "045",
+      "ajad": [
+        "537.600",
+        "546.600"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või vanem naine siseruumis, kes istub laua taga ja räägib. Tal on punakas-pruunid juuksed ja ta kannab helesinist-hallimustrilist salli, musta pluusi ja musta kardigani. Tema näol on soe ja rõõmus naeratus. Naine kannab valgeid kindaid. Esimeses kaadris on tema parem käsi tõstetud ja ta osutab sõrmega, justkui rõhutades oma juttu. Järgmistes kaadrites on käsi lauale toetatud, hoides prille. Tema selja taga on näha professionaalset tehnikat: vasakul mustvalget pilti kuvav monitor, millel on näha mingi interjöör või masinaruum, ja paremal teine, musta ekraaniga monitor. Laual on näha mitmeid väikeseid hõbedaseid ja pruune esemeid, mis sarnanevad arhiivimaterjalide või filmilinditöötluse vahenditega, samuti prille ja tumedat anumat. Stseenist on olemas ka subtiitrid, mis annavad edasi tema jutu sisu. Valgustus on ere ja stuudiolaadne.",
+      "actions": [
+        "Rääkimine",
+        "Naeratamine",
+        "Gestikuleerimine",
+        "Käe lauale toetamine",
+        "Prillide hoidmine"
+      ],
+      "keywords": [
+        "Naine",
+        "Vanem",
+        "Naeratus",
+        "Kindad",
+        "Must-valge",
+        "Monitor",
+        "Stuudio",
+        "Filmindus",
+        "Arhiiv",
+        "Laud",
+        "Tehnika"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Monitorid",
+        "Laud",
+        "Valged kindad",
+        "Sall",
+        "Must pluus",
+        "Must kardigan",
+        "Prillid",
+        "Tehnika laual"
+      ],
+      "colorcodes": [
+        "#8B0000",
+        "#C0C0C0",
+        "#000000",
+        "#FFFFFF",
+        "#8B4513"
+      ],
+      "texts": [
+        "In fact, before the final copy, the sample was made on a small piece",
+        "However it happend that the first copy was wasted"
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on naise parem käsi tõstetud ja ta osutab sõrmega, järelejäänud kaadrites on käsi lauale toetatud.",
+        "Naise näoilme ja suu asend varieeruvad kergelt, peegeldades erinevaid hetki tema jutus."
+      ],
+      "snr": "047",
+      "ajad": [
+        "571.560",
+        "598.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tumedat ja hämarat siseruumi, mis on täidetud virnade metallist ümmarguste esemetega, mis meenutavad filmikanistreid või tööstuslikke anumaid. Esimesel pilgul võib tekkida assotsiatsioon hoiustatud filmirullidega. Need esemed on laotud erineva kõrgusega kuhjadesse, moodustades tiheda ja tekstuurse mustri, mis domineerib kaadrit. Valgus on nõrk ja piiratud, heites esemete läikivatele pindadele peegeldusi ja luues sügavaid varje. See annab stseenile salapärase ja ajaloolise tunde, vihjates hoiukohale, arhiivile või laole. Paremalt esiplaanilt paistab udune element, mis osaliselt varjab vaadet, lisades kaadrile sügavust. Üldmulje on staatiline ja keskendub objekti tekstuurile ja mahule pimedas keskkonnas.",
+      "actions": [],
+      "keywords": [
+        "Laopind",
+        "Hoidla",
+        "Filmikanistrid",
+        "Metallist anumad",
+        "Tume",
+        "Hämar",
+        "Staatiline",
+        "Kuhjad",
+        "Ajalooline",
+        "Arhiiv"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Metallist anumad",
+        "Filmikanistrid",
+        "Kuhjad"
+      ],
+      "colorcodes": [
+        "#202020",
+        "#4a4a4a",
+        "#7f7f7f",
+        "#a0a0a0"
+      ],
+      "texts": [
+        "However it happend that the first copy was wasted",
+        "All products were tested in Moscow",
+        "It was a common practice in that time"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Igal pildil on erinev tekstikihistus.",
+        "Kaamera asukoht või fookuspunkt on piltide vahel kergelt nihkunud, muutes virnade asetust ja metalli peegelduste detaile.",
+        "Teisel pildil on metallist esemete heledus ja peegeldused märgatavalt intensiivsemad võrreldes esimese ja kolmanda pildiga.",
+        "Paremalt esiplaanilt paistev udune element muutub piltide vahel kergelt positsioonilt ja selguselt."
+      ],
+      "snr": "048",
+      "ajad": [
+        "598.800",
+        "603.520"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab ekstreemlähiplaani vanast, kulunud paberist etiketist, mis on kinnitatud ümara eseme, tõenäoliselt filmikanistri külge. Etikett on kollakasvalge ja sellel on näha tugevaid kulumise, rebenemise ja määrdumise märke, mis annavad edasi eseme vanuse ja ajaloo. Peamised tekstid on kirillitsas (vene keeles) ja on osaliselt tuhmunud või määrdunud templijälgede ja käsitsikirjutatud märkmete tõttu. Üleval on silt \"НЕ ОГНЕОПАСНО\" (Mittepõlev). Lisaks on näha aadressiväljad \"Куда:\" (Kuhu:) ja \"Кому:\" (Kellele:), millele on templijälgedega vastatud \"ТАЛЛИН\" (Tallinn) ja \"КИНОПРОКАТ\" (Filmilaenutus/Filmilevi). Saatja väli \"ОТПРАВИТЕЛЬ:\" (Saatja:) sisaldab osaliselt loetavaid templijälgi, mis viitavad \"ГАРТУСКАЯ БАЗА КО)\" ja \"ЭСТФИЛЬМОФОНД\" (Eesti Filmifond). Etiketi allosas on sinise tindiga käsitsi kirjutatud märge, mis paistab olevat filmi pealkiri: \"Баллада о Нюсен...\". Kaadri allosas on näha ingliskeelsed subtiitrid: \"It was a common practice in that time\". Üldine toon on summutatud ja vintage-hõnguline.",
+      "actions": [
+        "Lugemine",
+        "Uurimine"
+      ],
+      "keywords": [
+        "Vana",
+        "Etikett",
+        "Filmikanister",
+        "Vene keel",
+        "Kirillitsa",
+        "Tallinn",
+        "Eesti Filmifond",
+        "Käsitsikiri",
+        "Dokument",
+        "Ajalugu",
+        "Kulumine",
+        "Arhiiv",
+        "Film",
+        "Vintage"
+      ],
+      "shot_type": "extreme close-up",
+      "placement": "not clear",
+      "objects": [
+        "Paberist etikett",
+        "Filmikanister (oletatav)",
+        "Tint"
+      ],
+      "colorcodes": [
+        "#D3CABA",
+        "#E0DCCD",
+        "#3A3026",
+        "#211D1C",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "НЕ ОГНЕОПАСНО",
+        "Куда:",
+        "ТАЛЛИН",
+        "Кому:",
+        "КИНОПРОКАТ",
+        "ОТПРАВИТЕЛЬ:",
+        "ГАРТУСКАЯ БАЗА КО)",
+        "ЭСТФИЛЬМОФОНД",
+        "Баллада о Нюсен...",
+        "It was a common practice in that time"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "049",
+      "ajad": [
+        "603.520",
+        "607.080"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud vanemat naist, kellel on punakas juuksevärv ja hele sall kaelas, istumas filmimontaaži laua taga. Ta on riietatud tumedasse kampsunisse ja särgisse ning tal on vasakus käes valge kinnas, hoides väikesest esemest (tõenäoliselt filmitükist või tööriistast) kinni. Naine vaatab kaadrist vasakule ja paistab vestlevat, suu on kergelt avatud. Laual on näha erinevaid filmilinte, -kergimisvahendeid ja -montaažiseadmeid, sealhulgas suur monitor, mis kuvab mustvalget filmi kaadrit sisetungist või ruumist. Taustal on suur aken vertikaalsete ribikardinatega, teine monitor ja seinal on kaks raamitud pilti. Üldine miljöö viitab filmirestaureerimise või arhiivi tööruumile.",
+      "actions": [
+        "Naine istub toolil",
+        "Naine vaatab kaadrist vasakule",
+        "Naine räägib (suu avatud)",
+        "Naine hoiab vasaku käega eset"
+      ],
+      "keywords": [
+        "Filmiarhiiv",
+        "Filmirestaureerimine",
+        "Montaažiruum",
+        "Filmilint",
+        "Monitor",
+        "Naine",
+        "Intervjuu",
+        "Vana film",
+        "Digitaalne taastamine",
+        "Ajalugu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Tool",
+        "Laud",
+        "Filmi montaažiseade",
+        "Filmikerad",
+        "Monitorid",
+        "Laualamp",
+        "Aken",
+        "Vertikaalsed ribikardinad",
+        "Seinapildid",
+        "Sall",
+        "Kampsun",
+        "Valge kinnas",
+        "Filmitükk/tööriist"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#A9A9A9",
+        "#8B4513",
+        "#1C2F4D",
+        "#696969"
+      ],
+      "texts": [
+        "It was a common practice in that time",
+        "throughout the Soviet Union",
+        "and then the material was processed in Odessa studio"
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on ainus erinevus kuvatud subtiitrites, mis näitavad teksti edenemist. Visuaalne sisu jääb kõigil kolmel pildil samaks."
+      ],
+      "snr": "050",
+      "ajad": [
+        "607.080",
+        "617.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat naist, kellel on punakaspruunid lokkis juuksed ja soe naeratus. Ta istub ilmselt filmi- või videostuudios laua taga, millel on filmitöötlusseadmed ja mitu monitori. Ühel monitoril on näha mustvalge kaader. Naine on riietatud tumedasse pluusi ja heledasse mustriga salli. Tema vasakus käes on valge kinnas, millega ta alguses toetub lauale ning hiljem hoiab prille, žestikuleerides kõneldes. Valgus paistab peamiselt paremalt, valgustades naise juukseid ja näo paremat poolt, luues sooja ja sõbraliku atmosfääri. Ta räägib ilmselt filmi tootmisprotsessist, mainides Odessa ja Tallinna stuudioid.",
+      "actions": [
+        "Naine räägib ja naeratab",
+        "Naine toetab kätt lauale",
+        "Naine hoiab prille käes",
+        "Žestikuleerimine"
+      ],
+      "keywords": [
+        "Stuudio",
+        "Filmitöötlus",
+        "Naine",
+        "Intervjuu",
+        "Kogemused",
+        "Vestlus",
+        "Monitorid",
+        "Filmiaparaat"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Monitorid",
+        "Laud",
+        "Filmitöötlusseadmed",
+        "Valge kinnas",
+        "Sall",
+        "Prillid",
+        "Väikesed anumad/purgid"
+      ],
+      "colorcodes": [
+        "#1C1E20",
+        "#7D8C9D",
+        "#D9D8D5",
+        "#BA4D22",
+        "#40454D"
+      ],
+      "texts": [
+        "and then the material was processed in Odessa studio",
+        "And vice versa, if Odessa studio was filming medieval buildings in Tallinn",
+        "Then, the materials could be mixed together"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naiseterahva vasaku käe asend muutub: esimeses kahes pildis toetub ta kinnastatud käsi lauale, kolmandal pildil hoiab ta prille.",
+        "Naiseterahva näoilmes ja suuasendis on kerged muutused, mis viitavad pidevale rääkimisele ja emotsioonide vahetumisele.",
+        "Subtiitrite tekst muutub igas kaadris, pakkudes järjestikust narratiivi."
+      ],
+      "snr": "051",
+      "ajad": [
+        "617.600",
+        "632.200"
+      ]
+    }
+  ]
+}

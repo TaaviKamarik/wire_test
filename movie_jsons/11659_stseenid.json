@@ -1,0 +1,4119 @@
+{
+  "film": [
+    "11659",
+    "11650",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Ellawood",
+    "0ea16c5058a14ad6791fe1e30b3a8596bf535273.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täiesti musta kaadriga, mis seejärel asendub tiitlikaardiga. Tiitlikaardil on tume, tekstuuriga, pintslitõmmetega meenutav taust, millel on stiliseeritud valge kirjaga tekst \"ELLA WOOD\". Pärast tiitlikaarti ilmub mustvalge kaader vanemast mehest, kes lamab, näides väsinud või joobnuna. Mees kannab ruudulist särki ja nokamütsi ning hoiab käes pudelit sildiga \"SARPA POLI\". Stseenis on dramaatiline valgus, mis paistab paremalt ja loob teravaid varje ning heledaid piirkondi. Tundub, et tegevus toimub siseruumides, kus on näha konstruktsioonitalasid või akna raame ning põrandal või lamamispinnal on laiali puulehti või prahti. Üldine meeleolu on melanhoolne ja mõtisklev.",
+      "actions": [
+        "Lamamine",
+        "Pudeli hoidmine"
+      ],
+      "keywords": [
+        "mustvalge",
+        "tiitlikaart",
+        "väsinud",
+        "mees",
+        "pudel",
+        "dramaatiline valgus",
+        "siseruum",
+        "melanhoolne",
+        "nokamüts",
+        "praht"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "pudel",
+        "särk",
+        "nokamüts",
+        "talad",
+        "akna raam",
+        "lehed/praht"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#333333",
+        "#666666",
+        "#999999"
+      ],
+      "texts": [
+        "ELLA WOOD",
+        "SARPA POLI"
+      ],
+      "persons": [
+        "vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Stseen algab täiesti musta kaadriga, mis asendub tiitlikaardiga ja seejärel konkreetse visuaalse stseeniga.",
+        "Kaadrite sisu ja visuaalse stiili muutused on märgatavad (must ekraan vs tekst vs detailne stseen)."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "68.520"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha tume, tekstuuriga taust, mis meenutab tahvlit või tumedat, määritud pinda. Taust on valdavalt must ja tumehall, millel on heledamaid triipe ja laike, andes sellele kunstilise või abstraktse ilme. Keskel on valge tekst eesti keeles: „Räägitakse, et kui korstnapühkijal nööbist kinni võtta, tuleb õnn!”. Allosas on sama teksti ingliskeelne tõlge: „It is said, that luck follows the one who grabs the chimney sweeper's button.” Tekst on kergesti loetav ja asetseb tausta keskel, moodustades infograafilise või illustreeriva elemendi.",
+      "actions": [],
+      "keywords": [
+        "õnn",
+        "tekst",
+        "taust",
+        "korstnapühkija",
+        "vanasõna",
+        "tume",
+        "mustvalge",
+        "abstraktne",
+        "eesti keel",
+        "inglise keel",
+        "tekstuur"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "tekstuuriga taust",
+        "eestikeelne tekst",
+        "ingliskeelne tekst"
+      ],
+      "colorcodes": [
+        "#0D0D0D",
+        "#1A1A1A",
+        "#FFFFFF",
+        "#333333",
+        "#4D4D4D"
+      ],
+      "texts": [
+        "Räägitakse, et kui korstnapühkijal nööbist kinni võtta, tuleb õnn!",
+        "It is said, that luck follows the one who grabs the chimney sweeper's button."
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "002",
+      "ajad": [
+        "68.520",
+        "73.120"
+      ]
+    },
+    {
+      "explanation": "Stseen pärineb mustvalgest filmist või lühifilmist, mis kujutab melanhoolset atmosfääri, tõenäoliselt seoses töökoha kaotuse ja sellest tuleneva mõtisklusega. Esimene kaader näitab vanemat meest, kes lebab, hoides käes pudelit sildiga 'SARPA PORT', ilmselt pärast halva uudise saamist, mis on esitatud teisel kaadril tekstina. See tekst annab teada, et korstnapühkimine automatiseeritakse ja seega on inimene koondatud. Kolmas kaader näitab laiemat vaadet interjöörist, mis sarnaneb stiliseeritud või ajutisele kohvikule/stuudiole, mille põrand on kaetud lehtedega, andes sügisese või mahajäetud mulje. Ruumi valgustavad heledad aknad ja seinavalgustid. Kohal on lisaks mainitud mehele ka laps ja kolm teist täiskasvanut, kes kas istuvad laua taga või seisavad ruumis, lisades stseenile sügavust ja konteksti.",
+      "actions": [
+        "Mees lebab ja hoiab pudelit",
+        "Laps liigub ruumis",
+        "Kaks täiskasvanut istuvad laua taga",
+        "Üks täiskasvanu seisab ruumis"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Melanhoolia",
+        "Automatiseerimine",
+        "Koondamine",
+        "Sügis",
+        "Stuudio",
+        "Kõrts/Kohvik",
+        "Üksindus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Veinipudel (Sarpa Port)",
+        "Kork",
+        "Laud",
+        "Toolid",
+        "Lehed/Praht põrandal",
+        "Seinavalgustid",
+        "Aknad",
+        "Silt 'Studio'"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [
+        "SARPA PORT",
+        "PÕLTSAMAA",
+        "Pean teatama, et kuna korstnapühkimine automatiseeritakse, olete kahjuks koondatud.",
+        "I have to sadly tell you that chimney sweeping will become automated and you have been made redundant.",
+        "Studio"
+      ],
+      "persons": [
+        "Vanem mees",
+        "Laps",
+        "Kolm täiskasvanut"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "autumn",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide sisu ja fookus varieeruvad: esimene on lähivõte mehest pudeliga, teine on tekstikaader ja kolmas on lai kaader kohvikust/stuudiost inimestega.",
+        "Esimesel ja kolmandal pildil on tegevusest võetud kaadrid, teine pilt on informatiivne tekstiekraan.",
+        "Kaadrite kompositsioon ja detailsus on erinevad, pakkudes erinevaid vaatenurki ühele loole."
+      ],
+      "snr": "003",
+      "ajad": [
+        "73.120",
+        "125.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest mustvalges võtmes: vasakul on täiskasvanu, keda iseloomustavad pikad heledad juuksed ja tumeda varjatud vormiriietust meenutav mantel, ning paremal väike tüdruk heledate juuste ja patsidest kinni seotud juustega. Täiskasvanu vaatab allapoole mõtliku ja veidi kurva ilmega. Tüdruk sirutab esimesel ja teisel kaadril oma käe täiskasvanu mantli poole, puudutades seda. Tema pilk on esialgu suunatud täiskasvanu poole, väljendades ehk uudishimu või lohutust. Kolmandal kaadril on tüdruku käsi täiskasvanu mantlilt ära võetud ja tema pilk on suunatud allapoole, näoilme muutub kurvemaks. Ta kannab triibulist salli. Taustal on näha suuri ruudukujulisi või ristkülikukujulisi aknaid meenutavaid raame, mis lasevad sisse eredat valgust, luues kontrasti tegelaste tumedamate riiete ja esiplaaniga. Stseen toimub siseruumis ja õhkub melanhoolset või südamlikku hetke kahe tegelase vahel.",
+      "actions": [
+        "Täiskasvanu seisab liikumatult ja vaatab allapoole",
+        "Tüdruk sirutab käe täiskasvanu mantli poole",
+        "Tüdruk puudutab täiskasvanu mantlit",
+        "Tüdruk vaatab täiskasvanule otsa",
+        "Tüdruk võtab käe täiskasvanu mantlilt ära",
+        "Tüdruk vaatab allapoole"
+      ],
+      "keywords": [
+        "mustvalge",
+        "laps",
+        "täiskasvanu",
+        "interaktsioon",
+        "melanhoolia",
+        "lohutus",
+        "siseruum",
+        "aken",
+        "kurbus",
+        "lootus"
+      ],
+      "shot_type": "medium shot",
+      "placement": "indoor",
+      "objects": [
+        "mantel",
+        "juuksed",
+        "aknaraamid",
+        "särk",
+        "sall",
+        "patsikumm",
+        "nööbid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Täiskasvanu (arvatavasti naine)",
+        "Väike tüdruk"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puudutab tüdruk oma parema käega täiskasvanu mantlit ja vaatab talle otsa.",
+        "Teisel pildil on tüdruku käsi endiselt mantlil, kuid tema pilk on suunatud veidi madalamale, jäädes siiski täiskasvanu poole.",
+        "Kolmandal pildil on tüdruku käsi täiskasvanu mantlilt ära võetud ja ta vaatab märgatavalt allapoole, tema näoilme tundub kurvem. Täiskasvanu hoiak ja pilk jäävad kõigil kolmel pildil samaks."
+      ],
+      "snr": "004",
+      "ajad": [
+        "125.120",
+        "129.080"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub pimedas, stiliseeritud siseruumis, mis meenutab hüljatud stuudiot või tuba. Ruumi seinad on tumedad ja tekstuuriga, ühel neist on näha silt 'Studio'. Põrand on kaetud hajutatud prahiga, mis meenutab lehti või paberit. Valgustust pakuvad kaks tänavavalgustitüüpi lampi ja suur aken, mis heidab ruumi dramaatilisi varje. Stseeni alguses on ruumis neli inimest: esiplaanil on blond naine ja laps, kes on riietatud ruudulisse seelikusse, ning nad näivad olevat tegevuses, ehk tantsimas või mängimas. Tagaplaanil, laua taga istuvad kaks täiskasvanut, mees ja naine, kes on vaatlejad või omaette tegevuses. Hiljem keskendub stseen blondile naisele, kes seisab üksi tühjas ruumis diivani ees ja vaatleb valgel pjedestaalil olevat televiisorit või monitori. Aknast langevad teravad, geomeetrilised varjud seinale. Televiisori ekraanil on näha liikuv pilt, mis peegeldab tõenäoliselt naist ennast või mõnda teist tegelast. Lõpuks on ekraan täidetud ainult staatilise müra ja valge sahinalaadse pildiga, andes edasi tühjuse või ühenduse katkemise tunde. Stseeni valdab mustvalge koloriit, mis lisab sellele melanhoolse ja dramaatilise meeleolu.",
+      "actions": [
+        "Naine ja laps tantsivad või mängivad",
+        "Mees ja naine istuvad laua taga",
+        "Naine vaatleb televiisorit",
+        "Televiisoril kuvatakse videopilti",
+        "Televiisoril kuvatakse staatilist müra"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Stuudio",
+        "Hüljatud",
+        "Draama",
+        "Üksindus",
+        "Vari",
+        "Televiisor",
+        "Staatiline",
+        "Mälestus",
+        "Interjöör"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Televiisor",
+        "Monitor",
+        "Diivan",
+        "Laud",
+        "Toolid",
+        "Lambid",
+        "Aken",
+        "Seinad",
+        "Põrand",
+        "Praht",
+        "Lehed",
+        "Pjedestaal"
+      ],
+      "colorcodes": [],
+      "texts": [
+        "Studio"
+      ],
+      "persons": [
+        "Naine (blond)",
+        "Laps (tüdruk)",
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Inimeste arv ja tegevus muutub neljalt inimeselt ühele ning lõpuks keskendutakse objektile.",
+        "Kaadrite fookus nihkub laialt stseenilt (wide shot) detailsemale (close-up televiisori ekraanile).",
+        "Televiisoril kuvatav sisu muutub: alguses pole seda näha, siis peegeldus/pilt ning lõpuks ainult staatiline müra.",
+        "Stseeni valgustus ja varjud muutuvad, muutudes dünaamilisemaks teise kaadri puhul, kus aknast langevad teravad varjud."
+      ],
+      "snr": "005",
+      "ajad": [
+        "129.080",
+        "189.880"
+      ]
+    },
+    {
+      "explanation": "Stseenis on mustvalgelt kujutatud noore naise nägu lähivaates, domineerides kaadri keskel. Naine vaatab otse kaamerasse, tema silmad on pärani avatud ja pilk on kurb, väsinud ja haavatud. Mõlemal põsel on näha selgeid pisarajälgi, mis voolavad mööda tema nahka allapoole; vasakul põsel on pisarate rada eriti esile tõstetud ja seal on ka tumedam laik, mis meenutab kas verevalumit või mustust. Silmade ümbrus on kergelt tumedam, mis võib viidata pikale nutule või laialivalgunud meigile. Huuled on kergelt paokil, nägu on pinges. Juuksed on heledad ja need on nähtavad kaadri servades. Taust on udune ja tume, aidates naise nägu esile tuua ja süvendades stseeni melanhoolset atmosfääri. Üldine ilme edastab sügavat emotsionaalset valu ja haavatavust.",
+      "actions": [
+        "nutmine",
+        "otse kaamerasse vaatamine"
+      ],
+      "keywords": [
+        "naine",
+        "nutmine",
+        "pisarad",
+        "kurbus",
+        "väsimus",
+        "haavatavus",
+        "verevalum",
+        "mustvalge",
+        "lähivaade",
+        "emotsioon",
+        "kannatus",
+        "valu"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel puuduvad erinevused."
+      ],
+      "snr": "006",
+      "ajad": [
+        "189.880",
+        "190.480"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud mustvalget televiisoriekraani, mis kuvab staatilist müra ehk \"lumeefekti\". Ekraan on paigutatud tumedasse, lihtsasse puidust või papist kasti või raami, mis omakorda asub pimedas ja uduses ruumis. Ümber ekraani on näha tumedat raamistust, mis süvendab fookust ekraani valgele mürale. Üldine atmosfäär on sünge, minimalistlik ja retrohõnguline. Valgusallikas näib tulevat ainult ekraanilt, valgustades nõrgalt selle vahetut ümbrust. Stseeni valitseb monokroomne toon, kus domineerivad musta, halli ja valge varjundid.",
+      "actions": [
+        "ekraan kuvab staatilist müra"
+      ],
+      "keywords": [
+        "televiisorimüra",
+        "staatiline",
+        "lumi",
+        "mustvalge",
+        "ekraan",
+        "kast",
+        "tume",
+        "salapärane",
+        "retro",
+        "minimalism",
+        "ühtlane",
+        "analoog",
+        "video"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "teleekraan",
+        "raam",
+        "kast",
+        "staatiline müra",
+        "tumedad varjud"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#333333",
+        "#CCCCCC",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kaadrite vahel on märgata kerget sisse- või väljasuumimist/kadreeringu muutust.",
+        "Esimeses kaadris on ekraan raamis pisut suurem ja täidab suurema osa vaatest.",
+        "Teises ja kolmandas kaadris on kaader laiem, näidates rohkem ekraani ümber olevat tumedat raami ja tausta.",
+        "Kolmandas kaadris on näha kõige rohkem taustaruumi ning ekraani staatiline müra võib tunduda pisut heledam või kontrastsem võrreldes esimese kaadriga."
+      ],
+      "snr": "007",
+      "ajad": [
+        "190.480",
+        "191.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil on mustvalge lähivõte vanemast mehest, kes kannab kübarat ja ruudulist särki. Tema nägu on heledalt valgustatud, paljastades laiad, veidi salakavalad või uhked naeratuse. Mehe juuksed on kohevad ja heledad. Tema pilk on suunatud otse kaamerasse. Parem käsi on tõstetud ja ta hoiab selles väikest, heledat, pulgakujulist eset, mis võib olla pintsel, pliiats või mingi tööriist. Taust on tume ja hämar, viidates siseruumile, mis meenutab töökoda või ateljeed. Paremal taustal on näha piklik, redelitaoline struktuur või mudellennuki raam. Üldine õhkkond on müstiline ja dramaatiline, rõhutades mehe kohalolekut ja tema naeratust.",
+      "actions": [
+        "Mees naeratab",
+        "Mees vaatab kaamerasse",
+        "Mees hoiab eset käes"
+      ],
+      "keywords": [
+        "Mees",
+        "Kübar",
+        "Naeratus",
+        "Mustvalge",
+        "Siseruum",
+        "Töökoda",
+        "Müstiline",
+        "Portree",
+        "Draama",
+        "Kunstnik",
+        "Leiutaja",
+        "Vari",
+        "Hele-tume kontrast"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kübar",
+        "Särk",
+        "Pulgakujuline ese (pintsel/pliiats/tööriist)",
+        "Redelitaoline struktuur / mudellennuki raam",
+        "Tume taust"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#333333",
+        "#666666",
+        "#999999",
+        "#cccccc",
+        "#ffffff"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "008",
+      "ajad": [
+        "191.000",
+        "191.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab retrohõngulist mustvalget televiisorit pimedas ruumis. Televiisor on paigutatud tumedasse raami või süvendisse ning selle ekraanil on näha intensiivne staatiline müra ehk „lumine“ pilt. Ekraan hõõgub heledalt, kontrastiks ümbritsevale tumedale keskkonnale. Valgus tuleb peamiselt ekraanilt, luues tumeda ja salapärase õhkkonna. Kaamera suumib järk-järgult ekraanile lähemale, tuues staatilise müra ja teleri detailid esile.",
+      "actions": [
+        "Teleri ekraanil kuvatakse staatilist müra",
+        "Kaamera suumib teleri ekraanile lähemale"
+      ],
+      "keywords": [
+        "Staatiline müra",
+        "Teler",
+        "Mustvalge",
+        "Retro",
+        "Vana tehnoloogia",
+        "Kadunud signaal",
+        "Hõõguv ekraan",
+        "Pimedus",
+        "Nostalgia"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Teler",
+        "Teleriekraan",
+        "Teleri korpus",
+        "Staatiline müra",
+        "Tumedad seinad/taust"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt näitab telerit kaugemalt, kus on rohkem näha ümbritsevat raami ja tumedat tausta.",
+        "Teine pilt on eelmisest lähemale suumitud, kus ekraan moodustab suurema osa kaadrist ning ümbritsevat tausta on vähem.",
+        "Kolmas pilt on kõige lähemal ekraanile suumitud, täites suurema osa kaadrist staatilise müra detailidega. Ümbritsev taust on praktiliselt kadunud."
+      ],
+      "snr": "009",
+      "ajad": [
+        "191.560",
+        "192.160"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja koosneb kolmest kaadrist, mis kokku loovad mulje teatraalsest või kinematograafilisest narratiivist. Esimene kaader näitab lähivõttes mehe ülakeha, kes kannab ruudulist särki ja hoiab käes väikest, keerukat metallist eset, mis meenutab võtit või tööriista. Taust on udune ja seal on aimatav redelit või tellinguid meenutav struktuur. Teine kaader esitab laiali laotatud vanamoelisi ajalehti, millel on pealkirjad nagu \"DAILY CINEMA\" ja \"ARMELLA\". Ühel ajalehel on pilt naeratavast blondist naisest ja selle all ingliskeelne tekst: \"The charming movie star risen from nowhere\". Ajalehtedel on näha ka aastaarve ja eestikeelseid artikleid. Kolmas kaader kujutab lavastuslikku sisekujundust, mis meenutab kohvikut või stuudiot, kus on kolm inimest. Vasakul seisab heledas ülikonnas ja kaabus vanem mees, naeratades ja hoides käes väikest eset. Keskel on blond naine seelikus ja jakis, kes hoiab pildiraami või raamatut. Paremal on vesti ja nokamütsiga noor mees, kes žestikuleerib. Stseenide üldine toon viitab salapärale, kuulsusele ja kunstilisele lavastusele, justkui oleks tegemist vana filmi kaadritega.",
+      "actions": [
+        "Objekti hoidmine",
+        "Ajalehtede eksponeerimine",
+        "Posing",
+        "Žestikuleerimine",
+        "Pildi või raamatu hoidmine",
+        "Naeratamine"
+      ],
+      "keywords": [
+        "Mustvalge film",
+        "Kino",
+        "Ajalehed",
+        "Kuulsus",
+        "Näitlejad",
+        "Lavastus",
+        "Stseen",
+        "Võti",
+        "Teater",
+        "Kunst",
+        "Salapära",
+        "Vanaaegne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Ruuduline särk",
+        "Metallese (võti/tööriist)",
+        "Redel/tellingud",
+        "Ajalehed",
+        "Naise foto ajalehes",
+        "Ülikond",
+        "Kaabu",
+        "Seelik",
+        "Jakk",
+        "Pildiraam/raamat",
+        "Vest",
+        "Nokamüts",
+        "Toolid",
+        "Lauad",
+        "Lambid",
+        "Lavakujundus (puud/paneelid)",
+        "Sigaret (võimalik)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#404040",
+        "#BFBFBF"
+      ],
+      "texts": [
+        "DAILY CINEMA",
+        "TUNDMATUSEST VÕRSUNUD VEEVLEV FILMITÄHT",
+        "ARMUELLA HU",
+        "TELEGRAPH",
+        "SINCE 1869",
+        "SINCE 1902",
+        "The charming movie star risen from nowhere",
+        "VÕIMAS PÄEVALEHT",
+        "KÕNELEB PÄEVASÜNDMUSTEST JA MUJALT",
+        "SUUR VÄRSKEIMAD KINOUUDISED MEIL JA MUJALT",
+        "POPULAARNE PÄEVALEHT"
+      ],
+      "persons": [
+        "Mees ruudulises särgis",
+        "Blond naine ajalehefotol",
+        "Vanem mees heledas ülikonnas ja kaabus",
+        "Blond naine seelikus ja jakis",
+        "Noor mees vestis ja nokamütsis",
+        "Teine osaliselt nähtav isik tagaplaanil"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene kaader on lähivõte ühest isikust ja tema hoitavast esemest, samas kui teised kaadrid näitavad laiemat konteksti ja rohkem tegelasi.",
+        "Teine kaader keskendub ajalehtedele ja tekstile, samas kui esimene ja kolmas kaader keskenduvad tegelastele ja keskkonnale.",
+        "Kolmas kaader kujutab lavastuslikku stseeni mitme tegelase ja lavakujundusega, mis erineb esimese kaadri intiimsest lähivõttest ja teise kaadri staatilistest ajalehtedest.",
+        "Iga kaader pakub erineva vaatenurga ja detaile, mis rikastavad stseeni üldist narratiivi."
+      ],
+      "snr": "010",
+      "ajad": [
+        "192.160",
+        "220.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast mustvalget abstraktset graafilist tausta, mis meenutab tumedat, kriidiga kaetud tahvlit või sügavmustale pinnale kantud laiu, heledamaid pintslitõmbeid. Tausta tekstuur on nähtav nii pildi ülemises kui ka alumises osas, luues dünaamilise ja kergelt kaootilise, kuid samas kunstilise tunde. Pildi keskosas on selgelt loetav valge tekst, mis on jagatud kaheks reaks. Ülemine rida on eesti keeles ja alumine inglise keeles, moodustades tõlke. Tekst on paigutatud horisontaalselt ja domineerib pildi keskel, pakkudes fookust pimedal ja tekstuurilisel taustal.",
+      "actions": [
+        "Teksti kuvamine"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "tekst",
+        "abstraktne",
+        "kriiditahvel",
+        "pintslitõmbed",
+        "õnn",
+        "armastus",
+        "tsitaat",
+        "graafika",
+        "tume taust",
+        "valge kiri",
+        "monokroomne"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Abstraktne tekstuuriga taust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Õnne! Nüüd armastus...",
+        "Luck! And now love..."
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Puuduvad, kuna esitatud on vaid üks pilt."
+      ],
+      "snr": "011",
+      "ajad": [
+        "220.000",
+        "222.160"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja kujutab siseruumi, mis meenutab stiliseeritud kohvikut, baari või lavastuse dekoratsioone. Vasakul seisab elegantne vanem mees, seljas hele ülikond, millel on tume reväär ja mustriline lips, ning peas kaabu. Tal on heledad juuksed ja näol kerge naeratus. Mees hoiab paremas käes midagi (võimalik sigarett) suu juures ja vasak käsi toetub kepile, millega ta on vastu seina nõjatoetunud. Keskel tagaplaanil seisab naine, seljas heledates toonides seelikukostüüm. Ta hoiab käes raamitud pilti või fotot ja vaatab paremale, suunaga teiste tegelaste või sündmuste poole. Paremal ees on noor mees, peas nokamüts ning seljas särk, vest ja lips. Tema kehakeel on üllatunud või ehmunud – silmad on laiad ja üks käsi on tõstetud rinna kõrgusele, justkui reaktsioonina millelegi. Paremal tagaplaanil, laua taga, istub veel üks inimene, samuti mütsi ja ametlikuma riietusega, jälgides stseeni. Laual on näha mitmeid pudeleid ja klaase. Taustal on näha stiliseeritud puid meenutavaid vertikaalseid elemente ja geomeetrilisi valguse-varju mustreid seinal, mis annavad stseenile kunstilise ja lavastusliku ilme. Paremal servas paistab ka stiilne põrandalamp.",
+      "actions": [
+        "Vanem mees naeratab",
+        "Vanem mees hoiab eset suu juures",
+        "Vanem mees toetub kepile",
+        "Naine hoiab raamitud pilti",
+        "Naine vaatab paremale",
+        "Noor mees reageerib šokiga",
+        "Noor mees tõstab käe rinna juurde",
+        "Istuja laua taga jälgib stseeni"
+      ],
+      "keywords": [
+        "mustvalge",
+        "vintage",
+        "kohvik",
+        "salong",
+        "stiliseeritud",
+        "teater",
+        "lavastus",
+        "ülikond",
+        "kaabu",
+        "nokamüts",
+        "dramaatiline",
+        "reaktsioon"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "kaabu",
+        "ülikond",
+        "lips",
+        "kepp",
+        "raamitud pilt",
+        "nokamüts",
+        "särk",
+        "vest",
+        "laud",
+        "toolid",
+        "pudelid",
+        "klaasid",
+        "põrandalamp",
+        "seelikukostüüm",
+        "sein",
+        "varjud"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "vanem mees",
+        "naine",
+        "noor mees",
+        "istuv inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Paremal ees olev noor mees muudab oma asendit ja liigub järk-järgult veidi vasakule, käed liiguvad ja ta keha pöörleb pisut. See liikumine paljastab selgemalt laua taga istuva isiku, kes oli esimeses kaadris osaliselt varjatud.",
+        "Laua taga istuv isik muutub järjest nähtavamaks ja selgemaks, kui noor mees paremal eest liigub kaadrist veidi eemale."
+      ],
+      "snr": "012",
+      "ajad": [
+        "222.160",
+        "224.960"
+      ]
+    },
+    {
+      "explanation": "Stseen on lavastatud siseruumides abstraktse, tekstuurse ja maalilise tausta ees, mis meenutab lavadekoratsiooni või kunstiteost. Kogu stseen on mustvalge, andes sellele ajatu ja dramaatilise tunde. Alguses kõnnib elegantne naine, juuksed elegantselt kinni pandud ja seljas õlapaelteta kleit, graatsiliselt kaadri paremalt vasakule, hoides endas rahuliku ja mõtiskleva oleku. Hiljem ilmub vasakult mees, seljas ruuduline pintsak ja sall, kes näib žestikuleerivat ja rääkivat. Naine on peatunud ja vaatab nüüd mehe poole. Esiplaanil on näha ka kolmas, udune figuur, mis annab stseenile liikumise ja sügavuse tunde. Õhus hõljub kerge udu või suits, mis lisab atmosfäärile salapära ja teatraalsust.",
+      "actions": [
+        "Naine kõnnib graatsiliselt",
+        "Mees žestikuleerib ja räägib",
+        "Naine peatub ja vaatab",
+        "Udune figuur liigub esiplaanil"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Teatristseen",
+        "Lavastus",
+        "Dramaatiline",
+        "Elegantne",
+        "Abstraktne taust",
+        "Valgusemäng",
+        "Kostüümid",
+        "Liikumine",
+        "Udu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Maalitud sein/taust",
+        "Õlapaelteta kleit",
+        "Ruuduline pintsak",
+        "Sall",
+        "Suits/udu"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees",
+        "Udune figuur (võimalik laps või teine inimene)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesed kaks pilti näitavad ainult naist, kes kõnnib paremalt vasakule, kolmas pilt aga toob sisse mehe ja udused figuurid ning naine on oma liikumise peatanud ja vaatab mehe poole.",
+        "Kolmandal pildil on märgata udu või suitsu efekti, mida varasematel piltidel polnud.",
+        "Tegelaste kompositsioon ja paigutus kaadris muutuvad oluliselt kolmanda pildi puhul, lisades sügavust ja interaktsiooni."
+      ],
+      "snr": "013",
+      "ajad": [
+        "224.960",
+        "226.920"
+      ]
+    },
+    {
+      "explanation": "Stseenil on tumedal halli tooniga tekstuuriga taustal kuvatud kaks tekstiplokki. Taust meenutab kriiditahvlit või kunstilist, sügavhalli värvitud pinda, millel on näha heledamaid triipe ja laike, mis annavad edasi veidi kaootilise või maalitud mulje. Keskel on esmalt paksema, dekoratiivse kirjastiiliga eestikeelne tekst ja allpool lihtsama, ent elegantsena tunduva kirjastiiliga ingliskeelne tõlge. Kogu stseen on mustvalge või halltoonides, andes edasi tõsise ja piduliku meeleolu.",
+      "actions": [
+        "Teksti kuvamine"
+      ],
+      "keywords": [
+        "Tekst",
+        "Taust",
+        "Halltoonid",
+        "Mustvalge",
+        "Teadaanne",
+        "Ekraanipartner",
+        "Pidulik",
+        "Kriiditahvel",
+        "Stiilne"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Tekstuuriga taust",
+        "Eestikeelne tekstiplokk",
+        "Ingliskeelne tekstiplokk"
+      ],
+      "colorcodes": [
+        "#2E2E2E",
+        "#5C5C5C",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Armuella, mul on suur au Sulle tutvustada Sinu uut ekraanipartnerit!",
+        "Pashionella, I am honoured to introduce you to your new co-star!"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": 75,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pildid on identsed, erinevusi ei ole."
+      ],
+      "snr": "014",
+      "ajad": [
+        "226.920",
+        "229.840"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja toimub siseruumides, tõenäoliselt stuudios, kus on tekstuuriga, värvitud taustasein. Algselt tutvustab kiilas mees ruudulises jakis ja ascot-salliga elegantset blondi naist, Pashionellat, tema uue kaasstaariga, öeldes, et tal on au teda tutvustada. Tutvustuse ajal on kaadris näha ka udust liikuvat figuuri. Seejärel siirdub stseen meedia melu juurde, mida kujutatakse mustvalgete ajalehtede väljalõigete kollaažina nagu \"Wood Telegraph\" ja \"TABLOID\". Need ajalehed kajastavad tegelase \"Prints Charming\" kuulsust ja tegemisi, sisaldades pealkirju ja artikleid eesti ning inglise keeles. Lõpuks poseerib Pashionella oma uue kaasstaari, Prints Charminguga, kes on riietatud nahktagi, valgesse t-särki ja tumedatesse teksadesse ning kannab päikeseprille, olles enesekindla ja ikoonilise hoiakuga. Naine säilitab oma elegantse rühi. Taustal on näha kükitavat meeskonna liiget, ilmselt valmistumas fotosessiooniks, mis rõhutab stuudio professionaalset keskkonda. Stseen liigub ametlikust tutvustusest meediakajastuse ja stiliseeritud poseerimiseni, säilitades klassikalise mustvalge esteetika.",
+      "actions": [
+        "Tutvustamine",
+        "Poseerimine",
+        "Rääkimine",
+        "Žestikuleerimine",
+        "Seismine",
+        "Kükitamine",
+        "Liikumine",
+        "Meediakajastuse edastamine"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Stuudio",
+        "Tutvustus",
+        "Kuulsus",
+        "Meedia",
+        "Ajalehed",
+        "Nahktagi",
+        "Elegantne",
+        "Poseerimine",
+        "Filmimaailm"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Ruuduline jakk",
+        "Ascot-sall",
+        "Strapless kleit",
+        "Kõrvarõngad",
+        "Nahktagi",
+        "Valge t-särk",
+        "Tumedad teksad",
+        "Päikeseprillid",
+        "Ajalehed",
+        "Tekstuuriga sein"
+      ],
+      "colorcodes": [],
+      "texts": [
+        "Pashionella, I am honoured to introduce you to your new co-star!",
+        "Wood Telegraph",
+        "Since 1892",
+        "Woodi vanim ja usaldusväärseim nädalaleht",
+        "PRINTS CHARMING RÄNDAB SSOORI",
+        "DAILY CINEMA",
+        "TABLOID",
+        "E SEAS POPULAARSEIM",
+        "Member of the Associated Press.",
+        "G - KINOMAALMA UMAL"
+      ],
+      "persons": [
+        "Kiilas mees (tutvustaja)",
+        "Pashionella (blond naine)",
+        "Prints Charming (mees nahktagis)",
+        "Udune figuur",
+        "Abimees (kükitav mees)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Meestegelaste riietus ja roll muutuvad (tutvustajast kuulsuseks ja poseerijaks)",
+        "Stseen vaheldub tegelaste tutvustamise ja meedia kajastamise vahel",
+        "Kaadrites on näha erinevaid tegevusi (tutvustus, meediakajastus, poseerimine)"
+      ],
+      "snr": "015",
+      "ajad": [
+        "229.840",
+        "250.720"
+      ]
+    },
+    {
+      "explanation": "Mustvalge stseen kujutab meest, kes kannab päikeseprille ja nahktagi, siseruumis, mis on täis suitsu. Mees on kaadri vasakul poolel fookuses ning tema pilk on suunatud kergelt paremale, kus asub osaliselt nähtav naine, kelle nägu on hägune. Mees on hõivatud sigareti suitsetamisega, hoides seda käes ja puhudes välja nähtavat suitsu. Tema selja taga on ähmases taustas näha teisi inimesi. Stseenil on jahe, veidi retro ja stiilne atmosfäär, mis meenutab ajastufilme.",
+      "actions": [
+        "Mees suitsetab sigaretti",
+        "Mees hoiab sigaretti käes",
+        "Mees puhub suitsu",
+        "Naine vaatab eemale"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Suitsetamine",
+        "Nahktagi",
+        "Päikeseprillid",
+        "Suits",
+        "Mees",
+        "Naine",
+        "Siseruum",
+        "Stiilne",
+        "Retro",
+        "Salapärane",
+        "Sigaret"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Sigaret",
+        "Nahktagi",
+        "Päikeseprillid",
+        "T-särk",
+        "Rõngas"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "halltoonid"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine",
+        "Inimesed taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil hoiab mees sigaretti käes ja vaatab ette, suitsu ei ole näha.",
+        "Teisel pildil on mees sigareti suhu viinud ja puhub välja suitsu, mis on nähtav tema suu ja käe ümber.",
+        "Kolmandal pildil on suitsupilv suurem ja selgemalt nähtav, mees on aktiivses suitsetamispoosis, sigaret suule lähemal."
+      ],
+      "snr": "016",
+      "ajad": [
+        "250.720",
+        "253.400"
+      ]
+    },
+    {
+      "explanation": "Mustvalgel pildiseerial on kujutatud salapärane siseolukord, kus domineerivad kaks figuuri, mees ja naine. Kaadrite fookuses on esiplaanil vasakul paiknev mees, kes kannab stiilset nahktagi ja tumedaid päikeseprille, andes talle rokiliku või mässumeelse ilme. Tema juuksed on tahapoole kammitud ning habeme kontuurid on nähtavad. Mehe suust on paistmas mingi moodustis, mis viitab kas sigareti suitsule või närimiskummi mullile, mida ta puhub või välja ajab. Paremal on fookusest väljas ja osaliselt kaadri äärel naine, kellest on näha tema parem käsi, õlg ja kael. Tema käsi on sirutatud ettepoole, justkui ulatades või osutades mehele. Naisel on kõrvas rippuv ehe. Taust on udune ja suitsune, meenutades tekstuuri või abstraktset maali, mis loob dramaatilise ja intiimse atmosfääri. Üldmulje on kinematograafiline, meenutades noir-filmi stseeni või muusikavideot.",
+      "actions": [
+        "Mees puhub suitsu või närimiskummi mulli",
+        "Naine sirutab kätt",
+        "Mees kannab päikeseprille",
+        "Naine kannab kõrvarõngast",
+        "Inimesed seisavad suitsuses ruumis"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Nahktagi",
+        "Päikeseprillid",
+        "Noir-stiil",
+        "Salapärane",
+        "Suitsune",
+        "Kinematograafiline",
+        "Mees",
+        "Naine",
+        "Mässumeelne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Nahktagi",
+        "Päikeseprillid",
+        "Ehe",
+        "Sein",
+        "Suits",
+        "T-särk"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel on näha mehe suust tuleva suitsupahvaku/närimiskummi mulli suuruse ja kuju varieeruvus. Esimesel pildil on see väiksem ja kompaktsem, kolmandal aga suurem ja laialivalguvam, paljastades veidi ka tema keelt.",
+        "Naise käe ja sõrmede asendis on märgata peeneid muutusi, mis viitavad liikumisele, kuigi liikumine on minimaalne."
+      ],
+      "snr": "018",
+      "ajad": [
+        "257.200",
+        "258.040"
+      ]
+    },
+    {
+      "explanation": "Mustvalgel fotoseerial on jäädvustatud intiimne ja salapärane stseen, kus eesplaanil on mees ja naine. Vasakul pool olev mees on riietatud stiilsesse nahktagisse ja heledasse T-särki ning kannab tumedaid päikeseprille. Ta suitsetab sigaretti, puhudes välja tihedaid suitsupilvi, mis annavad stseenile müstilise udused atmosfääri. Tema pilk suundub allapoole, naise sirutatud käe poole. Paremal pool on näha naise paljast kätt ja osa tema kehast, mis sirutub välja mehe poole, justkui teda puudutada soovides või temaga kontakti otsides. Kolme kaadri jooksul mehe ja naise käed lähenevad teineteisele, tekitades visuaalse pinge. Tagaplaanil on ähmaselt näha teist meest, kes samuti paistab suitsetavat, täiendades stseeni suitsuse ja häguse fooniga. Üldine meeleolu on dramaatiline, suitsune ja paeluv, rõhutades tegelastevahelist interaktsiooni ja atmosfääri.",
+      "actions": [
+        "Mees suitsetab sigaretti",
+        "Mees puhub suitsu välja",
+        "Naine sirutab käe mehe poole",
+        "Mees vaatab naise kätt",
+        "Mees hoiab sigaretti suu juures",
+        "Mees sirutab käe naise käe poole",
+        "Mees hoiab/puudutab naise kätt",
+        "Mees tagaplaanil suitsetab"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Suitsetamine",
+        "Nahkjakk",
+        "Päikeseprillid",
+        "Suits",
+        "Mees",
+        "Naine",
+        "Salapärane",
+        "Intiimne",
+        "Siseruum",
+        "Dramaatiline",
+        "Interaktsioon"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Päikeseprillid",
+        "Nahkjakk",
+        "T-särk",
+        "Sigaret",
+        "Suits",
+        "Käsi",
+        "Sõrmus",
+        "Särk",
+        "Traksid (tagaplaanil oleval mehel)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees eesplaanil",
+        "Naine eesplaanil",
+        "Mees tagaplaanil"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil puhub eesplaanil olev mees suitsu välja, moodustades suust väljuva selge suitsuringi. Tema pilk on otse ette. Tagaplaanil olev mees on näoga külje poole.",
+        "Teisel pildil on eesplaanil oleva mehe pilk suunatud allapoole ja suits on tema ees hajunud. Naine on oma kätt natuke ettepoole sirutanud. Tagaplaanil olev mees on pööranud selja kaamera poole.",
+        "Kolmandal pildil on eesplaanil oleva mehe pilk veelgi rohkem allapoole suunatud, justkui naise kätt uurides. Mehe käsi on naise käe lähedal, suisa seda puudutamas või hoidmas, samal ajal kui ta hoiab sigaretti suu juures. Tagaplaanil olev mees on endiselt seljaga kaamera poole."
+      ],
+      "snr": "019",
+      "ajad": [
+        "258.040",
+        "261.720"
+      ]
+    },
+    {
+      "explanation": "Mustvalges kaadris on kujutatud dramaatilist ja suitsust siseruumi stseeni kahe inimesega. Pildi vasakus osas on mees päikeseprillide ja nahktagiga, kes on süvenenud mingisse tegevusse oma kätega, hoides midagi justkui suu juures – tõenäoliselt süütamas või hoidmas sigaretti. Tema pilk on suunatud allapoole. Õhus hõljub tihedalt suitsu, mis loob salapärase ja veidi melanhoolse atmosfääri. Pildi paremas servas on osaliselt näha naine, kes sirutab oma käe ettepoole, justkui ulatades seda mehe poole või soovides temaga kontakti. Tema nägu on udune ja fookusest väljas, rõhutades mehe tegevust ja nende kahe vahelist pinget või seost. Tagaplaaniks on tume, tekstuuriga sein.",
+      "actions": [
+        "Mees süütab sigaretti või tegeleb sellega",
+        "Naine sirutab kätt",
+        "Suits hõljub õhus"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Suitsetamine",
+        "Nahktagi",
+        "Päikeseprillid",
+        "Suitsuving",
+        "Dramaatiline",
+        "Müsteerium",
+        "Kontakt",
+        "Siseruum",
+        "Varjud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Naine",
+        "Nahktagi",
+        "Päikeseprillid",
+        "Suits",
+        "Sein",
+        "Kõrvarõngas"
+      ],
+      "colorcodes": [
+        "#333333",
+        "#AAAAAA",
+        "#666666"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe käte asend on muutunud: esimesel pildil on vasak käsi veidi kõrgemal, teisel pildil on parem käsi vasaku käe peal, viidates tegevuse jätkumisele (nt sigareti süütamine).",
+        "Suitsusammas on kaadrite vahel kergelt asendit ja kuju muutnud, mis viitab pidevale liikumisele ja aja kulgemisele."
+      ],
+      "snr": "020",
+      "ajad": [
+        "261.720",
+        "262.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget ja suitsust siseruumi, kus on näha kolm inimest. Esiplaanil vasakul on päikeseprillidega mees, seljas tume nahktagi, kes on parajasti sigaretti süütamas või hoiab süüdatud sigaretti. Tema ümber hõljub suits. Tema ees, paremal esiplaanil, on osaliselt näha naine, kelle pikendatud käsi ulatub mehe poole. Naisel on kõrvas pilkupüüdev kõrvarõngas või ehtekett. Tagaplaanil, häguselt, on näha veel üks meesterahvas, kes jälgib stseeni. Üldine atmosfäär on salapärane ja noir-stiilis, rõhutatud varjude ja halltoonidega.",
+      "actions": [
+        "Mees süütab sigaretti",
+        "Naine sirutab käe mehe poole",
+        "Tagaplaanil olev isik jälgib sündmustikku",
+        "Mees kannab päikeseprille ja nahktagi"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Nahktagi",
+        "Sigaret",
+        "Suits",
+        "Päikeseprillid",
+        "Siseruum",
+        "Müstiline",
+        "Noir",
+        "Intiimne",
+        "Pingeline",
+        "Varjud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Nahktagi",
+        "Sigaret",
+        "Päikeseprillid",
+        "Kõrvarõngas",
+        "Suits"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (päikeseprillidega)",
+        "Naine",
+        "Mees (tagaplaanil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil on suitsu kogus mehe ümber märgatavam, mis viitab sigareti aktiivsemale põlemisele.",
+        "Mehe käte ja pea asend on esimese ja teise kaadri vahel kergelt muutunud, näidates liikumist.",
+        "Naise käe asend ja sirutuse nurk on veidi erinev, peegeldades liikumist. Need on pigem liikuva kaadri faasid kui suured erinevused."
+      ],
+      "snr": "021",
+      "ajad": [
+        "262.600",
+        "265.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab stiilset fotosessiooni või kunstilist interaktsiooni mehe ja naise vahel, mis toimub tekstureeritud, halli varjundiga tausta ees. Kogu lavastus on esitatud mustvalgena, andes sellele ajatu ja dramaatilise tunde. Mees on riietatud klassikalisse mässumeelsesse stiili, kandes nahktagi, valget T-särki ja tumedaid pükse ning päikeseprille, mis annavad talle jaheda ja pisut reserveeritud hoiak. Naine seevastu paistab silma elegantse, õlapaelteta piduliku kleidi ja hoolikalt sätitud soengu ning kõrvarõngastega, kehastades graatsiat ja enesekindlust. Mõnes hetkes on neid kujutatud koos poseerimas, taustal on aimatav fotograafi siluett, mis viitab professionaalsele pildistamisele. Teistel hetkedel rõhutatakse nende individuaalsust või eraldatust, näiteks ühe isiku teravas fookuses olles samal ajal, kui teine on pehmes, uduses tagaplaanis, viidates emotsionaalsele kaugusele või vaatenurga muutumisele. Üks stseeni sümboolne element on kahe käe sirutumine teineteise poole, peaaegu puudutades, mis kujutab endast potentsiaalset ühenduse või igatsuse hetke nende erinevate esitluste keskel.",
+      "actions": [
+        "Modellid poseerivad",
+        "Käed sirutuvad teineteise poole",
+        "Mees vaatab alla",
+        "Naine poseerib käed puusas",
+        "Fotograaf pildistab (kaudselt)"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Fotosessioon",
+        "Dramaatiline",
+        "Kontrast",
+        "Ühendus",
+        "Eraldatus",
+        "Stiilne",
+        "Nostalgiline",
+        "Stuudio",
+        "Nahktagi",
+        "Elegants",
+        "Käed",
+        "Modellid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Nahktagi",
+        "Päikeseprillid",
+        "Valge T-särk",
+        "Tumedad püksid",
+        "Naiste kleit",
+        "Kõrvarõngad",
+        "Käed",
+        "Kaamera (osaliselt nähtav)",
+        "Tekstureeritud sein"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "Erinevad halli toonid"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine",
+        "Fotograaf (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel varieeruvad kaadri suurus ja fookuspunktid.",
+        "Esimene vaade keskendub kahele teineteise poole sirutuvale käele, luues sümboolse ühenduse momendi.",
+        "Teine vaade näitab mees- ja naismodelli täies pikkuses poseerimas, koos osaliselt nähtava fotograafiga.",
+        "Kolmas vaade on lähedasem, keskendudes mehele esiplaanil, samal ajal kui naine on udusena tagaplaanil, rõhutades individuaalsust või potentsiaalset distantsi."
+      ],
+      "snr": "023",
+      "ajad": [
+        "266.440",
+        "301.760"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge, kujutades kolme inimest siseruumis, tõenäoliselt stuudios, mille taustaks on tekstuuriga, abstraktse mustriga sein. Keskel paremal on heledate juustega noor naine, kelle juuksed on üles pandud ja kes kannab õlapaelteta kleiti ning kõrvarõngaid. Ta seisab graatsiliselt, algselt ettepoole vaadates, seejärel pöörab pead ja lõpuks võtab vastu eseme, mille mees talle ulatab. Vasakul pool on noormees, tumedate juustega, kannab päikeseprille, valget T-särki ja nahkjakki. Tema käes on algselt raamat pealkirjaga \"BRECHT\", seejärel ta vaatab naise poole ja lõpuks ulatab talle midagi. Tagaplaanil, esimesel pildil osaliselt nähtav, on veel üks naine, kes hoiab käes riideeset, andes märku, et tegu võib olla moevõtte või lavastusega. Üldine meeleolu on dramaatiline ja stiliseeritud, vihjates retrohõngulisele lavastusele või muusikavideole.",
+      "actions": [
+        "Noormees hoiab raamatut",
+        "Noormees vaatab pilguga naise poole",
+        "Noormees ulatab naisele eseme",
+        "Naine poseerib, vaatab ettepoole",
+        "Naine pöörab pead ja vaatab ära",
+        "Naine sirutab käe eseme vastuvõtmiseks",
+        "Tagaplaanil olev inimene hoiab riideeset"
+      ],
+      "keywords": [
+        "mustvalge",
+        "retro",
+        "vintage",
+        "stiilne",
+        "draama",
+        "stuudio",
+        "lavastus",
+        "muusikavideo",
+        "interaktsioon",
+        "poseerimine",
+        "nahkjakk",
+        "kleit",
+        "raamat",
+        "päikeseprillid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Nahkjakk",
+        "päikeseprillid",
+        "valge T-särk",
+        "raamat",
+        "õlapaelteta kleit",
+        "kõrvarõngad",
+        "riideese"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [
+        "BRECHT",
+        "KAUKASISCHE KREIDEKREIS"
+      ],
+      "persons": [
+        "Noormees",
+        "noor naine",
+        "teine naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kaamera fookus ja kadreering muutuvad laiemalt võttelt lähivõteteks",
+        "Noormehe tegevus muutub raamatu hoidmisest naisele eseme ulatamiseks",
+        "Naine pöörab pead ja keha, algsest poosist eseme vastuvõtmisele",
+        "Tagaplaanil olev teine naine kaob kaadrist või on uutel piltidel fookusest väljas",
+        "Esimene pilt näitab laiemalt stuudio tausta ja kõiki tegelasi, teised keskenduvad kahe peategelase interaktsioonile"
+      ],
+      "snr": "024",
+      "ajad": [
+        "301.760",
+        "310.800"
+      ]
+    },
+    {
+      "explanation": "Stseen avaneb mustvalgena, pakkudes dramaatilist ja stiilset narratiivi. Alguses seisab noor mees nahkjakis ja päikeseprillides, ulatades väikese, intrigeeriva eseme elegantsele noorele naisele, kes kannab vintage-stiilis kleiti ja suuri kõrvarõngaid. Naine uurib eset mõtlikult, hoides samal ajal käes kokkurullitud dokumenti, mis viitab olulisele vahetusele või ettepanekule. Järgnevalt liigub fookus pimedamasse, suletud ruumi, kus salapärane, raamitud aken pakub pilku intiimsele hetkele: sama mees ja naine on näha embamas või suudlemas, andes mõista arenevast suhtest või salajasest afäärist. Lõpuks nihkub stseen vanemale, soliidsele mehele, prillide ja vuntsidega, kes on riietatud sviitrisse ja lipsu. Tema on ümbritsetud suitsusest, atmosfäärilisest keskkonnast ning tema kontsentreeritud pilk vihjab orkestreerija või vaikse tunnistaja rollile sündmuste ahelas. Kogu järjestus loob klassikalise film noiri või retrohõngulise atmosfääri.",
+      "actions": [
+        "Noor mees pakub naisele väikest eset",
+        "Noor naine uurib pakutud eset",
+        "Noor naine hoiab käes kokkurullitud dokumenti",
+        "Noor mees ja naine embavad/suudlevad",
+        "Vanem mees jälgib sündmusi/kontsentreerub"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Retro",
+        "Film noir",
+        "Drama",
+        "Romantika",
+        "Intriig",
+        "Vaatlus",
+        "Salajane",
+        "Suitsetamine",
+        "Stiilne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Nahkjakk",
+        "Päikeseprillid",
+        "Elegantne kleit",
+        "Kõrvarõngad",
+        "Väike ese (tõenäoliselt tulemasin või kokkuvolditud paber)",
+        "Kokkurullitud paber/dokument",
+        "Aken",
+        "Paneel/struktuur",
+        "Prillid",
+        "Lips",
+        "Sviiter",
+        "Sigaretisuits"
+      ],
+      "colorcodes": [],
+      "texts": [],
+      "persons": [
+        "Noor mees",
+        "Noor naine",
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevad tegelased on igas kaadris fookuses (noor paar esimeses ja teises, vanem mees kolmandas).",
+        "Tegevused varieeruvad (esemete vahetamine, kallistamine, vaatlus/kontsentreerumine).",
+        "Keskkonnad on erinevad (stuudio taust, tume ruum aknaga, suitsune siseruum).",
+        "Kaadrite fookus ja kompositsioon on erinevad, pakkudes erinevaid perspektiive ja läheduse astmeid."
+      ],
+      "snr": "025",
+      "ajad": [
+        "310.800",
+        "372.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget lavastust, mis leiab aset siseruumides, ilmselt teatrilaval. Vasakul ja paremal ääres on hallid, tekstuuriga seinad või kulissid, mis loovad lava tausta. Keskel, lavastuse fookuses, on mustvalge ruudumustriga platvorm, millel seisab kolm tegelast. Vasakul seisab mees ruudulise särgi ja tumedate pükstega, otse kaamerasse vaadates. Tema paremal käel seisab naine ruudulises kleidis, pilk suunatud vasakule. Paremal ääres platvormil seisab teine mees heleda särgi ja tumedate pükstega, toetudes käega puusale, pilk samuti vasakule suunatud. Kõik kolm seisvat tegelast hoiavad laval kindlat poosi. Esiväljal, seljaga vaataja poole, istub mustal toolil neljas tegelane – mees, kes kannab tumedat pluusi ja ruudulisi pükse. Ta on süvenenud oma tegevusse, tema käed liiguvad dünaamiliselt. Esmalt on tema käed allpool, seejärel tõstab ta oma parema käe üles ja avab peopesa, tehes selge žesti, mis viitab justkui dirigeerimisele või juhtnööride andmisele. Vasakul esiplaanil on veel üks must tühi tool. Lava põrand on kaetud mustvalge maleruudustikuga. Stseeni üldine meeleolu on dramaatiline ja kontsentreeritud, andes edasi etenduse intensiivsust.",
+      "actions": [
+        "Mees seisab platvormil, vaadates otse",
+        "Naine seisab platvormil, pilk vasakule suunatud",
+        "Mees seisab platvormil, käsi puusal, pilk vasakule suunatud",
+        "Mees istub toolil, seljaga vaataja poole",
+        "Mees žestikuleerib käega, tõstes parema käe üles ja avades peopesa"
+      ],
+      "keywords": [
+        "Teater",
+        "Lava",
+        "Mustvalge",
+        "Etendus",
+        "Näitlejad",
+        "Lavastus",
+        "Dirigeerimine",
+        "Žestid",
+        "Dramaatiline",
+        "Kontsentreeritud"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Platvorm",
+        "Toolid",
+        "Seinad",
+        "Kulissid",
+        "Lava põrand"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080",
+        "#404040",
+        "#C0C0C0"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (ruudulise särgiga)",
+        "Naine (ruudulise kleidiga)",
+        "Mees (heleda särgiga)",
+        "Mees (dirigeerija, istuv)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Istuv mees tõstab oma parema käe allapoole asendist ülespoole ja avab peopesa, tehes selge žesti."
+      ],
+      "snr": "026",
+      "ajad": [
+        "372.160",
+        "375.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab staatilist kaadrit tumedal, tekstuuriga hallikassvalgel taustal olevast tekstist. Taust meenutab kriiditahvlit või kunstiliselt töödeldud pinda, millel on heledamaid ja tumedamaid plekke ning pintslitõmbeid, andes sellele kulunud või abstraktse ilme. Tekst on paigutatud kaadri keskele. Ülemine, suurem tekst on eesti keeles ja kirjutatud dekoratiivses, veidi vanamoodsas šriftis. Allpool on väiksem ingliskeelne tõlge, mis on esitatud lihtsamas sans-serif šriftis. Stseen on monokroomne, domineerivad hallid ja mustad toonid, valged esiletõstud annavad tausta tekstuurile sügavust ja kontrasti. Valgustus on ühtlane, ilma selgete varjudeta, mis viitab siseruumile või ekraanipildile.",
+      "actions": [
+        "teksti kuvamine"
+      ],
+      "keywords": [
+        "tekst",
+        "tsitaat",
+        "eesti keel",
+        "inglise keel",
+        "monokroomne",
+        "halltoonid",
+        "mustvalge",
+        "abstrakttne taust",
+        "kriiditahvel",
+        "mängimine",
+        "kehastumine",
+        "näitlemine",
+        "kunstiline taust"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "tekst",
+        "tekstuuriga taust"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#2C2C2C",
+        "#CFCFCF"
+      ],
+      "texts": [
+        "Te peate täielikult ümber kehastuma selleks, keda mängite!",
+        "You have to entirely become who you play!"
+      ],
+      "persons": "not clear",
+      "imagetype": "textbackground",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pildid on identsed."
+      ],
+      "snr": "027",
+      "ajad": [
+        "375.000",
+        "378.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget teatrietendust või proovi minimalistlikul laval, kus on viis inimest. Lava põrandal on mustvalge ruudustik, mis meenutab malelauda. Lava keskel on kõrgendatud platvorm, samuti mustvalge geomeetrilise kujundusega, millel seisab kolm tegelast: vasakul ruudulises särgis ja tumedates pükstes mees, keskel ruudulises kleidis heleda topi peal naine, kelle käed on kokku pandud, ja paremal heledas särgis ning tumedates pükstes mees. Esiplaanil, seljaga vaataja poole, istub toolil inimene, kes jälgib lava. Tema kõrval, kaadrist paremal, istub toolil tumedates rõivastes ja ruudulistes pükstes mees, kes žestikuleerib mõlema käega laval olevate tegelaste poole, andes ilmselt juhiseid või kommenteerides. Taust on valdavalt pime, kuid prožektorid valgustavad esinejaid, luues dramaatilise atmosfääri. Külgmised seinad on tekstuuritud, meenutades krobelist pinda või kivi.",
+      "actions": [
+        "Žestikuleerimine",
+        "Istumine",
+        "Seismine",
+        "Jälgimine",
+        "Suunamine/juhendamine"
+      ],
+      "keywords": [
+        "Teater",
+        "Proov",
+        "Etendus",
+        "Mustvalge",
+        "Stseen",
+        "Lavakujundus",
+        "Näitlejad",
+        "Lavastaja",
+        "Minimalistlik",
+        "Geomeetriline",
+        "Malelaud",
+        "Plafoon",
+        "Draama"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Toolid",
+        "Lava",
+        "Platvorm",
+        "Seinad",
+        "Valgustid (implied)"
+      ],
+      "colorcodes": [
+        "Must",
+        "Valge",
+        "Hall"
+      ],
+      "texts": [],
+      "persons": [
+        "Lavastaja/juhendaja",
+        "Näitlejad",
+        "Mehed",
+        "Naised"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kaadrist vasakult ilmub järk-järgult kaadrisse toolil istuv inimene, seljaga vaataja poole, kes esimeses kaadris puudub täielikult ja teises on osaliselt näha.",
+        "Paremal ees istuva lavastaja/juhendaja käte asend muutub žestikuleerimise käigus, näidates dünaamikat ja liikumist.",
+        "Kaadris vasakul ees olev tool on esimeses kaadris tühi, teises on sellel näha istuva inimese jalg ja kolmandas istub seal inimene seljaga vaataja poole."
+      ],
+      "snr": "028",
+      "ajad": [
+        "378.280",
+        "388.360"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noort naist mustvalges portrees, kes vaatab otse kaamerasse sügava ja mõtliku pilguga. Ta on keskealiste hulka kuuluv heledate juustega naine, mille soeng on elegantne ja kammitud näost eemale, paljastades tema selged näojooned. Naine kannab pidulikku, varrukateta kleiti, millel on kõrge kaelus. Kleidi rinnaesine ja kaelus on kaunistatud volangide või lilleliste detailidega, mis lisavad riietusele tekstuuri ja elegantsi. Tal on kõrvarõngas oma paremas kõrvas (vaataja vasakul). Valgustus on dramaatiline, luues tugevaid kontraste ja varjusid, mis rõhutavad naise nägu ja kleidi detaile. Taust on tume ja tekstuuriga, meenutades veidi suitsust või abstraktset pinda, mis toob naise esile. Üldmulje on klassikaline, elegantne ja veidi melanhoolne.",
+      "actions": [
+        "Istumine või paigal seismine",
+        "Vaatamine otse kaamerasse"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Mustvalge",
+        "Elegantne",
+        "Dramaatiline valgustus",
+        "Kleit",
+        "Soeng",
+        "Ehted",
+        "Sügav pilk",
+        "Mõtlik",
+        "Klassikaline",
+        "Stiilne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kleit",
+        "Kõrvarõngas",
+        "Taust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#333333",
+        "#CCCCCC"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel on vaid üliväikesed erinevused naise näoilmes ja huulte asendis. Esimesel pildil võib naise ilme olla kergelt neutraalsem, samas kui teisel ja kolmandal pildil on tema suunurgad veelgi kergemalt allapoole ning pilk sügavam ja veidi kurvem. Ülejäänud kompositsioon, valgustus ja poos on kõikidel piltidel identsed."
+      ],
+      "snr": "029",
+      "ajad": [
+        "388.360",
+        "391.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalgetes kaadrites esitust, kus keskmes on mees, kandes prille, kõrge kaelusega pluusi ja trakse. Ta žestikuleerib intensiivselt ja emotsionaalselt kätega, olles süvenenud kõnesse või laulmisesse, suu avatud ja näoilme väljendusrikas. Taust on tume ja veidi udune või suitsune, luues dramaatilise ja intiimse atmosfääri. Mehe liigutused on dünaamilised, käed sirutuvad üles ja ettepoole. Ühes kaadris on mustvalgel taustal esitatud tekst, mis on ilmselt mehe poolt esitatavate sõnade subtiitrid eesti ja inglise keeles.",
+      "actions": [
+        "Mees žestikuleerib kätega",
+        "Mees räägib või laulab",
+        "Mees sirutab käsi ülespoole",
+        "Mees on süvenenud esitusse"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Etendus",
+        "Mees",
+        "Prillid",
+        "Kõrge kaelusega pluus",
+        "Traksid",
+        "Žestikuleerimine",
+        "Tekst",
+        "Subtiitrid",
+        "Tume taust",
+        "Dramatiline",
+        "Intensiivne",
+        "Liikumine",
+        "Väljendusrikas"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Prillid",
+        "Kõrge kaelusega pluus",
+        "Traksid",
+        "Särginõel (traksidel)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#222222",
+        "#BBBBBB"
+      ],
+      "texts": [
+        "Ce peate endasse koguma, koguma, koguma!",
+        "You have to gather, gather, gather into yourselves!"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe käte asendid ja žestid varieeruvad kaadrites, peegeldades esituse erinevaid hetki.",
+        "Üks kaader on pühendatud ainult tekstile (subtiitritele), samas kui teised keskenduvad mehele.",
+        "Mehe näoilme ja suu asend muutuvad kaadrite vahel, andes edasi erinevaid emotsioone.",
+        "Kolmandal pildil on märgatav liikumishajutus, mis annab edasi tegevuse intensiivsust ja dünaamikat."
+      ],
+      "snr": "030",
+      "ajad": [
+        "391.320",
+        "399.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab minimalistlikku teatrilavastust või proovi mustvalges koloriidis. Lava on kujundatud tumeda tausta ja mustvalge ruudulise mustriga põrandaga. Keskel asub tõstetud platvorm, millel seisab kolm näitlejat: kaks meest ja üks naine. Platvormi vasakus servas seisab pika pluusi ja pükstega mees, kes on üsna staatilises poosis. Tema kõrval keskel seisab mustrilise kleidiga naine, samuti staatiliselt. Platvormi paremas servas seisab heledama särgi ja tumedate pükstega mees. Esimesel pildil hoiab ta käsi ees avatult, järgnevates piltides aga langetab neid. Esiplaanil, kaamerale lähemal, on kaks toolidel istuvat inimest. Vasakul istub seljaga kaamera poole naine, kelle juuksed on kinni pandud ja kes kannab tumedat kleiti. Ta parem käsi on veidi liikumises. Paremal istub toolil mees, kes on küll samuti seljaga, kuid pööratud veidi küljega, nii et tema žestikuleerivad käed on selgelt näha. Ta kannab tumedat pluusi ja ruudulisi pükse ning on stseeni kõige dünaamilisem tegelane, kelle käte asend oluliselt muutub piltide vahel, andes edasi emotsionaalsust ja liikumist. Üldine atmosfäär on dramaatiline ja teatraalne, rõhutades karakterite kehakeelt ja interaktsiooni.",
+      "actions": [
+        "Mees žestikuleerib energiliselt ja väljendusrikkalt",
+        "Naine liigutab kätt",
+        "Kolm inimest seisavad platvormil",
+        "Inimesed istuvad toolidel",
+        "Mees platvormil muudab kergelt oma käte asendit"
+      ],
+      "keywords": [
+        "Teater",
+        "lavastus",
+        "proov",
+        "näitlejad",
+        "mustvalge",
+        "minimalism",
+        "žestikuleerimine",
+        "lava",
+        "dramatism",
+        "kehakeel"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Toolid",
+        "lava",
+        "platvorm",
+        "mustvalge ruuduline põrand",
+        "tumedad taustaseinad"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (esiplaanil vasakul)",
+        "Mees (esiplaanil paremal)",
+        "Mees (platvormil vasakul)",
+        "Naine (platvormil keskel)",
+        "Mees (platvormil paremal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esiplaanil paremal istuva mehe käte asend muutub märgatavalt. Esimeses pildis on käed kõrgemal ja laialt avatud, teises on need langetatud ja veidi kokku pandud, kolmandas on veelgi allapoole suunatud ja pigistatud, suunaga platvormil seisvate inimeste poole.",
+        "Esiplaanil vasakul istuva naise parem käsi liigub pisut. Esimesel pildil on käsi veidi kaugemal kehast, järgmistes piltides on see kehale lähemal ja põlvele toetumas.",
+        "Platvormil paremal seisva mehe käte asend muutub kergelt. Esimeses pildis on käed eespool ja avatumalt, teistes piltides on need veidi langetatud ja keha lähedamal."
+      ],
+      "snr": "031",
+      "ajad": [
+        "399.360",
+        "410.400"
+      ]
+    },
+    {
+      "explanation": "Pildiseeria kujutab mustvalget portreed naisest, kellel on lühikesed, üles sätitud heledad juuksed. Tema ilme on tõsine ja mõtlik. Naine kannab elegantset kõrge kaelusega kleiti, mille rinnaesisel on rüüsid või lillekujulised kaunistused. Paremas kõrvas (vaataja vasakul) on tal silmapaistev kõrvarõngas. Stseeni valgustus on dramaatiline ja kontrastne, tekitades tugevaid varje, eriti naise vasakul käel (vaataja paremal) ja näo paremal poolel. Taust on tume ja tekstuuriline, meenutades suitsu, udu või abstraktset maali. Naine teeb vasaku käega (vaataja paremal) liigutust, justkui žestikuleeriks, puudutaks oma pead või nägu. Tema pilk on suunatud otse kaamerasse. Stseenist õhkub sügavust ja emotsionaalsust, mis annab edasi melanhoolset või mõtisklevat meeleolu.",
+      "actions": [
+        "Naine žestikuleerib vasaku käega",
+        "Naine vaatab otse kaamerasse"
+      ],
+      "keywords": [
+        "Portree",
+        "Naine",
+        "Mustvalge",
+        "Žest",
+        "Draama",
+        "Elegants",
+        "Vari",
+        "Emotsioon",
+        "Lavastus",
+        "Mõtlikkus",
+        "Kleit",
+        "Kõrvarõngas",
+        "Stuudiopilt",
+        "Grayskaala"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Kleit",
+        "Kõrvarõngas",
+        "Taust"
+      ],
+      "colorcodes": [
+        "#2C2C2C",
+        "#8A8A8A",
+        "#D6D6D6"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naine vasaku käe (vaataja parem) asend muutub piltide vahel, andes märku käe liikumisest. Esimesel pildil on käsi veidi madalamal, teisel selgemalt tõstetud ja avatud.",
+        "Varjud vasakul käel on teises kaadris teravamad ja selgemad, rõhutades liikumist ja valgustust."
+      ],
+      "snr": "032",
+      "ajad": [
+        "410.400",
+        "415.040"
+      ]
+    },
+    {
+      "explanation": "Mustvalge stseen kujutab teatrilavastuse proovi või etendust, kus viis näitlejat on minimalistlikul laval. Lava tagaosa on tume, esiplaanil ja keskel on heledad, osaliselt mustvalgeruudulised lavaplatvormid ning põrand on mustvalge maleruudustikuga. Stseenis domineerivad dünaamilised žestid ja näitlejatevaheline interaktsioon, mis areneb läbi kolme hetke aktiivsest liikumisest ja emotsionaalsest väljendusest dialoogi või mõtiskluse faasi.",
+      "actions": [
+        "Naine vasakul esiplaanil istub toolil, tõstab käsi pea kohale justkui juukseid seades või tugevat emotsiooni väljendades, seejärel laseb käed alla žestikuleerivasse asendisse ja lõpuks pöörab pead paremale, vaadates üle õla, samal ajal kui üks käsi toetub lõua alla.",
+        "Mees keskel esiplaanil seisab alguses, käed samuti kõrgel, justkui teostades dramaatilist liigutust või üllatust, seejärel pöörab end ümber ja istub teisele, varem nähtamatule toolile, seljaga kaamera poole ja näoga vasakule naise poole, hoides käsi rinnal või lõua all, justkui vesteldes või mõtiskledes.",
+        "Kolm teist tegelast seisavad lavaplatvormidel taustal, jälgides tegevust, hoides pigem passiivseid ja ootavaid poose."
+      ],
+      "keywords": [
+        "Teater",
+        "etendus",
+        "proov",
+        "mustvalge",
+        "näitlejad",
+        "lavastus",
+        "draama",
+        "minimalism",
+        "žestid",
+        "emotsioonid",
+        "interaktsioon"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "toolid (3)",
+        "lavaplatvormid",
+        "lavaseinad",
+        "maleruuduline põrand"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "naine (esiplaanil vasakul)",
+        "mees (esiplaanil keskel/paremal)",
+        "mees (taga vasakul)",
+        "naine (taga keskel)",
+        "mees (taga paremal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naine vasakul esiplaanil muudab oma käte asendit pea kohalt alla ja pöörab pead paremale, istudes lõdvemas asendis.",
+        "Mees esiplaanil muudab oma asendit seismisest istumiseks uuele, varem tühjale toolile, pöörates end teise tegelase poole.",
+        "Kolmandas kaadris on esiplaanile lisandunud teine tool, millel istub mees, luues kahe tegelase vahelise dialoogisituatsiooni.",
+        "Üldine stseeni dünaamika muutub aktiivsest ja žestikulatsioonirohkest faasist (esimesed kaks kaadrit) rahulikumaks ja dialoogile keskenduvaks hetkeks (kolmas kaader)."
+      ],
+      "snr": "033",
+      "ajad": [
+        "415.040",
+        "421.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget portreed elegantsest naisest, kes on süvenenud mõtetesse. Naine on kaadri keskel, istudes või poosetades tumeda ja abstraktse tausta ees, mis meenutab suitsu või kerget tekstuuri. Tema heledad juuksed on tagasi kammitud elegantseks soenguks, paljastades tema näojooned. Ta kannab elegantset, õlapaelteta või halter-kaelusega kleiti, millel on kaela ümber volangid või kaunistused. Tema vasakul kõrval on silmapaistev tähekujuline kõrvarõngas. Naine toetab oma lõuga parema käe rusikasse pigistatud sõrmedele, andes edasi mõtisklevat või melanhoolset meeleolu. Valgus on dramaatiline, valgustades naise nägu ja ülakeha, jättes tausta tumedamaks ja luues kontrastse üldmulje.",
+      "actions": [
+        "poseerimine",
+        "mõtisklemine",
+        "üles vaatamine",
+        "otse vaatamine"
+      ],
+      "keywords": [
+        "mustvalge",
+        "portree",
+        "naine",
+        "elegantne",
+        "mõtlik",
+        "stuudio",
+        "dramaatiline",
+        "müsteerium"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "kleit",
+        "kõrvarõngas",
+        "käsi"
+      ],
+      "colorcodes": [
+        "#0F0F0F",
+        "#A0A0A0",
+        "#E0E0E0"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naine muudab oma pea ja pilgu suunda piltide vahel. Esimesel pildil vaatab ta otse ettepoole kaamera poole. Teisel pildil on pea kergelt vasakule pööratud ja pilk suunatud üles ja paremale. Kolmandal pildil on pea veelgi rohkem vasakule pööratud ja pilk suunatud rohkem ülespoole, taevalaotuse poole. Käte asend ja keha hoiak jäävad kõigil piltidel samaks."
+      ],
+      "snr": "034",
+      "ajad": [
+        "421.840",
+        "429.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme inimest musta tausta ees, mis on jagatud kolmeks vertikaalseks paneeliks. Igas paneelis on eri isik: vasakul mees, keskel naine ja paremal teine mees. Kõik pildid on mustvalged, mis annab stseenile ajatu või retrohõngu. Valgustus on suunatud eeskätt nägudele ja kostüümidele, jättes tausta täiesti pimedaks. Kolme pildi jada näitab nende inimeste transformatsiooni erinevateks tegelasteks või arhetüüpideks. Vasakpoolne mees areneb tavalisest noormehest, kellel on ruuduline särk ja hipilik aksessuaar kaelas, hirmuäratavaks, arvatavasti Frankensteini monstrumi sarnaseks tegelaseks, kellel on näol ja kaelal nähtavad õmblused ja armid, ning lõpuks kauboiks või seiklejaks, keda ehib laiakübar ja sall. Keskmine naine muutub algselt tagasihoidliku välimusega tüdrukust, kellel on ruuduline pluus ja kampsun ning tagasihoidlik soeng, glamuurseks pin-up stiilis daamiks, kellel on uhke soeng, peakate, rippuvad kõrvarõngad ning sügav dekoltee. Parempoolne mees alustab pingsalt mõtisklevast figuurist, kellel on klassikaline juukselõikus ja vuntsid, edasi Adolf Hitlerit meenutavaks tegelaseks iseloomuliku soengu ja vuntsidega ning lõpetab mõtliku, ilmselt sõjaväelase või ajaloolise tegelasega, kellel on vuntsid ja vormiriietus. Kõik kolm hoiavad erinevaid poose ja ilmeid, mis peegeldavad nende muutuvat tegelaskuju. Stseen on dünaamiline, kuigi tegevust on vähe, rõhutades iga tegelase muutumist ja nende erinevaid rolle.",
+      "actions": [
+        "Mees vasakul vaatab üles ja mõtiskleb",
+        "Naine keskel vaatab üles ja naeratab õrnalt",
+        "Mees paremal toetab lõuga käele ja mõtiskleb",
+        "Mees vasakul vaatab otse ette stoilise ilmega",
+        "Naine keskel vaatab otse ette flirtiva naeratusega",
+        "Mees paremal vaatab otse ette range ilmega",
+        "Mees vasakul pöörab pead vasakule ja vaatab üle õla",
+        "Naine keskel vaatab otse ette flirtiva naeratusega",
+        "Mees paremal pöörab pead vasakule ja vaatab mõtlikult"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Portree",
+        "Transformatsioon",
+        "Rollimäng",
+        "Kostüümid",
+        "Tegelaskujud",
+        "Monokroomne",
+        "Näoilmed",
+        "Studiopilt",
+        "Pin-up",
+        "Frankensteini koletis",
+        "Kauboi",
+        "Hitler",
+        "Ajaloolised figuurid",
+        "Karakterid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Ruuduline särk",
+        "Hipilik kaelaehe",
+        "Kampsun",
+        "Käevõru",
+        "Müts",
+        "Sall",
+        "Plaatkraelised särgid",
+        "Kõrvarõngad",
+        "Peakate",
+        "Soengud",
+        "Vuntsid",
+        "Õmblused näol",
+        "Armid",
+        "Vormiriietus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees",
+        "Noor naine",
+        "Mees vuntsidega"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Vasakpoolse mehe kostüüm ja tegelaskuju muutuvad tavalisest mehest Frankensteini monstrumiks ja seejärel kauboiks/seiklejaks.",
+        "Keskmise naise kostüüm, soeng ja stiil muutuvad tagasihoidlikust tüdrukust glamuurseks pin-up stiilis daamiks.",
+        "Parempoolse mehe välimus ja tegelaskuju muutuvad algsest mõtisklevast figuurist Adolf Hitlerit meenutavaks tegelaseks ja seejärel teiseks ajalooliseks/sõjaväeliseks figuuriks.",
+        "Kõigi kolme isiku näoilmed ja poosid muutuvad vastavalt nende uutele tegelaskujudele ja rollidele.",
+        "Riietus ja aksessuaarid varieeruvad iga isiku puhul läbi kaadrite, näidates erinevaid ajastuid ja stiile."
+      ],
+      "snr": "035",
+      "ajad": [
+        "429.400",
+        "436.560"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha kolm eri karakterit mustvalges tonaalsuses, mis loob dramaatilise ja ajatu meeleolu. Ühes hetkes on ekraan jagatud vertikaalse musta ribaga kaheks, kusjuures vasakul pool on noor mees, kes kannab kaabut ja triibulist pontšot või salli, vaadates otse kaamerasse enesekindla või trotsliku pilguga. Paremal pool on mees vuntside ja kraega särgi või jaki, kes vaatab paremale, ilmselt ekraanivälisele sündmusele, kergelt üllatunud või mureliku ilmega. Seejärel nihkub fookus parempoolsele mehele, kusjuures suurem osa ekraanist vasakul on kaetud musta alaga, mis viitab üleminekule või teadlikule kompositsioonivalikule. Lõpuks tutvustatakse stseenis elegantset naist, kelle juuksed on üles pandud ja kes kannab kõrge kaelusega, rüüsitud kleiti ning kõrvarõngaid. Ta vaatab vasakule, mõtlikult või murelikult, tumeda, tekstuurse tausta ees. Stseeni üldine meeleolu on tõsine ja intensiivne, vihjates pingele või sügavale karakteriarendusele.",
+      "actions": [
+        "Vaatab otse kaamerasse",
+        "Vaatab paremale",
+        "Vaatab vasakule",
+        "On mõtlik või murelik",
+        "Poseerib"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Draama",
+        "Karakterid",
+        "Portreed",
+        "Pinge",
+        "Filmilik",
+        "Stiilne",
+        "Retro"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kaabu",
+        "Pontšo",
+        "Sall",
+        "Särk",
+        "Jakk",
+        "Kleit",
+        "Kõrvarõngad",
+        "Must vertikaalne riba"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#333333",
+        "#999999"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees",
+        "Mees vuntsidega",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Ühes kaadris on ekraan jagatud kahe mehe vahel vertikaalse musta ribaga.",
+        "Teises kaadris on fookus ainult ühel mehel ja suurem osa ekraanist on must.",
+        "Kolmandas kaadris on fookus uuel karakteril (naisel) ning kaadri kompositsioon on erinev, ilma ekraani jagava musta ribata."
+      ],
+      "snr": "036",
+      "ajad": [
+        "436.560",
+        "450.440"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja dramaatiline, mis koosneb kolmest kaadrist. Esimesed kaks kaadrit keskenduvad ühele mehele, kes kannab prille, trakse ning vahelduvalt kas tumedat sviitrit või särki lipsuga. Ta on keskendunud ja intensiivse ilmega, tõstes oma kätt. Tema taust on tume ja suitsune, luues atmosfäärilise ja ehk müstilise meeleolu. Kolmas kaader laiendab stseeni, näidates kolme inimest. Esiplaanil istub mees ruudulises särgis laua taga, hoides sigarit. Tema vastas seisab šikk naine pükskostüümis ja tema taga teine mees bareti ja prillidega, hoides dokumenti. Ka selles kaadris on õhus suitsu, eriti seisvate tegelaste ümber. Üldine õhkkond viitab tõenäoliselt film noir'ile, muusikavideole või teatrietendusele, kus on rõhk vintage-esteetikal ja pingestatud narratiivil.",
+      "actions": [
+        "Käe tõstmine",
+        "Allapoole vaatamine",
+        "Istumine",
+        "Sigari hoidmine",
+        "Seismine",
+        "Vaatamine/vestlemine",
+        "Dokumendi hoidmine"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Dramaatiline",
+        "Stiilne",
+        "Vintage",
+        "Intensiivne",
+        "Suitsune",
+        "Film noir",
+        "Keskendunud",
+        "Elegantne",
+        "Salapärane",
+        "Koosolek"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Prillid",
+        "Traksid",
+        "Tume kampsun/sviiter",
+        "Tume särk",
+        "Lips",
+        "Ruuduline särk",
+        "Pükskostüüm",
+        "Baret",
+        "Sigar",
+        "Laud",
+        "Dokument/raamat",
+        "Suits"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#202020",
+        "#5a5a5a",
+        "#9a9a9a",
+        "#f0f0f0"
+      ],
+      "texts": [],
+      "persons": [
+        "Keskendunud mees (prillide ja traksidega)",
+        "Istuv mees (ruudulises särgis sigariga)",
+        "Naine (pükskostüümis)",
+        "Seisev mees (bareti ja prillidega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesed kaks kaadrit keskenduvad ühele mehele, samas kui kolmas kaader näitab kolme inimest ja laiemat stseeni.",
+        "Mees esimesel pildil kannab tumedat sviitrit, teisel pildil aga särki ja lipsu.",
+        "Kolmandal pildil on näha laud ja sigar, mida esimestel piltidel pole.",
+        "Tausta suitsu ja tekstuur on esimesel kahel pildil ühtlasem, kolmandal pildil on taust enamasti sügavmust, suits on rohkem koondunud tegelaste ümber."
+      ],
+      "snr": "037",
+      "ajad": [
+        "450.440",
+        "466.120"
+      ]
+    },
+    {
+      "explanation": "Mustvalges stseenis on kolm figuuri. Keskel, esiplaanil, istub kiilakas mees ruudulises pintsakus, toetades lõuga oma käele ja näib sügavalt mõtisklevat. Tema pilk on esimesel kaadril suunatud alla või silmad on suletud, teisel kaadril aga üles või ettepoole. Tema kohal hõljub esimesel kaadril märkimisväärne suitsupahvak, mis teisel kaadril puudub. Tema ümber, osaliselt kaadri äärtel ja fookusest väljas, on näha kahte teist inimfiguuri, kelle nägusid pole selgelt eristada. Üks neist on vasakul, näoga ära pööratud, kandes heledat pluusi, teine paremal, ka osaliselt seljaga, drapitud kangaga üle õla. Taust on valdavalt pime ja ebamäärane, mis loob intiimse ja dramaatilise atmosfääri. Stseenil on tõsine ja kontemplatiivne meeleolu.",
+      "actions": [
+        "Mees mõtiskleb sügavalt, käsi lõual",
+        "Suits levib õhus (esimesel kaadril)",
+        "Mees muudab pilku (esimeselt teisele kaadrile)",
+        "Figuurid seisavad/istuvad ümber peategelase"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Mõtisklus",
+        "Suits",
+        "Dramaatiline",
+        "Kontemplatiivne",
+        "Kiilakas",
+        "Pintsak",
+        "Ruuduline",
+        "Figuurid",
+        "Tume taust"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Ruuduline pintsak",
+        "Särk",
+        "Inimese käed",
+        "Suits"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Kiilakas mees",
+        "Kaks teist figuuri"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on näha suitsupahvakut kiilaka mehe pea kohal, mis teisel pildil on kadunud.",
+        "Kiilaka mehe pilk on esimesel pildil suunatud alla või silmad on suletud, samas kui teisel pildil on tema silmad avatud ja ta vaatab üles või ettepoole."
+      ],
+      "snr": "038",
+      "ajad": [
+        "466.120",
+        "468.200"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja kujutab kolme inimest draamilises siseruumis, mis meenutab teatrilava või film noir'i stiilis filmi. Esiväljal, seljaga vaataja poole, istub vanem kiilaspea mees ruudulises särgis laua taga. Ta hoiab sigarit või sigaretti suu juures ja selle suits tõuseb õhku. Tema taga paremal seisab heledates riietes naine, kes on ilmselt noorem. Tal on seljas hele kostüüm või kleit, millel on musterdatud krae. Tema näoilme on pingeline või emotsionaalne, suu on kergelt avatud ja käed liiguvad stseeni vältel: algselt on need rinna kõrgusel kokku surutud, seejärel laiemalt avatud, viidates rõhutatud vestlusele või žestile. Naise pea kohal on näha suitsu. Taustal vasakul seisab noorem mees, kes kannab mütsi, prille ja kikilipsuga särki. Ta jälgib toimuvat neutraalsema ilmega. Stseenis valitseb kõrge kontrastsusega valgus, mis toob esile tegelased pimedal taustal. Vasakul on näha heledamat, tekstuuriga seinaosa.",
+      "actions": [
+        "Istuv mees suitsetab",
+        "Istuv mees hoiab sigarit või sigaretti",
+        "Naine räägib või žestikuleerib emotsionaalselt",
+        "Naine muudab oma käte asendit",
+        "Noorem mees seisab ja jälgib",
+        "Suits tõuseb õhku"
+      ],
+      "keywords": [
+        "draama",
+        "mustvalge",
+        "teater",
+        "pingeline",
+        "suitsetamine",
+        "žestikuleerimine",
+        "siseruum",
+        "vestlus",
+        "tegelased"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "laud",
+        "tool",
+        "sigar",
+        "sigaret",
+        "suits",
+        "sein",
+        "müts",
+        "prillid",
+        "kikilips",
+        "pluus",
+        "särk"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080",
+        "#D3D3D3",
+        "#A9A9A9"
+      ],
+      "texts": [],
+      "persons": [
+        "istuv mees",
+        "naine",
+        "noorem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise käte asend muutub: esimeses ja teises kaadris on käed kokku surutud rinna kõrgusel, kolmandas on need laiemalt avatud žestikuleerides.",
+        "Istuv mehe käe ja sigari/sigareti asend muutub veidi: esimeses ja teises kaadris on see suu juures, kolmandas veidi madalamal.",
+        "Suitsu muster õhus muutub vastavalt kaadri ajaliikumisele."
+      ],
+      "snr": "039",
+      "ajad": [
+        "468.200",
+        "469.280"
+      ]
+    },
+    {
+      "explanation": "Stseenil on tume ja tekstuuriga taust, mis on jaotatud kaheks peamiseks osaks. Ülemised kaks kolmandikku moodustab tumedam, harjatud või kriimustatud metalli meenutav pind musta ja halli toonides. Sellel on näha heledamaid triipe ja keeriseid. Alumine kolmandik pildist on kortsus ja läikiva tekstuuriga, meenutades väga tinapaberit või fooliumit, millel on ka mõningaid tumedamaid varjulisi alasid, mis annavad edasi sügavust ja volte. Pildi keskel on helevalge tekst, mis väljendab väsimust ja metafoorset võrdlust šokolaaditüdrukuga tinapaberil.",
+      "actions": [
+        "avaldatakse emotsiooni",
+        "edastatakse sõnumit"
+      ],
+      "keywords": [
+        "tume taust",
+        "tekstuur",
+        "tinapaber",
+        "foolium",
+        "šokolaaditüdruk",
+        "väsimus",
+        "kurbus",
+        "mustvalge",
+        "abstraktne",
+        "sõnum"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "taust",
+        "tekst",
+        "tinapaberilaadne tekstuur"
+      ],
+      "colorcodes": [
+        "#222222",
+        "#111111",
+        "#333333",
+        "#888888",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Ma olen tüdinud olemast šokolaaditüdruk",
+        "tinapaberi taustall",
+        "I am tired of being the chocolate girl on tin foil!"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pildid on identsed, erinevusi ei ole."
+      ],
+      "snr": "040",
+      "ajad": [
+        "469.280",
+        "472.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget lavastust või filmikaadrit, kus on kolm tegelast. Kesksel kohal on vaatajale seljaga istuv mees, kes on kiilakas või väga lühikeste juustega ning kannab ruudulist särki. Ta hoiab käes sigarit, millest tõuseb suitsu, luues dramaatilise atmosfääri. Tema ees on puidust laud, millel on näha tass. Tema taga, laua taga, seisab kaks teist tegelast. Paremal pool on heledas kostüümis või kleidis naine, kelle näoilmed ja käte žestid on erakordselt elavad ja väljendusrikkad, viidates kirglikule kõnele või vaidlusele. Vasakul pool seisab mees mütsi, prillide, vesti ja kikilipsuga, jälgides toimuvat vaikselt, pilk sageli suunatud üles või paremale. Kogu stseen on dramaatiliselt valgustatud pimeda tausta ja vasakul asuva tekstuurse lavaseinaga, mis annab edasi intensiivset ja emotsionaalset hetke tegelaste vahel.",
+      "actions": [
+        "Istumine",
+        "suitsetamine",
+        "rääkimine kirglikult",
+        "žestikuleerimine",
+        "jälgimine",
+        "vaidlemine"
+      ],
+      "keywords": [
+        "Teater",
+        "mustvalge",
+        "draama",
+        "emotsioonid",
+        "sigar",
+        "suits",
+        "suhtlus",
+        "lavastus",
+        "karakterid",
+        "dialoog",
+        "konflikt",
+        "stseen"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "tool",
+        "sigar",
+        "suits",
+        "tass",
+        "müts",
+        "prillid",
+        "vest",
+        "kikilips",
+        "särk",
+        "kostüüm",
+        "kleit",
+        "sein",
+        "lavakujundus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#333333",
+        "#666666",
+        "#999999",
+        "#CCCCCC",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (istuv)",
+        "Naine (seisev)",
+        "Mees (seisev)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naistegelase kehakeel ja näoilmed muutuvad oluliselt: esimeses kaadris on käed madalamal, teises on ta veidi ettepoole kaldus, kolmandas on parem käsi kõrgele tõstetud ja suu avatud.",
+        "Vasakpoolse mehe pilgu suund muutub kergelt.",
+        "Suitsu liikumine ja tihedus varieerub kaadrite vahel."
+      ],
+      "snr": "041",
+      "ajad": [
+        "472.480",
+        "479.600"
+      ]
+    },
+    {
+      "explanation": "Stseenil on tume, abstraktne ja tekstureeritud taust, mis meenutab kriiditahvlit või sügavate pintslitõmmetega pinda. Tausta toonid varieeruvad mustast tumedahallini, kusjuures servades on näha heledamaid, valkjaid laike ja jooni, mis loovad raamistuse efekti. Pildi keskel on valge tekst kahes keeles. Ülemine tekst on eesti keeles, suuremas ja dekoratiivsemas šriftis, koos hüüumärkidega iga lause lõpus. Alumine tekst on inglise keeles, väiksemas ja lihtsamas sans-serif šriftis, toimides eestikeelse teksti tõlkena. Tekst väljendab soovi saada kellekski teiseks ja mängida tõsist rolli, konkreetselt korstnapühkijannat. Visuaalselt annab stseen edasi dramaatilist ja introspektiivset meeleolu, rõhutades karakteri sisemisi soove.",
+      "actions": [
+        "Tekst kuvatakse ekraanil"
+      ],
+      "keywords": [
+        "Tekst",
+        "Subtiitrid",
+        "Abstraktne taust",
+        "Tume",
+        "Hall",
+        "Must",
+        "Valge kiri",
+        "Soov",
+        "Roll",
+        "Dramaatiline",
+        "Visuaalne efekt",
+        "Kriiditahvel"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Tekst",
+        "Abstraktne taustatekstuur"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#222222",
+        "#000000",
+        "#333333",
+        "#444444"
+      ],
+      "texts": [
+        "Ma tahan ümber kehastuda! Ma tahan tõelist rolli! Ma tahan mängida korstnapühkijannat!",
+        "I want to become someone else! I want a serious role! I want to play a chimney sweeper!"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevusi piltide vahel ei ole, kuna kõik esitatud pildid on identsed."
+      ],
+      "snr": "042",
+      "ajad": [
+        "479.600",
+        "485.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast mustvalget teatrilava või filmikaadrit, kus kolm tegelast on intensiivses dramaatilises hetkes. Pildil on näha tagantvaates istuv kiilakas mees, kelle selga katab ruuduline särk. Ta istub laua taga, millel on märgata tasse või klaase. Istuva mehe taga seisab kaks tegelast, kes on stseeni fookuses. Paremal seisab heledasse kostüümi riietatud naine, kes on väga emotsionaalne. Tema näoilme on pinges, suu avatud (justkui rääkides, karjudes või lauldes) ning ta žestikuleerib aktiivselt oma kätega, tõstes paremat kätt ja liigutades vasakut kätt rinna juures. Vasakul seisab mees, kes on riietatud heledasse särki, vesti ja kannab mütsi ning prille. Tema pilk on suunatud ülespoole ja ta teeb kätega ettepoole suunatud žeste, mis võivad viidata kaitsehoiakuile või suunamisele. Tumedal taustal on näha vertikaalselt tekstuuriga seina, mis loob lavalise sügavuse. Stseeni üldine atmosfäär on pingeline ja ekspressiivne, vihjates emotsionaalsele konfliktile või kõrgpunktile narratiivis.",
+      "actions": [
+        "Naine žestikuleerib energiliselt ja emotsionaalselt.",
+        "Naine räägib või laulab avatud suuga.",
+        "Mees vaatab ülespoole ja žestikuleerib ettepoole.",
+        "Istuv mees jälgib stseeni tagantvaates."
+      ],
+      "keywords": [
+        "Teater",
+        "Etendus",
+        "Draama",
+        "Konflikt",
+        "Emotsioonid",
+        "Mustvalge",
+        "Näitlejad",
+        "Žestikuleerimine",
+        "Lava"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Tool",
+        "Tassid/klaasid",
+        "Ruuduline särk",
+        "Vest",
+        "Müts",
+        "Prillid",
+        "Hele kostüüm",
+        "Särk",
+        "Lava taustasein"
+      ],
+      "colorcodes": [
+        "#0A0A0A",
+        "#2E2E2E",
+        "#757575",
+        "#BDBDBD",
+        "#F0F0F0"
+      ],
+      "texts": [],
+      "persons": [
+        "Istuv mees",
+        "Seisev mees",
+        "Seisev naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Naisnägija parem käsi liigub esimeses kaadris kõige kõrgemale tõstetud asendist teises kaadris veidi madalamale ja seejärel kolmandas kaadris uuesti kõrgemale.",
+        "Naisnägija vasak käsi liigub esimeses kaadris rinna vastu asendist teises ja kolmandas kaadris rinnast eemale.",
+        "Naisnägija suu asend ja näoilme muutuvad kergelt kaadrite vahel, peegeldades dramaatilise dialoogi või monoloogi progresseerumist.",
+        "Meesnägija käte asend ja näoilme muutuvad samuti minimaalselt kaadrite vahel, kuid tema pilk ja üldine hoiak jäävad sarnaseks.",
+        "Istuv tegelane ja taust jäävad kaadrite lõikes muutumatuks."
+      ],
+      "snr": "043",
+      "ajad": [
+        "485.240",
+        "488.040"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja kujutab dramaatilist hetke, kus fookuses on kiilas mees ruudulises ülikonnas, valges särgis ja kaelarätiga, kes istub ja vaatab ette šokeeritud või üllatunud ilmega, suu kergelt avatud. Tema ümber, kaadri vasakul ja paremal servas, on näha kaks udust figuuri, mis viitavad teistele osalejatele vestluses või etenduses. Vasakpoolne figuur sooritab žesti käega, mis liigub ülevalt alla läbi kaadrite, mis annab edasi dünaamilisust ja pinget. Taust on täiesti pime, mis toob esile keskmise figuuri ja loob intensiivse lavastusliku atmosfääri. Mees tundub olevat keskpunktis intensiivses vestluses või stseenis.",
+      "actions": [
+        "Kiilas mees on üllatunud või šokeeritud",
+        "Mees istub",
+        "Vasakpoolne tegelane žestikuleerib käega",
+        "Tegelased suhtlevad intensiivselt"
+      ],
+      "keywords": [
+        "Teatralne",
+        "draama",
+        "mustvalge",
+        "üllatus",
+        "gesto",
+        "lavastus",
+        "vestlus",
+        "pingeline",
+        "šokk"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Ruuduline ülikond",
+        "Valge särk",
+        "Kaelarätt"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Kiilas mees",
+        "Kaks teist inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Peamine erinevus kaadrite vahel on vasakpoolse tegelase käe asendis, mis liigub esimeses kaadris ülevalt (kõrgeim asend) kolmandas kaadrisse alla (madalaim asend), näidates žestikulatsiooni liikumist."
+      ],
+      "snr": "044",
+      "ajad": [
+        "488.040",
+        "491.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme inimest siseruumis, ilmselt teatrilaval, mis on valgustatud dramaatilise mustvalge valgusega. Kaamera on paigutatud publiku vaatepunkti, kus seljaga istuv kiilakas mees on esiplaanil. Tema ette jääb laud, millel seisab tass. Temaga peavad intensiivset vestlust või vaidlust kaks inimest: mees ja naine. Naine, heledas kostüümis, on äärmiselt emotsionaalne, justkui rääkides valjuhäälselt või vaidledes, tema suu on avatud ja käed žestikuleerivad energiliselt. Mõnel hetkel tundub ta kuulavat või mõtlevat, suu suletud ja käed madalamal. Mees, vestis, kikilipsus ja mütsis, hoiab käes pabereid ning tema žestid varieeruvad rahulikumast hoiakust aktiivse paberitega vehklemiseni, justkui rõhutades oma sõnu. Tema pilk võib olla suunatud ülespoole või keskendunult istuvale mehele. Ümberringi on tume, minimalistlik lavakujundus, kus vasakul on näha tekstureeritud sein. Stseen on täis pingeid ja emotsionaalset laetust, mis viitab draamale või intensiivsele arutelule.",
+      "actions": [
+        "Naine hüüab ja žestikuleerib emotsionaalselt",
+        "Naine vaatab istuvat meest intensiivselt",
+        "Mees (seisev) hoiab ja vehkleb paberitega",
+        "Mees (seisev) vaatab ülespoole",
+        "Mees (istuv) istub ja kuulab"
+      ],
+      "keywords": [
+        "Teatrilava",
+        "Mustvalge",
+        "Draama",
+        "Emotsionaalne",
+        "Arutelu",
+        "Pinge",
+        "Žestikuleerimine",
+        "Stseen",
+        "Näitlejad",
+        "Valgusmäng"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Tass",
+        "Paberid",
+        "Kikilips",
+        "Vest",
+        "Müts",
+        "Naiste kostüüm (jakk ja seelik)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080",
+        "#333333",
+        "#CCCCCC"
+      ],
+      "texts": [],
+      "persons": [
+        "Kiilakas mees (istuv)",
+        "Seisev mees (vestis ja mütsiga)",
+        "Seisev naine (kostüümis)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on naine suu lahti, justkui karjuks või räägiks valjuhäälselt, käed on laiali žestikuleerimiseks. Seisev mees vaatab ülespoole ja hoiab pabereid rahulikumalt.",
+        "Teisel pildil on naine suu kinni ja pilk suunatud teisele poole, justkui kuulaks ta midagi või mõtleks. Seisev mees vaatab samuti üles, ent rahulikumalt, pabereid madalamal hoides.",
+        "Kolmandal pildil vehkleb seisev mees paberitega õhus, tehes energilise žesti, samal ajal kui naine vaatab istuvat meest intensiivse, ehk mureliku või nördinud ilmega, käed veidi allpool või puusal."
+      ],
+      "snr": "045",
+      "ajad": [
+        "491.440",
+        "497.360"
+      ]
+    },
+    {
+      "explanation": "Stseen on esitatud mustvalgena, luues klassikalise kinemaatilise või dramaatilise atmosfääri. See kujutab meelelahutustööstuse erinevaid tahke, keskendudes näitlejanna Pashionellale ja avalikkuse arvamusele temast. Üks osa stseenist näitab meest, kes istub pingsalt pimedas, minimalistlikus stuudios, tema ümber on näha kaht ähmaselt liikuvat või seisvat kuju. Mehe näoilme viitab üllatusele, murele või sügavale mõttele. Stseenis vahelduvad kaadrid ajaleheväljalõigetega, pealkirjadega nagu „DAILY CINEMA“ ja „STAR TABLOID“, mis keskenduvad Pashionellale ja küsivad tema näitlejaoskuste kohta, näiteks „Can Pashionella really act?“ ja „Kas Pashionella tõesti suudab näidelda?“. Need meediaväljaanded viitavad avalikkuse kriitikale või meediakära all olemisele. Teine visuaalne element on öine filmi võtteplats või lava tagune ala, kus on näha meeskonnaliikmeid, eredat prožektorivalgust, puukaste ja laiali puistatud lehti maapinnal, mis annab aimu käimasolevast filmi tegemise protsessist. Stseen vastandab glamuurset või kriitilisele tähelepanule suunatud avalikku kuvandit filmi tegemise sageli kaootilise telgitaguse reaalsusega.",
+      "actions": [
+        "istumine",
+        "vaatamine",
+        "kõndimine",
+        "seismine",
+        "filmimine (oletatav)",
+        "meedias kajastamine"
+      ],
+      "keywords": [
+        "mustvalge film",
+        "meelelahutus",
+        "näitleja",
+        "meediasurve",
+        "kriitika",
+        "filmi võtteplats",
+        "lava taga",
+        "tabloidid",
+        "kuulsus",
+        "draama"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "pleedpluusiga mees",
+        "ajaleheväljalõiked",
+        "prožektor",
+        "puitkastid",
+        "lehed",
+        "kaamera (oletatav)",
+        "inimfiguurid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [
+        "DAILY CINEMA",
+        "STAR TABLOID",
+        "Can Pashionella really act?",
+        "VOEMSÄM BEALISN HOLLYWOODES",
+        "KAS PASHIONELLA TÕESTI SUUDAB NÄIDELDA?",
+        "Armuella roesti suudab ka näidelda ja mis niisama ilus olnud?",
+        "Armastatud staar Armuella on uues filmis 'Cheminee' soonuks talle suures rollis kui me seda harjunud oleme nägema."
+      ],
+      "persons": [
+        "pleedpluusiga mees",
+        "Pashionella (pildil)",
+        "meeskonnaliikmed",
+        "näitlejad (oletatav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Üks kaader keskendub lähedalt istuvale mehele, teine ajalehtede pealkirjadele ja kolmas näitab laia vaadet filmi võtteplatsile.",
+        "Kaadrid varieeruvad detailides, kujutades kord siseruumi (või tumedat stuudiot), kord väliõhkkonda."
+      ],
+      "snr": "046",
+      "ajad": [
+        "497.360",
+        "511.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab nelja inimest, kes on riietatud retrohõngulistesse riietesse, mis meenutavad 1920. või 1930. aastaid. Nad seisavad rühmas siseruumis, mille taustaks on tekstuuriga sein, mis võib olla telliskivimustriga või muu dekoratiivse kattega, ning paremal pool on näha osa tumedast lavastustarvikust, mis meenutab korstnajalga või seinakaminat. Stseen on mustvalge, andes sellele ajastukohase või kunstilise ilme. Grupi liikmete näoilmed muutuvad stseeni jooksul, alates esialgsest keskendumisest ja suhtlemisest kuni ühise üllatuse või šoki väljendamiseni viimases kaadris.",
+      "actions": [
+        "Mees vasakul hoiab peegelkaamerat ja vaatab alguses ettepoole, seejärel tõstab pilgu üles üllatunult, suu lahti.",
+        "Naine vasakpoolse mehe kõrval hoiab käes suurt kunstroosi ja pabereid või lehti; ta vaatab alguses paremale, seejärel otse ette üllatunud ilmega, suu lahti.",
+        "Naine parempoolse mehe kõrval suhtleb aktiivselt, hoides käes pabereid ja väljendades end elavalt avatud suuga, seejärel vaatab otse ette üllatunud ilmega, suu lahti.",
+        "Mees paremal vaatab alguses allapoole väikeste esemete (paberid/kaardid) poole, mida ta käes hoiab, seejärel tõstab pilgu üles üllatunult, suu lahti.",
+        "Kõik neli inimest reageerivad millegile ühise šoki või üllatusega."
+      ],
+      "keywords": [
+        "vintage",
+        "retro",
+        "mustvalge",
+        "teater",
+        "lavastus",
+        "näitlejad",
+        "kostüümid",
+        "üllatus",
+        "šokk",
+        "emotsioonid",
+        "grupp",
+        "kaamera",
+        "lill"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "vintage kaamera",
+        "suur kunstroos",
+        "paberid",
+        "meeste kaabud",
+        "kikilips",
+        "rätik (sall)",
+        "triibuline pintsak",
+        "ruuduline kleit",
+        "kardigan",
+        "triibuline pluus",
+        "vöö",
+        "ruuduline vest",
+        "taustasein",
+        "lavastuselement (korsten/kamin)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "mees (vasakul)",
+        "naine (keskel vasakul)",
+        "naine (keskel paremal)",
+        "mees (paremal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Isikute näoilmed muutuvad stseeni jooksul järk-järgult, minnes esialgsest keskendumisest või suhtlemisest üle ühtsesse üllatuse või šoki ilmesse (avatud suud, laiad silmad).",
+        "Vasakpoolse mehe pilk tõuseb kaamerast ülespoole.",
+        "Keskel parempoolse naise näoilme muutub elavast kõnelemisest vaikseks üllatuseks.",
+        "Parempoolse mehe pilk tõuseb allapoole suunatud esemetelt ülespoole."
+      ],
+      "snr": "047",
+      "ajad": [
+        "511.360",
+        "514.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast mustvalget kaadrit filmivõtteplatsilt või lavastusest, mis on kujundatud meenutama öist või sügisest väliskeskkonda, kus maapinda katavad lehed. Kaadris on näha mitu inimest, tõenäoliselt filmimeeskond ja näitlejad, kes on hõivatud oma tegevusega. Valgustus on dramaatiline, pärinedes selgelt suunatud prožektoritest. Taustal on stiliseeritud, teravate nurkadega hooneid meenutavad struktuurid, mis moodustavad dekoratsiooni. Stseeni üldine atmosfäär on aktiivne ja liikumist täis, justkui oleks jäädvustatud üks hetk dünaamilisest tööprotsessist. Inimesed on riietatud erinevatesse riietesse, alates elegantsetest mantlitest kuni tööriietuseni, mis annab aimu nende võimalikest rollidest.",
+      "actions": [
+        "Inimesed seisavad ja jälgivad ümbrust",
+        "Üks naine hoiab ja vaatab paberit/stsenarismi",
+        "Üks mees liigub kiirustades üle esiplaanil",
+        "Teine mees liigub ka taustal kiirustades",
+        "Inimesed omavahel suhtlevad ja žestikuleerivad",
+        "Üks inimene hoiab tassi"
+      ],
+      "keywords": [
+        "Filmistuudio",
+        "lavastus",
+        "võtteplats",
+        "mustvalge",
+        "öine",
+        "sügis",
+        "lehed",
+        "inimrühm",
+        "näitlejad",
+        "lavastaja",
+        "liikumine",
+        "valgustus",
+        "dekoratsioonid",
+        "prožektor"
+      ],
+      "shot_type": "long",
+      "placement": "not clear",
+      "objects": [
+        "Prožektorid",
+        "kolmjalad",
+        "paberid/stsenaristika",
+        "tass",
+        "stiliseeritud hooned/dekoratsioonid",
+        "langenud lehed"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees heledas ülikonnas/vormis (vasakul)",
+        "Naine heledas mantlis paberitega (vasakul)",
+        "Mees mütsiga (keskel vasakul, teises kaadris)",
+        "Kolm vaatlejat/meeskonnaliiget (paremal taustal)",
+        "Naine tumedamas mantlis (keskel esiplaanil, liikumises)",
+        "Mees tassiga (paremal, liikumises)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "autumn",
+      "daytime": "night",
+      "differences": [
+        "Teises kaadris on näha oluline liikumine, mida kajastab udusus esiplaanil liikuval naisel ja paremal kaugemal liikuval mehel, samuti teiste inimeste asendite muutus.",
+        "Parempoolne mees on teises kaadris tassi käes hoides selgemini nähtav, kuna ta liigub kaadrisse.",
+        "Vasakpoolsete inimeste vahele on teises kaadris ilmunud uus mees mütsiga.",
+        "Vasakpoolne naine ei hoia teises kaadris enam paberit või see pole nähtav."
+      ],
+      "snr": "048",
+      "ajad": [
+        "514.760",
+        "525.240"
+      ]
+    },
+    {
+      "explanation": "Stseen on jäädvustatud mustvalgena ja näitab kahte noort naist rinnust ülespoole, kes on siseruumides ja paistavad millegile reageerivat või kellegagi suhtlevat. Taust on udune ja hämar. Vasakpoolsel naisel on lühikesed tumedad juuksed tuka ja lainetega, seljas hele kudum (kardigan) ruudulise (või pledi mustriga) topi peal. Parempoolsel naisel on samuti lühikesed tumedad juuksed, aga sirgemad ja ta kannab tumedat pluusi heleda ristkülikukujulise mustriga esiküljel. Mõlema naise näoilmed viitavad tähelepanelikkusele, üllatusele või kergele murele, suud on neil kergelt avatud. Kaadris on näha ka kolmanda isiku riietuse osa vasakul ääres, triibuline varrukas.",
+      "actions": [
+        "Vaatavad ja reageerivad millegile kaadrist väljas",
+        "Räägivad või kuulavad tähelepanelikult",
+        "Parempoolne naine hoiab esimeses kaadris käsi all ja teises kaadris objekti, mis näib olevat pilt või raamat"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Naised",
+        "Lühikesed juuksed",
+        "Vestlus",
+        "Reaktsioon",
+        "Siseruum",
+        "Tähelepanelikkus",
+        "Üllatus",
+        "Mure",
+        "Kardigan",
+        "Ruuduline topp",
+        "Pluus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kardigan",
+        "Ruuduline topp",
+        "Tume pluus heleda mustriga",
+        "Triibuline varrukas",
+        "Pilt või raamat (parempoolse naise käes)"
+      ],
+      "colorcodes": [
+        "mustvalge"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor naine (vasakul)",
+        "Noor naine (paremal)",
+        "Kolmas isik (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Vasakpoolse naise näoilme muutub kergelt – suu asend ja pilk varieeruvad pisut kaadrite vahel.",
+        "Parempoolne naine hoiab teises kaadris käes objekti (pilti või raamatut), mis esimeses kaadris selgelt nähtav ei olnud. Tema pea asend ja suu avatus muutuvad pisut."
+      ],
+      "snr": "049",
+      "ajad": [
+        "525.240",
+        "527.440"
+      ]
+    },
+    {
+      "explanation": "Stseenis on neli inimest, kes seisavad kunstipärasel laval või stuudiokujunduses, kõik on riietatud ajastuhõngulistesse kostüümidesse, mis annab pildile retro- või teatrietenduse ilme. Vasakpoolne pikk mees, heledate juustega ja triibulises jakis, hoiab kaamerat. Tema kõrval seisab noor tüdruk ruudulises kleidis, hoides käes lillebuketti ja pabereid. Keskel on naine tumedas kleidis, valge kraega, kes hoiab samuti pabereid ja tundub nendesse süvenenud olevat, kuid hiljem tõstab pilgu üles, justkui reageerides. Paremal seisab mütsiga mees ruudulises vestis ja kikilipsuga, kellel on samuti käes paberid ja kes hiljem hakkab rääkima. Taustaks on tumedad, lihtsad lavaseinad ja pinnas, mis rõhutab tegelasi. Kogu stseen on mustvalge, andes sellele ajatu ja kunstilise kvaliteedi.",
+      "actions": [
+        "seisavad",
+        "hoiavad pabereid",
+        "hoiavad lillebuketti",
+        "hoiavad fotoaparaati",
+        "vaatavad",
+        "räägivad"
+      ],
+      "keywords": [
+        "lavastus",
+        "etendus",
+        "mustvalge",
+        "retro",
+        "ajastu",
+        "grupp",
+        "suhtlus",
+        "vintage",
+        "teater"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "fotoaparaat",
+        "lillebukett",
+        "paberid",
+        "müts",
+        "kikilips",
+        "vest",
+        "triibuline jakk",
+        "ruuduline kleit",
+        "lavakujundus",
+        "sein",
+        "põrand"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#333333",
+        "#666666",
+        "#999999",
+        "#CCCCCC"
+      ],
+      "texts": [],
+      "persons": [
+        "pikk mees",
+        "tüdruk",
+        "naine",
+        "mütsiga mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Keskmise naise ilme ja asend muutuvad märgatavalt: esimesel pildil vaatab ta allapoole oma pabereid, teisel pildil tõstab ta pilgu üles ja tal on suu avatud, vihjates rääkimisele või reageerimisele.",
+        "Parempoolse mehe suu on teisel pildil avatud, mis annab märku, et ta on rääkimas või midagi kommenteerimas.",
+        "Inimeste pilgud ja kehahoiakud on teises kaadris dünaamilisemad ja suunatud rohkem üksteise poole, vihjates aktiivsemale suhtlusele või hetkelisele reaktsioonile."
+      ],
+      "snr": "050",
+      "ajad": [
+        "527.440",
+        "528.640"
+      ]
+    },
+    {
+      "explanation": "Mustvalge stseen kujutab kahte noort inimest, meest ja naist, siseruumis. Mõlemad vaatavad intensiivselt paremale, näoilmetega, mis viitavad üllatusele, ehmumusele või isegi jahmusele. Mees, heledate tagasi kammitud juustega ja kaelusalli ning vertikaalselt triibulise pintsakuga, hoiab käes vanaaegset fotokaamerat, justkui oleks ta pildistamas või valmistub seda tegema. Tema pilk on keskendunud ja suu kergelt avatud. Naine, tumedate tuka ja bobi lõikusega juustega, kannab heledat kootud jakki ruudulise pluusi peal ja kõrvarõngaid. Tema näoilme on sarnane mehe omaga, kuid tema suu avaneb stseeni kulgedes järjest enam, andes märku suurenevast reaktsioonist sündmustele, mida nad jälgivad. Taust on tume ja ühevärviline, tuues esile tegelased ja nende emotsioonid.",
+      "actions": [
+        "Mees hoiab fotokaamerat",
+        "Mõlemad vaatavad paremale",
+        "Mõlemad ilmutavad üllatust või ehmumust",
+        "Naine avab suud"
+      ],
+      "keywords": [
+        "mustvalge",
+        "üllatus",
+        "ehmatus",
+        "fotokaamera",
+        "retro",
+        "siseinterjöör",
+        "portree",
+        "jälgimine",
+        "vanaaegne",
+        "emotsioonid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "fotokaamera",
+        "sall",
+        "triibuline pintsak",
+        "kootud jakk",
+        "ruuduline pluus",
+        "kõrvarõngad"
+      ],
+      "colorcodes": [
+        "mustvalge"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (heledate juustega)",
+        "Naine (tumedate juustega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naine avab piltide järjestuses järjest enam suud, väljendades suurenevat üllatust või ehmumust.",
+        "Mehe näoilme ja kaamera hoiak jäävad suures osas muutumatuks."
+      ],
+      "snr": "051",
+      "ajad": [
+        "528.640",
+        "529.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab nelja tegelast mustvalges lavastuses või filmi kaadris, mis on lavastatud meenutama väliskeskkonda, tõenäoliselt tänavat või hoovi. Taustal on näha telliskivimüüritist imiteerivaid detaile ja tumedaid laiali puistatud elemente, mis meenutavad lehti või prahti. Paremast servast ulatub pildile suur tume püstine pind, mis võib olla osa lavastuse rekvisiidist või seintest. Kõik neli tegelast vaatavad tähelepanelikult ja ilmselt üllatunult või uudishimulikult kaadrist paremal asuva objekti või sündmuse suunas. Nende riietus on retro- või teatraalse stiiliga. Valgus on stseenile suunatud ja ühtlane, mis viitab kontrollitud lavakeskkonnale.",
+      "actions": [
+        "Mehed ja naised vaatavad paremale kaadrist välja",
+        "Mees vasakul hoiab käes kaamerat meenutavat eset",
+        "Tüdruk hoiab süles nukku või plüüslooma",
+        "Naine keskel hoiab käes pabereid ja tema suu on kergelt avatud üllatusest",
+        "Mees paremal hoiab käes pabereid ja žestikuleerib kergelt vasaku käega"
+      ],
+      "keywords": [
+        "Teatrilava",
+        "Lavastus",
+        "Mustvalge",
+        "Näitlejad",
+        "Üllatus",
+        "Uudishimu",
+        "Retro-stiil",
+        "Rekvisiidid",
+        "Kostüümid",
+        "Grupiportree"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kaamera (vanamoeline)",
+        "Nukk",
+        "Paberid",
+        "Kaabu",
+        "Vest",
+        "Kikilips",
+        "Kleidid (ruuduline, must-valge)",
+        "Triibuline särk",
+        "Sall",
+        "Müüritise imitatsioon",
+        "Lavarekvisiit (must sein)"
+      ],
+      "colorcodes": [],
+      "texts": [],
+      "persons": [
+        "Mees pikkade heledate juustega (vasakul)",
+        "Tüdruk ruudulises kleidis",
+        "Naine tumedate juustega must-valges kleidis",
+        "Mees kaabuga (paremal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe vasaku käe asend paremal pool: Esimesel pildil on käsi veidi avatum ja kõrgemal, teisel pildil on käsi kergelt allapoole suunatud ja sõrmed on veidi koondunumad.",
+        "Tüdruku pea kalle: Esimesel pildil tundub tüdruku pea olevat kergelt rohkem paremale kaldu kui teisel pildil."
+      ],
+      "snr": "052",
+      "ajad": [
+        "529.840",
+        "531.040"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha kaks noort naist, kes on ilmselt siseruumis ja suhtlevad kellegagi kaadrist väljaspool. Vasakpoolne naine naeratab soojalt ja vaatab paremale, tema juuksed on lühemad, bob-stiilis, tukk ees. Tal on seljas heledast materjalist kampsun ja selle all ruuduline pluus. Parempoolne naine on samuti bob-soenguga ja vaatab paremale, tema suu on kergelt avatud, justkui oleks ta midagi ütlemas või reaktsiooni näitamas. Temal on seljas mustvalge pluus. Taust on udune ja tume, mis annab fookuse naistele. Kogu stseen on mustvalge.",
+      "actions": [
+        "Vasakpoolne naine naeratab",
+        "Vasakpoolne naine vaatab paremale",
+        "Parempoolne naine räägib või reageerib (suu avatud)",
+        "Parempoolne naine vaatab paremale",
+        "Mõlemad naised suhtlevad"
+      ],
+      "keywords": [
+        "noored naised",
+        "vestlus",
+        "naeratus",
+        "emotsioonid",
+        "mustvalge",
+        "siseruum",
+        "suhtlus",
+        "bob-soeng",
+        "sõprus",
+        "rõõm"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "kampsun",
+        "ruuduline pluus",
+        "mustvalge pluus",
+        "juuksed",
+        "näod"
+      ],
+      "colorcodes": [
+        "mustvalge pilt",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "kaks noort naist"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pildid on identsed ehk neil puuduvad erinevused."
+      ],
+      "snr": "053",
+      "ajad": [
+        "531.040",
+        "531.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab nelja inimest, kes on riietatud retro- või vintage-stiilis, meenutades mustvalget filmi või teatrilavastust. Nad seisavad rühmas ja vaatavad kõik ühes suunas, paremale kaadri servast välja või suure tumeda objekti poole, mis hõlmab olulise osa paremast kaadrist. Nende näoilmed ja kehahoiakud viitavad üllatusele, uudishimule või kergele ehmatusele, suud on kohati avatud ja silmad laiad. Tagaplaanilt on näha stiliseeritud lavakujundust, mis meenutab maastikku või teed ning väikest tellistest ehitist, mis võiks olla korsten või osa majast. Üldine meeleolu on müstiline ja dramaatiline.",
+      "actions": [
+        "Neli inimest vaatavad paremale kaadri serva poole",
+        "Vasakpoolseim mees hoiab käes retro-stiilis fotoaparaati",
+        "Teine vasakult, tüdruk, hoiab kaisunukku või plüüsist mänguasja",
+        "Kaks parempoolsemat inimest hoiavad käes raamatuid või märkmikke",
+        "Üks naine on suu lahti, näoilmega, mis väljendab šokki või suurt üllatust"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Teatrilava",
+        "Stiilne",
+        "Lavastus",
+        "Üllatus",
+        "Uudishimu",
+        "Vintage",
+        "Retro",
+        "Fotograafia",
+        "Nukk",
+        "Raamat",
+        "Müstika",
+        "Dramaatiline"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Fotoaparaat",
+        "Nukk",
+        "Raamat",
+        "Märkmik",
+        "Kaabu",
+        "Triibuline jope",
+        "Ruuduline kleit",
+        "Kaelarätt",
+        "Telliskivi ehitis",
+        "Lavakujundus",
+        "Tume objekt"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (pikkade heledate juustega, triibulise jakiga)",
+        "Tüdruk (ruudulise kleidiga, nukuga)",
+        "Naine (musta ja valge kleidiga, avatud suuga)",
+        "Mees (kaabu ja ruudulise vestiga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "054",
+      "ajad": [
+        "531.720",
+        "532.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab viit inimest mustvalges kunstilises keskkonnas, mis sarnaneb teatri- või filmivõttepaigaga. Neli inimest – kaks meest ja kaks naist – vaatavad alguses tähelepanelikult ja üllatunult kaadrist paremale suunda. Üks mees hoiab kaamerat, naine hoiab lillekimpu ja teine naine pabereid. Nende riietus, sealhulgas triibuline jakk, ruuduline kleit, mustvalge pluus ja vestiga kostüüm, viitab vintage stiilile, võimalik, et 1920ndatele või 1930ndatele. Seejärel ilmub paremalt kaadrisse viies isik, kiilakas mees, kandes ruudulist ülikonda. Tema saabumine paneb algse grupi oma tähelepanu ja üllatunud pilgud temale pöörama. Ta kõnnib neile lähemale. Tausta moodustavad stiliseeritud arhitektuurielemendid, luues dramaatilise ja mõnevõrra abstraktse atmosfääri.",
+      "actions": [
+        "Vaatamine",
+        "Üllatumine",
+        "Kõndimine",
+        "Pildistamine",
+        "Käe tõstmine/osutamine",
+        "Hoidmine"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Stiil",
+        "Vintage",
+        "Teater",
+        "Filmivõte",
+        "Üllatus",
+        "Grupp",
+        "Sisenemine",
+        "Kostüüm",
+        "Lavastus",
+        "Mono"
+      ],
+      "shot_type": "medium-long",
+      "placement": "indoor",
+      "objects": [
+        "Kaamera",
+        "Lillekimp",
+        "Paberid",
+        "Kaabu",
+        "Jakk",
+        "Vest",
+        "Kleid",
+        "Seelik",
+        "Püksid",
+        "Pluus",
+        "Kingad",
+        "Sein",
+        "Müürilaadne struktuur"
+      ],
+      "colorcodes": [
+        "Monokroomne pilt, halltoonid."
+      ],
+      "texts": [],
+      "persons": [
+        "Mees kaameraga",
+        "Naine lilledega",
+        "Naine paberitega",
+        "Mees kaabu ja vestiga",
+        "Kiilakas mees ruudulises ülikonnas"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisele pildile on sisenenud viies isik – kiilakas mees ruudulises ülikonnas, kes kõnnib teiste poole.",
+        "Mees kaameraga on teisel pildil oma kätt kõrgemale tõstnud, justkui osutaks või reageeriks saabujale.",
+        "Esimesel pildil on näha nelja inimest, teisel pildil on näha viit inimest.",
+        "Algse grupi tähelepanu on pööratud uuele saabujale.",
+        "Mees kaabu ja vestiga on teisel pildil osaliselt varjatud uue saabunud isiku poolt."
+      ],
+      "snr": "056",
+      "ajad": [
+        "533.560",
+        "535.120"
+      ]
+    },
+    {
+      "explanation": "Stseen on esitatud mustvalgena, andes sellele klassikalise, võib-olla vintaažse või filminoaarile iseloomuliku esteetika. Kaadris on kaks inimest, mees ja naine, siseruumis. Naine, kellel on lühikesed tumedad juuksed ja seljas triibuline topp, vaatab šokeeritult või üllatunult, suu lahti, hoides käes mitut paberit või fotot. Mees on riietatud heledasse särki, ruudulisse vesti, ruudulisse kikilipsu ja kaabusse. Ta on keskendunud millegile oma kätes – väikesele raamatule või kaardipakile. Tema näoilme on keskendunud või kergelt uudishimulik, mis on teravas kontrastis naise selge hämmastusega. Ta on tegemas liigutust, millega tundub ta käes olevaid esemeid korrastavat või uurivat. Ta näib hetkeks ka kerges poosis, kus nagu kerge muie üle näo käib. Ta on suunaga vasakule. Ta on suhteliselt pika sirge ninaga ja tema näojooned on teravad. Ta on heledama näonahaga, kui naine. Tagaplaan on tume ja ähmane, viidates hämarale interjöörile. Üldine meeleolu viitab sündmuse arengule, kus üks tegelane reageerib tugevalt ja teine on silmnähtavalt hõivatud või ehk seotud millegi paljastamisega.",
+      "actions": [
+        "Naine vaatab üllatunult/šokeeritult.",
+        "Naine hoiab käes pabereid/fotosid.",
+        "Mees vaatab alla, tegeledes oma käes olevate väikeste esemetega.",
+        "Mees liigutab oma käsi, justkui korraldaks kaarte."
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Vintaaž",
+        "Retro",
+        "Üllatunud",
+        "Šokeeritud",
+        "Keskendunud",
+        "Kaabu",
+        "Vest",
+        "Kikilips",
+        "Paberid",
+        "Siseruum",
+        "Klassikaline",
+        "Detektiivistiilis"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Paberid",
+        "Fotod",
+        "Väike raamat",
+        "Kaardid",
+        "Kaabu",
+        "Vest",
+        "Kikilips",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#C0C0C0",
+        "#404040",
+        "#202020",
+        "#FFFFFF",
+        "#0A0A0A"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe pea asend muutub veidi, vaadates teisel pildil rohkem alla.",
+        "Mehe käte asend on veidi erinev, justkui ta segaks või korraldaks väikeseid esemeid.",
+        "Naise pea asend on samuti veidi muutunud, vaadates teisel pildil rohkem alla ja vasakule.",
+        "Kaamera nurk on vahetunud, teine pilt on madalama nurgaga"
+      ],
+      "snr": "057",
+      "ajad": [
+        "535.120",
+        "539.040"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja koosneb erinevatest kaadritest, mis kokku moodustavad visuaalselt rikka ja ajastutruu narratiivi, mis meenutab varajasi filme või teatrietendusi. See esitab erinevaid olukordi: ühelt poolt dramaatilise stseeni kolme tegelase vahel, kes on paigutatud lihtsale, stiliseeritud lavale või interjööri, kus üks mees pöörab selja ja naine reageerib üllatunult teisele mehele, kes uurib pabereid. Teisalt on näha rahvarohket kogunemist sildi 'CHEMINEE' all, kus õhus hõljub suits või udu, luues ootava või süngema atmosfääri. Kolmandaks on kujutatud intiimset ja romantilist hetke paari vahel pimedas toas sohval, kus aknast langev valgus loob tugevaid varjude ja valguse kontraste. Kogu stseen on mustvalges toonis, rõhutades karakterite emotsioone ja dramaatilisi olukordi.",
+      "actions": [
+        "Mehed ja naine suhtlevad",
+        "Naine reageerib üllatunult",
+        "Mees uurib pabereid/kaarte",
+        "Mees pöörab selja",
+        "Inimesed on kogunenud",
+        "Inimesed vaatavad silti",
+        "Õhus on suits/udu",
+        "Paar embab",
+        "Päike/valgus paistab aknast sisse"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Ajalooline",
+        "Teater",
+        "Draama",
+        "Intiimne",
+        "Kogunemine",
+        "Suitsune",
+        "Silt",
+        "Suhted",
+        "Embus",
+        "Ajastu",
+        "Noir"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mütsid",
+        "Ülikonnad",
+        "Vestid",
+        "Lipsud",
+        "Kleidid",
+        "Paberid/kaardid",
+        "Silt",
+        "Suits/udu",
+        "Sohva",
+        "Aken",
+        "Seinad",
+        "Varjud"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [
+        "CHEMINEE"
+      ],
+      "persons": [
+        "Mehed",
+        "Naised",
+        "Rahvahulk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevad tegevused kaadrites: üksikute tegelaste suhtlemine, rahvahulga kogunemine ja paari intiimne embus.",
+        "Erinev inimeste arv kaadrites: kolm tegelast, suur rahvahulk ja kaks tegelast.",
+        "Erinevad keskkonnad: stiliseeritud interjöör/lavastseen, avalik kogunemiskoht sildiga ja pime magamistuba/elutuba.",
+        "Erinev kaadri fookus ja kompositsioon: lähivõtted tegelaste interaktsioonidest, üldplaan rahvahulga näitamiseks ja intiimne plaan paari jaoks.",
+        "Erinev valguskujundus ja atmosfäär: dramaatiline ja otsene valgus, udune ja sume valgus ning hämar ja kontrastne valgus."
+      ],
+      "snr": "058",
+      "ajad": [
+        "539.040",
+        "604.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab intiimset hetke kahe inimese vahel mustvalges. Kaadri fookuses on blondide juustega naine, kelle nägu on osaliselt või täielikult varjatud, ja mees, kes kannab nahkjakki. Esimesel hetkel näib paar olevat suudluses või just sellest väljumas, olles teineteisele väga lähedal. Mehe silmad on suletud või allapoole suunatud, rõhutades hetke intiimsust. Järgnevatel hetkedel asetab naine oma käe mehe kaelale või lõuale, samal ajal kui mees vaatab talle sügava, mõtliku ja tõsise pilguga. Stseenis valitseb melanhoolne või draamatiline õhkkond, mida võimendab mustvalge visuaal. Tagaplaan on udune, rõhutades tegelaste vahelist interaktsiooni.",
+      "actions": [
+        "Suudlemine (implitsiitne)",
+        "Üksteisele väga lähedal olemine",
+        "Käe asetamine teise kaelale/lõuale",
+        "Üksteisele otsa vaatamine",
+        "Sügav ja mõtlik pilk"
+      ],
+      "keywords": [
+        "Intiimsus",
+        "Romantika",
+        "Suudlus",
+        "Puudutus",
+        "Lähedus",
+        "Emotsioon",
+        "Mustvalge",
+        "Paar",
+        "Armastus",
+        "Draama",
+        "Melanhoolia"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Nahkjakk",
+        "Juuksed",
+        "Käsi"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on paar suudluses või vahetult enne/pärast seda, naise nägu on varjatud ja mehe silmad on suletud või allapoole suunatud.",
+        "Teisel ja kolmandal pildil on naine asetanud oma käe mehe kaelale/lõuale ning mees vaatab naisele tõsise või mõtliku pilguga, silmad avatud.",
+        "Mehe näoilme muutub esimesest pildist (suletud silmad, intiimne hetk) teise ja kolmanda pildini (avatud silmad, sügav pilk, tõsine ilme).",
+        "Teise ja kolmanda pildi vahel on vaid minimaalsed, peened muutused mehe näoilmes, mis viitavad pilgu või mõtte kergele nihkele."
+      ],
+      "snr": "059",
+      "ajad": [
+        "604.320",
+        "607.920"
+      ]
+    },
+    {
+      "explanation": "Tume, tekstuuriga taust, mis meenutab tahvlit või krobeliselt värvitud pinda. Taustal on näha abstraktsed valged või helehallid pintslitõmbed, eriti servades ja nurkades. Keskel on silmapaistvalt esitatud kaks tekstiplokki. Ülemine tekst on dekoratiivse, vanaaegse stiilis fondiga, samal ajal kui alumine tekst on lihtsama ja moodsama sans-serif fondiga. Mõlemad tekstid väljendavad abieluettepanekut, pöördudes erinevate nimede poole vastavalt eesti ja inglise keeles.",
+      "actions": [],
+      "keywords": [
+        "Armastus",
+        "abieluettepanek",
+        "tekst",
+        "taust",
+        "tume",
+        "hall",
+        "romantiline",
+        "kiri",
+        "fondid",
+        "tahvel",
+        "sõnum",
+        "Armuella",
+        "Pashionella"
+      ],
+      "shot_type": "textbackground",
+      "placement": "not clear",
+      "objects": [
+        "tekst",
+        "taustapilt",
+        "pintslitõmbed"
+      ],
+      "colorcodes": [
+        "#333333",
+        "#EEEEEE"
+      ],
+      "texts": [
+        "Armuella, ma armastan sind! Ras tuled mulle naiseks?",
+        "Pashionella, I love You! Will you marry me?"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": 75,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "060",
+      "ajad": [
+        "607.920",
+        "610.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget lähivaadet kahest inimesest, mehest ja naisest, kes on sügavas ja emotsionaalses hetkes. Pildi esiplaanil on uduselt näha naise blondid juuksed. Tema käsi sirutub mehe poole, puudutades hellalt tema kaela või nägu. Mees, kellel on seljas must nahkjakk ning tumedad, tahapoole kammitud juuksed, vaatab intensiivselt naise poole. Tema näol on tõsine ja mõtlik ilme. Kolmandal pildil on näha, kuidas mees haarab oma käega naise käest kinni, justkui süvendades nendevahelist kontakti või vastates tema puudutusele. Taust on udune, hoides fookuse täielikult tegelastevahelisel intiimsel suhtlusel. Valgus loob stseenis tugevaid kontraste, rõhutades näojooni ja emotsioone.",
+      "actions": [
+        "Naine puudutab mehe kaela/nägu",
+        "Mees vaatab naist",
+        "Mees haarab naise käest kinni"
+      ],
+      "keywords": [
+        "Lähivõte",
+        "Mustvalge",
+        "Intiimne hetk",
+        "Emotsionaalne",
+        "Suhtlus",
+        "Mees ja naine",
+        "Nahkjakk",
+        "Käte puudutus",
+        "Mõtlik pilk",
+        "Draama"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Nahkjakk",
+        "Käsi",
+        "Juuksed"
+      ],
+      "colorcodes": [],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise käe asend mehe kaelal muutub pisut",
+        "Kolmandal pildil on näha, kuidas mees haarab oma käega naise käest kinni, mis eelmistel piltidel puudub"
+      ],
+      "snr": "061",
+      "ajad": [
+        "610.840",
+        "612.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab intiimset mustvalget momenti blondi naise ja mehe vahel. Naine, kelle heledad lainelised juuksed raamivad ta nägu, on kaadri vasakul poolel ja vaatab otse mehele, kes on temast paremal, seljaga kaamera poole. Naise näol on õrn, veidi salapärane naeratus ja tema pilk on sügavalt fookuses mehel. Ta kannab heledat, õlgadeta riietust, mille rinnapiirkonda kaunistavad tumedad, sulgedega sarnased detailid, ning tal on kõrvas diskreetne kõrvarõngas. Mees kannab tumedat nahktagi ja tema pikavõitu tumedad juuksed on näha. Taust on udune ja tume, mis viitab siseruumile ja loob intiimse, pehme valgusega atmosfääri. Kaadri fookus on naise näol ja nendevahelisel dünaamikal, andes edasi tunde lähedusest ja suhtlusest.",
+      "actions": [
+        "Naine vaatab mehele otsa",
+        "Naine naeratab",
+        "Mees istub"
+      ],
+      "keywords": [
+        "Intiimne",
+        "Romantiline",
+        "Mustvalge",
+        "Sensuaalne",
+        "Lähedus",
+        "Pilk",
+        "Naeratus",
+        "Paar",
+        "Õrnus",
+        "Emotsioon",
+        "Siseruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Nahktagi",
+        "Kõrvarõngas",
+        "Hele kleit/topp",
+        "Tumeda sulgedega kaunistus"
+      ],
+      "colorcodes": [
+        "Mustvalge"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise naeratus muutub kaadrite vahel minimaalselt, muutudes veidi avatumaks või sügavamaks.",
+        "Naise pilk ja näoilme nüansid varieeruvad pisut, andes edasi erinevaid emotsionaalseid varjundeid.",
+        "Naise rinnapiirkonnal olevate tumedate dekoratiivdetailide asetus või kuju näib pisut muutuvat."
+      ],
+      "snr": "062",
+      "ajad": [
+        "612.680",
+        "615.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, meest ja naist, istumas vastamisi pimedas ja karmijoonelises ruumis. Naine on blondide juustega ja paistab kandvat riietust, mis jätab õlad paljaks, mees kannab tumedat nahktagi. Nad on teineteise poole pööratud, pilgud kohtumas, mis viitab intensiivsele vestlusele või sügavale sidemele. Ruum on dramaatiliselt valgustatud mustvalges toonis, tugeva valgusega vasakpoolsest aknast ja teravate varjudega, näiteks suure ristkülikukujulise varjuga paremal seinal. Taustal, nende taga ja kõrgemal, on väike nelinurkne ava, mis esialgu näitab udust pilti, kus paistavad teised inimesed, kuid hiljem muutub see telerimüraks (staatiliseks lumeks). See viitab, et ava on tegelikult monitor või teleriekraan. Üldine õhkkond on intiimne, salapärane ja melanhoolne, rõhutades tegelaste vahelist sügavat ühendust ja samal ajal tagaplaanil toimuvat muutust ekraanil.",
+      "actions": [
+        "Inimesed istuvad vastamisi",
+        "Inimesed vaatavad teineteisele otsa",
+        "Ekraanil kuvatakse pilti",
+        "Ekraanil kuvatakse telerimüra/staatilist lund"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Intiimne",
+        "Draamaline",
+        "Salapärane",
+        "Telerimüra",
+        "Vestlus",
+        "Siseruum",
+        "Vari",
+        "Kontrast",
+        "Melanhoolia"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Mees",
+        "Diivan/iste",
+        "Aken",
+        "Seinad",
+        "Teler/monitor",
+        "Varjud"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees",
+        "Teised inimesed (ekstra ekraanil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Tagaplaanil oleva ekraani sisu muutub: esialgu näitab see udust pilti inimestest, hiljem aga ainult telerimüra ehk staatilist lund."
+      ],
+      "snr": "063",
+      "ajad": [
+        "615.680",
+        "619.800"
+      ]
+    },
+    {
+      "explanation": "Stseen on esitatud mustvalgena, andes edasi ajatu ja ehk isegi filmi-noiri hõngu. Keskmes on noor, elegantne naine, kellel on heledad silmad, pikad ripsmed ja täidlased huuled. Ühes kaadris vaatab ta otse vaatajasse intensiivse pilguga, kandes samal ajal uhkeid kõrvarõngaid, millest üks meenutab lõpmatuse sümbolit. Teises osas stseenist on teda näha profiilis, seismas seltskonnas, samal ajal kui mütsiga fotograaf jäädvustab hetke vintage-stiilis kaameraga. Taustal paistavad suured ruuduaknad või valgusallikad, mis viitavad sisekeskkonnale. Stseenis on ka käsi, mis sirutub välja uduse ja ebamäärase taustaga ruumi, sümboliseerides võimalikku igatsust, püüdlust või ühendust. Üldmulje on stiilne ja salapärane, vaheldudes dramaatilistest lähivõtetest sündmuskoha tabamiseni.",
+      "actions": [
+        "Vaatab otse",
+        "Seisab",
+        "Pildistab",
+        "Sirutab kätt"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Elegants",
+        "Salapärasus",
+        "Naine",
+        "Fotograaf",
+        "Portree",
+        "Lähivõte",
+        "Seltskond",
+        "Retro",
+        "Käsi",
+        "Igatsus",
+        "Lõpmatuse sümbol"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kõrvarõngas",
+        "Kaamera",
+        "Müts",
+        "Toolid",
+        "Aken/valguspaneel"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor naine",
+        "Mees (fotograaf)",
+        "Teine mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kaadrite vahel varieeruvad fookuspunktid: naine ise, seltskond fotograafiga ning üksik käsi.",
+        "Piltide kompositsioon ja kaadritüüp on erinevad (äärmuslik lähivõte näost, keskmine võte sündmusest, keskmine lähivõte käest).",
+        "Taustad on erinevad: must ja abstraktne, detailne siseruum akendega ning udune ebamäärane heledus.",
+        "Inimeste arv ja nende esitlus varieerub ühest fookustatud isikust mitme inimeseni.",
+        "Iga kaader toob esile erineva emotsiooni või sümboolika."
+      ],
+      "snr": "064",
+      "ajad": [
+        "619.800",
+        "621.960"
+      ]
+    },
+    {
+      "explanation": "Stseen avaneb mustvalgena, näidates avalikku ja pidulikku hetke, mis areneb edasi intiimseks ja intensiivseks kahekõneks. Kaadrite keskel seisab esimesel kahel pildil särav blond naine, ilmselt avaliku elu tegelane, hoides käes auhinnatrofeed, mis meenutab Oscarit. Ta naeratab elegantses, tumedas, õlapaelteta kleidis, mille ülaosa on kaunistatud roosi- või volangitaoliste detailidega. Tema ümber hõljub pehme, udune kuma, mis annab stseenile unistava ja glamuurse õhustiku, samal ajal kui taustaks on abstraktne, maalitud sein. Vasakult pildistab teda osaliselt näha olev fotograaf mütsiga ning paremalt jälgib teine naine triibulises särgis (tagantvaates). Seejärel muutub fookus järsult. Kolmas kaader toob esile lähivõtte kahest inimesest, kus mees vaatab intensiivse pilguga teist blondi, udustatud juustega inimest, kelle selg on kaamera poole. See hetk on kontrastselt privaatne ja sügav, eraldatud esimese kahe kaadri avalikust sädelusest. Taust on selles kaadris eredalt ülevalgustatud, rõhutades inimeste vahelist pinget ja intiimsust. Kogu stseen on stiliseeritud mustvalge esteetikaga, mis annab sellele ajatu ja dramaatilise tunde.",
+      "actions": [
+        "Naeratamine",
+        "Auhinna hoidmine",
+        "Pildistamine",
+        "Vaatamine/Jälgimine",
+        "Intensiivne pilk",
+        "Intiimne suhtlus"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Glamuur",
+        "Auhinnatseremoonia",
+        "Kuulsus",
+        "Intiimne",
+        "Fotograafia",
+        "Avalik sündmus",
+        "Privaatne hetk",
+        "Tähistamine",
+        "Intensiivne",
+        "Draama",
+        "Portree"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Auhinnatrofee",
+        "Kaamera",
+        "Naise kleit",
+        "Triibuline topp",
+        "Müts",
+        "Abstraktne seinataust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#CCCCCC"
+      ],
+      "texts": [],
+      "persons": [
+        "Blond naine auhinnaga",
+        "Fotograaf mütsiga",
+        "Naine triibulises särgis",
+        "Mees lähivõttes",
+        "Teine naine lähivõttes (udustatud)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kaadrite suurused ja fookus erinevad: Esimesed kaks kaadrit on laiemad, näidates tervet sündmust, samas kui kolmas on väga tihe lähivõte inimestest.",
+        "Stseenide kontekst erineb: Esimesed kaks kaadrit kujutavad avalikku, glamuurset sündmust, kolmas aga privaatset ja intiimset hetke.",
+        "Valgustus varieerub: Avalikul stseenil on dramaatiline kohtvalgustus uduse efektiga, intiimsel stseenil aga väga hele ja kohati ülevalgustatud taust.",
+        "Väikesed muutused kehahoiakus: Esimese ja teise kaadri vahel on märgata peamisel naisel ja taustal olevatel inimestel väikeseid liigutusi ja asendimuutusi."
+      ],
+      "snr": "066",
+      "ajad": [
+        "624.960",
+        "626.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab dramaatilist ja intensiivset mustvalget interaktsiooni mehe ja naise vahel, misjärel toimub visuaalne nihe naise heledale ja ülevalgustatud lähivõttele. Esimesed kaadrid näitavad meest nahktagis, kes vaatab sügavalt naise poole, kelle nägu on udune. Naine sirutab oma käe mehe kaela või näo poole, mis viitab intiimsele või pingelisele hetkele. Seejärel suunatakse fookus eredalt helendavale ja teravale lähivõttele naise näost, mis võib viidata emotsionaalsele murdepunktile, mälestusele või teisele reaalsuse tasandile. Üldine meeleolu on salapärane, emotsionaalne ja tundeküllane.",
+      "actions": [
+        "Mees ja naine vaatavad teineteisele otsa",
+        "Naine sirutab käe mehe poole",
+        "Naise nägu helendub ja fookusesse tuleb lähivõte temast"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Dramaatiline",
+        "Intensiivne",
+        "Emotsionaalne",
+        "Lähivõte",
+        "Interaktsioon",
+        "Helendus",
+        "Nahktagi",
+        "Pingeline",
+        "Salapärane"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Nahktagi"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimese ja teise pildi vahel muutub naise käe asend: esimesel on käsi madalamal, teisel sirutub see mehe kaela või näo poole.",
+        "Kolmandal pildil on stseenis suur muutus valgustuses ja kompositsioonis. Esimesed kaks kaadrit on tumedamates mustvalgetes toonides ja näitavad kahe isiku interaktsiooni, kus naise nägu on hägune. Kolmas kaader on aga eredalt ülevalgustatud ja terav lähivõte naise näost, mis helendub.",
+        "Fookus muutub: Esimeses kahes kaadris on mees teravustatud, naine on udune. Kolmandas kaadris on naine teravustatud ja täielikult fookuses."
+      ],
+      "snr": "067",
+      "ajad": [
+        "626.400",
+        "627.960"
+      ]
+    },
+    {
+      "explanation": "Stseen algab noore naise intensiivse lähivõttega, mis seejärel nihkub üle staatilisest mürast täidetud teleriekraanile. Naine, kellel on heledad juuksed, suured ekspressiivsed silmad ja pikad ripsmed, vaatab otse kaamerasse sügava ja mõtliku pilguga. Tema nägu on esiplaanil, esile tõstetud fookustatud valgusega, mis loob tema näo paremale poolele (vaataja seisukohast) dramaatilised varjud. Tal on seljas tume riietus ja tema paremas kõrvas on näha elegantset kõrvarõngast. Kogu stseen on mustvalge, mis annab sellele ajatu, melanhoolse ja retrohõngu. Seejärel suunatakse fookus väikesele ruudulisele ekraanile, mis on asetatud lihtsa tumeda raami või seina sisse. Ekraan on täidetud klassikalise telerimüra ehk lumega, mis sümboliseerib signaali puudumist, häireid või katkestust. Kaadrid teleriekraanist muutuvad järjest detailsemaks, algselt on näha ka ekraani ümbritsevat raami ja tumedat tausta, hiljem on fookus täielikult ekraani müral, mis täidab peaaegu kogu pildi. Üldine atmosfäär on salapärane, mõtlik ja ehk isegi veidi häiriv, luues kontrasti inimliku pilgu intensiivsuse ja meediast tuleneva staatilise tühjuse vahel.",
+      "actions": [
+        "Vaatamine",
+        "Edastamine (teleri müra)",
+        "Keskendumine"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Naine",
+        "Teler",
+        "Staatiline müra",
+        "Lähivõte",
+        "Melanhoolne",
+        "Salapärane",
+        "Intensiivne pilk",
+        "Meedia",
+        "Häire"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Teleriekraan",
+        "Kõrvarõngas",
+        "Raam (teleri ümber)"
+      ],
+      "colorcodes": [
+        "must",
+        "valge",
+        "hall"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on inimene (naine), hilisematel piltidel on teleriekraan.",
+        "Teleriekraani võttenurk muutub laiemalt lähivõttele, kus müra täidab suurema osa kaadrist."
+      ],
+      "snr": "068",
+      "ajad": [
+        "627.960",
+        "629.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, meest ja naist, siseruumis, mille taust on kohati tööstuslik või abstraktne, kohati aga ühtlaselt tume ja sügav. Mees, kellel on seljas ruuduline särk, on näha osaliselt, hoides käes väikest metallist eset, mis meenutab võtit või lukuosa. Tema ilme on mõtlik või keskendunud. Naine, kellel on blondid juuksed krunnis, ilmub stseenis kurbuse, mõtiskluse või väsimuse märgiga, varjates oma nägu käega. Hiljem on ta näha hoidmas raamatut pealkirjaga \"BERTO BRECHT MEMOARIUM\" oma näo ees, justkui peitudes selle taha või süvenedes selle sisusse. Mees on samuti nähtav kolmandas kaadris, seljaga vaataja poole, kiilaka peaga, vastamisi naisega, mis viitab nende vahelisele suhtlusele või pingele. Üldine meeleolu on nukker, sügavmõtteline ja emotsionaalne, mida rõhutab mustvalge filmitoon ja naise keeles väljenduvad tunded.",
+      "actions": [
+        "Mees hoiab väikest metallist eset",
+        "Naine varjab oma nägu käega",
+        "Naine hoiab raamatut oma näo ees",
+        "Kaks inimest on omavahel suunatud"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Emotsionaalne",
+        "Mõtlik",
+        "Siseruum",
+        "Kahekesi",
+        "Draama",
+        "Lugemine",
+        "Interaktsioon"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Ruuduline särk",
+        "Metallese",
+        "Naisepoolne käsi",
+        "Raamat",
+        "Tume rõivastus",
+        "Tööstuslikud struktuurid (taustal)",
+        "Kiilakas pea (mehel)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "BERTO",
+        "BRECHT",
+        "MEMOARIUM"
+      ],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses kaadris on mees detailsemalt näha ja hoiab kätes eset, samal ajal kui taustal on näha tööstuslikke või kunstlikke struktuure.",
+        "Teises kaadris on naine emotsionaalselt varjamas oma nägu käega ning taust on tume ja udune.",
+        "Kolmandas kaadris on naine hoidmas raamatut näo ees ja mees on näha tagantpoolt kiilakana, istudes naise vastas."
+      ],
+      "snr": "069",
+      "ajad": [
+        "629.400",
+        "640.480"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud intiimset ja pingelist hetke kiilaspäise mehe ja heledapäise naise vahel, mis toimub hämaras ja suitsuses siseruumis. Mustvalge visuaal ja uduvines õhk loovad dramaatilise ja salapärase meeleolu. Mees, riietatud tumedasse mantlisse, on süvenenud naise tegevusse, tema käed toetuvad õrnalt naise kätele, mis hoiavad raamatut või dokumente. Mehe ilme on tõsine ja keskendunud, vihjates sügavale vestlusele, lohutusele või olulisele vestlusele. Kaadrite järjestus näitab mehe liigutust naise poole ja seejärel tema käte hoidmist ning pingsat naise vaatlemist, rõhutades emotsionaalset sidet ja olukorra tõsidust. Naine, kelle nägu ei ole näha, tundub olevat mehe tähelepanu keskmes, tema heledad juuksed on vastu tumedat tausta.",
+      "actions": [
+        "Mees sirutab käe naise poole",
+        "Mees asetab käed naise käte peale",
+        "Naine hoiab raamatut või pabereid",
+        "Mees vaatab naist intensiivselt",
+        "Naine kuulab või vaatab meest"
+      ],
+      "keywords": [
+        "Intiimne hetk",
+        "Draama",
+        "Salapära",
+        "Hämarus",
+        "Suits",
+        "Mustvalge",
+        "Tõsine",
+        "Lohutus",
+        "Ühendus",
+        "Vestlus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kiilaspäine mees",
+        "Heledapäine naine",
+        "Raamat",
+        "Paberid",
+        "Tume mantel",
+        "Suitsune õhk",
+        "Hämar taust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080",
+        "#404040",
+        "#A0A0A0"
+      ],
+      "texts": [],
+      "persons": [
+        "Kiilaspäine mees",
+        "Heledapäine naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil sirutab mees käe naise poole, kes hoiab raamatut/pabereid. Suits on kõige tihedam.",
+        "Teisel pildil on mehe käed õrnalt naise käte peal, kes endiselt raamatut/pabereid hoiab. Suits on veidi hajunud.",
+        "Kolmandal pildil vaatab mees intensiivselt naisele, hoides endiselt tema käsi. Raamat/paberid on vähem märgatavad ja suits tundub taustal hajuvam."
+      ],
+      "snr": "070",
+      "ajad": [
+        "640.480",
+        "646.800"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja kujutab kahte inimest intiimses ja tumedas ruumis. Kaader on suunatud blondi juustega naisele, kes istub või toetub padjale, ja kiilale mehele, kes on nähtav seljaga ning istub naise vastas. Naise pilk on suunatud mehele. Esimesel hetkel on naine mõtlik ja veidi tõsine, tema silmad on langetatud ja nägu on nukrameelne. Järgnevalt muutub tema näoilme, ilmudes suunurka pehme naeratus, mis annab edasi soojust ja võib-olla ka kergendust või rõõmu. Mehe asend ja hoiak püsivad kogu stseeni vältel muutumatuna. Üldine atmosfäär on vaikne ja fookus on inimeste vahelisel suhtlusel ning emotsioonide peentel nüanssidel.",
+      "actions": [
+        "Naine vaatab meest",
+        "Naine naeratab",
+        "Naine muudab oma näoilmet",
+        "Mees on pööratud naise poole"
+      ],
+      "keywords": [
+        "must_be_there_man",
+        "must_be_there_woman",
+        "must_be_there_black_and_white",
+        "dialoog",
+        "emotsioonid",
+        "intiimne",
+        "vestlus",
+        "naeratus",
+        "mõtisklus",
+        "tume taust",
+        "suhtlus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Padi",
+        "Tume riie",
+        "Taust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#333333",
+        "#BBBBBB"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (blondide juustega)",
+        "Mees (kiilas, seljaga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naine näoilme muutub piltide vahel: alguses tõsine ja mõtlik, hiljem ilmub näole pehme naeratus.",
+        "Mehe asend ja hoiak jäävad piltidel samaks."
+      ],
+      "snr": "071",
+      "ajad": [
+        "646.800",
+        "658.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalges formaadis sisetingimustes kahte inimest: meest ja naist. Mees, kellel on kiilas pea ja lühike habe, kannab tumedat, ilmselt vormiriietusest inspireeritud kõrge kraega jakki, millel on näha nööpe. Ta on paigutatud kaadri paremale poole ja vaatab vasakul olevat naist, naeratades südamlikult. Mehe käsi toetub millelegi, mis viitab mugavale istumisasendile. Naine on pildistatud tagantvaates, tal on blondid juuksed madalas hobusesabas ja ta kannab tumedat riietust, mis on sarnase tooniga mehe jakiga. Naine istub või seisab mehe vastas, olles suunaga tema poole. Taust on udune ja suitsune, luues pehme ja salapärase atmosfääri. Üldine meeleolu on pingevaba ja positiivne, vihjates meeldivale vestlusele või suhtlusele kahe inimese vahel.",
+      "actions": [
+        "mees naeratab",
+        "mees vaatab naise poole",
+        "naine on istumas või seismas",
+        "naine vaatab mehe poole",
+        "suhtlemine"
+      ],
+      "keywords": [
+        "mustvalge",
+        "portree",
+        "kaks inimest",
+        "naeratus",
+        "vestlus",
+        "siseruum",
+        "udune taust",
+        "intiimne",
+        "salapärane",
+        "kõrge krae",
+        "kiilas mees",
+        "blond naine",
+        "hobusesaba"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mehe jakk",
+        "naise riietus",
+        "hobusesaba",
+        "suitsune taust",
+        "nööpidega jakk"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#333333",
+        "#666666",
+        "#999999",
+        "#CCCCCC",
+        "#E5E5E5"
+      ],
+      "texts": [],
+      "persons": [
+        "mees",
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe peaprofiil on esimeste kaadrite vahel minimaalselt muutunud, peaaegu märkamatult.",
+        "Mehe naeratus võib teises kaadris olla õrnalt laiem, aga see on väga väike erinevus."
+      ],
+      "snr": "072",
+      "ajad": [
+        "658.120",
+        "661.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab intiimset ja emotsionaalset hetke noore naise ja kiilaka mehe vahel, mis toimub hämaras, tumedate varjudega siseruumis. Alguses naeratab naine soojalt mehele, kes istub temaga vastakuti. Seejärel muutub stseen veelgi hellamaks, kui mees asetab oma käe naise ümber ja naine toetub talle, pannes pea mehe õlale. Nad istuvad diivanil, mille seljatugi ulatub üle kaadri alumise serva. Üldine atmosfäär on lohutav ja sügavalt ühendav, kuigi mustvalge värvigamma ja tugev kontrast annavad stseenile teatava melanhoolia. Valgusallikas üleval vasakul heidab ruumi dramaatilisi varje, mis rõhutavad stseeni sügavust ja atmosfääri. Stseen areneb naeratavast kontaktist südamliku embuseni, näidates partneritevahelist lähedust ja tuge.",
+      "actions": [
+        "Naine naeratab mehele",
+        "Mees asetab käe naise ümber",
+        "Naine toetub mehe vastu",
+        "Naine toetab pea mehe õlale",
+        "Mees ja naine embavad",
+        "Mees ja naine istuvad diivanil"
+      ],
+      "keywords": [
+        "Intiimsus",
+        "Hellus",
+        "Lohtus",
+        "Emotsioon",
+        "Mustvalge",
+        "Ühtekuuluvus",
+        "Toetus",
+        "Hämardus",
+        "Siseruum",
+        "Paar",
+        "Kaastunne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Mees",
+        "Diivan",
+        "Sein",
+        "Valgusallikas",
+        "Vari"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor naine",
+        "Kiilakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader näitab naise nägu ja tema naeratust, samas kui mees on temast eemale pööratud. Järgmistes kaadrites on mõlemad näoga eemal, näidates peamiselt mehe selga ja naise kukalt.",
+        "Teises ja kolmandas kaadris asetab mees käe naise ümber ja naine toetub temale, luues kallistava ja lohutava poosi. Esimeses kaadris sellist füüsilist kontakti veel ei ole.",
+        "Kaadri ulatus muutub: esimene on lähedasem võte, keskendudes naise näole, samas kui teine ja kolmas kaader on veidi laiemad, hõlmates rohkem diivanit ja üldist ruumi."
+      ],
+      "snr": "073",
+      "ajad": [
+        "661.800",
+        "676.240"
+      ]
+    },
+    {
+      "explanation": "Pildil on näha musta või väga tumedat halli tausta, mis on kaetud nähtavate pintslitõmmetega, andes sellele kareda ja tekstuurse ilme, meenutades kriiditahvlit või tumedaks värvitud pinda. Tausta servades on märgata heledamaid halli toone, mis raamivad keskel asuvat valget või helehalli teksti. Peamine tekst on eesti keeles: \"...ning nad elasid õnnelikult ja armastatult nagu tuvikesed!\", mille all on väiksemas kirjas ingliskeelne tõlge: \"... and they lived happily and lovingly like turtledoves!\". See loob muinasjutulise või romantilise lõppsõna meeleolu.",
+      "actions": [],
+      "keywords": [
+        "Muinasjutt",
+        "Romantika",
+        "Õnn",
+        "Armastus",
+        "Lõppsõna",
+        "Tekst",
+        "Tumeda taustaga",
+        "Pintslitõmbed",
+        "Must-valge",
+        "Abstraktne"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Tekst (eesti keeles)",
+        "Tekst (inglise keeles)",
+        "Tekstuuriga taust",
+        "Pintslitõmbed"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#333333",
+        "#666666",
+        "#D3D3D3",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "...ning nad elasid õnnelikult ja armastatult nagu tuvikesed!",
+        "... and they lived happily and lovingly like turtledoves!"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevusi ei ole, kõik kolm pilti on identsed."
+      ],
+      "snr": "074",
+      "ajad": [
+        "676.240",
+        "680.520"
+      ]
+    },
+    {
+      "explanation": "Stseen algab pimedas ja suduse atmosfääriga toas, kus valgusvihud loovad seinale dramaatilisi mustreid. Esimeses osas on näha kahte inimest seljaga sohval istumas. Üks neist, heledate juustega, toetub teise, kiilaka ja näotühja figuuri õlale, luues samal ajal nii intiimse kui ka süngelt müstilise meeleolu. Õhk on täidetud suitsu või uduga. Seejärel toimub kaadri vahetus musta ekraaniga, mis viitab pausile või üleminekule. Järgnevalt ilmub stseeni kolmas tegelane, kaabuga ja ruudulist särki kandev mees, kes vaatab suu lahti ja üllatunud või ehmunud ilmel. Tema taha jääb ruumi sein, millel on näha redelitaolist struktuuri ja muid tumedaid objekte. Kogu stseen on mustvalge, mis süvendab pingelist ja veidi õuduslikku atmosfääri.",
+      "actions": [
+        "istumine",
+        "toetumine",
+        "vaatamine",
+        "üllatumine",
+        "ehmumine"
+      ],
+      "keywords": [
+        "mustvalge",
+        "pime",
+        "hägune",
+        "sudu",
+        "õudne",
+        "müstiline",
+        "intiimne",
+        "üllatus",
+        "tuba",
+        "paar",
+        "näotu",
+        "kaabu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "sohva",
+        "sein",
+        "aken",
+        "valgusallikas",
+        "suits/udu",
+        "kaabu",
+        "särk",
+        "redelitaoline struktuur"
+      ],
+      "colorcodes": [],
+      "texts": [],
+      "persons": [
+        "kiilakas/näotu figuur",
+        "heledate juustega inimene",
+        "mees kaabuga"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader näitab kahte inimest seljaga sohval istumas, üks neist näotu, sünges ja suitsuses toas.",
+        "Teine kaader on täielikult must, tähistades üleminekut või pausi.",
+        "Kolmas kaader toob esile uue tegelase – üllatunud mehe kaabuga, lähivõttes, kus taustaks on redelitaoline struktuur."
+      ],
+      "snr": "075",
+      "ajad": [
+        "680.520",
+        "693.520"
+      ]
+    }
+  ]
+}

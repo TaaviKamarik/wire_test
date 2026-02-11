@@ -1,0 +1,4945 @@
+{
+  "film": [
+    "17854",
+    "17729",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Järveristi talu perenaine",
+    "a135e6c0e069be9e7e9e03136ecd95371a341723.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab ja lõppeb täiesti musta ekraaniga, mis on tühi ja detailideta. Vahepeal ilmub ekraani keskele tumehallile taustale kolm uduse servaga värvilist ringi: üks sinine, üks punane ja üks helehall või valge. Punane ring on teistest pisut suurem ja intensiivsem. Nende ringide kõrvale paremale tekivad valged, samuti pisut uduse servaga suured tähed “B M”. Lühikese hetke pärast kaovad ringid ja tähed, ning ekraan muutub taas täiesti mustaks, simuleerides animatsiooni või üleminekut.",
+      "actions": [
+        "Stseen algab mustast ekraanist",
+        "Värvilised ringid ilmuvad ekraanile",
+        "Tähed \"B M\" ilmuvad ekraanile",
+        "Värvilised ringid ja tähed kaovad ekraanilt",
+        "Ekraan muutub taas mustaks"
+      ],
+      "keywords": [
+        "Must ekraan",
+        "Logo",
+        "Animatsioon",
+        "Bränding",
+        "Üleminek",
+        "Tähed",
+        "Ringid",
+        "Värvilised punktid",
+        "Digitaalne graafika"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Sinine ring",
+        "Punane ring",
+        "Helehall ring",
+        "Täht B",
+        "Täht M"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#395E8B",
+        "#E3353D",
+        "#E0E0E0",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "B M"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene ja kolmas pilt on täiesti mustad, samas kui teisel pildil on keskel logo.",
+        "Teisel pildil on näha kolm värvilist ringi (sinine, punane, helehall) ja valged tähed \"B M\", samas kui esimene ja kolmas pilt on tühjad."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "7.440"
+      ]
+    },
+    {
+      "explanation": "Stseen on täiesti pime ja must. Ükski objekt, isik ega detail ei ole nähtav, mis viitab täielikule valguse puudumisele või tühjusele. Puudub igasugune visuaalne informatsioon.",
+      "actions": [],
+      "keywords": [
+        "pimedus",
+        "must",
+        "tühi",
+        "varjudeta",
+        "valguse puudumine",
+        "kadunud"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [],
+      "snr": "002",
+      "ajad": [
+        "7.440",
+        "11.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vana ja lagunenud lauda või kuuri sisemust, mis on täidetud õlgede või heintega, puidust prahi ja suure traktori rehviga, mis toetub vastu tagaseina. Kaadri esiplaanil on näha puidust seinakonstruktsiooni. Keskel, suure ukseava juures, seisab üks inimene, vaadates välja avatud uksest, kust avaneb vaade paljaste puudega põllule või aiale. Väljas paistab olevat pilvine päev, valgus on hele, kuid hajutatud. Lauda sisemus on hämaram, luues kontrasti väljaspool oleva valgusega. Kogu stseen annab edasi maaelu või hüljatud paiga tunde.",
+      "actions": [
+        "Inimene seisab",
+        "Inimene vaatab väljapoole",
+        "Inimene pöörab pead kergelt"
+      ],
+      "keywords": [
+        "Vana laut",
+        "lagunenud",
+        "heinad",
+        "rehv",
+        "inimene",
+        "maakoht",
+        "paljad puud",
+        "hall ilm",
+        "päeval",
+        "rustikaalne"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Puidust seinad",
+        "puitkonstruktsioonid",
+        "heinad/õled",
+        "suur traktori rehv",
+        "puidust praht/lauad",
+        "inimene",
+        "puud (väljas)",
+        "põld"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#A9A9A9",
+        "#D2B48C",
+        "#C0C0C0",
+        "#2F4F4F",
+        "#F5F5F5",
+        "#696969"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene",
+        "täiskasvanu",
+        "seljas hele jope ja tumedad püksid"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "kevad",
+      "daytime": "day",
+      "differences": [
+        "Inimese pea asend muutub kergelt: esimesel pildil vaatab inimene otse välja, teisel pöörab pead kergelt paremale ja kolmandal vaatab veidi üles ning paremale."
+      ],
+      "snr": "003",
+      "ajad": [
+        "11.600",
+        "17.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vana või rustikaalse hoone siseruumi, vaadates alt üles katusekonstruktsiooni suunas. Hoone on ilmselt laut, kuur või pööning. Lagi ja osaliselt seinad on kaetud heleda, lainelise katusematerjaliga, mis meenutab eterniiti või metallplaate. Selle all on näha tugev puidust karkass, mis koosneb püstistest postidest ja horisontaalsetest taladest. Puit on tumedat tooni, kulunud ja vana, viidates hoone vanusele ja kasutusotstarbele. Päevavalgus tungib sisse katuse ja seinte vahelistest pragudest, luues valguse ja varjude mängu. Ülemises paremas osas on näha ere valgusallikas, mis tekitab tugeva helgi, särades läbi katusekonstruktsiooni või peegeldudes pinnalt. See valgusallikas heidab pikki paralleelseid valguse ja varju triipe parempoolsele seinale, mis viitab, et seal on vertikaalsed avad või pilud, kust päike sisse paistab. Üldine meeleolu on töine, maaeluline ja ehe.",
+      "actions": [
+        "kaamera pöörleb või kallutab"
+      ],
+      "keywords": [
+        "laut",
+        "kuur",
+        "pööning",
+        "katus",
+        "talad",
+        "puitkonstruktsioon",
+        "eterniit",
+        "plekk",
+        "päevavalgus",
+        "valgus",
+        "vari",
+        "maaelu",
+        "rustikaalne",
+        "vana",
+        "ehitus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "laineline katusematerjal",
+        "puidust talad",
+        "puidust postid",
+        "valgusallikas (päikesevalgus või lamp)"
+      ],
+      "colorcodes": [
+        "#CCCCCC",
+        "#8B4513",
+        "#A0522D",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaamera nurk muutub piltide vahel, viidates panoraamimisele või kallutamisele.",
+        "Esimesel pildil on valgustus ühtlasem ja hajutatum.",
+        "Teisel ja kolmandal pildil ilmub ja intensiivistub ere valgusallikas (helk) ülemises paremas osas.",
+        "Paremalt paistvad valguse- ja varjujooned muutuvad viimastes kaadrites selgemaks ja heledamaks."
+      ],
+      "snr": "004",
+      "ajad": [
+        "17.480",
+        "21.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat inimest, kes kannab rohelist baretti, prille ja heledat beeži jopet, kõndimas vana puidust aida või kuuri kõrval. Hoone on ehitatud vertikaalsetest laudadest ja selle puit on ajast halliks kulunud. Esimesel kaadril on näha hoone tume sisemus, kus paistab olevat heina või prahti ja mõned puidust konstruktsioonid. Järgmistes kaadrites on fookus rohkem hoone välisseinal ja selle ümbrusel. Inimene kõnnib mööda hoonet, vaatab alguses hoone poole ja seejärel pöörab pilgu avatud maastiku suunas, mis koosneb kuivanud rohust ja hõredast taimestikust. Taustal on näha metsa ja mõned puud on veel raagus, mis viitab kevadisele ajale. Maapind paistab kohati kobestatud või haritud. Üldine õhkkond on rahulik ja mõtisklev, toetudes ka subtiitrile. Valgus on ere päevavalgus.",
+      "actions": [
+        "Kõndimine mööda hoonet",
+        "Vaatamine hoone sisemusse (esimene kaader)",
+        "Vaatamine avatud maastikule"
+      ],
+      "keywords": [
+        "Eakas inimene",
+        "Vana hoone",
+        "Puitmaja",
+        "Maaelu",
+        "Loodus",
+        "Kevad",
+        "Mälestused",
+        "Berett",
+        "Jakk",
+        "Prillid"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Roheline barett",
+        "Prillid",
+        "Hele jope",
+        "Tumedad püksid",
+        "Vana puidust hoone",
+        "Puidust lauad",
+        "Hein/praht (hoones sees)",
+        "Kuivanud rohi",
+        "Puuoksad",
+        "Mets"
+      ],
+      "colorcodes": [
+        "#2A4F39",
+        "#C7C3B3",
+        "#776B5D",
+        "#BDB7A4"
+      ],
+      "texts": [
+        "I was born here."
+      ],
+      "persons": [
+        "Eakas inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel kaadril on inimene näoga osaliselt kaamera poole ja vaatab hoone sisemusse, mis on hämaralt nähtav. Ümbritsev maastik on vähem fookuses.",
+        "Teisel ja kolmandal kaadril on inimene pööranud selja hoonele ja vaatab otse avatud maastikule paremale. Hoone sisemus pole enam näha, ainult välissein. Ilmub subtiiter 'I was born here.'.",
+        "Kolmandal kaadril on inimene natuke edasi liikunud ja asub veidi erinevas positsioonis maastiku suhtes võrreldes teisega, kuid üldine suund ja fookus on samad."
+      ],
+      "snr": "005",
+      "ajad": [
+        "21.480",
+        "27.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist seismas välitingimustes, mis näib olevat mahajäetud või varemetes koht. Tema selja taga on suur hunnik lagunenud palke ja puidujäätmeid, mis viitavad kunagisele puitkonstruktsioonile, mis on kokku varisenud või lammutatud. Ümberringi on näha kuivanud rohtu, võsa ja paljaid puuoksi, mis annavad edasi varakevadise või hilissügisese meeleolu. Taamal paistab tihe okaspuumets ja hall, pilvine taevas. Maapinnal on kohati näha ka uut rohelist kasvu. Naine vaatleb ümbrust mõtlikult.",
+      "actions": [
+        "Naine seisab paigal",
+        "Naine vaatab esmalt kaamerasse, seejärel üles ja vasakule, varemete suunas"
+      ],
+      "keywords": [
+        "vana naine",
+        "varemed",
+        "puitmaavare",
+        "metsamaastik",
+        "mahajäetud",
+        "nostalgia",
+        "lagunenud",
+        "hall ilm",
+        "kevad",
+        "mõtlik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "vanem naine",
+        "puidust varemed",
+        "palgid",
+        "puuoksad",
+        "põõsad",
+        "puud",
+        "hall müts",
+        "heleroheline jope",
+        "tumedad püksid",
+        "prillid",
+        "rohi",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#b8c4a1",
+        "#3a4d3b",
+        "#3b3e40",
+        "#8a7a6e",
+        "#a0978d",
+        "#6b865a",
+        "#8c816f",
+        "#c4c8cb"
+      ],
+      "texts": [
+        "I was here from 1942 until 1960"
+      ],
+      "persons": [
+        "vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Naine vaatab esimestes kaadrites otse kaamerasse või veidi paremale, viimases kaadris aga üles ja vasakule varemete suunas.",
+        "Tekst \"I was here from 1942 until 1960\" ilmub ainult teises kaadris."
+      ],
+      "snr": "006",
+      "ajad": [
+        "27.640",
+        "43.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vana, hämaralt valgustatud puidust hoone siseruumi, tõenäoliselt lauda või panipaika. Seinad on ehitatud horisontaalsetest palkidest, andes ruumile maalähedase ja robustse ilme. Mitmed töötlemata puidust tugipostid on paigutatud põrandast laetala poole. Põrand on ebatasane, kaetud tumeda mulla, tolmu ja hajali põhu- või heinakõrtega, mis viitab endisele kasutusotstarbele loomade majutamiseks või põllumajandussaaduste hoidmiseks. Ühel palgseinadest on väike ristkülikukujuline aken, kust paistab sisse loomulikku valgust, paljastades väljaspool rohelist taimestikku. Keskel on näha lihtne puidust piire või tara, mis koosneb horisontaalsetest plankudest, võimalik, et ala eraldamiseks. Üldine atmosfäär on vana, hooldamata ja rustikaalne.",
+      "actions": [],
+      "keywords": [
+        "Vana hoone",
+        "Puidust siseruum",
+        "Laut",
+        "Mahajäetud",
+        "Palkseinad",
+        "Aken",
+        "Puitpostid",
+        "Mullane põrand",
+        "Põhk",
+        "Hämar valgus",
+        "Rustikaalne"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Palkseinad",
+        "Puitpostid",
+        "Aken",
+        "Puidust tara/piire",
+        "Mullane põrand",
+        "Põhk",
+        "Heina jäägid",
+        "Praht"
+      ],
+      "colorcodes": [
+        "#4F3F34",
+        "#7A7A7A",
+        "#6B5C4B",
+        "#FFFFFF",
+        "#C2D1C2"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaamera liigub paremale, paljastades rohkem ruumi paremal seinal ja nihutades akna asukohta kaadris.",
+        "Valgus muutub viimastes kaadrites veidi heledamaks, tuues esile rohkem detaile."
+      ],
+      "snr": "007",
+      "ajad": [
+        "43.520",
+        "49.640"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vana, lagunenud puidust hoone esifassaad, mis näib olevat küün või ait. Hoone seinad on ehitatud horisontaalsetest palkidest, mis on aja jooksul ilmastikust kulunud ja halliks tõmbunud. Katus on laineline, kaetud sambla ja mustusega, mis viitab pikaajalisele hoolduse puudumisele. Hoone keskel on kahepoolsed puidust uksed, mis on osaliselt avatud, paljastades pimeda ja tühja siseruumi. Uksed ise on samuti kulunud, mõned plangud on puudu või katki, ja neil on näha roostetanud metallist hinged ja sulused. Paremal pool ustest on aknakoht, kus puudub aknaklaas ja näha on vaid puidust raam, mis samuti avaneb pimedasse interjööri. Hoone alumine osa ehk vundament on nähtavasti betoonist või kivist, kaetud mulla ja tolmuga. Üldine mulje on mahajäetud ja varemeis seisvast ehitisest.",
+      "actions": [],
+      "keywords": [
+        "Vana hoone",
+        "Lagunenud",
+        "Puidust",
+        "Küün",
+        "Ait",
+        "Avatud uksed",
+        "Aknaraam",
+        "Laineline katus",
+        "Sammal",
+        "Mahajäetud",
+        "Ilmastikust kulunud",
+        "Maapiirkond",
+        "Varemed"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone",
+        "Puitmaja",
+        "Katus",
+        "Laineline materjal (eterniit/plekk)",
+        "Puidust uksed",
+        "Aken",
+        "Aknaraam",
+        "Palid",
+        "Sammal",
+        "Muld",
+        "Vundament",
+        "Metallhinged"
+      ],
+      "colorcodes": [
+        "#8B7355",
+        "#7A654C",
+        "#9E9D93",
+        "#B4B5AA",
+        "#222222",
+        "#A5A29B",
+        "#6A6A6A"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad olulised visuaalsed erinevused, need on sisuliselt identsed kaadrid."
+      ],
+      "snr": "008",
+      "ajad": [
+        "49.640",
+        "52.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat, mahajäetud või hooldamata puithoonet avaras maapiirkonnas. Hoone on ehitatud halliks kulunud puitlaudadest ja sellel on hall laineline eterniitkatus. Vasakul pool on näha väiksem aken ja suuremad topeltuksed, millest üks on viltu lahti vajunud, paljastades hoone pimeda sisemuse. Paremal pool paistab ka kitsas ava. Hoone esiküljel on vastu seina toetumas vana puidust vankriratas. Ümber hoone ja esiplaanil on kuivanud rohi ja varakevadele iseloomulik pruunikas taimestik. Hoone vasakut külge varjab osaliselt raagus puu või põõsas. Horisondi kauguses paremal on näha okaspuumetsa. Taevas on hele ja pilvine, mis viitab päevaajale.",
+      "actions": [],
+      "keywords": [
+        "Vana puithoone",
+        "Mahajäetud",
+        "Maapiirkond",
+        "Lagunenud",
+        "Kuur",
+        "Laudahoone",
+        "Vankriratas",
+        "Kuivanud rohi",
+        "Raagus puu",
+        "Mets",
+        "Eterniitkatus",
+        "Kevad",
+        "Päev",
+        "Hall",
+        "Pruun"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puithoone",
+        "Laineline katus",
+        "Uks",
+        "Aken",
+        "Vankriratas",
+        "Kuivanud rohi",
+        "Raagus puu",
+        "Mets"
+      ],
+      "colorcodes": [
+        "#716B61",
+        "#8B8B8B",
+        "#A19A8D",
+        "#4B4B4B",
+        "#C8C8C8",
+        "#A5966B",
+        "#66625D",
+        "#4F5B4E"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [],
+      "snr": "009",
+      "ajad": [
+        "52.360",
+        "55.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mahajäetud õueala, kus domineerivad vana roostes metalltünn ja purunenud puidust varemed, mis on osaliselt mattunud kuivanud ja võsastunud taimestikku. Esiplaanil vasakul seisab suur, vertikaalne tünn, mille pind on kaetud intensiivse roostega, kuid mille alumisel ja ülemisel osal on veel näha pleekinud sinakasrohelise värvi jääke. Tünni peal on näha mõned telliskivid. Paremal tünni kõrval on hunnik murtud ja lagunenud puidust detaile, mis moodustavad ebakorrapärase struktuuri, ilmselt mingi vana hoone või piirde jäänused. Kogu ala on tihedalt täis kuivanud okstest ja võrsetest koosnevat võsa ja heina, mis annab stseenile räsitud ja unustatud ilme. Tagaplaanil on näha ebaselgeid tumedate puude ja põõsaste siluette, mis viitavad lagedale ja külmale aastaajale. Vasakul kauguses paistab osaliselt punast värvi hooneosa. Üldmulje on melanhoolne ja räämas.",
+      "actions": [],
+      "keywords": [
+        "roostes",
+        "metalltünn",
+        "lagunenud",
+        "puit",
+        "varemed",
+        "võsa",
+        "kuivanud taimestik",
+        "mahajäetud",
+        "räämas",
+        "pruun",
+        "sinakasroheline",
+        "talv",
+        "sügis"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "roostes metalltünn",
+        "purunenud puidust konstruktsioonid",
+        "kuivanud taimestik",
+        "põõsad",
+        "puud",
+        "telliskivid",
+        "hoone (osaliselt näha)"
+      ],
+      "colorcodes": [
+        "#8B4C2E",
+        "#A16440",
+        "#4F8C8C",
+        "#71A7A7",
+        "#6B5746",
+        "#9A9A9A",
+        "#4B4B4B",
+        "#6C8B56"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Pildid on identsed."
+      ],
+      "snr": "010",
+      "ajad": [
+        "55.120",
+        "60.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mahajäetud ja võssa kasvanud väliala, kus domineerivad tihedad, raagus põõsad ja puud, viidates hilistalvele või varakevadele. Maapind on kaetud kuivanud rohu ja prahiga. Vasakul on näha tellistest jäänuk, mis meenutab korstnat või lagunenud hoone osa, mille peal on roostes metallist tünn või paak. Sellest paremal asuvad hunnikud puitu ja muud prahti, mis annavad tunnistust kokkuvarisenud ehitisest. Üldine meeleolu on kõle ja mahajäetud, loodus on hakanud inimtehtud struktuure tagasi võtma. Taustal on näha mõned igihaljad okaspuud ja helehall taevas.",
+      "actions": [
+        "Põõsaste ja puude kasvamine",
+        "Hoonete lagunemine ja kokkuvarisemine",
+        "Looduse tagasivõtmine"
+      ],
+      "keywords": [
+        "Mahajäetud",
+        "Varemed",
+        "Lagunemine",
+        "Võsa",
+        "Prahthunnik",
+        "Hooletusse jäetud",
+        "Maastik",
+        "Mure",
+        "Kadumine"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Raagus puud",
+        "Põõsad",
+        "Telliskorsten",
+        "Roostes tünn",
+        "Puidust praht",
+        "Lauad",
+        "Kuivanud rohi",
+        "Taevas",
+        "Okaspuud"
+      ],
+      "colorcodes": [
+        "#6A6E59",
+        "#918F80",
+        "#4A4D3E",
+        "#B0B0A0",
+        "#A06040"
+      ],
+      "texts": [
+        "This is how we dissapear. Along with us, the buildings will go as well."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Teisel ja kolmandal pildil on nähtavad subtiitrid (\"This is how we dissapear. Along with us, the buildings will go as well.\"), esimesel pildil subtiitrid puuduvad. Muus osas on pildid identsed."
+      ],
+      "snr": "011",
+      "ajad": [
+        "60.480",
+        "63.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist, kes seisab vabas õhus ja vaatab mõtisklevalt allapoole. Ta on riietatud tumerohelisse baretisse, prillidesse ja beežikas-rohelisse soojemasse jopesse, mille all on mustriline kaelussärk. Naise ümber ja taustal on näha lagunenud puidust ehitise jäänuseid, mis koosnevad palkidest, laudadest ja risust. Ümbruskond on risune ja metsik, taustal on näha paljaid puid ja võsa, mis viitab hilissügisele või varakevadele. Üldine atmosfäär on vaikne ja melanhoolne, rõhutades hääbumist ja mööduvust.",
+      "actions": [
+        "Naine räägib (subtiitrite järgi)",
+        "Naine vaatab allapoole"
+      ],
+      "keywords": [
+        "Lagunenud hoone",
+        "Maapiirkond",
+        "Aeg",
+        "Varemed",
+        "Hääbumine",
+        "Vanem naine",
+        "Metsik loodus",
+        "Sügis",
+        "Kevad"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Müts (barett)",
+        "Prillid",
+        "Jope",
+        "Kaelussärk",
+        "Puit",
+        "Palgid",
+        "Ehitise rusud",
+        "Oksad",
+        "Põõsad",
+        "Puud"
+      ],
+      "colorcodes": [
+        "#3C684C",
+        "#A6A98F",
+        "#262125",
+        "#745F4B"
+      ],
+      "texts": [
+        "This is how we dissapear.",
+        "Along with us, the buildings will go as well."
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel ja teisel pildil on subtiitrid nähtaval, kolmandal pildil need puuduvad.",
+        "Naise pilgus ja peaasendis on märgata minimaalseid erinevusi, mis viitavad kergele liikumisele kaadrite vahel."
+      ],
+      "snr": "012",
+      "ajad": [
+        "63.360",
+        "67.800"
+      ]
+    },
+    {
+      "explanation": "Stseen algab peaaegu täielikult musta ekraaniga, mille alumises osas on vaevumärgatav horisontaalne tumepruunikas-punakas joon, mis annab edasi ülemineku- või algushetke. Seejärel avaneb panoraamvaade laiale maastikule, mis kujutab endast kevadist või hilissügisest loodust. Esirinnas on näha hulgaliselt lehtpuude, peamiselt kaskede, raagus oksi ja valgeid tüvesid, mis moodustavad loomuliku raami kaugemal asuvale maastikule. Puudest läbi kumab rohekas-pruun muru ja põõsastik, mis katab nõlva. Keskel lookleb ülesmäge kitsas pruunikas-roheline pinnasrada või tee, millel on näha rattajälgi. Raja vasakul pool asub väike punase katuse ja pruuni seinaga ehitis, mis meenutab kaevuhoonet või väikest panipaika. Taamal, mäeharjal, seisab heledavärviline maamaja, mis on ümbritsetud tumedamate puudega, pakkudes kauget ja rahulikku elupaika. Taevas on pilvine ja helehall, hajutades valgust ühtlaselt üle kogu maastiku. Maastikukaadri esimesel ilmnemisel on ekraanil valge eestikeelne tekst, mis annab stseenile konteksti, viidates talu perenaisele. Hiljem asendub see tekst ingliskeelsete subtiitritega, mis edastavad isiklikku ja mõtisklevat tsitaati lapsepõlve kohta.",
+      "actions": [
+        "Stseen algab tumeda ekraaniga, mis annab edasi üleminekut",
+        "Kaader muutub mustast maastikuvaateks",
+        "Tekst ilmub ekraanile ja seejärel vahetub"
+      ],
+      "keywords": [
+        "Maastik",
+        "Loodus",
+        "Maaelu",
+        "Kevad",
+        "Sügis",
+        "Raagus puud",
+        "Talu",
+        "Tee",
+        "Pilvine",
+        "Üleminek",
+        "Subtiitrid",
+        "Tekst",
+        "Maja",
+        "Nõlv",
+        "Idülliline",
+        "Maapiirkond"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Kased",
+        "Oksad",
+        "Muru",
+        "Pinnasrada",
+        "Maja",
+        "Väike ehitis",
+        "Katus",
+        "Pilved",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#0F0F0F",
+        "#A9A9A9",
+        "#8B4513",
+        "#D3D3D3",
+        "#FF0000",
+        "#FFFFFF",
+        "#6B8E23",
+        "#4A4A4A",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "JÄRVERISTI TALU PERENAINE",
+        "My childhood was tough. Today's children won't be let to go herding at 5 years old."
+      ],
+      "persons": [
+        "Ei ole nähtavad (implitsiitne talu perenaine)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "95",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader on peaaegu täielikult must, välja arvatud kitsas tumedam horisontaaljoon ekraani alumises pooles.",
+        "Teine ja kolmas kaader on visuaalselt identsed maastikuvaated, kuid neil on erinev tekstikiht.",
+        "Teisel kaadril on eestikeelne pealkiri \"JÄRVERISTI TALU PERENAINE\".",
+        "Kolmandal kaadril on ingliskeelsed subtiitrid, mis edastavad tsitaati isikliku lapsepõlve kohta."
+      ],
+      "snr": "013",
+      "ajad": [
+        "67.800",
+        "79.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat inimest, tõenäoliselt naist, kes kõnnib kevadisel päeval mööda kruusateed või radu maalilises ja veidi mahajäetud maastikul. Inimene kannab pikka heledat (valget või helehalli) mantlit, tumedaid pükse ja triibulist mütsi. Ühes kaadris kannab ta käes väikest ämbrit või anumat. Ümbrust iseloomustab tärkav rohi, raagus puud, mis viitavad varakevadele, ja avar hele taevas. Taustal on näha vanu hooneid, mis näivad olevat taluhooned või kuurid. Samuti on pildil näha rämpsu, vanametalli ja mahajäetud esemete hunnik, mis annab stseenile veidi melanhoolse või ajastutruu tooni. Stseeni saatvad subtiitrid räägivad lapsepõlve raskustest, karjatamisest viieaastaselt ning tänapäeva laste lihaste nõrkusest ja kehalise kasvatuse tundide puudumisest, mis viitab vanema inimese nostalgitsemisele või murele tänapäeva noorte pärast.",
+      "actions": [
+        "inimene kõnnib",
+        "inimene kannab ämbrit"
+      ],
+      "keywords": [
+        "maaelu",
+        "varakevad",
+        "vanem inimene",
+        "nostalgia",
+        "kruusatee",
+        "raagus puud",
+        "talumajapidamine",
+        "prügihunnik",
+        "ämber",
+        "subtiitrid"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "inimene",
+        "pikk mantel",
+        "müts",
+        "kruusatee",
+        "rohi",
+        "raagus puud",
+        "hooned",
+        "prügihunnik",
+        "vanametall",
+        "ämbrisarnane anum",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#E5E5E5",
+        "#A0896E",
+        "#92AA65",
+        "#B6D7EB",
+        "#9D8873",
+        "#5D4B3F"
+      ],
+      "texts": [
+        "My childhood was tough. Today's children won't be let to go herding at 5 years old.",
+        "There were two cows and thirty sheep.",
+        "Their muscles doesn't grow, they don't do sports. Nobody goes to P.E. lessons anymore."
+      ],
+      "persons": [
+        "vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Inimese asukoht ja liikumine kaadrites on erinev, ta kõnnib mööda teed edasi.",
+        "Kaamera nurk ja vaatenurk muutuvad, näidates erinevaid taustadetaile ja objekte nagu vanametalli hunnik.",
+        "Igal pildil on erinevad subtiitrid, mis jutustavad edasi lugu."
+      ],
+      "snr": "014",
+      "ajad": [
+        "79.280",
+        "111.640"
+      ]
+    },
+    {
+      "explanation": "Stseen algab vaatega vana telliskivimaja ukseavale, mille puidust uks on lahti. Ukseavas on näha virnas puidust kaubaaluseid ja muid esemeid, vihjates panipaigale või laoruumile. Maja seinal vasakul on roostes elektrijaotuskapp. Maapind ukse ees on mullane või mudane. Seejärel ilmub ukseavast välja ja hakkab vasakult paremale kõndima suur pruun hobune, kellel on seljas hele lakk ja saba. Hobune liigub avatud maastikule, mis on kaetud erkrohelise rohuga. Taustal on näha teisi hooneid, mis meenutavad aita või talumaja, ning kauguses puid ja elektriliine. Taevas on selge ja helesinine, mis viitab päikesepaistelisele päevale. Stseen kannab maalähedast ja ehk veidi nostaligilist meeleolu.",
+      "actions": [
+        "Hobune kõnnib",
+        "Hobune liigub uksest välja",
+        "Hobune seisab või liigub rohelisel väljal"
+      ],
+      "keywords": [
+        "Maalähedane",
+        "Hobune",
+        "Telliskivimaja",
+        "Laudauks",
+        "Põld",
+        "Roheline maastik",
+        "Kevad",
+        "Tööloom",
+        "Nostalgia",
+        "Vana hoone"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Hobune",
+        "Telliskivimaja",
+        "Puidust uks",
+        "Elektrijaotuskapp",
+        "Puidust kaubaalused",
+        "Mullane maa",
+        "Roheline rohi",
+        "Põld",
+        "Hooned taustal",
+        "Puud",
+        "Elektriliinid"
+      ],
+      "colorcodes": [
+        "#9e9d9b",
+        "#7e5e3a",
+        "#8b5b37",
+        "#b8855e",
+        "#608d48",
+        "#c0d9e9"
+      ],
+      "texts": [
+        "Their muscles doesn't grow, they don't do sports. Nobody goes to P.E. lessons anymore.",
+        "I was ten years old when my father died. Then I started to work with a horse."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on fookuses hoone sissepääs, teisel pildil ilmub hobune ukseavast välja ning kolmandal pildil on hobune avatud maastikul.",
+        "Taust muutub hoone lähiplaanist laia välivaateks rohelisel põllul.",
+        "Subtiitrite tekst muutub esimese ja teise pildi vahel.",
+        "Hobune liigub kaadrisse ja on järgnevates kaadrites paremini näha."
+      ],
+      "snr": "015",
+      "ajad": [
+        "111.640",
+        "120.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pruuni värvi hobust vabas õhus taluõues või karjamaal, mis asub kahe maaelu hoone kõrval. Hobune teeb piltidel läbi mitmeid tegevusi: alguses näib ta söövat maapinnalt rohtu või midagi muud, kandes punast päitseid. Seejärel heidab ta murule pikali ja rullib end selili, jalad taeva poole. Lõpuks tõuseb hobune uuesti püsti, raputades pead ja saba. Taustal on näha heledast tellisest ehitatud hoonet tumeda lainepapist katusega, millel on nähtav uks või avaus ning mille vastu toetub metallredel. Teine hoone on puidust seintega, millel on aken, mis näib olevat kaetud või kinni. Ümbruskonnas on maapinnal virnastatud puidust kaubaalused ja näha on ka mõned valged plastitükid või kotid. Maapind on kaetud kuiva rohu ja palja pinnasega. Stseenis on näha subtiitreid, mis annavad edasi isikliku loo. Üldine õhkkond on maaline, lihtne ja rahulik.",
+      "actions": [
+        "Hobune sööb/grazeerib",
+        "Hobune rullib end maas",
+        "Hobune tõuseb püsti",
+        "Hobune raputab pead",
+        "Hobune saba viskab"
+      ],
+      "keywords": [
+        "Hobune",
+        "Maaelu",
+        "Taluõu",
+        "Kari",
+        "Pruun hobune",
+        "Loom",
+        "Õues",
+        "Kaubaalused",
+        "Päitsed",
+        "Rullimine"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hobune",
+        "Puidust kaubaalused",
+        "Tellishoone",
+        "Puidust hoone",
+        "Metallredel",
+        "Päitsed",
+        "Lainepapist katus",
+        "Aken",
+        "Uks/avaus",
+        "Rohi",
+        "Pinnas",
+        "Valged plastitükid/kotid"
+      ],
+      "colorcodes": [
+        "#774320",
+        "#6B7C3E",
+        "#E7E7E7",
+        "#5B5F61",
+        "#8B0000"
+      ],
+      "texts": [
+        "I was ten years old when my father died.",
+        "Then I started to work with a horse."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0-10",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on hobune seismas ja maast söömas, ekraanil on näha subtiitreid.",
+        "Teisel pildil rullib hobune end selili maapinnal, subtiitrid puuduvad.",
+        "Kolmandal pildil on hobune uuesti püsti tõusnud, pead ja saba raputamas, subtiitrid puuduvad."
+      ],
+      "snr": "016",
+      "ajad": [
+        "120.240",
+        "138.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, keda on näha peamiselt tagantvaates, liikumas läbi maalähedase siseruumi. Alguses on inimene heledas vihmamantis ja hoiab kepist kinni, lähenedes tumedale uksele. Edasi liikudes on ta siseruumis, mis näib olevat pööning või ait, kandes nüüd paksemat heledat mantlit ja triibulist kootud mütsi. Ruumi iseloomustavad silmapaistev puidust sarikatega lagi, arvukad heinakuhjad ja üldine segadus, mis viitab panipaigale või põllumajandushoonele. Teine isik, osaliselt nähtav punases jopes, on samuti stseenis kohal. Üldine valgus viitab päevasele ajale. Piltidel on näha ingliskeelsed subtiitrid, mis kirjeldavad kunagist kooliskäiku kalossidega kevadiste üleujutuste ajal.",
+      "actions": [
+        "Liikumine",
+        "Käimine",
+        "Uksest sisenemine",
+        "Kepi hoidmine"
+      ],
+      "keywords": [
+        "Pööning",
+        "Ait",
+        "Maalähedane",
+        "Heinapeod",
+        "Puitkonstruktsioon",
+        "Maaelu",
+        "Müts",
+        "Mantel",
+        "Subtiitrid",
+        "Segadus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Müts",
+        "Mantel",
+        "Kepp",
+        "Uks",
+        "Sein",
+        "Tellised",
+        "Puitkonstruktsioon",
+        "Heinakuhjad",
+        "Heinapeod",
+        "Esemed",
+        "Palk",
+        "Jope"
+      ],
+      "colorcodes": [
+        "#b0a392",
+        "#4d311d",
+        "#887d73",
+        "#c28448",
+        "#c6b876",
+        "#707f87",
+        "#800000"
+      ],
+      "texts": [
+        "I went to school with galoshes.",
+        "It was not difficult. I took them off during spring floods"
+      ],
+      "persons": [
+        "Eakas mees",
+        "Teine isik (punases jopes)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil kannab peategelane heledat vihmamantlit ja hoiab kepist, teistel piltidel on tal paksem hele mantel ja triibuline kootud müts.",
+        "Esimesel pildil läheneb inimene tumedale uksele, teistel piltidel on ta siseruumis, mis on täidetud heinakuhjade ja puitkonstruktsioonidega.",
+        "Esimesel pildil on näha ainult üks isik, teistel piltidel on vasakul pool osaliselt näha ka teine inimene punases jopes.",
+        "Tekstiga subtiitrid on nähtavad vaid teisel ja kolmandal pildil.",
+        "Kaameranurk ja fookus laienevad veidi esimeselt pildilt teisele ja kolmandale, näidates rohkem ümbritsevat keskkonda."
+      ],
+      "snr": "017",
+      "ajad": [
+        "138.640",
+        "145.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes ronib mööda puidust redelit kõrgele heinakuhjale vanas ja hämara valgustusega laudas. Inimene kannab pikka tumedat mantlit või jopet, heledat mütsi ja värvilisi kummijalatseid. Esimesed kaadrid keskenduvad jalgadele ja nende kummijalatsitele, mis on kaetud lillelise mustriga. Inimene liigub energiliselt ülespoole heinakuhja poole. Hilisemad kaadrid avavad vaate laiemalt, paljastades lauda sisekujunduse – puidust seinad, sarikad ja profileeritud metallist katus. Heina on laotud massiivsesse kuhja, mis ulatub peaaegu katuseni. Kaadrites on näha subtiitreid, mis viitavad mineviku raskustele, nagu koolis käimine kummijalatsitega kevadiste üleujutuste ajal ja talvised sügavad lumekihid (kuni meeter paksud). Stseenis valitseb töine ja veidi ajatu atmosfäär, mis räägib maaelust ja vastupidavusest.",
+      "actions": [
+        "Ronimine mööda redelit",
+        "Liikumine heinakuhjale",
+        "Seismine heinakuhja peal"
+      ],
+      "keywords": [
+        "Lauda töö",
+        "Hein",
+        "Redel",
+        "Kummijalatsid",
+        "Maaelu",
+        "Mälestused",
+        "Talv",
+        "Kevad",
+        "Hämardus",
+        "Vastupidavus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Kummijalatsid (galoshes)",
+        "Pikk mantel/jope",
+        "Müts",
+        "Puidust redel",
+        "Heinakuhjad",
+        "Lauda seinad (puit)",
+        "Lauda katus (profileeritud metall)",
+        "Puidust sarikad/talad"
+      ],
+      "colorcodes": [
+        "#4A4F4F",
+        "#7B2F2E",
+        "#9B8263",
+        "#D8D8D8",
+        "#2F3237",
+        "#3E3C32"
+      ],
+      "texts": [
+        "I went to school with galoshes. It was not difficult. I took them off during spring floods",
+        "Layer of snow used to be one meter thick, or even more"
+      ],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene kaader on lähivõte inimese jalgadest ja lillelise mustriga kummijalatsitest, mis ronivad mööda redelit heina sisse.",
+        "Teine kaader on veidi laiem plaan, mis näitab rohkem redelit ja heinakuhja, fookus on endiselt jalgadel ja ronimise tegevusel.",
+        "Kolmas kaader on laiema plaaniga, kus on näha kogu inimene tagantvaates (koos mantli ja mütsiga) ronimas heinakuhja peale, samuti lauda sisekujundus koos puidust talade ja metallist katusega."
+      ],
+      "snr": "018",
+      "ajad": [
+        "145.160",
+        "159.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab avarate puitkonstruktsioonidega aida või küüni sisemust. Ruumi domineerib suur tume heinakuhja, mis täidab suure osa põrandapinnast ja ulatub peaaegu laeni. Lae all on näha tugevad puidust talad ja sarikad, mis moodustavad võrgustiku, andes ruumile iseloomuliku arhitektuuri. Seintel on samuti puidust vooderdus ja paistavad olevat mõned aknad, millest sisse langeb pehme päevavalgus, luues kontraste tumeda heina ja heledama puitu vahel. Vasakul pool on näha redel. Stseeni hilisemates kaadrites ilmub heinakuhja otsa inimene, kes kannab tumedaid riideid ja hoiab käes reha meenutavat tööriista, mis viitab heina hoidmisele või liigutamisele. Üldine atmosfäär on töine ja ajatu, olles samal ajal veidi kõle valguse tõttu.",
+      "actions": [
+        "Heina liigutamine/korrastamine",
+        "Seisab heinakuhja otsas",
+        "Hoiab tööriista"
+      ],
+      "keywords": [
+        "Heinaküün",
+        "Hein",
+        "Puitkonstruktsioon",
+        "Maaelu",
+        "Talutöö",
+        "Kliimamuutus (teksti põhjal)",
+        "Nostalgia (teksti põhjal)",
+        "Talv (teksti põhjal)"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Hein",
+        "Puitprussid",
+        "Puitseinad",
+        "Katus",
+        "Aken",
+        "Redel",
+        "Inimene",
+        "Reha/tööriist"
+      ],
+      "colorcodes": [
+        "#2D2D2D",
+        "#3F3F3F",
+        "#6B5B4A",
+        "#8C7B6A",
+        "#A0A0A0",
+        "#D0D0D0"
+      ],
+      "texts": [
+        "Layer of snow used to be one meter thick, or even more",
+        "Even this has dissapeared",
+        "The road to school was five kilometres long. I went by foot."
+      ],
+      "persons": [
+        "Üksik inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puudub inimene, samas kui teisel ja kolmandal pildil on inimene nähtav heinakuhja otsas.",
+        "Inimese asend ja tegevus heinakuhjal muutub kaadrite vahel, näidates liikumist ja tööriista kasutamist.",
+        "Piltide all olevad tekstid on igal pildil erinevad, jutustades järjestikust lugu."
+      ],
+      "snr": "019",
+      "ajad": [
+        "159.040",
+        "174.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri, mis sarnaneb lauda või põllumajandushoone sisemusega. Esimesel plaanil ja keskel domineerib suur, tume heina- või põhuvirn, mis täidab suure osa kaadrist. Virna tagant ja kohalt kerkib puidust konstruktsioon, mis on valmistatud plankudest ja prussidest, meenutades osa lahendusest heina ladustamiseks või liigutamiseks. Õhus on näha hõljuvat tolmu või udu, eriti kaadri vasakus osas, mis loob hajutatud ja melanhoolse atmosfääri. Tagaplaanil on hämaralt näha telliskivisein, mis viitab hoone vanusele ja iseloomule. Valgus on summutatud, andes stseenile süngema tooni. Piltidel on subtiitrid, mis kirjeldavad kellegi teekonda ja igapäevaelu.",
+      "actions": [
+        "Jutustamine (subtiitrite kaudu)",
+        "Hõljuvate osakeste liikumine õhus"
+      ],
+      "keywords": [
+        "Hein",
+        "Põhk",
+        "Lauda sisemus",
+        "Põllumajandus",
+        "Puidust konstruktsioon",
+        "Tolm",
+        "Udu",
+        "Hämarus",
+        "Subtiitrid"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Heina- või põhuvirn",
+        "Puidust konstruktsioon",
+        "Telliskivisein",
+        "Tolm/udu osakesed"
+      ],
+      "colorcodes": [
+        "#332C28",
+        "#504D4A",
+        "#9C9B98",
+        "#726053",
+        "#F8F8F8"
+      ],
+      "texts": [
+        "The road to school was five kilometres long. I went by foot.",
+        "From the schoolhouse, another five kilometres was to chicken house."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Õhus hõljuvate tolmuosakeste või udu hajutatus ja liikumine on piltide vahel pisut muutuv.",
+        "Subtiitrite tekst muutub: esimesel ja teisel pildil on sama tekst, kolmandal pildil on uus tekst."
+      ],
+      "snr": "020",
+      "ajad": [
+        "174.120",
+        "180.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab üksikut inimest, kes töötab hämaras ja tolmuses siseruumis, tõenäoliselt laudas või heinaküünis. Isik, riietatud pikka heledasse mantlisse ja tumedasse mütsi või kapuutsi, on peamiselt näha selja tagant. Ta tegeleb heinahunnikute liigutamisega pika varrega tööriista, näiteks heinakahvli, abil. Suured, lohakalt kuhjatud heina- või õlehunnikud täidavad piltide esi- ja keskplaani. Tugevad, voogavad valgusvihud tungivad läbi ruumi hämaruse, valgustades dramaatiliselt õhus hõljuvaid tolmuosakesi ja luues uduse, peaaegu müstilise efekti. Tagaplaanil on näha korratut keskkonda, kus on erinevaid objekte, sealhulgas puidust konstruktsioone, kotte ja mööblitükke, mis viitab kasutusel olevale või ammu seisnud ruumile. Tagaseinal on märgata ümmargust objekti, mis võib olla ventilaator või tuulutusava. Piltidele on lisatud subtiitrid, mis jutustavad raskest ja pikast tööpäevast: pikk teekond koolimajast kanakuuti, vajadus jätta kanadele tuled põlema isegi pärast töö lõpetamist ning koju mineku algus kell 22.00. Kaadrite järjestus näitab inimese aktiivsest tööst heinaga tema lahkumist heinahunnikute juurest taustale, sümboliseerides töö lõpetamist.",
+      "actions": [
+        "Töötab heinaga/õlgedega",
+        "Liigutab heina/õlgi tööriistaga",
+        "Kõnnib ruumis"
+      ],
+      "keywords": [
+        "Heinatöö",
+        "Tolmune",
+        "Farmitöö",
+        "Raske töö",
+        "Maaelu",
+        "Hilisõhtu",
+        "Töötaja",
+        "Siseruum",
+        "Ladu",
+        "Valgusvihud",
+        "Aeg",
+        "Vaev"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Heinahunnikud",
+        "Õled",
+        "Kahvel (või sarnane tööriist)",
+        "Puitkonstruktsioonid",
+        "Talad",
+        "Praht",
+        "Kotid",
+        "Ventilatsiooniventilaator"
+      ],
+      "colorcodes": [
+        "#6F5A3F",
+        "#8C8C8C",
+        "#FFFFFF",
+        "#D8C5A8",
+        "#595959"
+      ],
+      "texts": [
+        "From the schoolhouse, another five kilometres was to chicken house",
+        "When I finished my work, I had to leave the lights on for the chickens.",
+        "I started walking home at 10 PM"
+      ],
+      "persons": [
+        "Üksik inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Isiku asend ja tegevus muutuvad: esimesel pildil töötab isik aktiivselt heinaga tööriista abil, teisel pildil tõstab ta suurema koguse heina, kolmandal pildil kõnnib ta heinahunnikutest eemale.",
+        "Valguse intensiivsus ja tolmuefekt varieeruvad kaadrite vahel, olles eriti märgatavad ja dramaatilised teisel pildil.",
+        "Subtiitrite tekst muutub iga kaadriga, edastades järjestikuse loo pika tööpäeva sündmustest ja lõpust."
+      ],
+      "snr": "021",
+      "ajad": [
+        "180.120",
+        "190.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pimedat, arvatavasti lauta või talli, kus valitseb sume ja melanhoolne atmosfäär. Kaadri keskel on näha üks inimene, kes töötab loomade ja heina keskel. Ümberringi on puidust konstruktsioonid, mis moodustavad loomadele tarasid või aedikuid, ning põrandal on laiali heina. Valgusallikas on nõrk, tekitades pikki varje ja jättes suure osa ruumist sügavatesse toonidesse. Stseen on üldiselt pime, rõhutades õhtuse või öise töö üksildust ja vaeva.",
+      "actions": [
+        "Inimene kõnnib mööda lauda vahekäiku",
+        "Inimene kannab või lükkab heinahunnikut",
+        "Inimene seisab ja toimetab loomade aediku lähedal",
+        "Inimene hoolitseb loomade eest",
+        "Inimene lahkub töökohalt hilisõhtul",
+        "Inimene jookseb koju hirmu tõttu"
+      ],
+      "keywords": [
+        "Laut",
+        "Stall",
+        "Pimedus",
+        "Öö",
+        "Töö",
+        "Talu",
+        "Hein",
+        "Loomad",
+        "Üksildus",
+        "Hirm"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Hein",
+        "Puidust konstruktsioonid",
+        "Loomade aedikud",
+        "Loom (kits või siga)",
+        "Punakasoranž ämber või ese",
+        "Töörõivad (hele mantel, triibuline müts)"
+      ],
+      "colorcodes": [
+        "#3A3A3A",
+        "#A0A0A0",
+        "#604030",
+        "#0A0A0A",
+        "#FF6600"
+      ],
+      "texts": [
+        "I started walking home at 10 PM",
+        "I always ran home, as I was scared a bit"
+      ],
+      "persons": [
+        "Tööline",
+        "Talunik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Inimese asukoht ja poos muutuvad kaadrite vahel: esimeses kaadris on ta seljaga kaamera poole ja liigub heinaga, järgmistes kaadrites on ta kaugemal ja seisab või toimetab loomade lähedal.",
+        "Loom on selgemalt nähtav hilisemates kaadrites, esialgu on näha vaid vihjet looma olemasolust.",
+        "Alatiitrid muutuvad esimese kaadri ja järgnevate kaadrite vahel, edastades erinevat informatsiooni inimese teekonnast ja tunnetest."
+      ],
+      "snr": "022",
+      "ajad": [
+        "190.880",
+        "197.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt vaadet tumedavärvilise looma, tõenäoliselt veise pea kohta hämaras ja pimedas laudas. Kaadrite keskel on näha looma nägu, mis teeb suuliigutusi ja lakub nina pikalt välja sirutatud keelega. Looma nahk on tekstuuriga, kergelt kortsuline, ja selle silmad helgivad nõrgalt pimeduses. Taust on äärmiselt hämar, koosnedes puidust konstruktsioonidest ja paremal pool virnastatud heina- või õlehunnikust. Üldine valgustus on väga nõrk, luues süngemeelse ja intiimse õhkkonna. Subtiitrid kuvatakse ekraani allosas, edastades narratiivi või mõtteid.",
+      "actions": [
+        "pea liigutamine",
+        "nina lakkumine",
+        "keelega suu ja nina piirkonna puhastamine"
+      ],
+      "keywords": [
+        "pime",
+        "loom",
+        "veisepea",
+        "laut",
+        "hämar",
+        "süngemeelne",
+        "subtiitrid",
+        "nina lakkumine",
+        "sõraline"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "loom",
+        "veise pea",
+        "nina",
+        "keel",
+        "silm",
+        "hein",
+        "puitsein",
+        "kari"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#363333",
+        "#524B43",
+        "#A8A8A8"
+      ],
+      "texts": [
+        "I always ran home, as I was scared a bit",
+        "I saw traces of rabbits on the forest road."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel kaadril on looma pea kergelt allapoole suunatud ja suu on suletud; kuvatakse esimene subtiiter.",
+        "Teisel kaadril on looma pea liikumas, kergelt udune ja suu kergelt avatud; kuvatakse teine subtiiter.",
+        "Kolmandal kaadril on looma pea selgemalt näha, keel on pikalt välja sirutatud nina lakkudes; kuvatakse teine subtiiter uuesti."
+      ],
+      "snr": "023",
+      "ajad": [
+        "197.200",
+        "201.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat siseruumi, tõenäoliselt lauta või vanemat kõrvalhoonet, kus on näha kaks kitsi. Kaadris domineerivad puidust konstruktsioonid ja varjud, andes edasi maalähedase ja pisut räsitud atmosfääri. Kitsed on eraldatud puidust piiretega, millest üks on esiplaanil madalamal ja teine kõrgemal. Mõlemad kitsed vaatavad otse kaamera poole, nende näod ja silmad on hämaras valguses esile toodud. Paremal pool ripub tume kett. Valgus on piiratud ja langeb peamiselt loomadele, jättes suure osa taustast pimedaks ja varjudesse. Stseeni saadavad subtiitrid, mis annavad edasi jutuajamise või mõtteid.",
+      "actions": [
+        "Kitsed vaatavad kaamera poole",
+        "Jutustus/mõtted on esitatud subtiitrites"
+      ],
+      "keywords": [
+        "Kitsed",
+        "Laut",
+        "Siseruum",
+        "Pimedus",
+        "Puit",
+        "Varjud",
+        "Maalähedane",
+        "Kett",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kitsed",
+        "Puidust piirded",
+        "Puidust seinad/talad",
+        "Kett",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#2d2823",
+        "#4f463c",
+        "#7e766b",
+        "#c6c5c2",
+        "#ffffff"
+      ],
+      "texts": [
+        "I saw traces of rabbits on the forest road.",
+        "\"Wolves won't catch me. There are plenty of rabbits around\", I said to myself."
+      ],
+      "persons": [
+        "Narrator (implied)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on subtiiter: \"I saw traces of rabbits on the forest road.\"",
+        "Teisel pildil subtiitrid puuduvad.",
+        "Kolmandal pildil on subtiiter: \"\"Wolves won't catch me. There are plenty of rabbits around\", I said to myself.\"",
+        "Kitsede asend ja näoilmed on kaadrite vahel veidi muutunud, mis viitab loomade loomulikule liikumisele."
+      ],
+      "snr": "024",
+      "ajad": [
+        "201.520",
+        "205.880"
+      ]
+    },
+    {
+      "explanation": "Aita talu hoone sisemus, kus on rühm kodukitsi. Stseen on üles võetud puidust laudas, mille seinad ja lagi on ehitatud robustsetest puitplankudest. Põrand on kaetud paksu kihi heina või põhuga, mis toimib loomade allapanuna. Esile paistab väike valge kitsetall, kes seisab esiplaanil ja vaatab otse kaamerasse kerge uudishimuliku või mängulise ilmega. Tema taga seisavad kaks täiskasvanud kitse; üks neist on heledam, hallikasbeeži värvi ja tema udar on selgelt nähtav, mis viitab emasele loomale ja emadusele. Teine täiskasvanud kits on tumedamat pruuni tooni. Taustal, sügavamal laudas, on näha veel üks tumedam kits. Valgus tungib sisse tagapool asuvate puidust seinapilude kaudu, luues stseenile kergelt hämariku, kuid hubase ja maalähedase atmosfääri. Üldmulje on rahulik ja vaikne, kujutades maaelu idülli.",
+      "actions": [
+        "Kitsed seisavad ja puhkavad",
+        "Kitsetall vaatab kaamerasse"
+      ],
+      "keywords": [
+        "Kitsed",
+        "Kitsetall",
+        "Laut",
+        "Tall",
+        "Kari",
+        "Põhk",
+        "Hein",
+        "Loomad",
+        "Maaelu",
+        "Farm",
+        "Puidust hoone",
+        "Udus",
+        "Varjualune"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kitsed",
+        "Kitsetall",
+        "Hein",
+        "Põhk",
+        "Puidust seinad",
+        "Puidust lagi",
+        "Puidust tugistruktuurid",
+        "Valgusavad"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#B0A090",
+        "#806040",
+        "#C0B080",
+        "#A08060",
+        "#705030"
+      ],
+      "texts": [
+        "\"Wolves won't catch me. There are plenty of rabbits around\", I said to myself."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0-10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on ingliskeelsed subtiitrid, teisel ja kolmandal pildil need puuduvad.",
+        "Loomade asend on kõigil piltidel praktiliselt identne, mis viitab järjestikustele kaadritele."
+      ],
+      "snr": "025",
+      "ajad": [
+        "205.880",
+        "211.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kitsi vanas, hämaras tallis või laudas, kus valgus tungib sisse akendest, luues tugeva kontrasti pimedate sisenurkade ja heledate välisvaadete vahel. Kaamera on paigutatud otse kitsede ette, jäädvustades nende nägusid lähedalt. Keskel domineerib täiskasvanud kits, kelle pilk on suunatud otse vaatajale, andes edasi isikliku ja otsese tunde. Hiljem ilmub kaadrisse ka noorem kits, kes jääb tagaplaanile. Üldine atmosfäär on maalähedane ja rustikaalne, rõhutades lihtsat taluelu. Stseeni saadavad subtiitrid, mis viitavad inimkõnele, kus keegi arutleb üksilduse üle. Keskkond on täis vana puitu, telliskiviseinu ja heinapurdeid, samuti on näha ämbreid ja muid talutööriistu, mis annavad edasi autentse taluelu tunde.",
+      "actions": [
+        "Kits vaatab kaamerasse",
+        "Kits liigutab oma pead",
+        "Kitsik vaatab eemale",
+        "Subtiitrid ilmuvad ekraanile"
+      ],
+      "keywords": [
+        "Kits",
+        "Tall",
+        "Maaelu",
+        "Loomad",
+        "Aken",
+        "Pimedus",
+        "Valgus",
+        "Üksildus",
+        "Maal",
+        "Talukoht",
+        "Portree"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kits",
+        "Kitsik",
+        "Telliskivisein",
+        "Puidust talad",
+        "Aken",
+        "Ämber",
+        "Kauss",
+        "Põhk",
+        "Kett"
+      ],
+      "colorcodes": [
+        "#2F2B26",
+        "#5C4B3F",
+        "#756D67",
+        "#F5F7F8"
+      ],
+      "texts": [
+        "Even today some neighbors ask me",
+        "“Aren't you afraid to live alone?”"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on kits kaamerale lähemalt ja selle pea alumine osa täidab suurema osa kaadrist, pea on veidi allapoole suunatud. Teisel ja kolmandal pildil on kits veidi tagasi tõmbunud või kaamera asend muutunud, näidates tema pead ja sarvi selgemalt.",
+        "Subtiitrid ilmuvad teisel ja kolmandal pildil.",
+        "Kolmandal pildil on taustal selgemalt näha väike kitsik, mis eelmistel piltidel oli peaaegu märkamatu või puudus kaadrist. Samuti on kitsede asend kaadris kolmandal pildil veidi nihkunud, näidates täiskasvanud kitsest veidi rohkem parempoolset profiili."
+      ],
+      "snr": "026",
+      "ajad": [
+        "211.600",
+        "216.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab emakitse ja tema talle intiimset hetke pimedas ja hubases laudas. Ema kits on pikakarvaline, valkja ja helepruuni kasukaga, ning seisab vaikselt. Tema udaratest imeb piima noor, täiesti valge kitsedetall, kes on emale tihedalt ligi. Maa on kaetud õlgede ja heinaga, mis loob maaelu ja sooja atmosfääri. Valgus on hämar, tuues esile kitsede karvade detailid ja luues rahuliku meeleolu. Kaadris on näha ainult loomad ja nende vahetu ümbrus, mis annab edasi looduslähedase ja südamliku stseeni.",
+      "actions": [
+        "Ema kits seisab",
+        "Tall imeb piima (imetamine)",
+        "Ema kits langetab pead",
+        "Tall on ema kaitse all",
+        "Tall puhkab ema ligidal"
+      ],
+      "keywords": [
+        "Kitsed",
+        "Tall",
+        "Ema kits",
+        "Laud",
+        "Hein",
+        "Õled",
+        "Maaelu",
+        "Imetamine",
+        "Perekond",
+        "Turvalisus",
+        "Üksindus",
+        "Kodutunne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kits",
+        "Kitsede tall",
+        "Hein",
+        "Õled",
+        "Udar"
+      ],
+      "colorcodes": [
+        "#DCDCDC",
+        "#F5F5DC",
+        "#8B4513",
+        "#A0522D",
+        "#2F4F4F",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Even today some neighbors ask me \"Aren't you afraid to live alone?\"",
+        "What is there to be scared of at your own house?",
+        "I got married at a local manor house in Hurmi, and came to live here."
+      ],
+      "persons": [
+        "Speaker (implied)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst muutub iga kaadriga, esitades järjest dialoogi või monoloogi fragmente.",
+        "Ema kitse pea asend muutub: esimeses kaadris on pea veidi kõrgemal, teises ja kolmandas on see rohkem allapoole langetatud, justkui nosides või puhates.",
+        "Talle nähtavus ja asend ema all varieerub veidi, kuigi ta jääb pidevalt ema keha lähedusse."
+      ],
+      "snr": "027",
+      "ajad": [
+        "216.160",
+        "223.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt mitut halli-valge karvaga kitsepoega või noort kitse, kes on koondunud puitsõime ümber ja söövad sealt. Pildid on tehtud siseruumis, tõenäoliselt laudas või tallis, mida iseloomustavad puidust konstruktsioonid taustal ja põrandal laiali olev põhk. Valgus on hämar, rõhutades maalähedast ja rustikaalset atmosfääri. Kaadris on näha ka punase ja valge emailiga metallnõu ning muid puidust elemente.",
+      "actions": [
+        "kitsed söövad puitsõimest"
+      ],
+      "keywords": [
+        "kitsed",
+        "kitsupojad",
+        "söötmine",
+        "sõim",
+        "laut",
+        "põhk",
+        "hall",
+        "pruun",
+        "valge",
+        "maalähedane"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "kitsed",
+        "puitsõim",
+        "sööt",
+        "hein",
+        "põhk",
+        "puitseinad",
+        "metallnõu",
+        "kauss"
+      ],
+      "colorcodes": [
+        "#A8A8A8",
+        "#5A412A",
+        "#D8C18C",
+        "#8B8B8B",
+        "#C80000"
+      ],
+      "texts": [
+        "I got married at a local manor house in Hurmi, and came to live here.",
+        "It burned down, and it doesn't even exist anymore."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha peamiselt üks kits pea alaspidi sõimes, teine kits on osaliselt varjatud.",
+        "Teisel pildil on selgelt näha kaks kitsupoja pead sõimes, vasakpoolne on veidi esiplaanil.",
+        "Kolmandal pildil on näha kolm kitsupoja pead sõimes. Vasakpoolne kits on kõige prominentsem ja paremal on näha väiksemat kitsupojast."
+      ],
+      "snr": "028",
+      "ajad": [
+        "223.440",
+        "228.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja rustikaalset lauta või kuuri, kus heinakõrtega kaetud põrandal askeldab inimene kitsede keskel. Ruumis domineerivad vanad puitkonstruktsioonid, mis moodustavad nii seinu kui ka piirdeid. Valgus on nõrk ja summutatud, andes kohale maheda, kuid pisut melanhoolse õhkkonna. Vasakul on näha virn puidust aluseid, mis pakuvad kitsedele peatuspaika, samal ajal kui paremal pool on sügav vari.",
+      "actions": [
+        "Isik istub puidust pingil, seljaga vaataja poole, ja näib hooldavat või jälgivat kitsi.",
+        "Üks suurem kits seisab isiku lähedal, suunaga vasakule.",
+        "Mitmed väiksemad kitsed (talled) lamavad või liiguvad puidust aluste ja lauda vasakpoolse seina vahel."
+      ],
+      "keywords": [
+        "Laut",
+        "kitsed",
+        "maaelu",
+        "talu",
+        "loomahooldus",
+        "hämar",
+        "puit",
+        "hein",
+        "rustikaalne",
+        "traditsiooniline"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Kitsed",
+        "inimene",
+        "puidust pink",
+        "puidust alused",
+        "puidust seinad/piirded",
+        "heinakõrred",
+        "kopp (osaliselt nähtav isiku jalgade juures)"
+      ],
+      "colorcodes": [
+        "#827b72",
+        "#5e5e5e",
+        "#a6a6a6",
+        "#9b8772"
+      ],
+      "texts": [
+        "It burned down, and it doesn't even exist anymore.",
+        "But back then it was a herding manor, where we used to live."
+      ],
+      "persons": [
+        "Üks inimene (täiskasvanu, seljaga kaamera poole, sugu pole selgelt eristatav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Ainus erinevus kahe pildi vahel on ingliskeelne subtiiter. Esimesel pildil on tekst \"It burned down, and it doesn't even exist anymore.\" ja teisel pildil on \"But back then it was a herding manor, where we used to live.\""
+      ],
+      "snr": "029",
+      "ajad": [
+        "228.520",
+        "234.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, mis meenutab talli või lauta. Keskel on näha inimene, kes kannab helehalli jakki ja on seljaga kaamera poole pööratud, kummardudes ettepoole. Tema kõrval paremal seisab kits, kellel on pruunikas-must karvastik, heledad sarved ja kelluke kaelas. Kits vaatab otse kaamerasse. Taust on valmistatud puidust prussidest ja plankudest, luues rustikaalse ja hämarama atmosfääri. Valgus paistab tulevat vasakult ülevalt. Kaadrid on üsna lähedalt, keskendudes inimesele ja kitsele.",
+      "actions": [
+        "Kitsega tegelemine",
+        "Kitse eest hoolitsemine",
+        "Kitse paitamine (oletatav)"
+      ],
+      "keywords": [
+        "Kits",
+        "Inimene",
+        "Laut",
+        "Talliinterjöör",
+        "Puitkonstruktsioonid",
+        "Subtiitrid",
+        "Maaelu",
+        "Loomahooldus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kits",
+        "Inimene",
+        "Hele hall jakk",
+        "Puidust prussid",
+        "Puidust seinad",
+        "Kelluke (kitse kaelas)"
+      ],
+      "colorcodes": [
+        "#B0B7BC",
+        "#7B4B27",
+        "#5F422C",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "But back then it was a herding manor, where we used to live.",
+        "Nowadays, i can't even imagine what the dowries must be like"
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Ainus erinevus piltide vahel on subtiitrite tekst. Esimesel pildil on subtiitrid: \"But back then it was a herding manor, where we used to live.\". Teisel pildil on subtiitrid: \"Nowadays, i can't even imagine what the dowries must be like\". Kolmandal pildil subtiitrid puuduvad."
+      ],
+      "snr": "030",
+      "ajad": [
+        "234.120",
+        "237.760"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud musta-valgekirju kukk, kellel on erepunane hari ja lokutid. Kukk seisab puitprussil hämaralt valgustatud, rustikaalses siseruumis, mis näib olevat kanala või laut. Taustaks on tumedad puidust seinad. Pildistatud on läbi uduselt paistva traatvõrgu või -aia, mis annab stseenile kergelt filtri efekti. Kukk vahetab kaadrites oma pea asendit, vaadates kord otse, kord rohkem vasakule. Mõnedel kaadritel on näha ingliskeelsed subtiitrid, mis edastavad informatsiooni tegelase nappide esemete kohta.",
+      "actions": [
+        "Kukk seisab/istub prussil",
+        "Kukk pöörab pead"
+      ],
+      "keywords": [
+        "kukk",
+        "lind",
+        "kanala",
+        "laut",
+        "puit",
+        "hämardus",
+        "taluelu",
+        "rustikaalne",
+        "traatvõrk",
+        "subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "kukk",
+        "puitpruss",
+        "puidust sein",
+        "traatvõrk",
+        "subtiitrid"
+      ],
+      "colorcodes": [
+        "#2B2A2B",
+        "#9A240E",
+        "#AEAEAE",
+        "#3A2F2B",
+        "#C5C5C5"
+      ],
+      "texts": [
+        "I only had a blanket and a pillow in a towel.",
+        "The clothes I had on were enough to start with."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid, mis on näha teisel ja kolmandal pildil.",
+        "Kuke pea asend ja kehahoid on kõikidel piltidel veidi erinev."
+      ],
+      "snr": "031",
+      "ajad": [
+        "237.760",
+        "242.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja rustikaalset siseruumi, mis näib olevat kas vanem hoone või kanala. Esiplaanil on sageli nähtav traatvõrk, mis loob läbi selle pilgu loomadele. Taustal ja interjööris domineerivad puitkonstruktsioonid – postid, talad ja seinad –, mis on tumedates toonides ning loovad lihtsa ja tagasihoidliku atmosfääri. Valgustus on üldiselt madal, andes stseenile süngema, kuid samas tõsise ja siira tooni. Kanad, nii valged kui ka pruun kukk, liiguvad puitkonstruktsioonide vahel saepurul või mullasel pinnal. Subtiitrid jutustavad uue elu alustamisest minimaalsete vahenditega, viidates tekile, padjale ja riietele, ning nentides, et uus elu algas väikestest asjadest, mis visuaalselt seostub kanade ja lihtsa elukeskkonnaga.",
+      "actions": [
+        "Kanad liiguvad ringi",
+        "Uue elu alustamine (jutustuse põhjal)"
+      ],
+      "keywords": [
+        "Maaelu",
+        "Algus",
+        "Tagasihoidlik",
+        "Loomad",
+        "Kana",
+        "Kukk",
+        "Traatvõrk",
+        "Puitkonstruktsioon",
+        "Hämarus",
+        "Vaesus",
+        "Taaskäivitus",
+        "Siseruum"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kana",
+        "Kukk",
+        "Traatvõrk",
+        "Puitkonstruktsioon",
+        "Puitpost",
+        "Tekk (teksti järgi)",
+        "Padi (teksti järgi)",
+        "Käterätik (teksti järgi)"
+      ],
+      "colorcodes": [
+        "#3d3b38",
+        "#8c5b36",
+        "#f3f3f3",
+        "#6b6b6b",
+        "#2e2b2a"
+      ],
+      "texts": [
+        "I only had a blanket and a pillow in a towel.",
+        "The clothes I had on were enough to start with.",
+        "That's how we started a new life on our own.",
+        "Starting from the smallest things."
+      ],
+      "persons": [
+        "Inimene (jutustaja, subtiitrite järgi)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader näitab peamiselt tühja ja pimedat interjööri puitkonstruktsioonidega ning esitab narratiivi esimese osa.",
+        "Järgmised kaadrid tutvustavad kanu (esialgu enamasti valgeid kanu, seejärel pruuni kukke ja teisi valgeid kanu) traatvõrgu taga, konkretiseerides keskkonna kanalana ning esitades narratiivi teise osa."
+      ],
+      "snr": "032",
+      "ajad": [
+        "242.720",
+        "248.800"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumis, mis meenutab vana ja rustikaalset lauta või kuuri. Seinteks on näha puidust horisontaalselt paigaldatud laudis. Esiplaanil ja keskel on puidust raamistikuga traatvõrkaed, mis moodustab piirde või värava. Aia taga tegutseb inimene, kes kannab heledat, pikka mantlit või jopet. Isik kummardub ettepoole ja toimetab millegagi aia taga olevas kitsas ruumis. Esimeses kaadris on näha, et inimene hoiab käes pikka keppi või ora, mida ta ilmselt kasutab tööriistana. Valgus on summutatud ja annab stseenile maalähedase ning realistliku toonuse. Üldine atmosfäär viitab tööle ja uue elu ülesehitamisele, nagu ka ekraanil olevad subtiitrid. Traatvõrk on kohati veidi narmendav või kaunistatud ämblikuvõrkudega, andes kohale vananenud ja kasutusel oleva ilme.",
+      "actions": [
+        "Millegagi toimetamine/tegelemine aia taga",
+        "Pika kepi/ora hoidmine",
+        "Ettepoole kummardumine/kaldumine üle aia"
+      ],
+      "keywords": [
+        "Labi",
+        "Kuur",
+        "Aed",
+        "Traatvõrk",
+        "Puit",
+        "Töö",
+        "Maaelu",
+        "Uus algus",
+        "Dokumentaalfilm",
+        "Toimetamine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Traatvõrkaed",
+        "Puitseinad",
+        "Puidust raamistik",
+        "Pikk kepp/ora",
+        "Mantel/jope",
+        "Ämblikuvõrgud"
+      ],
+      "colorcodes": [
+        "#8B7355",
+        "#5C4A3A",
+        "#E0E0E0",
+        "#6B6B6B",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "That's how we started a new life on our own.",
+        "Starting from the smallest things."
+      ],
+      "persons": [
+        "Töötav inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Isiku täpne kehaasend ja käes oleva kepi asukoht muutub kaadrite vahel.",
+        "Esimesel kaadril on kepp selgelt nähtav isiku käes, hilisemates kaadrites on see vähem nähtav või hoopis kaadri tagant kadunud.",
+        "Kaameranurk või suum on pisut muutunud, mille tulemusena on kaadri raamimine ja isiku nähtavus veidi erinev.",
+        "Subtiitrid on olemas kahes esimeses kaadris, kuid puuduvad kolmandal kaadril."
+      ],
+      "snr": "033",
+      "ajad": [
+        "248.800",
+        "252.280"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub hämaras kanakuudis või laudas, kus on mitu kana. Enamasti on näha valgeid kanu, kuid ka tumedamaid. Kanad liiguvad ringi või seisavad põhuga kaetud maapinnal. Taustal on näha traatvõrka, mis moodustab nende aediku osa. Paremalt poolt on vaatevälja osaliselt blokeerimas tume, ähmane ala, mis võib olla inimfiguur või suur objekt. Pildil on ka ingliskeelne subtiiter.",
+      "actions": [
+        "Kanad liiguvad",
+        "Kanad seisavad"
+      ],
+      "keywords": [
+        "kanakuut",
+        "kanad",
+        "põhk",
+        "traatvõrk",
+        "hämar",
+        "subtiitrid",
+        "loomakasvatus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "kanad",
+        "traatvõrk",
+        "põhk",
+        "kanaaedik",
+        "tume objekt"
+      ],
+      "colorcodes": [
+        "#D0D0D0",
+        "#7A5A3A",
+        "#2C2C2C",
+        "#9A2020",
+        "#000000"
+      ],
+      "texts": [
+        "Now people must buy lots of things in order to get married."
+      ],
+      "persons": [
+        "inimene (võimalik)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kaamera liigub või panoraamib kaadrite vahel paremale.",
+        "Esimeses kaadris on vasakpoolsed kanad selgemalt fookuses, samas kui hilisemates kaadrites liigub fookus ja vaade paremale.",
+        "Ingliskeelsed subtiitrid ilmuvad teises ja kolmandas kaadris.",
+        "Kolmandas kaadris on paremal pool suurem tume, ähmastunud ala, mis varjab osa stseenist ja vähendab nähtava keskkonna detaili."
+      ],
+      "snr": "034",
+      "ajad": [
+        "252.280",
+        "254.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat inimest, tõenäoliselt naist, töötamas hämaras ja robustses puitstruktuuris, mis meenutab lauta või vana kuuri. Inimene kannab tumedat mantlit ja valget kootud mütsi, millel on värvilised (kollased, oranžid, pruunid) triibud. Esimesel kaadril on inimene näoga eemale pööratud ja kummardub millegi kohal, mis näib olevat puidust konstruktsioon. Paremal esiplaanil on näha metallist anumat. Teisel kaadril on inimese nägu ja müts esiplaanil, andes parema ülevaate tema vanusest ja olemusest, samal ajal kui ta vaatab allapoole. Kolmandal kaadril tegeleb inimene traatvõrguga kaetud puitväravaga, mis asub puidust aediku ees, viidates loomapidamisele. Kogu stseeni iseloomustab rustikaalne ja ajahõlmatud atmosfäär, puidust seinad ja konstruktsioonid on ilmselgelt vanad ja lihtsad. Valgus on üldiselt hämar, viidates sisetingimustele ja võimalikule kunstlikule valgustusele. Igal kaadril on erinev eestikeelne subtiiter, mis annab edasi jutustust elu raskustest, abiellumise kommetest ja kitsastest elutingimustest.",
+      "actions": [
+        "Töötamine",
+        "Kummardumine",
+        "Puidust esemete/konstruktsioonidega tegelemine",
+        "Värava avamine või sulgemine",
+        "Vaatamine allapoole"
+      ],
+      "keywords": [
+        "Eakas inimene",
+        "Maaelu",
+        "Puitstruktuur",
+        "Vana hoone",
+        "Käsitsitöö",
+        "Subtiitrid",
+        "Töökeskkond",
+        "Rustikaalne",
+        "Lihtsus",
+        "Müts",
+        "Mantel"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Eakas inimene",
+        "Puitseinad",
+        "Puitprussid",
+        "Puidust värav",
+        "Traatvõrk",
+        "Metallist tünn/anum",
+        "Kootud müts",
+        "Mantel"
+      ],
+      "colorcodes": [
+        "#5C432C",
+        "#4A4D49",
+        "#E0E0E0",
+        "#E8A13D",
+        "#AF5E2C",
+        "#9E745A"
+      ],
+      "texts": [
+        "Now people must buy lots of things in order to get married.",
+        "We lived in a house where the walls were only one inch thick",
+        "You could hear everything, starting from someone's farting, or tinkling with spoons on the other side of the wall."
+      ],
+      "persons": [
+        "Eakas inimene (tõenäoliselt naine)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Inimene on erinevatel kaadritel erinevas asendis ja teeb erinevaid tegevusi (kummardumine, värava avamine/sulgemine).",
+        "Kaadri fookus ja nurk muutub: esimesel kaadril on inimene seljaga, nägemata nägu; teisel kaadril on fookus eaka inimese näol ja mütsil; kolmandal kaadril on inimene taas osaliselt seljaga, tegeledes väravaga.",
+        "Subtiitrid on igal kaadril erinevad, pakkudes erinevaid jutustusi.",
+        "Esimene kaader näitab üldisemat vaadet tegevuspaigale, kolmas kaader detailsemini loomapidamistarindit. Teine kaader on portreelisem, keskendudes inimese näole."
+      ],
+      "snr": "035",
+      "ajad": [
+        "254.600",
+        "268.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri, mis näib olevat tagasihoidlik või ajutine elamispind või ladustamisala. Ruumi iseloomustab rustikaalne ja veidi räsitud ilme. Paremal pool on fookuses vanem inimene, tõenäoliselt naine, kes kannab hallikat jaki ja triibulist mütsi või salli. Tema käed manipuleerivad valge kilekotiga, mille sisu on suures osas varjatud. Ta on keskendunud tegevusele, suunates pilgu koti poole. Taustal on näha virnas puidust kaste, mis on täidetud ümarate esemetega, mis võiksid olla kartulid või kivid. Esiplaanil ja ruumi vasakus osas on mitu papist munakarpi, mis on asetatud üksteise peale. Ühel munakarbil on näha kiri “AE 10XL” ja “M”. Üldine valgusküllasus on pigem hämar, luues veidi melanhoolse või karmi tunde. Subtiitrid ekraanil edastavad jutustust elamistingimustest, mainides seinte kehva heliisolatsiooni ja ühiskasutuses olevaid ruume.",
+      "actions": [
+        "Kilekoti manipuleerimine kätega",
+        "Fookuses pilk kilekotile"
+      ],
+      "keywords": [
+        "Vanem inimene",
+        "Kilekott",
+        "Munakarbid",
+        "Puidust kastid",
+        "Maaelu",
+        "Elamistingimused",
+        "Hämar valgus",
+        "Interjöör",
+        "Ladustamine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Vanem inimene",
+        "Valge kilekott",
+        "Hall jope",
+        "Triibuline müts/sall",
+        "Puidust kastid",
+        "Kartulid/kivid (kastides)",
+        "Papist munakarbid"
+      ],
+      "colorcodes": [
+        "#A7A598",
+        "#343431",
+        "#D9D2C0",
+        "#8B807B",
+        "#F5F5F5"
+      ],
+      "texts": [
+        "You could hear everything, starting from someone's farting, or tinkling with spoons on the other side of the wall.",
+        "I raised my kids under these conditions. Everyone only had one common kitchen and room.",
+        "AE 10XL",
+        "M"
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on kaader veidi laiem, näidates rohkem tausta ja inimest kaugemalt, samas kui teisel pildil on fookus lähemal inimese näole ja kätele.",
+        "Subtiitrite tekst on mõlemal pildil erinev, edastades erinevaid osi jutustusest.",
+        "Inimese poos ja käte asend kilekotiga on veidi erinev, esimene pilt näitab kotti pigem üles tõstetuna, teine pilt aga koti aktiivsemat manipuleerimist."
+      ],
+      "snr": "036",
+      "ajad": [
+        "268.560",
+        "275.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja kulunud siseruumi, kus fookuses on laest rippuv vana ja määrdunud hõõglamp. Lambipirn on kaetud paksu mustuse ja tolmukihiga, rippudes paljastatud juhtmete küljes, mis on kinnitatud robustse puitlae külge. Lagi koosneb paljudest paljastatud puitprussidest ja -laudadest, mis näivad olevat vanad ja hooldamata, kohati on näha mustust ja märke lagunemisest. Puitkonstruktsioon on helehallikas või määrdunud valge tooniga, mis viitab vanusele ja niiskusele. Üle puitprusside jookseb veel üks tume juhe, mis kaob pildi vasakust servast välja. Üldine atmosfäär on sünge, rõhuv ja tingimusi iseloomustav, mis on kooskõlas ekraanil kuvatava tekstiga. Valgusallikana tundub olevat vaid see üksik ja tuhm pirn.",
+      "actions": [],
+      "keywords": [
+        "Vana",
+        "Määrdunud",
+        "Hõõglamp",
+        "Puitlagi",
+        "Vaene",
+        "Tingimused",
+        "Hämar",
+        "Rõhuv",
+        "Siseruum",
+        "Mustus",
+        "Lagunemine",
+        "Puitprussid",
+        "Remontimata"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Hõõglamp",
+        "Puitprussid",
+        "Puitlauad",
+        "Juhtmed",
+        "Mustus"
+      ],
+      "colorcodes": [
+        "#C4C4C4",
+        "#6B6B6B",
+        "#A7A7A7",
+        "#8A8A8A",
+        "#4A4A4A"
+      ],
+      "texts": [
+        "I raised my kids under these conditions.",
+        "Everyone only had one common kitchen and room."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel puuduvad olulised visuaalsed erinevused stseeni sisus või kompositsioonis. Tegemist on kolme praktiliselt identse kaadriga, mis võivad olla pärit videolõigust."
+      ],
+      "snr": "037",
+      "ajad": [
+        "275.560",
+        "278.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri, mis meenutab vana küüni või aidaruumi. Valgus on hämar, luues sombuse ja pisut melanhoolse atmosfääri. Põrand on tume, kaetud mingisuguse prahi või pühkmetega. Vasakul on näha telliskivimüüriga sein ja paremal on vana puidust sein, millel on näha ka ukse kontuurid. Kaadri keskelt vasakul, madalal põrandal, istub tähelepanu keskmes valge-oranžikarvaline kass. Kass on kergelt küürus asendis, pilk on suunatud otse ette, vaataja poole. Tema silmad on heledad, sinakasrohelised. Kassi taga, paremal, seisab põrandal roheline ämber või kastekann. Hilisemates kaadrites ilmub ekraanile valge tekstiga subtiitrid, mis annavad edasi mõtisklevat sõnumit inimeste kooseksisteerimise kohta. Stseen on üldiselt staatiline, keskendudes kassi kohalolule ja ümbritsevale keskkonnale.",
+      "actions": [
+        "Kass istub/kükitab põrandal",
+        "Kass vaatab ettepoole",
+        "Subtiitrid ilmuvad ekraanile"
+      ],
+      "keywords": [
+        "Kass",
+        "Küün",
+        "Ait",
+        "Vana",
+        "Hämar",
+        "Siseruum",
+        "Telliskivisein",
+        "Puidust sein",
+        "Ämber",
+        "Subtiitrid",
+        "Mõtisklus",
+        "Loom",
+        "Rahulik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kass",
+        "Telliskivisein",
+        "Puidust sein",
+        "Uks",
+        "Roheline ämber",
+        "Põrand",
+        "Praht/saepuru"
+      ],
+      "colorcodes": [
+        "#F4F1F0",
+        "#C87132",
+        "#322F2D",
+        "#46382E",
+        "#508D56",
+        "#2C2B2A",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "There were no troubles.",
+        "Today, people can't live together even in big houses without arguing."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimeses kaadris puuduvad subtiitrid, samas kui teises ja kolmandas kaadris on need olemas.",
+        "Subtiitrite tekst muutub: teises kaadris on \"There were no troubles.\", kolmandas aga \"Today, people can't live together even in big houses without arguing.\"."
+      ],
+      "snr": "038",
+      "ajad": [
+        "278.880",
+        "282.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja rustikaalset sisepaika, mis on ilmselt laut või tall. Keskel on näha vanemat inimest, kes kannab heledat mütsi ja paksu jopet, olles kummardunud suure looma (tõenäoliselt veise) juurde. Inimene tegeleb mingisuguse hooldustööga, võib-olla asetab allapanu või sööta. Ümbritsev keskkond koosneb puidust taladest ja konstruktsioonidest, mis annavad edasi vana ja töömahuka taluhoone tunde. Tagaplaanil on näha akent, millest paistab sisse veidi päevavalgust, kuid ruum on üldiselt tume ja valguse puudumine loob intiimse, ehk isegi melanhoolse õhkkonna. Stseen annab edasi maaelu argipäeva ja rasket tööd, mida toetab ka ekraanil kuvatav tekst inimsuhete ja kooselu teemadel.",
+      "actions": [
+        "Loomaga tegelemine",
+        "Hooldustööde tegemine laudas",
+        "Kummardumine looma juures"
+      ],
+      "keywords": [
+        "Laut",
+        "Talu",
+        "Maaelu",
+        "Vanem inimene",
+        "Loom",
+        "Töö",
+        "Hämar",
+        "Rustikaalne",
+        "Inimsuhted"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Veiselaadne loom",
+        "Puidust talad",
+        "Puitkonstruktsioonid",
+        "Aken",
+        "Müts",
+        "Jope"
+      ],
+      "colorcodes": [
+        "#2a2a2a",
+        "#6d7d8c",
+        "#b0b0b0",
+        "#4a3a2a",
+        "#5e5e5e"
+      ],
+      "texts": [
+        "Today, people can't live together even in big houses without arguing.",
+        "I lived there for sixteen years, until I built a house for myself."
+      ],
+      "persons": [
+        "Üksik vanem inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrid muutuvad esimese ja teise kaadri vahel, pakkudes erinevat dialoogi.",
+        "Inimese kehahoid ja pea asend muutuvad kergelt kaadrite vahel, näidates liikumist tegevuse käigus."
+      ],
+      "snr": "039",
+      "ajad": [
+        "282.200",
+        "290.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab äärmiselt pimedat ja sünget siseruumi, mis näib olevat vana ja räämas hoone, näiteks laut, kuur või mahajäetud elamu. Valgustus on väga nõrk ja pärineb tõenäoliselt kuskilt taustal asuvast avauserst või haruldastest valgusallikatest, luues varjudemängu. Kaadri esiplaanil on suur, ebamäärane, tumepruun või must mass, mis näib olevat orgaaniline materjal, nagu kompost, muda, turvas või isegi väljaheited, tihedalt kokku pressitud ja kergelt läikiv. Sellelt massilt ulatub vasakult paremale diagonaalselt üle pildi pikk, tume ese, mis võib olla puust teivas, vars või toru. Taustal on näha robustseid puitkonstruktsioone – talasid ja poste, mis annavad aimu hoone vanusest ja ehitusmaterjalist. Üldine atmosfäär on rusuv ja vaikne, mida rõhutavad ka subtiitrid, mis jutustavad elust ja lahkumisest ning nõudest vaikusele. Puuduvad inimesed või aktiivne tegevus, mis muudab stseeni staatiliseks ja mõtisklevaks. Piltide vahel visuaalseid erinevusi ei ole, ainult subtiitrid muutuvad.",
+      "actions": [
+        "jutustamine (subtiitrite kaudu)",
+        "vaikuses olemine (subtiitrite kaudu)",
+        "lahkumine (subtiitrite kaudu)"
+      ],
+      "keywords": [
+        "pime",
+        "sünge",
+        "räämas",
+        "vana",
+        "puit",
+        "orgaaniline",
+        "muda",
+        "vaikus",
+        "hoone",
+        "mahajäetud",
+        "rusuv"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "tume orgaaniline mass",
+        "puidust talad",
+        "puidust postid",
+        "pikk tume ese (teivas/vars)",
+        "varjud"
+      ],
+      "colorcodes": [
+        "#1e1815",
+        "#2a221f",
+        "#3d322d",
+        "#4a423b",
+        "#0d0a09"
+      ],
+      "texts": [
+        "I lived there for sixteen years, until I built a house for myself.",
+        "Then I left.",
+        "Everyone had to be quiet at all times."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Ainult subtiitrite tekst muutub piltide vahel, visuaalne sisu on identne."
+      ],
+      "snr": "040",
+      "ajad": [
+        "290.800",
+        "301.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat naist, kes töötab õues kuivanud heina- või rohukuhjadega. Ta kannab tumesinist jopet, tumedaid pükse ja kamuflaažmustriga pearätti. Naine kasutab pikka keppi või harkilaadset tööriista, et kuhjasid liigutada või nendega toimetada. Ta on sageli näoga eemale või küljega kaamera poole, keskendudes oma tööle. Taeva taustal on näha selge sinine taevas ja mõned paljad puud, mis viitavad varakevadele või hilissügisele. Maapind on kuiv ja pruunikas, kaetud osaliselt vanade rohtudega. Ühes kaadris on taevas näha ka kahvatu kuu. Stseenis on näha mitu suurt kuivanud taime kuhja. Üldine õhkkond on maaelu ja töörohke. Tekstid kaadritel viitavad minevikukogemustele ja elu väärtusele.",
+      "actions": [
+        "Töötab kuivanud heina/rohuga",
+        "Liigutab materjali tööriistaga",
+        "Vaatab oma tööd",
+        "Kallutab või toetub tööriistale"
+      ],
+      "keywords": [
+        "Eakas naine",
+        "Maatöö",
+        "Hein",
+        "Kuivanud rohi",
+        "Kuhjad",
+        "Välitingimused",
+        "Päevaaeg",
+        "Sinine taevas",
+        "Tööriist",
+        "Mälestused",
+        "Maaelu"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Eakas naine",
+        "Kuivanud heina/rohukuhjad",
+        "Pikk tööriist (kepp/hark)",
+        "Sinine taevas",
+        "Paljad puud",
+        "Kuiv maapind",
+        "Kuu"
+      ],
+      "colorcodes": [
+        "#2F3B4E",
+        "#8B8A61",
+        "#5D5A40",
+        "#7B694F",
+        "#A08C68",
+        "#5A524A",
+        "#A7D7F0",
+        "#8D7A60"
+      ],
+      "texts": [
+        "Everyone had to be quiet at all times.",
+        "We didn't start out our lives cheap",
+        "Actually it was very cheap at first"
+      ],
+      "persons": [
+        "Eakas naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "spring or autumn",
+      "daytime": "day",
+      "differences": [
+        "Naine on igas kaadris erinevas asendis ja suunaga: esimeses kaadris paremale vaadates, teises seljaga vaataja poole töötades ja kolmandas vasakule pööratud näoga.",
+        "Igas kaadris on erinev subtiiter, mis jutustab lugu ja annab konteksti.",
+        "Erinevused tööriista hoiakus ja asendis, mis näitab pidevat liikumist ja tööd.",
+        "Väikesed muutused tausta puude ja horisondi paiknemises kaamera nurga muutuste tõttu."
+      ],
+      "snr": "041",
+      "ajad": [
+        "301.280",
+        "313.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maaelu keskkonnas vanemat naist, kes tegeleb heina või põhuga õues taluhoovis. Naine kannab peas mustrilist rätikut ja seljas tumedat jopet. Tema ümber ja ees on mitmesuguses suuruses heinahunnikuid ning lahtist heina, millega ta kühvli abil aktiivselt tegutseb. Maapind on mullane ja kohati kaetud heinaga. Taustal on näha vanemaid, kivi- ja puitkonstruktsiooniga taluhooneid ning üks suur valge plastkonteiner. Kaugemal horisondil paistavad põllud ja raagus okstega puud, ning ühes suunas on näha ka traktor. Valgus on sume ja hajutatud, mis viitab kas varasele kevadele või hilisele sügisele, samuti varahommikule või õhtuhämarusele, võimalik, et pilvisele ilmale. Naine paistab oma tegevuses süvenenud ja pildid jäädvustavad erinevaid hetki tema tööpäevast selles rustikaalses keskkonnas.",
+      "actions": [
+        "Heina liigutamine kühvliga",
+        "Heinaga suhtlemine",
+        "Kõndimine taluhoovis",
+        "Töötamine"
+      ],
+      "keywords": [
+        "Talutöö",
+        "Hein",
+        "Maaelu",
+        "Eakas naine",
+        "Rätik",
+        "Kühvel",
+        "Talumajapidamine",
+        "Väli",
+        "Kevad",
+        "Õhtu"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Eakas naine",
+        "Heinapall",
+        "Lahtine hein",
+        "Kühvel",
+        "Valge plastkonteiner",
+        "Taluhooned (puit, kivi)",
+        "Põllud",
+        "Raagus puud",
+        "Traktor",
+        "Mullane maapind"
+      ],
+      "colorcodes": [
+        "#4E5762",
+        "#A38C71",
+        "#5C4B3D",
+        "#DEDEDE",
+        "#705B47"
+      ],
+      "texts": [
+        "Actually it was very cheap at first",
+        "My husband had just came back from Russia - and so? Today, people talk about having stress.",
+        "When you managed to come back from there, you didn't have anywhere to go. Go and live under a tree."
+      ],
+      "persons": [
+        "Eakas naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "spring",
+      "daytime": "evening",
+      "differences": [
+        "Esimene pilt näitab naist eestvaates suure heinapalli ja konteineri taustal, teine pilt naist külgvaates kühvliga heina liigutamas ja kolmas pilt naist tagantvaates, eemalt, suure heinahunniku ja hoone taustal.",
+        "Igal pildil on erinev ingliskeelne subtiitrite tekst.",
+        "Kaadrite fookus ja sügavus varieeruvad, pakkudes erinevaid vaatenurki naise tegevustele ja ümbritsevale keskkonnale.",
+        "Kolmas pilt on teistest pisut tumedam, viidates võimalikult hilisemale ajale õhtust."
+      ],
+      "snr": "042",
+      "ajad": [
+        "313.000",
+        "325.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab taluõue või maapiirkonda telliskivihoone kõrval. Maapind on kaetud kuiva rohu ja mullaga, andes edasi hooldamata või põllumajandusliku keskkonna muljet. Suur, ümmargune heina- või kuivsöödapall liigutatakse telliskivihoone avatud ukse poole. Inimene on nähtav heinapalli tagant lükkamas. Hoone ise on ehitatud heledatest tellistest, võib-olla värvitud hallikaks või beežiks, ning sellel on puidust elemendid, nagu uksed ja aknaraamid, mis on tumedat värvi ja mõnel pool kulunud. Katus on kaetud lainepapiga. Ümberringi on laiali pillutud erinevaid tööriistu ja vanu esemeid, näiteks puidust aluseid, metalltorusid, ämber ja teisi nõusid. Üldmulje on maaelu töö ja veidi kulunud, utilitaarse keskkonna oma. Valgus on sume ja difuusne, viidates hämarusele või pilvisele õhtule. Inimene kannab tumedaid riideid ja pearätti, mis katab pea ja kaela.",
+      "actions": [
+        "Heinapalli lükkamine",
+        "Heinapalli sisse viimine",
+        "Füüsilise töö tegemine"
+      ],
+      "keywords": [
+        "Maaelu",
+        "Talutöö",
+        "Heinapall",
+        "Telliskivihoone",
+        "Vaesus",
+        "Stress",
+        "Külm",
+        "Hämarus",
+        "Väsinud"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Heinapall",
+        "Telliskivihoone",
+        "Uks",
+        "Aken",
+        "Katus",
+        "Põrand",
+        "Kuiv rohi",
+        "Muld",
+        "Puitplaadid",
+        "Metalltoru",
+        "Ämber",
+        "Nõu",
+        "Elektrikilp"
+      ],
+      "colorcodes": [
+        "#B1AAA0",
+        "#4E4C40",
+        "#664B35",
+        "#757B7B",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "When you managed to come back from there, you didn't have anywhere to go. Go and live under a tree.",
+        "There was no stress.",
+        "Nowadays, there's stress everywhere."
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on heinapall veel osaliselt õues ja inimene on nähtav seda ukseava poole lükkamas.",
+        "Teisel pildil on heinapall juba suuremas osas ukseavasse sisse viidud, peaaegu ukse lävel.",
+        "Kolmandal pildil on heinapall ja inimene täielikult ukseavast kadunud, seespool hoones.",
+        "Subtiitrite tekst muutub iga pildiga, edastades erinevaid jutustuse fragmente."
+      ],
+      "snr": "043",
+      "ajad": [
+        "325.000",
+        "334.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maapiirkonda varakevadisel või hilistalvisel päeval, kus kesksel kohal on eakas inimene, kes tegeleb talutöödega. Stseen algab avaramast vaatest, kus inimene jalutab suure pruuni orgaanilise materjali hunniku, ilmselt komposti või sõnniku, ümber, mis viitab põllumajanduslikele tegevustele. Taustal on näha vanu, kulunud hooneid – üks puidust ja teine telliskivist – ning kuivanud taimestikku ja paljaid puid. Edasi liigub kaamera lähemale, näidates sama inimest vana telliskivihoone juures, millel on suur puidust lahtine uks. Hoone ümber ja selle sisse avanevast uksest on näha puidust aluseid ja erinevat prahti, sealhulgas metalli ja murdunud puidust aiadetaili. Inimene püüab midagi prahi hulgast liigutada või koristada, astudes sellele peale. Üldiselt valitseb stseenis maaelule omane töökas, kuid veidi räsitud ja ajahambast puretud atmosfäär, mis annab aimu vanast talukompleksist. Päikesepaisteline päev sinise taevaga loob heleda, kuid jaheda mulje.",
+      "actions": [
+        "Jalutamine orgaanilise hunniku ümber",
+        "Prahi (metalli/puidu) liigutamine/koristamine",
+        "Astumine prahi peale"
+      ],
+      "keywords": [
+        "Maaelu",
+        "Talutööd",
+        "Kompostihunnik",
+        "Vana hoone",
+        "Varakevad",
+        "Päev",
+        "Käsitsi töö",
+        "Telliskivihoone",
+        "Praht",
+        "Puidust aed"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Orgaaniline materjalihunnik (kompost/sõnnik)",
+        "Vana telliskivihoone",
+        "Vana puidust laudahoone",
+        "Puidust uksed",
+        "Puidust aiapostid",
+        "Kuivanud taimestik/rohi",
+        "Puidust alused (kaubaalused)",
+        "Metallplaat/praht",
+        "Murdunud puidust aed/värav",
+        "Paljad puud/põõsad",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#7F5E3D",
+        "#A9A296",
+        "#5B75A5",
+        "#4A4A4A",
+        "#C7A17A"
+      ],
+      "texts": [
+        "Towards the forest?",
+        "When we got married in Hurmi, then we begun working here"
+      ],
+      "persons": [
+        "Eakas inimene (tõenäoliselt naine peakatte tõttu)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt näitab inimest avaramas plaanis kompostihunniku juures, samal ajal kui teine ja kolmas pilt keskenduvad telliskivihoonele ja selle ümbrusele.",
+        "Teisel pildil on inimene näha prahti liigutamas, kolmandal pildil on inimene kaadrist väljas ja fookus on hoonele ja selle ümbrusele.",
+        "Subtiitrid on iga kaadri juures erinevad, andes edasi erinevaid mõtteid või jutu katkendeid.",
+        "Kaamera nurk ja kaugus muutuvad pisut kaadrite vahel, pakkudes nii üldist konteksti kui ka detailsemat vaadet tegevustele."
+      ],
+      "snr": "044",
+      "ajad": [
+        "334.760",
+        "345.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maapiirkonna õueala varakevadel või hilissügisel. Vasakul on heledast tellisest hoone või abihoone, mille uks on veidi lahti. Paremal ja keskel on robustne puidust aed või tara, mis on osaliselt lagunenud. Maapind on kuiv, kaetud pruuni mulla ja kuivanud taimestikuga. Taamal paistavad teised hooned ja puud. Stseenis liigub vanem inimene, esialgu fookusest väljas, seejärel selgemalt nähtavana. Tegemist on vanema naisega, kes kannab tumesinist jopet ja mustrilist peakatet. Ta jalutab läbi aiaava või selle kõrvalt paremale. Maapinnal on näha prahti ja kuivanud oksi. Ühes kaadris on esiplaanil näha ka kana. Stseeni valgus on ere ja selge, vihjates päevale.",
+      "actions": [
+        "Inimene kõnnib/liigub maastikul",
+        "Kana jalutab õues"
+      ],
+      "keywords": [
+        "Maapiirkond",
+        "Taluhoov",
+        "Abihoone",
+        "Puidust aed",
+        "Lagunenud",
+        "Kuiv maapind",
+        "Kana",
+        "Vanem inimene",
+        "Nostalgia",
+        "Varakevad",
+        "Igapäevaelu",
+        "Külaelu"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Telliskivihoone",
+        "Puidust aed/tara",
+        "Maapind",
+        "Kuivanud taimestik",
+        "Vana naine",
+        "Kana",
+        "Praht",
+        "Puud",
+        "Hooned taamal",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#B8B8B8",
+        "#7F4D1C",
+        "#2F3E50",
+        "#D3B98D",
+        "#A8C4D6"
+      ],
+      "texts": [
+        "Then I had horses and heifers, bulls and horses on some other time...",
+        "As it all used to be..."
+      ],
+      "persons": [
+        "Vana naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader on fookusest väljas ja hägune, samas kui järgmised kaks on teravad ja detailsed.",
+        "Inimene liigub kaugusest lähemale, muutudes esialgu määratlemata kujust vanema naisena tuvastatavaks.",
+        "Kaadri fookus ja kompositsioon muutuvad, rõhutades inimest ja tema liikumist stseeni keskel.",
+        "Subtiitrid ilmuvad erinevates kaadrites, pakkudes narratiivset konteksti."
+      ],
+      "snr": "045",
+      "ajad": [
+        "345.560",
+        "360.200"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub inimkätele, mis tegelevad siseruumides tööga. Pildil on näha vanema inimese käed, kes sorteerivad või käsitlevad väikeseid, värvilisi, piklikke objekte, mis meenutavad juukserulle või püsisoengurulle. Enamik neist objektidest on kollased, roosad ja rohelised ning need asuvad sinises plastkorvis kaadri vasakul alumises osas. Paremal pool on näha sama isiku loomanahkse mustriga pikakäistelist riietust. Taustal paistavad riiulid või lett pudelite, topside ja teiste salongitarvetega, samuti tumedat värvi juuksekimp või parukas. Ühel hetkel võetakse korvist välja kollane rull ja hiljem ka väike valge paberitükk. Kaadri alumises osas on näha tekst, mis annab aimu stseeni kontekstist, viitades vanadele aegadele ja asjaajamisele.",
+      "actions": [
+        "Ulatab käe korvi poole",
+        "Sorteerib juukserulle",
+        "Võtab korvist juukserulli",
+        "Hoiab käes juukserulli",
+        "Hoiab käes juukserulli ja paberitükki"
+      ],
+      "keywords": [
+        "Käed",
+        "Töötamine",
+        "Sorteerimine",
+        "Juuksuritööd",
+        "Juukserullid",
+        "Permirullid",
+        "Salong",
+        "Detailid",
+        "Käsitsitöö"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese käed",
+        "Sinine plastkorv",
+        "Värvilised juukserullid",
+        "Pudelid",
+        "Topsid",
+        "Riiul",
+        "Must juuksekimp/parukas",
+        "Pruun lett/laud",
+        "Roheline plastkorv (taustal)",
+        "Valge paberitükk"
+      ],
+      "colorcodes": [
+        "#2196F3",
+        "#FDD835",
+        "#F8BBD0",
+        "#8BC34A",
+        "#000000",
+        "#D2B48C",
+        "#FFFFFF",
+        "#C4BFBE",
+        "#607D8B"
+      ],
+      "texts": [
+        "As it all used to be...",
+        "Everything included paperwork."
+      ],
+      "persons": [
+        "Üks inimene (käed)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Käte asend muutub: esimesel pildil ulatab käsi korvi, teisel ja kolmandal hoitakse kollast rulli käes.",
+        "Kolmandal pildil on lisaks kollasele rullile käes ka väike valge paberitükk.",
+        "Alumises osas olevad subtiitrid muutuvad kaadrite vahel."
+      ],
+      "snr": "046",
+      "ajad": [
+        "360.200",
+        "364.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist toas, tõenäoliselt ilusalongis või koduses vannitoas/tualetinurgas, kus ta tegeleb oma juustega. Naine vaatab peeglisse ja tema peegeldus on stseeni keskmes. Tal on heledad hallid juuksed ja ta kannab leopardimustrilist särki. Tema peas on mõned juukserullid, sealhulgas silmatorkav triibuline koonusekujuline rull. Ta hoiab ühes käes midagi peenikest (võimalik, et sigarett või tööriist) ja teise käega puudutab oma nägu või juukseid kõrva lähedal. Peegelpildis on näha tagaplaanil aken valgete, lillemustriga kardinatega. Kardinatel on punased ja rohelised lehemotiivid. Aknalaual on esemeid ja peegelduse paremal pool on näha seinaplakat või pilt, mis kujutab nägu, ning suur beeži värvi kuppelkujuline föön. Esiplaanil on näha laual mitmeid kosmeetikapudeleid, pintsleid ja muid ilutarbeid, mis viitavad aktiivsele ilurituaalile. Vasakul esiplaanil on näha udune käsi, mis viitab sellele, et pilt on filmitud kellegi vaatepunktist või et keegi teine on stseenis. Valgus on ere, viidates päevasele ajale.",
+      "actions": [
+        "Naine soengut tegemas või juukseid sättimas",
+        "Naine vaatab peeglisse",
+        "Naine hoiab käes peenikest eset",
+        "Naine puudutab oma nägu või juukseid"
+      ],
+      "keywords": [
+        "Naine",
+        "Juuksed",
+        "Juukserullid",
+        "Peegel",
+        "Ilurituaal",
+        "Kardinad",
+        "Pudelid",
+        "Sisemus",
+        "Peegeldus",
+        "Soeng",
+        "Eakas"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Eakas naine",
+        "Peegel",
+        "Juukserullid",
+        "Juuksed",
+        "Leopardimustriline särk",
+        "Sigarett või peenike tööriist",
+        "Aken",
+        "Kardinad (valged, lillemustriga)",
+        "Lillemotiivid (punased, rohelised)",
+        "Kosmeetikapudelid",
+        "Pintslid/kammid",
+        "Kuivati (beež, kuppelkujuline)",
+        "Seinaplakat/pilt (nägu)",
+        "Laud/lett",
+        "Udune käsi esiplaanil"
+      ],
+      "colorcodes": [
+        "#F5F5F5",
+        "#FFFFFF",
+        "#C0C0C0",
+        "#BDB76B",
+        "#8B0000",
+        "#228B22",
+        "#800080",
+        "#ADD8E6",
+        "#D3D3D3",
+        "#F0F8FF"
+      ],
+      "texts": [
+        "Everything included paperwork.",
+        "I have done all kinds of work"
+      ],
+      "persons": [
+        "Eakas naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt sisaldab subtiitreid \"Everything included paperwork.\", teisel pildil on subtiitrid \"I have done all kinds of work\".",
+        "Esiplaanil olev udune käsi on teisel pildil veidi teises asendis või fookuses."
+      ],
+      "snr": "047",
+      "ajad": [
+        "364.280",
+        "370.040"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähiplaanis seinale riputatud reklaamplakatit või ajakirjalehte. Plakatil on kujutatud naeratav heledate lokkis juustega blond naine, kelle pilk on suunatud vasakule, justkui vaataks ta üle õla. Naise nägu on rõõmus ja ta naeratab laialt, paljastades hambad. Tema juuksed on lühikesed ja väga tihedalt lokkis, andes talle volüümika ja elava soengu. Plakati taust on hele sinakasroheline. Plakati ülemises vasakus nurgas on tekst 'bounce & beautiful' ning paremal ääres on osaliselt näha tähti 'KC'. Pildid on tehtud ruumis sees, kus plakat on kinnitatud heledale, tõenäoliselt roosaka varjundiga seintele. Kahes viimases kaadris on pildile lisatud valged subtiitrid mustal taustal, mis kirjeldavad kellegi tundeid või olukorda, vihjates, et keegi ei usu enam tema praegust tööd.",
+      "actions": [
+        "Plakati vaatamine",
+        "Sisu lugemine (plakatil ja subtiitrites)"
+      ],
+      "keywords": [
+        "Reklaamplakat",
+        "Lokkis juuksed",
+        "Blond naine",
+        "Naeratus",
+        "Ilu",
+        "Soeng",
+        "Sisetuba",
+        "Sinakasroheline taust",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Plakat",
+        "Sein",
+        "Naine (pildil)",
+        "Juuksed"
+      ],
+      "colorcodes": [
+        "#E6D4D4",
+        "#ADD8E6",
+        "#C8B47E",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "bounce & beautiful",
+        "KC",
+        "No-one believes I am still doing this kind of work. \"Don't lie. It's not possible!\", they say."
+      ],
+      "persons": [
+        "Naine (plakatil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid, teisel ja kolmandal pildil on subtiitrid nähtaval."
+      ],
+      "snr": "048",
+      "ajad": [
+        "370.040",
+        "373.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab juuksurisalongi interjööri, kus inimene istub seljaga vaataja poole, pea täis lokirulle, mis viitab keemilise loki tegemisele või juuste seadmisele. Inimesel on seljas leopardimustriline pluus. Tagaplaanil domineerib helelilla sein. Vasakul pool on puidust riiul, mis on täidetud mitmesuguste juuksehooldustoodete, pudelite, harjade ja kammidega. Keskel, inimese pea kohal, ripub suur plakat naisest, kellel on lokkis heledad juuksed ja naeratus. Paremal pool on näha peeglit, mis peegeldab veidi ruumi, ja selle all on seinale kinnitatud valge telefon. Veel paremal on stend paljude juuksevärvi näidistega või soenguvalikutega. Seinal on ka raamitud pildid või sertifikaadid. Kogu stseen annab edasi traditsioonilise, hubase, kuid samas tegusa juuksurisalongi atmosfääri. Pildi allosas on subtiitrid.",
+      "actions": [
+        "Juukseid lokitakse",
+        "Juuksuritööd tehakse"
+      ],
+      "keywords": [
+        "Juuksurisalong",
+        "Keemiline lokk",
+        "Lokirullid",
+        "Juuksuritöö",
+        "Siseinterjöör",
+        "Leopardimuster",
+        "Plakat",
+        "Teenindus",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Juuksed",
+        "Lokirullid",
+        "Leopardimustriline pluus",
+        "Seinariiul",
+        "Juuksehooldustooted",
+        "Pudelid",
+        "Harjad",
+        "Kammid",
+        "Sein",
+        "Aken",
+        "Plakat",
+        "Peegel",
+        "Seinatelefon",
+        "Raamitud pildid/sertifikaadid",
+        "Juukseproovide stend",
+        "Lilled"
+      ],
+      "colorcodes": [
+        "#B0A0C5",
+        "#FFFFFF",
+        "#5C4B40",
+        "#C29F7C",
+        "#70B0D5",
+        "#8B5A2B"
+      ],
+      "texts": [
+        "No-one believes I am still doing this kind of work.",
+        "\"Don't lie. It's not possible!\", they say."
+      ],
+      "persons": [
+        "Üks inimene (seljaga)",
+        "Üks naine (plakatil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel olulisi erinevusi ei ole, kaadrid on identsed või peaaegu identsed."
+      ],
+      "snr": "049",
+      "ajad": [
+        "373.440",
+        "378.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri, kus vanem naine tegeleb põranda pühkimisega. Naine kannab roosat soonilist kampsunit, tumedat seelikut ja pruune kingi. Tema vasakult käelt ripub must õlakott. Ta kasutab pikka, puidust pühkimispulka, mille ots on punane, et lükata kokku tumedat prahti ja tolmu helepruunil, tõenäoliselt linoleumist või laminaadist, põrandal. Kaadrist vasakule jääb osaliselt näha teise inimese jalad, kes kannavad sandaale ja tumedaid pükse. Samuti on vasakul pool näha musta kontoritooli, mille seljatoel ripub kollane riie. Üldine miljöö on kodune ja igapäevane. Piltide all olevad subtiitrid viitavad naise mõtisklustele usust ja elu sündmustest, sealhulgas kirikust ja abielust.",
+      "actions": [
+        "põranda pühkimine",
+        "prahi kokku kogumine",
+        "seismine",
+        "vestlemine (subtiitrite põhjal)"
+      ],
+      "keywords": [
+        "pühkimine",
+        "puhastamine",
+        "naine",
+        "tuba",
+        "kodune",
+        "igapäevatoimetus",
+        "uskumused",
+        "vestlus",
+        "praht",
+        "põrand"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "pühkimispulk (või harjavars)",
+        "must kott",
+        "kontoritool",
+        "kollane riie",
+        "põrand",
+        "praht",
+        "pruunid kingad",
+        "sandaalid",
+        "tumedad püksid",
+        "roosa kampsun",
+        "tume seelik"
+      ],
+      "colorcodes": [
+        "#D76E93",
+        "#2F3746",
+        "#C6AE7D",
+        "#8B4513",
+        "#FF0000",
+        "#E8BE4D",
+        "#1A1A1A"
+      ],
+      "texts": [
+        "But I like to believe, because I have been blessed at a church",
+        "They say that there's only one confirm day, as opposed to being possible of having ten weddings in your lifetime"
+      ],
+      "persons": [
+        "naine (pühkiv)",
+        "teine inimene (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Peamine erinevus piltide vahel on naise pühkimistegevuse edenemine ja prahi asukoht põrandal. Esimesel pildil on praht hajutatum ja pühkimispulk on justkui asendit võtmas, vihjates tegevuse algusele. Teisel ja kolmandal pildil on praht rohkem kokku lükatud ja koondunud ning naine on aktiivselt seda liigutamas, näidates tegevuse jätkumist ja edasiminekut. Pühkimispulga punane ots muutub teisel ja kolmandal pildil selgemalt nähtavaks."
+      ],
+      "snr": "051",
+      "ajad": [
+        "387.760",
+        "392.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kiriku või suure saali sisevaadet, jäädvustatud kergelt kõrgendatud positsioonilt sissepääsu lähedalt. Esiplaanil on näha tumepruunide puidust uste servad, mis raamivad vaadet. Kolm naist kõnnivad pikal, triibulise mustriga vaibaga kaetud vahekäigul, mis viib sügavamale ruumi altari või peaosa suunas. Nad on seljaga kaamera poole, liikudes eemale. Keskmine naine kannab pikka, valget või kreemikat, lihtsat kleiti, samal ajal kui tema kõrval vasakul kõndiv naine kannab tumelillat pluusi ja pikka musta seelikut, kandes ka musta käekotti. Kolmas naine, kes kõnnib keskmise naise taga, kannab samuti heledat, valget riietust. Vahekäiku ääristavad mõlemalt poolt pikad, tumepruunid puidust kirikupingid, millel on trellitatud seljatoed. Kaugemal hoone eesosas on näha suurt, kuldset ja ornamenteeritud lühtrit, mis ripub kõrgest heledast laest. Seinad on valged või heledad, lisades ruumile avarust. Paremal ja vasakul on näha ka puidust rõdupiirdeid või teise korruse servasid. Kaugemal pinkides on märgata ka teisi inimesi. Üldine õhkkond on pühalik ja rahulik. Stseeni valgustab loomulik valgus, mis viitab päevasele ajale, kuigi lühtri valgustus lisab samuti helendust.",
+      "actions": [
+        "Kolm naist kõnnivad mööda vahekäiku",
+        "Inimesed istuvad või seisavad pinkides"
+      ],
+      "keywords": [
+        "Kirik",
+        "Interjöör",
+        "Naised",
+        "Kõndimine",
+        "Vahekäik",
+        "Pingid",
+        "Lühter",
+        "Pühalik",
+        "Tseremoonia",
+        "Pulm"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Puidust uksed",
+        "Vaip",
+        "Puidust pingid",
+        "Lühter",
+        "Seinad",
+        "Lagi",
+        "Puidust rõdupiirded",
+        "Naised",
+        "Käekott"
+      ],
+      "colorcodes": [
+        "#4E382A",
+        "#7F583E",
+        "#6D4C6E",
+        "#1C1B1B",
+        "#ECF0F1",
+        "#4F6D50",
+        "#8B3F3D",
+        "#BBA053",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "They say that there's only one confirm day, as opposed to being possible of having ten weddings in your lifetime",
+        "And to let yourself being wed.",
+        "But there's only one confirm day."
+      ],
+      "persons": [
+        "Kolm naist esiplaanil",
+        "Teised inimesed kaugemal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub iga kaadriga, esitades järjest lauseid",
+        "Naised on iga kaadriga veidi edasi kõndinud, mis viitab video järgnevatele hetkedele",
+        "Kaamera asukoht ja üldine kompositsioon jäävad samaks"
+      ],
+      "snr": "052",
+      "ajad": [
+        "392.280",
+        "397.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte eakat naist, kes istuvad siseruumis, ilmselt vestluses. Vasakpoolsel naisel on tumedad juuksed hobusesabas ja ta kannab mitmevärvilist (sinist, punast, oranži/kollast) mustrilist pluusi. Tema nägu on profiilis, vaadates vasakule, ja tal on tõsine või mõtisklev ilme. Parempoolsel naisel on lokkis hallikad/blondid juuksed, prillid ja helesinine kraega pluus. Ta vaatab ettepoole, tema näol on leebe või kergelt naeratav ilme, mis annab stseenile sooja tooni. Tagaplaaniks on helepruun, üsna lihtne sein, mille paremas servas on näha tumedam, kooruva värvi või tapeediga ala, mis annab vihje ruumi vanusest või seisukorrast. Valgus on ühtlane ja pehme, vihjates päevasele ajale.",
+      "actions": [
+        "Istumine",
+        "Vaatamine",
+        "Vestlemine (subtiitrite kaudu väljendatuna)"
+      ],
+      "keywords": [
+        "Eakad naised",
+        "Siseruum",
+        "Vestlus",
+        "Subtiitrid",
+        "Portree",
+        "Rahulik",
+        "Mõtisklev",
+        "Leebe",
+        "Aeg"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Prillid",
+        "Pluusid",
+        "Hobusesaba",
+        "Sein",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#801C19",
+        "#4A3E7B",
+        "#CADCE5",
+        "#A37F61",
+        "#3A2E33"
+      ],
+      "texts": [
+        "But there's only one confirm day.",
+        "I have gone through this."
+      ],
+      "persons": [
+        "Kaks eakat naist"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Ainus märkimisväärne erinevus kaadrite vahel on ekraanil kuvatav subtiitrite tekst. Esimesel kaadril on tekst 'But there's only one confirm day.', samas kui teisel kaadril on tekst 'I have gone through this.'. Naised, nende asendid ja näoilmed on kaadrite vahel peaaegu identsed, mis viitab sellele, et tegemist on järjestikuste videokaadritega."
+      ],
+      "snr": "053",
+      "ajad": [
+        "397.880",
+        "401.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte naist sisetingimustes, mis näib olevat kirik või sakraalhoone. Üks naine, tõenäoliselt vaimulik, on riietatud pikka valgesse rüüdesse ja tal on seljas roheline stola. Ta seisab rohelise kaarduva käsipuu taga. Tema vastas, rohelist käsipuud toetamas, seisab vanem naine lühikeste heledate lokkis juustega, seljas helesinine pluus. Stseeni alguses asetab vaimulik oma käed vanema naise pea peale, vihjates tseremooniale või õnnistusele. Hiljem on naised omavahel vestluses, pilgud kohtumas. Taustal on näha puitpinke või -mööblit, akent, millest paistab roheline lehestik, ning seintel dekoratiivseid elemente. Kogu stseen on filmitud keskmises plaanis, keskendudes kahele naisele ja nende interaktsioonile.",
+      "actions": [
+        "Käte asetamine pea peale (vaimuliku poolt)",
+        "Pilkude vahetamine",
+        "Vestlemine",
+        "Seismine",
+        "Käsipuu toetamine",
+        "Käte alla laskmine"
+      ],
+      "keywords": [
+        "Kirik",
+        "Tseremoonia",
+        "Vaimulik",
+        "Õnnistamine",
+        "Vestlus",
+        "Naised",
+        "Käsipuu",
+        "Rüü",
+        "Stola",
+        "Aken",
+        "Puitmööbel",
+        "Subtiitrid",
+        "Usuteenistus",
+        "Anniversary"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Valge rüü",
+        "Roheline stola",
+        "Roheline käsipuu",
+        "Puitpingid",
+        "Puitmööbel",
+        "Aken",
+        "Dekoratiivsed seinakaunistused",
+        "Helesinine pluus"
+      ],
+      "colorcodes": [
+        "#F8F8F8",
+        "#336633",
+        "#ADD8E6",
+        "#A0522D",
+        "#D3D3D3",
+        "#E0B190",
+        "#716B61",
+        "#B0C4DE"
+      ],
+      "texts": [
+        "I have gone through this.",
+        "I have had my golden anniversary confirm day"
+      ],
+      "persons": [
+        "Vaimulik naine",
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris asetab vaimulik naine käed vanema naise pea peale, teises kaadris on käed endiselt peal, aga hoiak on pisut muutunud, ning kolmandas kaadris on käed alla lastud ja naised vestlevad ilma füüsilise kontaktita.",
+        "Subtiitrite tekst muutub iga kaadriga.",
+        "Naiste pilgud ja näoilmed muutuvad vastavalt interaktsioonile – alustades tseremoniaalsemast asendist vestluseni.",
+        "Esimeses ja teises kaadris vaatab vanem naine veidi ülespoole, kolmandas kaadris aga otse vaimulikule otsa."
+      ],
+      "snr": "054",
+      "ajad": [
+        "401.360",
+        "406.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eredat suvepäeva õues, kus keskseks elemendiks on traditsiooniline hobuvanker punaste ja mustade istmetega, mis on kaunistatud rohelise taimestikuga. Esimesel kaadril paitab inimene vankri ette rakendatud tumeda hobuse pead. Järgmistel kaadritel on fookus vankri ümber kogunenud inimestel, kellest enamik on vanemad naised. Üks naine asetab või kohendab erksat roosakat või oranži riiet vankri istmele, samal ajal kui teised seisavad lähedal. Ühel kaadril on näha musta ja valge mustriga pluusi kandvat inimest, kes hoiab sama roosakat riiet, mis viitab vankri ettevalmistustele või korrastamisele. Taustal on näha teed, rohelisi puid ja hooneid, mis annab edasi maapiirkonna või poolmaapiirkonna miljöö. Subtiitrid viitavad, et hobuvankrit kasutati Kanepis kirikupühadel ja et selline transpordiviis on tänapäeval haruldane. Üldine mulje on nostalgiast, kogukondlikust koosviibimisest ja traditsioonilise maaelu meenutamisest.",
+      "actions": [
+        "Hobuse paitamine",
+        "Riide asetamine",
+        "Riide kohendamine",
+        "Riide hoidmine",
+        "Seismine",
+        "Inimeste kogunemine"
+      ],
+      "keywords": [
+        "Hobuvanker",
+        "Suvi",
+        "Kogukond",
+        "Nostalgia",
+        "Traditsioonid",
+        "Maaelu",
+        "Pühad",
+        "Kanepi",
+        "Inimesed",
+        "Hobune",
+        "Riie",
+        "Ettevalmistused"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Hobune",
+        "Hobuvanker",
+        "Istmed",
+        "Roosa/oranž riie",
+        "Roheline taimestik",
+        "Puud",
+        "Tee",
+        "Hooned",
+        "Auto",
+        "Inimesed",
+        "Rakmed"
+      ],
+      "colorcodes": [
+        "#2E1F1A",
+        "#A22727",
+        "#2C2C2C",
+        "#F4A28C",
+        "#4A6F2B",
+        "#A0A0A0",
+        "#F5F5F5"
+      ],
+      "texts": [
+        "When it still used to be in Kanepi, I went to all church holidays",
+        "By horse! Nowadays there's no such thing"
+      ],
+      "persons": [
+        "Vanem naine",
+        "Inimene (hobust paitav)",
+        "Teised inimesed"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Fookus nihkub hobuse lähivõttelt (kaader 1) vankri ja inimeste keskmistele plaanidele (kaadrid 2 ja 3).",
+        "Erinevad inimeste tegevused: hobuse paitamine, riide asetamine ja hoidmine.",
+        "Subtiitrid on nähtavad ainult kahes viimases kaadris.",
+        "Kaamera vaatenurk ja inimeste paigutus stseenis on kaadrite vahel erinevad."
+      ],
+      "snr": "055",
+      "ajad": [
+        "406.240",
+        "425.880"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub avaras ja valgusküllases kiriku või sarnase pühakoja interjööris. Kõrged kreemikates toonides seinad on varustatud kahe suure, kaarja tipuga akende reaga, millest voolab sisse ere päevavalgus, valgustades ruumi. Akendest paistab välja roheline lehestik, vihjates soojale aastaajale. Ruumi keskel ja esiplaanil on näha tumedast puidust kirikupingid, millest enamik on tühjad, kuid mõned inimesed istuvad või seisavad. Paremal pool on näha puidust rõdu või kooriruumi konstruktsiooni, mis on osaliselt pildil. Seintel ripuvad antiikse stiiliga seinalambid, lisades hubasust. Vasakul seinal on ka valge ristkülikukujuline tahvel. Pildi alumises osas on näha ingliskeelsed subtiitrid valgel taustal.",
+      "actions": [
+        "Inimesed istuvad ja seisavad kirikupinkide juures",
+        "Inimesed vestlevad või kuulavad",
+        "Naine paremal vaatab vasakule",
+        "Naine keskel vaatab paremale"
+      ],
+      "keywords": [
+        "kirik",
+        "interjöör",
+        "pühakoda",
+        "aknad",
+        "kirikupingid",
+        "päevavalgus",
+        "arhitektuur",
+        "inimesed",
+        "rõdu",
+        "subtiitrid"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "kaarjased aknad",
+        "puidust kirikupingid",
+        "seinavalgustid (seinalambid)",
+        "puidust rõdu",
+        "valge seinatahvli",
+        "subtiitrid"
+      ],
+      "colorcodes": [
+        "#EBEAE5",
+        "#4A3522",
+        "#FFFFFF",
+        "#D7DAA1",
+        "#BB88A0",
+        "#BEC5CE",
+        "#000000"
+      ],
+      "texts": [
+        "By horse! Nowadays there's no such thing"
+      ],
+      "persons": [
+        "mitmed inimesed",
+        "naine mustade juustega ja mustrilise pluusiga (päikeseprillid peas)",
+        "naine heledate juustega ja roosakas-lilla pluusiga",
+        "mees heledas ülikonnas"
+      ],
+      "imagetype": "real",
+      "emptypercent": 60,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Inimeste kehahoiakute ja peade asendite väikesed muutused kaadrite vahel, mis viitavad videoliikumisele."
+      ],
+      "snr": "056",
+      "ajad": [
+        "425.880",
+        "430.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab avaralt ja detailselt kiriku siseruumi, kus toimub jumalateenistus või koguduse koosviibimine. Vaade on suunatud tagant ettepoole, näidates puidust pingiridades istuvaid inimesi, kes vaatavad altari ja kantsli poole. Kantslil seisab mees, kes peab jutlust või kõnet. Kiriku interjöör on valdavalt valge või heleda tooniga, kõrgete võlvitud lagedega, millest ripuvad alla suured, mitmetasandilised ja valgustatud küünaldega lühtrid, mis annavad ruumile piduliku ja sooja valguse. Lae kaardus osal on nähtav kiri eesti keeles. Altari piirkond on rikkalikult kaunistatud, sealhulgas gooti stiilis ornamendid ja altarimaal. Suured kaaraknad lasevad sisse loomulikku päevavalgust, kuigi siseruumis on ka kunstvalgustus. Esiplaanil on näha mitu inimest seljaga kaamera poole, neist üks naine heledate juustega ja üks hallide lokkis juustega inimene on selgelt fookuses. Kaugemal on näha rohkem koguduse liikmeid. Kiriku külgedel on näha puitpaneele ja seinal rippuvaid plaate või sümboleid.",
+      "actions": [
+        "Istumine pingiridades",
+        "Jutlust kuulamine",
+        "Kõnet pidamine kantslist",
+        "Jumalateenistusel osalemine"
+      ],
+      "keywords": [
+        "Kirik",
+        "Jumalateenistus",
+        "Kogudus",
+        "Kantsel",
+        "Altar",
+        "Lühtrid",
+        "Religioon",
+        "Eesti",
+        "Võlvlagi",
+        "Pühakoda"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Kirikuhoone",
+        "Kantsel",
+        "Lühtrid",
+        "Puidust pingid",
+        "Altar",
+        "Altarikaunistused",
+        "Aknad",
+        "Seinamaaling/tekst laes",
+        "Rist (altaril)",
+        "Küünlad (lühtritel ja altaril)",
+        "Puidust seinapaneelid"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#8B4513",
+        "#D4AF37",
+        "#FFFACD",
+        "#4B0082",
+        "#A9A9A9",
+        "#B0E0E6",
+        "#D2B48C",
+        "#808080"
+      ],
+      "texts": [
+        "Au olgu Jumalale kõrges.",
+        "Rural life in Estonia, from what i have seen..."
+      ],
+      "persons": [
+        "Jutlustaja/kõneleja (mees)",
+        "Koguduse liikmed (naised, mehed, lapsed)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil on lisatud inglisekeelne subtiiter all vasakus nurgas: 'Rural life in Estonia, from what i have seen...'. See tekst puudub esimesel ja kolmandal pildil."
+      ],
+      "snr": "057",
+      "ajad": [
+        "430.400",
+        "435.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kiriku või sarnase pühakoja interjööri, vaadatuna tagantpoolt altari suunas. Esiplaanil on näha kaks naist istumas puidust kirikupinkides, seljaga vaataja poole. Ühel naisel on lühikesed lokkis hallid juuksed ja roosa pluus, teisel on sirged heledad juuksed ja pruunikashall pluus. Nende taga ja edasi altari poole on näha teisi koguduseliikmeid, kes istuvad samuti pinkides. Üks mees kannab tumedat ülikonda, teine inimene oranži pluusi ja veel üks kollast pluusi. Kiriku sisekujundus on klassikaline ja pidulik, taustal domineerib suur ja rikkalikult kaunistatud altarimaaliga altar. Altari ümber ja ruumis on mitmeid süüdatud küünlaid ja suuri lühtreid. Seintel on kõrged kaarjad aknad, millest paistab sisse päevavalgus, ning osad neist on värviliste vitraažidega. Paremal pool on näha ka ekraan või monitor. Ruum on valgusküllane ja rahulik.",
+      "actions": [
+        "Inimesed istuvad",
+        "Jälgivad teenistust/altarit"
+      ],
+      "keywords": [
+        "Kirik",
+        "Jumalateenistus",
+        "Altar",
+        "Kirikupink",
+        "Kogudus",
+        "Siseruum",
+        "Pühakoda",
+        "Rahulik"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Kirikupink",
+        "Altar",
+        "Altarimaal",
+        "Küünlad",
+        "Lühter",
+        "Vitraažaken",
+        "Aken",
+        "Sein",
+        "Ekraan/Monitor"
+      ],
+      "colorcodes": [
+        "#4F321C",
+        "#D995A1",
+        "#8C7C71",
+        "#EBEBEB",
+        "#D4AA5E",
+        "#A8201B",
+        "#446C37",
+        "#3C5A7E"
+      ],
+      "texts": [
+        "If it goes further along this way, it can only get worse."
+      ],
+      "persons": [
+        "Naine (hallide juustega)",
+        "Naine (heledate juustega)",
+        "Mees (tumes ülikonnas)",
+        "Koguduseliikmed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puudub subtiiter. Teisel ja kolmandal pildil on näha ingliskeelne subtiiter: 'If it goes further along this way, it can only get worse.'"
+      ],
+      "snr": "058",
+      "ajad": [
+        "435.400",
+        "439.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vana kivist kirikut, millel on kõrge, segmentidega kaetud metallist tornikiiver. Kiriku seinad on kaetud heleda krohviga, mis kohati on maha koorunud, paljastades all oleva telliskivimüüritise. Alumistes osades ja nurkades on näha ka tumedamaid, tahumata kiviplokke. Punast telliskivi on kasutatud dekoratiivsetel eesmärkidel, raamides ümarate kaartega aknaid ja peasissepääsu. Torniosas on mitu kaarekujulist aknaava. Kiriku peasissepääs on sügavalt sissepoole ehitatud teravkaarega ava, milles on osaliselt avatud puidust uks. Ukse kohal on väike ümmargune aken, samuti punase telliskiviga raamitud. Üldine mulje on vanusest ja kergest räsitusest. Taevas on pilvine. Kiriku ümber on roheline muruplats. Stseenil puuduvad nähtavad inimesed.",
+      "actions": [
+        "kaamera nurga muutmine",
+        "hoone osade näitamine eri perspektiividest"
+      ],
+      "keywords": [
+        "kirik",
+        "kirikutorn",
+        "tornikiiver",
+        "arhitektuur",
+        "ajalooline",
+        "maapiirkond",
+        "telliskivi",
+        "kivi",
+        "krohv",
+        "pilvine taevas",
+        "pühakoda",
+        "vana ehitis"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "kirik",
+        "kirikutorn",
+        "tornikiiver",
+        "aknad",
+        "uks",
+        "telliskivi",
+        "kiviplokid",
+        "krohv",
+        "muru",
+        "taevas",
+        "tuulelipp (tornitipus)"
+      ],
+      "colorcodes": [
+        "#C4C4C4",
+        "#A8A8A8",
+        "#8B8B8B",
+        "#D0A080",
+        "#AE7B60",
+        "#606060"
+      ],
+      "texts": [
+        "If it goes further along this way, it can only get worse.",
+        "In rural places people can live off, but what are they going to do in towns?",
+        "If we are going to keep the prime minister we have right now."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Kaamera nurk muutub: alguses on näha torni tippu alt üles, seejärel veidi laiem vaade tornile ja lõpuks maapinnalt sissepääsule.",
+        "Kaadri fookus liigub torni tipust (koos tornikiivriga) torni ülemisele osale (koos kolme aknaga) ja seejärel kiriku peasissepääsule.",
+        "Igal kaadril on erinev ingliskeelne subtiiter."
+      ],
+      "snr": "059",
+      "ajad": [
+        "439.040",
+        "447.680"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab vanast kivikirikust väljuvaid inimesi. Kirik on ehitatud osaliselt heledast krohvist ja osaliselt punakaspruunidest kividest, millel on tellistest kaunistused peaukse kaare ümber ja akende ääres. Kirikul on hallid, plekk-katused ning peaukse kohal asub rist. Eesplaanil on roheline muru ja taamal ning vasakul servas on näha puid rohelise lehestiku ja õitega. Mitmed vanemad inimesed, peamiselt naised, sammuvad kiriku avatud peauksest välja mööda mullast rada. Üks naine heledas beezis kleidis hoiab käes pabereid või brošüüri.",
+      "actions": [
+        "Inimesed väljuvad kirikust",
+        "Inimesed kõnnivad mööda rada"
+      ],
+      "keywords": [
+        "Kirik",
+        "Hoone",
+        "Vana",
+        "Inimesed",
+        "Väljumine",
+        "Muru",
+        "Puud",
+        "Päev",
+        "Kevad",
+        "Maaelu"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kirik",
+        "Uks",
+        "Aken",
+        "Katus",
+        "Rist",
+        "Muru",
+        "Puud",
+        "Naised",
+        "Paberid",
+        "Rada"
+      ],
+      "colorcodes": [
+        "#A8A89A",
+        "#6B2F1F",
+        "#839B7C",
+        "#455C41",
+        "#767A7D",
+        "#C8A692",
+        "#D7A8AE",
+        "#E8E8E8"
+      ],
+      "texts": [
+        "If we are going to keep the prime minister we have right now.",
+        "There was a headline about this in a local paper"
+      ],
+      "persons": [
+        "Vanem naine beezis kleidis",
+        "Vanem naine roosas pluusis",
+        "Vanemad inimesed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel muutub ainult tekstiallkiri ekraani alaosas. Visuaalne sisu on identselt sama."
+      ],
+      "snr": "060",
+      "ajad": [
+        "447.680",
+        "453.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat naist looduskeskkonnas veepumba juures. Esimeses kaadris on naine ja mees veepumba juures, mees hoiab plastpudelit ja naine tumedat anumat. Järgnevates kaadrites keskendutakse eakale naisele, kes täidab veepumbast oma tumedat anumat ja seejärel kõnnib mööda kruusast rada metsa poole. Ta on riietatud roosasse pluusi ja tumedasse seelikusse, juuksed on hallid. Taustal on tihe roheline mets, mis viitab kevadele või suvele. Rada on ümbritsetud puude ja põõsastega. Pinnas on niiske ja pruunikas. Üldine meeleolu on rahulik, kuid subtiitrid annavad aimu vanemaealiste inimeste eluolust ja võimalikest raskustest.",
+      "actions": [
+        "Mees hoiab plastpudelit",
+        "Naine hoiab tumedat anumat",
+        "Naine kõnnib veepumba poole",
+        "Naine täidab anumat veepumbast",
+        "Naine kõnnib veepumbast eemale mööda rada"
+      ],
+      "keywords": [
+        "Pensionär",
+        "Eakas naine",
+        "Eakas mees",
+        "Veepump",
+        "Vesi",
+        "Mets",
+        "Rada",
+        "Rohelus",
+        "Loodus",
+        "Pension",
+        "Töö",
+        "Põllumajandus",
+        "Eluolu"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Veepump",
+        "Plastpudel",
+        "Tume anum/kruus",
+        "Puud",
+        "Põõsad",
+        "Metsatee/rada",
+        "Naine (eakas)",
+        "Mees (eakas)",
+        "Vesi"
+      ],
+      "colorcodes": [
+        "#5A7E4F",
+        "#8B653A",
+        "#D5A9B0",
+        "#2C2C2C",
+        "#A09176",
+        "#E0E0E0"
+      ],
+      "texts": [
+        "People like me could live off quite well - they have their pension, and only if they have maintained their health and work,",
+        "And if you have farm animals, you have the possibility of growing everything on your own"
+      ],
+      "persons": [
+        "Eakas naine",
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris on näha nii mees kui naine veepumba juures, hilisemates kaadrites on fookus ainult naisel.",
+        "Naise tegevus areneb: ta läheneb pumbale, täidab anumat ja kõnnib seejärel eemale.",
+        "Kaadrite kaugus muutub: esialgu keskmine kaader, seejärel keskmine lähivõte ja lõpuks üldkaader naisest eemal kõndimas.",
+        "Ekraanil kuvatavad subtiitrid muutuvad iga kaadriga, esitades järjestikuse loo fragmendi."
+      ],
+      "snr": "061",
+      "ajad": [
+        "453.760",
+        "476.240"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõtet värskelt istutatud lilledest tumedas mullas, mis viitab hiljutisele aiatööle. Esiplaanil on kaks peamist taimegruppi. Vasakul pool on madal põõsas, millel on väikesed roosakas-lillad õied ja tihe roheline lehestik. Paremal pool on grupp võõrasemasid ehk pansesid, mille õied on valged, tumelillad ja valgete õielehtede ning tumelilla südamikuga. Lilled on istutatud tumepruuni, kohevasse mulda, mis näib olevat äsja kaevatud ja kuhjatud. Taust on udune, kuid paistab olevat kruusane või mullane ala, kus on kaugemal veel rohelust ja mõned ähmased struktuurid, mis võiksid olla hauakivid või aiakaunistused. Pildi allosas on ingliskeelne subtiitrite tekst.",
+      "actions": [
+        "Lillede istutamine",
+        "Mulla kaevamine",
+        "Aiatööde tegemine"
+      ],
+      "keywords": [
+        "Lilled",
+        "Võõrasemad",
+        "Muld",
+        "Istutamine",
+        "Aiatöö",
+        "Kevad",
+        "Rohelus",
+        "Väliaia",
+        "Subtiitrid",
+        "Pansies"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Võõrasemad (lilled)",
+        "Põõsas väikeste roosade õitega",
+        "Muld",
+        "Rohelus taustal",
+        "Kruusane/mullane rada taustal",
+        "Hägustatud struktuurid taustal (võimalikud hauakivid või aiapiirded)"
+      ],
+      "colorcodes": [
+        "#5A2A69",
+        "#F2F2F2",
+        "#3A662F",
+        "#5C3D28",
+        "#9955AA",
+        "#1A1A1A",
+        "#DDA0DD"
+      ],
+      "texts": [
+        "And if you have farm animals,",
+        "you have the possibility of growing everything on your own"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Piltidel puuduvad erinevused."
+      ],
+      "snr": "062",
+      "ajad": [
+        "476.240",
+        "480.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kalmistukeskkonda maapinnalt vaadatuna, keskendudes esiplaanil värskelt istutatud kirgastele lilladele ja valgetele võõrasemadele. Lilled on istutatud tumedasse, äsja kaevatud mulda, mis moodustab piki teed või hauaplatsi kulgeva rea. Taamal paistavad hallid astmelauad või hauaplaadid, mis loovad raja. Stseeni vasakul ja keskel on näha kahe inimese jalgu. Ühel inimesel on seljas tumedad kingad kõrge kontsaga ja tumedam seelik, kes parajasti tegeleb haua hooldamisega, hoides käes mingit tööriista, mis meenutab harja või reha vart. Teisel inimesel on jalas heledad, ilmselt valged, madalad kingad. Paremal pool stseenis on näha hallikaid hauakive ja taamal rohelust ning puid, mis annavad edasi rahuliku ja loodusliku kalmistu miljöö. Üldine õhkkond on mõtisklev ja hooliv.",
+      "actions": [
+        "Istutamine (lillede)",
+        "Haua hooldamine",
+        "Kalmistul kõndimine"
+      ],
+      "keywords": [
+        "Kalmistu",
+        "Haud",
+        "Lilled",
+        "Võõrasema",
+        "Istutamine",
+        "Hooldus",
+        "Mälestus",
+        "Kevad",
+        "Suvi"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Võõrasemad (pansies)",
+        "Muld",
+        "Kivimüüritis / astmelauad",
+        "Hauakivi",
+        "Puu (taamal)",
+        "Inimese jalad",
+        "Kingad (kontsaga ja madalad)",
+        "Tööriista vars"
+      ],
+      "colorcodes": [
+        "#A580B8",
+        "#6B408C",
+        "#4A6E3B",
+        "#739C5E",
+        "#4A3A2C",
+        "#6D503C",
+        "#858079",
+        "#1C1D21",
+        "#E8E8E8"
+      ],
+      "texts": [
+        "I could even bake bread.",
+        "I don't care if there are any shops around."
+      ],
+      "persons": [
+        "Kaks inimest (sh. naine)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Kolmandal pildil on lisatud tekstiekraan. Teisel ja esimesel pildil teksti ei ole.",
+        "Taamal oleva inimese kehaasendis ja hoitava tööriista nurgas on väga väikesed, peaaegu märkamatud muutused, mis viitavad lühikesele liikumisjärjestusele."
+      ],
+      "snr": "063",
+      "ajad": [
+        "480.640",
+        "485.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab rahuliku ja hoolitsetud surnuaia vaadet, kus roheline loodus kohtub mälestusmärkidega. Vasakul on näha suure puu jäme tüvi ning selle kõrval tagaplaanil tumedast materjalist risti kujuline hauamärk, mille juures põlevad punased küünlad või on punased lilled. Keskel lookleb kruusane või mullane teeplaatidest sillutatud rada, mis viib sügavale kaadrisse. Raja ääres ja hauaplatsidel kasvavad mitmesugused lilled, sealhulgas violetsed, valged, punased ja oranžid õied. Paremal domineerib hele kivist hauakivi, millele on graveeritud tekst 'TOMBA PEREKONNA RAHULA'. Taustal laiub tihe lehtmets, mis annab stseenile rohelise ja lopsaka ilme. Kaadri alumises vasakus ja keskosas liigub läbi kaadri piklik, puidust esemega sarnanev tööriist või oks, mis viitab hauaplatsi hooldamisele. Stseeni valgustab ere päevavalgus, mis loob selge ja detailirohke pildi.",
+      "actions": [
+        "Hauaplatsi hooldamine või puhastamine",
+        "Pika eseme (pulga/tööriista) liikumine üle kaadri"
+      ],
+      "keywords": [
+        "surnuaed",
+        "kalmistu",
+        "hauaplats",
+        "loodus",
+        "puud",
+        "lilled",
+        "mälestusmärk",
+        "vaikus",
+        "rahula",
+        "hooldamine",
+        "Eesti"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "hauakivi",
+        "rist",
+        "puutüvi",
+        "lilled (viiulid, begooniad vms)",
+        "teeplaadid",
+        "muld",
+        "rohi",
+        "puud (taustal)",
+        "pulka/tööriista käepide"
+      ],
+      "colorcodes": [
+        "#A7A79E",
+        "#6B4C33",
+        "#4A6F3A",
+        "#E0E0E0",
+        "#CC5544",
+        "#6A3E6A",
+        "#8B6B55"
+      ],
+      "texts": [
+        "TOMBA PEREKONNA RAHULA",
+        "I could even bake bread.",
+        "I don't care if there are any shops around."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puudub kaadri vasakul alumises osas piklik ese (pulk/tööriist), mis ilmub teisel pildil ja liigub kolmandal pildil veelgi kaugemale kaadrisse, olles selgemalt nähtav."
+      ],
+      "snr": "064",
+      "ajad": [
+        "485.480",
+        "487.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab välikaadrit bussipeatusest pilvise taeva all. Esiplaanil vasakul seisab metallist postil nelinurkne bussipeatuse silt, millel on sinine raam ja sinine alumine riba. Sildi valgel osal on stiliseeritud must bussikujutis küljelt vaadatuna. Sildi alumisel sinisel ribal on valge suurtähtedes tekst \"HURMI\". Paremal sildi taga ja kõrval on näha mitu raagus puud tumedate, haraliste okstega, mis viitavad talvisele või hilissügisesele perioodile. Puude tagant paistab hele, ühtlane pilves taevas. Pildil 1 on näha ka valged subtiitrid \"I could even bake bread. I don't care if there are any shops around.\", mis pildil 2 puuduvad. Teine pilt on kergelt ülespoole ja paremale nihutatud/suumitud, jättes välja subtiitrite ala ja alumise vasaku nurga detailid.",
+      "actions": [],
+      "keywords": [
+        "bussipeatus",
+        "Hurmi",
+        "buss",
+        "silt",
+        "raagus puud",
+        "talv",
+        "sügis",
+        "pilves taevas",
+        "teeäärne",
+        "subtiitrid"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "bussipeatuse silt",
+        "metallpost",
+        "bussikujutis",
+        "raagus puud",
+        "oksad",
+        "taevas",
+        "subtiitrid"
+      ],
+      "colorcodes": [
+        "#2B6DA2",
+        "#FFFFFF",
+        "#000000",
+        "#A1A1A1",
+        "#6B5D55",
+        "#D6DCE0"
+      ],
+      "texts": [
+        "HURMI",
+        "I could even bake bread.",
+        "I don't care if there are any shops around."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha valged subtiitrid (\"I could even bake bread. I don't care if there are any shops around.\"), mis teisel pildil puuduvad.",
+        "Kaadri kadreering on erinev: teine pilt on kergelt ülespoole ja paremale nihutatud või sisse suumitud, eemaldades subtiitrite ala ja alumise vasaku nurga detailid."
+      ],
+      "snr": "065",
+      "ajad": [
+        "487.840",
+        "489.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maapiirkonda pilves kevad- või varasügispäeval, kus peategelaseks on valge ja sinisevärviline kauplusauto, mis meenutab ümber ehitatud bussi või veoautot. Sõidukil on küljel suured soomekeelsed kirjad, sealhulgas \"KAUPPA-AUTO HAI-PAK\" ja \"HÄÄKONEN AUTO\". Auto on pargitud kruusatee äärde. Taustal laiuvad rohelised põllud, mõned paljad lehtpuud ja lihtsad puidust hooned, sh vana taluhoone ja talutehnika, näiteks traktor. Vasakul on näha ka puidust teivasliini postid ja juhtmed. Kaadrisse ilmub hiljem halli jope ja tumedate pükstega inimene, kes kannab punutud ostukorvi ja kõnnib rahulikult kauplusauto poole mööda kruusateed. Üldine atmosfäär on vaikne ja maaeluline, vihjates kogukonnale, kus mobiilsed poeteenused on olulised. Stseenis on näha ingliskeelsed subtiitrid, mis annavad konteksti piirkonna varasemast kaubanduskultuurist.",
+      "actions": [
+        "Kauplusauto on pargitud",
+        "Inimene kõnnib tee ääres",
+        "Inimene kannab ostukorvi"
+      ],
+      "keywords": [
+        "Kauplusauto",
+        "Maaelu",
+        "Kruusatee",
+        "Kevad",
+        "Inimene",
+        "Ostukorv",
+        "Mercedes-Benz",
+        "Soome tekst",
+        "Talumaja",
+        "Traktor",
+        "Mobiilne pood"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kauplusauto",
+        "Mercedes-Benz esiosa",
+        "Kruusatee",
+        "Rohi",
+        "Puidust hoone",
+        "Traktor",
+        "Teivasliini postid",
+        "Paljad puud",
+        "Ostukorv",
+        "Sildid"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#336699",
+        "#A0A0A0",
+        "#609030",
+        "#996633",
+        "#F0C000",
+        "#CCCCCC"
+      ],
+      "texts": [
+        "KAUPPA-AUTO HAI-PAK",
+        "HÄÄKONEN AUTO",
+        "PÄAKAINEN AUTO",
+        "MIRKELI",
+        "HAI-PAKKA",
+        "When I arrived here in 1960, the closest shop was in Kanepi.",
+        "People went there twice a week by horse"
+      ],
+      "persons": [
+        "Inimene (hallis jopes, ostukorviga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puudub inimene ja ingliskeelsed subtiitrid, mis ilmuvad järgmistel piltidel.",
+        "Järgmistes kaadrites on näha, kuidas inimene kõnnib kaugemalt kauplusauto poole."
+      ],
+      "snr": "066",
+      "ajad": [
+        "489.880",
+        "497.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast siseruumi, mis näib olevat ladu, pood või jaotuspunkt, kus keskealine või vanem inimene tegeleb kauba, tõenäoliselt leiva või pakendatud toiduainete paigutamise või sorteerimisega puidust riiulitele ja kastidesse. Isik kannab paksu halli fliisjakki ja triibulist talvemütsi, mis viitab jahedamale keskkonnale. Valgustus on pigem hämar, pärinedes ülevalt. Taustal on näha klaasustega kapid, mis võivad olla külmikud või vitriinkapid. Isik tegeleb hoolega pakkide paigutamisega või võtmisega puidust sahtlitest/riiulitest, hoides ühes kaadris pakendatud leiba kahe käega.",
+      "actions": [
+        "Esmete paigutamine riiulitele",
+        "Esmete sorteerimine",
+        "Kauba käitlemine",
+        "Esmete riiulitelt võtmine",
+        "Pakendatud toiduainete hoidmine"
+      ],
+      "keywords": [
+        "Ladustamine",
+        "Kaubandus",
+        "Jaotuspunkt",
+        "Leivajagamine",
+        "Talv",
+        "Riiulid",
+        "Toiduained",
+        "Käsitsitöö",
+        "Nõukogude aeg",
+        "Jahe keskkond"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Puidust riiulid",
+        "Puidust kastid",
+        "Pakendatud toiduained",
+        "Leib",
+        "Sai",
+        "Sinine plastkast",
+        "Klaasustega kapid",
+        "Külmikud",
+        "Vitriinkapid",
+        "Valgustid",
+        "Fliisjakk",
+        "Talvemüts"
+      ],
+      "colorcodes": [
+        "#727370",
+        "#A87E5E",
+        "#2D2D2D",
+        "#A0A0A0",
+        "#D4C0A2"
+      ],
+      "texts": [
+        "People went there twice a week by horse",
+        "Tosta!",
+        "Everyone got bread just as much as they were given",
+        "DULJE OD KRTOS"
+      ],
+      "persons": [
+        "Keskealine või vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris ulatub inimene parema käega riiulisse eseme järele.",
+        "Teises kaadris hoiab inimene pakendatud toodet ühes käes, olles just selle riiulile asetanud või sealt võtnud.",
+        "Kolmandas kaadris hoiab inimene pakendatud toodet kahe käega, vaadates allapoole süvenenult.",
+        "Subtiitrite tekst kaadrite vahel muutub või puudub.",
+        "Kaamera nurk ja subjekti asend muutuvad veidi, pakkudes erinevaid vaatenurki tegevusele."
+      ],
+      "snr": "067",
+      "ajad": [
+        "497.680",
+        "513.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist mobiilses kaupluses või poebussis. Naine asub kaadri paremas servas esiplaanil, kandes peas triibulist kootud mütsi ja seljas helesinist fliismaterjalist tõmblukuga jakki, mille all on kollane pluus. Tema ilme on tõsine ja mõtlik, silmad vaatavad allapoole ja paremale. Naine paistab olevat keskeas või vanem. Kaupluse sisemus on kitsas ja täidetud riiulitega, mis on laotud erinevate kaupadega, sealhulgas toiduainete, jookide ja pakendatud toodetega. Riiulid ulatuvad pika koridori moodi ruumi tagumisse ossa. Vasakul pool on näha riiuleid, mis on täidetud näiteks piima- või mahlapakkidega, samuti on vasakul tagapool näha külmletti või -kappi. Paremal pool naise taga on mitu riiulit, millel on näha pagaritooteid, pakendatud snäkke ja muid kaupu. Allpool on sinises kastis näha erinevaid pudeleid. Kaupluse lagi on heledast, läbikumavast materjalist, mis laseb valgust sisse, ja seal on ka kunstvalgustid. Põrand on heledat puitu meenutav. Kaadri keskel tagapool on näha ust ja aknakonstruktsioone. Üleüldine õhkkond on rahulik, kuid naise ilme annab edasi sügavama emotsiooni.",
+      "actions": [
+        "Naine seisab paigal",
+        "Naine vaatab mõtlikult allapoole ja paremale"
+      ],
+      "keywords": [
+        "Mobiilne kauplus",
+        "Naine",
+        "Riiulid",
+        "Toiduained",
+        "Joogid",
+        "Kootud müts",
+        "Fliisjakk",
+        "Siseruum",
+        "Pood",
+        "Maapood",
+        "Kaup"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Kootud müts",
+        "Fliisjakk",
+        "Kaupluseriiulid",
+        "Toiduained",
+        "Joogid",
+        "Pakendid",
+        "Külmkapp",
+        "Puitpõrand",
+        "Valgustid",
+        "Lagi",
+        "Uks",
+        "Kassasüsteem (osaliselt nähtav paremal)",
+        "Sinine kast",
+        "Kollane pluus"
+      ],
+      "colorcodes": [
+        "#8AB8D1",
+        "#4A4E54",
+        "#A5A29D",
+        "#EDEBE8",
+        "#9E8062",
+        "#E0DCCD",
+        "#EBEBEB",
+        "#000000",
+        "#FFFFFF",
+        "#C8A44C"
+      ],
+      "texts": [
+        "But i don't think I am one, entirely"
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Ainus erinevus piltide vahel on subtiitrite (But i don't think I am one, entirely) lisandumine teisel ja kolmandal pildil."
+      ],
+      "snr": "068",
+      "ajad": [
+        "513.120",
+        "516.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maapiirkonda, kus vana, kulunud buss on pargitud kruusatee ääres bussipeatuse juurde. Bussipeatuse sinine silt, millel on bussipiktogramm ja tekst 'HURMI', seisab teest paremal pool. Bussil on helesinine alumine osa ja beezikas-valge ülemine osa, mida kaunistavad oranžid, punased ja rohelised triibud. Bussi küljel on näha ka osaliselt kustunud tekstid 'HAMONEN AUTO' ja 'PAKKAN AUTO'. Stseeni vasakul küljel, bussi uksest on väljumas keskealine või vanem inimene, kes kannab halli või helesinist jopet, tumedaid pükse ja triibulist mütsi. Inimene hoiab käes punutud korvi. Taustal on näha raagus puid ja halli, pilvist taevast, mis annab stseenile melanhoolse ja jaheda ilme. Maastik on hõre ja looduslik, viidates küla- või metsatee keskkonnale. Allservas on valged subtiitrid, mis edastavad tegelase mõtteid.",
+      "actions": [
+        "Inimene väljub bussist",
+        "Inimene seisab bussi kõrval",
+        "Inimene kannab korvi"
+      ],
+      "keywords": [
+        "buss",
+        "bussipeatus",
+        "maantee",
+        "kruusatee",
+        "raagus puud",
+        "külake",
+        "inimene",
+        "korv",
+        "vanasõiduk",
+        "subtiitrid",
+        "pilvine taevas"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "buss",
+        "bussipeatuse silt",
+        "kruusatee",
+        "raagus puud",
+        "korv",
+        "riided",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#A8C8D8",
+        "#3C5C84",
+        "#D8D8C0",
+        "#8C8C7C",
+        "#F0F0F0",
+        "#203040"
+      ],
+      "texts": [
+        "HURMI",
+        "HAMONEN AUTO",
+        "PAKKAN AUTO",
+        "But i don't think I am one, entirely",
+        "I don't have any time for thinking bad thoughts. That's why I need to have these animals."
+      ],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on inimene osaliselt bussi poolt varjatud, astudes just uksest välja. Subtiitrid näitavad teksti: 'But i don't think I am one, entirely'.",
+        "Teisel pildil on inimene astumas bussi astmelt maha, üks jalg maas ja teine astmel. Subtiitrid näitavad teksti: 'I don't have any time for thinking bad thoughts. That's why I need to have these animals.'",
+        "Kolmandal pildil on inimene täielikult bussist väljunud ja seisab bussi kõrval kruusateel, hoides korvi. Subtiitrid on samad mis teisel pildil: 'I don't have any time for thinking bad thoughts. That's why I need to have these animals.'"
+      ],
+      "snr": "069",
+      "ajad": [
+        "516.640",
+        "525.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kevadist päeva maapiirkonnas, kus üks inimene kõnnib mööda kruusa- ja murukattega teed. Taevas on selge sinine, hajusate valgete pilvedega. Inimene on riietatud heledasse, paksu jopesse ja musta-valgetriibulisse kootud mütsi ning liigub kaadris vasakult paremale. Tee ääres on näha bussipeatuse silt, millel on bussi kujutis ja tekst 'BUSSIPEATUS'. Ümbritsevas maastikus on paljaid või hõreda lehestikuga puid, mis viitab varakevadele, samuti elektriliine ja -poste. Maapind on kaetud rohu ja kuivanud taimejäänustega, mis kohati rohetab. Kauguses on näha hajusaid hooneid. Subtiitrid kirjeldavad inimese kohustusi ja igapäevaelu, andes mõista rutiinist ja vajadusest teatud toiminguid (nagu lauta minek) sooritada, isegi kui ilm on halb.",
+      "actions": [
+        "Inimene kõnnib teel",
+        "Inimene möödub bussipeatusest"
+      ],
+      "keywords": [
+        "Kevad",
+        "Maapiirkond",
+        "Jalutuskäik",
+        "Bussipeatus",
+        "Argipäev",
+        "Kohustused",
+        "Päikeseline",
+        "Pilvine",
+        "Tee",
+        "Väljas"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Jope",
+        "Müts",
+        "Bussipeatuse silt",
+        "Buss (sildil)",
+        "Elektriliinid",
+        "Elektriliinipostid",
+        "Puud",
+        "Rohi",
+        "Maatee",
+        "Pilved",
+        "Taevas",
+        "Hoone (kauguses)",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#69B2E3",
+        "#F0F5F8",
+        "#E0E0E0",
+        "#303030",
+        "#708050",
+        "#A08060",
+        "#504030",
+        "#4070B0"
+      ],
+      "texts": [
+        "Then I have the opportunity to go to the barn. Sometimes, when the weather is really bad, I skip this as well.",
+        "I have responsibilities all the time",
+        "BUSSIPEATUS"
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Inimese asukoht kaadris muutub, ta liigub edasi mööda teed.",
+        "Piltidele lisanduvad subtiitrid teises ja kolmandas kaadris, kusjuures tekstisisu muutub kaadrite vahel.",
+        "Bussipeatuse silt muutub teises kaadris paremini nähtavaks ja loetavaks.",
+        "Kaamera vaatenurk nihkub kergelt inimese liikumist jälgides, muutes taustal olevate objektide positsiooni kaadris."
+      ],
+      "snr": "070",
+      "ajad": [
+        "525.160",
+        "533.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maaelu idülli päikselisel, kuid pilvisel päeval, kus talumees toimetab oma igapäevaste ülesannetega. Pruun hobune, kes alguses hoogsalt üle rohelise välja kappab, liigub hiljem rahumeelselt koos inimesega. Mees, riietatud heledasse mantlisse ja kandes kahte ämbrit, sammub hobuse kõrval, mis viitab loomade eest hoolitsemisele. Taustal domineerib suur puidust laudahoon, mis annab stseenile maalähedase ja autentse ilme. Maapinnal on roheline rohi ja esiplaanil on näha talutehnikat, mis viitab aktiivsele põllumajanduslikule tegevusele. Üldine atmosfäär on rahulik, kuid samas annab subtiitrite tekst edasi mõtiskluse maaelu kohustuste ja vastutuse üle, vastandades seda moodsa aja passiivsematele eluviisidele.",
+      "actions": [
+        "Hobune kappab",
+        "Hobune kõnnib",
+        "Mees kõnnib",
+        "Mees kannab ämbreid",
+        "Loomade eest hoolitsemine",
+        "Talutööd tegemine"
+      ],
+      "keywords": [
+        "Talu",
+        "Maaelu",
+        "Hobune",
+        "Laud",
+        "Kohustused",
+        "Töötamine",
+        "Loodus",
+        "Põllumajandus",
+        "Igapäevaelu",
+        "Vastutus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Hobune",
+        "Mees",
+        "Puidust laudahoon",
+        "Ämbrid",
+        "Talutehnika",
+        "Rohi",
+        "Puud",
+        "Elektriliinid",
+        "Elektrimastid",
+        "Pilved"
+      ],
+      "colorcodes": [
+        "#724D3D",
+        "#3A5F1E",
+        "#A8C2DC",
+        "#F0F0F0",
+        "#FFC107"
+      ],
+      "texts": [
+        "I have responsibilities all the time",
+        "Some say that \"Oh, I don't have anything to do. I watch some series all day long\""
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt näitab hobust jooksmas laiemas plaanis ja fookus on rohkem ümbritseval maastikul ning talutehnikal esiplaanil, koos tekstiga \"I have responsibilities all the time\".",
+        "Teine pilt on lähim kaader mehest ja hobusest koos, kus nad kõnnivad kõrvuti, ning kuvatakse tekst \"Some say that \\\"Oh, I don't have anything to do. I watch some series all day long\\\"\".",
+        "Kolmas pilt näitab meest ja hobust eemaldumas kaamerast, sammudes lauda poole, kaamera asend on madalamal ning teksti puudub.",
+        "Valguse tase ja varjud muutuvad kaadrite vahel veidi, viidates kaamera nurga või hetkevalguse erinevusele."
+      ],
+      "snr": "071",
+      "ajad": [
+        "533.200",
+        "560.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaatega kevadist maastikku taluhoone ja põllumajandustehnikaga päikesepaistelisel päeval. Esiplaanil on vanem helesinine või rohekassinine traktor, millele on taha kinnitatud mullafrees või kultivaator. Traktor seisab kuivanud rohu ja mulla segusel pinnasel, mis viitab kevade algusele enne taimestiku täielikku rohetamist. Traktori kohal ja taga on pikk puidust elektripost koos mitme traadiga, mis ristuvad üle taeva. Keskplaanil, traktori taga vasakul, asub suur pikk ja madal hallikas pruuni katusega taluhoone, millel on mitu rida väikesi aknaid. Hoone ees on ka mingi transpordihaagis või veoauto platvorm. Tagaplaanil paistavad hõredad puud ja põõsad, millel pole veel lehti, mis kinnitab aastaaja kevad. Taevas on selge helesinine, kaetud hajusate valgete pilvedega. Üldine atmosfäär on vaikne ja töö ootust täis.",
+      "actions": [
+        "Traktor seisab paigal",
+        "Põllutööriistad on valmis tööks"
+      ],
+      "keywords": [
+        "maastik",
+        "talu",
+        "kevad",
+        "traktor",
+        "põld",
+        "põllumajandus",
+        "elektripost",
+        "pilves taevas",
+        "rutiin",
+        "töö",
+        "aega nappus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "traktor",
+        "kultivaator",
+        "põllumajandushoone",
+        "elektripost",
+        "elektriliinid",
+        "põld",
+        "pilved",
+        "puud",
+        "haagis"
+      ],
+      "colorcodes": [
+        "#A0C4CC",
+        "#8B7A49",
+        "#6CA4CD",
+        "#FFFFFF",
+        "#4F4F4F",
+        "#D4D4D4",
+        "#8B4513"
+      ],
+      "texts": [
+        "Days are too short for things like this.",
+        "There is a lot of hassle with work"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid, teisel ja kolmandal pildil on lisatud ingliskeelsed subtiitrid."
+      ],
+      "snr": "072",
+      "ajad": [
+        "560.720",
+        "564.640"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kolm noort siga (põrsast) siseruumides, tõenäoliselt laudas või loomapidamiskohas. Vasakul pool on näha helepunane soojenduslamp, mis valgustab ala intensiivse punase valgusega, kus paikneb kaks põrsast. Keskmine põrsas on samuti punaka valguse käes, samas kui parempoolne põrsas on suuremalt jaolt varjus. Põrand on kaetud rohke heina või põhuga, mis annab hubase ja talupidamisele iseloomuliku ilme. Põrsad vaatavad kaamera poole, tundudes uudishimulikud või tähelepanelikud. Paremal on näha puidust konstruktsioon, mis tõenäoliselt on söödaküna või aediku osa. Valguse ja varju kontrast loob sügavust, punane valgus domineerib stseeni vasakus osas, andes soojuse ja hoole tunde. Põrsaste valge-roosa nahk eristub selgelt punasel heina taustal.",
+      "actions": [
+        "Põrsad seisavad ja vaatavad ümbrust",
+        "Põrsad uurivad kaamera suunda",
+        "Põrsad liiguvad aeglaselt aedikus"
+      ],
+      "keywords": [
+        "Põrsad",
+        "Sead",
+        "Loomad",
+        "Talupidamine",
+        "Soojuslamp",
+        "Hein",
+        "Põhk",
+        "Laut",
+        "Farm",
+        "Punane valgus",
+        "Põrsakasvatus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Põrsad",
+        "Hein",
+        "Põhk",
+        "Puidust söödaküna/aedik"
+      ],
+      "colorcodes": [
+        "#FF0000",
+        "#D8BFD8",
+        "#F5DEB3",
+        "#8B4513",
+        "#363636"
+      ],
+      "texts": [
+        "There is a lot of hassle with work",
+        "Sometimes, the kids come to help me as well"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Tekst kaadrite allosas muutub esimese kahe kaadri vahel, olles sama ('There is a lot of hassle with work'), ning seejärel muutub kolmandas kaadris ('Sometimes, the kids come to help me as well').",
+        "Põrsaste asendites on minimaalseid muutusi, mis viitavad nende loomulikule liikumisele: keskmise põrsa pea on veidi nihkunud ja parempoolne varjus olev põrsas on pisut asendit muutnud, kolmandas kaadris on tema nägu selgemini nähtav.",
+        "Valguse ja varju proportsioonid ja intensiivsus on mõnevõrra muutunud, eriti keskmise ja parempoolse põrsa ümber, andes stseenile dünaamilisust ja edastades ajalist kulgu."
+      ],
+      "snr": "073",
+      "ajad": [
+        "564.640",
+        "570.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sisetingimustes sigalas või laudas toimuvat tööd. Pimedat ruumi valgustab peamiselt ere punane soojuslamp, mis annab kogu stseenile sooja ja intensiivse punaka tooni. Esiplaanil on näha inimese käed ja osa kehast, kes on riietatud tumedatesse riietesse ning tegeleb aktiivselt põhu või heina loopimisega kolmeharulise hargiga. Hargi külge on kogunenud hulgaliselt kuiva materjali, mis viitab põrandamaterjali vahetusele või söötmisele. Põrand on kaetud paksu põhu- ja heinakihi ning mustuse seguga. Piltidel on näha vähemalt kaks noort siga, kelle nahk on roosakas ja keda punane valgus samuti valgustab. Üks siga on lähedamal, teine tagaplaanil. Ümberringi on näha lauda piirdeid ja seinu, mis on ehitatud puidust või metallist. Kogu stseen annab edasi maalähedase ja töise õhkkonna.",
+      "actions": [
+        "Hargiga põhu/heina loopimine",
+        "Sigade põrandamaterjali vahetamine",
+        "Töö tegemine laudas",
+        "Sigade liikumine"
+      ],
+      "keywords": [
+        "Sigala",
+        "Siga",
+        "Põhk",
+        "Hein",
+        "Hark",
+        "Punane lamp",
+        "Talutöö",
+        "Põllumajandus",
+        "Laud",
+        "Soojuslamp",
+        "Öine töö"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Hark",
+        "Põhk",
+        "Hein",
+        "Siga",
+        "Punane soojuslamp",
+        "Puidust piire",
+        "Käsi",
+        "Varrukas",
+        "Põrand"
+      ],
+      "colorcodes": [
+        "#D60303",
+        "#A06F3D",
+        "#ECB7B1",
+        "#3C4B5F",
+        "#6D5C4A"
+      ],
+      "texts": [
+        "Sometimes, the kids come to help me as well",
+        "Otherwise, I would think that I am a tough old lady and can handle it by myself"
+      ],
+      "persons": [
+        "Üks inimene (käed ja osa kehast näha, tekstist tuletatud 'tough old lady')",
+        "Lapsed (tekstis mainitud, ei ole nähtavad)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on hark lähemal ja pigem suunatud kaamera poole, tõstes põrandalt materjali, teisel pildil on hark kõrgemal ja suunatud paremale, materjali õhku loopimas.",
+        "Sigade asukoht ja nähtavus muutuvad veidi, mis viitab nende liikumisele stseeni käigus.",
+        "Kaadrite allosas kuvatakse erinevat teksti, mis annab edasi vestluse järjepidevust."
+      ],
+      "snr": "074",
+      "ajad": [
+        "570.000",
+        "576.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist, kes töötab hämaras ja robustses laudas või tallis. Telliskiviseinad on kulunud ja lagunenud, luues vana ja räsitud keskkonna. Naine on riietatud soojalt, kandes triibulist mütsi, tumesinist pusa või jakki ja tumedaid pükse, mis viitab jahedale temperatuurile. Ta tegeleb füüsilise tööga, kasutades pikavarrelist tööriista, mis näib olevat labidas või hang. Tema ümber on erinevaid taluesemeid, nagu ämbrid, torud ja võimalikud loomasõimed vasakul pool. Üldine atmosfäär on töine ja rõhutab vanema inimese igapäevast rasket elu maal. Valgus on nõrk, osaliselt sissepääsev loomulik valgus aknast vasakul ja uksest tagaplaanil.",
+      "actions": [
+        "labidaga millegi tõstmine või lükkamine",
+        "millegi vaatamine või reguleerimine",
+        "füüsilise töö tegemine laudas"
+      ],
+      "keywords": [
+        "laut",
+        "töö",
+        "taluelu",
+        "vanadus",
+        "väsimus",
+        "raske töö",
+        "maaelu",
+        "telliskivi",
+        "härm",
+        "looduslik valgus",
+        "talunik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "telliskiviseinad",
+        "uks",
+        "aken",
+        "labidas",
+        "ämbrid",
+        "torud",
+        "sõimed",
+        "müts",
+        "pusa"
+      ],
+      "colorcodes": [
+        "#8B7A6D",
+        "#3C3C3C",
+        "#2C3E50",
+        "#E0E0E0",
+        "#606060",
+        "#5A4035",
+        "#A9A9A9",
+        "#B09F90"
+      ],
+      "texts": [
+        "Otherwise, I would think that I am a tough old lady and can handle it by myself",
+        "This is how my days are passing by. I have gotten old like this.",
+        "I used to have even more things to do when I was young."
+      ],
+      "persons": [
+        "vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Naise asend ja tegevus muutuvad veidi kaadrite vahel. Esimeses kaadris on ta aktiivsemalt labidaga tööd tegemas, teises vaatab alla ja hoiab labidat, kolmandas on pööratud veidi vasakule ja justkui midagi sättimas. ",
+        "Subtiitrite tekstid on iga kaadri juures erinevad, moodustades järjestikuse loo. "
+      ],
+      "snr": "075",
+      "ajad": [
+        "576.680",
+        "587.880"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab vanema inimese käsi, kes pesevad nõusid kraanikausis. Kaamera fookus on inimeste kätel, valgel taldrikul ja sinises kausis, mis on täidetud veega. Taldrikut pestakse kraanist voolava vee all. Kraanikausi kõrval ripub valge rätik. Taust on veidi udune, kuid viitab siseruumile, tõenäoliselt köögile. Kogu tegevus toimub rahulikus tempos, mis on kooskõlas ekraanil kuvatavate subtiitritega, mis räägivad möödunud ajast ja oleviku nautimisest. Valgus on ere, viitades päevasele ajale.",
+      "actions": [
+        "Nõudepesu",
+        "Taldriku pesemine",
+        "Vee valamine",
+        "Käte liigutamine",
+        "Taldriku loputamine"
+      ],
+      "keywords": [
+        "Nõudepesu",
+        "Köök",
+        "Käed",
+        "Taldrik",
+        "Vesi",
+        "Kraanikauss",
+        "Kodutöö",
+        "Vanem inimene",
+        "Filmi kaader",
+        "Refleksioon"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Käed",
+        "Valge taldrik",
+        "Sinine kauss",
+        "Kraanikauss",
+        "Segisti/kraan",
+        "Voolik",
+        "Valge rätik",
+        "Vesi",
+        "Taustal mingid karbid/mahutid"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#3876B4",
+        "#0A0F11",
+        "#BDBDBD",
+        "#5C5C5C",
+        "#9DA3AD"
+      ],
+      "texts": [
+        "I used to have even more things to do when I was young.",
+        "Now I can even enjoy days passing by, but there was no such thing back then"
+      ],
+      "persons": [
+        "Vanem inimene (käed)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub esimese ja teise pildi vahel.",
+        "Isiku käte ja taldriku asend muutub veidi, näidates nõudepesu tegevuse edenemist.",
+        "Vee voolamine kraanist ja taldrikult tilkumine on erinevatel piltidel pisut erineva intensiivsusega, mis peegeldab pidevat liikumist ja pesemist."
+      ],
+      "snr": "076",
+      "ajad": [
+        "587.880",
+        "594.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat inimest, kes kannab musta-valget triibulist kootud mütsi ja sinist pika varrukaga särki kollase kraega, pestes nõusid lihtsas valges emailist kraanikausis. Isik on enamasti seljaga vaataja poole pööratud. Ruumi seinad on kaetud töötlemata puidust paneelidega, andes ruumile maalähedase ja vana ilme. Kraanikausi kohal olev peegel peegeldab isiku nägu, mis on vanem ja näib mõtlik või väsinud, kandes ikka sama triibulist mütsi. Taustal on näha mitmesuguseid majapidamisesemeid: valged rätikud rippumas nagides, lihtsad puidust riiulid väikeste esemetega ning värviline mustriline kangas või tekk, mis on drapeeritud puidust ukse lähedal. Kraanikausi all on sinine plastämber. Valgustus viitab päevasele ajale, võimalik, et loomulikule valgusele. Üldine atmosfäär edastab tagasihoidliku, võimalik, et maapiirkonna, igapäevase kodutöö tunde.",
+      "actions": [
+        "Nõude pesemine",
+        "Peeglisse vaatamine"
+      ],
+      "keywords": [
+        "Nõudepesu",
+        "Maalähedane",
+        "Puidust interjöör",
+        "Peegelpilt",
+        "Vanadus",
+        "Kodutöö",
+        "Kraanikauss",
+        "Müts",
+        "Külaköök"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Triibuline müts",
+        "Sinine särk",
+        "Kollane krae",
+        "Valge kraanikauss",
+        "Kraan",
+        "Taldrikud",
+        "Kausid",
+        "Sinine ämber",
+        "Peegel",
+        "Puidust seinad",
+        "Puidust uks",
+        "Valged rätikud",
+        "Puidust riiulid",
+        "Värviline kangas"
+      ],
+      "colorcodes": [
+        "#37475F",
+        "#E0C749",
+        "#B6C0C4",
+        "#5A4739",
+        "#829D64",
+        "#D5D6D5",
+        "#F5F5DC",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "There's only one problem - I have the know how now, but I have become too old for all of this."
+      ],
+      "persons": [
+        "Vanem inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Viimane pilt sisaldab inglisekeelset tekstikatet alumises vasakus nurgas.",
+        "Peegelpildis on näha kergeid pea asendi ja ilme muutusi, mis viitavad pidevale liikumisele."
+      ],
+      "snr": "077",
+      "ajad": [
+        "594.760",
+        "598.080"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud eakas naine, kes istub tagasihoidliku kodu elutoas ruudulisel diivanil. Naine kannab kollast pikkade varrukatega särki, tumedat ruudulist vesti, tumedaid pükse ja heledat pearätti. Tal on ees prillid. Diivani tagant paistab aken, mis on kaetud valgete pitskardinatega, lastes sisse pehmet päevavalgust. Diivani vasakus servas (vaataja paremal) on valge pleed või tekk. Diivani paremal pool (vaataja vasakul) on näha ajalehti või ajakirju ja paberirulli. Diivani ees asetseval madalal puidust laual on ruudulisel laudlinal prillid, pult ja võimalik, et ka telefon või muu pisiesemeid. Toa seinad on heledad ja paremal pool on tumedam mööbliese või uks. Üldmulje on rahulik ja kodune.",
+      "actions": [
+        "Naine istub",
+        "Naine vaatab kaamerasse",
+        "Naine räägib (vastavalt subtiitritele)"
+      ],
+      "keywords": [
+        "eakas naine",
+        "siseruum",
+        "elutuba",
+        "diivan",
+        "kodu",
+        "rahulik",
+        "mõtlik",
+        "prillid",
+        "pearätt",
+        "pitskardinad"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "eakas naine",
+        "diivan",
+        "aken",
+        "pitskardinad",
+        "laud",
+        "prillid",
+        "pult",
+        "ajalehed",
+        "ajakirjad",
+        "paberirull",
+        "pearätt",
+        "särk",
+        "vest",
+        "püksid",
+        "pleed",
+        "laudlina",
+        "mööbliese"
+      ],
+      "colorcodes": [
+        "#E6C84C",
+        "#3F2C37",
+        "#D9D9D9",
+        "#2F343A",
+        "#964F3E",
+        "#D1B88E",
+        "#E0D8CC",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "There's only one problem - I have the know-how now, but I have become too old for all of this."
+      ],
+      "persons": [
+        "eakas naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha ingliskeelsed subtiitrid, mis teistel piltidel puuduvad.",
+        "Naise pilk ja kehahoid on piltidel veidi erinevad, viidates järjestikustele hetkedele videoülesvõttes. Esimesel pildil vaatab ta rohkem alla ja paremale, teistel otse kaamerasse või veidi ette."
+      ],
+      "snr": "078",
+      "ajad": [
+        "598.080",
+        "606.040"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb mustal taustal olevatest tekstiplokkidest, mis edastavad informatsiooni filmi tegelaste kohta. Esimeses kaadris on ekraan täiesti must, valmistades ette teksti ilmumist. Järgmistel kaadritel ilmub ekraani keskele valge tekst, mis esitab filmi autori vanaema Anni Tomba (sündinud Hõrak 1942) ning tema õdede Koidu Toode (sündinud 1930, surnud 2011) ja Elsa Viljardi (sündinud 1927, surnud 2013) eluloolisi andmeid. Tekstivahetus toimub sujuvalt, pakkudes vaatajale lisakonteksti filmi või dokumentaali sisule. Valgus on puudub, kogu fookus on tekstil pimedal taustal.",
+      "actions": [
+        "Teksti ilmumine ekraanile",
+        "Teksti vahetumine ekraanil"
+      ],
+      "keywords": [
+        "Tiitrid",
+        "Must taust",
+        "Informatsioon",
+        "Filmikrediidid",
+        "Perekonnaliikmed",
+        "Eluloolised andmed",
+        "Dokumentaalfilm",
+        "Isikud",
+        "Sünniaasta",
+        "Surma-aasta"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Portreteeritav on filmi autori vanaema",
+        "Anni Tomba (sünd. Hõrak 1942)",
+        "Filmis osalesid ka Anni õed",
+        "Koidu Toode (s. 1930 † 2011)",
+        "Elsa Viljard (s. 1927 † 2013)"
+      ],
+      "persons": [
+        "Anni Tomba (sünd. Hõrak 1942)",
+        "Koidu Toode (s. 1930 † 2011)",
+        "Elsa Viljard (s. 1927 † 2013)"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene kaader on täiesti must, ilma igasuguse tekstita.",
+        "Teises kaadris ilmub mustale taustale valge tekst, mis tutvustab filmi autori vanaema Anni Tomba (sünd. Hõrak 1942).",
+        "Kolmandas kaadris vahetub tekst, andes infot Anni õdede Koidu Toode (s. 1930 † 2011) ja Elsa Viljardi (s. 1927 † 2013) kohta."
+      ],
+      "snr": "079",
+      "ajad": [
+        "606.040",
+        "618.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab filmi lõputiitreid ehk tunnustust, mis koosneb kolmest järjestikusest kaadrist. Kõik kaadrid on musta taustaga. Esimeses kaadris kuvatakse valge tekst, mis teatab, et filmis osalesid ka Anni õed Koidu Toode (s. 1930 † 2011) ja Elsa Viljard (s. 1927 † 2013). Teine kaader on täiesti must, ilma igasuguse teksti või pildita, toimides tõenäoliselt üleminekuna. Kolmas kaader jätkab valge tekstiga mustal taustal, kus pealkirja 'tänud' all on loetletud mitu nime: Maire Vals, Maris Tomba, Hanna Samoson, Ekke Vasli, Lauri Laasik, Elen Lotman ja Ly Pulk. Kogu stseen on minimalistlik ja keskendub tekstilise informatsiooni edastamisele.",
+      "actions": [
+        "Teksti kuvamine",
+        "Kaadrite vahetamine"
+      ],
+      "keywords": [
+        "Lõputiitrid",
+        "Tiitrid",
+        "Tänusõnad",
+        "Tunnustus",
+        "Film",
+        "Must taust",
+        "Valge tekst",
+        "Nimi",
+        "Eluaastad",
+        "Sünniaasta",
+        "Surma-aasta"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Tekst",
+        "Ekraan"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Filmis osalesid ka Anni õed",
+        "Koidu Toode (s. 1930 † 2011)",
+        "Elsa Viljard (s. 1927 † 2013)",
+        "tänud",
+        "Maire Vals",
+        "Maris Tomba",
+        "Hanna Samoson",
+        "Ekke Vasli",
+        "Lauri Laasik",
+        "Elen Lotman",
+        "Ly Pulk"
+      ],
+      "persons": [
+        "Koidu Toode",
+        "Elsa Viljard",
+        "Maire Vals",
+        "Maris Tomba",
+        "Hanna Samoson",
+        "Ekke Vasli",
+        "Lauri Laasik",
+        "Elen Lotman",
+        "Ly Pulk"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevus piltide vahel seisneb kuvatava teksti sisus ja selle puudumises. Esimene pilt sisaldab infot Anni õdede ja nende eluaastate kohta. Teine pilt on täiesti must ja tühi. Kolmas pilt kuvab 'tänud' ja nimekirja inimestest, keda tänatakse. Teksti sisu ja ekraani täitumuse aste varieeruvad kaadrite vahel."
+      ],
+      "snr": "080",
+      "ajad": [
+        "618.480",
+        "634.080"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb kolmest järjestikusest kaadrist, mis kujutavad filmi lõputiitreid mustal taustal. Esimeses kaadris kuvatakse keskel valge tekstiga pealkiri \"tänud\" ja selle all seitsme isiku nimed. Järgmises kaadris asendub see tekst teise valge tekstiplokiga ekraani alaosas, mis sisaldab autoriõiguse märget \"© Tallinna Ülikooli Balti Filmi- ja Meediakool 2015\". Kolmandas kaadris on sama autoriõiguse tekst endiselt näha, kuid see on märgatavalt tuhmunud, sulandudes peaaegu täielikult musta taustaga, mis viitab tiitrite hajule minemisele ja stseeni lõpule.",
+      "actions": [
+        "Tekst ilmub ekraanile",
+        "Tekst asendub uuega",
+        "Tekst hajub aeglaselt mustale taustale"
+      ],
+      "keywords": [
+        "Lõputiitrid",
+        "Tänusõnad",
+        "Autoriõigus",
+        "Must taust",
+        "Tekst",
+        "Nimed",
+        "Ülikool",
+        "Filmikool",
+        "2015",
+        "Pimeneb",
+        "Hajub"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Tekst",
+        "Must taust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#333333"
+      ],
+      "texts": [
+        "tänud",
+        "Maire Vals",
+        "Maris Tomba",
+        "Hanna Samoson",
+        "Ekke Vasli",
+        "Lauri Laasik",
+        "Elen Lotman",
+        "Ly Pulk",
+        "© Tallinna Ülikooli",
+        "Balti Filmi- ja Meediakool",
+        "2015"
+      ],
+      "persons": [
+        "Maire Vals",
+        "Maris Tomba",
+        "Hanna Samoson",
+        "Ekke Vasli",
+        "Lauri Laasik",
+        "Elen Lotman",
+        "Ly Pulk"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha tänusõnad ja nimede loetelu, teisel ja kolmandal pildil autoriõiguse märge.",
+        "Teksti sisu muutub esimese ja teise pildi vahel.",
+        "Teksti asukoht ekraanil muutub: esimesel pildil on tekst keskel, teisel ja kolmandal pildil alumises osas.",
+        "Kolmandal pildil on tekst oluliselt tuhmunud võrreldes teise pildiga, viidates hajumisele või kaadri lõpule."
+      ],
+      "snr": "081",
+      "ajad": [
+        "634.080",
+        "641.280"
+      ]
+    },
+    {
+      "explanation": "Stseen on täiesti must ja pime. Puudub igasugune visuaalne informatsioon objektide, tegevuste või isikute kohta. Kogu pildiala on ühtlaselt must, andes edasi täieliku pimeduse või tühjuse mulje.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "pime",
+        "tühi",
+        "puuduv informatsioon",
+        "pimendus",
+        "tühjus"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel puuduvad erinevused; kõik kaadrid on identselt mustad."
+      ],
+      "snr": "082",
+      "ajad": [
+        "641.280",
+        "643.040"
+      ]
+    }
+  ]
+}

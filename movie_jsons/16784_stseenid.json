@@ -1,0 +1,548 @@
+{
+  "film": [
+    "16784",
+    "16662",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Elu ei ole Unenägu",
+    "dc43253fccf1cfb93add06b8eb90a8c21575e423.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab kahte inimest, kes kõnnivad kaamerast eemale mööda mitut mahajäetud või harva kasutatavat raudteerada. Nad mõlemad hoiavad käes suitsupatareisid, millest üks eraldab erkrohelist-kollast suitsu ja teine roosat-lillat suitsu. Suits levib nende taga dünaamilise pilvena, lisades stseenile värvi ja liikumist. Ümbrus näib olevat tööstuspiirkond või hõre maapiirkond, kus on vähe taimestikku ja silmapiiril on näha infrastruktuuri, näiteks elektriposte või torne. Taevas on pilvine, kuid läbi kumavad päikeseloojangu või -tõusu värvid, andes taevale lillakas-roosaka varjundi.",
+      "actions": [
+        "Inimesed kõnnivad mööda raudteed",
+        "Inimesed hoiavad käes värvilisi suitsupatareisid",
+        "Suitsupatareid eraldavad värvilist suitsu",
+        "Inimesed liiguvad kaamerast eemale"
+      ],
+      "keywords": [
+        "Raudtee",
+        "Suitsupatarei",
+        "Värviline suits",
+        "Videvik",
+        "Vabadus",
+        "Seiklus",
+        "Liikumine",
+        "Kontrast"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Raudteerööpad",
+        "Kruus",
+        "Mätas",
+        "Suitsupatarei",
+        "Roheline suits",
+        "Kollane suits",
+        "Roosa suits",
+        "Lilla suits",
+        "Post",
+        "Puu",
+        "Pilved",
+        "Hooned (kaugel)"
+      ],
+      "colorcodes": [
+        "#ADFF2F",
+        "#FFC0CB",
+        "#DDA0DD",
+        "#B0C4DE",
+        "#D8BFD8",
+        "#8B4513",
+        "#556B2F"
+      ],
+      "texts": [
+        "Living and being alive are two different things."
+      ],
+      "persons": [
+        "Kaks inimest",
+        "Mees (tundub olevat vasakpoolne, tumeda mantli ja lühemate juustega)",
+        "Naine (tundub olevat parempoolne, tumeda mantli ja heledamate juustega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Esimene pilt ei sisalda teksti, samas kui teine ja kolmas pilt sisaldavad subtiitreid \"Living and being alive are two different things.\".",
+        "Inimeste ja suitsu asetus on piltidel veidi erinev, mis viitab liikumisele järjestikustes kaadrites."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "5.440"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kahte noort inimest – meest ja naist –, kes jooksevad rõõmsalt mööda mahajäetud raudteerööpaid tööstuslikus või lausa tühjas piirkonnas. Mõlemad kannavad tumedaid riideid ja musti kindaid. Naine vasakul hoiab üles tõstetud paremas käes lillat või roosat suitsupadrunit, millest eraldub erksavärviline suitsupilv. Mees paremal hoiab omakorda kollast suitsupadrunit, mis samuti tekitab värvilist suitsu. Nende nägudel on laiad naeratused, mis viitavad õnnelikule ja muretule hetkele. Taustal on näha vanu hooneid, pikka metallist masti ja vana kaubarongi vagunit. Maapind on kaetud kruusa, mulla ja hõreda taimestikuga. Üleval laiub pilves taevas, mis annab stseenile pisut melanhoolse, kuid samas värvilise ja dünaamilise meeleolu.",
+      "actions": [
+        "Jooksmine",
+        "Naeratamine",
+        "Suitsupadrunite hoidmine",
+        "Käte vehkimine"
+      ],
+      "keywords": [
+        "Noored",
+        "Rõõm",
+        "Vabadus",
+        "Suitsupadrunid",
+        "Raudtee",
+        "Mahajäetud",
+        "Seiklus",
+        "Mängulisus",
+        "Kergus",
+        "Dünamiline"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Raudteerööpad",
+        "Kruus",
+        "Pinnas",
+        "Rohttaimed",
+        "Suitsupadrunid",
+        "Lilla suits",
+        "Kollane suits",
+        "Hoone",
+        "Kaubarongi vagun",
+        "Metallkonstruktsioon",
+        "Pilves taevas",
+        "Mustad kindad",
+        "Riided"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#C8A2C8",
+        "#FDFD96",
+        "#6B4C3B",
+        "#A0A0A0",
+        "#D0D0D0",
+        "#7B8C65"
+      ],
+      "texts": [
+        "Some moments can last forever."
+      ],
+      "persons": [
+        "Naine",
+        "Mees",
+        "Noored inimesed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Subtiiter \"Some moments can last forever.\" on puudu esimesel pildil ja ilmub teisel ning kolmandal pildil.",
+        "Suitsupilvede kuju ja tihedus varieerub kaadrite vahel, mis on tingitud edasiliikumisest ja suitsupadrunite põlemisest. Eriti on märgatav kollase suitsu hajumine kolmandas kaadris.",
+        "Inimeste kehahoiakud ja käte asendid on pisut muutunud, peegeldades nende liikumist ja stseeni dünaamilisust."
+      ],
+      "snr": "002",
+      "ajad": [
+        "5.440",
+        "8.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noore inimese nägu lähiplaanis, keskendudes silmadele ja otsaesisel. Inimesel on heledad pruunikad, kergelt sassis juuksed ja hele nahk. Tema silmad on rohekassinist tooni. Tausta moodustab selge helesinine taevas, mis viitab avarale väliruumile. Stseeni vältel avab ja sulgeb inimene aeglaselt oma silmi, andes edasi rahuliku või mõtliku meeleolu. Pildi allosas on näha valge tekstiga subtiitrid. Valgus on ere ja loomulik, viitades päikesepaistelisele päevale.",
+      "actions": [
+        "Silmade avamine",
+        "Silmade sulgemine",
+        "Otse ette vaatamine (kui silmad on avatud)"
+      ],
+      "keywords": [
+        "Lähiplaan",
+        "Portree",
+        "Silmad",
+        "Noorus",
+        "Rahulikkus",
+        "Taevas",
+        "Subtiitrid",
+        "Emotsioon",
+        "Mõtisklemine",
+        "Loomulik valgus"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Silmad",
+        "Kulmud",
+        "Juuksed",
+        "Nahk",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#DDC9B9",
+        "#8BA5A6",
+        "#A37F6A",
+        "#79B8F2"
+      ],
+      "texts": [
+        "Some moments can last forever."
+      ],
+      "persons": [
+        "Noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on isiku silmad avatud ja ta vaatab otse ette.",
+        "Teisel pildil on isiku silmad osaliselt suletud, pilgutamise või aeglase sulgemise keskel.",
+        "Kolmandal pildil on isiku silmad täielikult suletud."
+      ],
+      "snr": "003",
+      "ajad": [
+        "8.320",
+        "9.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivõtet noore inimese näo alaosas, keskendudes ninale, huultele ja lõuale. Nägu raamivad pikad, heledad ja kergelt lainelised juuksed, mis annavad pildile dünaamilisust. Juuksesalgad tunduvad olevat liikumises, mis loob efekti, nagu puhuks kerge tuul. Huuled on kergelt avatud, paljastades ülemised hambad. Huuled on roosakad ja kergelt läikivad. Nina alt langeb üle ülemise huule pehme vari, mis annab näole sügavust. Valgus on soe ja looduslik, valgustades esile juuste kuldseid toone ja näojooni. Seljas on tumedat värvi rõivas, mis on nähtav kaela ümber. Taust on udune ja ebaselge, mis viitab välitingimustele ja toob fookuse täielikult esiplaanil olevale inimesele. Üldmulje on loomulik ja pehme, rõhutades juuste ilu ja valgusmängu.",
+      "actions": [
+        "Juuste liikumine",
+        "Kerge huulte avamine",
+        "Vaatamine (oletatav, kuna silmad pole nähtavad)"
+      ],
+      "keywords": [
+        "Lähivõte",
+        "Portree",
+        "Naine",
+        "Blondid juuksed",
+        "Huuled",
+        "Nina",
+        "Valgus",
+        "Vari",
+        "Looduslik valgus",
+        "Juuste liikumine",
+        "Kandiline"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Juuksed",
+        "Nägu",
+        "Huuled",
+        "Nina",
+        "Rõivas (tume)"
+      ],
+      "colorcodes": [
+        "#E8C7AE",
+        "#D18D8E",
+        "#E9D1A1",
+        "#1C1A1B",
+        "#4F4236",
+        "#A27E5B",
+        "#B4B6B6"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on väga väikesed, peaaegu märkamatud erinevused juuksesalkade asendis, eriti vasakul pool kaadris, mis viitavad lühikesele ajale pildistamiste vahel (nt videokaaderid).",
+        "Valguse intensiivsus ja varjude pehmus näol on minimaalselt erinev, näiteks alahuulel olev helk on teisel ja kolmandal pildil pisut hajutatum kui esimesel.",
+        "Nina alt üle ülemise huule langeva varju teravus varieerub kergelt."
+      ],
+      "snr": "004",
+      "ajad": [
+        "9.760",
+        "11.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte noort inimest, naist ja meest, õues, keda ümbritseb pehme, hajutatud lilla-roosa valguse kuma. Naine on esiplaanil, silmad suletud või ülespoole suunatud, näol rahulik ja mõtisklev ilme. Tema käed on tõstetud, võimalik, et kallistuse, vabaduse või rõõmu žestina. Mees on naise taga, profiilis nähtav, vaatab talle otsa või tema poole. Ka tema käed on tõstetud, andes märku lähedusest ja embusest. Üldine atmosfäär on romantiline ja intiimne, pehme valgusefekt annab stseenile unistava ja kunstilise tunde. Kaadri allosas on tekst: \"The choices we make are crucial.\"",
+      "actions": [
+        "Kallistamine",
+        "Silmade sulgemine",
+        "Vaatamine",
+        "Käte tõstmine",
+        "Seismine",
+        "Emotsioonide väljendamine"
+      ],
+      "keywords": [
+        "Romantika",
+        "Lähedus",
+        "Armastus",
+        "Emotsioonid",
+        "Pehme valgus",
+        "Lilla varjund",
+        "Roosa kuma",
+        "Udune",
+        "Unistav",
+        "Portree",
+        "Noored",
+        "Mõtisklus",
+        "Valikud",
+        "Kruusiaalne",
+        "Õues",
+        "Paar"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Mees",
+        "Mantel (naisel)",
+        "Juuksed",
+        "Nahk",
+        "Valgus"
+      ],
+      "colorcodes": [
+        "#D8B8D8",
+        "#302838",
+        "#F8F8F0",
+        "#E0C0A0",
+        "#806040"
+      ],
+      "texts": [
+        "The choices we make are crucial."
+      ],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on kaetud peaaegu täielikult intensiivse lilla-roosa udulooriga, muutes tegelased vaevunähtavateks siluettideks. Teine ja kolmas pilt näitavad tegelasi selgelt, kusjuures uduloor toimib pigem kunstilise valgusefektina, mis hajub üle stseeni.",
+        "Tekst \"The choices we make are crucial.\" on nähtav teisel ja kolmandal pildil, kuid puudub esimesel pildil.",
+        "Kolmas pilt on võrreldes teise pildiga veidi heledam ja kontrastsem, eriti valguse ja värvide osas, tuues esile detailid ja andes värvidele intensiivsust."
+      ],
+      "snr": "005",
+      "ajad": [
+        "11.280",
+        "14.080"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub lähivõttele noore inimese näost, täpsemalt tema silmadest ja otsmikust, taustaks selge sinine taevas. Stseen algab suletud silmadega, mis annab edasi rahu ja mõtiskluse tunde. Seejärel avanevad silmad, paljastades heledad rohekashallid iirised, säilitades rahuliku ja vaikse pilgu. Valgus on loomulik ja pehme, rõhutades näojooni ja nahatooni. Stseeni lõpus ilmub ekraanile valge subtiiter, mis lisab sügavama, filosoofilise alltooni.",
+      "actions": [
+        "Silmade sulgemine",
+        "Silmade avamine",
+        "Mõtisklemine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Lähivõte",
+        "Silmad",
+        "Taevas",
+        "Rahu",
+        "Mõtisklus",
+        "Sinine",
+        "Noorus",
+        "Subtiitrid",
+        "Kontemplatsioon"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Inimese nägu",
+        "Silmad",
+        "Kulmud",
+        "Ripsmed",
+        "Juuksed",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#D8B99D",
+        "#664E3A",
+        "#8EA9A4",
+        "#4395D8",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Some decisions follow us till the end."
+      ],
+      "persons": [
+        "Noor inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on noore inimese silmad suletud, teistel piltidel on need avatud.",
+        "Kolmandal pildil on ekraanile lisatud valge subtiiter, mis puudub kahel esimesel pildil.",
+        "Silmade avanemine teisel pildil muudab subjekti näoilmet ja pilku."
+      ],
+      "snr": "006",
+      "ajad": [
+        "14.080",
+        "16.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte noort inimest, meest ja naist, seismas õues avatud maastikul ereda sinise taeva ja valgete pilvede taustal. Nad asuvad tõenäoliselt tööstuspiirkonnas või mahajäetud alal, paremal all on näha vihjeid raudteerööpale ja vasakul taustal kõrgub pikk tuletorni- või valgusmasti-sarnane metallkonstruktsioon. Mõlemad kannavad tumedaid, jahedale ilmale sobivaid rõivaid – mantel ja tumedad püksid. Nad hoiavad käes ja aktiveerivad suitsufakleid; mehel on erekollane või oranž, naisel aga erkpunane või roosa fakkel, millest tõuseb tihe värviline suits. Kaamera asub madalal maapinna lähedal, mis annab tegelastele monumentaalse ja võimsa ilme taeva taustal. Stseen on täis eredaid päikesekiiri ja läätsesära, mis annab piltidele dramaatilise ja unenäolise kvaliteedi.",
+      "actions": [
+        "Mees hoiab ja aktiveerib kollast/oranži suitsufaklit",
+        "Naine hoiab ja aktiveerib punast/roosat suitsufaklit",
+        "Mõlemad seisavad ja vaatavad ette või kaugusesse",
+        "Suitsufaklitest tõuseb tihe värviline suits",
+        "Naine tõstab ja liigutab kätt fakliga kõrgemale"
+      ],
+      "keywords": [
+        "Suitsufakkel",
+        "Signaalfakkel",
+        "Väljas",
+        "Päikesepaiste",
+        "Pilved",
+        "Tööstusala",
+        "Raudtee",
+        "Noored",
+        "Dramaatiline",
+        "Läätsesära",
+        "Mõtisklus",
+        "Vabadus",
+        "Otsused",
+        "Valgusmast",
+        "Mantel"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Naine",
+        "Kollane suitsufakkel",
+        "Punane suitsufakkel",
+        "Suitsupilved",
+        "Valgusmast/latiistorn",
+        "Taevas",
+        "Pilved",
+        "Raudteerööpa vihje",
+        "Mantel"
+      ],
+      "colorcodes": [
+        "#6FA9D3",
+        "#D83C47",
+        "#F5E98B",
+        "#202020",
+        "#82A220",
+        "#9AE0E1"
+      ],
+      "texts": [
+        "Some decisions follow us till the end.",
+        "You can keep off the rails."
+      ],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt sisaldab teksti 'Some decisions follow us till the end.', teine pilt teksti ei sisalda ja kolmas pilt sisaldab teksti 'You can keep off the rails.'.",
+        "Naise käe asend suitsufakliga on piltide vahel erinev: esimesel pildil on käsi veidi madalamal, teisel ja kolmandal pildil on see kõrgemale tõstetud ja avatum.",
+        "Punase suitsu voog on piltidel erinev, näidates suitsu liikumist ja hajumist. Esimesel pildil on suits tihedamalt naise pea ümber, edasistel piltidel voogab see enam taha ja eemale.",
+        "Mehe kehahoiak ja suitsu asend on samuti piltide vahel kergelt muutunud, kajastades liikumist ja suitsu hajumist. Esimesel pildil on mees veidi ettepoole kaldu, teistel sirgema rühiga.",
+        "Läätsesära ja päikesekiirte intensiivsus ning täpne asukoht kaadri ulatuses varieerub piltide vahel."
+      ],
+      "snr": "007",
+      "ajad": [
+        "16.520",
+        "22.000"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab täielikult musta ekraani, mille allosas on valge ingliskeelne subtiiter. Ekraan on tühi, välja arvatud tekst, mis annab edasi dialoogi või narratiivi osa. Üldmulje on minimalistlik ja keskendub ainult tekstilisele informatsioonile, ilma visuaalse kontekstita.",
+      "actions": [],
+      "keywords": [
+        "must ekraan",
+        "subtiitrid",
+        "tekst",
+        "dialoog",
+        "minimalistlik",
+        "tühi",
+        "informatsioon"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "You can keep off the rails."
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "95",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik pildid on identsed ega sisalda visuaalseid erinevusi."
+      ],
+      "snr": "008",
+      "ajad": [
+        "22.000",
+        "23.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia välivaadet tööstusmaastikule, kus domineerivad mitmed paralleelsed raudteerööpad, mis kaovad udusesse kaugusesse kahvatu taeva all. Rööbaste vaheline pinnas on kaetud tumeda mulla ja kruusaga, esiplaanil on näha üksikuid prahitükke. Tagaplaanil asetsevad hallikad madalad tööstushooned ning paremal pool kõrge, sale korsten, millest eraldub punaka varjundiga suitsupilv. Raudteede kohalt tõuseb mitmest kohast valget või heledat suitsu/auru, luues hajutatud ja pisut müstilise atmosfääri. Üldine valgustus on pehme ja hajutatud, mis viitab pilvisele päevale. Esimesel pildil on näha subtiiter \"You can keep off the rails.\". Teisel pildil on lisaks logo \"OPERATION LIFESAVER® Estonia\" koos iseloomuliku tärnikujulise sümboliga ning subtiiter \"The train cannot.\". Kolmandal pildil on logo endiselt nähtav, kuid subtiiter \"The train cannot.\" on eemaldatud.",
+      "actions": [
+        "Suitsu/auru tõusmine"
+      ],
+      "keywords": [
+        "Raudtee",
+        "tööstusmaastik",
+        "suits",
+        "udu",
+        "ohutus",
+        "rong",
+        "rööpad",
+        "hooned",
+        "korsten",
+        "sotsiaalreklaam"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Raudteerööpad",
+        "tööstushooned",
+        "korsten",
+        "suits",
+        "aur",
+        "kruus",
+        "pinnas",
+        "praht",
+        "logo"
+      ],
+      "colorcodes": [
+        "#C0C0C0",
+        "#504030",
+        "#E0D0D0",
+        "#A06060",
+        "#CC0000"
+      ],
+      "texts": [
+        "You can keep off the rails.",
+        "OPERATION LIFESAVER® Estonia",
+        "The train cannot."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on nähtav ainult tekst \"You can keep off the rails.\".",
+        "Teisel pildil on lisaks tekstile \"You can keep off the rails.\" lisandunud logo \"OPERATION LIFESAVER® Estonia\" ja tekst \"The train cannot.\".",
+        "Kolmandal pildil puudub tekst \"The train cannot.\", kuid logo \"OPERATION LIFESAVER® Estonia\" on endiselt nähtav."
+      ],
+      "snr": "009",
+      "ajad": [
+        "23.880",
+        "30.280"
+      ]
+    }
+  ]
+}

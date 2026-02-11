@@ -1,0 +1,728 @@
+{
+  "film": [
+    "17178",
+    "17057",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Dorian Supin",
+    "2dbb5a32a84672dba102a60ad54d22fbac64f6f4.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab siseruumi, mis näib olevat stuudio- või näitusesaal, kus toimub intervjuu või salvestus. Pildil on esiplaanil vasakul kaamera statiivil, mis on suunatud paremal istuva mehe poole. Mees, prillidega ja lühikeste juustega, istub mustal toolil, kandes heledat kampsunit ja tumedaid pükse. Tema käed on kokku pandud ja ta hoiab süles pabereid, justkui rääkides. Taustal on näha telliskiviseinad ja mitu suurt klaasist vitriinkappi, mis sisaldavad vanu fotosid, kaameraid ja muid filmiteemalistest esemeid, andes ruumile muuseumi- või näitusesaali ilme. Vasakul seina ääres on valge radiaator ja akendest paistab päevavalgus. Seinu kaunistavad mustade horisontaalsete ribadega raamitud pildid. Ühes vitriinkapis on näha plakat kirjaga 'RAM SC'.",
+      "actions": [
+        "Mees annab intervjuud/räägib",
+        "Kaamera filmib",
+        "Mees istub toolil",
+        "Mees hoiab käsi kokku",
+        "Mees hoiab pabereid"
+      ],
+      "keywords": [
+        "intervjuu",
+        "salvestus",
+        "kaamera",
+        "muuseum",
+        "näitus",
+        "filmiteema",
+        "stuudio",
+        "ajalugu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "kaamera",
+        "statiiv",
+        "mees",
+        "tool",
+        "vitriinkapid",
+        "raamitud pildid",
+        "telliskivisein",
+        "radiaator",
+        "aknad",
+        "paberid",
+        "prillid",
+        "džemper",
+        "roheline taim",
+        "filmiribade kujundus"
+      ],
+      "colorcodes": [
+        "#B9B4AB",
+        "#99553D",
+        "#858E8F",
+        "#4A4F41",
+        "#ECECEC",
+        "#0A0909"
+      ],
+      "texts": [
+        "DORIAN SUPIN",
+        "RAM SC"
+      ],
+      "persons": [
+        "Dorian Supin"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teine pilt on oluliselt heledam ja paremini valgustatud võrreldes esimese ja kolmanda pildiga, mis on tumedad ja varjudes.",
+        "Teisel pildil on vasakul all nurgas nähtav tekst 'DORIAN SUPIN', mis puudub esimesel ja kolmandal pildil."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "8.160"
+      ]
+    },
+    {
+      "explanation": "Stseen on täiesti pime. Tegemist on üleni musta pildiga, millel puuduvad igasugused visuaalsed detailid, objektid, inimesed või keskkond. Tühjus ja absoluutne pimedus valitsevad stseenis.",
+      "actions": [],
+      "keywords": [
+        "pimedus",
+        "must",
+        "tühjus",
+        "ekraan",
+        "puudumine"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel puuduvad nähtavad erinevused. Kõik kaadrid on identselt üleni mustad."
+      ],
+      "snr": "002",
+      "ajad": [
+        "8.160",
+        "16.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab intervjuud keskealise või vanema mehega, kes istub toolis ja räägib. Tema nägu on kaetud prillidega ja tal on seljas hall kampsun. Käed on risti rinnal, žestikuleerides kõne ajal. Mees on paigutatud kaadri keskossa, istudes mustas või tumedas toolis. Taustal on näha telliskivisein, millel ripuvad raamitud mustvalged fotod. Paremalt poolt on näha klaasist vitriinkappe, milles on erinevad esemed, ja tagapool roheline taim. Valgustus muutub stseeni jooksul, minnes esimesel kaadril pimedast teistel kaadritel heledamaks, paljastades üha enam detaile ruumis. Ekraani allosas on ingliskeelsed subtiitrid.",
+      "actions": [
+        "Mees räägib",
+        "Mees žestikuleerib kätega",
+        "Mees istub toolis"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Siseruum",
+        "Kampsun",
+        "Prillid",
+        "Vitriinkapid",
+        "Fotod seinal",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Prillid",
+        "Kampsun",
+        "Tool",
+        "Paberid",
+        "Telliskivisein",
+        "Raamitud fotod",
+        "Taim",
+        "Klaasist vitriinkapid",
+        "Esemed vitriinkappides"
+      ],
+      "colorcodes": [
+        "#3f3e3a",
+        "#a19282",
+        "#6b7a6d",
+        "#463e3b",
+        "#22211e",
+        "#9d9181",
+        "#414141",
+        "#6f6f6f"
+      ],
+      "texts": [
+        "I knew Rein Maran's films,",
+        "I didn't want to be his student directly,",
+        "And that was the beginning,",
+        "beginning of television."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on oluliselt tumedam kui järgmised, näidates ruumi väga hämaralt, samas kui teised pildid on selgemalt valgustatud.",
+        "Subtiitrid ilmuvad teisel ja kolmandal pildil, puududes esimesel pildil.",
+        "Pildid näitavad mehe käte asendi muutumist: esimesel pildil on käed risti ja veidi allapoole, teisel samuti risti, aga kõrgemal, ja kolmandal pildil on käed avatud žestiga."
+      ],
+      "snr": "003",
+      "ajad": [
+        "16.680",
+        "19.560"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivaates näha kaks vanemat filmikaamerat või telereportaaži kaamerat, mis on tõenäoliselt välja pandud muuseumis või näitusel. Esiplaanil paremal on fookuses üks kaamera, millel on esiküljel kolme objektiiviga pöörlev revolvertorn. Keskmine objektiiv on suurim ja selle lääts peegeldab õrnalt valgust, luues väikese helendava punkti. Kaamera kere on musta värvi, tekstuuriga ja kaetud metallist kinnitusplaatidega, mis on kruvidega paigaldatud. Vasakul taustal asub teine sarnane kaamera, mis on pisut udune, kuid millel on samuti mitu ettepoole ulatuvat objektiivi. Kogu stseen on sumedas sisevalguses ja taust on hägune, vihjates vitriinile või eksponeerimisele. Piltidel on näha valgeid subtiitreid mustal taustal.",
+      "actions": [
+        "Vaatamine",
+        "Demonstreerimine",
+        "Näitamine"
+      ],
+      "keywords": [
+        "Filmikaamerad",
+        "Vanad seadmed",
+        "Objektiivid",
+        "Tehnika",
+        "Ajalugu",
+        "Muuseum",
+        "Näitus",
+        "Televisioon",
+        "Dokumentaalfilm"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Filmikaamerad",
+        "Objektiivid",
+        "Läätsed",
+        "Metallist kinnitused",
+        "Kruvid",
+        "Kaamerakere"
+      ],
+      "colorcodes": [
+        "#2F2F2F",
+        "#8A8A8A",
+        "#D9D9D9",
+        "#A0A0A0"
+      ],
+      "texts": [
+        "And that was the beginning, beginning of television.",
+        "My first movie was a short documentary,"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst muutub esimesest kaadrist kolmandasse.",
+        "Kaadrite vahel on märgata kerget kaamera liikumist või fookuse nihkumist. Esimene kaader näitab vasakpoolset kaamerat veidi rohkem, samas kui teine ja kolmas kaader on rohkem keskendunud parempoolsele kaamerale, mis muutub detailsemaks ja on rohkem fookuses."
+      ],
+      "snr": "004",
+      "ajad": [
+        "19.560",
+        "88.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab intervjuud eaka mehega siseruumis. Mees istub toolil, kandes beeži soonikuga kootud sviitrit ja prille. Tema nägu on raamitud habeme ja prillidega ning ta on kiilakas. Ta räägib kaamerasse, hoides käes paberilehte, mis võib olla märkmik või stsenaarium. Taustal on näha tekstuuriga seina, mis sarnaneb osaliselt paljastatud telliskivile või krohvile, millel on rippuvad raamitud fotod ja mustriline riba. Paremal pool on vanaaegne klaasist vitriinkapp, kus on eksponeeritud erinevad esemed, ning selle taga paistab roheline toataim. Stseen on üldiselt soojades, mahedates toonides, viidates hubasele või ajaloolisele keskkonnale. Mees vahetab oma näoilmeid ja käte asendit rääkimise käigus.",
+      "actions": [
+        "Rääkimine",
+        "Istumine",
+        "Žestikuleerimine",
+        "Naeratamine",
+        "Alla vaatamine"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Siseruum",
+        "Dokumentaalfilm",
+        "Vestlus",
+        "Muuseum",
+        "Klaasvitriin",
+        "Fotod",
+        "Sviiter",
+        "Habe",
+        "Prillid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Tool",
+        "Kootud sviiter",
+        "Prillid",
+        "Habe",
+        "Paberileht",
+        "Klaasist vitriinkapp",
+        "Eksponeeritud esemed (kujukesed, vaasid)",
+        "Raamitud fotod",
+        "Sein",
+        "Roheline toataim",
+        "Mustriline riba"
+      ],
+      "colorcodes": [
+        "#A6A092",
+        "#D1CFC3",
+        "#5C6260",
+        "#D0AE93",
+        "#594435"
+      ],
+      "texts": [
+        "My first movie was a short documentary,"
+      ],
+      "persons": [
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe näoilme ja žestid muutuvad piltide vahel: esimesel pildil ta räägib ja žestikuleerib kergelt, teisel naeratab, kolmandal vaatab alla ja hoiab paberit.",
+        "Subtiitrid \"My first movie was a short documentary,\" on nähtavad ainult esimesel pildil.",
+        "Valgustus varieerub kergelt, eriti kolmandal pildil on näha väikest tuhmumist."
+      ],
+      "snr": "005",
+      "ajad": [
+        "88.840",
+        "93.080"
+      ]
+    },
+    {
+      "explanation": "Piltidel on kujutatud täielikku pimedust. Puuduvad igasugused visuaalsed detailid, objektid, kujud või valgusallikad. Stseen on üleni must, mis viitab kas absoluutsele valguse puudumisele, tühjale pildifailile või ekstreemsele alavalgustusele. Sügavus ja ruumilisus pole eristatavad. Ühtlane must toon katab kogu kaadri ilma igasuguste variatsioonideta.",
+      "actions": [],
+      "keywords": [
+        "pimedus",
+        "must",
+        "tühi",
+        "informatsiooni puudumine",
+        "null pilt",
+        "sünge",
+        "pime"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik kolm pilti on identsed ja täiesti mustad, visuaalseid erinevusi pole."
+      ],
+      "snr": "006",
+      "ajad": [
+        "93.080",
+        "191.840"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanem mees, kes istub mustas toolis ja räägib või annab intervjuud. Tal on peas kiilas koht ning ta kannab prille ja halli soonikkampsunit. Mehel on lühike habe ja ta on suunatud vasakule, vaadates kaamerast eemale. Tema käed on aktiivselt žestikuleerimas – ühel hetkel on peopesad avatud ja teisel hetkel on käed kokku pandud püramiidikujuliselt, toetudes üksteise peale. Mehe süles on näha mingid paberid või dokumendid. Tagaplaanil vasakul on näha tekstureeritud, osaliselt krohvitud või telliskivisein, millel ripuvad mitmed mustvalged raamitud fotod. Paremal tagaplaanil on suur elegantne vitriinkapp klaasuste ja sahtlitega, mille sees on mitmesugused dekoratiivesemed, nagu näiteks kujukesed ja muud esemed. Vitriini taga paistab ka roheline taim. Kogu stseen on hästi valgustatud, mis viitab stuudiokeskkonnale.",
+      "actions": [
+        "Istumine",
+        "Rääkimine",
+        "Žestikuleerimine",
+        "Intervjueerimine"
+      ],
+      "keywords": [
+        "Mees",
+        "Prillid",
+        "Hall kampsun",
+        "Intervjuu",
+        "Stuudio",
+        "Žestikuleerimine",
+        "Vitriinkapp",
+        "Fotod",
+        "Sisekujundus",
+        "Eakad",
+        "Kõne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Prillid",
+        "Hall soonikkampsun",
+        "Must tool",
+        "Paberid",
+        "Tekstureeritud sein",
+        "Raamitud fotod",
+        "Vitriinkapp",
+        "Klaasuksed",
+        "Sahtlid",
+        "Dekoratiivesemed",
+        "Roheline taim",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#8C948B",
+        "#D9D9D9",
+        "#A8A8A8",
+        "#8B948C",
+        "#4A6E4F",
+        "#000000"
+      ],
+      "texts": [
+        "In many ways it bends. If you have a picture or a text,"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe käte asend on erinev: esimesel pildil on peopesad avatud, teisel pildil on käed kokku pandud püramiidikujuliselt.",
+        "Teisel pildil on nähtavad subtiitrid teksti kujul."
+      ],
+      "snr": "007",
+      "ajad": [
+        "191.840",
+        "194.440"
+      ]
+    },
+    {
+      "explanation": "Stseenil on lähivõttes kujutatud vana, metallist filmikaamera, mis seisab tugeval, tööstusliku ilmega metallalusel. Kaameral on tume, tõenäoliselt mustast metallist korpus, millel on näha kulumisjälgi ja läikivaid, hõbedaseid detaile. Selle esiküljel on pööratav objektiivikorpus ehk revolverpeatus, kuhu on paigaldatud mitu erinevat objektiivi – näha on nii läikivaid hõbedaseid kui ka vanemaid, pronksja varjundiga objektiive. Kaamera küljelt ulatub välja krobelise tekstuuriga, possibly poleeritud metallist osa, mille külge on ühendatud must kaabel valge pistiku või nupuga ning teine kaabel koos metallist pistikuga. Kaamera all olev alus näib olevat kas vana kruvipink või spetsiaalne statiivi kinnitus, mis koosneb kokku pandud metallplokkidest. Taust on udune ja viitab sisetingimustele, võimalik, et ateljeele, töökojale või muuseumile.",
+      "actions": [
+        "Jäädvustamine",
+        "Eksponeerimine",
+        "Vaatlemine"
+      ],
+      "keywords": [
+        "Filmikaamera",
+        "Vintage",
+        "Vana tehnika",
+        "Objektiiv",
+        "Kino",
+        "Filmindus",
+        "Detailne",
+        "Mehaanika"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Filmikaamera",
+        "Objektiivid",
+        "Kaabel",
+        "Pistik/konnektor",
+        "Nupp",
+        "Metallalus",
+        "Kinnitusdetailid"
+      ],
+      "colorcodes": [
+        "#2D2D2D",
+        "#8C8C8C",
+        "#B1977D",
+        "#DDDDDD",
+        "#6B6B6B"
+      ],
+      "texts": [
+        "The thing that concerns Pärt,"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kolmandal pildil on näha ingliskeelne subtiiter: \"The thing that concerns Pärt,\".",
+        "Esimene pilt näitab kaamerat veidi teise nurga alt, keskendudes enam küljele ja ühele esiplaanil olevale objektiivile, samas kui teine ja kolmas pilt on esiplaanilt ning näitavad selgemalt kolme objektiiviga pööratavat revolverpeatust.",
+        "Kaadrite vahel on märgata minimaalset kaamera nurga või fookuse muutust, rõhutades kaamera erinevaid detaile."
+      ],
+      "snr": "008",
+      "ajad": [
+        "194.440",
+        "288.280"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha vanem mees, kes istub mugavas tumedas toolis ja räägib otse kaamerasse. Ta kannab hallikasbeeži soonikkoes kampsunit ja tumedate raamidega prille. Mehe näoilme on mõtlik ja keskendunud, tema lühikesed hallid juuksed ja habemetüügas annavad talle intellektuaalse välimuse. Taustal avaneb vaade suures toas asuvatele klaasist vitriinkappidele, mis on täidetud mitmesuguste arhiivmaterjalide, kunstiteoste, dokumentide ja võimalik, et ka vanade masinate osadega. Ülemistes kappides on näha raamitud pilte ja seinu kaunistavad kunstiteosed. Vasakul pool on näha roheline suur toataim, mis lisab stseenile elulisust. Valgus on pehme ja hajutatud, valgustades subjekti ja tausta loomulikult. Ekraani allosas jooksevad valged subtiitrid läbipaistval tumedal ribal, mis kuvavad mehe öeldud lauseid.",
+      "actions": [
+        "rääkimine",
+        "žestikuleerimine",
+        "istumine",
+        "paberite hoidmine"
+      ],
+      "keywords": [
+        "intervjuu",
+        "mees",
+        "siseruum",
+        "vitriinkapid",
+        "prillid",
+        "kampsun",
+        "subtiitrid",
+        "kunst",
+        "arhiiv",
+        "dokumendid",
+        "dialoog"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "tool",
+        "prillid",
+        "kampsun",
+        "paberid",
+        "klaasist vitriinkapid",
+        "esemed vitriinides (joonised, fotod, dokumendid, masinad)",
+        "raamitud pildid",
+        "toataim",
+        "subtiitrid"
+      ],
+      "colorcodes": [
+        "#a0a094",
+        "#c3a48e",
+        "#59473b",
+        "#8a8a8a",
+        "#ffffff",
+        "#000000"
+      ],
+      "texts": [
+        "The thing that concerns Pärt,",
+        "It is up to you to just realize it",
+        "If you are able to recognize it,",
+        "then it must be the right thing."
+      ],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe käte asend muutub igal pildil: esimesel pildil hoiab ta pabereid süles, teisel pildil on käed laiali žestikuleerimas ja kolmandal pildil on käed kokku pandud žestikuleerivas poosis.",
+        "Subtiitrite tekst muutub vastavalt mehe jutule."
+      ],
+      "snr": "009",
+      "ajad": [
+        "288.280",
+        "292.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, mis meenutab stuudiot, muuseumit või näituseala, kus on esil filmi- ja fotograafiaga seotud esemeid. Ruumi seinad on valgest tellisest, andes interjöörile tööstusliku või vintage-hõngu. Paremal pool on näha pikki hallikaid vitriinkappe klaasustega, mis on täidetud vanade filmikaamerate ja raamitud fotodega, sealhulgas ühe naise portree, kes hoiab kaamerat. Ühel kapil seisab suur, must professionaalne filmiprožektor. Stseenis esineb vanem prillidega mees, kes istub ratastoolis ja räägib aktiivselt, žestikuleerides kätega. Teda ümbritseb sama telliskivisein ja vitriinkapid, mille tagaplaanil on näha ka mõningaid rippuvaid pilte ja taime. Üldine atmosfäär on mõtisklev ja informatiivne, viidates intervjuule või dokumentaalkaadritele.",
+      "actions": [
+        "Mees räägib",
+        "Mees žestikuleerib kätega",
+        "Kaamerad ja esemed on eksponeeritud vitriinkappides"
+      ],
+      "keywords": [
+        "Stuudio",
+        "Filmindus",
+        "Fotograafia",
+        "Intervjuu",
+        "Muuseum",
+        "Näitus",
+        "Kaamera",
+        "Prožektor",
+        "Telliskivi",
+        "Arhiiv",
+        "Klaaskapp"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Filmiprožektor",
+        "Valge telliskivisein",
+        "Vitriinkapp",
+        "Klaasuks",
+        "Filmikaamera",
+        "Pildiraamid",
+        "Fotod",
+        "Taim",
+        "Ratastool",
+        "Paberid"
+      ],
+      "colorcodes": [
+        "#EAEAEA",
+        "#A1A1A1",
+        "#B7B7B7",
+        "#333333",
+        "#4A4A4A",
+        "#778B6E"
+      ],
+      "texts": [
+        "If you are able to recognize it, then it must be the right thing.",
+        "And the thing you are trying to say, Is it even worth saying."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevates kaadrites on fookus asetatud stseeni erinevatele osadele: esimeses kaadris on esiplaanil valgustustehnika ja telliskivisein, teises kaadris on kesksel kohal rääkiv mees ja üldine keskkond, kolmandas kaadris on lähivaade vitriinkapis eksponeeritud filmikaamerale ja fotodele.",
+        "Kaadrid varieeruvad kaadri tüübi poolest, liikudes üldvaatest lähivõteteni detailidest."
+      ],
+      "snr": "010",
+      "ajad": [
+        "292.640",
+        "328.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat meest, kes istub siseruumis musta käetugedega toolil, näoga kaamera poole. Tal on lühikesed hallid juuksed, hall habe ja prillid. Mees kannab helehalli soonitud kõrgema kaelusega kampsunit ja helehalle pükse. Tema käed on rinna ees ristatud. Ta pilk on suunatud kaamera poole ning näoilme viitab rääkimisele või kuulamisele. Taustal on näha ruumi, mis sarnaneb muuseumi, galerii või arhiiviga. Vasakul seinal on raamitud pildid ja roheline taim. Paremal on mitu klaasist vitriinkappi, mis sisaldavad vanu fotosid, dokumente ja muid esemeid, vihjates näitusele või kogule. Valgustus on ühtlane ja pehme, mis sobib intervjuu settinguga.",
+      "actions": [
+        "istumine",
+        "rääkimine",
+        "kuulamine"
+      ],
+      "keywords": [
+        "intervjuu",
+        "mees",
+        "siseruumid",
+        "muuseum",
+        "galerii",
+        "arhiiv",
+        "hall kampsun",
+        "prillid",
+        "klaasvitriinid",
+        "portree"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "tool",
+        "kampsun",
+        "püksid",
+        "prillid",
+        "habe",
+        "raamitud pildid",
+        "roheline taim",
+        "klaasvitriinid",
+        "fotod",
+        "dokumendid",
+        "esemed"
+      ],
+      "colorcodes": [
+        "#A0A09A",
+        "#919391",
+        "#D0B094",
+        "#8F8F8F",
+        "#333333",
+        "#5B5B5B",
+        "#4F4F4F",
+        "#4E604F"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kolmas pilt on oluliselt tumedam kui esimene ja teine pilt, viidates kaadri üleminekule või hämardumisele.",
+        "Mehe näoilme ja pea asend varieeruvad kergelt esimese ja teise pildi vahel; esimesel pildil on ta pilk otse ja suu pisut avatud, teisel pildil on ta pea veidi kõrgemal ja näib aktiivsemalt rääkivat või kuulavat."
+      ],
+      "snr": "011",
+      "ajad": [
+        "328.600",
+        "419.120"
+      ]
+    },
+    {
+      "explanation": "Kõik esitatud pildid on täiesti mustad, mis viitab kas täielikule pimedusele või visuaalse sisu puudumisele. Stseen on ühtlaselt must, ilma igasuguste detailide, objektide, isikute või tegevusteta, mida kirjeldada. Pildid on identsed ja monokromaatiliselt mustad.",
+      "actions": [],
+      "keywords": [
+        "pimedus",
+        "must",
+        "tühi",
+        "informatsiooni puudumine",
+        "nähtamatu",
+        "monokroomne"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik pildid on identselt mustad ja ei sisalda ühtegi visuaalset erinevust ega muutust kaadrite vahel."
+      ],
+      "snr": "012",
+      "ajad": [
+        "419.120",
+        "491.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest, kes istub siseruumis ja räägib. Ta on paigutatud kaadri keskele, kandiktoolis. Mehe taga on näha telliskivisein, mida kaunistavad mitmed raamitud mustvalged fotod. Mehest paremal (vaataja vasakul) asub suur klaasvitriin või -kapp, mis sisaldab erinevaid esemeid ja milles on ka näha rohelist taime. Üldine õhkkond on interview-laadne, fookusega rääkival isikul. Valgustus on alguses üsna hämar, kuid teises kaadris muutub see oluliselt heledamaks, tuues esile rohkem detaile nii mehe näol kui ka ruumi sisustuses. Mees kannab prille ja helehalli kõrge kaelusega kampsunit.",
+      "actions": [
+        "Istumine",
+        "Rääkimine",
+        "Žestikuleerimine kätega"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Siseruum",
+        "Telliskivisein",
+        "Näitusekapp",
+        "Prillid",
+        "Hall kampsun",
+        "Fotod seinal"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Tool",
+        "Prillid",
+        "Kampsun",
+        "Telliskivisein",
+        "Raamitud fotod",
+        "Klaasvitriin",
+        "Esemed vitriinis",
+        "Roheline taim"
+      ],
+      "colorcodes": [
+        "#99948D",
+        "#C5A18C",
+        "#7C8688",
+        "#CFA689",
+        "#2F2F2F",
+        "#DCD4C0"
+      ],
+      "texts": [
+        "And when taking the thought to extreme"
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 60,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene kaader on oluliselt tumedam ja detailid on raskemini eristatavad, samas kui teine kaader on heledamalt valgustatud, paljastades rohkem detaile ruumi kohta ja mehe näoilmet.",
+        "Teises kaadris on mees kätega žestikuleerimas, samas kui esimeses kaadris on käed süles.",
+        "Teises kaadris on nähtavad subtiitrid, mis esimeses kaadris puuduvad."
+      ],
+      "snr": "013",
+      "ajad": [
+        "491.800",
+        "493.920"
+      ]
+    }
+  ]
+}

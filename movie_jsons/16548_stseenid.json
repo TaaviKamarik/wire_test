@@ -1,0 +1,213 @@
+{
+  "film": [
+    "16548",
+    "16425",
+    "FILM_VIDEO_TYPE_TRAILER",
+    "Tupsu",
+    "7971e439e198ba29f48c74025e6aefc79fb580d4.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseenis on kujutatud meest, kes seisab siseruumis ja toetub parempoolse uksepiida või seina vastu. Ta kannab tumedat nahktagi ja selle all tumepunast kõrge kaelusega särki. Mehe pea on norgus ja ta vaatab allapoole, jättes mõtiskleva või kurvameelse mulje. Tema nägu, mis on esimesel kaadril selgelt näha, on habemega ja tal on pruunikad juuksed. Hilisematel kaadritel on fookus nihkunud allapoole mehe ülakehale ja kätele, kus ta hoiab peenikesi prille või traate. Ta manipuleerib nendega kergelt oma käte vahel. Taustal on näha segamini tuba. Vasakul asub puidust kapp või laud, millel on virnas raamatuid, valge riidekuhil ja tume kott või kaust. Seinu katab mustriline tapeet. Valgus on hämardunud ja loob intiimse, ehk isegi melanhoolse atmosfääri.",
+      "actions": [
+        "Seisab toas",
+        "Toetub seina või uksepiida vastu",
+        "Vaatab allapoole",
+        "Hoiab käes prille/traate",
+        "Mõtiskleb"
+      ],
+      "keywords": [
+        "Mees",
+        "Nahktagi",
+        "Punane särk",
+        "Siseruum",
+        "Segadus",
+        "Mõtisklus",
+        "Prillid",
+        "Raamatud",
+        "Hämardus",
+        "Melanhoolia"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Nahktagi",
+        "Punane pluus",
+        "Prillid",
+        "Traadid",
+        "Puitkapp/laud",
+        "Raamatud",
+        "Riie",
+        "Kott/kaust",
+        "Tapeet",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#2C2623",
+        "#A32525",
+        "#C19E86",
+        "#5C4A3A",
+        "#D4D4D4",
+        "#5A3E2F"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehe nägu tervenisti nähtav, ta vaatab allapoole.",
+        "Teisel pildil on kaader nihutatud allapoole, fookus on mehe rinnal ja kätel, nägu on osaliselt kaadri ülemisest servast väljas. Ta hoiab käes prille/traate.",
+        "Kolmandal pildil on kaader veelgi allapoole nihutatud ja sisse suumitud, nägu on täielikult kaadrist väljas, keskendudes mehe ülakehale ja kätes hoitavatele prillidele/traatidele. Käed liiguvad veidi, näidates prillide hoidmist."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "4.520"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha kahte meest siseruumis, tõenäoliselt toas, mille seinu katavad erinevad plakatid. Noorem mees, heledate pruunikate juustega ja mustrilises (pruunides, oranžides ja mustades toonides) pikavarrukaga särgis, asetab peenikese hõbedase eseme (mis meenutab traati või varrast) vanema mehe suu juurde. Noorem mees vaatab samal ajal alla ja vasakule. Vanem mees, lühemate pruunikate juuste, habeme ja musta nahkjaki ning tumepunase dressipluusiga, on ilmselgelt ebamugavas olukorras või valu tundmas. Tema suu on kergelt avatud ja pilk üllatunud või kannatav. Hetk hiljem on vanem mees kaadris üksi, pilk allapoole suunatud ja silmad kinni või tugevalt pilus, mis viitab jätkuvale ebamugavusele või valule. Noorema mehe poolt hoitud ese on tema näo juurest eemaldatud. Taustal on näha mitmeid plakateid, millest mõned sisaldavad teksti nagu \"VS\", \"GIRLS\" ja \"BRAVO!\". Üldine atmosfäär on pingeline ja ebameeldiv.",
+      "actions": [
+        "Noorem mees asetab peenikese eseme vanema mehe suu juurde",
+        "Vanem mees reageerib ebamugavusega",
+        "Noorem mees eemaldab eseme",
+        "Vanem mees kannatab valu"
+      ],
+      "keywords": [
+        "Mehed",
+        "Siseruum",
+        "Plakatid",
+        "Ebamugavus",
+        "Valu",
+        "Pingeline olukord",
+        "Nahkjakk",
+        "Dressipluus",
+        "Mustriline särk",
+        "Hõbedane ese"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Plakatid",
+        "Nahkjakk",
+        "Dressipluus",
+        "Mustriline särk",
+        "Hõbedane peenike ese",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#A51E2A",
+        "#6F4E37",
+        "#BF7E3B",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "VS",
+        "GIRLS",
+        "BRAVO!"
+      ],
+      "persons": [
+        "Noorem mees",
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha ainult nooremat meest, kes vaatab alla ja hoiab kätt rinnal.",
+        "Teisel pildil on mõlemad mehed, kus noorem mees hoiab hõbedast eset vanema mehe suu juures.",
+        "Kolmandal pildil on ainult vanem mees, kelle nägu väljendab suuremat ebamugavust või valu, silmad on kinni või pilus ning hõbedane ese on eemaldatud."
+      ],
+      "snr": "002",
+      "ajad": [
+        "4.520",
+        "23.920"
+      ]
+    },
+    {
+      "explanation": "Stseen on filmile iseloomulik avatiitrite või treileri lõpuosa, kus esitatakse filmi pealkiri, lühike tutvustus, režissööride nimed koos nende filmide pealkirjadega ja filmi esilinastuse kuupäev. Kogu stseen on mustal või väga tumedal, kergelt teralisel taustal, millel on valge tekst. Esimene kaader näitab filmi pealkirja 'MITTE KEEGI PEALE SINU' ja selgitust '6 REŽISSÖÖRI FILMID', lisaks mitmete tootmisfirmade ja toetajate logosid. Järgmised kaadrid, mis on identsed, loetlevad kuue režissööri nimed koos nende filmide pealkirjadega ning annavad teada filmi esilinastuse kuupäeva: 'KINODES 24. JAANUARIST 2014'. Logod on pidevalt ekraani allosas. Stseeni üldmulje on minimalistlik ja informatiivne, keskendudes tekstile.",
+      "actions": [
+        "Teksti ja logode kuvamine",
+        "Informatsiooni esitamine",
+        "Üleminek filmi üldpealkirjalt detailsemale sisule ja esilinastuse infole"
+      ],
+      "keywords": [
+        "Filmitiitrid",
+        "Lõputiitrid",
+        "Treiler",
+        "Eesti film",
+        "Filmikunst",
+        "Režissöörid",
+        "Tootmisfirmad",
+        "Esilinastus",
+        "Antoloogiafilm"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Eesti Filmi Instituudi logo",
+        "Eesti Kultuurkapitali logo",
+        "Alasti Kino logo",
+        "Allfilm logo",
+        "Huntmees Film logo",
+        "Nafta logo",
+        "Homeless Bob Production logo",
+        "BFM (Balti Filmi- ja Meediakool) logo"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "MITTE KEEGI PEALE SINU",
+        "6 REŽISSÖÖRI FILMID",
+        "JANNO JÜRGENS / DISTANTS",
+        "IVAN PAVLJUTSKOV / IVANIPÄEV",
+        "MARIA REINUP / MAI",
+        "TRIIN RUUMET / TUPSU",
+        "KAUR KOKK / OLGA",
+        "MARGUS PAJU / KAASTUNDEAVALDUS",
+        "KINODES",
+        "24. JAANUARIST 2014",
+        "Eesti Filmi Instituut",
+        "EESTI KULTUURKAPITAL",
+        "ALASTI KINO",
+        "allfilm",
+        "HUNTMEES FILM",
+        "NAFTA",
+        "HOMELESS BOB PRODUCTION",
+        "BFM Baltic Film and Media School"
+      ],
+      "persons": [
+        "Janno Jürgens",
+        "Ivan Pavljutskov",
+        "Maria Reinup",
+        "Triin Ruumet",
+        "Kaur Kokk",
+        "Margus Paju"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt kuvab filmi üldpealkirja 'MITTE KEEGI PEALE SINU' ja selgitava teksti '6 REŽISSÖÖRI FILMID'.",
+        "Teine ja kolmas pilt on sisuliselt identsed, kuvades konkreetsete režissööride nimed ja nende filmide pealkirjad, samuti filmi esilinastuse kuupäeva '24. JAANUARIST 2014'.",
+        "Kõigil piltidel on pidevalt ekraani allosas näha tootmisfirmade ja toetajate logod.",
+        "Piltide taust on samasugune tume ja kergelt teraline."
+      ],
+      "snr": "003",
+      "ajad": [
+        "23.920",
+        "28.600"
+      ]
+    }
+  ]
+}

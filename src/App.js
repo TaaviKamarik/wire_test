@@ -1,194 +1,241 @@
-import React, {useEffect, useRef, useState} from "react";
-import {BrowserRouter as Router, Link, NavLink, Route, Routes} from "react-router-dom";
-import {Box, Button, Checkbox, Container, CssBaseline, List, ListItem, ListItemText} from "@mui/material";
-import {DatePicker, Layout, Menu} from "antd";
-import {Header} from "antd/es/layout/layout";
-import Sider from "antd/es/layout/Sider";
-import NetworkGraphForced from "./NetworkGraphForced";
-import {genres, loadMovieDataAlt, roles, subTypes, years} from "./utils/utils";
-import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
-import MovieIcon from '@mui/icons-material/Movie';
-import PersonIcon from '@mui/icons-material/Person';
-import CalendarMonthIcon from '@mui/icons-material/CalendarMonth';
-import {useFilterStore} from "./hooks/useGraphFilterState";
-import VideoKeywords from "./moviekeyword/VideoKeywords";
-import VideoKeywordsSide from "./moviekeyword/VideoKeywordsSide";
-import VideoObjects from "./videoobjects/VideoObjects";
-import MovieLoadingScreen from "./networkgraph/MovieLoadingScreen";
-import StudentMovieGraph from "./networkgraph/StudentMovieGraph";
-import StudentMovieCluster from "./networkgraph/StudentMovieCluster";
-import SidebarFilters from "./components/SidebarFilters";
-import SidebarFilterDrawer from "./components/SidebarFilters";
-import "./App.css"
-import VideoExplainer from "./videoexplainer/VideoExplainer";
+import { useEffect, useRef, useState } from "react";
+import {
+  BrowserRouter as Router,
+  NavLink,
+  Route,
+  Routes,
+} from "react-router-dom";
+import {
+  Container,
+  CssBaseline,
+  Menu as MuiMenu,
+  MenuItem,
+} from "@mui/material";
+import { Layout } from "antd";
+import { Header } from "antd/es/layout/layout";
+import NetworkGraphForced from "./appcomponents/NetworkGraphForced";
+import FacetConnectionExplorer from "./appcomponents/FacetConnectionExplorer";
+import SceneClusteringView from "./appcomponents/SceneClusteringView";
+import TemporalFlowGraph from "./appcomponents/TemporalFlowGraph";
+import FacetTransitionSankey from "./appcomponents/FacetTransitionSankey";
+import SigmaCooccurrenceGraph from "./appcomponents/SigmaCooccurrenceGraph";
+import { loadMovieDataAlt } from "./utils/utils";
+import { useFilterStore } from "./hooks/useGraphFilterState";
+import VideoKeywords from "./appcomponents/VideoKeywords";
+import VideoKeywordsSide from "./appcomponents/VideoKeywordsSide";
+import VideoObjects from "./appcomponents/VideoObjects";
+import MovieLoadingScreen from "./appcomponents/MovieLoadingScreen";
+import SidebarFilterDrawer from "./appcomponents/SidebarFilters";
+import "./App.css";
+import VideoExplainer from "./appcomponents/VideoExplainer";
 
 function App() {
-
-  const containerRef = useRef(0)
-  const containerHeightRef = useRef(0)
-  const [width, setWidth] = useState("1200px")
-  const [height, setHeight] = useState(null)
-  const [data, setData] = useState(null)
-  const [entryCount, setEntryCount] = useState([5,5,5,1])
-  const [filters, setFilters] = useState([])
-  const [filteredData, setFilteredData] = useState(null)
+  const containerRef = useRef(0);
+  const containerHeightRef = useRef(0);
+  const [width, setWidth] = useState("1200px");
+  const [height, setHeight] = useState(null);
+  const [data, setData] = useState(null);
+  const [entryCount, setEntryCount] = useState([5, 5, 5, 1]);
+  const [filteredData, setFilteredData] = useState(null);
   const graphFilters = useFilterStore();
-  const [drawerOpen, setDrawerOpen] = useState(false);
+  const [anchorEl, setAnchorEl] = useState(null);
+  const dropdownOpen = Boolean(anchorEl);
 
-  const menuEntries = [genres, roles, subTypes, years];
-  const filterArray = [graphFilters.genres, graphFilters.roles, graphFilters.types, graphFilters.years];
-  const filterUpdaters = [
-    graphFilters.updateGenres,
-    graphFilters.updateRoles,
-    graphFilters.updateTypes,
-    graphFilters.updateYears
-  ];
-
-  const onChange = (value, currentFilter, updater) => {
-    if (currentFilter.includes(value)) {
-      updater(currentFilter.filter(item => item !== value));
-    } else {
-      updater([...currentFilter, value]);
-    }
+  const handleDropdownClick = (event) => {
+    setAnchorEl(event.currentTarget);
   };
 
-  const onChange2 = (dates, dateStrings) => {
-    const [start, end] = dateStrings.map(str => parseInt(str));
-    if (!isNaN(start) && !isNaN(end)) {
-      graphFilters.updateYears([start, end]);
-    } else {
-      graphFilters.updateYears([]);
-    }
+  const handleDropdownClose = () => {
+    setAnchorEl(null);
   };
-
-
-
 
   useEffect(() => {
     const getData = async () => {
       const movieData = await loadMovieDataAlt();
-      setFilteredData(movieData)
+      setFilteredData(movieData);
       setData(movieData);
-    }
-
-    getData()
+    };
+    getData();
   }, []);
 
   const filterdataValues = async () => {
-    const params = new URLSearchParams();
-
-    if (graphFilters.types.length) {
-      graphFilters.types.forEach(t => params.append('types[]', t));
-    }
-
-    if (graphFilters.roles.length) {
-      graphFilters.roles.forEach(r => {
-        const prefix = r.startsWith('FILM_MAKER_') ? 'maker' : 'actor';
-        params.append('roles[]', `${prefix}:${r}`);
-      });
-    }
-
-    if (graphFilters.festivals.length) {
-      graphFilters.festivals.forEach(f => params.append('festivals[]', f));
-    }
-
-    if (graphFilters.years.length === 2) {
-      params.append('start_year', graphFilters.years[0]);
-      params.append('end_year', graphFilters.years[1]);
-    }
-
-    const url = `https://dti.tlu.ee/errlinked/wire/api/studentmovies?${params.toString()}`;
-    const response = await fetch(url);
-    const result = await response.json();
-    setFilteredData(result);
+    // ...existing logic...
   };
-
-
-  //console.log(graphFilters.genres)
-  //console.log(filteredData)
-  //console.log(data)
-
-  useEffect(() => {
-    if (!containerRef.current || !containerHeightRef.current) return
-    setWidth(containerRef.current.offsetWidth)
-    setHeight(containerHeightRef.current.offsetHeight)
-  }, [containerRef, containerHeightRef])
 
   return (
     <Router basename="/errlinked/wire">
       <CssBaseline />
-      <Layout style={{height: "100vh"}}>
-        <Header style={{ display: 'flex', alignItems: 'center', gap: "1rem"}} className="bg-primary">
+      <Layout style={{ height: "100vh" }}>
+        <Header
+          style={{ display: "flex", alignItems: "center", gap: "1rem" }}
+          className="bg-primary"
+        >
           <div className="demo-logo" />
-         {/* <NavLink
-            to="/"
+          <span
+            onClick={handleDropdownClick}
             className={"font-type navmenu-style"}
+            style={{ cursor: "pointer" }}
           >
-            Home
-          </NavLink>*/}
-          {/*<div className={"font-type navmenu-style"}>/</div>*/}
-          <NavLink
-            to="/"
-            className={"font-type navmenu-style"}
+            Tool Selection ▾
+          </span>
+          <MuiMenu
+            anchorEl={anchorEl}
+            open={dropdownOpen}
+            onClose={handleDropdownClose}
+            MenuListProps={{
+              sx: { py: 0 },
+            }}
           >
-            BFM Network
-          </NavLink>
-          <div className={"font-type navmenu-style"}>/</div>
-          <NavLink
-            to="/video-keywords"
-            className={"font-type navmenu-style"}
-          >
-            Video keyword finder
-          </NavLink>
-          <div className={"font-type navmenu-style"}>/</div>
-          <NavLink
-            to="/video-objects"
-            className={"font-type navmenu-style"}
-          >
-            Video object identifier
-          </NavLink>
-          <div className={"font-type navmenu-style"}>/</div>
-          <NavLink
-            to="/video-explainer"
-            className={"font-type navmenu-style"}
-          >
-            Video explainer
-          </NavLink>
+            <MenuItem onClick={handleDropdownClose} component={NavLink} to="/">
+              BFM Network
+            </MenuItem>
+            <MenuItem
+              onClick={handleDropdownClose}
+              component={NavLink}
+              to="/video-keywords"
+            >
+              Video keyword finder
+            </MenuItem>
+            <MenuItem
+              onClick={handleDropdownClose}
+              component={NavLink}
+              to="/video-objects"
+            >
+              Video object identifier
+            </MenuItem>
+            <MenuItem
+              onClick={handleDropdownClose}
+              component={NavLink}
+              to="/video-explainer"
+            >
+              Video explainer
+            </MenuItem>
+            <MenuItem
+              onClick={handleDropdownClose}
+              component={NavLink}
+              to="/facet-explorer"
+            >
+              Facet Explorer
+            </MenuItem>
+            <MenuItem
+              onClick={handleDropdownClose}
+              component={NavLink}
+              to="/scene-clustering"
+            >
+              Scene Clustering
+            </MenuItem>
+            <MenuItem
+              onClick={handleDropdownClose}
+              component={NavLink}
+              to="/temporal-flow"
+            >
+              Temporal Flow
+            </MenuItem>
+            <MenuItem
+              onClick={handleDropdownClose}
+              component={NavLink}
+              to="/transition-sankey"
+            >
+              Facet Transition Sankey
+            </MenuItem>
+            <MenuItem
+              onClick={handleDropdownClose}
+              component={NavLink}
+              to="/sigma-graph"
+            >
+              Co-occurrence Network
+            </MenuItem>
+          </MuiMenu>
         </Header>
-        <Layout style={{display: "flex"}}>
-
-            <Routes>
-              <Route path="/" element={filteredData ? (
-                <SidebarFilterDrawer
-                  entryCount={entryCount}
-                  setEntryCount={setEntryCount}
-                  filterValues={graphFilters}
-                  onApplyFilters={filterdataValues}
-                  menuEntries={data.filters}
-                />
-
-
-
-              ) : null} />
-
-              <Route path="/" element={<VideoKeywordsSide/>} />
-            </Routes>
-
-
-          <Layout  ref={containerRef} >
-            <Container disableGutters allowInvalidContainer ref={containerHeightRef} maxWidth={false} sx={{ margin: 0, padding: 0, height: "100%" }}>
+        <Layout style={{ display: "flex" }}>
+          <Routes>
+            <Route
+              path="/"
+              element={
+                filteredData ? (
+                  <SidebarFilterDrawer
+                    entryCount={entryCount}
+                    setEntryCount={setEntryCount}
+                    filterValues={graphFilters}
+                    onApplyFilters={filterdataValues}
+                    menuEntries={data ? data.filters : []}
+                  />
+                ) : null
+              }
+            />
+            <Route path="/video-keywords" element={<VideoKeywordsSide />} />
+            <Route path="/facet-explorer" element={null} />
+            <Route path="/scene-clustering" element={null} />
+            <Route path="/temporal-flow" element={null} />
+            <Route path="/transition-sankey" element={null} />
+            <Route path="/sigma-graph" element={null} />
+          </Routes>
+          <Layout ref={containerRef}>
+            <Container
+              disableGutters
+              ref={containerHeightRef}
+              maxWidth={false}
+              sx={{ margin: 0, padding: 0, height: "100%" }}
+            >
               <Routes>
-                <Route path="/" element={filteredData ?
-                  <NetworkGraphForced width={width} data={filteredData} height={height}/>
-                  :
-                  <MovieLoadingScreen/>} />
-
-
+                <Route
+                  path="/"
+                  element={
+                    filteredData ? (
+                      <NetworkGraphForced
+                        width={width}
+                        data={filteredData}
+                        height={height}
+                      />
+                    ) : (
+                      <MovieLoadingScreen />
+                    )
+                  }
+                />
                 {/*<Route path="/" element={<StudentMovieGraph/>} />*/}
-
-                <Route path="/video-keywords" element={<VideoKeywords/>} />
-                <Route path="/video-objects" element={<VideoObjects/>} />
-                <Route path="/video-explainer" element={<VideoExplainer/>} />
+                <Route path="/video-keywords" element={<VideoKeywords />} />
+                <Route path="/video-objects" element={<VideoObjects />} />
+                <Route path="/video-explainer" element={<VideoExplainer />} />
+                <Route
+                  path="/facet-explorer"
+                  element={
+                    <FacetConnectionExplorer
+                      dataUrl={`${process.env.PUBLIC_URL}/all_movies.json`}
+                    />
+                  }
+                />
+                <Route
+                  path="/scene-clustering"
+                  element={
+                    <SceneClusteringView
+                      dataUrl={`${process.env.PUBLIC_URL}/all_movies.json`}
+                    />
+                  }
+                />
+                <Route
+                  path="/temporal-flow"
+                  element={
+                    <TemporalFlowGraph
+                      dataUrl={`${process.env.PUBLIC_URL}/all_movies.json`}
+                    />
+                  }
+                />
+                <Route
+                  path="/transition-sankey"
+                  element={
+                    <FacetTransitionSankey
+                      dataUrl={`${process.env.PUBLIC_URL}/all_movies.json`}
+                    />
+                  }
+                />
+                <Route
+                  path="/sigma-graph"
+                  element={
+                    <SigmaCooccurrenceGraph
+                      dataUrl={`${process.env.PUBLIC_URL}/all_movies.json`}
+                    />
+                  }
+                />
               </Routes>
             </Container>
           </Layout>

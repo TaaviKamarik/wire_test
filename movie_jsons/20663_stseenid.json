@@ -1,0 +1,2824 @@
+{
+  "film": [
+    "20663",
+    "20507",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "12",
+    "972e681af7284a6ad03446f69006bc81b44ca846.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab pimedat öist maastikku, kus vasakul pool on näha bussipeatuse varjualune ja kõnnitee, mis viib eemale. Paremal domineerib märg ja helkiv asfalttee. Tee kaugemas otsas läheneb auto, mille esituled on eredalt valgustatud, heites teele pikad valguskiired. Kogu stseeni valgustab lisaks autotuledele üksik tänavavalgusti paremal pool teed. Ümbritsev on peaaegu täielikult pimeduses, andes edasi üksildase ja vaikse atmosfääri. Märg teekate peegeldab tulesid, luues kumava efekti.",
+      "actions": [
+        "Auto läheneb eemalt mööda teed"
+      ],
+      "keywords": [
+        "öö",
+        "pimedus",
+        "tee",
+        "bussipeatus",
+        "autoesituled",
+        "tänavavalgustus",
+        "märg tee",
+        "kõnnitee",
+        "üksildus",
+        "ootus",
+        "varjud"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "bussipeatuse varjualune",
+        "kõnnitee",
+        "asfalttee",
+        "auto",
+        "esituled",
+        "tänavavalgusti",
+        "tänavapost"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#1a1a1a",
+        "#2a2e2d",
+        "#ffffff",
+        "#4a5a5a"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "13.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pimedat ööd maanteel või suuremal tänaval, mille vasakul küljel asub bussipeatus varikatuse ja pingiga. Esiplaanil on näha märg teekate, mis peegeldab valgust. Paremal pool valgustab tänavavalgusti teelõiku ja taamal paistavad läheneva sõiduki heledad tuled, mis samuti peegelduvad märjal asfaldil. Ümbritsev keskkond on väga tume, mis annab stseenile üksildase ja vaikse meeleolu. Vasakul pool bussipeatuse piirkonnas on vaid minimaalne valgustus, mis annab aimu varikatuse ja pingi kontuuridest.",
+      "actions": [
+        "Sõiduk läheneb pimedal teel",
+        "Tulede peegeldumine märjal teekattel"
+      ],
+      "keywords": [
+        "Öö",
+        "Pimedus",
+        "Tee",
+        "Bussipeatus",
+        "Märg teekate",
+        "Autotuled",
+        "Tänavavalgustus",
+        "Üksildus",
+        "Öine maastik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Tee",
+        "Bussipeatus",
+        "Varikatus",
+        "Pink",
+        "Tänavavalgustuspost",
+        "Tänavavalgusti",
+        "Sõiduki tuled (eemalt)",
+        "Kõnnitee",
+        "Asfalt"
+      ],
+      "colorcodes": [
+        "#0A0A0A",
+        "#FFFFFF",
+        "#404F4D",
+        "#202B2E",
+        "#424242"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "80",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Erinevused puuduvad"
+      ],
+      "snr": "002",
+      "ajad": [
+        "13.200",
+        "14.400"
+      ]
+    },
+    {
+      "explanation": "Stseen algab öisel pimedal maanteel, kus vasakul pool asub bussipeatus koos varjualuse ja pingiga ning paremal teelatern. Tee on märg ja peegeldab üksikuid valgusallikaid. Kauguses on näha läheneva sõiduki esitulesid. Seejärel ilmub bussipeatusesse inimene, kes kükitab või kummardub pingi lähedal, samal ajal kui sõiduk on märgatavalt lähemale jõudnud, valgustades oma eredate esituledega ümbrust ja märga teed. Järgnevalt muutub kaader häguseks, pakkudes vaadet auto seest või fookusest väljas olevalt objektilt, kus eristuvad udused teemärgistused ning punased ja valged tuled. Kaadri kohale ilmub ingliskeelne tekst: \"If I cannot run directly into Father's arms.\"",
+      "actions": [
+        "Sõiduk läheneb",
+        "Inimene ilmub bussipeatusse",
+        "Inimene kükitab/kummardub",
+        "Auto sõidab mööda"
+      ],
+      "keywords": [
+        "Öö",
+        "Pimedus",
+        "Maantee",
+        "Bussipeatus",
+        "Auto esituled",
+        "Märg tee",
+        "Ootus",
+        "Üksildus",
+        "Hägu",
+        "Tekst"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Bussipeatus",
+        "Varjualune",
+        "Pingid",
+        "Teelatern",
+        "Maantee",
+        "Sõiduk/Auto",
+        "Esituled",
+        "Tagatuled (hägused)",
+        "Kõnnitee",
+        "Muru"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#2C2C2C",
+        "#4E5E69",
+        "#FF0000"
+      ],
+      "texts": [
+        "If I cannot run directly into Father's arms"
+      ],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on bussipeatus tühi, teisel pildil ilmub sinna inimene, kes kükitab või kummardub pingi lähedal.",
+        "Esimesel pildil on sõiduk kaugel ja selle tuled on nõrgemad, teisel pildil on sõiduk lähenenud ning selle eredad esituled valgustavad oluliselt rohkem stseeni.",
+        "Kolmas pilt erineb kahest esimesest drastiliselt, olles hägune lähivõte või kaadri seest vaade teemärgistuste ja tuledega, mitte laiem keskkonnavaade.",
+        "Kolmandal pildil on näha ingliskeelne tekst, kahel esimesel pildil seda ei ole."
+      ],
+      "snr": "003",
+      "ajad": [
+        "14.400",
+        "15.600"
+      ]
+    },
+    {
+      "explanation": "Stseen algab pimeda, vihmase öövaatega, mis on filmitud läbi märja sõiduki esiklaasi. Vihmapiiskad moonutavad ja hajutavad auto esilaternatest või tänavavalgustitest pärinevaid valgusallikaid, luues ähmaste punakaspruunide ringide ja piklike valgusribade efekti. Üldine värvitoon on sügavpunane ja tumepruun, andes stseenile melanhoolse ja introspektiivse meeleolu. Seejärel muutub ekraan peaaegu täielikult mustaks, kuvades tumedal taustal valge emotsionaalse teksti. Lõpuks kaob ka tekst, jättes ekraanile vaid täieliku pimeduse, rõhutades tühjust ja mõttepausi.",
+      "actions": [
+        "Vaatlemine läbi vihmase klaasi",
+        "Mõtisklused öös",
+        "Teksti kuvamine"
+      ],
+      "keywords": [
+        "Öövaade",
+        "Vihmane esiklaas",
+        "Udused tuled",
+        "Pimedus",
+        "Melanhoolia",
+        "Introspektsioon",
+        "Usaldus",
+        "Tühjus",
+        "Tekstiekraan"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Sõiduki esiklaas",
+        "Vihmapiiskad",
+        "Valgusallikad (esilaternad/tänavavalgustid)"
+      ],
+      "colorcodes": [
+        "#1a0808",
+        "#000000",
+        "#ffffff"
+      ],
+      "texts": [
+        "If I cannot run directly into Father's arms",
+        "I am troubled in the night to trust You"
+      ],
+      "persons": [
+        "not clear"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt näitab läbi märja esiklaasi nähtavat pimedat ja vihmast öövaadet koos tekstiga kaadri allosas; teine pilt on peaaegu täielikult must ekraan uue tekstiga kaadri allosas; kolmas pilt on täiesti must ekraan ilma igasuguse sisuta. Tekstid erinevad piltide vahel ja visuaalne sisu (välja arvatud tekst) kaob esimesest pildist edasi liikudes."
+      ],
+      "snr": "004",
+      "ajad": [
+        "15.600",
+        "209.240"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab kaubiku või matkaauto esiklaasi tagust interjööri öisel ajal, vaadatuna väljastpoolt. Kaadris on näha juhiistmel magavat või puhkavat inimest, kes kannab punase ja oranži toonides kootud mütsi, millel on põhjapõtrade motiivid. Esimeses kaadris on inimene vaikselt paigal, teises kaadris ulatab ta käe tahavaatepeegli reguleerimiseks ja kolmandas kaadris on peegel allapoole suunatud, varjates osaliselt vaate salongi. Armatuurlaud on esemeid täis: seal on paberid, sinine jope, prillid, mobiiltelefon, väikesed märkmikud ja kolm pehmet mänguasja – kaks heledat koera ja üks roosakas kaisukaru. Kabiini lagi on valge ja esiklaasi ülemises vasakus nurgas on näha mitu kleepsu. Salong on üldiselt hämar, taust on täiesti pime, mis viitab öisele ajale. Valgustus on tuhm ja annab stseenile melanhoolse või rahuliku tooni.",
+      "actions": [
+        "Inimene puhkab juhiistmel",
+        "Inimene reguleerib tahavaatepeeglit"
+      ],
+      "keywords": [
+        "Matkaauto",
+        "Kaubik",
+        "Öö",
+        "Armatuurlaud",
+        "Tahavaatepeegel",
+        "Pehmed mänguasjad",
+        "Reisimine",
+        "Puhkus",
+        "Pimedus",
+        "Interjöör",
+        "Sõiduk",
+        "Müts",
+        "Esiklaas"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Matkaauto",
+        "Esiklaas",
+        "Armatuurlaud",
+        "Juhiiste",
+        "Kootud müts",
+        "Sinine jope",
+        "Paberid",
+        "Prillid",
+        "Mobiiltelefon",
+        "Märkmikud",
+        "Pehmed mänguasjad",
+        "Tahavaatepeegel",
+        "Klaasipuhastajad",
+        "Kleebised",
+        "Punane tekk/riie",
+        "Passiistme peatoed"
+      ],
+      "colorcodes": [
+        "#182D33",
+        "#3C555E",
+        "#A7B7B1",
+        "#D9D9D9",
+        "#C4582E",
+        "#F7C045"
+      ],
+      "texts": [],
+      "persons": [
+        "Autojuht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimeses kaadris on inimene paigal ja tahavaatepeegel on algses asendis.",
+        "Teises kaadris ulatub inimese käsi tahavaatepeeglit reguleerima.",
+        "Kolmandas kaadris on tahavaatepeegel allapoole suunatud ja inimene on osaliselt varjutatud."
+      ],
+      "snr": "005",
+      "ajad": [
+        "209.240",
+        "243.920"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset pimedas, kitsas ruumis, mis näib olevat sõiduki (tõenäoliselt auto pagasiruum või tagaistme ala) sisemus. Kaamera fookuses on inimene, kes magab või puhkab, olles osaliselt kaetud mitme riideesemega. Inimese pea on kaetud punase mütsiga, millel on näha valge muster, mis meenutab põtra või sarnast looma, ning sinise jope kapuutsiga. Suurem osa kehast on kaetud tumepunase või bordoovärvi kangaga, mis meenutab tekki või paksu jopet. Paremal pool lamavast inimesest on näha heledamat, kokkuvolditud riideeset, mis võib olla roosa või beeži tooniga. Valgus on stseenis väga hämar, luues intiimse ja veidi salapärase atmosfääri. Üldine toon on sünge ja rahulik, rõhutades puhkeseisundit pimedas keskkonnas. Stseen lõpeb täieliku pimedusega, viidates kaadri lõppemisele või üleminekule uuele stseenile.",
+      "actions": [
+        "Magamine",
+        "Puhkamine"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Uni",
+        "Puhkus",
+        "Sõiduk",
+        "Inimene",
+        "Müts",
+        "Jope",
+        "Tekk",
+        "Hämar",
+        "Intiimne",
+        "Saladuslik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Punane müts",
+        "Sinine jope",
+        "Tumepunane tekk/riie",
+        "Heledad riided",
+        "Sõiduki sisemus",
+        "Tume polsterdus"
+      ],
+      "colorcodes": [
+        "#4F1D2C",
+        "#2B578E",
+        "#9B202D",
+        "#DCDCDC",
+        "#1A1A1A",
+        "#B8B0A8",
+        "#324440"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene ja teine pilt on peaaegu identsed, kujutades sama hetke minimaalsete erinevustega kaadri kompositsioonis või valgustuses.",
+        "Kolmas pilt on täiesti must, tähistades stseeni lõppu või üleminekut."
+      ],
+      "snr": "006",
+      "ajad": [
+        "243.920",
+        "260.920"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub pilvisel päeval väljas, tõenäoliselt kuskil maantee ääres asuvas tanklas. Üldine meeleolu on jahe ja hall, mis viitab kevadisele ilmale. Maapind on asfalteeritud ja seal on mitmed veeloigud, mis annab märku hiljutisest sajuhulgast. Taustal on näha puudeta metsatukka ja avarat põllumaad. Tankla hooned ja sisseseade on kaadris, sealhulgas suur tankla varikatus sildiga 'MSI OLEREX'. Ühes kaadris jalutab kaamerast eemale mees, seljas sinine jope kirjaga 'FINLAND', hallid püksid ja punavalge tutimüts. Ta kannab vasakus käes eset, mis sarnaneb telefoniga. Teises kaadris on näha tankla juures parkimas hõbedast/helehalli sõiduautot. Tankla alal on ka mitu lipumasti, millel lehvivad Eesti lipp ja teine kollase-punasekirju lipp. Lisaks on seal kaarega katusega rajatis, mis võib olla LPG tankla või autopesula, sildiga 'DUET' ja sinine silt 'SAASTA'.",
+      "actions": [
+        "Mees kõnnib tankla platsil",
+        "Auto pargib tanklas",
+        "Lipud lehvivad"
+      ],
+      "keywords": [
+        "Tankla",
+        "Maantee",
+        "Pilvine",
+        "Jahe",
+        "Kevad",
+        "Jalutuskäik",
+        "Eesti lipp",
+        "Põllumaa",
+        "Hall",
+        "Veeloigud"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Tankla hoone",
+        "Kütusepumbad",
+        "Autovarjualune",
+        "Lipumastid",
+        "Lipud",
+        "Mees",
+        "Hõbedane sõiduauto",
+        "Asfalttee",
+        "Veeloigud",
+        "Puud",
+        "Põllud",
+        "Märk",
+        "Sinine jope",
+        "Tutimüts",
+        "Hallid püksid",
+        "Kaarega rajatis"
+      ],
+      "colorcodes": [
+        "#3E5E8A",
+        "#C7C6C4",
+        "#E12A34",
+        "#F8D34B",
+        "#F0F0F0",
+        "#000000"
+      ],
+      "texts": [
+        "MSI",
+        "OLEREX",
+        "FINLAND",
+        "DUET",
+        "SAASTA"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader on täiesti must, järgmised kaks kaadrit näitavad stseeni sisu.",
+        "Teises kaadris on näha mööda kõndivat meest, kolmandas kaadris on ta kaadrist väljas.",
+        "Kolmandas kaadris on kaamera veidi nihutatud paremale, paljastades rohkem tankla struktuuri ja märke (nt 'DUET', 'SAASTA').",
+        "Kolmandas kaadris on hõbedane/helehall auto paremini nähtav tankimas."
+      ],
+      "snr": "007",
+      "ajad": [
+        "260.920",
+        "316.280"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub lihtsas pesemisruumis, kus heleda plaaditud seina ja peegli taustal toimetab keskealine mees. Ta kannab sinist jopet, mille all on triibuline särk. Esialgu on ta hõivatud hammaste pesemisega, kummardades kraanikausi (mis on kaadrist väljas) poole ja vaadates oma peegelpilti. Seejärel sirutab ta end sirgemaks, vaatab endiselt peeglisse ning kohendab käega juukseid, näol paistmas kerge muie. Tema sinise jope varrukal on näha brändi 'QUECHUA' logo. Lõpuks on peegelpilt kadunud ja kaader näitab vaid tühja plaaditud seina ja peeglit, andes märku, et mees on lahkunud. Valgus on üldiselt jahe ja summutatud, luues funktsionaalse ja argise atmosfääri.",
+      "actions": [
+        "Hambapesu",
+        "Peeglisse vaatamine",
+        "Juuste kohendamine",
+        "Lahkumine stseenist"
+      ],
+      "keywords": [
+        "Hommikurutiin",
+        "Hügieen",
+        "Pesemisruum",
+        "Peegel",
+        "Mees",
+        "Quechua",
+        "Plaadid",
+        "Hambahari"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Peegel",
+        "Hambahari",
+        "Sinine jope",
+        "Triibuline särk",
+        "Heledad plaadid",
+        "Sein",
+        "Paberkäterätiku dosaator (osaliselt nähtav)"
+      ],
+      "colorcodes": [
+        "#2E7DCC",
+        "#C8D8E0",
+        "#A0A0A0",
+        "#404040",
+        "#B0E0F0"
+      ],
+      "texts": [
+        "QUECHUA"
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "morning",
+      "differences": [
+        "Esimesel pildil peseb mees aktiivselt hambaid.",
+        "Teisel pildil on mees lõpetanud hammaste pesu, vaatab peeglisse ja kohendab juukseid, hoides hambaharja käes allapoole.",
+        "Kolmandal pildil on mees kaadrist lahkunud ja näha on vaid tühja peeglit ja plaaditud seina."
+      ],
+      "snr": "008",
+      "ajad": [
+        "316.280",
+        "420.920"
+      ]
+    },
+    {
+      "explanation": "Stseen algab vaatega auto esiklaasist välja, kus paistab pilvise taeva all bensiinijaam või maanteeäärne teeninduspunkt. Hoonetel on sinised ja oranžpunased aktsendid. Eespool on näha valge universaalkerega auto. Klaas on pisut udune või peegeldav, mistõttu vaade on veidi ähmastatud. Järgmisena näidatakse detailsemalt auto sisemust ja juhti. Juht, tumedate juustega inimene prillidega ja sinises jakis/pusas, istub rooli taga. Armatuurlaual on erinevaid esemeid, sealhulgas väike valge plüüsist mänguasi (karu või koer), kaardid või paberid (ühel sinine graafika) ja musta värvi rahakotitaoline ese. Stseen jätkub auto liikumisega maanteel, vaade on nüüd auto tagaistmelt üle juhi õla läbi esiklaasi. Juhi tagumine pool on näha. Tahavaatepeegel on paigaldatud esiklaasile. Teel on näha vastutulevat autot põlevate esituledega ja tee ääres seisavad raagus puud. Üldine meeleolu on hall ja pilvine päev, mis viitab hilissügisele või varakevadele.",
+      "actions": [
+        "Juht istub autos",
+        "Auto sõidab maanteel",
+        "Vaatamine läbi esiklaasi",
+        "Autos peatutakse bensiinijaamas"
+      ],
+      "keywords": [
+        "Autosõit",
+        "Maantee",
+        "Bensiinijaam",
+        "Juht",
+        "Armatuurlaud",
+        "Pilvine ilm",
+        "Raagus puud",
+        "Puhkus",
+        "Teekond"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Auto (esiklaas, rool, armatuurlaud, tahavaatepeegel, iste)",
+        "Bensiinijaama hooned",
+        "Kütusepumbad",
+        "Valge universaalkerega auto",
+        "Maantee",
+        "Raagus puud",
+        "Vastutulev auto",
+        "Väike valge plüüsist mänguasi",
+        "Kaardid/paberid",
+        "Rahakotitaoline ese",
+        "Prillid",
+        "Jakk/pusa"
+      ],
+      "colorcodes": [
+        "#8B979A",
+        "#347293",
+        "#D9531E",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Juht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on üldvaade bensiinijaamast läbi auto esiklaasi, fookuses on välisilme.",
+        "Teine pilt on lähem vaade auto sisemusse, näidates juhti ja armatuurlaual olevaid esemeid, bensiinijaam on taustal ähmastatud.",
+        "Kolmas pilt on tagantvaade autost, näidates juhi selga ja autot liikumas maanteel, eemaldudes bensiinijaamast, kus vastutulev liiklus on näha."
+      ],
+      "snr": "009",
+      "ajad": [
+        "420.920",
+        "484.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maanteeäärset vaadet sombusel ja pilvisel päeval. Pikk sirge kahe realise asfalttee kulgeb otse vaataja poole, kadudes hallis udus horisondi taga. Tee mõlemal küljel laiuvad suured rohelised põllud, mille taga paistavad kauguses hõredad, lehtedeta puudesalud. Üldine õhkkond on jahe ja niiske. Stseeni arenedes ilmuvad teele ka teised sõidukid: alguses kauguses lähenev auto, seejärel möödub vaatlejast vasakult suur veoauto ning vastassuunas läheneb lähemale tumeda värvusega sõiduauto, mille tuled on põlemas. Tee paremal ääres on näha punase äärisega kolmnurkne hoiatusmärk ning mõnes kohas on teepeenardel näha veeloike või märgasid alasid. Kauguses vasakul on puude vahelt aimatavad ka mõned hooned. Üldmulje on melanhoolne, tüüpiline pikkadele sõitudele halva ilmaga.",
+      "actions": [
+        "Sõitmine",
+        "Möödasõit",
+        "Vastutulemine"
+      ],
+      "keywords": [
+        "Maantee",
+        "Põllud",
+        "Pilvine taevas",
+        "Sombune ilm",
+        "Sõidukid",
+        "Teeäär",
+        "Külm",
+        "Märg"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Asfalttee",
+        "Teemärgistus",
+        "Põllud",
+        "Puud",
+        "Taevas",
+        "Sõiduauto",
+        "Veoauto",
+        "Liiklusmärk",
+        "Hooned",
+        "Vesi",
+        "Teeäärsed postid"
+      ],
+      "colorcodes": [
+        "#909BA0",
+        "#4B6E3F",
+        "#FFFFFF",
+        "#68829C",
+        "#E04E50",
+        "#52A6D3",
+        "#2F3E46",
+        "#CC3333"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esialgu on maantee tühi, kuid hiljem ilmuvad kaugusesse vastutulevad sõidukid.",
+        "Stseeni arenedes möödub vaatlejast vasakul suur veoauto, mis on udususe tõttu osaliselt hägune.",
+        "Viimases kaadris on näha teemärgistus selgemalt, samuti tee ääres paiknev hoiatusmärk ja kauguses paistvad hooned.",
+        "Tee paremal teepeenral on viimases kaadris näha veeloike või märgasid alasid."
+      ],
+      "snr": "010",
+      "ajad": [
+        "484.400",
+        "569.120"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab vanemat meest sõidukit juhtimas, tõenäoliselt kaubikut. Mees on kaadris rindkere ülespoole, pilk suunatud ettepoole. Ta kannab punast ja kollast triibulist kootud mütsi, millel on hirvede mustrid, sinist talvist jopet ja prille. Tema käed hoiavad rooli, mis viitab aktiivsele sõidule. Väljaspool sõidukit on näha hall ja pilvine taevas, mis annab edasi jaheda ja pilvise ilma mulje. Läbi esiklaasi ja küljeakende paistab udune ja ähmane maastik, kus on näha teed ja kauguses hooneid ning puid, mis kõik viitavad sõiduki liikumisele. Üldine meeleolu on rahulik, kuid ilm on sombune.",
+      "actions": [
+        "Sõiduki juhtimine",
+        "Rooli hoidmine",
+        "Teele vaatamine"
+      ],
+      "keywords": [
+        "Autojuht",
+        "Vanem mees",
+        "Talvemüts",
+        "Jope",
+        "Udune ilm",
+        "Hall taevas",
+        "Sõit",
+        "Maantee",
+        "Talv"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Auto",
+        "Rool",
+        "Kootud müts",
+        "Prillid",
+        "Sinine jope",
+        "Esiklaas",
+        "Küljepeegel",
+        "Tee",
+        "Hooned (kauguses)",
+        "Puud (kauguses)"
+      ],
+      "colorcodes": [
+        "#7E1D1F",
+        "#37799E",
+        "#E9A637",
+        "#A7B2B8",
+        "#242629",
+        "#9A7C64"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on märgatav väga kerge sõiduki edasiliikumine, mille tulemusel taustal olevad objektid (hooned, puud) on õrnalt nihkunud ja muutunud veelgi ähmasemaks, rõhutades liikumise efekti.",
+        "Rooli hoidev käsi ja mehe pea asend näitavad minimaalseid variatsioone, mis on kooskõlas videokaadritega."
+      ],
+      "snr": "011",
+      "ajad": [
+        "569.120",
+        "586.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sõitu sõidukist läbi muutuvate maastike talvisel või varakevadel perioodil, mida iseloomustab hall ja sombune ilm. Algne kaader näitab lumist, kitsamat teed, mis on kaetud paksu lumekihiga ja millel on näha selgeid rehvijälgi, viidates hiljutisele lumesajule. Ümbritsev mets on samuti lumine ja karge. Järgmised kaadrid näitavad üleminekut laiale, mitmerealisele maanteele, mis on märg – ilmselt vihmast või sulanud lumest. Taevas on pidevalt pilvine ja udune, luues madala nähtavuse. Teel on näha teisi sõidukeid, sealhulgas punast veokit ja autosid, mille tuled põlevad. Maantee ääres on piirded, tänavavalgustid, elektriliinid ja tihedad metsad, mis annavad maastikule varieeruva ilme.",
+      "actions": [
+        "Sõitmine teel",
+        "Liiklemine sõidukiga",
+        "Vaatlemine läbi esiklaasi"
+      ],
+      "keywords": [
+        "Teekond",
+        "Talv",
+        "Maantee",
+        "Lumi",
+        "Märg tee",
+        "Udune",
+        "Hall ilm",
+        "Sõidukid",
+        "Mets",
+        "Liiklus",
+        "Pilvine",
+        "Rehvijäljed"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Tee",
+        "Lumi",
+        "Rehvijäljed",
+        "Puud",
+        "Mets",
+        "Autod",
+        "Veok",
+        "Tänavavalgustid",
+        "Teepiirded",
+        "Elektriliinid",
+        "Teemärgid"
+      ],
+      "colorcodes": [
+        "#E0E0E0",
+        "#3A4542",
+        "#5B686E",
+        "#33444C",
+        "#CE3334"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "snr": "012",
+      "ajad": [
+        "586.880",
+        "612.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pilvise ja uduste tingimustega päeva hilissügisel või talvel, mil loodus on raagus. Kaadrid liiguvad abstraktsemast, udusest ja hallikas-sinisest maastikust, kus domineerivad tumedad raagus puud, konkreetsemaks vaateks teelt, mis viib sillani ja edasi väikesesse linna või asulasse. Linna siluetil eristub selgelt terava torniga kirik. Stseenis on näha ka ühe inimese siluetina kujutatud profiili, kes vaatab välja, andes edasi mõtiskleva või jälgiva tunde. Üldine meeleolu on jahe, veidi melanhoolne ja vaikne, rõhutades rännakut läbi looduse ja asustatud paiga.",
+      "actions": [
+        "Sõitmine (kaudselt, vaade sõidukist)",
+        "Vaatlemine",
+        "Rändamine"
+      ],
+      "keywords": [
+        "Udu",
+        "Miste",
+        "Talv",
+        "Sügis",
+        "Linn",
+        "Kirik",
+        "Tee",
+        "Sild",
+        "Raagus puud",
+        "Pilvine",
+        "Reis",
+        "Mõtlik",
+        "Vaikne"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Tee",
+        "Sild",
+        "Maja",
+        "Kirik",
+        "Inimese nägu (siluett)",
+        "Udu"
+      ],
+      "colorcodes": [
+        "#A3ADB3",
+        "#5A6A70",
+        "#3A4040",
+        "#939C9F"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene (siluett)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "day",
+      "snr": "013",
+      "ajad": [
+        "612.280",
+        "670.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab autosõitu mitmerealisel maanteel pilvise taeva all. Sõidusuunas on näha tihe liiklus, kus eri tüüpi sõidukid – autod ja kaubikud – liiguvad üksteise järel. Maantee äärt palistavad tänavavalgustid ning kauguses paistavad hooned. Samal ajal avaneb lähivaade autojuhile, vanemale prillide ja vuntsidega mehele, kelle peegelpilt on nähtav tahavaatepeeglis. Peegli ümbrus on jahedates sinakas-hallides toonides, taust hägune. Sõit jätkub, mida iseloomustab abstraktne ja udune vaade teiste autode punastele tagatuledele.",
+      "actions": [
+        "Autosõit",
+        "Juhtimine",
+        "Liiklemine"
+      ],
+      "keywords": [
+        "Maantee",
+        "Autosõit",
+        "Juht",
+        "Hall taevas",
+        "Tagasivaatepeegel",
+        "Liiklus",
+        "Autod",
+        "Prillid",
+        "Vuntsid",
+        "Udune vaade"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Auto",
+        "Maantee",
+        "Tänavavalgustid",
+        "Hoone",
+        "Sõiduk",
+        "Kaubik",
+        "Tagasivaatepeegel",
+        "Prillid"
+      ],
+      "colorcodes": [
+        "#808B8F",
+        "#FF0000",
+        "#FFFFFF",
+        "#0000FF",
+        "#5A7E8D",
+        "#B58A7A",
+        "#4A6E7D"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinev fookus ja kaamera nurk: alguses on lai vaade maanteele, seejärel lähivõte mehe peegelpildist ja lõpuks abstraktne, täiesti udune vaade.",
+        "Piltide detailsus: esimene vaade on terav ja detailne, teine keskendub teravalt autojuhi peegelpildile, taust on udune, ja kolmas on täiesti fookusest väljas, luues abstraktse kujutise.",
+        "Perspektiiv: stseen algab välisvaatega maanteele, liigub seejärel juhi sisemise vaatepunkti juurde (läbi tahavaatepeegli) ja lõpeb hägusa vaatega eesliikuvate autode tagatuledele."
+      ],
+      "snr": "014",
+      "ajad": [
+        "670.840",
+        "707.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maanteesõitu sombusel ja pilvisel päeval, tõenäoliselt hilissügisel või talvel, kuna puud on enamasti lehtedeta. Vaade on filmitud sõidukist, mis liigub mööda kahesuunalist maanteed. Teekatet katab asfalt ja see on selgelt märgistatud valgete joontega. Maanteed ääristavad mõlemalt poolt metsad ja mäenõlvad, mis on kaetud tiheda puistu ja põõsastega. Mõnel pool on näha ka okaspuid. Teel liigub mitu veokit, mõned neist samas suunas eespool. Ühes stseenis on eriti silmapaistev topelt-tunneli suue, mille juures on näha ka paakautot. Üldine atmosfäär on jahe ja hallides toonides, andes stseenile veidi melanhoolse või karmi ilme.",
+      "actions": [
+        "Sõiduki liikumine maanteel",
+        "Veokite liikumine liikluses",
+        "Lähenemine tunnelile",
+        "Sõit läbi maastiku"
+      ],
+      "keywords": [
+        "Maantee",
+        "Veokid",
+        "Tunnel",
+        "Hall ilm",
+        "Pilvine",
+        "Sügis",
+        "Talv",
+        "Metsane",
+        "Liiklus",
+        "Sõit"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Maantee",
+        "Asfalttee",
+        "Valged teemärgistused",
+        "Veokid (sinised, valged, rohekashall paakauto)",
+        "Topelt-tunnelisuue",
+        "Lehtpuud",
+        "Okaspuud",
+        "Mäenõlvad",
+        "Betoonpiirded",
+        "Metallist piirded"
+      ],
+      "colorcodes": [
+        "#A6A9AD",
+        "#707577",
+        "#3A4349",
+        "#4B555B",
+        "#3C4B44",
+        "#2D3933",
+        "#1D4367",
+        "#FFFFFF",
+        "#7E8672"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader näitab maanteed lähenemas tunnelile, mitme veokiga eespool kauguses, ja laiema vaatega ümbritsevale metsale.",
+        "Teine kaader keskendub lähedalt kahele tunnelisuudmele, mille kõrval on näha suurt rohekashalli paakautot, mis tundub peatuvat või aeglustavat.",
+        "Kolmas kaader on tehtud pärast tunneleid, näidates maantee kerget kurvi ja kõrgemaid metsatukkadega kaetud nõlvu tee ääres; tunneleid selles kaadris enam näha ei ole ja üldine perspektiiv on avaram."
+      ],
+      "snr": "015",
+      "ajad": [
+        "707.760",
+        "747.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maanteeäärset olustikku ja teekonda. Esmalt on näha blondide juustega meest, kes seisab heledavärvilise kaubiku või väikese veoki kõrval mitmerealise maantee teeservas. Ümbrus on hallikas ja sombune, tumeda männimetsaga taustal, teeservas on näha lumelaike ja märga asfalti. Taevas on pilvine ja pime, luues jaheda ja vaoshoitud atmosfääri. Hiljem muutub perspektiiv ja näeme vaadet liikuva sõiduki seest samal maanteel, kuid dramaatiliselt soojema taeva all. See osa teekonnast on värvitud punakasoranži koidu- või videvikuhelgiga, kus tee venib kaugele ettepoole, olles täis erinevaid sõidukeid, sealhulgas suuri veokeid. Maantee kohal laiub portaalsild, mis on varustatud tõenäoliselt liiklusmonitori või teemaksuseadmetega, ning horisondi ääres on näha puid. Vasakul pool teed on osaliselt näha liiklusmärki.",
+      "actions": [
+        "Mees seisab maantee servas",
+        "Mees liigub või astub sammu",
+        "Sõidukid liiguvad maanteel"
+      ],
+      "keywords": [
+        "maantee",
+        "teekond",
+        "kaubik",
+        "veok",
+        "mets",
+        "lumi",
+        "hämarik",
+        "külm",
+        "sombune",
+        "teemaksusild",
+        "päikeseloojang",
+        "päikesetõus",
+        "talv",
+        "teeäär"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "kaubik",
+        "väike veok",
+        "maantee",
+        "männimets",
+        "lumi",
+        "teeserv",
+        "piire",
+        "liiklusmärgid",
+        "portaalsild",
+        "autod",
+        "rekkad",
+        "asfalt",
+        "puud"
+      ],
+      "colorcodes": [
+        "#2E3535",
+        "#A0A0A0",
+        "#4D4F5E",
+        "#3A3B42",
+        "#738C9C",
+        "#B56C4D",
+        "#302A28"
+      ],
+      "texts": [
+        "PALE TY"
+      ],
+      "persons": [
+        "blondide juustega mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "hämarik",
+      "differences": [
+        "Kaadrite valgus ja värvitoonid erinevad oluliselt: esimesed kaks on jahedates ja tumedates toonides, kolmas on soojades, punakas-oranžides toonides.",
+        "Perspektiiv muutub: esimesed kaks on väljastpoolt sõidukit filmitud, kolmas kaader on filmitud liikuva sõiduki seest.",
+        "Konkreetne sisu erineb: esimeses kahes on fookuses mees ja kaubik teeservas, kolmandas on laiem vaade maanteele koos õhusilla ja teiste sõidukitega.",
+        "Aeg: kuigi mõlemad on hämarikus, viitavad erinevad valgustingimused erinevatele hetkedele päeva jooksul või erinevatele päevadele."
+      ],
+      "snr": "016",
+      "ajad": [
+        "747.360",
+        "777.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat meest, kellel on prillid ja habe. Ta istub pimedas keskkonnas, tõenäoliselt autos öisel ajal, kuna näole langeb juhuslikku, muutuvat ja vilkuvat punakaspruuni kuni oranži valgust, mis viitab mööduvatele tuledele või tänavavalgustusele. Mees vaatab paremale, profiilis, tundudes mõtlik või süvenenud. Valgus loob dramaatilise ja intiimse atmosfääri, rõhutades tema näo kontuure ja prillide peegeldust. Üldine toon on väga tume ja varjud domineerivad, jättes suure osa kaadrist mustaks.",
+      "actions": [
+        "Mees istub",
+        "Mees vaatab paremale või aknast välja",
+        "Mees on süvenenud mõtetesse",
+        "Valgus vilgub ja muutub mehe näol"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Öö",
+        "Auto",
+        "Mees",
+        "Prillid",
+        "Habe",
+        "Mõtisklus",
+        "Vilkuv valgus",
+        "Madal valgustus",
+        "Punakas toon",
+        "Oranž toon",
+        "Profiilvaade"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Prillid"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#9f4f3e",
+        "#b97151",
+        "#3c2f2b"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 75,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Peamine erinevus piltide vahel on mehe näole langeva punakaspruuni/oranži valguse intensiivsus ja asukoht. Valgus vilgub, andes edasi liikumise ja dünaamika tunnet.",
+        "Teine pilt on märgatavalt tumedam kui esimene ja kolmas, kus valgus on peaaegu kadunud, rõhutades pimeduse hetki.",
+        "Esimesel ja kolmandal pildil on valgus tugevam ja paremini näha mehe näojooni, kusjuures kolmandal pildil on valgus veidi oranžima tooniga ja ehk pisut laiemalt levinud kui esimesel."
+      ],
+      "snr": "017",
+      "ajad": [
+        "777.280",
+        "820.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist teekonda ja peatumist puhkealal. Esialgu on vaade autost, mis sõidab pimedal mitmerealisel maanteel, ees paistavad teiste sõidukite punased tagatuled ja kauguses esituled. Teeäärne ala on pime ja nähtavust piiravad vaid sõidukite ning maantee valgustus. Hiljem viib stseen maanteeäärsesse puhke- või teenindusalasse, mis on valgustatud tänavavalgustitega. Paremal pool on näha kaadri piirjooneni ulatuv tee ja vasakul suurt punast veokit. Keskel seisab prügikast. Hiljem ilmub veoki ja prügikasti vahele valge kaubik, mis viitab uue sõiduki saabumisele puhkealale. Maapind on kaetud lühikese rohelise muruga.",
+      "actions": [
+        "Sõitmine maanteel",
+        "Peatumine puhkealal",
+        "Puhkamine",
+        "Liiklus"
+      ],
+      "keywords": [
+        "Öö",
+        "Maantee",
+        "Puhkeala",
+        "Sõidukid",
+        "Pimedus",
+        "Tuled",
+        "Reisimine",
+        "Teekond"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Maantee",
+        "Autod",
+        "Punane veok",
+        "Valge kaubik",
+        "Prügikast",
+        "Tänavavalgustid",
+        "Teemärgistus",
+        "Murunõlv",
+        "Valgustuspostid",
+        "Teepiirded"
+      ],
+      "colorcodes": [
+        "#0d0d0d",
+        "#ff0000",
+        "#ffffff",
+        "#a9a9a9",
+        "#3d5032",
+        "#ffd700"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt kujutab vaadet liikuvalt sõidukilt pimedal maanteel, samas kui teine ja kolmas pilt kujutavad statsionaarset stseeni maanteeäärses puhkealas.",
+        "Teisel pildil on puhkealal näha ainult punane veok ja prügikast.",
+        "Kolmandal pildil on puhkealale ilmunud valge kaubik, mis on pargitud punase veoki ja prügikasti vahele, olles seega teise pildiga võrreldes uus element."
+      ],
+      "snr": "018",
+      "ajad": [
+        "820.800",
+        "832.240"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub sõiduki sees pimedal ajal, vaade on suunatud tahaosast ettepoole. Vasakul on näha armatuurlauda ja esiklaasi, millel peegelduvad heledad tuled ja mis on kaetud mõne kleebisega. Roolil on näha kätt, mis viitab juhile. Paremal esimesel istmel lamab või istub keegi, kes on kaetud punase tekiga või jakiga. Tema pea juures on näha punast-valget esemet, mis võib olla müts või pakk. Üldine valgustus on väga hämar ja sinakas-rohekas toonides, luues salapärase ja veidi rõhuva atmosfääri. Enamik pildist on kaetud pimedusega.",
+      "actions": [
+        "Sõitmine",
+        "Lamamine/istumine autos",
+        "Rooli hoidmine"
+      ],
+      "keywords": [
+        "Öö",
+        "sõiduk",
+        "auto",
+        "pime",
+        "salapärane",
+        "juht",
+        "reisija",
+        "uni",
+        "varjud",
+        "peegeldused",
+        "interjöör"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Sõiduki sisemus",
+        "armatuurlaud",
+        "esiklaas",
+        "rool",
+        "A-piilar",
+        "külgaken",
+        "iste",
+        "tekk",
+        "jakk",
+        "müts",
+        "pakk",
+        "kleebised",
+        "peegeldused"
+      ],
+      "colorcodes": [
+        "#0a0e0e",
+        "#1c2e2e",
+        "#6c9e9e",
+        "#5c0f0f",
+        "#2d4a4d"
+      ],
+      "texts": [],
+      "persons": [
+        "Juht",
+        "Reisija"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Peegelduste asukohad vasakpoolsel armatuurlaud-esiklaasi alal on piltide vahel minimaalselt muutunud, viitades kas väga väikesele kaamera või sõiduki liikumisele või ümbritseva valguse õrnale varieerumisele."
+      ],
+      "snr": "019",
+      "ajad": [
+        "832.240",
+        "908.680"
+      ]
+    },
+    {
+      "explanation": "Stseen on valdavalt pime ja müstiline, domineerivad sügavad mustad toonid. Ühes kaadris on võimalik märgata äärmiselt nõrka valgussähvatust vasakul ülanurgas ja teist veelgi peenemat valguspunkti stseeni keskosas. Lisaks on teises kaadris aimata tumedat, varjudesse mattunud figuuri või objekti, mis oma ähmast olemuselt jätab mulje varjatud või peidetud kohalolekust. Üldmulje on vaoshoitud ja salapärane, jättes ruumi vaataja tõlgendusele.",
+      "actions": [],
+      "keywords": [
+        "pimedus",
+        "must",
+        "ähmane",
+        "varjud",
+        "salapära",
+        "öö",
+        "minimaalne valgustus",
+        "varjatud",
+        "kuju",
+        "abstraktne"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "valguspunktid",
+        "ähmane kuju/figuur"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#0A0A0A"
+      ],
+      "texts": [],
+      "persons": [
+        "võimalik ähmane inimfiguur või nägu"
+      ],
+      "imagetype": "real",
+      "emptypercent": "98",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Pilt 2 on teistest kaadritest tumedam ja seal on näha ähmast kuju/figuuri, mis piltides 1 ja 3 puudub või on veelgi vähem eristatav.",
+        "Pildid 1 ja 3 on visuaalselt peaaegu identsed, näidates peamiselt musta tausta koos paari nõrga valguspunktiga."
+      ],
+      "snr": "020",
+      "ajad": [
+        "908.680",
+        "921.280"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab auto siseruumi, fookusega armatuurlaual ja esiklaasil. Kaamera on paigutatud armatuurlauast kõrgemale, vaatega ettepoole läbi esiklaasi. Armatuurlaual on mitu väikest pehmet mänguasja või udust eset. Vasakul pool on näha punakat objekti, mille kõrval on udune, beežikas pallitaoline ese. Keskel on üks väiksem heledam kaisuloom (võimalik kaisukaru) ja paremal veel üks heledam, amorfsem pehme mänguasi. Valgus on hämar ja soe, andes stseenile melanhoolse või rahuliku tunde. Esiklaasil on näha kergeid peegeldusi ja mustust. Paremal servas paistavad läbi esiklaasi ka klaasipuhastid. Üldine toon on sepia-pruunikas, luues nostalgilise atmosfääri. Inimesi ega otsest tegevust stseenis ei ole.",
+      "actions": [],
+      "keywords": [
+        "Armatuurlaud",
+        "Auto siseruum",
+        "Pehmed mänguasjad",
+        "Hämar valgus",
+        "Öine",
+        "Nostalgia",
+        "Vaikus",
+        "Esiklaas"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Auto armatuurlaud",
+        "Esiklaas",
+        "Pehmed mänguasjad",
+        "Kaisukarud",
+        "Udune pall",
+        "Punane objekt",
+        "Esiklaasipuhastajad"
+      ],
+      "colorcodes": [
+        "#66523c",
+        "#4a3a2a",
+        "#332d27",
+        "#806e5e",
+        "#b89c83"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on näha väga väikeseid erinevusi esiklaasi peegeldustes ja valgusmängudes, mis viitavad kergele kaamera liikumisele või video kaadritele.",
+        "Objektide asetus armatuurlaual on kõigis kaadrites identne.",
+        "Üldine kompositsioon ja valgustus on kõikides piltides peaaegu muutumatu."
+      ],
+      "snr": "021",
+      "ajad": [
+        "921.280",
+        "932.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivõtet sõiduki esiklaasile või aknale kinnitatud kleebistest hämaras valguses. Keskmes on kolm peamist kleebist: kaks kolmnurkset, millest ühel on selgelt näha täpiline äär ja triipkoodid, ning üks ümar kleebis, mille all on ristkülikukujuline osa. Kleebised on heledamat tooni ja paistavad välja tumeda, tõenäoliselt auto sisemust kujutava tausta ees. Valgusallikas liigub või muutub piltide vahel, valgustades kleebiseid eri nurkade alt, mis toob esile erinevaid detaile ja loob dünaamilise varjude mängu. Ümaral kleebisel on näha tähed 'OT' ja selle all oleval ristkülikul on tekst 'T 2020'.",
+      "actions": [
+        "Valguse intensiivsuse ja suuna muutumine üle kleebiste",
+        "Kaamera või valgusallika kerge liikumine"
+      ],
+      "keywords": [
+        "Kleebised",
+        "Auto",
+        "Esiklaas",
+        "Aken",
+        "Ülevaatuskleebised",
+        "Vinjett",
+        "Valgus",
+        "Pimedus",
+        "Detailid",
+        "Dokumendid",
+        "2020"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kleebised",
+        "Autoklaas",
+        "Auto sisemuse osad"
+      ],
+      "colorcodes": [
+        "#1e1917",
+        "#3d3b38",
+        "#a4998d",
+        "#7c746d",
+        "#6a615a"
+      ],
+      "texts": [
+        "T 2020",
+        "OT"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on märgatav valguse intensiivsuse ja suuna muutus, mis valgustab kleebiseid eri viisidel. Teises pildis on valgus kõige intensiivsem ja suunatum, tuues esile rohkem detaile, samas kui esimene ja kolmas pilt on tagasihoidlikuma valgustusega.",
+        "Kerge perspektiivimuutus, mis viitab kaamera või valgusallika liikumisele piltide vahel."
+      ],
+      "snr": "022",
+      "ajad": [
+        "932.920",
+        "941.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab autosõitu, mis kulgeb pimedast ööst päevavalgusse, viidates pikemale teekonnale või aja möödumisele. Alguses on näha pime, looklev tee auto esiklaasi vaatepunktist öösel. Ümbritsev keskkond on tumedate puudega metsaalune, mida valgustavad vaid auto esituled, mõned tänavavalgustid ja teeäärsed helkurpostid. Taevas on aimatav ebatavaline rohekassinine kuma. Ühel hetkel läheneb öisel teel kaugusest teine auto, mille tuled paistavad eredalt. Seejärel muutub stseen päevaseks, kus fookuses on eakas mees auto roolis. Ta kannab punast mütsi, prille ja sinist jakki ning hoiab käsi roolil. Mees vaatab välja aknast, mille taga avaneb panoraamne vaade mägisele maastikule, kus on näha lumiseid või kaljuseid mäetippe ja orus asuvat asustust. Päevane valgus annab stseenile selgema ja avarama tunde.",
+      "actions": [
+        "Sõitmine",
+        "Rooli hoidmine",
+        "Vaatamine (aknasse/maastikule)",
+        "Lähenemine (teise auto poolt)"
+      ],
+      "keywords": [
+        "Öine sõit",
+        "Päevane sõit",
+        "Mäed",
+        "Maantee",
+        "Autojuht",
+        "Reis",
+        "Pime",
+        "Valgus",
+        "Kontrast",
+        "Loodus",
+        "Asustus",
+        "Müstiline taevas"
+      ],
+      "shot_type": "mixed",
+      "placement": "outdoor and indoor",
+      "objects": [
+        "Tee",
+        "Puud",
+        "Tänavavalgustid",
+        "Helkurpostid",
+        "Auto (sõitev ja lähenev)",
+        "Rool",
+        "Prillid",
+        "Müts",
+        "Jakk",
+        "Mäed",
+        "Hooned/Asula",
+        "Liiklusmärk (ruudukujuline, kollane)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#003333",
+        "#FFD700",
+        "#800000",
+        "#4682B4",
+        "#708090",
+        "#D3D3D3",
+        "#A0522D"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakas mees/Autojuht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night and day",
+      "differences": [
+        "Ajahetk: Stseen algab öösel ja läheb üle päevaseks.",
+        "Vaatepunkt: Alguses on tegevus näha auto esiklaasist, hiljem aga auto salongist juhi lähivõttena.",
+        "Keskkond: Öine stseen toimub pimedal metsateel, päevane aga avaras mägises maastikus koos asustusega.",
+        "Valgustus: Öist stseeni iseloomustab kunstlik ja minimaalne valgustus (autotuled, tänavavalgustus) ning salapärane rohekassinine taevakuma, päevast stseeni aga loomulik päevavalgus."
+      ],
+      "snr": "023",
+      "ajad": [
+        "941.520",
+        "948.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet mööda käänulist asfaltteed mägises maastikus, filmitud ilmselt sõidukist. Tee kulgeb mööda mäenõlva, mille paremal küljel on järsk, puudega kaetud kallak, vasakul aga avaneb vaade sügavale orule, kus asetseb asula. Horisondi taga laiuvad majesteetlikud lumiste tippudega mäeahelikud. Taevas on pilvine ja dramaatiline, mis annab stseenile melanhoolse või võimsa tunde. Tee ääres on näha liiklusmärke ja üks elektriliinipost. Kolmandas kaadris on näha kauguses teel lähenevat autot, mille tuled põlevad.",
+      "actions": [
+        "Sõitmine (kaamera vaatenurgast)",
+        "Auto lähenemine"
+      ],
+      "keywords": [
+        "Mägitee",
+        "Maastik",
+        "Talvised mäed",
+        "Pilkupüüdev",
+        "Pilvine taevas",
+        "Linn orgus",
+        "Sõit",
+        "Kurviline tee",
+        "Asfalttee"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Tee",
+        "Mäed",
+        "Mets",
+        "Linn/asula",
+        "Orud",
+        "Elektriliinipost",
+        "Auto",
+        "Liiklusmärgid"
+      ],
+      "colorcodes": [
+        "#4A677A",
+        "#2F3E46",
+        "#8D9EAB",
+        "#454545",
+        "#F0F0F0",
+        "#3A2C2B"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "evening",
+      "differences": [
+        "Kaamera liigub edasi mööda teed, avades järjest suurema vaate orule ja mägedele.",
+        "Esimeses kaadris on vasak pool suuresti puudega kaetud, samas kui viimases kaadris on vasakule avanenud lai vaade asulale ja lumistele mägedele.",
+        "Kolmandas kaadris ilmub kaugusse teel lähenev auto põlevate esituledega, mida eelnevates kaadrites ei olnud."
+      ],
+      "snr": "024",
+      "ajad": [
+        "948.400",
+        "972.520"
+      ]
+    },
+    {
+      "explanation": "Piltidel on näha stseen auto seest, vaatega läbi esiklaasi välja. Sõiduk, mis näib olevat kaubik või maastur, liigub mööda teed, mille ääres on metallist piire. Taustal avaneb avar vaade orule, kus asub asula ja mille taga kõrguvad suured mäed. Horisondil on näha pilvine ja hämar taevas, mis annab stseenile rahulikuma ja melanhoolsema tunde. Auto armatuurlaual on mitu väikest plüüsist mänguasja, sealhulgas koerakujuline. Juhi vasak käsi on näha rooli hoidmas, mis viitab aktiivsele sõidule. Vaateväljas on ka auto tahavaatepeegel. Puud orus ja tee ääres on valdavalt lehtedeta, mis annab aimu jahedamast aastaajast. Üldine toon on jahe ja summutatud.",
+      "actions": [
+        "auto juhtimine",
+        "edasiliikumine"
+      ],
+      "keywords": [
+        "autosõit",
+        "maastik",
+        "mäed",
+        "org",
+        "asula",
+        "hämarus",
+        "plüüsloomad",
+        "teekond",
+        "piire",
+        "pilvine",
+        "kurbus",
+        "rahulikkus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "rool",
+        "käsi",
+        "armatuurlaud",
+        "plüüsist mänguasjad",
+        "tahavaatepeegel",
+        "esiklaas",
+        "tee",
+        "metallist piire",
+        "puud",
+        "hooned",
+        "asula",
+        "mäed",
+        "pilved",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#6a809b",
+        "#4a5d72",
+        "#3e4e4e",
+        "#5b4a3a",
+        "#4f4f4f",
+        "#808080",
+        "#8d6b53",
+        "#d9d9d9",
+        "#888888"
+      ],
+      "texts": [],
+      "persons": [
+        "juht (käsi nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Sõiduk liigub edasi, mistõttu taust (puud, mäed, asula) nihkub paremale.",
+        "Kaameranurk muutub minimaalselt, rõhutades edasiliikumist."
+      ],
+      "snr": "025",
+      "ajad": [
+        "972.520",
+        "985.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lumist mägiküla või elamurajooni, mis on jäädvustatud sõidukist kitsal ja käänulisel teel liikumise ajal. Tee, mis on osaliselt lumest puhastatud, lookleb ülesmäge, möödudes traditsioonilistest Alpi stiilis majadest. Majad, millel on sageli puidust fassaadid, rõdud ja viilkatused, asuvad teeraja mõlemal küljel lumistel nõlvadel. Taustal kõrgub metsaga kaetud, lumiste tippudega mäeahelik. Lisaks okaspuudele on näha ka raagus lehtpuid, mis annab tunnistust talvisest aastaajast. Üldine õhkkond on rahulik ja vaikne, hajutatud valgusega, mis viitab pilvisele talvepäevale.",
+      "actions": [
+        "Sõitmine teel",
+        "Elamine mägises piirkonnas"
+      ],
+      "keywords": [
+        "Mägiküla",
+        "Talvine maastik",
+        "Lumi",
+        "Mäed",
+        "Alpi stiilis majad",
+        "Mets",
+        "Tee",
+        "Rahu",
+        "Idülliline"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Majad",
+        "Lumi",
+        "Tee",
+        "Mäed",
+        "Puud",
+        "Metsad",
+        "Puidust aiad",
+        "Sõiduautod",
+        "Tänavavalgusti"
+      ],
+      "colorcodes": [
+        "#E0E0E0",
+        "#2F4F4F",
+        "#4A4A4A",
+        "#8B4513",
+        "#D2B48C",
+        "#A9B2BF"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Vaatepunkt liigub edasi mööda teed, paljastades üha enam eesolevat maastikku ja maju.",
+        "Rohkem detaile majadest, sealhulgas rõdudest ja traditsioonilisest arhitektuurist, muutub nähtavaks kaadrite järjestuses.",
+        "Parkivad autod ilmuvad kaadrisse, kui sõiduk läheneb majade rühmale.",
+        "Tee ette jääv osa suureneb iga järgneva kaadriga.",
+        "Sõiduki sisemuse peegeldused on hilisemates kaadrites paremal pool selgemini märgatavad."
+      ],
+      "snr": "026",
+      "ajad": [
+        "985.520",
+        "993.080"
+      ]
+    },
+    {
+      "explanation": "Stseen on filmitud sõiduki sisemusest juhi vaatenurgast, vaatega läbi avatud juhiukse ja esiklaasi välja. Esiplaanil on sõiduki (tõenäoliselt Volkswageni bussi/väikekaubiku) interjöör, sh rool koos Volkswageni logoga, armatuurlaud ja avatud juhiuks. Akent kaunistab lumesadu. Väljas paistab talvine mägine maastik, kaetud paksu lumega. Näha on suusaraja või kelguraja sarnane ehitis puidust piirete ja toestusega, mis kulgeb ülesmäge. Taamal on näha hoone, mis võib olla osa suusakeskusest või talispordikompleksist, ning kaugemal kõrgenduvad lumised mäetipud ja metsad. Stseenis on ka üks inimene, kes esialgu istub juhiistmel, kandes punase-kollase-valge tooniga talvemütsi ja sinist talvejopet. Hiljem on inimene sõidukist väljunud. Päike paistab eredalt, viidates selgele päevale.",
+      "actions": [
+        "Inimene avab sõiduki juhiukse",
+        "Inimene väljub sõidukist"
+      ],
+      "keywords": [
+        "Talv",
+        "lumi",
+        "sõiduk",
+        "buss",
+        "mägi",
+        "loodus",
+        "talisport",
+        "suusakeskus",
+        "avatud uks",
+        "juht",
+        "rool",
+        "kelgurada"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Sõiduk (väikekaubik/buss)",
+        "rool",
+        "iste",
+        "uks (sõiduki)",
+        "külgpeegel",
+        "müts (talvine)",
+        "jope",
+        "lumi",
+        "mägi",
+        "puud",
+        "puitpiirded",
+        "hoone",
+        "teeviit/tahvel",
+        "Volkswageni logo"
+      ],
+      "colorcodes": [
+        "#2D6B8C",
+        "#DD5750",
+        "#F3BE53",
+        "#C0C0C0",
+        "#8B5F3F",
+        "#A3D2EA",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Volkswagen",
+        "START (osaliselt loetav taustal olevatel siltidel)",
+        "muu loetamatu tekst"
+      ],
+      "persons": [
+        "Üks inimene (juht)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on inimene nähtav osaliselt juhiistmel, juhiuks on veidi avatud.",
+        "Järgmistel piltidel on inimene sõidukist väljunud ja juhiuks on täielikult avatud.",
+        "Kolmandal pildil on veidi laiem vaade avatud uksele ja väliskeskkonnale võrreldes teise pildiga."
+      ],
+      "snr": "027",
+      "ajad": [
+        "993.080",
+        "1012.120"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud eakas mees lumises talvises maastikus, mis sarnaneb suusahüppemäe või kelgurajaga. Mees kannab sinist jopet ja pruunikates toonides pükse. Taustal on näha lumega kaetud mäenõlva, millel on ridadena märgistatud rajad, ilmselt suusahüppemäe hoovõturajad, millel on sinised numbrilised märgised. Kauguses paistab päike läbi hõreda metsa ja on näha ka mõningaid ehitisi. Stseeni alguses küürutab mees maapinnal millegi kallal toimetades. Seejärel sirutab ta end püstisemaks, tema suust tuleb nähtavalt külma õhu hingamisel tekkivat auru. Viimases kaadris hoiab ta käes punast tuttmütsi ning vaatab paremale, jätkates samuti auru välja hingamist. Üldine õhkkond on päikeseline, kuid selgelt külm.",
+      "actions": [
+        "Küürutab ja toimetab maapinnal millegagi",
+        "Hingab külma õhku välja (aur on näha)",
+        "Tõuseb püstisemasse asendisse",
+        "Hoiab tuttmütsi käes",
+        "Vaatab paremale"
+      ],
+      "keywords": [
+        "Suusahüppemägi",
+        "Lumi",
+        "Talv",
+        "Külm",
+        "Eakas mees",
+        "Päikesepaiste",
+        "Välitingimused",
+        "Spordirajad",
+        "Talvesport",
+        "Mäenõlv"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Lumi",
+        "Suusahüppemäe rajad",
+        "Sinised numbrilised märgised",
+        "Puidust rajapiirded",
+        "Võrkaiad",
+        "Puud",
+        "Ehitised",
+        "Kivi",
+        "Punane tuttmüts",
+        "Sinine jope",
+        "Pruunikad püksid",
+        "Prillid"
+      ],
+      "colorcodes": [
+        "#457B9D",
+        "#E0EFF8",
+        "#A8A7A7",
+        "#D64137",
+        "#8B4513",
+        "#F0E68C",
+        "#2C3E50"
+      ],
+      "texts": [
+        "FINLUX",
+        "AND",
+        "Numbrilised märgised radadel (nt 10, 15, 20, 25, 30, 35, 40, 45, 50)"
+      ],
+      "persons": [
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil küürutab mees ja toimetab maapinnal millegagi, tema pilk on suunatud allapoole ning mütsi ei ole näha.",
+        "Teisel pildil on mees sirgema asendi võtnud, tema suust tuleb nähtavalt hingeauru ning käes on tal midagi, mis sarnaneb taimejäänustega. Tema pilk on suunatud edasi või paremale.",
+        "Kolmandal pildil on mees peaaegu täielikult püsti, hoiab käes punast tuttmütsi ja tema suust tuleb endiselt hingeauru. Tema pilk on suunatud paremale."
+      ],
+      "snr": "028",
+      "ajad": [
+        "1012.120",
+        "1021.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaadet lumisele mägimaastikule talvisel päeval. Taevas on osaliselt kaetud valgete ja hallikate pilvedega, mille vahelt paistab helesinine taevas. Kaadris on näha mitu punast kaabelauto gondlit, mis liiguvad mööda kaabelliine üle oru ja mägede. Mäetipud on kaetud paksu lumega, madalamatel nõlvadel kasvavad tihedad tumerohelised okaspuumetsad. All orus on näha lumega kaetud asulat või küla, mis viitab suusakuurordile. Üldmulje on majestuslik ja rahulik talvine loodusvaade.",
+      "actions": [
+        "Kaabelautod liiguvad mööda kaabelliine.",
+        "Pilved hõljuvad taevas.",
+        "Lumi katab maastikku."
+      ],
+      "keywords": [
+        "Mäed",
+        "Lumi",
+        "Kaabelautod",
+        "Talv",
+        "Suusakuurort",
+        "Loodus",
+        "Alpi maastik",
+        "Pilved"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kaabelautod (punased gondlid)",
+        "Kaabelliinid",
+        "Lumised mäed",
+        "Okaspuumetsad",
+        "Pilved",
+        "Helesinine taevas",
+        "Lumi",
+        "Asula/küla (orus)"
+      ],
+      "colorcodes": [
+        "#87CEEB",
+        "#F8F8F8",
+        "#DCDCDC",
+        "#696969",
+        "#2F4F4F",
+        "#B22222",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 10,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaabelautod on liikunud eri positsioonidesse kaadrite vahel.",
+        "Pilvede asetus ja kuju on pisut muutunud.",
+        "Kaamera on teinud kerge nihke või panoraami, muutes kadreeringut."
+      ],
+      "snr": "029",
+      "ajad": [
+        "1021.320",
+        "1043.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat hallipäist ja habemega meest spordisaali riietusruumis või sarnases olmehoones. Mees, riietatud tumedasse pikkade varrukatega särki ja tumedatesse pükstesse, alustab stseeni põrandal istudes, kergelt tahapoole nõjatudes ja pilguga ülespoole suunates, näoilme reedab väsimust või pinget. Seejärel lamab ta selili maas, tõstes jalad üle pea, sooritades ilmselt mingit venitust või kerelihaste harjutust. Lõpuks on ta uuesti istuvas asendis, vaatab allapoole, justkui taastuks või oleks lõpetanud harjutuse. Ruumis on näha valgeid riiuleid või pinke, millel ja mille ümber on mitmeid spordikotte ja seljakotte erinevates värvides (hall, sinine, kollane, must, roheline). Ühel mustal seljakotil on näha ka logo \"FISCHE\" ja kolmnurgakujuline \"F\" logo. Põrand on heledat tooni plaaditud. Taustal on ka valge plastiktool. Üldine atmosfäär on jahe ja funktsionaalne, tüüpiline spordikompleksi interjöörile.",
+      "actions": [
+        "Põrandal istumine",
+        "Tahapoole nõjatumine",
+        "Jalgade üle pea tõstmine (venitus)",
+        "Kerelihaste harjutuse sooritamine",
+        "Põrandalt istuvasse asendisse tõusmine",
+        "Väsimuse ilmutamine"
+      ],
+      "keywords": [
+        "Riietusruum",
+        "Sport",
+        "Harjutus",
+        "Venitus",
+        "Vananemine",
+        "Väsimus",
+        "Taastumine",
+        "Seljakotid",
+        "Spordikotid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Seljakott",
+        "Spordikott",
+        "Riiul",
+        "Pink",
+        "Põrand",
+        "Plastiktool",
+        "Särk",
+        "Püksid"
+      ],
+      "colorcodes": [
+        "#2D323E",
+        "#60737C",
+        "#D9B829",
+        "#2F596F",
+        "#2C5B49",
+        "#FFFFFF",
+        "#C3C2BC"
+      ],
+      "texts": [
+        "FISCHE",
+        "F"
+      ],
+      "persons": [
+        "Hallipäine mees",
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil istub mees põrandal tahapoole nõjatudes ja vaatab üles, suu kergelt avatud.",
+        "Teisel pildil lamab mees selili ja tõstab jalad üle pea, käed on pea lähedal.",
+        "Kolmandal pildil istub mees põrandal, vaatab allapoole, justkui harjutusest taastudes või püsti tõusmiseks valmistudes.",
+        "Mehe kehahoiak ja asend muutuvad oluliselt kaadrite vahel, kujutades füüsilise harjutuse tsüklit."
+      ],
+      "snr": "030",
+      "ajad": [
+        "1043.680",
+        "1056.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri, mis näib olevat riietus- või varustuseruum, kus kaks meest valmistuvad tegevuseks. Ruumi vasakul küljel on suur aken, millest paistab sisse ere päevavalgus, valgustades seina ja seal rippuvaid spordiesemeid. Akna all on lai ääris, kus seisavad mitmed kiivrid, nende seas valge, punane-valge, sinine-roheline, millel on kiri \"CARRERA\", samuti punase-musta värvi suusasaapad kirjaga \"SALOMON\" ja veel üks kiiver kirjaga \"ROSSIGNOL\". Põrandal on laiali kotte ja riideid. Ruumi paremal küljel, akna vastas, on riidepuudega riidekapp, kus ripub mitu jopet ja mantlit erinevates toonides – sinine, oranž, must, valge ja punane. Ühel sinisel jopel on näha kiri \"SAARMA\". Keskel on näha vanem mees, seljas tume pikkade varrukatega spordisärk heleda ülaosaga, kes parajasti tegeleb erekollase kiivri pähepaneku ja rihma kinnitamisega. Paremal istub noorem mees, seljas tumesinine pikkade varrukatega särk, vaadates alla oma käte juurde, kus tal näib olevat kas toit või mingi ese. Tema kõrval põrandal on sinine-must seljakott ja joogipudel. Ruumi üldine toon on neutraalne hall, mida elavdavad värvilised spordiriided ja -varustus.",
+      "actions": [
+        "Vanem mees paneb kiivrit pähe ja kinnitab rihma.",
+        "Noorem mees istub ja tegeleb millegagi oma kätes."
+      ],
+      "keywords": [
+        "Riietusruum",
+        "Spordivarustus",
+        "Kiiver",
+        "Joped",
+        "Sportlased",
+        "Valmistumine",
+        "Päevavalgus",
+        "Interjöör"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Kiivrid",
+        "Suusasaapad",
+        "Joped",
+        "Seljakotid",
+        "Joogipudel",
+        "Spordirõivad",
+        "Riidepuud",
+        "Riiulid",
+        "Aken",
+        "Sein",
+        "Põrand"
+      ],
+      "colorcodes": [
+        "#8C8C8C",
+        "#FFD700",
+        "#000080",
+        "#8B0000",
+        "#F5F5DC",
+        "#A52A2A"
+      ],
+      "texts": [
+        "CARRERA",
+        "SAARMA",
+        "SALOMON",
+        "ROSSIGNOL"
+      ],
+      "persons": [
+        "Vanem mees",
+        "Noorem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Vanem mees hoiab esimesel pildil kiivrit käes, teisel on ta seda pähe panemas ja kolmandal on kiiver juba peas ning ta kinnitab lõuaalust rihma.",
+        "Noorema mehe kehaasend ja tegevus kätega varieerub veidi piltide vahel, kuid ta jääb istuma ja oma tegevusele keskenduma."
+      ],
+      "snr": "031",
+      "ajad": [
+        "1056.840",
+        "1079.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat habemega meest riietusruumis, kes valmistub mingiks sporditegevuseks. Mees kannab peas kollast kiivrit, millel on sinine-valge ristikujuline märk (sarnane Rootsi lipule), ning heledat beežikat või khaki tooni kalipsot või polsterdatud ülikonda. Ta on parasjagu selga panemas sinise-valgekirjut varrukateta võistlusvesti. Ruumis on betoonseinad, mille ülaosas on aken, mis laseb sisse päevavalgust. Seintel ripub spordivarustust, nagu märgülikonnad ja jalanõud. Mees on keskendunud vesti selga panemisele, tirides seda esmalt üle pea ja seejärel alla keha. Tema kehahoiak muutub pilte järjestikku vaadates, liikudes püstisest asendist veidi ettepoole kummardunud asendisse, kui ta vesti lõplikult paika sätib. Kolmandal pildil on näha ainult tema pea, kiiver ja vesti ülemine osa, kuna ta on ettepoole kummardunud.",
+      "actions": [
+        "Riietumine",
+        "Vesti selga panemine",
+        "Valmistumine sporditegevuseks",
+        "Vesti paika sättimine"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Spordivarustus",
+        "Riietusruum",
+        "Kiiver",
+        "Kalips",
+        "Võistlusvest",
+        "Talimängud",
+        "Valmistumine",
+        "Betoonsein"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kollane kiiver",
+        "Märgülikond/Kuivülikond",
+        "Sinine ja valge võistlusvest",
+        "Betoonsein",
+        "Aken",
+        "Spordijalatsid",
+        "Märgülikonnad/Riided seinal"
+      ],
+      "colorcodes": [
+        "#F0E68C",
+        "#0080FF",
+        "#FFFFFF",
+        "#808080",
+        "#C2B280",
+        "#000000"
+      ],
+      "texts": [
+        "WINTER INNS' WORLD BRUCK MASTERS GAMES 2020",
+        "spirit together",
+        "INNS' BRUCK",
+        "12"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe kehahoiak ja käte asend muutuvad, kui ta vesti selga paneb, alustades vesti pea kohale tõstmisest ja lõpetades selle allapoole tõmbamisega.",
+        "Esimesel pildil on mees püstisemas asendis ja hakkab vesti selga tõmbama.",
+        "Teisel pildil on vest juba rohkem alla tõmmatud ja mees sätib seda paika, vesti tekst ja number on selgemini näha.",
+        "Kolmandal pildil on mees ettepoole kummardunud, näidates peamiselt kiivrit ja vesti ülemist osa, mis annab stseenile dünaamilisema tunde."
+      ],
+      "snr": "032",
+      "ajad": [
+        "1079.040",
+        "1084.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sportlast talvises spordikeskkonnas, tõenäoliselt suusahüppemäel või selle läheduses. Sportlane on näoga ära, seljas on sinine ja valge võistlusnumber 12, millel on tekst \"WINTER INNS' WORLD MASTERS BRUCK GAMES 2020\", \"INNS' BRUCK 2020\" logo ja \"INNS' BRUCK\", samuti osaliselt nähtav \"Seefeld\". Võistlusnumbri all on seljas beeži/nahatooni kaitsev ülikond või polsterdus ja must spordiriietus. Sportlase peas on kollane kiiver punaste rihmadega ja paremal õlal kannab ta suuski. Ümbrus on lumine, taamal paistavad lumised puud või põõsad ja üldine lumine maastik. Maapind sportlase ümber on kaetud paksu lumekihiga, vihjates spetsiaalsele rajale või platvormile.",
+      "actions": [
+        "seismine",
+        "kõndimine (kaudselt)",
+        "suuskade kandmine (õlal)"
+      ],
+      "keywords": [
+        "talisport",
+        "suusahüpped",
+        "võistlus",
+        "lumi",
+        "sportlane",
+        "Innsbruck",
+        "Seefeld",
+        "Masters Games",
+        "talv"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "suusavõistlusnumber",
+        "kiiver",
+        "suusad",
+        "lumi",
+        "puud",
+        "lumine maastik",
+        "suusarada/konstruktsioon",
+        "kaitsev ülikond"
+      ],
+      "colorcodes": [
+        "#2280C5",
+        "#FFFFFF",
+        "#D7C1A8",
+        "#212121",
+        "#E8D042",
+        "#DB4D4D",
+        "#E6E9ED",
+        "#AFB8BE"
+      ],
+      "texts": [
+        "WINTER INNS' WORLD MASTERS BRUCK GAMES 2020",
+        "12",
+        "INNS' BRUCK 2020",
+        "INNS' BRUCK",
+        "Seefeld"
+      ],
+      "persons": [
+        "sportlane"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesed kaks kaadrit on peaaegu identsed, näidates sportlast tagantpoolt kaelani ning fokusseerides võistlusnumbrile ja riietusele. Kolmandal kaadril on näha sportlase pead koos kollase kiivriga, mis on kaunistatud punaste rihmadega, ning paremal õlal kantavaid suuski. Kolmas kaader annab täielikuma ülevaate sportlase varustusest ja tegevusest, näidates samal ajal ka veidi erinevat perspektiivi ja kaadri nurka."
+      ],
+      "snr": "033",
+      "ajad": [
+        "1084.840",
+        "1100.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lumist talvemaastikku, mis on ilmselt osa suusahüppe- või murdmaasuusatamise kompleksist. Esitakse ülesmäge kulgevat lumist rada, millel liigub mitu inimest. Esirinnas on naine, kes kannab õlal paari kollaseid FISCHER suuski ja kellel on seljas hele jope ning sinine rinnanumber 12. Tema järel kõnnib mees tumedas riietuses. Vasakul pool on puidust hoone, mille ees ja ümber on näha teisi suusatajaid kiivrite ja suuskadega. Hoone seintel on näha plakateid ja silte. Taustal laiub avar lumine mäenõlv, mis on varustatud metallist kaitsepiiretega, mis viitavad spetsialiseeritud suusarajale. Kauguses paistab mägine maastik ja metsatukk. Taevas on pilvine ja hallikas. Üldine õhkkond on jahe, sportlik ja talvine.",
+      "actions": [
+        "Kõndimine mööda lumist rada",
+        "Suuskade kandmine õlal",
+        "Seismine hoone lähedal"
+      ],
+      "keywords": [
+        "Suusatamine",
+        "Talv",
+        "Lumi",
+        "Sport",
+        "Mägi",
+        "Suusarada",
+        "Võistlus",
+        "Suusahüpe"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Lumi",
+        "Suusad",
+        "Hoone",
+        "Kaitsepiirded",
+        "Mäed",
+        "Mets",
+        "Kiivrid",
+        "Rinnanumber",
+        "Plakatid",
+        "Sildid",
+        "Aknad",
+        "Uksed"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#ADD8E6",
+        "#A0522D",
+        "#DFFF00",
+        "#007FFF",
+        "#000000",
+        "#808080"
+      ],
+      "texts": [
+        "FISCHER",
+        "12",
+        "BRUCK",
+        "WINTERFEST SPIELE 2020",
+        "2020"
+      ],
+      "persons": [
+        "Naine suuskadega",
+        "Mees",
+        "Teised suusatajad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on kõige laiem kaader, mis hõlmab suure osa lumisest maastikust, hoone vasakul ja esiplaanil olevad inimesed kaugemalt.",
+        "Teine pilt on pisut kitsam, keskendudes rohkem esiplaanil kõndivatele naisele ja mehele, jättes siiski taustal nähtavaks lumise nõlva ja hoone.",
+        "Kolmas pilt on lähivõte naisest, kes kannab suuski, ja tema suuskade detailidest, näidates selgelt kaubamärki FISCHER ja naise riietuse detaile.",
+        "Kaadrite vahel on märgata inimeste liikumist edasi mööda lumist rada."
+      ],
+      "snr": "034",
+      "ajad": [
+        "1100.880",
+        "1108.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab grupp sportlasi, tõenäoliselt suusatajaid või talispordivõistlejaid, liikumas siseruumides, ilmselt valmistudes võistluseks või sealt lahkudes. Nad kannavad spetsiaalseid sportrõivaid ja jakke, millel on nähtavad võistlusnumbrid ja erinevate sündmuste logod, näiteks 'WINTER INNSBRUCK WORLD MASTER GAMES 2020' ja 'WINTER WORLD MASTER GAMES KRASNOYARSK 2019'. Mitmed sportlased kannavad suuski ja mõnel on peas kiiver. Liikumine viitab üleminekule erinevate alade vahel, näiteks stardiväravasse sisenemisele või ettevalmistusalast väljumisele. Üldine atmosfäär on keskendunud tegevusele spordivõistluse kontekstis.",
+      "actions": [
+        "Liikumine",
+        "Valmistumine",
+        "Suuskade kandmine",
+        "Sisenemine",
+        "Väljumine"
+      ],
+      "keywords": [
+        "Talisport",
+        "Sportlased",
+        "Suusatamine",
+        "Võistlus",
+        "Innsbruck",
+        "Krasnojarsk",
+        "Masters Mängud",
+        "Varustus",
+        "Siseruum"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Suusad",
+        "Kiivrid",
+        "Spordidressid",
+        "Võistlusnumbrid",
+        "Seljakott",
+        "Kindad",
+        "Uks",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#2D94D3",
+        "#FFFFFF",
+        "#B58D57",
+        "#E9D146",
+        "#2694D4",
+        "#D6B088"
+      ],
+      "texts": [
+        "WINTER INNSBRUCK WORLD MASTER GAMES 2020",
+        "INNSBRUCK",
+        "SeeFeel",
+        "112",
+        "133",
+        "WINTER WORLD MASTER GAMES KRASNOYARSK 2019",
+        "90"
+      ],
+      "persons": [
+        "Sportlased",
+        "Suusatajad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Erinevad võistlussündmused ja aastad (Innsbruck 2020 vs. Krasnoyarsk 2019).",
+        "Nähtavad erinevad võistlusnumbrid sportlastel (nt 112, 133, 90...).",
+        "Riietuse detailide variatsioonid, näiteks sinine nööridega seljakott ühel sportlasel.",
+        "Kaameranurk ja fookus erinevad: esimene pilt on detailsem ja osaliselt udune külgvaade, teine ja kolmas pilt on tagantvaated liikuvatele sportlastele.",
+        "Esimesel pildil on näha suuski ettevalmistamise staadiumis, teistel piltidel on suusad kaasas."
+      ],
+      "snr": "035",
+      "ajad": [
+        "1108.920",
+        "1117.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia panoraamvaadet lumisele mägimaastikule, kus domineerivad lumega kaetud tipud, tihedad männipuude metsad ja sügav org, milles asub väike linn või küla. Esiplaanil troonib massiivne hall metallist konstruktsioon, mis on pikk ja järsu nurga all ülespoole kaldu. See näib olevat mingi liigutatav konveierlint või spetsiaalne lift inimeste transportimiseks mööda mäenõlva. Konveieril on näha mitmeid inimesi, kes on riietatud talveriietesse ja liiguvad aeglaselt ülesmäge. Üks inimene on eriti märgatav oma erksa oranži jopega. Taamal on näha ka suusanõlvu. Taevas on pilves ja valgustus on hajutatud. Järgmises kaadris on pilt täiesti must, mis viitab stseeni lõppemisele või üleminekule.",
+      "actions": [
+        "inimesed liiguvad ülesmäge",
+        "inimesed transporditakse konveieril",
+        "stseen tuhmub mustaks"
+      ],
+      "keywords": [
+        "talv",
+        "mäed",
+        "lumi",
+        "suusakuurort",
+        "transport",
+        "lift",
+        "konveier",
+        "väljas",
+        "maastik",
+        "mänd",
+        "küla"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "metallstruktuur",
+        "konveierlint",
+        "lumi",
+        "mäed",
+        "puud",
+        "majad",
+        "linn",
+        "suusanõlv"
+      ],
+      "colorcodes": [
+        "#F0F2F5",
+        "#8C99A4",
+        "#2C423E",
+        "#A5B6C9",
+        "#DD7835",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "mitu inimest",
+        "külastajad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt kujutab detailset mägimaastikku inimeste ja struktuuridega, samas kui teine pilt on täiesti must, ilma igasuguse visuaalse sisuta."
+      ],
+      "snr": "036",
+      "ajad": [
+        "1117.440",
+        "1125.840"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud vanem mees, kes on riietatud suusahüppaja varustusse, kandes kiivrit koos prillidega ning spordiriietust. Ta seisab väljas, tõenäoliselt suusahüppemäe tipus või stardipunkti lähedal, paremal pool temast on näha suusk. Mees vaatab kergelt vasakule, ilme on mõtlik või keskendunud. Tema taga on näha metallist võre või tara, mis eraldab teda lumisest maastikust ja mägedest. Üldine atmosfäär viitab talisportlasele, kes valmistub soorituseks.",
+      "actions": [
+        "Vanem mees vaatab vasakule",
+        "Mees kannab suusahüppevarustust",
+        "Valmistumine suusahüppeks"
+      ],
+      "keywords": [
+        "Suusahüpe",
+        "Talisport",
+        "Vanem mees",
+        "Sportlane",
+        "Kiiver",
+        "Prillid",
+        "Mäesuusatamine",
+        "Ettevalmistus",
+        "Lumi",
+        "Võistlus",
+        "Fookus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Vanem mees",
+        "Kiiver",
+        "Prillid",
+        "Suusk",
+        "Spordirõivad",
+        "Võre/tara",
+        "Lumi",
+        "Mäed"
+      ],
+      "colorcodes": [
+        "#F5E052",
+        "#2F72C0",
+        "#F44236",
+        "#D6BE9F",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "FISCHER",
+        "HTE",
+        "CARRERA",
+        "Sport together",
+        "duai",
+        "RUCK"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on kaader laiem, näidates rohkem suusast ja taustast.",
+        "Teisel pildil on kaader veidi kitsam ja fookus on rohkem mehe ülakehal ja näol, kaamera nurk on pisut muutunud, liikudes kergelt mehe vasakule küljele.",
+        "Kolmandal pildil on kaader kõige kitsam, keskendudes peamiselt mehe peale ja ülakeha ülemisele osale, suusk on veelgi vähem nähtav ja kaamera nurk on nihkunud veelgi, muutes mehe profiili märgatavamaks."
+      ],
+      "snr": "037",
+      "ajad": [
+        "1125.840",
+        "1139.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mitut suusahüppajat, kes on varustatud kiivrite, prillide ja suusadega, valmis võistluseks. Nad asuvad suusahüppemäe tipus, tõenäoliselt lifti või ettevalmistusala sees, kust avaneb vaade lumisele maastikule ja suusahüppemäe konstruktsioonidele. Sportlased on riietatud spetsiaalsetesse suusahüppevõistluse kostüümidesse ning kannavad rinnanumbreid. Üldine õhkkond viitab talvisele spordisündmusele, nagu näiteks Masters Games, Innsbruckis.",
+      "actions": [
+        "Liikumine edasi",
+        "Suuskade kandmine",
+        "Ettevalmistus võistluseks"
+      ],
+      "keywords": [
+        "Suusahüpe",
+        "Sport",
+        "Talisport",
+        "Sportlased",
+        "Võistlus",
+        "Suusad",
+        "Kiiver",
+        "Rinnanumbrid",
+        "Innsbruck",
+        "Masters Games",
+        "Suusahüppemägi"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor and outdoor",
+      "objects": [
+        "Suusad",
+        "Kiivrid",
+        "Prillid",
+        "Rinnanumbrid",
+        "Metallist käsipuu",
+        "Suusahüppemäe konstruktsioon",
+        "Lumised maastikud",
+        "Lifti/kabiini konstruktsioon"
+      ],
+      "colorcodes": [
+        "#e9e34e",
+        "#f2e7c7",
+        "#2251a3",
+        "#9f1c1f",
+        "#1c1a1c",
+        "#f7f7f7",
+        "#96999a",
+        "#bcc1c2",
+        "#366c30",
+        "#5f2a8b"
+      ],
+      "texts": [
+        "CARRERA",
+        "FISCHER",
+        "SPORT 2000",
+        "INNSBRUCK",
+        "WORLD MASTERS GAMES 202X",
+        "35",
+        "29"
+      ],
+      "persons": [
+        "Suusahüppajad",
+        "Sportlased"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10-30",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Taust muutub pimedast ja kinnisest ruumist avatuks, lumiseks ja mägiseks vaateks.",
+        "Kaadrisse ilmub rohkem sportlasi ja nende tegevused muutuvad selgemaks.",
+        "Rinnanumbrid (nt. 35 ja 29) muutuvad selgelt nähtavaks erinevatel sportlastel.",
+        "Välise lumise maastiku osakaal kaadris suureneb esimesest pildist kolmandani."
+      ],
+      "snr": "038",
+      "ajad": [
+        "1139.960",
+        "1168.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia panoraami talvisest maastikust, kus esiplaanil domineerib suur, tsingitud või helehalliks/sinakashalliks värvitud metallkonstruktsioon, mis meenutab suusahüppemäe torni või mõne muu talispordirajatise algusosa. Konstruktsioonil on mitu trepikäiku ja platvormi ning sellel on näha mitmeid inimesi, kes liiguvad mööda treppe ülespoole või seisavad platvormidel. Maapind on kaetud paksu puhta lumekihiga, mis ulatub torni alusest kuni horisondini. Vasakul pool on näha veel üks madalam metallist kaldtee või sild, mis on samuti lumega kaetud. Kauguses, torni taga, laiub tihe okaspuumets, mille taga omakorda kerkivad lumiste tippudega mäed. Taevas on selge ja helesinine, viidates päikeselisele talvepäevale. Paremal pool stseenis on näha ka puidust piire või tara, mis eraldab lumist ala. Üleüldine õhkkond on jahe, selge ja sportlik.",
+      "actions": [
+        "Inimesed liiguvad metallkonstruktsiooni treppidel ja platvormidel",
+        "Inimesed kõnnivad lumisel maapinnal"
+      ],
+      "keywords": [
+        "Talv",
+        "lumi",
+        "suusahüppemägi",
+        "metallkonstruktsioon",
+        "mäed",
+        "mets",
+        "sport",
+        "õues",
+        "päikeseline",
+        "külm"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Metallkonstruktsioon",
+        "trepid",
+        "lumi",
+        "puud",
+        "mäed",
+        "tara",
+        "valgustuspost"
+      ],
+      "colorcodes": [
+        "#C2D7E8",
+        "#E6EFF7",
+        "#7A97A8",
+        "#364438",
+        "#FE7F2D"
+      ],
+      "texts": [],
+      "persons": [
+        "Mitmed inimesed",
+        "oranži riietusega isik",
+        "sinise riietusega isikud"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on näha väga väikest liikumist metallkonstruktsioonil olevate inimeste seas, eriti oranži riietusega isik liigub trepist veidi ülespoole, mis viitab ajaliselt järjestikustele kaadritele. Ülejäänud elemendid, nagu maastik ja konstruktsioon, jäävad muutumatuks."
+      ],
+      "snr": "039",
+      "ajad": [
+        "1168.000",
+        "1172.440"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha halli metallist tööstusliku ilmega treppi ja platvormi struktuuri, pildistatuna alt üles pilves taeva taustal. Mitmed isikud, tõenäoliselt suusahüppajad või sportlased, ronivad mööda trepiastmeid üles. Nad kõik kannavad siniseid spordidresse või särke. Iga isik kannab õlal paari pikki, erkkollaseid \"FISCHER\" kaubamärgiga suuski. Ühel suusal on lühiajaliselt nähtav tekst \"INNSBRUCK 2020\". Ühe sportlase särgil on selgelt näha number \"72\". Ülespoole liikudes liiguvad isikud kaadri ulatuses, kusjuures algselt madalamal olnud isikud muutuvad nähtavamaks, liikudes seejärel kõrgemale ja osaliselt kaadrist välja, samal ajal kui prille kandev sportlane ilmub kaadri keskele, vaadates veidi ülespoole. Üldmulje on sportlastest, kes liiguvad suusahüppemäe platvormile. Kaadri paremas servas on näha lainelist metallseina.",
+      "actions": [
+        "Trepist üles ronimine",
+        "Suuskade kandmine",
+        "Edasi liikumine"
+      ],
+      "keywords": [
+        "Suusahüppemägi",
+        "Trepp",
+        "Sportlased",
+        "Suusad",
+        "Fischer",
+        "Innsbruck",
+        "Sport",
+        "Talisport",
+        "Ülesmäge",
+        "Metallkonstruktsioon",
+        "Võistlus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Metalltrepp",
+        "Metallvõre (piire)",
+        "Suusad",
+        "Spordidressid",
+        "Spordiprillid",
+        "Laineline metallsein"
+      ],
+      "colorcodes": [
+        "#A8B5BD",
+        "#2762B3",
+        "#FFE600",
+        "#E5E5E5",
+        "#2B2B2B"
+      ],
+      "texts": [
+        "FISCHER",
+        "INNSBRUCK 2020",
+        "72"
+      ],
+      "persons": [
+        "Mitmed sportlased/suusahüppajad (vähemalt 3 nähtavat), riietatud sinisesse spordiriietusse. Üks neist kannab prille."
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Sportlased liiguvad trepist ülespoole ja muutuvad kaadris. Vasakpoolne isik liigub esimesel pildil kaadrisse, teisel pildil on ta osaliselt struktuuriga kaetud ja kolmandal pildil kaob ta peaaegu kaadrist. Parempoolne isik, kelle särgil on number 72, on esimesel pildil osaliselt nähtav, teisel pildil paremini nähtav ja kolmandal pildil liigub ta kaadrist välja. Keskmine sportlane muutub piltide järjestuses üha nähtavamaks, kusjuures kolmandal pildil on ta kõige selgemalt esiplaanil.",
+        "Tekst \"INNSBRUCK 2020\" on selgelt nähtav ainult esimesel pildil vasakpoolsel suusal.",
+        "Sportlase number \"72\" on selgelt nähtav teisel ja kolmandal pildil keskmise/parempoolse sportlase särgil.",
+        "Kolmandal pildil on üks sportlane prillidega ja vaatab veidi ülespoole, mis annab näost parema ülevaate kui eelnevates kaadrites."
+      ],
+      "snr": "040",
+      "ajad": [
+        "1172.440",
+        "1179.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab ettevalmistusi suusahüppevõistluseks, tõenäoliselt 2020. aasta Innsbrucki maailmameistrite mängudel (Winter Innsbruck World Masters Games 2020). Mitmed võistlejad, nende seas ka vanemaid sportlasi, kannavad oma suuski ja kõnnivad mööda metallist treppe ning platvorme ülespoole suusahüppemäe stardipunkti. Üks sportlane, kollase kiivriga ja võistlusnumbriga 12, on kesksel kohal, liikudes energiliselt edasi ja valmistudes stardipingile istumiseks. Treener või ametnik sinises jopes jälgib olukorda ja suhtleb tõenäoliselt sidevahendi abil. Taustal on näha suusahüppemäe konstruktsiooni ja ajamõõtmise tablood. Üldine atmosfäär on keskendunud ja pingeline, mis on iseloomulik vahetult enne võistlusstarti. Taevas on pilvine, mis annab stseenile jahedama ja talvisema tunde.",
+      "actions": [
+        "Suusahüppajad kannavad suuski õlal",
+        "Sportlased kõnnivad mööda metallkonstruktsiooni treppe üles",
+        "Üks sportlane istub või valmistub istumiseks stardipingile",
+        "Treener või ametnik räägib sidevahendisse",
+        "Sportlased ootavad oma korda stardijärjekorras"
+      ],
+      "keywords": [
+        "Suusahüpped",
+        "Sport",
+        "Talv",
+        "Võistlus",
+        "Masters Games",
+        "Innsbruck",
+        "Suusad",
+        "Kiiver",
+        "Trepp",
+        "Stardipunkt",
+        "Ettevalmistus",
+        "Sportlased",
+        "Treener"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Suusad",
+        "Kiivrid",
+        "Suusaprillid",
+        "Võistlusnumbrid (12, 5)",
+        "Metallkonstruktsioon (trepid, platvormid, piirded)",
+        "Ajamõõtmise tablo",
+        "Sinised spordijakid",
+        "Sinised võistlusvestid",
+        "Sidevahend",
+        "Stardipink"
+      ],
+      "colorcodes": [
+        "#2B6CB0",
+        "#FDD835",
+        "#7F8C8D",
+        "#FFFFFF",
+        "#E74C3C",
+        "#000000"
+      ],
+      "texts": [
+        "WINTER INNSBRUCK WORLD MASTERS GAMES 2020",
+        "12",
+        "5",
+        "FISCHER",
+        "TIME-ING",
+        "88 88"
+      ],
+      "persons": [
+        "Vanem meessuusahüppaja (kollase kiivriga, nr 12)",
+        "Treener või ametnik (sinises jopes)",
+        "Mitmed teised suusahüppajad (nii mehed kui naised, erinevates riietes ja kiivrites)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on laiem kaader, mis näitab rohkem üldist konteksti, taustal olevat suusahüppemäe laskumist ja ajamõõtmise tablood.",
+        "Teine pilt on keskmine kaader, mis toob esile inimeste tegevused ja riietuse detailid, näidates selgemalt võistlusriietuse teksti ja teisi sportlasi taustal.",
+        "Kolmas pilt on lähivõte, keskendudes numbri 12 kandjale, kes on istumas stardipingile, ning esiplaanil on selgelt näha suuskade kaubamärk FISCHER ja detailid sportlase varustusest. Kaamera fookus liigub stseeni jooksul üldvaatest detailsemate ja konkreetsemate hetkede juurde."
+      ],
+      "snr": "042",
+      "ajad": [
+        "1193.280",
+        "1211.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest, kes on riietatud talispordivarustusse ning hoiab käes kollaseid suuski. Mees kannab peas punase ja kollase värvikombinatsiooniga kiivrit, mille küljes on kollaste klaasidega suusaprillid. Seljas on tal beežikas-pruun suusajakk ja selle peal sinise-valgekirju võistlusvest, millel on selgelt nähtav kiri \"INNSBRUCK 2020\". Tema nägu on kaetud lühikese habemega ja pilk on suunatud kas otse vaatajasse või kergelt alla ja ette. Mees hoiab püstiselt käes paari kollaseid Fischeri suuski, millel on näha logod ja tekst \"FISCHER skis.com\" ning \"RC4\". Taustal on näha betoonist trepimäge, metallist piirdeid ja lumise katusega hoonet, mis viitab suusakeskuse või -hüppemäe alale. Üleval paistab hele, pilvine taevas, mis annab stseenile jaheda ja talvise ilme. Valgus on ere ja ühtlane, viitades päevasele ajale.",
+      "actions": [
+        "Seisab",
+        "Hoiab suuski",
+        "Vaatab ringi",
+        "Võistleb või osaleb üritusel"
+      ],
+      "keywords": [
+        "Suusatamine",
+        "Talisport",
+        "Vanem mees",
+        "Kiiver",
+        "Suusaprillid",
+        "Suusad",
+        "Lumi",
+        "Õues",
+        "Võistlusvest",
+        "Innsbruck 2020",
+        "Talv",
+        "Sportlane"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Suusad",
+        "Kiiver",
+        "Suusaprillid",
+        "Suusajakk",
+        "Võistlusvest",
+        "Betoonist trepid",
+        "Metallist piirded",
+        "Hoone",
+        "Lumi",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#D2D4D4",
+        "#A08C73",
+        "#2D75B7",
+        "#FFFFFF",
+        "#F0D40C",
+        "#F1E50A",
+        "#9C1819",
+        "#0E0D0B",
+        "#A49129",
+        "#A6A9AA",
+        "#F5F5F5"
+      ],
+      "texts": [
+        "INNSBRUCK 2020",
+        "FISCHER skis.com",
+        "RC4"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab mees kergelt üles ja paremale.",
+        "Teisel pildil on mehe pea asend sarnane esimesele, kerge liikumisega.",
+        "Kolmandal pildil on mehe pilk suunatud rohkem otse ette või veidi alla ning tema näoilme on muutunud, suu on kergelt avatud."
+      ],
+      "snr": "043",
+      "ajad": [
+        "1211.480",
+        "1277.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sportlast stardiasendis, vaadatuna ülalt alla ja eestpoolt. Sportlane on varustatud erkkollase kiivri, hõbedaste kaitseprillide või visiiriga, sinise ja punase särgi ning beežikate polsterdatud kinnaste või varrukatega. Ta kannab ka tumedaid pükse. Taustaks on näha metallist restilaadset pinda, mis viitab välitingimustele või spordirajale. Kaadrite seeria näitab sportlast pead järk-järgult tõstmas, valmistudes stardiks, mis annab edasi ootuse ja pinge tunde.",
+      "actions": [
+        "Kükkis",
+        "Valmistub startima",
+        "Tõstab pead",
+        "Vaatab üles"
+      ],
+      "keywords": [
+        "Start",
+        "Sport",
+        "Kiiver",
+        "Kaitseprillid",
+        "Võistlus",
+        "Sportlane",
+        "Stardiasend",
+        "Kaitseriietus",
+        "Adrenaliin",
+        "Ettevalmistus"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kiiver",
+        "Kaitseprillid/visiir",
+        "Kindad",
+        "Särk",
+        "Püksid",
+        "Põrand/platvorm"
+      ],
+      "colorcodes": [
+        "#FBF40A",
+        "#D5C2A4",
+        "#2D6BC5",
+        "#D42B3F",
+        "#2A2A2A",
+        "#7F8489",
+        "#9E9E9E"
+      ],
+      "texts": [
+        "Logo vasakul varrukal"
+      ],
+      "persons": [
+        "Sportlane"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Sportlase pea tõuseb kaadrite jooksul järk-järgult ülespoole.",
+        "Esimesel pildil on kiivri esiosa kõige rohkem allapoole suunatud, kolmandal pildil on pea juba tõstetud ja kaitseprillid on rohkem nähtaval, suunatud ettepoole.",
+        "Kaitseprillide ja visiiri peegeldus muutub vastavalt pea asendi muutumisele, paljastades üha enam valgust ja ümbritsevat peegeldust."
+      ],
+      "snr": "044",
+      "ajad": [
+        "1277.040",
+        "1283.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes valmistub suusatama. Kaamera fookus on suunatud suusataja alakehale, suuskadele ja suusasidemetele. Inimene kannab tumedaid suusapükse, punavalgeid suusasaapaid ja kindaid ning on kummardunud, et reguleerida või kinnitada suusasaabast suusasidemesse. Kollased suusad, millel on mustad detailid ja tekst \"FISCHER\" ning \"FISCHER-SKI.com\", asetsevad paralleelselt tumedal metallvõrega platvormil. Platvormi küljes on näha püstakud numbritega \"16\" ja \"15\", mis viitavad ilmselt radadele või kohtadele. Taustal on hägune valge lume- või jääkattega maastik, mis annab edasi talvise ja õues viibimise tunde. Valgus on ere päevavalgus, mis on iseloomulik pilvisele või hajutatud päikesepaistele.",
+      "actions": [
+        "Suusasaapa kinnitamine suusasidemesse",
+        "Kummardumine",
+        "Suusatamiseks valmistumine"
+      ],
+      "keywords": [
+        "Suusatamine",
+        "Suusasaabas",
+        "Suusad",
+        "Suusaside",
+        "Talv",
+        "Lumi",
+        "Ettevalmistus",
+        "Mäesuusatamine",
+        "Spordivarustus",
+        "Õues",
+        "Fischer"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Suusasaapad",
+        "Suusad",
+        "Suusasidemed",
+        "Kindad",
+        "Suusapüksid",
+        "Metallvõrega platvorm",
+        "Püstakud",
+        "Lumi"
+      ],
+      "colorcodes": [
+        "#F7E018",
+        "#E63946",
+        "#F8F8F8",
+        "#1A1A1A",
+        "#808080",
+        "#F0F0F0"
+      ],
+      "texts": [
+        "FISCHER",
+        "FISCHER-SKI.com",
+        "RAST",
+        "AATT",
+        "16",
+        "15"
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on inimese kinnastatud käsi veel sidemest eemal, justkui valmistudes seda haarama.",
+        "Teisel pildil on kinnastatud käsi juba suusasidemel, alustades saapa kinnitamise või reguleerimise tegevust. Inimese kehahoiak on pisut rohkem kummardunud.",
+        "Kolmandal pildil jätkub sama tegevus, käsi püsib sidemete juures, demonstreerides pidevat pingutust või lõplikku kinnitamist."
+      ],
+      "snr": "045",
+      "ajad": [
+        "1283.560",
+        "1290.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest, kes on suusahüppemäel ettevalmistavas või laskumise faasis. Ta on riietatud suusavarustusse, kandes kollast kiivrit, millel on näha \"CARRERA\" logo ja Soome lipp. Punaste rihmadega suusaprillid katavad tema silmi. Mehel on seljas sinine vest, millel on osaliselt näha tekst \"INNSBRUCK 2020\" ja \"SPORT together\", ning beež polsterdatud jakk. Ta on kergelt ettepoole kummardunud ja liigub mööda lumist kaldteed allapoole. Taustal on näha lumiseid mägesid ja suusahüppemäe metallkonstruktsioone, mis loovad sportliku ja talvise atmosfääri. Mehe pilk on suunatud allapoole, mis viitab keskendumisele eesolevale sooritusele. Paremal pool on näha numbrit \"20\" tähistavat silti.",
+      "actions": [
+        "Suusatamine",
+        "Laskumine",
+        "Ettevalmistamine",
+        "Kummardumine"
+      ],
+      "keywords": [
+        "Suusahüpe",
+        "Talvesport",
+        "Sportlane",
+        "Mäed",
+        "Lumi",
+        "Varustus",
+        "Kiiver",
+        "Suusaprillid",
+        "Innsbruck 2020",
+        "Eakas sportlane",
+        "Keskendumine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Kiiver",
+        "Suusaprillid",
+        "Vest",
+        "Jakk",
+        "Soome lipp",
+        "Lumi",
+        "Mägi",
+        "Suusahüppemägi",
+        "Metallkonstruktsioonid",
+        "Silt numbriga 20"
+      ],
+      "colorcodes": [
+        "#F1DD32",
+        "#1F73B9",
+        "#CD2B28",
+        "#D1B88D",
+        "#E0E4E7",
+        "#6D6D6D"
+      ],
+      "texts": [
+        "CARRERA",
+        "INNSBRUCK 2020",
+        "SPORT together",
+        "20"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Pea ja keha asend on kaadrite vahel veidi muutunud, viidates liikumisele või hetkelisele nihkele.",
+        "Tagaplaani detailid on kaadrite vahel minimaalselt muutunud, näidates pidevat liikumist mööda mäge."
+      ],
+      "snr": "046",
+      "ajad": [
+        "1290.520",
+        "1301.680"
+      ]
+    },
+    {
+      "explanation": "Stseen algab laia kaadriga suusahüppemäe tipust, vaadates alla piki pikka ja järsku, lumise või jäise pinnaga renni, mis kaob silmapiirile. Esiplaanil on selgelt näha metallist piire või stardivärav, millest justkui valmistutakse alla laskumiseks. Kaadri vasakus servas on uduselt tajutav digitaalne tablo, millel helendab number '2'. Üldine õhkkond on jahe ja summutatud, domineerivad valged, hallid ja helesinised toonid, mis viitavad pilvisele talvepäevale. Taust on pehmelt udustatud, vihjates kauguses asuvatele struktuuridele või linnale. Seejärel muutub ekraan üleni valgeks, mille keskele ilmub elegantse musta kirjaga tekst, mis annab teada kinematograafi nime: 'CINEMATOGRAPHY' ja 'EEMI JOHANNES LEHTO'. Stseen lõppeb seejärel täiesti musta ekraaniga.",
+      "actions": [
+        "Stseen algab laia ülevaatega suusahüppemäest",
+        "Ekraanile ilmub tekst kinematograafi nimega",
+        "Ekraan muutub täiesti mustaks"
+      ],
+      "keywords": [
+        "Suusahüppemägi",
+        "Talisport",
+        "Lumi",
+        "Jää",
+        "Külm",
+        "Pilvine",
+        "Krediidid",
+        "Minimalistlik",
+        "Sport",
+        "Talv"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Suusahüppemägi",
+        "Metallist piirded",
+        "Digitaalne tablo",
+        "Lumi/jää",
+        "Udune taust",
+        "Tekst",
+        "Ekraan"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#C0C0C0",
+        "#808080",
+        "#D3D3D3"
+      ],
+      "texts": [
+        "CINEMATOGRAPHY",
+        "EEMI JOHANNES LEHTO",
+        "2"
+      ],
+      "persons": [
+        "Eemi Johannes Lehto"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader kujutab realistlikku stseeni suusahüppemäest, teine on valge ekraan musta tekstiga ja kolmas on täiesti must ekraan.",
+        "Fookus nihkub detailselt maastikult tekstile ja seejärel tühjusele.",
+        "Värvigamma muutub jahedatest hallidest ja valgetest toonidest puhtalt mustvalgeks, seejärel täielikult mustaks, mis näitab stseeni lõppu või üleminekut."
+      ],
+      "snr": "047",
+      "ajad": [
+        "1301.680",
+        "1333.960"
+      ]
+    }
+  ]
+}

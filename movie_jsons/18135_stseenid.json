@@ -1,0 +1,392 @@
+{
+  "film": [
+    "18135",
+    "18010",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Gesture",
+    "f6f210553f8dee4d7a05512b7b49ebc0a6e22ab9.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab noort inimest, kes istub linnakeskkonnas kivist äärekivil või madalal müüril, pakkudes vaatepilti tänavanurgalt. Isik on riietatud talveriietesse, kandes tumedat kootud mütsi, musta-valge-punase triibulist salli, tumedat jopet, kindaid ja teksaseid, mis viitab jahedale ilmale. Tema hoiak on küürus ja näoilme morn, pilk on suunatud allapoole või eemale. Käes hoiab ta kartongist silti, millele on ebakindla käekirjaga kirjutatud \"NEED FOOD\". Isiku kõrval paremal maas on kohvitops. Vasakul pool on näha tumedat prügikasti. Taustal paistab linnatänav sõidukitega, sealhulgas tume maastur, ning kaugemal mitmekorruseline hoone akendega. Kogu stseen on mustvalge, andes edasi melanhoolse ja tõsise meeleolu.",
+      "actions": [
+        "Istub äärekivil/müüril",
+        "Hoiab kartongist silti",
+        "Vaatab mornilt allapoole/eemale"
+      ],
+      "keywords": [
+        "Vaesus",
+        "Abivajaja",
+        "Kodutu",
+        "Linnakeskkond",
+        "Talv",
+        "Kurbus",
+        "Palve",
+        "Üksindus",
+        "Monokroomne"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Noor inimene",
+        "Kootud müts",
+        "Triibuline sall",
+        "Tume jope",
+        "Kindad",
+        "Teksased",
+        "Kartongist silt",
+        "Kohvitops",
+        "Kivist äärekivi/müür",
+        "Prügikast",
+        "Auto",
+        "Hoone"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "CAMERA work - Exercise 1",
+        "GESTURE",
+        "NEED FOOD"
+      ],
+      "persons": [
+        "Noor inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader on mustal taustal olev tiitelkaart tekstiga 'CAMERA work - Exercise 1', samas kui ülejäänud kaadrid kujutavad reaalset stseeni.",
+        "Ühel stseenikaadritest on vasakus ülanurgas pealiskiri 'GESTURE', mis teisel stseenikaadril puudub.",
+        "Stseenikaadrite vahel on märgata väga väikeseid erinevusi isiku pilgu suunas ja näoilmes ning taustal olevate autode asukohas, mis viitavad lühikesele ajale stseeni jooksul."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "23.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget välivaadet, kus esiplaanil paremal on näha vaatleja pea ja õlad üle õla vaates. Isik kannab tihedat kootud mütsi ja mustrilist salli, mis on tihedalt ümber kaela, andes edasi külma aastaaja tunde. Tema pilk on suunatud kaamerast eemale, jälgides teerajal kõndivat teist isikut. Taustal vasakul on näha meesterahvas, kes kannab tumedat mantlit. Ümbrust iseloomustavad paljad puud ja ähmaselt aimatavad hooned, mis viitavad linnapargi või tänava miljööle. Kaameratöö loob teravussügavuse nihke, kus algselt udune taustal olev kõndija muutub järk-järgult selgemaks ja läheneb vaatlejale, luues jälgimise, ootuse või kohtumise atmosfääri. Üldine atmosfäär on vaikne ja mõtisklev, rõhutades inimestevahelist distantsi ja lähenemist.",
+      "actions": [
+        "Vaatlemine",
+        "Kõndimine",
+        "Lähenemine",
+        "Jälgimine"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Linnapark",
+        "Külm",
+        "Vaatlus",
+        "Mõtisklev",
+        "Jälgimine",
+        "Kohtumine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Müts",
+        "Sall",
+        "Mantel",
+        "Puud",
+        "Hoone",
+        "Teerada",
+        "Maapind"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#333333",
+        "#666666",
+        "#999999",
+        "#CCCCCC"
+      ],
+      "texts": [],
+      "persons": [
+        "Vaatleja (isik mütsiga)",
+        "Mees mantliga"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Teravussügavus muutub, fookus nihkub uduselt taustalt selgele taustale.",
+        "Taustal olev mees läheneb vaatlejale.",
+        "Taustal olev mees muutub järk-järgult selgemaks ja detailsemaks."
+      ],
+      "snr": "002",
+      "ajad": [
+        "23.200",
+        "28.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab linnakeskkonda pilvisel päeval, olles jäädvustatud mustvalgena, mis annab pildile mõtliku ja melanhoolse tooni. Esiplaanil paremal domineerib suur vertikaalne reklaamtahvel, millel on JCDecaux reklaam Chanel'i parfüümile \"BLEU DE CHANEL\", kus on kujutatud mees; reklaami värvid on sügavsinine ja must, kontrastiks ümbritseva monokroomse keskkonnaga. Paremal pool on näha tänavavalgustusposti ja taamal suurt ajaloolist hoonet arvukate akendega. Keskel, esiplaanil, istub kivist pingil või äärel inimene, tõenäoliselt kerjus, hoides käes papist silti tekstiga \"ED FOOD\" (tõenäoliselt \"NEED FOOD\"). Tema ees maas on väike müntide kogumiseks mõeldud tops. Vasakul pool asub suur hall ratastel prügikast. Mööda märga kõnniteed liiguvad erinevad inimesed: mees tumedas mantlis on möödumas istuvast kerjusest ja vasakul pildiservas on näha mööduvat last koos saatjaga. Taamal kulgeb tänav, kus liigub autoliiklus ja möödub tramm kirjaga \"Ootad tööd?\". Maapind on märg, mis viitab hiljutisele sajule või niiskele ilmale. Üldine meeleolu on realistlik ja vastandab reklaami kaudu edastatavat luksust ning esiplaanil olevat sotsiaalset haavatavust.",
+      "actions": [
+        "Istuv isik hoiab silti ja ootab.",
+        "Mees kõnnib mööda kõnniteed vasakule.",
+        "Laps kõnnib koos täiskasvanuga mööda kõnniteed vasakule.",
+        "Tramm liigub tänaval paremalt vasakule.",
+        "Autod liiguvad tänaval."
+      ],
+      "keywords": [
+        "Linnapilt",
+        "Kerjus",
+        "Kodutus",
+        "Sotsiaalne ebavõrdsus",
+        "Tänavastseen",
+        "Reklaam",
+        "Monokroomne",
+        "Märg maapind",
+        "Külm ilm"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Reklaamtahvel",
+        "JCDecaux post",
+        "Prügikast",
+        "Kivipink",
+        "Annetustops",
+        "Pabersilt",
+        "Hooned",
+        "Tänav",
+        "Tramm",
+        "Auto"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080",
+        "#333333",
+        "#2A3E54"
+      ],
+      "texts": [
+        "CHANEL",
+        "BLEU DE CHANEL",
+        "JCDecaux",
+        "ED FOOD",
+        "Ootad tööd?"
+      ],
+      "persons": [
+        "Kerjus",
+        "Mööduv mees",
+        "Laps",
+        "Lapse saatja (osaliselt nähtav)",
+        "Reklaamis olev mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Mööduva mehe asukoht muutub: ta liigub paremalt vasakule üle kolme pildi.",
+        "Laps ja tema saatja ilmuvad vasakule pildiservale teisel ja kolmandal pildil, liikudes vasakule mööda prügikasti.",
+        "Kolmandal pildil on näha taustal mööduvat trammi kirjaga \"Ootad tööd?\" ja halli autot, mis eelnevatel piltidel puuduvad või on varjatud."
+      ],
+      "snr": "003",
+      "ajad": [
+        "28.480",
+        "38.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalgel fotol tänaval aset leidvat kaastundeakti ja sellele eelnevaid ning järgnevaid hetki. Kesksel kohal on soojalt riidesse pakitud noor inimene, kes istub madalal tänavaläärisel või astmel. Tal on peas müts, kaelas sall, seljas nahkjakk ja kätes kindad. Algselt on ta süvenenud millegi vaatamisse, mis tal käes on, ja tema kõrval asub prügikast või konteiner sildiga 'RAGNA'. Tema poole läheneb teine, tumedasse mantlisse riietatud inimene, kes ulatab talle valge paberisse või kilepakendisse mähitud toidupaki. Abivajaja võtab paki vastu ja uurib seda seejärel tänulikult. Kolmandal pildil on näha tema kõrval silti kirjaga 'FOOD'. Taustal liigub veel kaks inimest, üks heledas ja teine tumedas riietuses, andes stseenile sügavust ja elavust. Üldine atmosfäär on vaikne ja mõtisklev, rõhutades inimliku headuse hetke keset argipäeva.",
+      "actions": [
+        "Istumine",
+        "Ootamine",
+        "Uurimine",
+        "Lähenemine",
+        "Toidu ulatamine",
+        "Annetuse vastuvõtmine",
+        "Toidu vaatamine",
+        "Möödujate liikumine taustal"
+      ],
+      "keywords": [
+        "Abivajaja",
+        "Heategu",
+        "Annetus",
+        "Tänav",
+        "Kaastunne",
+        "Toit",
+        "Talv",
+        "Mustvalge",
+        "Urbanistlik"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Noore inimese müts",
+        "Noore inimese sall",
+        "Noore inimese nahkjakk",
+        "Kindad",
+        "Valge toidupakend/kott",
+        "Papptahvel/silt",
+        "Prügikast/konteiner (kirjaga 'RAGNA')",
+        "Madal tänavalääris/aste",
+        "Tumeda mantliga annetaja",
+        "Annetaja käekott",
+        "Hooned taustal",
+        "Klaasuks",
+        "Möödujad"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [
+        "RAGNA",
+        "FOOD"
+      ],
+      "persons": [
+        "Abivajaja/Istuv isik",
+        "Mööduja/Annetaja",
+        "Kaks möödujat taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil istub abivajaja üksi ja annetaja on näha eemal taustal, abivajaja on süvenenud mingisse väiksesse esemesse.",
+        "Teisel pildil on annetaja lähenenud ja ulatab toidupaki otse abivajajale.",
+        "Kolmandal pildil on abivajaja toidupaki vastu võtnud ja uurib seda, annetaja on kaadrist lahkunud ning abivajaja sildi peal on selgelt näha kiri 'FOOD'."
+      ],
+      "snr": "004",
+      "ajad": [
+        "38.440",
+        "56.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget linna panoraami halli, pilvise ilmaga, kus on näha lai tänav sõitvate autode ja bussiga ning hoonete read mõlemal pool. Paremal pool on traditsioonilisema arhitektuuriga hooned, vasakul aga modernsemad klaasfassaadidega ehitised. Tänaval on märgata liikuvust autode ja ühistranspordiga ning kauguses paistavad uduselt teised liiklejad. Stseenis on keskseks tegelaseks mustas mantlis, prillide ja salliga mees, kes kõnnib mööda tänavat. Ajal, mil mees on fookuses, pöörab ta pead üle õla vaataja suunas, enne kui jätkab oma teekonda kaamerast eemale. Stseen kasutab fookuse nihkeid, et rõhutada kord linnakeskkonda ja kord mehe figuuri.",
+      "actions": [
+        "Mees kõnnib",
+        "Mees vaatab üle õla",
+        "Autod sõidavad",
+        "Buss sõidab"
+      ],
+      "keywords": [
+        "Linnatänav",
+        "Mustvalge",
+        "Mees",
+        "Kõndimine",
+        "Sõidukid",
+        "Linnaelu",
+        "Fookuse nihe",
+        "Mõtlik",
+        "Halli ilm",
+        "Udu"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone",
+        "Tänav",
+        "Auto",
+        "Buss",
+        "Tänavavalgusti (udune)",
+        "Prillid",
+        "Sall",
+        "Mantel",
+        "Kott (õlakott)",
+        "Põõsas"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Inimesed (taustal, udused)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on kogu stseen udune (bokeh efekt), luues üldise linnapanoraami mulje.",
+        "Teisel pildil on fookus teravalt esiplaanil oleval mehel, kes vaatab üle oma parema õla kaamera suunas, samal ajal kui linnataust jääb udusse.",
+        "Kolmandal pildil kõnnib mees kaamerast eemale seljaga vaataja poole ja on kergelt udune, samal ajal kui linnataust (autode ja bussiga) on veidi teravamalt fookuses kui esimesel pildil."
+      ],
+      "snr": "005",
+      "ajad": [
+        "56.440",
+        "63.440"
+      ]
+    },
+    {
+      "explanation": "Stseen algab mustvalge kaadriga, mis kujutab liigutavat hetke inimese ja koera vahel. Pildil on näha tumedates riietes ja kinnastega kükitavat inimest, kes pakub midagi valgest paberikotist väikesele energilisele koerale, tõenäoliselt Jack Russelli terjerile, kellel on kaelarihm. Tegevus toimub õues sillutatud pinnal, tõenäoliselt linnakeskkonnas. Pärast seda intiimset hetke vahetub kaader mustale taustale, kus kuvatakse valge tekstiga tootmise tiitrid, sealhulgas \"Camera work\" (operaatoritöö) Raido Pedak ja \"Lighting assistant\" (valgustusassistent) Barış Demir. Stseen lõpeb täielikult musta ekraaniga.",
+      "actions": [
+        "kükitamine",
+        "paberikoti hoidmine",
+        "koerale toidu pakkumine",
+        "koera vaatamine",
+        "seismine (koer)"
+      ],
+      "keywords": [
+        "inimene",
+        "koer",
+        "mustvalge",
+        "õues",
+        "toitmine",
+        "loomade heaolu",
+        "tiitrid",
+        "film",
+        "koostoime"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "inimene",
+        "koer",
+        "paberikott",
+        "kindad",
+        "jalanõud",
+        "püksid",
+        "kaelarihm",
+        "sillutis",
+        "kivimüür",
+        "hoone (taustal)",
+        "ekraan",
+        "tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Camera work",
+        "Raido Pedak",
+        "Lighting assistant",
+        "Barış Demir"
+      ],
+      "persons": [
+        "Raido Pedak",
+        "Barış Demir",
+        "nimetu isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on mustvalge foto, mis kujutab inimest ja koera reaalses keskkonnas.",
+        "Teine pilt on mustal taustal valge tekstiga tiitrite ekraan, mis annab infot filmi meeskonna kohta.",
+        "Kolmas pilt on täiesti must ekraan, ilma sisu või tekstita."
+      ],
+      "snr": "006",
+      "ajad": [
+        "63.440",
+        "92.960"
+      ]
+    }
+  ]
+}

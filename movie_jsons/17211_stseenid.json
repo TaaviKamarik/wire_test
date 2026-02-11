@@ -1,0 +1,715 @@
+{
+  "film": [
+    "17211",
+    "17090",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Pidu ja laen",
+    "fbb93d62b51454bbc8a4cfb86df52bc5a1236949.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab elavat siseüritust või pidu, mida iseloomustab dünaamiline neoonvalgustus, mis vaheldub jahedate purpur-siniste toonide ning soojade punakas-roosade toonide vahel, luues energilise ja piduliku atmosfääri. Külalised, peamiselt noored täiskasvanud, on näha segunemas, jooke nautimas ja lõbutsemas. Tähelepanu keskmes on sageli noormees, kes kannab elegantset valget särki, musti trakse ja bordookarva kikilipsu, hoides käes sidruniviiluga kokteili. Tema näoilmed varieeruvad laialt naeratuselt, mis peegeldab ürituse rõõmu, kuni tõsisema või mõtisklevama pilguni. Teiste piduliste seas on sarnases formaalses riietuses mehi ja kleitides naisi. Dekoratiivsed elemendid nagu helesinine õhupall ja metallik läikega mannekeeni torso lisavad stseenile omanäolisust. Laud jookide (martinid, muud kokteilid) ja värviliste kommidega viitab rikkalikule suupiste- ja joogivalikule. Üldmulje on energilisest ja kaasahaaravast peokeskkonnast.",
+      "actions": [
+        "Pidutsema",
+        "Suhtlema",
+        "Naeratama",
+        "Jooke nautima",
+        "Tantsima (kaudselt)",
+        "Hoidma"
+      ],
+      "keywords": [
+        "Pidu",
+        "Noored",
+        "Pidulik",
+        "Neoonvalgus",
+        "Kokteilid",
+        "Rõõmus",
+        "Seltskond",
+        "Lõbus",
+        "Siseruumid",
+        "Tantsupidu",
+        "Stiilne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kokteiliklaasid",
+        "Veiniklaas",
+        "Kommid",
+        "Sidruniviil",
+        "Laud",
+        "Valged särgid",
+        "Kikilipsud",
+        "Traksid",
+        "Roheline kleit",
+        "Õhupall",
+        "Mannekeen (torso)",
+        "Käevõru"
+      ],
+      "colorcodes": [
+        "#4B0082",
+        "#8B0000",
+        "#FFFFFF",
+        "#000000",
+        "#3CB371",
+        "#87CEEB"
+      ],
+      "texts": [],
+      "persons": [
+        "Noored mehed",
+        "Noored naised",
+        "Peolised"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Valgustuse värv muutub purpur-sinisest punakas-roosaks.",
+        "Keskmise tegelase näoilme muutub rõõmsalt naeratuselt tõsiseks/mõtisklevaks.",
+        "Erinevad esemed on esiplaanil näha, näiteks mannekeen ja kommikauss esimeses kaadris ning õhupall teises kaadris."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "27.400"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kaks meest töörõivastes, tõenäoliselt töömehed või remondimehed, siseruumis või varjualuses keskkonnas. Taustal paistab vasakul tume gofreeritud metallsein ja paremal suur valge kaubik. Vasakpoolne mees on noorem, punaka juuksevärvi ja habemega, kannab siniruudulist särki ja valgeid tunkesid. Tema paremal käsivarrel on näha tätoveeringuid. Ta hoiab suus põlevat sigaretti ja paistab sisse hingavat või välja hingavat suitsu, vaadates allapoole. Parempoolne mees on vanem, hallikate juuste ja habemega, kannab samuti siniruudulist särki ja valgeid tunkesid. Tema suu on avatud, nagu ta räägiks, laulaks või hingaks sügavalt sisse/välja, ja ta vaatab üles või otse ette. Valgus on hämar, esile tuues vasakul seinal oleva laevalgusti ja paremal kaubiku punased tagatuled. Üldine atmosfäär on töine ja õhtu- või ööhämarust meenutav.",
+      "actions": [
+        "Suitsetamine",
+        "Sigareti hoidmine",
+        "Üles vaatamine",
+        "Suu avamine (rääkimine/laulmine/hingamine)",
+        "Seismine"
+      ],
+      "keywords": [
+        "Töömehed",
+        "Tunked",
+        "Pluusid",
+        "Suitsetamine",
+        "Kaubik",
+        "Siseruum",
+        "Hämar",
+        "Käsitsi töö",
+        "Paus",
+        "Vestlus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kaks meest",
+        "Sigaret",
+        "Valged tunked",
+        "Siniruudulised särgid",
+        "Valge kaubik",
+        "Laevalgusti",
+        "Gofreeritud metallsein",
+        "Kaubiku tagatuled"
+      ],
+      "colorcodes": [
+        "#56729B",
+        "#FFFFFF",
+        "#333333",
+        "#FF0000",
+        "#E1C16E",
+        "#6A6E71"
+      ],
+      "texts": [],
+      "persons": [
+        "Vasakpoolne mees: Noorem, punakate juuste ja habemega, tätoveeringutega paremal käsivarrel, kannab siniruudulist särki ja valgeid tunkesid, suitsetab sigaretti, vaatab allapoole.",
+        "Parempoolne mees: Vanem, hallikate juuste ja habemega, kannab siniruudulist särki ja valgeid tunkesid, suu avatud, vaatab üles või otse ette."
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Parempoolse mehe pea asend on pisut muutunud, tema pilk on esimesel pildil rohkem üles suunatud, teisel pildil veidi allapoole kaldu, samas kui suu jääb avatuks.",
+        "Vasakpoolse mehe sigareti suits on erineva kujuga ja põleva otsa intensiivsus on varieeruv. Tema pea asend ja pilgu suund on samuti kergelt muutunud, vaadates teisel pildil rohkem allapoole.",
+        "Üldine kerge liikumine ja hetkede erinevus on näha mõlema mehe kehakeeles ja näoilmetes."
+      ],
+      "snr": "002",
+      "ajad": [
+        "27.400",
+        "28.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest hämaralt valgustatud siseruumis, mis võib olla tuba või pööning. Esplaanil on keskealine mees hallide lokkis juuste ja habemega, kes kannab siniruudulist särki ja valgeid trakse. Tema pilk on suunatud ülespoole ja suu on veidi avatud, väljendades üllatust või segadust. Taustal on uduselt näha teine, noorem mees punakaspruunide juustega, kes kannab samuti ruudulist särki. Vasakul seinal on heledalt paistev lamp, mis on peamine valgusallikas, luues stseenile vaikse ja veidi salapärase atmosfääri. Peategelase reaktsioon millelegi kaadrist väljapoole jäävale ja ülespoole on stseeni keskmes.",
+      "actions": [
+        "Mees vaatab üles",
+        "Mees on üllatunud",
+        "Mees hingab avatud suuga"
+      ],
+      "keywords": [
+        "Üllatus",
+        "Segadus",
+        "Hämarus",
+        "Siseruum",
+        "Portree",
+        "Mehed",
+        "Hambaork",
+        "Traksid",
+        "Ruuduline särk"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees (esimene plaan)",
+        "Mees (taustal)",
+        "Ruudulised särgid",
+        "Traksid",
+        "Lamp",
+        "Sein",
+        "Hambaork"
+      ],
+      "colorcodes": [
+        "#345C85",
+        "#8F9299",
+        "#F8F8F8",
+        "#B58D72",
+        "#313A3D",
+        "#F6E691"
+      ],
+      "texts": [],
+      "persons": [
+        "Hallipäine mees",
+        "Punakaspruunide juustega mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on hallipäise mehe ninas väike hambaork või sarnane ese, mis teisel pildil puudub.",
+        "Hallipäise mehe suu on teisel pildil rohkem avatud, andes edasi intensiivsema üllatuse või hämmastuse.",
+        "Teisel pildil on kaadri fookus ja kompositsioon pisut muutunud, rõhutades mehe näoilme muutust."
+      ],
+      "snr": "003",
+      "ajad": [
+        "28.960",
+        "31.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab rõõmsameelset noort meest, kes seisab valgustatud ukseavas, mis eraldab eredalt valgustatud sisemuse tumedast välisest puitseinast paremal. Vasakul pool on näha peegeldust klaaspinnal, mis annab aimu ruumi sisemusest. Mees on riietatud pidulikku valgesse särki, tumedatesse pükstesse ja traksidesse ning tal on kaelas tumedat värvi kikilips. Ta naeratab laialt ja siiralt, väljendades rõõmu ja lõbusust. Kohati kohendab ta oma kikilipsu, mis on alles sidumisel või sättimisel. Peegelduses on näha tumesinist ruumi, kus on ümar illuminaatorit meenutav aken, ja allpool punane pind, mis on kaetud sädelevate valguspunktidega, luues piduliku ja disko-atmosfääri. Samuti peegeldub klaasilt punases kleidis naine, kes hoiab käsi ülal, justkui tervitaks või tähistaks midagi. Stseeni üldine meeleolu on elav ja pidulik.",
+      "actions": [
+        "Kikilipsu kohendamine",
+        "Naeratamine",
+        "Naermine",
+        "Käe tõstmine",
+        "Peegelduses käte ülalhoidmine"
+      ],
+      "keywords": [
+        "Mees",
+        "Kikilips",
+        "Pidulik riietus",
+        "Ukseava",
+        "Peegeldus",
+        "Naeratus",
+        "Rõõm",
+        "Pidustus",
+        "Naine punases",
+        "Puitsein",
+        "Valgustatud"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Mees",
+        "Ukseava",
+        "Klaaspind",
+        "Puitsein",
+        "Valge särk",
+        "Traksid",
+        "Püksid",
+        "Kikilips",
+        "Naine",
+        "Punane kleit",
+        "Ümar aken (peegelduses)",
+        "Punane pind (peegelduses)",
+        "Valguspunktid"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#3F5651",
+        "#4F5D7B",
+        "#FF0000",
+        "#A9A7A7"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees",
+        "Naine (peegelduses)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Mehe käte asend: Esimesel pildil on vasak käsi tõstetud ja kikilipsu kohendamas, teisel pildil kohendab mees kikilipsu kahe käega ja kolmandal pildil on käed all või pildilt väljas.",
+        "Mehe kikilips: Esimesel ja teisel pildil on kikilips veel kohendamisel ja pole korralikult seotud, kolmandal pildil on kikilips korrektselt seotud.",
+        "Mehe näoilme ja naeratus: Teisel pildil naerab mees avalamalt ja pea on veidi kallutatud võrreldes esimese ja kolmanda pildiga, kus naeratus on rahulikum, kuid siiski lai."
+      ],
+      "snr": "004",
+      "ajad": [
+        "31.000",
+        "41.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist välisvaadet modernsele tumedale puitmajale, mille esimesel korrusel on avar aken, kust paistab siseruumis toimuv pidu värviliste valgustitega. Maja ees, vasakul pool, seisab elegantne naine mustas teenindajarõivastuses, hoides käes hõbedast kandikut. Tema ees ja paremal asuvad kaks meest valgetes tunkedes ja ruudulistes särkides. Üks meestest on oma näo katnud tumeda maskiga. Maja paremal küljel on pargitud valge kaubik. Stseen on valgustatud maja seinal asuvate lampide ja akendest kumava valgusega. Üldine õhkkond on veidi salapärane ja ebatavaline, ühendades pidutsemise, teeninduse ja töömeeste kohaloleku.",
+      "actions": [
+        "Naine seisab ja hoiab käes kandikut.",
+        "Kaks meest seisavad ja suhtlevad omavahel.",
+        "Üks meestest paneb ette või võtab ära tumeda maski.",
+        "Inimesed maja akna taga pidutsevad värviliste tulede saatel.",
+        "Valge kaubik on pargitud maja ette."
+      ],
+      "keywords": [
+        "Öö",
+        "Maja",
+        "Pidu",
+        "Teenindaja",
+        "Töömehed",
+        "Mask",
+        "Kaubik",
+        "Modernne",
+        "Salapärane",
+        "Ebatavaline",
+        "Välisruum"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Modernne puitmaja",
+        "Aken",
+        "Kandik",
+        "Valged tunked",
+        "Ruudulised särgid",
+        "Must teenindajarõivastus",
+        "Tume mask",
+        "Valge kaubik",
+        "Välisseinalambid",
+        "Maja number/tänavasilt",
+        "Puud",
+        "Pinnas"
+      ],
+      "colorcodes": [
+        "#3A4542",
+        "#000000",
+        "#FFFFFF",
+        "#D1C7BB",
+        "#FF0000",
+        "#00FF00",
+        "#0A2A3A"
+      ],
+      "texts": [
+        "PÕDRAKAARU 10",
+        "BOXER"
+      ],
+      "persons": [
+        "Teenindaja (naine)",
+        "Kaks töömeest",
+        "Peolised (aknast paistvad)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Teise ja kolmanda pildi vahel on oluline muudatus: vasakpoolne mees kannab kolmandal pildil näo ees tumedat maski, samas kui eelmistel piltidel on tema nägu paljas. See viitab maski ettepanekule või äravõtmisele.",
+        "Meeste kehahoiakud ja asendid muutuvad kõigi kolme pildi vahel minimaalselt, peamiselt seoses maski liigutusega."
+      ],
+      "snr": "005",
+      "ajad": [
+        "41.000",
+        "42.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaadet naise vasakust käest, mis hoiab valgustatud paberit või dokumenti süngelt pimedas keskkonnas. Naine kannab tumedaid riideid, millel on aimatav struktuur, ja tema sõrmusesõrmes on kuldne sõrmus. Randmel on näha hõbedane ja kuldsete detailidega käevõru või nutikell. Dokument on eestikeelse tekstiga, mis käsitleb laenulepingut, täpsemalt intressimäära, mis on märgitud 300%-na. Valgus paistab otse dokumendile, jättes ülejäänud stseeni tumedatesse varjudesse, luues tõsise ja isikliku, potentsiaalselt pingelise atmosfääri. Dokumendi tekst viitab laenusaajale ja laenuandjale ning maksetingimustele.",
+      "actions": [
+        "dokumendi hoidmine",
+        "dokumendi lugemine/uurimine"
+      ],
+      "keywords": [
+        "laenuleping",
+        "intress",
+        "finants",
+        "dokument",
+        "käsi",
+        "lugemine",
+        "vari",
+        "tume",
+        "tõsine",
+        "eestikeelne tekst"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "käsi",
+        "sõrmus",
+        "kell/käevõru",
+        "dokument/paber",
+        "tume riietus"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#0C0C0C",
+        "#C4A44D",
+        "#A0A0A0",
+        "#D97472",
+        "#90B0F0"
+      ],
+      "texts": [
+        "2.1.Laen on antud tähtajatuliselt. Laenusaaja kohustub Laenu tagasi maksma hiljem",
+        "22.09.2014",
+        "2.2.Laenusaaja tagastab Laenule Laenu Laenuandja arvelduskontole",
+        "EE22011100116739128",
+        "2.3.Laenusaaja maksab Laenule Laenu tagastamata osalt intressi 300 %",
+        "aastas.",
+        "Kui Laenusaaja teeb Laenuandjale Laenu võlgnetavatest summadest makse, siis esimeses järjekorras võlgnetava summa makse",
+        "esimeses järjekorras võlgnetava viivise",
+        "võlgnetava",
+        "Lepingust"
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader näitab stseeni laiemalt, keskendudes käele ja dokumendile ning ümbritsevale pimedusele, andes edasi üldise konteksti. Teine ja kolmas kaader on dokumendile lähemale suumitud, pakkudes detailsemat vaadet tekstile ja hoides fookuses käe ning kella/käevõru. Kolmas kaader on eelkõige dokumendile suunatud, võimaldades tekstil olla kõige selgemalt loetav, samas kui teine kaader pakub veidi teistsugust nurka ja fookust, kus tekst on mõnevõrra udusam."
+      ],
+      "snr": "006",
+      "ajad": [
+        "42.880",
+        "46.000"
+      ]
+    },
+    {
+      "explanation": "Pildil on detailne lähivõte dokumendist, mis on tõenäoliselt laenuleping. Dokument on valgel paberil musta tekstiga ja see on asetatud tumedale, mattale pinnale, mis võib olla laud või mõni muu alus. Tekstis on selgelt näha finantstingimused, sealhulgas silmatorkav „intressi 300 %“, mis viitab väga kõrgele intressimäärale. Dokumendis mainitakse ka laenusaaja kohustust laen tagasi maksta ja viide konkreetsele kuupäevale [22.09.2014]. Samuti on näha pangakonto number (EE2201100116739328) ning viiteid võlgnetavale intressile ja viivisele. Pildi alumises paremas nurgas on tumedam ala, mis võib olla käsi, mis dokumenti hoiab, või lihtsalt fookusest väljas olev osa pinnast. Valgus paistab dokumendile ülevalt ja vasakult, luues õrnu varjusid.",
+      "actions": [
+        "dokumendi lugemine",
+        "lepingu ülevaatamine"
+      ],
+      "keywords": [
+        "laenuleping",
+        "intress",
+        "300 protsenti",
+        "dokument",
+        "finants",
+        "võlg",
+        "laenusaaja",
+        "laenuandja",
+        "paber",
+        "tekst",
+        "viivis"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "dokument",
+        "paber",
+        "tekst",
+        "käsi (võimalik)"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#333333"
+      ],
+      "texts": [
+        "Laen on antud tähtajaliselt. Laenusaaja kohustub Laenu tagasi maksma hiljemalt [22.09.2014].",
+        "2.2.Laenusaaja tagastab Laenuandjale Laenu Laenuandja arvelduskontole EE2201100116739328",
+        "2.3.Laenusaaja maksab Laenuandjale Laenu tagastamata osalt intressi 300 % aastas.",
+        "Kui Laenusaaja teeb Laenuandjale Laenu illest ei piisa kõigi Lepingu alusel gnetavate summade tasumiseks,",
+        "statakse makse:",
+        "ses järjekorras võlgnetava makse,",
+        "ras võlgnetava intressi",
+        "võlgnetava viivise",
+        "õlgnetava",
+        "epingu",
+        "ingust"
+      ],
+      "persons": "not clear",
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Puuduvad erinevused, kuna esitatud on vaid üks pilt."
+      ],
+      "snr": "007",
+      "ajad": [
+        "46.000",
+        "48.400"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset hämaras koridoris, kus paremal pool avaneb uks heledamasse ruumi. Koridori vasakul seinal asub hõbedane postkast. Stseenis on näha kahte meest. Üks mees, riietatud valgetesse traksipükstesse ja ruudulisse särki, seisab esmalt ukseava lähedal. Teine mees on riietatud erilisse hõbedasse kostüümi, mis meenutab soomust või futuristlikku rüü, ja tal on peas hõbedane ämber või pott kiivrina. Ta kannab ettevaatlikult hõbedast habemega mehe büstikuju, mis asetseb värvilise mustriga toolil. Esialgu on nad mõlemad ukseava juures, kostüümis mees on parasjagu sisenemas või väljumas. Hiljem jääb traksipükstes mees koridori üksi, toetudes seinale ja suitsetades sigaretti, vaadates mõtlikult eemale, samal ajal kui kostüümis mees koos büstiga on ukseavast lahkunud. Stseenis valitseb teatav kunstiline või etenduse meeleolu, mis viitab rekvisiitide transportimisele või lavastuslikule olukorrale.",
+      "actions": [
+        "Uksest väljumas",
+        "Büstikuju kandmas",
+        "Tooli hoidmas",
+        "Seinas seisab",
+        "Sigaretti suitsetamas",
+        "Vaatab eemale"
+      ],
+      "keywords": [
+        "Koridor",
+        "Ukseava",
+        "Büst",
+        "Kostüüm",
+        "Hõbedane",
+        "Traksipüksid",
+        "Postkast",
+        "Teatral",
+        "Hämar",
+        "Kunstiline"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Postkast",
+        "Uks",
+        "Tool",
+        "Büst",
+        "Sigaret",
+        "Hõbedane kostüüm",
+        "Ämber/pott (kiivrina)"
+      ],
+      "colorcodes": [
+        "#3A4742",
+        "#E0E0E0",
+        "#4C82A2",
+        "#A9A9A9",
+        "#A0B0D0",
+        "#FF00FF",
+        "#FFFF00",
+        "#FF0000",
+        "#00FF00"
+      ],
+      "texts": [
+        "BOX"
+      ],
+      "persons": [
+        "Mees traksipükstes",
+        "Mees hõbedases kostüümis"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Hõbedases kostüümis mehe ja büstiga tooli olemasolu/puudumine kaadrites.",
+        "Traksipükstes mehe tegevus (alguses jälgimine, hiljem suitsetamine).",
+        "Traksipükstes mehe täpne asukoht ja kehahoiak."
+      ],
+      "snr": "008",
+      "ajad": [
+        "48.400",
+        "58.520"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumis, ilmselt koridoris või kontoriruumis, mille seinad on kaetud tumeda puitpaneeliga. Valgustus on summutatud ja hämar, luues tõsise ja veidi salapärase atmosfääri. Kaadris on kaks inimest. Vasakul seisab professionaalselt riietatud naine, kellel on seljas tume kostüümjakk, valge särk ja prillid ning juuksed on kenasti kuklas. Tema näoilme on keskendunud ja otsekohene, kohati vaatab ta otse mehe poole või mõtiskleb. Paremal asub mees, kes kannab valget särki, musti traksipükse ja tumedat lipsu, mis viitab formaalsele riietusele. Stseeni jooksul ulatab naine mehele väikese eseme, mis sarnaneb võtmekimbule või väikesele elektroonilisele seadmele. Mees vaatab samal ajal alla ja näib midagi oma randmel reguleerivat, näiteks kella. Teises hetkes hoiab naine käes piklikku, heledat ja kumerat eset, mis võib olla mingi tööriist või eriline võti, samal ajal kui mees on kaadrist välja liikunud. Taustal seinal on märgatav pikk inimvari, mis annab stseenile lisamõõtme ja võimalik, et viitab kolmanda isiku kohalolekule või lihtsalt kunstilisele elemendile. Üldine meeleolu on asjalik ja seotud mingi ülesande või üleandmisega.",
+      "actions": [
+        "Naine ulatab mehele eseme",
+        "Mees reguleerib midagi oma randmel",
+        "Naine hoiab käes kumerat eset",
+        "Naine seisab ja vaatab",
+        "Mees seisab",
+        "Vari projitseerub seinale"
+      ],
+      "keywords": [
+        "Ärikeskkond",
+        "Formaalne riietus",
+        "Summutatud valgus",
+        "Siseruum",
+        "Kohtumine",
+        "Üleandmine",
+        "Juhised",
+        "Vari",
+        "Professionaalne",
+        "Tõsine",
+        "Salapärane"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Mees",
+        "Prillid",
+        "Kostüümjakk",
+        "Valge särk",
+        "Lips",
+        "Traksipüksid",
+        "Puitpaneeliga sein",
+        "Vari",
+        "Väike tume ese (võimalik võtmekimp)",
+        "Kumer hele ese (tööriist/võti)",
+        "Valge karbikujuline seade seinal",
+        "Kõrvarõngad"
+      ],
+      "colorcodes": [
+        "#4d5452",
+        "#1a1a1a",
+        "#f0f0f0",
+        "#451b22",
+        "#a07a61",
+        "#c7a48d",
+        "#afaeaa"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees",
+        "Vari (potentsiaalne kolmas isik)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Naise käte asend ja esemed, mida ta hoiab, erinevad kaadrite vahel",
+        "Mehe tegevus muutub: alguses seisab ta paigal, siis reguleerib randmel midagi ja seejärel on kaadrist kadunud",
+        "Naise käes olev ese muutub väikesest tumedast esemest (võimalik võtmekimp või seade) heledaks, kumeraks esemeks"
+      ],
+      "snr": "009",
+      "ajad": [
+        "58.520",
+        "71.800"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset õues pimedal ajal, tõenäoliselt tööstuspiirkonnas või hoone taga. Esiplaanil on naine mustas kostüümis, kes kõnnib ja hoiab käes tahvlit ning hiljem telefoni. Tema läheduses on mees valges särgis, trakside ja kikilipsuga, kes on parajasti pükse jalast võtmas, paljastades värvilised bokserid. Taustal on näha heledat kaubikut, mille küljel on stiliseeritud maakera kujutisega logo, ning hoone tumedaid seinu ja uksi. Kahe ukse vahel seinal on ümmargune sihtmärk. Kaadris on ka kaks teist meest, kellest üks on hoidmas hõbedast discopalli. Valgusallikad on peamiselt hoonelt tulevad lambid ja kaubiku ümbrus on veidi heledam.",
+      "actions": [
+        "Naine kõnnib",
+        "Naine hoiab tahvlit",
+        "Naine hoiab telefoni",
+        "Mees võtab püksid jalast",
+        "Mees on aluspesus",
+        "Mees hoiab discopalli",
+        "Mees seisab taustal"
+      ],
+      "keywords": [
+        "Öö",
+        "Väljas",
+        "Kaubik",
+        "Agentuur",
+        "Saladuslik",
+        "Naine ülikonnas",
+        "Mees traksidega",
+        "Riietumine",
+        "Sihtmärk",
+        "Discopall",
+        "Humoorikas",
+        "Ebareaalne"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kaubik",
+        "Hoone sein",
+        "Uksed",
+        "Lambid",
+        "Sihtmärk (märklaud)",
+        "Tahvel (clipboard)",
+        "Püksid",
+        "Discopall",
+        "Särk",
+        "Traksid",
+        "Kikilips",
+        "Sokid",
+        "Bokserid",
+        "Prillid",
+        "Telefon"
+      ],
+      "colorcodes": [
+        "#F5F5DC",
+        "#000000",
+        "#808080",
+        "#4682B4",
+        "#FF0000",
+        "#A52A2A"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine mustas kostüümis",
+        "Mees valges särgis ja traksidega",
+        "Mees ruudulises särgis (taustal)",
+        "Mees hallis särgis (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mees valges särgis võtab teisel pildil püksid jalast, paljastades bokserid, samal ajal kui esimesel pildil on tal püksid jalas.",
+        "Naine esiplaanil hoiab esimesel pildil käes tahvlit ja vaatab otse ette, teisel pildil aga hoiab telefoni ja tema pilk on suunatud eemale.",
+        "Taustal olev mees ruudulises särgis hoiab teisel pildil discopalli, esimesel pildil ei ole see näha."
+      ],
+      "snr": "010",
+      "ajad": [
+        "71.800",
+        "84.000"
+      ]
+    },
+    {
+      "explanation": "Stseen algab täieliku pimedusega, mida esindab ühtlane must ekraan. See pimedus katkeb hetkeks, kui ilmub ere sinine taust, mis täidab kogu kaadri. Sinisel taustal kuvatakse selge oranž tekst, mis annab eesti keeles finantshoiatuse ja nõuande: \"Ära võta mõtlematult laenu!\" ning \"Laena targalt!\". Nende peamiste sõnumite all on väiksemas oranžis kirjas näha veebiaadress \"laenatargalt.ee\". Pärast sõnumi edastamist kaovad sinine taust ja tekst ning stseen naaseb täielikku pimedusse, lõpetades seeläbi lühikese ja mõjusa teavituse.",
+      "actions": [
+        "Ekraan läheb mustaks",
+        "Ekraanile ilmub sinine taust ja oranž tekst",
+        "Ekraanilt kaob tekst ja sinine taust",
+        "Ekraan on must"
+      ],
+      "keywords": [
+        "Hoiatus",
+        "Nõuanne",
+        "Finantsteavitus",
+        "Laen",
+        "Vastutustundlikkus",
+        "Tekstiekraan",
+        "Reklaam"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [
+        "Tekst",
+        "Taust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#00318C",
+        "#F7931A"
+      ],
+      "texts": [
+        "Ära võta mõtlematult laenu!",
+        "Laena targalt!",
+        "laenatargalt.ee"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene ja kolmas pilt on täiesti mustad, samas kui teine pilt sisaldab sinist tausta ja oranži teksti.",
+        "Tekst ilmub ainult teisel pildil, mis eristab seda mustadest kaadritest.",
+        "Värviskeem muutub mustast (esimene pilt) siniseks ja oranžiks (teine pilt) ning seejärel tagasi mustaks (kolmas pilt)."
+      ],
+      "snr": "011",
+      "ajad": [
+        "84.000",
+        "88.440"
+      ]
+    }
+  ]
+}

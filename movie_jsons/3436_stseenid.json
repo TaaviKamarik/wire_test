@@ -1,0 +1,3882 @@
+{
+  "film": [
+    "3436",
+    "3436",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Kullerid",
+    "ca27a5c5197abff083c269b1b731d65527a094ec.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen on täielikult pime ja üleni must. Puuduvad igasugused visuaalsed detailid, objektid või tegevused. Pildid on täiesti tühjad ja ühevärvilised, ilma nähtava sisuta.",
+      "actions": [
+        "Tegevusi ei ole näha."
+      ],
+      "keywords": [
+        "must",
+        "pime",
+        "tühi",
+        "tühjus",
+        "olematu"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Puuduvad"
+      ],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [
+        "Puuduvad"
+      ],
+      "persons": [
+        "Puuduvad"
+      ],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Pildid on identsed, erinevused puuduvad."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "1.368"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab modernse hoone sissepääsu laia klaasuste ja akendega. Esplanaadil ja astmetel on näha lund, mis viitab talvele. Hoone klaasfassaad peegeldab ümbritsevat keskkonda, sealhulgas puid ja tänavavalgusteid, andes üldpildile sinaka varjundi. Paremal pool ust on kinnitatud silt embleemiga, mis meenutab vapikilpi. Ühes kaadris ilmub uksest välja või siseneb hoonesse inimene, riietatud tumedatesse riietesse, millel on erkroheline või -kollane detail, ning kannab heledat paberkotti.",
+      "actions": [
+        "Hoonest sisenemine või väljumine",
+        "Koti kandmine"
+      ],
+      "keywords": [
+        "Hoone sissepääs",
+        "Klaasuks",
+        "Lumi",
+        "Talv",
+        "Inimene",
+        "Silt",
+        "Peegeldus",
+        "Paberkott",
+        "Konsulaat"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone",
+        "Klaasuks",
+        "Klaasaknad",
+        "Astmed",
+        "Lumi",
+        "Silt",
+        "Embleem",
+        "Puu (peegelduses)",
+        "Tänavavalgusti (peegelduses)",
+        "Paberkott"
+      ],
+      "colorcodes": [
+        "#5587B3",
+        "#7D888D",
+        "#C0D8E8",
+        "#FFFFFF",
+        "#3E4B56",
+        "#7BBF24",
+        "#A5642B",
+        "#B3BFCC"
+      ],
+      "texts": [
+        "WAM (peegelduses, tagurpidi)",
+        "ПОЧЕТНОЕ КОНСУЛЬСТВО РОССИЙСКОЙ ФЕДЕРАЦИИ",
+        "HONORARY CONSULATE OF THE RUSSIAN FEDERATION"
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Teises kaadris on näha inimest sisenemas või hoonest väljumas, kes kannab heledat kotti. Esimeses ja kolmandas kaadris on sissepääs inimtühi."
+      ],
+      "snr": "002",
+      "ajad": [
+        "1.368",
+        "3.904"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab auto interjööri, fookusega armatuurlauale, roolile ja auto raadiole. Vasakul on näha musta värvi rool. Süütes on võti, mille küljes on võtmehoidja. Armatuurlaud on tumedahall või must, tekstuuriga. Raadio kohal on mitu ümmargust nuppu või ava, samuti on näha telefonihoidik või muu kinnitus rooli lähedal. Telefonihoidikust jookseb keritud kaabel raadio suunas. Auto raadio on järelturu seade, hõbedase/musta esipaneeliga, siniselt valgustatud ekraani ja paljude väikeste siniselt valgustatud nuppudega. Ekraanil on näha mingisugust digitaalset informatsiooni, mis vilgub sinise valgusega, viidates, et raadio on sisse lülitatud. Kolmandal pildil on kaadri vasakus alanurgas näha inimese jalg, kes kannab siniseid teksapükse, mis annab märku, et keegi istub juhiistmel. Valgus stseenis on ühtlane, viidates päevasele ajale.",
+      "actions": [
+        "Sõiduki käivitamine või seiskamine",
+        "Muusika kuulamine",
+        "Raadio seadistamine"
+      ],
+      "keywords": [
+        "Autode interjöör",
+        "Armatuurlaud",
+        "Rool",
+        "Võtmed",
+        "Võtmehoidja",
+        "Autoradio",
+        "Juht",
+        "Citroën",
+        "Elektroonika",
+        "Sõiduk"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Rool",
+        "Süütevõti",
+        "Võtmehoidja",
+        "Auto raadio",
+        "Armatuurlaud",
+        "Telefonihoidik",
+        "Keritud kaabel",
+        "Nupud",
+        "Ekraan",
+        "Teksapüksid",
+        "Karabiin"
+      ],
+      "colorcodes": [
+        "#0F0F0F",
+        "#B70F0F",
+        "#F8F8F8",
+        "#33A1FF",
+        "#A0A0A0",
+        "#465F80"
+      ],
+      "texts": [
+        "Citroën logo",
+        "Tekst/numbrid raadio ekraanil"
+      ],
+      "persons": [
+        "Juht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel kahel pildil on võtmehoidja küljes punane Citroëni logo, kolmandal pildil on see asendatud lihtsa hõbedase karabiini stiilis võtmehoidjaga.",
+        "Kolmandal pildil on näha inimese jalg sinistes teksapükstes, mis varasemates kaadrites puudub.",
+        "Auto raadio ekraani sisu tundub kaadrite vahel veidi erinev, kuigi täpne tekst pole ühelgi pildil selgelt loetav.",
+        "Kaamera nurk või suum on kaadrite vahel minimaalselt muutunud, pakkudes veidi erinevat fookust või kadreeringut."
+      ],
+      "snr": "003",
+      "ajad": [
+        "3.904",
+        "5.973"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaates auto interjööri, keskendudes inimese käele, mis toetub manuaalkäigukasti käigukangile. Pildil on näha juhi reit, mis on kaetud tumedate, kulunud teksapükstega. Käsi on heleda nahatooniga ja haarab käigukangi nuppu. Paremal pool on nähtav osa auto armatuurlauast, kuhu on integreeritud autoraadio või meediamängija, mille sinakas ekraan on kergelt valgustatud. Samuti on näha kaks ümmargust õhutusava ja paremalt alla rippuv must keerdkaabel. Vasakul allservas on aimatav osa värvilisest, mustrilisest tekstiilesemest. Valgus on üldiselt pehme ja ühtlane, vihjates päevasele ajale autos.",
+      "actions": [
+        "hoiab käigukangi",
+        "istub autos"
+      ],
+      "keywords": [
+        "auto",
+        "käigukang",
+        "käsi",
+        "teksapüksid",
+        "armatuurlaud",
+        "siseruumides",
+        "sõiduk",
+        "juht",
+        "manuaalkäigukast"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "käsi",
+        "käigukang",
+        "teksapüksid",
+        "autoraadio",
+        "meediamängija",
+        "õhutusavad",
+        "keerdkaabel",
+        "armatuurlaud",
+        "autoiste",
+        "tekstiilese"
+      ],
+      "colorcodes": [
+        "#4F5558",
+        "#A79D90",
+        "#262A2C",
+        "#1F4E6B",
+        "#686D74",
+        "#C6C4C3"
+      ],
+      "texts": [],
+      "persons": [
+        "juht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on näha vaid minimaalseid pikslite nihkeid ja teravuse varieerumist, mis viitab kaadritele videost, ilma olulise liikumise või sisu muutusteta."
+      ],
+      "snr": "004",
+      "ajad": [
+        "5.973",
+        "9.309"
+      ]
+    },
+    {
+      "explanation": "Stseen on jäädvustatud sõiduki seest, vaatega juhi poole ja esiklaasist välja lumisele, tööstuslikule maastikule. Pildil on näha inimene (autojuht), kes istub sõiduki vasakpoolsel istmel ja hoiab oma kätes valget paberit või dokumenti, millele ta ilmselt kirjutab või mida ta loeb. Tema seljas on tume pikkade varrukatega riietus, mille vasakul õlal on aimatav kollakasroheline helkurvest. Sõiduki interjöör on tumedates toonides, näha on armatuurlaud, rooli ülemine osa ja vasakpoolne A-piilar. Esiklaasi alumises osas puhkavad kojamehed. Väljas laiub lai lumine ala, millel on näha mitmeid hooneid ja kõrgeid tööstuslikke struktuure, nagu korstnad või mastid, mis ulatuvad halli taeva poole. Üks hoonetest vasakul on punastest tellistest. Maapind ja teed on paksult lumega kaetud, mis viitab talvisele ilmale. Taamal on näha ka paljaid puid, elektriliine ja tänavavalgusteid. Kauguses on kolmandal pildil eristatav helesinine sõiduk.",
+      "actions": [
+        "Sõidukis viibimine",
+        "Paberi hoidmine",
+        "Lugemine või kirjutamine",
+        "Väliskeskkonna jälgimine (kaudselt)"
+      ],
+      "keywords": [
+        "auto",
+        "juht",
+        "lumi",
+        "talv",
+        "tööstusmaastik",
+        "paber",
+        "dokument",
+        "sõiduk",
+        "hall",
+        "valge",
+        "töö",
+        "sõit",
+        "korstnad",
+        "tehas",
+        "külm",
+        "pilvine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Inimene (autojuht)",
+        "Käed",
+        "Paber/dokument",
+        "Auto armatuurlaud",
+        "Auto rool",
+        "Sõiduki A-piilar",
+        "Esiklaas",
+        "Kojamehed",
+        "Lumevaip",
+        "Hooned (punane tellishoone)",
+        "Tööstuslikud korstnad/mastid",
+        "Teed",
+        "Paljad puud",
+        "Elektriliinid/postid",
+        "Tänavavalgustid",
+        "Võimalik helesinine sõiduk taustal"
+      ],
+      "colorcodes": [
+        "#3D3D3D",
+        "#FFFFFF",
+        "#C8C8C8",
+        "#8F5F5F",
+        "#8C9C7B"
+      ],
+      "texts": [],
+      "persons": [
+        "Autojuht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Inimese käte ja paberilehe asendis on minimaalsed nihked, mis viitavad pisikestele liigutustele.",
+        "Taustal olevate tööstusobjektide ja hoonete suhtelises asendis on märgata väga väikseid nihkeid, mis võivad viidata kergele kaamera või sõiduki liikumisele.",
+        "Kolmandal pildil on kauguses paremal nähtav helesinine sõiduk veidi selgemalt eristatav kui eelnevatel piltidel."
+      ],
+      "snr": "005",
+      "ajad": [
+        "9.309",
+        "10.878"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet auto interjöörist juhiistmelt. Esiosas on näha juhi käed, mis hoiavad musta sportliku disainiga rooli ja pööravad seda. Juht kannab erksat rohelist või laimirohelist jopet või pusat. Roolil on selgelt näha hõbedane Lada logo. Paremal pool roolist on näha ka musta värvi käigukang ja armatuurlaua osa, millel on mõned punased tuled ja näidikud. Autoaknast avaneb vaade väljapoole, kus on näha lumine tänav teiste autodega, mis viitab talvisele aastaajale. Üks kaugemal paistev auto on tume sedaan. Taustal on ka näha puid ja hooneid, mis on kaetud lumega või on talviselt hallid. Ülal paremal paistab ka sinine ümmargune liiklusmärk. Valgus on ere, mis viitab päevasele ajale.",
+      "actions": [
+        "Rooli pööramine",
+        "Auto juhtimine",
+        "Käte asetamine roolile"
+      ],
+      "keywords": [
+        "Auto",
+        "Sõit",
+        "Rool",
+        "Juht",
+        "Talv",
+        "Lumine",
+        "Interjöör",
+        "Lada",
+        "Sõiduk",
+        "Liiklus",
+        "Päevaaeg"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Rool",
+        "Käed",
+        "Jope",
+        "Auto",
+        "Armatuurlaud",
+        "Käigukang",
+        "Aken",
+        "Tänav",
+        "Lumekate",
+        "Teised autod",
+        "Puud",
+        "Hooned",
+        "Lada logo",
+        "Liiklusmärk"
+      ],
+      "colorcodes": [
+        "#8FC62A",
+        "#2D2F2E",
+        "#E2E2E2",
+        "#714749",
+        "#404543",
+        "#BFBFBF",
+        "#1B1C1D"
+      ],
+      "texts": [
+        "Lada logo"
+      ],
+      "persons": [
+        "Juht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on juhi käed tugevalt udused liikumise tõttu, mis annab edasi rooli aktiivset ja kiiret keeramist.",
+        "Teisel pildil on käed endiselt liikumises, kuid vähem udused kui esimesel pildil ning näha on käe liikumine roolil ülespoole. Rooli asend on veidi muutunud.",
+        "Kolmandal pildil on juhi käed selgelt ja teravalt fookuses, hoides rooli kindlas asendis ning Lada logo on hästi nähtav. Liikumisudu on minimaalne, mis viitab hetkelisele peatumisele või aeglasemale liigutusele võrreldes esimese pildiga. Rooli asend ja käte paigutus on muutunud võrreldes eelmiste kaadritega."
+      ],
+      "snr": "006",
+      "ajad": [
+        "10.878",
+        "11.912"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist linnatänavat, mis on filmitud liikuva sõiduki esiklaasist. Tee on kaetud sulava lume või lörtsiga, jättes asfaldi hallikaspruuniks ja veidi märjaks, millel on näha rehvijälgi. Mõlemal pool tänavat ääristavad hooned, vasakul pool on pikad, mitmekorruselised korterelamud, mis varieeruvad helehallist kuni tumeda hallikasmustani ja millel on palju aknaid. Paremal pool tänavat kulgeb puuderivi, mille paljastel okstel on õhuke lumekiht, puude taga on samuti näha hooneid. Lumi katab teeäärsed kõnniteed ja haljasalad. Päike paistab madalalt, valgustades stseeni tänavat pidi kaugusest, mis viitab hommikusele või hilisõhtusele ajale. Kaugemal tänaval on näha teisi sõidukeid. Paremal pool teed, puude vahel, on näha sinine ümmargune liiklusmärk valgete nooltega ning selle all väiksem punase äärega valge tahvel numbriga '11'. Sõidusuunas liigub ees hõbedane sedaan.",
+      "actions": [
+        "Sõiduk liigub mööda tänavat",
+        "Sõidukitest möödumine",
+        "Päike paistab"
+      ],
+      "keywords": [
+        "Linnatänav",
+        "Talv",
+        "Lumi",
+        "Hooned",
+        "Puud",
+        "Sõiduk",
+        "Hommik",
+        "Päev",
+        "Linnavaade",
+        "Tänavavaade",
+        "Liiklus",
+        "Jäine tee"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Tänav",
+        "Hooned",
+        "Aknad",
+        "Puud",
+        "Lumi",
+        "Sõidutee",
+        "Sõidukid",
+        "Hõbedane sedaan",
+        "Tuuleklaasipuhastid",
+        "Liiklusmärk",
+        "Päike",
+        "Taevas",
+        "Rehvijäljed"
+      ],
+      "colorcodes": [
+        "#6A685B",
+        "#D5DCDA",
+        "#B2C5D0",
+        "#899295",
+        "#4A4A4A",
+        "#0D357F",
+        "#A2A4A4"
+      ],
+      "texts": [
+        "11"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Sõiduk liigub stseenis edasi.",
+        "Hõbedane sedaan ilmub pildile kolmandas kaadris.",
+        "Liiklusmärk paremal muutub kaadrite jooksul selgemaks.",
+        "Vaatenurk tänavale ja objektidele muutub kergelt liikumise tõttu."
+      ],
+      "snr": "007",
+      "ajad": [
+        "11.912",
+        "13.947"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaadet auto salongist, keskendudes juhi jalgadele, kätele ja armatuurlauale. Pildil on näha inimene, kes istub juhiistmel, seljas hall pikkade varrukatega särk, mille varrukal on erkroheline triip, ja hallid teksapüksid. Üle rinna on kinnitatud erkroheline turvavöö. Käsi on haaramas või liigutamas käigukangi, mis asub keskkonsooli alumises osas. Armatuurlaud on tumehalli või halli värvi, sellel on näha auto stereo/raadio (mis kuvab 'MP3' ja numbreid) sinise ekraani ja nuppudega, ning allpool kliimaseadme juhtnupud ja teised lülitid. Süüte lähedal ripuvad võtmed. Paremal all on ümmargune süvend või panipaik, mille ümber on mõned väikesed esemed. Stseen edastab käikude vahetamise tegevust.",
+      "actions": [
+        "Käikude vahetamine",
+        "Sõiduki juhtimine (kaudne)",
+        "Istumine",
+        "Käigukangi haaramine",
+        "Käigukangi liigutamine"
+      ],
+      "keywords": [
+        "Auto",
+        "Salong",
+        "Käigukang",
+        "Juht",
+        "Käikude vahetamine",
+        "Turvavöö",
+        "Armatuurlaud",
+        "Keskne konsool",
+        "MP3 stereo",
+        "Teksapüksid",
+        "Roheline",
+        "Hall",
+        "Võtmed"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Auto",
+        "Käigukang",
+        "Armatuurlaud",
+        "Raadio/stereo",
+        "Nupud",
+        "Kliimaseadme juhtnupud",
+        "Turvavöö",
+        "Teksapüksid",
+        "Pikkade varrukatega särk",
+        "Käsi",
+        "Võtmed",
+        "Ümmargune süvend/panipaik"
+      ],
+      "colorcodes": [
+        "#6E7C7C",
+        "#4B4B4B",
+        "#66FF00",
+        "#0099FF",
+        "#C59D82"
+      ],
+      "texts": [
+        "MP3",
+        "Numbrid (raadio ekraanil)"
+      ],
+      "persons": [
+        "Juht (inimene)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevus seisneb juhi käe asendis ja käigukangi positsioonis, mis näitab käikude vahetamise tegevuse edenemist. Esimesel pildil on käsi käigukangi lähedal, teisel pildil on käsi käigukangi haaramas ja seda liigutamas ning kolmandal pildil on käigukang liikunud uude asendisse."
+      ],
+      "snr": "008",
+      "ajad": [
+        "13.947",
+        "15.015"
+      ]
+    },
+    {
+      "explanation": "Piltidel on kujutatud lähivaade mobiilseadmele või GPS-seadmele, mis on paigaldatud sõiduki armatuurlauale. Seade on tumedat värvi ja selle ekraanil on näha loetamatu, kuid tekstina ilmuv sisu, mille ülaosas on sinine riba, viitades tarkvara kasutajaliidesele. Seade on paigutatud vertikaalselt ning selle küljelt paistab välja must juhe või antenn, mis ulatub ülespoole. Vasakul pool on näha tumedaid sõiduki interjööri osi, võimalik, et istme või konsooli osa. Paremal pool on heledamad armatuurlaua elemendid, sealhulgas ümar nupp punase indikaatortulega. Taust on hele ja üleküljenenud, viidates päevavalgusele väljaspool sõidukit, mis paistab sisse aknast. Stseen jätab mulje sõidukist, mis on kas pargitud või liigub päevasel ajal.",
+      "actions": [],
+      "keywords": [
+        "mobiilseade",
+        "GPS-seade",
+        "sõiduk",
+        "auto",
+        "armatuurlaud",
+        "ekaan",
+        "tekst",
+        "tehnika",
+        "päev",
+        "lähiplaan",
+        "sõiduki sisemus"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "mobiilseade",
+        "GPS-seade",
+        "ekraan",
+        "armatuurlaud",
+        "nupp",
+        "juhe",
+        "antenn",
+        "indikaatortuli",
+        "sõiduki sisemus"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#282828",
+        "#FFFFFF",
+        "#E0E0E0",
+        "#66B2FF",
+        "#FF0000"
+      ],
+      "texts": [
+        "Loetamatu tekst ekraanil"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad visuaalsed erinevused."
+      ],
+      "snr": "009",
+      "ajad": [
+        "15.015",
+        "15.716"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hägust ja salapärast keskkonda, mis sarnaneb veealuse või suitsuse ruumiga, kus domineerivad lugematud väikesed, heledad ja valkjas-hallid osakesed, mis on jaotunud üle tumedama, hallikaspruuni tausta. Pildi vasakul poolel on näha selgelt eristuvat rohelist valgusallikat, mis valgustab lähedalasuvaid osakesi ja annab neile roheka kuma. Paremal pool domineerib intensiivne punane valgusallikas, mis kiirgab laia punast kuma ja valgustab suuremat osa parempoolsest alast, andes osakestele ereda punase värvingu. Osakesed tunduvad olevat kas hõljumas või aeglaselt liikumas, luues dünaamilise ja kaootilise mulje. Visuaalselt meenutab see abstraktset pilti, kus valgus ja osakesed loovad ühtse, kuid hägusa struktuuri. Pildi paremas allnurgas on aimatav tumedam, võrgutaoline struktuur.",
+      "actions": [
+        "osakesed hõljuvad",
+        "valgusallikad kiirgavad"
+      ],
+      "keywords": [
+        "hõljuvad osakesed",
+        "roheline valgus",
+        "punane valgus",
+        "hägune",
+        "müstiline",
+        "vesine",
+        "tolm",
+        "kaos",
+        "sügavus",
+        "abstraktne",
+        "dünaamiline",
+        "valgusefekt"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "roheline valgusallikas",
+        "punane valgusallikas",
+        "hõljuvad osakesed",
+        "võrgutaoline struktuur"
+      ],
+      "colorcodes": [
+        "#E60000",
+        "#00B300",
+        "#7B7B7B",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Väga väikesed ja vaevu märgatavad erinevused osakeste asendis ja jaotuses, mis viitavad lühikesele ajavahemikule kaadrite vahel."
+      ],
+      "snr": "010",
+      "ajad": [
+        "15.716",
+        "16.717"
+      ]
+    },
+    {
+      "explanation": "Piltidel on esitatud jagatud ekraani vaade sõiduki esiklaasilt, sarnanedes armatuurlauakaamera salvestisega. Mõlemad kaadrid kujutavad talvist linnamaastikku lumiste teede, puude ja hoonetega. Vasakpoolne stseen on heleda päevavalgusega, kus päike paistab madalalt või on tegemist pilvise päevaga. Teekate on seal osaliselt sulanud, jättes tee paljaks, samas kui teepervedel ja kõnniteedel on näha lumest kuhjatud valli. Parempoolne stseen on kontrastselt hämar, kujutades õhtust või öist aega, mil linnatuled ja autode esituled valgustavad lumist teed, luues teele iseloomuliku roosakas-violetse kuma. Mõlemal pildil on näha mitmeid autosid liikluses ja pargituna. Esiklaasi alaosas on selgelt eristatavad kojamehed, mis annavad edasi vaatepunkti autost.",
+      "actions": [
+        "sõitmine",
+        "liiklemine",
+        "vaatlemine"
+      ],
+      "keywords": [
+        "talv",
+        "lumi",
+        "tee",
+        "auto",
+        "liiklus",
+        "linn",
+        "armatuurlauakaamera",
+        "päev",
+        "õhtu",
+        "külm",
+        "sõiduk",
+        "linnamaastik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "auto",
+        "lumi",
+        "tee",
+        "puu",
+        "maja",
+        "tänavavalgusti",
+        "liiklusmärk",
+        "esiklaas",
+        "kojamees",
+        "hoone"
+      ],
+      "colorcodes": [
+        "#D0D0D0",
+        "#8B4513",
+        "#A9A9A9",
+        "#B0C4DE",
+        "#4682B4",
+        "#FFC0CB",
+        "#FFFFFF",
+        "#36454F"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "winter",
+      "daytime": "not clear",
+      "differences": [
+        "Ajahetk: Vasakpoolne pilt kujutab päevast aega, parempoolne pilt aga õhtust või öist aega.",
+        "Valgustus: Vasakpoolsel pildil domineerib loomulik päevavalgus, parempoolsel pildil kunstlik valgustus (tänavavalgustid, autotuled).",
+        "Teekate: Vasakpoolne tee on suures osas lumest puhas, lumevallid on teepervedel; parempoolne tee on lumine/lögane ja autotuledest roosaka kumaga.",
+        "Liiklustihedus: Parempoolsel pildil on näha tihedam liiklus, samuti on tee paremal pool näha mitmerealine.",
+        "Värvipalett: Vasakpoolne pilt on naturaalsem ja tuhmimates toonides, parempoolsel on tugevam kontrast ning üleüldine roosakas-sinine värvigamma."
+      ],
+      "snr": "011",
+      "ajad": [
+        "16.717",
+        "18.719"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist linnatänavat päeval, kus mitu autot on pargitud lume ja lobjakaga kaetud tee ääres. Esiplaanil on helebeež universaalauto, mille tagumine osa on kaetud lume ja poriga ning numbrimärk on osaliselt nähtav. Universaalauto taga on erekollane pakiauto ja selle taga paremal veel üks valge linnamaastur. Tee ääres ja autode ümber on näha sulanud lund ja lobjakat. Taustal paiknevad mitmekorruselised hooned ja paljad puud, mis viitavad talvele. Ühes kaadris ilmub pakiauto tagant nähtavale inimene.",
+      "actions": [
+        "Inimene ilmub ja liigub pakiauto taga."
+      ],
+      "keywords": [
+        "talv",
+        "tänav",
+        "lumi",
+        "autod",
+        "pakiauto",
+        "universaalauto",
+        "maastur",
+        "parkimine",
+        "linnakeskkond",
+        "külm",
+        "päev",
+        "lobjakas"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "auto",
+        "pakiauto",
+        "universaalauto",
+        "linnamaastur",
+        "hooned",
+        "puud",
+        "lumi",
+        "tee",
+        "numbrimärk",
+        "kõnnitee",
+        "rehvid"
+      ],
+      "colorcodes": [
+        "#8C7E6E",
+        "#F0C300",
+        "#FFFFFF",
+        "#5A5A5A",
+        "#3F2F1F",
+        "#D4D4D4",
+        "#C80000"
+      ],
+      "texts": [
+        "821 AGR"
+      ],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil ei ole kollase pakiauto taga inimest näha.",
+        "Teisel pildil hakkab kollase pakiauto taga paremal servas ilmuma inimene, kellel on punaseid elemente sisaldav jope.",
+        "Kolmandal pildil on sama inimene selgemalt näha, pakiauto taga seistes või liikudes."
+      ],
+      "snr": "012",
+      "ajad": [
+        "18.719",
+        "19.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast pimedat öist vaadet, kus domineerib sinine liiklusmärk valge tekstiga. Märk on paigutatud kahe metallposti otsa ning suunab kahes suunas: vasakule Tallinnasse, mis on 7 kilomeetri kaugusel, ja paremale Lagedile, mis on 2 kilomeetri kaugusel. Üldine heledus ja teravus paranevad järjestikku piltide vahel, liikudes väga udusest ja vaevu eristatavast kujutisest täiesti selge ja terava pildini. Ümbritsev keskkond on sügavalt must, viidates öisele ajale või halvale valgustusele, välja arvatud võimalikud hajutatud valgused vaatleja sõidukist pildi alaosas.",
+      "actions": [
+        "Sõiduki juhtimine",
+        "Liiklusmärgi läbimine"
+      ],
+      "keywords": [
+        "öö",
+        "pimedus",
+        "liiklusmärk",
+        "sinine",
+        "valge",
+        "suunaviit",
+        "Tallinn",
+        "Lagedi",
+        "kilomeetrid",
+        "tee",
+        "maantee"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "liiklusmärk",
+        "postid",
+        "nooled",
+        "sõiduk (oletatav)"
+      ],
+      "colorcodes": [
+        "#2E6DA4",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "TALLINN 7",
+        "LAGEDI 2",
+        "<-",
+        "->"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on liiklusmärk väga udune ja selle detailid on peaaegu eristamatud, meenutades pigem sinist ristkülikut mustal taustal.",
+        "Teisel pildil on märk juba märgatavalt selgem ja tekst 'TALLINN 7' on loetav, kuid 'LAGEDI 2' on veel veidi udune ja moonutatud.",
+        "Kolmandal pildil on liiklusmärk täiesti terav, tekst ja nooled on selgelt eristatavad ning pildi üldine kvaliteet ja kontrastsus on oluliselt paranenud võrreldes eelnevate kaadritega."
+      ],
+      "snr": "013",
+      "ajad": [
+        "19.720",
+        "20.687"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet auto armatuurlauale sügavas pimeduses, mis viitab öisele sõidule. Armatuurlaud on valgustatud kollakasoranži valgusega, esitledes selgelt spidomeetrit ja tahhomeetrit. Lisaks on nähtav punane hoiatustuli, tõenäoliselt ohutuli või muu märguanne, mis lisab stseenile teatud pinge. Üldine õhkkond on hämar ja salapärane, rõhutades auto interjööri valgustatud osi pimedas keskkonnas. Pildid on tehtud auto seest, keskendudes juhikoha detailidele.",
+      "actions": [
+        "Sõitmine (kaudselt viidatud auto armatuurlauaga)",
+        "Pildistamine/filmimine (kaameraoperaatori poolt)"
+      ],
+      "keywords": [
+        "Auto",
+        "Armatuurlaud",
+        "Öö",
+        "Sõit",
+        "Tuled",
+        "Hoiatus",
+        "Pimedus",
+        "Spidomeeter",
+        "Tahhomeeter"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Armatuurlaud",
+        "Spidomeeter",
+        "Tahhomeeter",
+        "Hoiatustuli",
+        "Auto sisemus"
+      ],
+      "colorcodes": [
+        "#0c0d12",
+        "#ffcc00",
+        "#ffa500",
+        "#ff0000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on veidi udusem ja tumedam võrreldes järgnevatega.",
+        "Järgmistes piltides muutub armatuurlaua valgustus selgemaks ja detailsemaks, eriti teisel ja kolmandal kaadril."
+      ],
+      "snr": "014",
+      "ajad": [
+        "20.687",
+        "21.388"
+      ]
+    },
+    {
+      "explanation": "Stseen on jäädvustatud õues öisel ajal, esitledes modernset klaasfassaadiga hoonet, mille kohal on selgelt nähtav ja valgustatud kiri \"Swedbank\". Maapind hoone ees on kaetud lume või jääga, mis viitab talvisele perioodile. Kaadrites on näha üks inimene, kes kannab erkrohelist (laimirohelist) jopet ja tumedaid pükse. Esimeses kaadris kõnnib inimene hoone poole, seejärel peatub ja hakkab käsi üles tõstma, kuni kolmandas kaadris on tema käed täielikult õhus. Hoone sees on tuled põlevad ja läbi suurte akende on märgata ka punaseid pinge. Üldine valgustus on öisele ajale omane, kusjuures eredaimad valgusallikad on panga logo ja sisevalgustus.",
+      "actions": [
+        "Kõndimine",
+        "Seismine",
+        "Käte tõstmine",
+        "Žestikuleerimine"
+      ],
+      "keywords": [
+        "Öö",
+        "Talv",
+        "Swedbank",
+        "Pank",
+        "Lumi",
+        "Jää",
+        "Inimene",
+        "Hoon",
+        "Klaasfassaad",
+        "Valgustus",
+        "Laimiroheline jope",
+        "Pime",
+        "Külm"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Swedbanki hoone",
+        "Klaasuksed",
+        "Aknad",
+        "Lumega kaetud maapind",
+        "Inimene",
+        "Laimiroheline jope",
+        "Tumedad püksid",
+        "Punased pingid (hoone sees)",
+        "Valgusreklaam"
+      ],
+      "colorcodes": [
+        "#FFC0CB",
+        "#CCFF00",
+        "#000000",
+        "#808080",
+        "#FFFFFF",
+        "#FF0000"
+      ],
+      "texts": [
+        "Swedbank"
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 10,
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Inimese asend ja kehakeel muutuvad kaadrite vahel.",
+        "Esimeses kaadris inimene kõnnib panga poole, käed külgedel, esineb kerge liikumisudu.",
+        "Teises kaadris on inimene peatunud ja hakkab käsi üles tõstma.",
+        "Kolmandas kaadris on inimene käed täielikult üles tõstnud, seistes paigal."
+      ],
+      "snr": "015",
+      "ajad": [
+        "21.388",
+        "22.689"
+      ]
+    },
+    {
+      "explanation": "Stseen algab täielikult musta kaadriga, mis annab edasi ülemineku või hetkelise tühjuse. Seejärel kuvatakse siseruumides filmitud kaader, kus istub noorem mees heledas soonelises kampsunis, millel on tume graafiline muster ja osaliselt loetav tekst, näiteks 'PANDORA ARE BREAKING' ja 'UNDCRAFTED ORIGINAL'. Tema kampsunile on kinnitatud lavalier-mikrofon. Mees vaatab kergelt paremale ja naeratab tagasihoidlikult, mis viitab intervjuu- või vestlusolukorrale. Taust on udune ja ühtlane hall. Kolmas kaader näitab väljaspool asuvat hoone sissepääsu, millel on suured puidust topeltuksed ja kivist sambad. Hoonel on tahutud kivist seinad ja uksed on kergelt praokil. Maa peal ja hoone servadel on näha lund, mis viitab talvele. Aknal on osaliselt nähtav 'suitsukeeldu' tähistav silt. Kaadri allosas on tekst 'There we get our PDA's with all the delivery info', mis annab konteksti hoone funktsiooni kohta, seostades seda tõenäoliselt eelneva intervjuuga.",
+      "actions": [
+        "intervjuu andmine",
+        "rääkimine",
+        "naeratamine",
+        "sisenemine (implitsiitne)"
+      ],
+      "keywords": [
+        "intervjuu",
+        "hoone",
+        "talv",
+        "sissepääs",
+        "kivi",
+        "puit",
+        "lumi",
+        "subtiitrid",
+        "mees",
+        "kampsun",
+        "mikrofon"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "mees",
+        "kampsun",
+        "mikrofon",
+        "hoone",
+        "kivisein",
+        "puituks",
+        "uksekäepide",
+        "sammas",
+        "lumi",
+        "aken",
+        "silt (suitsukeeld)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#707070",
+        "#FFFFFF",
+        "#A08060",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "PANDORA ARE BREAKING",
+        "UNDCRAFTED ORIGINAL",
+        "There we get our PDA's with all the delivery info"
+      ],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader on täielikult must, samas kui teised kaadrid sisaldavad visuaalset sisu.",
+        "Teine kaader on mustvalge ja kujutab inimest siseruumides, samas kui kolmas kaader on desatureeritud värvidega ja kujutab hoone välisilmet.",
+        "Kaadrite fookus ja teema erinevad oluliselt: must ekraan, intervjueeritav inimene ja hoone sissepääs.",
+        "Kolmandal kaadril on subtiitrid, mis annavad edasi dialoogi, kahel esimesel kaadril teksti puudub."
+      ],
+      "snr": "016",
+      "ajad": [
+        "22.689",
+        "58.825"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõtet personaalsest digitaalsest assistendist (PDA) või sarnasest käsiarvutist, mis on paigutatud sõiduki armatuurlauale, tõenäoliselt kättetoimetamissõidukisse. Seade kuvab ekraanil nimekirja saadetiste infost, sealhulgas ettevõtete nimesid (nt. OU RANNU AS, OU BOROODIN OU, sportland Eesti AS), saadetiste olekuid (vastu võetud, vastu võetud, ära korjatud) ja kellaaegu. Ekraani taust on hele ja tekst tume. Ümberringi on näha sõiduki tumedaid sisustusdetaile, sealhulgas rooli osa vasakul ja armatuurlaua nuppe paremal. Taustal paistab heledalt aknast sisse tulev päevavalgus, mis loob teatud helenduse ja kontrastid. Subtiitrid selgitavad, et seade saab logistikult tarneinfot ja aegu.",
+      "actions": [
+        "Saadetiste info vastuvõtmine",
+        "Logistiku poolt saadetiste aegade edastamine",
+        "Andmete kuvamine PDA ekraanil",
+        "Informatsiooni lugemine (implitsiitne)"
+      ],
+      "keywords": [
+        "PDA",
+        "Kullerteenus",
+        "Logistika",
+        "Tarneinfo",
+        "Sõiduk",
+        "Ekraan",
+        "Töövahend",
+        "Kättetoimetamine",
+        "Andmehaldus"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "PDA seade",
+        "PDA ekraan",
+        "Sõiduki armatuurlaud",
+        "Sõiduki rool (osaliselt)",
+        "Nupud armatuurlaual (paremal)",
+        "Kaablid (võimalikud, PDA küljes)",
+        "Valgus (päevavalgus väljast)"
+      ],
+      "colorcodes": [
+        "#212121",
+        "#FFFFFF",
+        "#000000",
+        "#b52a1a",
+        "#e0e0e0"
+      ],
+      "texts": [
+        "There we get our PDA's with all the delivery info",
+        "The logistician sends us the delivery times",
+        "DELIVERED",
+        "Picked up",
+        "ACCEPTED",
+        "OU RANNU AS, PÕLTSAMAA",
+        "OU BOROODIN OU",
+        "JOOSPERE OHS OU",
+        "AS BOROODIN OU",
+        "OU BOROODIN TEENINDUS",
+        "Ekspresshhoovi AS / Jõelähtme",
+        "sportland Eesti AS / Jõelähtme",
+        "11:00",
+        "11:30",
+        "11:19",
+        "17:21",
+        "17:00"
+      ],
+      "persons": [
+        "Kuller (implitsiitne)",
+        "Logistik (implitsiitne)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on subtiiter \"There we get our PDA's with all the delivery info\".",
+        "Teisel pildil on subtiiter \"The logistician sends us the delivery times\".",
+        "Kolmandal pildil puudub subtiiter.",
+        "Visuaalne sisu (PDA ekraani info ja ümbritsev keskkond) on kõigil piltidel praktiliselt identne, mis viitab järjestikustele kaadritele videost."
+      ],
+      "snr": "017",
+      "ajad": [
+        "58.825",
+        "63.096"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset auto interjööris, mis on filmitud juhi vaatenurgast. Kaader keskendub roolile, armatuurlauale ja keskkonsoolile. Valdavad on tumedad hallid ja mustad toonid. Süütelukus on auto võtmed, millel ripub silmapaistev punase ja hõbedase Citroëni logoga võtmehoidja. Keskkonsoolis on sisseehitatud moodsate nuppudega autoraadio, mille sinine digitaalne ekraan näitab sõna 'REMOTE' ja numbrilisi väärtusi. Armatuurlaual, raadio kohal, on näha keerduv must juhe, mis viitab sealt paigaldatud seadmele, näiteks telefoni- või navigatsioonihoidjale. Armatuurlaual on mitu ümarat nuppu. Pildi vasakus servas on näha inimese käsi ja õlg, mis viitab juhi kohal viibivale isikule. Üldmulje annab edasi rutiinse ja perhaps igapäevase tegevuse auto sees.",
+      "actions": [
+        "Autos istumine",
+        "Autos viibimine",
+        "Pakikeste autosse viskamine (teksti põhjal järeldatav)"
+      ],
+      "keywords": [
+        "Auto interjöör",
+        "Armatuurlaud",
+        "Rool",
+        "Autoraadio",
+        "Võtmed",
+        "Võtmehoidja",
+        "Citroën",
+        "Juhtmed",
+        "Igapäevatöö",
+        "Kuller (järeldatav)",
+        "Pakendid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Rool",
+        "Armatuurlaud",
+        "Autoraadio",
+        "Autovõtmed",
+        "Võtmehoidja (Citroëni logoga)",
+        "Juhtmed",
+        "Telefonihoidja/Navigatsioonihoidja",
+        "Nupud armatuurlaual",
+        "Autoiste (osaliselt nähtav/järeldatav)",
+        "Püksisäär"
+      ],
+      "colorcodes": [
+        "#303330",
+        "#1C61B2",
+        "#CF252D",
+        "#D1D1D1",
+        "#6B7A72",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "We see whose the sender and reciever",
+        "We take the packages throw them in the car",
+        "The simplest job in the world"
+      ],
+      "persons": [
+        "Autojuht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub iga kaadri vahel.",
+        "Inimese käe ja õla asend muutub veidi kaadrite vahel."
+      ],
+      "snr": "018",
+      "ajad": [
+        "63.096",
+        "70.504"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab auto sisemust, kus esiplaanil on näha inimese profiili, tõenäoliselt juhi või kaasreisija kohal. Inimese nägu ja ülakeha on tugevalt varjus, moodustades silueti vastu erevalget ja sooja päikesega täidetud tausta. Auto aknast paistab sisse madalalt loojuv või tõusev päike, luues intensiivse läätsehelgi ja kuldse kuma. Väljaspool autot on näha paljaid puid ja tõenäoliselt teed, mis viitab hilisele sügisele või talvele. Üldine meeleolu on soe, sume ja rahulik, rõhutades päikesevalguse ja varjude kontrasti. Inimene on passiivses asendis, vaadates tõenäoliselt aknast välja või ettepoole.",
+      "actions": [
+        "Istumine autos",
+        "Vaatamine läbi autoakna"
+      ],
+      "keywords": [
+        "Auto",
+        "Inimene",
+        "Profiil",
+        "Siluett",
+        "Päikesetõus",
+        "Päikeseloojang",
+        "Läätsehelk",
+        "Aken",
+        "Valgus",
+        "Vari",
+        "Sõit",
+        "Talv",
+        "Sume",
+        "Rahu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Auto sisu",
+        "Inimene",
+        "Autoaken",
+        "Päike",
+        "Puud",
+        "Tee"
+      ],
+      "colorcodes": [
+        "#FFD700",
+        "#FFA500",
+        "#2F2F2F",
+        "#000000",
+        "#ADD8E6",
+        "#8B4513",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "The simplest job in the world"
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "morning",
+      "differences": [
+        "Esimesel pildil on all vasakus nurgas valge tekst 'The simplest job in the world', mis puudub teisel ja kolmandal pildil.",
+        "Piltide vahel on kergeid variatsioone päikese läätsehelgi intensiivsuses ja asukohas, samuti üldises valgustuses ja värvitoonides, kuid need on minimaalsed."
+      ],
+      "snr": "019",
+      "ajad": [
+        "70.504",
+        "74.241"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hoone sissepääsu talvisel ajal, tõenäoliselt õhtul või öösel. Hoone alus on kaetud tumeda, tekstuurse materjaliga, mille peal on heledamast kivist või betoonist ääris. Hoone ülemine osa on heledates toonides, meenutades helehalli või beeži plokkseina. Paremal pool asub uks, mille kaudu toimub sisenemine või väljumine. Alguses on uks pisut paokil, paljastades hoone sisemuse sooja valguse. Seejärel avaneb uks laiemalt ja sellesse siseneb või sealt väljub inimene, kandes heledat (rohelist) jopet ja tumedaid pükse. Pärast inimese liikumist suletakse uks täielikult. Maapind ukse ees on kaetud lumega, mis viitab talvisele aastaajale. Uksepiit ja uks ise on heledama, kollakas-pruunika tooniga ning uksel on nähtav metallist ukselink. Hoone parempoolsel seinal ukse kõrval on näha ka paar tumedamat tahvlit või plaati.",
+      "actions": [
+        "Ukse avamine",
+        "Hoonesse sisenemine/väljumine",
+        "Ukse sulgemine"
+      ],
+      "keywords": [
+        "talv",
+        "hoone",
+        "uks",
+        "inimene",
+        "lumi",
+        "öö",
+        "sissepääs",
+        "fassaad"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "hoone",
+        "uks",
+        "ukselink",
+        "lumine maa",
+        "sein",
+        "ääris",
+        "tahvlid/plaadid seinal",
+        "jalajäljed lumes"
+      ],
+      "colorcodes": [
+        "#A8A8A8",
+        "#5F4C44",
+        "#DCDCDC",
+        "#86B65D",
+        "#3A3A3A",
+        "#A4A08E"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on uks pisut paokil ja hoone sisemuselt kumab valgust, inimest pole näha.",
+        "Teisel pildil on uks laiemalt avatud ja inimene, seljas roheline jope, astub uksest sisse või välja.",
+        "Kolmandal pildil on uks täielikult suletud ja inimene on kadunud."
+      ],
+      "snr": "020",
+      "ajad": [
+        "74.241",
+        "81.648"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort meest, tõenäoliselt kullerit, kes teeb tööd rohelises kaubikus. Esimene kaader on lähivõte mehe profiilist, kus ta vaatab aknast välja, ilme on mõtlik või väsinud. Aknast paistab hägune ja vihmane või udune ilm. Järgmistes kaadrites on näha meest aktiivselt toimetamas kaubiku sees. Ta on riietatud rohelisesse pika varrukaga tööriietusse, millel on helkurribad. Ühes kaadris kummardub ta üle valge paki, ilmselt tõstes või paigutades seda. Kaubiku küljel on näha roheline korporatiivvärv koos tekstiga \"Finding New Ways\". Ühele kaadrile on lisatud ka narratiivne tekst: \"You don't know anything about how things work\", mis annab stseenile sügavama, ehk tööraskusi või arusaamatust peegeldava mõõtme. Kolmandas kaadris on mees sirgemas asendis, ukse juures, ja kaubiku sisemuses on näha sinine kast kirjaga \"Kalex\". Üldine atmosfäär on töine, ehk veidi melanhoolne, rõhutades rutiini ja võimalikku väsimust halva ilmaga töö tegemisel.",
+      "actions": [
+        "välja vaatamine",
+        "mõtisklemine",
+        "paki tõstmine",
+        "paki paigutamine",
+        "kummardamine",
+        "kaubikus liikumine",
+        "ukse käepidemest kinni hoidmine"
+      ],
+      "keywords": [
+        "kuller",
+        "pakivedu",
+        "kaubik",
+        "töö",
+        "mõtisklus",
+        "vihmane ilm",
+        "rutiin",
+        "tarne"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "kaubik",
+        "mees",
+        "pakk",
+        "aken",
+        "uks",
+        "ukse käepide",
+        "riided",
+        "sinine kast"
+      ],
+      "colorcodes": [
+        "#3C9E4B",
+        "#FFFFFF",
+        "#000000",
+        "#2196F3",
+        "#A8C3C8"
+      ],
+      "texts": [
+        "Finding New Ways",
+        "You don't know anything about how things work",
+        "Kalex"
+      ],
+      "persons": [
+        "noor mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaadrite lõiked ja vaatenurgad on erinevad: esimene on lähivõte mehe näost, teised on keskmised võtted, mis näitavad meest ja kaubiku sisu laiemalt.",
+        "Mehe tegevused varieeruvad: esimeses kaadris vaatab ta mõtlikult aknast välja, teistes aga tõstab ja paigutab pakke.",
+        "Teisel kaadril on pildile lisatud informatiivne tekst \"You don't know anything about how things work\", mida teistel kaadritel ei ole.",
+        "Kolmandas kaadris on kaubiku sisemuses selgelt näha sinine kast kirjaga \"Kalex\", mis varasemates kaadrites kas puudub või on häguselt varjus."
+      ],
+      "snr": "021",
+      "ajad": [
+        "81.648",
+        "100.734"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort meest talvisel öisel tänaval. Ta kannab rohelist ja musta värvi jopet, mille seljal on kiri \"Bring\". Tänav ja teeääred on kaetud paksu lumega, andes edasi külma ja pimeda talveõhtu meeleolu. Esimesel pildil vaatab mees keskendunult oma mobiiltelefoni, hoides seda kahe käega. Teistel piltidel on ta telefoni kõrva ääres hoidmas ja kellegagi rääkimas, vaadates ettepoole. Ta asub kõnnitee ääres, mille kõrval on lumine sõidutee. Taustal on näha hooneid, parkivaid ja liikuvaid autosid, mille esituled valgustavad pimedust, ning lund täis puid. Tänavavalgustus on sisse lülitatud, luues üldiselt hämarat, kuid valgustatud keskkonda. Kaadrites on ka ingliskeelne tekst, mis viitab teadmiste ja kiiruse omandamisele ajas ning asukohtade meeldejätmisele.",
+      "actions": [
+        "Vaatab mobiiltelefoni",
+        "Räägib mobiiltelefoniga",
+        "Hoiab telefoni käes",
+        "Kõnnib või seisab tänaval"
+      ],
+      "keywords": [
+        "Talvine tänav",
+        "Öö",
+        "Lumi",
+        "Kohaletoimetaja",
+        "Mobiiltelefon",
+        "Roheline jope",
+        "Külm",
+        "Linnakeskkond",
+        "Kogemus",
+        "Navigeerimine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Noormees",
+        "Mobiiltelefon",
+        "Roheline-must jope",
+        "Lumi",
+        "Tänav",
+        "Kõnnitee",
+        "Puud",
+        "Hooneid",
+        "Autod",
+        "Tänavavalgustus"
+      ],
+      "colorcodes": [
+        "#5EAE2B",
+        "#1A1A1A",
+        "#F0F0F0",
+        "#1C273C",
+        "#FFA500"
+      ],
+      "texts": [
+        "Knowledge comes over time",
+        "How to get from one place to another fast comes also over time",
+        "You just start remembering where things are",
+        "Bring"
+      ],
+      "persons": [
+        "Noormees (kuller)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil vaatab noormees oma mobiiltelefoni allapoole suunatud pilguga, hoides seda kahe käega. Teisel ja kolmandal pildil räägib ta telefoniga, hoides seda ühe käega kõrva ääres ja vaadates ettepoole.",
+        "Kaadrites ilmuvad erinevad ingliskeelsed subtiitrid, mis järgivad narratiivi teadmiste ja koha meeldejätmise kohta. Need on vastavalt: \"Knowledge comes over time\", \"How to get from one place to another fast comes also over time\" ja \"You just start remembering where things are\".",
+        "Mehe asend ja näoilme muutuvad kergelt kaadrite vahel vastavalt tema tegevusele telefoniga."
+      ],
+      "snr": "022",
+      "ajad": [
+        "100.734",
+        "108.909"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet auto tuuleklaasist talvisel päeval, kusjuures ilm on pilves ja teed on kas lumised või lörtsised. Sõiduk liigub linna- või tööstuspiirkonnas, kus on näha mitmeid hooneid, sealhulgas suuri ehitisi, millest mõned on ilmselt ehitusjärgus, nagu näitavad kraanad. Teel on teised autod ja kaubikud, mis viitavad aktiivsele liiklusele. Maastik on kaetud lumega teepervedel ja osaliselt ka teedel, lisaks on näha paljaste okstega puid. Tuuleklaas on veega või lörtsiga kaetud, mis viitab sademetele või märgadele teeoludele. Auto armatuurlaual on näha pabereid ja dokumente.",
+      "actions": [
+        "Autoga sõitmine",
+        "Liiklemine teel",
+        "Pühkimine (impliseeritud tuuleklaasi märja oleku tõttu)"
+      ],
+      "keywords": [
+        "Talv",
+        "Sõit",
+        "Liiklus",
+        "Lumi",
+        "Lörts",
+        "Tee",
+        "Linnamaastik",
+        "Sõidukid",
+        "Tuuleklaas",
+        "Ehitus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Auto (vaatepunkti oma)",
+        "Tuuleklaas",
+        "Armatuurlaud",
+        "Paberid/dokumendid",
+        "Sõiduautod",
+        "Kaubikud",
+        "Rekka",
+        "Hoone",
+        "Ehituskraanad",
+        "Tänavavalgustuspostid",
+        "Lumi",
+        "Puu",
+        "Raudtee taristu",
+        "Valgusfoor"
+      ],
+      "colorcodes": [
+        "#8c9096",
+        "#e0e5ea",
+        "#333333",
+        "#ff0000",
+        "#a07a50",
+        "#7b7e82"
+      ],
+      "texts": [
+        "You just start remembering where things are"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on kaameraauto ees suur must sõiduk (rekka/kaubik) ja vasakul all on näha tekst 'You just start remembering where things are'.",
+        "Teisel pildil on must sõiduk liikunud vasakule rajale, paljastades rohkem eesolevat teed ja kaugemal asuvaid autosid. Tekst puudub.",
+        "Kolmandal pildil on kaameraauto edasi liikunud, autod on nüüd lähemal ja kauguses on näha punast tuld näitav valgusfoor. Suur hoone vasakul on samuti lähemal."
+      ],
+      "snr": "023",
+      "ajad": [
+        "108.909",
+        "117.651"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha noort meest sõiduki, tõenäoliselt kaubiku või veoauto kabiinis, istumas juhikohal või kõrvalistmel. Ta vaatab ettepoole ja veidi paremale, näol on tõsine või mõtisklev ilme. Tal on seljas erkroheline ja tumehall spordilik või tööjope. Sõiduki sisemus on nähtav, sealhulgas hele lagi, tahavaatepeegli ümbrus ja osa esiklaasist. Läbi esiklaasi paistab udune ja hele väliskeskkond, mis viitab päevavalgusele. Stseeni alumises osas ilmuvad valged subtiitrid, mis pakuvad konteksti mehe tegevusele või jutule.",
+      "actions": [
+        "Sõidukis istumine",
+        "Ette vaatamine",
+        "Võimalik rääkimine"
+      ],
+      "keywords": [
+        "Noormees",
+        "Sõiduk",
+        "Kabiin",
+        "Roheline jope",
+        "Transport",
+        "Päevavalgus",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Noormees",
+        "Sõiduki kabiin",
+        "Jope",
+        "Sõiduki lagi",
+        "Esiklaas",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#6DC047",
+        "#404040",
+        "#A0A0A0",
+        "#F0F0F0"
+      ],
+      "texts": [
+        "The length of the transport day depends on how much there is wo."
+      ],
+      "persons": [
+        "Noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0-10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrid ilmuvad järk-järgult kaadrites 2 ja 3, pakkudes üha pikemat tekstirida.",
+        "Mehe suu ja näoilme asend muutub kaadrite vahel veidi."
+      ],
+      "snr": "024",
+      "ajad": [
+        "117.651",
+        "121.488"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist linnakeskkonda päeval, vaadatuna sõitva auto esiaknast. Teed on kaetud lörtsi ja lumega, mis viitab külmale ilmale. Linnatänavatel on näha tihe liiklus, kus sõidavad erinevat tüüpi autod ja kaubikud. Hoonestus varieerub modernsetest klaasfassaadidega hoonetest vanemate, tihedamalt paiknevate majadeni. Mõnel hoonel on näha ärilogosid, näiteks \"GAP\". Tänavate ääres on parkivad autod kaetud lumekihiga ning teeservadel ja kõnniteedel on samuti lumi. Puud on raagus, mis rõhutab talvist aastaaega. Stseenis liigub ka jalakäijaid, ehkki nad on enamasti kauguses või hajameelselt nähtavad. Ühel kaadril on näha auto tagumine osa (Mazda), mille tagatuled põlevad. Ühel pildil on ekraanil nähtav tekstirida. Üldpilt annab edasi argise, külma linnaliikluse meeleolu.",
+      "actions": [
+        "Sõitmine",
+        "Kõndimine"
+      ],
+      "keywords": [
+        "talv",
+        "linn",
+        "tänav",
+        "liiklus",
+        "lumi",
+        "lörts",
+        "autod",
+        "hooned",
+        "jalakäijad",
+        "päev",
+        "sõit",
+        "linnapilt",
+        "arhitektuur",
+        "raagus puud",
+        "külm ilm"
+      ],
+      "shot_type": "lai",
+      "placement": "väljas",
+      "objects": [
+        "autod",
+        "Mazda auto",
+        "kaubikud",
+        "valge kaubik",
+        "hooned",
+        "tänavavalgustid",
+        "valgusfoorid",
+        "puud",
+        "lumi",
+        "teeservad",
+        "kõnniteed",
+        "tänavasildid",
+        "ärilogod (GAP)"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#808080",
+        "#A0522D",
+        "#000000",
+        "#FF0000",
+        "#008000",
+        "#C0C0C0",
+        "#4682B4"
+      ],
+      "texts": [
+        "Sometimes I end at three other times I end at nine",
+        "GAP"
+      ],
+      "persons": [
+        "Jalakäijad"
+      ],
+      "imagetype": "reaalne",
+      "emptypercent": "ei ole selge",
+      "season": "talv",
+      "daytime": "päev",
+      "differences": [
+        "Piltide vahel muutub vaatenurk ja tänava laiuse iseloom, mis viitab edasisõidule läbi linna.",
+        "Esimesel pildil on fookuses lähemalt eessõitev auto, teisel pildil on laiem vaade tänavale koos tekstiga ja kolmandal kitsam tänav vanema hoonestusega.",
+        "Samuti varieerub hoonete arhitektuur modernsest vanemani.",
+        "Lumekatte detailsus ja paigutus tänavatel on erinev.",
+        "Ekraanile kuvatud tekst on nähtav ainult ühel pildil."
+      ],
+      "snr": "025",
+      "ajad": [
+        "121.488",
+        "130.530"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort meest, kes istub sõiduki, tõenäoliselt kaubiku, kabiinis. Ta kannab rohelist ja halli tööpluusi või jakki. Alguses on kaamera suunatud mehe näole ja ülakehale, kui ta räägib avatud suuga, väljendades tõenäoliselt oma tööga seotud muresid. Järgmistes kaadrites on näha, kuidas mees pöörab pilgu aknast välja paremale, ja kaamera fookus nihkub temalt järk-järgult enam välja aknast avanevale linnavaatele, kus on näha hooneid. Stseen annab edasi mehe kommentaare oma töö kohta, mis on ettearvamatu ja tundub olevat füüsiliselt lihtne, kuid ajaliselt kurnav. Üldine meeleolu on pigem mõtlik ja kerge frustratsiooniga laetud.",
+      "actions": [
+        "Mees räägib",
+        "Mees istub sõidukis",
+        "Mees vaatab aknast välja"
+      ],
+      "keywords": [
+        "Kuller",
+        "Autojuht",
+        "Tööpäev",
+        "Etearvamatus",
+        "Transporditöö",
+        "Vestlus",
+        "Sõiduk",
+        "Kaubik",
+        "Linnakeskkond",
+        "Töötingimused"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Noormees",
+        "Sõiduk (kaubik/furgoonauto)",
+        "Aken",
+        "Uksepiit",
+        "Hooned (väljaspool sõidukit)"
+      ],
+      "colorcodes": [
+        "#349F30",
+        "#595959",
+        "#C8AB8F",
+        "#2E2D2D"
+      ],
+      "texts": [
+        "You never know when your workday ends",
+        "For a job that basically means carrying things from point A to point B"
+      ],
+      "persons": [
+        "Noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaamera fookus nihkub esimeselt pildilt, kus on detailsemalt näha mehe nägu, teisele pildile, kus on näha mehe profiili ja tema vaatamist aknast välja, ning kolmandale pildile, kus inimene on fookusest väljas ja peaosa moodustab vaade sõiduki aknast välja.",
+        "Mehe asend muutub: alguses on ta kaamera poole pööratud, siis pöörab selja kaamerale, et aknast välja vaadata.",
+        "Erinevad subtiitrid annavad edasi mehe jutu jätku."
+      ],
+      "snr": "026",
+      "ajad": [
+        "130.530",
+        "137.504"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest auto roolis öisel ajal, tõenäoliselt talvel, kuna esiklaasil on näha sademeid, mis sarnanevad lumesajule või lörtsile. Mees on suunatud veidi paremale, võimalik, et räägib või kuulab. Vaade on filmitud auto seestpoolt, fookusega juhile ja osale esiklaasist, pakkudes kaadrit mehe ülakehast ja peast. Läbi esiklaasi paistavad uduselt linna tuled ja hoonete kontuurid, mis viitavad linnakeskkonnale. Ekraanil on näha valgeid subtiitreid tumedal läbipaistval taustal, mis selgitavad tema töö iseloomu ja võimalikku sissetulekut kroonides. Stseeni üldine meeleolu on tume ja introspektiivne, roosade, lillade ja sinakate valgustoonidega, mis on iseloomulikud öistele linna stseenidele.",
+      "actions": [
+        "Autoga sõitmine",
+        "Rääkimine/Kuulamine",
+        "Asjade transportimine (teksti põhjal)"
+      ],
+      "keywords": [
+        "Autojuht",
+        "Öine sõit",
+        "Linn",
+        "Talv",
+        "Subtiitrid",
+        "Töö",
+        "Transport",
+        "Raha",
+        "Sissetulek",
+        "Kuller"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Auto",
+        "Esiklaas",
+        "Rool (osaliselt)",
+        "Subtiitrid",
+        "Tänavavalgustus/hooned (uduselt taustal)",
+        "Sademed (esiklaasil)"
+      ],
+      "colorcodes": [
+        "#272B28",
+        "#825049",
+        "#C6689C",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "For a job that basically means carrying things from point A to point B",
+        "There have been deliveries",
+        "when a transporter earns 60 000 kroons"
+      ],
+      "persons": [
+        "Mees (autojuht)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Subtiitrite tekst muutub piltide vahel, pakkudes edasi narratiivi.",
+        "Mehe näoilme ja suu asend on veidi erinevates kaadrites, vihjates liikumisele ja rääkimisele/reageerimisele.",
+        "Taustal olevad udused tuled ja hoonete kontuurid on veidi erinevate nurkade alt pildistatud, mis viitab auto liikumisele."
+      ],
+      "snr": "027",
+      "ajad": [
+        "137.504",
+        "145.545"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab vaadet autost läbi esiklaasi talvisele linnatänavale. Ilm on pilves ja lund on sadanud või sajab. Tee on kaetud lume ja lobjakaga, mistõttu sõidutingimused on talvised. Tänava ääres seisavad hooned, mille fassaadid on peamiselt hallides ja tumedates toonides. Paljad puud ääristavad teed, andes edasi külma ja talvise meeleolu. Tänaval on näha mitmeid teisi autosid, mõned pargitud tänava äärde ja teised eemal liikumas. Vaade liigub mööda tänavat, avades erinevaid nurki ja detaile ümbruskonnast.",
+      "actions": [
+        "Auto sõidab mööda lumist teed",
+        "Lumi sajab või on äsja sadanud"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Tänav",
+        "Sõit",
+        "Autojuhtimine",
+        "Linnakeskkond",
+        "Pakkveod",
+        "Kojamehed",
+        "Pilvine ilm"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Auto esiklaas",
+        "Kojamehed",
+        "Armatuurlaud",
+        "Lumine tee",
+        "Hooned",
+        "Paljad puud",
+        "Pargitud autod",
+        "Teised sõidukid",
+        "Tänavapostid",
+        "Lumi",
+        "Lobjakas"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#C0C0C0",
+        "#808080",
+        "#404040",
+        "#000000",
+        "#604020"
+      ],
+      "texts": [
+        "Those are very special deliveries",
+        "Where the transporters get paid per package"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Tekst kaadrite all muutub esimese kahe kaadri \"Those are very special deliveries\"-st kolmanda kaadri \"Where the transporters get paid per package\"-ks.",
+        "Stseeni vaade liigub edasi mööda tänavat, näidates erinevaid tänavaosi, hooneid ja pargitud autosid.",
+        "Lume ja lobjaka hulk teel ja selle ümbruses varieerub veidi kaadrite vahel, peegeldades liikumist või ilmastikuolude muutumist."
+      ],
+      "snr": "028",
+      "ajad": [
+        "145.545",
+        "151.084"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet auto esiklaasist lumisel linna- või asula tänaval. Sõiduk liigub edasi mööda teed, mille servadel ja osaliselt ka sõiduteel on lumi. Tänav on ääristatud hoonetega ning sellel on pargitud ja liikuvad autod. Valgusolud muutuvad piltide vahel märgatavalt, algsest hallist päevavalgusest pimedaks õhtu- või ööajaks, kus tänavavalgustus, autode esi- ja tagatuled valgustavad keskkonda. Esiklaasil on näha kojamehed ja armatuurlaua ülemine osa. Ühel pool teed on näha suur kollane prügikonteiner. Õhus on näha sademeid, mis pimedas peegeldavad tänavatulesid.",
+      "actions": [
+        "Sõitmine autoga",
+        "Pakiveo teostamine (kaudselt tekstist)"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Auto",
+        "Sõitmine",
+        "Tänav",
+        "Linn",
+        "Transport",
+        "Pimenev",
+        "Õhtu",
+        "Öö",
+        "Sajab lund"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Auto esiklaas",
+        "Kojamehed",
+        "Armatuurlaud",
+        "Sõidutee",
+        "Lumi",
+        "Pargitud autod",
+        "Liikuvad autod",
+        "Esituled",
+        "Tagatuled",
+        "Hooned",
+        "Tänavavalgustid",
+        "Prügikonteiner"
+      ],
+      "colorcodes": [
+        "#D0D0D0",
+        "#303050",
+        "#FFA500",
+        "#FF0000",
+        "#3A3A3A",
+        "#606060"
+      ],
+      "texts": [
+        "Where the transporters get paid per package",
+        "You have to take everything you can from the job"
+      ],
+      "persons": [
+        "Autojuht",
+        "Transporditöötajad (tekstis viidatud)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "päevast õhtuni",
+      "differences": [
+        "Esimene pilt on valgem, kujutades halli päeva või varajast õhtut, samas kui teine ja kolmas pilt on pimedad, kujutades õhtut või ööd tehisvalgustuse keskel.",
+        "Valgustus muutub oluliselt: esimesel pildil on peamiselt loomulik hajutatud valgus, järgnevatel piltidel domineerib tänavavalgustus ja autode tuled.",
+        "Esimesel pildil on tekst \"Where the transporters get paid per package\", teisel pildil teksti pole ja kolmandal pildil on tekst \"You have to take everything you can from the job\".",
+        "Teisel ja kolmandal pildil on näha õhus helendavaid sademeid (tõenäoliselt lund või lörtsi), mis peegeldavad valgust, samas kui esimesel pildil on ilm selgem, kuigi lumine."
+      ],
+      "snr": "029",
+      "ajad": [
+        "151.084",
+        "160.293"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest, tõenäoliselt kaubiku või sarnase sõiduki juhti, istumas kabiinis. Kaamera on paigutatud madalale, tõenäoliselt armatuurlauale, vaadates üles juhi poole. Mees kannab rohelist jopet ning tema näoilme on pinges või keskendunud. Esimesel ja kolmandal kaadril on näha tema käed roolil või käigukangi läheduses, teises kaadris on käed madalamal. Sõiduki aknast paistab linnamaastik hoonete ja halli taevaga, mis viitab pilvisele päevale. Ekraanil on ingliskeelsed subtiitrid, mis viitavad tööga seotud mõtetele või juhistele. Üldine õhkkond on töine ja intensiivne.",
+      "actions": [
+        "Sõiduki juhtimine",
+        "Rääkimine (implitsiitselt subtiitrite kaudu)",
+        "Kätega roolil hoidmine",
+        "Kätega žestikuleerimine või liigutamine"
+      ],
+      "keywords": [
+        "Kaubikujuht",
+        "Töötaja",
+        "Sõiduk",
+        "Kabiin",
+        "Rool",
+        "Tööpinge",
+        "Tarne",
+        "Subtiitrid",
+        "Linnakeskkond"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Rool",
+        "Sõiduki sisemus",
+        "Roheline jope",
+        "Sõiduki aken",
+        "Hooned",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#3D7C3F",
+        "#C19A6B",
+        "#2F2F2F",
+        "#A0A0A0",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "You have to take everything you can from the job",
+        "Deliver as many packages as possible"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite olemasolu ja sisu erinevates kaadrites.",
+        "Mehe käte asend roolil ja kabiinis varieerub kaadrite vahel, samuti tema kehahoiak ja näoilme.",
+        "Erinevad hetked tegevusest (nt. esimene kaader võib kujutada käigukangi lülitamist, kolmas rooli hoidmist)."
+      ],
+      "snr": "030",
+      "ajad": [
+        "160.293",
+        "165.032"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pakikullerit oma igapäevatööd tegemas, pakkidesid kohale toimetades talvises linnakeskkonnas. Vaade on esmalt pakiauto esiklaasist välja, näidates lumist teed ja tänavat halli taeva all. Esiklaasi alaosas on näha auto armatuurlaud ja valge dokument. Üldpilt annab edasi külma ja pilvist ilma, kus lumi katab maad ja kaugemal paistavad hooned ning tänavavalgustuspostid. Seejärel fookus nihkub auto sisemusse, kus noor mees, pakikuller, istub rooli taga. Ta kannab kollakasrohelist (lime rohelist) jopet ja tegeleb tööga seotud toimingutega. Ühes hetkes naeratab ta, hoides käes musta elektroonilist seadet, mis ilmselt on pakikannete skanner või terminal. Teises hetkes räägib ta samasse seadmesse, mis toimib ka telefonina, žestikuleerides parema käega. Kullerist endast vasakul on näha autoaken, millest paistab väljas asuv hoone. Stseen annab edasi pakivedamise töö dünaamikat ja väljakutseid talvises keskkonnas.",
+      "actions": [
+        "Sõiduki juhtimine (kaudselt)",
+        "Pakikannete seadme käsitsemine",
+        "Telefoniga rääkimine",
+        "Naeratamine",
+        "Žestikuleerimine",
+        "Pakkide kohaletoimetamine (üldine eesmärk)"
+      ],
+      "keywords": [
+        "Pakikuller",
+        "Pakiveoauto",
+        "Talv",
+        "Lumi",
+        "Töö",
+        "Kohaletoimetamine",
+        "Seade",
+        "Telefonikõne",
+        "Sõit",
+        "Teenindus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Pakiauto",
+        "Rool",
+        "Armatuurlaud",
+        "Esiklaas",
+        "Lumi",
+        "Tänav",
+        "Puud",
+        "Majad",
+        "Tänavavalgustuspostid",
+        "Dokument",
+        "Pakikannete seade (skanner/pihuterminal)",
+        "Telefon",
+        "Kollakasroheline jope"
+      ],
+      "colorcodes": [
+        "#9ACD32",
+        "#808080",
+        "#F0F0F0",
+        "#303030",
+        "#D3D3D3"
+      ],
+      "texts": [
+        "Deliver as many packages as possible"
+      ],
+      "persons": [
+        "Pakikuller (mees)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader näitab vaadet auto esiklaasist välja lumisele teele ja tänavale, kusjuures kullerit ennast pole näha ning kuvatud on tekst 'Deliver as many packages as possible'.",
+        "Teine ja kolmas kaader on filmitud auto seest ning keskenduvad kullerile, kes tegeleb pakikannete seadme ja telefoniga.",
+        "Kulleri ilme muutub naeratavast (teine kaader) tõsisemaks ja žestikuleerivaks telefonikõne ajal (kolmas kaader).",
+        "Samuti on erinev taust läbi autoakna: avatud tee esimeses kaadris ning hoone teises ja kolmandas."
+      ],
+      "snr": "031",
+      "ajad": [
+        "165.032",
+        "197.664"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaadet auto armatuurlauale, keskendudes spidomeetrile ja selle kõrval asuvale digitaalsele näidikule. Spidomeetri osuti näitab kiirust umbes 120 km/h, viidates sõiduki kiirele liikumisele. Digitaalsel ekraanil kuvatakse punaste numbritega väärtus, mis sarnaneb odomeetri näidule ja muutub veidi kaadrite vahel (nt 107128 või 107129). Paremal pool on näha osa mobiiltelefoni hoidjast või mõnest muust autosse paigaldatud seadmest. Vasakpoolses servas on aimatav roolisammas või osa auto sisustusest. Teine kaader sisaldab tekstilist subtiitrit, mis teatab liiklusseaduse igapäevasest rikkumisest. Üldine valgustus on hämar, andes stseenile veidi tõsise või alatoonilise meeleolu.",
+      "actions": [
+        "Auto juhtimine",
+        "Kiiruse näitamine",
+        "Odomeetri lugemi kuvamine",
+        "Liiklusseaduse rikkumine (väidetavalt)"
+      ],
+      "keywords": [
+        "Auto",
+        "Armatuurlaud",
+        "Spidomeeter",
+        "Kiirus",
+        "Liiklusseadus",
+        "Liikluseeskirjade rikkumine",
+        "Odomeeter",
+        "Digitaalne ekraan",
+        "Sõiduk",
+        "Sõit",
+        "Lähivõte"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Auto armatuurlaud",
+        "Spidomeeter",
+        "Osuti",
+        "Digitaalne ekraan (odomeeter)",
+        "Telefonihoidja (või sarnane seade)",
+        "Roolisamba osa",
+        "Sõiduki sisustus"
+      ],
+      "colorcodes": [
+        "#3a3a3a",
+        "#6d6d6d",
+        "#ff0000",
+        "#cccccc",
+        "#2f6f2f"
+      ],
+      "texts": [
+        "107128",
+        "107129",
+        "I apologize but I break the traffic law everyday"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil on lisatud subtiiter: \"I apologize but I break the traffic law everyday\".",
+        "Digitaalsel ekraanil näidatud numbriväärtus varieerub kergelt (nt 107128 ja 107129), viidates aja möödumisele või teekonna muutusele.",
+        "Spidomeetri osuti positsioon on kaadrite vahel väga vähesel määral muutuv, kuid püsib umbes 120 km/h juures."
+      ],
+      "snr": "032",
+      "ajad": [
+        "197.664",
+        "206.907"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist autosõitu, vaadatuna nii juhi vaatenurgast kui ka läbi tuuleklaasi ettepoole. Esimene kaader näitab autojuhti rooli taga, kandes rohelist jopet, tema pilk on suunatud sõidusuunda. Järgmised kaadrid keskenduvad vaatele läbi tuuleklaasi, kus on näha lumine tee, teeservadel lumi ja paljad puud. Taamal on näha ka mõned hooned ja teised sõidukid liikluses. Päev on hall ja pilvine, mis on iseloomulik talvele. Subtiitrid kuvavad juhi mõtteid liiklusseaduste rikkumise kohta ajanappuse tõttu.",
+      "actions": [
+        "Autojuhtimine",
+        "Rooli hoidmine",
+        "Vaate nautimine läbi tuuleklaasi",
+        "Sõit lumisel teel"
+      ],
+      "keywords": [
+        "Autosõit",
+        "Talv",
+        "Lumi",
+        "Tee",
+        "Juht",
+        "Liiklus",
+        "Linnamaastik",
+        "Subtiitrid",
+        "Ajanappus",
+        "Liiklusrikkumine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Auto (sõiduki sisemus ja välimus)",
+        "Rool",
+        "Armatuurlaud",
+        "Tuuleklaas",
+        "Lumine tee",
+        "Lumi (teeservadel, maapinnal)",
+        "Paljad puud",
+        "Hooned (taamal)",
+        "Teised autod",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#447b32",
+        "#e0e0e0",
+        "#808080",
+        "#202020",
+        "#a0a0a0"
+      ],
+      "texts": [
+        "I break the traffic law a lot because lack of time."
+      ],
+      "persons": [
+        "Mees (autojuht)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt näitab juhti küljelt ja rooli taga, pakkudes sisemist vaadet autole koos osalise vaatega väljapoole.",
+        "Teine ja kolmas pilt on fookustatud läbi esiklaasi avanevale välisvaatele, näidates lumist teed, puid ja taamal hooneid. Juht ei ole nendel piltidel enam otse kaadris.",
+        "Teise ja kolmanda pildi vahel on näha kerget perspektiivimuutust, mis viitab kas sõiduki liikumisele või kaamera väikesele nihkele, kuna hooned taamal ja teeääred on veidi erineva nurga alt jäädvustatud."
+      ],
+      "snr": "033",
+      "ajad": [
+        "206.907",
+        "211.478"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet sõiduki tuuleklaasist välja talvisel, lörtsisel või lumisel päeval. Ilm on hall ja hägune, piirates nähtavust. Tuuleklaas on märg ja osaliselt kaetud veepritsmete või lörtsiga. Esiplaanil on näha osa auto armatuurlauast, millel teisel ja kolmandal pildil asetseb valge paberileht. Väljaspool sõidukit on näha teed, mis on kaetud lörtsi või sulava lumega. Teel liiguvad või seisavad teised sõidukid; esimesel pildil on näha punast tuld näitavat valgusfoori ja rida autosid selle taga. Üldine maastik koosneb lumistest teeäärtest, kaugemal paistvatest hoonetest ning puudest ja põõsastest, mis on talviselt raagus ja lume all. Stseen on üldiselt hele, kuid summutatud hallide ja valgete toonidega, mis on iseloomulikud talvisele pilves ilmale. Piltidel on valged subtiitrid, mis edastavad jutustust.",
+      "actions": [
+        "Sõitmine või seismine liikluses",
+        "Jutustamine (subtiitrite kaudu)",
+        "Teiste sõidukite liikumine/seismine"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Lörts",
+        "Sõiduk",
+        "Tee",
+        "Liiklus",
+        "Tuuleklaas",
+        "Armatuurlaud",
+        "Subtiitrid",
+        "Hall ilm",
+        "Pilves",
+        "Juht"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Auto (vaatepunkti andja)",
+        "Tuuleklaas",
+        "Armatuurlaud",
+        "Paberileht",
+        "Tee",
+        "Lumi",
+        "Lörts",
+        "Teised autod (sõidukid)",
+        "Valgusfoor",
+        "Hooned",
+        "Puud",
+        "Põõsad",
+        "Elektriliinid"
+      ],
+      "colorcodes": [
+        "#C0C0C0",
+        "#808080",
+        "#FFFFFF",
+        "#000000",
+        "#FF0000",
+        "#604020"
+      ],
+      "texts": [
+        "I break the traffic law a lot because lack of time.",
+        "If it wasn't for that I wouldn't break any laws, honestly."
+      ],
+      "persons": [
+        "Eelduslik jutustaja/juht"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha punaseid tulesid valgusfooril ja rohkem autosid otse ees peatumise faasis. Tekst esimesel pildil on 'I break the traffic law a lot because lack of time.'.",
+        "Teisel ja kolmandal pildil on kaamera asend veidi nihkunud, näha on rohkem teed ja vasakult paistab suurem punane veoauto. Armatuurlaual olev valge paberileht on selgemalt nähtav. Tekst teisel ja kolmandal pildil on 'If it wasn't for that I wouldn't break any laws, honestly.'.",
+        "Kolmas pilt on teise pildiga peaaegu identne, välja arvatud väga väikesed liikumisdetailid liikluses."
+      ],
+      "snr": "034",
+      "ajad": [
+        "211.478",
+        "218.652"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist linnaööd, kus lumega kaetud tänav on valgustatud tänavavalgustite ja sõidukite tuledega. Pildil on näha lai kahesuunaline maantee, mille äärtes on suured lumevallid, mis annavad tunnistust hiljutisest lumesajust ja tee puhastamisest. Vasakul ja paremal pool tänavat kõrgub pimedaid hooneid, mille akendes paistab kohati valgust. Taustal paistab tihe liiklusvoog, kus mitmed autod liiguvad edasi-tagasi, nende esituled ja tagatuled valgustavad stseeni eredalt. Keskel, tänaval, paistab silma helendav sinine dekoratiivne valguselement, mis annab tänavale erilise aktsendi. Üldine atmosfäär on külm ja talvine, kuid valgustuse tõttu ka hubane ja elav, pakkudes tüüpilist vaadet põhjamaisest linnaööst. Tee tundub libe ja lumine.",
+      "actions": [
+        "Autod sõidavad mööda lumist teed",
+        "Liiklus kulgeb tänaval",
+        "Tuled valgustavad stseeni"
+      ],
+      "keywords": [
+        "Talv",
+        "Öö",
+        "Lumi",
+        "Tänav",
+        "Linn",
+        "Liiklus",
+        "Autod",
+        "Valgustus",
+        "Külm",
+        "Lumevallid",
+        "Esituled",
+        "Tagatuled",
+        "Linnaöö"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Autod",
+        "Tänav",
+        "Lumi",
+        "Lumevallid",
+        "Hooned",
+        "Tänavavalgustid",
+        "Valgusreklaam/dekoratsioon (sinine)",
+        "Esituled",
+        "Tagatuled",
+        "Postid"
+      ],
+      "colorcodes": [
+        "#2E2E2E",
+        "#F0F0F0",
+        "#FFFFFF",
+        "#FFD700",
+        "#4169E1",
+        "#FF0000",
+        "#A9A9A9"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Piltidel on näha autode liikumist. Esimestes kaadrites läheneb keskel paremalt esituledega auto, mis teises kaadris on juba pildistaja poole lähemal ja eredamalt valgustatud, ning kolmandas kaadris on see auto juba mööda sõitnud ja liigub pildi vasakusse serva. Sellele lisaks on ka taustal ja paremal pool teisi autosid, mille asukohad on erinevates kaadrites pisut muutunud, demonstreerides liiklusvoo pidevat kulgemist."
+      ],
+      "snr": "035",
+      "ajad": [
+        "218.652",
+        "222.556"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet sõiduki esiklaasist pimedal, talvisel teelõigul, tõenäoliselt õhtusel ajal. Tee on märg ja osaliselt lumine, lumevaip katab teeääri, puid ja põõsaid. Esiplaanil on näha sõiduki esiklaasi serv ja armatuurlaud. Teel on tihe liiklus, ees sõidavad autod, mille punased tagatuled ja pidurituled loovad teele peegeldusi. Kauguses ja tee ääres valgustavad stseeni tänavavalgustid ja liiklusmärgid. Liiklusfoorid on näha erinevates kaugustes, näidates nii punast kui rohelist tuld. Üldine atmosfäär on hämar, valgustatud kunstlike valgusallikatega, mis annavad piltidele iseloomuliku punaka ja oranži tooni. Taevas on tumehall või sinakas, sulades kokku kauguses olevate ehitiste siluettidega, mille hulgas paistab ka tööstuslik korsten. Sõiduk liigub mööda kergelt kumerat teed, möödudes lumistest haljasaladest ja puudest.",
+      "actions": [
+        "Sõitmine teel",
+        "Autode liikumine liikluses",
+        "Tulede valgustamine",
+        "Liiklusfoori järgi ootamine"
+      ],
+      "keywords": [
+        "Talv",
+        "Õhtu",
+        "Lumi",
+        "Liiklus",
+        "Märg tee",
+        "Autod",
+        "Punased tuled",
+        "Liiklusfoorid",
+        "Sõiduki vaade",
+        "Hämarus",
+        "Tänavavalgustus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Autod",
+        "Sõiduki esiklaas",
+        "Tee",
+        "Lumi",
+        "Puud",
+        "Põõsad",
+        "Tänavavalgustid",
+        "Liiklusfoorid",
+        "Liiklusmärgid",
+        "Tööstuskorsten",
+        "Ehitised"
+      ],
+      "colorcodes": [
+        "#4D546C",
+        "#2F2F2F",
+        "#C82A2A",
+        "#FF0000",
+        "#008000",
+        "#C0C0C0",
+        "#FFA500"
+      ],
+      "texts": [
+        "Numbrimärgid (ebaselged)",
+        "Jalakäijate ülekäiguraja märk (graafika, mitte tekst)"
+      ],
+      "persons": [
+        "Autojuhid (kaudselt)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on ees must maastur, mille pidurituled põlevad, ja tee on eredalt punastest tuledest valgustatud, näha on kaugemal punased liiklusfoorid. Teisel pildil on esiplaanil auto kadunud, pildil on rohkem liikumishägu vasakul pool liikuvate autode tulede tõttu, mis annab märku sõiduki liikumisest. Kolmandal pildil on ees teine auto (tõenäoliselt sedaan) ning paremal on näha rohelisi liiklusfoore, samas kui vasakul püsivad punased. Korsten on taustal selgemalt nähtav."
+      ],
+      "snr": "036",
+      "ajad": [
+        "222.556",
+        "232.866"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist teed, mis on kaetud lumega, nähtuna sõiduki sisemusest, tõenäoliselt pardakaamera vaatepunktist. Üks osa stseenist näitab õhtust või öist aega, kus kunstlikud valgusallikad, nagu tänavavalgustus, autode esi- ja tagatuled valgustavad lumist teed ja ümbritsevaid puid. Kauguses on näha foorituld ja teisi sõidukeid. Teine osa stseenist läheb üle päevasele ajale tugeva lumetormi ajal, mis piirab oluliselt nähtavust. Tee on endiselt lumega kaetud ja puud palistavad teeääri, sulandudes valgesse ja halli maastikku. Üldine atmosfäär annab edasi keerulisi ja ohtlikke sõidutingimusi. Piltidesse on lisatud inglisekeelsed tekstid, mis kirjeldavad rasket õnnetust, kus juht jäi roolis magama, mille tagajärjel oli juht kaks kuud koomas ja reisija pääses avariist vigastusteta.",
+      "actions": [
+        "sõitmine",
+        "lumesadu",
+        "magama jäämine (viidatud teksti kaudu)",
+        "avarii (viidatud teksti kaudu)"
+      ],
+      "keywords": [
+        "talv",
+        "lumi",
+        "tee",
+        "sõit",
+        "liiklus",
+        "õnnetus",
+        "pimedus",
+        "päev",
+        "lumesadu",
+        "kehv nähtavus",
+        "avariiline olukord"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "autod",
+        "tee",
+        "lumi",
+        "puud",
+        "tänavavalgustus",
+        "foor",
+        "tuuleklaas"
+      ],
+      "colorcodes": [
+        "#4B4B70",
+        "#FFFFFF",
+        "#B0B0B0",
+        "#FF0000",
+        "#FFA500",
+        "#A0A0A0"
+      ],
+      "texts": [
+        "When we have nothing to do, drivers have fell asleep while driving.",
+        "The driver was in a coma for two months. The passanger walked away from that crash."
+      ],
+      "persons": [
+        "autojuhid (viidatud teksti kaudu)",
+        "reisija (viidatud teksti kaudu)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "mixed",
+      "differences": [
+        "Esimene pilt kujutab õhtust/öist aega, teised pildid aga päevast.",
+        "Esimesel pildil on näha tänavavalgustust ja autode tulesid, samas kui teised kaks pilti näitavad päevast aega tugevas lumesajus, kus nähtavus on oluliselt halvem.",
+        "Esimesel pildil on nähtavus parem ja värvid on kontrastsemad (sinine, punane, valge), samas kui teistel piltidel on domineerivad hallid ja valged toonid, mis on tingitud lumesajust ja vähenenud valgusest.",
+        "Tekstid, mis kirjeldavad õnnetuse tagajärgi, on nähtavad ainult teisel ja kolmandal pildil."
+      ],
+      "snr": "037",
+      "ajad": [
+        "232.866",
+        "249.116"
+      ]
+    },
+    {
+      "explanation": "Kaadrid kujutavad vaateid liikuva sõiduki seest, tõenäoliselt pardakaamerast. Stseenid toimuvad talvisel ajal, kuna maapind on kaetud lumega. Näha on erinevaid teelõike – üks kujutab linnakeskkonda suure hoone ja sõiduki küljepeegliga, teine avaramat maanteed päikesetõusu- või -loojangu ajal horisondi soojade toonidega ning kolmas maanteeäärset ala kolme jalakäijaga, puude ja majade taustal. Sõiduki armatuurlaud on osaliselt nähtav kõigil piltidel esiplaanil. Esimesel pildil on ka ingliskeelne tekst, mis viitab eelnevale autoõnnetusele ja selle tagajärgedele.",
+      "actions": [
+        "Sõitmine",
+        "Liiklemine",
+        "Kõndimine (jalakäijad)",
+        "Video jäädvustamine"
+      ],
+      "keywords": [
+        "Talvine tee",
+        "Lumi",
+        "Sõiduk",
+        "Pardakaamera",
+        "Hooned",
+        "Jalakäijad",
+        "Maantee",
+        "Päikesetõus",
+        "Päikeseloojang",
+        "Õnnetus",
+        "Armatuurlaud"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Sõiduki armatuurlaud",
+        "Küljepeegel",
+        "Hoone",
+        "Tee",
+        "Lumi",
+        "Taevas",
+        "Elektripostid",
+        "Jalakäijad",
+        "Puud",
+        "Majad"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#808080",
+        "#ADD8E6",
+        "#FFA500",
+        "#A9A9A9",
+        "#000000",
+        "#8B4513",
+        "#5F9EA0"
+      ],
+      "texts": [
+        "The driver was in a coma for two months.",
+        "The passenger walked away from that crash."
+      ],
+      "persons": [
+        "Kolm jalakäijat"
+      ],
+      "imagetype": "real",
+      "emptypercent": 10,
+      "season": "winter",
+      "daytime": "day, morning, evening",
+      "differences": [
+        "Kaadrid näitavad erinevaid vaateid: esimene pilt hoonet ja küljepeeglit, teine avaramaid teid päikesetõusu/loojangu ajal ja kolmas jalakäijaid puude ning majade taustal.",
+        "Valgustus ja taeva seisund on erinev: esimene pilt on pilves ilmaga, teisel on selge taevas päikesetõusu või -loojangu soojade toonidega ning kolmandal on selge päevane taevas.",
+        "Jalakäijad on näha ainult kolmandal pildil.",
+        "Tekstiline informatsioon õnnetuse kohta on olemas ainult esimesel pildil.",
+        "Esimesel pildil on kaadrisse jäänud sõiduki küljepeegel, teistel on vaade otse läbi esiklaasi."
+      ],
+      "snr": "038",
+      "ajad": [
+        "249.116",
+        "275.842"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaates sõiduki sisemust, keskendudes inimese kätele, mis hoiavad musta või tumedat raadiosaatjat või sarnast sideseadet. Seadet hoitakse mõlema käega, sõrmed on selle ümber mähitud. Paremal pool on näha sõiduki rooli ülemist osa tumeda halli/musta värviga. Vasakul paistab sõiduki uksepost või aknaraam. Läbi akna on näha väljaspool olevat talvist maastikku, mis on kaetud lumega, viitades külmale ilmale ja talvisele aastaajale. Valgus on ere, mis viitab päevasele ajale. Stseenis domineerivad hallid, tumedad ja valged toonid. Kahe viimase kaadri puhul on lisatud valged subtiitrid, mis kirjeldavad ebatavalisi tarneid.",
+      "actions": [
+        "Hoidmine (raadiosaatja hoidmine)",
+        "Suhtlemine (implied, using a communication device)",
+        "Sõitmas/reisimine (sõidukis viibimine)"
+      ],
+      "keywords": [
+        "Raadiosaatja",
+        "Sideseade",
+        "Sõiduk",
+        "Autojuht",
+        "Talv",
+        "Lumi",
+        "Subtiitrid",
+        "Käed",
+        "Rool",
+        "Tarne",
+        "Külm ilm"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese käed",
+        "Raadiosaatja/sideseade",
+        "Sõiduki rool",
+        "Sõiduki aknaraam/uksepost",
+        "Lumi (taustal)",
+        "Talvine maastik",
+        "Juhe/kaabel (seadme küljes)",
+        "Roheline riidetükk (vaid esimesel pildil osaliselt näha)"
+      ],
+      "colorcodes": [
+        "#3B2E21",
+        "#6A6D6F",
+        "#E7EDED",
+        "#B3C2CC",
+        "#FFFFFF",
+        "#6C9F59"
+      ],
+      "texts": [
+        "From time to time we get odd deliveries",
+        "A dead pig comes always into mind."
+      ],
+      "persons": [
+        "Sõidukijuht (näha on käsi)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Teisel ja kolmandal pildil on näha valgeid subtiitreid, mis esimesel pildil puuduvad.",
+        "Kolmandal pildil on lumi väljas veidi heledam ja kontrastsem kui teisel pildil.",
+        "Subtiitrite taust on teisel ja kolmandal pildil veidi erinev, pakkudes tekstile erinevat loetavust.",
+        "Esimesel pildil on all vasakul näha rohelise riidetüki serva, mis teistel piltidel on kaadri alt peaaegu välja jäänud või hägusam."
+      ],
+      "snr": "039",
+      "ajad": [
+        "275.842",
+        "279.846"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes kannab tumerohelist jopet ja viibib sõiduki sisemuses, tõenäoliselt juhiistmel. Kaamera perspektiiv on sõiduki seest, suunatud paremale, juhiukse ja akna poole. Alguses on inimene osaliselt nähtav, vaadates alla ja seejärel pöörab pead paremale, otsekui valmistudes sõidukist väljuma või midagi väljaspool vaatlema. Stseeni arenedes liigub inimene kaadrist välja ja alles jääb vaid sõiduki tume sisemus koos ukseraamiga ning ere väliskeskkond, mis paistab läbi akna. Väljas on ere päevavalgus, mis viitab heledale taevale või avatud alale. Kaadrite allosas on valged subtiitrid.",
+      "actions": [
+        "Istub sõidukis",
+        "Vaatab aknast välja",
+        "Pöörab pead",
+        "Liigub kaadrist välja (implied)"
+      ],
+      "keywords": [
+        "Sõiduk",
+        "Juht",
+        "Kohaletoimetamine",
+        "Tööpäev",
+        "Aken",
+        "Ukseraam",
+        "Päevavalgus",
+        "Subtiitrid",
+        "Ebatavalised tarned",
+        "Surnud siga",
+        "Interjöör"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Sõiduki sisemus",
+        "Ukseraam",
+        "Aken",
+        "Jope",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#2F4F2F",
+        "#E0F2F7",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "From time to time we get odd deliveries",
+        "A dead pig comes always into mind.",
+        "I was given a task to pick up a dead pig.",
+        "When I arrived I saw it in a bag."
+      ],
+      "persons": [
+        "Isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Inimese asend ja nähtavus kaadris muutuvad: alguses on inimene rohkem nähtav, vaadates alla, seejärel pöörab paremale ning viimases kaadris on ta kaadrist väljas.",
+        "Subtiitrite tekst muutub kaadrite vahel, pakkudes narratiivi järge ebatavalistest tarnetest ja surnud seast.",
+        "Vaade läbi akna muutub veidi avaramaks, kui inimene kaadrist välja liigub."
+      ],
+      "snr": "040",
+      "ajad": [
+        "279.846",
+        "285.085"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat sisetingimust, tõenäoliselt ladu või hoiuruumi. Pildi esiplaanil lamab suur must prügikott hallil betoonpõrandal. Kotist paistavad välja hele inimkäsi ja paremal pool ka inimjalg. Taust on udune, koosnedes tumedatest seintest ja heledamatest objektidest, mis meenutavad pappkaste või muid hoiustatud esemeid. Üldine valgus on tuhm ja keskkond jätab sünge mulje. Pildi allosas on valge subtiiter mustal ribal.",
+      "actions": [
+        "Surnud sea üleskorjamine (teksti põhjal)",
+        "Objekti avastamine kotis"
+      ],
+      "keywords": [
+        "Prügikott",
+        "inimkäsi",
+        "inimjalg",
+        "ladu",
+        "betoonpõrand",
+        "tume",
+        "sünge",
+        "salapärane",
+        "subtiitrid",
+        "surnud siga",
+        "siseruum"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "must prügikott",
+        "inimkäsi",
+        "inimjalg",
+        "betoonpõrand",
+        "pappkastid (taustal)",
+        "sein (taustal)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#C4A18E",
+        "#4A4A4A",
+        "#A39686",
+        "#3D3D3D"
+      ],
+      "texts": [
+        "I was given a task to pick up a dead pig.",
+        "When I arrived I saw it in a bag."
+      ],
+      "persons": [
+        "üksikisik (nähtav käsi ja jalg)",
+        "jutustaja (tekstis viidatud)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "041",
+      "ajad": [
+        "285.085",
+        "288.488"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, tõenäoliselt garaaži või keldrit, mille pruunikad puitseinad ja määrdunud betoonpõrand annavad räsitud ilme. Keskel on must prügikott, millest paistab välja inimese käsi. Stseenis on näha osaliselt ühte inimest, kellel on seljas sinised teksapüksid ja jalas valged tossud. Inimene seisab algselt prügikoti lähedal ja seejärel kõnnib eemale, viies prügikoti kaasa. Taustal on näha ka heledamat, kollakas-pruuni tooni kotti või eset, mis jääb paigale kogu tegevuse vältel.",
+      "actions": [
+        "Inimene seisab musta prügikoti kõrval",
+        "Inimene võtab prügikoti üles (mis on tekstist tuletatav)",
+        "Inimene kõnnib prügikotiga kaadrist välja"
+      ],
+      "keywords": [
+        "Prügikott",
+        "Inimene",
+        "Käsi",
+        "Põrand",
+        "Siseruum",
+        "Teksad",
+        "Tossud",
+        "Puitsein",
+        "Tegevus",
+        "Äraviimine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Must prügikott",
+        "Inimese käsi",
+        "Sinised teksapüksid",
+        "Valged tossud",
+        "Pruunikad puitseinad",
+        "Betoonpõrand",
+        "Hele kott/ese taustal"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#345f8a",
+        "#e0e0e0",
+        "#6a4f3b",
+        "#5b5b5b",
+        "#9e8460"
+      ],
+      "texts": [
+        "I just picked it up by the claws and put it in the car.",
+        "Ma lihtsalt võtsin selle küüniste küljest üles ja panin autosse."
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on must prügikott põrandal ja inimese jalg on selle lähedal, kotist paistab välja inimese käsi. Inimene seisab paigal.",
+        "Teisel pildil on inimene kõndimas paremale kaadrist välja, prügikott on juba osaliselt või täielikult üles võetud ja kaadri paremast servast kadumas. Inimese jalad on liikumises.",
+        "Kolmandal pildil on stseen tühi, inimene ja prügikott on kaadrist täielikult lahkunud, jättes nähtavale vaid taustal olevad puitseinad, betoonpõranda ja eemal asuva heleda koti."
+      ],
+      "snr": "042",
+      "ajad": [
+        "288.488",
+        "293.693"
+      ]
+    },
+    {
+      "explanation": "Stseen on jäädvustatud sõiduki seest läbi esiklaasi, pakkudes vaadet lumisele ja pilvisele talvemaastikule. Pildil on näha auto armatuurlaud esiplaanil, millel asuvad valge volditud paberileht või dokument ja kaks väikest ümmargust heledat eset, mis võivad olla korgid või nupud. Esiklaasi kaudu avaneb vaade hoonestatud alale, kus vasakul on mitmekorruselised korterelamud ja keskel ning paremal rida tumedaid, arvatavasti okaspuude, puid, mis on kaetud lumega. Maapind on ühtlaselt lumega kaetud. Üldine atmosfäär on vaikne ja jahe, iseloomulik talvisele päevale, kuigi valgustus varieerub kaadrite vahel drastiliselt.",
+      "actions": [],
+      "keywords": [
+        "Talv",
+        "lumi",
+        "auto",
+        "armatuurlaud",
+        "esiklaas",
+        "korterelamud",
+        "puud",
+        "linnamaastik",
+        "pilvine",
+        "külm"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Auto armatuurlaud",
+        "esiklaas",
+        "valge paber",
+        "ümmargused korgid/nupud",
+        "korterelamud",
+        "puud (okaspuud)",
+        "lumi",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#E0E4E7",
+        "#BCC2C6",
+        "#3C4B3F",
+        "#4A4A4A",
+        "#F0F0F0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Peamine erinevus piltide vahel on valgustus. Esimesed kaks pilti on heledad ja selged, näidates päeva, samas kui kolmas pilt on äärmiselt tume ja detailid on raskesti eristatavad, viidates kas ööle või tugevale alavalgustusele."
+      ],
+      "snr": "043",
+      "ajad": [
+        "293.693",
+        "295.996"
+      ]
+    },
+    {
+      "explanation": "Stseen algab täiesti musta ekraaniga, misjärel ilmub siseruumis asuv kaader, kus on näha blond juustega naine selja tagant. Naine kannab heledat särki, mis esimesel kaadril tundub valkjas-helesinine ja järgmisel kaadril helelilla-roosakas. Ta seisab või liigub heledate seintega ruumis, võimalik, et ukseava läheduses. Kaadreid saadavad ingliskeelsed subtiitrid, mis jutustavad tema kogemusest 'transporterina' mööblit tarnides. Subtiitrite sisu vihjab, et üksikud naised kipuvad tarnete ajal 'kummaliselt käituma', andes stseenile pingelise alatooni. Kolmandas kaadris on taustal märgata ähmane roheline kuju või ese, mis lisab stseenile salapära. Üldvalgustus on hele, tekitades kohati kaadris heledaid ülesäritatud alasid.",
+      "actions": [
+        "Naine seisab või liigub siseruumis",
+        "Naine teeb mööblitarnet (jutustuse põhjal)"
+      ],
+      "keywords": [
+        "Mööblitarne",
+        "Transporter",
+        "Üksik naine",
+        "Kummaline käitumine",
+        "Siseruum",
+        "Blond naine",
+        "Subtiitrid",
+        "Jutustus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Blond naine",
+        "Hele särk",
+        "Seinad",
+        "Subtiitrid",
+        "Ähmane roheline kuju taustal"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#E9D27B",
+        "#CEB6CE",
+        "#FFFFFF",
+        "#4C9F4C"
+      ],
+      "texts": [
+        "During one of my first months as a transporter I had a furniture delivery.",
+        "It's typically that when you deliver to a lonely woman, they start to act strange."
+      ],
+      "persons": [
+        "Blond naine",
+        "Roheline ähmane kuju (võimalik teine isik)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on täiesti must, toimides sissejuhatusena, samal ajal kui järgmised pildid näitavad stseeni tegevust.",
+        "Naine on teises pildis veidi paremale pööratud, samas kui kolmandas pildis on ta veidi vasakule pööratud.",
+        "Kolmandas pildis on taustal näha ähmane roheline kuju, mida teises pildis ei ole.",
+        "Naise särgi värvitoon muutub valkjas-helesinisest helelilla-roosakaks, mis võib olla tingitud valguse või kaamera seadete erinevustest kaadrite vahel.",
+        "Subtiitrite tekst on igal pildil erinev, jutustades edasi lugu."
+      ],
+      "snr": "044",
+      "ajad": [
+        "295.996",
+        "306.573"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes astub alla mööda siseruumi treppi. Fookus on peamiselt isiku jalal ja säärel, mis on riietatud teksapükstesse ja pruunidesse saabastesse või kingadesse. Trepp on valge või väga heleda värvusega, lihtsa disainiga. Valgusallikas paremalt poolt valgustab treppi ja seina, luues selged ja kontrastsed varjud trepiastmetele ja seinale. Üldine atmosfäär on funktsionaalne ja rõhutab liikumist allapoole. Kaadritel on näha, kuidas jalg liigub mööda trepiastmeid allapoole, jäädvustades erinevaid astumise faase. Stseeni allosas on subtiitrid.",
+      "actions": [
+        "Trepiastmetest alla astumine",
+        "Liikumine allapoole",
+        "Jalga asetamine astmele"
+      ],
+      "keywords": [
+        "Trepp",
+        "Astmed",
+        "Jalg",
+        "Saabas",
+        "Teksapüksid",
+        "Vari",
+        "Valgustus",
+        "Siseruum",
+        "Liikumine",
+        "Tarne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Trepp",
+        "Astmed",
+        "Jalg",
+        "Saabas/king",
+        "Püksisäär (teksad)",
+        "Sein",
+        "Vari"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#F5F5DC",
+        "#8B4513",
+        "#4682B4",
+        "#363636"
+      ],
+      "texts": [
+        "It's typically that when you deliver to a lonely woman, they start to act strange."
+      ],
+      "persons": [
+        "Inimene (jalg ja säär)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on üldiselt tumedam ja madalama kontrastsusega kui järgnevad kaks. Valgus ja varjud on esimesel pildil vähem defineeritud.",
+        "Teine ja kolmas pilt on heledamad ja teravama kontrastsusega, tuues esile selgemad varjud ja trepi detailid. Need kaadrid näitavad sama tegevust (alla astumist) erinevates faasides, kus jala asend astmel varieerub.",
+        "Jala asend muutub kaadrite vahel, kujutades astumise erinevaid etappe: esimesel pildil on jalg juba astmel, teisel astub see just astmele ja kolmandal on jalg astmel, pakkudes veidi avaramat vaadet säärele."
+      ],
+      "snr": "045",
+      "ajad": [
+        "306.573",
+        "308.675"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kohaletoimetajat, kes on ilmselt mees ja kannab heledat särki, korterisse pakke toimetamas. Stseen algab pildiga, kus kohaletoimetaja jalad ja alakeha on näha, ta istub kas toolil või pingil. Seejärel liigub ta läbi ukseava korteri sisemusse. Kolmandal pildil kannab ta suurt pappkasti ja liigub sügavamale ruumi. Vasakul pool on uduselt näha naise pea või juuste osa. Subtiitrid kirjeldavad kohaletoimetaja vaatenurka, märkides, et üksildased naised kipuvad pakke vastu võttes kummaliselt käituma ja et iga kord, kui ta kasti tõi, oli naine vähem riides. Üldine meeleolu on pigem vaoshoitud ja veidi ebamugavust tekitav, rõhutades olukorra kummalisust. Siseruum on tagasihoidlik, valgusega, mis annab edasi veidi vananenud või lihtsa elukeskkonna tunde.",
+      "actions": [
+        "Istumine (oletatav, alguses)",
+        "Liikumine/kõndimine ruumis",
+        "Paki kandmine",
+        "Paki kohaletoimetamine",
+        "Riietumise muutumine (naise puhul, subtiitrite järgi)"
+      ],
+      "keywords": [
+        "Kohaletoimetamine",
+        "Korter",
+        "Siseruum",
+        "Pakk",
+        "Üksildus",
+        "Kummaline käitumine",
+        "Riietus",
+        "Delivery"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Naine",
+        "Hele särk",
+        "Tumedad püksid",
+        "Tool/pink",
+        "Pappkast",
+        "Seinad",
+        "Ukseava",
+        "Mööbliese (tume)"
+      ],
+      "colorcodes": [
+        "#D3D3D3",
+        "#A9A9A9",
+        "#8B4513",
+        "#556B2F",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "It's typically that when you deliver to a lonely woman, they start to act strange.",
+        "Every time I took a box to the flat, the woman wore less clothes"
+      ],
+      "persons": [
+        "Kohaletoimetaja (oletatav mees)",
+        "Naine (paki vastuvõtja)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kohaletoimetaja asend ja tegevus muutuvad pilditi: esimesel pildil istub, teisel liigub ukseava poole ja kolmandal kannab kasti korterisse.",
+        "Erinevad subtiitrid esimesel ja kolmandal pildil, teisel pildil subtiitrid puuduvad, andes edasi narratiivi ja olukorra edasijõudmist.",
+        "Kolmandal pildil on näha suur pappkast, mida eelmistel piltidel polnud, samuti on sellel pildil osaliselt näha naise figuuri."
+      ],
+      "snr": "046",
+      "ajad": [
+        "308.675",
+        "314.681"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi treppi, kus inimene liigub ülespoole. Trepiastmed ja seinad on valdavalt heledad, nähtavasti valged või helehallid, ning trepi käsipuu on puidust, pruunika tooniga. Valgus on hämar, luues trepiastmetele ja seintele selgeid varjusid. Kolmandal kaadril on näha inimest, kes kannab sinist värvi teksapükse ja heledat särki/kampsunit, liikumas trepist üles. Esimesel ja teisel kaadril on näha vaid inimese jalg või jalanõu trepi ülemises osas, samuti on aimatav mingi heleda eseme (võimalik, et kasti) ülemine osa. Kaadri allosas on ingliskeelne tekst, mis viitab tegevusele kasti tassimisest ja naise riietuse muutumisest.",
+      "actions": [
+        "Inimene liigub trepist üles",
+        "Kasti kandmine (narratiivi põhjal)"
+      ],
+      "keywords": [
+        "Trepp",
+        "Siseruum",
+        "Hämar valgus",
+        "Vari",
+        "Liikumine",
+        "Kolimine",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Trepp",
+        "Käsipuu",
+        "Seinad",
+        "Kast (implied)"
+      ],
+      "colorcodes": [
+        "#F5F5F5",
+        "#A0522D",
+        "#4682B4",
+        "#4F4F4F"
+      ],
+      "texts": [
+        "Every time I took a box to the flat, the woman wore less clothes"
+      ],
+      "persons": [
+        "Üks inimene (mees või naine)",
+        "Naine (mainitud tekstis)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Inimese asukoht ja nähtavus muutub kaadrite vahel, liikudes ülespoole.",
+        "Varjude ja valguse muster trepil muutub veidi vastavalt liikumisele ja kaamera nurgale."
+      ],
+      "snr": "047",
+      "ajad": [
+        "314.681",
+        "317.484"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumis, kus valitseb hämar ja intiimne atmosfäär, mis on loodud arvukate küünalde valgusega. Esiplaanil laual või pinnal põlevad kaks suurt punast küünalt ja hulgaliselt väiksemaid valgeid küünlaid, mis helgivad õrnalt. Taustal on näha udune ja varjuline figuur või mööbliese, mis lisab stseenile salapära. Kolmandal pildil nihkub fookus osaliselt suurte küünalde juurest eemale, tuues esile vasakpoolsel poolel suure heleda kasti, mis annab märku tegevusest, mida subtiitrid kirjeldavad. Üldine meeleolu on soe, samas veidi müstiline ja jutustav, keskendudes valguse ja varjude mängule.",
+      "actions": [
+        "Küünlad põlevad",
+        "Kastide transportimine (mainitud subtiitrites)",
+        "Naise riietuse muutumine (mainitud subtiitrites)"
+      ],
+      "keywords": [
+        "Küünlad",
+        "Hämarus",
+        "Siseruum",
+        "Valgus",
+        "Vari",
+        "Punane",
+        "Intiimne",
+        "Subtiitrid",
+        "Kast",
+        "Müstiline"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Punased küünlad",
+        "Valged küünlad",
+        "Laud/pind",
+        "Varjud",
+        "Mööbel (udune taustal)",
+        "Kast"
+      ],
+      "colorcodes": [
+        "#CC0000",
+        "#FFA500",
+        "#FFFFFF",
+        "#332211",
+        "#F5F5F5"
+      ],
+      "texts": [
+        "Every time I took a box to the flat, the woman wore less clothes",
+        "More candles, less lights."
+      ],
+      "persons": [
+        "Naine (mainitud tekstis)",
+        "Jutustaja (mainitud tekstis)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene ja teine pilt on kompositsioonilt sarnased, näidates peamiselt põlevaid küünlaid ja udust tausta, kusjuures teisel pildil on küünlad veidi detailsemad või teise nurga alt võetud. Tekst on mõlemal sama.",
+        "Kolmas pilt erineb oluliselt, kuna fookus nihkub küünaldelt suurele, heledale kastile vasakul, taust muutub heledamaks ja ühtlasemaks ning subtiitrid on muutunud."
+      ],
+      "snr": "048",
+      "ajad": [
+        "317.484",
+        "321.955"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab intiimset siseruumides aset leidvat momenti, kus domineerib hämar küünlavalgus. Esiplaanil on näha arvukalt väikseid põlevaid küünlaid, mis loovad sooja ja hubase atmosfääri. Kesksel kohal on naine, kellel on heledad juuksed ja seljas punane rõivaese, ilmselt kleit või pluus. Ta istub tumedal diivanil või toolil, lõdvestunult, toetades üht kätt oma lõuale või kaelale. Ruum on üldiselt pime, mis rõhutab küünalde valgust. Visuaal on tugevalt pikseliseeritud ja madala resolutsiooniga, andes stseenile teatud VHS-laadse või digitaalselt degradeerunud ilme. Kahes esimeses kaadris on nähtav ingliskeelne tekst \"More candles, less lights.\", mis rõhutab stseeni meeleolu ja valguse iseloomu.",
+      "actions": [
+        "Naine istub",
+        "Naine toetab käega lõuga või kaela",
+        "Küünlad põlevad"
+      ],
+      "keywords": [
+        "Küünlad",
+        "Hämar",
+        "Naine",
+        "Intiimne",
+        "Romantiline",
+        "Diivan",
+        "Pikseliseeritud",
+        "Madal resolutsioon",
+        "Punane riietus",
+        "Siseruumid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Küünlad",
+        "Diivan",
+        "Riietus (punane)",
+        "Põlev leek"
+      ],
+      "colorcodes": [
+        "#2B2B33",
+        "#D4A790",
+        "#B33D44",
+        "#E0D3BB",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "More candles, less lights."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Naise poos muutub kergelt, eriti tema käe asend",
+        "Kaamera suumib stseeni veidi sissepoole, näidates naist lähemal",
+        "Tekst \"More candles, less lights.\" on nähtav kahes esimeses kaadris, kuid puudub kolmandal kaadril",
+        "Pikseliseeritus ja madal resolutsioon jäävad kõikides kaadrites samaks"
+      ],
+      "snr": "049",
+      "ajad": [
+        "321.955",
+        "325.425"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab vaatepunkti läbi kitsa avause või kastist välja, keskendudes inimese alakehale ja suurele pappkastile. Esimeses kaadris paistavad inimese jalad heledas ukseavas või akna ees, andes edasi liikumist. Seejärel ilmub kaadrisse isik lähemalt, kes on riietatud punase pluusi ja tumedate pükstega, ning liigub kaamera vaatevälja suunas. Kolmandas kaadris on suur pappkast asetatud otse vaatepunkti ette, varjates osaliselt inimese, kes seisab kasti taga. Stseeni saadab tekst, mis kirjeldab kiirustamist ja allkirja võtmist. Üldine toon on pruunikas ja summutatud, rõhutades sisetingimustes toimuvat tegevust.",
+      "actions": [
+        "Inimene liigub",
+        "Pappkast asetatakse maha",
+        "Allkirja võtmine (teksti põhjal)"
+      ],
+      "keywords": [
+        "Pappkast",
+        "Inimene",
+        "Jalad",
+        "Kast",
+        "Siseruum",
+        "Kuller",
+        "Kiirustamine",
+        "Allkiri",
+        "Pakk"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Pappkast",
+        "Inimese jalad",
+        "Inimese torso",
+        "Põrand",
+        "Seinad",
+        "Aken/ukseava (tagaplaanil)"
+      ],
+      "colorcodes": [
+        "#A0522D",
+        "#8B4513",
+        "#D2B48C",
+        "#696969",
+        "#F5F5DC",
+        "#800000"
+      ],
+      "texts": [
+        "Since I was in a hurry that day, I just took the signature and left."
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris on vaade avatum ja näha on heledat tagaplaani (aken/ukseava) ning inimese jalad liiguvad kaugemal.",
+        "Teises kaadris on inimene kaamera vaatepunktile lähemal, näha on tema alakeha ja osa ülakehast (punane pluus). Ilmuvad subtiitrid.",
+        "Kolmandas kaadris on suur pappkast asetatud otse kaamera ette, varjates osaliselt inimese, kes seisab kasti taga. Subtiitrid on endiselt nähtaval."
+      ],
+      "snr": "050",
+      "ajad": [
+        "325.425",
+        "329.896"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab auto interjööri juhi vaatenurgast, keskendudes armatuurlauale, roolile ja esiistmele. Pildil on näha musta või tumedahalli värvi rool ja sama tooni armatuurlaud. Rooli taga on süütelukk, millest ripuvad võtmed. Armatuurlauale on paigaldatud mobiiltelefoni hoidja, milles on näha mobiiltelefoni alumist osa. Hoidja all ja rooli paremal pool asub auto stereo või raadio, mille ekraan helendab sinakalt. Roolist vasakul on näha heledamat (tõenäoliselt rohekat) kangast, mis võib olla osa istmest või riietusest. Ühes kaadris on esiplaanil näha käsi, mis toetub roolile. Taustal paistab läbi esiklaasi hajutatud valgust ja rohelist värvi, mis viitab välisele keskkonnale, kuid on udune. Esimesel pildil on näha ka subtiitreid.",
+      "actions": [
+        "Käe hoidmine roolil",
+        "Sõiduki juhtimine (implied)",
+        "Subtiitrite lugemine"
+      ],
+      "keywords": [
+        "Auto",
+        "Interjöör",
+        "Rool",
+        "Armatuurlaud",
+        "Mobiilihoidja",
+        "Autostereo",
+        "Võtmed",
+        "Süütelukk",
+        "Subtiitrid",
+        "Käsi",
+        "Sõiduk",
+        "Kiirustamine",
+        "Allkiri",
+        "Lahkumine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Auto rool",
+        "Armatuurlaud",
+        "Mobiiltelefoni hoidja",
+        "Mobiiltelefon",
+        "Auto stereo/raadio",
+        "Auto süütelukk",
+        "Võtmed",
+        "Ventilatsiooniavad",
+        "Nupud",
+        "Käsi",
+        "Autoiste (osaliselt)"
+      ],
+      "colorcodes": [
+        "#505152",
+        "#313233",
+        "#0C0C0C",
+        "#D9B499",
+        "#00C0FF",
+        "#FFFFFF",
+        "#4C7D4E"
+      ],
+      "texts": [
+        "Since I was in a hurry that day, I just took the signature and left."
+      ],
+      "persons": [
+        "Juht (implied)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha ingliskeelsed subtiitrid, teistel piltidel need puuduvad.",
+        "Käe asend roolil muutub piltide vahel, viidates liikumisele või aja möödumisele."
+      ],
+      "snr": "051",
+      "ajad": [
+        "329.896",
+        "333.266"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab autosisest olukorda, kus esmalt on näha sõiduki kõrvalistmel turvaliselt asetsevat ümmargust tordikarpi, mille sees on selgelt eristatav kook. Kook on kaetud heleda läbipaistva kaanega. Seejärel on näha, kuidas rohelises pikas varrukas riietatud isiku käsi ulatub autojuhi istme poole, proovides tõenäoliselt tordikarpi autost välja võtta. Karbi kaas on avatud ja kook paistab olevat juba kergelt nihkunud. Lõpuks on näha, et kook on istmele pillatud ja see on jätnud istmele märkimisväärse pleki ja puru. Kogu tegevus toimub autokabiinis, fookusega esiistmel ja selle ümbruses. Tekst viitab sellele, et tegemist on õnnetusega, kus kook on maha kukkunud ja saanud kahjustada.",
+      "actions": [
+        "Koogi transportimine autos",
+        "Koogi eemaldamine autost",
+        "Koogi mahapillamine",
+        "Autoistme määrdumine"
+      ],
+      "keywords": [
+        "kook",
+        "auto",
+        "õnnetus",
+        "kahjustus",
+        "transport",
+        "tordikarp",
+        "plekk",
+        "roheline särk",
+        "autoiste",
+        "interjöör"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "kook",
+        "tordikarp",
+        "autosisustus",
+        "autoiste",
+        "inimese käsi",
+        "roheline riietus",
+        "turvavöö"
+      ],
+      "colorcodes": [
+        "#343a40",
+        "#ffffff",
+        "#008000",
+        "#a9a9a9",
+        "#e0e0e0",
+        "#ce0000"
+      ],
+      "texts": [
+        "Sometimes it happens that things get damaged. Once I dropped a cake."
+      ],
+      "persons": [
+        "inimene (nähtav vaid käsi)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel hetkel on kook tordikarbis suletud kaanega ja terve, teisel hetkel on käsi tordikarpi tõstmas avatud kaanega ja kook on paigast nihkunud. Kolmandal hetkel on kook tordikarbist väljas, autoistmele laiali valgunud ja karp ise puudub kaadrilt."
+      ],
+      "snr": "052",
+      "ajad": [
+        "333.266",
+        "334.834"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub linna keskkonnas, kitsal tänaval või hoovis, mis on kaetud osaliselt lumega, viidates talvisele ajale. Taamal on näha parkivaid autosid ja mitmekorruselisi hooneid. Peategelane, rohelise jope ja heledate teksapükstega mees, liigub seljaga vaataja poole. Alguses kannab ta valget ümmargust koogikarpi, kuid stseeni arenedes on näha, kuidas ta on selle maha pillanud või pillamas ning kummardub maapinna poole. Ekraanil olev tekst kirjeldab olukorda, kus asjad saavad kahjustada, ja konkreetselt kukkunud koogijuhtumit, mis oli mõeldud Edgar Savisaarele.",
+      "actions": [
+        "kõndimine",
+        "koogikarbi kandmine",
+        "kummardumine",
+        "millegi maha pillamine"
+      ],
+      "keywords": [
+        "linn",
+        "tänav",
+        "talv",
+        "lumi",
+        "mees",
+        "roheline jope",
+        "koogikarp",
+        "õnnetus",
+        "pakivedu",
+        "Edgar Savisaar"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "mees",
+        "roheline jope",
+        "teksapüksid",
+        "valge koogikarp",
+        "asfalttee",
+        "lumi",
+        "hooned",
+        "autod",
+        "tarad",
+        "puu",
+        "teeäärne ääris",
+        "tänavavalgustuspostid"
+      ],
+      "colorcodes": [
+        "#6DC23B",
+        "#A8B4BB",
+        "#FFFFFF",
+        "#5D4C3A",
+        "#4A4D51",
+        "#99A2AA"
+      ],
+      "texts": [
+        "Sometimes it happens that things get damaged.",
+        "Once I dropped a cake.",
+        "It was for Edgar Savisaar."
+      ],
+      "persons": [
+        "mees (peategelane)",
+        "Edgar Savisaar (mainitud isik)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 50,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Peategelane hoiab stseeni alguses käes valget koogikarpi, mis on hilisematel hetkedel kadunud.",
+        "Stseeni keskel on peategelane lihtsalt edasi kõndimas, koogikarbi asemel on tema käed tühjad.",
+        "Stseeni lõpus kummardub peategelane ettepoole, andes märku, et ta on midagi maha pillanud või proovib midagi maast üles võtta."
+      ],
+      "snr": "053",
+      "ajad": [
+        "334.834",
+        "338.872"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist päikesetõusu või -loojangut horisondi kohal lumisel maastikul. Päike asub vasakul pool kaadrit, kiirates eredat valgust ja tekitades silmapaistva tähekujulise valgussähvatuse üle kaadri. Maapind on kaetud lumega, viidates talvisele aastaajale. Kauguses, paremal pool, paistavad tumedad, kandilised hooned siluettidena vastu taevast. Taevas on helesinine ülemises osas ja muutub horisondi lähedal intensiivsemaks oranžikaskollaseks päikesevalguse tõttu. Üldmulje on külm ja karge, tegemist on õues pildistatud stseeniga, mis võib olla osa videost tänu kaadritevahelisele kergele nihkele ja udususele.",
+      "actions": [
+        "Pole näha otseseid inimtegevusi",
+        "Kaamera liikumine on ilmne, kuna hooned ja maastik nihkuvad kaadrite vahel"
+      ],
+      "keywords": [
+        "Päikesetõus",
+        "Päikeseloojang",
+        "Talv",
+        "Lumi",
+        "Maastik",
+        "Horisont",
+        "Hooned",
+        "Siluett",
+        "Külm",
+        "Karge",
+        "Udune",
+        "Valgussähvatus",
+        "Koidik",
+        "Videvik",
+        "Loodusvaade"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Päike",
+        "Lumi",
+        "Hooned",
+        "Taevas",
+        "Horisont",
+        "Võimalikud puud või võsa"
+      ],
+      "colorcodes": [
+        "#57779C",
+        "#F2A70C",
+        "#A3ADB8",
+        "#3A3D41"
+      ],
+      "texts": [
+        "I lifted the edge of the cake and pushed the cream back in. Closed it. Got a signature and off I went."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "morning or evening",
+      "differences": [
+        "Esimene pilt sisaldab alumises osas valget teksti mustal taustal, mis teistel piltidel puudub.",
+        "Hoone siluetid paremal ja maastiku elemendid nihkuvad kaadrite vahel kergelt vasakule, viidates kaamera liikumisele või video kaadritele.",
+        "Päikesesähvatuse muster ja intensiivsus varieeruvad kergelt kaadrite vahel, samuti valguse peegeldused maapinnal.",
+        "Kõik pildid on kergelt udused ja pikseldatud, mis võib viidata madalale resolutsioonile või liikumisele pildistamise ajal."
+      ],
+      "snr": "055",
+      "ajad": [
+        "346.846",
+        "352.986"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast pimedat ja süngelt valgustatud sõiduki interjööri, tõenäoliselt auto kabiini öösel. Kesksel kohal on meessoost isik, kelle ülakeha on näha. Tema nägu on osaliselt varjudesse mattunud, kuid mingi valgusallikas valgustab seda alt või küljelt, andes edasi mõtliku või pingelise ilme. Isik vaatab kergelt üles ja vasakule kaadrist välja. Üldine atmosfäär on salapärane ja pime. Üks kaader on teistest märkimisväärselt tumedam ja hägusem, peaaegu abstraktne, näidates arvatavasti liikumist või fookuse muutust tumedale ümbrusele, kus detailid kaovad peaaegu täielikult sügavale pimedusse.",
+      "actions": [
+        "Vaatamine",
+        "Sõidukis viibimine"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Öö",
+        "Sõiduk",
+        "Auto",
+        "Interjöör",
+        "Meessoost isik",
+        "Vari",
+        "Hämarus",
+        "Pingeline",
+        "Salapärane"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Auto lagi",
+        "Auto sisemus"
+      ],
+      "colorcodes": [
+        "#0C0C0D",
+        "#202428",
+        "#4A4C4E",
+        "#2A2E30",
+        "#181C1D"
+      ],
+      "texts": [],
+      "persons": [
+        "Meessoost isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesed kaks pilti on valguselt ja selguselt sarnased, kujutades meessoost isikut autos, kusjuures teisel pildil on isiku nägu ehk pisut selgemalt nähtav.",
+        "Kolmas pilt on oluliselt tumedam, hägusem ja detailivaesem, keskendudes vähem konkreetsele isikule ja rohkem üldisele tumedale ümbrusele või liikumisele."
+      ],
+      "snr": "056",
+      "ajad": [
+        "352.986",
+        "357.824"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist autosõitu läbi pimeda maastiku, tõenäoliselt talvisel või varakevadisel ajal, kuna tee on kaetud lume või märja libedaga. Vaade on filmitud auto esiklaasist, pakkudes juhi perspektiivi. Esimesel pildil on näha vastutuleva auto ere esituli, mis peegeldub märjal teepinnal. Teine ja kolmas kaader näitavad laiemaid teelõike, kus tee servas on lumega kaetud põõsad või maastik. Kogu stseeni valgustavad auto esituled, tänavavalgustid ja kaugemal paistvad valgusallikad. Üldmulje on pime ja jahe, rõhutades pimeduse ja kunstliku valguse kontrasti. Kahel viimasel pildil on nähtav ingliskeelne subtiiter, mis viitab hallutsinatsioonidele või ebatavalistele nägemustele sõidu ajal.",
+      "actions": [
+        "Sõitmine autoga pimedas",
+        "Tee valgustamine auto esituledega",
+        "Valgusallikate peegeldumine märjal teel",
+        "Teksti lugemine subtiitritelt"
+      ],
+      "keywords": [
+        "Öö",
+        "Autosõit",
+        "Tee",
+        "Pimedus",
+        "Esituled",
+        "Tänavavalgustus",
+        "Lumi",
+        "Talv",
+        "Maantee",
+        "Libedus",
+        "Subtiitrid",
+        "Hallutsinatsioonid",
+        "Sõiduk",
+        "Juhi vaade"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Auto esiklaas",
+        "Auto tuuleklaasipuhasti (osaliselt)",
+        "Auto esituled (endasõitvad ja vastutulevad)",
+        "Tee",
+        "Lumi teel ja tee servas",
+        "Tänavavalgustuspostid",
+        "Tänavavalgustid",
+        "Põõsad/puud",
+        "Teised autod",
+        "Märjad/libedad teepinnad",
+        "Liiklusmärgid (tekstis mainitud ja teisel pildil paistev märk)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#CCCCCC",
+        "#333333",
+        "#F0F0F0",
+        "#999999",
+        "#1E1E1E"
+      ],
+      "texts": [
+        "I've seen gigantic fruits, running traffic signs and dragons fighting in the air.",
+        "I've seen road, where there wasn't any and I was turning onto that road."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on fookusest veidi väljas ja näitab vastutulevat autot ja märga teed puude vahel, teine ja kolmas pilt on selgemad ja näitavad laiemaid, avatumaid lumiseid teelõike, mis viitavad pigem maapiirkonnale.",
+        "Subtiitrid on olemas teisel ja kolmandal pildil, kuid puuduvad esimeselt pildilt.",
+        "Esimesel pildil paistab auto esiklaas olevat märg ja on näha tuuleklaasipuhasti osa, mis viitab vihmale või märjale ilmale, samas kui teisel ja kolmandal pildil on tee selgemalt kaetud lume või jääga.",
+        "Valguse ja pimeduse kontrast on esimesel pildil intensiivsem vastutulevate esitulede tõttu, samas kui teised pildid on ühtlasemalt valgustatud enda auto esituledega."
+      ],
+      "snr": "057",
+      "ajad": [
+        "357.824",
+        "374.841"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pimedat lumist teed talvisel ööl. Vaade on ilmselt sõiduki seest, mille esituled valgustavad koheselt eesolevat teelõiku. Tee ääres paistavad tänavavalgustid vasakul ja valgustipostid paremal. Ühel hetkel ilmub teele vasakule jalutav jõuluvana kostüümis isik. Hiljem kaob jõuluvana ja paremalt kaugelt läheneb eredate tuledega sõiduk, valgustades seda ala intensiivselt. Tekst viitab hallutsinatsioonidele või ebatavalistele sündmustele autoroolis, mainides teed, mida polnud, ja jõuluvana naermas, kui ta kraavi poole sõitis.",
+      "actions": [
+        "Sõiduki juhtimine",
+        "Jõuluvana kõndimine",
+        "Sõiduki lähenemine"
+      ],
+      "keywords": [
+        "Pime tee",
+        "Lumi",
+        "Talv",
+        "Öö",
+        "Jõuluvana",
+        "Hallutsinatsioonid",
+        "Sõitmine",
+        "Tänavavalgustus",
+        "Kraav"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Tee",
+        "Lumi",
+        "Tänavavalgustid",
+        "Valgustipostid",
+        "Sõiduki esituled",
+        "Sõiduk (lähenev, kaudselt)",
+        "Jõuluvana kostüüm"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#C0C0C0",
+        "#FF0000",
+        "#FFFF00"
+      ],
+      "texts": [
+        "I've seen road, where there wasn't any and I was turning onto that road.",
+        "I've seen Santa Claus laughing at me while I was driving towards a ditch."
+      ],
+      "persons": [
+        "Jõuluvana"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on näha ainult lumine tee tänavavalgustitega.",
+        "Teisel pildil ilmub teele vasakule jõuluvana kostüümis isik.",
+        "Kolmandal pildil on jõuluvana kadunud ja paremalt kaugelt läheneb eredate esituledega sõiduk, samas kui tee vasak pool tundub olevat kraavile lähemal, nagu tekstist selgub."
+      ],
+      "snr": "058",
+      "ajad": [
+        "374.841",
+        "384.284"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealist naist pimedas keskkonnas, mis jätab mulje sõidust mingis pimedas atraktsioonis või tunnelis. Naine kannab roosakas-punast kapuutsi ja tal on juustes suur punane vibu. Tema käed on pidevas liikumises – esimesel kaadril on need laiali sirutatud, teisel lainetab üks käsi ja kolmandal on käed kokku pandud või millestki kinni hoidmas. Naine vaatab ettepoole, justkui reageeriks ümbritsevale liikumisele või sündmustele. Pildil on ka subtiitrid, mis viitavad, et ta on näinud Miki Hiirt ja kõndivaid puid, mis annab aimu fantaasiarikka või animatsiooniteemalise keskkonna kohta. Üldvalgustus on väga madal, luues salapärase ja veidi hirmutava õhkkonna.",
+      "actions": [
+        "Kätega žestikuleerimine",
+        "Kätega lainetamine",
+        "Võimalik millegi küljes hoidmine",
+        "Ümbritsevale reageerimine"
+      ],
+      "keywords": [
+        "Pime",
+        "Atraktsioon",
+        "Sõit",
+        "Naine",
+        "Vibu",
+        "Roosa",
+        "Fantaasia",
+        "Animatsioon",
+        "Miki Hiir",
+        "Kõndivad puud",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Punane vibu",
+        "Roosakas-punane kapuuts",
+        "Tume sõiduki osa (võimalik)",
+        "Pime taust"
+      ],
+      "colorcodes": [
+        "#E06666",
+        "#8B0000",
+        "#101010",
+        "#FFFFFF",
+        "#C69A81"
+      ],
+      "texts": [
+        "I've seen several times Mickey Mouse and also walking trees."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Naise käte asend ja žestid muutuvad kaadrite vahel. Esimeses kaadris on käed laiali, teises on üks käsi tõstetud lainetavasse asendisse ja kolmandas on käed kokku pandud või millegi küljes kinni.",
+        "Naise näoilme on veidi erinevates kaadrites, pakkudes erinevaid nüansse emotsioonides ja reaktsioonides."
+      ],
+      "snr": "059",
+      "ajad": [
+        "384.284",
+        "389.856"
+      ]
+    },
+    {
+      "explanation": "Öine või varahommikune talvine tänavavaade ristmikust või mitmerealisest teest. Stseen on kaetud lumega, eriti teeääred ja keskmine haljasala. Teed ise on suures osas lumest puhtad, kuid näivad märjad, mis viitab lumesajule või sulamisele. Keskel on näha valgusfoori, mille all on sinine ümmargune liiklusmärk. Tänavavalgustus valgustab stseeni nõrgalt, andes lumele kollakasvalge tooni ja tekitades pikki varje. Kauguses on märgata sõidukite tulesid. Üldine meeleolu on vaikne ja külm.",
+      "actions": [
+        "valgusfoori tuli muutub"
+      ],
+      "keywords": [
+        "talv",
+        "lumi",
+        "öö",
+        "tänav",
+        "liiklusfoor",
+        "ristmik",
+        "tee",
+        "külm",
+        "pime",
+        "märjad teed",
+        "lumised teeääred",
+        "tänavavalgustus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "valgusfoor",
+        "liiklusmärk",
+        "tee",
+        "lumi",
+        "tänavavalgustus",
+        "elektriliinid (kauguses)",
+        "sõidukite tuled (kauguses)"
+      ],
+      "colorcodes": [
+        "#2F3131",
+        "#E0DEDB",
+        "#FFC000",
+        "#008000",
+        "#0000FF"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Ainus märgatav erinevus piltide vahel on valgusfoori tuli. Esimesel ja teisel pildil põleb valgusfooris kollane (merevaigukollane) tuli, kolmandal pildil aga roheline tuli."
+      ],
+      "snr": "060",
+      "ajad": [
+        "389.856",
+        "390.957"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast talvist linnatänavat öisel ajal, kus on näha liiklust ja kunstlikku valgustust. Tee ääres ja tee servades on lumi, mis annab märku külmast aastaajast. Tänaval sõidab mitmeid autosid, mille esituled ja tagatuled valgustavad pimedust. Taamal paistavad hooned, mille akendest kumab valgust. Tänaval on ka tänavalambid ja dekoratiivsed valgustid, mis meenutavad tähti või lumehelbeid, lisades stseenile pidulikkust. Üldine atmosfäär on hämar, kuid valgustatud linnavalgustusega. Teepinnal on näha autode liiklust, kusjuures valguslaigud annavad aimu sõidukite edasiliikumisest.",
+      "actions": [
+        "Autod sõidavad tänaval",
+        "Tänav ja hooned on valgustatud"
+      ],
+      "keywords": [
+        "Öö",
+        "Linnatänav",
+        "Talv",
+        "Lumi",
+        "Autod",
+        "Valgus",
+        "Liiklus",
+        "Külm",
+        "Dekoratsioonid",
+        "Pime"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Autod (punane, tumedad)",
+        "Tänav",
+        "Lumi",
+        "Hooned",
+        "Tänavalambid",
+        "Dekoratiivvalgustid",
+        "Esituled",
+        "Tagatuled",
+        "Asfalt",
+        "Reklaam- või infosilt"
+      ],
+      "colorcodes": [
+        "#1E1E1E",
+        "#A9E1FF",
+        "#FFFFFF",
+        "#FF0000",
+        "#404040",
+        "#8B8B8B",
+        "#FFA500"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Erinevus piltide vahel seisneb peamiselt autode liikumises ja valguse hajumises/nihkes. Esimesel pildil on vasakul teepoolsel rajal selgemalt näha punane ja tumedam auto tagatuledega. Teisel pildil on need autod kas edasi liikunud või kaadri fookus on muutunud, ning keskel olevad valgusallikad (tõenäoliselt lähenevate autode esituled) on intensiivsemad ja laiemalt hajutatud. Kolmandal pildil on vasakpoolsed autod kadunud või veelgi kaugemale liikunud ning keskel olevad valgusallikad on veelgi eredamad ja laiemalt levinud, mis annab aimu aja möödumisest ja liiklusvoolu jätkumisest."
+      ],
+      "snr": "061",
+      "ajad": [
+        "390.957",
+        "392.692"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist öist linnakeskkonda, kus lumi katab tee ja teeääred. Keskel on lai sõidutee, mis on osaliselt lumine ja märg, viidates libedatele oludele. Teel liiguvad mitmed autod, mille esituled ja tagatuled on sisse lülitatud, valgustades ümbritsevat. Teed ääristavad tänavavalgustuspostid, millel on eristuvad sinakaskad valgusallikad, mis meenutavad V-kujulisi laternaid. Taustal on näha tumedaid hooneid ja paljaid puid. Paremal pool ääristab teed lumega kaetud madal piire või äärekivi. Vasakul pool on samuti lumised teeääred ja puid, mis sulanduvad pimedasse tausta. Üldine atmosfäär on jahe ja vaikne, mida rõhutab kunstliku valguse kuma lumisel maastikul.",
+      "actions": [
+        "Autod sõidavad mööda lumist teed",
+        "Tänavavalgustus valgustab stseeni",
+        "Lumi katab maapinda ja teed"
+      ],
+      "keywords": [
+        "Talv",
+        "Öö",
+        "Lumi",
+        "Sõidutee",
+        "Liiklus",
+        "Autod",
+        "Tänavavalgustus",
+        "Linn",
+        "Külm",
+        "Libedad teed"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Autod",
+        "Lumi",
+        "Tänavavalgustuspostid",
+        "Tuled",
+        "Tee",
+        "Piire",
+        "Puud",
+        "Hooned"
+      ],
+      "colorcodes": [
+        "#d3d3d3",
+        "#000033",
+        "#ADD8E6",
+        "#FFFFFF",
+        "#FFA500",
+        "#4682B4"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Sinine auto liigub kaadrite vahel edasi, algul kaugemal, seejärel keskel ja lõpuks vasakul pool kaadrist väljumas.",
+        "Kaadrite vahel muutub teiste autode positsioon ja hulk, peegeldades liiklusvoogu.",
+        "Üldine fookus ja valgustus püsivad samad, kuid liikuvate objektide asukohad muutuvad."
+      ],
+      "snr": "062",
+      "ajad": [
+        "392.692",
+        "394.427"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist linnaööd, kus lumi katab teed ja teeservad, moodustades kõrgeid lumekuhja. Tegemist on laia maanteega või bulvariga, millel liigub tihe autode ja ühistranspordi liiklus. Sõidukite esituled ja tagatuled valgustavad pimedat teed, luues valgusejälgi ja peegeldusi märjal või lumisel asfaldil. Taustal paistavad tumedad hooned ja tänavavalgustid, sealhulgas iseloomulikud sinakasvalgete teemantikujuliste valguselementidega laternad, mis annavad stseenile erilise ilme. Üldine õhkkond on külm, pime, kuid elav tänu linnaliiklusele.",
+      "actions": [
+        "sõitma",
+        "liiklema",
+        "valgustama",
+        "peegeldama"
+      ],
+      "keywords": [
+        "talv",
+        "öö",
+        "linn",
+        "lumi",
+        "maantee",
+        "liiklus",
+        "valgused",
+        "sõidukid",
+        "külm",
+        "pime",
+        "linnaöö",
+        "lumine tee"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "auto",
+        "buss",
+        "lumi",
+        "tee",
+        "tänavavalgusti",
+        "hoone",
+        "valgus",
+        "lumekuhjad"
+      ],
+      "colorcodes": [
+        "#1D1D21",
+        "#D0D0D0",
+        "#F5A030",
+        "#B0E0FF",
+        "#505050"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on vasakul esiplaanil suur auto, mis liigub vaataja poole, ja keskel-paremal on näha suur valgustatud buss. Teisel pildil on vasakpoolne auto liikunud edasi ja on väiksem, buss on kadunud ning paremal serval on näha teine auto. Kolmandal pildil on sõidukite asukohad taas veidi muutunud: paremal olev auto on veidi kaugemale liikunud ning vasakpoolne auto on veelgi eemaldunud. Valgusjäljed ja liikumisdünaamika varieeruvad kaadrite vahel, mis viitab järjestikustele ajahetkedele."
+      ],
+      "snr": "063",
+      "ajad": [
+        "394.427",
+        "398.531"
+      ]
+    },
+    {
+      "explanation": "Stseen algab noormehe lähiplaaniga, kes on mõtlik või kurbade silmadega, vaatab kaamerast veidi paremale alla. Tal on pruunid, sassis juuksed ja seljas rohelist ning pruuni värvi spordijakk, mille rohelisel osal on näha logo 'Bing'. Tema tagapõhi on pime, mis annab edasi intiimse ja keskendunud atmosfääri. Kaadril kuvatav tekst viitab mineviku unistustele ja plaanidele enne muutust elus. Seejärel nihkub stseen avaraks öiseks tänavavaateks, kus on näha lumiseid ja lörtsiseid tänavaid, hooneid ja parkivat autot. Keskplaanis jalutab tänaval keegi inimene, ilmselt sama noormees, andes edasi loo jätkumise vabas õhus, talvises linnas. Teine tekst kaadril viitab vajadusele oma unistused ja plaanid uuesti meelde tuletada. Üldiselt on tegemist jutustava stseeniga, mis kujutab üleminekut isiklikust mõtisklusest välisele, reaalsele maailmale.",
+      "actions": [
+        "Mõtisklemine",
+        "Jalutamine",
+        "Rääkimine (teksti kaudu)"
+      ],
+      "keywords": [
+        "Mõtisklus",
+        "Mälestused",
+        "Unistused",
+        "Talv",
+        "Linnatänav",
+        "Öö",
+        "Transporter",
+        "Üleminek",
+        "Melanhoolia"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Noormees",
+        "Spordijakk",
+        "Tänav",
+        "Hooned",
+        "Auto",
+        "Lumi",
+        "Lörts",
+        "Puud",
+        "Tänavavalgustid"
+      ],
+      "colorcodes": [
+        "#0C0C0C",
+        "#8B9E78",
+        "#402F2E",
+        "#2C2D39",
+        "#D9D9D9",
+        "#917765",
+        "#F1A10F"
+      ],
+      "texts": [
+        "Before I became a transporter I had dreams and plans",
+        "Now I have to start thinking again what they were."
+      ],
+      "persons": [
+        "Noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimene ja teine pilt on peaaegu identsed, erinevus on minimaalses valguses/värvisaturatsioonis ja jakil oleva 'Bing' logo nähtavuses.",
+        "Kolmas pilt erineb kahest esimesest oluliselt kaadri tüübi poolest, liikudes lähiplaanilt laiaks plaaniks.",
+        "Stseen liigub esimese kahe pildi pimedalt taustalt kolmanda pildi öisele, lumisele linnatänavale.",
+        "Noormees on esimestes kaadrites keskne fookus, kolmandas pildis on ta väike figuur tänavavaates.",
+        "Tekst kaadril muutub esimese kahe pildi vahel teiseks lauseks kolmandal pildil."
+      ],
+      "snr": "064",
+      "ajad": [
+        "398.531",
+        "408.541"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja lumist linnatänavat öösel. Vasakul pool on näha hooneid, mille akendest paistab nõrk valgus. Tänav ja kõnnitee on kaetud lumega. Paremal pool on pargitud mitu autot, samuti lumega kaetud. Paremal ääres on osaliselt näha suurt kollakasrohelist sõidukit, mis meenutab bussi või veokit. Keskmises plaanis kõnnib tänaval või kõnniteel üks inimene. Üldine atmosfäär on vaikne, külm ja veidi kõle, mida rõhutavad ekraanil kuvatavad kurvameelsed subtiitrid, mis viitavad rutiinile, rahulolematusele tööga ja aja möödumise ootusele.",
+      "actions": [
+        "Kõndimine",
+        "Ootamine (tööaja lõppu)",
+        "Mõtlemine",
+        "Kordumine (igapäevase rutiini)"
+      ],
+      "keywords": [
+        "Talv",
+        "Öö",
+        "Lumi",
+        "Tänav",
+        "Linnamaastik",
+        "Üksildus",
+        "Rutiin",
+        "Igavus",
+        "Töö",
+        "Subtiitrid",
+        "Sõiduk",
+        "Hooned"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Lumi",
+        "Tänav",
+        "Kõnnitee",
+        "Hooned",
+        "Autod",
+        "Kollakasroheline sõiduk (buss/veok)",
+        "Valgus (akendest)"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#E0E0E0",
+        "#808080",
+        "#A2AD4B",
+        "#F0F8FF"
+      ],
+      "texts": [
+        "Now I have to start thinking again what they were.",
+        "Let's be honest, it's a crap job. I just wait for the day to end, so I could do other things.",
+        "And the next day everything recurs."
+      ],
+      "persons": [
+        "Üksik inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Peamine erinevus kaadrite vahel on kuvatavate subtiitrite tekst. Visuaalselt on stseen kaadrite lõikes peaaegu identne, välja arvatud võimalikud väga väikesed nihked kõndiva inimese positsioonis või videokaadritele omased valguse/müra variatsioonid."
+      ],
+      "snr": "065",
+      "ajad": [
+        "408.541",
+        "418.551"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1033 @@
+{
+  "film": [
+    "18734",
+    "18589",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Intervjuu Peep Puksiga",
+    "3ad84c87c51cbeaaa200278d504ee8ffd3ed64b5.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täielikus pimeduses, kus kolm hägust ja ümmargust valguspunkti hõljuvad ekraani keskel vasakul. Valguspunktid on esialgu helehallid ja tumehallid, luues uduse bokeh-efekti. Seejärel muutuvad valguspunktid fookusesse ja omandavad selged värvid: üks on tumesinine, teine erepunane (suurim) ja kolmas valge. Koos värvide selginemisega ilmub punase ringi paremale küljele valge tekst \"B M\". Lõpuks kaob kogu visuaalne element ja ekraan muutub täiesti mustaks. Tegemist on minimalistliku logoanimatsiooniga mustal taustal.",
+      "actions": [
+        "Hägusad valguspunktid tulevad fookusesse",
+        "Ringid omandavad värvid",
+        "Tekst ilmub ekraanile",
+        "Kõik visuaalsed elemendid kaovad"
+      ],
+      "keywords": [
+        "Logoanimatsioon",
+        "Bränding",
+        "Minimalistlik",
+        "Ringid",
+        "Bokeh",
+        "Pimedus",
+        "Digitaalne efekt",
+        "Intro"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Ringid",
+        "Valguspunktid",
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#243657",
+        "#FF0000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [
+        "B M"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "95",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on kolm hägust, fookusest väljas olevat hallikat valguspunkti mustal taustal.",
+        "Teisel pildil on samad valguspunktid teravad ja värvilised (tumesinine, punane, valge), ning nende kõrvale on ilmunud valge tekst \"B M\".",
+        "Kolmas pilt on täiesti must, ilma igasuguste visuaalsete elementideta."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "6.840"
+      ]
+    },
+    {
+      "explanation": "Stseenil on mustal taustal valge tekst, mis on paigutatud ekraani keskele. Tekst on kirjutatud omanäolise, stiliseeritud kirjastiiliga, mis meenutab Art Deco ajastu tüpograafiat. Taust on ühtlaselt sügavmust, esile tuues ainult teksti. Tegemist on tiitliga, mis annab märku eelseisvast intervjuust.",
+      "actions": [],
+      "keywords": [
+        "tiiter",
+        "tekstiekraan",
+        "must taust",
+        "valge tekst",
+        "Art Deco",
+        "intervjuu"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "INTERVJUU PEEP PUKSIGA"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "002",
+      "ajad": [
+        "6.840",
+        "11.178"
+      ]
+    },
+    {
+      "explanation": "Stseen algab tiitlikaardiga, millel on mustal taustal valge stiliseeritud kirjaga tekst \"INTERVJUU PEEP PUKSIGA\". Seejärel siirdub kaamera välisvaatele väärikast, mitmekorruselisest hoonest, mis on ehitatud karedatest, heledatest kiviplokkidest, tõenäoliselt paekivist. Hoone arhitektuuris on klassikalised detailid akende ümber ja silmapaistev kaarjas puidust peauks, mille kohal on number '9'. Mitmed aknad helendavad seest sooja, kollaka valgusega, andes märku hõivatusest. Vasakul on näha väikest osa punakat värvi hoonest, mis loob kontrasti peahoonega. Paremal pool valgustab tänavavalgusti hoone osa ja seinale on paigaldatud turvakaamera. Hoone ees olev maapind on kaetud õhukese lume- või härmatiskihi kihi, mis viitab talvele. Stseeni arenedes kõnnib üksik figuur, tumedasse mantlisse ja võimalik, et mütsi või kapuutsi riietatuna, kiirel sammul vasakult paremale mööda lumist kõnniteed, näides liikumise tõttu veidi hägusena. Allpool on ingliskeelne subtiiter: \"Peedu Ojamaa was the head editor in Tallinnfilm\". Üldine valgus viitab õhtusele või öisele ajale.",
+      "actions": [
+        "Tiitli kuvamine",
+        "Inimene kõnnib mööda tänavat",
+        "Valgus paistab hoone akendest"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Hoone",
+        "Talv",
+        "Õhtu",
+        "Lumi",
+        "Arhitektuur",
+        "Vanalinn",
+        "Ajalooline",
+        "Peatoimetaja",
+        "Tänav",
+        "Subtiitrid"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone",
+        "Kiviplokid",
+        "Aknad",
+        "Uks",
+        "Rõdu",
+        "Tänavavalgusti",
+        "Turvakaamera",
+        "Inimene",
+        "Mantel",
+        "Müts/kapuuts",
+        "Lumi/härmatis",
+        "Tekstikaart"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#E0E0E0",
+        "#B0B0B0",
+        "#F8D8A0",
+        "#503020",
+        "#B04040",
+        "#303040",
+        "#151515",
+        "#D0D0D0",
+        "#FFFFC0"
+      ],
+      "texts": [
+        "INTERVJUU PEEP PUKSIGA",
+        "9",
+        "Peedu Ojamaa was the head editor in Tallinnfilm"
+      ],
+      "persons": [
+        "Peep Puks",
+        "Peedu Ojamaa"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "evening",
+      "differences": [
+        "Stseen algab tiitlikaardiga, millele järgnevad välisvõtted hoonest.",
+        "Varasematel kaadritel puudub inimfiguur, mis ilmub hiljem kõnniteele.",
+        "Viimasel kaadril on lisaks visuaalsele infole ka ingliskeelne subtiiter."
+      ],
+      "snr": "003",
+      "ajad": [
+        "11.178",
+        "20.187"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest, tõenäoliselt intervjuu käigus, istumas siseruumides tumedal tugitoolil. Ta kannab tumedat ruudulist kampsunit ja prille. Mees räägib aktiivselt, žestikuleerides kätega, et rõhutada oma juttu. Kaamera on keskendunud mehe ülakehale ja näole. Taustal on suur aken, millest avaneb vaade linnamastikule talvisel päeval – väljas on näha lund, puid ja hooneid, mis selgelt viitab talvele. Aknalaual on näha mõned heledad esemed. Pildi vasakus esiplaanis on näha helepruunist puidust laud, mille all on näha ka radiaator. Kaadrite allosas jooksevad ingliskeelsed subtiitrid.",
+      "actions": [
+        "Istumine tugitoolil",
+        "Rääkimine",
+        "Žestikuleerimine kätega",
+        "Vaatamine (tõenäoliselt intervjueerijale)"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Siseruum",
+        "Aken",
+        "Talv",
+        "Žestikuleerimine",
+        "Subtiitrid",
+        "Kampsun",
+        "Prillid",
+        "Laud",
+        "Tallinnfilm"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Tugitool",
+        "Aken",
+        "Aknalaud",
+        "Laud (puidust)",
+        "Prillid",
+        "Kampsun",
+        "Särk",
+        "Radiaator",
+        "Hooneid",
+        "Puud",
+        "Lumi",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#23282D",
+        "#C49D80",
+        "#4B3C3E",
+        "#A88362",
+        "#DDE2E6",
+        "#B6B9BD",
+        "#AE8A5D"
+      ],
+      "texts": [
+        "Peedu Ojama was the head editor in Tallinnfilm",
+        "but I can see them right here.",
+        "boiling creative process."
+      ],
+      "persons": [
+        "Peedu Ojama"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe käte asend muutub iga kaadriga, illustreerides tema žestikuleerimist rääkimise ajal.",
+        "Mehe suu asend varieerub piltidel, näidates tema kõnet.",
+        "Ekraani allosas olevad ingliskeelsed subtiitrid muutuvad iga kaadriga vastavalt räägitavale tekstile."
+      ],
+      "snr": "004",
+      "ajad": [
+        "20.187",
+        "111.445"
+      ]
+    },
+    {
+      "explanation": "Pildil on näha meesterahvast poolkaadris, kes kannab tumesinist või musta ruudulist kampsunit ja heledat triibulist särki. Tema särgikraele on kinnitatud väike mikrofon, mis viitab vestlusele või intervjuule. Mees žestikuleerib aktiivselt kätega, liikudes asendist, kus käed on laiali, näidates suurust või ulatust, asendisse, kus üks käsi on ettepoole sirutatud ja teine keha lähedal, rõhutades räägitut. Tema vasakul käel, sõrmusesõrmes, on näha sõrmust. Tagaplaan on udune, kuid näha on heledat seina kahe halli elektriseadme või pistikupesaga, millest väljuvad tumedad juhtmed. Stseeni allosas on valged subtiitrid.",
+      "actions": [
+        "Žestikuleerimine",
+        "Rääkimine (subtiitrite põhjal)",
+        "Istumine"
+      ],
+      "keywords": [
+        "Mees",
+        "Žestikuleerimine",
+        "Vestlus",
+        "Intervjuu",
+        "Kampsun",
+        "Särk",
+        "Mikrofon",
+        "Elektriseade",
+        "Pistikupesa",
+        "Subtiitrid",
+        "Rääkija"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kampsun",
+        "Särk",
+        "Mikrofon",
+        "Käed",
+        "Sõrmus",
+        "Elektriseadmed",
+        "Pistikupesad",
+        "Juhtmed",
+        "Sein",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#1D232E",
+        "#A7AFBC",
+        "#BF9C78",
+        "#E7E7E7",
+        "#CDCED1",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "boiling creative process.",
+        "And it was immensely interesting"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe käte asend muutub žestikuleerimisel. Esimesel pildil on käed rohkem laiali ja sümmeetrilisemalt paigutatud, justkui suurust näidates. Teisel pildil on parem käsi (vaataja vasak käsi) ettepoole ja allapoole suunatud, vasak käsi (vaataja parem käsi) on keha lähedale toodud, mis viitab selgitavale või rõhutavale žestile.",
+        "Subtiitrite tekst muutub vastavalt räägitule."
+      ],
+      "snr": "005",
+      "ajad": [
+        "111.445",
+        "114.698"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest istumas tumehallis või lillas tugitoolis siseruumis, tõenäoliselt kontoris või koosolekusaalis. Mees on keskeast vanem, prillidega ja tal on seljas tumesinine või must ruudulise mustriga kampsun helesinise särgi peal. Ta žestikuleerib aktiivselt oma kätega ja räägib, olles ilmselt intervjuul või vestluses. Tagaplaanile jäävad suured valge raamiga aknad, mis avanevad talvisele maastikule. Väljas on näha lumega kaetud maapind, puid ja hooneid, samuti üks inimene punases jopes kõndimas. Akendest paistab päevavalgus. Kaadri vasakus servas on näha heledast puidust laua serva. Stseen on üldiselt rahuliku, kuid intellektuaalse tooniga.",
+      "actions": [
+        "Istumine",
+        "Rääkimine",
+        "Žestikuleerimine kätega",
+        "Vestlemine"
+      ],
+      "keywords": [
+        "Mees",
+        "Intervjuu",
+        "Kontor",
+        "Talv",
+        "Aken",
+        "Prillid",
+        "Kampsun",
+        "Vestlus",
+        "Žestikuleerimine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Prillid",
+        "Must kampsun",
+        "Helesinine särk",
+        "Tume tugitool",
+        "Laud",
+        "Aken",
+        "Hooned",
+        "Lumi",
+        "Puu",
+        "Inimene väljas"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#99b3d1",
+        "#a08c5c",
+        "#4c2f4c",
+        "#b38f6b",
+        "#e0e6ec",
+        "#a03c3c"
+      ],
+      "texts": [
+        "the director and editors and then",
+        "you could use at least two days"
+      ],
+      "persons": [
+        "Mees",
+        "Inimene väljas"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil ei ole subtiitreid, mehe parem käsi on avatud, vasak käsi veidi allpool ja keel on kergelt väljas.",
+        "Teisel pildil ilmuvad ingliskeelsed subtiitrid: 'the director and editors and then'. Mehe parem käsi on kergelt suletud ja keel ei ole enam väljas.",
+        "Kolmandal pildil on subtiitrid muutunud: 'you could use at least two days'. Mehe parem käsi on veelgi suletud ja osutavas žestis, vasak käsi toetub süles."
+      ],
+      "snr": "006",
+      "ajad": [
+        "114.698",
+        "139.681"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest, kes istub siseruumides tumedas mugavas tugitoolis. Tal on seljas tume, ruuduline kampsun ja selle all helesinine kraega särk. Mehel on prillid ja ta vaatab otse kaamerasse, naeratades kergelt ning žestikuleerides elavalt kätega. Tema vasak käsi toetub tugitooli käsitoele, samal ajal kui parem käsi teeb erinevaid liigutusi – ühel hetkel näppude vahel midagi hoidvat žesti ja teisel avatud peopesaga viipavat liigutust. Vasakul käe sõrmusesõrmes on näha sõrmust. Taustal on suur aken, mis avab vaate õue. Väljas paistavad raagus puud ja hallikas taevas, vihjates talvisele või jahedale aastaajale. Akna all on valge radiaator ja pikk hele laud või riiul, millel on näha elektrilisi pistikupesasid ja juhtmeid. Paremal pool on näha osa puidust kapist, mille peal seisab oranži ja valgetriibuline vaas roheliste taimedega. Ruum on päevasel ajal eredalt valgustatud. Ekraani allosas on subtiitrid, mis muutuvad intervjuu käigus.",
+      "actions": [
+        "Istumine",
+        "Vestlemine",
+        "Žestikuleerimine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Siseruum",
+        "Talv",
+        "Vestlus",
+        "Žestikuleerimine",
+        "Aken",
+        "Mööbel",
+        "Subtiitrid",
+        "Prillid",
+        "Kampsun",
+        "Raagus puud"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Tugitool",
+        "Prillid",
+        "Kampsun",
+        "Särk",
+        "Sõrmus",
+        "Aken",
+        "Radiaator",
+        "Laud",
+        "Riiul",
+        "Pistikupesad",
+        "Juhtmed",
+        "Kapid",
+        "Vaas",
+        "Taimed",
+        "Raagus puud"
+      ],
+      "colorcodes": [
+        "#2F3E46",
+        "#5A444C",
+        "#ADD8E6",
+        "#FFA500",
+        "#F5F5DC",
+        "#FFFFFF",
+        "#8B4513",
+        "#E0E0E0"
+      ],
+      "texts": [
+        "you could use at least two days",
+        "and the other to film and come back."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5-10",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe parema käe asend on muutunud.",
+        "Subtiitrite tekst on muutunud."
+      ],
+      "snr": "007",
+      "ajad": [
+        "139.681",
+        "147.856"
+      ]
+    },
+    {
+      "explanation": "Stseen algab sisekeskkonnas, kus vanem mees istub tugitoolis, rääkides ja žestikuleerides kätega. Tal on seljas tume kampsun heleda kraega särgi peal ja ta kannab kuldsete raamidega prille. Mehe juuksed on hõredad ja hallikad. Tema taga on suured aknad, millest paistab välja talvine maastik lumega kaetud maa, puude ja hoonetega, viidates linnakeskkonnale. Mehe kõrval vasakul on heledast puidust laud. Hiljem nihkub fookus detailsemalt laual lamavale fotole, mis kujutab suurt gruppi inimesi, kes on kogunenud välitingimustes lõkke ümber. Fotol näeb eri vanuses mehi ja naisi, riietatud suviselt, ümbritsetuna rohelusest ja puudest, mis viitab suvele ja seltskondlikule koosviibimisele. Piltidel on näha ka inglisekeelseid subtiitreid.",
+      "actions": [
+        "Mees räägib ja žestikuleerib",
+        "Inimesed fotol poseerivad või vestlevad lõkke ääres"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Vestlus",
+        "Mälestused",
+        "Talv",
+        "Suvi",
+        "Grupp",
+        "Koosviibimine",
+        "Foto",
+        "Lõke",
+        "Aken",
+        "Lumi"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Vanem mees",
+        "Prillid",
+        "Tume kampsun",
+        "Tugitool",
+        "Puidust laud",
+        "Aknad",
+        "Lumi",
+        "Puud",
+        "Hooned",
+        "Foto",
+        "Lõke",
+        "Grupp inimesi",
+        "Rohelus",
+        "Radiaator"
+      ],
+      "colorcodes": [
+        "#2F323A",
+        "#C8C8C8",
+        "#D3C3A8",
+        "#668B6E",
+        "#F0F0F0"
+      ],
+      "texts": [
+        "and to me at least if feels like",
+        "remember is that"
+      ],
+      "persons": [
+        "Vanem mees",
+        "Grupp inimesi"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Stseeni fookus muutub intervjuu tegemiselt mehega detailsele pildile vanast fotost.",
+        "Keskkond muutub siseruumist (näidates talvist välisilmet) välitingimustes toimuvale suvisele koosviibimisele (fotol).",
+        "Subtiitrite tekst muutub erinevates kaadrites."
+      ],
+      "snr": "008",
+      "ajad": [
+        "147.856",
+        "212.087"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, kus eakas mees istub lillakas-pruunis käetoega tugitoolis, vesteldes kaamerast veidi paremale suunatud pilguga. Ta kannab tumedat ruudulist kampsunit, heledat särki ja prille ning tal on sõrmus vasakus käes. Mees žestikuleerib oma kätega aktiivselt kõne ajal, varieerides käte asendit alates käte kokku panemisest kuni nende laiali ajamiseni. Tema taga on suur aken, mis avab vaate talvisele maastikule – väljas on näha lumega kaetud puid ja hooneid, mis viitab talvele ja päevasele ajale. Vasakul pool on näha helepruunist puidust lauad ja nende all osaliselt radiaator. Akna taga on näha ka mingi silt või plakat, millel on osaliselt loetav tekst või logo.",
+      "actions": [
+        "Mees räägib/vestleb",
+        "Mees žestikuleerib kätega",
+        "Mees istub tugitoolis"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Eakas mees",
+        "Siseruum",
+        "Aken",
+        "Talv",
+        "Lumi",
+        "Žestikuleerimine",
+        "Tugitool",
+        "Prillid",
+        "Kampsun"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Eakas mees",
+        "Tugitool",
+        "Ruuduline kampsun",
+        "Särk",
+        "Prillid",
+        "Sõrmus",
+        "Aken",
+        "Puidust lauad",
+        "Radiaator",
+        "Lumi",
+        "Hooned",
+        "Puid",
+        "Silt/plakat akna taga",
+        "Aknaraamid"
+      ],
+      "colorcodes": [
+        "#2e3236",
+        "#4e5256",
+        "#b59e8d",
+        "#5b3a61",
+        "#c49f71",
+        "#f1f0f0",
+        "#e0e0e0",
+        "#d8d8d8",
+        "#b28a47",
+        "#b2c9d6",
+        "#ffffff",
+        "#000000"
+      ],
+      "texts": [
+        "remember is that",
+        "or administrators, Im not sure,",
+        "meets up once a year."
+      ],
+      "persons": [
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe käte asend muutub žestikuleerimise käigus: esimeses kaadris on käed koos, teises on vasak käsi tõstetud ja avatud, kolmandas on vasak käsi all ja parem käsi liigub väljapoole.",
+        "Subtiitrite tekst muutub iga kaadriga vastavalt mehe jutule.",
+        "Mehe näoilme ja pealiigutus muutuvad kergelt kõne edenedes."
+      ],
+      "snr": "009",
+      "ajad": [
+        "212.087",
+        "263.388"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaates lauale asetatud vanu mustvalgeid fotosid ja paberilehte, mis meenutab albumilehte või dokumenti. Fotodel on kujutatud grupp mehi väljas trepiastmetel, tõenäoliselt mingi hoone ees. Paberilehel on näha käsitsi kirjutatud teksti, sealhulgas nimesid, kontaktandmeid ja sinise tindiga stiliseeritud suuri tähti 'PR'. Üle piltide jooksevad eestikeelsed subtiitrid, mis muutuvad kaadrite vahel, rõhutades mälestuste ja meeskonnavaimu teemasid. Üldine toon on nostalgiline ja isiklik, viidates möödunud aegadele ja säilinud sidemetele.",
+      "actions": [],
+      "keywords": [
+        "mustvalged fotod",
+        "nostalgia",
+        "mälestused",
+        "sõprus",
+        "meeskonnavaim",
+        "dokumendid",
+        "album",
+        "käekiri",
+        "ajalugu"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "mustvalged fotod",
+        "paberileht (dokument/album)",
+        "pruun puidust pind (laud/alus)"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#F5F5DC",
+        "#000000",
+        "#ADD8E6"
+      ],
+      "texts": [
+        "meets up once a year.",
+        "the feeling has not disappeared",
+        "The team spirit is the most important.",
+        "PR",
+        "MAIE K.",
+        "S. 251. 03. 33",
+        "tel/film@etv.ee",
+        "Liisa film",
+        "150893 SÕJAE MONT"
+      ],
+      "persons": [
+        "grupp mehi (fotodel kujutatud)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevused seisnevad ainult kuvatavates subtiitrites, mis muutuvad kaadrite vahel. Pildimaterjal ise jääb muutumatuks."
+      ],
+      "snr": "010",
+      "ajad": [
+        "263.388",
+        "270.812"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud keskealine või vanem mees, kes istub siseruumis ja räägib, ilmselt intervjuud andes. Tal on seljas tume ruuduline kampsun, helesinine kraega särk ja prillid. Mees naeratab soojalt ja elavalt, žestikuleerides kätega, et oma juttu rõhutada. Ta on valge nahavärviga ja tal on lühikesed, peened pruunid juuksed. Tema nägu on kortsuline, mis viitab vanusele. Mees kannab kuldseid või pronksitooni raamidega prille. Tema rinnal on näha mikrofoni. Ta istub ruumis, mis näib olevat kontor või õpperuum. Taustal on suur aken, millest paistab välja talvine maastik lume ja puudega, andes märku aastaajast. Akna kõrval paremal on seinal helebeežikas toon, millel on näha kaks pistikupesa. Akna paremas servas ripuvad helesinised või rohekad vertikaalsed ribikardinad või dekoratiivsed elemendid. Stseen on hästi valgustatud, jättes mulje päevasest ajast ja sõbralikust atmosfäärist.",
+      "actions": [
+        "Mees räägib ja naeratab",
+        "Mees žestikuleerib kätega",
+        "Mees osutab parema käe nimetissõrmega ülespoole",
+        "Mees vaatab otse kaamerasse"
+      ],
+      "keywords": [
+        "Mees",
+        "Intervjuu",
+        "Siseruum",
+        "Aken",
+        "Talv",
+        "Vestlus",
+        "Rõõmus",
+        "Prillid",
+        "Žestikuleerimine",
+        "Kampsun",
+        "Mikrofon"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Vanem mees",
+        "Prillid",
+        "Helesinine särk",
+        "Tume kampsun",
+        "Mikrofon",
+        "Aken",
+        "Lumi (väljas)",
+        "Sein",
+        "Pistikupesad",
+        "Ribikardinad",
+        "Kapp (paremal ääres)"
+      ],
+      "colorcodes": [
+        "#2D353B",
+        "#B0C4DE",
+        "#E0E0D8",
+        "#A0D9D9",
+        "#C0A060",
+        "#E0C0A0"
+      ],
+      "texts": [
+        "check if it is free",
+        "it was very exciting."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil suunab mees parema käe nimetissõrme ülespoole ja naeratab kergelt. Ekraanil on subtiiter 'check if it is free'.",
+        "Teisel pildil naeratab mees laialt ja žestikuleerib mõlema käega avatult. Ekraanil on subtiiter 'it was very exciting.'.",
+        "Kolmandal pildil naeratab mees laialt, käed on allpool ja ta vaatab otse kaamerasse. Subtiitrid puuduvad."
+      ],
+      "snr": "012",
+      "ajad": [
+        "322.489",
+        "341.341"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha keskealine või vanem mees, kes istub siseruumis tumedal diivanil ja räägib kaamera poole. Ta kannab ruudulise mustriga (tumepruun või must ja tumesinine) sviitrit heleda kraega särgi peal ning kuldsete raamidega prille. Mees žestikuleerib aktiivselt oma jutu illustreerimiseks. Tema selja taga on suur aken, millest avaneb vaade lumerohkele talvisele linnamaastikule. Väljas on näha puid, hooneid ja kaugemal mõningaid valgusketis jõulutulesid. Toa interjööris on näha puidust lauaplaat, hele sein ja paremal pool pistikupesa seinal. Üleüldine atmosfäär on rahulik ja vestluslik.",
+      "actions": [
+        "Rääkimine",
+        "Žestikuleerimine kätega",
+        "Käte avamine žestiks",
+        "Käe rusikasse pigistamine"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Vestlus",
+        "Siseruum",
+        "Aken",
+        "Talv",
+        "Lumi",
+        "Prillid",
+        "Žestikuleerimine",
+        "Diivan",
+        "Portree",
+        "Linnavaade"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Diivan",
+        "Laud (puidust)",
+        "Aken",
+        "Pistikupesa",
+        "Sein",
+        "Radiaator (osaliselt näha)",
+        "Puud (väljas)",
+        "Lumi (väljas)",
+        "Hoone (väljas)",
+        "Jõulutuled (väljas)",
+        "Prillid",
+        "Sviiter",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#2F2F2F",
+        "#595959",
+        "#D9D9D9",
+        "#FFFFFF",
+        "#A5D2E7",
+        "#8B4513",
+        "#5C2D4B",
+        "#D1A28A",
+        "#B8860B"
+      ],
+      "texts": [
+        "filming with a film camera and started",
+        "but right now it feels like"
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe käte asend on erinev: esimesel pildil on mõlemad käed avatud žestiga, teisel pildil on parem käsi rusikasse pigistatud lõua lähedal.",
+        "Alatiitrite tekst on mõlema pildi vahel erinev."
+      ],
+      "snr": "014",
+      "ajad": [
+        "346.763",
+        "391.224"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud keskealine või vanem mees, kes istub siseruumides ja räägib otse kaamerasse. Tal on peas prillid, seljas tume musta ja halli mustriga kampsun ning heleda kraega särk. Mehel on õhukesed pruunid juuksed ja ta vaatab tähelepanelikult kaamerasse, näol kerge naeratus. Ta kannab parema käe sõrmusesõrmes sõrmust. Taustal on näha aken, millest paistab välja lumine talvine maastik, viitades jahedale ilmale. Akna kõrval on vertikaalsed ribakardinad, mis on heledat rohekassinakat tooni. Seinal on kaks topeltpistikupesa. Paremal pool on näha osa tumedast puidust mööbliesemest.",
+      "actions": [
+        "Rääkimine",
+        "Vaatamine kaamerasse",
+        "Žestikuleerimine käega"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Prillid",
+        "Intervjuu",
+        "Siseruumid",
+        "Talv",
+        "Subtiitrid",
+        "Kampsun"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Prillid",
+        "Kampsun",
+        "Särk",
+        "Sõrmus",
+        "Aken",
+        "Lumi",
+        "Ribakardinad",
+        "Pistikupesad",
+        "Sein",
+        "Puidust mööbel",
+        "Aknalaud"
+      ],
+      "colorcodes": [
+        "#2C3C4E",
+        "#E0E0E0",
+        "#C19A81",
+        "#503A1C",
+        "#F0F0F0",
+        "#A0D0C0",
+        "#F8F8F8",
+        "#8B5A2B"
+      ],
+      "texts": [
+        "but right now it feels like",
+        "and there are a lot of them."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on mehe parem käsi rusikas rinna kõrgusel, samas kui teisel pildil on käsi madalamal ja avatumalt paigutatud.",
+        "Subtiitrite tekst on erinev: esimesel pildil on tekst 'but right now it feels like' ja teisel pildil 'and there are a lot of them'."
+      ],
+      "snr": "015",
+      "ajad": [
+        "391.224",
+        "407.616"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat meest, kes istub siseruumides tumedapurpural või -pruunil tugitoolil ja räägib. Mees on kiilakas, kannab prille ning seljas on heleda (sinise/valge triibuga) särgi peal tumehalli või mustakirju kampsun. Ta žestikuleerib aktiivselt kätega, liikudes avatud kätest osutava sõrmeni. Mehe taga on suur aken, kust paistab talvine linnavaade: lumega kaetud maapind, lumised puud ja hooned. Ühel puul on näha sinised dekoratiivvalgustid. Toas on näha puidust laud, valge radiaator ja seina peal valge pistikupesa. Üldvalgus on pigem hele, viidates päevasele ajale, kuigi dekoratiivvalgustid väljas võivad vihjata õhtule või lihtsalt talvisele pühadeajale. Alumises osas on näha ingliskeelsed subtiitrid.",
+      "actions": [
+        "Mees räägib",
+        "Mees žestikuleerib kätega",
+        "Mees osutab sõrmega ülespoole"
+      ],
+      "keywords": [
+        "Mees",
+        "Intervjuu",
+        "Kõne",
+        "Siseruum",
+        "Talv",
+        "Linnavaade",
+        "Prillid",
+        "Kampsun",
+        "Žestikuleerimine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Tugitool",
+        "Laud",
+        "Aken",
+        "Radiaator",
+        "Sein",
+        "Pistikupesa",
+        "Lumi",
+        "Puud",
+        "Hoone",
+        "Dekoratiivvalgustid",
+        "Prillid",
+        "Kampsun",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#2F2F2F",
+        "#C8A087",
+        "#FFFFFF",
+        "#604C5A",
+        "#A17E5A",
+        "#D6E0E1",
+        "#7D7F80",
+        "#3E4849"
+      ],
+      "texts": [
+        "and you have to understand",
+        "I mean it really shows that"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe käte asend muutub piltidel.",
+        "Ingliskeelsed subtiitrid ilmuvad ja muutuvad piltide vahel."
+      ],
+      "snr": "016",
+      "ajad": [
+        "407.616",
+        "457.332"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või eakas mees, kes istub siseruumis ja räägib intensiivselt, žestikuleerides kätega. Mehel on seljas tumedat värvi (must või tumehall) triibuline kampsun ja selle all heledam triibuline nööpidega särk. Tal on peas metallraamiga prillid ja lühikesed heledad juuksed. Mees vaatab otse ette, ilmselt kaamerasse või vestluspartneri poole. Tema selja taga on suur aken, millest paistab udune talvine väljavaade, mis annab aimu lumisest või külmast maastikust. Akna paremal küljel on valge sein, mille ees on heledad (roheka tooniga) vertikaalsed ribikardinad ning seina alumises osas on näha valged seinapistikupesad. Paremal pool paistab ka pruun mööbliese, tõenäoliselt kapp või sahtliboks. Valgus tundub tulevat aknast, viidates päevasele ajale. Stseen annab edasi intervjuu või vestluse atmosfääri.",
+      "actions": [
+        "Rääkimine",
+        "Žestikuleerimine",
+        "Osutamine nimetissõrmega"
+      ],
+      "keywords": [
+        "Eakas mees",
+        "Intervjuu",
+        "Siseruum",
+        "Prillid",
+        "Vestlus",
+        "Žest",
+        "Talv",
+        "Kampsun",
+        "Aken",
+        "Ribikardinad"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Prillid",
+        "Kampsun",
+        "Triiksärk",
+        "Aken",
+        "Ribikardinad",
+        "Seinapistikupesad",
+        "Mööbliese (kapp/sahtel)",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#2D3037",
+        "#C0CFD8",
+        "#A77C54",
+        "#4A4A4A",
+        "#E0E0E0",
+        "#B6D2C4",
+        "#7E5B44",
+        "#B0C4D8"
+      ],
+      "texts": [
+        "I mean it really shows that",
+        "and to kill you only"
+      ],
+      "persons": [
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe parema käe asend on erinev: esimesel pildil osutab ta nimetissõrmega ülespoole, teisel pildil ettepoole ja veidi allapoole.",
+        "Subtiitrite tekst on mõlemal pildil erinev, kajastades erinevaid hetki kõnes."
+      ],
+      "snr": "017",
+      "ajad": [
+        "457.332",
+        "472.138"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat meest, kes istub siseruumis diivanil, suure akna ees. Ta kannab prille, heledat kraega särki ja tumedat, ruudulise mustriga kampsunit. Mees on vestlusesse süvenenud, žestikuleerides kätega. Akna tagant paistab talvine maastik: maapinnal on lumi, puud on raagus ja kauguses on näha hooneid. Väljaspool akent on märgata ka siniseid dekoratiivseid tulesid. Toas on näha osa puidust lauast ja seinal asuvad elektrinäpistid. Ühes kaadris on näha ka subtiiter, mis katab suurema osa ekraanist musta taustaga.",
+      "actions": [
+        "rääkimine",
+        "žestikuleerimine",
+        "istumine"
+      ],
+      "keywords": [
+        "intervjuu",
+        "vestlus",
+        "vanem mees",
+        "talv",
+        "aken",
+        "siseruum",
+        "jõulutuled",
+        "portree",
+        "lumi"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "prillid",
+        "kampsun",
+        "särk",
+        "diivan",
+        "laud",
+        "aken",
+        "tänav",
+        "puud",
+        "lumi",
+        "hooned",
+        "elektrinäpistid"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#3A3A3A",
+        "#E0E8F0",
+        "#C8A78D",
+        "#B8860B",
+        "#4B2B4A",
+        "#E0DED7",
+        "#A88F6E",
+        "#00BFFF",
+        "#F0F8FF",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Arvo Iho was a great photographer,"
+      ],
+      "persons": [
+        "vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "95",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Teine kaader on valdavalt must, näidates ainult subtiitrit ekraani allosas, samas kui esimene kaader kujutab tervet stseeni mehest rääkimas.",
+        "Mehe käteasend ja suu asend on kaadrite vahel veidi erinev."
+      ],
+      "snr": "018",
+      "ajad": [
+        "472.138",
+        "534.534"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2577 @@
+{
+  "film": [
+    "17398",
+    "17276",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Tankla",
+    "7976e1da6dca22c7d073b675621064172c5ed7c3.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen on täiesti pime ja must. Piltidel puuduvad igasugused visuaalsed detailid, objektid, isikud, tekstid või keskkond. See on täielik pimedus ilma igasuguse informatsioonita, mis võimaldaks stseeni sisuliselt kirjeldada.",
+      "actions": [],
+      "keywords": [
+        "pimedus",
+        "must",
+        "tühi",
+        "informatsioonipuudus"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "1.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist vaadet tühjale ja hästi valgustatud Olerexi tanklale. Esiplaanil on näha mitu kollastes ja mustades toonides kütuseautomaati, millel on selgelt näha OLEREXi logo. Automaatide kohal on lai, erekollane varikatus, mida toetavad samuti kollased postid. Maa on märg, peegeldades tankla eredat valgustust, mis loob peegeldusi pinnal. Taustal asub tankla poehoone, mille suured aknad ja uksed on valgustatud, paljastades sees oleva interjööri. Poe fassaadil on näha sildid tekstiga \"POOD\" ja \"KOHVIK\". Kogu ala on inimestest ja autodest tühi, andes stseenile vaikse ja ootava atmosfääri.",
+      "actions": [
+        "Tankla külastamine (kaudne)",
+        "Tankimine (kaudne)"
+      ],
+      "keywords": [
+        "Tankla",
+        "Öö",
+        "Olerex",
+        "Kütuseautomaat",
+        "Pood",
+        "Kohvik",
+        "Kollane",
+        "Must",
+        "Valgustatud",
+        "Märg",
+        "Tühi",
+        "Vaikne"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kütuseautomaadid",
+        "Varikatus",
+        "Poehoone",
+        "Aknad",
+        "Uksed",
+        "Kollased postid",
+        "Kollased tõkised",
+        "Valgustid",
+        "Sildid",
+        "Olerexi logod",
+        "Märg asfaldipind"
+      ],
+      "colorcodes": [
+        "#FFEB00",
+        "#000000",
+        "#FFFFFF",
+        "#00703C"
+      ],
+      "texts": [
+        "OLEREX",
+        "98",
+        "95",
+        "D",
+        "4",
+        "8",
+        "POOD",
+        "KOHVIK"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide peamine erinevus seisneb särituses ja heleduses.",
+        "Esimene pilt on kõige tumedam ja alavalgustatud, mistõttu detailid on raskemini eristatavad.",
+        "Teine pilt on heledam ja parema säritusega kui esimene, tuues esile rohkem detaile ja värve.",
+        "Kolmas pilt on kõige heledam ja parima säritusega, pakkudes kõige selgemat vaadet tankla valgustusele, värvidele ning tekstidele ja logodele.",
+        "Kaamera asendis või objektide paigutuses olulisi muutusi ei ole."
+      ],
+      "snr": "002",
+      "ajad": [
+        "1.040",
+        "4.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab modernse sisustusega mugavuspoodi või väikest toidupoodi. Pood on avar ja hästi valgustatud. Keskel seisab leti taga naissoost kassapidaja, kes vaatab otse kaamerasse. Tema taga on seinariiulid sigarettide ja muu kaubaga. Leti esine ala on sisustatud mitmete riiulitega, mis on täidetud maiustuste, snäkkide ja jookidega. Vasakul pool on kaks klaasvitriinkappi, milles on välja pandud saiakesed, kondiitritooted ja erinevad joogid. Üleval vasakul asub menüütahvel, mis reklaamib kiirtoitu ja pakub hinnakirja. Paremal pool on kaupluse sissepääs, mis koosneb automaatsetest lükandustest, mille klaaspindadel on näha teise inimese peegeldus. Üldmulje on puhas, organiseeritud ja kutsuv.",
+      "actions": [
+        "Kassapidaja seisab leti taga",
+        "Poe külastajad või personal liiguvad sissepääsu juures (näha peegeldusest)"
+      ],
+      "keywords": [
+        "Mugavuspood",
+        "kauplus",
+        "teenindus",
+        "kassapidaja",
+        "vitriinkapp",
+        "riiulid",
+        "toidukaubad",
+        "joogid",
+        "snäkid",
+        "maiustused",
+        "kiirtoit",
+        "menüütahvel",
+        "automaatuksed",
+        "siseruum"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Kassapidaja",
+        "müügilett",
+        "kassa",
+        "arvutimonitor",
+        "vitriinkapid",
+        "riiulid",
+        "pakendatud toidud",
+        "joogid",
+        "saiakesed",
+        "konditooted",
+        "maiustused",
+        "sigaretid",
+        "menüütahvel",
+        "valgustid",
+        "turvakaamerad",
+        "automaatsed lükanduksed",
+        "põrand",
+        "seinad",
+        "pakkimata ostukorv"
+      ],
+      "colorcodes": [
+        "#D8D8D8",
+        "#FFFFFF",
+        "#3A3A3A",
+        "#F9EB2F",
+        "#1C965F",
+        "#8B4513",
+        "#2C2C2C",
+        "#A9A9A9"
+      ],
+      "texts": [
+        "feeling",
+        "feeline",
+        "Menu tekstid (ebaloetavad hinnad ja tootenimed)"
+      ],
+      "persons": [
+        "Naine (kassapidaja)",
+        "Naine (peegelduses ukse juures)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevusi piltide vahel ei ole."
+      ],
+      "snr": "003",
+      "ajad": [
+        "4.160",
+        "7.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab poe või esmatarbekaupluse sisemust. Ruumi on eredalt valgustatud ning see on täidetud mitmesuguste toodetega, mis asuvad valgetel riiulitel ja külmkappides. Esiplaanil on näha tooteid jahutusleti ja riiulite peal. Stseeni keskel, poe automaatsetest klaasustest, sisenevad kaks meest. Mõlemal mehel on peas must balaklava, mis katab nende näo. Esimene mees kannab musta jopet, musta salli, siniseid teksaseid ja tumedaid saapaid. Temast tagapool olev mees kannab pruuni jopet ja tumedaid pükse. Mehed on sisenemas poodi ja liiguvad aeglaselt sügavamale ruumi, vaadates vasakule. Ukse taga paistab tume öine väliskeskkond.",
+      "actions": [
+        "Sisenemine poodi",
+        "Liikumine poe sees",
+        "Ringi vaatamine"
+      ],
+      "keywords": [
+        "Pood",
+        "Kauplus",
+        "Sisemus",
+        "Riiulid",
+        "Tooted",
+        "Klaasuksed",
+        "Maskides mehed",
+        "Balaklava",
+        "Rööv",
+        "Sissepääs",
+        "Jaheduslett",
+        "Snäkid",
+        "Joogid"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Riiulid",
+        "Tooted (toit, joogid, snäkid, kosmeetika)",
+        "Automaatsed klaasuksed",
+        "Põrand",
+        "Valgustid",
+        "Maskid (balaklavad)",
+        "Joped",
+        "Sall",
+        "Teksapüksid",
+        "Saapad",
+        "Külmikud/jahutusletid"
+      ],
+      "colorcodes": [
+        "#F0E68C",
+        "#FFFFFF",
+        "#000000",
+        "#808080",
+        "#800080",
+        "#A52A2A",
+        "#4169E1"
+      ],
+      "texts": [
+        "Puuduvad selgelt loetavad tekstid"
+      ],
+      "persons": [
+        "Kaks maskides meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on automaatuksed sulgemas ja mehed on vaid osaliselt nähtavad ukse vahelt siluettidena, justkui oleksid nad ukse taga või peaaegu sisenemas.",
+        "Teisel pildil on uksed täiesti avatud ja kaks maskides meest on astunud poodi, seistes ukseava ees. Nad vaatavad vasakule.",
+        "Kolmandal pildil on uksed endiselt avatud, kuid mehed on liikunud paar sammu sügavamale poodi. Nende asend on veidi muutunud, suunaga endiselt vasakule."
+      ],
+      "snr": "004",
+      "ajad": [
+        "7.080",
+        "18.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte maskeeritud isikut, kes sisenevad kaamera poole liikudes väikesesse supermarketisse või mugavuspoodi. Mõlemal isikul on nägu varjav must balaklava. Vasakpoolsel isikul on seljas pruun jope, selle all helehall mustriga kampsun, jalas mustad punase triibuga dressipüksid ja sportlikud jalanõud. Parempoolsel isikul on must nahkjakk, punamust ruuduline särk, must sall, sinised teksapüksid ja mustad saapad. Pood on hästi valgustatud luminofoorlampidega ja riiulid on täis erinevaid tooteid, nagu pakendatud toidud, joogid ja muud kaubad. Sissepääsul on automaatsed liuguksed ja uksematt. Stseenist õhkub pinget maskeeritud isikute tõttu.",
+      "actions": [
+        "Kaks maskeeritud isikut sisenevad poodi",
+        "Isikud kõnnivad poe sissepääsust kaamera poole",
+        "Isikud vaatavad otse kaamerasse"
+      ],
+      "keywords": [
+        "Pood",
+        "Supermarket",
+        "Mugavuspood",
+        "Maskeeritud",
+        "Balaklava",
+        "Röövel",
+        "Kuritegevus",
+        "Sissepääs",
+        "Riiulid",
+        "Tooted",
+        "Pinge",
+        "Anonüümsus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mask",
+        "Balaklava",
+        "Jope",
+        "Kampsun",
+        "Särk",
+        "Sall",
+        "Teksapüksid",
+        "Dressipüksid",
+        "Saapad",
+        "Jalanõud",
+        "Poeriiulid",
+        "Külmik",
+        "Automaatsed uksed",
+        "Uksematt",
+        "Valgustid",
+        "Poe sildid",
+        "Tooted (pakendatud toidud, joogid)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#6B4A34",
+        "#7F8C8D",
+        "#E74C3C",
+        "#3498DB",
+        "#FFFFFF",
+        "#F1C40F"
+      ],
+      "texts": [
+        "24h",
+        "TERETULEMAST"
+      ],
+      "persons": [
+        "Maskeeritud isik",
+        "Maskeeritud mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel muutub kaamera kaugus ja nurk. Esimesel pildil on tegelased kaugemal ja näha on nende küljeprofiili, samal ajal kui nad sisenevad uksest. Teisel pildil on tegelased lähemal ja nad on pöördunud otse kaamera poole, liikudes selle suunas. Kolmandal pildil on tegelased veelgi lähemal, keskendudes nende ülakehale ja maskeeritud nägudele, säilitades otse kaamerasse vaatava poosi.",
+        "Tagaplaan muutub vastavalt kaamera positsioonile, esimesel pildil on rohkem näha poe sissepääsu ala ja uksi, samas kui viimastel piltidel on fookus rohkem isikutel ja tagaplaan on üldisem poeruum."
+      ],
+      "snr": "005",
+      "ajad": [
+        "18.520",
+        "27.360"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub jaekaupluses, mis meenutab kioskit või bensiinijaama poodi. Noor naisteenindaja seisab leti taga, kandes heledat pluusi ja värvilist salli. Tema selja taga on riiulid sigarettide ja muu kaubaga. Letil on kassaaparaat, monitor ja mitmesugused tooted. Paremal pool on näha riiulid snäkkide, kommide ja jookidega, samuti reklaamplakat kirjaga \"Teeline\". Stseeni ilmestavad kaks maskeeritud isikut, kes on poe sisenenud. Mõlemal on peas must balaclava ja seljas tumedad riided. Esimene maskeeritud isik kannab musta nahkjakki ja punast salli, teine aga pruuni kapuutsiga jopet. Alguses naeratab teenindaja lahkelt, kuid maskeeritud isikute ilmumisel muutub olukord ilmselgelt pingelisemaks, kuigi ta püüab säilitada professionaalset suhtumist. Dialoog ilmneb subtiitrites, kus teenindaja küsib inglise keeles \"Hello, what can I give you?\".",
+      "actions": [
+        "Teenindaja naeratab ja seisab leti taga",
+        "Kaks maskeeritud isikut sisenevad poodi ja seisavad leti ees",
+        "Teenindaja pöördub klientide poole ja räägib",
+        "Maskeeritud isikud seisavad ja vaatavad teenindaja poole"
+      ],
+      "keywords": [
+        "Kiosk",
+        "Pood",
+        "Teenindaja",
+        "Röövel",
+        "Maskeeritud isikud",
+        "Kassaruum",
+        "Kaup",
+        "Leti taga",
+        "Naeratus",
+        "Ohuolukord"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Kassapidaja lett",
+        "Sigaretiriiulid",
+        "Snäki- ja kommiriiulid",
+        "Arvuti monitor",
+        "Kassaaparaat",
+        "Reklaamtahvel \"Teeline\"",
+        "Plüüsist mänguasi (lettil)",
+        "Naisteenindaja pluus ja sall",
+        "Mustad balaklavad",
+        "Must nahkjakk",
+        "Punane sall (maskeeritud isikul)",
+        "Pruun kapuutsiga jope",
+        "Erinevad tooted riiulitel"
+      ],
+      "colorcodes": [
+        "#B0B0B0",
+        "#F0F0F0",
+        "#A0A0A0",
+        "#000000",
+        "#8B4513",
+        "#FF0000",
+        "#008000",
+        "#FFFF00"
+      ],
+      "texts": [
+        "Teeline",
+        "Hello, what can I give you?",
+        "stamisek"
+      ],
+      "persons": [
+        "Naisteenindaja",
+        "Kaks maskeeritud isikut"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha ainult üks maskeeritud isik, kes on seljaga teenindaja poole, samas kui teisel ja kolmandal pildil on näha ka teine maskeeritud isik tema taga.",
+        "Subtiitrid \"Hello, what can I give you?\" on nähtavad ainult teisel ja kolmandal pildil.",
+        "Teenindaja naeratus on esimesel pildil elavam ja siiram, teistel piltidel tundub see veidi tagasihoidlikum või pingelisem, ehkki ta säilitab professionaalse hoiaku.",
+        "Maskeeritud isikud on esimese ja teise pildi vahel liikunud sügavamale poodi ja nende asend on kolmandal pildil veidi muutunud, et teine isik paremini kaadrisse mahuks."
+      ],
+      "snr": "006",
+      "ajad": [
+        "27.360",
+        "29.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast poeröövi või selle koomilist paroodiat, mis toimub eredalt valgustatud kaupluse siseruumides. Kaadri esiplaanil on seljaga kaamera poole naissoost poe töötaja, kellel on seljas hele, kreemjas-beež riietus. Tema vastas seisavad kaks meest, kes kannavad musti komandosid, mis varjavad nende näod, jättes nähtavale vaid silmad ja suu. Mehed on riietatud erinevatesse üleriietesse: üks kannab pruuni jopet ja musta-valgekirjutatud kampsunit, teine on riietatud musta nahkjakki, musta salli ja punase-ruudulise särki. Taustal on näha poe riiuleid siniste pakenditega toodetega ning kollast silti tekstiga \"Maiustamisel\". Valgus on ere ja tehislik, mis on omane kaubanduskeskustele või kauplustele.",
+      "actions": [
+        "Poe töötaja tervitab sissetulijaid.",
+        "Röövlitest üks esitab ähvarduse ja nõuab raha, kasutades samal ajal käeviipamisi."
+      ],
+      "keywords": [
+        "Poerööv",
+        "Komandod",
+        "Kauplus",
+        "Müüja",
+        "Raha nõudmine",
+        "Ähvardus",
+        "Koomiline"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Komandod (suusamaskid)",
+        "Joped",
+        "Kampsun",
+        "Sall",
+        "Poe riiulid",
+        "Pudelid/pakendid",
+        "Silt",
+        "Kassalett (oletatav)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#6F4A2C",
+        "#C8C8C8",
+        "#87CEEB",
+        "#B22222",
+        "#F5F5DC",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Hello, what can I give you?",
+        "Put the money in the bag, or you'll become a rag!",
+        "Maiustamisel"
+      ],
+      "persons": [
+        "Naissoost poe töötaja",
+        "Kaks meessoost röövlit"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Vasakpoolse röövli käeasend muutub. Esimesel pildil on käed all, teisel pildil on parem käsi veidi tõstetud ja kolmandal pildil on mõlemad käed üleval ja teevad rõhutatumaid žeste.",
+        "Subtiitrid muutuvad esimese ja teise pildi vahel, teine ja kolmas pilt jagavad sama subtiitrit."
+      ],
+      "snr": "007",
+      "ajad": [
+        "29.440",
+        "34.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab poeröövikatset siseruumides, tõenäoliselt kioskist või väikepoest. Esilplaanil on kolm inimest: naissoost müüja, kes kannab heledat särki ja lipsuga kaelarätti, ning kaks maskeeritud meest mustade balaklaavadega. Müüja seisab leti taga ja naeratab kergelt, vaatamata ilmselgelt ähvardavale olukorrale. Kaks röövlit seisavad leti ees, seljaga vaataja poole. Ühel röövlil on seljas must nahktagi ja tema kehakeel viitab nõudlikkusele, teisel on seljas pruun jope või mantel. Röövlid nõuavad raha kotti panemist, ähvardades müüjat. Müüja reageerib aga veidi irooniliselt, küsides, kuhu ta peaks raha \"laadima\". Taustal on näha poe riiuleid sigarettide, maiustuste ja muude kaupadega, samuti kassaaparaati ja monitori. Õhkkond on pingeline, kuid müüja hoiak lisab olukorrale absurdsuse. Valgus on ere ja ühtlane, iseloomulik siseruumidele.",
+      "actions": [
+        "Müüja naeratab ja suhtleb rahulikult",
+        "Röövlid ähvardavad müüjat",
+        "Röövlid nõuavad raha",
+        "Röövel küsib, kuhu raha panna",
+        "Teine röövel jälgib olukorda"
+      ],
+      "keywords": [
+        "Poerööv",
+        "Kassa",
+        "Müüja",
+        "Röövel",
+        "Balaklaava",
+        "Huumor",
+        "Ähvardus",
+        "Iroonia",
+        "Kauplus",
+        "Siseruumid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kassalett",
+        "Sigaretiriiulid",
+        "Maiustuste riiulid",
+        "Kassapidaja monitor",
+        "Balaklaavad",
+        "Nahktagi",
+        "Pruun jope",
+        "Müüja vormiriietus",
+        "Müügitooted (sigaretid, šokolaadid, saiakesed)",
+        "Kassaaparaat"
+      ],
+      "colorcodes": [
+        "#D9D7C2",
+        "#333333",
+        "#8B4513",
+        "#A9A9A9",
+        "#F5F5F5",
+        "#FF0000",
+        "#0066CC"
+      ],
+      "texts": [
+        "Put the money in the bag, or you'll become a rag!",
+        "Come on, start loading already! - Where should I load, then?",
+        "Where should I load, where should I load?",
+        "Teeline",
+        "astumisek"
+      ],
+      "persons": [
+        "Naissoost müüja",
+        "Kaks maskeeritud meessoost röövlit"
+      ],
+      "imagetype": "real",
+      "emptypercent": 20,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Ekraanil kuvatud dialoog muutub piltide vahel, edasi areneb vestlus müüja ja röövlite vahel.",
+        "Röövlite kehahoiakud ja käte asendid muutuvad kergelt vastavalt dialoogile, eriti nahktagis röövli puhul.",
+        "Müüja näoilme ja naeratus püsivad sarnastena läbi kõikide kaadrite, rõhutades tema rahulikku ja iroonilist suhtumist olukorda."
+      ],
+      "snr": "008",
+      "ajad": [
+        "34.240",
+        "38.560"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub jaekaupluse siseruumides, kus on näha riiuleid erinevate toodetega, sealhulgas pakendatud jookidega. Pildil on kolm inimest: vasakul pool kaadri ääres on osaliselt näha noort naist, kes vaatab paremale, ja temaga räägib kaks meest, kes kannavad musti suusamaske ehk balaclavasid. Mehed on riietatud jahedamaks ilmaks sobivatesse ülerõivastesse – üks pruuni jope ja mustrivalise pusaga, teine tumeda nahkse jope ja punase ruudulise särgi või salliga. Tegelaste kehakeel ja suulised vestlused, mis on esitatud ingliskeelsete subtiitritena, annavad mõista, et tegemist on ilmselt huumoriga vürtsitatud stseeniga, kus mehed arutavad midagi 'laadimise' ja 'koti' üle, vihjates poeröövile või sarnasele olukorrale. Taustal on näha kollast silti eestikeelse tekstiga 'Manustamiseks'. Valgus on ere ja ühtlane, viitades päevasele ajale.",
+      "actions": [
+        "Naine vaatab ja kuulab mehi.",
+        "Kaks meest räägivad omavahel ja naisega, esitades küsimusi ja andes juhiseid.",
+        "Mehed on valmis midagi 'laadima' ja 'kotti' üle andma."
+      ],
+      "keywords": [
+        "Poerööv",
+        "Humoorikas stseen",
+        "Siseinterjöör",
+        "Suusamask",
+        "Vestlus",
+        "Kauplus",
+        "Riiulid",
+        "Tooted",
+        "Kott",
+        "Vargus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Balaclava",
+        "Jope",
+        "Pusa",
+        "Särk",
+        "Sall",
+        "Poeriiulid",
+        "Pakendatud joogid",
+        "Tooted",
+        "Silt 'Manustamiseks'",
+        "Kott (viidatud)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#663300",
+        "#AAAAAA",
+        "#333333",
+        "#CC0000",
+        "#CCCCCC",
+        "#FFFF00",
+        "#0000FF"
+      ],
+      "texts": [
+        "Where should I load, where should I load?",
+        "Give her the bag then!",
+        "- I will!",
+        "Manustamiseks"
+      ],
+      "persons": [
+        "Naine",
+        "Mees (balaclavas, pruuni jakiga)",
+        "Mees (balaclavas, tumeda jakiga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub esimese ja teise kaadri vahel puudumata, kuid teise ja kolmanda vahel oluliselt, peegeldades vestluse edenemist. Esimeses kahes kaadris küsitakse korduvalt 'Kuhu ma peaksin laadima?', kolmandas antakse käsk 'Anna talle siis kott!' ja sellele vastatakse 'Ma teen seda!'.",
+        "Meeste kehahoiakud ja peaasendid muutuvad pisut kaadrite vahel, vastavalt nende dialoogile ja žestidele, kuigi maskide tõttu ei ole näoilmed nähtavad.",
+        "Naise näoilme ja pilgu suund varieeruvad kergelt, kuid on raske täpselt määratleda."
+      ],
+      "snr": "009",
+      "ajad": [
+        "38.560",
+        "42.280"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt poekassas või kioskis, kus noor naismüüja teenindab kahte maskides meest. Naismüüja, keda iseloomustab tema rõõmus olek ja professionaalne teenindus, kannab heledat ühtlast riietust, kuhu kuulub lips-sall. Stseeni alguses on ta näoga klientide poole ja naeratab, seejärel pöörab selja, et haarata leti tagant pruun paberkott, ning pöördub uuesti klientide poole, ulatades neile kotti ja pakkudes lisaks süüa. Kaks meest seisavad leti ees, seljad suuresti kaamera poole. Mõlemad kannavad musti komandosid ehk suusamaske, mis varjavad nende näod, ja nende riietus koosneb tumedatest ülerõivastest – üks mustast nahktagist ja teine pruunist mantlist. Pruuni mantlit kandval mehel on käes ka kindad. Poekeskkond on tüüpiline müügipunkt, kus on riiulid sigarettide, kommide ja muude toodetega, lisaks kassaaparaat ning mitmesugused reklaamsildid ja isegi kollane maskotikuju. Letil on ka vitriin valgete küpsetistega ja tooteid punastes pakendites.",
+      "actions": [
+        "Naismüüja naeratab ja teenindab kliente",
+        "Naismüüja pöörab selja ja kummardub leti taha, et midagi võtta",
+        "Naismüüja võtab paberkoti",
+        "Naismüüja pöördub tagasi ja ulatab paberkoti klientidele",
+        "Naismüüja küsib, kas kliendid soovivad midagi süüa",
+        "Kaks maskides meest seisavad müüja ees",
+        "Üks maskides meestest annab suulisi juhiseid teisele",
+        "Teine maskides meestest vastab",
+        "Mehed ootavad"
+      ],
+      "keywords": [
+        "Rööv",
+        "Pood",
+        "Kassa",
+        "Müüja",
+        "Komando",
+        "Mask",
+        "Subtiitrid",
+        "Teenindus",
+        "Kauplus",
+        "Paberkott",
+        "Kiosk",
+        "Konflikt"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Müüjalett",
+        "Kassaaparaat",
+        "Sigaretiriiulid",
+        "Kommide ja snäkkide riiulid",
+        "Paberkott",
+        "Must nahktagi",
+        "Pruun mantel",
+        "Mustad komandod",
+        "Kindad",
+        "Küpsetised (valged)",
+        "Reklaamsildid",
+        "Kollane maskott/kuju",
+        "Joogiriiulid (klaasustega)"
+      ],
+      "colorcodes": [
+        "#D3D3D3",
+        "#000000",
+        "#8B4513",
+        "#FF0000",
+        "#008000",
+        "#FFFF00",
+        "#A9A9A9",
+        "#4682B4"
+      ],
+      "texts": [
+        "Give her the bag then! - I will!",
+        "Here we are! Would you like anything to eat as well?",
+        "Telegraaf"
+      ],
+      "persons": [
+        "Naismüüja",
+        "Röövel (mustas nahktagis)",
+        "Röövel (pruunis mantlis)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naismüüja asend ja näoilme muutuvad: alguses on ta naeratav ja näoga kliendi poole, seejärel pöörab selja leti taha kummardudes ning lõpuks pöördub tagasi näoga kliendi poole, ulatades kotti.",
+        "Subtiitrid muutuvad vastavalt dialoogile kaadrite vahel.",
+        "Paberkott ilmub müüja kätte stseeni hilisemas osas.",
+        "Röövlid püsivad enamasti samas positsioonis, kuid pruunis mantlis mees on esimeses kaadris näoga veidi rohkem kaamera poole pööratud, eksponeerides oma maskist paistvaid silmi."
+      ],
+      "snr": "010",
+      "ajad": [
+        "42.280",
+        "62.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naiskassiiri jaekeskkonnas, tõenäoliselt toidupoes või kioskis, kliendiga suhtlemas. Algselt on naine ametis ostude pakkimisega pruuni paberkotti. Tema käed on koti sees, asetades sinna midagi või pakkides kaupu. Seejärel tõstab ta pilgu üles, vaatab kaamera suunas (või kliendi poole) ja naeratab soojalt, suu kergelt avatud, mis viitab sõbralikule suhtlusele. Tal on seljas heledates toonides särk ja värviline lillemustriga sall kaelas, mis annab talle professionaalse, kuid sõbraliku ilme. Tema tumepruunid juuksed on tagasi kammitud ja tal on pisikesed roosad kõrvarõngad. Taustal on näha riiuleid mitmete toodetega, mis on paigutatud korralikult ritta, ning leti peal on kaasaegne kassasüsteem koos klaviatuuri, hiire ja vöötkoodilugejaga. Valgus on ere ja ühtlane, mis viitab siseruumile päevasel ajal. Ekraanil on näha subtiitrid, mis annavad edasi kassiiri dialoogi. Kolmandal pildil on kassiiri särgi küljes ka nimesilt. Stseen edastab professionaalset ja külalislahket teenindust.",
+      "actions": [
+        "Ostude pakkimine pruuni paberkotti",
+        "Klienti teenindamine",
+        "Naeratamine",
+        "Rääkimine",
+        "Suhtlemine"
+      ],
+      "keywords": [
+        "Kassiir",
+        "Teenindus",
+        "Jaekeskkond",
+        "Naeratus",
+        "Pakkimine",
+        "Kassa",
+        "Paberkott",
+        "Professionaalne",
+        "Sõbralik",
+        "Klienditeenindus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naiskassiir",
+        "Pruun paberkott",
+        "Valge särk",
+        "Värviline sall",
+        "Kõrvarõngad",
+        "Kassasüsteem",
+        "Klaviatuur",
+        "Hiir",
+        "Vöötkoodilugeja",
+        "Lett",
+        "Riiulid",
+        "Tooted riiulitel",
+        "Nimesilt"
+      ],
+      "colorcodes": [
+        "#F8F8F8",
+        "#C0A183",
+        "#D04050",
+        "#0A0A0A",
+        "#80C080",
+        "#4D87A8",
+        "#FFD700"
+      ],
+      "texts": [
+        "Here we are! Would you like anything to eat as well?",
+        "ANNA DREWS"
+      ],
+      "persons": [
+        "Naiskassiir"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on kassiiri käed pruunis paberkotis ostude pakkimisega ametis ja tema pilk on suunatud allapoole, samal ajal kui teisel ja kolmandal pildil on ta tõstnud pilgu üles, naeratab ja on suunatud vaataja poole.",
+        "Kaadrisuurus varieerub: esimene pilt näitab laiemalt kassiiri tegevust ja tausta, samas kui teine ja kolmas pilt on rohkem keskendunud kassiiri näole ja ülakehale.",
+        "Kolmandal pildil on selgelt näha kassiiri nimesilt tekstiga \"ANNA DREWS\", mis varasemates kaadrites on vähem märgatav või varjatud.",
+        "Erinevus kassiiri kehaasendis ja emotsioonis: esimesel pildil on ta keskendunud tööle ja neutraalsema ilmega, samas kui teisel ja kolmandal pildil on ta aktiivselt suhtlemas ja naeratab."
+      ],
+      "snr": "011",
+      "ajad": [
+        "62.120",
+        "66.480"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub toidupoes või mugavuskaupluses, kus kolm inimest omavahel vestlevad. Pildil on näha kaks mustade balaklaavadega meest, kes seisavad leti ees ja suhtlevad naissoost teenindajaga, kelle selg on kaamera poole. Balaklaavadest hoolimata, mis tavaliselt viitavad röövimisele, on dialoog seotud toidu tellimisega (kuumad vorstid), andes stseenile absurdi ja koomilise tooni. Poes on näha riiuleid jookide ja muude kaupadega. Valgus on ere ja ühtlane, mis on tüüpiline siseruumides asuvatele poodidele.",
+      "actions": [
+        "Vestlevad omavahel",
+        "Seisavad leti ees",
+        "Vaatavad üksteisele otsa (mehed naisele)",
+        "Toidu tellimine (kuumad vorstid)"
+      ],
+      "keywords": [
+        "Pood",
+        "Kauplus",
+        "Balaklava",
+        "Koomiline olukord",
+        "Röövel",
+        "Teenindaja",
+        "Vestlus",
+        "Kuumad vorstid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Balaklava",
+        "Pruun jope",
+        "Must nahkjakk",
+        "Must sall",
+        "Ruuduline särk",
+        "Mustriline särk",
+        "Poeriiulid",
+        "Joogid",
+        "Sildid",
+        "Lett",
+        "Käekott (naisel)",
+        "Pruun paberikott (põrandal Mees 1 juures)"
+      ],
+      "colorcodes": [
+        "#0e0e0e",
+        "#6b4d3f",
+        "#a4282a",
+        "#ffffff",
+        "#eeeeee",
+        "#21374a",
+        "#f8dd61"
+      ],
+      "texts": [
+        "Here we are! Would you like anything to eat as well?",
+        "A hot dog. - Yeah, two hot dogs, it's for the two of us, one-two, you see.",
+        "Malustamis",
+        "Maitsestamine"
+      ],
+      "persons": [
+        "Naine (teenindaja)",
+        "Mees (balaklava ja pruuni jopega)",
+        "Mees (balaklava ja musta nahkjakiga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub, mis näitab dialoogi edenemist.",
+        "Isikute kehahoid ja kaameranurk jäävad kaadrites peaaegu samaks."
+      ],
+      "snr": "012",
+      "ajad": [
+        "66.480",
+        "73.200"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub poelettidel, mis meenutab kiirtoidukohta või tankla poodi. Keskel on teenindaja leti taga, naeratades ja suheldes klientidega. Tema paremal pool on kaks meest, kelle näod on kaetud mustade kommandode või suusamaskidega, pakkudes koomilist või absurdi elementi. Üks maskeeritud meestest kannab musta nahktagi ja punast salli, teine aga pruuni jopet. Leti peal on kassasüsteem ja toidunäidised, vasakul pool on kuuma koera vitriin ja taga riiulid sigarettide ja muu kaubaga. Taustal on kaubariiulid erinevate toodetega, näiteks krõpsude ja šokolaadidega. Stseenis toimub dialoog, kus kliendid tellivad kaks kuuma koera ja teenindaja küsib, kas nad soovivad ka midagi juua.",
+      "actions": [
+        "Teenindaja suhtleb klientidega",
+        "Teenindaja teeb kätega žeste",
+        "Maskeeritud mehed seisavad leti ees",
+        "Kliendid tellivad kuuma koera",
+        "Teenindaja pakub jooke"
+      ],
+      "keywords": [
+        "Pood",
+        "Tankla",
+        "Teenindaja",
+        "Kliendid",
+        "Maskeeritud",
+        "Huumor",
+        "Kuuma koerad",
+        "Leti taga",
+        "Siseruum",
+        "Dialoog"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Poelett",
+        "Kassasüsteem",
+        "Monitor",
+        "Kuuma koera vitriin",
+        "Riiulid",
+        "Sigaretipakid",
+        "Krõpsupakid",
+        "Šokolaadid",
+        "Joogipudelid",
+        "Must komando/mask",
+        "Nahktagi",
+        "Punane sall",
+        "Pruun jope",
+        "Särk",
+        "Sall (teenindajal)",
+        "Mänguasi (ahv)",
+        "Paberkotid"
+      ],
+      "colorcodes": [
+        "#E0E0E0",
+        "#303030",
+        "#906030",
+        "#C02020",
+        "#50A050",
+        "#F0F0F0"
+      ],
+      "texts": [
+        "A hot dog - Yeah, two hot dogs, it's for the two of us, one-two, you see.",
+        "Well, then, two hot dogs. Anything to drink, sir?",
+        "Teeling",
+        "ajustamiseks"
+      ],
+      "persons": [
+        "Naissoost teenindaja",
+        "Kaks maskeeritud meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teenindaja vasaku käe asend muutub: esimesel pildil on käsi kergelt tõstetud, teisel pildil on käsi kõrgemale tõstetud ja avatud, kolmandal pildil on mõlemad käed allpool, kergelt ettepoole suunatud.",
+        "Subtiitrite tekst muutub, peegeldades dialoogi kulgu maskeeritud mehelt teenindaja vastusele."
+      ],
+      "snr": "013",
+      "ajad": [
+        "73.200",
+        "79.760"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub sisetingimustes, tõenäoliselt mugavuspoodi või tanklapoodi meenutavas asutuses. Keskpunktis on kolm inimest: naissoost müüja või teenindaja ja kaks meest, kelle näod on kaetud mustade kommandostüüpi maskidega (suusamaskid ehk balaklavad). Müüja kannab heledat vormiriietust ja värvilist salli, naeratab ja suhtleb viisakalt maskides meestega. Mehed on riietatud tumedatesse, veidi lohakatesse riietesse – üks kannab musta nahktagi ja teine pruuni mantlit. Stseenis on näha leti tagust ala kohvimasina ja maiustustega ning leti ees seisvad maskides mehed. Tagaplaanil on sigaretiriiulid ja snäkiletid. Müüja küsib maskides meestelt nende kohvisoovi ja täpsustab, kas nad eelistavad kohvi mustalt või piimaga. Olukord on absurdne ja koomiline, kuna tavapärase klienditeeninduse vestlus toimub ilmselt röövlitega.",
+      "actions": [
+        "Müüja teenindab kliente",
+        "Maskides mehed tellivad kohvi",
+        "Müüja küsib kohvi eelistusi",
+        "Suhtlemine leti taga"
+      ],
+      "keywords": [
+        "Kauplus",
+        "Mugavuspood",
+        "Tanklapood",
+        "Klienditeenindus",
+        "Rööv",
+        "Koomiline",
+        "Absurdne",
+        "Maskid",
+        "Balaklavad",
+        "Kohv",
+        "Leti taga",
+        "Siseruum",
+        "Teenindaja",
+        "Kliendid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Sularahaaparaat",
+        "Kohvimasin",
+        "Vitriin",
+        "Saiakesed",
+        "Kommid",
+        "Šokolaadid",
+        "Sigaretiriiulid",
+        "Lett",
+        "Toolid",
+        "Töölaud",
+        "Monitor",
+        "Arvuti",
+        "Täistopitud mänguasi",
+        "Joogid",
+        "Snäkid"
+      ],
+      "colorcodes": [
+        "#F5DEB3",
+        "#000000",
+        "#8B4513",
+        "#FFFFFF",
+        "#808080",
+        "#FF0000",
+        "#FFFF00",
+        "#008000"
+      ],
+      "texts": [
+        "A coffee. - Yeah-yeah, add two coffees, one-two, you see.",
+        "Would you prefer your coffees black or with milk?",
+        "ustamiseks"
+      ],
+      "persons": [
+        "Naissoost müüja",
+        "Maskides mees (1)",
+        "Maskides mees (2)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Müüja käeasend ja näoilme veidi muutuvad kaadrite vahel.",
+        "Vestlus areneb edasi uue küsimusega.",
+        "Maskides meeste asendites on minimaalsed nihked."
+      ],
+      "snr": "015",
+      "ajad": [
+        "85.880",
+        "87.840"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub hästivalgustatud sisepoes, mis meenutab kioskist või mugavuspoodi. Taustal on näha riiuleid mitmesuguste toodetega. Kaamera ees on kolm inimest: seljaga kaamera poole olev tumedate juustega naine, kellel on juuksed klambriga kinni pandud, ning kaks meest, kes on näoga naise ja kaamera poole. Mõlemad mehed kannavad musti balaklavasid, mis katavad kogu nende pea peale silmade ja suu, ja on riietatud paksudesse jakkidesse ja sallidesse, mis viitab jahedamale ilmale. Vasakpoolne mees kannab pruuni jakki ja halli mustrilist sviitrit, parempoolne mees aga musta nahkjakki punase ruudulise särgi ja musta salliga. Naine küsib meestelt nende kohvieelistuse kohta – kas mustalt või piimaga. Mehed on esialgu otsustusvõimetud, vasakpoolne mees žestikuleerib kätega ja pomiseb segaselt \"must must piim, must piim, must piim\", mis näitab tema kõhklevust. Lõpuks langetavad nad otsuse ja paluvad kohvi piimaga. Stseenil on koomiline alatoon, mis tuleneb tõenäoliselt maskidesse riietatud meeste ootamatust tavapärasest käitumisest.",
+      "actions": [
+        "Naine esitab küsimuse kohvi eelistuse kohta.",
+        "Mehed arutavad oma kohvijoogi valikut.",
+        "Vasakpoolne mees žestikuleerib oma kätega, väljendades otsustamatust.",
+        "Mehed vaatavad naist ja püüavad otsust teha.",
+        "Mehed teevad otsuse kohvi tellimuse osas."
+      ],
+      "keywords": [
+        "Pood",
+        "Balaklava",
+        "Kohv",
+        "Maskid",
+        "Otsustamatus",
+        "Dialoog",
+        "Komöödia",
+        "Siseruum",
+        "Mugavuspood"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Poe riiulid",
+        "Erinevad tooted",
+        "Balaklavad",
+        "Joped",
+        "Sallid",
+        "Naise juukseklamber",
+        "Sildid (nt. 'Maustamiskes')",
+        "Pudelid",
+        "Pakendid"
+      ],
+      "colorcodes": [
+        "#50312F",
+        "#0F0E0E",
+        "#D4D3D4",
+        "#A8A8A8",
+        "#676767",
+        "#9C1F1F"
+      ],
+      "texts": [
+        "Would you prefer your coffees black or with milk?",
+        "I don't know, I don't know. Black black milk, black milk, black milk.",
+        "Which one, then?",
+        "- With milk.",
+        "Maustamiskes"
+      ],
+      "persons": [
+        "Naine",
+        "Kaks meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": 20,
+      "season": "winter",
+      "daytime": "not clear",
+      "differences": [
+        "Vasakpoolse mehe käte asend muutub: esimesel pildil on käed all, teisel pildil ülal žestikuleerides ja kolmandal pildil taas all.",
+        "Subtiitrite tekst muutub iga kaadriga, peegeldades dialoogi edasiminekut ja otsuse tegemist.",
+        "Meeste pilgud ja kehakeel arenevad: esialgsest kõhklusest ja vaatamisest üksteise poole, kuni lõpliku otsuse tegemisel naisele vaatamiseni."
+      ],
+      "snr": "016",
+      "ajad": [
+        "87.840",
+        "98.240"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub eredalt valgustatud kaupluses või tankla poeruumides. Kaamera fookuses on poelett, mille taga seisab naissoost müüja, kellel on seljas hele särk ja kaelas värviline sall. Ta naeratab ja suhtleb kahe kliendiga, kes on kaamerale seljaga pööratud ja kannavad musti suusamaske, mis katavad nende näod. Ühel mehel on seljas must nahktagi ja teisel pruun mantel. Müüja taga asuvad riiulid on täidetud sigarettide ja tubakatoodetega, samal ajal kui paremal pool on näha laia valikut snäkke ja šokolaaditahvleid. Leti ees on läbipaistev vitriin, kus on näha küpsetisi või saiakesi, ja kassaaparaat. Müüja teatab klientidele nende ostu kogusumma: 'Kaks piimaga kohvi. Teie arve on 7.20, palun.'",
+      "actions": [
+        "Ostude sooritamine",
+        "Kassas teenindamine",
+        "Raha küsimine",
+        "Suhtlemine",
+        "Seisamine",
+        "Naeratamine",
+        "Kuulamine"
+      ],
+      "keywords": [
+        "Pood",
+        "Müüja",
+        "Kassapidaja",
+        "Maskeeritud isikud",
+        "Kauplus",
+        "Teenindus",
+        "Leti",
+        "Kohv",
+        "Snäkid",
+        "Sigaretid",
+        "Šokolaad"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kassaaparaat",
+        "Müügilett",
+        "Vitriin",
+        "Riiulid",
+        "Sigaretipakid",
+        "Šokolaaditahvlid",
+        "Suusamaskid",
+        "Nahktagi",
+        "Pruun mantel",
+        "Müüja särk",
+        "Sall",
+        "Topis/mänguasi"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#0F0F0F",
+        "#6B3E2C",
+        "#F2E8D7",
+        "#A8C8F0",
+        "#E8A838",
+        "#406020"
+      ],
+      "texts": [
+        "Two coffees with milk. Your total is 7.20, please.",
+        "tamiseks"
+      ],
+      "persons": [
+        "Naiskassapidaja/müüja",
+        "Kaks maskides meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Müüja näoilme muutub kergelt – esimesel ja kolmandal pildil naeratab ta laialt, samas kui teisel pildil on ta suu veidi avatud, nagu räägiks, säilitades siiski meeldiva ilme.",
+        "Subtiiter 'Two coffees with milk. Your total is 7.20, please.' on nähtav teisel ja kolmandal pildil, kuid puudub esimeselt pildilt."
+      ],
+      "snr": "017",
+      "ajad": [
+        "98.240",
+        "101.760"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt toidupoes või jaamapoes, kus on leti taga naissoost kassapidaja või müüja ja tema ees kaks meest, kes kannavad musti suusamaske ehk balaklavasid. Naine, kelle selg on kaadri vasakus servas näha, suhtleb meestega. Mehed on riietatud paksudesse talveriietesse – üks pruunis jopes ja mustas mustrilises kampsunis, teine mustas nahkjakis ja punase-mustaruudulise salliga. Esimesel hetkel tellivad nad kohvi piimaga ja naine teatab hinnaks 7.20. Seejärel näib üks meestest tegelemas maksmisega, vaadates alla, võimalik et rahakotti või pangakaarti otsides. Pärast tehingut pööravad maskides mehed ringi ja kõnnivad leti eest eemale, sügavamale poodi või väljapääsu suunas, seljaga vaataja poole. Taustal on näha poeriiuleid erinevate toodetega, sealhulgas sinistes pudelites jooke ja maiustusi, ning automaatuksi. Üldine õhkkond on absurdne, kuna tavalist ostu sooritavad maskides isikud.",
+      "actions": [
+        "Kaks maskides meest seisavad leti ees",
+        "Naine suhtleb klientidega",
+        "Naine teatab kohvijookide hinda",
+        "Üks maskides mees vaatab alla, võimalik et rahakotti või kaarti",
+        "Kaks maskides meest pööravad ringi ja lahkuvad leti eest",
+        "Kaks maskides meest kõnnivad poe tagapoolse osa või väljapääsu suunas"
+      ],
+      "keywords": [
+        "Pood",
+        "Kassapidaja",
+        "Mask",
+        "Balaklava",
+        "Kohv",
+        "Ostmine",
+        "Absurdne olukord",
+        "Talveriided",
+        "Maksmine",
+        "Supermarket"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kassalett",
+        "Poeriiulid",
+        "Joogid (sinised pudelid)",
+        "Maiustused/snäkid",
+        "Automaatuksed",
+        "Mustad balaklavad",
+        "Pruun jope",
+        "Must nahkjakk",
+        "Must särk (mustriga)",
+        "Punase-mustaruuduline sall",
+        "Kassapidaja pluus",
+        "Käekott (või pakk)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#6B4232",
+        "#F8F8F8",
+        "#D0D0D0",
+        "#007BFF",
+        "#FFFF00",
+        "#FF0000"
+      ],
+      "texts": [
+        "Two coffees with milk. Your total is 7.20, please.",
+        "Maiustamiseks"
+      ],
+      "persons": [
+        "Kassapidaja/Müüja (naine)",
+        "Kaks maskides meest (kliendid)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil seisavad maskides mehed nägudega kassapidaja poole, vasakpoolsel mehel käed all. Ekraanil on näha dialoogi teksti.",
+        "Teisel pildil on maskides mehed veidi alla vaatamas, vasakpoolne mees paistab tegelema millegagi kätega (võimalik, et otsib rahakotti või maksab).",
+        "Kolmandal pildil on maskides mehed ümber pööranud ja kõnnivad leti eest eemale, seljaga vaataja poole. Kaadris on näha rohkem taustal olevaid tooteriiuleid ja maiustuste väljapanekut."
+      ],
+      "snr": "018",
+      "ajad": [
+        "101.760",
+        "123.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri moodsas ja hästi varustatud mugavuspoes või tanklapoes. Esimesel hetkel siseneb poodi kaks meest, kelle näod on kaetud mustade kommandovõrkudega, tekitades pingeolukorra. Üks meestest kannab punase-mustaruudulist särki ja nahktagi, teine tumedat kapuutsi ja musti pükse. Nende taustal, kaupluse leti taga, paistab naismüüja, kes esimesel pildil vaatab tagasihoidlikult kaugusse, kuid teisel pildil seisab rõõmsalt leti taga ja naeratab otse kaamerasse, kui mehed on kadunud. Pood on täis riiulitel eksponeeritud tooteid: suupisteid, komme, jooke ja muid esmatarbekaupu. Vasakul on külmlett jookide ja pakendatud toitudega ning üleval menüü tahvel sooja toidu pakkumistega. Paremal on riiulid ja stendid maiustustega, millel on kollased sildid tekstiga \"MAIUSTAMISEKS\". Leti taga on näha sigaretiriiul ja kassasüsteem. Üldine õhkkond varieerub ähvardavast normaalse ja külalislahkeni.",
+      "actions": [
+        "Kaks meest kõnnivad kauplusesse sisse",
+        "Naine seisab leti taga",
+        "Naine naeratab"
+      ],
+      "keywords": [
+        "Mugavuspood",
+        "Tanklapood",
+        "Rööv",
+        "Maskides mehed",
+        "Müüja",
+        "Kauplus",
+        "Snäkid",
+        "Joogid",
+        "Maiustused",
+        "Kassa",
+        "Kontrast",
+        "Pinge",
+        "Normaalsus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Kommandovõrgud",
+        "Ruuduline särk",
+        "Nahktagi",
+        "Kapuutsiga pusa",
+        "Tumedad püksid",
+        "Kaupluselett",
+        "Kassaaparaat",
+        "Arvutimonitor",
+        "Riiulid",
+        "Pakendatud tooted",
+        "Joogikülmik",
+        "Külmvitriin",
+        "Menüütahvel",
+        "Reklaamsildid",
+        "Sigaretiriiul"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#8B0000",
+        "#FFFFFF",
+        "#FFA500",
+        "#008000",
+        "#808080",
+        "#A52A2A",
+        "#1E90FF"
+      ],
+      "texts": [
+        "Teeline",
+        "LISA",
+        "Ülevaade päevapakkumistest",
+        "MAIUSTAMISEKS"
+      ],
+      "persons": [
+        "Kaks maskides meest",
+        "Naismüüja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on kaupluses kaks maskides meest, teisel pildil neid ei ole.",
+        "Naiskaastöötaja asend ja ilme: esimesel pildil on ta tagaplaanil ja vaatab eemale, teisel pildil seisab ta leti ees ja naeratab otse kaamerasse.",
+        "Üldine atmosfäär muutub ähvardavast pingevabaks."
+      ],
+      "snr": "019",
+      "ajad": [
+        "123.040",
+        "129.520"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub erksavärvilises ja hästi valgustatud mugavuspoes või bensiinijaama kaupluses. Esimene kaader näitab klaasist automaatuste kaudu sisenemas ühte inimest, kes kannab helkurvesti. Poes on näha kollastes toonides riiuleid, mis on täis joogipudeleid, snäkke ja muid kaupu. Järgmistes kaadrites on poes kaks maskeeritud meest, mõlemad kannavad musti balaklavasid. Nad seisavad kohvimasina lähedal. Parempoolne mees, kes kannab musta nahkjakki punase ruudulise salliga, hoiab käes kohvitopsi ja tundub olevat parasjagu kohvi tegemas või ootamas. Vasakpoolne mees, pruuni jaki ja musta kootud särgiga, seisab rahulikult tema kõrval. Riiulite kohal on sildid tekstidega \"Joogis\" ja \"Söögitooted\" (kuigi pildil on \"SÖÖGIS\"). Kolmandas kaadris on näha subtiitreid, mis viitavad dialoogile. Stseenis valitseb ootamatu rahu ja isegi huumorimeel arvestades olukorda, kus maskides mehed tellivad kohvi ja paluvad bensiini.",
+      "actions": [
+        "Isik siseneb kauplusesse automaatuste kaudu.",
+        "Kaks maskeeritud meest on kaupluses sees.",
+        "Üks maskeeritud mees tellib või teeb kohvi.",
+        "Üks maskeeritud mees hoiab kohvitopsi.",
+        "Üks maskeeritud mees räägib (vastavalt subtiitritele)."
+      ],
+      "keywords": [
+        "Mugavuspood",
+        "Bensiinijaam",
+        "Röövimine",
+        "Maskeeritud mehed",
+        "Kohvimasin",
+        "Joogid",
+        "Snäkid",
+        "Automaatuksed",
+        "Subtiitrid",
+        "Huumor"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Automaatsed klaasuksed",
+        "Riiulid",
+        "Joogipudelid",
+        "Snäkid",
+        "Kommi pakid",
+        "Kohvimasin",
+        "Kohvitops",
+        "Paberikott",
+        "Kollane prügikast",
+        "Balaklava/komandomüts",
+        "Jakk",
+        "Sall",
+        "Kindad",
+        "Helkurvest"
+      ],
+      "colorcodes": [
+        "#F7D700",
+        "#000000",
+        "#6B3E26",
+        "#CC0000",
+        "#FFFFFF",
+        "#ADD8E6",
+        "#008000"
+      ],
+      "texts": [
+        "Joogis",
+        "SÖÖGIS",
+        "24h",
+        "Hello! - Hi there, 4th tank, please, and could I have a coffee as well?"
+      ],
+      "persons": [
+        "Kaks maskeeritud meest",
+        "Üks helkurvestis isik (töötaja/klient)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader näitab kaupluse sissepääsu ja helkurvestis isikut sisenemas, samas kui järgnevad kaadrid keskenduvad kahele maskeeritud mehele juba kaupluse sees, vihjates sündmuste järgnevusele.",
+        "Kolmandas kaadris on nähtaval ingliskeelsed subtiitrid, mis annavad edasi dialoogi, samas kui varasemates kaadrites neid pole."
+      ],
+      "snr": "020",
+      "ajad": [
+        "129.520",
+        "136.160"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub tanklapoes või mugavuskaupluses. Keskel seisab mees politseiametnik vormis, kandes helkurkollast vesti sildiga 'POLITSEI' ja numbriga '3832'. Tal on lühikesed pruunid juuksed ja habe. Politseiametnik vestleb kellegagi, kelle tagumist osa (pea ja õlg) on näha pildi vasakus servas. See on ilmselt kliendi vaatenurk. Politseiametnik hoiab ühes käes nutitelefoni või rahakotti ning žestikuleerib teise käega. Tema taga ja kaupluses on näha riiulid erinevate maiustuste ja toodetega. Tagaplaanil on näha teisi inimesi, mõned neist kapuutsidega. Dialoog näitab, et klient tellib kütust ('4th tank') ja kohvi, mille eest arve on 31.90 eurot. Stseen on hea valgustusega, andes edasi argise ostuhetke.",
+      "actions": [
+        "vestlemine",
+        "žestikuleerimine",
+        "mobiiltelefoni/rahakoti hoidmine",
+        "ostu sooritamine",
+        "teenindamine",
+        "seismine"
+      ],
+      "keywords": [
+        "politsei",
+        "tanklapood",
+        "klienditeenindus",
+        "kohv",
+        "kütus",
+        "ost",
+        "politseivorm",
+        "helkurvest",
+        "mugavuspood"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "politseiametnik",
+        "politseivest",
+        "politsei vorm",
+        "mobiiltelefon/rahakott",
+        "klient (naine, seljaga)",
+        "poeriiulid",
+        "maiustused",
+        "kommid",
+        "snäkid",
+        "uksed",
+        "valgustid",
+        "sildid",
+        "teised kliendid"
+      ],
+      "colorcodes": [
+        "#FFFF00",
+        "#2B3B51",
+        "#F0F0F0",
+        "#000000",
+        "#8B4513",
+        "#D3D3D3",
+        "#FFD700"
+      ],
+      "texts": [
+        "POLITSEI",
+        "3832",
+        "Maiustamiseks",
+        "Hello! - Hi there, 4th tank, please, and could I have a coffee as well?",
+        "Alright, would you prefer your coffee black or with milk? - Black, please.",
+        "So, black coffee and your total is 31.90, please. - 31.90."
+      ],
+      "persons": [
+        "politseiametnik (mees)",
+        "klient (naine, seljaga)",
+        "teised kliendid (tagaplaanil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel muutub ekraanil kuvatav dialoog, kajastades vestluse edenemist.",
+        "Politseiametniku käte asend ja näoilme varieeruvad pisut, kuna ta räägib ja žestikuleerib.",
+        "Esimesel pildil žestikuleerib politseiametnik käega rohkem väljapoole, teisel pildil hoiab käed pigem rinna lähedal ja kolmandal pildil vaatab telefoni/rahakotti."
+      ],
+      "snr": "021",
+      "ajad": [
+        "136.160",
+        "146.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tehingut müügikohas, kus inimene opereerib kassaaparaati. Esimesel pildil on näha heleda varrukaga käsivars, mis ulatub tumedasse kassa sahtlisse. Samal ajal kuvatakse subtiitrites tekst \"So, black coffee and your total is 31.90, please. - 31.90.\", viidates kohvi ostule ja maksmisele. Teisel pildil on kassa sahtel avatud, näidates selle sisemust – tumedaid vaheseinu ja ühte kortsus 5-eurost rahatähte ühes sahtlis. Inimese käsi on endiselt nähtav vasakul, kuid rõhk on avatud kassasahtlil ja selles oleval rahal. Keskendutakse tehingu detailidele ja kassasahtlile, mis viitab maksetehingu toimumisele.",
+      "actions": [
+        "Kassasahtli avamine",
+        "Kassa opereerimine",
+        "Raha käsitsemine",
+        "Tehingu sooritamine"
+      ],
+      "keywords": [
+        "Kassa",
+        "Kassasahtel",
+        "Raha",
+        "Tehing",
+        "Käsivars",
+        "Euro",
+        "Must kohv",
+        "Teenindus",
+        "Maksmine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Käsivars",
+        "Kassasahtel",
+        "Kassasahtli vaheseinad",
+        "5-eurone rahatäht",
+        "Särk/varrukas",
+        "Kassapõhi/laud"
+      ],
+      "colorcodes": [
+        "#404040",
+        "#A09D9C",
+        "#E8E8E8",
+        "#F8F8F8",
+        "#D1D0B7",
+        "#93937C"
+      ],
+      "texts": [
+        "So, black coffee and your total is 31.90, please.",
+        "- 31.90.",
+        "5"
+      ],
+      "persons": [
+        "Teenindaja (nähtav ainult käsivarrena)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 20,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on kassa sahtel veidi vähem avatud ja 5-eurone rahatäht pole veel selgelt nähtav.",
+        "Esimesel pildil on näha subtiitrid, mis teisel pildil puuduvad.",
+        "Teisel pildil on kassa sahtel täielikumalt avatud ja 5-eurone rahatäht on selgelt nähtaval ühes lahtris.",
+        "Teisel pildil on käsi veidi kaugemal või teistsuguses asendis, pakkudes paremat vaadet sahtlile."
+      ],
+      "snr": "022",
+      "ajad": [
+        "146.320",
+        "147.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, mis näib olevat pood, kiosk või tankla teeninduslett. Kesksel kohal on naissoost teenindaja, kes seisab leti taga ja suhtleb näoga kliendi poole. Tema selja taga on hallid riiulid, mis on täidetud ühtsete pakenditega, mis viitavad tubakatoodetele või sarnastele väikestele esemetele. Leti peal on mitmesuguseid esemeid, sealhulgas punane aerosoolipurk, kollane anum, must sahtel või alus ja värviline plekk-karp. Naine kannab heledat triibulist särki, värvilist lillemustriga salli kaela ümber ja nimesilti, millel on osaliselt näha tekst 'AS KESKE...'. Tema juuksed on tumedad ja osaliselt kinni seotud. Ta räägib kliendiga ja naeratab viisakalt. Kliendist on näha ainult selg ja parem õlg. Ta kannab tumedat särki või jakki ja erekollast helkurvesti. Subtiitrite järgi puudub kaupluses piisavalt sularaha ja teenindaja küsib kliendilt, kas ta saaks maksta kaardiga, millele klient vastab jaatavalt.",
+      "actions": [
+        "Naissoost teenindaja räägib kliendiga",
+        "Naissoost teenindaja naeratab",
+        "Naissoost teenindaja osutab teenust leti tagant",
+        "Meessoost klient kuulab ja vastab"
+      ],
+      "keywords": [
+        "Teenindaja",
+        "Klient",
+        "Pood",
+        "Kiosk",
+        "Teeninduslett",
+        "Maksmine",
+        "Sularaha",
+        "Kaardimakse",
+        "Suhtlemine",
+        "Naeratus",
+        "Helkurvest",
+        "Tubakatooted"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Teeninduslett",
+        "Riiulid",
+        "Pakitud kaubad (karbid)",
+        "Punane aerosoolipurk",
+        "Kollane anum",
+        "Must sahtel/alus",
+        "Värviline plekk-karp",
+        "Särk (teenindajal)",
+        "Sall (teenindajal)",
+        "Nimesilt",
+        "Helkurvest (kliendil)",
+        "Tume särk/jakk (kliendil)"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#DBEB02",
+        "#282F3B",
+        "#A9D57C",
+        "#E97576",
+        "#F1E4A9",
+        "#74AD90",
+        "#4D3D39",
+        "#E0C1AA",
+        "#C40B0A"
+      ],
+      "texts": [
+        "AS KESKE...",
+        "Excuse me, sir, but we do not have enough cash right now.",
+        "Is there a chance you could pay with card?",
+        "- No problem at all. Of course."
+      ],
+      "persons": [
+        "Naissoost teenindaja",
+        "Meessoost klient"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader näitab teenindajat rääkimas neutraalsema näoilmega ja avatud suuga. Subtiitreid pole.",
+        "Teine kaader näitab teenindajat kergelt naeratamas ja suu on suletud. Lisatud on subtiitrid: 'Excuse me, sir, but we do not have enough cash right now.'",
+        "Kolmas kaader näitab teenindajat laiemalt ja siiramalt naeratamas. Subtiitrid on muutunud: 'Is there a chance you could pay with card? - No problem at all. Of course.'"
+      ],
+      "snr": "023",
+      "ajad": [
+        "147.560",
+        "155.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest, kes kannavad musti balaklavasid ja tumedaid rõivaid, seismas eredalt valgustatud kaupluse või väikese supermarketi sisemuses. Nad asuvad vahekäigus, näoga veidi paremale pööratud. Vasakpoolne mees kannab pruuni jopet ja mustvalge mustriga kampsunit, parempoolne mees aga musta nahkjopet, ruudulist särki ja musta salli. Tagaplaanil on näha kollaseid seinu ja valgeid riiuleid, mis on selgelt märgistatud siltidega \"Joogiks\" ja \"Söögiks\". Riiulitel on laias valikus jooke, nagu vesi, karastusjoogid ja mahlad, samuti erinevaid snäkke. Paremal pool on kohvimasin, väike lett ja täiendavad snäkkide väljapanekud. Vasakul all on näha hall prügikast. Esimestel kahel pildil on ingliskeelsed subtiitrid, mis näitavad humoorikat dialoogi: küsimus \"Is there a chance you could pay with card?\" (Kas on võimalik kaardiga maksta?) ja vastus \"- No problem at all. Of course.\" (Pole üldse probleemi. Muidugi.). Kolmas pilt on sisuliselt identne esimestega, kuid ilma subtiitriteta. Üldmulje on koomiline vastandamine, kus tavapäraselt ähvardavad tegelased tegelevad igapäevase tehinguga.",
+      "actions": [
+        "Kaks maskides isikut seisavad kaupluse vahekäigus",
+        "Üks isik on küsimas tehingu kohta, millele vastatakse subtiitrite kaudu",
+        "Toodetega riiulid on täidetud",
+        "Kohvimasin on kasutusvalmis"
+      ],
+      "keywords": [
+        "Pood",
+        "Supermarket",
+        "Balaklava",
+        "Maskides isikud",
+        "Röövlid (implitsiitselt)",
+        "Huumor",
+        "Kaardimakse",
+        "Joogid",
+        "Snäkid",
+        "Kohvimasin",
+        "Subtiitrid",
+        "Särk",
+        "Jope",
+        "Sall"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kaks balaklavat",
+        "Pruun jope",
+        "Mustvalge mustriga kampsun",
+        "Must nahkjakk",
+        "Ruuduline särk",
+        "Must sall",
+        "Riiulid",
+        "Sildid \"Joogiks\"",
+        "Sildid \"Söögiks\"",
+        "Veepudelid",
+        "Karastusjoogid",
+        "Mahlapudelid",
+        "Snäkipakid",
+        "Kohvimasin",
+        "Kassa lett (osaliselt)",
+        "Paberkott",
+        "Prügikast"
+      ],
+      "colorcodes": [
+        "#0A0A0A",
+        "#1A1A1A",
+        "#5C3D29",
+        "#F0F0F0",
+        "#D0D0D0",
+        "#FFFF00",
+        "#FFD700",
+        "#0000FF",
+        "#4682B4",
+        "#FF0000",
+        "#B22222",
+        "#008000",
+        "#808080",
+        "#A9A9A9"
+      ],
+      "texts": [
+        "Joogiks",
+        "Söögiks",
+        "Is there a chance you could pay with card?",
+        "- No problem at all. Of course."
+      ],
+      "persons": [
+        "Kaks maskides meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene ja teine pilt on identsed, sisaldades ingliskeelseid subtiitreid.",
+        "Kolmas pilt on sisult sama mis esimene ja teine, kuid ilma ingliskeelsete subtiitriteta."
+      ],
+      "snr": "024",
+      "ajad": [
+        "155.400",
+        "159.840"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt mugavuspoes, tankla poes või kioskist. Keskmes on müügilett, mille taga seisab naiskassapidaja ja mille ees on alguses seljaga kaamera poole ja seejärel kaamera poole pööratud meespolitseinik. Poeriiulid on täidetud mitmesuguste sigarettide, närimiskummide ja kommidega. Letil on kassasüsteem, must monitor, mis kuvab hindu eurodes, kaardilugeja ja erinevad müügipakendid, sealhulgas punane karp mänguautoga. Kassapidaja on noor, tumedate juustega naine, kes kannab heledat pluusi ja värvilist salli ning naeratab igas kaadris. Politseinik on heledate juustega mees, kes kannab tumesinist politseivormi ja selle peal helkkollast helkurvesti kirjaga \"POLITSEI\". Paremal pool leti kõrval on valged riiulid täis erinevaid närimiskummi ja komme. Ülemistel riiulitel on näha ka kollane koomiksitegelase figuur. Stseenis valitseb üldine sõbralik ja korrektne õhkkond.",
+      "actions": [
+        "Politseinik seisab leti ees",
+        "Kassapidaja teenindab klienti",
+        "Politseinik pöörab oma näo kaamera poole",
+        "Kassapidaja naeratab"
+      ],
+      "keywords": [
+        "Pood",
+        "Kassasüsteem",
+        "Müügilett",
+        "Politseinik",
+        "Kassapidaja",
+        "Sigaretid",
+        "Kommid",
+        "Närimiskumm",
+        "Teenindus",
+        "Vormiriietus",
+        "Helkurvest",
+        "Naeratus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Müügilett",
+        "Kassasüsteem",
+        "Monitor",
+        "Kaardilugeja",
+        "Riiulid",
+        "Sigaretipakid",
+        "Närimiskummipakid",
+        "Kommipakid",
+        "Politseiniku vorm",
+        "Helkurvest",
+        "Särk",
+        "Sall",
+        "Maskottfiguur",
+        "Mänguauto karp (Lightning McQueen)"
+      ],
+      "colorcodes": [
+        "#FFFF00",
+        "#000080",
+        "#E0DED7",
+        "#DDA0DD",
+        "#F5F5F5",
+        "#3A3A3A"
+      ],
+      "texts": [
+        "POLITSEI",
+        "3,99€",
+        "Orbit",
+        "Extra",
+        "Mentos",
+        "CASA"
+      ],
+      "persons": [
+        "Naiskassapidaja",
+        "Meespolitseinik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on politseinik seljaga kaamera poole ja kassapidaja naeratab talle.",
+        "Teisel pildil on politseinik pööratud kaamera poole ja kassapidaja on taustal, samuti naeratades.",
+        "Kolmandal pildil on politseinik kaadrist väljas, kassapidaja on selgelt esiplaanil leti taga ja kaader on laiem, näidates rohkem letti ja tooteid."
+      ],
+      "snr": "025",
+      "ajad": [
+        "159.840",
+        "170.320"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt poe või tankla lähikaupluses, mis on kollakates toonides kujundusega. Esplaanil on pikk müügilett täis pakitud snäkke, sealhulgas erineva maitsega Pringlesi purgikesi, krõpsupakke, komme ja Mesikapp tooteid. Läbi stseeni liigub vasakult paremale mees, seljas sinine vormirõivastus ja erekollane helkurvest, tal on habe. Mees vaatab liikudes ettepoole. Tema taga, läbi klaasseina, paistab teine samasuguses vormis isik. Taustal on näha teisi kaupluse osi, jahutuskappe ja silti 'Kopy Coffee'. Ühel hetkel ilmub ekraanile ingliskeelne subtiiter, mis annab edasi mehe potentsiaalse küsimuse või kommentaari.",
+      "actions": [
+        "Mees kõnnib vasakult paremale läbi kaadri",
+        "Teine mees seisab taustal",
+        "Subtiitrid ilmuvad ekraanile"
+      ],
+      "keywords": [
+        "Lähikauplus",
+        "Pood",
+        "Snäkid",
+        "Pringles",
+        "Mesikapp",
+        "Turvatöötaja",
+        "Vormirõivad",
+        "Helkurvest",
+        "Siseruumid",
+        "Müügilett",
+        "Kommipakk",
+        "Krõpsupakk",
+        "Kohvipood",
+        "Klaassein",
+        "Valgus",
+        "Särgid",
+        "Kommid",
+        "Joogid"
+      ],
+      "shot_type": "medium-long",
+      "placement": "indoor",
+      "objects": [
+        "Snäkiletid",
+        "Krõpsupakid",
+        "Pringlesi purgikesed",
+        "Kommid",
+        "Mesikapp tooted",
+        "Jahutuskapid",
+        "Klaassein",
+        "Dekoratiivtaim",
+        "Riiulid",
+        "Vormirõivad",
+        "Helkurvestid",
+        "Kohvikunurk",
+        "Sildid"
+      ],
+      "colorcodes": [
+        "#FFFF00",
+        "#2B3A5F",
+        "#EF2E2F",
+        "#5CA841",
+        "#FFFFFF",
+        "#000000",
+        "#F7EB00"
+      ],
+      "texts": [
+        "MESI KAPP",
+        "Kopy Coffee",
+        "Well, well, boys, what is going on in here?"
+      ],
+      "persons": [
+        "Habemega mees vormirõivastes ja helkurvestis",
+        "Teine mees vormirõivastes ja helkurvestis taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Peamise mehe asukoht muutub vasakult paremale, liikudes kaadrist välja.",
+        "Kolmandal pildil ilmub ekraani alumisse ossa ingliskeelne subtiiter."
+      ],
+      "snr": "026",
+      "ajad": [
+        "170.320",
+        "172.880"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt bensiinijaama poes või kohvikus, mida iseloomustab erekollane sein ja pruun tekstuuriga paneel seina ülaosas. Pildi vasakul poolel on riiulid erinevate jookide ja suupistetega, sealhulgas sildiga \"Söögiks\". Paremal pool on iseteeninduslik kohvimasin kahe dosaatoriga, selle kõrval ja all on riiulid pakendatud snäkkide, pabertopside ja paberkotiga. Esimeses ja teises kaadris seisavad kaks meest, näod kaetud mustade komandomaskidega, kohvimasina ees, suunaga paremale. Ühel neist on seljas pruun jope ja teisel tumedam ruuduline särk. Kolmandas kaadris ilmub paremalt kaadrisse vormis mees (tõenäoliselt politseinik või turvatöötaja), kellel on seljas hele-roheline/kollane helkurvest ja tumesinine särk/jope. Ta sirutab käe maskides meeste poole, justkui küsides või manitsedes, ning temaga kaasneb subtiiter \"Well, well, boys, what is going on in here?\". Stseen kujutab ilmselt ootamatut kohtumist maskeeritud isikute ja korrakaitse esindaja vahel.",
+      "actions": [
+        "kaks maskeeritud meest seisavad kohvimasina ees",
+        "vormis mees astub kaadrisse paremalt",
+        "vormis mees sirutab käe küsiva žestiga",
+        "maskeeritud mehed pööravad pilku paremale"
+      ],
+      "keywords": [
+        "siseruum",
+        "pood",
+        "kohvimasin",
+        "maskid",
+        "politseinik",
+        "ootamatu kohtumine",
+        "põnevus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "riiulid",
+        "joogid",
+        "snäkid",
+        "kohvimasin",
+        "pabertopsid",
+        "paberkott",
+        "komandomaskid",
+        "helkurvest",
+        "uniform",
+        "kollane sein"
+      ],
+      "colorcodes": [
+        "#FFD700",
+        "#000000",
+        "#8B4513",
+        "#2F4F4F",
+        "#ADFF2F",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Söögiks",
+        "Well, well, boys, what is going on in here?"
+      ],
+      "persons": [
+        "kaks maskeeritud meest",
+        "politseinik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Vormis mees on nähtav ainult kolmandal pildil, astudes paremalt kaadrisse. Esimesel ja teisel pildil on see osa kaadrist tühi.",
+        "Kolmandal pildil on vormis mehel käsi välja sirutatud suunaga maskides meeste poole, mis viitab dialoogi algusele või küsimuse esitamisele."
+      ],
+      "snr": "027",
+      "ajad": [
+        "172.880",
+        "174.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest, mõlemad kandes musti balaclavasid, mis katavad nende nägusid, poe siseruumides. Nad seisavad üsna lähestikku, vaadates kaadrist paremale välja, justkui pöördudes kellegi või millegi poole, mis on nende tähelepanu püüdnud. Mees vasakul kannab pruuni talvemantlit või -jakki ja selle all halli mustriga kampsunit. Tema suuava balaclava all on kergelt avatud, viidates, et ta räägib. Kaadris on näha subtiiter tema dialoogiga. Mees paremal on riietatud musta nahkjakki, mille all paistab punase-mustaruuduline särk ja must sall. Nende taustal on näha supermarketile omaseid riiuleid, mis on täidetud mitmesuguste toodetega, sealhulgas siniste ja läbipaistvate pudelitega joogid ning pakendatud snäkid ja kohvipakid. Riiulid on valged ja hästi valgustatud, mis annab edasi poe keskkonna. Paremal pool on osaliselt näha kassalauda või makseterminali. Stseeni üldmulje viitab võimalikule koomilisele või põnevale olukorrale, kus balaclavas mehed on tegelikult poeröövlite rollis, kuid nende kehakeel ei ole agressiivne.",
+      "actions": [
+        "Kaks meest seisavad poes",
+        "Mees vasakul räägib",
+        "Mõlemad mehed vaatavad kaadrist paremale"
+      ],
+      "keywords": [
+        "Röövlid",
+        "Balaclava",
+        "Pood",
+        "Supermarket",
+        "Riiulid",
+        "Joogid",
+        "Snäkid",
+        "Subtiitrid",
+        "Komöödia",
+        "Must",
+        "Pruun",
+        "Nahk",
+        "Talveriided",
+        "Siseruum",
+        "Jakk",
+        "Sall",
+        "Kampsun"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kaks meest",
+        "Mustad balaclavad",
+        "Pruun talvejakk",
+        "Hall mustriga kampsun",
+        "Must nahkjakk",
+        "Punase-mustaruuduline särk",
+        "Must sall",
+        "Poe riiulid",
+        "Pudelijoogid",
+        "Pakendatud snäkid",
+        "Kohvipakid",
+        "Makseterminali osa"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#5F3C2C",
+        "#8C8C8C",
+        "#9F1F24",
+        "#2A68A7",
+        "#FFFFFF",
+        "#F9E77F"
+      ],
+      "texts": [
+        "Well, well, boys, what is going on in here?"
+      ],
+      "persons": [
+        "Kaks meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad olulised erinevused. Tegemist on praktiliselt identsete kaadritega, mis võivad olla järjestikused filmikaadrid."
+      ],
+      "snr": "028",
+      "ajad": [
+        "174.120",
+        "175.480"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub eredalt valgustatud kaupluse või bensiinijaama sisemuses, mida iseloomustavad silmatorkavad kollased seinad ja riiulid, mis on täidetud mitmesuguste toidu- ja joogikaupadega. Kaadri esiplaanil suhtleb kolm meest iseteeninduskohvimasina juures. Kaks meest vasakul on riietatud tumedatesse jakkidesse ja mustadesse balaclavadesse, mis varjavad täielikult nende näod. Nad seisavad passiivselt ja jälgivad olukorda. Nende vastas seisab politseiametnik, keda on võimalik tuvastada tema tumesinise vormisärgi ja erkrohelise helkurvesti järgi, millel on kiri \"POLIITSEI\". Ametnikul on habe ja lühikesed tumedad juuksed. Politseinik žestikuleerib aktiivselt ja räägib kohvimasina ning selle all oleva paberist kohvitassi kohta. Tema näoilme muutub tõsisemast olekust laia naeratuse ja avatud kätega žestidele, vihjates kergemeelsele või iroonilisele toonile tema vestluses maskides meestega. Ta näib demonstreerivat või selgitavat midagi kohvi väljastamise või raiskamise kohta.",
+      "actions": [
+        "Politseinik räägib ja žestikuleerib kohvimasina juures.",
+        "Politseinik näitab kohvitassi ja masina vahelist olukorda.",
+        "Politseinik naeratab ja selgitab maskides meestele.",
+        "Maskides mehed kuulavad ja vaatlevad passiivselt.",
+        "Kohvimasin väljastab vedelikku (kohvi)."
+      ],
+      "keywords": [
+        "politsei",
+        "maskides mehed",
+        "kohvimasin",
+        "pood",
+        "jaam",
+        "huumor",
+        "Eesti",
+        "politseinik",
+        "kollane",
+        "balaclava",
+        "vest",
+        "snäkid",
+        "joogid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "kohvimasin",
+        "paberist kohvitass",
+        "riiulid",
+        "joogipudelid",
+        "snäkipaketid",
+        "kommipakid",
+        "kollane sein",
+        "politseivest",
+        "politseivorm",
+        "balaclava",
+        "tume jakk",
+        "politsei vöövarustus"
+      ],
+      "colorcodes": [
+        "#F8D80B",
+        "#0F2E6F",
+        "#2C2C2C",
+        "#7E7E7E",
+        "#D4D4D4",
+        "#A06B40"
+      ],
+      "texts": [
+        "Söögiks",
+        "POLIITSEI",
+        "Well, well, boys, what is going on in here?",
+        "You are wasting your coffees like this.",
+        "Yeah. - It runs past the cup, yeah."
+      ],
+      "persons": [
+        "politseinik (habemega mees, seljas sinine vorm ja kollane helkurvest)",
+        "kaks maskides meest (mustade balaclavadega, seljas tumedad jakid)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on politseinik tõsisema näoilmega, küsivalt vaatamas maskides meeste poole. Tema käed on veidi alla laskunud, parem käsi kohvimasina lähedal.",
+        "Teisel pildil on politseiniku pilk suunatud kohvitassi ja masina poole, parem käsi osutab või puudutab tassi. Tema suu on avatud, nagu ta selgitaks.",
+        "Kolmandal pildil naeratab politseinik laialt ja on avatud kätega maskides meeste poole pöördunud, justkui selgitades midagi humoorikalt või irooniliselt. Maskides mehed on endiselt samas asendis, kuulavad."
+      ],
+      "snr": "029",
+      "ajad": [
+        "175.480",
+        "180.040"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt toidupoes või väikeses supermarketis. Esiplaanil on kaks isikut, mõlemad kannavad musti balaklavasid, mis katavad kogu nende näo, jättes nähtavale vaid silmad ja suu. Nad seisavad poelettide ees, mis on täidetud erinevate toodetega, sealhulgas pudelivee, mahlapudelite, kohvipakkide ja pakendatud snäkkidega. Vasakpoolne isik on riietatud pruuni jopesse, mille all on näha kootud kampsun. Parempoolne isik kannab musta nahka meenutavat jopet, mille all on must sall või kaelus ja punamusta ruuduline särk. Paremal servas on näha osa kassalauast või iseteenindusmasinast, millel on digitaalne ekraan. Inimesed paistavad omavahel vestlevat, mida kinnitavad ka kahel pildil nähtavad subtiitrid. Stseeni üldine valgustus viitab päevasele ajale.",
+      "actions": [
+        "Kaks maskides isikut vestlevad",
+        "Seisavad poeriiulite ees",
+        "Kannavad maske"
+      ],
+      "keywords": [
+        "Pood",
+        "Supermarket",
+        "Balaklava",
+        "Maskeeritud",
+        "Vestlus",
+        "Kaup",
+        "Riiulid",
+        "Kassamasin",
+        "Kuritegu",
+        "Pudelid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Balaklava",
+        "Pruun jope",
+        "Must jope",
+        "Kootud kampsun",
+        "Must sall/kaelus",
+        "Punane ruuduline särk",
+        "Veepudelid",
+        "Mahlapudelid",
+        "Kohvipakid",
+        "Pakendatud snäkid",
+        "Riiulid",
+        "Kassamasin",
+        "Digitaalne ekraan"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#6B3B2B",
+        "#D6D5D5",
+        "#0D289B",
+        "#B01019",
+        "#F4E81A"
+      ],
+      "texts": [
+        "Yeah.",
+        "- It runs past the cup, yeah.",
+        "EVIAN",
+        "KAFFEBO"
+      ],
+      "persons": [
+        "Kaks maskides meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Paremalt poolt maskis isiku suu asend varieerub kaadrite vahel, viidates aktiivsele rääkimisele. Esimesel ja teisel pildil on suu pisut avatud, kolmandal on see laiemalt avatud.",
+        "Vasakult poolt maskis isiku suu on esimesel ja teisel pildil suletud, kolmandal aga kergelt avatud, mis viitab kas rääkimisele või reageerimisele.",
+        "Subtiitrid tekstiga 'Yeah. - It runs past the cup, yeah.' on nähtavad esimesel ja teisel pildil, kuid puuduvad kolmandal pildil.",
+        "Tegelaste peade asendites ja kehahoiakutes on kaadrite vahel minimaalseid nihkeid, mis on tingitud video liikumisest."
+      ],
+      "snr": "030",
+      "ajad": [
+        "180.040",
+        "183.400"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, mis meenutab jaekauplust või bensiinijaama poodi. Pildil on kolm meest: üks politseivormis ja kaks maskides meest. Politseiametnik, kellel on habe ja pruunid juuksed, kannab tumesinist jakki ja erkrohelist (fluorestseeruvat kollast) helkurvesti, millel on kiri \"POLITSEI\". Ta seisab leti ääres, nägu pööratud vasakule, ja osutab parema käega kohvimasinale. Tema näol on sõbralik ilme, mis areneb piltide jooksul laiemaks naeratuseks. Temast vasakul seisavad kaks meest, kes mõlemad kannavad musti suusamaske (balaklaavasid), mis katavad nende näod. Esiplaanil olev maskis mees kannab pruuni jopet ja musta salli, tema suu on maski avast näha, justkui räägiks. Teine maskis mees on tema taga osaliselt varjatud, kandes musta jopet ja punase-ruudulist särki. Letil politseiniku ja maskis meeste vahel on professionaalne kohvimasinate komplekt koos tassiga, mis ootab täitmist. Taustal on kollased seinad ja riiulid, mis on täis pakendatud jooke ja erinevaid suupisteid, nagu pudelijoogid, kommid ja saiakesed. Üldine õhkkond on hele ja kunstlikult valgustatud, viidates päevasele ajale siseruumides. Stseenis toimub vestlus, kus üks maskis meestest räägib ja politseinik kuulab naeratades.",
+      "actions": [
+        "Politseinik seisab ja osutab kohvimasinale",
+        "Politseinik naeratab ja kuulab vestlust",
+        "Maskis mees seisab ja räägib",
+        "Teine maskis mees seisab tagaplaanil"
+      ],
+      "keywords": [
+        "Pood",
+        "jaekauplus",
+        "kohvimasin",
+        "politsei",
+        "mask",
+        "balaklaava",
+        "vestlus",
+        "huumor",
+        "siseruum",
+        "riiulid",
+        "suupisted",
+        "joogid",
+        "topelt tõukamine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kohvimasinad",
+        "kohvitass",
+        "letid",
+        "riiulid",
+        "pudelid",
+        "joogid",
+        "suupisted",
+        "kommid",
+        "saiakesed",
+        "politseivorm",
+        "helkurvest",
+        "balaklaavad",
+        "joped",
+        "sall",
+        "ruuduline särk"
+      ],
+      "colorcodes": [
+        "#FFD700",
+        "#36454F",
+        "#000000",
+        "#8B4513",
+        "#FFFFFF",
+        "#FF0000"
+      ],
+      "texts": [
+        "POLITSEI",
+        "DOUGH'S",
+        "- Jah, me tegime, topelt tõukamist, üks-kaks, üks-kaks."
+      ],
+      "persons": [
+        "Politseiametnik",
+        "kaks maskides meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid, teisel ja kolmandal pildil on näha subtiitrid: \"- Jah, me tegime, topelt tõukamist, üks-kaks, üks-kaks.\"",
+        "Isikute näoilmed ja kehahoiakud on piltide vahel kergelt muutunud, mis annab edasi vestluse kulgu. Politseiniku naeratus muutub piltidel järjest nähtavamaks ja laiemaks, viidates lõbusale hetkele. Maskis mees, kes räägib, muudab samuti veidi oma kehahoiakut, rõhutades rääkimist."
+      ],
+      "snr": "031",
+      "ajad": [
+        "183.400",
+        "189.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest, kes seisavad toidupoe riiulite vahel. Mõlemad mehed kannavad musti suusamaske ehk balaklaavasid, mis katavad nende näod, jättes nähtavale vaid silmade ja suu piirkonna. Vasakpoolne mees on riietatud pruuni jopesse või mantlisse ja selle all on hall mustriline kampsun. Parempoolne mees kannab musta nahktagi, punase-mustaruudulist särki ja musta salli. Nad vaatavad kaamerast paremale, võimalik, et kassapidaja või kellegi poole, kes on kaadrist väljas. Taustal on näha mitu riiulit täis erinevaid toidukaupu, peamiselt joogipudeleid nagu vesi, mahlad ja karastusjoogid, samuti pakendatud snäkke ja kohvipakke. Poe riiulid on valged. Stseenis on realistlik valgustus ja detailid viitavad toidupoe keskkonnale. Esimesel pildil on näha ingliskeelsed subtiitrid, mis viitavad dialoogile. Meeste kehahoiakud ja pilgud muutuvad kergelt kaadrite vahel, justkui vestlus areneks või nad jälgiksid teatud sündmust.",
+      "actions": [
+        "Kaks meest seisavad poe riiuli ees",
+        "Mehed vaatavad kaamerast paremale",
+        "Vasakpoolne mees räägib (esimesel pildil, viidatud subtiitritega)",
+        "Meeste pilgud ja kehahoiakud muutuvad kergelt kaadrite vahel"
+      ],
+      "keywords": [
+        "Pood",
+        "Supermarket",
+        "Toidupood",
+        "Balaklaava",
+        "Suusamask",
+        "Mehed",
+        "Röövlid (potentsiaalselt, riietuse tõttu)",
+        "Kaubariiulid",
+        "Joogipudelid",
+        "Snäkid",
+        "Siseruum"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mustad balaklaavad",
+        "Pruun mantel/jope",
+        "Hall mustriline kampsun",
+        "Must nahktagi",
+        "Punase-mustaruuduline särk",
+        "Must sall",
+        "Poe riiulid",
+        "Joogipudelid (sinised, läbipaistvad, kollased, oranžid)",
+        "Pakendatud toidukaubad (kohv, snäkid)",
+        "Kassapult (osaliselt nähtav)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#5C3D2E",
+        "#808080",
+        "#FF0000",
+        "#0000FF",
+        "#FFFFFF",
+        "#FFFF00",
+        "#FFC0CB"
+      ],
+      "texts": [
+        "- Yeah, we did, double poling, one-two, one-two."
+      ],
+      "persons": [
+        "Kaks meest (maskides)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on ingliskeelsed subtiitrid, mis puuduvad teistel piltidel.",
+        "Vasakpoolse mehe pea asend ja pilk muutuvad kaadrite vahel: esimesel pildil on ta rohkem parempoolse mehe poole pööratud, teisel otsemalt ette ja kolmandal veelgi rohkem vasakule.",
+        "Parempoolse mehe pilk ja pea asend on kaadrite vahel kergelt muutunud, jälgides vasakpoolse mehe liikumist või sündmust kaadrist väljaspool."
+      ],
+      "snr": "032",
+      "ajad": [
+        "189.800",
+        "203.320"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub erkkollaste seintega kaupluses või kioskist, mis meenutab tankla poodi. Esimesel plaanil on kohvimasina lett, mille ümber seisavad kolm meest. Kaks neist kannavad musti näo katvaid komandosid ehk balaklaavasid ja kolmas on politseivormis, seljas neoonkollane helkurvest kirjaga 'POLITSEI'. Politseinik on esimeses hetkes naeratav ja suhtleb maskides meestega, hoides käes kohvitopsi. Üks maskides mees kannab pruuni jopet ja halli kampsunit, teine aga musta nahktagi, punast ruudulist särki ja musta salli. Kõik kolm hoiavad käes kohvitopse. Politseinik pöörab seejärel kohvimasina poole, jäädes seljaga vaataja poole, samal ajal kui maskides mehed on kaadrist lahkunud või väljaspool fookust. Letil on näha kohvitopse, suupisteid ja prügikasti sümbol. Tagaplaanil asuvad riiulid erinevate pakendatud toiduainete ja jookidega. Riiulite kohal on näha ka osaliselt teksti 'SOOJUKS'.",
+      "actions": [
+        "Mehed seisavad kohvimasina leti juures",
+        "Politseinik suhtleb maskides meestega",
+        "Politseinik naeratab",
+        "Maskides mehed ja politseinik hoiavad kohvitopse",
+        "Politseinik pöörab kohvimasina poole",
+        "Võimalik kohvi valmistamine või võtmine"
+      ],
+      "keywords": [
+        "Kauplus",
+        "Kiosk",
+        "Tankla pood",
+        "Politsei",
+        "Komando",
+        "Balaklaava",
+        "Kohvimasin",
+        "Kohv",
+        "Suupisted",
+        "Naeratus",
+        "Suhtlemine",
+        "Politseivorm",
+        "Helkurvest",
+        "Humoorikas"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kohvimasin",
+        "Kohvitopsid",
+        "Riiulid",
+        "Pakendatud toiduained",
+        "Joogipudelid",
+        "Helkurvest",
+        "Balaklaavad",
+        "Nahktagi",
+        "Pruun jope",
+        "Punane ruuduline särk",
+        "Must sall",
+        "Leti ala",
+        "Prügikasti sümbol",
+        "Paberkott",
+        "Halli mustriga kampsun"
+      ],
+      "colorcodes": [
+        "#FFFF00",
+        "#1F3C6D",
+        "#000000",
+        "#6F4E37",
+        "#FF0000",
+        "#FFFFFF",
+        "#A9A9A9"
+      ],
+      "texts": [
+        "POLITSEI",
+        "SOOJUKS"
+      ],
+      "persons": [
+        "Politseinik",
+        "Maskides mees 1",
+        "Maskides mees 2"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Politseiniku asend muutub: esmalt seisab ta näoga maskides meeste poole ja naeratab, suheldes nendega, seejärel pöörab ta selja vaataja poole ja seisab kohvimasina ees, justkui midagi toimetades.",
+        "Maskides mehed on teises kaadris kaadrist väljas, mis viitab nende liikumisele või kaamera fookuse nihkumisele politseinikule."
+      ],
+      "snr": "033",
+      "ajad": [
+        "203.320",
+        "212.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest poe või bensiinijaama sisemuses, kes kannab tumesinist vormijakki ja erksat kollast helkurvesti, millel on ka mustad rihmad ja kinnitused. Tema paremal õlal on näha pagunitunnused. Mees, kellel on pruunid juuksed ja lühike habe, vaatab algselt alla, justkui tegeleks kohvimasinaga. Kohvimasin on musta värvi ja sellel on ekraan ning kahes kihis läbipaistvad kohviubade mahutid. Masina peal seisab roheline ja pruunika mustriga tops, millel on tekst 'Teeline'. Tausta moodustavad kaupluse riiulid, mis on täidetud erinevate pakendatud toodetega, nagu joogipudelid (vesi, mahl) ja kohvi- või küpsisekarbid punastes ja lillades pakendites. Ülemised riiulid on valged ning tagumine sein hallikasvalge. Stseeni arenedes tõstab mees pilgu ja avab suu, justkui räägiks kellelegi, ning viimasel kaadril on näha ingliskeelne subtiiter 'Stop right there!'.",
+      "actions": [
+        "Mees vaatab kohvimasina poole",
+        "Mees tõstab pilgu",
+        "Mees räägib",
+        "Kohvi valmistamine või valimine kohvimasinalt"
+      ],
+      "keywords": [
+        "Ametnik",
+        "Politseinik",
+        "Kauplus",
+        "Pood",
+        "Kohvimasin",
+        "Helkurvest",
+        "Vormiriietus",
+        "Riiulid",
+        "Subtiitrid",
+        "Emotsioon"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kohvimasin",
+        "Kohvitops (Teeline)",
+        "Riiulid",
+        "Joogipudelid",
+        "Pakendatud tooted (kohv, küpsised)",
+        "Kollane helkurvest",
+        "Tumesinine vormijakk"
+      ],
+      "colorcodes": [
+        "#000080",
+        "#FFFF00",
+        "#FFFFFF",
+        "#C0C0C0",
+        "#8B4513",
+        "#FF0000",
+        "#800080"
+      ],
+      "texts": [
+        "Teeline",
+        "Stop right there!"
+      ],
+      "persons": [
+        "Mees (ametnik/politseinik)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0-10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe pilk ja näoilme muutuvad: alguses vaatab ta alla, siis tõstab pilgu ja avab suu, justkui räägiks.",
+        "Viimasel kaadril ilmuvad ekraanile ingliskeelsed subtiitrid 'Stop right there!'."
+      ],
+      "snr": "034",
+      "ajad": [
+        "212.680",
+        "214.120"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub valgustatud esmatarbekaupluses või väikeses supermarketis. Kaks isikut, mõlemad mustade balaklaavadega, on algselt näha seismas roheliste toataimede ja omanäolise kollase augulise disainiga stendi lähedal. Üks maskeeritud isik kannab pruuni jopet halli mustrilise kampsuni peal, samas kui teisel on seljas must nahktagi ja kaelas must sall. Nad on pööratud poe parema külje poole, kus riiulitel on eksponeeritud joogid ja snäkid. Nende vastas seisab turvamees või politseiametnik tumesinises vormis ja kollases helkurvestis. Algselt näib turvamees maskeeritud isikuid peatavat või neile juhiseid andvat, andes edasi esialgse pinge. Hiljem on maskeeritud isikud ja turvamees näha tihedamas suhtluses. Turvamees naeratab märgatavalt lõdvestunult, osaledes vestluses maskeeritud duoga, keskendudes pruunile paberkotile, mida üks maskeeritud isikutest (mustas nahktagis) käes hoiab. See interaktsioon viitab võimalikust vastasseisust rahulikuma, isegi sõbraliku vahetuseni. Stseeni lõpus lahkub turvamees alalt, kus maskeeritud isikud viibisid, vaadates üle õla tagasi mõtliku või kergelt hämmeldunud ilmega. Ta kommenteerib maskeeritud isikute ebatavalist olemust, andes mõista, et nende käitumine oli ootamatu või veider. Taustal on pidevalt näha joogiriiuleid ja snäkitooteid, nagu Pringles ja erinevad krõpsud, lisaks veel potitaimed ja kaasaegsed kollase-musta värvi istumiskohad, mis on nähtavad läbi poe klaasseinte. Poe interjöör on puhas ja hästi valgustatud, viitades kaasaegsele jaemüügikeskkonnale.",
+      "actions": [
+        "Kaks maskeeritud isikut seisavad poes.",
+        "Turvamees peatab algselt maskeeritud isikud.",
+        "Maskeeritud isikud suhtlevad turvamehega, kaasates pruuni paberkoti.",
+        "Turvamees naeratab suhtluse käigus.",
+        "Turvamees kõnnib minema ja vaatab tagasi üle õla.",
+        "Turvamees kommenteerib maskeeritud isikute käitumist."
+      ],
+      "keywords": [
+        "Pood",
+        "Supermarket",
+        "Turvamees",
+        "Maskeeritud isikud",
+        "Rõivastus",
+        "Suhtlus",
+        "Paberkott",
+        "Pinge",
+        "Lõdvestumine",
+        "Huumor",
+        "Snäkid",
+        "Joogid",
+        "Toataimed",
+        "Helkurvest"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kaks maskeeritud isikut",
+        "Turvamees/politseiametnik",
+        "Mustad balaklaavad",
+        "Pruun jope",
+        "Must nahktagi",
+        "Must sall",
+        "Mustriline kampsun",
+        "Kollane helkurvest",
+        "Tumedasin uniform",
+        "Pruun paberkott",
+        "Poeriiulid",
+        "Joogid",
+        "Snäkid",
+        "Pringles pakid",
+        "Krõpsupakid",
+        "Rohelised toataimed (madukeel)",
+        "Kollased lillepotid",
+        "Kollane dekoratiivne stend aukudega",
+        "Lauad ja toolid",
+        "Klaasist seinad",
+        "Kollane prügikast",
+        "Laevalgustid",
+        "Dekoratiivsed rippvalgustid"
+      ],
+      "colorcodes": [
+        "#FFD700",
+        "#000000",
+        "#A52A2A",
+        "#4169E1",
+        "#FF0000",
+        "#008000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Stop right there!",
+        "JOOGIKS",
+        "SÖÖGIKS",
+        "Damn, those guys are well messed up."
+      ],
+      "persons": [
+        "Esimene maskeeritud isik: Mees, kannab musta balaklaavat, pruuni jopet ja halli mustrilist kampsunit.",
+        "Teine maskeeritud isik: Mees, kannab musta balaklaavat, musta nahktagi ja musta salli.",
+        "Turvamees/politseiametnik: Mees, kannab tumesinist vormi ja kollast helkurvesti, näeb algul tõsine välja, hiljem naeratab ja on seejärel mõtlik."
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt näitab turvameest maskeeritud isikuid peatamas, tekib esialgne pinge ja dialoog \"Stop right there!\".",
+        "Teine pilt näitab turvameest naeratamas ja suhtlemas maskeeritud isikutega, kaasates pruuni paberkoti, mis viitab pinge leevenemisele ja ootamatule pöördele olukorras.",
+        "Kolmandal pildil on turvamees maskeeritud isikute lahkudes üksinda kaadris, vaadates tagasi ja kommenteerides nende käitumist sõnadega \"Damn, those guys are well messed up.\". Maskeeritud isikud on kaadrist lahkunud."
+      ],
+      "snr": "035",
+      "ajad": [
+        "214.120",
+        "231.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri moodsas ja heledalt valgustatud tankla- või esmatarbekaupluses. Keskel seisab leti taga naeratav noor naismüüja, hoides mõlemas käes kuuma koera. Tema selja taga on seina sisse ehitatud riiulid sigarettide ja tubakatoodetega. Leti esiosa on rikkalikult täidetud erinevate šokolaaditahvlite ja kommipakkidega. Letil on ka müügisüsteemi monitor koos menüü- ja hinnainfoga (nt 'Teeline', 'Rukkileib', '2.70€'). Kaupluse vasakul poolel asub suur klaasist külmik-vitriin, kus on näha saiakesi, kooke ja mitmesuguseid jooke. Paremal poolel on riiulid täis pakendatud maiustusi, krõpse ja muid snäkke. Parema riiuli ülemises osas on näha multifilmitegelase (sarnane Smurfiga) kujuke. Üleval vasakul seinal on veel üks menüütahvel erinevate toitude ja nende hindadega ('salat', 'võileib', 'kohv', 'karastusjoogid'). Üldmulje on puhtast, korras ja hästi varustatud kauplusest.",
+      "actions": [
+        "Naeratamine",
+        "Hot dogide hoidmine",
+        "Seismine",
+        "Teenindamine (implied)"
+      ],
+      "keywords": [
+        "Pood",
+        "Tanklapood",
+        "Müüja",
+        "Teenindaja",
+        "Lett",
+        "Kassa",
+        "Hot dog",
+        "Maiustused",
+        "Joogid",
+        "Külmik",
+        "Tubakatooted",
+        "Snäkid",
+        "Naeratav",
+        "Siseruum",
+        "Kiosk"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Müüja (naine)",
+        "Lett",
+        "Kassaaparaat/arvuti",
+        "POS-ekraan",
+        "Hot dogid",
+        "Külmik-vitriin",
+        "Saiakesed",
+        "Koogid",
+        "Joogipudelid",
+        "Šokolaaditahvlid",
+        "Kommipakid",
+        "Krõpsupakid",
+        "Tubakatooted",
+        "Sigaretipakid",
+        "Menüütahvel",
+        "Multifilmitegelase kujuke",
+        "Valgustid",
+        "Riiulid",
+        "Müügikampaaniate kastid",
+        "Letialune tehnika (nt. nõudepesumasin)",
+        "Plakatid"
+      ],
+      "colorcodes": [
+        "#D9E6E9",
+        "#4E5A63",
+        "#F5F5F5",
+        "#E0C29F",
+        "#8BC34A",
+        "#FFC107",
+        "#E91E63",
+        "#9C27B0",
+        "#2196F3"
+      ],
+      "texts": [
+        "salat",
+        "võileib",
+        "kohv",
+        "karastusjoogid",
+        "Teeline",
+        "Rukkileib",
+        "2.70€",
+        "2.50€",
+        "2.30€",
+        "2.00€",
+        "Damn, those guys are well messed up.",
+        "TAADU LEIB",
+        "Piraat",
+        "Snickers",
+        "Twix",
+        "Mars",
+        "Oreo"
+      ],
+      "persons": [
+        "Müüja (naine)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0-5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha subtiitrid (\"Damn, those guys are well messed up.\"), mis teisel pildil puuduvad.",
+        "Esimese pildi üldine valgustus ja värvitoonid on pisut tumedamad ja sügavamad kui teisel pildil, mis paistab veidi heledam ja elavam."
+      ],
+      "snr": "036",
+      "ajad": [
+        "231.920",
+        "242.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast helevalgustatud siseruumi, mis sarnaneb tankla poe või suurema kioskiga. Keskel seisab noor naisterahvas, kes on tõenäoliselt müüja või teenindaja. Ta kannab valget nööbitavat pluusi ja värvilist lips-salli, millel on sinise, rohelise ja kollase toonid, ning naeratab sõbralikult vaatajale. Mõlemas käes hoiab ta ühte kuuma koera. Tema taga on müügilett, millel asub kassasüsteem koos skanneriga. Leti tagaseinas on näha suuri riiuleid sigarettide ja tubakatoodetega, mis on peidetud hallide ruloode taha. Paremal pool on avatud külmikriiulid erinevate jookide ja pakendatud toodetega. Vasakul leti osal on väljas valik maiustusi ja väiksemaid pakendeid ning leti taga on roostevabast terasest professionaalne köögiseade, tõenäoliselt toidu valmistamiseks või soojendamiseks. Paremal leti ees seisab püsti menüülaud kirjaga \"Teeline\", kus on näha erinevate toitude ja hindade loetelu. Üldine atmosfäär on puhas ja kutsuv.",
+      "actions": [
+        "Müüja naeratab vaatajale",
+        "Müüja hoiab mõlemas käes kuuma koera",
+        "Müüja poseerib müügileti taga"
+      ],
+      "keywords": [
+        "Pood",
+        "teenindaja",
+        "kuum koer",
+        "kiirtoit",
+        "müügilett",
+        "kassasüsteem",
+        "sigaretid",
+        "tanklapood",
+        "naeratus",
+        "müük",
+        "siseruum"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Müüja",
+        "kaks kuuma koera",
+        "müügilett",
+        "kassasüsteem",
+        "skanner",
+        "sigaretiriiulid",
+        "rulood",
+        "külmikriiulid",
+        "joogid",
+        "pakendatud tooted",
+        "maiustused",
+        "toiduvalmistamise seade",
+        "menüülaud",
+        "maskott/mänguasi riiulil"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#CCCCCC",
+        "#B3865D",
+        "#E52B50",
+        "#007FFF",
+        "#008000",
+        "#FFFF00",
+        "#000000"
+      ],
+      "texts": [
+        "Teeline",
+        "Rikkalik einestamine",
+        "2.70€",
+        "2.50€",
+        "2.20€",
+        "Singi-juustusai",
+        "Lõhesai"
+      ],
+      "persons": [
+        "Noor naisterahvas (müüja/teenindaja)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha detailne stseen poe interjöörist naeratava müüjaga, kes hoiab kuumi koeri ja on ümbritsetud müügiartiklitega. Teine ja kolmas pilt on täiesti mustad, puuduvad igasugused visuaalsed detailid ja need ei sisalda tegelikku stseenikirjeldust."
+      ],
+      "snr": "037",
+      "ajad": [
+        "242.960",
+        "248.520"
+      ]
+    }
+  ]
+}

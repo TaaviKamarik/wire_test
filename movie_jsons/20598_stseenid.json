@@ -1,0 +1,347 @@
+{
+  "film": [
+    "20598",
+    "20443",
+    "FILM_VIDEO_TYPE_TRAILER",
+    "Liblika efekt",
+    "d8d5c9f0f4ef339d73a9f99cbe9e867aff09bf3c.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseenis on näha musta tausta peal kahes reas käsitsi kirjutatud stiilis teksti. Ülemisel real on suurtähtedega sõna \"LIBLIKAEFEKT\" ja alumisel real \"THE BUTTERFLY EFFECT\". Mõlemad tekstiread on keskel ja paigutatud ekraani keskele. Tekst on ühtlase kriipsujoonelise stiiliga, meenutades pliiatsiga või kriidiga kirjutatut. Taust on ühtlaselt must ja teksti värv varieerub piltide vahel helehallist valgeni.",
+      "actions": [
+        "Teksti kuvamine"
+      ],
+      "keywords": [
+        "Pealkiri",
+        "Liblikaefekt",
+        "Must taust",
+        "Tekst",
+        "Käsitsi kirjutatud stiil",
+        "Tiitrid",
+        "Minimaalne"
+      ],
+      "shot_type": "textbackground",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000",
+        "#808080",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "LIBLIKAEFEKT",
+        "THE BUTTERFLY EFFECT"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "80",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide peamine erinevus on teksti värv. Esimesel pildil on tekst helehall, teisel pildil on tekst valge."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "1.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab multilikku õuekeskkonda heleda taeva all, kus keskseks tegelaseks on sinine liblikas. Pildil on näha stiliseeritud hooned. Vasakul pool on osaliselt nähtav oranži-pruun tooniga hoone, millel on kaarjas aknaava. Parempoolne hoone on sinakat tooni, millel asub suur, ebakorrapärase kujuga hall element, mis meenutab korstnat või mingit arhitektuurilist detaili. Liblikas on helesiniste tiibadega, mille sisekülgedel on roosakas-lillad kolmnurgakujulised või ovaalsed mustrid, ja tumeda halli kehaga. Stseen jäädvustab liblika liikumise alates vabast lennust taevas, seejärel lähenedes sinise hoone hallile osale, kuni lõpuks sellele maandudes või puhates.",
+      "actions": [
+        "liblika lendamine",
+        "liblika lähenemine hoonele",
+        "liblika maandumine",
+        "liblika puhkamine"
+      ],
+      "keywords": [
+        "liblikas",
+        "lendamine",
+        "maandumine",
+        "hooned",
+        "linnavaade",
+        "multikas",
+        "sinine",
+        "oranž",
+        "hall",
+        "taevas",
+        "animatsioon"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "liblikas",
+        "hoone",
+        "korsten",
+        "aken",
+        "tiivad"
+      ],
+      "colorcodes": [
+        "#83A3C7",
+        "#5A93D0",
+        "#CAA0B9",
+        "#5F5F5F",
+        "#D7945F",
+        "#75B3E6",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "drawing",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil lendab liblikas vabalt õhus, taeva taustal.",
+        "Teisel pildil on liblikas liikunud lähemale parempoolse sinise hoone hallile korstnataolisele detailile, olles just sinna maandumas.",
+        "Kolmandal pildil on liblikas maandunud või puhkab hallil korstnataolisel detailil, tiivad osaliselt suletud või paigal."
+      ],
+      "snr": "002",
+      "ajad": [
+        "1.720",
+        "3.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab järjestikust ja häirivat sündmustikku, kus inimene vigastab ennast kruvikeerajaga silma piirkonnas. Alguses on näha inimese näo vasakut külge, kus lahtine silm vaatab pingeolukorras ettepoole ning käsi hoiab väikest kruvikeerajat, mille ots on suunatud silma sisenurka. Tausta täidab mustvalge, staatiline ja pikseldatud müra, mis annab stseenile ebareaalse ja häiritud atmosfääri. Järgnevalt tungib kruvikeeraja silma, põhjustades väikese verejooksu ja veretäpi ilmumise silma alla. Lõpuks on silm täielikult hävinud ja asendunud suure, tühja musta auguga. Inimese nahatoon muutub valgest helehalliks ning silma alla, põse piirkonda, ilmub stiliseeritud leek, vihjates sisemisele põlemisele või transformatsioonile. Kogu järjestikune tegevus on kujutatud lihtsa, karmi mustvalge joonistusena, kus veri ja leek annavad ainsad värvilised aktsendid.",
+      "actions": [
+        "Kruvikeeraja suunamine silma poole",
+        "Kruvikeeraja silma torkamine",
+        "Verejooksu tekkimine",
+        "Silma hävimine ja mustaks muutumine",
+        "Leegi ilmumine näole",
+        "Naha värvimuutus"
+      ],
+      "keywords": [
+        "Vägivald",
+        "Enesevigastamine",
+        "Horvaatiline",
+        "Surrealistlik",
+        "Graafiline",
+        "Silma vigastus",
+        "Kruvikeeraja",
+        "Leek",
+        "Digitaalne müra",
+        "Pinge",
+        "Ebamugav",
+        "Visuaalne narratiiv"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [
+        "Inimese nägu (osaliselt)",
+        "Silm",
+        "Käsi",
+        "Kruvikeeraja",
+        "Veri",
+        "Tühi silmaauk",
+        "Leek",
+        "Digitaalne müra (taust)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#FF0000",
+        "#FFA500",
+        "#C0C0C0"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "drawing",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on kruvikeeraja silma lähedal, kuid pole veel silma tunginud.",
+        "Teisel pildil on kruvikeeraja silma sisenurka tunginud ja tekkinud on veretilk.",
+        "Kolmandal pildil on silm täielikult asendunud musta auguga, nahatoon on muutunud valgest helehalliks ning silma alla on ilmunud leek.",
+        "Kruvikeeraja otsal on teisel ja kolmandal pildil näha punakas varjund, viitades verele või tulele."
+      ],
+      "snr": "003",
+      "ajad": [
+        "3.200",
+        "4.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab animeeritud sinist liblikat, kes puhkab või maandub hallil, kumera kujuga ehitisel, mis näib olevat osa sinisest hoonest. Taustal on hele taevas. Liblikas on esiplaanil ja tema tiivad liiguvad kaadrite vahel, demonstreerides liikumist. Esimeses kaadris on liblikas avatud tiibadega, justkui maandudes või õhku tõustes. Teises kaadris on tiivad suletud, mis viitab puhkeseisundile ja rahuolule. Kolmandas kaadris on liblika tiivad taas avatud, kuid veidi erinevas asendis, näidates liikumise jätkumist või uuesti õhku tõusmise valmisolekut. Hoone on lihtsate joontega joonistatud, stiliseeritud ja selle paremas servas on näha tumedate raamidega ristkülikukujulised aknad. Pildi vasakus allnurgas on näha ka oranži/pruuni värvi hooneosa. Kogu stseen on joonistatud, koomiksiliku esteetikaga.",
+      "actions": [
+        "Liblikas maandub",
+        "Liblikas puhkab",
+        "Liblika tiivad avanevad ja sulguvad"
+      ],
+      "keywords": [
+        "Liblikas",
+        "Hoone",
+        "Animatsioon",
+        "Linnamaastik",
+        "Liikumine",
+        "Puhkus",
+        "Loodus linnas"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Liblikas",
+        "Hoone (sinine)",
+        "Hall ehitis (osa hoonest)",
+        "Aknad",
+        "Taevas",
+        "Oranž/pruun hooneosa"
+      ],
+      "colorcodes": [
+        "#87CEEB",
+        "#5B8FF7",
+        "#555555",
+        "#E0BBE4",
+        "#4E7CBE",
+        "#696969",
+        "#4682B4",
+        "#D3D3D3",
+        "#363636",
+        "#FFA500"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "drawing",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Liblika tiibade asend muutub kaadrite vahel.",
+        "Esimeses kaadris on tiivad laiali ja veidi ettepoole suunatud.",
+        "Teises kaadris on liblika tiivad suletud, asetsevad vertikaalselt piki liblika keha.",
+        "Kolmandas kaadris on tiivad taas laiali, kuid liblika keha on veidi rohkem näha ja tiibade nurk on pisut erinev võrreldes esimese kaadriga."
+      ],
+      "snr": "004",
+      "ajad": [
+        "4.720",
+        "5.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab graafiliselt ja sümboolselt enesetsensuuri või vaigistamise akti. Käsi hoiab valgeid kääre oranži liigendiga, suunates need osaliselt nähtava suu poole. Taust on rabe, kriimustatud mustvalge tekstuur. Stseeni arenedes avaneb suu laiemalt, paljastades roosaka keele ja hambad. Käärid lõikavad jõuliselt keelt, tekitades koheselt eredat punast verd keelele ja suu ümber, mis viitab valule ja vigastusele. Keel muutub tumedamaks ja ilmselgelt kahjustatuks. Selle protsessi käigus muutub nähtava näo ja käe nahatoon puhtalt valgest helehalliks, rõhutades rasket muutust. Üldmulje on sunduslikust või enesepoolt tekitatud vaigistamisest, kus kõne on sõna otseses mõttes maha lõigatud.",
+      "actions": [
+        "Käärid lähenevad suule",
+        "Suu avaneb laiemalt",
+        "Käärid lõikavad keelt",
+        "Veri ilmub suhu ja keelele"
+      ],
+      "keywords": [
+        "tsensuur",
+        "keeld",
+        "vaikimine",
+        "enesetsensuur",
+        "valu",
+        "suu",
+        "keel",
+        "käärid",
+        "lõikamine",
+        "mustvalge",
+        "graafiline",
+        "sümbolism",
+        "vaigistamine",
+        "trauma",
+        "verejooks",
+        "haav"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "käärid",
+        "käsi",
+        "suu",
+        "keel",
+        "hambad",
+        "veri"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#F05523",
+        "#E0E0E0",
+        "#FCB7B7",
+        "#D00000",
+        "#8B0000"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "drawing",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Käärid liiguvad suule lähemale.",
+        "Suu avaneb laiemalt, paljastades keele ja hambad.",
+        "Käärid lõikavad keelt.",
+        "Keelele ja suu ümber ilmub veri.",
+        "Naha toon muutub algsest valgest helehalliks.",
+        "Keele värvus muutub punasest tumepunaseks ja veriseks."
+      ],
+      "snr": "005",
+      "ajad": [
+        "5.640",
+        "6.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab animeeritud sinist liblikat liikumas stiliseeritud hoone fassaadi taustal. Hoone on valdavalt sinine, detailidega hallides toonides, sealhulgas aknaraamid ja dekoratiivsed elemendid. Liblikas on stseeni peamine fookus, mis sooritab lennuliigutust, avades ja sulgedes oma tiibu. Üldine atmosfäär näitab üleminekut pimedamast keskkonnast heledamale, viidates aja möödumisele ööst päevaks.",
+      "actions": [
+        "Liblikas lendab",
+        "Liblikas liigutab tiibu",
+        "Liblikas muudab asukohta"
+      ],
+      "keywords": [
+        "Liblikas",
+        "Lendav",
+        "Hoone",
+        "Aken",
+        "Animatsioon",
+        "Sinine",
+        "Hall",
+        "Liikumine",
+        "Öö",
+        "Päev",
+        "Fassaad"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Liblikas",
+        "Hoone",
+        "Aken",
+        "Katuseäär/dekoratiivne element"
+      ],
+      "colorcodes": [
+        "#476A8D",
+        "#6EA5E0",
+        "#595959",
+        "#8F8F8F",
+        "#D5AEE5",
+        "#CBC1D6",
+        "#C96E17"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "drawing",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene kaader on tunduvalt tumedamates toonides, sinine hoone on sügavsinine ja detailid tumedamad hallid, mis viitab öisele ajale. Järgmistes kaadrites muutub hoone heledamaks siniseks ja hallid detailid on samuti heledamad, mis viitab päevaajale.",
+        "Liblika asend ja tiibade avatus muutuvad. Esimeses kaadris on liblikas vasakul, tiivad suletud ja keha diagonaalselt suunatud. Teises kaadris on liblikas veidi nihkunud paremale ja tiivad on osaliselt avatud, paljastades tiiva sees oleva ovaalse mustri. Kolmandas kaadris on liblikas veelgi paremal ja kõrgemal, tiivad on täielikult avatud ja allapoole suunatud, näidates selgelt tiiva sees olevat kolmnurkset ja ringikujulist mustrit. Liblika sisemiste tiibade mustrid ja värvid muutuvad kergelt avanedes.",
+        "Liblika keha orientatsioon muutub piltide vahel, liikudes horisontaalsemalt vertikaalsemalt."
+      ],
+      "snr": "006",
+      "ajad": [
+        "6.880",
+        "7.680"
+      ]
+    }
+  ]
+}

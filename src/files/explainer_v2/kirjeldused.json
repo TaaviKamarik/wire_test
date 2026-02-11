@@ -1,0 +1,3960 @@
+{
+  "film": [
+    "16737",
+    "16616",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Kaardimaja",
+    "ada8ff2bf7f7514e1134ac598f47662f12783a85.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Pilt kujutab musta tausta, millel on valged sümbolid. Sümbolid näevad välja geomeetrilised ja võivad sümboliseerida mingit tüüpi infograafikat või visuaalset esitusviisi. Soojust ja sügavat varjundit ei ole näha, seega on pilt puhas ja minimalistlik.",
+      "actions": [
+        "pilt on loodud infograafikaks",
+        "graafika esitamine"
+      ],
+      "keywords": [
+        "minimaalne",
+        "geomeetriline",
+        "must",
+        "valge",
+        "infograafika"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "geomeetrilised sümbolid",
+        "must taust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "drawing",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_000"
+    },
+    {
+      "explanation": "Pildil on tumedad ja udused värvid, mis näevad välja nagu valguse mänge, kuid ei ole selgelt määratletud objekte.",
+      "actions": [],
+      "keywords": [
+        "valgus",
+        "värvid",
+        "udusus"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000",
+        "#8B0000",
+        "#4B0082",
+        "#000080",
+        "#FF4500"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_015"
+    },
+    {
+      "explanation": "Pildil on peamiselt tumedat tausta, millel on erkrohelise, roosa ja valge tuled, mis loovad mängulise ja dünaamilise atmosfääri. Tulesid on kõrvuti ja nende vahel on tume ruum, mis võib viidata, et need asuvad siseruumides.",
+      "actions": [
+        "Valguseefektide loomine",
+        "Dekoratsioonide kasutamine"
+      ],
+      "keywords": [
+        "valgus",
+        "siseruum",
+        "dekoratsioon",
+        "atmosfäär"
+      ],
+      "shot_type": "not clear",
+      "placement": "indoor",
+      "objects": [
+        "valgus",
+        "taust",
+        "teenetemärgid"
+      ],
+      "colorcodes": [
+        "#00FF00",
+        "#FF00FF",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_030"
+    },
+    {
+      "explanation": "Pildil on nähtav inimene, kelle selg on kaamera suunas, taustal on hämar ja värviline valgustus. Näib, et inimene vaatab midagi, mis on nähtav distantsselt. Atmosfäär on salapärane ja öine, valgus on peamiselt sinine ja punane.",
+      "actions": [
+        "inimene vaatab",
+        "valgustus mängib"
+      ],
+      "keywords": [
+        "öö",
+        "hämar",
+        "valgustus",
+        "inimene"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "inimene",
+        "valgusallikad",
+        "taust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#1A1A1A",
+        "#002B5C",
+        "#FF0000"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene, naine, umbes 20-30 aastat, tume juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_045"
+    },
+    {
+      "explanation": "Pilt on hägune, peamiselt tume ja valgusefektidega. Tundub, et tegemist on ööklubiga või sealsete esinetega, kus on mitmeid inimesi ja valgusmäng. Kõrval on kaks naist, kellest üks on tantsimas. Taust on tumedam, mis annab pildile diskoteegi atmosfääri.",
+      "actions": [
+        "tantsimine",
+        "valgustusmäng",
+        "esinemine"
+      ],
+      "keywords": [
+        "ööklubi",
+        "valgus",
+        "tants"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "tantsupulk",
+        "valgustid",
+        "inimesed"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FF00FF",
+        "#FFFFFF",
+        "#0000FF"
+      ],
+      "texts": [],
+      "persons": [
+        "naine, noor, mustad juuksed",
+        "naine, noor, mustad juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_060"
+    },
+    {
+      "explanation": "Pildil on ööklubi atmosfäär, kus eioleb valgustus ja ebamugavad varjud. Üks naine tantsib oleva tantsupolu ümber, hoides kinni tantsupolu. Ta kannab musta kleiti, millel on transparantne detail. Taustal on näha veel paar inimest.",
+      "actions": [
+        "Naine tantsib tantsupolu ümber",
+        "Külastajad vaatavad",
+        "Joogid on käes"
+      ],
+      "keywords": [
+        "öötants",
+        "klubi",
+        "poli",
+        "tantsijad",
+        "joogid"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "tantsupolu",
+        "joogid",
+        "tantsija",
+        "valgustus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FF00FF",
+        "#FFFF00",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine, kes tantsib, mustade juustega",
+        "Mees, kes vaatab, heledate juustega"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_075"
+    },
+    {
+      "explanation": "Pildil on mees, kes seisab seljaga kaamera poole. Tal on hallid juuksed ja habe, ning ta kannab tumedat ülikonda. Ta näeb välja, nagu ta oleks mõtlemas millegi üle või vaatamas kuhugi, mis jääb tema vaateväljast välja. Taustal on pehme valgus, sealhulgas sinised ja punased tuled, mis muudavad atmosfääri õdusaks.",
+      "actions": [
+        "Mees vaatab kuhugi",
+        "Mees seisab paigal",
+        "Mees mõtleb millegi üle"
+      ],
+      "keywords": [
+        "mees",
+        "ülikond",
+        "tuli",
+        "mõtlemine",
+        "õhk"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "tuli",
+        "kardin"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#4B0082",
+        "#FFFFFF",
+        "#FF0000"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees, kes on keskikka jõudnud, hallid juuksed, habe"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_090"
+    },
+    {
+      "explanation": "Pildil on näha vanem mees, kes seisab tumedas ruumis. Tema nägu on küljepealt, ta hoiab ühes käes jooki. Taustal on pehme sinine valgus, mis loob romantilise õhkkonna.",
+      "actions": [
+        "Mees seisab",
+        "Mees hoiab jooki"
+      ],
+      "keywords": [
+        "mees",
+        "jook",
+        "sinine valgus",
+        "tumene ruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "jook",
+        "valgus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#0000FF",
+        "#C0C0C0"
+      ],
+      "texts": [],
+      "persons": [
+        "mees, vanus: keskealine, juuksed: hallid, eripärad: vuntsid"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_105"
+    },
+    {
+      "explanation": "Pildil on kaks inimest, kelle seas valitseb madal valgustus ja sinine tooni ülekaal. Üks isik, kes näib olevat vanem mees hallide juustega, istub tumedal diivanil. Teine isik on naine, kellel on seljas must ja leopardimustriga riietus. Mees näib olevat keskendunud millelegi tema ees. Taust on hämar ja sisaldab tumedaid kardinaid.",
+      "actions": [
+        "inimene istub",
+        "naine liigub lähedal"
+      ],
+      "keywords": [
+        "pimedus",
+        "leopardimuster",
+        "sinine valgus",
+        "vanem mees",
+        "naine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "diivan",
+        "kardin",
+        "riided"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#1F1F1F",
+        "#0000FF"
+      ],
+      "texts": [],
+      "persons": [
+        "vanem mees, hallid juuksed",
+        "noorem naine, leopardimuster"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_120"
+    },
+    {
+      "explanation": "Pilt näitab vana meest tumedas toas, kus valgustus on peamiselt sinine. Mees istub diivanil, hoides oma käsi kokku ja vaatab vaataja poole. Ta kannab tumedat ülikonda ja heleroheline särk on kergelt nähtav. Ta näeb välja murelik ja tõsine.",
+      "actions": [
+        "Mees istub",
+        "Mees vaatab vaatajat"
+      ],
+      "keywords": [
+        "vana mees",
+        "tume tuba",
+        "sinine valgus",
+        "tõsine",
+        "üksildane"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "diivan",
+        "kardin",
+        "tool",
+        "klaas"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#00008B",
+        "#708090",
+        "#C0C0C0"
+      ],
+      "texts": [],
+      "persons": [
+        "vana mees, hallide juustega, valge habemega"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_135"
+    },
+    {
+      "explanation": "Pildil on noormees, kes seisab seljaga kaamerale. Ta on rõivad seljas ja tema juuksed on lühikesed. Ta seisab ukse lähedal, kus tagaplaanil on näha teisi inimesi. Valgustus on hämar ja peamine värv on lilla.",
+      "actions": [
+        "noormees seisab",
+        "teised inimesed räägivad"
+      ],
+      "keywords": [
+        "noormees",
+        "ukse lähedal",
+        "hämar valgustus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "uksed",
+        "valgustid",
+        "inimesed"
+      ],
+      "colorcodes": [
+        "#6A0DAD",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Suurendamine"
+      ],
+      "persons": [
+        "noormees, umbes 20-aastane, lühikesed juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_150"
+    },
+    {
+      "explanation": "Pildil on kaks meest tumedatest ja värvilistest valgusest valgustatud ruumis. Esiplaanil on noorem mees, kellel on lühikesed heledad juuksed ja ta vaatab kaamerasse tagasi. Ta on riietatud halli jakki. Taustal on teine mees, kes paistab olevat vanem ja tal on tumedad juuksed ning ta on kehakäitluses murelik, mis annab pildile emotsionaalse mõõtme.",
+      "actions": [
+        "Noorem mees vaatab tagasi",
+        "Vanem mees on murelik"
+      ],
+      "keywords": [
+        "mehed",
+        "tumedad valgustused",
+        "emotsionaalne",
+        "ruum"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "seinad",
+        "valgustid",
+        "uksed"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#D3D3D3",
+        "#800080"
+      ],
+      "texts": [],
+      "persons": [
+        "Noorem mees, kes vaatab tagasi",
+        "Vanem mees, kes paistab murelik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_165"
+    },
+    {
+      "explanation": "Pildil on noormees, kes seisab peaaegu kummargil, vaadates maha. Tema kehahoiakstundub odavad ja murelikud. Ta kannab musta ja valge ruudulist särk ning halli jakki. Taust on tumedates toonides, millel on violetne valgustus, mis loob salapärase ja pinge õhkkonna.",
+      "actions": [
+        "noormees küsib raha",
+        "noormees seisab"
+      ],
+      "keywords": [
+        "noormees",
+        "rahaküsimine",
+        "pinge",
+        "tumeda valgusega"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "tumedad seinad",
+        "uks",
+        "valgustus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#8A8A8A",
+        "#8B00FF"
+      ],
+      "texts": [
+        "You've got the money?"
+      ],
+      "persons": [
+        "noormees, seks: mees, vanus: noor, juuksed: hele, spetsiifilised atribuudid: riietatud halli jakki ja musta ruudulist särki"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_180"
+    },
+    {
+      "explanation": "Pildil on noormees, kes on seljaga kaamera poole. Tema pea on kaldu ja ta vaatab alla. Ta on riides heledasse särki. Taustal on pimedad alad ja värviline valgus, mis näib olevat violetne või lilla. Ümbrus on tumedates toonides, luues salapärase õhkkonna.",
+      "actions": [
+        "Noormees kummardab",
+        "Vahtib midagi alla"
+      ],
+      "keywords": [
+        "noormees",
+        "salapärane",
+        "valgustus",
+        "tumedad toonid"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "seina paneel",
+        "ukse kast"
+      ],
+      "colorcodes": [
+        "#B0C4DE",
+        "#5C5C5C",
+        "#E8E8E8",
+        "#A020F0"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, noor, hele juuksed, seljaga kaamera poole"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_195"
+    },
+    {
+      "explanation": "Pildil on kaks noort meest öises keskkonnas. Esiplaanil on üks noormees, kes toetub seinale ja näib ärev, samas kui teine noormees tagaplaanil näitab emotsionaalset väljendust, tõenäoliselt karjub või väljendab oma tundeid. Taustal on hämar valgus, mis loob pingelise atmosfääri.",
+      "actions": [
+        "Noormees toetub seinale",
+        "Teine noormees karjub või väljendab emotsioone"
+      ],
+      "keywords": [
+        "noormehed",
+        "ärevus",
+        "öine",
+        "emotsioonid",
+        "pingeline atmosfäär"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "sein",
+        "ukseava"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#4B4B4B",
+        "#FFFFFF",
+        "#8A3F7D"
+      ],
+      "texts": [],
+      "persons": [
+        "Noormees, seks: mees, vanus: noor, juuksed: heledamad, eripära: ärevus",
+        "Noormees, seks: mees, vanus: noor, juuksed: tumedamad, eripära: emotsionaalne väljendus"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_210"
+    },
+    {
+      "explanation": "Pildil on kaks noormeest, üks neist vaatab tagasi üle õla. Valgustus on tumedam, peamiselt sinakas ja lillakas, mis tekitab pingelise õhkkonna. Taustal on lohud ja värvitud seinad, mis näitavad linnaõhkkonda. See viitab sellele, et nad võivad olla linnakeskkonnas.",
+      "actions": [
+        "Noormees vaatab tagasi",
+        "Teine noormees liigutab kätt"
+      ],
+      "keywords": [
+        "noormees",
+        "tumedus",
+        "pingeline",
+        "linn"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "seina tekstuur",
+        "linna valgus"
+      ],
+      "colorcodes": [
+        "#000080",
+        "#800080",
+        "#FFFFFF",
+        "#C0C0C0"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, kergelt lühikesed juuksed",
+        "teine noormees, pikem juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_225"
+    },
+    {
+      "explanation": "Pildil on kaks noort inimest, kes istuvad ühes toas, millel on tumedam ja salapärane atmosfäär. Poiss näib murelik ja keskendunud, samas kui tüdruk keskendub millegi tegemisele, võimalikult seotud laua kohal asuva objektiga.",
+      "actions": [
+        "Tüdruk puudutab lauda",
+        "Poiss vaatab murelikult tüdrukut"
+      ],
+      "keywords": [
+        "noored",
+        "koosolek",
+        "toon",
+        "mõtlikus",
+        "atmosfäär"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "laud",
+        "toolid",
+        "jook"
+      ],
+      "colorcodes": [
+        "#1e1e1e",
+        "#ffffff",
+        "#4c4c4c"
+      ],
+      "texts": [],
+      "persons": [
+        "Poiss: noor, valge nahk, tume lühike juuksed, murelik ilme.",
+        "Tüdruk: noor, valge nahk, pruun pikad juuksed, keskendunud ilme."
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_240"
+    },
+    {
+      "explanation": "Pildil on noormees, kes istub laua ääres ja suitsetab. Tema nägu väljendab mõtlikkust, samas kui taustal on naine, kelle selg on pööratud kaamerale. Naine kannab lühikest kleiti. Interjöör on hämar ja seintel olevad tekstuurid annavad intiimse õhkkonna.",
+      "actions": [
+        "noormees suitsetab",
+        "naine seisab",
+        "naine pöörab selga"
+      ],
+      "keywords": [
+        "suitsetamine",
+        "öö",
+        "intensiivne",
+        "intimne",
+        "kaader"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "lauake",
+        "sigaret",
+        "klaas"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#5B5B5B",
+        "#C0C0C0",
+        "#FF0000"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees",
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_255"
+    },
+    {
+      "explanation": "Pildil on näha kahte inimest, kes istuvad koos pimedas ruumis. Mees on tõsise näoilmega ja vaatab eemal, samas kui naine on aktiivsem, nagu ta üritab teda mingil viisil köita. Ta tõstatab käes objekti, mis näib olevat mänguasi või vidin.",
+      "actions": [
+        "Mees vaatab eemal",
+        "Naine püüab mehe tähelepanu"
+      ],
+      "keywords": [
+        "inimesed",
+        "tõsine",
+        "pimedus",
+        "konfidentsiaalsus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "mänguasi",
+        "diivan"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#A9A9A9"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (noor, heledad juuksed)",
+        "Naine (noor, tumedad juuksed)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_270"
+    },
+    {
+      "explanation": "Pildil on noormees istumas, kes näitab oma kätega liikumist, nagu ta teeks mingit ettevalmistust või tegevust. Ta näeb välja keskendunud ja tõsine.",
+      "actions": [
+        "Noormees liigutab käsi",
+        "Noormees mõtleb"
+      ],
+      "keywords": [
+        "noormees",
+        "käeliikumine",
+        "tõsine",
+        "siseruum"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "kohv",
+        "laud",
+        "sein"
+      ],
+      "colorcodes": [
+        "#4B4B4B",
+        "#A4A4A4",
+        "#1E1E1E"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, umbes 20-aastane, pruunid juuksed, kannab halli jakki"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_285"
+    },
+    {
+      "explanation": "Pildil on noormees, kes tõstab käed üles, nagu ta oleks midagi haaramas või viskamas. Toodud valguses on tume taust ja mõned sinised ja mustad detailid, mis viitavad, et see on siseruum. Noor mees kannab triibulist särki.",
+      "actions": [
+        "noormees tõstab käsi",
+        "midagi viskab või haarab"
+      ],
+      "keywords": [
+        "noormees",
+        "siseruum",
+        "veidi tumedam",
+        "särk",
+        "liikumine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "noormees",
+        "särk",
+        "tume taust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#333333",
+        "#FFFFFF",
+        "#0000FF"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, umbes 20, heledad juuksed, triibuline särk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_300"
+    },
+    {
+      "explanation": "Pildil on näha kahe mehe kohtumist kitsas tänavavahes, kus on prügikastid ja tahvel ning udune illumineerimine. Üks mees kummardub, tõenäoliselt otsides midagi prügikastist, samas kui teine mees seisab otse tema kõrval, näidates murelikku näoilmet.",
+      "actions": [
+        "Üks mees kummardub prügikasti poole.",
+        "Teine mees seisab kõrval, vaadates kummardavat meest."
+      ],
+      "keywords": [
+        "tänav",
+        "kohtumine",
+        "prügikastid",
+        "murelikkus",
+        "pimedus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "prügikast",
+        "karkassid",
+        "aknad"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#7F7F7F",
+        "#FFFFFF",
+        "#FF0000",
+        "#0000FF"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees, kes kummardub, kannab valget ja sinist ruudulist särk, näib olema noorem.",
+        "Mees, kes seisab, on keskealine, tumeda juuksevärviga ja kannab musta nahktagi."
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_315"
+    },
+    {
+      "explanation": "Pildil on kaks meest, kes näevad välja nagu nad oleksid rääkinud. Noor mees, kes kannab ruudulist särk, seisab vasakul ja vaatab paremale, samal ajal kui teine mees, kes kannab tumedat jakk, seisis tema kõrval ja vaatab pomm. Taustal on näha prügikaste ja valgustatud ruum.",
+      "actions": [
+        "Mehed vestlevad",
+        "Noor mees vaatab teist meest",
+        "Teine mees on tähelepanelik"
+      ],
+      "keywords": [
+        "mehed",
+        "vestlus",
+        "öine",
+        "linna taust"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "prügikast",
+        "õllekonteinerid",
+        "ruumilise tausta valgus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#A6A6A6",
+        "#FFFFFF",
+        "#FF0000",
+        "#00FF00"
+      ],
+      "texts": [
+        "California"
+      ],
+      "persons": [
+        "noor mees, blondide juustega",
+        "keskealine mees, tumedad juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_330"
+    },
+    {
+      "explanation": "Pildil on kaks meest, kes seisavad sünge õhkkonnaga keskkonnas. Üks mees, kellel on heledam juuksevärv ja triibuline särk, vaatab teist meest, kes näib intensiivselt rääkivat. Kaks meest seisavad üksteise vastas, luues dialooge. Taustal on tumedad värvid ja mõned esemed.",
+      "actions": [
+        "Mehed vestlevad",
+        "Üks mees räägib intensiivselt"
+      ],
+      "keywords": [
+        "vestlus",
+        "mehed",
+        "sünge keskkond",
+        "intensiivne",
+        "dramaatiline"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "prügikastid",
+        "karbid",
+        "valgustus"
+      ],
+      "colorcodes": [
+        "#1C1C1C",
+        "#4D4D4D",
+        "#A1A1A1",
+        "#F0F0F0"
+      ],
+      "texts": [
+        "And now you use that freedom to escape as far as you can from here."
+      ],
+      "persons": [
+        "Mees, heledate juustega, vanus: noor",
+        "Mees, tumedate juustega, vanus: keskealine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_345"
+    },
+    {
+      "explanation": "Pilt näitab kahte meest kitsas, halvasti valgustatud läbikäigus. Vasakul pool olev mees, kes kannab ruudulist särk ja on keskikka jõudnud, vaatab mures suunas, samas kui parem pool mees, kes kannab musta jope, kõnnib eemale. Taustal on prügikast ja mõned karbid.",
+      "actions": [
+        "Vasakpoolne mees vaatab prügikasti",
+        "Parem mees kõnnib eemale"
+      ],
+      "keywords": [
+        "mehed",
+        "prügikast",
+        "pimedus",
+        "kitsas ruum",
+        "mure"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "prügikast",
+        "karbid",
+        "seinad"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#4A4A4A",
+        "#1F1F1F"
+      ],
+      "texts": [],
+      "persons": [
+        "Vasakpoolne mees, blond juuksed, noorem",
+        "Parem mees, hallid juuksed, vanem"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_360"
+    },
+    {
+      "explanation": "Pildil on kaks meest, kes räägivad üksteisega kitsastes tingimustes. Üks mees, noorem, kannab sinist ja valget ruudulist särki, samas kui vanem mees kannab tumedat jakk ja musta särki. Taustal on prügikastid ja hämar valgus, mis annab õhkkonnale dramaatilisuse.",
+      "actions": [
+        "Kaks meest räägivad",
+        "Noorem mees kuulab",
+        "Vanem mees räägib"
+      ],
+      "keywords": [
+        "mehed",
+        "rääkima",
+        "tumeda valgusega",
+        "prügikastid",
+        "õhkkond"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "prügikast",
+        "valgusallikas"
+      ],
+      "colorcodes": [
+        "#3A3A3A",
+        "#FFFFFF",
+        "#000000",
+        "#E0E0E0"
+      ],
+      "texts": [
+        "you are good at this job"
+      ],
+      "persons": [
+        "noorem mees, heledad juuksed",
+        "vanem mees, tumedad juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_375"
+    },
+    {
+      "explanation": "Pildil on kaks meest, kes räägivad teineteisega kitsas, tumedas ruumis. Taustal on prügikastid ja some valgusfookus, mis paistab tumedalt. Kõige nähtavam on nende vestlus ja kehakeel, mis viitab intiimsele arutelule.",
+      "actions": [
+        "Mehed räägivad üksteisega",
+        "Üks mees naeratab"
+      ],
+      "keywords": [
+        "vestlus",
+        "prügikast",
+        "tume ruum",
+        "mehed",
+        "intensiivne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "prügikast",
+        "valgusti",
+        "toolid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#A9A9A9",
+        "#FF6600"
+      ],
+      "texts": [
+        "If you want a vacation, well... by all means."
+      ],
+      "persons": [
+        "Noor mees, heledate juustega",
+        "Keskealine mees, tumedate juustega"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_390"
+    },
+    {
+      "explanation": "Pildil on kaks inimest hämaras ala, kus noormees vaatab midagi oma käes olevast seadmest, tõenäoliselt telefonist, mille valgus paistab tema nägu. Tema kõrval seisab teine mees, kes suitsetab. Taustal on prügikastid ja kitsas ruum.",
+      "actions": [
+        "noormees vaatab telefoni",
+        "mees suitsetab"
+      ],
+      "keywords": [
+        "noormees",
+        "telefon",
+        "suitsetamine",
+        "hämarus",
+        "prügikastid"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "prügikast",
+        "telefon"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#ffffff",
+        "#ffcc00"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees",
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_405"
+    },
+    {
+      "explanation": "Pildil on kaks meest, kes seisavad kitsas ruumis, mille taustal on prügikastid ja seinad. Üks mees on seljas sinine ruuduline särk ja ta näeb välja mures. Teine mees, kes on tumedamas riietuses, suitsetab ja vaatab eesolevat. Valgustus on hämar ja tumedate hallide toonidega.",
+      "actions": [
+        "Üks mees vaatab murelikult",
+        "Teine mees suitsetab"
+      ],
+      "keywords": [
+        "mehed",
+        "hämar valgus",
+        "suitsetamine",
+        "kitsas ruum"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "prügikast",
+        "sein",
+        "suits",
+        "riided"
+      ],
+      "colorcodes": [
+        "#4B4B4B",
+        "#A1B2C3",
+        "#282B33"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees 1, noor, hele juuksed, sinises ruudulises särgis",
+        "Mees 2, keskealine, tumedad juuksed, tumedas riietuses"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_420"
+    },
+    {
+      "explanation": "Pildil on kaks meest, kes räägivad teineteisega kitsastes oludes. Üks mees, kes kannab ruudulist särk, on noorem, umbes 20-30 aastane, ja hoiab käes midagi, mis võib olla informatiivne või oluline. Teine mees on vanem, umbes 30-40 aastane, ja tal on tume ülikond. Kumbki mees näib olevat tõsise vestluse keskel. Taustal on prügikastid ja pudelid, mis viitab sellele, et tegevus toimub linnaääres või tagahoovis. Valgus on hämar, peamiselt siniste ja violetsete toonidega, mis loob pingelise atmosfääri.",
+      "actions": [
+        "Kaks meest räägivad omavahel",
+        "Noorem mees näitab käega objekti",
+        "Vestlus näib tõsine"
+      ],
+      "keywords": [
+        "mehed",
+        "vestlus",
+        "pinged",
+        "öine",
+        "väljas"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "prügikast",
+        "pudelid",
+        "uks"
+      ],
+      "colorcodes": [
+        "#4A4A4A",
+        "#6A6A6A",
+        "#D3D3D3",
+        "#000000"
+      ],
+      "texts": [
+        "Think about it."
+      ],
+      "persons": [
+        "Noormees, ruudulise särgiga",
+        "Mees, tume ülikond"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_435"
+    },
+    {
+      "explanation": "Pilt kujutab noort meest, kes seisab kitsas ruumis, tõenäoliselt backstage või kõrvaliste ruumide vahel. Mees vaatab oma telefoni ja paistab keskendunud. Ruumi taustal on tumedamad värvid ja sinakas valgus, mis loob salapärase õhkkonna.",
+      "actions": [
+        "Noormees vaatab oma telefoni",
+        "Silmad on suunatud ekraanile"
+      ],
+      "keywords": [
+        "noormees",
+        "telefon",
+        "tume ruum",
+        "salapärane valgus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "prügikast",
+        "kastid",
+        "telefon"
+      ],
+      "colorcodes": [
+        "#2C3E50",
+        "#34495E",
+        "#2980B9"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, seks: mees, vanus: noor, juuksed: heleda välimusega"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_450"
+    },
+    {
+      "explanation": "Pildil on näha mees, kes kõnnib kitsal tänaval. Tänav on kividest ja seal on vanamoodsad hooned. Tundub, et on hilisõhtu või varajane hommik, kuna valgus on madal ja tumedam.",
+      "actions": [
+        "mees kõnnib",
+        "uurib ümbrust"
+      ],
+      "keywords": [
+        "mees",
+        "tänav",
+        "vanad hooned",
+        "kivi",
+        "valgustus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "mees",
+        "hooned",
+        "kivid",
+        "lamp",
+        "tänavanimi"
+      ],
+      "colorcodes": [
+        "#3A3A3A",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#FFD700"
+      ],
+      "texts": [
+        "LOOM",
+        "tänavanimi"
+      ],
+      "persons": [
+        "mees, kes on keskeas, heledate juustega, seljas must mantel"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_465"
+    },
+    {
+      "explanation": "Pildil on õhtune linnavaade, kus kolm noort inimest vestlevad trepi ääres. Üks inimene riputab midagi, samas kui kaks teist seisavad ja vaatavad. Valgustus on vähene, mille tõttu on kohad tumedamaks muutunud. Taustal on nähtav mõni kauplus, millel on punane neonvalgustus.",
+      "actions": [
+        "Üks inimene riputab midagi",
+        "Kaks inimest vestlevad ja vaatavad"
+      ],
+      "keywords": [
+        "noored",
+        "linn",
+        "õhtu",
+        "vestlus",
+        "valgustus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "trepp",
+        "neonvalgustus",
+        "inimesed",
+        "sein"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#FF0000",
+        "#808080"
+      ],
+      "texts": [
+        "Darts... seriously?"
+      ],
+      "persons": [
+        "Mees, blond, kes riputab midagi",
+        "Noormees, brünett, seisab ja vaatab",
+        "Naine, pruunide juustega, naeratab"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_480"
+    },
+    {
+      "explanation": "Pildil on pimedas keskkonnas kaks noort inimest. Üks neist seisab trepi peal ja näitab selja, samas kui teine inimene on madalamal, hoides oma käes telefoni. Ta kannab halli karma pusa ja tal on lühikesed tumedad juuksed. Ta näeb välja mures või kurb. Taustal on valgustus, mis toob esile mõned ehitised ja reklaamvalgustuse.",
+      "actions": [
+        "Üks inimene vaatab telefoni",
+        "Teine inimene on selja vastu",
+        "Seisavad teineteise lähedal"
+      ],
+      "keywords": [
+        "noored",
+        "hämarus",
+        "telefon",
+        "kurvameelsus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "telefon",
+        "trepp",
+        "valgustus",
+        "seina pind"
+      ],
+      "colorcodes": [
+        "#1C1C1C",
+        "#404040",
+        "#FFFFFF",
+        "#FF0000"
+      ],
+      "texts": [
+        "b"
+      ],
+      "persons": [
+        "Noor naine, tumedate juustega, kannab halli pusa",
+        "Noor mees, seljaga, tumedate juustega"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_495"
+    },
+    {
+      "explanation": "Pildil on kolm inimest, kes seisavad pimedas väljas. Vasakul pool on mees, kes on peaaegu selja poole, käed ristis. Keskel on teine mees, kes vaatab paremale. Paremal on naine, kes näitab käega öeldes midagi, tema nägu on naeratav. Taustal on nähtavad udused valged aknad, mis annavad mõista, et seal on ruum, aga see laiemalt ei paista.",
+      "actions": [
+        "Mees seisab, käed ristis",
+        "Teine mees vaatab ringi",
+        "Naine räägib ja näitab käega"
+      ],
+      "keywords": [
+        "inimesed",
+        "öö",
+        "suhtlemine"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "aknad",
+        "tänava valgustus",
+        "riided"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#ffffff",
+        "#A9A9A9",
+        "#FF6347"
+      ],
+      "texts": [
+        "bree"
+      ],
+      "persons": [
+        "Mees, noor, heledate juustega",
+        "Mees, noor, tume juustega",
+        "Naine, noor, tumedad juuksed, naeratav"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_510"
+    },
+    {
+      "explanation": "Pildil on öine stseen, kus kolmest inimesest kaks seisavad kõrvuti ja arutavad midagi. Üks mees seisab keskel, samas kui naine tema kõrval näitab näppudega midagi, tõenäoliselt püüdes midagi seletada. Kolmas mees seisab pisut eemal ja vaatab kurba näoga maapinda. Taustal on valgustatud hooned ja ühes neist on nähtav silt.",
+      "actions": [
+        "kaks inimest räägivad",
+        "kolmas isik jälgib kaugelt",
+        "naine juhendab"
+      ],
+      "keywords": [
+        "öine stseen",
+        "inimesed",
+        "diskussioon",
+        "tunnus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "inimesed",
+        "koda",
+        "valgustus",
+        "silt"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#4B4B4B",
+        "#A9A9A9",
+        "#D3D3D3"
+      ],
+      "texts": [
+        "bras"
+      ],
+      "persons": [
+        "naine",
+        "mees (keskmine)",
+        "mees (külg)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_525"
+    },
+    {
+      "explanation": "Pildil on kolm inimest, kes seisavad tänaval pimeda õhtu ajal. Üks naisest räägib mehega, kes näeb välja mõtlevalt ja käed on rinna ees. Kolmas inimene seisab kaugemal, suitsetades. Taustal on ehitus ja valgustus, mis viitab ööle.",
+      "actions": [
+        "naine räägib mehega",
+        "mees kuulab ja mõtleb",
+        "kolmas inimene suitsetab"
+      ],
+      "keywords": [
+        "öine",
+        "tänav",
+        "rääkima",
+        "suitsetama"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "nagi",
+        "valgustus",
+        "tänav",
+        "ehitus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#444444",
+        "#FFFFFF",
+        "#FF0000"
+      ],
+      "texts": [
+        "bar"
+      ],
+      "persons": [
+        "naine, vanus: noor, juuksed: pruun",
+        "mees, vanus: noor, juuksed: blond",
+        "noor mees, vanus: noor, juuksed: tume"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_540"
+    },
+    {
+      "explanation": "Pildil on kolm inimest, kes istuvad pingil pimedas keskkonnas. Vasakul pool on naine, kellel on pikk tume juuksed ja seljas hall kankrepusa, kes vaatab teisi. Keskmes on mees, kellel on lühikesed pruunid juuksed ja kannab tumedat jope, ta näeb välja murelik või mõtleval. Paremal pool on noormees, kellel on samuti lühikesed juuksed ja tume riietus, ta vaatab naist ja tundub skeptiline. Taustal on hägused valgused ja hoone sissepääs. Pildil on dialoog, mis vihjab sellele, et üks tegelane võib mitte olla teise maitse. ",
+      "actions": [
+        "Istuvad pingil",
+        "Suhtlevad",
+        "Vaatavad üksteist"
+      ],
+      "keywords": [
+        "inimesed",
+        "suhtlemine",
+        "tume keskkond"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "pingil",
+        "majade uks",
+        "tumedad valgused"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#7D7D7D",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "Maybe you're not his type"
+      ],
+      "persons": [
+        "Naine, tume juuksed, keskmine vanus",
+        "Mees, pruunid juuksed, keskmine vanus",
+        "Noormees, lühikesed juuksed, noor"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_555"
+    },
+    {
+      "explanation": "Pildil on kolm inimest, kes seisavad öisel tänaval. Esiplaanil on naine hallis dressipäevas, kes vaatab meest kõrval. Mees on rõivastatud roheline jakki ja tal on käed ristis. Kolmas inimene seisab distantse, näoga kaamerast eemal, oma nägu näha ei ole. Ta kannab tumedat mantlit ja sall. Taga on nähtavad ka tänavavalgustid ja poe reklaamid.",
+      "actions": [
+        "naine räägib mehega",
+        "mees seisab ja vaatab ettepoole",
+        "kolmas inimene seisab eemal"
+      ],
+      "keywords": [
+        "ööpilt",
+        "inimesed",
+        "konflikt",
+        "tunne"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "dressipäev",
+        "jakki",
+        "tänavavalgustid",
+        "reklaamid"
+      ],
+      "colorcodes": [
+        "#2F2F2F",
+        "#A9A9A9",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "naine, umbes 30-aastane, pruuni juustega",
+        "mees, umbes 30-aastane, blondide juustega",
+        "kolmas inimene, meeste, tumedad juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_570"
+    },
+    {
+      "explanation": "Pildil on näha naisterahvas, kes seisab tänaval, veidi eemale astunud seinast, samal ajal suitsetades. Teda valgustab pehme öine valgus. Ta naeratab, samas kui taustal on hämaralt näha mees, kes seisab tumedamas kohas.",
+      "actions": [
+        "Naisterahvas suitsetab",
+        "Mees seisab taustal"
+      ],
+      "keywords": [
+        "öö",
+        "suitsetamine",
+        "tänav",
+        "valgus",
+        "eriolukord"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "naine",
+        "mees",
+        "suit",
+        "tänav",
+        "aknad"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#808080",
+        "#FFFFFF",
+        "#A0A0A0"
+      ],
+      "texts": [
+        "brest"
+      ],
+      "persons": [
+        "Naisterahvas noor, pikkade pruunide juustega",
+        "Mees, kasukas ja tumedat värvi"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_585"
+    },
+    {
+      "explanation": "Pildil on kaks inimest, kes seisavad kitsas tänavakäigus, silmast silma suhtlemisel. Mees on kantud kergeid riideid ja tal on helepruunid juuksed, naine kannab halli sulejopet ja tal on tume, pikad juuksed. Nad näevad välja intiimsed ja emotsionaalsed.",
+      "actions": [
+        "Kaks inimest suhtlevad omavahel",
+        "Naine küsib mehe käest midagi emotsionaalset"
+      ],
+      "keywords": [
+        "suhtlemine",
+        "intiimsus",
+        "noored",
+        "õhtu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "tänav",
+        "reklaamid",
+        "valgustus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#A5A5A5",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "Do you want me to love you?"
+      ],
+      "persons": [
+        "Mees, umbes 30-aastane, helepruunid juuksed",
+        "Naine, umbes 25-aastane, tumedad pikad juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_600"
+    },
+    {
+      "explanation": "Pildil on kaks inimest, kes seisavad väljaspool, tõenäoliselt hämaras koridoris. Nad näivad olevat lähestikku, naine naeratab ja vaatab meest, kes on tema poole kaldu. Seina peal on noolte mängu tahvel. Taust on hägune ja tumedates toonides.",
+      "actions": [
+        "inimene naeratab",
+        "inimene räägib",
+        "inimene liigub lähemale"
+      ],
+      "keywords": [
+        "armastus",
+        "kohtumine",
+        "hämarus",
+        "nooled"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "noolemängu tahvel",
+        "seina",
+        "inimesed"
+      ],
+      "colorcodes": [
+        "#1C1C1C",
+        "#4B4B4B",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "mees, umbes 30 aastat vana, heledate juustega",
+        "naine, umbes 25 aastat vana, tumepruunide juustega"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_615"
+    },
+    {
+      "explanation": "Pildil on kaks inimest, kes suhtlevad omavahel. Taustal on dartimäng, mis on seinal. Valgustus on vähene, luues intiimse õhkkonna.",
+      "actions": [
+        "inimeste vaheline vestlus",
+        "intensiivne pilk"
+      ],
+      "keywords": [
+        "suhtlemine",
+        "intimne hetk",
+        "dartimäng",
+        "ünenvolt"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "dartilaud",
+        "sigarett"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#606060",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "mees, umbes 30, blond juuksed, näitab huvi",
+        "naine, umbes 25, tumepruun juuksed, kandmas kõrvarõngaid"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_630"
+    },
+    {
+      "explanation": "Pildil on naine, kes seisab pimedas koridoris. Ta vaatab küljele, mille tõttu on tema profiil hästi nähtav. Ta kannab halli kapuutsi ning tema juuksed on taga ponis. Koridor on kehvas valguses, mis loob müstilise õhkkonna.",
+      "actions": [
+        "naine seisab",
+        "vaatab küljele"
+      ],
+      "keywords": [
+        "naine",
+        "koridor",
+        "pimedus",
+        "müstika"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "koridor",
+        "valgusti",
+        "sein",
+        "naine"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#7D7D7D",
+        "#FFFFFF",
+        "#E1B7E1"
+      ],
+      "texts": [],
+      "persons": [
+        "naine, kes on umbes 20-30-aastane, tumepruunide juustega, kannab halli kapuutsi"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_645"
+    },
+    {
+      "explanation": "Pildil on kaks inimest, kes seisavad rõhuvas ja intimiteetses keskkonnas. Ümbrus on madala valgustusega, mis loob dramaatilise meeleolu. Naiseseisab vasakul, tal on pruunid juuksed ja seljas hall kapuutsiga jakki. Mees on paremal, tal on helepruunid juuksed ja habemeäär. Nende näod on pöördunud üksteise poole, väljendades tõsisust või pinget.",
+      "actions": [
+        "naine vaatab meest",
+        "mees vaatab naist",
+        "vaheline suhtlemine"
+      ],
+      "keywords": [
+        "dramatuur",
+        "pingeline hetk",
+        "öine sceneria"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "hall seina pind",
+        "kell",
+        "valgustus"
+      ],
+      "colorcodes": [
+        "#3a3a3a",
+        "#5c5c5c",
+        "#c0c0c0",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "naine, umbes 20-30, pruunid juuksed, kapuutsiga jakk",
+        "mees, umbes 20-30, helepruunid juuksed, habe"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_660"
+    },
+    {
+      "explanation": "Pildil on naine ja mees, kes seisavad üksteise vastas. Naine on riietatud halli kapuutsi ja suure t-särgi sisse, tal on tumedad juuksed ja ta näeb tõsine välja. Mees kannab tumepruuni jope ja tal on heledamad juuksed. Ta vaatab naise poole. Taustal on seinal viskeplaat. Valgustus on hämar ja annab pingelise atmosfääri.",
+      "actions": [
+        "naine ja mees räägivad omavahel",
+        "naine kutsub meest veini jooma"
+      ],
+      "keywords": [
+        "rääkima",
+        "vein",
+        "pingeline",
+        "hämarus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "viskeplaat"
+      ],
+      "colorcodes": [
+        "#404040",
+        "#ffffff",
+        "#bfbfbf"
+      ],
+      "texts": [
+        "..drink some wine..."
+      ],
+      "persons": [
+        "naine, noor, tumejuukseline",
+        "mees, noor, heledate juustega"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_675"
+    },
+    {
+      "explanation": "Pildil on kaks inimest, kes seisavad üksteise lähedal, silm silma vastu. Taustal on dartsi sein, mis näitab, et asukoht on siseruumides. Valgus on hämar ja keskendub peamiselt nende nägudele.",
+      "actions": [
+        "inimesed vaatavad üksteisele otsa",
+        "võib-olla toimub pingeline vestlus"
+      ],
+      "keywords": [
+        "inimesed",
+        "dart",
+        "pingeline",
+        "siseruum",
+        "hämarus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "dartsi sein",
+        "sein",
+        "inimesed"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#808080",
+        "#ffffff"
+      ],
+      "texts": [],
+      "persons": [
+        "naine, noor, pruunid juuksed, kõrvarõngad",
+        "mees, noor, heledamad juuksed, habemega"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_690"
+    },
+    {
+      "explanation": "Madal valgus ja dramaatiline atmosfäär, kus kaks inimest näivad läheduse ja emotsionaalsete pingete hetkes. Taustal on dart laud.",
+      "actions": [
+        "Inimeste vahel on intiimne suhe",
+        "Nende näod on lähestikku ja nad vaatavad teineteist"
+      ],
+      "keywords": [
+        "intiimsus",
+        "dramaatilisus",
+        "emotsioonid",
+        "dart laud",
+        "pimedus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "dart laud",
+        "sein"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#3D3D3D",
+        "#E9E9E9"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine, umbes 20-30 aastat, tumepruunid juuksed, ehted",
+        "Mees, umbes 20-30 aastat, helepruunid juuksed, järkjärguline tekstuur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_705"
+    },
+    {
+      "explanation": "Pilt kujutab kahte inimest, kes seisavad üksteise lähedal. Naine, kellel on tumedad juuksed ja kes kannab halli kapuutsiga jope, näeb välja tõsine. Mees, kellel on heledad juuksed ja miski tumedam rõivas, näib rääkivat naisele intiimsest teemast, olles tema lähedal ja pilk suunatud talle. Taustal on dartide sihtmärk.",
+      "actions": [
+        "mees räägib naisele",
+        "naine kuulab tähelepanelikult",
+        "teostatakse intiimne suhtlemine"
+      ],
+      "keywords": [
+        "inimestevaheline suhe",
+        "ägedus",
+        "saladus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "dartide sihtmärk",
+        "kappa",
+        "jope"
+      ],
+      "colorcodes": [
+        "#3E3E3E",
+        "#B0B0B0",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "...ja siis me magame koos. Aga ainult juhul, kui sa tõesti tahad."
+      ],
+      "persons": [
+        "naine, tumedad juuksed, tõsine ilme",
+        "mees, heledad juuksed, intiimne postura"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_720"
+    },
+    {
+      "explanation": "Pildil on kaks inimest, kes seisavad tumeda taustaga ruumis. Mees räägib naisest, hoides teda tugevasti kinni. Nähtaval on noolemängu sihtmärk seinal.",
+      "actions": [
+        "Mees suhtleb naisega",
+        "Naine näeb ärev välja",
+        "Mees hoiab naist kinni"
+      ],
+      "keywords": [
+        "tunne",
+        "konflikt",
+        "uft"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "noolemängu sihtmärk",
+        "seina"
+      ],
+      "colorcodes": [
+        "#2E2E2E",
+        "#7B7B7B",
+        "#121212"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees, kel pikad juuksed, keskmises eas",
+        "Naine, kellel on tumedad juuksed, noor"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_735"
+    },
+    {
+      "explanation": "Pildil on kaks meest, kes kõnnivad öises koridoris. Esimene mees suitsetab, samal ajal kui teine vaatab teda. Taustal on nähtav öine valgus, mis viitab sellele, et nad viibivad siseruumides, kuid seal on nähtavad ka väljaulatuvad aknad.",
+      "actions": [
+        "Mees suitsetab",
+        "Mees vaatab suitsetajat"
+      ],
+      "keywords": [
+        "mehed",
+        "suitsetamine",
+        "öine",
+        "koridor",
+        "rõivad"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "suitsetaja",
+        "teine mees",
+        "ae valgustus",
+        "koridori sein"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#7D7D7D",
+        "#FF0000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees, suitsetaja, tumedad juuksed, keskmine vanus",
+        "Mees, noorem, hele juuksed, sall"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_750"
+    },
+    {
+      "explanation": "Pildil on kaks noort meest tänaval. Üks neist, vasakul, näeb välja murelik ja justkui külma tõttu värisev, hoiab endile lähedal sigaretti. Teine, paremal, on tõsine ja vaatab otse ette. Taustal on tumedat värvi sein ja hämar valgus, mis toob esile öise õhkkonna.",
+      "actions": [
+        "Vasak mees hoiab sigaretti",
+        "Parem mees vaatab ette"
+      ],
+      "keywords": [
+        "öine tänav",
+        "mure",
+        "noored mehed"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "sigaret",
+        "sein",
+        "valgustid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#4C4C4C",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees, vasakul, ligikaudu 25 aastat, pruunid juuksed, kannab tumesinist jopet",
+        "Mees, paremal, ligikaudu 25 aastat, heledad juuksed, kannab musta jopet"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_765"
+    },
+    {
+      "explanation": "Pildil on kaks noormeest, kes kõnnivad tumedas keskkonnas. Ühel noormeestest on käes sigaret ja ta vaatab teise poole. Teine noormees paistab murelik, vaadates allapoole. Valgustus on hämar, andes pildile dramaatilise ja tõsise meeleolu.",
+      "actions": [
+        "noormees suitsetab",
+        "noormees kõnnib",
+        "noormees vaatab allapoole"
+      ],
+      "keywords": [
+        "noormehed",
+        "suitsetamine",
+        "tume keskkond",
+        "dramaatilisus",
+        "emmootis"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "sigaret",
+        "päevavalgus",
+        "binaarne lagi"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#B0B0B0",
+        "#4D4D4D"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, seks: mees, vanus: 25-30, juuksed: pruun, nägu: tõsine, sigaret käes",
+        "noormees, seks: mees, vanus: 20-25, juuksed: helepruun, nägu: murelik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_780"
+    },
+    {
+      "explanation": "Pildil on kaks meest, kes seisavad üksteisest eemal. Vasakul mehel on suits suus ja ta näeb välja mõtlik. Paremal mees on alistunud ja vaatab maha. Ta kannab tumedat kapuutsi ja näib mures. Taustal on valgustatud vitriin, mis viitab sellele, et ollakse linna keskkonnas. Öine atmosfäär on tume ja tuhmide värvidega.",
+      "actions": [
+        "Mehed seisavad",
+        "Vasakpoolne mees suitsetab",
+        "Parempoolne mees näib mures"
+      ],
+      "keywords": [
+        "mehed",
+        "öö",
+        "suitsetamine",
+        "linnaelu"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "suits",
+        "valgustatud vitriin",
+        "hooned"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#2E2E2E",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "Broad"
+      ],
+      "persons": [
+        "Vasakpoolne mees: mees, umbes 30, heledate juustega, sügavas mõttes",
+        "Parempoolne mees: mees, umbes 20, tumedate juustega, näeb välja mures"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_795"
+    },
+    {
+      "explanation": "Pilt näitab meest, kes seisab teatri või lavaruumi keskkonnas, mille taustal on tumedad ja värvilised kardinad. Mees on kaamerale poole külje pööranud, nägu on osaliselt valguses ja osaliselt varjus. Tema riietus on nõrgalt triibuline, mis viitab, et tegemist on õhtuset keskkonnaga, võib-olla laval.",
+      "actions": [
+        "Mees seisab",
+        "Mees vaatab kõrvale"
+      ],
+      "keywords": [
+        "mees",
+        "teater",
+        "valgustus",
+        "varjud",
+        "madal valgustus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "kardinad",
+        "lavavalgustus"
+      ],
+      "colorcodes": [
+        "#4B0082",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees, kes on täiskasvanud, tumedate juustega, kannab triibulist särki"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_810"
+    },
+    {
+      "explanation": "Pildil on kaks noort meest, kes asuvad liivarannal ja vaatavad veepiiril. Üks neist istub maas ja vaatab allapoole, samas kui teine seisab ja vaatab kaugusesse. Taustal on sadam ja mitmed kraanad.",
+      "actions": [
+        "üks mees istub",
+        "teine mees seisab",
+        "mõlemad vaatavad veepiiri"
+      ],
+      "keywords": [
+        "mehed",
+        "rand",
+        "sadama",
+        "veepiir",
+        "pilvine"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "mehed",
+        "veepind",
+        "liiv",
+        "sadama kraanad",
+        "kotid"
+      ],
+      "colorcodes": [
+        "#B0B3B8",
+        "#7B7B7B",
+        "#D6D6D6",
+        "#E1E1E1"
+      ],
+      "texts": [],
+      "persons": [
+        "mees, vanus 25-35, blond juuksed",
+        "mees, vanus 25-35, tumedamad juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "spring",
+      "daytime": "day",
+      "filecode": "s_825"
+    },
+    {
+      "explanation": "Pildil on noormees, kes seisab veepiiril, tundub murelik ja mõtlik. Taustal on udune maastik ning näha on hoone ja metallist aed. Keskkond on sumine ja rahulik, mis loob kaaluka meeleolu.",
+      "actions": [
+        "noormees mõtleb",
+        "seisab veepiiril"
+      ],
+      "keywords": [
+        "udune",
+        "noormees",
+        "vesi",
+        "äärel",
+        "loodus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "hoone",
+        "metallist aed",
+        "vesi"
+      ],
+      "colorcodes": [
+        "#B0B0B0",
+        "#4A4A4A",
+        "#7E7E7E",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "mees, noor, heledate juustega, mureliku ilmega"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "autumn",
+      "daytime": "morning",
+      "filecode": "s_840"
+    },
+    {
+      "explanation": "Pildil on näha noormest, kes istub ja vaatab veega kaetud maastikku. Tema nägu on mures või mõtlik, samal ajal kui ta räägib. Ta on riietatud soe mantel ja kapuuts. Taustal on vett, kus paistavad ka laevad ja sadam.",
+      "actions": [
+        "noormees räägib",
+        "vaatab merd",
+        "mõtiskleb"
+      ],
+      "keywords": [
+        "noormees",
+        "veekogu",
+        "sadama vaade",
+        "mõtlikkus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "veekogu",
+        "laev",
+        "maa"
+      ],
+      "colorcodes": [
+        "#B0BEC5",
+        "#78909C",
+        "#CFD8DC"
+      ],
+      "texts": [
+        "...somehow... alive."
+      ],
+      "persons": [
+        "noormees, mees, punaste juuste ja habemega, kes on tõenäoliselt täiskasvanud"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_855"
+    },
+    {
+      "explanation": "Pildil on kujutatud noormeest, kellel on kahvatu nahk ja punakaspruun habe. Ta istub ja vaatab allapoole, näidates murelikku ja mõtlejat ilmet. Tema peal on tumesinine või must jakk ja tagasi tõmmatud kapuuts. Ta istub liival, mille taustal on jõevees paate ja tööstuslikke ehitisi. Ümberringi valitseb sombune ilm.",
+      "actions": [
+        "noormees mõtleb",
+        "noormees istub liival"
+      ],
+      "keywords": [
+        "noormees",
+        "mure",
+        "veekogu",
+        "sombune ilm",
+        "industrie"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "vett",
+        "paadid",
+        "tööstuslikud ehitised",
+        "liiv"
+      ],
+      "colorcodes": [
+        "#A0A0A0",
+        "#D4C6B2",
+        "#3B3B3B",
+        "#4D4D4D"
+      ],
+      "texts": [
+        "ei ole tekste"
+      ],
+      "persons": [
+        "noormees, mees, umbes 20-30 aastat, ingellikud juuksed, punane habe, kannab tumedaid riideid"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "filecode": "s_870"
+    },
+    {
+      "explanation": "Pildil on noormees, kes istub rannas ning vaatab mõtlikult kaugusesse. Tema näoilme viitab, et ta mõtleb tõsiselt. Ta kannab roheline jope ja punast kapuutsi. Taustal on nähtav meri ja sadam, millel on paate.",
+      "actions": [
+        "noormees mõtleb",
+        "noormees vaatab kaugusesse"
+      ],
+      "keywords": [
+        "noormees",
+        "rannaäär",
+        "merevaade",
+        "mõtlik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "noormees",
+        "meri",
+        "sadama paadid",
+        "ranna liiv"
+      ],
+      "colorcodes": [
+        "#A3C1DA",
+        "#7B7B7B",
+        "#F4F4F4"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, kes on umbes 25-30 aastat vana, heledad juuksed, habe, kannab rohelist jope ja punast kapuutsi"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "filecode": "s_885"
+    },
+    {
+      "explanation": "Pildil on noormees, kes istub kalda ääres ja vaatab kurvalt eemal. Tema näol on tõsine ja murelik ilme, mis viitab sellele, et ta mõtleb millegi olulise või kurva üle. Ta kannab pruunikat riietust, mis on määrdunud ja loob üldiselt kasin ja halli meeleolu.",
+      "actions": [
+        "Noormees vaatab eemal",
+        "Ta näeb kurvana välja"
+      ],
+      "keywords": [
+        "noormees",
+        "kald",
+        "kurvameelsus",
+        "veekogu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "veekogu",
+        "muru",
+        "laevad kauguses"
+      ],
+      "colorcodes": [
+        "#A9A9A9",
+        "#6B8E23",
+        "#8B4513"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees, umbes 20-30 aastat vana, helepruun juuksed, habe"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_900"
+    },
+    {
+      "explanation": "Pildil on noormees, kes seisab piirete lähedal, ilmselt järve ääres. Ta näib olevat mõtlik ja tunneb kerget emotsionaalset pinget. Taustal on udune maastik, mis tekitab mõnusa ja salapärase atmosfääri. Noormehe riietus on tume ja tal on kaelale mähitud sall.",
+      "actions": [
+        "noormees seisab",
+        "noormees vaatab kaugusesse"
+      ],
+      "keywords": [
+        "noormees",
+        "järv",
+        "udusus",
+        "emotsioon"
+      ],
+      "shot_type": "medium",
+      "placement": "väljas",
+      "objects": [
+        "piirded",
+        "järv",
+        "maastik"
+      ],
+      "colorcodes": [
+        "#A9A9A9",
+        "#4B4B4B",
+        "#C0C0C0",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, umbes 20-30 aastat vana, helepruunid juuksed, mõtlik väljendus"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "morning",
+      "filecode": "s_915"
+    },
+    {
+      "explanation": "Pildil on noormees, kes istub ja vaatab kaugusesse, tema nägu on poolprofileerimine. Ta näib mõtlik ja tõsine. Ta on kaetud rohelise jope ja punase kapuutsiga, selja taga on vesi ja udune maastik.",
+      "actions": [
+        "noormees istub",
+        "vaatab kaugusesse",
+        "mõtleb sügavalt"
+      ],
+      "keywords": [
+        "noormees",
+        "mõtlikkus",
+        "vesi",
+        "udusus",
+        "suvesoe"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "vesi",
+        "rand",
+        "udune maastik",
+        "roheline jope"
+      ],
+      "colorcodes": [
+        "#A8B8C4",
+        "#4C5B5E",
+        "#C0C0C0",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, vanus 20-30, juuksed heledad, habe"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "autumn",
+      "daytime": "day",
+      "filecode": "s_930"
+    },
+    {
+      "explanation": "Pildil on kaks noort inimest, kes viibivad uduses rannas. Esiplaanil istub üks noormees kalda ääres, vaadates vees ujuvaid paate. Ta on riietatud tumedates toonides. Taustal on teine isik, kes on pooleldi näoga selgitatud ja liigub rannas. Ümbritsev keskkond on udune, luues melanchoolse atmosfääri. Rannaliiv on avar ja veepiir on kaugel.",
+      "actions": [
+        "noormees istub kalda ääres",
+        "teine isik kõnnib rannas"
+      ],
+      "keywords": [
+        "noored",
+        "rannaelu",
+        "udusus",
+        "melanhoolia"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "noormees",
+        "teine inimene",
+        "rannaliiv",
+        "vees ujuvad paadid",
+        "aiapuu"
+      ],
+      "colorcodes": [
+        "#B0B0B0",
+        "#7F7F7F",
+        "#404040",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, kes istub",
+        "teine inimene, kes kõnnib"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "autumn",
+      "daytime": "morning",
+      "filecode": "s_945"
+    },
+    {
+      "explanation": "Pildil on kaks inimest, kes viibivad uduses keskkonnas vee ääres. Üks inimene istub betoonseinal, olles seljaga kaamera poole, ja vaatab kaugusesse. Teine inimene seisab kõrval ja vaatab samuti edela poole. Taustal on udune maastik ja veepind, mille kohal on kerge udu. Küljel on aed, mis piirab ala.",
+      "actions": [
+        "inimesed vaatavad kaugele",
+        "üks inimene istub",
+        "teine inimene seisab"
+      ],
+      "keywords": [
+        "udu",
+        "veekogu",
+        "inimesed",
+        "loodus",
+        "vaatamine"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "betoonseina",
+        "aed",
+        "veekogu",
+        "udune maastik",
+        "seljakott"
+      ],
+      "colorcodes": [
+        "#B0B0B0",
+        "#7D7D7D",
+        "#FFFFFF",
+        "#000000",
+        "#AFAFAF"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene, kes istub, lokkis blondid juuksed, noor",
+        "inimene, kes seisab, tumedad juuksed, noor"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "morning",
+      "filecode": "s_960"
+    },
+    {
+      "explanation": "Pildil on baarmen, kes seisab baaris ja näib keskenduvat oma tegevusele. Ta on nurgas, kus on nähtavad alkohoolsete jookide pudelid.",
+      "actions": [
+        "baarimen mõtleb",
+        "baaris segab jooke"
+      ],
+      "keywords": [
+        "baar",
+        "baarmen",
+        "alkohoolne jook",
+        "öö",
+        "keskendumine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "baar",
+        "pudelid",
+        "klaasid"
+      ],
+      "colorcodes": [
+        "#1c1c1c",
+        "#d1c5d2",
+        "#a2a2a2",
+        "#000000",
+        "#ffffff"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, umbes 20-30 aastat, heledate juustega, spordiline"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_975"
+    },
+    {
+      "explanation": "Pildil on noormees, kes seisab baaris ja vaatab allapoole, näidates murelikku või mõtleva olekut. Baaririiulil on palju alkohoolseid jooke, mille tagant paistab mitmekesine valgus, mis loob meeleolu.",
+      "actions": [
+        "noormees vaatab allapoole",
+        "baaririiul on täis alkohoolseid jooke"
+      ],
+      "keywords": [
+        "baar",
+        "noormees",
+        "alkohol",
+        "valgus",
+        "tunne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "baar",
+        "alkoholi pudelid",
+        "riideid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#8A3FFC",
+        "#F7ECA3",
+        "#5A5A5A"
+      ],
+      "texts": [
+        "ORIGINAL",
+        "REPO"
+      ],
+      "persons": [
+        "noormees, vanus 20-30, blondid juuksed, kandmisel spordiriided"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_990"
+    },
+    {
+      "explanation": "Pildil on noor naine, kes tantsib ja toetub posti külge. Tema juuksed on lokkis ja pikad, ta näib olevat keskendunud oma liikumisele. Ta kannab eredaid riideid, mis peegeldavad valguse värve.",
+      "actions": [
+        "Naine tantsib",
+        "Naine toetab käsi posti külge"
+      ],
+      "keywords": [
+        "tants",
+        "posti",
+        "noor naine",
+        "valgustus"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "posti",
+        "naine",
+        "valgus"
+      ],
+      "colorcodes": [
+        "#FF0000",
+        "#00FF00",
+        "#0000FF",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine, noor, lokkis juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1005"
+    },
+    {
+      "explanation": "Pildil on noormees, kes paistab olevat baaris, ta keskendub millelegi, mis on tema ees. Baarriiulil on näha mitmeid alkohoolseid jooke. Ta näeb välja murelik, samas kui ta valgustus on hämar, peamiselt violetse ja kollase tooniga.",
+      "actions": [
+        "poiss vaatab maha",
+        "poiss näeb mures välja"
+      ],
+      "keywords": [
+        "baar",
+        "noormees",
+        "alkohol",
+        "hämaras valgustuses"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "baarriiul",
+        "alkohoolsed joogid"
+      ],
+      "colorcodes": [
+        "#6A1B9A",
+        "#FFD600",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, umbes 20, lühikesed juuksed, murelik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_1020"
+    },
+    {
+      "explanation": "Pildil on grupp inimesi, kes on kitsas koridoris. Esiplaanil paistab üks inimene, kes näib olevat kõrvaline, samas kui teised inimesed seisavad tema taga. Taustal on nõrgalt valgustatud uks ja mõned hägused kujutised. Keskkond tundub olema pimedam ja dramaatilisem.",
+      "actions": [
+        "Inimesed seisavad koridoris",
+        "Üks inimene tundub olevat teise suunas pööratud"
+      ],
+      "keywords": [
+        "koridor",
+        "inimesed",
+        "dramaatiline",
+        "pimedus"
+      ],
+      "shot_type": "medium shot",
+      "placement": "indoor",
+      "objects": [
+        "uks",
+        "koridor",
+        "inimesed"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#7D7D7D",
+        "#D8D8D8",
+        "#4C4C4C"
+      ],
+      "texts": [],
+      "persons": [
+        "Esimene inimene: mees, keskmine vanus, pruunid juuksed, tavaline rõivastus",
+        "Teine inimene: mees, noorem, hele juuksed, heledam rõivastus",
+        "Kolmas inimene: mees, keskmine vanus, tume juuksed, tumesinine ülikond"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1035"
+    },
+    {
+      "explanation": "Pildil on näha hämaras keskkonnas olevat meest, kes tõmbab oma pead käega tagasi. Valgustus on õrn ja mingi tegelane on tumedas riietuses, mis lisab saladuslikkuse tunnet. Taustal on näha hämarat ruumi, tõenäoliselt ööklubi või baar.",
+      "actions": [
+        "Mees tõmbab oma juukseid tagasi",
+        "Liigub hämaras keskkonnas"
+      ],
+      "keywords": [
+        "hämarus",
+        "mees",
+        "liikumine",
+        "öine elu",
+        "saladus"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "inimene",
+        "valgustus",
+        "sein",
+        "uksed"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#4B0082",
+        "#8A2BE2"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees, kes tõmbab juukseid tagasi, ei ole näha tema nägu selgelt."
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_1050"
+    },
+    {
+      "explanation": "Pildil on kaks meest, kes räägivad üksteisega pingelises olukorras. Üks mees on seljaga kaamerale, kandes halli ja musta nahktagi, ja väljendab muret. Teine mees, kes on turnitud, kannab punast kapuutsi ja näitab midagi. Ta näib olevat väga intensiivne ja osaleb konfliktis. Taustal on naine, kes jälgib olukorda ning seisab ukse lähedal. Valgustus on tumedam ja tekitab pingelist atmosfääri.",
+      "actions": [
+        "Mehed räägivad",
+        "Üks mees näitab midagi",
+        "Naine jälgib olukorda"
+      ],
+      "keywords": [
+        "konflikt",
+        "pingeline",
+        "rääkimine",
+        "ülesanne",
+        "tumedus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "mees",
+        "naine",
+        "valgustus",
+        "seinä"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#7F7F7F",
+        "#FFFFFF",
+        "#FF0000",
+        "#800080"
+      ],
+      "texts": [
+        "Here... It's what they paid..."
+      ],
+      "persons": [
+        "Mees, vanus umbes 20-30, lühikesed juuksed, hall müts",
+        "Mees, vanus umbes 20-30, pikkade juustega, punane kapuuts",
+        "Naine, vanus umbes 20-30, tume juuksed, must kleit"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_1065"
+    },
+    {
+      "explanation": "Pildil on noormees, kellel on lühikesed heledad juuksed. Ta näeb välja mõtlik ja pisut kurb. Ta kannab halli jope ja valget T-särki, mille kaeluses on must äär. Ta seisab kitsas ruumis, mille seinad on tumedad ja taustal on pehmed roosad ja sinised valgustused.",
+      "actions": [
+        "noormees mõtleb",
+        "ta vaatab alla"
+      ],
+      "keywords": [
+        "noormees",
+        "mõtlemine",
+        "valgus",
+        "tumeda taustaga ruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "jope",
+        "T-särk",
+        "valgustid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#8A2BE2",
+        "#FF1493"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, noor, heledad juuksed, mõtlik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1080"
+    },
+    {
+      "explanation": "Pilt näitab kahte inimest, kellest üks on seksuaalne dimensioon ja teine paistab allatallatud. Tegevuses on pingeline ja emotsionaalne hetk, kus üks inimene räägib teisele. Valgustus on hägune ja dramaatiline, luues pingestatud atmosfääri.",
+      "actions": [
+        "üks inimene räägib teisele",
+        "pingeline vestlus"
+      ],
+      "keywords": [
+        "tegevus",
+        "pinged",
+        "vestlus",
+        "emotsioonid"
+      ],
+      "shot_type": "close-up",
+      "placement": "siseruumides",
+      "objects": [
+        "inimesed",
+        "riided"
+      ],
+      "colorcodes": [
+        "#4B4B4B",
+        "#B0B0B0",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Fuck you... it is not like..."
+      ],
+      "persons": [
+        "inimene 1 (mees, noor, tume juuksed)",
+        "inimene 2 (noormees, hele juuksed)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1095"
+    },
+    {
+      "explanation": "Pildil on kaks meest, kes seisavad lähedases kontaktis ning näevad välja ärritunud. Üks mees kaldub teise poole, mis võib viidata pingelisele olukorrale.",
+      "actions": [
+        "Mehed räägivad omavahel",
+        "Üks mees näitab agressiivsust"
+      ],
+      "keywords": [
+        "mehed",
+        "ärritunud",
+        "pingeline olukord"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "mehed",
+        "valgustus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#2A2A2A",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees 1: mees, keskmine vanus, pruun juuksed, habemes",
+        "Mees 2: mees, keskmine vanus, tumedad juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1110"
+    },
+    {
+      "explanation": "Pilt näitab kaht inimest, kes kõnnivad öises linnakeskkonnas. Nad suunduvad neonvalgustatud sissepääsu poole, millel on kiri 'STRIPTEASE'. Taust on tumedates toonides, peamiselt lilla, must ja hall. Koht tundub olevat kitsas ja linnaosa, kus on vähese valgustusega.",
+      "actions": [
+        "inimesed kõndivad",
+        "suunduvad sissepääsu poole"
+      ],
+      "keywords": [
+        "öine",
+        "sissepääs",
+        "neonvalgustus",
+        "linnaosa"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "sissepääs",
+        "neonmaterjal",
+        "valgustus",
+        "seina"
+      ],
+      "colorcodes": [
+        "#6A0DAD",
+        "#000000",
+        "#4B0082"
+      ],
+      "texts": [
+        "STRIPTEASE"
+      ],
+      "persons": [
+        "mees, täiskasvanu, tumedad juuksed",
+        "naine, täiskasvanu, pikad juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_1125"
+    },
+    {
+      "explanation": "Pildil on noormees, kes näib olevat sügavas mõtiskluses. Tema nägu on poolenisti varjatud, tuues esile mõtlikud ja intensiivsed emotsioonid. Ta on keskendunud millelegi, mis teda kõnetab.",
+      "actions": [
+        "noormees mõtleb",
+        "noormees vaatab alla"
+      ],
+      "keywords": [
+        "noormees",
+        "mõtisklemine",
+        "varjus",
+        "emotsioonid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "siseruumides",
+      "objects": [],
+      "colorcodes": [
+        "#000000",
+        "#1C1C1C",
+        "#BFBFBF"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, 20-30, helepruunid juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_1140"
+    },
+    {
+      "explanation": "Pildil on kaks noort inimest, kes näivad olevat sügavas mõtiskluses. Noored on ühe teise lähedal, keskendudes ilmselt millelegi, mis on nende vahel. Taust on tumedam, mis loob intiimse ja võimaliku dramaatilisuse õhkkonna.",
+      "actions": [
+        "noored mõtlevad",
+        "noored suhtlevad"
+      ],
+      "keywords": [
+        "noored",
+        "mõtlemine",
+        "intimne",
+        "dramaatilisus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [],
+      "colorcodes": [
+        "#1C1C1C",
+        "#4C4C4C"
+      ],
+      "texts": [],
+      "persons": [
+        "noor naine",
+        "noor mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1155"
+    },
+    {
+      "explanation": "Pildil on näha noor naine, kes seisab tumedas keskkonnas, näidates selga. Ta kannab sinist jakki, millel on hall kapuuts. Ta vaatab mingisse suunda, mille valgustus on pehme ja hämar. Taustal on udused kerge valgusega punktid.",
+      "actions": [
+        "Naine vaatab edasi",
+        "Viibib hämaras keskkonnas"
+      ],
+      "keywords": [
+        "noor naine",
+        "hämar keskkond",
+        "valgustus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "noor naine",
+        "valgustuspunktid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#4B8BBE",
+        "#A0A0A0"
+      ],
+      "texts": [],
+      "persons": [
+        "noor naine, vanus: ligikaudu 20-30, juuksed: pruunid, eripärad: seljaga foto"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_1170"
+    },
+    {
+      "explanation": "Pildil on noor naine, kes näib olevat emotsionaalselt häiritud või mõtlemas millegi sügava üle. Tema nägu on osaliselt varjatud ja fookus on tema kehakeelel. Ta on riides hallis kapuutsiga, mis lisab tema kujutusele teatud salapära ja haavatavust. Ta seisab tõenäoliselt tantsupolee kõrval, mis viitab sellele, et tegevus võib toimuda ööklubis või sarnases keskkonnas.",
+      "actions": [
+        "Naine mõtleb midagi tõsist",
+        "Naine seisab tantsupolee lähedal"
+      ],
+      "keywords": [
+        "noor naine",
+        "tantsupolee",
+        "emotsioon",
+        "pimedus",
+        "mõte"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "tantsupolee",
+        "valgustid",
+        "sinine kapuuts"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#4A4E69",
+        "#9A8C98",
+        "#C9ADA7"
+      ],
+      "texts": [],
+      "persons": [
+        "noor naine, hall kapuuts, tume juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_1185"
+    },
+    {
+      "explanation": "Pildil on noor naine, kelle silmad on suletud ja ta seisab kindlas poosis, olles valgustatud kahest tugevast valgusallikast, mis paistavad tema vasakult ja paremalt. Tundub, et ta on keskendunud või mediteerib.",
+      "actions": [
+        "naine seisab",
+        "mediteerib",
+        "on vaikne"
+      ],
+      "keywords": [
+        "naine",
+        "valgus",
+        "meditatsioon"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "valgusallikad",
+        "naine",
+        "riided"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#CCCCCC"
+      ],
+      "texts": [],
+      "persons": [
+        "naine, noor, tumedad juuksed, mediteeriv poos"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1200"
+    },
+    {
+      "explanation": "Pildil on noor naine, kes näib olevat keskendunud ja tõsine. Tema juuksed on pikad ja tumedad, ning nägu on suunatud allapoole. Ta kannab halli kapuutsiga jakki. Taustal on udune valgus, mis loovad dramaatilise meeleolu.",
+      "actions": [
+        "Noor naine keskendub millegile",
+        "Ta seisab illumineeritud taustal"
+      ],
+      "keywords": [
+        "noor naine",
+        "dramaturgia",
+        "valgus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "valgusallikad",
+        "jakki"
+      ],
+      "colorcodes": [
+        "#D9D9D9",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor naine, kes kannab halli jakki, pikad tumedad juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1215"
+    },
+    {
+      "explanation": "Pildil on noor naine, kellel on silmad suletud ja ta tundub mõtlemas või rahulikult mediteerimas. Ta seisab keskmes, erakordse valgustuse keskel, mis loob dramaatiliselt mõjusa atmosfääri.",
+      "actions": [
+        "naine mediteerib",
+        "naine mõtleb"
+      ],
+      "keywords": [
+        "naine",
+        "meditatsioon",
+        "valgustus",
+        "rahulikkus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "siseruum",
+      "objects": [
+        "valgustid",
+        "naine",
+        "taust"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "noor naine, tumedad juuksed, rahulik näoilme"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1230"
+    },
+    {
+      "explanation": "Pildil on noor naine, kellel on pikad pruunid juuksed. Ta näib mõtlemas või keskendumas millegile, tema nägu on tõsine ning ta liigutab oma käsi. Ta on riietunud helesinisesse särke ja taustal paistavad helendavad tuled, mis aitavad luua dramaatilisemat atmosfääri.",
+      "actions": [
+        "naine mõtleb",
+        "naine liigutab käsi"
+      ],
+      "keywords": [
+        "naine",
+        "helendavad tuled",
+        "mõtlemine",
+        "dramaturgia"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "tuled",
+        "naine",
+        "kampsun"
+      ],
+      "colorcodes": [
+        "#A3C7D6",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "noor naine, pruunid juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1245"
+    },
+    {
+      "explanation": "Pildil on naine, kelle juuksed on pikad ja tumedad. Ta seisab külgsuunas, nägu ei ole täielikult nähtav, kuid ta näeb välja, nagu oleks ta kuskil, kus on intensiivne valgustus.",
+      "actions": [
+        "naine vaatab",
+        "naine seisab asendis",
+        "valgustus paistab"
+      ],
+      "keywords": [
+        "naine",
+        "valgustus",
+        "tume"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "valgusallikas",
+        "tugi"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#FF0000"
+      ],
+      "texts": [],
+      "persons": [
+        "naine, noor, pikad tumedad juuksed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1260"
+    },
+    {
+      "explanation": "Pildil on näha naise seljaosa, kellel on pikad, tumedad juuksed. Taga on tumedam keskkond, kus on valgusallikaid, mis loovad säravaid efekte. Tundub, et see on mingi esinemise või näituse koht.",
+      "actions": [
+        "Naine seisab",
+        "Valguse suunas pöördumine"
+      ],
+      "keywords": [
+        "naine",
+        "juuksed",
+        "valgustus",
+        "esinemine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "valgusallikas",
+        "naise juuksed",
+        "must taust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#8B8B8B",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine, tumedad juuksed, umbes 20-30 aastat"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1275"
+    },
+    {
+      "explanation": "Pildil on näha häguseid jooni ja käsi, mis on liikumises. Taust on tumedates värvitoonides, tõenäoliselt siseruum. Pilt edastab kiirus- ja liikumise tunnet, kuid detaile on raske tuvastada.",
+      "actions": [
+        "Käe liikumine",
+        "Liikumise tunne"
+      ],
+      "keywords": [
+        "liikumine",
+        "hämarus",
+        "siseruum",
+        "käsi",
+        "pilt"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "käsi",
+        "tume taust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#555555",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Isik, kelle käsi on pildil, vanus ja sugu pole selged"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1290"
+    },
+    {
+      "explanation": "Pildil on naine, kelle selg on kaamerale suunatud. Tema juuksed on pikad ja voolavad ning ta kannab heledat riietust. Ta on kaetud säravvalgete ning lainetava valguse all, mis loob dramaatilise efekti. Taustal on tumedat vari ja valgusallikad, mis hägustavad teiste objektide määratlemist.",
+      "actions": [
+        "naine seisab",
+        "valguse suunamine",
+        "taustal on valguse mäng"
+      ],
+      "keywords": [
+        "naine",
+        "juuksed",
+        "valgus",
+        "dramaatilisus",
+        "selg"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "valgusallikad",
+        "naine",
+        "taust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#A9A9A9"
+      ],
+      "texts": [],
+      "persons": [
+        "naine, pikkade juustega, seljaga kaamera poole"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1305"
+    },
+    {
+      "explanation": "Pildil on naine, kellel on pikad juuksed ja ta näib olevat emotsionaalses seisundis. Tema nägu on pooleldi nähtav ning ta vaatab allapoole. Ta on riietatud helesinisesse kapuutsi, mis viitab pingelisele või ettevalmistava hetkele. Ta näib, nagu ta valmistuks millekski, hoides käsi koos.",
+      "actions": [
+        "naine valmistub esituseks",
+        "naine tunneb end emotsionaalselt"
+      ],
+      "keywords": [
+        "emotsionaalne hetk",
+        "ettevalmistus",
+        "noor naine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "siseruum",
+      "objects": [
+        "pulk",
+        "valgustus",
+        "riietus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#A9A9A9"
+      ],
+      "texts": [],
+      "persons": [
+        "naine, noor, pikad juuksed, helesinine kapuuts"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1320"
+    },
+    {
+      "explanation": "Pildil on noor naine, kes näib olevat rahulikumast seisundist, tema pea on kallutatud tagasi ja silmad suletud. Ta kannab halli jakki ja tema juuksed on pikad ja lohud. Taustal on näha igasuguseid valgustusi, mis loovad dramaatilise efektiga. Tundub, et ta nautib hetke, olles kaugel igapäevasest elust.",
+      "actions": [
+        "naine naeratab",
+        "naine mõtleb",
+        "naine lõdvestub"
+      ],
+      "keywords": [
+        "rahulikkus",
+        "vali valgus",
+        "noor naine",
+        "mõtlemine",
+        "dramaatilisus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "siseruum",
+      "objects": [
+        "naine",
+        "valgustid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "naine, vanus: 20-30, juuksed: pikad, tumepruun"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1335"
+    },
+    {
+      "explanation": "Pildil on näha noormeest, kes on profiilis ja vahtub pooleldi. Teda ümbritseb tumedam keskkond, kus on nähtavad roosad ja sinised valguslained. Terve pildi ajaloo kontekst on pingeline ja salapärane.",
+      "actions": [
+        "noormees vaatab kõrvale",
+        "jälgib ümbrust"
+      ],
+      "keywords": [
+        "noormees",
+        "salapära",
+        "tuled",
+        "pimedus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "tuli",
+        "sein",
+        "ukse kujutis"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FF00FF",
+        "#0000FF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, kes on maskuliinne, tumedad juuksed, keskmine vanus"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_1350"
+    },
+    {
+      "explanation": "Pildil on kaks meest, kes räägivad omavahel. Üks mees vaatab allapoole, samas kui teine mees näib keskenduvat esimese mehe suunas. Taustal on udune valgus, mis annab pildile dramaatilise tooni.",
+      "actions": [
+        "Mehed vestlevad",
+        "Üks mees küsib teiselt küsimust"
+      ],
+      "keywords": [
+        "vestlus",
+        "mehed",
+        "tumedus",
+        "dramaatiline",
+        "valgustus"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "mehed",
+        "valgus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#5c5c5c",
+        "#b2b2b2",
+        "#ff00ff"
+      ],
+      "texts": [
+        "Did you go to the doctor?"
+      ],
+      "persons": [
+        "Mees 1, kes vaatab allapoole, blondide juustega",
+        "Mees 2, tumejuukseline"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_1365"
+    },
+    {
+      "explanation": "Pildil on kaks meest, kes näevad välja nagu nad vahetavad tõsiseid sõnumeid. Üks mees on tumeda juuksevärviga ja näib olevat keskealine, ning teine mees on heledamate juustega, noorem, võib-olla noor täiskasvanu. Valgustus on erksate roosa ja lilla toonidega, mis annab pildile teatud pingestatuse. Taustal on hägusad kujutised, mis näitavad, et nad on suletud ruumis.",
+      "actions": [
+        "mehed räägivad",
+        "vahetavad tõsiseid pilke"
+      ],
+      "keywords": [
+        "mehed",
+        "kommunikatsioon",
+        "pinge",
+        "pimedus",
+        "erksus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "uuks",
+        "sein",
+        "valgustus"
+      ],
+      "colorcodes": [
+        "#A020F0",
+        "#FF00FF",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "mees, tumedad juuksed, keskealine",
+        "mees, heledad juuksed, noor"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1380"
+    },
+    {
+      "explanation": "Pildil on noormees, kellel on blondid juuksed ja ta kannab tumedat dressipluusi. Tema nägu paistab tumedates varjudes ja valgus langeb temale rohkem üksikult. Ta näeb välja mures ja kurvameelne, mis võib viidata, et ta on tähelepanelik või mures millegi pärast.",
+      "actions": [
+        "noormees vaatab allapoole",
+        "võib olla mures",
+        "tundub, et ta mõtleb millegi tõsise peale"
+      ],
+      "keywords": [
+        "noormees",
+        "pimedus",
+        "mure",
+        "valgus",
+        "vari"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "siseruumides",
+      "objects": [
+        "noormees",
+        "dressipluus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#5C5C5C",
+        "#A0A0A0",
+        "#FF00FF"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, vanus: 20-30, juuksed: blond, eripära: kurvameelne olema"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_1395"
+    },
+    {
+      "explanation": "Pildil on kaks meest, kus ühel on hele juuksed ja ta vaatab tagasi, samas kui teine mees on temast eemal ning ei ole näha. Taustal on tumedamat värvi seinad ning uks, mille kaudu teine mees lahkub. Valgustus on tumedam, pehmete violetsete ja siniste toonidega.",
+      "actions": [
+        "Üks mees vaatab tagasi",
+        "Teine mees lahkub"
+      ],
+      "keywords": [
+        "mehed",
+        "lahkumine",
+        "valgustus",
+        "tumeda taustaga"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "uks",
+        "seina pind"
+      ],
+      "colorcodes": [
+        "#4B2C6E",
+        "#2F2A2A"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees, hele juuksed, noor",
+        "Mees, tumedamad juuksed, noorem"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_1410"
+    },
+    {
+      "explanation": "Pildil on noor mees, kes kõnnib kitsas tänavas. Ta näeb tõsine välja ja vaatab otse kaamerasse. Taustal on vanad hooned ja aknad, mis annavad edasi urbanistlikku atmosfääri.",
+      "actions": [
+        "mees kõnnib",
+        "vaatab otse kaamerasse"
+      ],
+      "keywords": [
+        "noor mees",
+        "tänav",
+        "urbaanne keskkond"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "hooned",
+        "aken",
+        "tänav"
+      ],
+      "colorcodes": [
+        "#1C1C1C",
+        "#5B5B5B",
+        "#AFAFAF",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees, vanus 20-30, helepruun juuksed, tõsine ilme"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_1425"
+    },
+    {
+      "explanation": "Pildil on kaks inimeste siluetti, kes seisavad kitsas tänavanurgas. Tüdruk vaatab mehe poole, kes kummardub tema suunas, nagu otsiks ta midagi tema taskust. Taustal on nähtavad mõned aknad, kus on väljapanekud. Üldine õhustik on tumedam, kuid taustal paistab soe valgus.",
+      "actions": [
+        "Tüdruk vaatab mehe poole",
+        "Mees kummardub tüdruku suunas"
+      ],
+      "keywords": [
+        "inimesed",
+        "öine",
+        "kitsas tänav"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "aknad",
+        "valgustid",
+        "seina"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#333333",
+        "#666666",
+        "#FFFFFF",
+        "#FFCC00"
+      ],
+      "texts": [],
+      "persons": [
+        "tüdruk, noor, tumehallid juuksed, sinine mantel",
+        "mees, noor, lühikesed juuksed, must jakk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_1440"
+    },
+    {
+      "explanation": "Pildil on kaks inimest, kes seisavad tänaval. Üks isik, naine sinises mantlis, on jäädvustatud vasakul, samas kui mees, kes on mustas ülikonnas, asub paremal. Nad vaatavad eri suundades, justkui ootaksid kedagi või arutaksid midagi tõsist. Taga on kaupluste aknad, kus on nähtavad erinevad esemed. Valgustus on pehme ja pilt on hämar.",
+      "actions": [
+        "naine seisab",
+        "mees seisab",
+        "vaatavad eri suundades"
+      ],
+      "keywords": [
+        "öö",
+        "tänav",
+        "inimesed",
+        "ootamine",
+        "kauplus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "kaupluseaknad",
+        "tänav",
+        "inimesed"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#00008B",
+        "#FFFFFF",
+        "#C0C0C0",
+        "#A9A9A9"
+      ],
+      "texts": [],
+      "persons": [
+        "naine, umbes 20-30 aastat vana, pruunid juuksed, sinine mantel",
+        "mees, umbes 20-30 aastat vana, hallid juuksed, must ülikond"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_1455"
+    },
+    {
+      "explanation": "Pildil on kaks inimest, kes seisavad väljaspool, varjus. Vasakul pool on naine tumedate juustega, kes on keeranud selja. Paremal pool on noormees, kellel on lühikesed hallikaspruunid juuksed ja ta vaatab allapoole. Ta näeb välja murelik. Taustal on kaupluseaknad, mis on valgustatud, aga öö on tume. Tekst pildil ütleb: 'I've got it.'",
+      "actions": [
+        "naine seisab",
+        "noormees mõtleb",
+        "kauguses on aknad ere valgus"
+      ],
+      "keywords": [
+        "inimesed",
+        "öö",
+        "raskused",
+        "kõne",
+        "valgustus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "kaupluseaken",
+        "valgustus",
+        "seinte struktuur"
+      ],
+      "colorcodes": [
+        "#1F1F1F",
+        "#B0B0B0",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "I've got it."
+      ],
+      "persons": [
+        "naine, tumejuukseline, noorem",
+        "noormees, hallikaspruunide juustega, noorem"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_1470"
+    },
+    {
+      "explanation": "Pildil on kaks inimest. Vasakul on naine, kes vaatab paremale poole, ja paremal on mees, kes seisab seljaga kaamera poole ja vaatab väljapoole. Taustal on linnavaade, sealhulgas uks ja vitriin, mille taga on esemeid. Valgustus on õrn ja sinakas, mis loob öise atmosfääri.",
+      "actions": [
+        "Naine vaatab mehe poole",
+        "Mees vaatab väljapoole"
+      ],
+      "keywords": [
+        "öine",
+        "linn",
+        "inimesed",
+        "välikeskkond"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "uks",
+        "vitriin",
+        "tellised"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine, kes seisab vasakul, mustade juustega",
+        "Mees, kes seisab paremal, lühikeste juustega"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_1485"
+    },
+    {
+      "explanation": "Pildil on noormees, kes seisab kitsas vahekäigus ja vaatab väljapoole. Ta on riidetuks kleitides, ning taustal on nähtavad poed ja uksed, mis annavad pildile linnalise atmosfääri. Mitu lampi valgustab stseeni, luues õhtuse ja rahuliku meeleolu.",
+      "actions": [
+        "Noormees seisab",
+        "Vaatab väljapoole"
+      ],
+      "keywords": [
+        "noormees",
+        "vahekäik",
+        "linn",
+        "õhtu",
+        "valgustus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "uks",
+        "poed",
+        "vahekäik"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#A9A9A9",
+        "#D3D3D3"
+      ],
+      "texts": [],
+      "persons": [
+        "Noormees, umbes 20-30 aastat, tumepruun juuksed, musta värvi riietus"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_1500"
+    },
+    {
+      "explanation": "Pildil on mees, kes kõndib pimedas linnas. Ta liikleb mööda kitsast tänavat. Ta selg on kaamerale suunatud ning näha on, et ta kaelarihm on must. Taustal on avatud uks, kus on nähtavad esemed, mis paistavad olema poeaknal. Tänav on sillutatud ja vaated on rahulikud.",
+      "actions": [
+        "Mees kõndib",
+        "Uks on avatud"
+      ],
+      "keywords": [
+        "mees",
+        "pimedus",
+        "linn",
+        "poeaken"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "mees",
+        "uks",
+        "poeaken",
+        "kivitänav"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#808080",
+        "#D3D3D3",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees, kes kannab musta jakki ja halli pükse, on keskealine."
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_1515"
+    },
+    {
+      "explanation": "Pildil on mees, kes seisab tänaval, vaatega punasele uksele. Ümbrus on hämar, mis annab pildile palju sügavat sinist tooni. Mees näeb välja mõtlejana, tuues esile rahuliku ja mõtliku meeleolu.",
+      "actions": [
+        "Mees seisab",
+        "Vahtib ukse poole"
+      ],
+      "keywords": [
+        "mees",
+        "ukse",
+        "tänav",
+        "hämarus",
+        "mõtlikkus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "uks",
+        "tänav",
+        "aknad",
+        "kingad",
+        "pind"
+      ],
+      "colorcodes": [
+        "#1F2232",
+        "#B0B3C6",
+        "#A72A3B",
+        "#E7E8E9"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees, kes on keskealine, hallide juustega, mustas rõivas"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "evening",
+      "filecode": "s_1530"
+    },
+    {
+      "explanation": "Pildil on kitsas tänav, kus on näha peamine uks, mis on kaunistatud roosade raamidega. Uks on avatud ja selle taga on pood, kust paistavad valgus ja esemed. Tänav on kaldu ja kivid on paigaldatud huvitavas mustris. Tumedad varjud ja sinine valgus loovad salapärase õhkkonna.",
+      "actions": [
+        "Vaadatakse sisse poodi",
+        "Käideldakse avatud ust"
+      ],
+      "keywords": [
+        "tänav",
+        "uks",
+        "pood",
+        "valgus",
+        "õhk"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "uks",
+        "pood",
+        "tänav",
+        "aknad",
+        "kivid"
+      ],
+      "colorcodes": [
+        "#1E1E29",
+        "#A6A6A6",
+        "#FFB6C1",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "filecode": "s_1545"
+    },
+    {
+      "explanation": "Pildil on loetletud näitlejad ja meeskond, kuid see on peaaegu täiesti must taust. Tekst on keskendunud erinevatele rollidele, sealhulgas näod ja kehade nimekiri.",
+      "actions": [
+        "nimekirjade lugemine",
+        "tegevuse jälgimine"
+      ],
+      "keywords": [
+        "näitlejad",
+        "meeskond",
+        "film",
+        "loetelu"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "FACES",
+        "BODIES",
+        "Mart",
+        "Luukas",
+        "Kayla",
+        "Karl",
+        "Bjorn"
+      ],
+      "persons": [
+        "Mart Tarlani",
+        "Luukas",
+        "Kayla",
+        "Karl",
+        "Bjorn"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1560"
+    },
+    {
+      "explanation": "Pildil on nähtav must taust, millel on valge kiri. Kiri sisaldab filmi 'Brains and Hands' meeskonna nimesid ja ametinimetusi, sealhulgas operaator, helirežissöör ja toimetaja. Pilt on minimalistlik, keskendudes tekstile ja selle paigutusele.",
+      "actions": [],
+      "keywords": [
+        "film",
+        "meeskond",
+        "ametid"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "BRAINS AND HANDS",
+        "CINEMATOGRAPHER",
+        "1st ASSISTANT CAMERA",
+        "GAFFER",
+        "ELECTRICIANS",
+        "GRIP",
+        "SOUND DESIGNER",
+        "SOUND RE-RECORDING MIXER",
+        "PRODUCTION MIXER",
+        "BOOM OPERATOR",
+        "DIALOGUE EDITOR",
+        "FOLEY EDITOR",
+        "ADDITIONAL RECORDING"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1575"
+    },
+    {
+      "explanation": "Pildil on tekst, mis näitab filmi või projekti järgset krediiti, sealhulgas meeskonna liikmete nimesid ja nende rolle. Taust on must, mis muudab tekstid silmatorkavamaks.",
+      "actions": [
+        "Tekstide näitamine",
+        "Krediidi esitlemine"
+      ],
+      "keywords": [
+        "krediit",
+        "meeskond",
+        "filmiinfo"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "BRAINS AND HANDS",
+        "EDITING SUPERVISOR",
+        "Sgt. Marta Pulk",
+        "EDITOR",
+        "Arthur Dent",
+        "COLOR ARTIST",
+        "Erik Polüma",
+        "VISUAL EFFECTS",
+        "Carlos E. Lesmes",
+        "COMPOSER",
+        "Juan Pablo Landenez",
+        "CHOREOGRAPHER",
+        "Doris Taber",
+        "SYNAPSES"
+      ],
+      "persons": [
+        "Sgt. Marta Pulk",
+        "Arthur Dent",
+        "Erik Polüma",
+        "Carlos E. Lesmes",
+        "Juan Pablo Landenez",
+        "Doris Taber"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1590"
+    },
+    {
+      "explanation": "Pildil on tekst, mis näitab filmi krediite ja osalisi. Tekst on korraldatud mitmesse ritta ja sisaldab filmitegijate nimesid ning tootmisettevõtete logosid.",
+      "actions": [
+        "tekstide lugemine",
+        "filmi informatsiooni esitamine"
+      ],
+      "keywords": [
+        "film",
+        "krediidid",
+        "tootjad",
+        "näitlejad"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "filmitegijad",
+        "tootmisettevõtted",
+        "tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "HEART AND SOUL",
+        "BFM",
+        "CINERAMA",
+        "HERZOG",
+        "North Star Rental",
+        "The Kinks for this time tomorrow"
+      ],
+      "persons": [
+        "not clear"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1605"
+    },
+    {
+      "explanation": "Pilt on peamiselt tume, kus on nähtav ainult midagi väga vähest, nagu logo või väike tekst. Visuaalne sisu on praktiliselt puuduv, mistõttu ei saa anda täiendavat analüüsi.",
+      "actions": [],
+      "keywords": [],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [],
+      "texts": [
+        "© BFM | 2014"
+      ],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "filecode": "s_1620"
+    }
+  ]
+}

@@ -1,0 +1,2711 @@
+{
+  "film": [
+    "20661",
+    "20505",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Hingetõmbehetk",
+    "3ba5d31d32831544efa2a869db65243c6fd235c9.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab linnavaadet päikesetõusu või -loojangu ajal, jäädvustatuna ülevaatepunktist. Esiplaanil on teravustamata tumedad siluetid lehtedest või okstest, mis loovad sügavuse ja raamistuse. Keskmisel plaanil on näha linna siluett, mis koosneb mitmest hoonest ja paljastest puudest või põõsastest horisondi joonel. Taevas muutub järk-järgult pimedast ja pilvisest toonist säravamaks, värvidesse ilmuvad oranzid, punakad ja kollased toonid, kusjuures päike ise ilmub nähtavale horisondi kohal viimases kaadris. Üldine meeleolu on rahulik ja vaikne, edasi andes üleminekut pimedusest valgusesse või vastupidi.",
+      "actions": [
+        "Valguse järkjärguline suurenemine",
+        "Päikese ilmumine horisondi kohale",
+        "Taeva värvide muutumine"
+      ],
+      "keywords": [
+        "Päikesetõus",
+        "Päikeseloojang",
+        "Siluett",
+        "Linnapilt",
+        "Lehed",
+        "Okaspuud",
+        "Pilved",
+        "Videvik",
+        "Hämarus",
+        "Värviline taevas",
+        "Puuvarjud"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Lehed",
+        "Oksad",
+        "Pilved",
+        "Hooneid",
+        "Puid",
+        "Põõsaid",
+        "Päike"
+      ],
+      "colorcodes": [
+        "#2E3339",
+        "#3A3B3E",
+        "#A05C4D",
+        "#B4654A",
+        "#D1845A",
+        "#F4B86A",
+        "#EFC88E"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "evening",
+      "differences": [
+        "Valguse intensiivsus suureneb järk-järgult esimesest pildist viimaseni, kusjuures esimene on kõige pimedam ja kolmas kõige heledam.",
+        "Taeva värvid muutuvad tumedatest hallikassinistest toonidest soojemaks ja intensiivsemaks oranzideks, punasteks ja kollasteks toonideks.",
+        "Päike muutub nähtavaks horisondi kohal, olles esimestes piltides peidus ja ilmudes selgelt esile viimases pildis."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "12.125"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaadet puidust lauaplaadist, millel asetsevad klaas joogiga ja pruun nahast rahakott. Klaas on osaliselt kaetud nahast ümbrisega ja sisaldab merevaigukollast vedelikku, mis annab märku kas teest või mingist alkoholjoogist, näiteks õllest. Rahakott on ruudukujuline, pruunist nahast, paistab kulunud ja sellel on tõmblukk. Stseeni valgustab soe, madala nurga alt langev päikesevalgus, mis loob lauale pikad, selged varjud klaasist ja rahakotist. Taustal, paremal pool ja ülal paremas nurgas, on fookusest väljas näha tooli osa koos heleda, tekstuurse kangaga kaetud istme või tekiga. Üldine atmosfeta on rahulik ja kodune, vihjates lõõgastavale hetkele. Valguse iseloom viitab hommikusele või hilisõhtusele ajale.",
+      "actions": [
+        "Vedeliku tarbimine klaasist (implitsiitne)"
+      ],
+      "keywords": [
+        "Puidust laud",
+        "Klaas",
+        "Nahast ümbris",
+        "Merevaigukollane jook",
+        "Rahakott",
+        "Tõmblukk",
+        "Päikesevalgus",
+        "Varjud",
+        "Hommik",
+        "Õhtu",
+        "Rahulik",
+        "Kodune",
+        "Lõõgastus",
+        "Tekstuur"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Puidust laud",
+        "Klaas",
+        "Nahast klaasiümbris",
+        "Hele merevaigukollane vedelik",
+        "Pruun nahast rahakott",
+        "Tõmblukk",
+        "Tooli osa",
+        "Hele tekstuuriga kangas/tekk"
+      ],
+      "colorcodes": [
+        "#b58d60",
+        "#d6a13d",
+        "#8c6e4e",
+        "#6b4d36",
+        "#e2d2c1",
+        "#78614a"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Vedeliku tase klaasis väheneb järk-järgult esimesest pildist kolmandani, mis viitab joogi tarbimisele.",
+        "Varjude asetus ja pikkus laual muutub piltide vahel, peegeldades päikese liikumist ja aja möödumist."
+      ],
+      "snr": "002",
+      "ajad": [
+        "12.125",
+        "33.250"
+      ]
+    },
+    {
+      "explanation": "Pildil on näha detailne lähivaade puidust lõikelauale, mis asetseb samuti puidust laual. Lõikelaual on jäänused toiduvalmistamisest: sibulakoored, hakitud punase sibula tükid, küüslaugukoored ja üks punane tšilli. Paremal pool on viil leiba ning osaliselt on näha ka metallist kahvli otsa. Vasakul, lõikelaua taga, asetseb terve punane sibul. Taustal, paremas ülanurgas, on näha kokkurullitud heledat rätikut ja selle kõrval hõbedast lusikat. Kogu stseeni valgustab soe, madalalt paistev valgus vasakult, mis tekitab lauale ja esemetele pikki varje.",
+      "actions": [
+        "Sibulakoorimine",
+        "Sibulahakkimine",
+        "Tšilli ettevalmistamine",
+        "Leiva söömine (kaudselt)"
+      ],
+      "keywords": [
+        "Lõikelaud",
+        "Köök",
+        "Toiduvalmistamine",
+        "Sibul",
+        "Küüslauk",
+        "Tšilli",
+        "Leib",
+        "Puit",
+        "Päikesepaiste",
+        "Varjud",
+        "Rustikaalne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Lõikelaud",
+        "Puidust laud",
+        "Punane sibul",
+        "Sibulakoored",
+        "Hakitud punane sibul",
+        "Küüslaugukoored",
+        "Tšilli",
+        "Leib",
+        "Rätik",
+        "Lusikas",
+        "Kahvel"
+      ],
+      "colorcodes": [
+        "#8B5F3E",
+        "#B23A3A",
+        "#F0EDE8",
+        "#D1CFCF",
+        "#4A3A2C"
+      ],
+      "texts": [
+        "CHE"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "morning",
+      "differences": [
+        "Piltide vahel on märgatav valguse intensiivsuse muutus – esimene pilt on kõige eredamalt valgustatud, kolmas pilt on kõige tumedam. See annab edasi valguse tuhmumist või ajalist kulgu, kus varjud muutuvad pikemaks ja sügavamaks."
+      ],
+      "snr": "003",
+      "ajad": [
+        "33.250",
+        "44.833"
+      ]
+    },
+    {
+      "explanation": "Pildil on näha detailne ja kunstiliselt komponeeritud stseen puidust lauaplaadil, millel asetsevad hommikuse või õhtuse teejoomisega seotud esemed. Stseen on valgustatud sooja, nurga alt langeva päikesevalgusega, mis loob lauale pikad ja teravad varjud, andes edasi hubase ja rahuliku atmosfääri. Laua puitpinnal on selgelt näha puidusüü muster ja tekstuur. Vasakul pool laual seisab elegantne, minimalistliku disainiga valge teekann, millel on naturaalsest korgist kaas. Kannu käepide on samuti valge ja integreeritud disaini. Teekannu ees on püstiasendis läbipaistev, vertikaalsete ribidega klaas, mis peegeldab ümbritsevat valgust. Klaasi ees, laual, lamab hõbedane teesõel või lusikas, mille kumeras osas on tumepruun puru, mis viitab kas teele või kohvile. Paremal pool laual, veidi tagapool, asetseb heledal taldrikul neli kollakasoranži tsitrusvilja, mis meenutavad sidruneid või väiksemaid apelsine. Üks viljadest on tumedama pleki või ebaühtlase pinnaga, andes neile loomuliku ja autentset välimuse. Üldine meeleolu on rahulik, kutsuv ja esteetiliselt meeldiv, vihjates ootavale puhkehetkele või rituaalile.",
+      "actions": [
+        "Tee valmistamine",
+        "Tee joomine",
+        "Puhkamine",
+        "Hommikusöögi või õhtusöögi rituaal"
+      ],
+      "keywords": [
+        "Teelaud",
+        "Hommik",
+        "Õhtu",
+        "Päikesevalgus",
+        "Varjud",
+        "Hubane",
+        "Rahulik",
+        "Teejoomine",
+        "Tsitrusviljad",
+        "Minimalistlik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Puidust laud",
+        "Valge teekann",
+        "Korgist kaas",
+        "Läbipaistev klaas",
+        "Teesõel",
+        "Tee/kohvipuru",
+        "Hele taldrik",
+        "Tsitrusviljad (sidrunid/apelsinid)"
+      ],
+      "colorcodes": [
+        "#8B6547",
+        "#F8F8F8",
+        "#A07850",
+        "#F0C440",
+        "#4A3A2C",
+        "#CCCCCC"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "morning",
+      "differences": [
+        "Puuduvad märgatavad erinevused."
+      ],
+      "snr": "004",
+      "ajad": [
+        "44.833",
+        "69.958"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast ja rahulikku magamistuba, mida valgustab päikesevalgus, mis loob seinale pikad vertikaalsed varjutriibud. Voodi on toas kesksel kohal, sellel on hallikas voodipesu ja mitu patja, millest osa on vastu peatsit toetatud. Voodil puhkab hele, kootud tekk ja selle peal on avatud oranži kaanega raamat või märkmik. Voodi kõrval vasakul, pildi esiplaanil, seisab puidust lauakesel suur potilill tumeroheliste lehtedega terrakota värvi potis. Seinal on näha valge lüliti või pistikupesa. Paremal on osaliselt nähtav aken koos heledate kardinatega. Toa põrand on puidust ja sellel, voodi ees, on märgata paar tumedat sokki või riideeset. Üldine meeleolu on soe ja kutsuv, rõhutades hommikust või hilisõhtust päikesevalgust.",
+      "actions": [
+        "puhkamine",
+        "lugemine"
+      ],
+      "keywords": [
+        "magamistuba",
+        "voodi",
+        "päikesevalgus",
+        "varjud",
+        "hommik",
+        "raamat",
+        "toataim",
+        "hubane",
+        "rahulik",
+        "kodu",
+        "valgus",
+        "teki",
+        "padi",
+        "põrand",
+        "aken",
+        "kardinad"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "voodi",
+        "padi",
+        "teki",
+        "raamat",
+        "toataim",
+        "lillepott",
+        "sein",
+        "aken",
+        "kardinad",
+        "põrand",
+        "sokid",
+        "lüliti",
+        "lauake"
+      ],
+      "colorcodes": [
+        "#C7AE80",
+        "#666C6A",
+        "#344837",
+        "#B65E2A",
+        "#A7977F",
+        "#4D3C2F"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "morning",
+      "differences": [
+        "Kõik kolm pilti on visuaalselt identsed. Erinevused piltide vahel on tühised või puuduvad täielikult, mis viitab sellele, et tegemist on samade kaadritega või väga minimaalsete töötluse erinevustega."
+      ],
+      "snr": "005",
+      "ajad": [
+        "69.958",
+        "85.750"
+      ]
+    },
+    {
+      "explanation": "Stseenil on lähivõte tumerohelisest toataime lehest, mis on tõenäoliselt kummipuu (Ficus elastica). Lehe pinnal on näha väikeseid veepiisku, mis peegeldavad päikesevalgust, luues sädeleva efekti. Osa lehest on valguses, osa varjus, mis toob esile lehe tekstuurse pinna ja leherood. Valgus langeb lehele paremalt ülevalt, heites vasakule varju ja rõhutades veepiiskade kohalolu. Taime teised lehed on uduselt taustal nähtavad, vihjates sisetingimustele.",
+      "actions": [
+        "lehe piserdamine (kaudselt)",
+        "päikesevalguse langemine lehele",
+        "veepiiskade aurustumine/imendumine"
+      ],
+      "keywords": [
+        "toataim",
+        "fikus",
+        "kummipuu",
+        "leht",
+        "veepiisad",
+        "kaste",
+        "niiskus",
+        "päikesevalgus",
+        "vari",
+        "roheline",
+        "tekstuur",
+        "detail",
+        "loodus",
+        "siseruum"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "toataim",
+        "fikus",
+        "kummipuu leht",
+        "veepiisad"
+      ],
+      "colorcodes": [
+        "#2D4233",
+        "#4F6D4C",
+        "#C4D0C5",
+        "#B2A8A0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevus seisneb veepiiskade hulgas ja jaotumises lehe pinnal.",
+        "Esimesel pildil on lehel rikkalikult väikeseid, selgelt eristuvaid veepiisku, eriti päikesevalguses oleval alal.",
+        "Teisel pildil on veepiisku vähem ja need on pisut suuremad, osad on hakanud kokku sulama, kuid on endiselt nähtavad.",
+        "Kolmandal pildil on veepiisku veelgi vähem, enamik on kas aurustunud või lehe sisse imbunud, jättes alles vaid üksikud tillukesed jäljed või niiskuse jäägid."
+      ],
+      "snr": "006",
+      "ajad": [
+        "85.750",
+        "102.583"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt eredat punast hibiskiõit, mis on täielikult avanenud ja uhkeldab oma iluga. Õie kroonlehed on sügavpunased, esitledes tekstuurseid detaile. Õie keskelt sirutuvad välja kollakasoranžid tolmukad ja emakakael, mis lisavad värvikontrasti ja sügavust. Õis on osa rohelisest taimest, mille tumerohelised lehed raamivad õit vasakul ja paremal pool, andes stseenile lopsaka ja elava fooni. Taustaks on ühevärviline, helebeež või helepruun sein, mis on pisut udune ja rõhutab õie teravust ning fookust. Valgus on pehme ja hajutatud, luues rahuliku ja intiimse atmosfääri, kus värvid on rikkalikud, kuid mitte üleliia teravad. Üldine meeleolu on rahulik ja looduslähedane.",
+      "actions": [],
+      "keywords": [
+        "Hibisk",
+        "Õis",
+        "Punane",
+        "Roheline",
+        "Taim",
+        "Siseruum",
+        "Lill",
+        "Loodus",
+        "Ilu",
+        "Detail",
+        "Toataim",
+        "Botaanika"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Hibiskiõis",
+        "Lehed",
+        "Taim",
+        "Sein",
+        "Tolmukad",
+        "Emakas"
+      ],
+      "colorcodes": [
+        "#9B3031",
+        "#3E4B3E",
+        "#7E7870",
+        "#A83738",
+        "#4D5C4D",
+        "#8B857D"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevused piltide vahel seisnevad valgustuse ja särituse pisikeses varieerumises, mille tõttu on mõned kaadrid üldiselt heledamad ja teised veidi tumedamad. See mõjutab pildi üldist kirkust ja kontrasti, andes mõnele kaadrile sügavama ja tumedama tooni ning teistele veidi elavama ja heledama ilme."
+      ],
+      "snr": "007",
+      "ajad": [
+        "102.583",
+        "116.292"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast ja rahulikku siseruumi, tõenäoliselt elutuba või puhkenurka, kus domineerivad soojad toonid ja loomulik valgus. Esiplaanil paremal on suur tumeroheliste lehtedega potitaim, mis on paigutatud terrakotavärvi potti. Vasakul on näha tumerohelist või pruunikat diivanit, millele on asetatud oranži-valge mustriga pleed või padi. Diivani ees asuval laual on virnas mitu raamatut, mille peal on näha teksti. Lisaks raamatutele on laual ka väike valge laadija või adapter. Stseeni rikastavad päikesevalgusest tekkivad pikad ja selged varjud, mis langevad seintele ja diivanile, luues dünaamilise ja samas mõtiskleva atmosfääri. Varjud on pärit nii potitaimelt kui ka tõenäoliselt muudelt, kaadrisse mitte jäävatelt taimedelt või objektidelt, andes ruumile sügavust ja iseloomu.",
+      "actions": [
+        "Päikesevalgus langeb tuppa",
+        "Päikesevalgus heidab objekte varjudeks",
+        "Raamatud lamavad laual",
+        "Toataim kasvab"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Hubane",
+        "Päikesevalgus",
+        "Varjud",
+        "Diivan",
+        "Toataim",
+        "Raamatud",
+        "Rahulik",
+        "Mõtisklev",
+        "Kodu",
+        "Elutuba",
+        "Hämarus",
+        "Soojad toonid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Diivan",
+        "Pleed",
+        "Padi",
+        "Laud",
+        "Raamatud",
+        "Toataim",
+        "Pott",
+        "Sein",
+        "Varjud",
+        "Laadija",
+        "Adapter"
+      ],
+      "colorcodes": [
+        "#E8E2D6",
+        "#D4C9BD",
+        "#C87D4D",
+        "#BC6C42",
+        "#4C5035",
+        "#2F3E32",
+        "#C6C0B8",
+        "#7A6F62",
+        "#4C4640",
+        "#3B3835",
+        "#292827"
+      ],
+      "texts": [
+        "Susan Sontag on Photography",
+        "Regarding the Pain of Others",
+        "COPYRIGHT"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Piltide peamine erinevus seisneb valgustuse intensiivsuses ja värvitoonis, mis viitab aja möödumisele.",
+        "Esimene pilt on kõige heledam ja soojema tooniga, kus varjud on teravad ja kontrastid selged.",
+        "Teine pilt on märkimisväärselt tumedam, varjud süvenevad ja värvid muutuvad küllastunumaks, peegeldades videviku algust.",
+        "Kolmas pilt on kõige pimedam, stseen on peaaegu täielikult hämaruses, detailid on varjudesse mattunud ja üldmulje on summutatud ning salapärane."
+      ],
+      "snr": "008",
+      "ajad": [
+        "116.292",
+        "132.875"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laiaulatuslikku linnapanoraami päikesetõusu või -loojangu ajal, mis annab taevale pehmed roosad, lillakad ja oranžikad toonid. Taevas on valdavalt selge ja ilma pilvedeta, luues rahuliku ja unistava atmosfääri. Horisondil kõrgub modernne linnasiluett mitme kõrghoonega, mis on enamasti tumedate siluettidena heleda taeva taustal. Vasakul pool on näha üks madalam, lai ristkülikukujuline hoone. Selle paremal on kaks silmapaistvat, väga sarnast tumedat klaasist pilvelõhkujat. Paremal pool keskel on veel üks sarnane tumedatooniline kõrghoone, mille kõrval seisab arhitektuuriliselt eristuv, kaarduva joonega ja klaasist fassaadiga modernne ehitis, mis meenutab purjekat. Paremal ääres on tihedam hoonestus, mille kohal on näha hoone, millel on tipus antenn või mast. Mõnedes hoonetest on märgata üksikuid helendavaid tulesid. Üldpilt annab edasi suurlinna modernse ja rahuliku külje videvikus.",
+      "actions": [],
+      "keywords": [
+        "Linnapanoraam",
+        "Kõrghooned",
+        "Pilvelõhkujad",
+        "Päikesetõus",
+        "Päikeseloojang",
+        "Videvik",
+        "Tallinn",
+        "Linna siluett",
+        "Roosa taevas",
+        "Modernne arhitektuur",
+        "Pastelsed toonid"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kõrghooned",
+        "Pilvelõhkujad",
+        "Hooned",
+        "Antenn",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#E1A4A3",
+        "#C68B90",
+        "#B17981",
+        "#44454B",
+        "#2E3033"
+      ],
+      "texts": [
+        "HIATUS"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "morning",
+      "differences": [
+        "Teisel pildil on lisatud valge tekst \"H I A T U S\", mis on paigutatud taeva keskele. Esimesel pildil see tekst puudub."
+      ],
+      "snr": "009",
+      "ajad": [
+        "132.875",
+        "173.542"
+      ]
+    },
+    {
+      "explanation": "Pildid kujutavad Tallinna sadamat ja selle kohal kõrguvat linnasiluetti õhtuhämaruses. Esiplaanil on näha kaks suurt reisilaeva või kruiisilaeva, mis on dokitud sadamas ja millel põlevad paljud tuled. Vasakpoolsel laeval on selgelt nähtav punakate detailidega logo ja tekst 'TALLINK'. Parempoolne laev on valdavalt valge ja hall ning samuti rikkalikult valgustatud. Tagaplaanil avaneb vaade Tallinna vanalinnale iseloomulike kirikutornide ja kuplitega, sealhulgas paistab Püha Olavi kiriku terav torn ja tõenäoliselt Aleksander Nevski katedraali kuplid. Ühe hoone korstnast tõuseb heledat suitsu. Kaugemal paremal on näha ka üks suur ehituskraana. Taevas on pastelses roosas ja lillas toonides, luues rahuliku ja unenäolise õhkkonna päikeseloojangu ajal.",
+      "actions": [
+        "Laevad on sadamas dokitud",
+        "Suits tõuseb korstnast"
+      ],
+      "keywords": [
+        "Sadam",
+        "Tallinn",
+        "Linnasiluett",
+        "Laevad",
+        "Reisilaev",
+        "Kruiisilaev",
+        "Õhtu",
+        "Päikeseloojang",
+        "Vanalinn",
+        "Kirikud",
+        "Tornid",
+        "Tuled",
+        "Meri",
+        "Hämarik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Reisilaevad",
+        "Kruiisilaevad",
+        "Hooned",
+        "Kirikud",
+        "Katedraal",
+        "Tornid",
+        "Kuplid",
+        "Sadam",
+        "Sadamakai",
+        "Kraana",
+        "Tuled",
+        "Taevas",
+        "Suits",
+        "Vesi"
+      ],
+      "colorcodes": [
+        "#CF8F9B",
+        "#A77484",
+        "#4B4C4D",
+        "#C8C8C8",
+        "#D26B52",
+        "#F1E1B1",
+        "#5C4F5C"
+      ],
+      "texts": [
+        "TALLINK"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad erinevused."
+      ],
+      "snr": "010",
+      "ajad": [
+        "173.542",
+        "206.000"
+      ]
+    },
+    {
+      "explanation": "Pildil on kujutatud modernne ja valgustatud tollipunkt või maksevärvav öisel ajal. Stseenis domineerib lai hall metallist varikatus, mis on toestatud arvukate kaldus oranžide sammastega. Varikatuse all on mitu sõidurada, millest igaühe kohal ripub valgustatud paneel. Kolmel paneelil on selgelt nähtavad eredalt punased \"X\" märgid valgel taustal, mis viitavad radade sulgemisele või kättesaamatusele. Varikatuse küljel on ka väiksemad ümmargused sildid, millel on tekst \"2.0 m\", mis tõenäoliselt tähistab kõrguspiirangut. Varikatuse alumine külg on rikkalikult valgustatud süvistatud lampidega, mis heidavad ereda valguse allpool olevale teele. Taustal on näha arvukalt tänavavalgusteid ja uduselt paistvaid ehitisi, mis viitab suuremale infrastruktuurile või kompleksile. Tee pind on puhas ja näib olevat heas korras. Esiplaanil on näha ka mõningaid liiklusmärke, sealhulgas sinine ümmargune märk valgete nooltega ja punase-valgetriibuline teetõke. Üldmulje on kaasaegsest ja funktsionaalsest rajatisest, mis on öösel hästi valgustatud.",
+      "actions": [],
+      "keywords": [
+        "tollipunkt",
+        "maksevärav",
+        "öö",
+        "valgustatud",
+        "maantee",
+        "taristu",
+        "kontrollpunkt",
+        "automaatika",
+        "modernne",
+        "liikluskorraldus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "tollivärav",
+        "varikatus",
+        "sambad",
+        "valgustid",
+        "tänavavalgustus",
+        "tee",
+        "liiklusmärgid",
+        "teetõke",
+        "paneelid",
+        "ehitised (taustal)"
+      ],
+      "colorcodes": [
+        "#2E3C4F",
+        "#A0A0A0",
+        "#E68334",
+        "#FFFFFF",
+        "#FF0000"
+      ],
+      "texts": [
+        "X",
+        "2.0 m"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Erinevusi piltide vahel ei ole."
+      ],
+      "snr": "011",
+      "ajad": [
+        "206.000",
+        "233.417"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mereäärset promenaadi või kai ala varasel õhtul või hämarikus. Esiplaanil domineerib hõbedane metallist ajutine aed, mis on paigaldatud üle kogu vaatevälja laiuses. Aia taga on näha sillutatud kõnnitee ja selle ääres, mere poole jääval piirdel, mitu vaatebinoklit, mis on aga kaetud mustade kilekottidega, andes mõista, et need on kas suletud või kaitstud. Taamal vasakul on näha hulgaliselt erevalgeid tänavavalgusteid, mis valgustavad ala, ning postide vahele riputatud lipukesed. Veel kaugemal paistavad valgustatud hooned või rajatised, mis viitavad sadama- või vabaajaalale. Paremal avaneb vaade rahulikule merele, mille horisondi kohal on taevas kaunis sinise ja roosakas-punase gradient – märk päikeseloojangust. Üldine atmosfäär on rahulik, ent tegevustest tühi, rõhutades õhtust rahu ja võimalikku ajutist ligipääsmatust aia ja kaetud binoklite tõttu.",
+      "actions": [
+        "Vaatebinoklid on kilekottidega kaetud, mis viitab nende ajutisele sulgemisele või kaitsele",
+        "Aed piirab juurdepääsu promenaadile või osale sellest"
+      ],
+      "keywords": [
+        "Mereäärne promenaad",
+        "Hämarik",
+        "Õhtu",
+        "Metallist aed",
+        "Vaatebinoklid",
+        "Mustad kilekotid",
+        "Tänavavalgustus",
+        "Lipukesed",
+        "Meri",
+        "Sadamaala",
+        "Päikeseloojang",
+        "Kai",
+        "Sillutatud tee"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Metallist ajutine aed",
+        "Vaatebinoklid",
+        "Mustad kilekotid",
+        "Tänavavalgustid",
+        "Lipukesed (bunting)",
+        "Metallist piirded",
+        "Sillutatud kõnnitee",
+        "Meri",
+        "Taevas",
+        "Valgustatud hooned/rajatised",
+        "Vesi"
+      ],
+      "colorcodes": [
+        "#B0B0B0",
+        "#000000",
+        "#FFFFFF",
+        "#FDFEAA",
+        "#2E4C6E",
+        "#A85A4F",
+        "#1C3C58",
+        "#7B7B7B"
+      ],
+      "texts": [
+        "Nähtamatu tekst kollastel siltidel aial (liiga kaugel ja udune lugemiseks)"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [],
+      "snr": "012",
+      "ajad": [
+        "233.417",
+        "254.333"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaikset öist või hämarat mere- või järvevaadet. Kesksel kohal on hallhaigur, kes seisab üksikul tumedal kivil keset rahulikku vett. Taeva ja vee toon on sügavsinine, luues melanhoolse ja rahuliku meeleolu. Kauguses, horisondi tagant, paistab linna siluett, mida ehib selgelt nähtav kõrge teletorn, millel on vilkuvad punased ja oranžid navigatsioonituled. Teletorni all ja ümber on näha hajutatud hoonetulesid piki kaldajoont või metsa taga. Valgusallikad on peamiselt kunstlikud ja kauguses, pakkudes kontrastiks esiplaanil olevale looduslikule üksindusele.",
+      "actions": [
+        "Hallhaigur seisab kivi peal",
+        "Haigur muudab oma pea asendit ja pilgu suunda"
+      ],
+      "keywords": [
+        "öö",
+        "hämarus",
+        "haigur",
+        "lind",
+        "kivi",
+        "vesi",
+        "meri",
+        "järv",
+        "teletorn",
+        "linnasiluett",
+        "kaugus",
+        "vaikne",
+        "melanhoolne",
+        "sinine",
+        "punane tuli",
+        "eesti",
+        "tallinn"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "hallhaigur",
+        "kivi",
+        "vesi",
+        "teletorn",
+        "hooned",
+        "tuled",
+        "mets",
+        "kaldajoon"
+      ],
+      "colorcodes": [
+        "#2B3A5A",
+        "#1C2B3E",
+        "#7F7F7F",
+        "#FF0000",
+        "#FFA500"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "85",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on näha hallhaigru pea asendi kergeid muutusi. Esimesel pildil on haigru pea veidi vasakule pööratud. Teisel pildil on haigru pea rohkem otse ette suunatud. Kolmandal pildil on haigru pea kergelt paremale pööratud, justkui vaataks kaamera suunas."
+      ],
+      "snr": "013",
+      "ajad": [
+        "254.333",
+        "278.042"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tööstusmaastikku videvikus, tõenäoliselt päikeseloojangu või -tõusu ajal. Esiplaanil on näha kaks raudteerada, mis kulgevad läbi rohtu kasvanud ja kohati häguse taimestiku, mis annab pildile sügavuse ja maheda fookuse. Taimestik koosneb kõrrelistest või kuivanud roost. Keskel liigub rong, mis koosneb pikkadest tumedatest vagunitest. Ühel vagunil on näha sinakat tooni sõiduauto, mis viitab autotranspordile. Tagaplaanil domineerib erksates oranzikaspunastes ja lillakates toonides taevas, millel on hajutatud pilved. Taeva siluetile joonistuvad arvukad sadamakraanad, mis on erineva suurusega ja paigutusega, ning muid tööstushooneid ja rajatisi. Üldine meeleolu on rahulik, kuid samas industriaslik. Valgus on pehme ja soe, luues dramaatilise efekti.",
+      "actions": [
+        "Rong liigub/seisab raudteel",
+        "Autotransport raudteel"
+      ],
+      "keywords": [
+        "Päikeseloojang",
+        "Videvik",
+        "Tööstusmaastik",
+        "Sadam",
+        "Rong",
+        "Kraanad",
+        "Raudtee",
+        "Ülekasvanud taimestik",
+        "Transport",
+        "Hägusus",
+        "Soojad toonid"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Raudteerööpad",
+        "Rong",
+        "Vagunid",
+        "Auto",
+        "Sadamakraanad",
+        "Tööstushooned",
+        "Rohttaimed",
+        "Pilved",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#E08C78",
+        "#7C6D8D",
+        "#2F2F2F",
+        "#5A7F9A",
+        "#F2BE91"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [],
+      "snr": "014",
+      "ajad": [
+        "278.042",
+        "307.125"
+      ]
+    },
+    {
+      "explanation": "Piltidel on kujutatud avar maastik päikeseloojangu ajal üle veekogu. Esilplaanil on tumedatooniline, kergelt lainetav vesi, mis moodustab ligikaudu kolmandiku pildi alumisest osast. Horisondil paistab tume siluett metsast või puudest, mille vahelt on näha madalale vajunud päike, kiirates kollakasrohelist valgust. Puude kohal on näha ka mitmeid pikki, peenikesi poste või maste, mis ulatuvad horisondilt ülespoole. Taevas on domineerivalt soojades toonides, ulatudes oranžist ja roosakaspruunist ülemises osas kuni heledama, kollakama ja roheka kumani päikese ümber. Üleminek on sujuv ja loob rahulikku ning sumedat meeleolu. Üldine toon on hämar ja vaikne.",
+      "actions": [],
+      "keywords": [
+        "päikeseloojang",
+        "veekogu",
+        "meri",
+        "järv",
+        "siluett",
+        "horisont",
+        "puud",
+        "mastid",
+        "postid",
+        "oranž taevas",
+        "videvik",
+        "hämarus",
+        "rahulik",
+        "loodus",
+        "maastik",
+        "soe toon"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "vesi",
+        "taevas",
+        "päike",
+        "puud",
+        "võsa",
+        "mastid",
+        "postid"
+      ],
+      "colorcodes": [
+        "#9E6C60",
+        "#C37B60",
+        "#E6DA89",
+        "#2C3C4A",
+        "#1A1C1D"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 75,
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [],
+      "snr": "015",
+      "ajad": [
+        "307.125",
+        "341.208"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud udune või pilvine taevas, kus paistab läbi kuma andev taevakeha, tõenäoliselt kuu. Kuu on heledalt valgustatud, pehme ja uduselt kollakas-oranži värvusega, ümbritsetuna hajutatud säraga, mis viitab paksule atmosfäärile, udule või pilvedele. Taevas on ühtlaselt hallikas-sinise tooniga, mis annab edasi rahuliku ja pisut melanhoolse meeleolu. Ümberringi pole näha muid objekte ega maastikuelemente, mis suunab tähelepanu täielikult udusesse kuule. Piltidel on näha kuu kerget liikumist ja uduse katte hõrenemist/paksenemist, mis muudab kuu kuju ja intensiivsust pisut erinevates kaadrites.",
+      "actions": [
+        "Kuu kumab läbi udu/pilvede",
+        "Udu/pilved varjavad kuud"
+      ],
+      "keywords": [
+        "Kuu",
+        "Udu",
+        "Pilved",
+        "Taevas",
+        "Hägune",
+        "Hämarus",
+        "Öö",
+        "Kuma",
+        "Tume",
+        "Rahulik",
+        "Müstiline",
+        "Pastelne"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kuu",
+        "Pilved",
+        "Udu",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#6F7481",
+        "#6B707C",
+        "#FFEEC3",
+        "#FFDC9C",
+        "#C8C8C8"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "85",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kuu asukoht nihkub piltidel veidi paremalt vasakule ja keskele.",
+        "Kuu ümber olev udu või pilvede tihedus ja muster muutub pisut, mõjutades kuu teravust ja kuma intensiivsust."
+      ],
+      "snr": "016",
+      "ajad": [
+        "341.208",
+        "369.917"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lennujaama angaari või seisuplatsi pilvisel ja jahedal päeval. Esiplaanil ja keskel on pargitud mitu valget reisilennukit, mis seisavad rivis asfalteeritud pinnal. Mõned lennukid on identsed Airbus A320 tüüpi lennukid, mille sabadel on äratuntavad punased ja valged värvid, vihjates Austria lennufirmale. Ühel lennukil on näha punane tuulekott. Maapinnal on strateegiliselt paigutatud oranže ja valgeid koonuseid ning teisi lennuvälja märgistusi, mis tähistavad piirkondi või radu. Taustal kõrgub silmapaistev modernne ja imposantne hoone, mis on ehitatud tumedatest ja heledatest paneelidest ning millel on arvukalt ruudukujulisi aknaid. Hoone ülemisel osal on näha kirjasid nagu 'TECHNOPOLIS ÜLEMISTE' ja mitu logo, mis viitab sellele, et tegu on Ülemiste Tehnopargiga. Selle hoone taga on parkla. Vasakul pool on veel madalamaid tööstuslikke hooneid koos pika korstnaga ning kaks kõrget mastitaolist struktuuri, mis tõenäoliselt on valgustus- või kommunikatsioonimastid. Paremal taustal on veel tumedamaid hooneid, millel on osaliselt loetav kiri 'ÜLEMISTE'. Vaade on avar ja hõlmab suurt osa lennuväljast ja ümbritsevast linnamaastikust. Puud taustal on raagus, viidates külmale aastaajale.",
+      "actions": [
+        "Lennukid on pargitud ja ootavad hooldust või järgmist lendu",
+        "Maapealne teenindus liigub lennukite ümber"
+      ],
+      "keywords": [
+        "Lennujaam",
+        "Lennukiparkla",
+        "Airbus",
+        "Ülemiste City",
+        "Tallinn",
+        "Tehnopark",
+        "Pilvine",
+        "Hall taevas",
+        "Talv",
+        "Kevad",
+        "Lennuväli",
+        "Tööstuspiirkond"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Reisilennukid",
+        "Kontorihoone",
+        "Tööstushooned",
+        "Korsten",
+        "Mastid",
+        "Koonused",
+        "Teemärgistused",
+        "Tuulekott",
+        "Puud",
+        "Asfalt",
+        "Parkla"
+      ],
+      "colorcodes": [
+        "#B0B0B0",
+        "#FFFFFF",
+        "#C80000",
+        "#3A3A3A",
+        "#4C4C4C",
+        "#D0D0D0"
+      ],
+      "texts": [
+        "TECHNOPOLIS ÜLEMISTE",
+        "YOLO",
+        "PROTOTRON",
+        "ÜLEMISTE",
+        "ES-LGR",
+        "ES-LGB"
+      ],
+      "persons": [
+        "Lennujaama töötajad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Pildid on identsed, erinevusi ei ole"
+      ],
+      "snr": "017",
+      "ajad": [
+        "369.917",
+        "392.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaatega rongijaama perrooni hämarikus. Esiplaanil on rida vertikaalseid tugiposte, mis on kaetud heleda grafitiga. Postid loovad sügavuse illusiooni, ulatudes vaatajast paremale ja eemalduvalt kaugusesse. Perrooni ääres kulgevad rööbasteed ja ülal on näha keerukas elektrivõrk koos posti ja traatidega. Taamal paremal on näha raudteejaama hoone, millel on loetav tekst \"TALLINN\". Perrooni lõpus, jaamahoone ees, seisab oranži ja tumehalli värvi reisirong. Taevas on kaunis, pehme roosakas-oranžikas toon, mis annab stseenile sooja, kuid melanhoolse atmosfääri. Üldine meeleolu on rahulik ja vaikne, viidates hilisele õhtule või varajasele hommikule.",
+      "actions": [
+        "rong ootab platvormil",
+        "päikeseloojang või -tõus"
+      ],
+      "keywords": [
+        "rongijaam",
+        "platvorm",
+        "rong",
+        "graffiti",
+        "hämarik",
+        "raudtee",
+        "elektrivõrk",
+        "Tallinn",
+        "linnaruum",
+        "postid",
+        "jaamahoone",
+        "roosakas taevas"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "rong",
+        "rongijaamahoone",
+        "platvorm",
+        "raudteerööpad",
+        "elektriliinid",
+        "tugipostid",
+        "graffiti",
+        "valgustid (postidel)"
+      ],
+      "colorcodes": [
+        "#D0887E",
+        "#3A3A3B",
+        "#E0E0E0",
+        "#B03A2B",
+        "#B0AEAA",
+        "#7B7C7D"
+      ],
+      "texts": [
+        "TALLINN",
+        "graffiti (erinevad tagid)"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [],
+      "snr": "018",
+      "ajad": [
+        "392.000",
+        "422.958"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaadet raudteejaamale või -peatusele hämarikus või varasel õhtul. Esiplaanil paremal on pikk, tühjane perroon, mis on kaetud hallide sillutuskividega. Perrooni ääres paiknevad tumedad postid, mille külge on kinnitatud horisontaalselt reastatud valged luminofoorlambid, mis valgustavad perrooni. Postidel on näha valge graffitikunst, mis koosneb stiliseeritud tähemärkidest ja sümbolitest. Vasakul kulgevad mitmed paralleelsed raudteerööpad, millel on näha ka pööranguid ja signalisatsioonielemente. Üle rööbaste ja perrooni laiuvad tihedalt põimunud elektriliinid ja nende tugistruktuurid, luues dünaamilise võrgustiku siluetina tumeda taeva taustal. Horisondi suunas on näha linnavaadet, kus on hooneid, sealhulgas üks kaarega katusega ehitis, mis viitab jaamahoonele, ning teisi kaugemaid hooneid, mille akendes paistab valgus. Puud taustal on lehtedeta, vihjates jahedamale aastaajale. Üldine õhkkond on vaikne ja inimtühi, rõhutades jaama infrastruktuuri ja arhitektuuri.",
+      "actions": [
+        "Valgusallikad valgustavad perrooni",
+        "Elektriliinid edastavad energiat"
+      ],
+      "keywords": [
+        "Raudteejaam",
+        "Perroon",
+        "Rööpad",
+        "Elektriliinid",
+        "Hämarus",
+        "Õhtu",
+        "Tühjus",
+        "Graffiti",
+        "Linnaväljak",
+        "Valgustus",
+        "Vaikus",
+        "Infrastruktuur",
+        "Talv"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Raudteeperroon",
+        "Raudteerööpad",
+        "Elektriliinid",
+        "Tugipostid (raudtee)",
+        "Valgustuspostid (perroon)",
+        "Luminofoorlambid",
+        "Graffiti",
+        "Hoone (kaarega katusega)",
+        "Hoone (akendega)",
+        "Puud (lehtedeta)",
+        "Pöörangud (raudteel)",
+        "Sillutuskivid (perroonil)"
+      ],
+      "colorcodes": [
+        "#5A6D7D",
+        "#969696",
+        "#6B6B6B",
+        "#E0E0E0",
+        "#2E2E2E",
+        "#888888"
+      ],
+      "texts": [
+        "KDXF",
+        "SEDA",
+        "MUGA"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "winter",
+      "daytime": "evening",
+      "differences": [],
+      "snr": "019",
+      "ajad": [
+        "422.958",
+        "447.083"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaadet linnamaastikule hämaras, tõenäoliselt õhtusel ajal. Vasakul domineerib suur, valgustatud vaateratas. Selle taga ja paremal asub suur hoonekompleks, mis näib olevat kaubanduskeskus või meelelahutusasutus, millel on mitmed valgusreklaamid, sealhulgas silmapaistvalt \"FORUM\" ja \"Debenhams\". Hoonest paremal kõrgub punavalge tööstuskorsten. Esiplaanil on paralleelsed raudteerööpad, millel seisab pikk kaubarong, mis koosneb mitmest reast hõbedastest tsisternvagunitest. Raudtee kohal ja ümber on tihe võrgustik elektriliine ja tugistruktuure. Keskel on mitu kõrget trellitaolist masti koos valgustitega. Taevas on ühtlaselt hallikassinine ja pilvine, mis annab stseenile jaheda ja rahuliku tooni. Vasakul tee ääres paistavad kollaka valgusega tänavavalgustid. Kauguses on näha puude siluette, mis on talviselt raagus.",
+      "actions": [
+        "Tuled paistavad",
+        "Valgusreklaamid helendavad"
+      ],
+      "keywords": [
+        "Linnamaastik",
+        "Raudtee",
+        "Kaubarong",
+        "Tsisternvagunid",
+        "Vaateratas",
+        "Kaubanduskeskus",
+        "Debenhams",
+        "Forum",
+        "Tööstushooned",
+        "Korsten",
+        "Elektriliinid",
+        "Hämarus",
+        "Õhtu",
+        "Pilvine",
+        "Talv",
+        "Valgustus",
+        "Infrastruktuur"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Vaateratas",
+        "Hoonekompleks",
+        "Kaubarong",
+        "Tsisternvagunid",
+        "Raudteerööpad",
+        "Elektriliinid",
+        "Tugimastid",
+        "Korsten",
+        "Valgusreklaamid",
+        "Tänavavalgustus",
+        "Puud",
+        "Märgid"
+      ],
+      "colorcodes": [
+        "#A9B3BB",
+        "#FFFFFF",
+        "#E22B2F",
+        "#F0F0F0",
+        "#D1D2D5",
+        "#8C8C8C",
+        "#E9B200",
+        "#0F171A"
+      ],
+      "texts": [
+        "FORUM",
+        "Debenhams",
+        "Paide tüdruk",
+        "11"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "winter",
+      "daytime": "evening",
+      "differences": [
+        "Piltide vahel on väga minimaalsed erinevused üldises heleduses ja kontrastis. Teine ja kolmas pilt on esimesest pisut heledamad, mis annab stseenile kergelt eredama ilme, kuid sisulisi muutusi objektide asukohas või tegevuses ei ole."
+      ],
+      "snr": "020",
+      "ajad": [
+        "447.083",
+        "467.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tühja linnakeskkonda öisel ajal. Esiplaanil vasakul seisab kaetud ja läbipaistvate külgseintega bussipeatus, mille katus on tumepruun. Peatuse sees on näha jalgratast või tõukeratast. Maapind on tume, märja asfaltiga, mis peegeldab veidi ümbritsevaid valguseid. Bussipeatusest paremal on must tänavavalgustuspost, millel on ka valgusfoori või kaamera moodi seadeldis. Taustal domineerib suur modernne hoone, tõenäoliselt kaubanduskeskus või büroohoone, mille fassaad on hallikaspruun. Hoone sissepääsu kohal on valgustatud silt tekstiga \"CI KRIS\". Sissepääsu kohal ja ümber on suured aknad, mis on varustatud dünaamilise värvivalgustusega. Hoone klaasustest paistab läbi reklaamplakat, millel on kujutatud kaks naist.",
+      "actions": [],
+      "keywords": [
+        "öö",
+        "linn",
+        "bussipeatus",
+        "kaubanduskeskus",
+        "valgustus",
+        "tühi",
+        "urban",
+        "tänav"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "bussipeatus",
+        "jalgratas",
+        "tõukeratas",
+        "tänavavalgusti",
+        "hoone",
+        "aknad",
+        "silt",
+        "plakat",
+        "asfalt"
+      ],
+      "colorcodes": [
+        "#4A148C",
+        "#004D40",
+        "#B71C1C",
+        "#2F3E46",
+        "#9E9E9E",
+        "#8B4513",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "CI KRIS"
+      ],
+      "persons": [
+        "naine (plakatil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on hoone fassaadi valgustus sinakas-lilla tooniga.",
+        "Teisel pildil on hoone fassaadi valgustus muutunud roheliseks või türkiissiniseks.",
+        "Kolmandal pildil on hoone fassaadi valgustus nüüd punane või oranž."
+      ],
+      "snr": "021",
+      "ajad": [
+        "467.000",
+        "499.167"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast pimedat ja märga parkimisplatsi suure punase ärihoone ees öösel. Asfalt on märg, peegeldades erinevate kunstlike valgustite värvilisi toone, nagu oranž, sinine ja lilla, mis annavad maapinnale dünaamilise ja värvilise ilme. Parkimisplatsil seisab kaks tumedat sõiduautot. Hoone vasakpoolses osas on näha pikka rida oranže pakiautomaate või kappe, mille ees on metallist rattahoidjad ja mitu valget sammast. Hoone paremal pool on klaasist sissepääs, mille kõrval on suured reklaamplakatid inimeste nägudega ning must prügikast. Üldine atmosfäär on vaikne, linnalik ja veidi melanhoolne, rõhutatud niiske ja peegeldava pinnaga.",
+      "actions": [],
+      "keywords": [
+        "Öö",
+        "parkimisplats",
+        "märg asfalt",
+        "peegeldused",
+        "autod",
+        "punane hoone",
+        "pakiautomaadid",
+        "tänavavalgustus",
+        "linnalik",
+        "melanhoolne",
+        "värvilised tuled",
+        "pime"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "sõiduautod",
+        "punane hoone",
+        "valged sambad",
+        "pakiautomaadid",
+        "rattahoidjad",
+        "asfalt",
+        "veeloigud",
+        "reklaamplakatid",
+        "prügikast",
+        "valguspost",
+        "klaasuks"
+      ],
+      "colorcodes": [
+        "#8B201B",
+        "#DE752A",
+        "#3434B8",
+        "#800080",
+        "#F8F8F8",
+        "#282828"
+      ],
+      "texts": [
+        "Määramatu tekst reklaamplakatitel"
+      ],
+      "persons": [
+        "stiliseeritud inimnäod reklaamplakatitel"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Peamine erinevus piltide vahel seisneb märgadel pindadel peegelduvate valgustite värvis intensiivsuses ja levikus. Eriti märgatav on see keskmisel eesplaanil olevates veeloikudes, kus kolmandal pildil on lilla ja roosa toon tunduvalt eredam ja selgemini nähtav võrreldes esimese ja teise pildiga. See viitab dünaamilise valgusefektile või kergele värvitooni ja heleduse muutusele kaadrite vahel."
+      ],
+      "snr": "022",
+      "ajad": [
+        "499.167",
+        "531.208"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab modernset, mitmekorruselist parkimismaja või sarnast struktuuri ööpimeduses. Hoone fassaad on kaetud vertikaalsete ribadega või võrestikuga, mis loovad korduva mustri. Võrede tagant paistavad parkimiskorruste siseehitised, kus on näha kaldteid, piirdeid ja betoonstruktuurseid elemente. Erinevatel tasanditel on märgata mitmeid pargitud autosid. Stseeni valgustavad arvukad väikesed, sinakaslillad valgusallikad, mis on jaotatud ühtlaselt üle kogu nähtava konstruktsiooni. Mõned tuled on laes paiknevad, teised aga piklikud ja meenutavad tänavavalgusteid. Üldine värvipalett on tumehallides ja mustades toonides, valgustite heledad sinakaslillad plekid lisavad kontrasti ja sügavust, andes pildile tehnoloogilise ja jaheda meeleolu.",
+      "actions": [
+        "Sõidukite parkimine"
+      ],
+      "keywords": [
+        "Parkimismaja",
+        "Öö",
+        "Sinine valgus",
+        "Modernne arhitektuur",
+        "Struktuur",
+        "Jahe toon",
+        "Võrestik",
+        "Korduv muster",
+        "Autod"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Parkimismaja",
+        "Autod",
+        "Tuled",
+        "Rambid",
+        "Võred",
+        "Metallstruktuurid",
+        "Piirded",
+        "Fassaad",
+        "Laevalgustid",
+        "Tänavavalgustid"
+      ],
+      "colorcodes": [
+        "#2D2F35",
+        "#6B74AA",
+        "#1E1F24",
+        "#43444A"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Erinevusi piltide vahel ei ole, kõik kolm pilti on identsed."
+      ],
+      "snr": "023",
+      "ajad": [
+        "531.208",
+        "557.375"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab linna parkimisala õhtusel või öisel ajal, kus esiplaanil paremal on tumeda värvusega sõiduauto, mis on pargitud asfaldile või betoonile. Auto kõrval, hoone sissepääsu juures, seisab vaatepunkti suhtes peaaegu keskel väike lind, mis tõenäoliselt on kajakas. Lind on suunatud vasakule, vaadates sügavale pilti. Taustal avaneb vaade kaasaegse arhitektuuriga hoone sissepääsule, mis viib valgustatud parkla siseossa. Hoone fassaadil on tumedad seinad ja vertikaalsed ribad. Vasakul on näha hoone klaaspindu, millest peegeldub ähmaselt teine auto ja valgustatud \"P\"-tähega parkimismärk koos suunaviidaga. Üldine valgus on sume ja kunstlik, luues rahuliku, kuid veidi melanhoolse õhkkonna. Taevas on pildil tume, viidates õhtule või ööle. Maapind on tumehall ja näib olevat kergelt niiske või justkui oleks hiljuti sadanud.",
+      "actions": [
+        "lind seisab",
+        "auto on pargitud"
+      ],
+      "keywords": [
+        "linn",
+        "öö",
+        "parkla",
+        "kajakas",
+        "auto",
+        "valgustus",
+        "arhitektuur",
+        "vaikus",
+        "moderne",
+        "peegeldus",
+        "sõiduk",
+        "lind"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "auto",
+        "lind",
+        "hoone",
+        "parkimismärk",
+        "asfalt",
+        "betoon",
+        "klaasist fassaad",
+        "vertikaalsed ribad",
+        "valgustid",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#20242b",
+        "#3a3e44",
+        "#8b8f97",
+        "#6d747b",
+        "#ced1d8",
+        "#454e56",
+        "#5c666f",
+        "#f0f0f0"
+      ],
+      "texts": [
+        "P"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [],
+      "snr": "024",
+      "ajad": [
+        "557.375",
+        "580.208"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, kus valitseb hämar valgus ja kontemplatiivne õhkkond. Kesksel kohal on halli värvi, kiilas mannequin-figuur, mis istub madalal tumedal platvormil või pingil. Figuur on riietatud tumepunase või burgundiavärvi ülikonda, mis koosneb jakist ja pükstest, ning kannab tumedaid jalanõusid. Ta istub külgvaates, pea kergelt langetatud ja käed süles. Ümber mannekeeni, seintel või ekraanidel, on projitseeritud lopsakas ja tihe roheline mets, mille taustal on näha suuri puid, mis annavad edasi sügava ja rikkaliku rohelise tooni. Projektsioon loob illusiooni, justkui vaataks figuur välja loodusesse, samas kui ümbritsevad tumedad püstised raamid või vaheseinad annavad edasi suletud ja eraldatud tunde. Põrand on tume ja detailideta. Üldine meeleolu on rahulik, mõtisklev ja veidi melanhoolne.",
+      "actions": [
+        "Mannekeen istub",
+        "Mannekeen vaatab allapoole"
+      ],
+      "keywords": [
+        "Mannekeen",
+        "Metsaprojektsioon",
+        "Siseruum",
+        "Hämar valgus",
+        "Kontemplatsioon",
+        "Vari",
+        "Roheline",
+        "Burgundiapunane",
+        "Üksindus",
+        "Installatsioon",
+        "Kunstimudel"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Mannekeen",
+        "Ülikond",
+        "Jakk",
+        "Püksid",
+        "Jalanõud",
+        "Pink",
+        "Platvorm",
+        "Seinad",
+        "Ekraanid",
+        "Metsaprojektsioon",
+        "Puu",
+        "Lehestik",
+        "Vertikaalsed raamid"
+      ],
+      "colorcodes": [
+        "#4A2D30",
+        "#919191",
+        "#5A7B54",
+        "#394B37",
+        "#1F1F1F",
+        "#706F6F"
+      ],
+      "texts": [],
+      "persons": [
+        "Mannekeen"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [],
+      "snr": "025",
+      "ajad": [
+        "580.208",
+        "604.750"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab abstraktset ja udust öist vaadet, mis koosneb vertikaalsetest värvilistest valguse triipudest tumedal taustal. Valgusefekti põhjustab tõenäoliselt liikumise hägusus või pikk säriaeg, andes edasi dünaamilise ja kiire liikumise tunde. Valgustriipude hulgas on märgata erinevaid värve, nagu punane, sinine, roheline ja kollane, mis viitavad linnatuledele, neoonsiltidele või sõidukite tuledele öises linnas. Üldine meeleolu on energiline, salapärane ja modernne, andes edasi urbanistliku keskkonna kaootilist ilu. Taust on valdavalt tumehall või pruunikasmust, lastes värvilistel valgustel esile kerkida.",
+      "actions": [
+        "liikumine",
+        "virvendus",
+        "värelus"
+      ],
+      "keywords": [
+        "abstraktne",
+        "öö",
+        "valgus",
+        "triibud",
+        "udune",
+        "hägune",
+        "dünaamiline",
+        "linnatuled",
+        "neoon",
+        "värviline",
+        "liikumishägu",
+        "urbanistlik",
+        "modernne"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#262626",
+        "#333333",
+        "#FF0000",
+        "#00FFFF",
+        "#FFFF00",
+        "#00FF00",
+        "#A9A9A9"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Valgusallikate intensiivsus ja asukoht muutub kergelt kaadrite vahel, andes stseenile pulseeriva või vilkuva efekti. Eelkõige on märgata mõnede punaste valgustriipude heledamaks muutumist või kerget nihkumist keskmisel ja paremal pool kaadris."
+      ],
+      "snr": "026",
+      "ajad": [
+        "604.750",
+        "632.125"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat linnakeskkonda öösel, kus esiplaanil domineerivad vertikaalsed, läikivad metallpinnad või peegeldavad paneelid. Need pinnad on kergelt kumera või ebaühtlase vormiga, mis moonutab ja peegeldab ümbritsevaid tulesid, luues abstraktse ja dünaamilise visuaali. Peegeldustes on näha punaseid, siniseid, rohelisi ja kollaseid valguspunkte, mis annavad aimu tänavatest, valgusfooridest või hoonetest. Vasakul tagaplaanil on uduselt näha rohelist taimestikku ja halli hoone seina. Keskel peegeldub tumesinises toonis kuju, mis võib olla inimene. Üldine atmosfäär on kaasaegne, linlik ja natuke salapärane tänu valguse ja peegelduste mängule.",
+      "actions": [],
+      "keywords": [
+        "läikiv",
+        "metall",
+        "peegeldus",
+        "linn",
+        "öö",
+        "abstraktne",
+        "moonutatud",
+        "valgusmäng",
+        "urbanistlik",
+        "kaasaegne"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "metallpaneelid",
+        "peegeldavad pinnad",
+        "tänavavalgustus (peegelduses)",
+        "taimed",
+        "hoone (uduses tagaplaanis)"
+      ],
+      "colorcodes": [
+        "#A0A0A0",
+        "#C0C0C0",
+        "#E00000",
+        "#0000E0",
+        "#00E000",
+        "#E0E000"
+      ],
+      "texts": [],
+      "persons": [
+        "võimalikud inimkujud peegelduses"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Erinevusi piltide vahel ei ole"
+      ],
+      "snr": "027",
+      "ajad": [
+        "632.125",
+        "646.667"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab linnaöö pilti, kus esiplaanil on märg, ruudustikuga plaaditud põrand, mis peegeldab taustal oleva hoone tulesid. Põrand on läikiv ja peegeldav, luues valgusribadest vertikaalseid ja ebaregulaarseid peegeldusi. Peegeldustel on näha nii heledamaid triipe kui ka sinakaid toone. Taustal on näha udune ja tume hoone fassaad, millel jooksevad horisontaalsed helesinised valgusribad ning näha on ka mõned üksikud aknad. Hoone üldine ilme on modernne ja minimalistlik. Üldine toon on jahe ja tume, domineerivad sinised, hallid ja mustad toonid, mis loovad melanhoolse või tehnoloogilise õhkkonna.",
+      "actions": [],
+      "keywords": [
+        "linn",
+        "öö",
+        "märg",
+        "peegeldus",
+        "põrand",
+        "hoone",
+        "valgus",
+        "sinine",
+        "abstraktne",
+        "modernne",
+        "pime",
+        "jahe",
+        "urban",
+        "arhitektuur"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "märg põrand",
+        "plaadid",
+        "hoone",
+        "aknad",
+        "valgusribad",
+        "peegeldused"
+      ],
+      "colorcodes": [
+        "#21282D",
+        "#47A2BF",
+        "#1D1F20",
+        "#585C65",
+        "#3C4B58"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 70,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Pildid on identsed."
+      ],
+      "snr": "028",
+      "ajad": [
+        "646.667",
+        "655.208"
+      ]
+    },
+    {
+      "explanation": "Stseen on jäädvustatud märjal öisel tänaval, kus esiplaanil domineerib lai peegeldav asfaltpind, mis kajastab eredalt ümbritsevate hoonete ja valguskastide valgusid. Vasakul paikneb madal kivist sein, mille kohal on mitu valgustatud vitriini, tõenäoliselt reklaamide või plakatite jaoks, kus on näha sinakasvalgeid ja heledaid kujutisi. Müüri taga kõrgub ähmane siltpost loetamatu tekstiga. Paremal on näha hoone fassaadi, kus üks suur aken on seestpoolt eredalt valgustatud, paljastades heleda interjööri, samal ajal kui ülejäänud hooneosad ja uksed on pimeduses. Valgustatud akna kohal on näha osaliselt sõna \"BIIKESKUS\" ning parempoolse ukse kõrval on näha punast postkasti. Märg tänav loob dramaatilise ja mõtliku meeleolu, peegeldades punaseid, siniseid ja valgeid valguseid, andes stseenile sügavuse ja vaikse linnaõhtu tunde.",
+      "actions": [],
+      "keywords": [
+        "Öö",
+        "vihmamärg",
+        "linn",
+        "tänav",
+        "peegeldus",
+        "valgus",
+        "pimedus",
+        "hooned",
+        "vitriinid",
+        "vaikus",
+        "arhitektuur"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Märg tänav",
+        "asfalt",
+        "peegeldused",
+        "kivimüür",
+        "valgustatud vitriinid",
+        "plakatkastid",
+        "hooned",
+        "aknad",
+        "uksed",
+        "siltpost",
+        "postkast",
+        "tänavavalgustus (peegeldustena)"
+      ],
+      "colorcodes": [
+        "#1F1F1F",
+        "#C8C9CA",
+        "#8096AE",
+        "#BC3C3E",
+        "#7E7E7E"
+      ],
+      "texts": [
+        "BIIKESKUS",
+        "Loetamatu tekst vitriinidel",
+        "Loetamatu tekst siltpostil"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [],
+      "snr": "029",
+      "ajad": [
+        "655.208",
+        "684.958"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist linnapilti, mille fookuses on ere tänavavalgusti. Valgusti on modernse kolmnurkse kujuga ja särab eredalt keset pimedust, valgustades ümbritsevat ala. Valguse kiirte ümber on näha sademeid, mis viitavad vihmale või lumele. Taust on udune ja fookusest väljas, moodustades kauni bokeh-efekti arvukatest linna tuledest. Need tuled on erinevat värvi ja kauguses, luues sügavuse ja urbanistliku atmosfääri. Üldmulje on rahulik ja vaikne, rõhutades öise linna ilu ja valguse rolli pimeduses.",
+      "actions": [
+        "Tänavavalgusti valgustab",
+        "Sademed langevad"
+      ],
+      "keywords": [
+        "Öö",
+        "Tänavavalgusti",
+        "Linn",
+        "Sademed",
+        "Bokeh",
+        "Udune taust",
+        "Valgus",
+        "Pimedus",
+        "Linnapilt"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Tänavavalgusti",
+        "Sademed (vihm/lumi)",
+        "Linna tuled (bokeh)",
+        "Hooned (udused taustal)"
+      ],
+      "colorcodes": [
+        "#0F0F0F",
+        "#FFFFFF",
+        "#FFD700",
+        "#FF0000",
+        "#00BFFF",
+        "#F0F8FF"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on märgatav erinevus sademete intensiivsuses ja nähtavuses tänavavalgusti ümber. Esimesel pildil on sademeid kõige rohkem ja need on selgemalt nähtavad. Teisel pildil on sademeid vähem ja need on hajusamad. Kolmandal pildil on sademeid veelgi vähem või peaaegu polegi neid näha, mis võib viidata sademete vaibumisele või ajalistele muutustele."
+      ],
+      "snr": "030",
+      "ajad": [
+        "684.958",
+        "710.208"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maapinna lähivõtet pimedas linnakeskkonnas, kus on näha märg ja peegeldav, tõenäoliselt graniidist või poleeritud kivist pind. Pind on kaetud väikeste veepiiskadega või on see märjast vihmast. Esiplaanil paremal ja keskel vasakul on näha kaks metallist silindrilist posti, mis on maasse kinnitatud. Pinnal lebavad mitmed väikesed piklikud metallist esemed, mis meenutavad kruvisid, polte või väikeseid vardaid – üks on esiplaanil parempoolse posti lähedal ja teine tagapool, postide vahel. Vasakul servas on näha mõned kollakas-pruunikad lehed. Taust on udune ja bokeh-efektiga, viidates tänavavalgustusele või teistele valguse allikatele pimedas linnas. Üldine meeleolu on sügav ja mõtisklev, rõhutades tekstuure ja peegeldusi.",
+      "actions": [],
+      "keywords": [
+        "Märg pind",
+        "metallpostid",
+        "bokeh",
+        "öö",
+        "linnakeskkond",
+        "peegeldus",
+        "detailid",
+        "graniit",
+        "sügavus",
+        "vihm",
+        "lehed"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Metallpostid",
+        "märg kivipind",
+        "väikesed metallobjektid (kruvid/poldid)",
+        "lehed",
+        "veepiisad",
+        "peegeldused",
+        "tänavavalgustus (taustal)"
+      ],
+      "colorcodes": [
+        "#3F4242",
+        "#7D7E7F",
+        "#B06925",
+        "#9E823E",
+        "#2C2D2D"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [],
+      "snr": "031",
+      "ajad": [
+        "710.208",
+        "725.125"
+      ]
+    },
+    {
+      "explanation": "Stseen on hämar ja fookus on asetatud esiplaanil olevale väikeselt tumedale, läikivale objektile, mis meenutab hokilitrit või laia ehtekivi. Objekt asub tumedal, horisontaalsete soontega või riibitud pinnal, mis paistab olevat niiske või tugevalt peegeldav, tekitades objekti all selge peegelduse. Pinnal on näha ka pisikesi helkivaid osakesi, mis annavad edasi niiskuse või valguse peegeldumise efekti. Taust on täielikult fookusest väljas, moodustades uduse bokeh-efekti mitmete suurte, ümmarguste valgusallikatega. Üks neist valgusallikatest ülaosas on soojemat, kollakasoranži tooni, teised aga jahedamat sinist või halli. Üldine atmosfäär on minimalistlik, kontemplatiivne ja veidi salapärane, rõhutades objekti isolatsiooni ja esiletõusu pimedas keskkonnas.",
+      "actions": [],
+      "keywords": [
+        "hämar",
+        "pime",
+        "bokeh",
+        "fookus",
+        "detail",
+        "peegeldus",
+        "läikiv",
+        "must",
+        "minimalistlik",
+        "salapärane",
+        "objekt",
+        "hokilitri sarnane",
+        "tekstuuriga pind"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "väike must objekt",
+        "peegeldav pind",
+        "udused valgusallikad"
+      ],
+      "colorcodes": [
+        "#0C0C0C",
+        "#2F2F32",
+        "#805D12",
+        "#4D5A68",
+        "#C8C8C8"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Pildid on identsed ja neil puuduvad erinevused."
+      ],
+      "snr": "032",
+      "ajad": [
+        "725.125",
+        "745.417"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaikset ja niisket õhtut ajaloolisel kivisillutisega väljakul, mis meenutab Tallinna Raekoja platsi. Maapind on vihmast märg ja peegeldab üksikuid tänavalaternate ning hoonete akende sooje kollaseid tulesid. Väljak on inimtühi, luues rahuliku ja kergelt melanhoolse atmosfääri. Tagaplaanil ja keskel ääristavad väljakut mitmekorruselised ajaloolised hooned erinevate fassaadidega – mõned valkjad, mõned tumedamad, enamikul punased katused. Üle hoonete kerkib silmapaistev tume kellatorn. Paremal pool on näha suure hoone müüri osa ja väikest, tumeda katusega kioski. Esiplaanil vasakul seisab puust vanker suurte ratastega, mille peale on tõmmatud heledast kangast kate, millel on osaliselt näha kiri. Taevas on sombune ja tumehall.",
+      "actions": [],
+      "keywords": [
+        "vanalinn",
+        "kivisillutis",
+        "vihmane",
+        "õhtu",
+        "videvik",
+        "ajalooline",
+        "tühi",
+        "vanker",
+        "hooned",
+        "torn",
+        "peegeldused",
+        "laternavalgus",
+        "kiosk",
+        "Tallinn",
+        "Raekoja plats"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "vanker",
+        "rattad",
+        "kangas",
+        "hooned",
+        "aknad",
+        "katused",
+        "torn",
+        "kivisillutis",
+        "tänavavalgustus",
+        "kiosk",
+        "sein",
+        "vihmavesi"
+      ],
+      "colorcodes": [
+        "#6D7B8C",
+        "#C2C6CB",
+        "#7F3A3D",
+        "#4F545B",
+        "#F7D682",
+        "#A7A796",
+        "#3B4148",
+        "#A89679"
+      ],
+      "texts": [
+        "GLAZED"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 80,
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Tekst vankri kangal muutub järjest selgemini loetavaks, olles esimesel pildil vaevu aimatav ja kolmandal pildil kõige paremini näha (sõna 'GLAZED')."
+      ],
+      "snr": "033",
+      "ajad": [
+        "745.417",
+        "765.667"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist tänavakohvikut või restorani väliterrassi, mis on paigutatud tänavakividega kaetud kõnniteele. Esiküljel ja keskel on näha mitu tühja lauda ja tooli. Laudadel on punavalgeruudulised laudlinad, mis annavad kohale klassikalise bistroo või trahteri ilme. Toolid on kerge metallraamiga ja vitspunutisega iste- ning seljatugedega. Taustal asub hoone kivisein, millesse on paigaldatud LHV pangaautomaat, mille ekraan kiirgab sinist valgust. Hoone akendel, mis asuvad kaadri vasakul ja paremal servas, peegelduvad ümbritsevad tuled ja siseruumide sisustus, luues sügavuse ja varjude mängu. Üldine meeleolu on vaikne, rahulik ja ootav, vihjates hilisele tunnile või kohviku suletud olekule.",
+      "actions": [],
+      "keywords": [
+        "tänavakohvik",
+        "öö",
+        "tühjad lauad",
+        "pangaautomaat",
+        "LHV",
+        "restoran",
+        "terrass",
+        "vaikus",
+        "ootus",
+        "punavalgeruuduline",
+        "tänav",
+        "hoone"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "laud",
+        "tool",
+        "laudlina",
+        "pangaautomaat",
+        "hoone",
+        "aken",
+        "tänavakivi",
+        "sein",
+        "klaas",
+        "peegeldus"
+      ],
+      "colorcodes": [
+        "#1e2023",
+        "#c12c2a",
+        "#f5f5f5",
+        "#6076c4",
+        "#3e4144"
+      ],
+      "texts": [
+        "LHV"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [],
+      "snr": "034",
+      "ajad": [
+        "765.667",
+        "798.792"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab väljas asuvat korvpalliplatsi, mis on tühjalt ja vaikselt esiplaanil. Plats on tumedat halli värvi ja sellel on näha kolm korvpallikonstruktsiooni: üks suur, valge ja kokkupandud või transpordiasendis lamav korvilaud, mis on varustatud läbipaistva klaasist tahvliga, ning kaks väiksemat, valget, seisvat korvilauda, millest üks asub platsi keskel paremal ja teine paremal ääres. Tagaplaanil domineerib kõrge, vana kivimüür või kindluse osa, mis asub künkal. Müüri peal on näha hooneid akendega, millest mitmes põleb valgus, viitades hämarusele või ööle. Samuti on müüri vasakpoolses osas näha kitsas ümmargune torn. Müüri esine küngas on kaetud tumeda taimestikuga, kus paistavad hõredad, lehtedeta puud ja põõsad, mis viitavad külmale aastaajale. Vasakul ääres on näha osa aiast. Üldine õhkkond on jahe, vaikne ja veidi melanhoolne.",
+      "actions": [],
+      "keywords": [
+        "korvpalliplats",
+        "kindlus",
+        "müür",
+        "Toompea",
+        "Tallinn",
+        "hämarik",
+        "talv",
+        "sügis",
+        "külm",
+        "spordiplats",
+        "tühi",
+        "arhitektuur",
+        "ajalooline",
+        "torn"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "korvpalliplats",
+        "korvpallikonstruktsioon",
+        "korvilaud",
+        "klaasist tahvel",
+        "kivimüür",
+        "kindlus",
+        "torn",
+        "hoone",
+        "aken",
+        "valgus",
+        "puud",
+        "põõsad",
+        "aed",
+        "infosilt"
+      ],
+      "colorcodes": [
+        "#59616F",
+        "#827E7A",
+        "#434446",
+        "#D5D5D5",
+        "#3A3D3C",
+        "#E0A050"
+      ],
+      "texts": [
+        "loetamatu tekst infosildil"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "evening",
+      "differences": [],
+      "snr": "035",
+      "ajad": [
+        "798.792",
+        "830.833"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia, tühja linnatänavat, mis on palistatud nii vanema kui kaasaegse arhitektuuriga hoonete poolt, tõenäoliselt varahommikusel või hilisõhtusel hämarikul. Teed katab asfalt ja sellel on selged sõidurajamärgistused. Vasakul pool tänavat domineerivad vanemad, klassikalise euroopaliku stiiliga hooned rõdude ja traditsiooniliste akendega, samas kui kaugemal ja paremal pool kerkivad esile moodsad klaasist ja terasest pilvelõhkujad. Mõned moodsad hooned kannavad äratuntavaid silte nagu „swissôtel“, „STOCKMANN“ ja „Radisson Blu“. Taevas on selge, sinakashalli varjundiga, horisondi poole heledamaks muutuv, kus madalalt paistev päike valgustab teatud hoonefassaade kollaka-oranži tooniga. Tänaval on näha tänavavalgusteid ja vasakul pool asuval ristmikul põleb roheline liiklusvalgus. Stseenis puuduvad täielikult autod ja inimesed, mis annab sellele vaikse ja peaaegu sürreaalse õhustiku. Puud on kas raagus või alles hakkavad lehte minema, viidates kevadele või hilissügisele.",
+      "actions": [
+        "Vaatlemine",
+        "Edasiliikumine (kaamera liikumine)"
+      ],
+      "keywords": [
+        "Linnatänav",
+        "Tühjus",
+        "Hämarik",
+        "Pilvelõhkujad",
+        "Vana arhitektuur",
+        "Kaasaegne arhitektuur",
+        "Liiklusvalgus",
+        "Tallinn",
+        "Varahommik",
+        "Kevad"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Asfalttee",
+        "Märgistus",
+        "Tänavavalgusti",
+        "Liiklusvalgus",
+        "Hoone",
+        "Pilvelõhkuja",
+        "Puu",
+        "Põõsas",
+        "Elektriliinid",
+        "Plakat",
+        "Silt",
+        "Piire",
+        "Aken",
+        "Uks",
+        "Rõdu"
+      ],
+      "colorcodes": [
+        "#66788e",
+        "#2e3034",
+        "#a09e99",
+        "#3a3f44",
+        "#2e7a3e",
+        "#d49a60"
+      ],
+      "texts": [
+        "swissôtel",
+        "STOCKMANN",
+        "muusika",
+        "Radisson Blu",
+        "AZERA",
+        "Fläck",
+        "Circle K",
+        "LUCKY",
+        "R-Kiosk",
+        "Rimi",
+        "Narva mnt.",
+        "F-kaubamaja"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "95",
+      "season": "spring",
+      "daytime": "morning",
+      "differences": [
+        "Kaamera asukoht muutub järk-järgult, liikudes iga pildiga veidi edasi mööda teed.",
+        "Perspektiiv avardub iga pildiga veidi paremale, paljastades rohkem tänavat ja parempoolseid hooneid.",
+        "Mõned objektid, nagu 'STOCKMANN' silt ja kaugemal asuvad hooned (nt Radisson Blu), muutuvad järjest selgemaks ja detailsemaks.",
+        "Vasakul olev roheline liiklusvalgus nihkub kaadri servale ja jääb järjest vähem fookusesse, kui kaamera edasi liigub.",
+        "Päikesevalgus tabab erinevaid hooneid veidi erineva nurga alt, pakkudes nüansierinevusi valgustuses, eriti parempoolsetel fassaadidel."
+      ],
+      "snr": "036",
+      "ajad": [
+        "830.833",
+        "862.125"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia, suurlinna tänavat, mis on valdavalt inimestest ja autodest tühi, andes edasi vaikse ja mõnevõrra inimtühja atmosfääri. Mõlemal pool tänavat kõrgub rida moodsaid, mitmekorruselisi hooneid, millest paljudel on peegeldavad klaasfassaadid, mis peegeldavad helesinist taevast ja ümbritsevat linna. Valgus on pehme, vihjates varahommikule või hilisõhtule, luues pikki varje, mis annavad stseenile sügavust. Tänav on lai ja hästi markeeritud sõiduradade ning ülekäiguradadega. Lisaks on nähtav mitmeid valgusfoore (mõned punaselt põlevad), tänavavalgusteid ja liiklusmärke, mis viitavad aktiivsele linnakeskkonnale. Hoonefassaadidel ja tänavate ääres on suured reklaamtahvlid ja digiekraanid, mis pakuvad erinevaid kaubamärke ja sõnumeid. Üldmulje on kaasaegsest linnast, mis ootab elama asumist või on just vaikseks jäänud.",
+      "actions": [],
+      "keywords": [
+        "Linnatänav",
+        "Tühi",
+        "Modernne arhitektuur",
+        "Pilvelõhkujad",
+        "Klaasfassaadid",
+        "Reklaamid",
+        "Valgusfoorid",
+        "Ristmik",
+        "Varahommik",
+        "Hilisõhtu",
+        "Vaikus",
+        "Tallinn",
+        "Ärihooned"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hooned",
+        "Pilvelõhkujad",
+        "Tänav",
+        "Asfalt",
+        "Valgusfoorid",
+        "Tänavavalgustid",
+        "Liiklusmärgid",
+        "Ülekäigurada",
+        "Reklaamtahvlid",
+        "Digiekraanid",
+        "Sõidurajad",
+        "Jalgrada",
+        "Peegeldused",
+        "Aknad",
+        "Postid",
+        "Pankade hooned",
+        "Kaubanduskeskus (võimalik)"
+      ],
+      "colorcodes": [
+        "#A0B3C9",
+        "#333C4A",
+        "#8D8D8D",
+        "#CA633A",
+        "#333333",
+        "#FFFFFF",
+        "#FF0000"
+      ],
+      "texts": [
+        "MANN",
+        "my sushi",
+        "STREET FOOD",
+        "Bigbank",
+        "6:31",
+        "Colonia",
+        "EuroPark",
+        "AVATUD 24H"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "morning",
+      "differences": [
+        "Kaamera asukoht muutub, liikudes mööda tänavat edasi, pakkudes iga kaadriga uue nurga ja uusi objekte.",
+        "Reklaamtahvlite ja hoonete detailid muutuvad paremini nähtavaks või kaovad vaateväljast kaamera liikumise tõttu.",
+        "Esimene kaader näitab rohkem ristmiku vasakut poolt ja MANN kaubanduskeskust, samas kui viimane kaader keskendub kaugemal olevatele hoonetele ja ristmiku paremale poolele.",
+        "Bigbanki digiekraanil olev kellaaeg (6:31) on kõige selgemalt nähtav esimeses kaadris."
+      ],
+      "snr": "037",
+      "ajad": [
+        "862.125",
+        "877.667"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia ja tühja linnatänavat päikesetõusu või -loojangu ajal. Taevas on heledates roosakates, oranžikates ja hallikassinistes toonides, mis annavad edasi varajase hommiku või hilise õhtu meeleolu. Tänaval on mitu sõidurada, sealhulgas trammiteed vasakpoolsel poolel ja spetsiaalne bussirada paremal pool, kuhu on valge värviga kirjutatud sõna \"BUS\". Kummalgi pool teed ääristavad paljad puud, mille oksad on ilma lehtedeta, viidates hilissügisele, talvele või varakevadele. Paremal pool on näha pikk rida tänavavalgusteid ja posti otsas olevaid elektriliine, mis ristuvad üle tee. Vasakul pool on mitmekorruselised hooned, millest lähim on kaasaegse stiiliga, ja kaugemal paistavad teised linnaehitised, sealhulgas kõrgemad hooned siluettidena paremal pool. Stseen on vaikne ja peaaegu inimtühi; teel on vaid mõned pargitud autod ning kauguses liikuvaid sõidukeid vaevu aimatav. Üldmulje on rahulik ja meditatiivne.",
+      "actions": [
+        "ei ole tuvastatav",
+        "liiklus ooterežiimis",
+        "linna elu ärkamine/vaibumine"
+      ],
+      "keywords": [
+        "linn",
+        "tänav",
+        "tee",
+        "trammiteed",
+        "bussirada",
+        "hooned",
+        "puud",
+        "päikesetõus",
+        "päikeseloojang",
+        "hommik",
+        "õhtu",
+        "tühjus",
+        "vaikus",
+        "linnavaade",
+        "tänavavalgustus",
+        "taristu",
+        "arhitektuur",
+        "lehtedeta puud",
+        "kevad",
+        "sügis",
+        "talv"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "tee",
+        "tänav",
+        "trammirööpad",
+        "sõidurada",
+        "bussirada",
+        "kõnnitee",
+        "hooned",
+        "puud",
+        "tänavavalgustid",
+        "elektriliinid",
+        "tänavapostid",
+        "liiklusmärgid",
+        "pargitud autod",
+        "bussipeatus",
+        "prügikast"
+      ],
+      "colorcodes": [
+        "#F0E4D9",
+        "#B7A699",
+        "#8C827B",
+        "#3D3833",
+        "#736862",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "BUS"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "80",
+      "season": "winter, spring, autumn",
+      "daytime": "morning, evening",
+      "differences": [
+        "Kaameravaade nihkub minimaalselt edasi ja veidi paremale iga kaadriga.",
+        "Parempoolse bussiraja tekst \"BUS\" muutub asukohalt pisut lähemale ja kaadri keskele.",
+        "Vasakpoolse ääre hoone nihkub kaadri servast veidi sissepoole, olles igas järgnevas kaadris pisut suurem ja lähemale tulnud.",
+        "Üldine perspektiiv nihkub õrnalt, avades rohkem teed kaadri esiplaanil."
+      ],
+      "snr": "038",
+      "ajad": [
+        "877.667",
+        "913.125"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia, tühja linnatänavat päikesetõusu või -loojangu ajal varakevadel. Tänav on mitmerealine, selle keskel kulgevad trammirööpad. Mõlemal pool tänavat ääristavad paljad puud, mille oksad on ilma lehtedeta. Taevas on pastelltoonides, pehmete oranžikate ja roosakate varjunditega horisondi lähedal, mis sulanduvad helesiniseks ja halliks kõrgemale tõustes. Tänav on vaikne ja peaaegu inimtühi, vaid mõned autod on pargitud vasakule ja paremale tee äärde. Paremal pool tänavat, kauguses, kõrgub silmapaistev modernne kõrghoone, vasakul aga on näha parklaala ja madalamaid hooneid. Tänaval on selged valged märgistused, sealhulgas reguleerimata ülekäigurajad ja sõidurajajooned. Üleval taevas ristuvad mitmed elektriliinid, mis viitavad trammide või trollibusside olemasolule. Tänavavalgustid on paigutatud tee äärde ja bussipeatuse konstruktsioonid on näha paremal pool.",
+      "actions": [],
+      "keywords": [
+        "Linnatänav",
+        "koidik",
+        "hämarik",
+        "tühjus",
+        "trammirööpad",
+        "paljad puud",
+        "linnapilt",
+        "arhitektuur",
+        "pastelltaevas",
+        "vaikne",
+        "varakevad",
+        "tänavavalgustus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Tänav",
+        "asfalttee",
+        "trammirööpad",
+        "ülekäigurajad",
+        "sõidurajajooned",
+        "paljad puud",
+        "tänavavalgustid",
+        "elektriliinid",
+        "kõrghoone",
+        "madalamad hooned",
+        "pargitud autod",
+        "bussipeatus",
+        "prügikastid",
+        "liiklusmärgid",
+        "reklaamstendid"
+      ],
+      "colorcodes": [
+        "#E0B4A0",
+        "#90A0B0",
+        "#505050",
+        "#303030",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 70,
+      "season": "spring",
+      "daytime": "morning",
+      "differences": [
+        "Kaamera on piltide vahel veidi paremale liikunud või panoraaminud. Esimene kaader näitab stseeni vasakpoolsemat osa, teine on keskmine vaade ja kolmas kaader on nihutatud kõige paremale. See annab laiemapõhjalise ülevaate tänavast, nihutades objekte kaadris vasakule (näiteks kõrghoone liigub kaadris järk-järgult vasakule, kui kaamera paremale panoraamib)."
+      ],
+      "snr": "039",
+      "ajad": [
+        "913.125",
+        "919.375"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia, tühja linnatänavat või puiesteed varahommikuses valguses. Taevas on pastelselt roosakas-lillakas toon, mis viitab päikesetõusule. Tee on asfalteeritud ja selle keskel kulgevad paralleelselt trammirööpad. Valged teemärgistused ja sõidurajad juhivad pilku kaugusesse. Kummalgi pool teed on laiad kõnniteed. Paremal pool ääristavad tänavat rivis pikad, raagus lehtpuud, mis heidavad pikki varje ja annavad stseenile varakevadise või hilissügisese ilme. Vasakul pool on samuti raagus puud, mis asuvad kõrgemal haljasalal või pargis. Tänaval on arvukalt tänava valgusteid pikkadel postidel, mille modernne disain on iseloomulik linnaarhitektuurile. Mõned tuled paistavad olevat põlemas või peegeldavad valgust. Taevas on näha rippuvaid kontaktliine, mis viitavad ühistranspordi, tõenäoliselt trammide või trollibusside olemasolule. Paremal pool on näha kaasaegseid kõrghooneid, millest üks on heledast klaasist ja terasest fassaadiga ning mitu bussipeatust või varjualust. Vasakul ees on madalam punane kioski-sarnane ehitis. Stseen on vaikne ja peaaegu inimtühi, luues rahuliku ja mõtiskleva atmosfääri keset linna.",
+      "actions": [
+        "Päike tõuseb või loojub",
+        "Valgus paistab tänavale",
+        "Trass kulgeb kaugusesse"
+      ],
+      "keywords": [
+        "Linnatänav",
+        "Puiestee",
+        "Varahommik",
+        "Päikesetõus",
+        "Raagus puud",
+        "Trammirööpad",
+        "Tühi tänav",
+        "Modernne arhitektuur",
+        "Tänavavalgustus",
+        "Kontaktliinid",
+        "Kõrghoone",
+        "Bussipeatus",
+        "Vaikus",
+        "Urbanistlik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Asfalttee",
+        "Trammirööpad",
+        "Teemärgistused",
+        "Kõnniteed",
+        "Lehtpuud",
+        "Tänavavalgustid",
+        "Kontaktliinid",
+        "Kõrghooned",
+        "Bussipeatused",
+        "Varjualused",
+        "Kiosk",
+        "Park",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#D0B0B8",
+        "#AFA4A8",
+        "#4C4E53",
+        "#3A383D",
+        "#B0AFAE"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "95",
+      "season": "spring",
+      "daytime": "morning",
+      "differences": [
+        "Piltide vahel on väga väike kaamera fookuse või suumi muutus, mille tulemusena on esimene pilt veidi kitsam ja teine ning kolmas pilt näitavad horisontaalselt pisut laiemat vaadet."
+      ],
+      "snr": "040",
+      "ajad": [
+        "919.375",
+        "921.875"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia, tühja linnatänavat varahommikul või hilisõhtul. Taevas on kahvatu roosakas-halli tooniga, mis annab stseenile vaikse ja rahustava atmosfääri. Tänaval on mitu sõidurada, sealhulgas keskel asuvad trammi- või trollibussiliinide jaoks mõeldud rööpad ja nendest kõrgemal rippuvad elektriliinid. Vasakul ja paremal pool tänavat ääristavad paljad puud, millel pole lehti, viidates hilissügisele või talvele. Paremal pool on näha mõned bussiootepaviljonid ja liiklussildid. Tähelepanu tõmbab paremal pool asuv kõrge, modernistlik hoone, mis peegeldab õrna päevavalgust. Tänav on inimestest ja autodest tühi, mis rõhutab stseeni vaikust ja rahu. Valgustuspostid ja tänavavalgustid on rivistatud tee äärde. Üldmulje on vaikne ja mahajäetud linnamaastik, kus valitseb rahu enne päevase sagina algust või pärast selle vaibumist.",
+      "actions": [],
+      "keywords": [
+        "tühi tänav",
+        "linnamaastik",
+        "videvik",
+        "varahommik",
+        "hilissügis",
+        "talv",
+        "paljad puud",
+        "trammiteed",
+        "kõrghoone",
+        "vaikne",
+        "rahulik",
+        "tänavavalgustus",
+        "elektriliinid",
+        "linn",
+        "teed",
+        "bussipeatus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "tänav",
+        "sõidurajad",
+        "trammirööpad",
+        "elektriliinid",
+        "tänavavalgustid",
+        "puud",
+        "hooned",
+        "kõrghoone",
+        "bussipeatused",
+        "ootepaviljonid",
+        "liiklussildid",
+        "teemärgistused",
+        "kõnnitee",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#A69FA4",
+        "#B9A4A3",
+        "#D0C3C2",
+        "#4E5155",
+        "#3D4044",
+        "#3A3533",
+        "#D1D1D1",
+        "#ADACAD",
+        "#2B2B2B"
+      ],
+      "texts": [
+        "BUS"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "winter",
+      "daytime": "morning",
+      "differences": [
+        "Piltide vahel on näha väga peeneid erinevusi kaamera asendis ja vaatenurgas, mis viitavad sellele, et tegemist on järjestikuste kaadritega videost. Kaamera on veidi edasi liikunud või nurka muutnud, mille tõttu on tänavavalgustite, puude ja hoonete proportsioonid ja asetus kaadris minimaalselt nihkunud. Eelkõige on märgata valguse peegeldumist parempoolsel kõrghoonel, mis muutub piltide vahel veidi."
+      ],
+      "snr": "041",
+      "ajad": [
+        "921.875",
+        "925.625"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia ja tühja linnatänavat varahommikul või hilisõhtul, kui valgus on pehme ja taevas on kahvatu roosakas-hallikas toon. Tänav on lai, kahesuunaline, eraldiseisvate trammiteedega keskel ja paremal äärel on selgelt märgistatud bussirada. Mõlemal pool tänavat paiknevad kõrged, raagus puud, mis viitavad hilissügisele, talvele või varakevadele. Horisondil ja tänavat ääristamas on näha mitmekorruselisi hooneid, sealhulgas üks silmapaistev valge kõrghoone, mis domineerib taamal. Üle tänava on tõmmatud elektriliinid trammide jaoks ja tänavavalgustuspostid ääristavad teed. Paremal tänavaservas on bussipeatuse varjualune koos infotahvlite ja liiklusmärkidega. Teekattel on näha kollaseid ja valgeid jooni ning märge \"BUS\". Stseenis puuduvad igasugused inimesed ja sõidukid, luues vaikse ja rahuliku, peaaegu mahajäetud õhustiku.",
+      "actions": [
+        "puudub liikumine",
+        "stseen on staatiline"
+      ],
+      "keywords": [
+        "linnatänav",
+        "tühi tänav",
+        "hommikuhämarus",
+        "päikesetõus",
+        "raagus puud",
+        "trammitee",
+        "bussirada",
+        "kõrghoone",
+        "linnaruum",
+        "talv",
+        "kevad",
+        "vaikus",
+        "varahommik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "tänav",
+        "trammitee",
+        "bussirada",
+        "puud",
+        "kõrghoone",
+        "hooned",
+        "tänavavalgustuspostid",
+        "elektriliinid",
+        "bussipeatus",
+        "liiklusmärgid",
+        "valge kõrghoone",
+        "reklaamtahvel",
+        "äärekivi",
+        "piirdeaed",
+        "valged triibud teel",
+        "kollased triibud teel"
+      ],
+      "colorcodes": [
+        "#C0B0B0",
+        "#4F5253",
+        "#3A332C",
+        "#E2E2E2",
+        "#E8E870",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "BUS",
+        "P",
+        "1",
+        "7",
+        "4",
+        "3"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "95",
+      "season": "spring",
+      "daytime": "morning",
+      "differences": [
+        "Kaamera positsioon nihkub piltide vahel kergelt paremale, muutes kaadri fookust.",
+        "Esimesel pildil on teele kirjutatud \"BUS\" selgemini nähtav ja keskmisemal kohal, teisel pildil on see veidi nihkunud ja kolmandal on see peaaegu kaadrist väljas või raskesti loetav.",
+        "Valge kõrghoone paistab esimesel pildil kaadri keskosas ja nihkub järjestikustel piltidel kergelt vasakule.",
+        "Paremal asuv bussipeatuse varjualune ja sildid on iga pildiga kaadrisse toodud veidi erinevast nurgast, muutudes iga pildiga justkui \"lähemaks\" paremale servale."
+      ],
+      "snr": "042",
+      "ajad": [
+        "925.625",
+        "929.375"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab linna siluetti koidiku või hämariku ajal. Taevas on domineerivalt pastelses oranzikas-roosas toonis, luues sooja ja rahuliku atmosfääri. Horisondi all on näha tumedate puude siluette ja pildi keskel esiplaanil on suur valge, kuplikujuline ehitis, mis võib olla spordihall või muu suur kate. Selle taga, pildi keskel, domineerib kõrge, mitmekorruseline tume hoone, mis tõuseb esile tausta vastu. Vasakul ja paremal pool on näha ka teisi linna hooneid, mis sulanduvad horisondi tumedasse joonesse. Üldine meeleolu on rahulik ja vaikne, linn on justkui ärkamas või päevast puhkama minemas.",
+      "actions": [],
+      "keywords": [
+        "linnavaade",
+        "siluett",
+        "koidik",
+        "hämarik",
+        "päikeseloojang",
+        "päikesetõus",
+        "hooned",
+        "puud",
+        "kuppel",
+        "taevas",
+        "pastelsed toonid",
+        "rahulik",
+        "vaikne"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "hooned",
+        "puud",
+        "kuppel",
+        "taevas",
+        "linnahorisont"
+      ],
+      "colorcodes": [
+        "#ED9F8D",
+        "#E39587",
+        "#D98C81",
+        "#2D2D2D"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "morning",
+      "differences": [
+        "Pildid on identsed, erinevused puuduvad."
+      ],
+      "snr": "043",
+      "ajad": [
+        "929.375",
+        "934.792"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud looma siluett hämaruses või öises linnamaastikus. Esiplaanil, madalal künkakesel või maapinnal lamab paremale poole vaatav piklike sarvedega loom, tõenäoliselt kits või kaljukits. Tema keha on tumedas siluetis, vaid seljale langeb õrn valguskiir, mis valgustab kergelt looma profiili. Ta on pööratud vaatajast eemale, vaadates horisondi suunas. Taustal asuvad mitmekorruselised hooned, mis on häguselt fookusest väljas, kuid nende kontuurid on selgelt nähtavad. Paljudes hoonete akendes põlevad tuled, luues sooja oranzhi, kollase ja vahetevahel ka sinaka helenduse, mis viitab inimtegevusele ja elule. Üldine valguse tase on madal, taevas on sügav purpur-sinakas toon, mis sobitub kokku tumeda maastikuga. Vasakul on näha paljaste okstega puu või põõsa siluett. Stseenis valitseb rahulik ja mõtisklev meeleolu, mis toob esile kontrasti looduse ja linnaelamiste vahel.",
+      "actions": [
+        "Loom lamab",
+        "Aknad helendavad"
+      ],
+      "keywords": [
+        "Loom",
+        "Kits",
+        "Kaljukits",
+        "Siluett",
+        "Linn",
+        "Linnamaastik",
+        "Öö",
+        "Hämarus",
+        "Videvik",
+        "Hoone",
+        "Aknad",
+        "Valgus",
+        "Kontrast",
+        "Rahulik",
+        "Vaikus",
+        "Loodus linnas"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Kits",
+        "Kaljukits",
+        "Maa",
+        "Pinnas",
+        "Hoone",
+        "Aken",
+        "Valgus",
+        "Puu"
+      ],
+      "colorcodes": [
+        "#41424b",
+        "#282828",
+        "#cc9955",
+        "#e0a040",
+        "#4090c0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kõik kolm pilti on identsed, erinevusi ei esine."
+      ],
+      "snr": "044",
+      "ajad": [
+        "934.792",
+        "963.500"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mägist või kivist maastikku hämaruse või päikeseloojangu ajal, kus pruunika karvkattega ulukid, tõenäoliselt tahrud või metsikud kitsed, on kogunenud. Maapind on kaetud kruusa, kivide ja hõreda taimestikuga. Taustal paistab hele, kahvatu taevas ja paremal pool horisondil on näha udust võsa või põõsastikku. Valgus on pehme ja kuldne, langedes looma(de)le paremalt. Loomad on piltidel erinevates asendites, mõned neist on pööratud kaamerast eemale ja teised vaatavad otse kaamerasse, olles valvsad oma ümbruse suhtes.",
+      "actions": [
+        "Seisavad",
+        "Vaatavad kaamerasse",
+        "Pöörduvad"
+      ],
+      "keywords": [
+        "Ulukid",
+        "Mägikitsed",
+        "Tahrud",
+        "Mägine maastik",
+        "Päikeseloojang",
+        "Hämarus",
+        "Kivine",
+        "Loomad",
+        "Pruun",
+        "Valvsa",
+        "Metsik loodus",
+        "Karvased"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Tahrud (või metsikud kitsed)",
+        "Kivid",
+        "Kruus",
+        "Mäenõlv",
+        "Taevas",
+        "Hõre taimestik",
+        "Põõsastik"
+      ],
+      "colorcodes": [
+        "#6B5C4E",
+        "#A89F95",
+        "#CED4DB",
+        "#4F4944",
+        "#8C7A6B"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Piltidel on erinev arv loomi: esimesel pildil on näha kaks looma, teisel ja kolmandal pildil kolm looma.",
+        "Loomade asend ja suund muutub: esimesel pildil on üks loom kaamerast eemale pööratud, kuid vaatab üle õla kaamerasse, teine on täiesti kaamerast eemale pööratud. Teisel ja kolmandal pildil vaatavad enamik loomi otse kaamerasse.",
+        "Loomade paigutus kaadris muutub, ilmudes ja liikudes kaamera poole."
+      ],
+      "snr": "045",
+      "ajad": [
+        "963.500",
+        "989.042"
+      ]
+    },
+    {
+      "explanation": "Stseen algab meditatiivse kaadriga, kus naine on näha seljaga, vaadates aknast välja päikesetõusu või -loojangu ajal. Tema siluett on tumedalt esile tõstetud akna ees, kus samuti tumedas siluetis on näha okkaline aaloe taim. Väljas paistab taevas pehmetes hallides, roosakates ja oranžides toonides, luues rahuliku ja kergelt melanhoolse meeleolu. Seejärel muutub stseen järsult mustaks taustaks valge tekstiga, mis näitab filmi tiitreid. Esiteks ilmuvad ekraanile 'SUPERVISORS' ja kolme isiku nimed: Madli Lääne-Metsalu, Kersti Uibo ja Riho Västrik. Järgmisena kuvatakse mustal taustal 'Estonian Film Institute' ja 'CULTURAL ENDOWMENT OF ESTONIA' logod koos teksti ja autoriõiguse märkusega 'B F M © 2 0 2 0'.",
+      "actions": [
+        "Aknast välja vaatamine",
+        "Mõtiskluses viibimine",
+        "Tiitrite ja logode kuvamine"
+      ],
+      "keywords": [
+        "Hämarik",
+        "Päikesetõus",
+        "Päikeseloojang",
+        "Siluett",
+        "Aaloe",
+        "Aken",
+        "Kontemplatsioon",
+        "Rahulik",
+        "Melanhoolne",
+        "Filmikrediidid",
+        "Logod",
+        "Must taust",
+        "Valge tekst",
+        "Lõpptiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Aaloe taim",
+        "Aken",
+        "Taevas",
+        "Tekst",
+        "Logod"
+      ],
+      "colorcodes": [
+        "#38312e",
+        "#b0a7a4",
+        "#c09d94",
+        "#766d6b",
+        "#000000",
+        "#ffffff"
+      ],
+      "texts": [
+        "SUPERVISORS",
+        "MADLI LÄÄNE - METSALU",
+        "KERSTI UIBO",
+        "RIHO VÄSTRIK",
+        "Estonian Film Institute",
+        "CULTURAL ENDOWMENT OF ESTONIA",
+        "B F M © 2 0 2 0"
+      ],
+      "persons": [
+        "Naine",
+        "Madli Lääne-Metsalu",
+        "Kersti Uibo",
+        "Riho Västrik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "morning or evening",
+      "differences": [
+        "Esimene kaader kujutab reaalset stseeni pehmete värvidega, tekitades intiimse ja mõtliku atmosfääri, samas kui järgnevad kaadrid on mustvalged tekstipõhised ekraanid, mis esitavad filmi krediite ja logosid.",
+        "Visuaalsest loost ja värvidest üleminek abstraktsele tekstile."
+      ],
+      "snr": "046",
+      "ajad": [
+        "989.042",
+        "1030.208"
+      ]
+    }
+  ]
+}

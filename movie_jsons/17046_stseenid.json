@@ -1,0 +1,2742 @@
+{
+  "film": [
+    "17046",
+    "16924",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Tosin küsimust Eesti kohta: Kas Eestis elavad jääkarud?",
+    "bab0a5f60b1465ed333b886da8512243b7dc462c.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täiesti musta ekraaniga. Hetke pärast ilmub ekraani keskele valge, selge ja kergesti loetav sans-serif fondis küsimus eesti keeles: \"Kas Eestis elavad jääkarud?\". Tekst on kontrastselt mustal taustal ja jääb ekraanile lühikeseks ajaks. Pärast küsimuse kuvamist muutub ekraan taas täiesti mustaks. Stseen on minimalistlik ja keskendub vaid tekstilise informatsiooni edastamisele, ilma igasuguste visuaalsete lisadetailideta.",
+      "actions": [
+        "Teksti ilmumine ekraanile",
+        "Teksti ekraanil kuvamine",
+        "Teksti kadumine ekraanilt"
+      ],
+      "keywords": [
+        "Küsimus",
+        "Must taust",
+        "Valge tekst",
+        "Informatiivne",
+        "Minimalistlik",
+        "Eesti keel",
+        "Jääkarud"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Kas Eestis elavad jääkarud?"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "95",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene ja kolmas pilt on täiesti mustad, samas kui teisel pildil on keskel valge tekst \"Kas Eestis elavad jääkarud?\" mustal taustal."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "18.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab punase puitmaja ülemist osa tumeda viilkatuse ja pilvise taeva taustal. Maja fassaadil on kaks valge raamiga akent, mille taga ripuvad heledad pitskardinad. Vasakpoolses aknas paistavad punased õied. Parempoolsel aknaroodul on näha erekollane liblika kujutis. Maja alumine osa on kaetud lopsaka rohelise ronitaimega, mis ulatub akendeni. Stseeni arenedes ilmub parempoolsesse aknasse blondide juustega väike laps, kes vaatab välja, seejärel avab akna ülemise osa ja lehvitab käega. Valgus on hämar, viitades õhtuhämarusele või pilvisele päevale.",
+      "actions": [
+        "lapse ilmumine aknasse",
+        "akna avamine",
+        "lehvitamine"
+      ],
+      "keywords": [
+        "punane maja",
+        "puitmaja",
+        "viilkatus",
+        "aknad",
+        "laps",
+        "lehvitamine",
+        "liblikas",
+        "pitskardinad",
+        "ronitaimed",
+        "õhtuhämarus",
+        "pilvine taevas"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "maja",
+        "viilkatus",
+        "aknad",
+        "aknaklaas",
+        "aknalauad",
+        "aknarraamid",
+        "pitskardinad",
+        "lilled",
+        "liblika kujutis",
+        "ronitaimed",
+        "taevas",
+        "akna avamismehhanism"
+      ],
+      "colorcodes": [
+        "#5A2E2D",
+        "#3B4D3A",
+        "#4C575C",
+        "#E0E0E0",
+        "#E2D962"
+      ],
+      "texts": [],
+      "persons": [
+        "laps (tüdruk)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "summer",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil pole aknas kedagi näha, vaid erekollane liblika kujutis.",
+        "Teisel pildil ilmub parempoolsesse aknasse blondide juustega laps, kes vaatab välja. Liblika kujutis on endiselt näha.",
+        "Kolmandal pildil on laps avanud parempoolse akna ülemise osa ja lehvitab käega. Liblika kujutis on endiselt näha."
+      ],
+      "snr": "002",
+      "ajad": [
+        "18.400",
+        "25.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort poissi, kes seisab varjulisel rohelisel muruplatsil aiaga ümbritsetud piirkonnas. Vaade on ülalt, tõenäoliselt läbi puidust aknaraami, mis on nähtav pildi paremas ülemises servas. Poiss on riietatud sinise nokamütsi, musta-sinise-valgekirju jope, hallide pükste ja siniste kummikutega. Ta vaatab üles kaamera (või akna taga seisva isiku) poole, tema suu on kergelt avatud ja näoilme viitab üllatusele, küsimusele või kellegi poole pöördumisele. Tema ümber ja taga on tihe roheline taimestik, vasakul pool on näha roosade õitega pojenge ja valgeid nartsisse meenutavaid lilli. Üldine valgus on sume ja hämar, mis loob rahuliku, kuid veidi melanhoolse atmosfääri. Stseeni vältel poisi kehahoiak ja näoilme kergelt muutuvad, viidates arenevale suhtlusele või reaktsioonile.",
+      "actions": [
+        "Poiss vaatab üles",
+        "Poiss räägib või kutsub kedagi",
+        "Poiss žestikuleerib käega"
+      ],
+      "keywords": [
+        "Aed",
+        "Muruplats",
+        "Poiss",
+        "Lapsed",
+        "Aknaraam",
+        "Ülevaade",
+        "Hämarik",
+        "Suhtlus",
+        "Pojengid",
+        "Kummikud"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Muru",
+        "Põõsad",
+        "Pojengid",
+        "Valged lilled (nartsissid)",
+        "Puidust aknaraam",
+        "Poiss",
+        "Nokamüts",
+        "Jope",
+        "Püksid",
+        "Kummikud"
+      ],
+      "colorcodes": [
+        "#3f4d34",
+        "#2d3a2a",
+        "#6b4d36",
+        "#c48da4",
+        "#4a639b",
+        "#e2e2e7"
+      ],
+      "texts": [],
+      "persons": [
+        "Poiss"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "spring",
+      "daytime": "evening",
+      "differences": [
+        "Poisi vasaku käe asend muutub, pildil 2 on see kõige kõrgemal, justkui vehiks või kutsuks, pildil 3 veidi madalamal.",
+        "Poisi suu avatus ja näoilme muutuvad kergelt: esimesel pildil on ta kergelt üllatunud või segaduses, samas kui piltidel 2 ja 3 on suu laiemalt avatud, vihjates aktiivsemale rääkimisele või kutsumisele."
+      ],
+      "snr": "003",
+      "ajad": [
+        "25.960",
+        "27.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maaelu miljööd hämaras või pilvisel õhtul. Keskmes on kaks inimest, tõenäoliselt lapsed või noored, kes liiguvad üle rohelise põllu või muruväljaku. Üks neist kannab heledat kootud mütsi ja jopet, teine, heledate juustega, kannab värvilise disainiga seljakotti ja on paljajalu. Nad jalutavad alguses rahulikumalt, seejärel kiiremini, tõmmates enda järel väikest rohelist käru, mis on kinnitatud vana, kollakas-pruuni traktori külge. Traktor seisab läbipaistvast materjalist (tõenäoliselt kile või klaas) kasvuhoone kõrval. Taamal laotub roheline põld, mille taga on näha tihe mets. Taevas on tume ja pilvine, andes stseenile mõtliku või melanhoolse tooni. Üldine õhkkond on rahulik, kuid samal ajal dünaamiline inimeste liikumise tõttu. Paremal esiplaanil on näha tumedat lehestikku, mis raamib vaadet. Stseen on üldiselt tumedates ja summutatud toonides.",
+      "actions": [
+        "Jalutamine",
+        "Jooksmine",
+        "Käru vedamine",
+        "Liikumine üle põllu"
+      ],
+      "keywords": [
+        "Maastik",
+        "Maaelu",
+        "Videvik",
+        "Hämarus",
+        "Lapsed",
+        "Noored",
+        "Kasvuhoone",
+        "Traktor",
+        "Käru",
+        "Põld",
+        "Mets",
+        "Pilvine taevas",
+        "Õues",
+        "Liikumine"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Inimesed",
+        "Seljakott",
+        "Müts",
+        "Joped",
+        "Käru",
+        "Traktor",
+        "Kasvuhoone",
+        "Põld",
+        "Mets",
+        "Taimestik",
+        "Lehestik"
+      ],
+      "colorcodes": [
+        "#2F3E33",
+        "#3F4F5A",
+        "#D0DCDC",
+        "#8C7B4F",
+        "#4C6E51",
+        "#60555F",
+        "#7D5F2F"
+      ],
+      "texts": [
+        "PIKKU (seljakotil, vaevunähtav)",
+        "Vaevunähtav tekst (kärul)"
+      ],
+      "persons": [
+        "Kaks inimest (lapsed/noored)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "summer",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on eesmine kaader udusem ja inimesed jalutavad rahulikumalt, olles veidi kaugemal traktorist ja kasvuhoonest.",
+        "Teisel pildil on fookus teravam, inimesed on lähemal ja jooksevad, vedades käru traktori poole.",
+        "Kolmandal pildil puuduvad inimesed üldse, fookus on vaid traktoril, kärul ja kasvuhoonel, pakkudes stseenist staatilist vaadet."
+      ],
+      "snr": "004",
+      "ajad": [
+        "27.960",
+        "34.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laialdast maastikku päikeseloojangu ajal. Esimeses kaadris on pilt peaaegu täielikult pime, näidates vaevumärgatavat siluetti inimest mootorrattal laial, pimedas põllul. Järgmistes kaadrites paljastub stseen järjest heledamalt ja detailselt. Esile kerkib avar põld, mis on kaetud tumeda taimestikuga. Horisondil paistab tume ja tihe metsapiir. Metsa kohal täidab taevast dramaatiline ja värvikirev päikeseloojang, kus domineerivad oranžid, kollased ja punased toonid, koos mõnede hallide pilvedega. Põllu keskel, veidi vasakul, on näha üksik inimfiguur mootorrattal, mis tundub laia maastiku taustal väike ja silueti taoline. Stseen tekitab rahuliku, avaruse ja pisut üksildase meeleolu.",
+      "actions": [
+        "Sõitmine (oletatav, kuna inimene on mootorrattal)",
+        "Maastiku nautimine"
+      ],
+      "keywords": [
+        "Päikeseloojang",
+        "Maastik",
+        "Põld",
+        "Mets",
+        "Mootorratas",
+        "Vaikus",
+        "Avarus",
+        "Üksildus",
+        "Loodus",
+        "Videvik",
+        "Reisimine",
+        "Siluett"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Mootorratas",
+        "Põld",
+        "Mets",
+        "Puud",
+        "Pilved",
+        "Päike (valgusena)"
+      ],
+      "colorcodes": [
+        "#ED7D24",
+        "#FFC06C",
+        "#202120",
+        "#1C231E",
+        "#6E6866",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "80",
+      "season": "summer",
+      "daytime": "evening",
+      "differences": [
+        "Esimene kaader on äärmiselt alavalgustatud ja peaaegu pime, näidates vaid vaevumärgatavat mootorratturi siluetti.",
+        "Teine kaader paljastab selgelt päikeseloojangu ja maastiku, tuues esile taevavärvid ja metsapiiri.",
+        "Kolmas kaader on teisest veidi heledam, päikeseloojangu värvid taevas on laiemalt levinud ja pilvedes on näha rohkem detaile. Üldine erinevus on valgustuses ja särituses, mis järjestikku heledamaks muutub ja maastiku detailsust paljastab."
+      ],
+      "snr": "005",
+      "ajad": [
+        "34.480",
+        "44.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte last, poissi ja tüdrukut, tihedas männimetsas päikesepaistelisel päeval. Poiss on osaliselt varjudes laia männitüve taha ja uurib binokliga ümbrust. Tal on seljas mitmevärviline jope (tumesinine, valge ja türkiis), kollane pluus ja peas sinine-lilla nokamüts. Tema jalad on riietatud sinistesse teksapükstesse. Tüdruk asub puu all, poisi jalgade taga, toetades end vastu puutüve ja paistab olevat puhkamas, silmad sulgetud või allapoole vaatamas. Tal on seljas värviline jope (türkiis ja punane), peas lilleline peapael ja seljas sinine seljakott. Metsamaastik on kaetud lopsaka rohelise alustaimestikuga. Puud on kõrged ja sirged männid, mille tüved on oranžikaspruunid, osaliselt kaetud hallikate samblikega. Üldine õhkkond on rahulik ja seikluslik.",
+      "actions": [
+        "Poiss vaatab binokliga",
+        "Poiss hoiab kinni puutüvest",
+        "Tüdruk puhkab vastu puud",
+        "Tüdruk kannab seljakotti"
+      ],
+      "keywords": [
+        "Lapsed",
+        "mets",
+        "seiklus",
+        "uurimine",
+        "binokkel",
+        "puhkus",
+        "männimets",
+        "loodus",
+        "suvi"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Männimets",
+        "männitüvi",
+        "binokkel",
+        "poisi nokamüts",
+        "poisi jope",
+        "poisi teksapüksid",
+        "tüdruku peapael",
+        "tüdruku jope",
+        "tüdruku seljakott",
+        "roheline alustaimestik"
+      ],
+      "colorcodes": [
+        "#6F4CA0",
+        "#3F80CF",
+        "#3D4876",
+        "#F0F0F0",
+        "#4C8E99",
+        "#F7D000",
+        "#CDAD8F",
+        "#7A4E31",
+        "#28B0C1",
+        "#E03E39",
+        "#3C87CB",
+        "#9E6B4B",
+        "#5F6B4D",
+        "#93B278",
+        "#404B3D"
+      ],
+      "texts": [],
+      "persons": [
+        "Poiss",
+        "Tüdruk"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "suvi",
+      "daytime": "päev",
+      "differences": [
+        "Esimesel pildil on näha poissi pea ja ülakehaga puutüve tagant, ta hoiab binoklit silmade ees ja vaatab paremale. Tüdrukut pildil ei ole.",
+        "Teisel pildil on näha poisi jalgu ja keha keskosa puu taga ning tüdruku ülakeha ja pead tema jalgade all vastu puud toetamas. Poiss ei kasuta binoklit, tema pilk on suunatud allapoole.",
+        "Kolmandal pildil on tüdruk fookuses, ta toetub vastu puud, silmad suletud või allapoole vaatamas. Poisi jalad on näha vaid kaadri ülaosas, mis annab märku, et ta on endiselt puutüve taga."
+      ],
+      "snr": "006",
+      "ajad": [
+        "44.760",
+        "57.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaatepilti tihedast männimetsast, kus roheline alustaimestik katab maapinna. Mets on täis kõrgeid ja sirgeid männipuid, mille tüved on hallikaspruunid ja kroonid rohelised. Paremal pool, keskel, on üks eriti kõrge männi otsas puidust, ristkülikukujuline ja punakaspruun puumaja. Puumaja juurde viib mööda puutüve kinnitatud pikk puidust redel. Stseenis on näha kolm last, kes tunduvad olevat matkal või mängimas metsas. Üks laps on puumaja jalamil, teised kaks last liiguvad vasakult paremale metsa sügavuses, olles puumajast veel veidi eemal. Ühel lapsel on seljas sinine seljakott ja riietel on siniseid ja valgeid toone, teine laps kannab punakaid või oranže riideid. Üldine atmosfäär on rahulik ja looduslähedane, valgus on pehme ja hajutatud, mis viitab pilvisele või varjulisele päevale.",
+      "actions": [
+        "Lapsed kõnnivad metsas",
+        "Lapsed avastavad metsa",
+        "Lapsed liiguvad puumaja suunas"
+      ],
+      "keywords": [
+        "Mets",
+        "Männid",
+        "Puumaja",
+        "Lapsed",
+        "Loodus",
+        "Matkamine",
+        "Seiklus",
+        "Rohelus",
+        "Päev"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Männipuud",
+        "Puumaja",
+        "Redel",
+        "Lapsed",
+        "Alustaimestik",
+        "Muru",
+        "Seljakotid"
+      ],
+      "colorcodes": [
+        "#4a613d",
+        "#7e9e71",
+        "#8b6a4a",
+        "#c6957a",
+        "#3a4c6a",
+        "#c74b2f"
+      ],
+      "texts": [],
+      "persons": [
+        "Kolm last"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Kaks vasakpoolset last liiguvad vasakult paremale, nihkudes iga kaadriga puumajale lähemale ja kaadri keskele."
+      ],
+      "snr": "007",
+      "ajad": [
+        "57.120",
+        "63.960"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset tihedas ja rohelises männimetsas, kus on näha kõrgeid puid ja rikkalikku alustaimestikku. Ühe suure männi külge on ehitatud rustikaalne, tumepruunist puidust trepimaja, mis paikneb kõrgelt puu okste vahel. Maja on nelinurkne, horisontaalsetest laudadest kokku pandud ja sellel on kaldu katus. Trepimajani viib paksust punasest köiest ja puidust astmetest valmistatud köisredel, mis on ümber puutüve kinnitatud. Puu jalamil, rohelise metsaaluse keskel, on sama puu külge kinnitatud puidust silt, millel on kiri. Üldmulje on looduslik ja veidi seikluslik, vihjates peidupaigale või mängukohale metsas.",
+      "actions": [
+        "Ronimine redelist",
+        "Metsas matkamine või viibimine",
+        "Puumaja ehitamine"
+      ],
+      "keywords": [
+        "Mets",
+        "Männimets",
+        "Puu",
+        "Puidust trepimaja",
+        "Köisredel",
+        "Silt",
+        "Loodus",
+        "Roheline",
+        "Puit",
+        "Seiklus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Männimets",
+        "Männipuud",
+        "Puidust trepimaja",
+        "Punane köisredel",
+        "Puidust astmed",
+        "Puidust silt",
+        "Roheline alustaimestik",
+        "Oksad"
+      ],
+      "colorcodes": [
+        "#6D6D58",
+        "#3A5333",
+        "#8B4513",
+        "#B22222",
+        "#E0E0E0",
+        "#A9A9A9",
+        "#4682B4"
+      ],
+      "texts": [
+        "TATTIDELE KEELATUD!"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader näitab puumaja kõrgelt puude vahel, keskendudes maja struktuurile ja asukohale.",
+        "Teine kaader keskendub puutüvele ja selle ümber keerduvale köisredelile, mis viib üles trepimajani.",
+        "Kolmas kaader toob esile puu jala, rohelise alustaimestiku ja puule kinnitatud puidust sildi, pakkudes lähivaate maapinnalt."
+      ],
+      "snr": "008",
+      "ajad": [
+        "63.960",
+        "73.480"
+      ]
+    },
+    {
+      "explanation": "Metsane maastik männimetsas, kus paremal esiplaanil on jäme puutüvi. Puutüve külge on kinnitatud isetehtud redel, mis koosneb puidust pulkadest ja mitmevärvilistest riideribadest, peamiselt punastest, valgetest ja beežidest. Stseenis on näha kahte inimest, tõenäoliselt last või noorukit, kes kasutavad seda redelit puu otsa ronimiseks. Üks neist on riietatud tumesinisesse jakki, kollasesse t-särki, sinisesse teksapaari ja tumesiniste kummikutesse, ja ronib redeli alumistel astmetel. Teine isik, noorem tüdruk punakaspruunide juuste ja peapaelaga, kannab sinist seljakotti ning mitmevärvilist pluusi ja on redelil kõrgemal.",
+      "actions": [
+        "ronimine puu otsa",
+        "redelil üles minemine",
+        "riideribadest kinni hoidmine"
+      ],
+      "keywords": [
+        "mets",
+        "puu",
+        "redel",
+        "ronimine",
+        "lapsed",
+        "seiklus",
+        "loodus",
+        "männimets",
+        "ise tehtud",
+        "kummikud",
+        "seljakott"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "männimets",
+        "puutüvi",
+        "isetehtud redel",
+        "puidust pulgad",
+        "kangast ribad (punased, valged, beežid)",
+        "kummikud",
+        "teksapüksid",
+        "jakk",
+        "t-särk",
+        "seljakott",
+        "peapael"
+      ],
+      "colorcodes": [
+        "#4B6E4B",
+        "#70513B",
+        "#3B4E6B",
+        "#F0E68C",
+        "#C44545",
+        "#F5F5DC",
+        "#8B4513",
+        "#6090A0"
+      ],
+      "texts": [],
+      "persons": [
+        "nooruk (sinistes teksades ja kummikutes)",
+        "tüdruk (punakaspruunide juustega, seljakotiga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on redel inimesteta, näidates metsa tausta.",
+        "Teisel pildil on esimene isik (sinistes teksades ja kummikutes) ronimas redeli alumisel osal.",
+        "Kolmandal pildil on teine isik (tüdruk seljakotiga) ronimas redelil kõrgemal, samal ajal kui esimene isik on liikunud veelgi kõrgemale ja jääb osaliselt või täielikult kaadrist välja."
+      ],
+      "snr": "009",
+      "ajad": [
+        "73.480",
+        "84.680"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub pimedas siseruumis, millel on näha puidust seinad ja põrand, mis viitavad võimalikule pööningule, kuurile või mahajäetud ruumile. Valgusallikas on peaaegu olematu, välja arvatud kitsas valgusvihk, mis valgustab seina tagaplaanil, ja väiksem, lähem valgusallikas, mida hoiab üks inimestest. Stseeni vasakul poolel seisab inimene, kellest on näha vaid jalad, mis on riietatud tumedatesse teksadesse või pükstesse. Paremal pool põrandal kükitab või põlvitab teine inimene, kelle pea on kaetud mingisuguse heleda pearätiku või aksessuaariga, mis peegeldab valgust. See kükitav inimene hoiab käes midagi, mis kiirgab valgust, valgustades osaliselt tema nägu ja ümbrust. Põrandal on laiali pillutud mitmesuguseid esemeid, sealhulgas virn plaate või CD-sid, paberid või ajakirjad, punane ämber ja pudel. Üldine atmosfäär on hämar ja salapärane, keskendudes kahe inimese vahelisele tegevusele pimedas ruumis.",
+      "actions": [
+        "Inimene seisab",
+        "Inimene kükitab/põlvitab",
+        "Millegi käes hoidmine (valgusallikas)",
+        "Ümbruse uurimine/vaatamine"
+      ],
+      "keywords": [
+        "Pime",
+        "Hämar",
+        "Siseruum",
+        "Puidust seinad",
+        "Puidust põrand",
+        "Inimesed",
+        "Tegevus",
+        "Öö",
+        "Valgusallikas",
+        "Redelilaadne struktuur",
+        "Esemed"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Puidust seinad",
+        "Puidust põrand",
+        "Tumedad teksad/püksid",
+        "Hele peakaunistus/aksessuaar",
+        "Punane ämber",
+        "Pudel",
+        "Plaadid/CD-d",
+        "Paberid/ajakirjad",
+        "Väike valgusallikas (käes hoitav)"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#3d2f23",
+        "#b31a1a",
+        "#ffffff",
+        "#fdfdfd"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Väike liikumine seisva inimese jalgades",
+        "Kerged muutused kükitava inimese kehaasendis ja valguspeegeldustes",
+        "Pudeli asukoht ämbri kõrval on veidi muutunud"
+      ],
+      "snr": "010",
+      "ajad": [
+        "84.680",
+        "85.880"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub hämaras, puidust seintega siseruumis, mis meenutab kuuri või väikest aita. Valgusvoogud tungivad sisse läbi vertikaalsete seinapragude, luues dramaatilisi valguse- ja varjumänge. Kogu ruum on suures osas varjudes, mis annab stseenile salapärase ja intiimse tunde. Kesksel kohal on laps, tõenäoliselt tüdruk, pikkade juuste ja mustrilise peapaelaga, kes vaatab alla või kummardub millegi poole. Tema seljas on tumesinine või hall jope ja heledam kraega särk. Esimesel pildil on näha ka teise, pikema isiku ähmane siluett vasakul, samuti on nähtaval punane ja valge korgiga pudel. Õhkkond on vaikne ja keskendunud.",
+      "actions": [
+        "Laps vaatab alla",
+        "Laps kummardub veidi",
+        "Valgus paistab läbi seinapragude",
+        "Täiskasvanu või pikem isik seisab (esimesel pildil)"
+      ],
+      "keywords": [
+        "Hämar",
+        "Varjud",
+        "Puidust sein",
+        "Laps",
+        "Siseruum",
+        "Valguskiired",
+        "Salapärane",
+        "Kummardumine",
+        "Pudelid",
+        "Kontrastsus",
+        "Puidust"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Puidust seinad",
+        "Laps",
+        "Punane pudel",
+        "Valge korgiga pudel",
+        "Mustriline peapael",
+        "Tumesinine jope",
+        "Heleda kraega särk",
+        "Pikema isiku siluett"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#3f2a1b",
+        "#2b3a4a",
+        "#8b959d",
+        "#6e171b",
+        "#e0e0e0",
+        "#9299a3"
+      ],
+      "texts": [],
+      "persons": [
+        "Laps",
+        "Täiskasvanu või pikem isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaadrite fookus nihkub laiemast võttest (mis näitab teise isiku kontuuri ja rohkem ruumi) järjest lähemale lapsele, keskendudes viimases kaadris lapse näole ja ülakehale.",
+        "Valgus- ja varjumuster puidust seinal muutub veidi kaamera nurga ja asukoha nihkumise tõttu.",
+        "Esimene pilt näitab laiemat stseeni, kus vasakul on näha teise isiku siluett ja paremal pudelid, samas kui järgmised pildid keskenduvad peamiselt lapsele."
+      ],
+      "snr": "011",
+      "ajad": [
+        "85.880",
+        "94.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort inimest, tõenäoliselt last või teismelist, kes on kummardunud või kükitavas asendis tumedas puidust ruumis. Ruum meenutab aita või kuuri, mille vertikaalsete laudade vahelt tungib sisse ere valgus, luues dramaatilisi valguse ja varju triipe. Inimesel on peas leopardimustriline peapael, seljas ruudulise särgi peal sinakasroheline pikkade varrukatega pluus ning seljas on ka tume seljakott. Ta vaatab keskendunult allapoole, tema käte läheduses ja süles on näha punakat või roosakat eset, mis võib olla kott, padi või osa riietusest. Stseenis valitseb tugev kontrast valguse ja varju vahel, mis annab edasi intiimse, vaikse ja mõtliku atmosfääri, kus valgusel on võtmeroll kompositsiooni ja meeleolu loomisel.",
+      "actions": [
+        "Kummardub",
+        "Kükitab",
+        "Vaatab allapoole",
+        "Keskendub"
+      ],
+      "keywords": [
+        "Vari",
+        "Valgus",
+        "Puit",
+        "Laps",
+        "Peapael",
+        "Leopardimuster",
+        "Kontrast",
+        "Siseruum",
+        "Keskendumine",
+        "Mõtlik",
+        "Vaikne",
+        "Ait",
+        "Kuur"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Puidust sein/laudis",
+        "Päikesevalgus/ere valgus",
+        "Leopardimustriline peapael",
+        "Pikad juuksed",
+        "Ruuduline särk",
+        "Sinakasroheline pikkade varrukatega pluus",
+        "Tume vest/seljakott",
+        "Punane/roosa ese (kott/padi)",
+        "Riiul/konsool taustal"
+      ],
+      "colorcodes": [
+        "#333333",
+        "#F0E68C",
+        "#4682B4",
+        "#8B4513",
+        "#B22222",
+        "#604020"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor inimene (laps/teismeline)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 5,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on näha subtiilset muutust noore inimese pea asendis ja juuste liikumises. Kolmandal pildil on pea veidi tõusnud või kallutatud võrreldes esimese ja teise pildiga, mille tõttu valguse peegeldused juustel ja peapaelal on pisut erinevad. Üldine poos ja keskkond jäävad samaks."
+      ],
+      "snr": "012",
+      "ajad": [
+        "94.280",
+        "95.120"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub pimedas siseruumis, mis näib olevat puidust ehitis, näiteks kuur või vanema puitpaneelidega tuba. Ülevalt ja osaliselt ka vasakult langeb ruumi kitsas valgusvihk, mis valgustab püstiseid puitpragusid ja heidab pikki varje. Paremal seinal on näha noolemängulaud. Stseeni peategelane on noor inimene, tõenäoliselt tüdruk, kellel on punakaspruunid juuksed ja peas mustrilise kangaga juuksepael. Ta kannab heledat kraega särki, mille peal on tumedam vest või jakk. Esialgu on ta süvenenud paksu raamatusse või albumisse, mille lehekülgedel on näha teksti ja mitmesuguseid pilte – sealhulgas värviline joonistus ja graafilised mustvalged kujutised, mis meenutavad kunstilisi või anatoomilisi fotosid inimestest. Raamatu tagant paistab teine paber, millel on tekst. Hiljem lülitab noor inimene sisse taskulambi, mille valgusvihk valgustab otse tema nägu ja käes hoitavat eset, muutes ümbruse veidi selgemaks. Üldine atmosfäär on salapärane ja uuriv, domineerivad tumedad toonid ja teravad valgus-varjukontrastid.",
+      "actions": [
+        "lehitsema raamatut",
+        "uurima pilte",
+        "hoidma taskulampi",
+        "valgustama taskulambiga"
+      ],
+      "keywords": [
+        "pime",
+        "siseruum",
+        "taskulamp",
+        "raamat",
+        "uurimine",
+        "noor inimene",
+        "puust seinad",
+        "varjud",
+        "salapärane"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "raamat",
+        "taskulamp",
+        "noolemängulaud",
+        "paberid",
+        "puitsein",
+        "juuksepael",
+        "särk",
+        "vest"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#4a2a1a",
+        "#2a4a5a",
+        "#d4a75e",
+        "#b88a2a",
+        "#a0a0a0"
+      ],
+      "texts": [
+        "ülesin, et"
+      ],
+      "persons": [
+        "noor inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Stseeni alguses on noor inimene süvenenud raamatu lehitsemisse, hiljem aga kasutab ta taskulampi ümbruse valgustamiseks.",
+        "Valgusallikas muutub: esialgu on ruumis vaid väline kitsas valgusvihk, seejärel lisandub taskulambi ere valgus.",
+        "Fookus nihkub raamatult ja selle sisult noorele inimesele ja tema tegevusele taskulambiga."
+      ],
+      "snr": "013",
+      "ajad": [
+        "95.120",
+        "117.160"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub pimedas puidust ruumis või onnis, kus seinad on valmistatud vertikaalselt paigaldatud laudadest. Erinevatest pragudest laudseintes paistab sisse ere päikesevalgus, luues tugevaid valgussambaid ja varje. Seintele on kinnitatud mitmesuguseid pilte ja joonistusi, sealhulgas suur krüptoseoloogia stiilis jalajälje joonistus (meenutab Suure Jala jälge) mõõtmetega 30 cm ja allkirjaga „JALAGA“, samuti detailne aarekaart, millel on märgitud punase X-ga asukoht metsas ja jões. Teisi joonistusi on samuti näha, mis on ilmselt laste tehtud või seotud seiklusteemaga. Stseenis viibib inimene, näha on teda selja või külje pealt, ta kannab mütsi ja kapuutsiga dressipluusi, mis meenutab Adidase disaini valgete triipudega. Inimene tundub vaatavat või tegutsevat seintele kinnitatud piltidega, liikudes ruumis ja paljastades erinevaid detaile. Õhkkond on mõistatuslik ja seikluslik.",
+      "actions": [
+        "Päikesevalgus paistab läbi puidust seinapragude.",
+        "Isik liigub ruumis ja vaatab seinale kinnitatud pilte.",
+        "Isik liigutab kätt jalajälje pildi lähedal.",
+        "Isik on pööramas või liigutab pead, vaadates seinale."
+      ],
+      "keywords": [
+        "Puidust seinad",
+        "Päikesevalgus",
+        "Varjud",
+        "Krüptoseoloogia",
+        "Aarekaart",
+        "Jalajälg",
+        "Salapära",
+        "Seiklus",
+        "Laste joonistused",
+        "Onn",
+        "Pime tuba"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Puidust seinad",
+        "Päikesekiired",
+        "Jalajälje joonistus/plakat",
+        "Aarekaart",
+        "Muud joonistused/pildid",
+        "Müts",
+        "Kapuutsiga dressipluus (hoddie)",
+        "Inimese käsi",
+        "Inimese selg"
+      ],
+      "colorcodes": [
+        "#3D2B1F",
+        "#2F4F4F",
+        "#FFFFFF",
+        "#FFD700",
+        "#1A1A1A"
+      ],
+      "texts": [
+        "30cm",
+        "JALAGA",
+        "X"
+      ],
+      "persons": [
+        "Isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on isiku käsi näha jalajälje joonistuse lähedal, mis on osaliselt varjus, kaadri paremal servas on rohkem valgust.",
+        "Teisel pildil on jalajälje joonistus tervenisti valgustatud ja paremini nähtav, isiku käsi on eemaldunud ning päikesekiired on nihkunud.",
+        "Kolmandal pildil on nähtav suurem aarekaart, mis oli eelnevalt varjus, ja jalajälje joonistus on nihkunud kaadri alaossa või on kaetud. Päikesekiired on samuti teises asendis ja intensiivsusega, valgustades seina suuremat ala."
+      ],
+      "snr": "014",
+      "ajad": [
+        "117.160",
+        "136.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat siseruumi, kus on näha osa vanast, tõenäoliselt paberite või plakatitega kaetud seinast. Vertikaalsed kitsad valguskiired lõikavad läbi pimeduse, valgustades osaliselt seina pinda ja tekitades draamatilisi varjude mängu. Seinal olevad paberid on valdavalt tumedad ja tekst või kujutised neil on pimeduse tõttu loetamatud. Valguse allikas jääb kaadri ulatusest välja, kuid annab aimu, et tegemist võib olla välisvalgusega, mis kitsastest avadest sisse pääseb. Kolmandal kaadril ilmub vasakust alumisest nurgast kaadrisse inimkäsi, mille nimetissõrmes on sõrmus. Käsi ulatub seina poole ja hoiab erkpunast, ebamäärase kujuga eset, mis näib olevat kas kangast või paberist. Käe ilmumine viitab tegevusele, kas millegi seinale kinnitamisele või sealt ära võtmisele. Üldine meeleolu on salapärane ja summutatud.",
+      "actions": [
+        "Käsi ulatab seina poole",
+        "Millegi seinale kinnitamine või eemaldamine"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Hämarus",
+        "Valguskiired",
+        "Varjud",
+        "Vana sein",
+        "Paberid",
+        "Plakatid",
+        "Käsi",
+        "Sõrmus",
+        "Salapärane",
+        "Siseruum"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Sein",
+        "Paberid",
+        "Plakatid",
+        "Valguskiired",
+        "Inimkäsi",
+        "Sõrmus",
+        "Punane ese"
+      ],
+      "colorcodes": [
+        "#1c1c1c",
+        "#d09c3a",
+        "#4a5c54",
+        "#a82e2e"
+      ],
+      "texts": [
+        "Loetamatu tekst"
+      ],
+      "persons": [
+        "Üks isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesed kaks pilti on peaaegu identsed, näidates seina ja valguskiiri ilma nähtava tegevuseta.",
+        "Kolmandal pildil ilmub vasakust alumisest nurgast kaadrisse inimkäsi, mis ulatub seina poole ja hoiab punast eset, pakkudes stseenile tegevust."
+      ],
+      "snr": "015",
+      "ajad": [
+        "136.400",
+        "140.440"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha kaks inimfiguuri siluetina esiplaanil, kes vaatavad keskel asetsevat plakatit või joonistust. Joonistusel on kujutatud jääkaru helesinise taeva ja siniste mägede või liustike taustal, seistes valgel jääpangal. Joonistuse ülemises paremas nurgas on kiri \"JÄÄKARU\". Stseen on üldiselt hämar, kuid plakatit valgustatakse ere valgusvihuga, mis loob joonistusele selgelt piiritletud valgussõõri. Valgusvihk liigub jääkaru kujutisel, tuues esile karu erinevaid osi ja luues dünaamilise efekti. Inimeste profiilid on pimeduses ja nende näojooned pole eristatavad, rõhutades fookust joonistusel. Vasakpoolsel figuuril on peas müts, parempoolsel paistab olevat mingi peakate või mustriga sall. Taustal on näha vertikaalseid puitpindu.",
+      "actions": [
+        "Joonistuse vaatamine",
+        "Joonistuse valgustamine",
+        "Taskulambi liigutamine"
+      ],
+      "keywords": [
+        "Jääkaru",
+        "Joonistus",
+        "Pimedus",
+        "Valgusvihk",
+        "Siluetid",
+        "Näitus",
+        "Avastamine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Jääkaru joonistus",
+        "Jääpank",
+        "Mäed",
+        "Puitsein",
+        "Taskulamp (oletatav)",
+        "Müts",
+        "Särgid"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#3b4e7a",
+        "#b1b1b1",
+        "#8b4513",
+        "#ffffff"
+      ],
+      "texts": [
+        "JÄÄKARU"
+      ],
+      "persons": [
+        "Kaks inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Valgusvihu asukoht ja intensiivsus joonistusel muutuvad kaadrite vahel.",
+        "Esimeses kaadris on valgusvihk kõige nõrgem ja asub karu vasakpoolsest küljel.",
+        "Teises kaadris on valgusvihk tugevam ja asub karu keskosas.",
+        "Kolmandas kaadris on valgusvihk kõige tugevam ja asub karu parempoolses küljel, valgustades nägu.",
+        "Taskulambi helendus parempoolse isiku käes/objektil on kolmandas kaadris selgemini nähtav."
+      ],
+      "snr": "016",
+      "ajad": [
+        "140.440",
+        "147.640"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset tihedas männimetsas päikselise ilmaga, mille alust katab rikkalik roheline alustaimestik, mis annab märku suvisest aastaajast. Esiplaanil on poiss, kes kannab sinise, halli ja valge toonides dressipluusi, kollast T-särki ning sinisest ja lillast kangast nokamütsi. Tema õlal on näha pruuni seljakoti rihm. Ta on süvenenult kortsus ja kollakaspruuni kaarti uurimas. Paremal pool domineerib stseenis suur puu, mille külge on punase teibiga kinnitatud algeline puust redel või astmed. Puu küljes ripub ka valge silt punase tekstiga: \"TATTIDELE KEELATUD!\". Stseeni arenedes ilmub ja laskub redelit mööda alla tüdruk, kel on seljas punane pluus helesiniste varrukatega, helesinine seelik, punased retuusid ja roosad kummikud. Tema peas on hele peapael ja seljas kannab ta sinist seljakotti, millel on kujutatud Mario tegelasi. Lõpuks on tüdruk täielikult redelilt alla tulnud ja seisab poisi kõrval, vaadates samuti huviga kaarti, luues mulje ühisest seiklusest või aardejahist metsas.",
+      "actions": [
+        "Poiss uurib kaarti",
+        "Tüdruk laskub puu küljes olevat redelit mööda",
+        "Tüdruk vaatab koos poisiga kaarti"
+      ],
+      "keywords": [
+        "Mets",
+        "Lapsed",
+        "Kaart",
+        "Seiklus",
+        "Suvi",
+        "Mäng",
+        "Puurede",
+        "Silt",
+        "Loodus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Kaart",
+        "Seljakott",
+        "Nokamüts",
+        "Dressipluus",
+        "T-särk",
+        "Pluus",
+        "Seelik",
+        "Retuusid",
+        "Kummikud",
+        "Peapael",
+        "Puu",
+        "Redel",
+        "Teip",
+        "Silt",
+        "Metsataimed",
+        "Männid"
+      ],
+      "colorcodes": [
+        "#4070A0",
+        "#FFD700",
+        "#8B0000",
+        "#ADD8E6",
+        "#FFC0CB",
+        "#A9A9A9",
+        "#8B4513",
+        "#228B22",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "TATTIDELE KEELATUD!"
+      ],
+      "persons": [
+        "Poiss",
+        "Tüdruk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Tüdruku asukoht ja poos muutuvad piltide vahel: esimeses kaadris on ta puu otsas redelil kõrgemal ja osaliselt varjatud, seejärel laskub ta alla ja viimaks seisab poisi kõrval.",
+        "Fookuse nihe: esimeses kaadris on suurem rõhk poisil, viimastes kaadrites on stseen fookuses mõlemal lapsel koos, luues dialoogi.",
+        "Kaamera kaugus ja nurk muutuvad veidi, tuues viimases kaadris tegelased lähemale, et näidata nende interaktsiooni kaardiga."
+      ],
+      "snr": "017",
+      "ajad": [
+        "147.640",
+        "153.320"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha kaks last selja tagant, kes vaatavad ja uurivad hoolikalt värvilist, käsitsi joonistatud kaarti. Kaart on akvarellistiilis ja kujutab metsamaastikku, mida läbib looklev sinine jõgi. Kaardi ülemises vasakus nurgas on sinine kompassi roos, millel on märgitud suunad PÕHI, LÄÄS, IDA ja LÕUNA. Kaardil eristuvad kaks metsatüüpi: vasakpoolses alas on tumerohelised koonusekujulised puud ning parempoolses alas heledama rohelisega lehtpuid pruunide tüvedega. Jõe kaldal ja metsaaladel on märgata väikeseid musti kujundeid, mis meenutavad jälgi või väikseid loomi. Kaardi vasakpoolses alas torkab silma erepunane X-täht, mis tähistab ilmselt mingit olulist või peidetud asukohta. Kaardi ülemises paremas nurgas on kujutatud kollast küngastikku. Vasakpoolsel lapsel on pikad, heledad punutud juuksed ja värviline mustriline peapael, seljas sinise või türkiisi tooni riietus. Parempoolsel lapsel on tumedamad juuksed ning seljas on näha triibulist (valge-sinine-roheline/kollane) särki ja tumesinist jakki või seljakotti. Taust on udune, roheline mets, mis viitab stseeni toimumisele vabas õhus päevasel ajal.",
+      "actions": [
+        "Kaardile vaatamine",
+        "Kaardi hoidmine",
+        "Maastiku uurimine"
+      ],
+      "keywords": [
+        "Aardekaart",
+        "Lastekaart",
+        "Loodus",
+        "Mets",
+        "Jõgi",
+        "Seiklus",
+        "Kompass",
+        "Suunad",
+        "Uurimine",
+        "Mäng"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kaart",
+        "Jõgi",
+        "Mets",
+        "Puud",
+        "Punane X-märk",
+        "Kompassi roos",
+        "Peapael",
+        "Juuksed",
+        "Särk",
+        "Jakk/seljakott"
+      ],
+      "colorcodes": [
+        "#4285F4",
+        "#3D7A41",
+        "#8BC34A",
+        "#FF0000",
+        "#FFEB3B",
+        "#A97D4B",
+        "#E0E0E0",
+        "#3F51B5",
+        "#F0F0F0"
+      ],
+      "texts": [
+        "PÕHI",
+        "LÄÄS",
+        "IDA",
+        "LÕUNA"
+      ],
+      "persons": [
+        "Kaks last"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [],
+      "snr": "018",
+      "ajad": [
+        "153.320",
+        "155.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab valgusrikast, tihedat okaspuumetsa, ilmselt põhjamaisel maastikul. Metsas on näha pikki, saledaid mände punakaspruunide tüvedega, mis sirutuvad taeva poole. Metsaalune on kaetud lopsaka rohelise alustaimestikuga, mis koosneb suuresti samblast ja mustikataimedest, luues pehme ja ebaühtlase pinnase. Päikesekiired filtreeruvad läbi puude võrade, valgustades laike metsapõrandal, luues kontrastseid valguse ja varju alasid. Stseenis liigub kaks inimest, mõlemal seljas seljakotid, mis viitab matkamisele või muu metsas liikumisele. Nad näivad liikuvat erinevatest suundadest, avastades metsa. Üks inimene kannab halli jopet ja siniseid pükse koos sinise peakattega, teine sinakat särki ja punaseid pükse. Üksikud mahalangenud puutüved ja oksad lisavad metsikust ja loomulikkust. Üldmulje on rahulik ja looduslähedane, pakkudes avarat vaadet metsa sügavustesse.",
+      "actions": [
+        "Matkamine",
+        "Metsas liikumine",
+        "Metsa uurimine"
+      ],
+      "keywords": [
+        "Mets",
+        "Okaspuumets",
+        "Männid",
+        "Loodus",
+        "Roheline",
+        "Päikesepaiste",
+        "Alustaimestik",
+        "Sammal",
+        "Mustikad",
+        "Matkajad",
+        "Seljakotid",
+        "Rahulik",
+        "Puutüved",
+        "Matkarada"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Männid",
+        "Mets",
+        "Sammal",
+        "Mustikataimed",
+        "Mahakukkunud puutüvi",
+        "Seljakotid"
+      ],
+      "colorcodes": [
+        "#4D6B3E",
+        "#7D9F62",
+        "#99B679",
+        "#7E5E43",
+        "#59799A",
+        "#B02E2E"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest",
+        "Matkajad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil ei ole inimesi näha, teisel ja kolmandal pildil on näha kaks inimest.",
+        "Inimesed on kolmandal pildil esimesest ja teisest pildist erinevates asukohtades, olles metsas edasi liikunud. Kolmandal pildil on inimeste asukoht stseenis muutunud võrreldes teise pildiga, näidates nende liikumist läbi metsa."
+      ],
+      "snr": "020",
+      "ajad": [
+        "156.880",
+        "163.360"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud lopsakat ja tihedat metsa suvisel päeval. Esiplaanil voolab madal jõgi või oja, mille laiemast osast on loodud astangutega kaskaadid. Need kaskaadid koosnevad horisontaalsetest kividest või lamedatest rändrahnudest, mille kohalt vesi vulisedes alla voolab, tekitades valgeid vahuseid jugasid. Jõe pind on peegeldav, peegeldades ümbritsevat rohelist metsa ja heledat taevast. Veidi tagapool, üle oja, on langenud pikk ja jäme puupalk, mis ühendab kaldaid. Kogu tausta täidab erkroheline, tihe ja elujõuline mets kõrgete puude ja rikkaliku alusmetsaga. Mõnes hetkes elustavad stseeni kaks last, poiss ja tüdruk, kes seljakotid seljas rõõmsalt mööda kiviastanguid oja ületavad. Poiss, sinise mütsi ja heleda jopega, astub ettevaatlikult, samal ajal kui punase vesti ja sinise seelikuga tüdruk jookseb kiirel sammul üle kivide, jättes endast maha kergeid veepritsmeid. Nende liikumine lisab rahulikule looduspildile dünaamikat ja seikluslikkust.",
+      "actions": [
+        "Jõe ületamine",
+        "Jooksmine/kiire kõndimine",
+        "Matkamine",
+        "Vee voolamine",
+        "Vulisevate kaskaadide moodustamine"
+      ],
+      "keywords": [
+        "Mets",
+        "Jõgi",
+        "Oja",
+        "Kaskaadid",
+        "Loodus",
+        "Matkamine",
+        "Lapsed",
+        "Suvi",
+        "Roheline",
+        "Seiklus",
+        "Veepritsmed",
+        "Kivid",
+        "Palk"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Vesi",
+        "Kivid",
+        "Palk",
+        "Seljakotid",
+        "Müts",
+        "Jope",
+        "Vest",
+        "Püksid",
+        "Seelik"
+      ],
+      "colorcodes": [
+        "#4F803A",
+        "#A5D2D5",
+        "#2F504E",
+        "#5C5A55",
+        "#3C6DA4",
+        "#D43936",
+        "#3D81B4"
+      ],
+      "texts": [],
+      "persons": [
+        "Poiss",
+        "Tüdruk",
+        "Lapsed"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel ja kolmandal pildil puuduvad inimesed, keskendudes ainult metsale, ojale ja selle astangutele. Need kaadrid annavad stseenist üldise ülevaate enne ja pärast tegevust.",
+        "Teisel pildil on näha kaks last, poiss ja tüdruk, kes parajasti ületavad oja mööda kiviastanguid vasakult paremale. See kaader jäädvustab stseeni peamise tegevuse."
+      ],
+      "snr": "021",
+      "ajad": [
+        "163.360",
+        "168.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte last, poissi ja tüdrukut, jooksmas või kiiresti liikumas läbi tiheda ja lopsaka rohelise metsa päikesepaistelisel päeval. Nad kannavad seljakotte ja riietust, mis viitab matkamisele või õues seiklemisele. Esiplaanil ja keskel laiub horisontaalselt maas suur, paljaste okstega langenud puutüvi, mis moodustab tee kohale omamoodi kaare. Metsaalune on kaetud tiheda alusmetsaga, roheliste lehtede, põõsaste ja taimekasvuga. Valgus filtreerub läbi puuvõrade, luues maapinnale laigulisi valguse ja varju alasid. Mets on täis kuivanud ja katkiseid oksi, mis lisavad maastikule rägastikulisust. Üldine atmosfäär on seikluslik ja looduslähedane.",
+      "actions": [
+        "Jooksmine",
+        "Liikumine läbi metsa",
+        "Seiklemine",
+        "Avastamine"
+      ],
+      "keywords": [
+        "Mets",
+        "Lapsed",
+        "Seiklus",
+        "Roheline",
+        "Puud",
+        "Langenud puu",
+        "Rägastik",
+        "Loodus",
+        "Suvi",
+        "Matkamine"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Mets",
+        "Puud",
+        "Langenud puutüvi",
+        "Puuoksad",
+        "Lehed",
+        "Põõsad",
+        "Seljakotid",
+        "Müts",
+        "Riided"
+      ],
+      "colorcodes": [
+        "#435e37",
+        "#7ca859",
+        "#62503b",
+        "#3d342a",
+        "#36506e",
+        "#4784aa",
+        "#9c2e33"
+      ],
+      "texts": [],
+      "persons": [
+        "Poiss",
+        "Tüdruk",
+        "Lapsed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Laste positsioon ja fookus muutub kaadrite vahel. Esimeses ja teises kaadris on poiss esiplaanil ja rohkem nähtav, liikudes vasakule. Kolmandas kaadris on pikajuukseline tüdruk (sinise ja punase riietusega) rohkem esile tõstetud ja selgemalt nähtav, samuti liikudes vasakule, samal ajal kui poiss on kas kaadrist väljas või varjus.",
+        "Laste liikumine näib edasi arenevat, liikudes vasakule läbi metsa."
+      ],
+      "snr": "022",
+      "ajad": [
+        "168.920",
+        "175.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaadet tihedale ja kõrgete puudega metsale päikesepaistelisel päeval. Metsapõrand on kaetud lopsaka rohelise alusmetsaga, mis on kohati päikesevalguses ere ja kohati varjus. Päikesevalgus langeb läbi puulatvade, luues maapinnale ilusaid valguse ja varju mustreid. Puud on valdavalt sihvakad ja sirged, andes metsale korrapärase, kuid siiski loodusliku ilme. Piltide seerias on näha kahte inimest, kes matkavad läbi metsa. Esimeses kaadris on üks inimene näha paremal pool, liikumas vasakule ja ettepoole, kummardades veidi. Teises kaadris on nad liikunud sügavamale metsa, olles nüüd rohkem kaadri keskel ja vasakul. Ühel inimesel on seljas sinine seljakott ja sinine jope, teisel punane seljakott ja punane jope. Nad tunduvad uurivat ümbrust või lihtsalt nautivat metsaretke.",
+      "actions": [
+        "Matkamine metsas",
+        "Metsas kõndimine",
+        "Ümbruse uurimine"
+      ],
+      "keywords": [
+        "Mets",
+        "Päikesepaiste",
+        "Suvi",
+        "Rohelus",
+        "Loodus",
+        "Matkamine",
+        "Puud",
+        "Alusmets",
+        "Varjud"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Alusmets",
+        "Seljakotid"
+      ],
+      "colorcodes": [
+        "#435E33",
+        "#6A8D5F",
+        "#B4E197",
+        "#5B442A",
+        "#346087",
+        "#B83B3B"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Inimeste asukoht ja arv pildil: Esimesel pildil on näha üks inimene kaadri paremas servas, teisel pildil on näha kaks inimest rohkem kaadri keskel ja vasakul."
+      ],
+      "snr": "023",
+      "ajad": [
+        "175.920",
+        "180.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte last, kes on süvenenud õuealale kaevatud väikesesse auku rohelise alustaimestiku keskel, mis meenutab mustikapõõsaid. Vasakul pool on näha laps, kes kannab lillat, rohelist ja tumesinist mütsi ning sinise-valget triibulist pikkade varrukatega särki ja tumesiniseid pükse. Algselt kasutab see laps peenikest pulka, et augus toimetada. Hilisemates kaadrites on sama lapsel käes puidust mõõdulatt või pulk, mida hoitakse vertikaalselt augus. Paremal pool on näha blondide juustega laps, kes kannab helesinist pikkade varrukatega pluusi, mustriga peakatet ja roosasid jalanõusid, ning kelle seljas on sinakasroheline seljakott. See laps on kummardunud augu kohale ja kasutab käsi, et mulla või mõõdulati lähedal toimetada, näidates aktiivset osalemist tegevuses. Maapind on kaetud lopsaka rohelise taimestikuga ja augus on näha tumedat mulda.",
+      "actions": [
+        "Kaevamine",
+        "Maapinna uurimine",
+        "Istutamine",
+        "Mõõtmine",
+        "Mullaga suhtlemine",
+        "Vaatlemine"
+      ],
+      "keywords": [
+        "Lapsed",
+        "Loodus",
+        "Õues",
+        "Mets",
+        "Aed",
+        "Istutamine",
+        "Uurimine",
+        "Mõõtmine",
+        "Taimed",
+        "Muld",
+        "Rohelus",
+        "Suvi",
+        "Tähelepanelikkus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Lapsed",
+        "Müts",
+        "Pikkade varrukatega särk",
+        "Püksid",
+        "Seljakott",
+        "Puitpulk",
+        "Mõõdulatt",
+        "Muld",
+        "Auk maapinnal",
+        "Rohelised taimed",
+        "Jalanõud"
+      ],
+      "colorcodes": [
+        "#6A5ACD",
+        "#3CB371",
+        "#ADD8E6",
+        "#FFC0CB",
+        "#483C32",
+        "#FFFFFF",
+        "#191970",
+        "#00CED1"
+      ],
+      "texts": [],
+      "persons": [
+        "Laps",
+        "Kaks last"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil kasutab vasakpoolne laps augus peenikest puidust pulka, samal ajal kui parempoolse lapse käed ei ole veel otseselt mullaga kokkupuutes.",
+        "Teisel ja kolmandal pildil on vasakpoolse lapse käes laiem puidust mõõdulatt, mida hoitakse augus vertikaalselt. Parempoolne laps on nende piltide peal lähemal ja aktiivsemalt oma kätega mullas või mõõdulati lähedal toimetamas."
+      ],
+      "snr": "024",
+      "ajad": [
+        "180.160",
+        "183.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tihedat metsa päikeselisel päeval. Teel pole nähtavaid radu, mis annab metsiku ja loodusliku tunde. Päikesekiired tungivad läbi puude latvade, luues valguse ja varju mängu, mis rõhutab alusmetsa rohelust. Alusmets on tihe, koosnedes madalatest põõsastest, tõenäoliselt mustika- või pohlavartest, ja rohelisest murust. Vasakul pildil on näha kauguses suuri puid, mis annab stseenile sügavuse ja avaruse tunde. Üks inimene matkab või jalutab läbi metsa, kandes seljakotti. Inimene liigub paremalt vasakule läbi kaadrite, olles esimesel pildil kaadri paremas servas ja viimasel pildil kaadri vasakus servas. Mets on täis pikki ja sirgeid puutüvesid, mis loovad vertikaalsete joonte mustri. Valgus on ere ja kontrastne, luues sügavusefekti. Tegemist on männimetsaga, kus maapinda katab tihe alusmets.",
+      "actions": [
+        "Matkamine",
+        "Jalutamine",
+        "Liikumine läbi metsa"
+      ],
+      "keywords": [
+        "Mets",
+        "Loodus",
+        "Päikesepaiste",
+        "Suvi",
+        "Matkamine",
+        "Jalutuskäik",
+        "Roheline",
+        "Vaikus",
+        "Männid",
+        "Alusmets"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Alusmets",
+        "Põõsad",
+        "Rohi",
+        "Seljakott",
+        "Päikesekiired",
+        "Varjud"
+      ],
+      "colorcodes": [
+        "#4CAF50",
+        "#8D6E63",
+        "#E0E0E0",
+        "#1E88E5",
+        "#B71C1C"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene (matkaja)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Inimese asukoht kaadris muutub: esimesel pildil asub inimene kaadri paremas servas, teisel pildil keskel ja kolmandal pildil kaadri vasakus servas, demonstreerides liikumist paremalt vasakule."
+      ],
+      "snr": "026",
+      "ajad": [
+        "185.920",
+        "192.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest männimetsas matkamas või loodust nautimas. Mets on tihe, domineerivad pikad peened männitüved ja rikkalik roheline alustaimestik, mis koosneb erinevatest põõsastest, rohust ja samblast. Valitseb rahulik ja looduslähedane õhkkond. Vasakul seisab seljaga kaamera poole inimene, seljas heleda värvi seljakott, peas lilla-sinine müts ja riietuses domineerivad valged, mustad ning sinised toonid. Paremal pool, tiheda alustaimestiku vahel, ilmub teine inimene, seljas sinine-punane jope ja sinine seljakott. Tundub, et teine inimene on metsas midagi maapinnalt otsinud või korjanud, olles esialgu madalamas asendis, seejärel end osaliselt püsti ajanud. Metsas on nähtav kitsas rada või käigurada. Üldine meeleolu on rahulik ja avastamisrõõmus.",
+      "actions": [
+        "Matkamine",
+        "Metsas viibimine",
+        "Vaatlemine",
+        "Kükkimine/korjamine (teine inimene)",
+        "Püstitõusmine (teine inimene)"
+      ],
+      "keywords": [
+        "Mets",
+        "Matkamine",
+        "Loodus",
+        "Männid",
+        "Rohelus",
+        "Seljakotid",
+        "Marjakorjamine",
+        "Rahu",
+        "Avastusretk"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Männid",
+        "Põõsad",
+        "Rohi",
+        "Sammal",
+        "Rajake",
+        "Seljakott (hele, esimesel inimesel)",
+        "Müts (lilla/sinine)",
+        "Jope (valge/must/sinine, esimesel inimesel)",
+        "Teksapüksid (sinised)",
+        "Seljakott (sinine, teisel inimesel)",
+        "Jope (punane/sinine, teisel inimesel)"
+      ],
+      "colorcodes": [
+        "#6A4BCF",
+        "#F0F0F0",
+        "#2A3C90",
+        "#C03A2B",
+        "#4C5E32",
+        "#2A3C20",
+        "#6A4B2F",
+        "#A09A8C"
+      ],
+      "texts": [],
+      "persons": [
+        "Matkaja (seljaga kaamera poole)",
+        "Matkaja (nägu eemal, kükitamas/tõusmas)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Teine inimene, kes oli esimesel pildil osaliselt põõsaste taha varjunud ja kükkis, on teisel pildil tõusnud ja selgemalt nähtav. Tema asend ja tegevus on muutunud.",
+        "Teise inimese seljakott on esimesel pildil rohkem varjatud, teisel pildil aga täielikult nähtaval."
+      ],
+      "snr": "027",
+      "ajad": [
+        "192.320",
+        "199.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte last tihedas ja rohelises metsas, kes on küürutanud maha madala samblase ja põõsastunud künka taha, luurates ümbrust. Lapsed on esiplaanil nähtavad rinnust saati. Vasakpoolne laps, kellel on peas sinise ja valge mustriga pael, imiteerib kätega binokliga vaatamist, luues sõrmedega silmade ümber ringid. Parempoolne laps, kellel on sinine müts peas, kasutab päris binoklit. Mõlemad lapsed vaatavad keskendunult otse ettepoole, justkui otsides midagi. Nende ees on tihe roheline sammal ja madalad põõsad. Taustal on näha mitmeid puid, enamasti okaspuud, mis loovad metsa sügavuse ja varjulise atmosfääri.",
+      "actions": [
+        "Luuramine",
+        "Binokliga vaatamine",
+        "Binokli imiteerimine kätega",
+        "Küürutamine"
+      ],
+      "keywords": [
+        "Mets",
+        "Lapsed",
+        "Luuramine",
+        "Binokkel",
+        "Seiklus",
+        "Loodus",
+        "Mäng",
+        "Sammal",
+        "Põõsad"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Binokkel",
+        "Puumarjad",
+        "Sammal",
+        "Põõsad",
+        "Sinine müts",
+        "Sinine pael/sall"
+      ],
+      "colorcodes": [
+        "#4F5E33",
+        "#8C785C",
+        "#2E472D",
+        "#4A7BA0",
+        "#D3A77C"
+      ],
+      "texts": [],
+      "persons": [
+        "Laps 1",
+        "Laps 2"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Parempoolse lapse pea asend on piltide vahel kergelt muutunud, justkui oleks ta pilku või vaatenurka nihutanud.",
+        "Vasakpoolne laps on oma käsi ja pead natuke liigutanud, muutes kätest moodustatud 'binokli' kuju ja asendit.",
+        "Üldine stseen, valgus ja taust on piltide vahel identne, mis viitab sellele, et tegu on järjestikuste kaadritega."
+      ],
+      "snr": "028",
+      "ajad": [
+        "199.280",
+        "202.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet tihedasse metsa läbi kitsaste, ebakorrapäraste avauste, mis annavad edasi binokli või mõne muu sarnase vaatlusseadme perspektiivi. Vaade on jaotatud kaheks eraldi fookuspunktiks, mis on keskel eraldatud suure musta alaga, mis viitab vaatleja silmade vahelisele alale. Parempoolses avause fookuses on valgusrohelise lehestikuga metsataimestik, mis on päikesevalguses eredalt esile toodud, ja vasakpoolses on näha suuremaid puutüvesid ja tumedamat alusmetsa. Üldine meeleolu on roheline ja looduslik, valguskiired paistavad läbi lehestiku. Stseen loob tunde, nagu vaataks keegi varjatult või jälgiks loodust eemalt. Mets on tihe ja lopsakas, mis viitab suvisele ajale.",
+      "actions": [
+        "Vaatlemine/jälgimine",
+        "Metsas viibimine",
+        "Luuskimine (võimalik)"
+      ],
+      "keywords": [
+        "Mets",
+        "Loodus",
+        "Roheline",
+        "Varjatud",
+        "Binokkel",
+        "Vaatlus",
+        "POV",
+        "Suvi",
+        "Valgus",
+        "Lehestik"
+      ],
+      "shot_type": "POV",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Lehestik",
+        "Põõsad",
+        "Alusmets",
+        "Päikesevalgus (efekt)",
+        "Binokkel (implitsiitne/vaatlusseade)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#3A5C37",
+        "#70B14A",
+        "#2C4729",
+        "#8B4513"
+      ],
+      "texts": [],
+      "persons": [
+        "Implitsiitne vaatleja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Päikesevalgus paistab intensiivsemalt läbi lehestiku ja valgustab parempoolset metsaalust järjest eredamalt, liikudes esimesest kaadrist kolmandasse. Eriti parempoolne ava muutub heledamaks ja detailirohkemaks.",
+        "Taimestik näib liikuvat või värisevat kergelt, mis võib viidata õrnale tuulehoolele või vaatleja minimaalsele liikumisele. Eriti parempoolse ava roheline taimestik näib olevat pisut teises asendis ja eredamalt valgustatud.",
+        "Üldine stseeni heledus suureneb järk-järgult kaadrite vahel, muutes metsaaluse detailid paremini nähtavaks."
+      ],
+      "snr": "029",
+      "ajad": [
+        "202.840",
+        "205.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet läbi kahe ebaregulaarse, tumeda ja uduse ava, mis paljastavad päikeselise metsa. Esiplaan on peaaegu täielikult kaetud tumedate, ebamääraste vormidega, mis viitavad sellele, et vaade toimub läbi mingisuguse varjualuse või eseme, näiteks binokli või pilu, luues tunde, nagu vaataks keegi varjatult metsa. Läbi avade paistab tihe ja lopsakas mets, mida valgustab eredalt päike. Vasakul avas on näha pikemaid puutüvesid ja tumedamat alusmetsa, samas kui paremal avas on rõhk eredalt valgustatud rohelisel põõsastikul ja taimestikul. Üldine värvigamma on roheline erinevates toonides, alates tumerohelisest kuni heleroheliseni, millele lisandub must esiplaanil. Stseen õhkab rahu ja looduslähedust, kuid samal ajal ka salapära tänu varjatud vaatenurgale.",
+      "actions": [
+        "Metsobservatsioon",
+        "Vaatlemine",
+        "Piilumine"
+      ],
+      "keywords": [
+        "Mets",
+        "Loodus",
+        "Roheline",
+        "Vari",
+        "Päikesepaiste",
+        "Vaatlus",
+        "Salapära",
+        "Varjupaik",
+        "Piiluauk",
+        "Varjatud vaade"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mets",
+        "Puud",
+        "Põõsad",
+        "Taimed",
+        "Lehed",
+        "Vari"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#2d422a",
+        "#8dc253"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on näha väga minimaalseid muutuseid valguses ja lehestikus, mis viitab video järjestikustele kaadritele."
+      ],
+      "snr": "030",
+      "ajad": [
+        "205.240",
+        "206.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet tihedasse rohelisse metsa läbi tumeda ja ebakorrapärase avause, mis jätab mulje piilumisest või varjatud asukohast. Esiplaan on tume ja ähmastunud, moodustades mitmeharulise kontuuri, mis raamib metsamaastikku. Keskel on näha veelgi ähmastunud, tumedat, kergelt inimkuju meenutavat siluetti, mis viitab sellele, et kaamera on väga lähedal mingile takistusele või isikule, kes läbi avause vaatab. Vaade metsale on lopsakas ja roheline, eri toonides lehtede ja põõsastega. Eriti stseeni paremal poolel paistab eredat päikesevalgust, mis valgustab osaliselt alusmetsa, luues valguse ja varjude mängu. Vasakul poolel on mets tumedam ja varjulisem. Üldmulje on saladuslik ja jätab vaatajale tunde, nagu ta oleks tunnistajaks varjatud sündmusele või jälgiks midagi peidupaigast.",
+      "actions": [
+        "Vaatlemine",
+        "Piilumine",
+        "Jälgimine",
+        "Peitumine"
+      ],
+      "keywords": [
+        "Mets",
+        "Rohelus",
+        "Varjud",
+        "Päikesevalgus",
+        "Peitmine",
+        "Avamine",
+        "Perspektiiv",
+        "Loodus",
+        "Siluett"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mets",
+        "Põõsad",
+        "Lehed",
+        "Puud",
+        "Vari",
+        "Avause kontuur"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#517a3a",
+        "#76a04e",
+        "#92b66f",
+        "#3b5a2c"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on erinevused minimaalsed ja peaaegu märkamatud, viidates sellele, et tegemist on järjestikuste kaadritega videost. Võimalikud erinevused tulenevad ülipeenest kaamera värinast või video tihendamisest, mitte stseeni sisu märgatavast muutumisest."
+      ],
+      "snr": "031",
+      "ajad": [
+        "206.440",
+        "206.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte noort last, tüdrukut ja poissi, mängimas tihedas rohelises metsas. Nad on peidus suure samblaga kaetud künka taga, millel kasvavad ka mustikataimed. Ümberringi on kõrged männid ja kuused, mis moodustavad rikkaliku metsa tausta. Valgus on pehme ja hajutatud, mis annab märku pilvisest päevast või metsa võrast läbivast valgusest. Tüdruk, kes on vasakul, kannab heledat peapaela ja sinist jopet või pluusi. Kahel kaadris vaatab ta intensiivselt läbi helesiniste binoklite, piiludes üle samblakünka. Ühes kaadris on ta binoklid alla lasknud ja näib midagi jälgivat või poisiga suhtlevat. Poiss, kes on paremal, kannab värvilist nokamütsi sinistes, lillades ja rohelistes toonides ning tumedat pikkade varrukatega pluusi heledamate aktsentidega. Kahel kaadris on temagi aktiivselt vaatlusega tegelemas, hoides tumedaid binokleid silmade ees, pilk ettepoole suunatud, justkui oleks ta märganud midagi huvitavat. Ühes kaadris on tema käed tõstetud näo juurde, kuid binoklid ei ole selgelt näha, mis viitab lühikesele mängupausile või kujuteldavate binoklite kasutamisele. Mõlemad lapsed lebavad või kükitavad madalalt maapinnal, kasutades looduslikku pinnast varjena, mis lisab seikluse ja avastamise tunnet. Nende ilmed viitavad keskendumisele ja süvenemisele mängulisse uurimisse. Üldine mulje on lapsepõlve imest ja loodusega ühendusest.",
+      "actions": [
+        "Binoklitega vaatamine",
+        "Jälgimine",
+        "Mängimine",
+        "Kükitamine/lamamine",
+        "Piilumine"
+      ],
+      "keywords": [
+        "Mets",
+        "Lapsed",
+        "Mäng",
+        "Seiklus",
+        "Binoklid",
+        "Sammal",
+        "Loodus",
+        "Uurimine",
+        "Suvi",
+        "Roheline"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Binoklid",
+        "Puud",
+        "Sammal",
+        "Mustikataimed",
+        "Nokamüts",
+        "Peapael"
+      ],
+      "colorcodes": [
+        "#3E72A2",
+        "#6B91B8",
+        "#3B5B30",
+        "#618A48",
+        "#405F36",
+        "#52473D",
+        "#40362E",
+        "#F2C7A8"
+      ],
+      "texts": [],
+      "persons": [
+        "Tüdruk",
+        "Poiss",
+        "Lapsed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel ja kolmandal pildil vaatavad mõlemad lapsed aktiivselt läbi binoklite.",
+        "Teisel pildil on tüdruk oma binoklid alla lasknud ja vaatab mujale, samal ajal kui poisi binoklid ei ole selgelt näha, kuigi tema käed on tõstetud näo juurde.",
+        "Laste kehahoiakute ja nurkade kerged nihked kaadrite vahel."
+      ],
+      "snr": "032",
+      "ajad": [
+        "206.960",
+        "215.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet läbi binokli, mis annab pildile iseloomulikud kaks ümmargust vaatevälja mustal taustal. Vaateväljas on tihe mets, kus esiplaanil domineerivad jämedad puutüved. Nende tüvede tekstuur on kohati udune või terav, mis viitab fookuse nihkumisele vaatepunktis. Vasakpoolses vaateväljas on esile tõstetud suur puutüvi, mille koor on detailne. Parempoolses vaateväljas on näha teisi puutüvesid ja peenemaid oksi. Taustal paistab tihe roheline lehestik ja läbi puude kumav heledam valgus, mis viitab päikesepaistelisele ilmale metsa sügavuses. Üldine atmosfäär on vaikne ja looduslähedane, roheliste ja pruunide varjunditega. Piltide vahel on näha fookuse ja valgustuse peenike reguleerimine, mis loob mulje binokli kohandamisest või aeglasest pilgu liigutamisest läbi metsa.",
+      "actions": [
+        "Binokliga vaatamine (kaudne)",
+        "Fookuse reguleerimine",
+        "Metsa jälgimine"
+      ],
+      "keywords": [
+        "Binokkel",
+        "Mets",
+        "Puud",
+        "Loodus",
+        "Vaatlus",
+        "Roheline",
+        "Pruun",
+        "Fookus",
+        "Päevavalgus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Puutüved",
+        "Oksad",
+        "Lehed",
+        "Mets"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#2E4C31",
+        "#5C4F3F",
+        "#8EA75E",
+        "#40352A"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on üldiselt udune ja sumedam, taustavalgus on hajusam.",
+        "Teine pilt on veidi teravam, eriti vasakpoolne puutüvi, ja värvid on küllastunud.",
+        "Kolmas pilt on kõige teravam ja heledam, taustavalgus on intensiivsem ja detailid on paremini esile toodud."
+      ],
+      "snr": "033",
+      "ajad": [
+        "215.560",
+        "218.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte last tihedas rohelises metsas, kes on peitunud samblase mätta taha ja vaatlevad midagi kauguses. Vasakul on tüdruk oranži peapaela ja pruunide juustega, seljas sinine seljakott või vest. Ta hoiab käes sinist binoklit, millega ta pilguga süvenenult vaatab. Paremal on poiss sinise nokamütsiga, kelle käed on tõstetud silmade ette, imiteerides binokli kasutamist. Mõlemad lapsed on põlvili või kükitavad tiheda rohelise sambla ja taimestiku taga, mis moodustab esiplaanil madala künka. Taustal on näha mitu pikka halli puutüve ja tihedat okaspuumetsa, mis loob sügavuse ja varjulise atmosfääri. Üldine meeleolu on seikluslik ja uudishimulik.",
+      "actions": [
+        "vaatlemine",
+        "peitumine",
+        "binokli hoidmine",
+        "binokli imiteerimine kätega",
+        "uurimine"
+      ],
+      "keywords": [
+        "mets",
+        "lapsed",
+        "seiklus",
+        "vaatlus",
+        "binokkel",
+        "peitus",
+        "loodus",
+        "sammal",
+        "okasmets",
+        "uudishimu"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "tüdruk",
+        "poiss",
+        "sinine binokkel",
+        "oranž peapael",
+        "sinine nokamüts",
+        "sinine seljakott",
+        "puud",
+        "sammal",
+        "taimestik",
+        "puutüved"
+      ],
+      "colorcodes": [
+        "#40623B",
+        "#766144",
+        "#A8C4A6",
+        "#346894",
+        "#E2BE80"
+      ],
+      "texts": [],
+      "persons": [
+        "laps (tüdruk)",
+        "laps (poiss)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil hoiab tüdruk binoklit veidi allapoole suunatud nurga all ja tema näoilme on veidi tõsisem. Poisil on parema käe pöial selgelt nähtav tema oimukoha juures.",
+        "Teisel ja kolmandal pildil on tüdruku binokkel hoitud veidi kõrgemal ja horisontaalsemalt. Poisil on parema käe pöial vähem nähtav ja ta sõrmed on silmade ees tihedamalt koos. Kolmanda pildi puhul on erinevused teise pildiga minimaalsed, peamiselt kerged ilme ja poosi nüansid, mis viitavad pidevale liikumisele."
+      ],
+      "snr": "034",
+      "ajad": [
+        "218.440",
+        "220.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab suviselt lopsakat metsamaastikku, mida iseloomustab tihe puude rivi ja erkroheline alusmets, mis on tõenäoliselt täis mustika- või pohlavarsi. Päike paistab läbi puuvõrade, luues maapinnale eredate valguslaikude ja sügavate varjude mängu, mis annab stseenile dünaamilise ja elava ilme. Vasakul pool on näha pikali kukkunud puutüvi, mis lisab maastikule looduslikku ja kohati metsikut hõngu. Stseeni arenedes ilmuvad metsa sügavusest kaks last, mõlemal seljakott seljas, ja hakkavad kõndima läbi tiheda alusmetsa, liikudes algselt kaadri tagaosast paremalt vasakule ja seejärel ettepoole ning vasakult paremale kaadris. Nende liikumine annab märku matkast või avastusretkest metsas.",
+      "actions": [
+        "Lapsed liiguvad metsas",
+        "Lapsed matkavad läbi tiheda alusmetsa",
+        "Päike paistab läbi puuvõrade",
+        "Varjud liiguvad maapinnal"
+      ],
+      "keywords": [
+        "Mets",
+        "Loodus",
+        "Matkamine",
+        "Lapsed",
+        "Suvi",
+        "Päikesepaiste",
+        "Varjud",
+        "Puud",
+        "Alusmets",
+        "Rohelus",
+        "Kukkunud puu",
+        "Seiklus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Alusmets (mustikavarred/pohlavarred)",
+        "Murdunud puutüvi",
+        "Seljakotid",
+        "Laste riided",
+        "Päikesekiired"
+      ],
+      "colorcodes": [
+        "#4A6E24",
+        "#7AA644",
+        "#8B8C87",
+        "#A3A49F",
+        "#A7774E",
+        "#C8996F",
+        "#3B6B9B",
+        "#B23D33"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks last"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil pole inimesi näha.",
+        "Teisel pildil ilmuvad kaadrisse kaks last, kes on veel kauguses ja hakkavad paremalt poolt üle kaadri vasakule liikuma.",
+        "Kolmandal pildil on lapsed edasi liikunud, asuvad nüüd kaadris eespool ja on paremini nähtavad, liikudes vasakult paremale. Nende asend ja nähtavus on selgemad."
+      ],
+      "snr": "035",
+      "ajad": [
+        "220.440",
+        "225.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte noort last, poissi ja tüdrukut, kes uurivad metsa. Üldine atmosfäär on uudishimulik ja avastusrohke. Poiss, kellel on seljas ergas mitmevärviline nokamüts (lilla, roheline, sinine) ja triibuline jope, on aktiivselt tegev. Ühel hetkel piilub ta puutüve tagant, näib vaatavat valget, kohevat, puuvillalaadset materjali, mis on kinnitunud koore külge ja varjab osaliselt tema nägu. Hiljem uurib ta seda materjali lähemalt luubi abil, tüdrukuga koos, kes samuti keskendunult jälgib. Tüdrukul on punakas juuksevärv ja mustrilise peapaelaga seotud juuksed ning ruuduline särk. Tema pilk on samuti keskendunud. Veel ühel hetkel kasutab poiss sinist binoklit, skannides kauguses olevat metsa, samal ajal kui tüdruk teda kõrvalt jälgib. Metsa taust on lopsakas ja roheline, mis viitab soojale aastaajale, nagu suvi või hiliskevad. Valgus on ere ja loomulik, mis osutab päevasele ajale.",
+      "actions": [
+        "Piilumine",
+        "Uurimine",
+        "Jälgimine",
+        "Luubi abil vaatamine",
+        "Binokliga vaatamine"
+      ],
+      "keywords": [
+        "Mets",
+        "Lapsed",
+        "Uurimine",
+        "Loodus",
+        "Avastus",
+        "Suvi",
+        "Uudishimu",
+        "Metsaretk",
+        "Mäng"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Puutüvi",
+        "Valge udune materjal",
+        "Luup",
+        "Binokkel",
+        "Nokamüts",
+        "Peapael",
+        "Joped",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#6c52a0",
+        "#388ba7",
+        "#f7d002",
+        "#63432d",
+        "#f0f0f0",
+        "#4a5d3f",
+        "#3e98c7",
+        "#7e6a4b"
+      ],
+      "texts": [],
+      "persons": [
+        "Poiss",
+        "Tüdruk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Lapsed tegelevad erinevate vaatlustegevustega, kasutades erinevaid tööriistu (luup, binokkel) või lihtsalt piiludes.",
+        "Perspektiiv nihkub fookusest ühel lapsel, seejärel mõlemal lapsel objektiga suhtlemisel ja lõpuks mõlemal lapsel ümbrust vaadeldes."
+      ],
+      "snr": "036",
+      "ajad": [
+        "225.880",
+        "243.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet läbi binokli, mis alguses on äärmiselt udune ja tume, jättes mulje tihedast lehestikust või metsast. Aja möödudes muutub pilt selgemaks, paljastades rohelise metsaala või võsa, mille keskel on puidust linnusöötja. Lõpuks on vaade täiesti terav, näidates detailset rohelist taimestikku, puidust linnusöötjat ja selle taga paiknevat punakaspruunide puitseintega hoonet, mis meenutab kuuri või metsamaja. Hoone juures on näha ka trepi või redeli osi. Üldmulje on metsikust või looduslähedasest keskkonnast, kus inimtegevuse jälgi on kaua aega mööda vaadeldud.",
+      "actions": [
+        "Binokliga vaatamine",
+        "Fookuse reguleerimine",
+        "Looduse jälgimine",
+        "Objekti tuvastamine"
+      ],
+      "keywords": [
+        "Binokkel",
+        "Vaatlus",
+        "Fookus",
+        "Mets",
+        "Lehestik",
+        "Puud",
+        "Roheline",
+        "Kuur",
+        "Linnusöötja",
+        "Loodus",
+        "Maapiirkond",
+        "Udune",
+        "Terav"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Binokli vaateväli",
+        "Lehestik",
+        "Puud",
+        "Linnusöötja (puidust)",
+        "Hooned (punakaspruun puitseinaga kuur/maja)",
+        "Trepp/redel"
+      ],
+      "colorcodes": [
+        "#2f3b23",
+        "#5a733e",
+        "#708a47",
+        "#b3744f",
+        "#916744",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Piltide peamine erinevus seisneb fookuse ja detailide järkjärgulises paranemises.",
+        "Esimene pilt on äärmiselt udune ja tume, näidates vaid hägusaid kujundeid.",
+        "Teine pilt on parema fookusega ning seal on näha linnusöötja ja hoone kontuurid.",
+        "Kolmas pilt on täiesti terav ja detailne, selgelt esitledes linnusöötjat, punakaspruuni hoonet ja rikkalikku rohelist taimestikku."
+      ],
+      "snr": "037",
+      "ajad": [
+        "243.480",
+        "251.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab suvist idülli maakodus, kus puitfassaadiga hooneid ümbritseb roheline aed ja puidust lippidest aed. Päikseline ilm valgustab eredalt muru ja kaugemal paistvat metsa. Aias on näha vana puidust maja, mille katusel on näha kahte päikesepaneeli, ning selle ees asub punane abihoone või kuur kollase uksega. Aia ääres, vasakul pool, seisab avatud punane postkast, mis on täidetud kirjade ja paberitega. Aeda viib puidust värav ja värava kõrval posti otsas on dekoratiivsed põdrasarved. Stseenis on näha kahte koolieelikut või algkoolilast, kes on oma seljakottidega teel majja. Üks lastest kannab sinist nokamütsi, valget T-särki ja tumedaid pükse, teine punast jakki ja siniseid lühikesi pükse ning neil on seljas värvilised seljakotid. Lapsed liiguvad läbi värava või mööda aia äärest kodu poole, astudes üle rohelise muru.",
+      "actions": [
+        "Lapsed kõnnivad mööda rohelisest murust kodu poole",
+        "Lapsed lähenevad puitaiale ja väravale",
+        "Lapsed sisenevad väravast aeda või mööduvad sellest"
+      ],
+      "keywords": [
+        "Maakodu",
+        "Suvi",
+        "Lapsed",
+        "Koolikotid",
+        "Päikeseline",
+        "Puidust maja",
+        "Aed",
+        "Postkast",
+        "Idüll",
+        "Tagasitulek"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puidust maja",
+        "Punane abihoone/kuur",
+        "Päikesepaneelid",
+        "Puidust aed",
+        "Puidust värav",
+        "Punane postkast",
+        "Kirjad ja paberid postkastis",
+        "Roheline muru",
+        "Puud",
+        "Sinine taevas",
+        "Põdrasarved aia postil",
+        "Kollane uks",
+        "Laste seljakotid",
+        "Kummikud/saapad",
+        "Puidust trepp",
+        "Punane ämber/pott"
+      ],
+      "colorcodes": [
+        "#E23C2B",
+        "#AE2A1C",
+        "#8A643A",
+        "#5C3D22",
+        "#5E8C2A",
+        "#3A5F32",
+        "#7AC1E4",
+        "#3B5F9E",
+        "#F0F0F0",
+        "#D6B58F"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks last (üks tüdruk, üks poiss)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puuduvad lapsed kaadrist, pakkudes üldist stseenivaadet.",
+        "Teisel pildil on näha kahte last lähenemas majale; üks laps (arvatavasti poiss sinises mütsis ja tumedates pükstes) on stseeni keskel, teine laps (arvatavasti tüdruk punases jakis) on pildi paremal ääres ja osaliselt kaadrist väljas ning kergelt hägune.",
+        "Kolmandal pildil on üks laps (tüdruk punases jakis ja sinistes lühikestes pükstes) stseeni keskel ja liigub majale lähemale, olles selgemalt fookuses ja paremini nähtav kui eelmisel pildil. Tema värviline seljakott on samuti paremini eristatav."
+      ],
+      "snr": "038",
+      "ajad": [
+        "251.080",
+        "256.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab päikesepaistelist suvepäeva traditsioonilise puitmaja veranda ees. Maja vasakpoolne osa on ehitatud tumedatest horisontaalsetest palkidest, millel asub mitme ruuduga puitaken. Akna all ripub valge potis rippuv taim elavate punaste õitega. Palkseina ülemisel osal on näha mitmeid dekoratiivseid puitraame ja vana latern. Maja parempoolne osa on kaetud vertikaalse punase laudisega, millel asub teine valge raamiga aken ja puidust uks. Ukse kõrvalt ripub alla pikk metallkett. Esialgu on näha täiskasvanu osalist figuuri (sinised püksid ja lilla müts) uksest välja astumas ning paari tumedaid kummikuid ootamas veranda trepiastmel. Seejärel ilmuvad veranda trepile kaks last, tüdruk ja poiss. Tüdruk, heledate juustega, kannab punast pikkade varrukatega särki, helesinist seelikut ja roosasid retuuse ning värvilist seljakotti, millel on selgelt näha kiri \"DINO\" ja multifilmitegelane. Poiss, kes on temast veidi tagapool, on riietatud sinisesse jakki, sinisesse pükstesse, helesinisesse mütsi ja sinisesse kummikutesse, kandes beeži seljakotti. Lapsed kõnnivad mööda puitverandat vasakule ja peatuvad lõpuks palkseina akna ees, seljaga vaataja poole. Verandal on veel roheline kaanega metallnõu, suur puidust tünn, kaks väiksemat puidust ämbrit ja puidust taburet. Ere päevavalgus heidab teravaid varje, rõhutades vana puidu ja esemete tekstuure. Üldmulje on soe, idülliline ja looduslähedane, vihjates laste kooli minekule või seiklusele.",
+      "actions": [
+        "Täiskasvanu astub uksest välja",
+        "Lapsed kõnnivad mööda verandat",
+        "Lapsed kannavad seljakotte",
+        "Lapsed peatuvad akna ees"
+      ],
+      "keywords": [
+        "Maamaja",
+        "Palkmaja",
+        "Puitmaja",
+        "Veranda",
+        "Lapsed",
+        "Seljakotid",
+        "Suvi",
+        "Päikesepaisteline",
+        "Idülliline",
+        "Looduslähedane",
+        "Traditsiooniline"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puitmaja",
+        "Palgimaja",
+        "Punane laudis",
+        "Puitaken",
+        "Potilill",
+        "Punased lilled",
+        "Valge pott",
+        "Puitraamid",
+        "Latern",
+        "Kett",
+        "Roheline metallnõu",
+        "Kaas",
+        "Puidust tünn",
+        "Tünnialus",
+        "Puidust ämber",
+        "Puidust pink",
+        "Kummikud",
+        "Sinised kummikud",
+        "Seljakott",
+        "Värviline seljakott",
+        "Beež seljakott",
+        "Punane särk",
+        "Helesinine seelik",
+        "Roosad retuusid",
+        "Sinine jakk",
+        "Sinised püksid",
+        "Helesinine müts"
+      ],
+      "colorcodes": [
+        "#2E1F1A",
+        "#AA3322",
+        "#DDAA77",
+        "#CC0000",
+        "#FFFFFF",
+        "#6699CC",
+        "#99BBEE",
+        "#E68F8C",
+        "#669966",
+        "#C8AE9A",
+        "#446699",
+        "#BBAA88"
+      ],
+      "texts": [
+        "DINO"
+      ],
+      "persons": [
+        "Kaks last (tüdruk ja poiss)",
+        "Täiskasvanu (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 10,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha täiskasvanu osalist figuuri uksest välja astumas, teistel piltidel puudub see figuur",
+        "Esimesel pildil seisavad tumedad kummikud pingi kõrval verandal, hilisematel piltidel on sinised kummikud poisi jalas",
+        "Esimesel pildil pole lapsi näha, teisel ja kolmandal pildil on verandal kaks seljakottidega last",
+        "Lapsed liiguvad piltidel paremalt vasakule mööda verandat"
+      ],
+      "snr": "039",
+      "ajad": [
+        "256.080",
+        "262.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab traditsioonilise punase puitmaja väliskülge päikeselisel päeval. Maja külg on kaetud puitlaudisega ja sellel on iseloomulik valge raamiga, vertikaalselt kolmeks klaaspaneeliks jagatud aken, mille aknalaual on valge puidust äär. Akna all seisab puidust tünn. Vasakul pool on näha tumedam puitkonstruktsioon, mis on osaliselt varjus, ja seal ripub mitmesuguseid esemeid, sealhulgas sinise, rohelise ja punase triibulise mustriga jope ning musta-valge triibulise varrukaga dressipluus. Akna kõrval, varjulisemas osas, on puidust lillepotis punaste õitega taim. Taustal paremal laotub päikesepaisteline rohtla, mille taga kasvab tihe okasmets. Stseeni jooksul ilmuvad pildile kaks last, kes lähenevad majale paremalt poolt. Esiplaanil on tüdruk pikkade blondide või heledate juustega, seljas helesinine või rohekas pikkade varrukatega pluus, valge mustriga seelik ja punased saapad, kandes seljas sinist, kollaste ja oranžide detailidega seljakotti. Tüdruk vaatleb maja ning sirutab hiljem oma käe maja nurga või akna raami poole. Teda saadab väiksem laps, kes on enamasti varjatuks jäänud, kuid on näha sinine või lilla müts ja jope. Stseen annab edasi maapiirkonna rahu ja laste uudishimu traditsioonilise elukeskkonna vastu.",
+      "actions": [
+        "Lapsed lähenevad majale",
+        "Tüdruk vaatleb maja",
+        "Tüdruk ulatab käe maja nurga või akna raami poole",
+        "Lapsed uurivad ümbrust"
+      ],
+      "keywords": [
+        "Punane puitmaja",
+        "Maapiirkond",
+        "Loodus",
+        "Lapsed",
+        "Avastusretk",
+        "Suvila",
+        "Päikesepaisteline päev",
+        "Mets",
+        "Rohi",
+        "Traditsiooniline",
+        "Õues",
+        "Aken",
+        "Puit",
+        "Idülliline"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Punane puitmaja",
+        "Valge aken",
+        "Klaaspaneelid",
+        "Aknalaud",
+        "Puidust tünn",
+        "Tume puitkonstruktsioon",
+        "Riided (jope, dressipluus)",
+        "Puidust lillepott",
+        "Punased lilled",
+        "Rohtla",
+        "Okasmets",
+        "Tüdruk",
+        "Väiksem laps",
+        "Tüdruku seljakott",
+        "Punased saapad",
+        "Sinine/lilla müts"
+      ],
+      "colorcodes": [
+        "#8A1F1F",
+        "#FFFFFF",
+        "#1F402C",
+        "#6D9B4A",
+        "#20B2AA",
+        "#FF0000",
+        "#483D8B",
+        "#FFD700",
+        "#8B4513",
+        "#36454F"
+      ],
+      "texts": [],
+      "persons": [
+        "Tüdruk",
+        "Väiksem laps"
+      ],
+      "imagetype": "real",
+      "emptypercent": 5,
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puuduvad inimfiguurid, pakkudes stseeni ülevaate ilma sekkumiseta.",
+        "Teisel pildil ilmuvad kaadrisse kaks last, kes lähenevad majale paremast servast, tuues stseeni dünaamikat ja tegevust.",
+        "Kolmandal pildil on lapsed veidi liikunud; tüdruk on sirutanud käe maja seina või akna raami poole, samal ajal kui väiksem laps on jäänud rohkem varjatuks, peaaegu kaadri taha."
+      ],
+      "snr": "040",
+      "ajad": [
+        "262.800",
+        "276.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte last, poissi ja tüdrukut, nende lihtsas ja vanamoodsas koduses keskkonnas. Noor poiss, arvatavasti 6-8-aastane, on stseenis mitmel korral, kandes selgelt äratuntavat sinise, lilla ja rohelise toonides pesapallimütsi, kollast T-särki ning tumedat spordijakki, mille varrukatel on valged triibud. Tema näoilme on läbi stseeni tõsine ja mõtlik. Stseeni alguses seisab poiss ukseavas, vasakule jääv ruumiosa on hämar, samal ajal kui paremal pool avaneb vaade heledamale ruumile, mille seinu katab lillelise mustriga tapeet ja kus on näha seinale riputatud religioosset pilti või ikooni. Hiljem liigub poiss ruumi teise ossa, kus ta vaatab valamusse, mis on integreeritud tumedasse kappi. Valamu kõrval laual on näha puust seakujulist lõikelauda, topsis pliiatseid või pintsleid ja valget märkmepaberit. Valamu kohal ripub rätik ja on peegel. Stseenis ilmub lisaks poisile ka teine laps, arvatavasti temast veidi vanem tüdruk, vanuses umbes 7-9 aastat. Tüdrukul on heledad juuksed, mis on seotud mustrilise peapaelaga, ning seljas on tal türkiissinine, punane ja must jope, millel on osaliselt näha tekst 'Enjoy Life'. Tüdrukul on seljas ka seljakott. Mõlemad lapsed seisavad koos tõsise ilmega, vaadates veidi allapoole vasakule. Nad asuvad köögis või söögitoas, kus laud on kaetud heleda mustriga laudlinaga. Laual on mitmesuguseid esemeid: punane termos, pudel, kauss või pott, praepann ja kärbsepiits. Taustal on näha köögimööblit ja kraanikaussi. Stseeni valgustus varieerub hämaramast, sügavamat varju loovast valguses ukseavas kuni eredama, ilmselt loomuliku päevavalguseni köögis. Üldine atmosfäär on vaikne ja toob esile laste tõsised ilmed lihtsas, ajahambast puretud koduses keskkonnas.",
+      "actions": [
+        "Poiss seisab ukseavas",
+        "Poiss vaatab valamusse",
+        "Lapsed seisavad koos",
+        "Lapsed vaatavad tõsise näoga"
+      ],
+      "keywords": [
+        "Lapsed",
+        "Kodu",
+        "Lihtne elukeskkond",
+        "Vanamoodne",
+        "Siseinterjöör",
+        "Mõtlik",
+        "Köök",
+        "Spordirõivad",
+        "Portree",
+        "Igapäevaelu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Poisi pesapallimüts",
+        "Poisi kollane T-särk",
+        "Poisi spordijakk",
+        "Tüdruku peapael",
+        "Tüdruku jope",
+        "Seljakott",
+        "Uks",
+        "Lilleline tapeet",
+        "Religioosne pilt",
+        "Valamu",
+        "Kapp",
+        "Laud",
+        "Puust seakujuline lõikelaud",
+        "Tops pliiatsitega",
+        "Märkmepaber",
+        "Rätik",
+        "Peegel",
+        "Laudlina",
+        "Termos",
+        "Pudel",
+        "Kauss",
+        "Praepann",
+        "Kärbsepiits",
+        "Köögimööbel"
+      ],
+      "colorcodes": [
+        "#3B5B9F",
+        "#8C63B7",
+        "#F7E547",
+        "#2E3A4C",
+        "#4A9F9E",
+        "#BD4242",
+        "#E0D4C5"
+      ],
+      "texts": [
+        "Enjoy Life"
+      ],
+      "persons": [
+        "Poiss",
+        "Tüdruk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevad kaadrivalikud (alates keskmisest pildist kuni lähivõtteni)",
+        "Stseenis näidatakse erinevaid ruumiosasid (ukseava, pesemisnurk, köök)",
+        "Pildil olevate inimeste arv varieerub (üks poiss vs kaks last)",
+        "Valgustus on kaadrite vahel erinev, alates hämarast kuni eredani",
+        "Erinevates kaadrites on näha uusi esemeid ja interjööri detaile"
+      ],
+      "snr": "041",
+      "ajad": [
+        "276.000",
+        "317.200"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivaates näha eaka mehe käsi, kes trükib mustal vanaaegsel kirjutusmasinal. Mees kannab valget pehmet rüüd või hommikumantlit, mis on nähtav vasakul ja alumises vasakus nurgas. Tema pikk valge habe või juuksed on nähtavad samuti vasakul pool, luues assotsiatsiooni jõuluvanaga. Käed liiguvad aktiivselt kirjutusmasina klahvidel, näidates pidevat kirjutamistegevust. Kirjutusmasin asub heledal pruunil puidust laual ja taust on heledates pruunikas-beežides toonides, viidates siseruumile. Valgus on ere ja loomulik, valgustades stseeni ülalt.",
+      "actions": [
+        "Kirjutamine kirjutusmasinal",
+        "Trükkimine klahvidel"
+      ],
+      "keywords": [
+        "Kirjutamine",
+        "Kirjutusmasin",
+        "Käed",
+        "Eakas mees",
+        "Jõuluvana",
+        "Valge rüü",
+        "Habe",
+        "Puidust laud",
+        "Vintage",
+        "Trükkimine",
+        "Siseruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kirjutusmasin",
+        "Inimese käed",
+        "Puidust laud",
+        "Rüü/hommikumantel",
+        "Habe/juuksed"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#ffffff",
+        "#9b7156",
+        "#a07a5f",
+        "#d3c9b9"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakas mees (võimalik, et Jõuluvana)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 10,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Käte asend klahvidel muutub kaadrite vahel minimaalselt, mis annab edasi pideva trükkimise tegevuse."
+      ],
+      "snr": "042",
+      "ajad": [
+        "317.200",
+        "320.760"
+      ]
+    },
+    {
+      "explanation": "Vanem inimene, tõenäoliselt mees, kannab valget froteerätikust vannimantlit ning pikka, lokkis valget parukat ja habet, mis meenutab jõuluvana või jumalakuju. Isik seisab siseruumis, käed on tõstetud pea kohale laiali sõrmedega, peopesad kergelt ettepoole suunatud, justkui žestikuleerides või tervitades. Silmad paistavad olevat suletud või allapoole vaatavad. Taustaks on hele, vertikaalsete triipudega mustriga tapeet ning paremal seinal ripub tume, ümmargune dekoratiivese, näiteks taldrik. Valgus on pehme, kuid pisut hämar, tuues esile valged rüü ja juuksed. Stseenil on teatraalne, humoorikas või tseremoniaalne meeleolu.",
+      "actions": [
+        "Käte tõstmine",
+        "Žestikuleerimine",
+        "Poosi hoidmine"
+      ],
+      "keywords": [
+        "Valge rüü",
+        "Valge habe",
+        "Valge parukas",
+        "Žest",
+        "Interjöör",
+        "Vanem inimene",
+        "Teater",
+        "Jumal",
+        "Jõuluvana",
+        "Vannimantel",
+        "Lokid",
+        "Koomiline"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Valge vannimantel",
+        "Valge lokkis parukas",
+        "Valge lokkis habe",
+        "Tapeet",
+        "Dekoratiivne taldrik",
+        "Inimese käed",
+        "Inimese nägu"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#C7B79D",
+        "#3C3632",
+        "#B88E75"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Käed on piltidel veidi erinevates asendites, viidates liikumisele või žesti arengule.",
+        "Pea asend muutub kergelt, peegeldades väikseid keha liigutusi.",
+        "Silmade avatus või pilk varieerub minimaalselt."
+      ],
+      "snr": "044",
+      "ajad": [
+        "329.000",
+        "330.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte last, poissi ja tüdrukut, kes seisavad toas ja väljendavad suurt põnevust või rõõmu, suud lahti ja häälekalt hüüdes. Mõlemad kannavad vabaaja, retrohõngulisi spordiriideid ja seljakotte, mis viitab kas peatselt algavale seiklusele või saabumisele. Poiss on heledate juustega, kannab lillat ja rohelist nokamütsi, erkkollast T-särki ning sinisest, valgest ja mustast trikooriidest dressipluusi, mille ümber on vöökott. Tüdruk on samuti heledate juustega, peas mustriline peapael, seljas punane pikkade varrukatega särk kirjaga \"Enjoy LIFE\" ning sinakasroheline ja must dressipluus. Ta kannab seljakotti. Tuba on sisustatud magamistoale iseloomulikult: vasakul on voodi ruudulise rohekas-kreemika tekiga, voodi kõrval puidust öökapp ning seinal suur seinavaip mägise maastikuga, millel on kujutatud ka väikeseid maju. Seinad on kaetud heledate vertikaalsete triipudega tapeediga. Paremal on näha hele uks ja osa puidust riiulist/lauast. Kolmandal kaadril on näha, kuidas poiss pöörab selja ja lahkub toast, kõndides paremale uksest välja, kandes endiselt seljakotti. Tüdruk ei ole enam kaadris nähtav.",
+      "actions": [
+        "Hüüdma",
+        "Rõõmustama",
+        "Kõndima",
+        "Toast väljuma"
+      ],
+      "keywords": [
+        "Lapsed",
+        "Põnevus",
+        "Rõõm",
+        "Retrostiil",
+        "Seljakotid",
+        "Magamistuba",
+        "Mägimaastik",
+        "Seiklus",
+        "Väljumine",
+        "Lõbus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Poiss",
+        "Tüdruk",
+        "Nokamüts",
+        "T-särk",
+        "Dressipluus",
+        "Vöökott",
+        "Peapael",
+        "Pikkade varrukatega särk",
+        "Seljakott",
+        "Voodi",
+        "Tekk",
+        "Öökapp",
+        "Seinavaip",
+        "Tapeet",
+        "Uks",
+        "Laud/riiul"
+      ],
+      "colorcodes": [
+        "#6B4EAD",
+        "#3F8C58",
+        "#F2EE2D",
+        "#1E3758",
+        "#FFFFFF",
+        "#569FE8",
+        "#C9262C",
+        "#2C7E7E",
+        "#A7B681",
+        "#E0E2D1",
+        "#8F8C8A",
+        "#A0C3D8",
+        "#E0D0C5",
+        "#C0A89C",
+        "#E0DCD4"
+      ],
+      "texts": [
+        "Enjoy LIFE"
+      ],
+      "persons": [
+        "Poiss",
+        "Tüdruk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimese ja teise pildi vahel on laste peade asendis ja näoilmetes märgatavad väikesed erinevused, mis annavad edasi liikumist ja emotsiooni sügavust.",
+        "Kolmandal pildil on poiss pööranud selja ja kõnnib toast välja läbi ukse, olles kaadris vasakult paremale liikumas, samal ajal kui tüdruk pole enam nähtav. Kaadri perspektiiv on veidi muutunud, näidates ust laiemalt ja vasakpoolset ruumi vähem."
+      ],
+      "snr": "045",
+      "ajad": [
+        "330.480",
+        "334.160"
+      ]
+    },
+    {
+      "explanation": "Stseenil on lähedalt kujutatud vanem mees, kellel on seljas ja peas suur, lokkis, valge parukas ja habe, mis meenutab jõuluvana. Tema nägu, eriti silmad, nina ja õrn naeratus, paistab läbi tiheda valge juuksemassi, vaadates otse vaataja poole. Tundub, et tal on seljas heledavärviline, võimalik, et valge või kreemjas pehme rüü või hommikumantel. Taust on hägune siseruum, kus on näha mustrilist tapeeti ja paremal seinal tumedat ümmargust dekoratiiveset, näiteks taldrikut või kella. Stseeni valgus on üldiselt sume ja intiimne, mis järjestikku hajub peaaegu täielikult pimedusse, luues salapära või öösse ülemineku tunde.",
+      "actions": [
+        "Mees vaatab otse kaamerasse/vaatajale",
+        "Valgus tuhmub järk-järgult"
+      ],
+      "keywords": [
+        "Jõuluvana",
+        "Valge habe",
+        "Parukas",
+        "Siseruum",
+        "Hämar",
+        "Portree",
+        "Naeratus",
+        "Salapärane",
+        "Jõulud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Jõuluvanaparukas",
+        "Jõuluvanahabe",
+        "Mees",
+        "Sein",
+        "Mustriline tapeet",
+        "Dekoratiivtaldrik",
+        "Rüü"
+      ],
+      "colorcodes": [
+        "#F5F5F5",
+        "#C8A282",
+        "#96816D",
+        "#2E3E3D",
+        "#1A1A1A"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Jõuluvana"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "evening",
+      "differences": [
+        "Kõige olulisem erinevus on valgustus. Esimesed kaks pilti on sarnase, suhteliselt sumeda, kuid selge valgustusega. Kolmas pilt on oluliselt tumedam, peaaegu must, mis viitab valguse täielikule hääbumisele või kiirele vähenemisele."
+      ],
+      "snr": "046",
+      "ajad": [
+        "334.160",
+        "336.800"
+      ]
+    },
+    {
+      "explanation": "Stseen algab täiesti musta ekraaniga, mis on ilma igasuguste visuaalsete elementideta. Seejärel ilmuvad ekraani keskele valged krediidid ja tänusõnad, mis on esitatud selgelt loetava kirjatüübiga. Krediidid hõlmavad erinevaid produktsiooniga seotud rolle ja isikute nimesid, nagu näiteks 'Color correction' Piret Krustok, 'After effects' Laura Saimre, 'Animation' Eva Liisa Sepp ja 'Subtitles' Kristiina Tang. Eraldi sektsioonis on esile toodud 'Special thanks' ja loetelu nimedest nagu Vanaema Olga, Kadri Pärnaste, Margus Leheroo ja teised. Tekst on paigutatud ekraani keskele, jättes suurema osa taustast mustaks. Pärast tekstide ilmumist ja nende kohalolekut muutub ekraan uuesti täiesti mustaks, viidates stseeni lõppemisele. Tegemist on minimalistliku ja funktsionaalse lõputiitrite või tänusõnade stseeniga, mis on tüüpiline filmi või video lõpus.",
+      "actions": [
+        "Teksti ilmumine",
+        "Teksti kohalolek ekraanil",
+        "Teksti kadumine ekraanilt"
+      ],
+      "keywords": [
+        "Lõputiitrid",
+        "Krediidid",
+        "Tänusõnad",
+        "Must taust",
+        "Valge tekst",
+        "Film",
+        "Video",
+        "Produktsioon"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Tekst",
+        "Ekraan"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Karel OTSTAVEL",
+        "Madis KREEVAN",
+        "Color correction",
+        "Piret KRUSTOK",
+        "After effects",
+        "Laura SAIMRE",
+        "Animation",
+        "Eva Liisa SEPP",
+        "Subtitles",
+        "Kristiina TANG",
+        "Special thanks:",
+        "Vanaema OLGA",
+        "Kadri PÄRNASTE",
+        "Margus LEHEROO",
+        "Elvi TAMMELA",
+        "Katti MURU",
+        "Toomas MÄGI",
+        "Katrina TANG",
+        "Sirje TANG",
+        "Maarja TANG",
+        "Jüri KRUSTOK",
+        "Rainer LEEMET",
+        "Olger BERNADT",
+        "Sander MARAN",
+        "Maive LEIF",
+        "Gert SAAMAN"
+      ],
+      "persons": [
+        "Karel Otstavel",
+        "Madis Kreevan",
+        "Piret Krustok",
+        "Laura Saimre",
+        "Eva Liisa Sepp",
+        "Kristiina Tang",
+        "Vanaema Olga",
+        "Kadri Pärnaste",
+        "Margus Leheroo",
+        "Elvi Tammela",
+        "Katti Muru",
+        "Toomas Mägi",
+        "Katrina Tang",
+        "Sirje Tang",
+        "Maarja Tang",
+        "Jüri Krustok",
+        "Rainer Leemet",
+        "Olger Bernadt",
+        "Sander Maran",
+        "Maive Leif",
+        "Gert Saaman"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "80-100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene ja kolmas pilt on täiesti mustad ekraanid, samas kui teisel pildil kuvatakse valged tekstikrediidid mustal taustal."
+      ],
+      "snr": "047",
+      "ajad": [
+        "336.800",
+        "391.760"
+      ]
+    }
+  ]
+}

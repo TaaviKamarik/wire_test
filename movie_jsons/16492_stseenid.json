@@ -1,0 +1,1580 @@
+{
+  "film": [
+    "16492",
+    "16374",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Kolm",
+    "c81f053038a32aa83568fcfed74605a20ade16b0.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab mustvalget videoklippi, mis on esitatud digitaalse kaadri sees, millel on mustad ääred ja mis imiteerib vana filmi projektsiooni või ekraani. Kaader ise on kaetud filmigraani, tolmu ja kriimustustega, andes sellele vintage-esteetika. Video sisule on keskele asetatud läbipaistev ringikujuline esituse/pausi ikoon. Kaadri paremal serval on riba filmiga seotud andmetega või seadetega, näiteks numbrid \"1000\", \"500\", \"250\", \"125\", \"60\". Stseen liigub lähivõttelt inimese näo alaosa kohta (suu, lõug, kael, õlg), kes näib rääkivat või rääkima hakkavat, lähivõttele käest, mis hoiab avatud raamatut. Esimeses kaadris on suu veidi avatud ning videokaadri alaosas on subtiiter \"It will be an exhibition.\". Teises kaadris on fookuses maniküüritud käsi, mis hoiab avatud raamatut, mille lehtedel on loetamatu tekst. Mõlema visuaali taust on tume ja fookusest väljas, rõhutades subjektidele. Üldine meeleolu on mõtisklev või jutustav, arvestades kõnelemise ja lugemise tegevusi.",
+      "actions": [
+        "Kõnelemine (oletatav)",
+        "Raamatu hoidmine",
+        "Lugemine (oletatav)"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Vana film",
+        "Filmigraan",
+        "Subtiitrid",
+        "Lugemine",
+        "Raamat",
+        "Nägu",
+        "Käsi",
+        "Filmikaader",
+        "Video",
+        "Vintage"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimene (nägu, käsi, kael, õlg)",
+        "Raamat",
+        "Filmi andmed (numbrid paremal servas)",
+        "Esituse/pausi nupp (ringikujuline ikoon)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [
+        "It will be an exhibition.",
+        "1000",
+        "500",
+        "250",
+        "125",
+        "60"
+      ],
+      "persons": [
+        "Üks inimene (naise näo alaosa, maniküüritud käsi)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on peaaegu täielikult must, samas kui teised pildid sisaldavad mustvalgeid videokaadreid.",
+        "Teisel pildil on näha inimese näo alaosa ning esineb subtiiter \"It will be an exhibition.\".",
+        "Kolmandal pildil on näha kätt raamatut hoidmas, ilma subtiitrita.",
+        "Kaadrite fookuspunkt ja nähtavad objektid on erinevad (nägu vs. käsi raamatuga)."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "43.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget välivaadet suurest klassikalise arhitektuuriga hoonest, mille ees on paljaste okstega puud ja sulavad lumehanged, viidates talvele või varakevadele. Hoone fassaad on valge, akende ja detailidega, ning selle keskel on suur, tumedat värvi sissepääs, mida raamivad dekoratiivsed sambad ja kaarjas ülaosa. Stseeni peategelasteks on mees ja naine. Alguses kõnnivad nad teineteise kõrval mööda kõnniteed hoone poole. Seejärel naine kiirendab sammu ja suundub otse hoone tumedasse sissepääsuavasse. Mees jääb hetkeks seisma, vaatab naisele järele, ning hakkab seejärel samuti hoone ukse poole liikuma, justkui teda järgides. Lõpuks on naine juba uksest sisenemas ja osaliselt varjatud, samal ajal kui mees astub tema järel hoone suunas.",
+      "actions": [
+        "Kõndimine",
+        "Sisenemine",
+        "Jälgimine",
+        "Seismine"
+      ],
+      "keywords": [
+        "Hoone",
+        "Arhitektuur",
+        "Lumi",
+        "Talv",
+        "Inimesed",
+        "Mustvalge",
+        "Jälgimine",
+        "Sissepääs"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone",
+        "Uks",
+        "Aknad",
+        "Sambad",
+        "Puid",
+        "Lumi",
+        "Tänav",
+        "Kõnnitee",
+        "Maa-aluse kanalisatsiooni luuk"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#A9A9A9",
+        "#D3D3D3"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil kõnnivad naine ja mees kõrvuti mööda kõnniteed.",
+        "Teisel pildil on naine edasi kõndinud ja seisab hoone sissepääsu lähedal, seljaga vaataja poole, samal ajal kui mees on peatanud ja vaatab talle tagasi.",
+        "Kolmandal pildil on naine sisenenud hoone uksest ja on osaliselt nähtav ukseavas, samal ajal kui mees on hakanud uuesti liikuma ukse poole, järgnedes naisele."
+      ],
+      "snr": "002",
+      "ajad": [
+        "43.800",
+        "54.880"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub vanas, halvasti valgustatud trepikojas, mille seinad on koorunud värviga ja annavad edasi kulunud ning melanhoolse atmosfääri. Kogu stseen on mustvalge, mis süvendab tõsist meeleolu. Noorem naine, seljas hele mantel, laskub trepist alla, hoides kinni käsipuust. Hiljem näeb samas trepikojas noort meest, kes on riietatud tumedatesse riietesse. Esimesel hetkel on näha tema mõtlikku lähivõtet, seejärel seisab ta trepikoja alumisel korrusel, toetudes vastu kulunud seina, käed taskus, oodates või mõtiskledes. Trepikoja käsipuud on metallist, dekoratiivsete laineliste ja ringikujuliste elementidega. Aknast paistab sisse loomulik valgus, valgustades osaliselt trepikoda, kuid üldmulje on varjuderohke ja vaoshoitud toonidega. Mehe ja naise vaheline seos pole otseselt näidatud, kuid nende kohalolek samas kohas vihjab sellele.",
+      "actions": [
+        "Naine laskub trepist alla",
+        "Mees seisab",
+        "Mees toetub seinale",
+        "Mees mõtiskleb"
+      ],
+      "keywords": [
+        "Trepikoda",
+        "Mustvalge",
+        "Melanhoolne",
+        "Kulunud",
+        "Varjud",
+        "Ootamine",
+        "Mõtisklus",
+        "Vana hoone",
+        "Anonüümsus",
+        "Sügavus",
+        "Kontrast"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Trepid",
+        "Käsipuu",
+        "Seinad",
+        "Aken",
+        "Mantel",
+        "Jakk",
+        "Püksid"
+      ],
+      "colorcodes": [
+        "#1E1E1E",
+        "#4A4A4A",
+        "#7B7B7B",
+        "#ADADAD",
+        "#E6E6E6"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltidel on näha erinevaid kaadreid samast trepikojast: esimene pilt näitab laia võtet naisest trepist alla minemas, rõhutades trepikoja üldist atmosfääri ja arhitektuuri.",
+        "Teine pilt on mehe lähivõte, keskendudes tema näoilmele ja emotsioonidele.",
+        "Kolmas pilt on pikem võte mehest, kes seisab trepikojas, pakkudes vaatajale perspektiivi tema asukohast ja kulunud ümbrusest.",
+        "Kaameranurgad ja kaugus subjektidest varieeruvad kaadrite vahel."
+      ],
+      "snr": "003",
+      "ajad": [
+        "54.880",
+        "92.880"
+      ]
+    },
+    {
+      "explanation": "Stseen algab mustal taustal oleva tiitlikaardiga, millel on stiliseeritud valgete ja hallide toonidega tekst \"KOLM\". Teksti litrite sees on näha õrnalt liikuvaid või pilviseid tekstuure. Seejärel liigutakse edasi mustvalgesse sisekaadrisse, kus kaks inimest, mees ja naine, istuvad laua taga ja vestlevad. Naine, kellel on tumedad juuksed ja tukk, kannab kaelakeed ning vaatab tähelepanelikult vasakule. Mees, lühikeste juuste ja pintsakuga, hoiab käes peenikest pulka ja vaatab mõtisklevalt paremale. Taustal on näha hägune kolmas isik ja toamööbel, sealhulgas lamp. Kaadri allosas on subtiitrid. Kolmas kaader näitab staatilist sisevaadet kitsast koridorist või avatud riidekapi alast. Paremal seinal on pikk vertikaalne peegel. Vasakul avaneb uks teise tuppa, kus on näha tumedat tooli. Keskel on avatud riidekapp riiulite ja riputatud riietega. Kogu stseen on mustvalge, andes edasi ajatut ja dramaatilist meeleolu.",
+      "actions": [
+        "Vaatamine",
+        "Vestlemine",
+        "Laua taga istumine",
+        "Pulgakese käes hoidmine"
+      ],
+      "keywords": [
+        "Tiitlikaart",
+        "Vestlus",
+        "Siseruum",
+        "Mustvalge",
+        "Draama",
+        "Kodu",
+        "Peegel",
+        "Riidekapp"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Tekst \"KOLM\"",
+        "Laud",
+        "Kaelakee",
+        "Pulk",
+        "Riiulid",
+        "Riided",
+        "Peegel",
+        "Uks",
+        "Tool",
+        "Pildiraam",
+        "Valgusti"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#A9A9A9",
+        "#808080",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "KOLM",
+        "Everything has been written in the world already anyway."
+      ],
+      "persons": [
+        "Naine",
+        "Mees",
+        "Hägune isik (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on filmi tiitlikaart, millel on vaid tekst \"KOLM\" mustal taustal. See erineb sisuliselt kahest järgnevast kaadrist, mis on filmist võetud stseenid.",
+        "Teine pilt kujutab kaht inimest vestlemas laua taga ja sisaldab subtiitreid, fookus on tegelastel.",
+        "Kolmas pilt on staatiline interjöörikaader eluruumist, kus on näha peegel ja riidekapp, fookus on keskkonnal, mitte tegelastel.",
+        "Kaadrite kompositsioon, teema ja edastatav informatsioon on oluliselt erinevad."
+      ],
+      "snr": "004",
+      "ajad": [
+        "92.880",
+        "395.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast vanale filmilindile omase esteetikaga mustvalget vaadet, mis areneb minimalistlikust tumedast algpildist detailirohkeks lähivõtteks inimkäest. Alguses on kaadri keskel näha vaid poolläbipaistvat ringikujulist sümbolit tumedal taustal, andes edasi ootava või sissejuhatava meeleolu. Seejärel avaneb kaadri põhiosana lähivaade inimkäest, mis on kesksel kohal. Käe sõrmed on kergelt kõverdatud, justkui midagi hoides või õrnalt osutades, kusjuures nimetissõrm on veidi esile toodud. Kogu pildil on selgelt näha vanale filmile omast teralist tekstuuri, kriimustusi ja tolmukübemeid, mis loovad kulunud ja ajahambast puretud mulje. Ringikujuline sümbol on asetatud käe kohale, andes edasi fookuse, kaamera ava või sihiku tunnetuse. Kaadri paremal serval on vertikaalne riba, mis meenutab filmiäärist või fotonegatiivi, lisades veelgi vintage-tunnet. Taust on udune ja ebamäärane, koosnedes hallidest toonidest, mis ei anna kindlat ruumi aimu, kuid viitavad siseruumile. Üldine atmosfäär on salapärane, melanhoolne ja nostalgiline, rõhutades mineviku hõngu.",
+      "actions": [
+        "Käe hoie",
+        "Ootamine (sissejuhatava kaadri põhjal)",
+        "Vaatamine (kui ring on sihik)"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Vana film",
+        "Käsi",
+        "Teraline",
+        "Vintage",
+        "Salapärane",
+        "Lähivaade",
+        "Retro",
+        "Grunge",
+        "Süngus",
+        "Melanhoolia",
+        "Apertuur"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimkäsi",
+        "Filmiriba/fotoääris",
+        "Ringikujuline sümbol",
+        "Tolmukübemed",
+        "Kriimustused"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#2C2C2C",
+        "#6B6B6B",
+        "#AFAFAF"
+      ],
+      "texts": [
+        "Illegaalsed märked (vertikaalsel ribal)"
+      ],
+      "persons": [
+        "Inimene (kelle käsi on näha)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on pea täiesti must, esitades vaid keskel oleva ringikujulise sümboli ja filmiääriste detailid.",
+        "Teine pilt on detailirohke, näidates mustvalget lähivaadet inimkäest, mis on kaadri põhiosa.",
+        "Teine pilt on sisult märgatavalt rikkalikum, samas kui esimene on minimalistlik ja sissejuhatav.",
+        "Sisuline fookus muutub tumedast tühjusest konkreetse objekti (käe) näitamiseks."
+      ],
+      "snr": "005",
+      "ajad": [
+        "395.480",
+        "396.400"
+      ]
+    },
+    {
+      "explanation": "Stseen algab laia kaadriga, mis kujutab sügiseselt või varakevadiselt raagus puudega ääristatud tänavat ja selle taga paiknevat vana, ilmastikust kulunud mitmekorruselist hoonet. Tänav on lai, sellel on näha asfaldist tee ning kauguses parkivaid autosid. Üldine meeleolu on pigem melanhoolne ja urbanistlik, rõhutatuna mustvalge värvigamma poolt. Kaamera liigub seejärel lähemale, keskendudes tekstuursele kivimüürile ning tuues sisse kaks inimfiguuri. Esialgu on näha ühe inimese tagantvaade, kes seisab ilmselt kedagi oodates või ümbrust jälgides. Teine inimene läheneb ja nad kohtuvad vastakuti. Naine vaatab mehele otsa kerge, sõbraliku naeratusega, kandes heledat jakki ja salli. Mehe selg on kaamerale pööratud, näha on tema juukseid ja tumedat jakki. Stseen areneb avarast ja üldisest linnavaatest intiimsemaks ja personaalsemaks kohtumishetkeks.",
+      "actions": [
+        "Lähenemine",
+        "Kohtumine",
+        "Vaatamine",
+        "Suhtlemine"
+      ],
+      "keywords": [
+        "Linnamaastik",
+        "Kohtumine",
+        "Vanalinn",
+        "Mustvalge",
+        "Melanhoolne",
+        "Inimsuhted",
+        "Sügis",
+        "Kevad",
+        "Vana hoone",
+        "Tänav",
+        "Portree"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Vana korterelamu",
+        "Raagus puud",
+        "Tänav",
+        "Kõnnitee",
+        "Asfaldist tee",
+        "Parkivad autod",
+        "Kivimüür",
+        "Jakk",
+        "Sall"
+      ],
+      "colorcodes": [
+        "#2F2F2F",
+        "#7A7A7A",
+        "#D4D4D4"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Stseeni ava- ja lõpukaadri vahel on oluline erinevus kaadri tüübis ja fookuses. Esimene kaader on lai kaader linnamaastikust, kus domineerivad hoone ja puud, andes üldise konteksti ja meeleolu. Järgmised kaadrid on keskmised lähivõtted, mis keskenduvad inimeste kohtumisele ja nende omavahelisele suhtlusele, viies fookuse laiast keskkonnast intiimsele hetkele."
+      ],
+      "snr": "006",
+      "ajad": [
+        "396.400",
+        "414.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget tänavavaadet, kus kesksel kohal on vana kivist hoone suur kaarjas värav. Vasakul pool on näha kaasaegse klaasfassaadiga ärihoone, mille sildid teatavad \"ESTUUDIO\" ja \"JUUKSEPIKENDUSED\". Selle akende taga on eksponeeritud maniküüri- ja juuksepikenduste tarvikuid ning pilte erinevate soengute ja parukatega. Paremal pool väravast asub sama vana hoone osa, mille fassaadil on number \"20\" ja kaks suurt kaarja ülaosaga akent. Hoone fassaad ja värav ise on kulunud, näidates aja ja ilmastikumõjude jälgi, pragude ja krohvikihtide lagunemisega. Värava alt avaneb vaade sisehoovile või teisele tänavale, kus on näha teist hoonet ja plakatit tekstiga, mis näib olevat \"ISAKAS\". Tänav kaadri esiplaanil on tühi, pakkudes kontrastiks inimeste liikumisele. Kolme kaadri jooksul liigub üks paar, mis koosneb mehest mustas jopes ja naisest heledas kleidis või mantlis, sügavamale kaarväravasse. Alguses nad just astuvad sisse, olles veidi teineteise poole pööratud, kuid liiguvad peatselt kõrvuti, seljad kaamera poole. Naine asub paremal ja mees vasakul. Samal ajal kõnnib kaadri paremas servas üksik inimene, selg vaataja poole, paremale kaadri servast välja, kaotades stseeni lõpuks nähtavuse. Üldine meeleolu on rahulik ja igapäevane, rõhutades linnakeskkonna ajaloolist ja kaasaegset segunemist.",
+      "actions": [
+        "Paar astub kaarväravasse",
+        "Paar kõnnib sügavamale väravasse",
+        "Üksik inimene kõnnib kaadrist välja"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Tänavavaade",
+        "Arhitektuur",
+        "Kaarvärav",
+        "Inimesed",
+        "Liikumine",
+        "Linnapilt",
+        "Ärihoone",
+        "Ajalooline",
+        "Kulunud fassaad",
+        "Kontrast"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone",
+        "Kaarvärav",
+        "Aknad",
+        "Tänav",
+        "Ärisilt",
+        "Väljapanek",
+        "Mannekeenid/parukad",
+        "Plakat"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [
+        "ESTUUDIO",
+        "JUUKSEPIKENDUSED",
+        "20",
+        "ISAKAS"
+      ],
+      "persons": [
+        "Mees",
+        "Naine",
+        "Üksik kõndija"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Paar liigub kaarväravasse sügavamale, pöörates selja kaamerale.",
+        "Paremal kõndiv inimene liigub kaadrist välja paremale.",
+        "Paari asend väravas muutub: alguses veidi vastakuti, seejärel kõrvuti."
+      ],
+      "snr": "007",
+      "ajad": [
+        "414.320",
+        "417.280"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumis, ilmselt õppetoas või kontoris, mida iseloomustavad riiulid, mis on täidetud raamatute ja paberitega. Alguses on näha noort naist tumedate lokkis juustega, kes seisab küljega kaamera poole ja vaatleb pingsalt seinal olevat fragmenteeritud piltide kollaaži. Tema ilme on mõtlik ja pensive. Hiljem pöörab naine end näoga mehe poole, keda on samuti stseenis näha. Mehel on lühikesed lokkis juuksed ja ta hoiab käes prille. Nendevaheline vestlus viitab teatud isiku välimuse üle arutamisele, mida kinnitab ekraanil olev subtiiter „You don't know what he looks like.“ Hiljem esitatakse lähivõte mehe näost, kes vaatab otse kaamerasse/vaatajasse, millele lisandub subtiiter „I walked by.“ Pildid on mustvalged, luues tõsise ja intiimse atmosfääri. Stseen näib keskenduvat dialoogile ja tegelaste emotsioonidele.",
+      "actions": [
+        "Naine vaatleb seinal olevaid pilte",
+        "Naine vestleb mehega",
+        "Mees hoiab prille",
+        "Mees räägib"
+      ],
+      "keywords": [
+        "mustvalge",
+        "siseruum",
+        "vestlus",
+        "raamaturiiul",
+        "raamatud",
+        "portree",
+        "mõtlik",
+        "subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "raamaturiiulid",
+        "raamatud",
+        "paberid",
+        "prillid",
+        "seinal olevad pildid/fotod",
+        "pea büst",
+        "kaelakee/ehted (naisel)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "You don't know what he looks like.",
+        "I walked by."
+      ],
+      "persons": [
+        "naine",
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevad kaadrikompositsioonid, alates naise profiilist kuni mehe lähivõtteni.",
+        "Kaadrite fookus nihkub alguses naise pingsalt vaatluselt vestlusele mehega ja seejärel mehe näole.",
+        "Teises ja kolmandas pildis on näha subtiitreid, mis annavad edasi dialoogi.",
+        "Kolmandas pildis on näha video esitamise ikooni, mis viitab video vaatamisele või meenutusele."
+      ],
+      "snr": "008",
+      "ajad": [
+        "417.280",
+        "455.480"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja toimub siseruumides, mis meenutab raamatutuba või kodukontorit. Vasakul pildipoolel on fookuses noor naine, kellel on tumedad õlgadeni ulatuvad juuksed, mis on kuklast osaliselt kokku pandud klambriga. Ta kannab tumedat pluusi või kampsunit, mille all on heledam, mustriga särk või lips. Tema vasakul randmel on näha hõbedane käekell. Stseeni alguses hoiab naine käes väikest kaamerat ja vaatab läbi selle pildinäidiku paremale. Järgnevates kaadrites laseb ta kaamera alla ja jätkab vaatamist paremale. Paremal pildipoolel on osaliselt näha mehe figuur, kes kannab vabaajarõivaid: halli t-särki, mille peal on tumedam nööbitav särk, ja tumedaid pükse. Mees liigub, kõndides naisest mööda. Taustal on raamaturiiulid täis raamatuid ja pabereid, samuti muid esemeid, näiteks elektroonikat ja pildiraame. Valgus on summutatud, luues intiimse või veidi melanhoolse atmosfääri.",
+      "actions": [
+        "Naine hoiab kaamerat ja pildistab",
+        "Naine vaatab paremale",
+        "Mees kõnnib mööda",
+        "Mees seisab"
+      ],
+      "keywords": [
+        "mustvalge",
+        "siseruum",
+        "naine",
+        "mees",
+        "kaamera",
+        "raamaturiiul",
+        "raamatud",
+        "vaatamine",
+        "kõndimine",
+        "melanhoolia",
+        "portree"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "kaamera",
+        "käekell",
+        "raamaturiiul",
+        "raamatud",
+        "paberid",
+        "riiulid",
+        "pildiraam",
+        "elektroonika"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#222222",
+        "#666666",
+        "#AAAAAA",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "I walked by."
+      ],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil hoiab naine kaamerat silme ees ja vaatab läbi pildinäidiku; kaadri allosas on näha ingliskeelne subtiiter 'I walked by.'.",
+        "Teisel pildil on naine kaamera alla lasknud ja vaatab otse paremale; subtiiter puudub ja mehe figuur on veidi selgemalt nähtav.",
+        "Kolmandal pildil on mees naisest mööda kõndimas, tema selg on suunatud naise poole; naine jätkab paremale vaatamist."
+      ],
+      "snr": "009",
+      "ajad": [
+        "455.480",
+        "470.960"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja asetub tõenäoliselt fotostuudiosse või sarnasesse siseruumi, mille taustaks on suur valge sein või kangas. Kaadri vasakul servas on näha stuudiovalgusti statiiviga ning paremal raamaturiiul, mis on täidetud raamatute ja paberitega. Keskel asub lihtne, heledat värvi pink lippidest seljatoe ja istmega. Stseeni alguses istub pingil naine, seljas tume pluus või kleit, tume kampsun ja kaelas lipsuke ning vasakul käel kell. Tema pilk on mõtlikult suunatud paremale. Mees on alguses vaid osaliselt näha kaadri vasakus servas seismas, seljaga vaataja poole, toetades oma kätt pingil olevale heledale (khaki tooni) kokkuvolditud jakile. Seejärel istub mees naise kõrvale pingile, kandes tumedat teksasärki heleda T-särgi peal, ja sirutab käe naise poole, puudutades õrnalt tema kätt või vart. Naine vaatab nüüd alla, samal ajal kui mees teda vaatab. Stseeni lõpus näeme meest pingil üksi istumas, toetudes seljatoele ja vaadates vasakule. Pingil tema kõrval on näha ka väike tume seade, mis võib olla kaamera.",
+      "actions": [
+        "Naine istub mõtlikult pingil.",
+        "Mees toetab kätt jakile.",
+        "Mees istub naise kõrvale pingile.",
+        "Mees puudutab õrnalt naise kätt/vart.",
+        "Naine vaatab alla.",
+        "Mees istub üksi pingil, toetudes seljatoele."
+      ],
+      "keywords": [
+        "Stuudio",
+        "Mustvalge",
+        "Pink",
+        "Paar",
+        "Ootus",
+        "Mõtisklus",
+        "Interaktsioon",
+        "Suhted",
+        "Kaamera",
+        "Valgustus",
+        "Siseruum"
+      ],
+      "shot_type": "medium long",
+      "placement": "indoor",
+      "objects": [
+        "Pink",
+        "Valge taust",
+        "Stuudiovalgusti",
+        "Raamaturiiul",
+        "Raamatud",
+        "Paberid",
+        "Jakk",
+        "Kell",
+        "Kaamera/seade"
+      ],
+      "colorcodes": [
+        "grayscale"
+      ],
+      "texts": [
+        "Enn is waiting at the cafe."
+      ],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Inimeste asetus ja kohalolek muutuvad: esimesel pildil istub naine üksi pingil ja mees on osaliselt kaadris vasakul, seljaga vaataja poole; teisel pildil istuvad nii mees kui naine pingil koos ja suhtlevad; kolmandal pildil istub mees pingil üksi.",
+        "Suhtlus: esimesel pildil otsest suhtlust näidatud pole, teisel pildil on näha mehe ja naise vaheline õrn puudutus; kolmandal pildil suhtlus puudub.",
+        "Subtiitrid: lause \"Enn is waiting at the cafe.\" ilmub ainult teisel pildil."
+      ],
+      "snr": "010",
+      "ajad": [
+        "470.960",
+        "500.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaikset linnatänavat päevaajal, esitletuna mustvalgelt. Vasakul pool on näha vana, detailirohke mitmekorruseline hoone, millel on kaunistatud fassaad, suured aknad ja kaarjas sissepääs. Selle kõrval paremal asub lihtsama disainiga tumedam hoone. Tänav on lai ja asfaltkattega, kauguses on näha teisigi hooneid ja hõredat liiklust, sealhulgas bussi ja mõnda sõiduautot. Paremal tee ääres paiknevad liiklusmärgid, mis näitavad numbreid ja lühendeid. Stseeni keskses fookuses on tume sedaan (tõenäoliselt Citroën XM), mille juurde läheneb naine. Naine, kellel on pikad juuksed ja seljas hele mantel või kleit, avab auto juhipoolse ukse, istub sisse ning seejärel auto sõidab pildilt vasakule minema. Kogu stseen annab edasi rahulikku ja argist linnakeskkonna meeleolu.",
+      "actions": [
+        "Naine siseneb autosse",
+        "Auto alustab liikumist",
+        "Auto sõidab kaadrist välja"
+      ],
+      "keywords": [
+        "Linnatänav",
+        "Auto",
+        "Naine",
+        "Hooned",
+        "Liiklus",
+        "Mustvalge",
+        "Urban",
+        "Sõit",
+        "Peatus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Auto (sedaan)",
+        "Hooned",
+        "Tänav",
+        "Buss",
+        "Liiklusmärgid",
+        "Laternapostid",
+        "Äärekivi",
+        "Põõsad"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080",
+        "#404040",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "2 TA",
+        "4 PA"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on tänav enamasti tühi ja auto ei ole veel kaadrisse sisenenud, naine on näha paremal äärel eemalt lähenemas.",
+        "Teisel pildil on naine just sisenemas tumedasse sedaani juhipoolsesse uksesse, auto seisab või on just alustamas liikumist.",
+        "Kolmandal pildil on auto koos naisega sees juba liikumas ja kaadrist välja sõitmas, liikudes vasakule."
+      ],
+      "snr": "011",
+      "ajad": [
+        "500.480",
+        "509.080"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja kujutab naist sõitvas autos, tõenäoliselt tagaistmel. Naine kannab heledat mantlit, millel on suured tumedad nööbid, ja kaelas salli. Tema juuksed on tumedad, kergelt üles pandud, tuka ja mõningate salkudega näo ümber. Stseeni alguses on naine süvenenult alla vaatamas, seejärel pöörab ta pilgu aknast välja vasakule, jälgides mööduvat linnapilti. Tema näoilme on alguses mõtlik, hiljem vaatlev ja kolmandas hetkes ilmub tema näole õrn naeratus. Auto aknast paistab udune linnakeskkond hoonete ja tänavaga, mis viitab auto liikumisele. Valgus on loomulik päevavalgus.",
+      "actions": [
+        "Naine vaatab süvenenult alla",
+        "Naine pöörab pilgu aknast välja",
+        "Naine jälgib mööduvat linnapilti",
+        "Naine naeratab kergelt",
+        "Auto liigub"
+      ],
+      "keywords": [
+        "Naine",
+        "Auto",
+        "Sõit",
+        "Linn",
+        "Mustvalge",
+        "Mõtisklev",
+        "Vaatlus",
+        "Reisimine",
+        "Mantel",
+        "Sall"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "siseruumides",
+      "objects": [
+        "Naine",
+        "Auto iste",
+        "Auto aken",
+        "Auto ukseraam",
+        "Mantel",
+        "Sall",
+        "Nööbid",
+        "Hooneid",
+        "Tänav",
+        "Teine auto",
+        "Liiklusmärk (udune)"
+      ],
+      "colorcodes": [
+        "must",
+        "valge",
+        "halli varjundid"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "kevad või sügis",
+      "daytime": "päev",
+      "differences": [
+        "Esimesel pildil vaatab naine alla, tema pilk on süvenenud.",
+        "Teisel pildil on naine pilgu pööranud vasakule, vaatab aknast välja ja tema näoilme on neutraalsem, vaatlev.",
+        "Kolmandal pildil jätkab naine aknast välja vaatamist, pilk on veidi ülespoole suunatud ja tema näol on kerge, peaaegu märkamatu naeratus.",
+        "Väljaspool autot muutub taust, mis annab märku auto liikumisest. Esimesel pildil on taust teravamalt näha (hooned, teine auto, liiklusmärk), järgmistel piltidel on taust udusam ja abstraktsem."
+      ],
+      "snr": "012",
+      "ajad": [
+        "509.080",
+        "521.520"
+      ]
+    },
+    {
+      "explanation": "Stseen on esitatud mustvalgena, keskendudes laua ääres istuvale isikule, kes on süvenenud märkmikusse kirjutamisse. Fookus on peategelase kätel, märkmikul ja laual olevatel esemetel, luues intiimse ja mõtliku meeleolu. Isiku vasakul käel on sõrmus, mis viitab naisterahvale. Laual on lisaks märkmikule ja kirjutusvahendile ka kaks dekoratiivset, jala peal olevat joogiklaasi, millest üks on esiplaanil, ning must käekott. Peategelane kannab tumedat pikkade varrukatega riietust ja paremal pool on näha täpiline lips või sall. Akna tagune taust on hägune, kuid paistab kujutavat linnakeskkonda hoonetega, kus üksik mööduja võib kauguses paista. Teksti lisamine kaadritele viitab sisemisele mõtisklusele või dialoogile, mis annab stseenile sügavama tähenduse.",
+      "actions": [
+        "Kirjutamine märkmikusse",
+        "Märkmiku lehtede pööramine",
+        "Mõtisklemine/lugemine (kirjutamise käigus)"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Kirjutamine",
+        "Märkmik",
+        "Mõtisklus",
+        "Joogiklaas",
+        "Siseinterjöör",
+        "Lauatagune",
+        "Sõrmus",
+        "Kontemplatsioon"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Märkmik",
+        "Pastakas/pliiats",
+        "Kaks joogiklaasi (dekoratiivsete jalgadega)",
+        "Käekott (must)",
+        "Laud (valge)",
+        "Sõrmus (vasakul käel)",
+        "Hoone/tänav (akna taga)",
+        "Lips/sall (täpiline)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "They cannot exist side by side.",
+        "How can a girl claim that what we have is 98 percent right."
+      ],
+      "persons": [
+        "Naine",
+        "Mööduja (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 20,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Igal pildil on erinev ingliskeelne subtiiter, mis edastab uusi mõtteid ja dialoogi.",
+        "Peategelase vasaku käe asend muutub: esimesel kahel pildil toetub see märkmikule, kolmandal pildil on see lehti pööramiseks veidi tõstetud ja aktiivsemas liigutuses.",
+        "Märkmiku avatus ja lehtede asend varieeruvad, eriti kolmandal pildil, kus lehed on pööramise käigus õhku tõusnud, andes dünaamikat.",
+        "Taustal akna taga ilmub teisel ja kolmandal pildil kergelt nähtav mööduja, mis viitab subtilsele liikumisele väljaspool siseruumi."
+      ],
+      "snr": "013",
+      "ajad": [
+        "521.520",
+        "540.280"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumis, tõenäoliselt kohvikus või restoranis, mis on kujutatud mustvalges koloris. Esikaadris on noor naine tumedate juuste ja tukaga, juuksed on kuklasse seotud. Ta kannab tumedat pluusi või kardigani, millel on kaelas lipsuke või pael, ning ühes kõrvas on näha kõrvarõngas. Naine hoiab käes kahvlit ning vaatab mõtlikult allapoole, tema näoilme on tõsine ja süvenenud. Paremal seinal ripub raamitud pilt. Vasakul pool avaneb vaade läbi suure akna tänavale, kus on näha autosid, sealhulgas valget kaubikut, ja hooneid. Akna taga on ähmaselt näha ka teisi kohviku külastajaid. Üldine atmosfäär on rahulik ja valgustus siseruumis näib olevat loomulik päevavalgus, mis paistab sisse akendest. Stseenis on subtiitrite kaudu edastatud dialoog, mis viitab suhete ja hinnangute teemale.",
+      "actions": [
+        "Vaatab allapoole",
+        "Mõtleb/mõtiskleb",
+        "Hoiab söögiriistu",
+        "On kohvikus/restoranis"
+      ],
+      "keywords": [
+        "Kohvik",
+        "Restoran",
+        "Naine",
+        "Mõtisklev",
+        "Mustvalge",
+        "Siseruum",
+        "Suhted",
+        "Söögiriistad",
+        "Aken",
+        "Tänav",
+        "Dialoog"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Kahvel",
+        "Pilt (seinapilt)",
+        "Aken",
+        "Autod",
+        "Valge kaubik",
+        "Hooned",
+        "Lauad",
+        "Toolid",
+        "Lambid",
+        "Lipsuke/pael (naise kaelas)",
+        "Kõrvarõngas"
+      ],
+      "colorcodes": [
+        "mustvalge"
+      ],
+      "texts": [
+        "How can a girl claim that what we have is 98 percent right.",
+        "So was it bad with her?"
+      ],
+      "persons": [
+        "Naine (esiplaanil)",
+        "Teised kliendid (tagaplaanil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrid on kaadrite vahel erinevad, pakkudes erinevaid dialoogi osi.",
+        "Naise pea asend ja silmade pilk muutuvad kergelt, mis annab edasi liikumist ja mõtisklemist.",
+        "Söögiriistad on teises kaadris naise käes veidi selgemalt nähtavad."
+      ],
+      "snr": "014",
+      "ajad": [
+        "540.280",
+        "586.200"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja kujutab lähivaates inimese käsi laua taga kirjutamas. Inimene kannab tumedat pikavarrukaga pluusi ja väikese täpiga mustrilist särki või lipsu. Vasaku käe sõrmusesõrmes on lihtne sõrmus. Kirjutatakse musta pastapliiatsiga avatud märkmikusse, mis on nahast rihma või elastse paelaga seotud. Laual on kaks elegantset jalaga klaasi, mille jalas on eriline, ruuduline või jääd meenutav muster ning milles on tume vedelik. Esiplaanil paremal asuv klaas on terav, teine tagapool udune. Paremal laual lebavad ka väike must käekott või rahakott. Taust on udune, vihjates läbi akna paistvale linnamaastikule, kus on näha autode ja hoonete ähmasemaid kontuure. Valgus on piisav ja viitab päevasele ajale.",
+      "actions": [
+        "Kirjutamine",
+        "Pliiatsi hoidmine"
+      ],
+      "keywords": [
+        "Kirjutamine",
+        "Märkmik",
+        "Pastapliiats",
+        "Klaasid",
+        "Mustvalge",
+        "Kohvik",
+        "Käsitsi",
+        "Detailvaade",
+        "Linnakeskkond",
+        "Sõrmus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Märkmik",
+        "Pastapliiats",
+        "Klaasid (jalaga)",
+        "Käekott (clutch)",
+        "Laud",
+        "Sõrmus",
+        "Särk",
+        "Pluus",
+        "Aken",
+        "Autod",
+        "Hooned"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080",
+        "#404040",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "Can I take this away?"
+      ],
+      "persons": [
+        "Inimene (käed)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on pliiats kirjutamiseks valmis, kuid pole veel paberiga kontaktis.",
+        "Teisel ja kolmandal pildil on pliiats paberil ja inimene kirjutab aktiivselt, käe asend on veidi muutunud.",
+        "Kolmandal pildil on lisaks valge subtiiter \"Can I take this away?\" ekraani allosas."
+      ],
+      "snr": "015",
+      "ajad": [
+        "586.200",
+        "596.320"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt kohvikus või restoranis, ja on esitatud mustvalge filmina. Kaadri fookuses on noor naine, kes istub laua taga pildi paremas osas, hoides käes söögiriistu ja vaadates allapoole oma lauale. Tema pilk on mõtlik ja süvenenud. Esimesel kaadril on näha kelneri käsi pildi vasakul pool ja ekraanil on subtiitrid küsimusega 'Can I take this away?', mis annab mõista, et kelner on just naisega suhelnud ja pakub tema taldrikut ära viia. Taustal on näha teisi kohviku külastajaid, kes samuti laudades istuvad, ja suur aken, millest paistavad tänav ja hooned. Üldine atmosfäär on rahulik ja vaikne, keskendudes naise sisemisele seisundile.",
+      "actions": [
+        "Naine vaatab allapoole oma lauale",
+        "Kelner küsib midagi (implitsiitne)",
+        "Kelneri käe liigutamine (osaliselt nähtav)",
+        "Naine hoiab käes söögiriistu",
+        "Teised inimesed söövad/istuvad taustal"
+      ],
+      "keywords": [
+        "Kohvik",
+        "Restoran",
+        "Mustvalge",
+        "Naine",
+        "Kelner",
+        "Söömine",
+        "Siseinterjöör",
+        "Mõtlik",
+        "Vestlus",
+        "Teenindus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Kelner (osaliselt)",
+        "Söögilaud",
+        "Söögiriistad",
+        "Toolid",
+        "Aken",
+        "Hooned (väljas)",
+        "Lauad",
+        "Laternad/lambid",
+        "Maal/pilt seinal",
+        "Paelaga kaunistatud pluus/särk"
+      ],
+      "colorcodes": [
+        "Monokroomne (mustvalge)"
+      ],
+      "texts": [
+        "Can I take this away?"
+      ],
+      "persons": [
+        "Noor naine",
+        "Kelner (osaliselt nähtav)",
+        "Teised sööjad/külastajad taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on kaadri vasakus servas näha kelneri käsi ja ekraanil on subtiitrid 'Can I take this away?', mis teistel piltidel puuduvad.",
+        "Naise pilk ja pea asend muutuvad kaadrite vahel. Esimesel pildil on ta veidi rohkem ülespoole suunatud, teistel piltidel on pilk süvenenumalt allapoole suunatud.",
+        "Naise ilme muutub kaadrite jooksul mõtlikumaks ja keskendunumaks."
+      ],
+      "snr": "016",
+      "ajad": [
+        "596.320",
+        "615.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort inimest, kes kannab pikka tumedat trentšmantlit ja sellele sobivat bareti-stiilis või pehmet mütsi, seistes laial, lagedal välistingimustes maastikul. Maapind on suures osas kaetud lume või jääga, millel on näha sulamise või hõredate laikude märke, tumedamad, tõenäoliselt mudased või märjad alad on all nähtavad. Isik tegeleb aktiivselt püstoliga, sooritades mitmeid tegevusi, mis hõlmavad püstoli mõlema käega ettepoole sihtimist, relva allapoole laskmist samal ajal ringi vaadates ning seejärel uuesti üles tõstmist žestikuleerivas asendis. Üldine toon on monokroomne, rõhutades maastiku karmust ja tegelase dünaamilist kohalolekut.",
+      "actions": [
+        "Püstoliga sihtimine",
+        "Püstoli allalaskmine",
+        "Püstoli õhus hoidmine žestikuleerides",
+        "Ümberringi vaatamine"
+      ],
+      "keywords": [
+        "Püstol",
+        "Lumi",
+        "Jää",
+        "Mantel",
+        "Müts",
+        "Mustvalge",
+        "Väljas",
+        "Lagendik",
+        "Relv",
+        "Tegelane",
+        "Talvine",
+        "Kevadine",
+        "Dramaatiline"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Püstol",
+        "Trentšmantel",
+        "Müts",
+        "Lumi",
+        "Jää",
+        "Muld"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil hoiab tegelane püstolit mõlema käega ettepoole suunatult, justkui sihtides või tulistades, suu on avatud ja ta näib karjuvat.",
+        "Teisel pildil on tegelane püstoli alla lasknud ja hoiab seda ühe käega suunaga allapoole, vaatab paremale (vaataja seisukohalt) ja suu on suletud.",
+        "Kolmandal pildil on tegelane püstoli uuesti üles tõstnud, hoides seda ühe käega õhus, justkui keerutades või žestikuleerides, vaatab vasakule (vaataja seisukohalt)."
+      ],
+      "snr": "017",
+      "ajad": [
+        "615.200",
+        "623.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget talvist maastikku, kus kesksel kohal on puust jalakäijate sild, mis ületab väikest orvandit või kraavi. Sillal ja selle ümbruses on näha mitmeid inimesi ja linde. Maapind silla all ja paremal pool on kaetud lumega, vasakul pool on kaldu pinnas paljaste puudega, mis viitab talvele. Silla all keskel seisab üks inimene. Sillal jalutab või seisab kolm inimest. Parempoolsel lumisel künkal seisab kaks inimest, kellest üks on naine tumedas kleidis ja teine tumedas rüüs või siluetis figuur. Allpool, külmunud või lumisel maapinnal, on mitmeid linde, kellest osa on lennus ja osa maapinnal. Üldine atmosfäär on rahulik ja mõtisklev, rõhutatud monokroomse värvilahendusega.",
+      "actions": [
+        "Mees seisab silla all",
+        "Inimesed kõnnivad sillal",
+        "Inimesed seisavad lumisel künkal",
+        "Linnud lendavad üle maa",
+        "Linnud jalutavad maapinnal"
+      ],
+      "keywords": [
+        "talv",
+        "sild",
+        "mustvalge",
+        "lumi",
+        "loodus",
+        "linnud",
+        "inimesed",
+        "maastik",
+        "rahulik",
+        "monokroomne"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "puust sild",
+        "lumi",
+        "puud",
+        "kivimüür",
+        "pinnas",
+        "linnud (tuvid/kajakad)",
+        "inimesed",
+        "jäine maapind",
+        "küngas"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#333333",
+        "#AAAAAA",
+        "#DDDDDD"
+      ],
+      "texts": [],
+      "persons": [
+        "kuus inimest: üks mees silla all, kolm inimest sillal, kaks inimest lumisel künkal paremal (üks naine, üks tumedas rüüs figuur)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Linnud on kaadrites erinevates lennu- ja maandumisasendites, mis näitab nende liikumist ja lennujärjestust."
+      ],
+      "snr": "018",
+      "ajad": [
+        "623.680",
+        "627.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast mustvalget välikaadrit, kus keskel seisab üks mees. Ta kannab heledat trentšmantlit, ruudulist salli ja lamedat nokamütsi. Käed on tal mantli taskutes. Mees vaatab kergelt paremale, eemal. Taustal on näha lumehangedega kaetud maastik ja pikk tänavalatern. Esiplaanil raamivad stseeni kaks massiivset puidust või kivist sammasstruktuuri, mis näivad olevat osa sillast või väravast. Üldine õhkkond on vaikne ja mõtisklev, talvine ja jahe. Mustvalge toon lisab stseenile ajatut ja dramaatilist hõngu.",
+      "actions": [
+        "seisab",
+        "vaatab",
+        "mõtiskleb (oletatav)"
+      ],
+      "keywords": [
+        "mustvalge",
+        "talv",
+        "mees",
+        "trentšmantel",
+        "nokamüts",
+        "väljas",
+        "lumi",
+        "jahe",
+        "mõtisklev",
+        "vintage"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "mees",
+        "trentšmantel",
+        "nokamüts",
+        "sall",
+        "taskud",
+        "lumine maastik",
+        "tänavalatern",
+        "puidust sammasstruktuurid",
+        "kivist alus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#A0A0A0",
+        "#C0C0C0"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe pea asend ja pilgu suund on kaadrite vahel minimaalselt muutunud. Esimeses kaadris vaatab mees kergelt üles ja paremale. Teises kaadris on tema pea veidi rohkem paremale kallutatud ja pilk on suunatud veidi allapoole kui esimeses kaadris. Kolmandas kaadris on pea taas veidi ülespoole ja ettepoole suunatud, sarnanedes esimesele kaadrile, kuid pilk on endiselt veidi paremale."
+      ],
+      "snr": "019",
+      "ajad": [
+        "627.760",
+        "629.520"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub mustvalges kohvikus või restoranis. Kesksel kohal on tumedate juuste ja tukkadega naine, kes istub laua taga ja vaatab mõtlikult allapoole. Tema käed on hõivatud mingi esemega; esimesel pildil on selgelt näha, kuidas ta hoiab või talle pakutakse klaasitäit magustoitu, mis näib olevat jäätisekokteil või sundae. Teistel piltidel on naine sama või sarnase esemega tegevuses, näides midagi harutavat või kokku sättivat. Ta kannab tumedat pluusi või kampsunit, millel on kaunistuseks paelad. Paremal pool on näha seina ja seinal olevat pilti, vasakul pool avaneb suurtest akendest vaade linnatänavale. Väljas on näha hooneid ja mööduvaid sõidukeid ning teine, hägune inimfiguur teise laua taga. Akendest paistev loomulik valgus viitab päevasele ajale. Õhkkond on rahulik ja mõtlik.",
+      "actions": [
+        "Naine vaatab allapoole",
+        "Naine tegeleb kätega esemega",
+        "Magustoit on käes/pakutakse",
+        "Inimene istub kohvikus",
+        "Väljas liigub liiklus"
+      ],
+      "keywords": [
+        "Kohvik",
+        "mustvalge",
+        "naine",
+        "mõtlik",
+        "magustoit",
+        "jäätisekokteil",
+        "siseruumid",
+        "tänavavaade",
+        "rahulik",
+        "ootamine",
+        "mõtisklus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "käed",
+        "magustoit",
+        "jäätisekokteil",
+        "klaas",
+        "lusikas",
+        "laud",
+        "tool",
+        "aken",
+        "hoone",
+        "tänav",
+        "sõiduk",
+        "lamp",
+        "pilt",
+        "teine inimene"
+      ],
+      "colorcodes": [
+        "Mustvalge"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "teine klient",
+        "võimalik teenindaja"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt keskendub detailsemalt kätele ja magustoidule, samas kui teised kaks pilti näitavad laiemalt naist tema keskkonnas.",
+        "Naise käte asend ja eseme hoidmise või manipuleerimise viis on teise ja kolmanda pildi vahel veidi erinev.",
+        "Piltide fookuspunktid on erinevad: esimene on lähivõte konkreetsest esemest, teised on keskmised kaadrid naisest."
+      ],
+      "snr": "020",
+      "ajad": [
+        "629.520",
+        "650.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist välialamu mustvalges toonis, mille keskmes on puidust sild üle süvendatud maastikuosa või kanali. Silla ümbruses ja kaugemalgi on näha lumega kaetud künkaid ning puid, mis annavad edasi külma ja kõleda atmosfääri. Sild on valmistatud tumedast puidust ja sellel on iseloomulikud ristuvad puitdetailid reelingutel. Paremal pool silda tõuseb järsk, lumine nõlvak, vasakul aga mullaga kaetud ja mõne puu juurestikuga küngas. Maapind silla all ja kaugemal ees on kaetud paksu lumekihiga, mis näib olevat külmunud veepind või lumine ala. Stseenis on näha mitmeid inimesi ja linde. Inimesed kõnnivad nii sillal kui ka silla all asuval teel, samuti seisab üks inimene vasakul künkal. Linnud lendavad madalalt üle lumise pinna ja mõned neist on ka maapinnal puhkamas.",
+      "actions": [
+        "Inimesed kõnnivad sillal",
+        "Inimene kõnnib silla alt läbi",
+        "Inimene seisab künkal",
+        "Linnud lendavad madalalt",
+        "Linnud puhkavad lumisel pinnal"
+      ],
+      "keywords": [
+        "talv",
+        "lumi",
+        "sild",
+        "mustvalge",
+        "loodus",
+        "inimesed",
+        "linnud",
+        "külm",
+        "maastik",
+        "park",
+        "jalutuskäik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "puidust sild",
+        "lumi",
+        "künkad",
+        "puud",
+        "müüritis",
+        "lumine maapind",
+        "linnud",
+        "inimesed"
+      ],
+      "colorcodes": [
+        "#070707",
+        "#F0F0F0",
+        "#8B8B8B",
+        "#4F4F4F",
+        "#B4B4B4"
+      ],
+      "texts": [],
+      "persons": [
+        "kaks inimest sillal",
+        "üks inimene silla all",
+        "üks inimene künkal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Lindude asetus ja lennuteed muutuvad kaadrite vahel, näidates nende pidevat liikumist üle lumise maastiku."
+      ],
+      "snr": "021",
+      "ajad": [
+        "650.120",
+        "654.520"
+      ]
+    },
+    {
+      "explanation": "Stseen, mis on esitatud mustvalges, kujutab narratiivi kulgu külmal talvisel või varakevadisel päeval. Alguses näeb tumedate juustega naist siseruumis, mis tundub olevat helikindel või salvestusruum, kus ta ilmet on tõsine või murelik. Ruumi seinad on kaetud mustriliste akustiliste paneelidega. Seejärel liigub stseen õue linnatänavale, kus sama naine, nüüd heledas mantlis, seisab koos mehega. Nad jälgivad autot, mille numbrimärgilt on loetav \"400 AGI\". Tänavat ääristavad raagus puud ja hooned, maapinnal on näha lume- või lörtsilaike, mis viitavad külmale ilmale. Lõpuks on naine ja mees koos auto tagaistmel. Naine tundub rahulikum ja kergelt naeratav, samal ajal kui mees näib puhkavat või magavat suletud silmadega. Stseen jäädvustab asukoha, meeleolu ja tegelastevahelise interaktsiooni muutusi ühtlases monokroomses visuaalses stiilis.",
+      "actions": [
+        "Naine räägib või kuulab siseruumis",
+        "Naine ja mees seisavad tänaval",
+        "Naine ja mees sõidavad autos",
+        "Mees magab või puhkab autos"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Talv",
+        "Linnastseen",
+        "Auto",
+        "Siseruum",
+        "Väliruum",
+        "Vestlus",
+        "Reisimine",
+        "Murelik",
+        "Rahulik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "both indoor and outdoor",
+      "objects": [
+        "Akustikapaneelid",
+        "Auto",
+        "Hooned",
+        "Puud",
+        "Lumi",
+        "Lörts",
+        "Mantel",
+        "Sall",
+        "Särgid",
+        "Numbrimärk"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [
+        "400 AGI"
+      ],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Stseeni asukoht muutub siseruumist (salvestusruum) väliruumi (linnatänav) ja seejärel teise siseruumi (autosalong).",
+        "Naise riietus muutub: alguses on tal seljas tume topp, hiljem hele mantel ja sall.",
+        "Naise näoilme muutub: alguses tõsine/murelik, hiljem pigem rahulik ja kergelt naeratav.",
+        "Mehe tegevus muutub: alguses seisab tänaval, hiljem magab või puhkab autos.",
+        "Kaadrite tüübid varieeruvad: esimeses pildis on tegemist kesklähivõttega, teises pildis laivõttega ja kolmandas pildis keskvõttega."
+      ],
+      "snr": "022",
+      "ajad": [
+        "654.520",
+        "756.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalges formaadis noort naist, kes vaatab pingsalt ja mõtlikult aknast välja. Ta istub ilmselt liikuvas sõidukis, nagu bussis või rongis, sest akna tagune maastik on hägune ja udune, vihjates kiirusele või distantsile. Naise profiil on kaadris vasakul pool, pilk suunatud paremale, kaugele. Tema näoilme on pensive, peegeldades ehk igatsust, melanhooliat või sügavat mõtisklust. Lühike tukk ja juuksed raamivad tema nägu. Valgus langeb naisele küljelt, tuues esile tema näojooned ja luues varjude abil sügavust. Taustal on näha hooneid ja objekte, mis on liikumise tõttu ebaselged. Stseen loob vaikse ja introspektiivse meeleolu.",
+      "actions": [
+        "Naine vaatab aknast välja",
+        "Naine mõtiskleb"
+      ],
+      "keywords": [
+        "Mõtlik naine",
+        "Aken",
+        "Reisimine",
+        "Mustvalge",
+        "Pensive",
+        "Vaikus",
+        "Melanhoolia",
+        "Igatsus",
+        "Profiil"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Aken",
+        "Sõiduki sisemus",
+        "Hägune väliskeskkond",
+        "Hooneid taustal"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#404040",
+        "#808080",
+        "#C0C0C0",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Taustal olevate objektide ja hoonete hägusus ning positsioon muutub kaadrite vahel minimaalselt, viidates liikumisele.",
+        "Naise pilk ja näoilme jäävad enamasti samaks, kuid esineb väga kergeid variatsioone silmade või suu piirkonnas, mis on omane videolõigust pärit kaadritele."
+      ],
+      "snr": "023",
+      "ajad": [
+        "756.080",
+        "762.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, meest ja naist, sõitmas auto tagaistmel. Kogu stseen on mustvalge, andes sellele tõsise, mõtliku ja võib-olla ka melanhoolse tooni. Mees istub vasakul ja vaatab ettepoole või veidi vasakule, tema ilme on mõtlik ja hajameelne. Tal on seljas tumedam, ruudulise mustriga jope. Naine istub paremal ja on süvenenud mõtetesse, vaadates aknast välja mööduvat maastikku. Tal on seljas hele, nööpidega mantel ja kaelas sall. Auto on selgelt liikumises, kuna aknast paistev taust on udune ja detailideta. Ühel hetkel kuvatakse subtiiter, kus naine küsib: \"Mis edasi?\". See küsimus rõhutab tema ebakindlust ja tuleviku üle mõtisklemist. Naine tundub otsivat vastuseid või ootavat mingit olulist järgmist sammu, tema silmad vaatavad kaugusesse ja näoilme on tõsine.",
+      "actions": [
+        "Sõitmine autos",
+        "Aknast välja vaatamine",
+        "Mõtisklemine",
+        "Küsimuse esitamine (subtiitri kaudu)"
+      ],
+      "keywords": [
+        "Autosõit",
+        "Mõtlikkus",
+        "Mustvalge",
+        "Ebakindlus",
+        "Reis",
+        "Tõsidus",
+        "Filmikaader"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Auto interjöör",
+        "Mees",
+        "Naine",
+        "Jope",
+        "Mantel",
+        "Sall",
+        "Auto aken",
+        "Udune linnataust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "What next?"
+      ],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on laiem kaader, mis hõlmab nii meest kui naist auto tagaistmel, samas kui teine ja kolmas pilt on lähivõtted ainult naisest.",
+        "Teisel pildil on nähtav subtiiter \"What next?\", mis puudub esimesel ja kolmandal pildil.",
+        "Naise pilgu suund ja näoilme on lähivõtetes veidi erinevad, teisel pildil on ta rohkem profiilis ja kolmandal vaatab veidi otse ette."
+      ],
+      "snr": "024",
+      "ajad": [
+        "762.080",
+        "810.200"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub öösel mustvalges bensiinijaamas, mis jätab karge ja ehk talvise mulje, mida rõhutab märja maapind ja naise soe riietus. Naine tankib oma autot ja suhtleb lühidalt tankla müüjaga läbi kioski akna, ilmutades esialgu kerget üllatust või muret. Pärast tankimist, mille käigus tangiti 15.38 liitrit kütust 20.00 euro eest, seisab ta bensiinipumba juures ja vaatab otse kaamerasse kerge naeratusega. Bensiinijaam on suuremalt jaolt tühi, valgustatud vaid varikatuse all, mis annab stseenile desolaatse tunde.",
+      "actions": [
+        "Auto tankimine",
+        "Suhtlemine tanklatöötajaga",
+        "Seismine bensiinipumba juures"
+      ],
+      "keywords": [
+        "Bensiinijaam",
+        "Öö",
+        "Mustvalge",
+        "Tankimine",
+        "Klient",
+        "Tankur",
+        "Kiosk",
+        "Üksindus",
+        "Külm"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Bensiinijaam",
+        "Bensiinipump",
+        "Auto",
+        "Kiosk",
+        "Aken",
+        "Sall",
+        "Kindad",
+        "Mantel",
+        "Valgustus",
+        "Tankuri ekraan"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "95",
+        "D KKB",
+        "LITER 15.38",
+        "EURO 20.00"
+      ],
+      "persons": [
+        "Naine (klient)",
+        "Tanklatöötaja (nähtamatu)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Kaamera kaugus ja vaatenurk varieeruvad stseeni jooksul (laiem vaade bensiinijaamale, keskmine lähivõte naisest akna juures, keskmine võte naisest pumba juures).",
+        "Naise asukoht ja tegevus muutuvad: alguses akna juures suhtlemas, seejärel pumba juures tankimise lõpetamisel.",
+        "Naise näoilme muutub: esialgu näib ta üllatunud või murelik, hiljem vaatab kaamerasse kerge naeratusega.",
+        "Bensiinijaama detailid ja naise riietus on eri kaadrites eri fookuses."
+      ],
+      "snr": "025",
+      "ajad": [
+        "810.200",
+        "870.000"
+      ]
+    },
+    {
+      "explanation": "Stseen algab täieliku pimedusega. Seejärel ilmub ekraani keskele vertikaalselt orienteeritud valge ristkülikukujuline kast mustal taustal. Kasti sees on loetletud filmitegijate nimed ja rollid. Tekstid on esitatud kahes keeles: eesti ja inglise keeles. Loetelu hõlmab produktsiooni assistente, operaatori assistente, valgusemeistrit, valgustajaid, kostüümikunstnikke ja grimeerijaid. Nimed ja rollid on kirjutatud valge tekstiga ning jooksevad aeglaselt ekraanil. Pärast tiitrite kuvamist kaob kast ja ekraan muutub taas täielikult mustaks, lõpetades stseeni pimeduses.",
+      "actions": [
+        "Ekraan on must",
+        "Tekstid ilmuvad ekraanile",
+        "Tekstid rulluvad ekraanil",
+        "Tekstid kaovad ekraanilt",
+        "Ekraan muutub mustaks"
+      ],
+      "keywords": [
+        "Lõputiitrid",
+        "Tiitrid",
+        "Filmi lõpp",
+        "Tootmismeeskond",
+        "Must taust",
+        "Valge tekst",
+        "Filmitegijad",
+        "Produktsioon",
+        "Ristkülik"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Tekst",
+        "Ristkülikukujuline kast",
+        "Ekraan"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Produktsiooni assistent/Production assistant",
+        "Operaatori assistendid/ 1st AC",
+        "Valgusmeister/ Gaffer",
+        "Valgustajad/ Electricians",
+        "Kostüümikunstnikud/ Costume designers",
+        "Grimeerijad/ Makeup artists",
+        "Nadja Girich",
+        "Joosep Kask",
+        "Sören Tali",
+        "Robert Linna",
+        "Ants Tammik",
+        "Carlos Lesmes",
+        "Piret Krustok",
+        "Kalle Aasamäe",
+        "Kadri-Liis Rääk",
+        "Anna Izotova",
+        "Annamaria Ala",
+        "Berit Burmann"
+      ],
+      "persons": [
+        "Nadja Girich",
+        "Joosep Kask",
+        "Sören Tali",
+        "Robert Linna",
+        "Ants Tammik",
+        "Carlos Lesmes",
+        "Piret Krustok",
+        "Kalle Aasamäe",
+        "Kadri-Liis Rääk",
+        "Anna Izotova",
+        "Annamaria Ala",
+        "Berit Burmann"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": 80,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene ja kolmas pilt on täielikult mustad, ilma igasuguse nähtava sisuta.",
+        "Teine pilt kuvab ekraani keskel valge ristkülikukujulise kasti mustal taustal, mis sisaldab valget värvi lõputiitreid eesti ja inglise keeles."
+      ],
+      "snr": "026",
+      "ajad": [
+        "870.000",
+        "938.440"
+      ]
+    }
+  ]
+}

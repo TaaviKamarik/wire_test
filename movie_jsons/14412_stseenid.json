@@ -1,0 +1,515 @@
+{
+  "film": [
+    "14412",
+    "14395",
+    "FILM_VIDEO_TYPE_TRAILER",
+    "Distants",
+    "481aca5addff749b00f93e9b859268b90a3df593.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab kahte meest paadis, keda vaadatakse ülaltpoolt hallis, uduse atmosfääriga. Paat on väiksem, tõenäoliselt alumiiniumist või puidust, varustatud aerudega ja asetseb tumedal, rahulikul veepinnal. Esiplaanil, meie vaatepunktist paadi ahtris, istub mees heleda särgi ja tumedate traksidega. Ta on suunaga paadi nina poole ja paistab tegelema millegi paadis oleva raami või ekraanilaadse esemega. Tagapool, paadi ninas, seisab teine mees, kellel on seljas ruuduline särk ja peas nokamüts. Ta on aktiivses liikumises, käed on hõivatud, ilmselt tõmmates köit või käsitsedes mingit varustust. Üldine meeleolu on vaikne, udune ja kergelt mõtlik, mis viitab tegevusele veekogul, näiteks kalastamisele või uurimistööle. Kogu pildiseeria on mustvalge, mis süvendab stseeni ajatut ja atmosfäärilist tunnet.",
+      "actions": [
+        "Istumine paadis",
+        "Millegi käsitlemine paadis",
+        "Köie tõmbamine või varustuse seadmine",
+        "Paadiga sõitmine (oletatav)"
+      ],
+      "keywords": [
+        "Paat",
+        "Mees",
+        "Kalastamine",
+        "Udu",
+        "Vesi",
+        "Mustvalge",
+        "Ülevaltvaade",
+        "Tegevus",
+        "Rahulik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Paat",
+        "Aerud",
+        "Köis",
+        "Istmikupadi",
+        "Raam",
+        "Nokamüts",
+        "Särk",
+        "Traksid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080",
+        "#A0A0A0",
+        "#404040"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Paremal paadis oleva mehe käte ja küünarnukkide asend muutub kaadrite vahel, vihjates pidevale tegevusele; esimesel pildil on käed madalamal, teisel kõrgemal ja kolmandal taas pisut madalamal.",
+        "Vasakul paadis istuva mehe kehahoiak ja pea asend muutuvad minimaalselt, näiteks pea kalle ja selja sirutus on kaadrite vahel kergelt varieeruv.",
+        "Varjude ja valguse peegelduses paadi pinnal ja inimeste rõivastel on märgata peeneid nihkeid, mis annavad edasi liikumise tunnet kaadrite jada jooksul."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "1.520"
+      ]
+    },
+    {
+      "explanation": "Stseen on esitatud mustvalgena, keskendudes lähivõttena eesplaanil olevale metallist esemele, mis sarnaneb tulemasina või patarei ülemise osaga. Taustal on hägune inimkäsi, mis ulatub eseme poole. Valgustus on pehme ja summutatud, luues intiimse ja keskendunud atmosfääri. Eesplaanil olev ese on ülemises osas läikiva ja peegeldava metallpinnaga, mis kontrastub allpool asuva mati, tõenäoliselt plastikust või värvitud kehaga. Käsi taustal on fookusest väljas, mis viitab väikesele teravussügavusele ja suunab vaataja pilgu selgelt eesplaanil olevale detailile. Stseenis toimub eseme ja käe vahel väike, peaaegu märkamatult liikumine või asendi korrigeerimine.",
+      "actions": [
+        "Eseme liigutamine või asendi korrigeerimine",
+        "Käe liigutamine või kohandamine"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Lähivõte",
+        "Käsi",
+        "Ese",
+        "Udu",
+        "Detail",
+        "Metall",
+        "Valgustus",
+        "Intiimne",
+        "Liikumine",
+        "Teravussügavus"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Metallist ese (nt. tulemasina ülemine osa, patarei)",
+        "Inimkäsi"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#555555",
+        "#E0E0E0"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene (kellele käsi kuulub)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 70,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Metallist eseme asend eesplaanil muutub kergelt, mis on märgatav eriti selle peegeldaval pinnal.",
+        "Esme peegelduspinnalt peegelduv valgus ja vari näitavad kerget varieeruvust kaadrite vahel.",
+        "Taustal oleva käe positsioon või nurk eseme suhtes on kergelt nihkunud, näidates liikumist."
+      ],
+      "snr": "002",
+      "ajad": [
+        "1.520",
+        "2.200"
+      ]
+    },
+    {
+      "explanation": "Stseenil on mustvalges lähivõttes mees, kes vaatab allapoole, sigarett huulte vahel. Mehel on lühike habe ja vasakul põsel on märgata kerget mustust või armi. Tema ilme on mõtlik, isegi melanhoolne. Ta kannab heledat T-särki ja tumedaid traksipükse. Taust on ühtlane, hele ja udune, mis toob fookuse täielikult mehele. Valgus on pehme ja hajutatud, luues sügava varju tema näo all ja tuues esile näojooned. Üldine atmosfäär on vaikne ja introspektiivne.",
+      "actions": [
+        "Mõtiskleb",
+        "Vaatab alla",
+        "On sigaret suus"
+      ],
+      "keywords": [
+        "Mees",
+        "Sigaret",
+        "Mustvalge",
+        "Portree",
+        "Lähivõte",
+        "Mõtlik",
+        "Melanhoolne",
+        "Töörõivad",
+        "Traksid",
+        "Sisemine",
+        "Vaiktus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Sigaret",
+        "T-särk",
+        "Traksipüksid"
+      ],
+      "colorcodes": [
+        "#CCCCCC",
+        "#A0A0A0",
+        "#666666",
+        "#333333"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Väga minimaalsed variatsioonid näoilmes ja valgustuses, mis viitavad järjestikustele kaadritele liikuvast pildist. Sigareti asend huultel ja pea hoiak jäävad praktiliselt samaks, kuid on näha kergeid mikroliikumisi, mis annavad edasi elu ja aja kulgemise tunnet."
+      ],
+      "snr": "003",
+      "ajad": [
+        "2.200",
+        "3.240"
+      ]
+    },
+    {
+      "explanation": "Lähivõttes on näha kätt, mis opereerib kaasaegset elektri- või plasmasüütajat. Stseen on mustvalge ja detailirohke, keskendudes süütaja mehhanismile. Süütaja on metallist ja selle ülaosas on kaks horisontaalselt paigutatud haru. Esimeses ja teises kaadris on näha, kuidas kätt kasutades süütaja nuppu vajutatakse, valmis selle aktiveerimiseks. Kolmandas kaadris on selgelt näha kahe haru vahele tekkivat intensiivset elektrilist kaar- või plasmasaadet, mis viitab süütaja täielikule aktiveerimisele. Käsi on taustal udune ja fookusest väljas, kuid siiski eristatav, pakkudes konteksti tegevusele. Üldine meeleolu on minimalistlik ja keskendub süütaja funktsionaalsusele ning metallilisele tekstuurile.",
+      "actions": [
+        "Süütaja aktiveerimine",
+        "Elektrilise kaare tekitamine",
+        "Süütaja nupu vajutamine"
+      ],
+      "keywords": [
+        "Süütaja",
+        "Elektriline süütaja",
+        "Plasma süütaja",
+        "Mustvalge",
+        "Lähivõte",
+        "Käsi",
+        "Elektriline kaar",
+        "Metall",
+        "Tehnika",
+        "Funktsionaalsus"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Süütaja",
+        "Käsi",
+        "Sõrm"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#D3D3D3",
+        "#808080",
+        "#404040",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 60,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses ja teises kaadris on näha süütaja nupu vajutamise protsessi, kusjuures kolmandas kaadris on süütaja täielikult aktiveeritud, näidates kahe haru vahel tekkivat elektrilist kaare."
+      ],
+      "snr": "004",
+      "ajad": [
+        "3.240",
+        "4.480"
+      ]
+    },
+    {
+      "explanation": "Mustvalge kaader näitab kahte meest paadis vee peal. Vaatenurk on paadi tagumisest osast, vaadates ettepoole. Esimesel plaanil, seljaga vaataja poole, on mees, kes kannab heledat T-särki ja tumedaid traksipükse. Tema pilk on suunatud paadi esiosa poole. Tema ees, paadi esiosas, on teine mees, kes on riietatud heledasse ruudulisse särki ja kannab nokamütsi. Ta näib tegelevat mingisuguse võrgu või köiega paadi paremal pardal, olles kergelt külgsuunas vaatajasse pööratud. Paadi esiosas on läbipaistvad tuuleklaasilaadsed ekraanid ning nende kohal on näha väike prožektor või lamp. Paadi külgedel on näha aere. Vesi paadi ümber on tume ja tundub rahulik, taust on udune ja hämar, mis loob süngema või melanhoolse meeleolu. Üldiselt on tegemist kalapüügi või veetööga seotud stseeniga.",
+      "actions": [
+        "Võrguga/köiega tegelemine",
+        "Paadis olemine",
+        "Veetöö"
+      ],
+      "keywords": [
+        "Paat",
+        "Mehed",
+        "Kalapüük",
+        "Vesi",
+        "Mustvalge",
+        "Udu",
+        "Traksipüksid",
+        "Nokamüts",
+        "Prožektor",
+        "Aerud",
+        "Dokumentaalne"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Paat",
+        "Mehed",
+        "Võrk/köis",
+        "T-särk",
+        "Traksipüksid",
+        "Särk",
+        "Nokamüts",
+        "Tuuleklaasid",
+        "Prožektor/lamp",
+        "Aerud",
+        "Vesi"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#cccccc",
+        "#888888",
+        "#aaaaaa"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on laiem kaader, mis näitab rohkem ümbrust ja paati tervikuna.",
+        "Teine pilt on pisut sisse suumitud, tuues detaile lähemale.",
+        "Kolmas pilt on kõige enam sisse suumitud, keskendudes meestele ja paadi keskosa detailidele.",
+        "Meestel on kerged kehahoiaku ja liigutuste erinevused kaadrite vahel, mis annavad edasi pidevat tegevust.",
+        "Esimese mehe pea on kolmandas kaadris pisut allapoole suunatud võrreldes esimeste kaadritega."
+      ],
+      "snr": "005",
+      "ajad": [
+        "4.480",
+        "6.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest profiilis, mustvalgel fotol, kes on parajasti sigaretti süütamas. Tema parem käsi hoiab sigaretti suu juures ja vasak käsi hoiab süütajat sigareti all. Mees vaatab allapoole, keskendunult tegevusele. Ta kannab heledat t-särki ja tumedaid trakse või vesti. Taust on hele ja udune, luues esiplaanile keskendunud efekti. Sigareti süütamise käigus tekib üha rohkem suitsu, mis hõljub mehe näo eest vasakule ülespoole.",
+      "actions": [
+        "Sigareti süütamine",
+        "Sigareti suus hoidmine",
+        "Süütaja kasutamine",
+        "Sissehingamine (suitsu tekkimisest järeldatav)"
+      ],
+      "keywords": [
+        "Suitsetamine",
+        "Mees",
+        "Mustvalge",
+        "Profiil",
+        "Sigaret",
+        "Süütaja",
+        "Suits",
+        "Halltoonid",
+        "Käed",
+        "Keskendumine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Sigaret",
+        "Süütaja",
+        "Suits",
+        "T-särk",
+        "Traksid/vesti rihm"
+      ],
+      "colorcodes": [
+        "must ja valge"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil hakkab mees sigaretti süütama, süütaja leek on selgelt nähtav ja suitsu on vähe, mis just hakkab tekkima.",
+        "Teisel pildil on sigarett juba süttinud, leek on endiselt nähtav ja suitsu on veidi rohkem, mis hakkab levima.",
+        "Kolmandal pildil on sigarett täielikult süttinud, süütaja leek pole enam nähtav ja suitsu on oluliselt rohkem, levides tugevalt vasakule ja üles."
+      ],
+      "snr": "006",
+      "ajad": [
+        "6.240",
+        "11.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalges seerias meest, kes algselt on pildistatud profiilis, vaatab pilguga vasakule, eemale kaamerast. Tal on peas lühikesed juuksed, mis on kukla poolt veidi pikemad (nn. \"mullet\" stiilis). Nägu kaunistab lühike habemetüügas. Ta kannab heledat t-särki või tanktoppi, mille õlapaelad on nähtavad. Taust on ühtlaselt hele ja udune, luues pehme ja fookusest väljas oleva efekti, justkui oleks tegu udu või valge suitsuga. Järk-järgult pöörab mees oma pead üle vasaku õla paremale kaamera poole, kuni lõpuks vaatab otse ette üllatunud või veidi mureliku ilmega. Tema silmad on pärani ja suu veidi avatud, andes edasi ehmatuse või küsiva tooni. See pööramine ja pilgu suunamine kaamerasse annab stseenile dünaamika ja muudab fookuse tema reageeringule.",
+      "actions": [
+        "Mees pöörab pead",
+        "Mees vaatab kaamerasse",
+        "Mees väljendab üllatust/muret",
+        "Mees vaatab eemale"
+      ],
+      "keywords": [
+        "Mees",
+        "Mustvalge",
+        "Portree",
+        "Dünaamika",
+        "Üllatus",
+        "Mure",
+        "Profiil",
+        "Pilk",
+        "Pöördumine",
+        "Hele taust",
+        "Lühikesed juuksed",
+        "Habemetüügas",
+        "Särk"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Inimene (mees)",
+        "Riided (särk, õlapaelad)",
+        "Hele taust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe pea asend muutub profiilist otse kaamerasse vaatavaks.",
+        "Mehe pilk pöördub kaamerast eemale otse kaamerasse.",
+        "Mehe näoilme muutub neutraalsest/mõtlikust üllatunuks/murelikuks.",
+        "Pildil nähtava mehe näo ja kehaosa suund muutub paremale."
+      ],
+      "snr": "007",
+      "ajad": [
+        "11.360",
+        "14.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab minimalistlikku, monokroomset maastikku või meremaastikku, mis on kaetud tiheda udu või vindiga. Pildi ülemine osa on helehall, mis annab edasi uduse taeva või väga paksu udukihi mulje. Horisont on hägune ja vaevumärgatav, sulandudes sujuvalt tumedamasse ala allpool. Alumises osas on tumedam hall toon, mis viitab veekogule, mille pinnal on näha õrnu virvendusi või laineid, mis liiguvad aeglaselt. Üldine atmosfäär on vaikne, müstiline ja rahulik. Kujutised on udused, andes edasi tunde piiratud nähtavusest ja ebakindlusest.",
+      "actions": [
+        "Vee virvendamine",
+        "Udu hõljumine"
+      ],
+      "keywords": [
+        "Udu",
+        "Monokroomne",
+        "Maastik",
+        "Meremaastik",
+        "Hall",
+        "Vesi",
+        "Veepind",
+        "Vaikus",
+        "Müstika",
+        "Rahulik",
+        "Minimalistlik",
+        "Hämarus",
+        "Piiratud nähtavus",
+        "Hägusus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Udu",
+        "Vesi",
+        "Taevas (udune)",
+        "Horisont (hägune)"
+      ],
+      "colorcodes": [
+        "#A0A0A0",
+        "#606060",
+        "#C0C0C0",
+        "#303030",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Veesügavuse ja virvenduste muster veepinnal muutub kergelt, viidates vee aeglasele liikumisele.",
+        "Udu tihedus ja tekstuur näib kaadri kaupa õrnalt varieeruvat, kuigi see on peaaegu märkamatult, luues dünaamilise, ent siiski rahuliku efekti.",
+        "Üldine valgusjaotus jääb samaks, kuid detailides on mikromuutused, mis annavad edasi elava, kuigi minimalistliku stseeni."
+      ],
+      "snr": "008",
+      "ajad": [
+        "14.720",
+        "18.600"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb mustal taustal esitletud teksti- ja logokaadritest, mis on ilmselt filmi tiitrid või reklaammaterjal. Algselt domineerib ekraani paremal poolel suurte, paksude ja valgete tähtedega kirjutatud pealkiri \"MITTE KEEGI PEALE SINU\". Pealkirja vasakul küljel, vertikaalselt paigutatuna, on tekstid \"6\" ja \"REŽISSÖÖRI FILMID\". Seejärel muutub ekraani sisu, esitades horisontaalselt reastatud nimekirja kuuest režissöörist ja nende filmide pealkirjadest, näiteks \"JANNO JÜRGENS / DISTANTS\" ja \"MARGUS PAJU / KAASTUNDEAVALDUS\". Nimekirja all on valgete suurtähtedega märgitud filmi esilinastuse kuupäev ja koht: \"KINODES 24. JAANUARIST 2014\". Kõikidel kaadritel on ekraani alumises osas reas mitu helehalli värvi tootja ja toetaja logo, sealhulgas Eesti Filmi Instituut, Eesti Kultuurkapital, Allfilm ja BFM. Kogu stseen on minimalistliku disainiga ja keskendub edastatavale informatsioonile. Taust on ühtlaselt must ning tekstid ja logod on valged või helehallid.",
+      "actions": [
+        "Teksti ja graafika kuvamine ekraanil",
+        "Tekstiplokkide vahetamine ekraanil"
+      ],
+      "keywords": [
+        "Film",
+        "Tiitrid",
+        "Krediidid",
+        "Režissöörid",
+        "Esilinastus",
+        "Logo",
+        "Must taust",
+        "Valge tekst",
+        "Kinodes",
+        "Eesti film"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Tekstid",
+        "Logod"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "MITTE KEEGI PEALE SINU",
+        "6 REŽISSÖÖRI FILMID",
+        "JANNO JÜRGENS / DISTANTS",
+        "IVAN PAVLJUTSKOV / IVANIPÄEV",
+        "MARIA REINUP / MAI",
+        "TRIIN RUUMET / TUPSU",
+        "KAUR KOKK / OLGA",
+        "MARGUS PAJU / KAASTUNDEAVALDUS",
+        "KINODES 24. JAANUARIST 2014",
+        "Eesti Filmi Instituut",
+        "Estonian Film Institute",
+        "EESTI KULTUURKAPITAL",
+        "ALASTI KINO",
+        "allfilm",
+        "HUNTMEES FILM",
+        "NAFTA",
+        "HOMELESS BOB PRODUCTION",
+        "BFM",
+        "Baltic Film and Media School"
+      ],
+      "persons": [
+        "Janno Jürgens",
+        "Ivan Pavljutskov",
+        "Maria Reinup",
+        "Triin Ruumet",
+        "Kaur Kokk",
+        "Margus Paju"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": 60,
+      "season": "winter",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha filmi pealkiri \"MITTE KEEGI PEALE SINU\" ja märge \"6 REŽISSÖÖRI FILMID\".",
+        "Teisel ja kolmandal pildil on pealkirja asemel loetelu režissööride nimedest ja nende filmide pealkirjadest ning filmi esilinastuse kuupäev \"KINODES 24. JAANUARIST 2014\".",
+        "Alumised tootja- ja toetajalogod ning must taust jäävad kõikidel piltidel samaks.",
+        "Teine ja kolmas pilt on sisuliselt identsed, kerge erinevusega võis olla heleduse või kontrasti nuansis, kuid sisu on sama."
+      ],
+      "snr": "009",
+      "ajad": [
+        "18.600",
+        "23.280"
+      ]
+    }
+  ]
+}

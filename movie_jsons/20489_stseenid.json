@@ -1,0 +1,610 @@
+{
+  "film": [
+    "20489",
+    "20336",
+    "FILM_VIDEO_TYPE_TRAILER",
+    "Aurora",
+    "8fd99622b6b4a2a9e60d39ae4e081d0028cceec2.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Piltidel on kujutatud detailne lähivõte inimese näost, kus on näha lauba osa, silmad, kulmud, nina ja osa suust, samuti tükike paremast kõrvast. Nägu on joonistatud stiliseeritud viisil, mis meenutab värvipliiatsi või pastelli tehnikat tekstuursele paberile, andes nahale lainelise, kriipsulise mustri. Kulmud on tumedad ja tihedad. Naha toon on hele, virsiku- või beežikas, millel on õrnad punakad ja pruunikad varjundid, mis loovad varju- ja sügavusefekti. Suu ja nina on kujutatud peente joontega. Taust on hele, paremal serval paistab helesinine varjund. Stseen keskendub peamiselt inimese silmade seisundi muutusele, kus need vahelduvad suletud ja avatud olekuga.",
+      "actions": [
+        "Silmade avamine",
+        "Silmade sulgemine",
+        "Vaatamine (kui silmad on avatud)",
+        "Mõtisklemine/Meditatsioon (võimalik, kui silmad on suletud)",
+        "Magamine (võimalik, kui silmad on suletud)"
+      ],
+      "keywords": [
+        "Nägu",
+        "Silmad",
+        "Kulmud",
+        "Joonistus",
+        "Värvipliiats",
+        "Portree",
+        "Lähivõte",
+        "Rahulik",
+        "Uuriv",
+        "Emotsioonid",
+        "Paberitekstuur",
+        "Muutus"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [
+        "Inimese nägu",
+        "Silmad",
+        "Kulmud",
+        "Nina",
+        "Suu",
+        "Kõrv (osa)"
+      ],
+      "colorcodes": [
+        "#F8E8DA",
+        "#C69A8A",
+        "#332018",
+        "#7A4B30",
+        "#A8705C",
+        "#EFEFEF",
+        "#D4E8F8"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (võimalik)",
+        "Inimene"
+      ],
+      "imagetype": "drawing",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel ja kolmandal pildil on isiku silmad suletud, samas kui teisel pildil on silmad avatud, nähtavale tuues pruunid iirised.",
+        "Kuigi esimesel ja kolmandal pildil on silmad suletud, on nende detailides väike erinevus: kolmandal pildil võivad suletud silmad paista pisut lõdvestunumad või pehmemalt joonistatud kui esimesel pildil."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "1.625"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb minimalistlikust valgest või heledast beežist taustast, mille keskel on pruuniks toonitud tekst. Alguses on nähtav vaid sõna \"EKA\" heleda, justkui joonistatud piirjoonena. Seejärel muutub kiri \"EKA\" tumedamaks ja tihkemaks, omandades soliidsema pruuni tooni, ning selle alla ilmub samas stiilis ja värvis sõna \"presents\". Lõpuks taandub kiri \"EKA\" uuesti heledaks ja hajutatuks, peaaegu nähtamatuks, justkui kaoks pildilt.",
+      "actions": [
+        "Tekst ilmub ja kaob",
+        "Tekst muutub heledamast tumedamaks",
+        "Uue teksti lisandumine",
+        "Tekst tuhmub"
+      ],
+      "keywords": [
+        "minimalistlik",
+        "tekst",
+        "tiiter",
+        "animatsioon",
+        "EKA",
+        "presents",
+        "pruun",
+        "valge",
+        "taust",
+        "lihtne"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "tekst"
+      ],
+      "colorcodes": [
+        "#F8F6F4",
+        "#C9B6A9",
+        "#80382E"
+      ],
+      "texts": [
+        "EKA",
+        "presents"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on tekst \"EKA\" heleda ja õhukese piirjoonena.",
+        "Teisel pildil on tekst \"EKA\" tumedam, tihkem ja selgem, ning selle all on lisandunud tekst \"presents\" samas stiilis.",
+        "Kolmandal pildil on tekst \"EKA\" taas muutunud väga heledaks ja hajutatuks, peaaegu olematuks, justkui oleks see taustale sulandumas või sealt kadumas."
+      ],
+      "snr": "002",
+      "ajad": [
+        "1.625",
+        "4.625"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt inimese ülakeha, kes on parasjagu aevastamas või köhimas. Isik, tõenäoliselt mees, kannab erkollast kraega särki ning tal on lühikesed pruunid juuksed. Tema silmad on kinni pigistatud ja näoilme on pinges, viidates süvenevale aevastusele või köhale. Ta on tõstnud oma parema käe küünarnuki ja käsivarre abil näo ette, püüdes varjata aevastuse või köha levikut. Käsivars on suunatud näo poole, kattes suu ja nina piirkonda. Taust on lihtne, horisontaalselt jaotatud valgeks ja roheliseks alaks, mis on iseloomulik värvipliiatsitehnika karedale tekstuurile.",
+      "actions": [
+        "Aevastamine",
+        "Köhimine",
+        "Näo katmine",
+        "Käe tõstmine",
+        "Pinge näol"
+      ],
+      "keywords": [
+        "Aevastamine",
+        "Köha",
+        "Hügieen",
+        "Haigus",
+        "Kollane särk",
+        "Inimene",
+        "Käsivars",
+        "Nägu",
+        "Värvipliiatsjoonistus",
+        "Portree"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Kollane särk",
+        "Inimese kehaosa",
+        "Käsivars",
+        "Nägu"
+      ],
+      "colorcodes": [
+        "#ffe242",
+        "#e09f7a",
+        "#6a3e2a",
+        "#93c08f",
+        "#f6f7f2"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene",
+        "Mees"
+      ],
+      "imagetype": "drawing",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on isiku parem käsi, mis katab nägu, veidi allpool ja sõrmed on rohkem avatud. Näoilme on tugevalt pinges, silmad on tihedalt kinni pigistatud.",
+        "Teisel pildil on käsivars tõstetud veidi kõrgemale, kattes suurema osa näost, ja sõrmed on tihedamalt koos või rusikas. Näoilme on jätkuvalt pinges.",
+        "Kolmandal pildil on käsivars võrreldes teisega taas veidi allapoole liikunud, ehkki see katab endiselt näo. Näoilme on pisut lõdvem, viidates tegevuse lõppemisele või vahetult pärast seda. Käsivarre asend ja sõrmede kuju on igal pildil veidi erinev, näidates tegevuse progresseerumist ja lõpuleviimist."
+      ],
+      "snr": "003",
+      "ajad": [
+        "4.625",
+        "5.792"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt tekstureeritud pinda, mis on valdavalt sügavrohelistes ja tumerohelistes toonides. Pind on kaetud ebaühtlaste, peaaegu mustade laikudega, mis annavad edasi räsitud või kulunud mulje. Esineb ka heledamaid, kollakasrohelisi triipe ja plekke, mis murravad tumedate toonide ühtlust. Tekstuur on robustne ja ebakorrapärane, viidates võimalikule roostele, samblale, kooruvale värvile või oksüdeerunud metallile. Pind on visuaalselt rikas detailide poolest, millel on näha vertikaalsed kriimustused või jooned, mis lisavad sügavust. Üldmulje on abstraktne ja orgaaniline, meenutades tihedat taimestikku või iidset patina. Valgus on ühtlane ja hajutatud, esile tuues pinna reljeefsuse ja värvitoonide sügavuse.",
+      "actions": [
+        "kulumine",
+        "oksüdeerumine",
+        "vananemine"
+      ],
+      "keywords": [
+        "roheline",
+        "tekstuur",
+        "kulunud",
+        "räsitud",
+        "patina",
+        "sammal",
+        "rooste",
+        "abstraktne",
+        "tume",
+        "hele",
+        "ebaühtlane",
+        "pind",
+        "orgaaniline",
+        "oksüdeeritud",
+        "detailirohke"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [
+        "pind",
+        "värv"
+      ],
+      "colorcodes": [
+        "#223021",
+        "#3D6A35",
+        "#6D7F2A",
+        "#1A1C1A"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevused piltide vahel on väga peened ja hõlmavad väikeseid variatsioone üldises heleduses ja värvitoonides. Mõned pildid võivad olla teistest pisut tumedamad või heledamad ning nende roheline värv võib kalduda kas veidi soojemasse või külmemasse tooni. Tekstuur ja detailid jäävad sisuliselt samaks."
+      ],
+      "snr": "004",
+      "ajad": [
+        "5.792",
+        "6.583"
+      ]
+    },
+    {
+      "explanation": "Stseen algab abstraktse tumerohelise, kulunud või samblast tekstuuri kujutisega. Seejärel toimub üleminek elavamale, stiliseeritud rohelisele taustale, mis meenutab muruväljakut või välja, olles kujutatud horisontaalsete laineliste joontega, andes edasi joonistuse või digitaalse efekti mulje. Pildile ilmub üks inimene, kes on kujutatud samasuguses kunstilises stiilis. Inimene asub kaadri paremal poolel ja on liikumises, kandes erkkollast lühikeste varrukatega särki ja siniseid pükse. Tal on lühikesed pruunid juuksed. Tema kehahoiak viitab dünaamilisele tegevusele, nagu õõtsumine, tantsimine või golfimäng, olles pööratud vaatajast veidi eemale ja vasakule. Üldmulje on energiline liikumine kunstipäraselt kujutatud, pisut unenäolises rohelises keskkonnas.",
+      "actions": [
+        "Liikumine",
+        "Õõtsumine",
+        "Võimalik golfimängimine",
+        "Võimalik tantsimine"
+      ],
+      "keywords": [
+        "Roheline",
+        "Tekstuur",
+        "Abstraktne",
+        "Joonistus",
+        "Digitaalne efekt",
+        "Inimene",
+        "Liikumine",
+        "Kollane särk",
+        "Sinised püksid",
+        "Kunstipärane"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Kollane särk",
+        "Sinised püksid"
+      ],
+      "colorcodes": [
+        "#344733",
+        "#587955",
+        "#6fb270",
+        "#fff080",
+        "#204090",
+        "#c09070"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "effect",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on abstraktne, tumeroheline tekstuur ilma inimesteta, samas kui teisel ja kolmandal pildil on stiliseeritud roheline taust ning inimene.",
+        "Esimese pildi stiil on realistlik tekstuur, aga teise ja kolmanda pildi stiil on digitaalne joonistus või efekt, mis meenutab värvipliiatsitööd.",
+        "Teise ja kolmanda pildi vahel on väga väike erinevus inimese asendis ja renderduses, mis annab edasi liikumise tunde."
+      ],
+      "snr": "005",
+      "ajad": [
+        "6.583",
+        "7.208"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab ühte inimfiguuri rohelise, horisontaalsete kriipsude ja tekstuuriga tausta ees, mis meenutab muruväljakut või niitu. Figuur on kujutatud stiliseeritud ja veidi hägusel, kriidi- või värvipliiatsilikul joonistusstiilil. Inimene kannab erkrohelist (või kollast) lühikeste varrukatega särki ja tumesiniseid pikki pükse. Isiku nägu ja detailid on ähmased, kuid juuksed on pruunikat tooni ja lühemat sorti. Inimese kehahoiak muutub, mis viitab liikumisele, tantsimisele või käte asendi varieerumisele. Taust on ühtlaselt roheline, valgete horisontaalsete kriipsudega, mis annavad edasi sügavuse või tekstuuri. Pildil domineerivad roheline, kollane ja sinine toon. Inimfiguur on paigutatud kaadri paremasse kolmandikku, jättes suurema osa pildi vasakust osast avatuks.",
+      "actions": [
+        "Käte asendi muutmine",
+        "Žestikuleerimine",
+        "Liikumine",
+        "Pööramine"
+      ],
+      "keywords": [
+        "Joonistus",
+        "Kriidijoonistus",
+        "Värvipliiatsid",
+        "Inimfiguur",
+        "Roheline taust",
+        "Muru",
+        "Väli",
+        "Liikumine",
+        "Stiliseeritud",
+        "Kollane särk",
+        "Sinised püksid"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Särk",
+        "Püksid",
+        "Taust",
+        "Muru/väli"
+      ],
+      "colorcodes": [
+        "#4C8E50",
+        "#FFEB3B",
+        "#3F51B5",
+        "#A06D4A",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "drawing",
+      "emptypercent": "65",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on inimene kergelt paremale pööratud, parem käsi on suunatud ette-alla ja vasak käsi on keha lähedal painutatult.",
+        "Teisel pildil on inimene rohkem paremale pööratud, peaaegu profiilis, ja mõlemad käed on üles tõstetud ning laiali, justkui žestikuleerides või midagi püüdes.",
+        "Kolmandal pildil on inimene pööratud ettepoole või kergelt paremale, vasak käsi on tõstetud ja kõverdatud rinna kõrgusele keha ette ning parem käsi on suunatud allapoole ja veidi ette, sarnaselt esimesele pildile, kuid erineva nurgaga."
+      ],
+      "snr": "006",
+      "ajad": [
+        "7.208",
+        "8.333"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab käsitsi joonistatud puu loomist või kasvu läbi kolme järjestikuse etapi. Alguses on näha vaid pruun puutüvi mõne üksiku tumerohelise ja helerohelise lehega. Teises etapis on puuvõra ala täidetud hajutatud, kuid arvukate roheliste lehtedega, mis annavad edasi puu kuju. Kolmandas ja viimases etapis on puuvõra täielikult ja tihedalt täis joonistatud rohelisi lehti, moodustades rikkaliku ja volüümika puukrooni. Joonistus on tehtud kriidi või värvipliiatsitega heledal, kergelt tekstuuriga paberil, mis loob sinakasvalge taustaefekti. Kogu kompositsioon annab edasi lihtsustatud, ent elava kujutuse puust. Puutüvi on joonistatud vertikaalse pruuni joonega, millel on märgata ka pisemaid tekstuurseid detaile. Lehed on lühikeste, tihtipeale ümarate või ovaalsete tõmmetega, mis loovad orgaanilise ja loodusliku tunde.",
+      "actions": [
+        "Puu joonistamine",
+        "Lehtede lisamine",
+        "Puuvõra täitmine",
+        "Joonistuse valmimine"
+      ],
+      "keywords": [
+        "puu",
+        "joonistus",
+        "kriidijoonistus",
+        "värviline",
+        "roheline",
+        "pruun",
+        "lehed",
+        "puutüvi",
+        "kasvuprotsess",
+        "lastekunst",
+        "lihtne"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "puu",
+        "puutüvi",
+        "lehed",
+        "paber"
+      ],
+      "colorcodes": [
+        "#264e2e",
+        "#6eb152",
+        "#513f38",
+        "#ddeaf2"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "drawing",
+      "emptypercent": "30",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Erinevused seisnevad lehtede hulga ja tiheduse järkjärgulises suurenemises. Esimesel pildil on puutüvel vaid mõned üksikud, hõredalt paigutatud lehed. Teisel pildil on lehti lisandunud märkimisväärselt, moodustades laiali valgunud puuvõra kuju. Kolmandal pildil on puuvõra täielikult ja tihedalt täidetud roheliste lehtedega, andes edasi valmis ja täiskasvanud puu ilme."
+      ],
+      "snr": "007",
+      "ajad": [
+        "8.333",
+        "9.667"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt valgel või kreemivärvilisel tekstuuriga paberil käsitsi kirjutatud sõna \"Aurora\". Kirjutis on tehtud lapse käekirja meenutavas stiilis, suurte trükitähtedega ja tundub olevat joonistatud värvipliiatsiga või markeriga. Paberil on näha peenelt teraline tekstuur. Erinevate kaadrite lõikes muutub kirjutise värv ja intensiivsus märgatavalt. Alguses on see hele pruunikas-oranžikas ja õrnalt välja toodud, pliiatsijäljed on selgelt eristatavad ja hajutatud. Seejärel muutub värv tumedamaks, omandades sügava oliivrohelise-pruuni tooni, ja kirjutis muutub oluliselt intensiivsemaks ning tihedamaks, jättes mulje, et see on mitu korda üle tõmmatud või tehtud tugevama ja paksema joonega. Lõpuks on kirjutis samuti oliivrohekas-pruun, kuid intensiivsus on veidi tagasi tõmmatud võrreldes kõige tumedama versiooniga, säilitades siiski selgelt pliiatsijoonistuse tekstuuri ja varasemast suurema tiheduse. Üldiselt loob stseen lihtsa, fookustatud pildi tekstist, mis muutub ajas värvi ja intensiivsuse poolest.",
+      "actions": [
+        "Kirjutamine",
+        "Joonistamine",
+        "Värvi muutmine",
+        "Intensiivsuse lisamine"
+      ],
+      "keywords": [
+        "Käekiri",
+        "Tekst",
+        "Paber",
+        "Värvipliiats",
+        "Sõna",
+        "Aurora",
+        "Muutuv",
+        "Intensiivsus",
+        "Värvimuutus",
+        "Lapse käekiri"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Paber",
+        "Tekst (sõna \"Aurora\")"
+      ],
+      "colorcodes": [
+        "#F5F3ED",
+        "#B3867A",
+        "#665C39",
+        "#776D44"
+      ],
+      "texts": [
+        "Aurora"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "85",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kirjutise värv muutub heledast pruunikas-oranžist tumedaks oliivroheliseks-pruuniks.",
+        "Kirjutise intensiivsus ja tihedus suureneb oluliselt esimesest kaadrist teise ja kolmandasse.",
+        "Pliiatsijälgede selgus ja täidetus varieerub, olles esimeses kaadris kõige hajutatum ja teises kõige tihedam."
+      ],
+      "snr": "008",
+      "ajad": [
+        "9.667",
+        "11.792"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab puu loomist või joonistamise protsessi, alustades tühjast paberist ja lõpetades valmis puuga. Esimesel etapil on näha tekstuuriga heledal paberil vaid vertikaalne pruun, samuti tekstuuriga joon, mis moodustab puutüve aluse, ning selle läheduses mõned üksikud tumerohelised pintslitõmbed. Järgmises faasis on tüvi juba selgemalt välja joonistatud ja selle ümber on lisandunud rohkem tumedamaid ja heledamaid rohelisi lehekujulisi elemente, samal ajal kui taust on omandanud ühtlase heleda roheka tooni. Lõplikul pildil on puu täielikult valmis, rikkaliku mitmevärvilise (eri rohelise toonides) lehestikuga, mis katab suure osa tüvest, ning taust on ühtlaselt heledam roheline, andes edasi kevadist või suvise puu üldmuljet.",
+      "actions": [
+        "Joonistamine",
+        "Maalimine",
+        "Loomine",
+        "Arendamine",
+        "Kasvamine (kunstiliselt)"
+      ],
+      "keywords": [
+        "Kunst",
+        "Joonistus",
+        "Puu",
+        "Lehed",
+        "Tüvi",
+        "Roheline",
+        "Pruun",
+        "Paber",
+        "Tekstuur",
+        "Looming",
+        "Areng",
+        "Akvarell",
+        "Kevad",
+        "Suvi"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Puu",
+        "Lehed",
+        "Puu tüvi",
+        "Paber"
+      ],
+      "colorcodes": [
+        "#1D3A1B",
+        "#4A7A3B",
+        "#80B171",
+        "#4D3B31",
+        "#C1D5CB",
+        "#F4F4F4"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "drawing",
+      "emptypercent": "10",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Lehtede hulk ja tihedus suureneb kolmandast pildist esimese pildini, demonstreerides puu lehestiku järkjärgulist väljaarendamist.",
+        "Puu valmisoleku aste on erinev: kolmandal pildil on näha vaid tüve algus ja mõned üksikud rohelised märgid, teisel pildil on puu osaliselt lehtedega kaetud ja esimesel pildil on puu täielikult valmis joonistatud, rikkaliku lehestikuga.",
+        "Tausta värvus ja katvus muutub: kolmandal pildil on taust valdavalt hele ja tühi, teisel pildil on taust ühtlasemalt heledam roheline ja esimesel pildil on taust täielikult kaetud heledama rohelise tooniga, mis sulandub puu ümber.",
+        "Üldine detailirohkus ja värvide kompleksus suureneb pildist pilti, näidates kunstilise protsessi edenemist täiesti tühjast lõpetatud teoseni."
+      ],
+      "snr": "009",
+      "ajad": [
+        "11.792",
+        "12.917"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kunstiteose detailset osa, mis on teostatud värvipliiatsite ja võib-olla akvarellidega, esitledes iseloomulikku paberi tekstuuri. Fookuses on lamav inimfiguur, tõenäoliselt naine või tütarlaps, kelle pea on veidi tahapoole kallutatud ja suu avatud. Tema suu poole sirutub ülevalt alla looklev kuldne ussitaoline olend või ese. Olendi tipus on väike punane täpp, mis võib olla veri, mürk või tilk vedelikku, mis on just suuga kokku puutumas või sellest sisenemas. Inimfiguur kannab lillat, tekstuurset rõivastust ja tal on blondid juuksed. Vasakul on nähtav tume vertikaalne struktuur, mis meenutab posti või puutüve, millest kuldne ussitaoline vorm näib algavat. Üldine taust on helehall või valkjas, samuti tekstuuriga. Kõige esimesel pildil on näha üldine roheline tekstuur, mis võib olla osa teose laiemast kontekstist või abstraktne taust, mis on kasutatud koos detailsemate joonistustega.",
+      "actions": [
+        "Lamav isik võtab midagi suu kaudu vastu",
+        "Kuldne ussitaoline olend sirutub alla"
+      ],
+      "keywords": [
+        "Kunstiteos",
+        "Joonistus",
+        "Akvarell",
+        "Värvipliiats",
+        "Abstraktne taust",
+        "Kuldne uss",
+        "Müstiline",
+        "Unelev",
+        "Legend",
+        "Mürk",
+        "Eliksiir",
+        "Rituaal"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [
+        "Inimfiguur",
+        "Kuldne uss/madu/vits",
+        "Vertikaalne post/tüvi",
+        "Rõivastus",
+        "Tekstuuriga paber/lõuend"
+      ],
+      "colorcodes": [
+        "#748C4A",
+        "#B49C40",
+        "#967096",
+        "#DEC060",
+        "#C20000",
+        "#E0E0E0",
+        "#404040"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimfiguur"
+      ],
+      "imagetype": "drawing",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide 2 ja 3 vahel on vaid üliväiksed erinevused, näiteks suu juurest ülespoole suunduva õrna joone pikkuses ja selguses, mis on pildil 3 veidi selgem."
+      ],
+      "snr": "010",
+      "ajad": [
+        "12.917",
+        "13.417"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud värvipliiatsitega joonistatud noore mehe portree ning lisaks on näha rohelist tekstuuriga pinda. Portreel on keskel noore mehe nägu, kes vaatab otse ette. Tal on pruunid lühikesed juuksed, paksud tumepruunid kulmud ja pruunid silmad. Mehe näoilme on tõsine või kergelt üllatunud, huuled on kergelt avatud. Nahatoon on kahvatu ja näol on näha värvipliiatsitega tehtud joonistuse tekstuurilisi tõmbeid. Ta kannab kollast kraed või särgi ülaosa. Portree taust on helesinine või valkjas, millel on samuti nähtavad pliiatsitõmbed. Teine stseeni kuuluv visuaalne element on ühtlane roheline pind, mis meenutab muru või põldu. Sellel on näha horisontaalseid värvivariatsioone ja struktuuri, andes sellele loomuliku tekstuuri.",
+      "actions": [
+        "poseerimine",
+        "otse ette vaatamine"
+      ],
+      "keywords": [
+        "portree",
+        "joonistus",
+        "mees",
+        "noor mees",
+        "roheline",
+        "muru",
+        "pliiatsijoonistus",
+        "värvipliiatsid",
+        "nägu",
+        "tekstuur"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "noor mees",
+        "joonistus",
+        "krae",
+        "roheline pind",
+        "muru"
+      ],
+      "colorcodes": [
+        "#7C4F1A",
+        "#4A2C1C",
+        "#EBD170",
+        "#E0C7B2",
+        "#E0EBF5",
+        "#7CB342",
+        "#A8D176",
+        "#5A8F31"
+      ],
+      "texts": [],
+      "persons": [
+        "noor mees"
+      ],
+      "imagetype": "drawing",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pilt 3 on üldiselt kergelt heledam ja vähem küllastunud kui pilt 2.",
+        "Pildil 3 on näo nahatoonid pisut kahvatumad, samas kui pildil 2 on näha rohkem punakamaid alatoone ja sügavamat varjutust.",
+        "Taust on pildil 3 samuti marginaalselt heledam."
+      ],
+      "snr": "011",
+      "ajad": [
+        "13.417",
+        "15.125"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "film": [
+    "20555",
+    "20401",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Kassi üheksa elu",
+    "39430312c4818696edab12d4df785c9460a4d084.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab interjööri, kus heledal riiulil asub oranžikasvalge kass, kes uurib valget nelinurkset turvaseadet, mis meenutab suitsu- või vingugaasiandurit. Riiulil on ka taim ja allpool näha raamatuid. Tagaplaanil on hele sein ja ümmargune peegel. Visuaal areneb heledast ja detailsest keskkonnast, kus kass on uudishimulik, udusesse kaadrisse, mis sisaldab hoiatavat teksti inimelu hapruse kohta võrreldes kassi üheksa eluga. Lõpuks muutub stseen peaaegu täiesti pimedaks, jättes alles vaid objektide ähmaste siluettidena, mis viitab võimalikule ohule või elektrikatkestusele.",
+      "actions": [
+        "Kass askeldab riiulil",
+        "Kass vaatleb seadet",
+        "Seade on riiulil",
+        "Taim ripub riiulilt alla",
+        "Valgus kustub/ruum muutub pimedaks"
+      ],
+      "keywords": [
+        "Kass",
+        "Andur",
+        "Ohutus",
+        "Kodu",
+        "Riiul",
+        "Sisekujundus",
+        "Hoiatus",
+        "Pimedus",
+        "Vingugaas",
+        "Suitsuandur"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kass",
+        "Andur",
+        "Riiul",
+        "Raamatud",
+        "Taim",
+        "Peegel",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#E8AA6E",
+        "#F0F0F0",
+        "#CDBEA7",
+        "#F8F8F8",
+        "#4F7049"
+      ],
+      "texts": [
+        "KASSIL ON ÜHEKSA ELU, SINUL ÜKS."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt näitab kassi ja andurit heledas, detailses keskkonnas.",
+        "Teine pilt on udune ja sisaldab hoiatavat teksti \"KASSIL ON ÜHEKSA ELU, SINUL ÜKS.\", mille fookus on tekstil.",
+        "Kolmas pilt on oluliselt tumedam, kujutades peaaegu pimedat ruumi, kus objektid on vaevumärgatavad siluettidena.",
+        "Valgusolud ja detailide selgus vähenevad esimesest pildist kolmandani."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "8.200"
+      ]
+    },
+    {
+      "explanation": "Käesolevad pildid on täiesti mustad, kujutades absoluutset pimedust või tühja musta ekraani. Puuduvad igasugused visuaalsed detailid, objektid, isikud või tekstid. Stseen on ühtlaselt tume ja detailivaba, andes edasi tühjuse või valguse puudumise tunde.",
+      "actions": [],
+      "keywords": [
+        "pimedus",
+        "must",
+        "tühjus",
+        "teadmatus",
+        "valguse puudumine",
+        "nullinfo"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [],
+      "snr": "002",
+      "ajad": [
+        "8.200",
+        "26.960"
+      ]
+    }
+  ]
+}

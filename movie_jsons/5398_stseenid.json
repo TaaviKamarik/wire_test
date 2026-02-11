@@ -1,0 +1,1487 @@
+{
+  "film": [
+    "5398",
+    "5398",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Codex Gigas",
+    "fa42032e94eb36837e3ee398c8ec2ce84181186c.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täiesti musta ekraaniga, mis seejärel asendub musta taustaga, millel kuvatakse valge, käsitsikirjutatud stiilis tekst 'VEIKKO TAAR'. Pärast seda lõikab stseen kõrge kontrastsusega halltoonidesse interjöörivaatesse, mis kujutab vanaaegset buduaari või magamistoa osa. Esiplaanil ja keskel asub suur tualettlaud, mis on kaetud drapeeritud riidega. Vasakul pool on osaliselt nähtav tume tool laua kõrval. Taustal olevat seina kaunistab detailne, damaskilaadne mustriline tapeet. Kaadri paremat poolt domineerib silmapaistev ovaalse kujuga peegel, mille ümber on sümmeetriliselt paigutatud mitu eredat, ümmargust lambipirni, mis on peamine valgusallikas ning loovad tugevaid valguse ja varjude efekte. Tualettlaual, peeglist vasakul, seisab ornamentaalne mitmeharuline küünlajalg. Selle kõrval on silmapaistvalt eksponeeritud ovaalse raamiga portree habemega mehest lipsus, kes vaatab otse vaatajale. Laua pinnale on laiali laotatud mitmesugused isiklikud esemed, sealhulgas õrnad riideesemed ja mitu dekoratiivset parfüümipudelit. Paremal pool on näha ka teine lamp koos lambivarjuga, mis annab pehmemat valgust, lisades ruumi üldisele dramaatilisele ja atmosfäärilisele valgustusele. Kogu keskkond loob vanaaegse elegantsi tunde, ehk isegi kerge melanhoolia või ootuse varjundiga.",
+      "actions": [
+        "Stseen algab musta ekraaniga",
+        "Teksti ilmumine mustale taustale",
+        "Üleminek siseruumi stseenile"
+      ],
+      "keywords": [
+        "Halltoonides",
+        "Vanaaegne",
+        "Buduaar",
+        "Tualettlaud",
+        "Portree",
+        "Küünlajalg",
+        "Dramaatiline valgustus",
+        "Interjöör",
+        "Melanhoolne",
+        "Tiitrid",
+        "Üleminek"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Tualettlaud",
+        "Tool",
+        "Peegel",
+        "Lambipirnid",
+        "Raamitud portree",
+        "Mees (portreel)",
+        "Küünlajalg",
+        "Parfüümipudelid",
+        "Kangas",
+        "Lamp",
+        "Lambivari",
+        "Mustriline tapeet",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "VEIKKO TAAR"
+      ],
+      "persons": [
+        "Mees (portreel)"
+      ],
+      "imagetype": "real, textbackground",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on täiesti must",
+        "Teine pilt lisab mustale taustale valge teksti 'VEIKKO TAAR'",
+        "Kolmas pilt näitab detailset halltoonides siseruumi stseeni objektide ja valgustusega. Visuaalse info hulk suureneb märkimisväärselt esimesest kolmanda pildini."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "47.120"
+      ]
+    },
+    {
+      "explanation": "Stseen algab mustal taustal lebava paksu, vanamoelise raamatuga, mille kaanel on kiri \"CODEX GIGAS\", kaunistatud ornamentide ja ratast meenutavate sümbolitega. Raamat on suletud ja selle köite detailid on näha. Seejärel avaneb raamat, paljastades sisemised leheküljed. Vasakul leheküljel on stiilne, sarviline, kurjakuulutav, samas koomiline kuradi joonistus, millel on teravad küünised ja sabas nooleots. Paremal leheküljel on suurte täistähistega kiri \"BONZO\". Kogu stseen on mustvalge joonistusstiilis, andes edasi vana manuskripti või legendi hõngu.",
+      "actions": [
+        "Raamat on suletud",
+        "Raamat avaneb",
+        "Kuradi joonistus ilmub leheküljele",
+        "Tekst \"BONZO\" ilmub leheküljele"
+      ],
+      "keywords": [
+        "Käsikiri",
+        "Vana raamat",
+        "Kuradi piibel",
+        "Legend",
+        "Joonistus",
+        "Mustvalge",
+        "Müstika",
+        "Deemon",
+        "Fantaasia"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Raamat",
+        "Raamatu kaas",
+        "Leheküljed",
+        "Kuradi joonistus",
+        "Tekst",
+        "Ornamendid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#F0F0F0"
+      ],
+      "texts": [
+        "CODEX GIGAS",
+        "BONZO"
+      ],
+      "persons": "not clear",
+      "imagetype": "drawing",
+      "emptypercent": 80,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimestel piltidel on raamat suletud, viimasel pildil avatud.",
+        "Suletud raamatu kaanel on kiri \"CODEX GIGAS\" koos ornamentidega, samas kui avatud raamatul on vasakul lehel kuradi joonistus ja paremal lehel tekst \"BONZO\".",
+        "Suletud raamatul on näha kaane ja köite detailid, avatud raamatul aga lehekülgede sisu."
+      ],
+      "snr": "002",
+      "ajad": [
+        "47.120",
+        "54.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast salapärast, film noir'i stiilis hetke, mille keskmes on kaabu ja iseloomulike ribaliste ümarate prillidega mees. Esimeses vaates on ta nähtav siseruumis, tõenäoliselt garderoobis, kus ta opereerib suurt, vanaaegset lõõtskaamerat koos välguga, suunates selle kaadrivälise subjekti poole. Taustal on näha edevuspeegel, mida ümbritsevad paljad lambipirnid, mustriline tapeet ning mööbliesemeid, nagu laualamp ja pildiraam. Kogu stseen on esitatud mustvalgena, rõhutades varjude ja kontrastide mängu. Lühikese täieliku pimeduse hetke järel siirdub stseen mehest lähemale võttele. Ta suitsetab sigarit, puhudes välja tihedaid suitsupilvi, mis ümbritsevad teda, luues udusa ja mõistatusliku atmosfääri. Tema pilk läbi prillide on otsene ja potentsiaalselt ähvardav. Ekraanil ilmuvad subtiitrid annavad märku dialoogist, pakkudes vihjeid käimasolevast sündmustikust. Üldine esteetika on varjuline, pingeline ja salakaval, meenutades klassikalisi detektiivi- või krimidraamasid.",
+      "actions": [
+        "Fotografeerimine",
+        "Vaatamine läbi kaamera",
+        "Suitsetamine",
+        "Rääkimine"
+      ],
+      "keywords": [
+        "Film noir",
+        "Salapärane",
+        "Detektiiv",
+        "Fotograaf",
+        "Vintage",
+        "Mustvalge",
+        "Suits",
+        "Draama",
+        "Intriig",
+        "Retro"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kaamera",
+        "Müts",
+        "Prillid",
+        "Sigar",
+        "Peegel",
+        "Lambid",
+        "Tapeet",
+        "Laualamp",
+        "Pildiraam",
+        "Suits"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [
+        "A bit more soporific into her glass...",
+        "yet you'll have time for your evening ritual,"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimeses kaadris on mees kaameraga nähtav laiemalt, näidates ka detailsemaid taustaelemente nagu peegel ja lambid.",
+        "Teine kaader on täiesti must, mis toimib visuaalse üleminekuna või lühikese katkestusena stseenis.",
+        "Kolmas kaader on lähivõte mehest, keskendudes tema näole, suitsule ja mütsile, jättes tausta häguseks.",
+        "Suits on kolmandas kaadris palju domineerivam ja loob olulise osa atmosfäärist, samas kui esimeses kaadris suitsu pole näha.",
+        "Subtiitrid ilmuvad ainult kolmandas kaadris, andes stseenile dialoogi ja narratiivse konteksti."
+      ],
+      "snr": "003",
+      "ajad": [
+        "54.120",
+        "484.280"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja asetub siseruumidesse, tõenäoliselt õhtusel ajal või öösel, mis loob film noir'i esteetikaga sarnase pingelise ja salapärase õhkkonna. Esimeses osas on näha meest ja naist istumas laua taga, mis viitab baari-, restorani- või salongikeskkonnale. Mees, kellel on elegantsed püksipüksid, pintsak, lips ja hoolikalt kammitud juuksed koos vuntsidega, vaatab tõsise ilmega. Naine laua taga suitsetab sigaretti, tema hoiak on pigem mõtlik. Taustal on näha hajusaid valguspunkte, mis loovad meeleoluka, kuid ähmase keskkonna, sealhulgas võimalik muusikainstrument. Dialoogis viidatakse \"uimastile\" naise klaasis ja \"õhtusele rituaalile\". Hiljem keskendub kaader mehe näole, rõhutades tema intensiivset pilku ja karakteri formatiivsust. Kolmandas kaadris on naine (võimalik, et sama, või mõni teine karakter) tumedamas, peaaegu varjatud ruumis, istudes madala nurga alt. Tema nägu on ülevaltpoolt valgustatud, ta kannab pärlikeed. Suur tume objekt on esiplaanil, varjates osaliselt vaatevälja ja lisades salapära. Tagaplaanil on vaevumärgatav pildiraam. Stseeni üldine meeleolu on dramaatiline, pingeline ja intriigirohke.",
+      "actions": [
+        "Istumine",
+        "Suitsetamine",
+        "Vaatamine",
+        "Rääkimine (subtiitrite kaudu implitsiitne)"
+      ],
+      "keywords": [
+        "Film noir",
+        "Mustvalge",
+        "Vuntsidega mees",
+        "Suitsetav naine",
+        "Pärlid",
+        "Hämara valgustusega",
+        "Salapärane",
+        "Formaalne riietus",
+        "Baaristseen",
+        "Pinge",
+        "Õhtune rituaal",
+        "Uimasti"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Klaas",
+        "Laud",
+        "Sigaret",
+        "Pärlikee",
+        "Pildiraam",
+        "Pintsak",
+        "Lips",
+        "Valguspunkte (taustal)",
+        "Püksirihmaga ülikond"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [
+        "A bit more soporific into her glass...",
+        "yet you'll have time for your evening ritual,"
+      ],
+      "persons": [
+        "Vuntsidega mees",
+        "Naine (suitsetav)",
+        "Naine (pärlitega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimene pilt on laiem kaader, mis näitab korraga kahte inimest laua taga koos subtiitritega, samal ajal kui teised kaks pilti on lähi- või poollähikaadrid, mis keskenduvad üksikutele tegelastele.",
+        "Teine pilt on lähiplaan mehe näost, andes parema ülevaate tema detailsetest näojoontest ja riietusest.",
+        "Kolmas pilt pakub naisest (pärlitega) erinevat kadreeringut ja asetust (väga tume ruum, madal nurk, esiplaanil olev takistus), luues märgatavalt erineva atmosfääri võrreldes esimese pildi avatuma baaristseeniga.",
+        "Valgustus ja üldine meeleolu muutuvad esimese pildi potentsiaalselt vestluslikust stseenist isoleeritumaks ja salapärasemaks kaadriks viimases pildis."
+      ],
+      "snr": "004",
+      "ajad": [
+        "484.280",
+        "527.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget kaadrit meessoost muusikust, kes mängib kontrabassi sügavas ja suitsuses atmosfääris. Ta kannab fedora-stiilis mütsi ja silmatorkavaid ümmargusi peegeldavaid prille. Suu nurkade vahel hoiab ta sigarit, mis annab talle karakteristliku ja stiilse ilme. Tema näoilme on intensiivne, suu on kergelt avatud, mis annab aimu laulmisest või emotsionaalsest esitusest. Taust on udune ja tume, täidetud tiheda suitsu või uduga, mis loob müstilise ja dramaatilise meeleolu. Tugev valgusvihk paistab tagantpoolt paremalt, valgustades suitsu ja luues helge haloefekti muusiku ümber, eriti tema prillidel ja mütsil. Tema särk on heledam ja triibulise või tekstureeritud mustriga. Kontrabassi kael on nähtav tema paremal pool, viidates aktiivsele musitseerimisele. Kogu stseen jätab mulje kontserdist, muusikavideost või stiliseeritud fotosessioonist, rõhutades artisti ja tema muusikalise tegevuse intensiivsust.",
+      "actions": [
+        "Mängib kontrabassi",
+        "Suitsetab sigarit",
+        "On avatud suuga, võimalik, et laulab või räägib"
+      ],
+      "keywords": [
+        "Muusik",
+        "Kontrabass",
+        "Mustvalge",
+        "Suits",
+        "Udu",
+        "Müts",
+        "Prillid",
+        "Sigar",
+        "Esineja",
+        "Intensiivne",
+        "Atmosfääriline"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kontrabass",
+        "Müts",
+        "Prillid",
+        "Sigar",
+        "Särk",
+        "Suits/udu"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Muusik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Muusiku näoilme ja suu asend varieeruvad kergelt kaadrite vahel, viidates dünaamilisele esitusele.",
+        "Suitsu/udu liikumine ja paigutus taustal on kaadrite vahel erinev, mis loob pidevalt muutuva atmosfääri.",
+        "Valguse peegeldused prillidel ja kontrabassil muutuvad kergelt, kajastades väikeseid liigutusi ja perspektiivinihkeid."
+      ],
+      "snr": "005",
+      "ajad": [
+        "527.080",
+        "531.080"
+      ]
+    },
+    {
+      "explanation": "Stseen on filmi noir'i stiilis, mustvalge ja dramaatiline, kujutades intensiivset ja emotsionaalselt laetud olukorda siseruumides. See algab mehe ja naise vahelise konfrontatsiooniga: mees, kelle nägu on varjus ja peas on kaabu, domineerib kaadris, hoides kätt naise õlal või käel, samal ajal kui naine vaatab üles hirmu või ehmunud ilmega. Järgnevalt on näha sama naine (või sarnane tegelane) tekstureeritud põrandal lamamas. Tema nägu ja ümbrus on kaetud tugevate, võrekujuliste varjudega, mis annavad stseenile pineva ja dramaatilise ilme. Ta hoiab ühes käes väikest tumedat eset, mis võib olla relv või mõni oluline ese. Naise pilk on suunatud üles, väljendades segadust, mõtisklemist või kurnatust. Üldine atmosfäär on sünge, pingeline ja salapärane, rõhutades tegelaste emotsionaalset seisundit ja sündmuste tõsidust, koos film noir'ile iseloomulike tugevate varjude ja kontrastidega.",
+      "actions": [
+        "Mees kummardub naise kohale",
+        "Naine vaatab hirmunult üles",
+        "Naine lamab põrandal",
+        "Naine hoiab käes eset"
+      ],
+      "keywords": [
+        "Film noir",
+        "Mustvalge",
+        "Draama",
+        "Pinge",
+        "Hirm",
+        "Konfrontatsioon",
+        "Salapära",
+        "Varjud",
+        "Siseinterjöör",
+        "Emotsionaalsus",
+        "Sünge"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kaabu",
+        "Tekstureeritud sein",
+        "Tekstureeritud põrand (vaip)",
+        "Väike tume ese (võimalik relv)",
+        "Naise aluspesu/top",
+        "Tumedam riie üle naise õla"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (siluetina)",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on täiesti must, samas kui teised kaks pilti kujutavad tegevust ja sisu.",
+        "Teisel pildil on näha mees ja naine vastastikku intensiivses olukorras, kolmandal pildil on fookuses ainult naine.",
+        "Teisel pildil on naine püsti või istumas, vaadates üles, kolmandal aga lamab ta põrandal.",
+        "Naise emotsionaalne seisund on kaadrites erinev: teisel pildil on ta hirmunud ja ehmunud, kolmandal aga pigem mõtisklev, kurnatud või ahastuses.",
+        "Kolmandal pildil hoiab naine käes väikest tumedat eset, mida teisel pildil ei ole näha.",
+        "Valgustus on mõlemal sisupildil dramaatiline, kuid kolmandal pildil on eriti silmatorkavad ja teravad varjud (võred/ribad) naise näol ja põrandal."
+      ],
+      "snr": "006",
+      "ajad": [
+        "531.080",
+        "715.000"
+      ]
+    },
+    {
+      "explanation": "Stseen avaneb klassikalises film noir esteetikas, esitatuna teravas mustvalges tonaalsuses, kus domineerivad dramaatiline valgustus ja pidev suits või udu, luues salapärase ja pingelise atmosfääri. Esiplaanil on märjal ja pimedal tänaval prominentne 1950. aasta vintage Chrysler sedaan, mis särab vihma või vee tõttu. Paksust udust ilmub taustal välja kaabu ja kraekas mees. Seejärel nihkub kaader lähemale, keskendudes selle mehe ja naise interaktsioonile. Mees, kellel on karm ilme, lausub käsu: „Darling! Shut up and kiss me!“. Naine, kelle nägu on alguses vaid osaliselt näha, on hiljem näha profiilis, suitsu välja puhumas ja revolvrit hoidmas, kehastades võimsa femme fatale'i. Maapind on märg ning valgusallikad loovad tugevaid kontraste, tuues esile figuure ja objekte ning heites sügavaid varje, mis süvendavad dramaatilist ja pinevat meeleolu. Vintage auto ja rõivad paigutavad sündmuse kindlalt 20. sajandi keskpaika, täpsemalt umbes 1950. aastasse.",
+      "actions": [
+        "Auto seisab märjal tänaval",
+        "Mees ilmub udust",
+        "Mees ja naine suhtlevad",
+        "Mees räägib/annab käsu",
+        "Naine hoiab relva",
+        "Naine suitsetab ja puhub suitsu välja"
+      ],
+      "keywords": [
+        "Film noir",
+        "Mustvalge",
+        "Salapärane",
+        "Dramaatiline",
+        "Udu",
+        "Suits",
+        "Vintage auto",
+        "Chrysler",
+        "Relv",
+        "Femme fatale",
+        "Gangster",
+        "Pime",
+        "Märg",
+        "1950ndad"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Vintage auto",
+        "Chrysler auto",
+        "Numbrimärk",
+        "Müts (fedora)",
+        "Kraekas (trench coat)",
+        "Relv (revolver)",
+        "Sigaret",
+        "Suits",
+        "Udu",
+        "Märg maapind"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#333333",
+        "#666666",
+        "#999999",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Chrysler",
+        "1950",
+        "Darling! Shut up and kiss me!"
+      ],
+      "persons": [
+        "Mees (tõenäoliselt detektiiv või gangster)",
+        "Naine (femme fatale)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Stseen liigub laiast kaadrist (auto ja keskkond) lähivõtetele tegelastest.",
+        "Fookus nihkub keskkonnalt (auto, udu) tegelastevahelisele interaktsioonile.",
+        "Tegevused muutuvad: autost ja udust mehe ilmumisest kuni dialoogi ja relvaga naise näitamiseni.",
+        "Tekstid (auto andmed ja dialoog) ilmuvad erinevates kaadrites."
+      ],
+      "snr": "007",
+      "ajad": [
+        "715.000",
+        "808.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalges film noir'i stiilis atmosfääris naist, kellel on silmatorkav meik, pikad kunstripsmed, tumedad huuled ja retrosoeng lokkis juustega. Ta on kadreeritud lähivõttes või keskmises lähivõttes, vaadeldes teda profiilis või kergelt kolmveerandvaates. Naine puhub suust suitsu, luues haze ja dramaatilise suitsuse tausta. Tema näoilme varieerub mõtisklevast ja melanhoolsest kuni kerge muigeni. Valgus on dramaatiline, luues sügavaid varje ja esile tuues tema näojooni. Ühes kaadris on näha ingliskeelsed subtiitrid, mis viitavad dialoogile või monoloogile.",
+      "actions": [
+        "Suitsetamine",
+        "Suitsu välja puhumine",
+        "Rääkimine (subtiitrite põhjal)",
+        "Mõtisklemine",
+        "Vaatamine küljele"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Film noir",
+        "Draama",
+        "Retro",
+        "Naine",
+        "Suits",
+        "Sigaretihoidja",
+        "Müstiline",
+        "Mõtlik",
+        "Stiilne"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Suits",
+        "Sigaretihoidja (või sarnane ese)",
+        "Ripsmed (kunstripsmed)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Though I shoot only when circumstances require that."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40-50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Suitsu intensiivsus ja levik taustal on erinevates kaadrites varieeruv.",
+        "Naise näoilme muutub kergelt (mõtisklevast muigava-kontemplatiivseni).",
+        "Kaamera nurk naise suhtes varieerub pisut (profiilist kergelt kolmveerandvaateni).",
+        "Subtiitrid on nähtavad vaid ühel pildil.",
+        "Ese, mida naine suus hoiab, on mõnes kaadris selgemalt nähtav."
+      ],
+      "snr": "008",
+      "ajad": [
+        "808.480",
+        "813.960"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja kujutab öist vihmast õhkkonda, mis meenutab film noir'i stiili. Esiplaanil on vanaaegne auto, tõenäoliselt sedaan, mille esiklaasist on näha juhti. Auto esituled paistavad eredalt vasakul, valgustades vihmaseid piisku esiklaasil ja kapotil. Auto kapotil on stiilne ornament, mis peegeldab valgust. Juht on riietatud tumedasse mütsi ja prillidesse või kaitseprillidesse, andes talle salapärase ja veidi ähvardava ilme. Tema käed on roolil. Taust on udune ja pime, vihjates linnakeskkonnale või tänavale, kus teised tegelased või hooned on vaid ähmaste varjudena aimatavad. Üldine meeleolu on dramaatiline ja müstiline.",
+      "actions": [
+        "Juht istub autos",
+        "Auto on vihmasajus",
+        "Subtiitrite ilmumine ja kadumine"
+      ],
+      "keywords": [
+        "mustvalge",
+        "vihm",
+        "öö",
+        "vanaaegne auto",
+        "film noir",
+        "müstiline",
+        "dramaatiline",
+        "juht",
+        "esituled",
+        "tänav"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "vanaaegne auto",
+        "esiklaas",
+        "esituled",
+        "vihm",
+        "juht",
+        "müts",
+        "prillid",
+        "rool",
+        "kapoti ornament",
+        "teeperv"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "I knew that look!"
+      ],
+      "persons": [
+        "juht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid, teisel ja kolmandal pildil on näha inglisekeelne subtiiter 'I knew that look!'. Teisel pildil on subtiiter selgelt nähtav, kolmandal pildil on see osaliselt kaetud või tuhmumise faasis."
+      ],
+      "snr": "009",
+      "ajad": [
+        "813.960",
+        "815.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalges formaadis elegantset ja salapärast naist, kellel on juuksed üles sätitud ja dramaatiline meik, sealhulgas tugevalt rõhutatud silmad ja tumedad huuled. Ta kannab pärlikeed ja karusnahast või karusnahka imiteeriva äärega rõivast. Naine hoiab pika sigaretihoidja abil sigaretti. Tema näoilme varieerub laialt naeratavast ja mängulisest kuni mõistatusliku ja kergelt muigava olekuni. Ta vaatab vaheldumisi otse kaamerasse ja kõrvale. Taust on tume ja udune, kuid märgata on lauda ja valgustit, mis viitab siseruumile, tõenäoliselt öisele ajale või hämarale keskkonnale, andes stseenile film noir'i stiilile omase atmosfääri. Valgus langeb peamiselt naisele, jättes tausta varjudesse.",
+      "actions": [
+        "Naine naeratab laialt",
+        "Naine hoiab sigaretti pikas hoidikus",
+        "Naine vaatab otse kaamerasse",
+        "Naine vaatab paremale profiilis",
+        "Naine kergelt muigab"
+      ],
+      "keywords": [
+        "Film noir",
+        "Mustvalge",
+        "Naine",
+        "Sigaretihoidja",
+        "Naeratus",
+        "Glamuur",
+        "Vintage",
+        "Mõistatuslik",
+        "Elegantne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Sigaret",
+        "Sigaretihoidja",
+        "Karusnahk",
+        "Pärlikee",
+        "Laud",
+        "Lamp"
+      ],
+      "colorcodes": [
+        "mustvalge"
+      ],
+      "texts": [
+        "I knew that look!",
+        "It sure could count on."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil naeratab naine laialt ja vaatab otse kaamerasse, näoga kergelt vasakule pööratud. Subtiiter 'I knew that look!' on nähtav.",
+        "Teisel pildil on naine profiilis, vaatab paremale, näoilme on veidi tagasihoidlikum ja mõtlikum. Sigaret on selgemalt nähtav. Subtiitreid pole.",
+        "Kolmandal pildil naeratab naine taas kaamerasse, olles kergelt küljega, suu veidi avatud. Subtiiter 'It sure could count on.' on nähtav.",
+        "Naise näoilme ja pilgu suund muutuvad piltide vahel."
+      ],
+      "snr": "010",
+      "ajad": [
+        "815.960",
+        "823.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget kaadrit vihmasajus sõitvast vanast autost öisel ajal. Vaade on madala nurga alt, suunatud auto esiosale, rõhutades läikivat kapotti ja esiklaasi, mida mööda vihmapiisad alla voolavad. Auto parempoolne esituli on eredalt valgustatud, heites valgust märjale pinnale ja ümbrusele. Auto roolis on näha inimfiguuri, kes kannab kaabut ja silmade ees on kas tumedad prillid või mingi silmakate, mis annab talle salapärase ja veidi ähvardava ilme. Autol on kapotil selgelt näha dekoratiivne kaunistus. Tagapeegel on nähtav auto sisemuses. Üldine atmosfäär on klassikaline film noir, kus öine vihmasadu ja salapärane autojuht loovad pingestatud meeleolu.",
+      "actions": [
+        "Sõitma",
+        "Vihma sadama"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Vana auto",
+        "Vihm",
+        "Öö",
+        "Salapärane",
+        "Autojuht",
+        "Kaabu",
+        "Film noir",
+        "Klassikaline auto",
+        "Sõitmine"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Vana auto",
+        "Auto kapott",
+        "Esiklaas",
+        "Vihmapiisk",
+        "Esituli",
+        "Rool",
+        "Kapotikaunistus",
+        "Tagapeegel"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "It she could count on."
+      ],
+      "persons": [
+        "Autojuht"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on nähtavad subtiitrid (\"It she could count on.\"), mis teistel piltidel puuduvad.",
+        "Teine ja kolmas pilt on identsed."
+      ],
+      "snr": "011",
+      "ajad": [
+        "823.080",
+        "825.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget, filmi-noiri stiilis kuriteopaika, mis leiab aset niiskes, arvatavasti maa-aluses tunnelis või kanalisatsioonisüsteemis. Õhku täidab tihe udu või suits, luues dramaatilise ja salapärase meeleolu. Üks inimene lamab märjal pinnal näoga ülespoole, kandes heledat jakki ja mütsi. Tema läheduses on osaliselt nähtav teise isiku käsi, mis hoiab revolvrit. Käsi on suunatud lamava isiku poole, vihjates hiljutisele või ähvardavale vägivallateole. Vee sees, lamava isiku lähedal, hõljub vana mustvalge foto lapsest, mille ümber on näha veepritsmeid. Hiljem avardub vaade stseenile, kus tunnelit läbiv ere valgusallikas valgustab stseeni tagantpoolt, rõhutades veepinna peegeldusi ja pildi üldist süngust. Kauguses on näha kaks inimkogu, mis lamavad maha, tugevdades kuriteopaiga muljet sünges ja desolaatses keskkonnas.",
+      "actions": [
+        "Laskmine/rünnak",
+        "Revolveri hoidmine",
+        "Inimese lamamine",
+        "Foto hõljumine vees",
+        "Vees pritsimine",
+        "Udu/suitsu levik"
+      ],
+      "keywords": [
+        "Noir",
+        "Mustvalge",
+        "Kuritegu",
+        "Mõrv",
+        "Müsteerium",
+        "Tunnel",
+        "Niiske",
+        "Udu",
+        "Suits",
+        "Revolver",
+        "Foto",
+        "Vesi",
+        "Desolaatne",
+        "Vägivald"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Revolver",
+        "Foto (lapsepilt)",
+        "Vesi",
+        "Udu/suits",
+        "Niiske pind",
+        "Tunneli seinad",
+        "Valgusallikad",
+        "Jakk/särk",
+        "Müts/nokkmüts"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Lamav isik",
+        "Revolveriga isik",
+        "Laps (fotol)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on näha tihedat udu ja lamava inimese käe lähedal hõljuv objekt, revolvrit veel ei ole näha.",
+        "Teisel pildil on udu hajumas ja selgelt näha revolvrit käes ning objekt on identifitseeritud lapse fotona vees, veepritsmetega.",
+        "Kolmandal pildil on stseen esitatud kaugemalt, näidates tunnelit tervikuna, veepindu ja kahte maaslamavat kogu, mis on esimesel kahel pildil lähemalt fookuses, ning tugevaid valgusallikaid tunneli lõpus."
+      ],
+      "snr": "012",
+      "ajad": [
+        "825.080",
+        "846.680"
+      ]
+    },
+    {
+      "explanation": "Stseen algab sügavalt mustvalgest kaadrist, mis keskendub vanaaegse auto luksuslikule ja kroomitud armatuurlauale. Kaadris on näha raadio või stereo süsteem, millel on keeratavad nupud ja stiliseeritud kiri, mis paistab olevat 'Мемфис'. Käsi ulatub ühe nupu poole, justkui reguleeriks helitugevust või raadiojaama. Auto interjöör on heledates toonides, valgustatud dramaatiliselt ülalt paremalt, luues teravaid kontraste eredate valguspunktide ja sügavate varjude vahel. Seejärel liigub stseen väliskeskkonda, kus näidatakse pimedat ja niisket tunnelit või viadukti alt. Telliskiviseinad on märjad ja peegeldavad piiratud valguse käes, andes stseenile sünge ja saladusliku meeleolu. Vasakul on näha kaarekujulisi avasid ja paremal pool metallist värav või trellid. Põrand on märg ja läikiv ning vasakul kauguses hõljub õhus kerge udu. Üldine atmosfäär on film noir stiilis, rõhutades pimedust, niiskust ja võimalikku pinget, mis on iseloomulik klassikalistele krimifilmidele.",
+      "actions": [
+        "Nupu keeramine"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Vanaaegne auto",
+        "Armatuurlaud",
+        "Raadio",
+        "Tunnel",
+        "Niiske",
+        "Pimedus",
+        "Kontrast",
+        "Film noir",
+        "Klassikaline",
+        "Salapärane",
+        "Sünge"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Auto",
+        "Armatuurlaud",
+        "Raadio",
+        "Nupud",
+        "Käsi",
+        "Telliskivisein",
+        "Kaar",
+        "Metallvärav",
+        "Trellid",
+        "Vesi",
+        "Udu"
+      ],
+      "colorcodes": [],
+      "texts": [
+        "Мемфис"
+      ],
+      "persons": [
+        "Isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene ja teine pilt näitavad autojuhi kätt, mis on raadionupu poole sirutumas või seda keeramas, kusjuures teises pildis on käe asend nupu suhtes muutunud, viitades tegevusele.",
+        "Kolmas pilt erineb eelnevatest märkimisväärselt, kujutades väliskeskkonda – pimedat ja niisket tunnelit või viadukti alt, mitte auto interjööri.",
+        "Kaader liigub lähivõttest (auto interjöör) laiemaks võtteks (väliskeskkond), muutes stseeni fookust ja konteksti."
+      ],
+      "snr": "013",
+      "ajad": [
+        "846.680",
+        "857.920"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab mustvalget lähivaadet vanaaegse auto esiosast vihmasel ööl. Auto esiosa, esiklaas ja osa kapotist on fookuses, samal ajal kui taust on pime ja udune. Vihmapiiskad langevad ja libisevad üle auto pinna ja esiklaasi, tekitades dünaamilise efekti. Juhiistmel istub isik, kelle nägu on kaetud tumeda mütsi ja kummalise maskiga, mis meenutab kas gaasimaski või katkudoktori maski suurte silmade ümber olevate prillidega. Auto parempoolne esituli paistab eredalt, valgustades osa autost ja vihma. Üldine atmosfäär on salapärane ja melanhoolne.",
+      "actions": [
+        "Vihmas sõitmine (kaudne)",
+        "Vihma sadamine"
+      ],
+      "keywords": [
+        "Öö",
+        "Vihm",
+        "Auto",
+        "Vintage auto",
+        "Mustvalge",
+        "Juht",
+        "Müts",
+        "Mask",
+        "Gaasimask",
+        "Katkudoktori mask",
+        "Esituled",
+        "Salapärane",
+        "Retro"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Vanaaegne auto",
+        "Esiklaas",
+        "Kapot",
+        "Esituled",
+        "Rool",
+        "Juhiiste",
+        "Müts",
+        "Mask",
+        "Prillid (maskil)",
+        "Vihmapiiskad"
+      ],
+      "colorcodes": [
+        "monochrome"
+      ],
+      "texts": [],
+      "persons": [
+        "Auto juht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Juhi maski/pea asend muutub veidi kaadrite vahel.",
+        "Peegeldused maski prillidel on erinevates kaadrites erinevad.",
+        "Kolmandas kaadris on juhi mask/pea pööratud veidi rohkem paremale, otse kaamera suunas, ning prillid peegeldavad valgust eredamalt."
+      ],
+      "snr": "014",
+      "ajad": [
+        "857.920",
+        "863.760"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset sünges mustvalges keskkonnas, mis kujutab endast pimedat ja niisket tunnelit või kaarjaid käike. Seinteks on karedad telliskivid, mis helgivad niiskusest ja peegeldavad kitsi valguskiiri. Paremal pool on näha raske metallvärav või trellid, mis on osaliselt varjus. Vasakult poolt tungib sisse õhuke udu või suits, millest hakkab ilmnema inimfiguur. See figuur, mis on riietatud ülikonda meenutavasse rõivasse, kõnnib otsustavalt vasakult paremale, kandes kohvrit. Üldine atmosfäär on salapärane ja veidi kõhe, mida rõhutavad teravad valguse ja varju kontrastid, märgade pindade läige ning suletud ja isoleeritud keskkond.",
+      "actions": [
+        "Käimine",
+        "Kohvri kandmine",
+        "Udu seest ilmumine",
+        "Liikumine läbi käigu"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Tunnel",
+        "Mustvalge",
+        "Niiskus",
+        "Salapära",
+        "Vari",
+        "Siluett",
+        "Värav",
+        "Tellissein",
+        "Kaared"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Telliskiviseinad",
+        "Kaared",
+        "Metallvärav",
+        "Kohver",
+        "Udu",
+        "Vesi/Niiskus pindadel"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Isik",
+        "Mehe figuur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Põhifiguur (isik) liigub kaadrites järjest vasakult paremale.",
+        "Isiku siluett ja kohvri detailid muutuvad edasi liikudes selgemaks ja eristatavamaks.",
+        "Esimeses kaadris on isik vaevu aimatav suitsu/udu sees, teises ja kolmandas on ta järjest rohkem esile toodud."
+      ],
+      "snr": "015",
+      "ajad": [
+        "863.760",
+        "867.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget kaadrit, kus mees istub auto rooli taga vihmases öös. Mees kannab mütsi ja ümmargusi peegeldavaid päikeseprille ning naeratab laialt. Tema käed hoiavad rooli. Auto tuuleklaasil on näha vihmapiiskasid ja paremal pool on näha ere valgusallikas, mis valgustab sadu. Auto sisepeegli küljes ripub rosenkrant. Üldine atmosfäär on salapärane, kuid mehe naeratus lisab stseenile teatud kerguse või enesekindluse.",
+      "actions": [
+        "Mees sõidab autoga",
+        "Mees hoiab rooli",
+        "Mees naeratab",
+        "Vihma sajab"
+      ],
+      "keywords": [
+        "Mees",
+        "Auto",
+        "Vihm",
+        "Mustvalge",
+        "Naeratus",
+        "Müts",
+        "Päikeseprillid",
+        "Rool",
+        "Rosenkrant",
+        "Öö"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Auto",
+        "Rool",
+        "Tuuleklaas",
+        "Vihmapiiskad",
+        "Müts",
+        "Päikeseprillid",
+        "Jak",
+        "Särk",
+        "Rosenkrant",
+        "Tahavaatepeegel",
+        "Esituli/Valgusallikas"
+      ],
+      "colorcodes": [
+        "Mustvalge"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [],
+      "snr": "016",
+      "ajad": [
+        "867.720",
+        "868.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast pimedat ja niisket tunnelit või käiku, mis on valgustatud tagant ja vasakult, luues sügavaid varje ja rõhutades pinnavett. Tunneli lae moodustavad kaarjad võlvid, mis on ehitatud tellistest või kividest. Vasakul pool on näha hele udu või suits, millest väljub inimfiguur. See inimene, kes paistab olevat mütsi ja mantliga kaetud, sammub eemale valgusest sügavamale tunnelisse, liikudes kaamerast eemale. Paremal pool on näha telliskiviseina ja seejärel metallist varju või võre. Seinad on niiskusest läikivad ja peegeldavad valgust. Üldine atmosfäär on sünge, salapärane ja melanhoolne, meenutades film noir'i esteetikat. Valgustus loob tugeva kontrasti heledate ja pimedate alade vahel.",
+      "actions": [
+        "Kõndimine",
+        "Liikumine edasi"
+      ],
+      "keywords": [
+        "Pime tunnel",
+        "Kaarjad võlvid",
+        "Niiskus",
+        "Müsteerium",
+        "Salapära",
+        "Mustvalge",
+        "Üksildus",
+        "Linnakeskkond",
+        "Retro",
+        "Film noir",
+        "Vari",
+        "Udu"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Müts",
+        "Mantel",
+        "Tunnel",
+        "Telliskivi sein",
+        "Kaarjad võlvid",
+        "Metallvõre",
+        "Udu",
+        "Vesi"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#333333",
+        "#666666",
+        "#999999"
+      ],
+      "texts": [],
+      "persons": [
+        "Üksik inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Inimese asend muutub kergelt, näidates edasiliikumist.",
+        "Jalgade ja käte asend erineb iga kaadri vahel, illustreerides kõndimist.",
+        "Variatsioonid valgustatuse detailides pinnal ja seintel on minimaalsed, peamine muutus on subjektis."
+      ],
+      "snr": "017",
+      "ajad": [
+        "868.680",
+        "869.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget kaadrit mehest, kes juhib autot vihmases öös. Mees on keskealine, kannab tumedat kaabut ja ümaraid päikeseprille ning tal on lai naeratus näol. Vihm sajab tugevalt vastu esiklaasi, jättes klaasile piiskade ja joonte mustri. Auto esituli paistab paremal pool eredalt, valgustades vihma ja teed. Auto sisemuses, vasakul pool vaatepeegli küljes ripub roosikrants. Üldine meeleolu on dramaatiline ja noir-stiilis, kuid mehe naeratus lisab stseenile ootamatu positiivse või salapärase nüansi.",
+      "actions": [
+        "Mees sõidab autoga",
+        "Vihm sajab",
+        "Mees naeratab"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Auto",
+        "Vihm",
+        "Öö",
+        "Juhtimine",
+        "Kaabu",
+        "Prillid",
+        "Naeratus",
+        "Noir",
+        "Roosikrants",
+        "Esituli",
+        "Sõiduk"
+      ],
+      "shot_type": "kesklähivõte",
+      "placement": "väljas",
+      "objects": [
+        "Auto",
+        "Esiklaas",
+        "Rool",
+        "Vihm",
+        "Mees (juht)",
+        "Kaabu",
+        "Päikeseprillid",
+        "Roosikrants",
+        "Vaatepeegel",
+        "Esituli"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "reaalne",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "öö",
+      "differences": [
+        "Piltide vahel puuduvad nähtavad erinevused"
+      ],
+      "snr": "018",
+      "ajad": [
+        "869.440",
+        "870.200"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja väga hämar, luues süngese ja müstilise atmosfääri. Paremal pool domineerib kivist tellissein, mis paistab olevat niiske või märjaks saanud, peegeldades nõrgalt valgust, mis langeb vasakult. Seina ääres on näha tumedad, püstised võre- või trellid, mis annavad kohale vangla- või suletud ala tunde. Vasakult paistavad mitmed võlvkaared, mis viitavad pikale tunnelile, käigule või underpassile. Kõige kaugem võlvkaar vasakul on tugevas udus või suitsus, mis loob sügavuse ja ebakindluse illusiooni. Üksik valgusallikas valgustab stseeni vasakult, heites pikki varje ja rõhutades niiskete pindade peegeldust. Kaadrite jooksul on näha inimfiguuri, kes jookseb kiiresti vasakult paremale. Tema liikumine on udune ja ebaselge, näidates vaid kontuuri ja andes edasi kiiruse. Maapind on samuti tume ja tundub niiske. Üldine meeleolu on pingeline, salapärane ja ehk isegi ärevust tekitav, vihjates tagaajamisele või põgenemisele pimeduses.",
+      "actions": [
+        "Jooksmine",
+        "Põgenemine"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Hämar",
+        "Süngus",
+        "Müstiline",
+        "Tunnel",
+        "Võlvkaar",
+        "Niiske",
+        "Võre",
+        "Põgenemine",
+        "Jooksmine",
+        "Vari",
+        "Udu",
+        "Pingeline",
+        "Salapärane",
+        "Tellissein"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Telliskivisein",
+        "Võre",
+        "Võlvkaared",
+        "Udu",
+        "Inimfiguur",
+        "Märg pind"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#333333",
+        "#666666",
+        "#999999",
+        "#CCCCCC",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Jooksja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Inimfiguur liigub vasakult paremale üle kaadrite. Esimesel pildil on jooksja näha pildi keskel vasakus osas, teisel pildil on ta nihkunud paremale ja kolmandal pildil on ta peaaegu täielikult kaadrist kadunud, näha on vaid viimane ähmane kontuur paremas servas."
+      ],
+      "snr": "019",
+      "ajad": [
+        "870.200",
+        "872.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest, kes sõidab pimedas vihmasajus vanatüübilise autoga. Pilt on mustvalge ja stiliseeritud, meenutades film noir'i esteetikat. Mees istub rooli taga, kandes musta kübarat ja ümaraid päikeseprille, ning vaatab otse ette. Auto esiklaasile langevad suured vihmapiisad, mis peegeldavad valgust, luues dramaatilise efekti. Paremal pool on näha auto esituli, mis valgustab stseeni. Tagasivaatepeegli küljes ripuvad helmed/ristipärjad. Kogu kompositsioon loob salapärase ja pingelise õhkkonna.",
+      "actions": [
+        "Sõitmine",
+        "Vaatamine (ette)",
+        "Rooli hoidmine"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Film noir",
+        "Auto",
+        "Juht",
+        "Vihm",
+        "Öö",
+        "Kübar",
+        "Päikeseprillid",
+        "Retro",
+        "Stiliseeritud",
+        "Dramaatiline"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Auto",
+        "Rool",
+        "Vihmapiiskad",
+        "Esiklaas",
+        "Mees",
+        "Kübar",
+        "Päikeseprillid",
+        "Esituli",
+        "Ristipärjad/helmed"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Autojuht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Puuduvad märkimisväärsed erinevused"
+      ],
+      "snr": "020",
+      "ajad": [
+        "872.160",
+        "872.920"
+      ]
+    },
+    {
+      "explanation": "Stseen algab peaaegu täielikus pimeduses, kus on vaevumärgatav, udune, heledam kuju, mis viitab liikumisele või müstilisele kohalolekule. Seejärel keskendutakse naisele, keda näidatakse esmalt profiilis, tumeda juuksekanga või peakattega, tugeva silmameigi ja pikkade kunstripsmetega. Tema pilk on suunatud kaadrist paremale ja näoilme on pingsalt jälgiv või veidi ehmatanud. Stseen kulmineerub naise näo ülisuure lähivõttega, kus tema silmad on pärani šokist või hirmust, suu avatud ehmatunud oheks. Tema näos on väga dramaatiline ja liialdatud ilme, mida rõhutavad kunstripsmed ja helevalge esiletõst. Taust on kogu stseeni vältel pime, fookus on täielikult naise reaktsioonil ja emotsioonil. Valgus on kontrastne, luues dramaatilise ja pingelise atmosfääri, mis rõhutab näojooni ja emotsiooni.",
+      "actions": [
+        "Reageerimine",
+        "Jälgimine",
+        "Šokis olemine",
+        "Hingeldamine"
+      ],
+      "keywords": [
+        "Naine",
+        "Emotsioon",
+        "Šokk",
+        "Hirm",
+        "Dramaatiline",
+        "Kontrast",
+        "Mustvalge",
+        "Lähivõte",
+        "Müsteerium",
+        "Pingeline",
+        "Nägu",
+        "Meik",
+        "Kunstripsmed"
+      ],
+      "shot_type": "extreme close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Juuksed",
+        "Ripsmed",
+        "Peakate",
+        "Suu",
+        "Silmad"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 70,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader on udune ja peaaegu täielikult pime, näidates liikumist või kuju, samas kui teised kaadrid keskenduvad selgelt naisele.",
+        "Kaadrite vahel muutub kaamera kaugus, minnes laiemalt, efektvõttelt järjest lähemale, alates naise profiilist kuni tema näo ülisuure lähivõtteni.",
+        "Valgustus ja nurk muutuvad, rõhutades eri nurkade alt naise näojooni ja emotsiooni, kusjuures viimases kaadris on emotsioon kõige intensiivsem ja liialdatum."
+      ],
+      "snr": "021",
+      "ajad": [
+        "872.920",
+        "878.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest sõitmas vanaaegse autoga öösel paduvihmas. Vaade on suunatud auto esiklaasile, näidates juhti rooli taga. Mees kannab fedora-tüüpi mütsi ja iseloomulikke ümaraid, tumedaid päikeseprille. Esialgu on ta tõsine ja vaatab alla, justkui keskenduks sõidule või millelegi rooli all. Järk-järgult tõstab ta pilku, pöörates lõpuks oma näo otse vaataja poole ning naeratades laialt ja rõõmsalt, paljastades hambad. Vihmapiiskasid on näha esiklaasil alla voolamas ja auto ere esituli valgustab neid paremal pool kaadris. Auto salongis, tahavaatepeegli küljes, ripub roosikrants. Kogu stseen on mustvalge, mis annab sellele klassikalise ja dramaatilise tunde.",
+      "actions": [
+        "Mees sõidab autoga",
+        "Vihm sajab",
+        "Mees vaatab alla",
+        "Mees tõstab pilku",
+        "Mees naeratab",
+        "Mees hoiab rooli"
+      ],
+      "keywords": [
+        "Vihm",
+        "Öö",
+        "Auto",
+        "Juht",
+        "Mustvalge",
+        "Naeratus",
+        "Müts",
+        "Päikeseprillid",
+        "Vintage",
+        "Retro",
+        "Roosikrants",
+        "Esituli",
+        "Sõit"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Auto",
+        "Rool",
+        "Esiklaas",
+        "Vihm",
+        "Müts",
+        "Päikeseprillid",
+        "Ülikond",
+        "Roosikrants",
+        "Esituli",
+        "Käed"
+      ],
+      "colorcodes": [
+        "mustvalge"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Autojuht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe pilk ja näoilme muutuvad: esimeses kaadris vaatab ta alla ja on tõsine, teises kaadris tõstab pilku, ja kolmandas kaadris vaatab otse kaamerasse ja naeratab laialt."
+      ],
+      "snr": "022",
+      "ajad": [
+        "878.880",
+        "885.120"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja dramaatiline, viidates neo-noir stiilile. See algab lähivaatega märjale pinnale lamavast inimesest, kelle lühikesed, märjad juuksed ja nägu on selgelt nähtavad. Tema näol on veejälgi ning ta kannab tumedat riietust. Käsi on kergelt rusikas. Taustal on näha tumedat ähmaset kuju ja metallketti, mis viitab kinnisele või piiratud ruumile. Järgmine kaader näitab sündmuskohta laiemalt ülaltpoolt: sama või sarnane inimene lamab nüüd märjal tänavasillutisel vanaaegse heleda auto kõrval, mille esituled valgustavad pimedat ööd. Auto on paremal pool ja inimene vasakul, kergelt auto tulede poolt valgustatud. Pargitud auto ja inimene annavad üldisema konteksti, viidates õnnetusele või kuriteole. Stseeni lõpus on mustal taustal valge tekstiga tiitrid, mis kuvavad \"Kunstnik\" ja \"Elize Hiiop\". Kogu visuaalne stiil on sünge ja salapärane.",
+      "actions": [
+        "lamab",
+        "on märjal pinnal",
+        "on teadvuseta",
+        "on surnud",
+        "puhkab"
+      ],
+      "keywords": [
+        "noir",
+        "draama",
+        "müsteerium",
+        "õnnetus",
+        "kuritegu",
+        "pimedus",
+        "märg",
+        "öö",
+        "vana auto",
+        "mustvalge"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "inimene",
+        "vana auto",
+        "esituled",
+        "märg sillutis",
+        "metallkett",
+        "praht",
+        "metallkonstruktsioon",
+        "must taust",
+        "tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#CCCCCC",
+        "#666666"
+      ],
+      "texts": [
+        "Kunstnik",
+        "Elize Hiiop"
+      ],
+      "persons": [
+        "üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kaadrite tüüp ja perspektiiv on erinevad: esimene kaader on lähivõte/poollähivõte inimesest, teine kaader on lai kaader ülevalt vaates autost ja inimesest.",
+        "Keskkond varieerub: esimene kaader viitab siseruumile või väga kitsale väliruumile märja pinnaga, samas kui teine kaader on selgelt õues tänaval koos autoga.",
+        "Fookus muutub: esimene kaader keskendub detailsemalt inimese näole ja ülakehale, teine annab laiema ülevaate sündmuskohast (auto ja inimene).",
+        "Sisu on erinev: esimene ja teine kaader kujutavad visuaalset stseeni, kolmas on aga mustal taustal olevad tiitrid."
+      ],
+      "snr": "023",
+      "ajad": [
+        "885.120",
+        "1006.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalget interjööri, kus peamine fookus on edevuslaual koos suure valgustatud peegliga. Peegel on ääristatud eredate lambipirnidega, mis annavad tugeva valguse. Õhus on näha suitsu või udu, mis loob müstilise ja dramaatilise atmosfääri. Peeglile on kirjatud sõna \"God\". Laual on mitmesuguseid vintage esemeid, sealhulgas vanamoodne kaamera, pudelid ja raamat. Stseen hõlmab peegelpildis nähtava isiku tegevust, kes esialgu tundub midagi kirjutavat või hoidvat ning hiljem pildistab ennast või stseeni vana välklambiga kaameraga. Lauale ilmub ka raamitud portreepilt mehest, mis rõhutab enesereflektsiooni ja mälestuste teemat.",
+      "actions": [
+        "Kirjutamine peeglile (või millegi hoidmine peegli ees)",
+        "Esme asetamine lauale",
+        "Pildistamine vana kaameraga (peegelpildis)",
+        "Peeglisse vaatamine/enesevaatlus"
+      ],
+      "keywords": [
+        "Vintage",
+        "Noir",
+        "Fotograafia",
+        "Peegel",
+        "Edevuslaud",
+        "Mustvalge",
+        "Suits",
+        "Kaamera",
+        "Portree",
+        "Enesereflektsioon",
+        "Müstika",
+        "Dramaatiline"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Peegel",
+        "Lambipirnid",
+        "Edevuslaud",
+        "Vana kaamera (laual)",
+        "Vana kaamera välklambiga (peegelpildis)",
+        "Parfüümipudelid/kosmeetikapudelid",
+        "Karp",
+        "Raamat",
+        "Raamitud portreepilt mehest",
+        "Sulgkaunistus",
+        "Kruus/kauss",
+        "Kübar (peegelpildis isiku peas)",
+        "Lips (peegelpildis isikul)",
+        "Ülikond (peegelpildis isikul)",
+        "Laualamp (tagaplaanil, peegelpildis)",
+        "Seinapaber/tapeet"
+      ],
+      "colorcodes": [
+        "mustvalge"
+      ],
+      "texts": [
+        "God"
+      ],
+      "persons": [
+        "Isik peegelpildis (meesterahvas, ülikonnas, kübaraga)",
+        "Portreepildil olev mees (vuntsidega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on käsi peegli ees, hoides väikest eset, justkui kirjutaks. Teisel pildil on sama käsi lauale asetamas karpi või sarnast eset.",
+        "Kolmandal pildil on peegelpildis näha täies ulatuses kübaraga ja ülikonnas meest, kes hoiab vana kaamerat koos välklambiga, mis on ilmselt just sähvanud või sähvatamas.",
+        "Lauale on kolmandaks pildiks ilmunud raamitud portreepilt mehest.",
+        "Valgus ja suitsu tihedus võivad piltide vahel erineda, eriti kolmandal pildil on kaamera välgu tõttu üldine valgustus hetkeks intensiivsem ja \"God\" tekst selgem."
+      ],
+      "snr": "024",
+      "ajad": [
+        "1006.840",
+        "1024.480"
+      ]
+    },
+    {
+      "explanation": "Stseen algab täiesti musta ekraaniga, mis seejärel asendub musta taustaga, millel kuvatakse valge, käsitsikirjutatud stiilis tekst 'VEIKKO TAAR'. Pärast seda lõikab stseen kõrge kontrastsusega halltoonidesse interjöörivaatesse, mis kujutab vanaaegset buduaari või magamistoa osa. Esiplaanil ja keskel asub suur tualettlaud, mis on kaetud drapeeritud riidega. Vasakul pool on osaliselt nähtav tume tool laua kõrval. Taustal olevat seina kaunistab detailne, damaskilaadne mustriline tapeet. Kaadri paremat poolt domineerib silmapaistev ovaalse kujuga peegel, mille ümber on sümmeetriliselt paigutatud mitu eredat, ümmargust lambipirni, mis on peamine valgusallikas ning loovad tugevaid valguse ja varjude efekte. Tualettlaual, peeglist vasakul, seisab ornamentaalne mitmeharuline küünlajalg. Selle kõrval on silmapaistvalt eksponeeritud ovaalse raamiga portree habemega mehest lipsus, kes vaatab otse vaatajale. Laua pinnale on laiali laotatud mitmesugused isiklikud esemed, sealhulgas õrnad riideesemed ja mitu dekoratiivset parfüümipudelit. Paremal pool on näha ka teine lamp koos lambivarjuga, mis annab pehmemat valgust, lisades ruumi üldisele dramaatilisele ja atmosfäärilisele valgustusele. Kogu keskkond loob vanaaegse elegantsi tunde, ehk isegi kerge melanhoolia või ootuse varjundiga.",
+      "actions": [
+        "Stseen algab musta ekraaniga",
+        "Teksti ilmumine mustale taustale",
+        "Üleminek siseruumi stseenile"
+      ],
+      "keywords": [
+        "Halltoonides",
+        "Vanaaegne",
+        "Buduaar",
+        "Tualettlaud",
+        "Portree",
+        "Küünlajalg",
+        "Dramaatiline valgustus",
+        "Interjöör",
+        "Melanhoolne",
+        "Tiitrid",
+        "Üleminek"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Tualettlaud",
+        "Tool",
+        "Peegel",
+        "Lambipirnid",
+        "Raamitud portree",
+        "Mees (portreel)",
+        "Küünlajalg",
+        "Parfüümipudelid",
+        "Kangas",
+        "Lamp",
+        "Lambivari",
+        "Mustriline tapeet",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "VEIKKO TAAR"
+      ],
+      "persons": [
+        "Mees (portreel)"
+      ],
+      "imagetype": "real, textbackground",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on täiesti must",
+        "Teine pilt lisab mustale taustale valge teksti 'VEIKKO TAAR'",
+        "Kolmas pilt näitab detailset halltoonides siseruumi stseeni objektide ja valgustusega. Visuaalse info hulk suureneb märkimisväärselt esimesest kolmanda pildini."
+      ],
+      "snr": "025",
+      "ajad": [
+        "1024.480",
+        "1105.240"
+      ]
+    }
+  ]
+}

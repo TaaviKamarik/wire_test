@@ -1,0 +1,2330 @@
+{
+  "film": [
+    "16499",
+    "16380",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Kiire ja raevukas",
+    "dca4546b4ad7457ed4b7fd725a3244d01a319c87.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab laia panoraamvaadet linnasiluetile üle rahuliku veekogu. Vasakul pool on näha modernseid kõrghooneid, mis moodustavad linna kaasaegse osa, samas kui paremal pool asub ajalooline vanalinn oma iseloomulike kirikutornide, vappide ja katustega. Veepind peegeldab õrnalt taevast ja kauguses asuvat linna. Valgusolud stseenis varieeruvad drastiliselt: esimesel pildil on näha stseen sügavas pimeduses, kus linn ja vesi on peaaegu täielikult siluetid, samas kui järgmistel piltidel on valgus palju heledam ja hajutatum, andes taevale ja veele kahvatu kollakasrohelise või beeži varjundi ning tuues linnadetailid esile.",
+      "actions": [],
+      "keywords": [
+        "linnasiluett",
+        "veekogu",
+        "ajalooline vanalinn",
+        "modernne arhitektuur",
+        "panoraamvaade",
+        "videvik",
+        "päikesetõus",
+        "päikeseloojang",
+        "meri",
+        "laht",
+        "vaade"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "linnahooned",
+        "kõrghooned",
+        "kirikutornid",
+        "tornid",
+        "vesi",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#0D0E0D",
+        "#DCE3C9",
+        "#B7C3C1",
+        "#606C71",
+        "#969CA0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night, morning, evening",
+      "differences": [
+        "Esimesel pildil on stseen esitatud sügavas pimeduses, kus linnasiluett ja veepind on näha peaaegu mustade varjudena, pakkudes minimaalset detaili.",
+        "Teisel ja kolmandal pildil on stseen valgustatud, pakkudes selgemat vaadet linnale. Taevas ja vesi on omandanud heleda, kollakasrohelise või kahvatubeie tooni, mis viitab kas varahommikule või hilisõhtule.",
+        "Valguse hulk ja värvigamma on drastiliselt erinevad: esimesel pildil domineerivad mustad ja tumedad hallid toonid, samas kui hilisematel piltidel on heledad ja pastelsetes toonides.",
+        "Teine ja kolmas pilt on värvide ja valguse osas peaaegu identsed, näidates sama stseeni samades valgustingimustes minimaalsete või puuduvate erinevustega."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "4.667"
+      ]
+    },
+    {
+      "explanation": "Pildil on panoraamvaade Tallinna vanalinnale ja selle ümbrusele päikeselisel päeval. Esineval plaanil on näha mitu suurt, modernsemat hoonet heledates toonides ja roheliste ning hallide katustega. Nende tagant avaneb vaade tihedalt hoonestatud linnale, kus domineerivad ajaloolised hooned punaste kivikatuste ja erinevate arhitektuuristiilidega. Eriti paistavad silma mitmed kirikutornid ja kuplid: vasakul on näha Aleksander Nevski katedraali mustad sibulkuplid, keskel kõrgub Püha Olavi kiriku iseloomulik terav must tipp valgel tornil ja paremal on näha Püha Vaimu kiriku torn. Kaugemal vasakul on näha ka linnamüüri torn. Taustal sinetab meri või laht, mis kohtub helesinise pilvitu taevaga. Kauguses mere ääres on näha ka üksikuid kõrgemaid ehitisi ja sadamaala. Stseen annab edasi rahuliku ja ajaloolise linna hõngu selgel ja päikeselisel päeval.",
+      "actions": [],
+      "keywords": [
+        "Tallinn",
+        "vanalinn",
+        "linnavaade",
+        "kirikud",
+        "tornid",
+        "katused",
+        "meri",
+        "arhitektuur",
+        "ajalooline",
+        "Eesti",
+        "linnapanoraam",
+        "linnamaastik",
+        "UNESCO",
+        "päikeseline"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone",
+        "kirik",
+        "torn",
+        "katus",
+        "aken",
+        "meri",
+        "taevas",
+        "pilv",
+        "puu",
+        "maja",
+        "katedraal",
+        "linnamüür",
+        "tornikuppel",
+        "sadamaala"
+      ],
+      "colorcodes": [
+        "#8B0000",
+        "#FFFFFF",
+        "#A9A9A9",
+        "#00CED1",
+        "#4682B4",
+        "#ADD8E6",
+        "#000000",
+        "#FFD700"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [],
+      "snr": "002",
+      "ajad": [
+        "4.667",
+        "7.667"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kitsast tänavat või alleed, mis on ääristatud ajalooliste hoonetega. Parempoolsel hoonel on mitu punaste raamidega akent, mis avanevad kauplustesse või ateljeedesse, mille vaateakendel on näha esemeid. Vasakul pool asub kitsam allee, mis viib kaarja väravani. Selle allee alguses on näha laternaid ja silti, mis tähistab restorani nimega \"Balthasar\", mis on spetsialiseerunud küüslaugule. Tänava sillutis on hallikate plaatidega ja sellel jalutavad kaks tuvi. Üldine atmosfäär on vaikne ja kutsuv, vihjates vanalinna hubasusele.",
+      "actions": [
+        "Tuvid jalutavad mööda tänavat",
+        "Inimene liigub kaarvärava poole (vasakul taustal)"
+      ],
+      "keywords": [
+        "Vanalinn",
+        "Alle",
+        "Tänav",
+        "Restoran",
+        "Poed",
+        "Tuvid",
+        "Ajalooline",
+        "Punased aknaraamid",
+        "Küüslaugu restoran",
+        "Arhitektuur"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hooned",
+        "Aknad",
+        "Aknaraamid",
+        "Tuvid",
+        "Laternad",
+        "Sildid",
+        "Tänav",
+        "Kõnnitee",
+        "Kaarvärav",
+        "Uksed",
+        "Kauplus",
+        "Restoran"
+      ],
+      "colorcodes": [
+        "#B72F2E",
+        "#E5E0D4",
+        "#714A30",
+        "#9B9B9B",
+        "#A09D98",
+        "#F2F1EF"
+      ],
+      "texts": [
+        "RESTORAN",
+        "Balthasar",
+        "Küüslaugu restoran",
+        "Garlic restaurant",
+        "Handmade"
+      ],
+      "persons": [
+        "Inimene (kaare all vasakul)",
+        "Inimene (kaare sügavuses)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kahe tuvi asukohad tänava sillutisel muutuvad piltide vahel, näidates nende liikumist edasi mööda teed.",
+        "Esimene tuvi, mis on kaamerale lähemal, on iga kaadriga liikunud veidi paremale ja edasi.",
+        "Tagumine tuvi on samuti edasi liikunud, eriti viimases kaadris on ta peaaegu pildist väljas paremale.",
+        "Valge tuvi on iga kaadriga liikunud kaamerast eemale."
+      ],
+      "snr": "003",
+      "ajad": [
+        "7.667",
+        "10.667"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest seismas päikesepaistelises metsalagendikus, ümbritsetuna tihedast rohelisest metsast. Puude hulgas on näha nii kaski oma valgete tüvedega kui ka männe ja teisi lehtpuid. Maapind on kaetud rohelise rohuga, millel mängivad päikesekiirtest tekitatud valguse- ja varjulaigud. Mees on riietatud tumedasse pintsakusse, valgesse särki ja tumedatesse pükstesse. Ta hoiab vasakus käes mikrofoni või sarnast seadet ning vaatab ülespoole ja paremale. Üldine õhkkond on rahulik ja looduslähedane, ilm on ere ja selge.",
+      "actions": [
+        "Mees seisab",
+        "Mees hoiab mikrofoni",
+        "Mees vaatab üles ja paremale"
+      ],
+      "keywords": [
+        "Mets",
+        "Loodus",
+        "Päikesepaiste",
+        "Roheline",
+        "Kevad",
+        "Suvi",
+        "Puud",
+        "Kask",
+        "Mänd",
+        "Lagendik",
+        "Mees",
+        "Mikrofon",
+        "Vabas õhus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Mikrofon",
+        "Kased",
+        "Männid",
+        "Lehtpuud",
+        "Roheline rohi",
+        "Päikesevalgus",
+        "Vari"
+      ],
+      "colorcodes": [
+        "#4CAF50",
+        "#7CB342",
+        "#6D4C41",
+        "#E0E0E0",
+        "#3F51B5",
+        "#F5F5F5",
+        "#212121",
+        "#81D4FA"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [],
+      "snr": "004",
+      "ajad": [
+        "10.667",
+        "13.750"
+      ]
+    },
+    {
+      "explanation": "Stseen on täielikult pime ja must. Visuaalset informatsiooni peaaegu puudub, vaid vasakul ääres on vaevumärgatavad vertikaalsed jooned, mis viitavad mingisugusele tekstuurile või objekti kontuurile sügavas pimeduses. Üldpilt on ühtlaselt sügav must.",
+      "actions": [],
+      "keywords": [
+        "pimedus",
+        "must",
+        "öö",
+        "tühjus",
+        "vaikus",
+        "informatsiooni puudumine"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "vaevumärgatavad vertikaalsed jooned"
+      ],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Erinevusi piltide vahel ei ole."
+      ],
+      "snr": "006",
+      "ajad": [
+        "16.125",
+        "16.833"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noorem naine, kes magab või puhkab rahulikult valges voodis. Naine lamab vasakul küljel, nägu kaamera poole suunatud, silmad suletud ja suunurgas on õrn, rahulik naeratus. Tal on tumedad juuksed ja ta kannab musta pitsilise detailiga toppi. Tema vasak käsi on painutatud ja hoiab kinni valgest padjast või tekist, mis on vastu tema rinda surutud. Vasaku käe küüntel on erkroheline küünelakk. Voodi ja voodipesu on valged ning loovad pehme ja kutsuva atmosfääri. Üldine meeleolu on rahulik ja helge.",
+      "actions": [
+        "magamine",
+        "puhkamine",
+        "naeratamine",
+        "patja või tekki hoidmine"
+      ],
+      "keywords": [
+        "uni",
+        "puhkus",
+        "naine",
+        "voodi",
+        "rahulik",
+        "magamistuba",
+        "pehme",
+        "valge",
+        "roheline küünelakk"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "voodi",
+        "padjad",
+        "tekk",
+        "must topp",
+        "küünelakk"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#F0F0F0",
+        "#D3D3D3",
+        "#000000",
+        "#60B042",
+        "#A38A73"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on oluliselt tumedam ja detailid on raskesti eristatavad, samas kui teised pildid on heledad ja selged.",
+        "Kahe viimase pildi vahel on väga väike valgustuse ja värvitooni erinevus, kuid stseen ja positsioon on samad."
+      ],
+      "snr": "007",
+      "ajad": [
+        "16.833",
+        "22.583"
+      ]
+    },
+    {
+      "explanation": "Stseen avaneb läbi paokil prantsuse uste luksuslikku magamistuppa, kus suur voodi domineerib keskpunktis. Esialgu on voodis näha tumedapäist naist, kes magab sügavalt valgete voodilinade all. Tuba on elegantselt sisustatud kreemikate kardinate, punase-valge mustriga kangast voodikatte ja samas stiilis narmastega ehitud voodipeatsi kohal ning laest ripub klassikaline lühter. Stseeni edenedes ilmub ruumi mees valges särgis ja tumedates pükstes, lähenedes voodile. Samal ajal siseneb teine naine, käes pikk, voogav valge pulmakleit, mis viitab erilisele sündmusele. Magav naine ärkab ja istub voodis, jälgides meest, kes paistab voodiriideid kohendavat, ja pulmakleiti hoidvat naist, kes vaatab nende poole. Valgus toas on soe ja kutsuv, luues intiimse ja ootusärevust täis hommikuse meeleolu.",
+      "actions": [
+        "Magamine",
+        "Ärkamine",
+        "Tuppa sisenemine",
+        "Voodile lähenemine",
+        "Pulmakleidi hoidmine",
+        "Voodiriiete kohendamine",
+        "Jälgimine"
+      ],
+      "keywords": [
+        "Pulmapäev",
+        "Hommik",
+        "Magamistuba",
+        "Voodi",
+        "Äratus",
+        "Pruutkleit",
+        "Elegantsus",
+        "Luksus",
+        "Paar",
+        "Teenindaja",
+        "Romantika"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Voodi",
+        "Valged voodilinad",
+        "Pruutkleit",
+        "Kardinad (kreemikad)",
+        "Punase-valge mustriga kardinad ja voodikate",
+        "Lühter",
+        "Öökapid",
+        "Voodilambid",
+        "Prantsuse uksed",
+        "Mööbel (voodi jalutugi, pink)"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#F8F8F8",
+        "#A52A2A",
+        "#4A2B1D",
+        "#F0E68C"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (magav/ärkav)",
+        "Mees",
+        "Teine naine (pulmakleidiga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "morning",
+      "differences": [
+        "Stseen algab naise magamisega, millele järgneb mehe ja teise naise sisenemine tuppa. ",
+        "Algselt on naine üksi voodis, hiljem liituvad temaga mees ja pulmakleiti hoidev naine.",
+        "Naine voodis ärkab üles ja istub püsti, kui teised tegelased ilmuvad."
+      ],
+      "snr": "008",
+      "ajad": [
+        "22.583",
+        "25.042"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab naist magamistoas valges voodis. Alguses on naine rahulik ja magab oma külje peal, pea valgel padjal ja keha osaliselt valge tekiga kaetud. Tal on seljas tume topp. Tema üks käsi, millel on heledad küünelakid ja sõrmus, on nähtaval. Seejärel on naine ärganud ja tundub olevat ärritunud või frustreeritud. Ta on pooleldi istuvas asendis voodis ja viskab jõuliselt valget patja. Tema jalad on näha, mis viitab sellele, et tal on seljas lühike tume öösärk või kleit. Kogu tegevus toimub valgete voodipesu ja padjadega voodis, mis annab stseenile puhta, kuid samas dramaatilise tausta.",
+      "actions": [
+        "Magamine",
+        "Ärkamine",
+        "Padja viskamine",
+        "Liikumine voodis",
+        "Frustratsiooni väljendamine"
+      ],
+      "keywords": [
+        "Uni",
+        "Ärkamine",
+        "Frustratsioon",
+        "Magamistuba",
+        "Voodi",
+        "Naine",
+        "Padi",
+        "Tekk",
+        "Rahulik",
+        "Ärritunud"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Voodi",
+        "Padi",
+        "Tekk",
+        "Naine",
+        "Riietus (tume topp/öösärk)",
+        "Sõrmus"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#C19983",
+        "#8FE0B9"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night or morning",
+      "differences": [
+        "Esimesel pildil naine magab rahulikult, teistel piltidel on ärkvel ja tegutsemas.",
+        "Naine on esimesel pildil teki all magamisasendis, teistel piltidel on ta istuvamas/liikuvas asendis ning tekk on nihkunud.",
+        "Naine on esimesel pildil rahuliku ilmega, teistel piltidel on tema näoilme ja kehakeel frustreeritud või ärritunud.",
+        "Tegevus: Esimesel pildil puhkab, teistel piltidel viskab patja."
+      ],
+      "snr": "009",
+      "ajad": [
+        "25.042",
+        "25.708"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab luksuslikku magamistuba, arvatavasti hotellituba. Esimeses kaadris on toas kaks naist. Üks naine istub suurel, elegantse baldahhiini ja rikkalike patjadega voodil, kandes musta kleiti ja sirvides midagi, mis sarnaneb raamatu või tahvelarvutiga. Teine naine, kes näib olevat majapidaja või teenindaja, seisab voodi kõrval ja hoiab valget pesu või särki, naeratades sõbralikult. Tuba on heledalt valgustatud, laua taga on lamp ja seintel kreemjad toonid. Hilisemates kaadrites keskendutakse uksele ja ukse sulgemisele. See näitab majapidaja lahkumist toast, kuna kaamera jälgib teda toast väljumas ja ust sulgemas. Valgustus muutub oluliselt tumedamaks, viidates privaatsuse loomisele või päevavalguse kadumisele ukse sulgemisel.",
+      "actions": [
+        "Istumine voodil",
+        "Raamatu/tahvelarvuti sirvimine",
+        "Pesemise või särgi hoidmine",
+        "Naeratamine",
+        "Uksest väljumine",
+        "Ukse sulgemine"
+      ],
+      "keywords": [
+        "Hotellituba",
+        "Magamistuba",
+        "Naised",
+        "Majapidaja",
+        "Voodi",
+        "Luksuslik",
+        "Uks",
+        "Privaatsus",
+        "Teenindus",
+        "Valgustus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Voodi",
+        "Padjad",
+        "Tekk",
+        "Voodikardinad/baldahiin",
+        "Öökapp",
+        "Laualamp",
+        "Tool",
+        "Raamat/tahvelarvuti",
+        "Valge pesu/särk",
+        "Uks",
+        "Ukse käepide"
+      ],
+      "colorcodes": [
+        "#F5F5DC",
+        "#FFFFFF",
+        "#8B0000",
+        "#D3D3D3",
+        "#000000",
+        "#F5DEB3",
+        "#A0522D"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (klient)",
+        "Majapidaja/Teenindaja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "päev",
+      "differences": [
+        "Valgustus muutub heledast tumedamaks.",
+        "Kaadri fookus muutub laiemast toa vaatest ukse sulgemise detailile.",
+        "Kaadri sisu muutub kahe inimese interaktsioonist ühe inimese ukse sulgemiseks."
+      ],
+      "snr": "010",
+      "ajad": [
+        "25.708",
+        "28.917"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab elavat tänavapilti vanalinnas, kus on näha munakiviteed, vanu hooneid ning mitmeid inimesi. Vasakul on pargitud unikaalselt dekoreeritud tumeroheline maastur, mille katusel on kollased ja punased karbid kirjaga \"OPEN Gallery\" ning kaisukaru. Sõidukil on ka Eesti numbrimärk \"EBS-986\". Paremal tänavapoolsel äärel istub pisikese ümmarguse laua taga erksavärvilises (laimirohelises) kostüümis vanem mees, kes näib olevat kunstnik või tänavamuusik. Tema laual on väikesed esemed, Eesti lipp ja silt \"AVATUD GALERII 60 €\". Mööda kõnniteed liigub temast mööda kolmeliikmeline seltskond: kaks täiskasvanut ja üks laps. Laps on riietatud roosasse mütsi ja heledasse jopesse ning ulatab kunstniku poole käe, justkui tervitaks või prooviks temaga suhelda. Taustal on näha teisi hooneid ja sinist parkimismärki \"P\" kirjaga \"1 tund\".",
+      "actions": [
+        "Maastur on pargitud tänaval",
+        "Kunstnik istub laua taga",
+        "Kunstnik hoiab piippu suu juures",
+        "Inimesed kõnnivad mööda tänavat",
+        "Laps ulatab kunstnikule käe",
+        "Kunstnik vaatab last"
+      ],
+      "keywords": [
+        "Vanalinn",
+        "Tänavapilt",
+        "Kunstnik",
+        "Maastur",
+        "Galerii",
+        "Munakivitee",
+        "Eesti",
+        "Kohalik kultuur",
+        "Tänavakunst"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Maastur",
+        "Parkimismärk",
+        "Hoone",
+        "Munakivitee",
+        "Kõnnitee",
+        "Väike laud",
+        "Tool",
+        "Eesti lipp",
+        "Kaisukaru",
+        "Sildid",
+        "Piipp"
+      ],
+      "colorcodes": [
+        "#8BBE22",
+        "#3C5521",
+        "#F7D13B",
+        "#0055A4",
+        "#E8E8E8",
+        "#7A7A7A",
+        "#DEB887",
+        "#F08080"
+      ],
+      "texts": [
+        "OPEN Gallery",
+        "P",
+        "1 tund",
+        "1 hour",
+        "AVATUD GALERII",
+        "60 €",
+        "you are welcome",
+        "+372 55 7375",
+        "EBS-986"
+      ],
+      "persons": [
+        "Kunstnik (mees, vanem, pikkade juuste ja habemega, laimirohelises riietuses)",
+        "Mees (täiskasvanu, tumedates riietes)",
+        "Naine (täiskasvanu, tumedates riietes)",
+        "Laps (tüdruk, roosa mütsi ja heleda jopeta)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Lapse ja täiskasvanute positsioonid ja kaugus kunstnikust muutuvad. Esimestel piltidel on laps veidi kaugemal ja tema käed all. Edasistel piltidel läheneb laps kunstnikule ja ulatab talle parema käe.",
+        "Lapse käe asend. Esimesel pildil on käed all, teisel pildil hakkab käsi tõusma ja kolmandal pildil on käsi selgelt ettepoole välja sirutatud kunstniku suunas."
+      ],
+      "snr": "011",
+      "ajad": [
+        "28.917",
+        "30.417"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab portreemaali seanssi elaval tänaval, kus kunstnik jäädvustab perekonna. Esiplaanil on näha kunstniku õlg ja pea, kes kannab heledat rohelist riietust ja on süvenenud joonistamisse. Tema ees laual või molbertil on erinevad kunstivahendid, sealhulgas kollased ja sinised värvipudelid ning pintslid, samuti väike Eesti lipp. Keskel poseerib perekond: blond naine mustas pluusis ja teksades istub taburetil, hoides süles noort blondi tüdrukut. Naine naeratab soojalt kunstniku poole. Tüdrukul on seljas roosa müts, helesinine ruuduline jope ja teksased ning tema pilk on samuti suunatud kunstnikule, kusjuures tema näoilme muutub piltidel kergelt uudishimulikust õrna naeratuseni. Nende taga seisab lühikeste juustega mees mustas lukuga jopes, heledas särgis silmapaistva kaelakeega ja mustades teksades, jälgides samuti kunstnikku kerge naeratusega. Taustal on kitsas tänav, vasakul vana, kulunud kivist või betoonist hoone akendega. Paremal on pargitud hõbedane Volkswageni auto numbrimärgiga 'CD 1114'. Kaugemal tänaval on näha veel hooneid ja taevas on ere ja selge. Üldine atmosfäär on rahulik ja meeldiv, viidates päevasele tegevusele.",
+      "actions": [
+        "Poseerimine",
+        "Joonistamine",
+        "Hoidmine",
+        "Seismine",
+        "Naeratamine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Portree",
+        "Perekond",
+        "Tänav",
+        "Kunstnik",
+        "Joonistamine",
+        "Vabaõhk",
+        "Eesti",
+        "Linn",
+        "Auto"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Joonistuslaud",
+        "Värvid (kollane, sinine)",
+        "Pintslid",
+        "Eesti lipp",
+        "Taburet",
+        "Hoone",
+        "Tänav",
+        "Auto (Volkswagen)",
+        "Kaelakee",
+        "Müts",
+        "Jope",
+        "Teksad"
+      ],
+      "colorcodes": [
+        "#6B8E23",
+        "#000000",
+        "#FFC0CB",
+        "#ADD8E6",
+        "#FFD700",
+        "#4682B4",
+        "#A9A9A9",
+        "#8B4513",
+        "#FFFFFF",
+        "#2251B5",
+        "#BFBFBF"
+      ],
+      "texts": [
+        "CD 1114"
+      ],
+      "persons": [
+        "Kunstnik",
+        "Ema",
+        "Tütar",
+        "Isa"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Tüdruku näoilme muutub piltidel kergelt uudishimulikust õrna naeratuseni.",
+        "Ema ja isa asendis on märgata väikeseid nihkeid, mis viitavad loomulikule liikumisele poseerimise ajal."
+      ],
+      "snr": "012",
+      "ajad": [
+        "30.417",
+        "32.042"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud tänavakunstnikku, kes istub õues vana, krohvitud seina ääres. Tegemist on keskealise või vanema mehega, kel on pikad hallid juuksed ja hall habe. Ta kannab erkrohelist-kollast kombinesooni ja neoonrohelist peapaela. Mees istub, hoides käes väikest valget tahvlit või lõuendit, millel on kollane rist, ja joonistab või kirjutab sellele markeriga. Tema kõrval on väike laud või kast, millel asuvad mitmed värvipudelid ja kaks väikest Eesti lippu. Laual on näha ka silt tekstiga \"QUICK PORTRAIT\". Tema selja taga, seina peal, on osaliselt nähtav teine silt tekstiga \"THE BEAUTY OF...\" ja ülalpool seina sisse süvistatud pildiraam. Stseen on pildistatud päevavalges ja jätab mulje suvisest või kevadisest päevast.",
+      "actions": [
+        "Mees istub",
+        "Mees joonistab/kirjutab lõuendile",
+        "Mees hoiab markerit/pliiatsit",
+        "Mees vaatab kaamera poole/küljele"
+      ],
+      "keywords": [
+        "Tänavakunstnik",
+        "Kunst",
+        "Portree",
+        "Joonistamine",
+        "Välistingimused",
+        "Eesti",
+        "Kollane riietus",
+        "Pikad juuksed",
+        "Habe",
+        "Sein",
+        "Värvid"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Kollane-roheline kombinesoon",
+        "Neoonroheline peapael",
+        "Pikad hallid juuksed",
+        "Hall habe",
+        "Väike valge lõuend/alus",
+        "Marker/pliiats",
+        "Väike laud/kast",
+        "Värvipudelid",
+        "Eesti lipukesed",
+        "Vana krohvitud sein",
+        "Pildiraam seinal"
+      ],
+      "colorcodes": [
+        "#A8E600",
+        "#92FA04",
+        "#F6FC15",
+        "#D9D2C6",
+        "#0072BB",
+        "#000000",
+        "#FFFFFF",
+        "#FF0000"
+      ],
+      "texts": [
+        "THE BEAUTY OF...",
+        "QUICK PORTRAIT",
+        "TO ALL LO MEN LES"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Mehe pilk ja näoilme muutuvad kaadrite vahel. Esimesel pildil vaatab ta paremale ja suu on veidi avatud, teisel pildil vaatab ta otse kaamerasse ja suu on suletud, kolmandal pildil vaatab ta vasakule ja suu on veidi avatud, justkui rääkides."
+      ],
+      "snr": "013",
+      "ajad": [
+        "32.042",
+        "33.125"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tänaval toimuvat portreesessiooni või fotosessiooni, kus kunstnik või fotograaf on fookuses esiplaanil, seljaga vaataja poole. Tema heledad, pikad juuksed ja erkroheline (või kollane) jope on udused, andes edasi liikumist või fookuse sügavust. Tagaplaanil on selgelt näha perekond, mis koosneb naisest, noorest tüdrukust ja mehest. Naine ja tüdruk istuvad pukktoolil, naine hoides tüdrukut süles. Tüdruk kannab roosat mütsi ja helesinist ruudulist jopet, naisel on seljas tume jope. Mees seisab nende taga paremal pool, kandes tumedat jopet ja kaelakeed. Nad on kõik suunatud kunstniku/fotograafi poole, poseerides. Stseen toimub munakivisillutisega tänaval, mille ääres on vanemad hooned. Paremal tagaplaanil on näha hõbedane Volkswageni sõiduauto numbrimärgiga \"CD 1114\". Üldine atmosfäär viitab elavale linnakeskkonnale.",
+      "actions": [
+        "Kunstnik/fotograaf joonistab/pildistab",
+        "Perekond poseerib",
+        "Naine istub tüdrukuga",
+        "Mees seisab"
+      ],
+      "keywords": [
+        "Pereportree",
+        "Tänavakunst",
+        "Perekond",
+        "Munakivitee",
+        "Linnakeskkond",
+        "Portreesessioon",
+        "Fotograafia",
+        "Joped",
+        "Sügis",
+        "Kevad"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Noor tüdruk",
+        "Mees",
+        "Kunstnik/fotograaf",
+        "Pukktool",
+        "Kollane jope",
+        "Must jope",
+        "Helesinine ruuduline jope",
+        "Roosa müts",
+        "Munakivitee",
+        "Hooned",
+        "Volkswagen auto",
+        "Numbrimärk",
+        "Pintsel/pliiats",
+        "Paber/tahvel"
+      ],
+      "colorcodes": [
+        "#d8e954",
+        "#1e1d1c",
+        "#a4c8d1",
+        "#d899ae",
+        "#acb3b6",
+        "#8b7c6d"
+      ],
+      "texts": [
+        "CD 1114",
+        "Volkswagen"
+      ],
+      "persons": [
+        "Naine",
+        "Tüdruk",
+        "Mees",
+        "Kunstnik/fotograaf"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Kunstniku/fotograafi pea asend ja nähtavus muutub kaadrite vahel, esimene kaader näitab rohkem külje pealt, teised kaadrid on selja tagant ja udusemad.",
+        "Mehe käeasend naise õlal muutub esimese ja järgmiste kaadrite vahel.",
+        "Udususe tase esiplaanil oleval kunstnikul/fotograafil on erinev, muutudes kaadrite jooksul intensiivsemaks."
+      ],
+      "snr": "014",
+      "ajad": [
+        "33.125",
+        "34.750"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha kolmeliikmeline pere – mees, naine ja väike tüdruk – kes seisavad välitingimustes tänaval. Nad on koondunud mehe ümber, kes hoiab käes paberit, mis näib olevat kaart või mingi dokument, ja vaatavad seda pingsalt. Mees osutab paberile, samal ajal kui naine ja tüdruk jälgivad tähelepanelikult. Naine tundub olevat veidi segaduses või mures, samas kui tüdruk on keskendunud ja huvitatud. Taustal paistab munakivitee ja vanad hooned suurte akendega. Esiplaanil ja osaliselt inimeste taga on näha omapäraselt grafitiga kaetud auto, millel on ka muid dekoratsioone, sealhulgas roheline ese ja värvilised topised. Eemal, sügavamal taustal, on näha veel kaks inimest kõndimas. Üldine atmosfäär viitab jahedamale ilmale, arvestades inimeste riietust.",
+      "actions": [
+        "Paberit/kaarti vaatama",
+        "Paberit/kaarti hoidma",
+        "Osutama",
+        "Seisma",
+        "Jälgima"
+      ],
+      "keywords": [
+        "Pere",
+        "Tänav",
+        "Kaart",
+        "Juhised",
+        "Navigeerimine",
+        "Külm ilm",
+        "Kunstiauto",
+        "Linnaelu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Naine",
+        "Väike tüdruk",
+        "Paber/kaart",
+        "Tume tepitud jope",
+        "Kaelakee",
+        "Tume nahkjakk",
+        "Roosa kootud müts",
+        "Helesinine-valge ruuduline jope",
+        "Hooned",
+        "Munakivitee",
+        "Grafitiga kaetud auto",
+        "Roheline dekoratsioon",
+        "Topised/mänguasjad"
+      ],
+      "colorcodes": [
+        "#212121",
+        "#C28E95",
+        "#B7D9D3",
+        "#F8F8F8",
+        "#EEDD80",
+        "#D4C9BD",
+        "#4A8E5C",
+        "#8E408A",
+        "#E0C749"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine",
+        "Väike tüdruk",
+        "Kaks inimest taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Mehe käe asend on pisut muutunud",
+        "Naise näoilme on veidi nihkunud, muutudes teises kaadris pisut selgemaks"
+      ],
+      "snr": "015",
+      "ajad": [
+        "34.750",
+        "36.000"
+      ]
+    },
+    {
+      "explanation": "Pildil on näha lihtsasti joonistatud mustade kontuuridega perekond, mis koosneb kahest täiskasvanust ja ühest lapsest. Joonistus on tehtud valgele paberile, mida hoitakse vasakust alumisest nurgast kinni nähtava käega. Parempoolse täiskasvanu kehal on näha paksu kihina peale kantud roosat värvi. Laps on paigutatud täiskasvanute vahele ja tal on naeratav ilme. Vasakpoolne täiskasvanu on joonistatud profiilis, vaatab paremale ja naeratab samuti. Parempoolne täiskasvanu vaatab otse ja tal on tõsine või mõtlik ilme. Joonistuse stiil on naiivne ja meenutab laste tehtud kunsti.",
+      "actions": [
+        "Paberit hoitakse käes",
+        "Joonistatakse perekonda",
+        "Lisatakse joonistusele värvi"
+      ],
+      "keywords": [
+        "Joonistus",
+        "Perekond",
+        "Kunst",
+        "Naiivne stiil",
+        "Roosa värv",
+        "Valge paber",
+        "Käsi",
+        "Portree",
+        "Lapsed"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Joonistus",
+        "Paber",
+        "Käsi",
+        "Värv"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#E76EB8"
+      ],
+      "texts": [],
+      "persons": [
+        "Täiskasvanud",
+        "Laps",
+        "Paberit hoidev isik"
+      ],
+      "imagetype": "drawing",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "016",
+      "ajad": [
+        "36.000",
+        "37.250"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud kolme inimest – blondi naist, roosa mütsiga tüdrukut ja kiilaspäist meest – kes seisavad värvikalt kaunistatud sõiduki, ilmselt kaubiku või bussi, tagaakna ees. Kõik kolm vaatavad allapoole, nende ilmed on tõsised või murelikud. Mehel on seljas must lukuga jakk valge T-särgi peal ja mitu hõbedast kaelakeed. Naisel on must nahktagi heleda kampsuni kohal ja tüdruk kannab helesinist ruudulist jakki ning roosat kootud mütsi. Sõiduki tagaaken on kaetud mitmete lastejoonistustega, mis kujutavad pereliikmeid, koera, abstraktseid nägusid prillide ja piibuga ning sõna 'DAD' suurte oranžide tähtedega. Sõiduki katus ja kere on samuti kunstipäraselt kaunistatud seente ja teiste värviliste motiividega. Taustal on näha siseruumi, mis viitab kas garaažile või mõnele näitusealale.",
+      "actions": [
+        "Vaatavad allapoole",
+        "Seisavad",
+        "Kontempleerivad"
+      ],
+      "keywords": [
+        "Perekond",
+        "Lapsed",
+        "Kunst",
+        "Joonistused",
+        "Sõiduk",
+        "Mure",
+        "Ehted",
+        "Värviline",
+        "Alternatiivne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Tüdruk",
+        "Mees",
+        "Nahktagi",
+        "Kootud müts",
+        "Ruuduline jakk",
+        "Lukuga jakk",
+        "Hõbedased kaelakeed",
+        "Sõiduk",
+        "Aken",
+        "Lastejoonistused",
+        "Katuseraam",
+        "Värvilised kaunistused",
+        "Seenekujutised",
+        "Paber",
+        "Magnet"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFC0CB",
+        "#ADD8E6",
+        "#FFFFFF",
+        "#FFA500",
+        "#8B4513",
+        "#F4D3BC"
+      ],
+      "texts": [
+        "DAD",
+        "WWW.NEED...",
+        "DAD"
+      ],
+      "persons": [
+        "Blond naine",
+        "Väike tüdruk",
+        "Kiilaspäine mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on laiem kaader, mis näitab kõiki kolme inimest ja osa sõidukist.",
+        "Teine pilt keskendub rohkem mehele ja tüdrukule, naine on suures osas kaadrist välja nihkunud. Samuti on joonistused aknast detailsemalt näha.",
+        "Kolmas pilt on lähivõte ainult sõiduki aknale kinnitatud lastejoonistustest, kus inimesed puuduvad kaadrist täielikult, pakkudes detailsemat pilku kunstitöödele."
+      ],
+      "snr": "017",
+      "ajad": [
+        "37.250",
+        "40.708"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast restorani sisekujundust, kus keskne element on rustikaalne kivisein, mis annab ruumile sooja ja ajaloolise ilme. Esile on toodud üks laud, mille ümber istuvad vanem mees ja keskealine naine, nautides romantilist õhtusööki. Laud on kaetud valge linaga ja kaunistatud elegantsete veiniklaaside, veeklaaside ja väikese lillega. Mees on kiilas, kannab prille ja tumedat jakki, naine on blondide juustega ja kannab tumedat ülaosa. Nad on pildil nähtavad elavalt vestlemas ja üksteisega suhtlemas. Nende juurde on saabumas või neid teenindamas noor kelner, kes kannab valget särki ja tumedat vesti. Ruumi valgustus on pehme ja kutsuv, pärinedes seinale kinnitatud kahe haruga lambist ja laual põlevast küünlast, luues intiimse atmosfääri. Taustal on märgata ka raamitud kunstiteost või seinavaipa ning osaliselt teisi restorani mööbliesemeid, mis viitavad laiemale restoranikeskkonnale.",
+      "actions": [
+        "Klientide omavaheline vestlemine",
+        "Kelneri lähenemine lauale",
+        "Kelneri suhtlemine klientidega",
+        "Kelneri tellimuse vastuvõtmine või toidu serveerimine",
+        "Klientide ootamine või einestamine"
+      ],
+      "keywords": [
+        "Restoran",
+        "Õhtusöök",
+        "Kelner",
+        "Klient",
+        "Paar",
+        "Romantiline",
+        "Kivisein",
+        "Hubane",
+        "Siseinterjöör",
+        "Teenindus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Toolid",
+        "Veiniklaasid",
+        "Veeklaasid",
+        "Laualina",
+        "Lilled (laual)",
+        "Kivisein",
+        "Seinalambid (kaksiktuledega)",
+        "Raamitud kunstiteos/seinavaip",
+        "Küünal klaasis",
+        "Kelneri vest",
+        "Prillid"
+      ],
+      "colorcodes": [
+        "#8B7A6C",
+        "#F0E68C",
+        "#36454F",
+        "#FFFFFF",
+        "#2F4F4F",
+        "#A9A9A9"
+      ],
+      "texts": [],
+      "persons": [
+        "Kelner (noor mees)",
+        "Mees (vanem klient)",
+        "Naine (keskealine klient)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on kelner kaadri vasakus servas, osaliselt nähtav ja seljaga kaamera poole, liikumas laua suunas.",
+        "Teisel pildil on kelner lauale märgatavalt lähemal, ikka osaliselt nähtav ja seljaga, kuid liikumine laua juurde on selgem.",
+        "Kolmandal pildil on kelner täielikult laua ääres, näoga klientide poole ja kerge naeratusega. Naine lauas naeratab talle vastu, mis viitab aktiivsele ja sõbralikule suhtlusele."
+      ],
+      "snr": "018",
+      "ajad": [
+        "40.708",
+        "43.542"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab blondi naist, kes istub siseruumides restorani laua ääres. Tuba on iseloomulik rustikaalsele stiilile, kiviseinad ja sume, soe valgustus loovad intiimse ja elegantse õhkkonna. Naise näoilme on murelik või ebamugav, pilk on suunatud allapoole. Ta kannab tumepruuni või musta satiinist pintsaku taolist ülaosa, tumeda pluusi peal, kaelas on õrn kett ja randmel käevõru. Laual on valge laudlina, söögiriistad, kaks veiniklaasi, millest ühes on valge vein, ning väike vaas valgete lilledega. Naise käed liiguvad piltide vahel, esimesel pildil on need madalamal ja passiivsemad, teisel pildil aga kõrgemal, tunduvad midagi kohendavat või krabistavat oma keha või riiete ümber, mis rõhutab tema ebamugavust.",
+      "actions": [
+        "Istumine laua ääres",
+        "Alla vaatamine",
+        "Mureliku näoilme hoidmine",
+        "Kätega liigutamine/kohendamine"
+      ],
+      "keywords": [
+        "Naine",
+        "Restoran",
+        "Siseruum",
+        "Kivisein",
+        "Ebamugavus",
+        "Murelikkus",
+        "Vein",
+        "Lilled",
+        "Sume valgus",
+        "Pintsk",
+        "Blond",
+        "Õhtusöök",
+        "Elegantne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Restoranilaud",
+        "Valge laudlina",
+        "Veiniklaas",
+        "Valge vein",
+        "Väiksem klaas",
+        "Söögiriistad",
+        "Vaas",
+        "Valged lilled",
+        "Kivisein",
+        "Tume puidust tool",
+        "Pintsk",
+        "Kaelaehe",
+        "Käevõru"
+      ],
+      "colorcodes": [
+        "#726251",
+        "#322524",
+        "#E6E1D1",
+        "#F8F8F8",
+        "#EFEFEF",
+        "#3A2B2A"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Naise käte asend ja liikumine on erinev. Esimesel pildil on käed madalamal ja passiivsemad, teisel pildil aga kõrgemal, aktiivselt liigutades või kohendades midagi keha piirkonnas."
+      ],
+      "snr": "019",
+      "ajad": [
+        "43.542",
+        "44.875"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat kiilaspealist meest, kes kannab prille, musta pintsakut ja helesinist triiksärki, söömas üksi peenes restoranis. Ta istub elegantselt kaetud laua taga, millel on taldrikud, klaasid (nii veini- kui ka veeklaasid), söögiriistad ja leivakorv. Mehe ees on kauss, millest ta lusikaga sööb, ilmselt suppi või eelrooga. Restorani taustaks on rustikaalne, paksust kivist laotud sein, millel on näha erinevaid pruunikaid ja hallikaid toone. Üksik valge lill on asetatud väiksesse vaasi lauale, lisades stseenile õrnust. Valgustus on sume ja hubane, luues rahuliku õhkkonna. Mehe pilk varieerub alustades toidult, liikudes toitu tõstes üles, kuni pilguni, mis on suunatud eemale, justkui ta kuulaks või jälgiks midagi kaadrist väljaspool.",
+      "actions": [
+        "Istumine laua taga",
+        "Vaatamine allapoole toidule",
+        "Söögi lusikaga kausist tõstmine",
+        "Söögi suu poole viimine",
+        "Kõrvale vaatamine",
+        "Mõtisklev hoiak"
+      ],
+      "keywords": [
+        "Mees",
+        "Restoran",
+        "Söömine",
+        "Üksindus",
+        "Elegantne",
+        "Rustikaalne",
+        "Kivisein",
+        "Lauakate",
+        "Sume valgus",
+        "Rahulik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Must pintsak",
+        "Helesinine triiksärk",
+        "Prillid",
+        "Sall/rätik kaelas",
+        "Söögilaud",
+        "Valge laudlina",
+        "Taldrikud",
+        "Kauss",
+        "Lusikas",
+        "Kahvel",
+        "Nuga",
+        "Veiniklaasid",
+        "Veeklaasid",
+        "Leivakorv/kauss leivaga",
+        "Valge lill",
+        "Kivisein",
+        "Tool (seljatugi)",
+        "Seinal rippuv pilt (udune)"
+      ],
+      "colorcodes": [
+        "#1E1F21",
+        "#B0C4DB",
+        "#C8A388",
+        "#7F7362",
+        "#F8F8F8",
+        "#D4CDAC",
+        "#E0E0E0",
+        "#E0E0D0",
+        "#C29D7D",
+        "#4D586B"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil hoiab mees käsi laual ja vaatab mõtlikult allapoole.",
+        "Teisel pildil on mees hakanud sööma, tõstes lusikaga toitu kausist.",
+        "Kolmandal pildil viib mees lusika suu poole, samal ajal kui tema pilk on suunatud üles ja vasakule, justkui ta kuulaks või märkaks midagi kaadrist väljaspool."
+      ],
+      "snr": "020",
+      "ajad": [
+        "44.875",
+        "46.917"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab elegantset einestamiskogemust siseruumides, tõenäoliselt restoranis. Keskel on vanem kiilakas mees prillidega, seljas tume ülikonnajakk ja helesinine särk tumeda kaelarätiga, istumas laua taga. Tema ees on valge laudlina ja rikkalikult kaetud laud. Esimesel hetkel asetab kelner (kelle käed on näha vasakul servas) mehe ette taldriku toiduga. Mees vaatab toitu tähelepanelikult. Järgnevatel hetkedel on kelner eemaldunud ja mees on hakanud söögiriistu (kahvlit ja nuga) käes hoidma ning vaatab ringi, justkui vestleks kellegagi või imetleks ümbrust. Laual on mitu klaasi (vee- ja veiniklaasid), leivakorv pruuni leivaga, salvrätikud ja väike vaas valge lillega. Taustal on näha vana kiviplaatidest sein, mis annab ruumile hubase ja ajaloolise ilme. Üleval vasakul nurgas on näha ka dekoratiivset maali.",
+      "actions": [
+        "Kelner asetab toitu lauale",
+        "Mees vaatab toitu",
+        "Mees võtab söögiriistad kätte",
+        "Mees vaatab ringi",
+        "Mees žestikuleerib söögiriistadega"
+      ],
+      "keywords": [
+        "Restoran",
+        "Einestamine",
+        "Õhtusöök",
+        "Kelner",
+        "Klient",
+        "Elegantne",
+        "Lauakatmine",
+        "Söök",
+        "Kivisein",
+        "Söögiriistad",
+        "Jook"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kelneri käed",
+        "Taldrik",
+        "Toit",
+        "Kahvel",
+        "Nuga",
+        "Veeklaas",
+        "Veiniklaas",
+        "Leivakorv",
+        "Leib",
+        "Salvrätikud",
+        "Lillevaas",
+        "Valge lill",
+        "Laud",
+        "Laudlina",
+        "Tool",
+        "Kivisein",
+        "Maal"
+      ],
+      "colorcodes": [
+        "#212121",
+        "#84ADD4",
+        "#A09A8F",
+        "#F3F1ED",
+        "#D6A480",
+        "#EFEFEF",
+        "#87A950",
+        "#DA442F",
+        "#B08D64",
+        "#FDFDFD"
+      ],
+      "texts": [],
+      "persons": [
+        "Klient (mees)",
+        "Kelner (käed)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil asetab kelner taldriku toiduga lauale ja mees vaatab otse alla toidule.",
+        "Teisel pildil on kelner eemaldunud ja mees hoiab kahvlit ning vaatab vasakule, justkui suhtleks kellegagi, keda kaadris pole näha.",
+        "Kolmandal pildil hoiab mees nii kahvlit kui ka nuga ning vaatab veelgi rohkem paremale, žestikuleerides söögiriistadega."
+      ],
+      "snr": "022",
+      "ajad": [
+        "49.667",
+        "53.958"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist blondide juuste ja tukkadega naist, kes istub söögilauas rustikaalse sisustusega restoranis või veinikeldris. Ta kannab tumepruuni, siidist või satiinist, nööpidega pluusi ja musta toppi, kaelas on hõbedane kaelakee ripatsiga. Ta žestikuleerib avatud peopesadega kätega, mis on kehast eemale tõstetud, andes edasi hämmelduse, segaduse või retoorilise küsimuse tunde. Tema näoilme on samuti murelik, kulmud on veidi kergitatud ja suu pisut avatud. Ta istub laua ääres, millel on kaks veiniklaasi, millest üks sisaldab valget veini, ja söögiriistad. Vasakul pool laual on väike vaas valgete lilledega. Ruumi seinad on ehitatud suurtest lihvimata kiviplokkidest, luues hubase ja ajaloolise atmosfääri. Valgustus on soe ja sume, rõhutades naist ja lauda.",
+      "actions": [
+        "Istumine",
+        "Žestikuleerimine kätega",
+        "Emotsioonide väljendamine"
+      ],
+      "keywords": [
+        "Naine",
+        "Restoran",
+        "Kivisein",
+        "Veiniklaasid",
+        "Žestikuleerimine",
+        "Hämmeldus",
+        "Blondid juuksed",
+        "Elegantne",
+        "Söögilaud",
+        "Valge vein"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Laud",
+        "Veiniklaasid",
+        "Valge vein",
+        "Söögiriistad",
+        "Vaas",
+        "Valged lilled",
+        "Kivisein",
+        "Tool",
+        "Kaelakee",
+        "Pruun pluus",
+        "Must topp"
+      ],
+      "colorcodes": [
+        "#4B2E2E",
+        "#DBC89F",
+        "#8B715C",
+        "#A7917C",
+        "#E4EAD9",
+        "#F0F0F0",
+        "#E0B496",
+        "#2F292B"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naine žestikuleerib kätega, avatud peopesadega ja ülespoole suunatud, mis areneb läbi kolme kaadri. Esimeses kaadris on käed madalamal ja veidi kehale lähemal. Teises kaadris on käed tõstetud kõrgemale ja veidi laiemale. Kolmandas kaadris on käed veelgi kõrgemal ja laiemal, rõhutades žesti intensiivsust ja emotsiooni."
+      ],
+      "snr": "023",
+      "ajad": [
+        "53.958",
+        "54.667"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab viit inimest, kes viibivad õues, tõenäoliselt linnatänaval või väljakul, valgete hoonete taustal. Kolm esiplaanil olevat inimest – naine vasakul, mees vasakul keskel ja mees paremal keskel – on näoga vaataja poole, samal ajal kui parempoolseim naine ja tema kõrval seisev osaliselt nähtav inimene on süvenenud oma tegevusse, jäädes profiilis või kergelt küljega. Vasakpoolne naine kannab siniseid ja valgeid värvitoone sportlikku jakki, millel on suur punane täht 'T', ning tal on peas valged päikeseprillid. Tal on ka roheline seljakott ja tema ilme on kergelt üllatunud või küsiv, suu pisut avatud. Tema kõrval seisab mees mustas nahkjakis, sinises särgis ja heledates pükstes, mille küljel ripub kett. Tema pilk on suunatud paremale keskel olevale mehele ja ta näib naeratavat või rääkivat. Paremal keskel olev mees on samuti mustas nahkjakis, valge kapuutsiga pusa all, ja heledates pükstes. Ta hoiab käes musta digitaalset peegelkaamerat ning vaatab selle objektiivi suunas või reguleerib seadeid. Tema taga on näha osaliselt inimesi, kes on fookusest väljas. Parempoolseim naine kannab roosat kapuutsi ja tumedat mantlit, tema õlal ripub punane kott. Ta hoiab samuti käes musta digitaalset peegelkaamerat ja vaatab keskendunult allapoole, tõenäoliselt pildistades või pilte vaadates. Kõrval on näha teine naine, kes on kaameraga tegevuses. Üldine atmosfäär viitab turistidele või ränduritele, kes naudivad pildistamist ja vaatamisväärsuste nautimist.",
+      "actions": [
+        "rääkimine või kuulamine",
+        "naeratamine",
+        "kaamera käes hoidmine",
+        "kaameraga pildistamine",
+        "kaameraseadete reguleerimine",
+        "ümberringi vaatamine",
+        "kaamerasse süvenemine",
+        "seisamine"
+      ],
+      "keywords": [
+        "turistid",
+        "fotograafia",
+        "linn",
+        "välikeskkond",
+        "nahktagi",
+        "kaamerad",
+        "rändurid",
+        "sõprus",
+        "päikesepaiste"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "digitaalne peegelkaamera",
+        "nahktagi",
+        "sportlik jakk",
+        "seljakott",
+        "õlakott",
+        "päikeseprillid",
+        "kett (pükstel)",
+        "kapuutsiga pusa",
+        "mantel"
+      ],
+      "colorcodes": [
+        "#404040",
+        "#FFFFFF",
+        "#2F4F7C",
+        "#8C6F57",
+        "#D9D9D9",
+        "#FF0000",
+        "#FFC0CB",
+        "#4CAF50",
+        "#607B8B"
+      ],
+      "texts": [],
+      "persons": [
+        "naine (vasakul, tumedate juustega)",
+        "mees (vasakul keskel, tumedate juustega)",
+        "mees (paremal keskel, tumedate juustega)",
+        "naine (paremal, tumedate juustega)",
+        "naine (paremal, osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Vasakpoolse mehe näoilme muutub kergelt, suu avaneb ja sulgub, näidates dünaamikat tema kõnes või reaktsioonis.",
+        "Paremal keskel oleva mehe kaamera asend ja käte hoiak muutuvad pisut, viidates seadete reguleerimisele või erinevate nurkade proovimisele.",
+        "Parempoolse naise pea asend ja kaamera nurk muutuvad õrnalt, näidates fookuse nihkumist või järgmise pildi ettevalmistamist."
+      ],
+      "snr": "024",
+      "ajad": [
+        "54.667",
+        "56.708"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort meest elaval tänaval, tõenäoliselt Euroopa vanalinnas, mille taustal on klassikalise arhitektuuriga heledates toonides hooned ja sinine taevas. Mees kannab tumedat halli dressipluusi, millel on valged ja oranžid aktsendid ning \"UMBRO\" logo. Alguses hoiab ta uhkelt käes väikest Eesti lippu, vaadates veidi paremale, suul kerge naeratus. Seejärel vaatab ta ootuspäraselt oma vasakul käel olevat spordikella (või nutikella), mille must rihm on selgelt näha. Lõpuks on ta äkki liikumises, näib hüppavat või kiiresti liikuvat, olles kaadris horisontaalselt udune, justkui tähistades midagi või kiirustades kuhugi. Lipukene on endiselt nähtav, kuid samuti liikumisest tingitud hägususega. Taustal on näha teisi inimesi, mõned neist udused, lisades stseenile dünaamikat ja elu.",
+      "actions": [
+        "Hoiab Eesti lippu",
+        "Vaatab oma kella",
+        "Liigub energiliselt (hüpates või joostes)"
+      ],
+      "keywords": [
+        "Eesti lipp",
+        "noor mees",
+        "tänav",
+        "hooned",
+        "spordiriided",
+        "rõõm",
+        "ootus",
+        "kiirus",
+        "liikumine",
+        "linnaelu"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Eesti lipp",
+        "dressipluus",
+        "spordikell",
+        "hooned",
+        "tänavalatern"
+      ],
+      "colorcodes": [
+        "#0072CE",
+        "#000000",
+        "#FFFFFF",
+        "#4B4E54",
+        "#FA7D00",
+        "#F2F2F2",
+        "#E0EFF7",
+        "#C5A182"
+      ],
+      "texts": [
+        "UMBRO"
+      ],
+      "persons": [
+        "noor mees",
+        "naine (taustal)",
+        "inimesed (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Noor mees muudab oma poosi: esmalt hoiab lippu ja vaatab paremale, siis vaatab alla oma kellale ja lõpuks on ta kiirelt liikumises.",
+        "Noormehe näoilme muutub: kergest naeratusest keskendunud/ootuspäraseks ja seejärel energiliseks/pingeliseks liikumiseks.",
+        "Piltide järjestikus liikumine suureneb ja viimasel pildil on inimene udune, mis viitab kiirele tegevusele nagu hüppamine või sprint."
+      ],
+      "snr": "025",
+      "ajad": [
+        "56.708",
+        "59.458"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab elavat linnatänavat päeval, kus kesksel kohal on kaks noort Aasia naist. Algselt on fookus terav ja näha on, kuidas üks naine, seljas tumesinine jakk ja helesinine kapuutsiga pusa, vaatab kaaslast, samal ajal kui tema kaaslane, riietatud tumedasse jakki ja erkroosasse kapuutsiga pusasse, uurib hoolega käes hoitavat musta peegelkaamerat. Naise pikad pruunid juuksed on lahti. Taustal on näha hooneid ja uduselt teisi inimesi ning väliterrasse heledate päikesevarjudega. Stseen areneb edasi kiire liikumisega, kus roosas pusas naine on järsult pöörates või liikudes kaadrist välja minemas, tema nägu on liikumise tõttu hägune ning kaadrisse tekib dünaamikat ja udusust. Lõpuks muutub kogu stseen tugevalt uduseks ja fookus nihkub esiplaanilt, jättes alles vaid hägusa üldvaate tänavast, kus on näha teisi inimesi, hooneid ja kohvikute vihmavarje, luues tunde kiirest üleminekust või möödumisest.",
+      "actions": [
+        "Vaatamine",
+        "Jalutamine",
+        "Kaamera käes hoidmine",
+        "Kaamerast pildi vaatamine",
+        "Liikumine",
+        "Suhtlemine"
+      ],
+      "keywords": [
+        "Linnatänav",
+        "Päev",
+        "Noored",
+        "Fotograafia",
+        "Liikumine",
+        "Udu",
+        "Suvi",
+        "Vaba aeg",
+        "Turistid"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "DSLR kaamera",
+        "Roosa kapuutsiga pusa",
+        "Helesinine kapuutsiga pusa",
+        "Tumesinine jakk",
+        "Tume jakk",
+        "Seljakott",
+        "Hooned",
+        "Päikesevarjud",
+        "Lauad",
+        "Toolid",
+        "Tänav"
+      ],
+      "colorcodes": [
+        "#F7809F",
+        "#85DAF3",
+        "#2A3B65",
+        "#1C1C1C",
+        "#E7E0D3",
+        "#F8F8F8"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks noort Aasia naist",
+        "Inimesed taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on terav ja selge, keskendudes kahele naisele, kellest üks vaatab kaamerat.",
+        "Teisel pildil on kaameraga naine liikumises, tema nägu on hägune ja kaader on üldiselt liikumisest udune.",
+        "Kolmas pilt on täielikult udune ja fookus on nihkunud, pakkudes laiemat, kuid ebaselget vaadet tänavale ilma selgelt eristuvate inimesteta esiplaanil.",
+        "Fookuspunkt ja teravus muutuvad drastiliselt esiplaanilt taustale ja teravast uduseni."
+      ],
+      "snr": "026",
+      "ajad": [
+        "59.458",
+        "60.625"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kitsast ülesmäge kulgevat munakiviteed, mida ääristavad vanad, erinevates heledates toonides hooned. Tänavat iseloomustab ajalooline õhkkond. Kuigi esimene kaader näitab tühja teed, täitub see hiljem noorte täiskasvanute grupiga, kes liiguvad hoogsalt. Üks mees on esiplaanil, energiliselt jooksmas või hüppamas, samal ajal kui teised grupiliikmed temaga koos edasi liiguvad, kas kiiresti kõndides või sörkides. Mõned kannavad seljakotte ja paistavad ringi vaatavat, lisades stseenile avastusretke meeleolu. Üldine meeleolu on dünaamiline ja aktiivne, viidates linnaekskursioonile või seiklusele. Päevavalgus on pehme, vihjates pilvisele ilmale, mis loob varjudeta ja ühtlase valgustuse.",
+      "actions": [
+        "Jooksmine",
+        "Kõndimine",
+        "Sörkimine",
+        "Hüppamine",
+        "Ringi vaatamine",
+        "Liikumine"
+      ],
+      "keywords": [
+        "Munakivitee",
+        "Vanalinn",
+        "Kitsas tänav",
+        "Grupp",
+        "Noored",
+        "Liikumine",
+        "Seiklus",
+        "Linnaekskursioon",
+        "Ajalooline"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Munakivid",
+        "Tänav",
+        "Hooned",
+        "Seljakotid",
+        "Valge kott",
+        "Rõivad"
+      ],
+      "colorcodes": [
+        "#A39386",
+        "#D6D6CC",
+        "#E1C0B4",
+        "#38393F",
+        "#F8F8F8"
+      ],
+      "texts": [],
+      "persons": [
+        "Noored mehed",
+        "Noored naised",
+        "Grupp inimesi"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt kujutab tühja munakiviteed, samas kui teised pildid näitavad sama teed koos aktiivselt liikuva inimeste grupiga.",
+        "Kaadrites 2 ja 3 on inimesed teel eri positsioonidel ja erinevates liikumisfaasides, mis näitab nende edasiliikumist mööda tänavat.",
+        "Kaamera asetus või fookus on piltidel 2 ja 3 veidi erinev, pakkudes laiemat vaadet hoonetele ja inimeste grupp on kaadris eri sügavuses."
+      ],
+      "snr": "027",
+      "ajad": [
+        "60.625",
+        "63.208"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaadet suurlinna ajaloolisele kivisillutisega väljakule. Esiplaanil ja keskel laiub avar väljak, mis on täis inimesi, kes jalutavad ja liiguvad erinevates suundades. Väljaku paremal küljel domineerib massiivne, heledast kivist ehitatud ajalooline hoone, millel on alumisel korrusel mitu kaarjat avaust ja akent ning ülemistel korrustel rida väiksemaid aknaid. Hoone fassaadil on näha ka kella ja dekoratiivset nišši, kus asub tumedat värvi kuju. Väljaku vasakul küljel ja tagapool on näha teisi vanemaid hooneid, millel on punased katusered ja valged või heledad fassaadid. Ühel vasakpoolsel hoonel on osaliselt nähtav silt. Inimesed on riietatud jopedesse ja pikkadesse pükstesse, mis viitab jahedale, kuid mitte külmale ilmale, tõenäoliselt kevadele või sügisele. Taevas on pilvine, mis annab valgusele ühtlase, hajusa tooni. Üldine atmosfäär on elav ja aktiivne, iseloomustades avalikku linnaruumi. Pildil on näha nii üksikuid jalutajaid kui ka väiksemaid gruppe, kes mööduvad ja vestlevad.",
+      "actions": [
+        "jalutamine",
+        "liikumine",
+        "möödumine",
+        "seismine",
+        "jooksmine",
+        "vestlemine"
+      ],
+      "keywords": [
+        "linnapilt",
+        "väljak",
+        "ajalooline",
+        "inimesed",
+        "arhitektuur",
+        "päevane",
+        "kevad",
+        "sügis",
+        "raekoja plats",
+        "turistid",
+        "käimine"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "hooned",
+        "kell",
+        "kivisillutis",
+        "inimesed",
+        "riided",
+        "kotid",
+        "tänavalaternad",
+        "aknad",
+        "uksed",
+        "kaared",
+        "katused",
+        "kuju",
+        "silt"
+      ],
+      "colorcodes": [
+        "#D6D2C9",
+        "#A03D2E",
+        "#BAB4AF",
+        "#E883A7",
+        "#3F5E7B",
+        "#303030",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "HOPNERI MAJA"
+      ],
+      "persons": [
+        "mehed",
+        "naised",
+        "lapsed",
+        "jalutajad",
+        "turistid"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Inimeste asukohad ja liikumissuunad on piltide vahel märgatavalt muutunud, kajastades aja möödumist.",
+        "Mitmed inimesed, kes esimesel pildil olid paigal või aeglasemalt liikumas, on teisel pildil oluliselt edasi liikunud või isegi jooksvas asendis.",
+        "Pildi alumises osas on teisel kaadril näha uusi kiiresti liikuvaid figuure, kes esimesel pildil puudusid."
+      ],
+      "snr": "028",
+      "ajad": [
+        "63.208",
+        "67.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort Aasia naine vabas õhus, tõenäoliselt linnaväljakul või jalakäijate alal, kus ta on sattunud tuule kätte. Naine kannab tumesinist mantlit, musta salli ja prille. Tema pikad tumedad juuksed ja sall on tuule tõttu sassis ja lehvivad. Tema näoilme varieerub üllatusest ja segadusest kuni endakaitsmiseni tuule eest. Ta hoiab kinni oma mustast õlakotist ja salli otstest, püüdes neid paigal hoida. Taustal on näha hooneid ja väliterrasse punaste laudadega, kus on teisi inimesi, mõned neist kõndimas või istumas. Kokkupandud valged päikesevarjud on näha terrasside ääres. Ilm tundub jahe ja tuuline.",
+      "actions": [
+        "kõndimine",
+        "tuulega võitlemine",
+        "salli ja koti hoidmine",
+        "pea pööramine",
+        "näoilme muutmine",
+        "kummardumine"
+      ],
+      "keywords": [
+        "tuuline",
+        "väljak",
+        "naine",
+        "mantel",
+        "sall",
+        "prillid",
+        "kõndimine",
+        "linn",
+        "kohvik",
+        "jahe",
+        "Aasia",
+        "jalakäijate ala"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "naine",
+        "mantel",
+        "sall",
+        "prillid",
+        "kott",
+        "hooned",
+        "lauad",
+        "toolid",
+        "päikesevarjud",
+        "inimesed (taustal)",
+        "sillutis"
+      ],
+      "colorcodes": [
+        "#2e3e5c",
+        "#1a1a1a",
+        "#cdad8e",
+        "#d9d0c6",
+        "#cc0000",
+        "#f0f0e0"
+      ],
+      "texts": [],
+      "persons": [
+        "noor naine",
+        "teised inimesed (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Naise asend ja näoilme muutuvad kaadrite vahel, reageerides tuulele.",
+        "Esimesel pildil on naine suu avatud ja üllatunud ilmega, juuksed ja sall lendavad tuules, ta vaatab paremale.",
+        "Teisel pildil on naine veidi rahulikum, aga ikka tuule mõju all, vaatab paremale kaugusse, juuksed lehvivad veidi vähem.",
+        "Kolmandal pildil on naine kummargil, kaitstes end tuule eest ja vaatab vasakule alla, püüdes salli ja kotti paigal hoida."
+      ],
+      "snr": "029",
+      "ajad": [
+        "67.000",
+        "72.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast ja rahulikku spaad või massaažituba, kus valitseb soe ja summutatud valgustus. Kesksel kohal on lilla kangaga kaetud massaažilaud, millel mees on end ettevalmistamas massaažiks. Esimeses kaadris on mees veel põlvitavas asendis, toetudes kätele ja jalgadele, pruun rätik ümber puusade, ning tema taga seisab naissoost massaažiterapeut, valges vormis, naeratades ja ilmselt juhendades või oodates. Järgnevates kaadrites asub mees järk-järgult lamama kõhuli, pea pööratud küljele, näides lõõgastununa ja valmis protseduuriks. Terapeut liigub laua taha, valmis massaaži alustama või on seda juba alustanud. Toas on näha põrandalamp või sirm, dekoratiivselt rullitud pruunid rätikud riiulil ja mitu põlevat küünalt esiplaanil, luues rahustava ja terapeutilise õhkkonna.",
+      "actions": [
+        "Mees positsioneerib end massaažilauale",
+        "Massaažiterapeut abistab või ootab",
+        "Mees heidab kõhuli massaažilauale",
+        "Massaažiterapeut valmistub massaažiks"
+      ],
+      "keywords": [
+        "Spa",
+        "Massaaž",
+        "Lõõgastus",
+        "Wellness",
+        "Teraapia",
+        "Hubane",
+        "Rahulik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Massaažilaud",
+        "Lilla rätik/lina",
+        "Pruun rätik",
+        "Küünal",
+        "Põrandalamp/sirm",
+        "Valge vormiriietus",
+        "Rullitud rätikud",
+        "Sein",
+        "Uks"
+      ],
+      "colorcodes": [
+        "#7D527D",
+        "#A3846C",
+        "#FFFFFF",
+        "#F5DEB3",
+        "#D3C9B8",
+        "#5A4232"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (klient)",
+        "Naine (massaažiterapeut)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Mehe asend massaažilaual muutub: esimeses kaadris toetub ta kätele ja põlvedele, teises hakkab ta lamama, pea veidi tõstetud, ja kolmandas on ta täielikult kõhuli, pea küljele pööratud ja näib lõõgastununa.",
+        "Massaažiterapeudi näoilme ja asend muutuvad: esimeses kaadris naeratab ta laialt, teises ja kolmandas on tema näoilme neutraalsem ja ta positsioneerib end mehe taha, valmis massaažiks."
+      ],
+      "snr": "030",
+      "ajad": [
+        "72.000",
+        "74.375"
+      ]
+    },
+    {
+      "explanation": "Stseenis valmistub teenindaja või massöör hoolduseks või massaažiks. Ta kannab valget lühikeste varrukatega professionaalset pluusi või särki. Kaadrid liiguvad algsest udusest kujutisest, kus on näha inimese ülakeha ja naeratav nägu, läbi õli kätele kandmise ja hõõrumise protsessi, kuni selge lähivõtteni, kus tema käed on rikkalikult kaetud läikiva, kollaka õliga. Ta sirutab käed vaataja poole, esitades need hoolduseks ettevalmistatult. Taust on udune ja heledates toonides, viidates siseruumile, tõenäoliselt spaale või ilusalongile, kus valgus on soe ja summutatud.",
+      "actions": [
+        "Kätemassaažiks valmistumine",
+        "Õli või kreemi pealekandmine kätele",
+        "Käte hõõrumine ja õli laiali jaotamine",
+        "Õliste käte esitlemine",
+        "Naeratamine"
+      ],
+      "keywords": [
+        "Massaaž",
+        "Spa",
+        "Hooldus",
+        "Õli",
+        "Käed",
+        "Lõõgastus",
+        "Professionaalne",
+        "Valge vorm",
+        "Nahahooldus",
+        "Ettevalmistus"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Käed",
+        "Valge pluus/särk",
+        "Õli/kreem",
+        "Taustasein"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#D9C9B4",
+        "#E8B99E",
+        "#D69F86",
+        "#F5E68C",
+        "#8B7A6A"
+      ],
+      "texts": [],
+      "persons": [
+        "Teenindaja",
+        "Massöör",
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teravus ja fookus: Esimene pilt on täielikult udune, keskendudes laiemalt inimesele. Teisel pildil hakkab fookus minema kätele, kuid on endiselt veidi pehme. Kolmas pilt on täiesti terav, fookusega kätele.",
+        "Käte asend ja tegevus: Esimesel pildil on käed keha ees madalamal. Teisel pildil on käed toomas õli kätele ja alustamas hõõrumist. Kolmandal pildil on käed õliga kaetult ette sirutatud.",
+        "Kätele lisandunud õli: Esimesel ja teisel pildil ei ole käte peal õli näha. Kolmandal pildil on käed selgelt läikiva õlikihiga kaetud.",
+        "Kaadrisuurus: Esimene pilt on laiem kaader, mis hõlmab rohkem ülakeha. Kolmas pilt on kitsas lähivõte, keskendudes peamiselt kätele."
+      ],
+      "snr": "031",
+      "ajad": [
+        "74.375",
+        "75.500"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaadet inimese seljale, kes lamab näoga allapoole ja saab professionaalset massaaži. Kaks massööri kätt on näha tegutsemas seljal, kandes peale õli või kreemi, mis annab nahale läikiva ja niisutatud välimuse. Käed liiguvad erinevate võtetega, hõõrudes ja vajutades selja lihaseid, alustades alaosas ja liikudes ülespoole. Valgus on summutatud ja soe, luues rahustava ja lõõgastava atmosfääri, mis viitab spaale, massaažisalongile või privaatsele lõõgastuskeskkonnale. Inimese kehast on näha ainult seljaosa, rõhutades massaaži ja sellega kaasnevat sensatsiooni.",
+      "actions": [
+        "Seljamassaaži tegemine",
+        "Lihaste hõõrumine",
+        "Õli või kreemi pealekandmine",
+        "Naha puudutamine",
+        "Lihaste mudimine"
+      ],
+      "keywords": [
+        "Massaaž",
+        "Selg",
+        "Lõõgastus",
+        "Teraapia",
+        "Puudutus",
+        "Naha hooldus",
+        "Heaolu",
+        "Spa",
+        "Iluteenus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese selg",
+        "Massööri käed",
+        "Massaažilaud (oletatav)",
+        "Massaažiõli/kreem"
+      ],
+      "colorcodes": [
+        "#E3C7A8",
+        "#AE886E",
+        "#734B31",
+        "#C79E79",
+        "#D1B091"
+      ],
+      "texts": [],
+      "persons": [
+        "Massaaži saaja",
+        "Massöör"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Käed liiguvad piltide vahel, sooritades massaaži erinevaid faase ja võtteid.",
+        "Nahale rakendatav surve ja lihaste asend muutub vastavalt käte liikumisele.",
+        "Esimesel pildil on käed selja ala- ja keskosas, teostades pigistavat või sügavamat võtet.",
+        "Teisel pildil on käed liikunud veidi ülespoole, jätkates lihaste töötlemist.",
+        "Kolmandal pildil on käed selja ülemises osas, sooritades horisontaalset silumise või venitamise liigutust."
+      ],
+      "snr": "032",
+      "ajad": [
+        "75.500",
+        "77.125"
+      ]
+    },
+    {
+      "explanation": "Stseen on täiesti pime ja ühtlaselt must, ilma igasuguste nähtavate detailide, esemete või isikuteta. Puudub visuaalne teave stseeni sügavuse, sisu või konteksti kohta, jättes vaatajale täieliku visuaalse tühjuse mulje.",
+      "actions": [],
+      "keywords": [
+        "pime",
+        "must",
+        "tühjus",
+        "monokroomne",
+        "nähtamatu",
+        "abstraktsioon"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel puuduvad visuaalsed erinevused, kõik kaadrid on identselt mustad."
+      ],
+      "snr": "034",
+      "ajad": [
+        "81.625",
+        "82.125"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud naine, kes magab rahulikult voodis, kaetud valge voodipesuga. Ta lamab külili, näoga veidi paremale, silmad suletud. Tema näol on õrn naeratus, mis viitab meeldivale unele või sügavale lõõgastumisele. Naine kannab tumedat, arvatavasti musta, pitsilist toppi või öösärki. Tema vasak käsi on kõverdatud ja ta hoiab valget patja või kokku rullitud tekiosa oma rinna ligi, justkui seda kaisutades. Eriti märkimisväärsed on tema erkroheliseks värvitud küüned. Taustaks on valged padjad ja voodipesu, mis annab märku siseruumist, tõenäoliselt magamistoast. Valgustuse progresseerumine tumedast heledaks viitab hommikule või süttivusele.",
+      "actions": [
+        "Magamine",
+        "Puhkamine",
+        "Naeratamine",
+        "Patja või tekki kaisutamine"
+      ],
+      "keywords": [
+        "Magav naine",
+        "Uni",
+        "Puhkus",
+        "Voodi",
+        "Tekk",
+        "Padi",
+        "Rahulik",
+        "Naeratus",
+        "Rohelised küüned",
+        "Hommik",
+        "Siseruum",
+        "Pits"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Voodi",
+        "Valged voodipesud",
+        "Tekk",
+        "Padi",
+        "Must pitsiline topp/ööriided"
+      ],
+      "colorcodes": [
+        "#FDFDFD",
+        "#E8C1A8",
+        "#66A364",
+        "#2B2C2D",
+        "#2A282D"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "morning",
+      "differences": [
+        "Pilt 1 on väga tume, peaaegu must, näidates vaid hägusalt magava naise kontuure.",
+        "Pilt 2 on heledam kui pilt 1, näidates selgemalt magavat naist voodis.",
+        "Pilt 3 on veelgi heledam kui pilt 2, tuues esile detailid nagu naise naeratuse ja rohelised küüned ning valgustades kogu stseeni paremini."
+      ],
+      "snr": "035",
+      "ajad": [
+        "82.125",
+        "86.583"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab massaažisessiooni rahustavas ja hubases sisekeskkonnas. Noorem naismassöör, kelle tumedad juuksed on patsi taha seotud ja kes kannab valget vormirõivast, annab seljamassaaži mees kliendile. Klient lamab kõhuli massaažilaual, mis on kaetud lilla froteelina, ja tema alakeha on kaetud pruuni rätikuga. Kliendi selg on paljas ja paistab õlitatud. Massöör liigutab oma käsi järk-järgult kliendi selja erinevatel piirkondadel – alustades selja keskelt, liikudes õlgade ja kaela piirkonda ning seejärel tagasi alaselja juurde –, rakendades erinevaid massaažitehnikaid. Klient paistab olevat lõõgastunud, silmad suletud. Ruumi valgustus on pehme ja soe, luues rahuliku atmosfääri. Tagaplaanil on näha lihtne hele sein, suletud uks, dekoratiivne Jaapani stiilis lamp ja virnastatud rullitud pruunid rätikud või tekid riiulil.",
+      "actions": [
+        "Naismassöör annab mehele seljamassaaži",
+        "Klient lamab massaažilaual kõhuli",
+        "Massöör kannab õli või kreemi kliendi seljale",
+        "Massöör masseerib kliendi õlgu ja kaela",
+        "Massöör masseerib kliendi alaselga ja keskselga",
+        "Klient lõõgastub silmad suletud"
+      ],
+      "keywords": [
+        "Massaaž",
+        "Spa",
+        "Lõõgastus",
+        "Heaolu",
+        "Teraapia",
+        "Sisemine rahu",
+        "Hooldus",
+        "Mugavus",
+        "Masseerija",
+        "Klient",
+        "Siseruumid",
+        "Rahulik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naismassöör",
+        "Meesklient",
+        "Massaažilaud",
+        "Lilla froteelina",
+        "Pruun rätik",
+        "Valge vormirõivas",
+        "Lamp",
+        "Suletud uks",
+        "Rullitud rätikud",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#734c8c",
+        "#6c4b37",
+        "#f4f4f4",
+        "#e1c0a2",
+        "#e3e0d8",
+        "#ffe3b3"
+      ],
+      "texts": [],
+      "persons": [
+        "Massöör (naine)",
+        "Klient (mees)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Massööri käte asukoht ja massaaži fookuspunkt kliendi seljal erineb piltide vahel. Esimesel pildil on käed selja keskosa kohal, teisel pildil õlgadel/kaelal ja kolmandal pildil alaseljal/keskseljal."
+      ],
+      "snr": "036",
+      "ajad": [
+        "86.583",
+        "91.667"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab intiimset ja romantilist õhtusööki rustikaalses restoranis. Kaks vanemat inimest, mees ja naine, istuvad teineteise vastas laua ääres, mis on kaetud tumeda laudlinaga ja valge linaga. Nad hoiavad käes veiniklaase, on omavahel vestluses ja paistavad nautivat teineteise seltskonda. Mees, kiilakas ja prillidega, kannab tumedat ülikonda, naine, blondide juustega, kannab tumedat pluusi. Restorani seinad on ehitatud suurtest kivilahmakatest, luues ajatu ja hubase atmosfääri. Valgustust annab seinal olev antiikne kaheharuline seinavalgusti ning laual on väike valge lill vaasis, söögiriistad ja taldrikud. Kaadrites on näha ka kaunist seinavaipa ja tagaplaanil häguselt teisi laudu ja küünalt. Üleminev kaader näitab rahulikku öist taevast sirbikujulise kuu ja mitme tähega, vihjates, et tegevus toimub õhtusel või öisel ajal ja loob meeleolu.",
+      "actions": [
+        "Veini joomine",
+        "Õhtustamine",
+        "Vestlemine",
+        "Käe puudutamine",
+        "Deitimine",
+        "Naeratamine"
+      ],
+      "keywords": [
+        "Restoran",
+        "Õhtusöök",
+        "Romantiline",
+        "Deit",
+        "Vein",
+        "Kuu",
+        "Tähed",
+        "Intiimne",
+        "Vanem paar",
+        "Kivisein",
+        "Hubane",
+        "Antiikne"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Veiniklaasid",
+        "Taldrikud",
+        "Söögiriistad",
+        "Laud",
+        "Laudlina",
+        "Toolid",
+        "Seinavalgusti",
+        "Seinavaip",
+        "Lill",
+        "Vaas",
+        "Küünlad",
+        "Kuu",
+        "Tähed",
+        "Prillid",
+        "Ülikond"
+      ],
+      "colorcodes": [
+        "#8B8779",
+        "#1B1B1C",
+        "#2A1D25",
+        "#4F4F4F",
+        "#E5E5E5",
+        "#3A6AA5",
+        "#F0F0E0"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine",
+        "Vanem paar"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimeses pildis puudutab mees naise kätt ja naine naeratab; teises pildis joovad mõlemad veini.",
+        "Teises pildis on paremal tagaplaanil näha hägune küünal, mis esimeses pildis pole selgelt nähtav.",
+        "Kolmas pilt kujutab täiesti erinevat stseeni (öine taevas kuu ja tähtedega), pakkudes kontrasti siseruumi restoranistseeniga."
+      ],
+      "snr": "037",
+      "ajad": [
+        "91.667",
+        "100.792"
+      ]
+    },
+    {
+      "explanation": "Stseenis on esiplaanil fookuses suursugune öökull, millel on hallikas-valge sulestik, mida rõhutab jahedalt lillakas-sinakas valgus. Öökull paikneb pimedal ja ähmastatud taustal, kus vasakul pool on aimatav udune puuoks. Öökulli suured ja teravad silmad paistavad selgelt välja, vaadates esimesel pildil otse vaataja poole, pea kergelt kaldu. Teisel pildil on öökulli pea pööratud rohkem paremale, eemale vaadates, paljastades rohkem tema pea tagumist ja õlaosa. Valgus on hämar, kunstlik ja loob sulestikule intensiivseid valgusefekte, mis annavad pildile müstilise ja vaikse meeleolu. Öökulli sulestikus on näha peeneid mustreid ja tekstuurseid detaile. Üldine atmosfäär on tähelepanelik ja salapärane, rõhutades öökulli öist olemust.",
+      "actions": [
+        "Öökull vaatab",
+        "Öökull pöörab pead",
+        "Öökull jälgib"
+      ],
+      "keywords": [
+        "Öökull",
+        "Lind",
+        "Nocturnal",
+        "Hall",
+        "Lilla",
+        "Sinine",
+        "Müstiline",
+        "Hämarus",
+        "Fookus",
+        "Portree",
+        "Pead pööramine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Öökull",
+        "Oks"
+      ],
+      "colorcodes": [
+        "#4C3C6D",
+        "#A098C7",
+        "#1A1A1A",
+        "#FFFFC0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Öökulli pea asend on erinev. Esimesel pildil vaatab öökull otse vaataja poole, pea kergelt kaldu, samas kui teisel pildil on tema pea rohkem pööratud paremale (vaataja seisukohast), vaadates alla või eemale.",
+        "Piltidel on seega näha öökulli pea liikumist, pöörates ennast küljelt eemale."
+      ],
+      "snr": "038",
+      "ajad": [
+        "100.792",
+        "103.083"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab vaadet läbi tumeda, ilmastikust mõjutatud kivist kaare või raamistuse vanasse Euroopa tänavale, mis on tõenäoliselt Tallinnas, Eestis. Tänavat ääristavad heledad, mitmekorruselised hooned paljude akendega. Mõnel hoonel on näha lippe, sealhulgas Eesti, Suurbritannia ja Tšehhi lippe. Päikesepaisteline ilm valgustab tänavat eredalt, luues esiplaanile tumedaid varje. Kauguses tänaval on vaevu nähtav üks inimfiguur. Keset kaadrit on poolläbipaistval sinisel taustal valge tekst \"Come to Estonia\" (Tule Eestisse).",
+      "actions": [
+        "Kutsumine Eestit külastama",
+        "Inimene kõnnib tänaval"
+      ],
+      "keywords": [
+        "Eesti",
+        "Tallinn",
+        "Vanalinn",
+        "Ajalooline",
+        "Arhitektuur",
+        "Päikesepaisteline",
+        "Tänav",
+        "Turism",
+        "Kutse",
+        "Suvi",
+        "Lipud",
+        "Kivihoone"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hooned",
+        "Aknad",
+        "Tänav",
+        "Lipud (Eesti, Suurbritannia, Tšehhi)",
+        "Kivist raamistus/kaev",
+        "Inimfiguur",
+        "Tekstiplokk",
+        "Varjud"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#f2f2f2",
+        "#d4d4d4",
+        "#8cb9de",
+        "#ffffff",
+        "#557297",
+        "#0072bc",
+        "#cf142b",
+        "#0a1f42"
+      ],
+      "texts": [
+        "Come to Estonia"
+      ],
+      "persons": [
+        "Üksik inimfiguur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on täiesti must, moodustades tühja kaadri.",
+        "Teine ja kolmas pilt on sisuliselt identsed, kusjuures esineb vaid minimaalne, peaaegu märkamatu heleduse/kontrastsuse või kaadri positsiooni erinevus. Tekst ja stseen on samad."
+      ],
+      "snr": "039",
+      "ajad": [
+        "103.083",
+        "107.542"
+      ]
+    },
+    {
+      "explanation": "Stseen algab laia kaadriga, mis kujutab maalilist vanalinna tänavat, mida raamivad esiplaanil tumedad, massiivsed sambad või portaalilaadsed ehitised. Tänav on ääristatud heledate ajalooliste hoonetega, millel on palju aknaid, ja taevas on ere ja selge. Hoonete küljes ripuvad lipud, sealhulgas Suurbritannia lipp ja veel üks sinise, valge ja punase triibuline lipp. Keskselt on pildi peal läbipaistval sinisel taustal valge tekst \"Come to Estonia\". Seejärel muutub stseen mustaks ekraaniks, millel kuvatakse kolm logo: Eesti Hotellide ja Restoranide Liidu logo, Euroopa Liidu lipp koos tekstiga \"European Union Regional Development Fund\" ja \"Investing in your future\", ning stiliseeritud Eesti lipp samuti tekstiga \"Investing in your future\". Üldiselt on tegemist turismireklaamiga, mis esitleb Eesti linnaruumi ilu ja selle turismisektori toetajaid.",
+      "actions": [
+        "kutsub vaatajaid Eestisse",
+        "promoveerib turismi",
+        "näitab sponsorlust ja toetajaid"
+      ],
+      "keywords": [
+        "turism",
+        "Eesti",
+        "vanalinn",
+        "arhitektuur",
+        "tänav",
+        "hooned",
+        "sponsorlus",
+        "Euroopa Liit",
+        "hotellid",
+        "restoranid",
+        "arengufond",
+        "lipud",
+        "kutse"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "hooned",
+        "aknad",
+        "tänav",
+        "sambad",
+        "lipud",
+        "tekstiekraan",
+        "Eesti Hotellide ja Restoranide Liidu logo",
+        "Euroopa Liidu lipp",
+        "Eesti lipp"
+      ],
+      "colorcodes": [
+        "#362C24",
+        "#D3D3D3",
+        "#ADD8E6",
+        "#4682B4",
+        "#FFFFFF",
+        "#000000",
+        "#003399",
+        "#FFCC00",
+        "#0072CE"
+      ],
+      "texts": [
+        "Come to Estonia",
+        "EESTI HOTELLIDE JA RESTORANIDE LIIT",
+        "ESTONIAN HOTEL AND RESTAURANT ASSOCIATION",
+        "European Union",
+        "Regional Development Fund",
+        "Investing in your future"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader on värviline foto vanalinna tänavast, millel on peal reklaamtekst. Järgmised kaadrid on mustal taustal olevad logod ja sponsorite tekstid.",
+        "Esimene osa on visuaalselt rikas ja detailne, teine osa on minimalistlik ja informatiivne."
+      ],
+      "snr": "040",
+      "ajad": [
+        "107.542",
+        "110.792"
+      ]
+    }
+  ]
+}

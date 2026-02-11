@@ -1,0 +1,1495 @@
+{
+  "film": [
+    "18719",
+    "18574",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Intervjuu Vallo Kepiga",
+    "d544c4d6dc6d40172b19f98a9cf57cf27d11d487.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab peaaegu täielikus pimeduses, kus kaadri vasakus keskel on näha kolm hägust, helehalli valguspunkti või efekti, mis on paigutatud ebakorrapärasesse kolmnurka. Seejärel kaovad need valguspunktid ja ekraan muutub täiesti mustaks. Pärast seda ilmuvad ekraani alumisse ossa valged tekstiread. Esimene tekstirida on inglise keeles \"suddenly someone talks\", millele järgneb teine rida \"This, that will not stay the same\". Tekst on valge, serif-fondiga ja asetseb mustal taustal, vihjates pimedas keskkonnas toimuvale dialoogile või mõtisklusele.",
+      "actions": [
+        "Hägusad helehallid punktid ilmuvad ja kaovad",
+        "Tekst ilmub ekraanile",
+        "Keegi räägib või mõtiskleb (teksti põhjal)"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Hämarus",
+        "Valgusefekt",
+        "Tekst ekraanil",
+        "Dialoog",
+        "Mõtisklus",
+        "Muutus",
+        "Must taust",
+        "Valged tähed",
+        "Abstraktne"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Hägusad valguspunktid",
+        "Ekraan",
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#D3D3D3",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "suddenly someone talks",
+        "This, that will not stay the same"
+      ],
+      "persons": [
+        "isik, kes räägib (pole näha)"
+      ],
+      "imagetype": "effect",
+      "emptypercent": "95",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on näha kolm hägust helehalli valguspunkti mustal taustal, samas kui teisel ja kolmandal pildil need puuduvad ning taust on täiesti must.",
+        "Teisel pildil ilmub ekraanile esimene tekstirida \"suddenly someone talks\".",
+        "Kolmandal pildil ilmub ekraanile teine tekstirida \"This, that will not stay the same\", samas kui esimene tekstirida jääb alles."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "28.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist elamutänavat, mis on kaetud paksu lumekihiga. Tänav on kitsas ja piiratud mõlemalt poolt puidust või kivist aedadega, mille taga paistavad elumajad ja paljad puud. Ühel hetkel ilmub kaadrisse vanem mees, kes kõnnib seljaga kaamera poole mööda lumist teed eemale. Üldine toon on vaikne ja meditatiivne, rõhutades teekonna ja aja möödumise teemat. Taevas on pilvine, mis annab stseenile pehme ja hajutatud valguse. Stseeni alguses ja lõpus on pilt udune ja sisaldab pealiskirja, keskmine kaader on terav ja fookuses oleva mehega.",
+      "actions": [
+        "kõndimine",
+        "jalutamine",
+        "teekonnal olek"
+      ],
+      "keywords": [
+        "talv",
+        "lumi",
+        "tänav",
+        "jalutuskäik",
+        "vanem mees",
+        "vaikne",
+        "mõtisklus",
+        "elamu",
+        "aed",
+        "pilvine",
+        "külm",
+        "pime"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "lumi",
+        "tänav",
+        "aed",
+        "elumaja",
+        "puu",
+        "müts",
+        "mantel",
+        "post"
+      ],
+      "colorcodes": [
+        "#E6E6FA",
+        "#A9A9A9",
+        "#1C1C24",
+        "#362828",
+        "#8B4513",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "This, that will not stay the same",
+        "But those who walk without thinking of anything"
+      ],
+      "persons": [
+        "vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 75,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader on udune ja sisaldab teksti “This, that will not stay the same”, fookus on eesmisel lumisel pinnal.",
+        "Teine kaader on terav, näitab meest kõndimas lumisel tänaval seljaga kaamera poole, taust on selge.",
+        "Kolmas kaader on tumedam ja udune, sisaldab teksti “But those who walk without thinking of anything”, mees on kaadrist kadunud ning tänav on peaaegu mustaks toonitud."
+      ],
+      "snr": "002",
+      "ajad": [
+        "28.000",
+        "59.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast siseruumi, mis on rikkalikult sisustatud raamatutega ja puidust elementidega, luues hubase ja intellektuaalse õhkkonna. Keskel istub vanem, kiilaspäine mees pika valge habemega, kandes musta särki ja heledaid traksid. Ta hoiab käes paberit, millel on tekst, ja paistab seda lugevat või ette kandvat. Mehe särgi küljes on mikrofon. Ta istub heledas tugitoolis. Taustal on näha mitu raamaturiiulit, mis on tihedalt täis raamatuid, mis viitab suurele lugemishuvile. Paremal puidust seinal ripub raamitud mustvalge foto naeratavast noorest poisist ning üleval paremas nurgas on näha must vinüülplaat. Stseeni valgustus on pehme ja soe, rõhutades ruumi kutsuvat atmosfääri.",
+      "actions": [
+        "Mees istub",
+        "Mees hoiab paberit",
+        "Mees loeb paberilt teksti",
+        "Mees räägib/ette kannab",
+        "Mees vaatab kaamerasse (ühel hetkel)"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Habe",
+        "Lugemine",
+        "Raamatud",
+        "Raamatukogu",
+        "Hubane",
+        "Siseruum",
+        "Portree",
+        "Nostalgiline",
+        "Puit"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Vanem mees",
+        "Valge habe",
+        "Must särk",
+        "Heledad traksid",
+        "Paber (tekstiga)",
+        "Mikrofon",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Puidust seinad",
+        "Hele tugitool",
+        "Raamitud mustvalge foto (noorest poisist)",
+        "Vinüülplaat",
+        "Seinaornament"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#E5E5E5",
+        "#C0C0C0",
+        "#A06D4A",
+        "#5C3C2A",
+        "#E0E0E0",
+        "#FFFFFF",
+        "#2D2D2D"
+      ],
+      "texts": [
+        "But those who walk without thinking of anything",
+        "and maybe, just maybe be a little more certain will be the steps and eyes",
+        "Tekst paberil (loetamatu)",
+        "Karl Marx (loetamatu raamatu seljal)"
+      ],
+      "persons": [
+        "Vanem mees",
+        "Noor poiss (fotol)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe pilk on esimestel piltidel suunatud paberile, kolmandal pildil on ta pilk tõstetud ja vaatab otse kaamerasse.",
+        "Subtiitrite tekst muutub piltide vahel, vastavalt esitatavale kõnele.",
+        "Mehe huulte ja näoilme asend muutub veidi rääkimise ja lugemise käigus."
+      ],
+      "snr": "003",
+      "ajad": [
+        "59.640",
+        "100.880"
+      ]
+    },
+    {
+      "explanation": "Pildil on detailne lähivaade mustast või tumepruunist raamaturiiulist, mis on tihedalt täidetud raamatute ja kolme metallist hoiukarbiga. Vasakpoolsel riiuliosal on vertikaalselt asetatud raamatud, millest mitmetel on heledad kaaned ja millel on loetav tekst 'BETTI ALVER'. Keskmisel riiulil, fookuses, on kaks helesinist või rohekat ristkülikukujulist metallkarpi, millel kummalgi on pruun silt tekstiga 'LUULE'. Nendest paremal on kolmas, kollakasbeež metallkarp, millel on pruun silt tekstiga 'ANTOLOOGIAD LAULIKUD'. Parempoolsel ülemisel riiulil on samuti raamatud, kuid need on veidi fookusest väljas. Alumisel riiulil on näha raamatute virn, millel on loetavad pealkirjad nagu 'MARDI VAIGEMAA' ja 'BETTI ALVER'. Raamaturiiuli ülemisel osal on näha ka mõned raamatute seljad ja punane riidest järjehoidja, mis ulatub ühest raamatust välja. Stseen annab edasi kirjandusele pühendatud ja akadeemilise atmosfääri.",
+      "actions": [],
+      "keywords": [
+        "Raamaturiiul",
+        "Raamatud",
+        "Luule",
+        "Karbid",
+        "Kirjandus",
+        "Siseruum",
+        "Kogu",
+        "Kodu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Raamaturiiul",
+        "Raamatud",
+        "Metallist karbid",
+        "Sildid",
+        "Järjehoidja"
+      ],
+      "colorcodes": [
+        "#2E1F18",
+        "#B6CFCF",
+        "#E6D4A9",
+        "#F5F5F5",
+        "#9E2D30",
+        "#5A4B3A"
+      ],
+      "texts": [
+        "BETTI ALVER",
+        "LUULE",
+        "ANTOLOOGIAD LAULIKUD",
+        "RAOUL KURVITZ",
+        "Attitude...",
+        "HERBERT SALU",
+        "Seid Umschlungen...",
+        "MARDI VAIGEMAA",
+        "I had my first interest in poetry when I was in first grade"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid, teisel pildil on lisatud ingliskeelne subtiiter 'I had my first interest in poetry when I was in first grade' pildi alumisse ossa."
+      ],
+      "snr": "004",
+      "ajad": [
+        "100.880",
+        "104.920"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud eakas mees, kellel on pikk valge habe ja kiilas pealagi, seljas must pikkade varrukatega särk ja heledad traksid. Ta istub hubases toas, mis on täis raamaturiiuleid. Raamaturiiulid on tumepruunid ja tihedalt täidetud mitmesuguste raamatutega, millest mõned on punase või rohelise seljaga. Paremal seinal on helepuidust raamitud mustvalge foto noorest poisist. Mees räägib, vahel vaatab üles ja küljele, vahel otse kaamerasse, ning kolmandal kaadril žestikuleerib mõlema käega. Ekraani allosas on valged subtiitrid, mis kuvavad tema juttu.",
+      "actions": [
+        "Mees räägib",
+        "Mees vaatab üles",
+        "Mees vaatab kaamerasse",
+        "Mees žestikuleerib kätega"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Habe",
+        "Kiilaspea",
+        "Raamatud",
+        "Raamaturiiul",
+        "Siseruum",
+        "Intervjuu",
+        "Kirjandus",
+        "Luule",
+        "Hubane",
+        "Intellektuaalne",
+        "Traksid",
+        "Portree",
+        "Mälestus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Eakas mees",
+        "Valge habe",
+        "Must särk",
+        "Heledad traksid",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Puidust sein",
+        "Raamitud foto",
+        "Noor poiss fotol",
+        "Tool"
+      ],
+      "colorcodes": [
+        "#362518",
+        "#000000",
+        "#FFFFFF",
+        "#C7B7A3",
+        "#8B0000",
+        "#6B7B6B",
+        "#C89F7D"
+      ],
+      "texts": [
+        "I had my first interest in poetry when I was in first grade",
+        "Bernard Kangro have said",
+        "and this made their imagination work",
+        "Marie Under",
+        "Unde",
+        "Karl Ristikivi",
+        "Jaan Kross"
+      ],
+      "persons": [
+        "Eakas mees (intervjueeritav)",
+        "Noor poiss (fotol)",
+        "Bernard Kangro (mainitud)",
+        "Marie Under (raamatutel mainitud)",
+        "Karl Ristikivi (raamatutel mainitud)",
+        "Jaan Kross (raamatutel mainitud)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe pilk on esimeses ja teises kaadris suunatud üles ja paremale, kolmandas kaadris aga otse kaamerasse.",
+        "Esimeses ja teises kaadris on mehe käed puhkeasendis või ei ole nähtavad, kolmandas kaadris aga žestikuleerib ta mõlema käega.",
+        "Subtiitrite tekst muutub igas kaadris, kajastades edasijõudmist jutustuses."
+      ],
+      "snr": "005",
+      "ajad": [
+        "104.920",
+        "146.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest, kellel on pikk valge habe ja kiilas pea, istumas toas, mis on täidetud raamaturiiulitega. Mees kannab musta pika varrukaga särki ja heledaid (tõenäoliselt valgeid või helehalle) traksid. Ta on näost kaamera poole pööratud ja räägib, suu on avatud. Tema taga on tumedast puidust raamaturiiulid, mis on tihedalt täis mitmesuguseid raamatuid, mille hulgas on ka eestikeelseid teoseid nagu 'Marie Under', 'Karl Ristikivi' ja 'Aino Kallas'. Riiulite taga on ka puidust seinapaneelid. Paremal seinal on must-valge foto naeratavast noorest poisist. Üleval paremal nurgas on näha ka dekoratiivne rohekas-pronksjas lambivalgusti. Ühel pildil žestikuleerib mees mõlema käega oma pea poole, teistel piltidel on käed all. Stseen on üldiselt soojades toonides, pakkudes hubast ja intellektuaalset õhkkonda.",
+      "actions": [
+        "Mees räägib",
+        "Mees žestikuleerib kätega pea poole (esimesel pildil)",
+        "Mees vaatab kaamerasse",
+        "Mees mõtiskleb"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Valge habe",
+        "Traksid",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Siseruum",
+        "Jutustamine",
+        "Žestikuleerimine",
+        "Mõtisklev",
+        "Hubane",
+        "Intellektuaalne",
+        "Puitpaneelid",
+        "Must-valge foto",
+        "Eesti kirjandus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Vanem mees",
+        "Must särk",
+        "Valged traksid",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Puidust seinapaneelid",
+        "Raamitud must-valge foto (poisist)",
+        "Lambivalgusti",
+        "Tooli seljatugi/käetugi"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#D3D3D3",
+        "#5A3B2A",
+        "#8B4513",
+        "#F5F5F5",
+        "#4A7D5C",
+        "#B0C4DE"
+      ],
+      "texts": [
+        "and this made their imagination work",
+        "where it was parallel to everyday life",
+        "Marie Under",
+        "Karl Ristikivi",
+        "Vikerkaar",
+        "Aino Kallas"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil žestikuleerib mees mõlema käega pea poole, teistel piltidel on käed all.",
+        "Esimesel pildil on subtiiter 'and this made their imagination work', teisel pildil 'where it was parallel to everyday life', kolmandal pildil subtiitrit ei ole.",
+        "Mehe näoilme ja pilgu suund varieerub kergelt piltide vahel, näidates erinevaid kõnefaase."
+      ],
+      "snr": "006",
+      "ajad": [
+        "146.920",
+        "178.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tihedalt täidetud tumedast puidust raamaturiiulit, mis on servast servani raamatutega kaetud. Kaamera liigub aeglaselt üle riiulite, alustades ülemistest osadest ja laskudes allapoole, et paljastada üha uusi raamatute kihte. Riiulitel on näha väga mitmekesine raamatukogu, mis koosneb nii vanadest, kulunud köidetest kui ka uuematest, värvilisemate selgadega teostest. Paljudel raamatutel on heledad, beezikad või valged seljad, kuid leidub ka siniseid, punaseid ja musti toone. Mõned köited on selgelt vanamoelised, kollakate lehtede ja kulunud kaantega, andes edasi ajaloo hõngu. Riiulitel on raamatud organiseeritud tihedalt üksteise kõrvale ja isegi virnastatud, täites iga vaba nurga. Ülemistel riiulitel on lisaks raamatutele märgata ka väiksemaid dekoratiivesemeid, näiteks valge tassi moodi anum ja väike purk punase sisuga, mis lisavad stseenile isikupära. Valgus on pehme, tuues esile raamatute tekstuurid ja tekitades sügava, hubase atmosfääri.",
+      "actions": [
+        "Kaamera liigub sujuvalt allapoole mööda raamaturiiulit",
+        "Kaamera fookustab erinevatele raamaturiiuli osadele"
+      ],
+      "keywords": [
+        "Raamatud",
+        "Raamaturiiul",
+        "Kogu",
+        "Lugemine",
+        "Vana raamat",
+        "Kirjandus",
+        "Kodu",
+        "Antiikesemed",
+        "Tartu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Raamatud",
+        "Raamaturiiul",
+        "Väike valge tass/anum",
+        "Väike purk punase sisuga (küünal või dekoratiivese)"
+      ],
+      "colorcodes": [
+        "#32251D",
+        "#F0F0F0",
+        "#D9C28D",
+        "#6699CC",
+        "#CC3333",
+        "#DCD2BE",
+        "#0A0A0A"
+      ],
+      "texts": [
+        "HENRIK VISNAPUU",
+        "LUULETUSED",
+        "VALITUD KIRJAND",
+        "KEELEST JA KÕNELEMISEST",
+        "POREETIKA PÕHIJOONED",
+        "MARIE UNDER",
+        "KOGUTUD LUULETUSED",
+        "PÄIKE JA JÕGI",
+        "I started to go to book antiques in Tartu"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0-5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris on fookuses raamaturiiuli ülemine osa, näidates mõningaid vanu köiteid ja valget anumat.",
+        "Teises kaadris on kaamera liikunud allapoole, hõlmates riiulite keskmist osa, kus on tihedalt erinevaid raamatuid ja nähtav on ka punase sisuga purk.",
+        "Kolmandas kaadris on kaamera laskunud veelgi madalamale, paljastades alumised riiulid, mis on samuti raamatutega täidetud. Selles kaadris on ekraanile lisatud ingliskeelne pealkiri \"I started to go to book antiques in Tartu\"."
+      ],
+      "snr": "007",
+      "ajad": [
+        "178.320",
+        "186.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat, valgehabemelist ja kiilaspäist meest, kes kannab musta särki ja heledaid traksid, istumas siseruumis raamatutega täidetud keskkonnas. Mees räägib, vaadates veidi paremale (vaataja vasakule). Tema nägu on kortsuline ja ta kannab prille otsaesisel. Tagaplaan on domineerivalt kaetud tumedate raamaturiiulitega, mis on tihedalt täidetud lugematute erinevas suuruses ja värvis raamatutega. Mõned raamatute pealkirjad, nagu \"Marie Under\" ja \"Karl Ristikivi\", on osaliselt nähtavad. Riiulite kõrval, paremal pool, on valge raamiga pilt, millel on mustvalge foto naeratavast noorest poisist. Ülemises paremas nurgas on osaliselt nähtav rohelise sisemusega metallikvalgusti. Stseenil valitseb hubane ja intellektuaalne õhkkond.",
+      "actions": [
+        "Istub",
+        "Räägib"
+      ],
+      "keywords": [
+        "Eakas mees",
+        "Valge habe",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Traksid",
+        "Must särk",
+        "Siseruum",
+        "Hubane",
+        "Intellektuaalne",
+        "Portree",
+        "Kodu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Eakas mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Traksid",
+        "Must särk",
+        "Prillid",
+        "Raamitud pilt",
+        "Puitsein",
+        "Valgusti",
+        "Tooli käetugi"
+      ],
+      "colorcodes": [
+        "#202020",
+        "#F5F5F5",
+        "#403020",
+        "#8B4513",
+        "#3CB371",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "i started to go to book antiques in Tartu",
+        "theoretical math",
+        "Marie Under",
+        "Karl Ristikivi"
+      ],
+      "persons": [
+        "Eakas mees",
+        "Noor poiss (pildil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe suu asend on kaadrite vahel veidi erinev (suu on teises ja kolmandas kaadris rohkem avatud).",
+        "Subtiitrid muutuvad kaadrite vahel: esimeses kaadris on subtiiter 'i started to go to book antiques in Tartu', teises kaadris 'theoretical math' ja kolmandas kaadris subtiitrid puuduvad."
+      ],
+      "snr": "008",
+      "ajad": [
+        "186.520",
+        "245.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähiplaanis raamaturiiuli osa, mis on tihedalt täidetud raamatute ja mõne dekoratiivesemega. Kesksel kohal on heleda kaanega raamat pealkirjaga \"ÄRA UNUSTA MIND\" ja \"Salmik-päevaraamat\", millel on kaunis lilleline illustratsioon roosade ja valgete rooside ning siniste õitega. Selle raamatu all on rida teisi raamatuid, mille selgadel on näha erinevaid värve ja pealkirju, näiteks \"silmapilgud\" ja \"RALF PARVE\". Riiuli ülemisel osal on üks pruunika tooniga raamat, millel on märkamatult keeruline kiri, mis meenutab runeteksti või stiliseeritud märke. Raamatute kõrval, paremal pool, on läbipaistvast klaasist või kristallist kauss, mis on täidetud kreeka pähklitega. Vasakul all on näha ka läbipaistvast materjalist dekoratiivne nõu, mis võib olla kristallkauss või -tuhatoos. Üldine atmosfäär on kodune ja hubane, viidates lugemislembesele keskkonnale. Ülemises keskel on näha udune valguslaik või peegeldus.",
+      "actions": [],
+      "keywords": [
+        "raamaturiiul",
+        "raamatud",
+        "kodu",
+        "lugemine",
+        "kristallkauss",
+        "kreeka pähklid",
+        "vintage",
+        "dekoratsioon",
+        "lilled",
+        "roosid",
+        "kirjandus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "raamat",
+        "raamaturiiul",
+        "kristallkauss",
+        "kreeka pähklid",
+        "kristallnõu",
+        "lilleillustratsioon"
+      ],
+      "colorcodes": [
+        "#EDE4D8",
+        "#8C573A",
+        "#507D6D",
+        "#E098A2",
+        "#E8E8E8",
+        "#9E6C4C",
+        "#F0F0F0"
+      ],
+      "texts": [
+        "ÄRA UNUSTA MIND",
+        "Salmik-päevaraamat",
+        "silmapilgud",
+        "RALF PARVE",
+        "ARANDI",
+        "LΔNÐΔ HΣNIIΔ"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on kerge fookuse või valguslaigu liikumine kaadri ülemises osas, kus udune valge triip veidi muutub. Raamatute ja esemete paigutus ja sisu jäävad kõigil piltidel samaks."
+      ],
+      "snr": "009",
+      "ajad": [
+        "245.480",
+        "249.240"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud eakas mees, kellel on pikk valge habe ja kes kannab musta pikavarrukat särki ning heledaid traksid. Ta istub pruunikas tugitoolis, mis on vaid osaliselt nähtav. Mees vaatab otse kaamerasse või veidi paremale ja tema suu on avatud, mis viitab kõnelemisele. Taustal on tumedast puidust riiulid, mis on tihedalt täidetud erinevate raamatutega. Riiulite taga on näha ka puidust seinapaneelid. Parempoolsel seinal ripub raamitud mustvalge foto noorest poisist, kes naeratab. Ülal paremal paistab seina külge kinnitatud lamp. Valgustus on soe ja kutsuv, luues ruumi hubase ja intellektuaalse atmosfääri.",
+      "actions": [
+        "Kõnelemine",
+        "Istumine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Eakas mees",
+        "Habe",
+        "Traksid",
+        "Raamatukogu",
+        "Hubane",
+        "Intellektuaalne",
+        "Mustvalge foto",
+        "Kõnelemine",
+        "Sisekujundus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Eakas mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Tugitool",
+        "Lambi valgusti",
+        "Puidust sein",
+        "Raamitud foto",
+        "Traksid",
+        "Must särk"
+      ],
+      "colorcodes": [
+        "#120f0a",
+        "#3a2d24",
+        "#d1d1d1",
+        "#8e745f",
+        "#4e3e34",
+        "#c2c2c2",
+        "#f0f0f0"
+      ],
+      "texts": [
+        "and let me say, from this 700 days",
+        "myself",
+        "Marie Under",
+        "Karl Ristikivi",
+        "Aino Kallas",
+        "UNDEN"
+      ],
+      "persons": [
+        "Eakas mees",
+        "Noor poiss (fotol)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevus on subtiitrite olemasolus ja sisus. Esimesel pildil subtiitrid puuduvad, teisel pildil on subtiitrid \"and let me say, from this 700 days\" ning kolmandal pildil on subtiitrid \"myself\".",
+        "Mehe näoilme ja suu asend varieeruvad kergelt kõnelemise käigus."
+      ],
+      "snr": "010",
+      "ajad": [
+        "249.240",
+        "284.760"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõttes paksu virna paberitega, mis on seotud tumesinise kaanega ja meenutab kas mahukat kausta või raamatut. Paberite servadest ulatuvad välja arvukad kollased paberist järjehoidjad, millele on käsitsi kirjutatud nimed või märksõnad, näiteks 'RAHUL', 'KRISTI', 'SALVE', 'SEM'. See annab edasi süsteemse organiseerimise ja detailse viitamise tunde. Vasakul pool on fookusest väljas ja kergelt punakates toonides inimese käsi, mis viitab sooja valgustusele ja viitab, et keegi on dokumentidega aktiivselt seotud. Üldine atmosfäär on vaikne ja keskendunud. Kaadris on ka subtiitrid, mis annavad stseenile narratiivse konteksti, viidates isiklikule taustale ja haridusele.",
+      "actions": [
+        "Vaatlemine",
+        "Organiseerimine (implied)",
+        "Lugemine (implied)"
+      ],
+      "keywords": [
+        "Dokumendid",
+        "Arhiiv",
+        "Uurimine",
+        "Haridus",
+        "Mälestused",
+        "Käsitöö",
+        "Indeks"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Paberivirn",
+        "Kaust",
+        "Järjehoidjad",
+        "Sinine kaas",
+        "Inimese käsi"
+      ],
+      "colorcodes": [
+        "#314470",
+        "#C6A275",
+        "#E7E0D3",
+        "#6E4639"
+      ],
+      "texts": [
+        "myself",
+        "I studied in Moscow to become a science film operator",
+        "RAHUL",
+        "KRISTI",
+        "SALVE",
+        "SEM"
+      ],
+      "persons": [
+        "Üks isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt sisaldab subtiitrit 'myself'.",
+        "Teine ja kolmas pilt sisaldavad subtiitrit 'I studied in Moscow to become a science film operator'.",
+        "Visuaalselt on kõik kolm pilti praktiliselt identsed, peamine erinevus on subtiitrite tekstis."
+      ],
+      "snr": "011",
+      "ajad": [
+        "284.760",
+        "289.040"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõtet inimkäest, mis manipuleerib virna väikeste paberist või kaardist esemetega, mis meenutavad filminäidiseid või silte. Käe sõrmed on kergelt kõverdatud ja hoiavad esemeid, mida nad paigutavad või sirvivad. Esinevad on väikesed ristkülikukujulised paberitükid, millest mõnel on tekst või logo. Taust on udune ja tume, mis viitab siseruumile või selektiivsele valgustusele. Kaadrit saadavad alltekstid, mis kirjeldavad tegelase varasemaid õpinguid ja debüütfilmi.",
+      "actions": [
+        "esemete manipuleerimine",
+        "esemete hoidmine",
+        "esemete sirvimine",
+        "rääkimine (kaudselt subtiitrite kaudu)"
+      ],
+      "keywords": [
+        "käsi",
+        "paberid",
+        "sildid",
+        "filmilindid",
+        "lähivõte",
+        "subtiitrid",
+        "haridus",
+        "film",
+        "loodusvaated",
+        "Kõrvemaa",
+        "Moskva"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "käsi",
+        "paberist esemed",
+        "kaardid",
+        "sildid",
+        "logo (sinine ja roheline)",
+        "punane objekt (udune taustal)"
+      ],
+      "colorcodes": [
+        "#5A3C32",
+        "#1A1A1A",
+        "#FFFFFF",
+        "#C0C0C0",
+        "#34A853",
+        "#4285F4",
+        "#CC3333"
+      ],
+      "texts": [
+        "I studied in Moscow to become a science film operator",
+        "let me say, my debut film was \"Kõrvemaa sügis\"",
+        "it cointains nature views in Kõrvemaa",
+        "SALM",
+        "EIN"
+      ],
+      "persons": [
+        "inimene (käsi)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "käe asend ja sõrmede liikumine on kaadrite vahel minimaalselt muutunud, viidates pidevale tegevusele",
+        "fookus nihkub kergelt esemetel, tuues esile erinevaid detaile ja tekste paberitel",
+        "teise kaadri ajal ilmub paremal ülemises nurgas olevatele kaartidele selgemalt sinine ja roheline logo",
+        "kolmandas kaadris on vasaku käe lähedal selgemalt näha sildil tekst 'SALM' ja taustal udune punane objekt"
+      ],
+      "snr": "012",
+      "ajad": [
+        "289.040",
+        "300.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt paksu raamatut või käsikirja, mis on tihedalt märgitud ja varustatud arvukate järjehoidjatega. Kahes esimeses kaadris on fookuses raamatu serv, kust ulatub välja mitut värvi paberist ja kleepuvatest järjehoidjatest virn, mis annab edasi põhjaliku uurimistöö või süvenemise tunde. Kolmandas kaadris on fookus nihkunud avatud leheküljele, kus on selgelt näha eestikeelne tekst. Kaadris on näha ka inimkäsi, mis osutab pastaka või sõrmega tekstile, rõhutades interaktsiooni materjaliga. Taust on kõikides kaadrites udune, vihjates sisetingimustele, võimalikule raamatukogule või kabinetile.",
+      "actions": [
+        "Raamatu uurimine",
+        "Järjehoidjate paigutamine/kasutamine",
+        "Teksti lugemine",
+        "Tekstile osutamine"
+      ],
+      "keywords": [
+        "Raamat",
+        "Käsikiri",
+        "Järjehoidjad",
+        "Uurimistöö",
+        "Akadeemiline",
+        "Lugemine",
+        "Märkmed",
+        "Tekst",
+        "Eestikeelne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Raamat",
+        "Järjehoidjad (paberist ja kleepmärkmed)",
+        "Raamatu lehed",
+        "Käsi",
+        "Pastakas (või sarnane osutamise abivahend)"
+      ],
+      "colorcodes": [
+        "#87CEEB",
+        "#FFFF00",
+        "#A0522D",
+        "#800080"
+      ],
+      "texts": [
+        "it cointains nature views in Kõrvemaa",
+        "and then also Anton Hansen Tammsaare thoughts",
+        "I was lucky to be behind the camera",
+        "ЭѴГЕ (tagurpidi või stiliseeritud lilla järjehoidjal)",
+        "Röövkapital (eestikeelne raamatu lehel)",
+        "Masin (eestikeelne raamatu lehel)",
+        "eest (eestikeelne raamatu lehel)",
+        "sõnast (eestikeelne raamatu lehel)",
+        "mõte (eestikeelne raamatu lehel)",
+        "olles (eestikeelne raamatu lehel)",
+        "meie (eestikeelne raamatu lehel)",
+        "euroopal (eestikeelne raamatu lehel)",
+        "inimene (eestikeelne raamatu lehel)",
+        "vähem (eestikeelne raamatu lehel)",
+        "elu (eestikeelne raamatu lehel)",
+        "põhja (eestikeelne raamatu lehel)",
+        "kõik (eestikeelne raamatu lehel)",
+        "nagu (eestikeelne raamatu lehel)",
+        "kogu (eestikeelne raamatu lehel)"
+      ],
+      "persons": [
+        "Üks isik (käe järgi)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevad kaamera nurgad raamatule: esimesed kaks keskenduvad raamatu servale ja järjehoidjatele, kolmas avatud leheküljele.",
+        "Kaadris 3 on näha inimkäsi, mis osutab tekstile, samas kui kaadrites 1 ja 2 on fookus ainult raamatul.",
+        "Igal kaadril on erinev ingliskeelne subtiiter."
+      ],
+      "snr": "013",
+      "ajad": [
+        "300.000",
+        "311.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast siseruumi, kus kesksel kohal on vanem mees, kes on riietatud musta pika varrukaga särki ja kannab heledaid traksid. Tal on pikk, kohev valge habe ja pealaelt on ta kiilas. Mees istub toolil, paberid vasakus käes, ning tema suu on kergelt avatud, mis viitab rääkimisele või jutustamisele. Mehe taga vasakul pool on tume puust raamaturiiul, mis on tihedalt täidetud mitmesuguste raamatutega. Riiuli alumisel osal on näha ka teisi raamatuid virnas. Paremal pool mehe taga on hele puitpaneeliga sein, millel ripub raamitud mustvalge foto naeratavast noorest poisist. Üleval paremas nurgas on osaliselt näha rohelise kupliga lamp. Valgustus on soe ja hubane, iseloomulik siseruumile.",
+      "actions": [
+        "rääkimine",
+        "istumine",
+        "paberite hoidmine"
+      ],
+      "keywords": [
+        "vanem mees",
+        "habe",
+        "raamaturiiul",
+        "raamatud",
+        "traksid",
+        "portree",
+        "siseruum",
+        "jutustus",
+        "mõtiskelu",
+        "valge habe",
+        "puitpaneelid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "vanem mees",
+        "raamaturiiul",
+        "raamatud",
+        "tool",
+        "paberid",
+        "särk",
+        "traksid",
+        "seinapaneelid",
+        "raamitud foto",
+        "lamp",
+        "hõbedane vaas/pokal"
+      ],
+      "colorcodes": [
+        "#1C1A1B",
+        "#EAECEF",
+        "#C5C6C6",
+        "#3B3026",
+        "#886C4A",
+        "#4C5D4B",
+        "#E3E2E2"
+      ],
+      "texts": [
+        "I was lucky to be behind the camera",
+        "and in Raplamaa, Uku Masing's year was started",
+        "and what I saw",
+        "Uku Masing",
+        "Marie Under",
+        "Liija K...",
+        "Karl Ristikivi"
+      ],
+      "persons": [
+        "vanem mees",
+        "noor poiss (fotol)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub kaadrite vahel."
+      ],
+      "snr": "014",
+      "ajad": [
+        "311.240",
+        "383.280"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivaade inimese kätele ja sülle, kes istub mugavas pruunis soonelise tekstuuriga tugitoolis. Inimesel on seljas must pikkade varrukatega pluus ja tumedad püksid. Käed on vanema inimese käed, mis puhkavad rahulikult süles. Parempoolse käe sõrmed on veidi painutatud, puudutades reit. Taustal, fookusest väljas, on näha raamaturiiul täis erinevaid raamatuid, mis viitab sisekeskkonnale. Valgus on pehme ja loomulik sisevalgus.",
+      "actions": [
+        "Käed puhkavad süles",
+        "Istumine tugitoolis"
+      ],
+      "keywords": [
+        "Inimene",
+        "Käed",
+        "Tugitool",
+        "Raamatud",
+        "Sisekeskkond",
+        "Lähivaade",
+        "Vanadus",
+        "Rahulik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Käed",
+        "Püksid",
+        "Pluus",
+        "Tugitool",
+        "Raamaturiiul",
+        "Raamatud"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#745A42",
+        "#B6A293",
+        "#5E4E3B",
+        "#B8B8B8"
+      ],
+      "texts": [
+        "and what I saw",
+        "It took quite some time to get to the real Masing"
+      ],
+      "persons": [
+        "Vanem inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevus piltide vahel seisneb ainult ekraani allosas kuvatavas tekstis. Esimene pilt sisaldab teksti \"and what I saw\", teine pilt sisaldab teksti \"It took quite some time to get to the real Masing\". Visuaalne sisu on identne."
+      ],
+      "snr": "015",
+      "ajad": [
+        "383.280",
+        "388.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast siseruumi, tõenäoliselt raamatukogu või kodukabineti õhkkonnaga, kus domineerivad raamaturiiulid, mis on tihedalt täis erinevaid raamatuid. Keskel istub vanem mees, kel on silmatorkav valge habe ja kiilakas pealagi. Ta kannab musta särki ja heledat värvi trosse. Mees vaatab kergelt üles ja paremale, tema suu on veidi avatud, justkui ta räägiks, mõtiskleks või otsiks sõnu. Tema näoilme on läbimõeldud ja keskendunud. Tagaplaanil, paremal seinal, ripub pildiraam, milles on mustvalge foto lapsest (tõenäoliselt poisist) vanamoodsas riietuses, kes teeb käega žesti. Seina tagumised osad paistavad olevat kaetud puidust paneelidega, mis lisab ruumile hubast ja sooja tunde. Kaadri allosas on aeg-ajalt nähtavad ingliskeelsed subtiitrid, mis edastavad mehe öeldut.",
+      "actions": [
+        "Mees räägib",
+        "Mees mõtiskleb"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Portree",
+        "Raamatukogu",
+        "Raamaturiiul",
+        "Eakas mees",
+        "Mõtlik",
+        "Hubane",
+        "Siseruum",
+        "Habe",
+        "Traksid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Raamaturiiulid",
+        "Raamatud",
+        "Pildiraam",
+        "Foto lapsest",
+        "Tool",
+        "Must särk",
+        "Traksid",
+        "Puidust seinapaneelid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#C0C0C0",
+        "#8B4513",
+        "#D2B48C",
+        "#F5F5DC"
+      ],
+      "texts": [
+        "It took quite some time to get to the real Masing",
+        "three years",
+        "Marie Under",
+        "Karl Ristikivi"
+      ],
+      "persons": [
+        "Eakas mees",
+        "Laps fotol"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on subtiiter: \"It took quite some time to get to the real Masing\", teisel pildil subtiitrid puuduvad, kolmandal pildil on subtiiter: \"three years\".",
+        "Mehe suu asend ja näoilme detaile on piltide vahel kergelt muutunud, mis viitab kõnelemisele või mõtteprotsessile."
+      ],
+      "snr": "016",
+      "ajad": [
+        "388.040",
+        "430.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivõtet riiulil reas seisvatest dokumentide kaustadest. Enamik kaustadest on tumepunased, üks parempoolne on must. Kaustadel on näha valgeid paberist silte, millele on musta markeriga kirjutatud kaustade sisu. Vasakpoolseimal kaustal on näha spiraalköite serva ja silti suurtähega 'y.'. Keskmisel punasel kaustal on osaliselt nähtav silt tekstiga 'UKU' ja vertikaalselt kirjutatud 'LID'. Parempoolsel mustal kaustal on osaliselt nähtav silt tekstiga 'UKU MÄSING' ja 'ARTIKLID ESS'. Kaustad on fookuses, taust on veidi udune, vihjates sügavusele ja riiulite rohkusele. Pildi allosas on näha inglisekeelseid subtiitreid.",
+      "actions": [],
+      "keywords": [
+        "kaustad",
+        "dokumendid",
+        "arhiiv",
+        "riiul",
+        "kontor",
+        "sildid",
+        "köited",
+        "tekstid"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "kaustad",
+        "punased kaustad",
+        "must kaust",
+        "valged sildid",
+        "spiraalköited"
+      ],
+      "colorcodes": [
+        "#8B0000",
+        "#000000",
+        "#FFFFFF",
+        "#D3D3D3"
+      ],
+      "texts": [
+        "y.",
+        "UKU",
+        "LID",
+        "MÄSING",
+        "ARTIKLID ESS",
+        "three years",
+        "and what else"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on subtiiter 'three years', teisel pildil on subtiiter 'and what else'. Kõik muud visuaalsed elemendid on identsed."
+      ],
+      "snr": "017",
+      "ajad": [
+        "430.120",
+        "432.360"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõttes heledanahkseid käsi, mis sirvivad paksu paberivirna või raamatut. Paberid on kreemjasvalged või vanutatud, kaetud tiheda tekstiga, mis näib olevat eesti keeles. Osadel lehtedel on näha kollaseid allajoonimisi või märkmeid. Pabervirn on märkimisväärse paksusega ja selle servadel on näha punaseid tähistusi ning väikseid paberist järjehoidjaid. Taust on tume ja fookusest väljas, suunates kogu tähelepanu kätele ja dokumentidele. Stseeni ajal muutuvad ingliskeelsed subtiitrid, mis algavad fraasiga 'and what else' ja muutuvad hiljem 'on making this story'. Üldmulje on hoolikast uurimistööst, arhiivimaterjalide käsitlemisest või loo loomisest paberite kaudu.",
+      "actions": [
+        "Paberite sirvimine",
+        "Dokumentide käsitsemine",
+        "Lehekülje keeramine"
+      ],
+      "keywords": [
+        "Dokumendid",
+        "Paberivirn",
+        "Käed",
+        "Uurimistöö",
+        "Lugemine",
+        "Arhiiv",
+        "Kirjutamine",
+        "Eesti tekst",
+        "Lähivõte"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese käed",
+        "Paberid",
+        "Raamat",
+        "Dokumendivirn",
+        "Järjehoidjad",
+        "Pliiats (vihje)",
+        "Lauapind (kaudselt)"
+      ],
+      "colorcodes": [
+        "#E0C2A2",
+        "#F0F0F0",
+        "#303030",
+        "#F8E818",
+        "#B02020",
+        "#1A1A1A"
+      ],
+      "texts": [
+        "ugri-mugri",
+        "on making this story",
+        "and what else",
+        "lugema",
+        "kuluvale",
+        "isänningu",
+        "jalad"
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10-20",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Käe asend muutub, kui lehekülge keeratakse.",
+        "Paberivirna pealmise lehe sisu ja fookus muutuvad veidi.",
+        "Subtiitrite tekst muutub 'and what else' pealt 'on making this story' peale."
+      ],
+      "snr": "018",
+      "ajad": [
+        "432.360",
+        "435.320"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud eakas kiilaspäine mees pika valge habemega, kes istub siseruumis, tõenäoliselt raamatutoas või kabinetis. Tal on seljas tume, tõenäoliselt must, nööbitav pikkade varrukatega särk ning heledad traksid. Mehe näoilme muutub ja suu on enamasti avatud, mis viitab rääkimisele või vestlemisele. Tema käed on esimesel kahel pildil allpool, aga kolmandal pildil on käed tõstetud ja ta žestikuleerib. Mehe pilk on suunatud kaamerast veidi kõrvale. Taustal on tumedad puust riiulid, mis on tihedalt täidetud raamatutega. Mõnel raamatul on pealkiri nähtav, näiteks \"Marie Under\". Seina katab hele puitpaneel. Mehest paremal, seinal, ripub pildiraamis mustvalge foto noorest poisist, kes naeratab ja hoiab üht kätt üleval. Paremas ülemises nurgas on näha osa plaadimängijast või kõlarist. Stseeni alumises osas on näha subtiitreid.",
+      "actions": [
+        "Rääkimine",
+        "Žestikuleerimine",
+        "Istumine"
+      ],
+      "keywords": [
+        "Eakas mees",
+        "Valge habe",
+        "Raamaturiiul",
+        "Raamatud",
+        "Siseruum",
+        "Intervjuu",
+        "Traksid",
+        "Puitpaneelid",
+        "Foto",
+        "Plaadimängija"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Eakas mees",
+        "Habe",
+        "Traksid",
+        "Särk",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Tool",
+        "Pildiraam",
+        "Foto poisist",
+        "Plaadimängija või kõlar",
+        "Puitpaneelid"
+      ],
+      "colorcodes": [
+        "#0B0A0A",
+        "#FCFCFC",
+        "#8F511E",
+        "#A7A6A6",
+        "#F4DAB5"
+      ],
+      "texts": [
+        "on making this story",
+        "estonian literature elite",
+        "What is Toomas Paul's part",
+        "Marie Under",
+        "Silja"
+      ],
+      "persons": [
+        "Eakas mees (tõenäoliselt Toomas Paul)",
+        "Poiss (fotol)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub iga pildiga, kuvades eri lauseid.",
+        "Mehe suu asend ja näoilme muutuvad, mis näitab kõnelemist.",
+        "Kolmandal pildil on mehel käed tõstetud ja ta žestikuleerib, samas kui kahel esimesel pildil on käed allpool, kaadrist väljas."
+      ],
+      "snr": "019",
+      "ajad": [
+        "435.320",
+        "480.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivõtet riiulist või lauapinnast, kus vasakul asub tume (tõenäoliselt must või tumepruun) rõngasköitja, mille vasakul küljel on näha üks hõbedane metallist avaus. Paremal pool seisab reas mitu raamatut, mille seljad on erkpunased ja kaunistatud valge-punase mustrilise kaptaaliga ülemisel serval. Raamatute lehed, mis moodustavad seljade kõrval vertikaalsed ribad, on heledad, kreemjasvalged või kollakad. Taustal ülal paremal on märgata hägust, sooja tooniga detaili, mis võib olla riiuliäär või muu sisustuselement. Valgus langeb objektidele, tuues esile nende tekstuurid ja andes stseenile sügavust. Kaadris domineerivad paksud raamatud ja kaust, viidates õppe- või töökeskkonnale.",
+      "actions": [
+        "Ei mingeid tegevusi"
+      ],
+      "keywords": [
+        "raamatud",
+        "riiul",
+        "köitja",
+        "õppimine",
+        "uurimine",
+        "lähivõte",
+        "sisetingimused",
+        "punane",
+        "must",
+        "valge",
+        "tekst",
+        "dokumentatsioon"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "rõngasköitja",
+        "raamatud",
+        "riiul (osaliselt)"
+      ],
+      "colorcodes": [
+        "#2D2D2D",
+        "#C23333",
+        "#F8EDD7",
+        "#C0C0C0",
+        "#6F4A2C"
+      ],
+      "texts": [
+        "What is Toomas Paul's part",
+        "I had to do a lot of research before the interviews"
+      ],
+      "persons": [
+        "Toomas Paul (nimetatud tekstis, pole nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt sisaldab valget teksti \"What is Toomas Paul's part\" kaadri allosas. Kolmas pilt sisaldab valget teksti \"I had to do a lot of research before the interviews\" kaadri allosas. Teisel pildil puudub tekst. Muud visuaalsed erinevused piltide vahel on minimaalsed ja seotud kaadri kerge liikumisega või fookuse muutusega."
+      ],
+      "snr": "020",
+      "ajad": [
+        "480.520",
+        "483.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest, kellel on paks valge habe ja kiilas pealagi, istumas siseruumis raamaturiiuli ja puitseina ees. Ta kannab musta nööbitavat särki ja helehalle traksisid. Ta on pööratud kaamera poole, tema pilk on enamasti ette suunatud, kuigi ühel hetkel vaatab ta kergelt allapoole. Tema taga on rikkalik raamaturiiul täis erineva suuruse ja värviga raamatuid. Paremal pool riiuli kõrval on puitpaneelidega sein, millel ripub heledas raamis mustvalge foto nooremast poisist. Valgus on pehme ja langeb mehe näole, luues intiimse ja mõtliku õhkkonna. Mehe kehakeel viitab rääkimisele või mõtisklemisele, käsi on kergelt rusikas või žestikuleeriv.",
+      "actions": [
+        "Mees räägib või mõtiskleb",
+        "Mees žestikuleerib kergelt käega"
+      ],
+      "keywords": [
+        "intervjuu",
+        "raamatukogu",
+        "vanem mees",
+        "habe",
+        "sulgurid",
+        "siseruum",
+        "raamaturiiul",
+        "mõtlik",
+        "kultuur"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "vanem mees",
+        "raamatud",
+        "raamaturiiul",
+        "puitsein",
+        "must särk",
+        "hallid traksid",
+        "tool (käetugi)",
+        "pildiraam",
+        "mustvalge foto (laps)",
+        "valge tass/vaas (riiulil)",
+        "kardin (vasakul, osaliselt nähtav)"
+      ],
+      "colorcodes": [
+        "#0d0c0c",
+        "#ffffff",
+        "#a3a097",
+        "#3a2c20",
+        "#8e817a",
+        "#b89b7b",
+        "#594d45",
+        "#cb4726"
+      ],
+      "texts": [
+        "I had to do a lot of research before the interviews",
+        "she speaks allmost perfect written language",
+        "Karl Ristikivi",
+        "Marie Under"
+      ],
+      "persons": [
+        "vanem mees",
+        "laps (fotol)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe näoilme muutub esimeselt pildilt (neuraalne/tõsine) teisele pildile (mõtlikum/kergelt allavaatav).",
+        "Mehe parema käe asend muutub: esimesel pildil on käsi lõdvemas asendis, teisel pildil on see kergelt rusikas või žestikuleeriv.",
+        "Alatiitrid on erinevad: esimesel pildil 'I had to do a lot of research before the interviews', teisel pildil 'she speaks allmost perfect written language'."
+      ],
+      "snr": "021",
+      "ajad": [
+        "483.680",
+        "571.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab detailirohket siseruumi, tõenäoliselt raamatukogu, töötoa või elutoa osa, kus fookuses on tihedalt raamatuid täis riiulid. Riiulitel on näha vanu köiteid erinevates toonides, sealhulgas silmatorkav punane raamat pealkirjaga \"EL UNUSTA\" ja teised raamatud kreemikate, hallide ja tumepruunide selgadega, millel on nii eestikeelsed kui ka kirillitsas pealkirjad, näiteks \"Põhjatus silmapilgus\", \"MAARANDI\", \"R ALF PARVE\", \"JOHANNES\" ja \"Дэвид Самойлов\". Raamatute vahel ja ees on mitmesuguseid isiklikke esemeid, mis lisavad stseenile karakterit ja hubasust. Ühes kaadris on esiplaanil detailne religioosne pilt Jeesusest ristil, koos Neitsi Maarja ja teiste leinajatega, millel on kiri \"INRI\". Teises kohas on fookuses antiikne tumepuidust kaminakell elegantse nikerdusega ja valge numbrilauaga, mille seierid näitavad umbes veerand nelja. Stseenis on näha ka mitmeid klaasist dekoratiivesemeid, näiteks lihvitud klaasist vaas või pokaal, mis lisavad läbipaistvaid ja peegeldavaid detaile. Valgus on pehme ja summutatud, luues sooja ja intiimse atmosfääri. Kaadrite allservas on näha subtiitreid, mis viitavad kõneleja mõtisklustele filmi loomisest ja ajast (\"when I started\", \"and I can say that when I finished the movie\"). Üldmulje on nostalgiline, intellektuaalne ja kodune.",
+      "actions": [
+        "Raamatute riiulil hoidmine",
+        "Aja näitamine (kell)",
+        "Mõtisklus (subtiitrid)"
+      ],
+      "keywords": [
+        "Raamatud",
+        "Vana",
+        "Vintage",
+        "Nostalgia",
+        "Intellektuaalne",
+        "Religioosne",
+        "Kodu",
+        "Siseruum",
+        "Hubane",
+        "Kogumik",
+        "Aeg",
+        "Kaminakell",
+        "Klaasnõud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Raamatud",
+        "Raamaturiiul",
+        "Puidust kaminakell",
+        "Kell (numbrilaud, seierid)",
+        "Religioosne pilt (maal või trükis)",
+        "Klaasist vaas/pokaal",
+        "Klaasist dekoratiivesemed",
+        "Rist",
+        "Siseviimistlus (sein, riiulid)"
+      ],
+      "colorcodes": [
+        "#8C2A2D",
+        "#5A3F2C",
+        "#F7F7F7",
+        "#2E2C2E",
+        "#C8B190",
+        "#E9E9E9",
+        "#3A2B1D"
+      ],
+      "texts": [
+        "EL UNUSTA",
+        "M",
+        "INRI",
+        "Põhjatus silmapilgus",
+        "MAARANDI",
+        "Дэвид Самойлов",
+        "JUHAN",
+        "VOĽODAAZAROV",
+        "R ALF PARVE",
+        "JOHANNES",
+        "AAKU",
+        "AUGUST",
+        "and I can say that when I finished the movie",
+        "when I started",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "persons": [
+        "Jeesus (pildil)",
+        "Neitsi Maarja (pildil)",
+        "Teised leinajad (pildil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Pilt 1 keskendub punasele raamatule ja religioossele pildile, näidates neid lähedalt ja teravamalt.",
+        "Pilt 2 nihutab fookuse teistele raamatutele, mis on riiulis sügavamal, sisaldab esiplaanil udust klaasobjekti ja subtiitreid, mis viitavad filmi lõpetamisele.",
+        "Pilt 3 nihutab fookuse puidust kaminakellale, mis asetseb raamatute taustal, ja sisaldab subtiitreid, mis viitavad alustamisele.",
+        "Kaadrite kompositsioonid ja nurgad varieeruvad, pakkudes erinevaid detaile ja sügavusi, kuigi kõik kaadrid on pildistatud raamaturiiulite ja nende läheduses olevate esemete juures."
+      ],
+      "snr": "022",
+      "ajad": [
+        "571.480",
+        "586.880"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanemat meest, kellel on paks valge habe ja hõrenev juuksepiir. Ta kannab musta särki heledate traksidega ja istub toas, tõenäoliselt raamatukogus või kabinetis, mida kinnitavad tema taga asuvad ulatuslikud raamaturiiulid. Mehe käed on rinna ees kokku pandud ja ta vaatab mõtliku või emotsionaalse ilmega kaamera suunas, justkui rääkides või kuulates. Paremal seinal ripub raamitud mustvalge foto noorest poisist, kes naeratab. Üleval paremal nurgas on näha ka valgusti. Üldine õhkkond on rahulik ja akadeemiline.",
+      "actions": [
+        "istub",
+        "räägib",
+        "žestikuleerib kätega"
+      ],
+      "keywords": [
+        "vanem mees",
+        "habe",
+        "raamatud",
+        "raamaturiiulid",
+        "portree",
+        "siseruum",
+        "traksid",
+        "mõtisklus",
+        "akadeemiline"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "vanem mees",
+        "habe",
+        "must särk",
+        "heledad traksid",
+        "raamaturiiulid",
+        "raamatud",
+        "raamitud foto",
+        "mustvalge foto",
+        "poiss",
+        "valgusti"
+      ],
+      "colorcodes": [
+        "#1F1F1F",
+        "#E0E0E0",
+        "#C0C0C0",
+        "#5B4433"
+      ],
+      "texts": [
+        "when I started",
+        "Marie Under",
+        "Karl Ristikivi"
+      ],
+      "persons": [
+        "vanem mees",
+        "poiss (fotol)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0-5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha subtiiter \"when I started\", samas kui teisel pildil see puudub.",
+        "Mehe käte asend on esimesel ja teisel pildil veidi erinev.",
+        "Teisel pildil on mehe pilk suunatud veidi kõrgemale kui esimesel pildil.",
+        "Kolmas pilt on väga tume, peaaegu must, andes märku stseeni üleminekust või lõpust, samas kui esimesed kaks pilti on hästi valgustatud."
+      ],
+      "snr": "023",
+      "ajad": [
+        "586.880",
+        "748.040"
+      ]
+    }
+  ]
+}

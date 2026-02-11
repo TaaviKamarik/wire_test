@@ -1,0 +1,490 @@
+{
+  "film": [
+    "18718",
+    "18573",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Intervjuu Hans Roosipuuga",
+    "cb0a53d736ed5b50c06ffdb74ff86f28a41c7391.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen koosneb peamiselt sügavast mustast taustast, mis on valdavalt pime. Esimesel pildil on keskel, veidi vasakule nihutatuna, näha kolm udust, heledat hallikasvalget ringikujulist valguspunkti, mis meenutavad bokeh-efekti. Need valguspunktid on eri intensiivsusega – kaks neist on eredamad ja üks veidi tuhmim, ning paiknevad kolmnurkses asetuses. Teisel pildil on samad valguspunktid peaaegu täielikult kadunud, jättes endast alles vaid vaevumärgatava, äärmiselt nõrga jälje ühest alumisest punktist. Kolmandal pildil on stseen aga täiesti must, ilma igasuguste nähtavate valguspunktideta, andes edasi täieliku pimeduse ja tühjuse tunde. Stseen on minimalistlik ja abstraktne, keskendudes valguse ja pimeduse kontrastile ning muutumisele.",
+      "actions": [
+        "Uduste valguspunktide intensiivsuse vähenemine",
+        "Valguspunktide kadumine mustalt taustalt"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Must taust",
+        "Bokeh",
+        "Udused valguspunktid",
+        "Abstraktne",
+        "Minimalistlik",
+        "Tühjus",
+        "Kadumine",
+        "Valguse muutumine",
+        "Kontrast"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Udused valguspunktid",
+        "Bokeh-punktid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#F0F0F0",
+        "#E0E0E0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "98",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on kolm selgelt nähtavat ja eredat udust valguspunkti, mis paiknevad kolmnurkses konfiguratsioonis.",
+        "Teisel pildil on valguspunktid peaaegu kadunud, näha on vaid üksik, äärmiselt nõrk jälg ühest alumisest punktist.",
+        "Kolmandal pildil on stseen täiesti must, ilma igasuguste valguspunktideta.",
+        "Valguspunktide eredus ja nähtavus väheneb järjestikuste piltide vahel drastiliselt, kuni täieliku kadumiseni."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "13.760"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha vanemat heledate juustega meest, kes istub heledal pruunil nahkdiivanil. Mees kannab punast kraega särki, mille peal on hall triibuline kampsun. Ta vaatab kergelt ülespoole ja paremale, näib rääkivat või monoloogi pidavat. Tagaplaaniks on tagasihoidlik heledat tooni sein. Valgustus on pehme ja ühtlane, viitades siseruumile, tõenäoliselt kodusele keskkonnale. Kahel pildil kolmest on näha alumises osas kollakasrohelised subtiitrid.",
+      "actions": [
+        "Istumine",
+        "Rääkimine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Diivan",
+        "Nahkdiivan",
+        "Siseruum",
+        "Subtiitrid",
+        "Punane särk",
+        "Hall kampsun",
+        "Vestlus",
+        "Pilt",
+        "Kaamera"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Diivan",
+        "Sein",
+        "Särk",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#E8E8E8",
+        "#B42828",
+        "#8A8A8A",
+        "#C8AC8F",
+        "#A99B8B",
+        "#C0FA00",
+        "#D2A482"
+      ],
+      "texts": [
+        "The image must be sharp",
+        "nowadays the camera does it itself, no problem at all"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on subtiiter \"The image must be sharp\", mehe suu on veidi lahti.",
+        "Teisel pildil on subtiiter \"nowadays the camera does it itself, no problem at all\", mehe suu on rohkem avatud ja ta näib kõneleva.",
+        "Kolmandal pildil puuduvad subtiitrid, mehe suu on kinni või peaaegu kinni ja ilme on neutraalsem.",
+        "Väikesed erinevused mehe näoilmes ja suu asendis on tingitud rääkimisest."
+      ],
+      "snr": "002",
+      "ajad": [
+        "13.760",
+        "69.880"
+      ]
+    },
+    {
+      "explanation": "Stseen on täielikult must, ilma igasuguste detailide, objektide või figuurideta. Piltidel valitseb absoluutne pimedus, mis ei anna vähimatki vihjet sisu, asukoha või tegevuse kohta. Kõik kolm kaadrit on identsed ja musta värvi.",
+      "actions": [],
+      "keywords": [
+        "pime",
+        "must",
+        "pimedus",
+        "tühjus",
+        "udu",
+        "öö",
+        "varjudeta"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [],
+      "snr": "003",
+      "ajad": [
+        "69.880",
+        "75.440"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kesksel kohal eakas, hõbehallide juustega mees, kes istub heledal, arvatavasti nahast diivanil ja vaatab otse kaamerasse. Tema ilme on rahulik ja tõsine. Mees kannab punast kraega särki ja halli avarat kampsunit. Ta käed puhkavad süles. Tausta moodustab tekstuuriga, pruunikas sein. Diivani paremal küljel on näha mustriline padi. Valgus on pehme ja ühtlane, luues intiimse ja jutustava meeleolu. Tundub, et tegemist on intervjuu või isikliku loo jutustamise hetkega, mida kinnitavad hilisemates kaadrites ilmuvad subtiitrid.",
+      "actions": [
+        "Istub diivanil",
+        "Vaatab otse kaamerasse",
+        "Räägib (subtiitritest järeldatav)"
+      ],
+      "keywords": [
+        "Eakas mees",
+        "Intervjuu",
+        "Siseinterjöör",
+        "Jutustus",
+        "Diivan",
+        "Subtiitrid",
+        "Portree",
+        "Rahulik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Eakas mees",
+        "Diivan",
+        "Padi",
+        "Sein",
+        "Punane särk",
+        "Hall kampsun",
+        "Tumedad püksid"
+      ],
+      "colorcodes": [
+        "#C7AE97",
+        "#9B8978",
+        "#D23A3A",
+        "#A5A5A5",
+        "#252424",
+        "#937A6A",
+        "#FFFF00"
+      ],
+      "texts": [
+        "and I was born on 1931 in Tartumaa"
+      ],
+      "persons": [
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid, samas kui teisel ja kolmandal pildil on näha kollased subtiitrid tekstiga \"and I was born on 1931 in Tartumaa\".",
+        "Isiku poos, riietus, taust ja valgustus on kõigil piltidel identsed, viidates järjestikustele kaadritele samast stseenist."
+      ],
+      "snr": "004",
+      "ajad": [
+        "75.440",
+        "94.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat hallipäist meest, kes istub heledal nahkdiivanil. Mehel on seljas punane kraega särk ja hall nööpidega kampsun. Ta räägib kaamera poole ja tema kõnet ilmestavad inglisekeelsed kollased subtiitrid, mis kuvatakse kaadri allosas. Tagaplaaniks on lihtne helepruun või beež sein, mis loob rahuliku ja tagasihoidliku atmosfääri. Diivani paremal küljel on näha tumedama mustriga padjakatet. Mehe näoilme ja suu asend muutuvad kaadrite vahel vastavalt rääkimisele, vihjates jutustamisele või mõtisklusele. Üldine kaadri kompositsioon on keskendatud mehele, rõhutades tema lugu ja isiksust.",
+      "actions": [
+        "Rääkimine",
+        "Jutustamine",
+        "Istumine",
+        "Suu avamine"
+      ],
+      "keywords": [
+        "Eakas mees",
+        "Intervjuu",
+        "Jutustus",
+        "Siseinterjöör",
+        "Diivan",
+        "Vanadus",
+        "Vestlus",
+        "Hallid juuksed",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Diivan",
+        "Mehe särk",
+        "Mehe kampsun",
+        "Sein",
+        "Dekoratiivpadi"
+      ],
+      "colorcodes": [
+        "#DDC3AE",
+        "#A89D8B",
+        "#CB2C2D",
+        "#A5A5A5",
+        "#FFFFFF",
+        "#FFFF00"
+      ],
+      "texts": [
+        "and they were interested and I did some",
+        "he came to check the newspapers at night, to read the mistakes"
+      ],
+      "persons": [
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe näoilme ja suu asend varieeruvad rääkimise käigus.",
+        "Alumises osas nähtavad kollased subtiitrid on erinevad, esitades jutu eri lõike.",
+        "Esimeses kaadris paistab mees pisut naeratavat ja vaatab veidi paremale, teistes kaadrites on ta tõsisem ja vaatab otsemalt kaamera poole."
+      ],
+      "snr": "005",
+      "ajad": [
+        "94.160",
+        "185.120"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha eakas valgete juustega mees, kes istub heledal nahkdiivanil. Tal on seljas punane kraega särk ja hall soonikkoes kampsun. Mees räägib midagi, vaadates otse kaamerasse, mis annab stseenile intervjuu või jutustuse ilme. Tema näoilme on mõtlik ja siiras, suu on kergelt avatud, justkui ta oleks kõnelemise keskel. Esimesel pildil osutab ta parema käe nimetissõrmega oma oimukohale, justkui meenutaks midagi või tsiteeriks oma mõtteid. Taustaks on ühevärviline pruunikas-beež sein. Diivanil paremal on näha ka pruunikas mustriga padi. Subtiitrid pakuvad konteksti, et ta räägib tööst ja eelkõige assistentidest filmimaailmas, mainides nii enda palumist tööd saada kui ka teise isiku isa assistendina töötamist.",
+      "actions": [
+        "Rääkimine",
+        "Žestikuleerimine (osutab peale)"
+      ],
+      "keywords": [
+        "Vana mees",
+        "Diivan",
+        "Vestlus",
+        "Intervjuu",
+        "Mälestused",
+        "Filmitööstus",
+        "Assistent",
+        "Operaator",
+        "Töö"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Vana mees",
+        "Nahkdiivan",
+        "Padi",
+        "Särk",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#A98F7A",
+        "#DDC3AE",
+        "#AA3333",
+        "#8F8F8F",
+        "#F0EFEF"
+      ],
+      "texts": [
+        "I asked him if he could find me a job as an assistant cameraman",
+        "his father was my assistant"
+      ],
+      "persons": [
+        "Vana mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Peamine erinevus kaadrite vahel seisneb mehe käeasendis ja näoilme nüanssides: esimesel pildil osutab mees oma parema käe nimetissõrmega oma oimukohale, teistel kaadritel on käsi langetatud. ",
+        "Subtiitrite tekst muutub, pakkudes edasist dialoogi. ",
+        "Kaadrite vahel on ka kerge sisse-suum, kus teine ja kolmas pilt on esimesest pisut lähemale suumitud, tuues esile mehe näo."
+      ],
+      "snr": "006",
+      "ajad": [
+        "185.120",
+        "369.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat hallipäist meest, kes istub heledal nahkdiivanil. Tal on seljas punane särk ja hall triibuline kampsun. Ta räägib kaamera poole vaadates, tehes kohati parema käega žeste. Taustaks on ühevärviline, veidi tekstuuriga beežikas-pruun sein. Diivani paremas servas on pruuni ja beeži mustriga padi. Valgus on pehme ja ühtlane, viitades siseruumile ja rahuliku intervjuu atmosfäärile.",
+      "actions": [
+        "Istumine",
+        "Rääkimine",
+        "Käega žestikuleerimine",
+        "Otse kaamerasse vaatamine"
+      ],
+      "keywords": [
+        "Eakas mees",
+        "Intervjuu",
+        "Diivan",
+        "Siseruum",
+        "Portree",
+        "Jutustus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Eakas mees",
+        "Nahkdiivan",
+        "Padi",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#C6A788",
+        "#8C7D71",
+        "#CC3A32",
+        "#A0A0A0",
+        "#8B5B54",
+        "#E7C8C3"
+      ],
+      "texts": [
+        "it sometimes also happened that the central studio of Moscow sport committee ordered us",
+        "so we were under the tribune, they cut a hole in the background for the lens",
+        "from an experimental factory in Leningrad"
+      ],
+      "persons": [
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaamera fookus muutub, liikudes laiemast kaadrist mehest diivanil lähemale mehe näole.",
+        "Mehe käte asend muutub; teises kaadris osutab ta parema käega allapoole.",
+        "Ekraanil kuvatavad subtiitrid vahetuvad, kajastades käimasolevat vestlust."
+      ],
+      "snr": "007",
+      "ajad": [
+        "369.760",
+        "545.120"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud eakas valge juustega mees, kes istub hubases siseruumis heledal nahast diivanil. Mees kannab punast kraega särki, mille peal on hall kootud kardigan ja tumedad püksid. Ta on paigutatud kaadri keskossa ja vaatab otse kaamerasse, näib rääkivat ja kasutab oma jutu ilmestamiseks käeviibeid. Tema taga on ühtlane helepruuni tooniga tekstuurse mustriga sein. Diivani paremal küljel on näha dekoratiivset lillemustriga patja. Valgus on pehme ja soe, luues rahuliku ja koduse atmosfääri. Mehe näoilmed ja kehahoiak muutuvad vestluse käigus, kajastades tema jutu sisu. Kaadrite vältel ilmuvad ekraanile subtiitrid, mis edastavad tema öeldut.",
+      "actions": [
+        "Istumine",
+        "Rääkimine",
+        "Osutamine",
+        "Žestikuleerimine",
+        "Vaatamine kaamerasse"
+      ],
+      "keywords": [
+        "Eakas mees",
+        "Diivan",
+        "Siseruum",
+        "Intervjuu",
+        "Vestlus",
+        "Elutuba",
+        "Rahulik",
+        "Hubane",
+        "Portree"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Eakas mees",
+        "Nahast diivan",
+        "Padi",
+        "Sein",
+        "Kardigan",
+        "Särk",
+        "Püksid",
+        "Dekoratiivpadi"
+      ],
+      "colorcodes": [
+        "#d8c3a5",
+        "#a88b77",
+        "#cc3333",
+        "#999999",
+        "#ffff00"
+      ],
+      "texts": [
+        "so he watched the runner with his one eye",
+        "I have had international recognition for films two times"
+      ],
+      "persons": [
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe asend ja käeliigutused muutuvad piltide vahel, viidates aktiivsele vestlusele. Esimesel pildil on käed paigal, teisel pildil osutab ta parema käega ja kolmandal pildil on pea kallutatud ning ta näib pilgutavat või silma kinni pigistavat.",
+        "Kaamera kaugus subjektist varieerub. Esimesed kaks pilti on keskmised kaadrid, samas kui kolmas pilt on lähem, keskendudes rohkem mehe näole ja ülakehale (poollähivõte).",
+        "Alates teisest pildist ilmuvad ekraanile kollased subtiitrid, mis edastavad erinevaid dialoogiridu.",
+        "Mehe näoilmed muutuvad, peegeldades erinevaid vestluse momente ja emotsioone."
+      ],
+      "snr": "008",
+      "ajad": [
+        "545.120",
+        "661.720"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud eakas, hallide juustega mees, kes istub heledal nahkdiivanil siseruumis. Ta kannab punast särki ja halli kampsunit. Mees toetub veidi paremale (vaataja vasakule) ja vaatab otse kaamerasse rahuliku, ent mõtliku ilmega. Diivani paremal poolel on mustriga padi. Taustaks on ühevärviline helepruun sein. Valgustus on pehme ja ühtlane, luues intiimse ja veidi nostalgitseva atmosfääri, mis viitab jutuajamisele või meenutustele.",
+      "actions": [
+        "istub",
+        "vaatab kaamerasse",
+        "räägib (subtiitrite järgi)"
+      ],
+      "keywords": [
+        "eakas mees",
+        "diivan",
+        "siseruum",
+        "vestlus",
+        "mõtisklus",
+        "vanadus",
+        "meenutused",
+        "hubane",
+        "portree",
+        "elulugu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "diivan",
+        "padi",
+        "sein",
+        "särk",
+        "kampsun"
+      ],
+      "colorcodes": [
+        "#B4A79A",
+        "#D9C8B5",
+        "#C03030",
+        "#949494",
+        "#C8FF00"
+      ],
+      "texts": [
+        "and thats how the life went"
+      ],
+      "persons": [
+        "eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil on näha ingliskeelsed subtiitrid (\"and thats how the life went\"), mis teistel piltidel puuduvad. Mehe näoilme ja poos on kõikidel piltidel peaaegu identsed."
+      ],
+      "snr": "009",
+      "ajad": [
+        "661.720",
+        "670.840"
+      ]
+    }
+  ]
+}

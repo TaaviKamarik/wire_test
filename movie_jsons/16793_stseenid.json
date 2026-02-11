@@ -1,0 +1,427 @@
+{
+  "film": [
+    "16793",
+    "16671",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Ainult surm ootab...",
+    "d73398594ace2c5ac4ecabbf8ca91054aead681c.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab laia vaadet mitmele raudteerööpmepaarile, mis on kaetud õhukese lumekihiga. Rööpad kulgevad pildil pikuti, koonduvad horisondi suunas ja kaovad kaugusesse. Rööbaste vahel ja külgedel on näha kuivanud rohtu ja taimestikku, mis samuti lume all. Mõlemal pool raudteed on hõreda lehestikuga või raagus puud, luues külma ja kõleda atmosfääri. Puud on valdavalt lehtpuud, mille oksad on lumest puhtad või kaetud vaid kerge kihi härmatisega. Tagaplaanil, kauguses, on näha tööstuslikke struktuure: paremal kõrge, sihvakas korsten või torn ning keskel veel mõned madalamad postid või mastid. Taevas on ühtlaselt hallikas-sinine ja pilvine, mis viitab külmale ja võimalik, et süngemale talvepäevale. Üldmulje on mahajäetud, külm ja melanhoolne, rõhutades avarust ja vaikust.",
+      "actions": [],
+      "keywords": [
+        "raudtee",
+        "lumi",
+        "talv",
+        "tühi",
+        "mahajäetud",
+        "külm",
+        "tööstusmaastik",
+        "rööpad",
+        "hall taevas",
+        "kõle",
+        "perspektiiv",
+        "talvine maastik",
+        "pilvine"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "raudteerööpad",
+        "lumi",
+        "puud",
+        "rohi",
+        "tööstustorn",
+        "korsten",
+        "mastid",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#E0EEEE",
+        "#708090",
+        "#46515A",
+        "#3E444B",
+        "#8B9AA8"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "3.640"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud talvine maastik, kus kesksel kohal on tumeda sulestikuga ronk, kes istub kuivanud heledal puuoksal. Taustal laiuvad lumega kaetud raudteerööpad, mis suunduvad horisondi poole, andes stseenile sügavuse ja avaruse. Õhus hõljub õrnalt lund, mis viitab lumesajule ja rõhutab külma ning karget atmosfääri. Üldine värvigamma on jahe, domineerivad sinised, hallid ja mustad toonid, luues melanhoolse ja vaikse meeleolu. Kaugemal horisondi piiril on näha uduselt mõningaid postide sarnaseid struktuure.",
+      "actions": [
+        "Rong istub puuoksal",
+        "Ronk pöörab pead",
+        "Sajab lund"
+      ],
+      "keywords": [
+        "Talv",
+        "lumi",
+        "ronk",
+        "lind",
+        "puuoks",
+        "raudtee",
+        "rongirööpad",
+        "külm",
+        "hall",
+        "sinine",
+        "must",
+        "loodus",
+        "karge",
+        "vaikne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Ronk",
+        "puuoks",
+        "raudteerööpad",
+        "lumi",
+        "lumehelbed",
+        "postid (udused taustal)"
+      ],
+      "colorcodes": [
+        "#1E1E1E",
+        "#A0B7C7",
+        "#708A9C",
+        "#3C5464",
+        "#917C66"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Ronga pea asend on muutunud. Esimesel pildil vaatab ronk otse vaatleja poole, samas kui teisel ja kolmandal pildil on tema pea pööratud veidi vasakule (ronga vaatenurgast), eemale kaamerast."
+      ],
+      "snr": "002",
+      "ajad": [
+        "3.640",
+        "6.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab külma, talvist õuekeskkonda. Esindatud on puutüvi, mille koor on krobeline ja detailne, domineerides parempoolset pildipoolt. Tüve tagant avaneb hägune taust, kus on näha paljaid puuoksi ja heledat, pilves või udust taevast. Ühel hetkel ilmub kaadrisse inimese käsi, mis haarab tugevalt puutüvest kinni. Käsi on kahvatu ja paistab külm, sõrmed on kohati hallikad või määrdunud. Käe haare viitab pingutusele, toetumisele või raskele olukorrale. Üldine värvigamma on jahedates toonides – domineerivad sinakas-hallid ja helehallid, mis loovad karge ja jaheda atmosfääri. Valgus on pehme ja hajutatud, iseloomustades pilves talvepäeva.",
+      "actions": [
+        "puutüvest kinni haaramine",
+        "toetumine",
+        "puutüve kombimine"
+      ],
+      "keywords": [
+        "puutüvi",
+        "käsi",
+        "talv",
+        "külm",
+        "mets",
+        "loodus",
+        "haare",
+        "karge",
+        "sinine",
+        "hall",
+        "puukoor",
+        "üksindus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "puutüvi",
+        "puukoor",
+        "puuoksad",
+        "inimkäsi"
+      ],
+      "colorcodes": [
+        "#B8CAD6",
+        "#525A5F",
+        "#B0B0B0",
+        "#A7B7C2",
+        "#484E52",
+        "#A0A0A0"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Ühel pildil on fookuses ainult puutüvi ja hägune taust, samas kui teisel pildil on lisaks puutüvele ja taustale näha ka inimese käsi, mis hoiab tüvest kinni."
+      ],
+      "snr": "003",
+      "ajad": [
+        "6.320",
+        "9.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort last, kes seisab üksi lumega kaetud raudteerööpmetel tühjal ja talvisel maastikul. Taevas on pilves ja omab tugevat sinakashalli varjundit, mis rõhutab külma ja melanhoolset atmosfääri. Laps on riietatud soojalt sinisesse vatijopesse, millel on erkroheline lukk ja detailid, tumedatesse kinnastesse ning suuresse musta karusnahkse mütsi (ušanka-stiilis), mis katab osaliselt tema nägu, jättes nähtavaks vaid tõsised silmad. Mõlemal pool rööpaid laiuvad horisondil paljad puud ning kauguses on aimatavad mõned elektripostid või liinid. Teisel ja kolmandal kaadril on taamal, mööda rööpaid eemalduv, udune tume kuju. Üldine mulje on üksindusest, haavatavusest ja teekonnast karmis, külmas keskkonnas.",
+      "actions": [
+        "Laps seisab raudteerööpmetel",
+        "Laps vaatab ringi",
+        "Kauguses olev kuju kõnnib eemale"
+      ],
+      "keywords": [
+        "Talv",
+        "lumi",
+        "raudtee",
+        "laps",
+        "üksindus",
+        "külm",
+        "kurbus",
+        "mahajäetud",
+        "hall",
+        "sinine",
+        "teekond",
+        "müts",
+        "jope",
+        "kaugus",
+        "vaikne",
+        "jaam",
+        "rongitee"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Raudteerööpad",
+        "lumi",
+        "puud",
+        "elektripostid",
+        "lapse jope",
+        "müts",
+        "kindad",
+        "seljakott",
+        "inimkuju"
+      ],
+      "colorcodes": [
+        "#607C9A",
+        "#2C5D8B",
+        "#1A1A1A",
+        "#99FF00",
+        "#E0E5E7"
+      ],
+      "texts": [
+        "P"
+      ],
+      "persons": [
+        "Laps",
+        "udune kuju taamal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab laps otse ette, teisel ja kolmandal pildil on pea kergelt vasakule pööratud (lapse vasakule).",
+        "Teisel ja kolmandal pildil on taamal raudteerööpmeid mööda eemalduv udune tume inimkuju. Esimesel pildil seda kuju näha ei ole.",
+        "Kaamera on teisel ja kolmandal pildil lapsele veidi lähemale liikunud või suuminud, muutes lapse kaadris suuremaks ja taustal oleva figuuri märgatavamaks."
+      ],
+      "snr": "004",
+      "ajad": [
+        "9.840",
+        "12.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes kõnnib paksu lumega kaetud pinnal, mis näib olevat kas raudteerööpad või mingi puidust trepp/platvorm. Inimesest on näha ainult jalgu ja pahkluid, mis on kaetud tumedate pükste ja saabastega. Lumi on värskelt sadanud ja krõbe, ning iga sammuga tõuseb õhku helbeid. Esimestel kaadritel on näha jala astumist sügavasse lumme, teisel ja kolmandal kaadril on juba näha maha jäävaid jälgi. Üldine õhkkond on talvine ja külm, õhus on näha ka üksikuid langevaid lumehelbeid, mis rõhutavad stseeni talvisust.",
+      "actions": [
+        "Kõndimine lumes",
+        "Astumine lumme",
+        "Lume pinna rikkumine sammuga"
+      ],
+      "keywords": [
+        "Lumi",
+        "Talv",
+        "Kõndimine",
+        "Jäljed",
+        "Külm",
+        "Rada",
+        "Saapad",
+        "Mustad püksid",
+        "Raudtee",
+        "Lumised rajad"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Lumi",
+        "Mustad püksid",
+        "Saapad",
+        "Raudteerööpad/Prussid (lume all)"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#ADD8E6",
+        "#000000",
+        "#36454F"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene (jalad)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Inimese jalgade asend muutub, näidates kõndimist ja liikumist.",
+        "Esimesel pildil on jalg astumas lumme, tekitades lumepritsmeid.",
+        "Teisel pildil on jalg sügavamalt lumes, liikumine on pooleli.",
+        "Kolmandal pildil on jalg just tõstetud või on astumine lõpetatud, jättes maha selge jalajälje.",
+        "Teisel ja kolmandal pildil on õhus näha rohkem langevaid lumehelbeid või lume osakesi, mis annab dünaamilisust juurde."
+      ],
+      "snr": "005",
+      "ajad": [
+        "12.360",
+        "14.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sünget ja talvist maastikku, kus lumega kaetud raudteerööbaste vahel kõnnib tume kapuutsiga tegelane, meenutades Vikatimeest. Tegelane on riietatud pikka musta rüüsse, mille kapuuts varjab tema nägu, ja hoiab käes vikatit. Algselt sammub tegelane kaamera suunast eemale mööda kahte paralleelset raudteerööbaste paari, jättes endast maha õõvastava mulje. Seejärel peatub või pöördub ta osaliselt kaamera poole, hoides vikatit horisontaalsemalt. Viimaks pöördub tegelane otse kaamera poole, tõstes vikati agressiivse liigutusega üles ja üle keha, justkui ähvardades. Ümbrus on kaetud paksu lumekihiga, puud on raagus ja taamal on näha kõrged industriaalsed ehitised või mastid, mis loovad mahajäetud ja kõheda atmosfääri. Taevas on hallikas-sinine ja pilvine, mis lisab stseenile külma ja morni meeleolu. Mitmed raudteerööbaste paarid ulatuvad horisondini, rõhutades stseeni sügavust ja üksildust. Kogu stseen on külma, sinaka tooniga töödeldud, mis süvendab melanhoolset ja õudset tunnet.",
+      "actions": [
+        "kõndimine raudteel",
+        "peatumine",
+        "pööramine kaamera poole",
+        "vikati tõstmine",
+        "vikati ähvardav hoidmine"
+      ],
+      "keywords": [
+        "Vikatimees",
+        "surm",
+        "talv",
+        "raudtee",
+        "mahajäetud",
+        "õudus",
+        "külm",
+        "ähvardav",
+        "müstiline",
+        "kapuuts",
+        "lumi",
+        "apokalüptiline",
+        "monokroomne",
+        "rüü"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "raudteerööpad",
+        "lumi",
+        "puud",
+        "vikat",
+        "rüü",
+        "kapuuts",
+        "elektriliinid/mastid",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#9CB8C8",
+        "#E0EBF0",
+        "#232223",
+        "#444E57"
+      ],
+      "texts": [],
+      "persons": [
+        "kapuutsiga tegelane (Vikatimees)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Tegelase asend ja suund: esimesel pildil on tegelane kaamerast eemale kõndimas, teisel on ta pööratud kaamera poole ja kolmandal on ta selgelt kaamera poole pööratud.",
+        "Vikati asend: esimesel pildil on vikat hoitud allapoole, teisel horisontaalsemalt ja kolmandal on see ähvardavalt üles tõstetud ja üle keha.",
+        "Kaadri suurus: viimane pilt on tegelasele veidi lähemal võrreldes esimesega, mis toob tegelase ja tema tegevuse fookusesse.",
+        "Tegevuse intensiivsus: esimesel pildil on tegevus passiivsem, kolmandal aga dünaamilisem ja ähvardavam."
+      ],
+      "snr": "006",
+      "ajad": [
+        "14.360",
+        "16.040"
+      ]
+    },
+    {
+      "explanation": "Stseen avaneb süngel talvisel maastikul, kus noor poiss seisab mõtlikult lumega kaetud raudteeröbastel. Tal on peas karvane müts ja seljas sinine paks jope rohelise lukuga. Taustal, mööda samu rööpaid, kõnnib eemale surma sümboliseeriv kogu musta kuue ja vikati kandja. Taevas on pilvine ja langeb kerge lumi, mis võimendab sünget ja ohtlikku õhkkonda. Seejärel muutub visuaal abstraktseks graafikaks, mis koosneb helesinistest ja varjulistest diagonaalsetest ribadest, andes edasi üleminekut. Lõplik visuaal esitab karmi hoiatuse: valge tekst \"ONLY DEATH AWAITS YOU IN THE RAILROAD\" mustal taustal, koos \"OPERATION LIFESAVER® Estonia\" logoga, rõhutades olulist avalikku ohutussõnumit raudteel viibimise ohtlikkuse kohta.",
+      "actions": [
+        "Poiss seisab paigal",
+        "Surma sümboliseeriv kuju kõnnib eemale",
+        "Lumi sajab"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Raudtee",
+        "Oht",
+        "Surm",
+        "Laps",
+        "Hoiatus",
+        "Ohutus",
+        "Süngus",
+        "Tragöödia",
+        "Avalik kampaania",
+        "Eesti"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Raudteerööpad",
+        "Lumi",
+        "Poiss",
+        "Karvane müts (ušanka)",
+        "Puhvjope",
+        "Sall",
+        "Surma sümboliseeriv kuju",
+        "Vikati",
+        "Must keep",
+        "Tekst",
+        "Logo (Operation Lifesaver)"
+      ],
+      "colorcodes": [
+        "#ADD8E6",
+        "#000000",
+        "#FFFFFF",
+        "#2F4F4F",
+        "#4682B4",
+        "#32CD32",
+        "#808080",
+        "#CD5C5C"
+      ],
+      "texts": [
+        "ONLY DEATH AWAITS YOU IN THE RAILROAD",
+        "OPERATION LIFESAVER®",
+        "Estonia"
+      ],
+      "persons": [
+        "Väike poiss",
+        "Surma sümboliseeriv tegelane"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader kujutab tegelikke tegevusi ja tegelasi lumisel raudteel.",
+        "Teine kaader on abstraktne graafiline muster heledatest ja tumedatest diagonaalsetest ribadest.",
+        "Kolmas kaader on must taust valge teksti ja logoga, esitades otsese sõnumi.",
+        "Visuaalide sisu muutub jutustavast pildist abstraktseks üleminekuks ja seejärel otseseks tekstiliseks hoiatuseks.",
+        "Värvipalett varieerub esimese kaadri külmadest sinistest ja valgetest toonidest teise kaadri abstraktseteks sinise-halli varjunditeks ning kolmanda kaadri kontrastseteks musta-valge-punasteks toonideks."
+      ],
+      "snr": "007",
+      "ajad": [
+        "16.040",
+        "30.000"
+      ]
+    }
+  ]
+}

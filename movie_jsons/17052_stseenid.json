@@ -1,0 +1,1816 @@
+{
+  "film": [
+    "17052",
+    "16930",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Tosin küsimust Eesti kohta: Oleme pilves",
+    "20c1e6174efc827ca467256ee4aa35890ba5b9bd.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täiesti musta ekraaniga. Seejärel ilmub ekraani keskele valge tekst, mis esmalt kuvab sõna \"REŽISSÖÖR\" ja selle all suuremalt nime \"Andri Allas\". Pärast seda kaob tekst ja ilmub keskele poolläbipaistev, helehall või hõbedane ringikujuline mängunupp, mille sees on kolmnurkne mängusümbol. Nupu ääred on kohati veidi moonutatud, vihjates üleminekule või efektile. Kogu stseen on minimalistlik ja tumedal taustal.",
+      "actions": [
+        "teksti ilmumine",
+        "teksti kadumine",
+        "mängunupu ilmumine"
+      ],
+      "keywords": [
+        "must ekraan",
+        "tiitrid",
+        "režissöör",
+        "mängunupp",
+        "minimalistlik",
+        "üleminek",
+        "digitaalne",
+        "must taust"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "ekraan",
+        "tekst",
+        "mängunupp"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#AAAAAA",
+        "#DEDEDE"
+      ],
+      "texts": [
+        "REŽISSÖÖR",
+        "Andri Allas"
+      ],
+      "persons": [
+        "Andri Allas"
+      ],
+      "imagetype": "effect",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on täiesti must ekraan, ilma igasuguse sisuta.",
+        "Teisel pildil on mustal taustal valge tekst 'REŽISSÖÖR' ja 'Andri Allas'.",
+        "Kolmandal pildil on mustal taustal poolläbipaistev, hõbedase varjundiga ringikujuline mängunupp, millel on väikesed moonutused."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "15.880"
+      ]
+    },
+    {
+      "explanation": "Stseen algab täielikus pimeduses, kus keskel virvendab ja digitaalse moonutusega ilmub heledast metallist ümmargune nupukujuline objekt, millel on paremale suunatud esitusmärgi kolmnurk. Nupu ümber on näha kerget läbipaistvust ja pikseldatud häireid, mis annavad digitaalse vea või laadimise mulje. Seejärel toimub kiire üleminek või digitaalne glitch, kus ekraan täitub ühtlase heleda pruunikas-beeži tooniga. See taust on kaetud erinevate pruunide ja beežide toonides ristkülikukujuliste plokkide ehk pikslitega, luues abstraktse, tekstuuriga või andmete töötlemise visuaali. Lõpuks puhastub see pikseldatud keskkond täiesti valgeks taustaks, mille keskele ilmub udune, tugevalt pikseldatud inimfiguur, mis näib kandvat ülikonda. Figuur seisab otse ja on kaadri suhtes suhteliselt väike, vihjates avarale vaatele. Kogu stseen annab edasi digitaalse alguse, andmete laadimise, virtuaalmaailma sisenemise või tegelase ilmumise mulje minimalistlikus ja digitaalselt stiliseeritud keskkonnas.",
+      "actions": [
+        "Objekti ilmumine pimedusse",
+        "Objekti virvendamine ja moonutamine",
+        "Stseeni üleminek abstraktseks mustriks",
+        "Tausta puhastumine",
+        "Inimfiguuri ilmumine valgele taustale",
+        "Inimfiguuri seismine"
+      ],
+      "keywords": [
+        "Digitaalne",
+        "Pikseldatud",
+        "Glitch",
+        "Abstraktne",
+        "Üleminek",
+        "Minimalism",
+        "Laadimine",
+        "Virtuaalne",
+        "Sümboolne algus",
+        "Andmetöötlus"
+      ],
+      "shot_type": "long",
+      "placement": "virtuaalne/ei ole selge",
+      "objects": [
+        "Esitusnupp (play button)",
+        "Inimfiguur",
+        "Ülikond",
+        "Digitaalsed pikslid/plokid"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#D4D4D4",
+        "#A09489",
+        "#7C7167",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimfiguur"
+      ],
+      "imagetype": "effect",
+      "emptypercent": "80-90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Tausta värvus muutub mustast pruuniks ja seejärel valgeks.",
+        "Stseeni fookus nihkub interaktiivsest nupust abstraktseks mustriks ja seejärel inimfiguuriks.",
+        "Üldine heledus kasvab, minnes tumedast (mustast) heledasse (valgesse) tooni.",
+        "Detailitase ja selgus arenevad moonutatud nupust abstraktseks piksliteks ja seejärel uduselt pikseldatud figuuriks."
+      ],
+      "snr": "002",
+      "ajad": [
+        "15.880",
+        "22.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab heledajuukselist, heleda nahaga meest, kes on riietatud laitmatult heledasse ülikonda, valgesse särki ja helehalli lipsusse. Ta seisab valge, minimalistliku tausta ees, mis annab stseenile puhta ja eeterliku ilme. Mehe hoiak ja näoilme muutuvad: ühel hetkel vaatab ta otse kaamerasse tõsise ja veidi küsiva pilguga, teisel hetkel on ta pisut lõdvestunud, teeb kerge liigutuse käega ülikonna revääri juurde ja naeratab õrnalt. Tal on jalas valged tossud. Valgus on ere ja ühtlane, viitades stuudiokeskkonnale.",
+      "actions": [
+        "seismine",
+        "otse kaamerasse vaatamine",
+        "ülikonna revääri puudutamine",
+        "naeratamine"
+      ],
+      "keywords": [
+        "mees",
+        "ülikond",
+        "valge taust",
+        "minimalistlik",
+        "stuudio",
+        "hele",
+        "elegantsus",
+        "mõtlikkus"
+      ],
+      "shot_type": "full shot",
+      "placement": "indoor",
+      "objects": [
+        "ülikond",
+        "särk",
+        "lips",
+        "tossud"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#E0E0E0",
+        "#C5A28A",
+        "#B0B0B0"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on tugevalt pikseldatud, samas kui teised on selged ja teravad.",
+        "Mehe poos ja näoilme erinevad kaadrite vahel: teises kaadris on mehe pilk otse kaamerasse ja tõsine, kolmandas on ta lõdvestunuma hoiakuga, käsi rinnal ja ja kerge naeratus näol.",
+        "Kolmandas kaadris on mees tervenisti näha, sealhulgas tema valged tossud, samas kui teises kaadris on fookus rohkem ülakehal."
+      ],
+      "snr": "003",
+      "ajad": [
+        "22.360",
+        "238.840"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud Aasia päritolu mees, kes kannab stiilselt musta fedora mütsi ja musta pintsaku all musta t-särki, millel on selgelt eristuv punase-valgekirju Mario mütsi logo. Mehe nägu on kaetud heleda jumestusega, andes talle kahvatu ja märkimisväärse ilme. Ta hoiab käes tumedat tahvelarvutit. Tema pilk on suunatud vasakule (vaataja paremale), veidi üles ja eemale, andes edasi mõtiskleva või tähelepaneliku hoiaku. Tema näoilme varieerub kaadrites alates avatud suust ja kergest grimassist, mis paljastab hambaid (viidates rääkimisele või reageerimisele), kuni rahuliku ja peaaegu suletud suuni. Tausta moodustab sügav must värv, mis rõhutab subjektile langevat valgust. Vasakul on vaevu märgatav tume vertikaalne element, mis viitab siseruumile. Valgusallikas valgustab meest eest ja paremalt, tuues esile tema näojooni ja riietust. Tahvelarvutist kumav õrn valgus heidab varjusid ja peegeldusi tema kätele ja näo alumisele osale.",
+      "actions": [
+        "Tahvelarvuti hoidmine",
+        "Vaatamine küljele ja üles",
+        "Rääkimine või reageerimine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Aasia mees",
+        "Fedora müts",
+        "Must pintsak",
+        "Mario t-särk",
+        "Tahvelarvuti",
+        "Kahvatu meik",
+        "Salapärane pilk",
+        "Must taust",
+        "Sisekeskkond",
+        "Portreekaader",
+        "Mõtisklev",
+        "Reageeriv"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Fedora müts",
+        "Must pintsak",
+        "Must t-särk",
+        "Mario logo",
+        "Tahvelarvuti",
+        "Vertikaalne paneel"
+      ],
+      "colorcodes": [
+        "#1b1b1c",
+        "#1a1b1d",
+        "#1f1d1d",
+        "#cc272b",
+        "#1a1a1b",
+        "#0e0e0e",
+        "#b39b8c",
+        "#5d4a46"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe näoilme ja suu asend varieeruvad – esimesel pildil on suu kergelt avatud ja pilk mõtisklev, teisel pildil on suu veidi rohkem avatud ja pilk intensiivsem, kolmandal pildil on suu peaaegu suletud ja pilk rahulikum.",
+        "Kerged muutused pea ja kehahoiakus kaadrite vahel.",
+        "Valguse ja varjude toonides esineb minimaalseid nihkeid, mis on tingitud peenest liikumisest."
+      ],
+      "snr": "005",
+      "ajad": [
+        "240.760",
+        "243.240"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud naist portreevaates, tumeda, praktiliselt musta tausta ees. Naine on riietatud musta kraega särki, millel on ka must lips või lehv. Tal on tumedad juuksed, mis on kuklasse tõmmatud, ning ta kannab kandilisi prille. Tema näoilme varieerub kolme pildi vahel: ühel pildil on suu kergelt avatud, nagu ta oleks rääkimas, teisel pildil on suu avatum, mis viitab käimasolevale kõnele, ja kolmandal pildil on suu suletud, andes näole tõsisema või mõtliku ilme. Valgustus on suunatud peamiselt naisele, jättes tausta täiesti pimedaks ja esile tõstes tema näojooni ning riietust. Naine vaatab otse ette, mõnikord pilk veidi kõrvale nihkunud. Stseen jätab professionaalse ja tõsise mulje, mis on iseloomulik intervjuule või otsekaamerale pöördumisele.",
+      "actions": [
+        "Rääkimine",
+        "Vaatamine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Portree",
+        "Naine",
+        "Intervjuu",
+        "Prillid",
+        "Must taust",
+        "Tumedad juuksed",
+        "Professionaalne",
+        "Tõsine",
+        "Sisekeskkond",
+        "Stuudio"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Prillid",
+        "Särk",
+        "Lips"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#1a1a1a",
+        "#2e1e21",
+        "#a68c87",
+        "#1c1c1c"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevused seisnevad naise näoilmes ja suu asendis: esimesel pildil on suu kergelt avatud, teisel pildil on suu avatum (nagu keset lauset), kolmandal pildil on suu suletud ja nägu on tõsisema või mõtliku ilmega.",
+        "Väikesed muutused pea asendis ja pilgu suunas."
+      ],
+      "snr": "006",
+      "ajad": [
+        "243.240",
+        "245.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist aasia päritolu meest, kes kannab musta fedora-stiilis mütsi ja tumedaid riideid, istumas või seisma tumedal, peaaegu mustal taustal. Mehel on seljas must pintsak või jakett ja selle all tumesinine või musta värvi T-särk, millel paistab punane stiliseeritud \"M\"-kujuline logo (sarnane Super Mario logoga). Ta hoiab mõlema käega musta tahvelarvutit ja paistab rääkivat või laulvat, suu on kergelt avatud ja näoilme muutub piltide vahel, peegeldades erinevaid kõnefaase. Taust on valdavalt must, pakkudes tugevat kontrasti eestpoolt valgustatud mehega. Vasakul kaadri ääres on näha vertikaalset tumedat pinda, mis võiks olla näiteks uksepiit, seinapaneel või monitor. Valgus langeb mehele eestpoolt, tuues esile tema näojooned ja riiete detailid. Üldine meeleolu on pigem tõsine ja keskendunud, viitades esinemisele või intervjuule.",
+      "actions": [
+        "Rääkimine või laulmine",
+        "Tahvelarvuti hoidmine",
+        "Pilgu hoidmine tahvelarvutil või kaadri kõrval"
+      ],
+      "keywords": [
+        "Mees",
+        "Müts",
+        "Tahvelarvuti",
+        "Must taust",
+        "Stuudio",
+        "Esinemine",
+        "Rääkimine",
+        "Laulmine",
+        "Videoklipp",
+        "Siseruum",
+        "Tume",
+        "Kontrast"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Müts",
+        "Pintsak/jakett",
+        "T-särk",
+        "Tahvelarvuti",
+        "Punane logo (Super Mario \"M\")",
+        "Must taust",
+        "Vertikaalne tumeda värviga pind vasakul"
+      ],
+      "colorcodes": [
+        "#0b0b0b",
+        "#212528",
+        "#1c2225",
+        "#a81c1c",
+        "#d1b8a5",
+        "#876d5e"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe suu asend varieerub piltide vahel kergelt avatust kuni laiemalt avatuks, mis viitab kõnelemise või laulmise erinevatele faasidele.",
+        "Mehe näoilmes on kergeid nüansimuutusi, mis on seotud suu liikumisega.",
+        "Tahvelarvuti hoidmise viisis ja käte asendis on märgata minimaalseid erinevusi.",
+        "Mehe pilk on piltide vahel pisut muutunud, suunaga kas otse tahvelarvutile või veidi sellest mööda."
+      ],
+      "snr": "007",
+      "ajad": [
+        "245.160",
+        "247.880"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud naist mustal, täiesti tühjal taustal, mis loob portreeliku fookuse ainult temale. Naine on umbes keskeas, tal on tumedad juuksed, mis on tihedalt kuklasse seotud või krunni pandud. Ta kannab musti, ristkülikukujuliste raamidega prille. Seljas on tal must, nööbitav särk, mille kaeluses on seotud lips või rinnasõlm, mis lisab tema välimusele formaalsust. Tema näoilme on tõsine ja keskendunud ning suu on pidevalt kergelt avatud, mis viitab kõnelemisele või lausete väljendamisele. Tema pilk on suunatud otse kaamera poole või veidi paremale. Valgus on suunatud naisele eestpoolt, jättes tausta täiesti varju ja rõhutades tema figuuri. Üldine atmosfäär on professionaalne ja intensiivne.",
+      "actions": [
+        "Kõnelemine",
+        "Rääkimine",
+        "Väljendamine"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Portree",
+        "Naine",
+        "Must taust",
+        "Prillid",
+        "Formaalne riietus",
+        "Rääkimine",
+        "Tõsine ilme",
+        "Stuudio"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Prillid",
+        "Must särk",
+        "Kaeluslips"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#A08070",
+        "#402030"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Peamised erinevused kaadrite vahel seisnevad naise suu asendis, mis viitab kõnelemisele ja lausete erinevatele momentidele (nt. esimeses kaadris on suu rohkem avatud, teises veidi suletum, kolmandas jälle avatum, kuid erineva kujuga).",
+        "On märgata minimaalseid muutusi silmade ja kulmude ümbruses, mis annavad edasi emotsiooni või kõne rütmi."
+      ],
+      "snr": "008",
+      "ajad": [
+        "247.880",
+        "250.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab minimalistlikku, kuid detailset turvakontrolli punkti siseruumides. Üldine taust on sügavmust, tuues esile vaid valgustatud objektid ja isikud. Vasakul seisab naissoost turvatöötaja, riietatud musta pluusi ja seelikusse, kandes prille. Ta on toetunud tumedale letile, millel on virn pabereid, ja teeb parema käega suunava žesti. Keskel liigub edasi meessoost reisija, kes kannab tumedat kaabut, tumedat bleiserit ja sinise-punase Super Mario pildiga T-särki. Tema pilk on suunatud käes hoitavale tahvelarvutile, millele ta on süvenenud. Tema kõrval on näha väike must ratastega kohver. Paremal asub tumedast materjalist metallidetektori värav, mille ülemises osas põleb roheline tuli. Metallidetektori kohal on valgustatud valge silt, millel on punaste ringidega läbikriipsutatud sümbolid keelatud esemetele: kaamera/telefoni, raamatu, kirja/e-posti, mobiiltelefoni ja relva kujutised. Stseen loob ettekujutuse lennujaama või piiripunkti turvamenetlustest.",
+      "actions": [
+        "Naissoost turvatöötaja suunab käega",
+        "Meesreisija vaatab tahvelarvutit",
+        "Meesreisija liigub edasi",
+        "Teine meesreisija läbib metallidetektori"
+      ],
+      "keywords": [
+        "Turvakontroll",
+        "Lennujaam",
+        "Piiripunkt",
+        "Reisimine",
+        "Metallidetektor",
+        "Keelatud esemed",
+        "Tahvelarvuti",
+        "Must taust",
+        "Minimalistlik",
+        "Digitaalne seade",
+        "Valvsus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Turvalett",
+        "Paberivirn",
+        "Metallidetektor",
+        "Keelatud esemete silt",
+        "Tahvelarvuti",
+        "Kohver",
+        "Nöörpiire",
+        "Prillid",
+        "Kaabu",
+        "Särk (Super Mario)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#FF0000",
+        "#00FF00",
+        "#404040",
+        "#0000FF",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "Sümbolid (kaamera, raamat, kiri, telefon, relv)"
+      ],
+      "persons": [
+        "Naissoost turvatöötaja",
+        "Meesreisija (kaabuga)",
+        "Teine meesreisija"
+      ],
+      "imagetype": "real",
+      "emptypercent": 70,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on meesreisija naistöötajale lähemal ja tema poos on veidi vasakule suunatud.",
+        "Teisel pildil on meesreisija teinud sammu edasi, liikudes metallidetektori poole, naistöötaja käe asend on veidi muutunud.",
+        "Kolmandal pildil on meesreisija veelgi edasi liikunud, olles metallidetektorile lähemal, ning metallidetektori väravast ilmub välja teine heledapäine meessoost reisija, kes läbib kontrollpunkti."
+      ],
+      "snr": "010",
+      "ajad": [
+        "253.240",
+        "256.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahe inimese, naise ja mehe, kohtumist ja suhtlust siseruumides. Üldine taust on sügavmust, luues minimalistliku ja potentsiaalselt stuudiolaadse keskkonna. Naine, kellel on punakas-pruunid juuksed krunnis, kannab musti prille ja musta kõrgkraega pluusi, tema vasakus kõrvas on kõrvarõngas. Ta on näoga mehe poole, olles ise seljaga vaatleja poole. Mees, heledate juuste ja hele-tumedatriibulise halli kõrgkraega kampsuniga, seisab naise vastas, kandes õlal tumedat rihma (võimalik, et kotist). Ta on kergelt naerataval ilmel ja vaatab naist. Taustal on näha tumedat, püstist ja ristkülikukujulist struktuuri, mis meenutab turvaväravat või portaali. Selle struktuuri ülaosas helendab erkroheline valgus.",
+      "actions": [
+        "Naine vaatab meest.",
+        "Mees naeratab/muigab.",
+        "Mees seisab naise vastas."
+      ],
+      "keywords": [
+        "siseruum",
+        "must taust",
+        "turvavärav",
+        "kohtumine",
+        "suhtlus",
+        "kõrgkraega pluus",
+        "prillid",
+        "roheline valgus",
+        "minimalistlik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "prillid",
+        "kõrvarõngas",
+        "kõrgkraega pluus",
+        "kampsun",
+        "tumedate raamidega struktuur",
+        "roheline valgus",
+        "koti rihm"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#551D1C",
+        "#00E400",
+        "#4C4E4F",
+        "#BEB4A8",
+        "#D4CDBC"
+      ],
+      "texts": [],
+      "persons": [
+        "naine",
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha ainult naine ja taustal olev struktuur, parem pildipool on valdavalt tühi, andes edasi ootusärevust või eelseisvat sündmust. Teisel pildil on kaadrisse sisenenud mees, kes seisab naise vastas ja nendevaheline suhtlus on alanud, täites tühja ruumi ja muutes stseeni dünaamilisemaks."
+      ],
+      "snr": "011",
+      "ajad": [
+        "256.280",
+        "264.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest sügavas mustas ruumis või abstraktse musta tausta ees, mis loob intensiivse ja intiimse fookuse tegelastele. Kaadri esiplaanil paremal on näha mehe selg, kes kannab tumedat kampsunit, jättes ta näo varjatuks ja keskendudes täielikult temaga vestlevale naisele. Vasakul on keskealine naine, kes kannab prille ja musta nööbitavat pluusi, mille kaelus on seotud lipsu moodi. Tema juuksed on kinni pandud ja tal on kõrvas tagasihoidlikud kõrvarõngad. Naine vahetab kaadrites oma emotsioone, alustades kergelt murelikust või üllatunud ilmest, mis muutub siis pingsamaks ja kaalutlevamaks. Lõpuks tõstab ta oma parema käe üles ja žestikuleerib mehe poole avatud peopesaga, justkui rõhutades oma sõnu või tehes selget avaldust. Stseeni üldine meeleolu on tõsine ja dialoogile orienteeritud, puudutades võimalikku pinget või olulist vestlust. Must taust võimendab tegelaste kehakeelt ja näoilmeid.",
+      "actions": [
+        "Naine vaatab mehe poole",
+        "Naine muudab oma näoilmet ja emotsioone",
+        "Naine žestikuleerib parema käega mehe poole",
+        "Mees seisab seljaga kaamera poole"
+      ],
+      "keywords": [
+        "Dialoog",
+        "Konfrontatsioon",
+        "Pimedus",
+        "Intiimne",
+        "Žest",
+        "Näoilmed",
+        "Draama",
+        "Must",
+        "Prillid",
+        "Stseen"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Prillid",
+        "Must särk (naise)",
+        "Must lipsutaoline kaelus (naise särgil)",
+        "Tume kampsun (mehe)",
+        "Kõrvarõngad (naise)",
+        "Sõrmus (naise paremal käel)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#1A1A1A",
+        "#262626",
+        "#C6A792",
+        "#333333"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 75,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise näoilme muutub murelikust/üllatunust pingsamaks ja lõpuks kindlamaks/selgitavaks.",
+        "Naise parem käsi liigub allapoole asendist ülespoole žestikuleerivasse asendisse.",
+        "Naise suu asend ja avatus muutuvad."
+      ],
+      "snr": "012",
+      "ajad": [
+        "264.960",
+        "267.960"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kaks inimest pimedas, minimalistlikus siseruumis. Esiplaanil vasakul on näha naisterahva selga, kelle tumedad juuksed on kõrgele krunni seotud ja kes kannab musta kõrge kaelusega pluusi. Tema pilk on suunatud paremale, kus seisab noorem mees. Mees on heleda nahaga, lühikeste, tahapoole kammitud heledate juustega ja kannab tumedamat halli kootud kõrge kaelusega sviitrit. Tema vasakul õlal on näha pruunika koti rihm. Mees vaatab naise poole tõsise ja veidi küsiva näoilmega, justkui ootaks vastust või kuulaks tähelepanelikult. Taust on valdavalt süsimust, kuid naise selja taga on näha halli raamistiku või ukseava kontuuri, mis viitab ruumile. Valgus on stseenis pehme ja suunatud peamiselt nägudele, jättes tausta tumedaks.",
+      "actions": [
+        "Vaatamine",
+        "Kuulamine",
+        "Vestlemine"
+      ],
+      "keywords": [
+        "minimalistlik",
+        "tume",
+        "dialoog",
+        "kohtumine",
+        "portree",
+        "siseruum",
+        "tõsine",
+        "ootus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "kõrge kaelusega pluus",
+        "kõrge kaelusega sviiter",
+        "koti rihm",
+        "ukseraam",
+        "krunn"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#404040",
+        "#1A1A1A",
+        "#C9BDB3",
+        "#B8B9B7",
+        "#541D1D",
+        "#595959",
+        "#AFAFAF"
+      ],
+      "texts": [],
+      "persons": [
+        "noorem mees",
+        "naisterahvas"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pildid on identsed, puuduvad märgatavad erinevused."
+      ],
+      "snr": "013",
+      "ajad": [
+        "267.960",
+        "268.880"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha valge, piklik hoiatusmärk, mida hoiab mustal taustal inimese käsi. Märk on kallutatud vasakult alt paremale ülespoole, luues dünaamilise kompositsiooni. Sildil on kuus musta keelumärki, mis paiknevad punaste ringide sees, millel on läbiv diagonaaljoon. Vasakult paremale on kujutatud järgmised keelud: fotografeerimine või pildistamine (kaamera sümbol), sularaha või raha kasutamine (raha/müntide sümbol), mobiiltelefonide kasutamine (mobiiltelefoni sümbol), kirjade või posti avamine (ümbriku sümbol), passide või dokumentide kasutamine (passi sümbol tekstiga \"PASSPORT\") ja raamatute või lugemismaterjalide kasutamine (avatud raamatu sümbol). Käsi, mis märki hoiab, on näha vasakul all nurgas ning on osaliselt varjatud tumeda varruka poolt. Taust on ühtlaselt must, tuues märgi ja selle sümbolid selgelt esile ning andes stseenile sügavuse ja fookuse keelatud tegevustele. Valgustus näib olevat suunatud märgi esiletoomiseks.",
+      "actions": [
+        "Märgi hoidmine"
+      ],
+      "keywords": [
+        "Hoiatusmärk",
+        "Keelumärk",
+        "Piklik silt",
+        "Piktogrammid",
+        "Käsi",
+        "Must taust",
+        "Keeld",
+        "Visuaalne kommunikatsioon",
+        "Sümbolid"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Hoiatusmärk",
+        "Käsi",
+        "Varrukas",
+        "Keelusildid (kaamera, raha, mobiiltelefon, ümbrik, pass, raamat)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#CE2B1A",
+        "#D8AC8A"
+      ],
+      "texts": [
+        "PASSPORT"
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevused puuduvad"
+      ],
+      "snr": "014",
+      "ajad": [
+        "268.880",
+        "271.360"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kaks inimest mustal taustal, mis annab minimalistliku ja intiimse mulje. Vasakul on naine, keda on näha rinnust saati. Tal on tumedad juuksed, mis on üles seotud, ning silmas paistab kerge purpurjas toon. Naine kannab prille ja tumedat, ametlikku pluusi, millel on kaelas lipsuke või lehv. Tema näoilme on tõsine ja muutub kergelt kaadrite vahel, vihjates kas kuulajale või reageerijale vestluses. Tema pilk on suunatud paremal asuvale mehele. Meest on näha selja tagant ja osaliselt paremalt õla pealt. Tal on heledad pruunika või hallika tooniga juuksed kuklas ja ta kannab tumedat kootud sviitrit. Mees on naise poole pööratud, kuid tema näoilme ei ole nähtav. Valgus langeb peamiselt naisele, jättes mehe veidi varju. Üldine atmosfäär on kaalutletud ja pingeline.",
+      "actions": [
+        "Naine vaatab intensiivselt mehele",
+        "Naine reageerib vestlusele muutliku näoilmega",
+        "Mees kuulab või räägib naisega (tema poos viitab interaktsioonile)"
+      ],
+      "keywords": [
+        "Portree",
+        "Vestlus",
+        "Tõsine",
+        "Pinge",
+        "Must taust",
+        "Prillid",
+        "Ametlik riietus",
+        "Subtiilsed emotsioonid",
+        "Vastamisi",
+        "Minimalistlik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Prillid",
+        "Must särk",
+        "Lipsuke",
+        "Kootud sviiter"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#3D2D3D",
+        "#C2A292",
+        "#4D4D4D",
+        "#333333",
+        "#666666"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on naise näoilme kergelt küsiv või range, kulmud kergelt kõrgemal ja suunurgad allapoole pööratud.",
+        "Teisel pildil on naise näoilme neutraalsem ja rahulikum, silmad laiemalt avatud ning suu sirgejooneline.",
+        "Kolmandal pildil on naise näoilme selgelt kurvem või nördinum, kulmud kergelt kortsus ja suunurgad allapoole pööratud, pea kergelt kaldu."
+      ],
+      "snr": "016",
+      "ajad": [
+        "274.000",
+        "276.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab anonüümse inimese käsi, kes võtab tumepruunist nahast kotist esemeid välja. Esmalt eemaldatakse kotist raamat, mille kaanel on stiliseeritud nägu ja tekst \"A Penguin Book published by Penguin Books... Maurice Sendak Where the Wild Things Are\". Raamat asetatakse tumedale tasasele pinnale. Seejärel võetakse samast kotist välja CD-plaat, mille kaanel on tekst \"COMMON FURNITURES\" ja mustvalge foto linnavaatest. CD-plaat asetatakse raamatu kõrvale samale pinnale. Kogu tegevus toimub tumedal, minimalistlikul taustal, rõhutades käte ja esemete liikumist.",
+      "actions": [
+        "Võtab esemeid kotist välja",
+        "Asetab raamatu pinnale",
+        "Asetab CD-plaadi pinnale",
+        "Hoiab kotti lahti"
+      ],
+      "keywords": [
+        "Esemete väljavõtmine",
+        "Kott",
+        "Raamat",
+        "CD-plaat",
+        "Käed",
+        "Minimalistlik",
+        "Tume taust",
+        "Liikumine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese käed",
+        "Pruun nahast kott (satchel)",
+        "Raamat",
+        "CD-plaat (ümbrises)",
+        "Tume laud/pind"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#3E2F26",
+        "#E0CE9A",
+        "#5E6266"
+      ],
+      "texts": [
+        "A Penguin Book published by Penguin Books",
+        "Maurice Sendak Where the Wild Things Are",
+        "COMMON FURNITURES"
+      ],
+      "persons": [
+        "Inimese käed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses kaadris on raamat õhus, käe haardes ja liikumises, teises kaadris on raamat juba tumedal pinnal paigal.",
+        "Teises kaadris on käsi veel koti ava juures, valmistudes järgmist eset välja võtma, samal ajal kui kolmandas kaadris on käsi võtnud välja CD-plaadi ja asetab seda pinnale.",
+        "CD-plaat ilmub stseenis alles kolmandas kaadris, olles käes ja liikumises."
+      ],
+      "snr": "017",
+      "ajad": [
+        "276.080",
+        "281.320"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kaks inimest, naine vasakul ja mees paremal, tume taustal. Naine on kaadris näoga vaataja poole, aga tema pilk on suunatud kergelt paremale, mehe poole. Tal on tumedad juuksed krunnis või hobusesabas, seljas must pikkade varrukatega särk, millel on kaelas lipsulaadne detail, ning ees mustad prillid. Tema näoilme on tõsine, mõtlik, kurb või murelik. Mees on näoga kaadrist ära, seljaga vaataja poole, temast on näha pea ja õlad. Tal on helepruunid või blondid juuksed ja seljas tume kootud kampsun. Valgus langeb peamiselt naise näole ja õlgadele ning mehe juustele ja kampsunile, jättes suure osa taustast sügavalt mustaks. Stseen loob intiimse ja veidi pineva meeleolu, andes märku dialoogist või olulisest hetkest kahe inimese vahel.",
+      "actions": [
+        "Naine kuulab või reageerib mehe suunas",
+        "Mees seisab naise ees, seljaga vaataja poole",
+        "Naine muudab kergelt oma pilku ja näoilmet"
+      ],
+      "keywords": [
+        "Dialoog",
+        "Siseheitlus",
+        "Mure",
+        "Kurbus",
+        "Tõsidus",
+        "Intiimne stseen",
+        "Tume taust",
+        "Kontrast",
+        "Vestlus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Prillid",
+        "Must särk",
+        "Lipsulaadne detail",
+        "Kootud kampsun",
+        "Juuksed"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#202020",
+        "#3D3A3B",
+        "#8D8E90",
+        "#726252",
+        "#62524D",
+        "#A88F80"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise pilk ja näoilme muutuvad kergelt kaadrite vahel. Esimeses kaadris on naine pilku rohkem alla suunanud, teises ja kolmandas kaadris on pilk pisut ülespoole ja otsemalt suunatud mehe poole, väljendades ehk suuremat muret või reaktsiooni öeldule.",
+        "Naise suu asend muutub veidi, andes edasi erinevaid nüansse murelikkuses või pingsuses.",
+        "Valguse ja varjude jaotus naise näol ja kaelal on kaadrite vahel minimaalselt muutunud, peegeldades väikest pealiigutust."
+      ],
+      "snr": "018",
+      "ajad": [
+        "281.320",
+        "284.400"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kahte inimest mustal taustal, mis annab edasi tõsise ja intiimse atmosfääri. Vasakul seisab noorem naine, kellel on tumedad juuksed krunnis, kandes musti prille ja musta lipsupluusi. Tema pilk on suunatud paremal oleva mehe poole. Tema ilme ja pea asend muutuvad kaadrite lõikes, alates otsesest pilgust mehele kuni mõtlikuma ja allapoole suunatud vaateni. Paremal on näha mehe selga ja pea paremat profiili. Tal on heledad, lühikesed juuksed ja ta kannab tumedat, kootud sviitrit. Mees on pööratud naise poole, tema poos viitab kuulamisele või sügavale mõtisklusele. Must taust rõhutab tegelastevahelist dialoogi või sisemist konflikti, hoides fookuse rangelt inimestel ja nende interaktsioonil.",
+      "actions": [
+        "Vaatamine",
+        "Mõtisklemine",
+        "Kuulamine",
+        "Suhtlemine"
+      ],
+      "keywords": [
+        "Tõsidus",
+        "Intiimsus",
+        "Dialoog",
+        "Kontrast",
+        "Mõtisklemine",
+        "Must taust",
+        "Portree",
+        "Salapärasus",
+        "Draama"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Prillid",
+        "Lipspluus",
+        "Kootud sviiter",
+        "Vöö"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#343434",
+        "#8C8C8C",
+        "#A9A9A9",
+        "#404040"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise pea asend muutub, liikudes järjest rohkem allapoole suunatud asendisse.",
+        "Naise pilk muutub otsesest pilgust mehele mõtlikumaks ja allapoole suunatud.",
+        "Naise näoilme muutub veidi tõsisemaks ja pingsamaks kaadrite lõikes."
+      ],
+      "snr": "020",
+      "ajad": [
+        "286.320",
+        "291.000"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab ülaltvaates inimest, kes tühjendab oma pruuni nahast õlakoti sisu tumedale pinnale, mis meenutab lauda. Kaadrite vältel ilmuvad kotist välja erinevad isiklikud esemed. Alguses on laual näha CD-ümbris, millel on pealkiri 'damnatio memoriae', punane raamat või märkmik, ajakiri või raamat stiliseeritud näoga ning sinise tooniga postkaart või brošüür pealkirjaga 'MARSEILLE'. Hiljem lisanduvad esemete hulka must nuputelefon ja must kaelapael kirjaga 'TOTAL' ja 'www.total.bg'. Viimases kaadris on näha ka valge salvrätik või paberitükk, mis kukub kotist välja, andes märku koti tühjendamise jätkumisest. Inimese käed on nähtavad kaadri ülemises osas, tegutsedes koti kallal. Üldine valgus on summutatud, luues tumeda ja intiimse atmosfääri.",
+      "actions": [
+        "Koti tühjendamine",
+        "Esemete kotist välja võtmine",
+        "Esemete lauale asendamine",
+        "Salvrätiku kukkumine"
+      ],
+      "keywords": [
+        "Kott",
+        "Õlakott",
+        "Nahast",
+        "Esemed",
+        "Isiklikud asjad",
+        "Tume taust",
+        "Käed",
+        "Tühjendamine"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Pruun nahast õlakott",
+        "CD-ümbris",
+        "Punane raamat/märkmik",
+        "Ajakiri/raamat näoga",
+        "Postkaart/brošüür 'MARSEILLE'",
+        "Must nuputelefon",
+        "Must kaelapael 'TOTAL'",
+        "Valge salvrätik/paber",
+        "Tume pind/laud"
+      ],
+      "colorcodes": [
+        "#4A2B00",
+        "#000000",
+        "#C0C0C0",
+        "#8B0000",
+        "#FFFFFF",
+        "#000080"
+      ],
+      "texts": [
+        "damnatio memoriae",
+        "Marseille",
+        "TOTAL",
+        "www.total.bg",
+        "Singapuri Eesti pühakoda on EELK Lõuna-Eesti piirkonna ja Tartu Pauluse koguduse abiga valminud",
+        "Mark-Robert"
+      ],
+      "persons": [
+        "Üks inimene (käed)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teises kaadris ilmuvad esemete hulka must nuputelefon ja kaelapael 'TOTAL', mis esimeses kaadris puudusid.",
+        "Kolmandas kaadris on näha valge salvrätik või paberitükk, mis kukub kotist välja, erinevalt eelnevatest kaadritest, kus seda ei olnud."
+      ],
+      "snr": "021",
+      "ajad": [
+        "291.000",
+        "294.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest minimalistlikus, tumeda taustaga siseruumis, mis meenutab stuudiokeskkonda. Vasakul seisab naine, seljaga vaataja poole, kandes tumepunaseid juukseid krunnis, prille ja musta värvi rõivaid. Ta tundub olevat paigalseisus, võimalik, et jälgib või ootab. Paremal pool on mees heledate juuste ja tumeda halli kõrgkraega kampsuniga, kes tegeleb pruuni nahast õlakotiga. Stseeni vältel on näha, kuidas mees esmalt avab koti, millest paistab välja valge paber või etikett, seejärel vaatab ta süvenenult avatud koti sisse, hoides seda laiemalt lahti, ning lõpuks sulgeb kotti või asetab esemeid tagasi, kott on selles faasis veidi vähem avatud. Taustal on näha tumedat mööblieset või seinaosa, mille taga on heledam ristkülikukujuline pind, mis võib olla osa sisekujundusest või valgusallikast.",
+      "actions": [
+        "Mees avab nahkkotti",
+        "Mees vaatab kotti sisse",
+        "Mees sulgeb nahkkotti",
+        "Naine seisab ja vaatab eemale"
+      ],
+      "keywords": [
+        "stuudio",
+        "minimalistlik",
+        "must taust",
+        "kott",
+        "avamine",
+        "sulgemine",
+        "uurimine",
+        "ootamine",
+        "tumedad riided",
+        "nahkkott",
+        "siseruum"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "prillid",
+        "must pluus",
+        "nahkkott",
+        "kampsun",
+        "valge paber",
+        "etikett",
+        "tume mööbel"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#702f2e",
+        "#333333",
+        "#5a3c26",
+        "#c0c0c0",
+        "#ffffff",
+        "#d0d0d0"
+      ],
+      "texts": [],
+      "persons": [
+        "naine",
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehe nägu osaliselt koti taha varjatud ja kotist paistab valge paber või etikett.",
+        "Teisel pildil on mees vaatamas süvenenult lahtisesse kotti ja tema nägu on selgelt näha, kott on kõige laiemalt avatud.",
+        "Kolmandal pildil on mees endiselt kotti vaatamas, kuid kott on veidi suletud pooleldi või on seda hakatud sulgema, käte asend viitab sulgemisele."
+      ],
+      "snr": "022",
+      "ajad": [
+        "294.720",
+        "297.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tumedal, arvatavasti horisontaalsel pinnal laiali pillutud isiklikke esemeid ja tumepruuni nahast kotti, mida hoiab või millega tegutseb üks käsi. Üldine valgus on hämar, tuues esile esemete värvid ja detailid. Kotist on välja võetud või välja kukkunud mitu eset, sealhulgas raha. Stseen jätab mulje kiirustamisest või asjade organiseerimatusest.",
+      "actions": [
+        "Käsi manööverdab nahkkotiga",
+        "Esemed kukuvad kotist välja või pannakse sinna",
+        "Esemed on laiali pillutud tumedal pinnal"
+      ],
+      "keywords": [
+        "kott",
+        "esemed",
+        "käsi",
+        "must",
+        "pruun",
+        "detailid",
+        "isiklikud asjad",
+        "segadus",
+        "rahapaber"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "tumepruun nahkkott",
+        "käsi",
+        "nööpkõne telefon",
+        "must kaelapael (lanyard)",
+        "CD-plaat ümbrises",
+        "raamat/ajakiri pealkirjaga MARSEILLE",
+        "punane märkmik/raamat",
+        "tumedate kaantega raamat/ajakiri näoga esikaanel",
+        "mõned rahatähed (paber)",
+        "tumedad prillid (kaelapaelal)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#342018",
+        "#2F4259",
+        "#A82D2D",
+        "#C8C8C8",
+        "#D8D8D8",
+        "#E8E8E8"
+      ],
+      "texts": [
+        "TOTAL",
+        "www.shirley...",
+        "claudius jumeaux",
+        "sangria rock psychédélique",
+        "mark rothko",
+        "Mardi Gras",
+        "MARSEILLE"
+      ],
+      "persons": [
+        "üks inimene (käsi on nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on kott rohkem avatud ja viltu, andes mõista, et sealt on just midagi välja kukkunud või välja võetud. Käsi on kotist veidi eemal.",
+        "Teisel pildil on kott püstisemas ja sirgemas asendis, käsi hoiab seda kinni, mis viitab kas koti sulgemisele või ümberpaigutamisele. Koti asend on veidi nihkunud võrreldes esimese pildiga, samuti on rahakukkuv rahatäht teisel pildil paigal."
+      ],
+      "snr": "023",
+      "ajad": [
+        "297.240",
+        "299.280"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud noort naist mustal taustal, kes on kaadris rinnust ülespoole. Tal on tumedad juuksed krunni seotud ja ta kannab prille. Seljas on tal musta värvi kraega särk, millel on kaelas lips või pael. Tema näoilmed ja pilgu suund varieeruvad, viidates sellele, et ta kas räägib, kuulab või reageerib. Mõnel hetkel on tema suu avatud, justkui oleks ta lause keskel, teistel hetkedel on suu suletud ning näoilme on neutraalsem või mõtlikum. Tema silmad liiguvad vaatest veidi kõrvale, seejärel otse vaataja poole ja lõpuks allapoole, peegeldades erinevaid emotsioone ja mõtteid. Üldine meeleolu on tõsine ja professionaalne.",
+      "actions": [
+        "Rääkimine",
+        "Kuulamine",
+        "Reageerimine",
+        "Pilgu suunamine",
+        "Näoilme muutmine"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Stuudio",
+        "Must taust",
+        "Prillid",
+        "Krunn",
+        "Must särk",
+        "Tõsine",
+        "Professionaalne",
+        "Lähivõte"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Prillid",
+        "Särk",
+        "Lips/pael"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#2D1421",
+        "#724E3F",
+        "#AF8F7F",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 75,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise näoilme muutused (suu avatud vs suletud, kergelt naeratav vs tõsine/mõtlik)",
+        "Pilgu suuna muutumine (vaatab vasakule, otse kaamerasse, allapoole)",
+        "Peaasendi kerge muutus (kallutamine)"
+      ],
+      "snr": "024",
+      "ajad": [
+        "299.280",
+        "301.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab minimalistlikku, tumedat stuudiokeskkonda, kus domineerib must taust ja esiplaanil kaks inimest. Vasakul on naine, kes on näoga eemale kaamerast, temast on näha pea ja õlad. Tal on tumepunakas pruunides toonides juuksed krunnis ja ta kannab prille ning tumedat riietust, mis sarnaneb kõrge kaelusega särgiga. Paremal on mees, kes on heleda jumega, blondide tagasi kammitud juustega ja kannab tumedat kõrge kaelusega sviitrit. Mehe nahatoon on ebatavaliselt hele, mis võib olla tingitud meigist või erilisest valgusest. Ta on aktiivselt žestikuleerimas ja suhtleb naisega. Tema näoilme on tõsine ja keskendunud. Tema kätes on tume, pruunikat tooni kott või sarnane ese. Ta puudutab stseeni käigus korduvalt seda eset ja žestikuleerib kord ühe, kord mõlema käega, muuhulgas puudutades ühes kaadris ka oma kõrva või juukseid. Tausta keskel on näha tumedat, püstist ja kitsast objekti, mis meenutab uksepiita, riiuli äärt või valguse piirajat. Üldine atmosfäär on vaikne ja intensiivne, viitades tõsisele vestlusele või arutelule.",
+      "actions": [
+        "Mehe žestikuleerimine",
+        "Mehe käes oleva eseme (kott) hoidmine ja käsitsemine",
+        "Mehe kõrva või juuste puudutamine",
+        "Naine kuulab või vaatab meest (kuigi seljaga)"
+      ],
+      "keywords": [
+        "Stuudio",
+        "Vestlus",
+        "Minimalistlik",
+        "Tume",
+        "Žest",
+        "Interaktsioon",
+        "Tõsine",
+        "Kott",
+        "Meik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Prillid",
+        "Kott (või sarnane pruunikas ese)",
+        "Tume püstine objekt taustal (uksepiit/riiul)",
+        "Kõrvarõngas (naisel)",
+        "Krunn"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#282828",
+        "#303030",
+        "#6B2020",
+        "#E0DCD4",
+        "#B8A28E",
+        "#D4C4B4"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe kehahoiak ja käte asend muutuvad kaadrite vahel.",
+        "Esimeses kaadris mees žestikuleerib avatud käega.",
+        "Teises kaadris mees hoiab ja vaatab käes olevat kotti/eset.",
+        "Kolmandas kaadris mees puudutab oma kõrva või juukseid, samal ajal hoides kotti/eset.",
+        "Naine muudab oma poosi ja pea asendit pisut, kuid on endiselt seljaga kaamera poole."
+      ],
+      "snr": "025",
+      "ajad": [
+        "301.280",
+        "304.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab ülevalt vaadet tumedale lauapinnale, millel on laiali erinevad esemed. Kaadri ülaosas on näha teise inimese käed, mis toetuvad tumepruunile nahast kotile. Esiplaanil on näha esimese inimese käed, kes hoiab tahvelarvutit ja asetab sellele isikutuvastuse eesmärgil kaks Eesti ID-kaarti. Laual on lisaks veel kaks kortsus rahatähte (10 ja 20 eurot), läbipaistvas karbis CD pealkirjaga 'Classiques français' ja raamatu või plaadiümbrise, millel on kujutatud stiliseeritud nägu.",
+      "actions": [
+        "Isikutuvastus dokumentide esitamise kaudu",
+        "ID-kaardi asetamine tahvelarvutile",
+        "Käed toetumas nahkkotile",
+        "Esemete paigutamine lauale"
+      ],
+      "keywords": [
+        "dokumentide esitamine",
+        "isikutuvastus",
+        "Eesti ID-kaart",
+        "raha",
+        "CD",
+        "muusika",
+        "tehing",
+        "käed",
+        "lauapind",
+        "tumedad toonid",
+        "nahkkott",
+        "tahvelarvuti"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "nahkkott",
+        "10 euro kupüür",
+        "20 euro kupüür",
+        "CD-plaat karbis",
+        "raamatu/plaadiümbris",
+        "tahvelarvuti",
+        "Eesti ID-kaart"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#3B2B20",
+        "#808080",
+        "#FFFFFF",
+        "#FFA500",
+        "#800080",
+        "#ADD8E6"
+      ],
+      "texts": [
+        "10 EURO",
+        "20 EURO",
+        "Classiques français",
+        "Champs-Élysées",
+        "EESTI VABARIIK",
+        "IDENTITY CARD",
+        "ISIKUTUNNISTUS"
+      ],
+      "persons": [
+        "isik (käed esiplaanil)",
+        "isik (käed tagaplaanil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on ID-kaardid alles tahvelarvutile asetamisel ja ülemine kaart on tagurpidi. Teisel ja kolmandal pildil on ID-kaardid selgelt tahvelarvutil, ülemine kaart on õiget pidi ja Eesti Vabariigi sümbolid ning tekstid on loetavad. Teine ja kolmas pilt on omavahel sisuliselt identsed."
+      ],
+      "snr": "026",
+      "ajad": [
+        "304.760",
+        "306.320"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noort naist, kellel on tumedad juuksed (kergelt punaka või lilla varjundiga) kinnitatud kuklasse. Tal on musta raamiga prillid ja seljas musta värvi kraega särk, millel on kaelas lipsulaadne detail. Naine kannab vasakus kõrvas väikest kõrvarõngast. Ta on paigutatud ühtlase musta tausta ette. Naise näoilmed varieeruvad kaadrite vahel: ühel hetkel on ta neutraalse või mõtiskleva ilmega, vaadates otse ette. Teisel hetkel on tema suu kergelt avatud, paljastades hambad, ja kulmud on kortsus, mis viitab kõnelemisele, küsimisele või kergele murele. Kolmandal hetkel on tema ilme vaoshoitum ja tõsisem, suu suletud ja pilk allapoole suunatud. Valgustus on eestpoolt, tuues esile naise näojooned ja ülakeha mustal taustal.",
+      "actions": [
+        "Vaatamine ette",
+        "Kõnelemine",
+        "Küsimine",
+        "Mõtisklemine",
+        "Kulmude kortsutamine",
+        "Pilgu pööramine alla",
+        "Ilme muutmine"
+      ],
+      "keywords": [
+        "Portree",
+        "Naine",
+        "Prillid",
+        "Must taust",
+        "Emotsioonid",
+        "Näoilmed",
+        "Mõtlik",
+        "Tõsine",
+        "Küsiv",
+        "Vaikne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Prillid",
+        "Särk",
+        "Kõrvarõngas",
+        "Kukkel (soeng)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#333333",
+        "#800080",
+        "#D8C5BC",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise näoilme muutub neutraalsest ja otse ette vaatavast ilmest küsivaks või murelikuks, avatud suu ja kortsus kulmudega, ning seejärel vaoshoitud ja allapoole suunatud pilguga tõsiseks või kurvaks ilmeka."
+      ],
+      "snr": "027",
+      "ajad": [
+        "306.320",
+        "308.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest siseruumis, mis näib olevat turvakontrolli- või sisenemispunkt, kuna taust on valdavalt must ja vasakul on näha midagi metallidetektori raami meenutavat. Valgustus on dramaatiline ja keskendub tegelastele pimedal taustal. Üks isik, naine (seljaga kaamera poole), on punakaspruunide juustega krunnis, kannab prille ja musta kõrgkaelusega pluusi. Teine isik, mees (näoga kaamera poole), on heledate, tahapoole kammitud juustega, seljas tumehall kõrgkaelusega kampsun ja üle õla rippuv kott. Mees on suhtluses naisega, ulatades talle või näidates väikest tumedat elektroonilist seadet, mis meenutab telefoni või ID-kaardi lugejat. Mehe näoilme muutub kaadrite vältel, algsest neutraalsusest kuni kerge kulmukortsutuse ja tõsisema pilguni, mis viitab ootusärevusele või küsitlemisele. Stseen on minimalistlik ja loob fookuse tegelastele ja nende vahelisele interaktsioonile.",
+      "actions": [
+        "Naine ulatab käe või võtab vastu eseme",
+        "Mees ulatab või näitab elektroonilist seadet",
+        "Mees vaatab alguses otse, seejärel alla seadmele ja lõpuks tõstab pilgu teise isiku poole",
+        "Mees manipuleerib käes oleva seadmega"
+      ],
+      "keywords": [
+        "Turvakontroll",
+        "Sisenemine",
+        "Kohtumine",
+        "Elektrooniline seade",
+        "Siseruum",
+        "Minimalistlik",
+        "Kontrast",
+        "Salapärane",
+        "Valvamine",
+        "Digitaalne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Elektrooniline seade",
+        "Prillid",
+        "Õlakott",
+        "Kõrgkaelusega pluus",
+        "Kõrgkaelusega kampsun",
+        "Metallidetektori raam"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#2F3438",
+        "#6B2925",
+        "#B6B7B9",
+        "#C5A18C",
+        "#A6A6A6"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70-75",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe käte asend ja eseme (elektrooniline seade) paiknemine: esimesel pildil on käed käest-kätte üleandmiseks valmis, järgmistel piltidel on seade mehe käes ja ta uurib seda.",
+        "Mehe pilk: esimesel pildil on pilk suunatud otse ette, teisel alla seadmele ja kolmandal tõstetud teise isiku poole.",
+        "Mehe näoilme: esimesel pildil on näoilme neutraalne, kolmandal on see kergelt küsitlev või tõsine kulmukortsutuse tõttu.",
+        "Naise käe asend: esimesel pildil on naise käsi aktiivselt välja sirutatud eseme vastuvõtmiseks, teistel piltidel on tema käsi vähem nähtav või tagasi tõmmatud."
+      ],
+      "snr": "028",
+      "ajad": [
+        "308.600",
+        "314.120"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud noort naist, kelle tumedad juuksed on kuklas kinni seotud. Ta kannab musti prille, musta kraega särki ja tumedat lipsu. Tema pilk on suunatud vasakule (vaataja paremale) ja nägu on mõtlik, kohati tõsine või veidi nördinud. Esimesel kaadril on suu kergelt allapoole pööratud ja kulmud pisut kortsus, andes ilmele nördinud või mureliku tooni. Järgmistel kaadritel on näoilme muutunud pisut neutraalsemaks ja pingsamalt mõtlikumaks, kuigi tõsidus püsib. Tausta moodustab ühtlane must värv, mis toob esile subjekti ja viitab stuudiokeskkonnale või spetsiifilisele valgustusele, mis isoleerib tegelase. Kaadri fookus on naise ülakehal ja näol.",
+      "actions": [
+        "Pea kergelt vasakule pööramine",
+        "Pilgu suunamine vasakule",
+        "Näoilme muutmine nördinust tõsiselt mõtlikuks"
+      ],
+      "keywords": [
+        "Portree",
+        "Naine",
+        "Prillid",
+        "Must särk",
+        "Lips",
+        "Tõsine",
+        "Mõtlik",
+        "Ametlik riietus",
+        "Stuudio",
+        "Minimalistlik",
+        "Must taust",
+        "Noor"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Prillid",
+        "Särk",
+        "Lips",
+        "Kõrvarõngas"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#b09581",
+        "#2c1a1f"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise näoilme muutub esimesel pildil olevast veidi nördinud või kortsus otsmikuga ilme teisel ja kolmandal pildil olevaks pisut neutraalsemaks ja pingsamalt mõtlikuks.",
+        "Suu asend muutub kergelt allapoole pööratust sirgemaks või vähem väljendunud allapoole suunatud jooneks."
+      ],
+      "snr": "030",
+      "ajad": [
+        "316.720",
+        "318.640"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kahte meest, kes istuvad tumedal, peaaegu mustal taustal ja on süvenenud oma digitaalsetesse seadmetesse. Vasakpoolne mees on Aasia päritolu, kannab musta fedora mütsi ja musta jakki, mille all paistab särk Mario tegelaskuju kujutisega. Ta hoiab mõlema käega musta tahvelarvutit või suurt nutitelefoni ja vaatab selle ekraani. Parempoolne mees on heledate, tahapoole kammitud juustega eurooplane, seljas tumehall, tekstuuriga kõrge kaelusega kampsun ja üle õla rippuv õlakott. Ka tema vaatab alla oma tahvelarvuti ekraani. Meeste näod ja ülakehad on valgustatud, tuues esile nende seadmetega tegelemise. Taust on ühtlaselt must, mis tõstab esile tegelased ja nende tegevuse. Üldine meeleolu on keskendunud ja introverteeritud, viidates pigem individuaalsele digitaalsele maailmale kui omavahelisele suhtlusele.",
+      "actions": [
+        "Tahvelarvutite kasutamine",
+        "Nutitelefoni kasutamine",
+        "Allapoole vaatamine",
+        "Seadmetega tegelemine",
+        "Istumine"
+      ],
+      "keywords": [
+        "Digiseadmed",
+        "Ekraaniaeg",
+        "Tahvelarvuti",
+        "Nutitelefon",
+        "Mehed",
+        "Müts",
+        "Kampsun",
+        "Keskendumine",
+        "Must taust",
+        "Mario",
+        "Tehnoloogia",
+        "Aasia mees",
+        "Kaukaasia mees",
+        "Ootamine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Tahvelarvuti",
+        "Nutitelefon",
+        "Müts",
+        "Must jakk",
+        "Kampsun",
+        "Särk Mario pildiga",
+        "Õlakott"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#4D4D4D",
+        "#3A3A3A",
+        "#B28E72",
+        "#C4AD9A",
+        "#7A5F48",
+        "#D6D6D6"
+      ],
+      "texts": [],
+      "persons": [
+        "Aasia mees",
+        "Kaukaasia mees",
+        "Mehed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on parempoolne mees osaliselt varjatud vasakpoolse mehe ette ulatuva kehaga ja taustal, paistab peamiselt tema õlakott ja osa kehast. Kahel järgneval pildil on mõlemad mehed selgelt ja täielikult nähtavad, istudes kõrvuti.",
+        "Kahel viimasel pildil on parempoolne mees samamoodi fookuses ja selgelt nähtav kui vasakpoolne mees, erinevalt esimesest pildist, kus ta on veidi udune ja kaadri servas.",
+        "Parempoolse mehe kehahoiak ja käte asend erinevad esimesel pildil oluliselt kahel järgneval pildil nähtust, kus ta hoiab stabiilselt tahvelarvutit kahe käega ja vaatab alla."
+      ],
+      "snr": "031",
+      "ajad": [
+        "318.640",
+        "324.400"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab tumedas keskkonnas istuvat inimest, kes hoiab käes tahvelarvutit. Pildistatud on ülevalt alla, fookus on tahvelarvutil ja osaliselt inimese pea tagaküljel ning kättel. Tahvelarvuti ekraan on must ning selle keskel on hõbedane, harjatud metalli tekstuuriga ümar nupp, millel on kujutatud kolmnurk ringi sees. Algselt on nupp staatiline, kuid hiljem näib see aktiveeruvat või nupule vajutatavat, kuna nupust ja selle ümber hakkavad välja kiirgama heledad, peaaegu murdunud või särisevad jooned ja efektid, mis annavad edasi interaktsiooni muljet.",
+      "actions": [
+        "Tahvelarvuti hoidmine",
+        "Tahvelarvuti vaatamine",
+        "Nupule vajutamine (kaudselt)"
+      ],
+      "keywords": [
+        "Tahvelarvuti",
+        "Nupp",
+        "Interaktsioon",
+        "Pimedus",
+        "Digitaalne",
+        "Tehnoloogia",
+        "Salapärane",
+        "Ekraan",
+        "Efekt"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Tahvelarvuti",
+        "Inimese pea",
+        "Käsi",
+        "Nupp",
+        "Ekraan"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#C0C0C0",
+        "#A09080",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel kahel pildil on tahvelarvuti ekraanil olev hõbedane nupp staatilises olekus, näidates lihtsalt sümbolit kolmnurk ringis.",
+        "Kolmandal pildil on nupp aktiveeritud või nupule vajutatud, mida näitavad nupust ja selle ümber ekraanile levivad heledad, justkui murdunud või särisevad visuaalsed efektid, mis annavad märku interaktsioonist."
+      ],
+      "snr": "032",
+      "ajad": [
+        "324.400",
+        "326.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kaks meest, kes istuvad tumedal taustal ja on süvenenud oma tahvelarvutitesse. Vasakul istub noor Aasia päritolu mees, kes kannab musta fedora kaabut ja musta jakki. Jaki alt on näha T-särk, millel on osaliselt nähtav värviline pildikujutis (võimalik, et Super Mario tegelane). Mees hoiab musta tahvelarvutit kahe käega ja vaatab keskendunult allapoole. Tema kõrval paremal istub noor heledate juustega Kaukaasia päritolu mees, kes kannab tumedat kõrge kaelusega kampsunit. Üle tema parema õla on näha pruun rihm, mis kuulub tõenäoliselt kotile. Ka tema hoiab musta tahvelarvutit kahe käega ja vaatab intensiivselt ning süvenenult seadme ekraanile. Taust on ühtlaselt must, mis toob esile kaks meest ja nende tegevuse. Valgus on suunatud peamiselt tegelastele, jättes ümbruse pimedaks ja luues fookustatud meeleolu.",
+      "actions": [
+        "Tahvelarvuti hoidmine",
+        "Keskendunult allapoole vaatamine",
+        "Istumine",
+        "Digitaalse seadmega suhtlemine"
+      ],
+      "keywords": [
+        "Mehed",
+        "Tabletid",
+        "Digiseadmed",
+        "Keskendumine",
+        "Must taust",
+        "Portree",
+        "Tehnoloogia",
+        "Istumine",
+        "Stuudiovõte",
+        "Pimedus",
+        "Süvenemine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Tahvelarvuti",
+        "Fedora kaabu",
+        "Jakk",
+        "T-särk",
+        "Kõrge kaelusega kampsun",
+        "Koti rihm"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#1a1a1a",
+        "#2d2d2d",
+        "#d2a481",
+        "#e3c7ad",
+        "#5f4834"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor Aasia mees",
+        "Noor Kaukaasia mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "033",
+      "ajad": [
+        "326.000",
+        "328.760"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud helejuukseline mees, kes kannab heledat, peaaegu valget ülikonda, valget särki ja heledat lipsu. Tal on jalas valged tossud tumedamate detailidega. Mees seisab avaral ja steriilselt valgel taustal, mis annab stseenile minimalistliku ja puhta ilme. Ta on jäädvustatud mitmes erinevas poosis, mis annab edasi liikumise ja kehakeele. Üldine atmosfäär on hele ja puhas, keskendudes mehele ja tema tegevustele.",
+      "actions": [
+        "Käed laiali hoidma",
+        "Pöial püsti hoidma",
+        "Selga pöörama",
+        "Kaamera poole vaatama",
+        "Gestikuleerima",
+        "Seisma"
+      ],
+      "keywords": [
+        "Mees",
+        "Ülikond",
+        "Valge taust",
+        "Minimalistlik",
+        "Hele",
+        "Pöial püsti",
+        "Stuudio",
+        "Liikumine",
+        "Kehakeel"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Ülikond",
+        "Särk",
+        "Lips",
+        "Tossud",
+        "Valge taust"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#F8F8F8",
+        "#D3D3D3"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 75,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mees muudab oma poose stseenis. Esimesel pildil seisab ta otse kaamera ees, käed laiali laotatud. Teisel pildil on ta pööratud paremale, vaadates tagasi üle õla. Kolmandal pildil seisab ta jälle otse kaamera ees, andes mõlema käega pöial-püsti märguande."
+      ],
+      "snr": "035",
+      "ajad": [
+        "334.640",
+        "355.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab naist seismas musta tausta ees, tumeda leti või kassa taga. Naine kannab tumedaid riideid ja prille ning tal on juuksed krunni seatud. Lett on samuti tume ja sellel on näha mitmeid esemeid. Vasakul on neli valget karpi, millel on kiri 'iPad', virnastatud üksteise peale. Nende kõrval, letil lamab üks tahvelarvuti. Leti paremal pool on virnas segamini esemeid, sealhulgas raamat, kortsus paberitükid ja muud pudipadi. Üldine meeleolu on minimalistlik ja tõsine, rõhutades musta värvi ja esemete paigutust. Valgus on suunatud peamiselt naisele ja letil olevatele esemetele, luues sügava kontrastse varju ümberringi.",
+      "actions": [
+        "Naine seisab leti taga",
+        "Naine toetab kätt letile",
+        "Naine nihutab kätt kergelt letil"
+      ],
+      "keywords": [
+        "Pime",
+        "Must",
+        "Naine",
+        "Lett",
+        "iPad",
+        "Tarbimine",
+        "Minimalistlik",
+        "Kontrast",
+        "Studio",
+        "Üksindus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Lett",
+        "Naine",
+        "iPadi karbid",
+        "Tahvelarvuti",
+        "Raamat",
+        "Kortsus paber",
+        "Prillid",
+        "Tumad riided"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#212121",
+        "#66493e"
+      ],
+      "texts": [
+        "iPad"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise parema käe asend muutub. Esimesel pildil toetub käsi letile iPadi karpide lähedal. Teisel pildil on käsi endiselt letil, kuid sõrmed on veidi sirgemad ja käsi on pisut eemal karpidest. Kolmandal pildil on käsi letilt kergelt tõstetud ja veelgi paremale nihutatud, eemale karpide virnast."
+      ],
+      "snr": "036",
+      "ajad": [
+        "355.400",
+        "366.880"
+      ]
+    },
+    {
+      "explanation": "Stseen algab ülikirka kaadriga, kus helejuukseline mees, riietatud heledasse (tõenäoliselt valgesse või väga helehalli/roosasse) ülikonda, seisab valge, peaaegu ülevalgustatud tausta ees. Mees vaatab otse kaamerasse kerge naeratusega ja hoiab käsi põimitud palve- või tervitusgestis vöökoha kõrgusel. Tema riietus koosneb pintsakust, särgist ja lipsust. Järgneb mustal taustal valge tekstiga tiitrite jada, kus on loetletud filmimeeskonna liikmeid ja tänusõnu erinevate rollide kaupa, nagu 'Kunstniku assistent', 'Grimm', 'Helirežissöör', 'Montaaž' ja 'Tänud', koos nimedega nagu Raul Tõnurist, Tanel Paats, Andri Allas ja Kristjan Pärt. Stseen lõpeb täiesti musta ekraaniga, mis annab märku video või filmi segmendi lõpust.",
+      "actions": [
+        "Mees seisab",
+        "Mees vaatab kaamerasse",
+        "Mees naeratab",
+        "Mees hoiab käsi kokkupõimitult",
+        "Tiitrid jooksevad"
+      ],
+      "keywords": [
+        "Mees",
+        "Ülikond",
+        "Hele taust",
+        "Valge",
+        "Must",
+        "Tiitrid",
+        "Lõpp",
+        "Ülevalgustatud",
+        "Tervitus",
+        "Filmimeeskond"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Ülikond",
+        "Särk",
+        "Lips",
+        "Käed",
+        "Ekraan"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#D0D0D0"
+      ],
+      "texts": [
+        "Kunstniku assistent",
+        "Raul Tõnurist",
+        "Eva Sepping",
+        "Eva Labokin",
+        "Jokim Kuusemaa",
+        "Maria Aua",
+        "Grimm",
+        "Maret Ubaläht",
+        "Helirežissöör",
+        "Tanel Paats",
+        "Platsiheli",
+        "Mona Mi Mikkin",
+        "Karl Hans Ounpuu",
+        "Montaaž",
+        "Andri Allas",
+        "Eriektid",
+        "Värvikorrektsioon",
+        "Tänud",
+        "Kristjan Pärt",
+        "Kätrin Beljaev",
+        "Andra Teede",
+        "Kaspar Kaur",
+        "Ra Ragnar Novod",
+        "Henryk Johan Novod",
+        "Christian Routh",
+        "Tanel Toom"
+      ],
+      "persons": [
+        "Mees",
+        "Raul Tõnurist",
+        "Eva Sepping",
+        "Eva Labokin",
+        "Jokim Kuusemaa",
+        "Maria Aua",
+        "Maret Ubaläht",
+        "Tanel Paats",
+        "Mona Mi Mikkin",
+        "Karl Hans Ounpuu",
+        "Andri Allas",
+        "Kristjan Pärt",
+        "Kätrin Beljaev",
+        "Andra Teede",
+        "Kaspar Kaur",
+        "Ra Ragnar Novod",
+        "Henryk Johan Novod",
+        "Christian Routh",
+        "Tanel Toom"
+      ],
+      "imagetype": "real",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt kujutab meest valgel ülevalgustatud taustal, samas kui teine pilt on mustal taustal valge tekstiga tiitrid ja kolmas pilt on täiesti must ekraan.",
+        "Kaadri sisu muutub oluliselt: elavast inimesest tekstile ja seejärel tühjale mustale ekraanile.",
+        "Värvigamma nihkub heledast ja ülevalgustatud toonist musta ja valge teksti kontrastile ning seejärel täielikule mustusele.",
+        "Valgustus on esimene pildil väga ere ja kunstlik, samas kui hilisemad kaadrid on lihtsalt mustal taustal tekst või tühi."
+      ],
+      "snr": "037",
+      "ajad": [
+        "366.880",
+        "420.000"
+      ]
+    }
+  ]
+}

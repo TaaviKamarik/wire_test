@@ -1,0 +1,1628 @@
+{
+  "film": [
+    "16806",
+    "16684",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Paradiis",
+    "14f477ca91cdec38bc7e9a0194ad44f478685b0e.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täieliku pimedusega, kus ekraan on üleni must. Seejärel ilmuvad ekraanile filmi tiitrid, mis on esitatud punase tekstina mustal taustal. Tekst on jaotatud kategooriatesse nagu režissöör, operaatorid, heli ja montaaž, kasutatud muusika, värviparandus ja disainer. Režissööri ja heli/montaaži eest vastutab Nora Särak, operaatoritena on märgitud Rasmus Puksmann, Roman-Sten Tõnissoo ja Nora Särak. Värviparanduse eest vastutab Roman-Sten Tõnissoo. Muusikana on kasutatud Robin Rimbaud' lugu pealkirjaga \"Towards Alphaville\". Tekst on lihtsas, selges kirjas ja paigutatud ekraani keskele vasakule joondatult. Peale tiitrite kuvamist kaob tekst taas ning ekraan muutub jälle üleni mustaks, viies stseeni tagasi täielikku pimedusse.",
+      "actions": [
+        "tekst ilmub ekraanile",
+        "tekst kaob ekraanilt"
+      ],
+      "keywords": [
+        "filmitiitrid",
+        "lõputiitrid",
+        "must taust",
+        "punane tekst",
+        "pimedus",
+        "krediidid",
+        "ekraanitekst"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "tekst",
+        "ekraan"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#D23434"
+      ],
+      "texts": [
+        "/director/",
+        "nora särak",
+        "/camera/",
+        "rasmus puksmann",
+        "roman-sten tõnissoo",
+        "nora särak",
+        "/sound, editing/",
+        "nora särak",
+        "/music used/",
+        "robin rimbaud",
+        "\"towards alphaville\"",
+        "/color correction/",
+        "roman-sten tõnissoo",
+        "/designer/"
+      ],
+      "persons": [
+        "Nora Särak",
+        "Rasmus Puksmann",
+        "Roman-Sten Tõnissoo",
+        "Robin Rimbaud"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahe seisneb punaste tiitrite ilmumises keskmisel pildil ning nende puudumises esimesel ja kolmandal pildil, mis on täiesti mustad."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "39.720"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumides, mis meenutab suurt tööstuslikku kasvuhoonet või laohoonet, kus on näha klaaskatus ja metallkonstruktsioonid. Põrand on mustusest ja betoonist koosnev. Paremal pool on virnastatud kõrge riiul musti kaste. Keskel on mitu suurt valget tööstuslikku vedelikumahutit (IBC-konteinerid), millel on kollase ja punase piirjoontega ohu märgised – kolju ja ristluud. Üks mees, riietatud valgesse kaitseülikonda ja mustadesse kummikutesse, on tegevuses nende mahutite juures. Tema läheduses on oranži istmega taburet. Vasakul pool on sinine kapp ja mitmesugused tööriistad, sealhulgas oranžid pritsid ja valged kanistrid, samuti gaasimask. Tagaplaanil on näha mitmeid voolikuid, pumpasid ja filtreerimissüsteeme, mis viitavad vedelike käitlemisele. Üldine atmosfäär on töine ja utilitaarne, viidates potentsiaalselt ohtlike materjalide käitlemisele.",
+      "actions": [
+        "Mees seisab taburetil ja kummardub üle valge mahuti, tegutsedes voolikuga, mis viitab vedeliku ümberpumpamisele või käitlemisele.",
+        "Mees astub taburetilt maha ja hakkab mahutite juurest eemale liikuma, vaadates vasakule."
+      ],
+      "keywords": [
+        "kasvuhoone",
+        "tööstuslik",
+        "kemikaalid",
+        "ohutus",
+        "mahutid",
+        "mees",
+        "kaitseülikond",
+        "töö",
+        "ladu",
+        "ohtlikud ained",
+        "IBC konteiner",
+        "pumbasüsteem",
+        "siseruumides"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "klaaskatus",
+        "metallkonstruktsioonid",
+        "sinine kapp",
+        "valged IBC-konteinerid",
+        "mustad virnastatud kastid",
+        "oranži istmega taburet",
+        "mustad kummikud",
+        "valge kaitseülikond",
+        "voolikud",
+        "pumbad",
+        "filtrid",
+        "valged kanistrid",
+        "oranžid pritsid",
+        "respiraator",
+        "ohumärgid (kolju ja ristluud)",
+        "metallist riiulid",
+        "põrand"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#2A497F",
+        "#FFA500",
+        "#FFD700",
+        "#FF0000",
+        "#808080",
+        "#A9A9A9"
+      ],
+      "texts": [
+        "kolju ja ristluude sümbol (ohtlik)"
+      ],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil seisab mees oranži istmega taburetil, kummardudes üle valge mahuti ja tegeleb ilmselt voolikuga vedeliku käitlemisega. Teisel pildil on mees taburetilt maha astunud ja liigub mahutite juurest eemale, vaadates vasakule. Taburet seisab nüüd mehe ees, mitte tema jalgade all."
+      ],
+      "snr": "002",
+      "ajad": [
+        "39.720",
+        "63.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, mis sarnaneb tööstushoone või kasvuhoone keskkonnaga, kus domineerivad torustikud, suured mahutid ja virnastatud kastid. Laeks on läbipaistvad paneelid, mis lasevad sisse loomulikku päevavalgust. Keskel kõnnib täiskasvanud mees, seljas valge üleni kattev kaitseülikond ja tumedad saapad. Tema nägu on osaliselt nähtav, tal on lühikesed heledad juuksed. Ta liigub vasakule kaadri poole. Paremal on näha kõrgeid virnasid tumedaid plastkaste ja mitmesuguseid masinaid koos torustikuga. Vasakul pool on sinine metallkapp, millel on näha valge kolju ja ristluude sümbol (ohtliku aine märk). Kaadri keskel on mitu suurt valget IBC-mahutit, millest ühel on oranži värvi kolju ja ristluude sümbol. Nende mahutite ees on väike oranž taburet. Vasakus alaosas on laual või riiulil mitmesuguseid esemeid, sealhulgas valged pudelid, oranž surveprits ja respiraator. Põrand on betoonist ja näib olevat kergelt määrdunud. Üldine atmosfäär viitab ettevaatust nõudvale töökeskkonnale, võimalik, et kemikaalide või ohtlike ainetega.",
+      "actions": [
+        "Mees kõnnib"
+      ],
+      "keywords": [
+        "Tööstushoone",
+        "kasvuhoone",
+        "kaitseülikond",
+        "ohtlikud ained",
+        "kemikaalid",
+        "mahutid",
+        "ladu",
+        "torustik",
+        "ohutus"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Mahutid (IBC-konteinerid)",
+        "plastikkastid",
+        "torud",
+        "voolikud",
+        "sinine kapp",
+        "taburet",
+        "pudelid",
+        "surveprits",
+        "respiraator",
+        "masinad",
+        "metallkonstruktsioonid",
+        "läbipaistev katus",
+        "kaitseülikond"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#2A4A6A",
+        "#FF8C00",
+        "#1E1E1E",
+        "#9E9E9E"
+      ],
+      "texts": [
+        "Kolju ja ristluude sümbol"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe asend on veidi muutunud, mis viitab liikumisele. Teisel pildil on ta sammu edasi astunud."
+      ],
+      "snr": "003",
+      "ajad": [
+        "63.720",
+        "64.920"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumis, mis näib olevat kasvuhoone või tööstuslik ladu. Ruumil on läbipaistev katus ja seinad, mis lasevad sisse loomulikku päevavalgust, luues avatud, kuid kontrollitud keskkonna. Põrand on betoonist. Keset ruumi kõnnib vasakult paremale valgesse kaitseülikonda riietatud mees. Tema liikumine viitab tegevusele või liikumisele läbi töökoha. Ruumi vasakus servas on sinine kapp või sein, millel on hoiatav sümbol – musta koljuga märk valgel taustal, viidates ohtlikele materjalidele või alale. Läbi stseeni on paigutatud mitu suurt valget tööstuslikku konteinerit (IBC-tankid), millest mõnel on nähtavad oranžid, musta koljuga ohumärgised. Paremal pool on kõrge virn musti plastkaste või -restaale, mis on vertikaalselt ladustatud. Põrandal ja seadmete läheduses on näha mitmesuguseid tööriistu ja tarvikuid, sealhulgas oranž survepesur või pihusti, must kott ja valged kanistrid. Üldine atmosfäär on tööstuslik, funktsionaalne ja viitab potentsiaalsele riskile seoses käsitletavate ainetega.",
+      "actions": [
+        "Mees kõnnib",
+        "Mees liigub",
+        "Tegevus tööstuskeskkonnas"
+      ],
+      "keywords": [
+        "Kasvuhoone",
+        "Tööstuslik",
+        "Kaitseülikond",
+        "Ohtlikud ained",
+        "IBC-tankid",
+        "Ladustamine",
+        "Hoovikäsitsus",
+        "Risk",
+        "Töökeskkond",
+        "Isikukaitsevahendid"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Valge kaitseülikond",
+        "IBC-tankid",
+        "Mustad plastkastid",
+        "Sinine kapp/sein",
+        "Koljuga ohusümbolid",
+        "Oranž survepesur/pihusti",
+        "Valged kanistrid",
+        "Must kott",
+        "Betoonpõrand",
+        "Läbipaistev katus",
+        "Metallist konstruktsioonid",
+        "Valged ämbrid",
+        "Oranž iste/taburet",
+        "Helebeež iste/taburet",
+        "Voolikud",
+        "Pumbad/seadmed"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#214C7E",
+        "#FF8C00",
+        "#888888"
+      ],
+      "texts": [
+        "Koljuga ohusümbol valgel taustal",
+        "Koljuga ohusümbol oranžil taustal"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe kehahoiak ja asend on muutunud, mis näitab tema pidevat liikumist läbi ruumi.",
+        "Esimesel pildil on mehe parem jalg ees ja ta on suunatud veidi paremale, käed veidi kõverdatud.",
+        "Teisel pildil on mehe vasak jalg ees, ta on pöördunud veidi rohkem vaataja poole ja jätkab kõndimist, käed on lõdvemalt ja veidi madalamal. Ta on stseenis mõne sammu võrra edasi liikunud."
+      ],
+      "snr": "004",
+      "ajad": [
+        "64.920",
+        "66.120"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumis, mis meenutab kasvuhoonet või tööstuslikku ladu, kuna seal on läbipaistev katus ja metallkonstruktsioonid. Ruumi paremas servas on virnas musti kaste, tõenäoliselt ladustamiseks. Keskel on mitu suurt valget konteinerit, ilmselt vedelike hoidmiseks, millel on näha ohumärke (kolp ja ristluud). Üks inimene, riietatud valgesse kaitserüüsse, toimetab stseeni vasakus servas sinise kapi lähedal, mis samuti kannab hoiatussümbolit. Põrand on betoonist või mullane. Ümberringi on näha mitmesuguseid torusid, voolikuid ja seadmeid, mis viitavad keemilisele või tööstuslikule protsessile.",
+      "actions": [
+        "Isik valges kaitserüüs liigub vasakule kaadri poole, painutades end sinise kapi juures",
+        "Isik valges kaitserüüs kummardub sinise kapi poole, teostades mingit tegevust või uurides sealset ala"
+      ],
+      "keywords": [
+        "Kasvuhoone",
+        "Tööstushoone",
+        "Kaitserüü",
+        "Ohumärk",
+        "Konteinerid",
+        "Kemikaalid",
+        "Tööohutus",
+        "Ladu",
+        "Seadmed",
+        "Siseruum"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Isik valges kaitserüüs",
+        "Sinine kapp/masin",
+        "Suured valged konteinerid (IBC paagid)",
+        "Oranž kolju ja ristluude ohusümbol",
+        "Voolikud",
+        "Torud",
+        "Metallkonstruktsioonid",
+        "Läbipaistev katus/lagi",
+        "Mustad plastikkastid",
+        "Oranž taburet/tool",
+        "Beež väike taburet/alus",
+        "Valged ämbrid",
+        "Väiksemad valged anumad",
+        "Pumbad",
+        "Filtrid"
+      ],
+      "colorcodes": [
+        "#F8F8F8",
+        "#004080",
+        "#FFFFFF",
+        "#FF6600",
+        "#000000",
+        "#A0A0A0",
+        "#D2B48C"
+      ],
+      "texts": [
+        "Kolju ja ristluude ohusümbol (tankidel ja sinisel kapil)"
+      ],
+      "persons": [
+        "Töötaja/Isik valges kaitserüüs"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on isik valges kaitserüüs sirgema kehahoiakuga ja liigub vasakule. Teisel pildil on isik kummardunud sinise kapi poole, teostades seal mingit tegevust või vaadates lähemalt."
+      ],
+      "snr": "005",
+      "ajad": [
+        "66.120",
+        "68.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest valges kaitseriietuses (kombinesoonis) tööstuslikus või põllumajanduslikus keskkonnas, mis sarnaneb kasvuhoonega. Ruumi iseloomustavad läbipaistev katus, mis laseb sisse loomulikku valgust, ning tihedalt paigaldatud torud, voolikud ja juhtmed lae all ja seintel. Vasakul on sinine metallkapp, millel on kollane kolju ja ristluud ohusümbol. Keskosas asuvad kaks suurt valget vahemahutit (IBC), mis on paigutatud metallpuuridesse, ja ühel neist on oranž kolju ja ristluud sümbol, mis viitab ohtlike ainete olemasolule. Paremal on virnastatud kõrge torn mustadest plastkastidest. Põrand on betoonist või mullane. Mees on hetkel hõivatud oma kaitseriietuse kohendamisega ja liigub sinise kapi läheduses, pakkudes mulje tööprotsessist ohtlike materjalidega.",
+      "actions": [
+        "Mehe kaitseriietuse kohendamine",
+        "Liikumine ja töötamine sinise kapi läheduses",
+        "Võimalik kapi avamine või sellega suhtlemine"
+      ],
+      "keywords": [
+        "Kasvuhoone",
+        "Tööstus",
+        "Kaitseülikond",
+        "Ohtlikud ained",
+        "Keemia",
+        "IBC mahutid",
+        "Ohutus",
+        "Seadmed",
+        "Virnastatud kastid"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Valge kaitsekombinesoon",
+        "Sinine kapp",
+        "Kollane kolju ja ristluud sümbol",
+        "Kaks valget IBC mahutit",
+        "Metallist puurid",
+        "Oranž kolju ja ristluud sümbol",
+        "Torud",
+        "Voolikud",
+        "Juhtmed",
+        "Mustad plastkastid",
+        "Oranž taburet",
+        "Hele taburet/aste",
+        "Valged ämbrid",
+        "Pumbad",
+        "Mootorid",
+        "Läbipaistev katus",
+        "Betoon/muld põrand"
+      ],
+      "colorcodes": [
+        "#F8F8F8",
+        "#0B2C5B",
+        "#FFFF00",
+        "#FFFFFF",
+        "#F97306",
+        "#000000",
+        "#B0B0B0",
+        "#7F5C47"
+      ],
+      "texts": [
+        "Kolju ja ristluud sümbol (hoiatussümbol)"
+      ],
+      "persons": [
+        "Mees kaitseriietuses"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevus piltide vahel seisneb mehe kehaasendis ja tegevuses. Esimesel pildil on mees suunaga vasakule, näib suheldes sinise kapiga või sellega tegeledes. Teisel pildil on ta pööranud ennast rohkem kaamera poole, seljaga endiselt kaamera poole, ja kohendab mõlema käega oma kaitseriietuse kapuutsi."
+      ],
+      "snr": "006",
+      "ajad": [
+        "68.520",
+        "73.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest valges kaitsülikonnas tööstuslikus või põllumajanduslikus kasvuhoone-tüüpi siseruumis. Inimene on pildil kas ülikonda selga panemas või seda reguleerimas, peamiselt kapuutsi piirkonnas. Teda ümbritseb tihe tööstusseadmete ja mahutite paigutus, mis viitab kemikaalide või muude ohtlike ainete käitlemisele. Paremal on virnastatud mustad kastid ja taustal erinevad torud, voolikud ja masinad. Valgustus viitab päevasele ajale, mis tuleb läbi läbipaistva katusekonstruktsiooni.",
+      "actions": [
+        "Inimene paneb selga või reguleerib valget kaitseülikonda",
+        "Inimene kohendab kaitseülikonna kapuutsi või peakatet"
+      ],
+      "keywords": [
+        "kaitseülikond",
+        "tööstus",
+        "kasvuhoone",
+        "kemikaalid",
+        "ohtlikud ained",
+        "ohutus",
+        "ettevalmistus",
+        "siseruum",
+        "mahutid",
+        "ladu",
+        "kolp ja ristluud"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "inimene",
+        "valge kaitseülikond",
+        "sinine kapp või sein",
+        "suured valged IBC mahutid (vähemalt kaks)",
+        "metallpuurid ümber IBC mahutite",
+        "oranž taburet",
+        "beež taburet või aste",
+        "mustad plastikkastid (virnastatud)",
+        "torud",
+        "voolikud",
+        "ventiilid",
+        "pumbad",
+        "elektrijuhtmed",
+        "katusekonstruktsioon (metalltalad ja läbipaistvad paneelid)",
+        "valged ämbrid",
+        "ohtliku aine sümbol (kolp ja ristluud)"
+      ],
+      "colorcodes": [
+        "#F5F5F5",
+        "#2F3B6E",
+        "#ED8018",
+        "#1A1A1A",
+        "#D6C5AC",
+        "#9E9E9E"
+      ],
+      "texts": [
+        "kolp ja ristluud (ohtliku aine sümbol)"
+      ],
+      "persons": [
+        "üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on inimese vasak käsi (vaataja vaates) pisut kõrgemal ja pea veidi rohkem kallutatud, justkui oleks ta kapuutsi üles tõstmas või kohendamas.",
+        "Teisel pildil on inimese käed kergelt allapoole liikunud ja pea asend on sirgem, mis viitab pidevale liigutusele ülikonna reguleerimisel."
+      ],
+      "snr": "007",
+      "ajad": [
+        "73.320",
+        "74.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, mis sarnaneb tööstusliku kasvuhoone või keemialadustamise alaga. Ruumi valgustab läbi läbipaistva katuse tulev päevavalgus. Keskel seisab inimene valges kaitskombinesoonis, kes valmistub tööks. Esimeses etapis paneb ta kombinesooni selga, seejärel kinnitab gaasimaski või respiraatori näole ja kolmandas etapis on ta täielikult varustatud ning kummardub vasakpoolsema sinise seina lähedal millegi poole. Ümberringi on näha mitmeid mahuteid ja seadmeid. Paremal on virnastatud mustad plastkastid, mis moodustavad kõrge lausa kuhja. Keskel on kaks suurt valget IBC-konteinerit metallpuurides, millest ühel on selgelt näha oranž kolju ja ristluude sümbol, mis tähistab mürgist ainet. Konteinerite juurde viivad voolikud. Põrandal on väiksemad valged plastmahutid ja pappkastid. Vasakul on näha sinine sein või vahesein, millel on samuti väiksem kolju ja ristluude sümbol. Stseeni keskel on oranž taburet ja paremal pool heledam pukk. Taustal on näha erinevaid torusid, pumpasid ja filtriseadmeid, mis viitavad tööstuslikule tegevusele. Üldine õhkkond on töine ja ohutusmeetmetest tulenevalt ettevaatlik.",
+      "actions": [
+        "Kaitseriietuse selga panemine",
+        "Gaasimaski/respiraatori kinnitamine",
+        "Kummardumine ja objektidega suhtlemine"
+      ],
+      "keywords": [
+        "Kaitseriietus",
+        "Gaasimask",
+        "IBC-konteinerid",
+        "Mürgine aine",
+        "Töökeskkond",
+        "Ohtlikud ained",
+        "Kasvuhoone",
+        "Tööstusruum",
+        "Mustad kastid",
+        "Ohutus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Kaitskombinesoon",
+        "Gaasimask",
+        "Respiraator",
+        "IBC-konteinerid",
+        "Metallpuurid",
+        "Oranž kolju ja ristluude sümbol",
+        "Voolikud",
+        "Väikesed valged plastmahutid",
+        "Mustad plastkastid",
+        "Oranž taburet",
+        "Hele pukk",
+        "Sinine sein/vahesein",
+        "Pappkastid",
+        "Pumbad",
+        "Filtriseadmed",
+        "Torustik",
+        "Läbipaistev katus"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#FFA500",
+        "#0000FF",
+        "#808080",
+        "#F5F5DC"
+      ],
+      "texts": [
+        "Kolju ja ristluude sümbol (oranž)",
+        "Kolju ja ristluude sümbol (must)"
+      ],
+      "persons": [
+        "Töötaja"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Inimese tegevuste järkjärguline areng: kombinesooni selga panekust gaasimaski kinnitamise ja seejärel kummardumiseni.",
+        "Inimese varustuse täienemine kaadrite vahel (esimene – kombinesoon, teine – kombinesoon ja mask, kolmas – täisvarustus ja kummardunud asend)."
+      ],
+      "snr": "008",
+      "ajad": [
+        "74.520",
+        "97.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, mis meenutab tööstuslikku ladu või suurt kasvuhoonet, mille läbipaistvast materjalist katus laseb läbi loomulikku valgust, pakkudes päevavalgustust. Ruum on täidetud mitmesuguste seadmete, torude ja hoiustamiskonteineritega. Kaadri keskel on näha inimene, kes kannab valget täiskaitseülikonda, siniseid kindaid ja respiraatorimaski, mis viitab tööle ohtlike või spetsiifiliste ainetega. Paremal pool on kõrged virnad tumedaid plastikkaste. Keskel on mitu suurt valget mahutit (IBC), mis on ümbritsetud metallpuuriga, millest ühel on selgelt näha oranž korrosioonihoiatuse sümbol. Vasakul seina ääres on sinine kapp või uks, millel on mürgisümbol (kolju ja ristluud). Põrandal on väiksemad valged ja oranžid kanistrid, pudelid ja sinine ämber. Ruumis jooksevad läbi metallist torud ja karkassid, taustal on näha ka pumpasid ja muid mehhanisme, mis annavad edasi tööstusliku või põllumajandusliku kasvuhoone keskkonna hõngu.",
+      "actions": [
+        "Inimene painutab küürus, kas midagi maast korjates või parajasti seadistades",
+        "Inimene sirutab end püsti ja reguleerib oma respiraatorimaski või kindaid"
+      ],
+      "keywords": [
+        "kaitseülikond",
+        "respiraator",
+        "ohtlikud ained",
+        "kemikaalid",
+        "ladu",
+        "kasvuhoone",
+        "tööstus",
+        "ohutus",
+        "hoiustamine"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "kaitseülikond",
+        "respiraatorimask",
+        "sinised kindad",
+        "valged IBC mahutid",
+        "metallpuurid",
+        "oranžid taburetid",
+        "mustad plastikkastid",
+        "sinine kapp",
+        "torud",
+        "pumbad",
+        "kanistrid",
+        "pudelid",
+        "ämber",
+        "metallkarkassid",
+        "läbipaistev katus"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#0000FF",
+        "#FF8C00",
+        "#000000",
+        "#D3D3D3"
+      ],
+      "texts": [
+        "Mürgisümbol (kolju ja ristluud)",
+        "Korrosioonisümbol (vedelik valab käele ja pinnale)"
+      ],
+      "persons": [
+        "inimene kaitseriietuses"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Inimese asend ja tegevus on erinev: esimesel pildil on inimene küürus, teisel pildil seisab püsti ja reguleerib maski või kindaid.",
+        "Respiraatorimask on teisel pildil selgelt näha ja kantud, esimesel pildil on see varjatud või just peale panemisel."
+      ],
+      "snr": "009",
+      "ajad": [
+        "97.320",
+        "102.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tööstuslikku või põllumajanduslikku kasvuhoonet, mis on täidetud mitmesuguste seadmete ja konteineritega, viitades keemilisele töötlemisele või ladustamisele. Vasakul on näha valges kaitseriietuses inimene, kes on osaliselt kaadrist väljas. Keskel asuvad kaks suurt valget IBC konteinerit, millest ühel on selgelt nähtav pealuu ja ristluude hoiatussümbol. Ümberringi on erinevaid torusid, pumbasid ja muid tööstuslikke komponente. Paremal pool on virnastatud mustad plastkastid. Põrandal on näha tööriistu, nagu oranžid pihustid, ja pappkaste. Üks väike loom (tõenäoliselt kass või koer) on peidus ühe konteineri all. Lagi on läbipaistev, lastes sisse loomulikku päevavalgust. Üldmulje on funktsionaalne, kuid potentsiaalselt ohtlik töökeskkond.",
+      "actions": [
+        "Inimene kaitseriietuses liigub (osaliselt nähtav)",
+        "Väike loom varjab end konteineri all"
+      ],
+      "keywords": [
+        "Kasvuhoone",
+        "Tööstuslik",
+        "Kemikaalid",
+        "Kaitseülikond",
+        "Konteinerid",
+        "Torud",
+        "Ladustamine",
+        "Ohtlik",
+        "Seadmed",
+        "Töökeskkond"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Inimene kaitseriietuses",
+        "Suured valged IBC konteinerid",
+        "Mustad plastkastid",
+        "Torud",
+        "Pumbad",
+        "Oranžid toolid",
+        "Väike loom (kass/koer)",
+        "Oranžid pihustid",
+        "Valged pudelid",
+        "Pappkastid",
+        "Metallraamid",
+        "Läbipaistev katus"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#FF8C00",
+        "#808080",
+        "#4169E1",
+        "#A52A2A"
+      ],
+      "texts": [
+        "Pealuu ja ristluude hoiatussümbol"
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Pilte vaadeldes ei ole mingeid märgatavaid erinevusi objekti paigutuses, valgustuses, inimeste või loomade asendis, mistõttu kaadrid on identsed."
+      ],
+      "snr": "010",
+      "ajad": [
+        "102.120",
+        "102.640"
+      ]
+    },
+    {
+      "explanation": "Stseen algab mustal taustal oleva punase stiliseeritud tekstiga 'paradiis', mis toimib tiitlikaardina. Seejärel liigutakse looduslikele lähivõtetele. Esimeses looduskaadris on fookuses rohelised lehed ja varred udusel taustal, millele on lisatud subtiitrid, mis mõtisklevad millegi ilu ja valu aspektide üle. Järgmine kaader on ekstreemne lähivõte punaka-kreemikast roosiõie kroonlehest, mis on veel osaliselt suletud, sügavas fookusest väljas tumedal taustal. Sellel kaadril jätkuvad subtiitrid, mis kirjeldavad subjekti kui 'spice girl'i', lisades karakterile vürtsikuse ja teravuse dimensiooni, mis haakub eelneva valu ja ilu kontrastiga. Üldiselt loob stseen atmosfääri, mis uurib ilu, looduse ja potentsiaalsete ohtude teemasid.",
+      "actions": [
+        "Pealkiri ilmub ekraanile",
+        "Kaadrid vahetuvad",
+        "Subtiitrid ilmuvad ekraanile",
+        "Fookus liigub erinevatele taimeosadele"
+      ],
+      "keywords": [
+        "Paradis",
+        "Tiitlikaart",
+        "Roos",
+        "Lehed",
+        "Loodus",
+        "Ilu",
+        "Valu",
+        "Kontrast",
+        "Subtiitrid",
+        "Lähivõte",
+        "Emotsioon",
+        "Metafoor"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Tekst",
+        "Roosiõis",
+        "Rohelised lehed",
+        "Taimevarred"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#A61D1A",
+        "#4F5E4E",
+        "#959C8F",
+        "#C8AE7F",
+        "#E2DCC2"
+      ],
+      "texts": [
+        "paradiis",
+        "On one hand it is beautiful and pleasant and on the other it also stings sometimes.",
+        "that she's a spice girl."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on musta taustaga tiitlikaart punase tekstiga, teine pilt on roheliste lehtede lähivõte valgete subtiitritega ja kolmas pilt on punase-kreemika roosi ekstreemne lähivõte valgete subtiitritega.",
+        "Värvigamma muutub mustalt/punaselt roheliseks/tumedaks ja seejärel punaseks/kreemikaks/tumedaks.",
+        "Fookuses olev objekt muutub tiitlitelt üldistele taimelehtedele ja seejärel spetsiifilisele roosiõiele.",
+        "Teksti sisu areneb pealkirjast filosoofilisest mõtisklusest isikupärasema ja kujundlikuma kirjelduseni."
+      ],
+      "snr": "011",
+      "ajad": [
+        "102.640",
+        "143.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kasvuhoone või siseruumides asuva taimekasvatuse ala sisemust, kus toimub automaatne niisutamine. Kogu keskkond on täidetud tiheda, valge udu või veepritsmega, mis annab piltidele häguse ja ebamäärase ilme. Esiplaanil ja taustal on näha rohelisi taimeridu, mis on tõenäoliselt istikud või noored kultuurid. Ühel pildil on selgelt esiplaanil nähtav pruunikas või metallikvärvi pihustiotsik, mis aktiivselt paiskab välja veejuga või udu taimede suunas. Kasvuhoone struktuur, nagu raamid või tugipostid, on udu tõttu taustal vaevu eristatav, ilmudes tumedate ja ähmastena. Taimede vahel on märgata hajali kollaseid elemente, mis võivad olla märgised, sildid või väikesed tuled. Üldine mulje on automaatsest hooldusest ja kontrollitud keskkonnast taimede kasvatamiseks, kusjuures liikumise hägusus viitab kas pihusti kiirele tööle või kaamera liikumisele.",
+      "actions": [
+        "Taimede kastmine/niisutamine",
+        "Vee pihustamine",
+        "Automaatse niisutussüsteemi töö"
+      ],
+      "keywords": [
+        "Kasvuhoone",
+        "Niisutus",
+        "Udu",
+        "Pihusti",
+        "Taimed",
+        "Rohelus",
+        "Hägusus",
+        "Automaatika",
+        "Põllumajandus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Pihustiotsik",
+        "Vesi/Udu",
+        "Taimed/Seemikud",
+        "Kasvuhoone struktuur/karkass",
+        "Kollased märgised/detailid"
+      ],
+      "colorcodes": [
+        "#E0E0E0",
+        "#608060",
+        "#404040",
+        "#CCAA00",
+        "#8B4513"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide fookuspunkt ja teravus varieeruvad oluliselt; mõned pildid on märgatavalt ähmastemad kui teised.",
+        "Ühel pildil on pihustiotsik selgelt esiplaanil nähtav ja aktiivselt pihustamas, teistel piltidel on see kas eemal, vähem nähtav või täielikult udu sisse mattunud.",
+        "Udu ja veejoa intensiivsus ning nähtavus varieeruvad piltide vahel, andes erineva atmosfäärihägususe.",
+        "Erinevad vaatepunktid või kaameranurgad pakuvad stseenist erinevaid perspektiive."
+      ],
+      "snr": "012",
+      "ajad": [
+        "143.000",
+        "147.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab suurt tööstuslikku kasvuhoonet, millel on klaaskatus ja metallkonstruktsioonid. Kasvuhoones on ridadesse istutatud arvukalt rohelisi taimi, mis näivad olevat roosid või sarnased põõsad. Mööda taimeridade vahelist käiku liigub töötaja, kes kannab täielikku valget kaitseülikonda, respiraatorimaski, kindaid ja saapaid. Ta pritsib taimi peene uduga, mis levib tema ümber õhus, tõenäoliselt taimekaitsevahendit või toitaineid. Ülal ripuvad laest arvukad kunstlikud valgustid, mis täiendavad loomulikku valgustust läbi klaaslae. Paremal on näha ka pritsimisvoolik, mis kulgeb piki rida.",
+      "actions": [
+        "Taimede pritsimine",
+        "Põllumajandustöö",
+        "Aiandustöö",
+        "Taimede hooldamine",
+        "Käimine"
+      ],
+      "keywords": [
+        "Kasvuhoone",
+        "Taimekaitse",
+        "Pritsimine",
+        "Taimed",
+        "Töötaja",
+        "Kaitseülikond",
+        "Respiraator",
+        "Aiandus",
+        "Põllumajandus",
+        "Klaaskatus",
+        "Lambid",
+        "Rohelus",
+        "Udu"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Kasvuhoone",
+        "Klaaskatus",
+        "Metallkonstruktsioonid",
+        "Lambid",
+        "Taimed",
+        "Lehed",
+        "Taimeridad",
+        "Käik",
+        "Kaitseülikond",
+        "Respiraatorimask",
+        "Kindad",
+        "Saapad",
+        "Pritsimisseade",
+        "Pritsimisvoolik",
+        "Udu/aur"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#6B8F5C",
+        "#8C8C8C",
+        "#3A69A1",
+        "#9D473A",
+        "#2C2C2C",
+        "#B0B0B0"
+      ],
+      "texts": [],
+      "persons": [
+        "Töötaja",
+        "Aiandustöötaja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaamera vaatepunkt ja suumitase muutuvad, liikudes laiemalt kaadrilt kitsamaks. Esialgu on kaader laiem, näidates suuremat osa kasvuhoonest, kuid liigub järjest lähemale töötajale. Viimasel pildil on kaader oluliselt sisse suumitud, keskendudes töötaja ülakehale ja näole, andes parema ülevaate tema kaitsevarustusest ja pritsitavast udust."
+      ],
+      "snr": "013",
+      "ajad": [
+        "147.000",
+        "155.560"
+      ]
+    },
+    {
+      "explanation": "Stseenis istub vanem mees heledast puidust laua taga, vaadates otse kaamerasse. Tal on prillid, helesinine-valgetriibuline särk ja tumesinine vest või jakk. Tema suu on kergelt avatud, mis viitab rääkimisele. Mehe ees laual on väike roheline toataim valges ribilisel potis, dekoratiivne pruun-oranž keraamiline anum kaanega ja puidust salvrätihoidja rohelise salvrätiga. Taustal on näha köögi interjööri heledast puidust seinapaneelide ja heledate puitkappidega. Köögilett on tagaseinal, sellel on erinevad köögiseadmed, nagu mikrolaineahi, kohvimasin, veekeetja ja kraanikauss kraaniga. Letil on ka dekoratiivesemeid ja pudeleid (sealhulgas Coca-Cola). Puidust seinal paremal on raamitud tunnistused või pildid. Valgustus on ere, viidates päevasele ajale. Stseeni alumises osas ilmuvad ja kaovad valged subtiitrid, mis tõlgivad mehe juttu.",
+      "actions": [
+        "Mees istub",
+        "Mees räägib"
+      ],
+      "keywords": [
+        "Mees",
+        "Köök",
+        "Söögilaud",
+        "Jutuajamine",
+        "Interjöör",
+        "Puumaja",
+        "Vanem mees",
+        "Subtiitrid",
+        "Toataim",
+        "Keraamiline anum",
+        "Ahi",
+        "Mikrolaineahi",
+        "Kohvimasin",
+        "Veekeetja",
+        "Coca-Cola",
+        "Tunistused",
+        "Puidust sein"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Puidust laud",
+        "Toataim",
+        "Valge pot",
+        "Keraamiline anum",
+        "Salvrätihoidja",
+        "Roheline salvrätik",
+        "Prillid",
+        "Triibuline särk",
+        "Tumesinine vest/jakk",
+        "Köögikapid",
+        "Puidust seinapaneelid",
+        "Köögilett",
+        "Mikrolaineahi",
+        "Kohvimasin",
+        "Veekeetja",
+        "Kraanikauss",
+        "Kraan",
+        "Coca-Cola pudelid",
+        "Köögikaal",
+        "Raamitud tunnistused/pildid",
+        "Valged subtiitrid"
+      ],
+      "colorcodes": [
+        "#D2B48C",
+        "#8B4513",
+        "#FFFFFF",
+        "#006400",
+        "#CD853F",
+        "#A9A9A9",
+        "#2F4F4F",
+        "#F5DEB3"
+      ],
+      "texts": [
+        "We also had a farm but we have sold it later and to tell the truth my wife was against to sell anything.",
+        "But my wife has to refused to sell it and said, that money is just a paper and what can we do with paper?"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teine ja kolmas pilt sisaldavad valgeid subtiitreid, mis puuduvad esimesel pildil.",
+        "Mehe näoilme ja suu asend muutuvad pisut, viidates pidevale kõnele või liikumisele.",
+        "Piltide vahel pole muid olulisi erinevusi objektides ega taustas."
+      ],
+      "snr": "014",
+      "ajad": [
+        "155.560",
+        "182.480"
+      ]
+    },
+    {
+      "explanation": "Stseen algab laia kaadriga, mis näitab avarasse kasvuhoonet, mis on täis roosipõõsaid. Paljudel roosipõõsastel on roosakasvalged pungad, samal ajal kui mitmed sügavpunased roosid on juba õide puhkenud. Roheliste lehtede vahel jooksevad sinised tuginiidid või -traadid ning paremal üleval on näha kollast liimipüünist või lippu. Ekraanil ilmuvad subtiitrid, mis väljendavad arutelu raha väärtuse üle ja ebakindlust tuleviku osas. Teisel pildil on paremal pool osaliselt näha inimese kätt, mis ilmselt hooldab või korjab roose. Kolmandal pildil on fookus nihkunud lähivõttele suurest kimpust sügavpunastest, värskelt lõigatud roosidest, mida hoitakse käes. Taust on udune, rõhutades roose. Kogu stseen on eredalt valgustatud, viidates päevasele ajale kasvuhoone sisemuses, andes edasi töökat ja mõtisklevat atmosfääri.",
+      "actions": [
+        "Rooside kasvatamine",
+        "Roosipõõsaste hooldamine",
+        "Rooside korjamine",
+        "Lillede käes hoidmine",
+        "Teksti lugemine (subtiitrid)"
+      ],
+      "keywords": [
+        "Roosikasvatus",
+        "Kasvuhoone",
+        "Punased roosid",
+        "Roosipungad",
+        "Lillekasvatus",
+        "Põllumajandus",
+        "Lilled",
+        "Kimp",
+        "Subtiitrid",
+        "Töö",
+        "Ebakindlus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Roosipõõsad",
+        "Punased roosid",
+        "Roosipungad",
+        "Rohelised lehed",
+        "Sinised tuginiidid",
+        "Kollane liimipüünis",
+        "Inimese käsi",
+        "Lõikelilled (kimp)"
+      ],
+      "colorcodes": [
+        "#660000",
+        "#335533",
+        "#0088FF",
+        "#FFFF00",
+        "#E0D0D0"
+      ],
+      "texts": [
+        "But my wife has to refused to sell it and said, that money is just a paper and what can we do with paper?",
+        "I can't see the future here."
+      ],
+      "persons": [
+        "Isik (käsi)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene ja teine pilt näitavad kasvuhoonet laias plaanis, samas kui kolmas pilt on lähivõte käes hoitavast lõigatud roosikimbust.",
+        "Teisel pildil on paremal pool selgemini näha inimese kätt kui esimesel pildil.",
+        "Subtiitrid on nähtavad ainult esimesel ja teisel pildil."
+      ],
+      "snr": "015",
+      "ajad": [
+        "182.480",
+        "213.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat prillidega meest, kes istub puidust laua taga hubases köögi- või söögitoas. Mees kannab heledat vesti triibulise särgi peal ja tema pilk on suunatud otse kaamerasse. Ta suu on kergelt avatud, mis viitab kõnelemisele. Taustal on näha puidust seinapaneele ja heledaid puidust köögikappe. Köögiletil on mitmesuguseid kodumasinaid, nagu mikrolaineahi, blender või veekeetja, ja erinevaid pudeleid (nt Coca-Cola). Laua peal mehe ees on valge sooneline lillepott rohelise taimega, pruun keraamiline suhkrutoos või purk kaanega ning puidust salvrätihoidja rohelise salvrätiga. Need esemed asetsevad valgel lauakattel või linikul. Üldine atmosfioon on kodune ja soe, rõhutades puidu ja looduslike toonide kasutamist sisustuses.",
+      "actions": [
+        "Mees istub laua taga.",
+        "Mees räägib kaamerasse (otsene kõne)."
+      ],
+      "keywords": [
+        "Meheportree",
+        "Siseinterjöör",
+        "Köök",
+        "Söögituba",
+        "Puidust mööbel",
+        "Kodu",
+        "Kaamera ees",
+        "Vestlus",
+        "Toidunõud",
+        "Klaasid",
+        "Prillid",
+        "Pott",
+        "Taim",
+        "Lauakate",
+        "Mikrolaineahi",
+        "Kapp",
+        "Seinapaneelid",
+        "Pudelid",
+        "Keraamika"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Laud (puidust)",
+        "Puidust seinapaneelid",
+        "Köögikapid (hele puit)",
+        "Mikrolaineahi",
+        "Veekeetja/Blender",
+        "Erinevad pudelid (joogid, kastmed)",
+        "Taldrikud/kausid (nähtavad letil)",
+        "Väike roheline taim",
+        "Valge sooniline lillepott",
+        "Pruun keraamiline suhkrutoos/pott kaanega",
+        "Puidust salvrätihoidja",
+        "Roheline salvrätt",
+        "Valge lauakate/linik",
+        "Pildid/sertifikaadid seinal",
+        "Punane lilleseade/vaas seinal",
+        "Prillid"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#D2B48C",
+        "#FFFFFF",
+        "#006400",
+        "#A9A9A9",
+        "#FF0000",
+        "#000000"
+      ],
+      "texts": [
+        "I have a son and I was hoping that he will join us",
+        "but as it happens his life interests are elsewhere."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid, teisel pildil on subtiitrid \"I have a son and I was hoping that he will join us\" ja kolmandal pildil \"but as it happens his life interests are elsewhere.\"",
+        "Mehe suu asend ja näoilme muutuvad kergelt, mis viitab kõnelemisele erinevates hetkedes."
+      ],
+      "snr": "016",
+      "ajad": [
+        "213.880",
+        "232.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaatega sisetingimustes asuvat lillede ettevalmistamise töökoda või laoruumi. Keskel on blondi juustega naine, kes kannab bordoopunast pluusi ja tumedaid pükse ning rohelist põlle, toimetamas metallist kraanikausi ja tööpinna juures. Ta töötleb lilli, mis on asetatud kraanikausi kohale, ning ümberringi on palju laiali pillutud lillelehti ja -kroonlehti. Paremal ja vasakul on riiulitel ja laudadel suured kimbud punaseid ja oranže roose. Seinte alaosa on kaetud valgete kahhelkividega, ülemine osa on valge. Seinal ripuvad kolm roosipilti, üks plakat kirjaga “STOP” ja punase raamiga ümmargune seinakell. Paremal pool on näha metallist lauakonstruktsiooni, millel on rooside kimbud ja roheline masin. Üldine atmosfäär on töine ja veidi segamini.",
+      "actions": [
+        "Lillede ettevalmistamine",
+        "Lillede puhastamine",
+        "Lillede töötlemine kraanikausi juures"
+      ],
+      "keywords": [
+        "Lillepood",
+        "Töökoda",
+        "Roosid",
+        "Florist",
+        "Lilled",
+        "Töötamine",
+        "Ettevalmistus",
+        "Sisetingimused",
+        "Laiali pillutud",
+        "Lilledelehed"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Punased roosid",
+        "Oranžid roosid",
+        "Lilled",
+        "Lehed",
+        "Kroonlehed",
+        "Valged kahhelkivid",
+        "Seinakell",
+        "Seinapildid",
+        "Kraanikauss",
+        "Töölaud",
+        "Riiulid",
+        "Ämbrid",
+        "Põll",
+        "Masin",
+        "Hinnasildid",
+        "Voolikud",
+        "Metallist konstruktsioonid",
+        "Pistikupesad"
+      ],
+      "colorcodes": [
+        "#F8F8F8",
+        "#B1252C",
+        "#DD6E3D",
+        "#74232C",
+        "#3E8455",
+        "#CB2C2C",
+        "#78746F"
+      ],
+      "texts": [
+        "15-",
+        "STOP",
+        "But I am fine now, what is in the past is in the past."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naine muudab veidi oma kehahoiakut ja käte asendit.",
+        "Viimasele pildile ilmub valgete tähtedega ingliskeelne subtiiter: 'But I am fine now, what is in the past is in the past.'"
+      ],
+      "snr": "017",
+      "ajad": [
+        "232.280",
+        "244.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri, mis on tõenäoliselt lillede töötlemise töökoda. Kesksel kohal on inimene, kes tegeleb rooside ettevalmistamisega tööstuslike masinate abil. Ruumi iseloomustavad valged kahhelkividest seinad, tumedad tööpingid ja kaks suurt masinat, mis on ilmselt mõeldud rooside varte puhastamiseks lehtedest ja okastest. Põrandal ja masinate ümber on näha virnu rohelistest lehtedest ja vartest, mis viitab aktiivsele töötlemisele. Inimene kannab tumedat pikavarrukaga särki (tõenäoliselt bordoopunast või tumepunast) ja tumedaid pükse, kandes heledaid kollakaid kindaid. Nad käsitlevad mitmeid roosikimpe, millest mõned on pakitud läbipaistvasse kilesse. Stseenis on näha nii punaseid kui ka roosasid roose. Üks masinatest on tumerohelist või sinakasrohelist värvi ja selle küljes on näha niidirullid. Teine masin on tumedam, hallikas. Valgustus on kunstlik, mis on tüüpiline tööstuskeskkonnale. Stseenis kuvatakse subtiitreid, mis annavad edasi emotsionaalse tooni.",
+      "actions": [
+        "rooside käitlemine",
+        "rooside masinasse söötmine",
+        "rooside pakkimine või ettevalmistamine",
+        "rooside varte puhastamine masinaga"
+      ],
+      "keywords": [
+        "lilletööstus",
+        "roosid",
+        "töökoda",
+        "masinad",
+        "lillede töötlemine",
+        "töö",
+        "tööline",
+        "subtiitrid",
+        "tööstuskeskkond"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "roosikimbud",
+        "rohelised lehed",
+        "varred",
+        "masinad",
+        "tööpind",
+        "valged kahhelkivid",
+        "kindad",
+        "riided",
+        "plastpakend",
+        "niidirullid"
+      ],
+      "colorcodes": [
+        "#5A000A",
+        "#1E3F3B",
+        "#FFFFFF",
+        "#333333",
+        "#2C4D2E",
+        "#C00000",
+        "#F0C475",
+        "#F0B4BB"
+      ],
+      "texts": [
+        "But I am fine now,",
+        "what is in the past is in the past."
+      ],
+      "persons": [
+        "inimene (tööline)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Inimese käte asend ja rooside käitlemise etapp muutuvad kaadrite vahel, näidates erinevaid tööfaase.",
+        "Roosikimpude asetus ja hulk tööpinnal varieerub, kajastades käimasolevat töötlemist.",
+        "Teises ja kolmandas kaadris on selgelt näha plastpakendisse mähitud punaseid roose, samal ajal kui esimeses kaadris on fookuses roosad roosid ja pakend pole nii silmatorkav."
+      ],
+      "snr": "018",
+      "ajad": [
+        "244.760",
+        "247.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri, mis näib olevat lillede töötlemise või pakendamise töökoda. Taustal on valge kahhelkiviga kaetud sein, mis on kohati määrdunud või pritsitud. Esifooliumil vasakul on osaliselt näha inimene, kes kannab tumedat riietust ja valget kindat paremas käes. Isik tegeleb punaste rooside töötlemisega, eemaldades neilt lehti ja okkaid, kasutades selleks spetsiaalset mehaanilist seadet, mis asub laual. Laual olev masin on tume, ilmselt metallist, ja sellel on hoobad ning teravad osad lehtede eemaldamiseks. Töölaua all ja ümber ning ka paremal pool põrandal on näha mahavisatud rohelisi lehti ja varreosi, mis viitab aktiivsele tööprotsessile. Paremal pool stseenis on näha veel teine, suurem tumeroheline masin, mis on samuti kaetud lehtede ja muu prahiga. Taustal vasakul on näha ka mõned valged rullid ja teised tööstuslikud esemed. Kogu stseen annab edasi töökuse ja tootmise õhkkonna. Pildi allosas on näha ingliskeelsed subtiitrid.",
+      "actions": [
+        "Lillede töötlemine",
+        "Rooside lehtede eemaldamine",
+        "Masina kasutamine",
+        "Rooside ettevalmistamine"
+      ],
+      "keywords": [
+        "Lilletööstus",
+        "Roosid",
+        "Töötlemine",
+        "Töökoda",
+        "Masinad",
+        "Subtiitrid",
+        "Produktsioon",
+        "Käsitöö"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Roosid (punased)",
+        "Lillevarred",
+        "Rohelised lehed",
+        "Lillede töötlemise masin (lauapealne)",
+        "Suurem masin (põrandal)",
+        "Töölaud",
+        "Valged kahhelkivid",
+        "Kinnas (valge)",
+        "Tumedad riided",
+        "Kilepakend",
+        "Rullmaterjal",
+        "Hoovad"
+      ],
+      "colorcodes": [
+        "#A10200",
+        "#003D00",
+        "#2A562A",
+        "#F0F0F0",
+        "#FFFFFF",
+        "#1E1E1E",
+        "#7C624C"
+      ],
+      "texts": [
+        "But I am fine now, what is in the past is in the past."
+      ],
+      "persons": [
+        "Töötaja (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Inimese parem käsi ja töödeldav roos on teises asendis, mis näitab liikumist ja tööprotsessi edenemist kaadrite vahel."
+      ],
+      "snr": "019",
+      "ajad": [
+        "247.160",
+        "248.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri töökoda või lillede töötlemise ruumi, kus toimub taimede, tõenäoliselt rooside, ettevalmistamine. Vasakul pool on näha osaliselt inimene, kes tegeleb roheliste taimevarte sorteerimise või töötlemisega. Pildil on kaks peamist masinat: üks keskel vasakul, millega inimene otseselt interakteerub, ja teine paremal, mis tundub olevat sarnase otstarbega. Mõlemad masinad on tööstusliku ilmega, hallid või tumerohelised, ning nende ümber ja sees on näha rohkelt rohelisi lehti ja varsi. Parempoolse masina kohal riiuli peal on virnas suured kimbud rohelisi taimi. Taustal on valged kahhelkividest seinad, mis annab ruumile puhta, kuid funktsionaalse ilme. Stseenis on näha ingliskeelsed subtiitrid pildi allosas.",
+      "actions": [
+        "Inimene töötleb rohelisi taimevarsi ja lehti, tõenäoliselt kasutades selleks masinat.",
+        "Lillede või taimede sorteerimine ja ettevalmistamine.",
+        "Käe liigutamine masina ja taimede vahel."
+      ],
+      "keywords": [
+        "Lilletöötlemine",
+        "Töökoda",
+        "Roosid",
+        "Tööstusmasinad",
+        "Rohelised taimed",
+        "Käsitsi töö",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Roosivarsed",
+        "Rohelised lehed",
+        "Lillede töötlemise masinad (kaks tükki)",
+        "Töölaud",
+        "Valged kahhelkividest seinad",
+        "Riiul",
+        "Kollane kinnas"
+      ],
+      "colorcodes": [
+        "#2E4D2C",
+        "#3A3A3A",
+        "#F0F0F0",
+        "#1A1A1A",
+        "#F2C200"
+      ],
+      "texts": [
+        "But I am fine now,",
+        "what is in the past is in the past."
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevus piltide vahel on minimaalne ja seisneb eelkõige inimese käe asendis. Esimesel pildil on inimese käsi (vasakul pool kaadris) madalamal ja vähem nähtav, teisel pildil on käsi tõstetud, kandes kollast kinnast, ja on selgemini näha, suunatud masina või taimede poole. Ülejäänud stseen ja esemete paigutus on identne, viidates kiirele järjestikusele kaadrile videost."
+      ],
+      "snr": "020",
+      "ajad": [
+        "248.360",
+        "249.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri tööstuslikku keskkonda, tõenäoliselt lillede töötlemise ruumi. Kaadri keskel ja paremal domineerivad kaks suurt, tumerohelist või musta värvi masinat, mis on ilmselt mõeldud lillede varte puhastamiseks lehtedest. Vasakpoolne masin asub pikal hallil laual, mille külge on kinnitatud lõikemehhanism ja mille ülaosas on näha traadipooli. Parempoolne masin on osaliselt kaadris, samuti tumedas toonis ja näib täitvat sarnast funktsiooni. Vasakul on näha inimese käsi tumedas riietuses, mis hoiab lillevart masina lähedal, viidates aktiivsele tööprotsessile. Põrand on helehall ja kaetud rohke rohelise lehestiku ja varte prahiga, mis on ilmselt masinatest kukkunud. Valged plaaditud seinad taustal annavad ruumile tööstusliku ja hügieenilise ilme. Riiulil paremal ülal on virn töödeldavaid rohelisi taimi. Üldine valgustus on hele ja funktsionaalne.",
+      "actions": [
+        "Lillede töötlemine masinaga",
+        "Lehtede eemaldamine lillede vartelt",
+        "Masina opereerimine"
+      ],
+      "keywords": [
+        "Lillede töötlemine",
+        "Masinad",
+        "Roosid",
+        "Lillevarred",
+        "Tööstus",
+        "Siseruum",
+        "Töökeskkond",
+        "Lehtede eemaldaja",
+        "Taimejäätmed"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Masinad",
+        "Lillevarred",
+        "Lehed",
+        "Laud",
+        "Traadipool",
+        "Plaatsein",
+        "Põrand",
+        "Kott",
+        "Käsi",
+        "Must särk/riietus",
+        "Riiul"
+      ],
+      "colorcodes": [
+        "#3C6C6C",
+        "#E0E0E0",
+        "#4B733D",
+        "#4A4A4A",
+        "#D4D4D4",
+        "#1A1A1A"
+      ],
+      "texts": [
+        "But I am fine now,",
+        "what is in the past is in the past."
+      ],
+      "persons": [
+        "Isik (käsi näha)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha, et inimese käsi ja hoitav lillevaras on veidi erinevas asendis võrreldes teise ja kolmanda pildiga. Käsi on esimesel pildil pisut avatum ja vars kaugemal masinast. Teine ja kolmas pilt on identsed."
+      ],
+      "snr": "021",
+      "ajad": [
+        "249.560",
+        "250.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab floristi töölaua tagust, kus inimene, kelle ülakeha ja käed on kaadris, valmistab roosidest kimpe. Inimesel on seljas tumepunane pikkade varrukatega särk ja tumeroheline põll. Kätes on mustad töökindad, millel on näha kiri \"TAMREX\". Tööpinnal, mis on tumedat värvi, on mitmeid roosikimpe, peamiselt roosades, virsiku- ja oranžikates toonides, aga ka mõned punased roosid. Kimpude ümber on rohelised varred ja lehed. Pildil on näha, kuidas florist pakib roosikimpe läbipaistvasse kilepakendisse. Vasakul pool laual on must konteiner või hoidik ja valge paberileht. Taustal on näha heledat seinaplaati ja osa riiulist. Valgus on ere, viidates päevasele ajale. Stseen annab edasi töist ja keskendunud õhkkonda.",
+      "actions": [
+        "Lillede paigutamine",
+        "Lillekimpude pakkimine kilega",
+        "Töötamine floristina"
+      ],
+      "keywords": [
+        "Florist",
+        "Lilled",
+        "Roosid",
+        "Lillekimp",
+        "Pakkimine",
+        "Töö",
+        "Käsitöö",
+        "Töölaud",
+        "Lillepood"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Roosid",
+        "Põll",
+        "Särk",
+        "Kindad",
+        "Kilepakend",
+        "Töölaud",
+        "Must konteiner",
+        "Valge paber",
+        "Riiul",
+        "Lillevarred",
+        "Lehed"
+      ],
+      "colorcodes": [
+        "#5B0F2A",
+        "#1F423C",
+        "#E7A08E",
+        "#D47971",
+        "#C73B3C",
+        "#2D2D2D",
+        "#4D7644",
+        "#F8F8F8"
+      ],
+      "texts": [
+        "But I am fine now, what is in the past is in the past.",
+        "I always feel like in the army- only forward and not to give in.",
+        "TAMREX"
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Alusteksti sisu muutub piltide vahel, peegeldades vestluse edenemist.",
+        "Inimese käte asend ja tegevus arenevad: esimesel pildil on käed asetatud kimbu ümber, teisel ja kolmandal pildil on näha aktiivsemat pakkimist ja kiletamist.",
+        "Kiri \"TAMREX\" kindal on teisel ja kolmandal pildil paremini nähtav kui esimesel."
+      ],
+      "snr": "022",
+      "ajad": [
+        "250.600",
+        "253.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, tõenäoliselt lillepoe tagatuba või töökoda, kus inimene tegeleb lillede, eelkõige rooside, pakkimise ja ettevalmistamisega. Pildil on näha ainult inimese keha ülaosa alates rinnast, nägu ei ole näha. Inimesel on seljas tumepunane pikkade varrukatega särk ja tumeroheline põll. Tema kätes on kindad (üks must, teine valge), millega ta hoiab valget paberit või materjali ja tegeleb lilledega. Laual, mis on kaetud tumeda riidega, on hulgaliselt kimpe ja lahtisi roose. Enamik roose on heledat virsiku- või kahvaturoosa tooni, kuid leidub ka kimpusid erksamate punaste roosidega. Rooside kimbud on pakitud läbipaistvasse plastikusse. Laual on ka must silindriline ese, mis võib olla teibi- või paeladosaator. Taustal on näha heledates toonides plaaditud sein ja tume puidust riiul või teine laud. Üldine atmosfäär viitab pühendunud ja detailsele käsitööle. Allservas jooksevad subtiitrid, mis väljendavad töö tegija sihikindlust.",
+      "actions": [
+        "Lillede pakkimine",
+        "Lillede käitlemine",
+        "Töötamine"
+      ],
+      "keywords": [
+        "Lillepood",
+        "Florist",
+        "Roosid",
+        "Lillekimp",
+        "Käsitöö",
+        "Pakkimine",
+        "Töö",
+        "Subtiitrid",
+        "Sihikindlus",
+        "Käed"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Roosid",
+        "Lillekimbud",
+        "Läbipaistev plastpakend",
+        "Tumepunane särk",
+        "Tumeroheline põll",
+        "Must kinnas",
+        "Valge kinnas",
+        "Must silindriline ese",
+        "Puidust laud",
+        "Valge plaaditud sein",
+        "Puidust riiul",
+        "Valge paber/materjal"
+      ],
+      "colorcodes": [
+        "#591B29",
+        "#1F4531",
+        "#F4D9CE",
+        "#EAAC9D",
+        "#D8362D",
+        "#111111",
+        "#E6E6E6",
+        "#6D4C3C"
+      ],
+      "texts": [
+        "I always feel like in the army- only forward and not to give in."
+      ],
+      "persons": [
+        "Florist"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevad käte asendid ja liigutused, mis näitavad tööprotsessi etappe, kus inimene hoiab ja töötleb erinevaid materjale ja lilli.",
+        "Kolmandal pildil on näha kerge liikumisudu paremal käel, mis viitab aktiivsemale tegevusele või kiirele liigutusele."
+      ],
+      "snr": "023",
+      "ajad": [
+        "253.000",
+        "256.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab erinevaid tahke lillekasvatuse ja müügi äris, liikudes kasvatuse allikast turule toomise või jaotuspunktini. Esimene kaader on laiahaardeline sisevaade tööstuslikust kasvuhoonest, kus pikad keskteed on ääristatud uinuvate või hiljuti koristatud taimeridadega, mis on kaetud valge kihiga, mis võib olla lumi või kasvukeskkond. Kasvuhoone on varustatud ulatusliku metallkonstruktsiooni, kastmissüsteemide ja rippvalgustitega, viidates suuremahulisele operatsioonile. Läbi poolläbipaistva katuse paistab ere loomulik valgus. Järgmine kaader viib siseruumidesse, mis näib olevat lillepood, laopind või jaotuskeskus. Siin on valgetes ämbrites hoolikalt paigutatud värsked ja erksad lilled, sealhulgas punased roosid ja mitmesugused kimbud. Esile tõuseb suur musta klaasuksega külmlett, mis kuvab neist kimpudest kahel riiulil, viidates nende säilitamisele ja müügivalmidusele. Lisakimbud on asetatud punase linaga kaetud lauale. Seinad on kaetud valgete plaatidega ja kaunistatud praktiliste esemetega, nagu kaks kella, raamitud sertifikaat ja punane hädaabitelefoni karp märgistusega 'HÄDAABI 112'. Valgel seinal on ka roheline hädaabiristi märk avatud ukse lähedal, mis viib tumedamasse ruumi. Tagaplaanil kaunistavad teist seina raamitud lillepildid ja väikesel alusel seisab roosa lillekimp, lisades lillelisust. Põrandal on pappkast, mis viitab käimasolevatele töödele. Viimane kaader on lähivõte kulunud, valgest metallist topeltuksest või paneelist, mis näitab märkimisväärset roostet ja mustust ning nähtavaid polte. See uks võib esindada sissepääsu laoruumi, kasvuhoonesse või tarnealale, sümboliseerides ühendust erinevate tegevusruumide vahel. Subtiitrite 'I always feel like in the army - only forward and not to give in.' allkiri viitab tugevale tööeetikale ja vastupanuvõimele selles äris, samas kui 'You see!' annab edasi otsese pöördumise vaataja poole, ehk rõhutades tegeliku töö olemust.",
+      "actions": [
+        "Lillede ettevalmistamine",
+        "Lillede ladustamine",
+        "Taimede kasvatamine (kasvuhoones)",
+        "Transpordi teostamine (kaudselt viidatud)",
+        "Päevaste tööülesannete täitmine"
+      ],
+      "keywords": [
+        "Lillekasvatus",
+        "Kasvuhoone",
+        "Lillepood",
+        "Tööeetika",
+        "Tööstuslik",
+        "Maamehelik",
+        "Kultiveerimine",
+        "Jaemüük",
+        "Rooste",
+        "Erakorraline abi"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Lilled",
+        "Kimbud",
+        "Külmik",
+        "Kasvuhoone konstruktsioon",
+        "Taimed",
+        "Metalluks",
+        "Kellad",
+        "Hädaabimärk",
+        "Lauad",
+        "Punane laudlina",
+        "Ämbrid",
+        "Kastid",
+        "Raamitud pildid",
+        "Järg",
+        "Elektriline juhtmestik",
+        "Torud",
+        "Telefon",
+        "Sertifikaat"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#FF0000",
+        "#008000",
+        "#000000",
+        "#A9A9A9",
+        "#FFA500",
+        "#F0E68C",
+        "#8B4513"
+      ],
+      "texts": [
+        "I always feel like in the army - only forward and not to give in.",
+        "HÄDAABI 112",
+        "You see!"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Üks kaader on lai vaade tööstuslikust kasvuhoonest, teine on keskmine vaade sisustatud siseruumidest (pood/ladu) ja kolmas on lähivõte kulunud uksest.",
+        "Kasvuhoones on näha taimi kasvatamisel, samas kui poes on näha valmistoodangut.",
+        "Keskkonnad varieeruvad suurest, funktsionaalsest kasvatusruumist organiseerituma jaekaubanduse/laoruumi ja funktsionaalse välise/tööstusliku ukseni.",
+        "Värvid varieeruvad kasvuhoone tööstuslikest pruunidest/hallidest/valgetest poodi erksate punaste/roheliste/valgete värvideni ning ukse kulunud valge/pruuni värvini.",
+        "Spetsiifilised esemed ja nende paigutus erinevad oluliselt asukohtade vahel."
+      ],
+      "snr": "024",
+      "ajad": [
+        "256.960",
+        "612.560"
+      ]
+    },
+    {
+      "explanation": "Kõik kolm pilti on täielikult mustad, viidates täielikule pimedusele või tühjale kaadrile, kus puuduvad igasugused visuaalsed detailid, objektid, isikud või tekstid. Stseenina ei ole midagi eristatavat ega kirjeldatavat.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "pimedus",
+        "tühjus",
+        "monokroomne",
+        "informatsioon puudub",
+        "null pilt"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik kolm pilti on identsed ja täiesti mustad, seega puuduvad nende vahel erinevused."
+      ],
+      "snr": "025",
+      "ajad": [
+        "612.560",
+        "636.520"
+      ]
+    }
+  ]
+}

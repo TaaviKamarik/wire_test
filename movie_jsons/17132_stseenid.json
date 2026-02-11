@@ -1,0 +1,1760 @@
+{
+  "film": [
+    "17132",
+    "17011",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Tõus ja Mõõn",
+    "13f00ad2f63880f131d6e7b7119ec5f5a005afb1.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab pimedal mustal taustal, kus keskel hõljuvad kolm udust, heledat, valget või hallikat ringikujulist täppi. Need täpid on alguses fookusest väljas ja paigutatud ebakorrapäraselt. Järgnevas kaadris muutuvad täpid teravamaks ja saavad selged värvid: üks neist on punane, üks valge ja üks sinine. Need kolm värvilist ringi moodustavad kolmnurkse kujutise – punane on üleval vasakul, valge üleval paremal ja sinine all keskel. Koos värviliste ringidega ilmub ekraanile paremale poole valge tekst 'BFM'. Lõpuks kaob kogu visuaalne informatsioon ja ekraan muutub täiesti mustaks, viidates animatsiooni lõpule või üleminekule.",
+      "actions": [
+        "Uduse punktide ilmumine",
+        "Punktide fookusesse tulemine",
+        "Punktide värvumine (punaseks, valgeks, siniseks)",
+        "Teksti 'BFM' ilmumine",
+        "Kõigi elementide kadumine",
+        "Ekraani mustaks muutumine"
+      ],
+      "keywords": [
+        "Animatsioon",
+        "Logo",
+        "Bränding",
+        "Must taust",
+        "Bokeh-efekt",
+        "Üleminek",
+        "Prantsuse värvid",
+        "Uudistekanal",
+        "Sissejuhatus"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Punktid",
+        "Ringid",
+        "Tekst",
+        "Taust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#FF0000",
+        "#0000FF"
+      ],
+      "texts": [
+        "BFM"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "95",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on udused, värvitud punktid mustal taustal, teisel pildil muutuvad need punktid selgeteks punaseks, valgeks ja siniseks ringideks, mille kõrvale ilmub tekst 'BFM'. Kolmandal pildil on kogu ekraan must, ilma ühegi visuaalse elemendita."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "8.480"
+      ]
+    },
+    {
+      "explanation": "Stseen algab puhtalt valge ekraaniga, mis seejärel läheb sujuvalt üle staatiliseks kaadriks helehallist, värvitud puidust pinnast. Pind näib olevat laudis või seinapaneel, mida iseloomustab ühtlane helehall värv. Lähemal vaatlusel on näha peeneid tekstuure ja ebakorrapärasusi, sealhulgas väikseid täppe ja õrnu jälgi. Kaadri paremas ülemises osas on selgelt nähtav ümmargune puusõlm, mis on värviga täidetud ja üle värvitud, viidates pinna puitmaterjalile värvi all. Samuti on paremas ülemises nurgas kerge, pehme keerisjas tekstuur. Üldmulje on puhas, kuid samas maalähedane tänu nähtavatele puidutunnustele.",
+      "actions": [
+        "Valge ekraani asendumine helehalli pinnaga",
+        "Stseen on staatiline"
+      ],
+      "keywords": [
+        "Helehall pind",
+        "värvitud puit",
+        "puusõlm",
+        "tekstuur",
+        "staatiline",
+        "minimalism",
+        "puhas pind",
+        "puidust laudis",
+        "valge ekraan",
+        "taust"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [
+        "Värvitud puidust pind",
+        "puusõlm",
+        "valge ekraan"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#C5C7C9",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on täiesti valge ekraan, samas kui järgnevad pildid näitavad helehalli tekstuuriga pinda.",
+        "Teine pilt näitab ühtlasemat halli pinda vaid vihje tekstuurile nurgas, kolmas pilt aga paljastab selgelt eristuva ümmarguse puusõlme ja muid väiksemaid ebakorrapärasusi pinnal.",
+        "Pinna detailide ja tekstuuri tase muutub pildilt 2 pildile 3 nähtavamaks, paljastades värvitud pinna puidust olemuse."
+      ],
+      "snr": "002",
+      "ajad": [
+        "8.480",
+        "22.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt punakaspruuniks värvitud puitpinda, mis koosneb nii vertikaalselt kui horisontaalselt paigaldatud laudadest. Vasakul on kaks kitsamat vertikaalset lauda, keskel eraldab neid laiem vertikaalne liist ning paremal pool on näha horisontaalselt paigaldatud lauad, mille vahel on peened vahed. Puidu pinnale on iseloomulik matt, kergelt kare tekstuur, mis viitab vanemale või rustikaalsele viimistlusele. Lauad on värvitud ühtlase punase-pruuni tooniga, millel on kohati näha väikseid ebatasasusi, täkkeid või naelaaukude moodi täppe, mis annavad pinnale elavust ja autentsust. Üldmulje on maalähedane ja ehe.",
+      "actions": [],
+      "keywords": [
+        "puit",
+        "puu",
+        "punane",
+        "pruun",
+        "punakaspruun",
+        "sein",
+        "laudis",
+        "rustikaalne",
+        "maalähedane",
+        "tekstuur",
+        "detail",
+        "maalitud",
+        "vana"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "puitlaudis",
+        "värv",
+        "naelaaugud",
+        "täkked"
+      ],
+      "colorcodes": [
+        "#803F3A",
+        "#7E413B",
+        "#82423B"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaadrite vahel on märgata väga peeneid muutusi valguses ja fookuses, mis annab edasi kerge liikumise või subtiilse nihke tunde.",
+        "Mõned pinna ebatäpsused ja täkked muutuvad kaadrist kaadrisse pisut selgemaks või hägusemaks.",
+        "Viimases kaadris ilmub paremasse ülemisse nurka nähtavale tumedam, tõenäoliselt kolmnurkne objekti osa, mis eelnevates kaadrites puudub, viidates kaamera kergele panoraamile või objekti sisenemisele kaadrisse."
+      ],
+      "snr": "003",
+      "ajad": [
+        "22.440",
+        "28.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaadet horisontaalsest pinnast, mis koosneb kahest piklikust paneelist või lauast. Pind on värvitud ühtlase matt-sinakashalli tooniga. Värvipinnal on selgelt näha pintslitõmbeid ja ebatasasusi, mis annavad edasi käsitsi värvitud tekstuuri, vihjates tõenäoliselt puidust materjalile. Kahe horisontaalse osa vahel jookseb kitsas, sügav ja tume pragu või vahe, mis jagab pildi visuaalselt kaheks. Ülemine ja alumine osa on tekstuurilt sarnased, kummalgi on näha pinna kergelt lainelisi või voolujälgedega kohti värvis. Valgus on ühtlane ja hajutatud, puuduvad teravad varjud. Stseen on staatiline ja keskendub eranditult tekstuuri ja värvi detailidele.",
+      "actions": [],
+      "keywords": [
+        "Tekstuur",
+        "Sinakashall",
+        "Värvitud pind",
+        "Puit",
+        "Horisontaalne",
+        "Pragu",
+        "Värv",
+        "Staatiline",
+        "Detail",
+        "Paneel"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [
+        "Värvitud puitpaneelid",
+        "Pintslitäkked",
+        "Pragu"
+      ],
+      "colorcodes": [
+        "#5C7186",
+        "#2A2C2F",
+        "#5B7286"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik kolm pilti on praktiliselt identsed, näidates sama stseeni ilma märgatavate visuaalsete muutusteta."
+      ],
+      "snr": "004",
+      "ajad": [
+        "28.320",
+        "35.160"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõtet puidust topeltustest või väravast, mis on maalitud punaseks ja valgeks. Sinised nooled on maalitud punastele sektsioonidele, kusjuures iga nool osutab kesksele vertikaalsele ühenduskohale, kus kaks puidust paneeli kokku saavad. Puidu tekstuur on värvi all aimatav, mis annab pinnale rustikaalse või ilmastiku poolt mõjutatud välimuse. Värviskeem (punane, valge, sinine) annab stseenile patriootliku või ameerikaliku tunde. Valgus on ere ja ühtlane, viitades päevasele ajale.",
+      "actions": [],
+      "keywords": [
+        "Puit",
+        "Uksed",
+        "Värav",
+        "Punane",
+        "Valge",
+        "Sinine",
+        "Nooled",
+        "Sümmeetria",
+        "Maaling",
+        "Detail",
+        "Pind",
+        "Ameerikalik",
+        "Patriootiline"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Puidust uksed",
+        "Värv"
+      ],
+      "colorcodes": [
+        "#A82A2A",
+        "#FFFFFF",
+        "#3A4C6A"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on vasakus servas näha valget vertikaalset osa, mis puudub teistel piltidel.",
+        "Esimesel pildil on vasakpoolne sinine nool alguses kergelt kaardus ja ulatub valgele alale, samas kui teistel piltidel on see nool sirge ja selgelt piiritletud punase tausta sees, peegeldades parempoolset noolt.",
+        "Teine ja kolmas pilt on veidi paremale nihutatud või sisse suumitud võrreldes esimesega, mille tulemusena vasakpoolne valge osa ja noole kaardus algus on kaadrist väljas."
+      ],
+      "snr": "005",
+      "ajad": [
+        "35.160",
+        "41.040"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivaadet kahekordsetele puidust ustele, mis on värvitud valgeks ja millele on peale maalitud suur punane rist ning kaks sinist ankrut, mis ristuvad üle risti, luues mereteemalise kujunduse. Ankrute varred moodustavad samuti risti diagonaalid. Uksed on rõhtsa laudisega ja neil on näha tumedad riivid või hinged ukse keskel, mõlemal uksepoolel üks. Uste külgedel on näha tumedast puidust vertikaalsed paneelid või raamistik. Üldine toon on hele ja karge, rõhutades valget, punast ja sinist värvi, tumeda puidu raamistik lisab sügavust ja kontrasti. Valgus on ere ja ühtlane, viitades päevasele ajale.",
+      "actions": [],
+      "keywords": [
+        "Uks",
+        "Ankur",
+        "Rist",
+        "Puituks",
+        "Mereteema",
+        "Dekoratsioon",
+        "Valge",
+        "Punane",
+        "Sinine",
+        "Riivid",
+        "Hinged",
+        "Puitpaneelid"
+      ],
+      "shot_type": "medium shot",
+      "placement": "not clear",
+      "objects": [
+        "Puituks",
+        "Ankur",
+        "Rist",
+        "Riiv",
+        "Hing",
+        "Puitpaneel"
+      ],
+      "colorcodes": [
+        "#EBEBEB",
+        "#B23C3C",
+        "#3F5E80",
+        "#3E2F26"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "006",
+      "ajad": [
+        "41.040",
+        "52.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mereäärset hoonet hallil ja sombusel päeval. Hoone on ehitatud tumepruunist puidust laudisest, andes sellele robustse ja ilmastikukindla välimuse. Hoone külgvaates on näha pikk rida kolme suurt horisontaalset akent. Akende kohal on puidust luugid, mis on tõstetud ja avatud asendis, jättes mulje, et need on kas ettevalmistatud sulgemiseks või on just avatud. Aknad peegeldavad halli taevast ja merepinda, luues akendes veel ühe visuaalse kihi. Vasakul pool hoonest avaneb lai vaade tormisele merele, mille veepind on lainetav ja kergelt mässav. Horisondi kauguses, keset lainetavat merd, on näha väike kivine saareke. Taevas on üleni kaetud paksude hallide pilvedega, mis annab stseenile melanhoolse, karmi ja jaheda ilme. Üldine atmosfäär viitab rannikule omasele jahedale ja tuulisele ilmale, tõenäoliselt põhjamaises kliimas.",
+      "actions": [],
+      "keywords": [
+        "Mereäärne hoone",
+        "Puidust laudis",
+        "Aknad",
+        "Puitluugid",
+        "Meri",
+        "Lained",
+        "Pilves taevas",
+        "Saareke",
+        "Karaskliima",
+        "Melanhoolne",
+        "Rannik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone",
+        "Puidust laudis",
+        "Aknad",
+        "Puitluugid",
+        "Meri",
+        "Lained",
+        "Saareke",
+        "Pilved"
+      ],
+      "colorcodes": [
+        "#4A3C34",
+        "#6A7176",
+        "#6F665D",
+        "#7F8489",
+        "#343C3A"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "007",
+      "ajad": [
+        "52.840",
+        "66.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia veekogu, tõenäoliselt merd või suurt järve, mis on kaetud pehmete, hallikassiniste lainetega. Vesi on rahulik, kuid pinnal on näha pidevat liikumist väikeste lainetuse ja virvenduste näol. Valgus on hajutatud ja ühtlane, mis viitab pilvisele ilmale või varajasele hommikule/hilisele õhtule, ilma teravate varjude või eredate peegeldusteta. Üldine meeleolu on vaikne, rahulik ja veidi melanhoolne. Horisont ei ole nähtav, mis annab stseenile abstraktsema ja keskendunuma iseloomu vee pinnale, täites kogu kaadri. Värvitoonid on jahedad ja monotoonsed, luues ühtse, peaaegu monokroomse efekti.",
+      "actions": [
+        "lained löömas",
+        "vee virvendamine",
+        "vee liikumine"
+      ],
+      "keywords": [
+        "meri",
+        "vesi",
+        "lained",
+        "hall",
+        "rahulik",
+        "külm",
+        "virvendus",
+        "veekogu",
+        "ilmaelu",
+        "melanhoolne",
+        "pilvine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "vesi",
+        "lained"
+      ],
+      "colorcodes": [
+        "#4d5457",
+        "#5a6265",
+        "#404648",
+        "#51595c"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltidel on näha väga minimaalset erinevust lainete liikumises ja asukohas, mis annab edasi veekogu pidevat, kuid aeglast ja rahulikku virvendust.",
+        "Üldine kompositsioon ja värvigamma on kõikides kaadrites identsed, viitades lühikesele videolõigule."
+      ],
+      "snr": "008",
+      "ajad": [
+        "66.280",
+        "74.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab udust ja tekstureeritud pinda, mis on peamiselt hallides toonides. Alguses paistab pind suhteliselt ühtlane ja kergelt laineline, kuid kaadrite edenedes muutub see järjest detailsemaks püstiste või diagonaalsete joonte ja triipudega. See annab aimu kiirest liikumisest või tuulest tingitud efektist, nagu näiteks tuules õõtsuv pikk kuiv rohi, pilliroog, karusnahk või tihe vihm. Tekstuur on peen ja piklik ning annab edasi dünaamilise tunde.",
+      "actions": [
+        "Kiire liikumine",
+        "Udunemine",
+        "Tekstuuri esiletõstmine"
+      ],
+      "keywords": [
+        "Hall",
+        "Udune",
+        "Tekstuur",
+        "Liikumine",
+        "Abstraktsioon",
+        "Jooned",
+        "Triibud",
+        "Helehall",
+        "Tumehall",
+        "Dünaamiline",
+        "Lähivõte"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [
+        "Tekstureeritud pind"
+      ],
+      "colorcodes": [
+        "#A9A9A9",
+        "#BEBEBE",
+        "#808080",
+        "#696969"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on sujuvam ja vähem udune, samas kui hilisemates kaadrites ilmnevad selgemad, piklikud udustatud triibud, mis viitavad kiirele liikumisele või objekti lähemale nihkumisele.",
+        "Tekstuur muutub kaadrite edenedes rohkem esiletooduks ja suunatud joontega.",
+        "Kaadrite vahel on näha liikumise suurenemist ja tekstuursete detailide esilekerkimist."
+      ],
+      "snr": "009",
+      "ajad": [
+        "74.280",
+        "77.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt kuivanud rohu- või kõrrelistevälja. Valdavalt hallides toonides pildil on näha tihedalt paiknevaid püstiseid taimede varsi, mis loovad vertikaalseid jooni kogu kaadri ulatuses. Taust on udune ja fookusest väljas, samas kui esiplaanil olevad rohulibled on teravad. Kaadri keskel on näha väike tume, piklik objekt, mis esimeses kahes pildis on selgemalt eristatav, meenutades putukat või väikest lindu, mis kas lendab või liigub taimestikus. Kolmandas kaadris on see objekt kas liikunud kaadrist välja või on see rohu vahele varjunud, muutudes vähem märgatavaks. Rohelise asemel on taimestik kuivanud hallikaspruunides toonides, viidates hilissügisele või talvele. Taimed näivad õrnalt tuules kõikuva, andes stseenile dünaamilisust. Üldmulje on rahulik ja meditatiivne, samas rõhutades looduse ajatut tsüklit.",
+      "actions": [
+        "Väike tume objekt lendab/liigub",
+        "Roht/kõrrelised kõiguvad tuules"
+      ],
+      "keywords": [
+        "Kuivanud rohi",
+        "Kõrrelised",
+        "Hallid toonid",
+        "Talv",
+        "Hiline sügis",
+        "Putukas",
+        "Lind",
+        "Loodus",
+        "Väli",
+        "Tuul",
+        "Monokroomne",
+        "Meditatiivne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kuivanud rohuvarred",
+        "Väike tume objekt (tõenäoliselt putukas või väike lind)"
+      ],
+      "colorcodes": [
+        "#808080",
+        "#A9A9A9",
+        "#696969",
+        "#525252",
+        "#B8B2A6"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Väike tume objekt muutub vähem nähtavaks või kaob kaadrist kolmandas pildis.",
+        "Rohuliblede asetus muutub kergelt kaadrite vahel, viidates liikumisele (tuule käes kõikudes)."
+      ],
+      "snr": "010",
+      "ajad": [
+        "77.680",
+        "80.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laialdast maastikku, mis on filmitud madalalt nurga alt läbi tiheda ja kuivanud rohu- või pilliroopõllu. Esilplaani domineerivad pikad, peenikesed, heledamad ja dünaamiliselt udused taimevarred, mis annavad edasi liikumist, kas siis tuule tõttu või kaamera kiire liikumise tagajärjel. Keskel on näha tihedamat ja tumedamat massi kuivanud taimestikust, mille vahelt on raskesti eristatavalt ja häguselt märgata tumedaid siluette, mis võivad olla inimesed või muud objektid, liikumas või seistes sügaval rohus. Horisondi joonel paistavad tumedad, ähmased metsatukad või künkad. Taevas on silmatorkavalt dramaatiline ja paksult pilvine, täis tumedahalle, helehalle ja valgeid pilvi, mis annavad stseenile ähvardava, rusuva või melanhoolse atmosfääri. Üldine värvigamma on summutatud, domineerivad hallikad ja pruunikad toonid.",
+      "actions": [
+        "Taimestik liigub tuules (oletatav)",
+        "Hägusad siluetid liiguvad rohus (oletatav)",
+        "Pilved liiguvad taevas"
+      ],
+      "keywords": [
+        "Kuivanud rohi",
+        "Pilliroog",
+        "Pilvine taevas",
+        "Hall",
+        "Summutatud värvid",
+        "Lai maastik",
+        "Avarus",
+        "Loodus",
+        "Varjud",
+        "Ähvardav atmosfääär",
+        "Melanhoolne",
+        "Tuul",
+        "Liikumine",
+        "Põld",
+        "Udune esiplaan"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kuivanud rohi",
+        "Pilliroog",
+        "Pilved",
+        "Hägusad siluetid (võimalikud inimesed)",
+        "Metsatukad",
+        "Künkad"
+      ],
+      "colorcodes": [
+        "#8C8C8C",
+        "#C0C0C0",
+        "#A0A0A0",
+        "#B0B0A0",
+        "#606060",
+        "#404040",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Võimalikud inimese siluetid"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esiplaanil olevate uduste taimevarside asetus ja kuju muutuvad kergelt, viidates pidevale liikumisele või kaamera nihkele.",
+        "Pilveformatsioonides ja nende valgustuses on märgata minimaalseid variatsioone, mis annab aimu pilvede liikumisest või valguse väga lühiajalisest muutusest.",
+        "Keskmisel plaanil olevate hägusate siluettide asukohad näivad kergelt muutuvat, toetades oletust liikumisest."
+      ],
+      "snr": "011",
+      "ajad": [
+        "80.920",
+        "82.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia avatud maastikku, kus esiplaanil domineerib kõrge, kuiv ja heledate toonidega rohi või kõrrelised, mis näivad tuules õrnalt kõikuvat. Vaatepunkt on madalal rohu tasandil, andes tunde, et ollakse otse keset põldu. Tagaplaanil laotub üle taeva paks ja tumedate varjunditega pilvemassiiv, mis annab stseenile melanhoolse või tormieelse atmosfääri. Horisondi joonel on näha uduselt kaugemaid künkaid või metsatukka. Valgus on sume ja hajutatud, vihjates pilvisele ilmale. Üldine värvigamma on hallikas-pruunides ja desatureeritud rohelistes toonides, luues rahuliku, kuid samas dramaatilise meeleolu.",
+      "actions": [
+        "Rohi kõigub tuules",
+        "Pilved liiguvad aeglaselt"
+      ],
+      "keywords": [
+        "Loodus",
+        "Maastik",
+        "Põld",
+        "Rohi",
+        "Kõrrelised",
+        "Pilved",
+        "Hall taevas",
+        "Tuuline",
+        "Melanhoolne",
+        "Sume",
+        "Sügis",
+        "Avarus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Rohi",
+        "Kõrrelised",
+        "Pilved",
+        "Taevas",
+        "Maastik"
+      ],
+      "colorcodes": [
+        "#4a4a4a",
+        "#5c5c5c",
+        "#8b8b8b",
+        "#b7b7b7",
+        "#6e6e6e"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Pilvede ja kõrreliste liikumine kaadrite vahel",
+        "Väikesed variatsioonid valguses ja varjudes"
+      ],
+      "snr": "012",
+      "ajad": [
+        "82.240",
+        "83.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laiaulatuslikku maastikku, mis on peaasjalikult kaetud kõrge ja tiheda, näiliselt kuivanud rohu või kõrkjatega. Esiplaanil on näha pikki, peenikesi varre, mis ulatuvad pildist välja ja on tuule tõttu kergelt kõikuvad, andes stseenile dünaamilisust. Taimestik on valdavalt tumedates hallides ja pruunides toonides, mis annab edasi sumeda ja veidi morni meeleolu. Taamal laiub sarnane taimestikuväli, mis hajub horisondi poole, kus paistavad veel tumedamad maapinna kontuurid. Taevas on kaetud paksude ja raskete pilvedega, mis varieeruvad heledamast hallist tumeda, peaaegu mustja hallini, viitades pilvisele või tormisele ilmale. Valgus on hajutatud ja pehme, mis rõhutab stseeni melanhoolset tunnet. Üldmulje on metsik, looduslik ja dramaatiline, rõhutades looduse toorest jõudu ja tühjuse tunnet.",
+      "actions": [
+        "Kõrkjad ja rohi liiguvad tuules"
+      ],
+      "keywords": [
+        "Loodus",
+        "Maastik",
+        "Põld",
+        "Kõrkjad",
+        "Rohi",
+        "Pilved",
+        "Taevas",
+        "Tormine",
+        "Tuuline",
+        "Hall",
+        "Sume",
+        "Dramaatiline",
+        "Metsik",
+        "Tühjus",
+        "Avarus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kõrkjad",
+        "Rohi",
+        "Põld",
+        "Pilved",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#4a4a4a",
+        "#525252",
+        "#3d3d3d",
+        "#8b8b8b",
+        "#6b6b6b",
+        "#afafaf",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Erinevus seisneb kõrge rohu ja kõrkjate positsiooni ja liikumise nüanssides, mis viitab tuule tingitud kõikumisele.",
+        "Pilvede kujud ja intensiivsus taevas varieeruvad kergelt kaadrite vahel.",
+        "Pildil olev müra või 'grain' efekt on igas kaadris veidi erinev."
+      ],
+      "snr": "013",
+      "ajad": [
+        "83.560",
+        "84.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia avamaastikku, kus madalast vaatenurgast on näha tihe, hallikas-pruun kuivanud kõrtest koosnev väli. Kõrged kõrred täidavad suurema osa kaadrist, ulatudes esiplaanilt horisondini. Taevas on kaetud paksude, hallide pilvedega, mis loovad summutatud ja dramaatilise valguse. Üldine toon on desatureeritud ja veidi melanhoolne. Kauguses paistab uduselt horisondil madal metsa- või maastikupiir, mis hajub pilvise taevaga ühte. Kaadris domineerib loodus, inimtegevuse märkideta ning õhus on tunda tuulisust.",
+      "actions": [
+        "Tuule käes õõtsuv rohi/kõrred"
+      ],
+      "keywords": [
+        "Loodus",
+        "väli",
+        "rohi",
+        "kõrs",
+        "taevas",
+        "pilved",
+        "hall",
+        "desatureeritud",
+        "melanhoolne",
+        "tuuline",
+        "summutatud",
+        "avarus",
+        "maastik",
+        "kuiv",
+        "sügis"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Rohi",
+        "kõrred",
+        "pilved",
+        "taevas",
+        "maastik",
+        "metsapiir"
+      ],
+      "colorcodes": [
+        "#808080",
+        "#555555",
+        "#CCCCCC",
+        "#303030"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Kõrred on piltide vahel kergelt asendit muutnud, mis viitab tuulele."
+      ],
+      "snr": "014",
+      "ajad": [
+        "84.880",
+        "88.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab halli ja melanhoolset rannikumaastikku, kus keskel, mere kaldal künka otsas, seisab üksik tume pruunika tooniga maja. Maja on lihtsa ehitusega, tumeda katuse ja ühe korstnaga. Taevas on tihedalt pilves, andes kogu maastikule sünge ja jaheda ilme. Paremal pool voolab lauge veepiiriga meri, mille hallikassinine toon sulandub pilves taevaga. Meri tundub rahulik, lainetus on minimaalne ning kauguses on näha mõned väiksemad, madalad saarekesed või kivised neemed. Maapind esiplaanil on kaetud kidura, tumerohelise ja pruunikashalli rohuga ning üksikute põõsastega. Vasakul paistab paar kidurat, tormituultest räsitud puud, mis on lehtedeta või väga hõreda lehestikuga. Üldmulje on vaikne, veidi kõle, isoleeritud ja mõtlik.",
+      "actions": [],
+      "keywords": [
+        "rannik",
+        "maja",
+        "meri",
+        "pilvine",
+        "hall",
+        "üksik",
+        "loodus",
+        "kõle",
+        "vaikne",
+        "jahe",
+        "sügis",
+        "isoleeritud",
+        "maastik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "maja",
+        "meri",
+        "taevas",
+        "pilved",
+        "kivid",
+        "rohi",
+        "põõsad",
+        "puud",
+        "korsten",
+        "katus"
+      ],
+      "colorcodes": [
+        "#6B737A",
+        "#653E35",
+        "#4C524B",
+        "#474643",
+        "#6C737B"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad sisulised erinevused. Kaadrid on visuaalselt peaaegu identsed, viidates sellele, et tegemist on sama hetke või stseeni korduvate kaadritega, võimalik et video eri kaadrid."
+      ],
+      "snr": "015",
+      "ajad": [
+        "88.800",
+        "96.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kõledat ja tormist rannikumaastikku, mida valitseb tume ja pilvine taevas. Meri on hallikas ja laineline, kajastades ranniku karmi ilmet. Esiplaanil ja kohati ka kaugemal on näha kivist ja kruusast pinnast, millel kasvab hõredat taimestikku. Lained murduvad vastu kaldaid. Teises ja kolmandas kaadris kerkib sellele rannikule imposantne valge majakas, mille kõrval seisab saledam metallist vaatlustorn. Mõnevõrra kaugemal, rannajoone ääres, on näha tume puitmaja, mis sulandub süngesse maastikku. Üldine atmosfäär on vaikne, kuid ähvardav ja veidi nukker.",
+      "actions": [
+        "lained murduvad vastu rannikut",
+        "pilved liiguvad taevas"
+      ],
+      "keywords": [
+        "rannik",
+        "meri",
+        "tormine",
+        "pilvine",
+        "majakas",
+        "hoone",
+        "rannikumaastik",
+        "kõle",
+        "tume",
+        "hall",
+        "rannakivid",
+        "lained",
+        "desolaatne"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "majakas",
+        "hoone",
+        "metalltorn",
+        "meri",
+        "lained",
+        "rannakivid",
+        "taevas",
+        "pilved",
+        "taimestik"
+      ],
+      "colorcodes": [
+        "#4A4D4F",
+        "#3B454E",
+        "#666A6B",
+        "#292423",
+        "#8B9091"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on laiem vaade rannikule ilma hoonete ja majakata, rõhutades loodusliku maastiku tühjust.",
+        "Teine ja kolmas pilt aga keskenduvad rannikule paigutatud struktuuridele: kõrgele majakale, väiksemale metalltornile ja puitmajale, andes stseenile konkreetsema asukoha ja inimtekkelise elemendi.",
+        "Teise ja kolmanda pildi vahel olulisi erinevusi pole."
+      ],
+      "snr": "016",
+      "ajad": [
+        "96.760",
+        "114.840"
+      ]
+    },
+    {
+      "explanation": "Stseen algab sügavast, pimedast veest, mille pinnal on näha õrnu virvendusi ja peegeldusi. Vee all on aimatavad tumedad kivid või muud struktuurid. Järgmisena avaneb vaade vanale, kõrgele ja ilmastikust räsitud tuletornile, mis seisab pilvise ja tumeda taeva taustal. Tuletornil on mitu akent ja selle krohv on koorunud, andes sellele aegunud ilme. Paremalt piirab vaadet tume puidust sein või konstruktsioon, mis on udune, luues tunde, et stseeni vaadatakse varjust või lähedalasuvast hoonest. Lõpuks keskendub kaamera tuletorni tipule, kus selle laternaruumis süttib ja särab ere valgus, mis murrab läbi pimeduse. Valgusvihk on intensiivne ja annab märku tuletorni aktiivsest tööst, pakkudes suuniseid öises mereolus. Stseen loob salapärase ja veidi melanhoolse, kuid samas lootusrikka meeleolu.",
+      "actions": [
+        "Vesi virvendab",
+        "Tuletorn seisab",
+        "Valgus särab"
+      ],
+      "keywords": [
+        "Tuletorn",
+        "Meri",
+        "Pimedus",
+        "Öö",
+        "Pilvine",
+        "Salapärane",
+        "Vesi",
+        "Valgus",
+        "Räsitud",
+        "Rannik"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Vesi",
+        "Kivid",
+        "Tuletorn",
+        "Aknad",
+        "Puidust sein",
+        "Laterna ruum",
+        "Valgus",
+        "Taevas",
+        "Pilved"
+      ],
+      "colorcodes": [
+        "#0A0A0A",
+        "#2E323A",
+        "#6A6E71",
+        "#D8D8D8",
+        "#3F3F3F"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader näitab tumedat virvendavat vett, teine kaader avab vaate vanale tuletornile pilvise taeva all, osa pildist on kaetud puidust struktuuriga, kolmas kaader on lähivõte tuletorni tipust, kus selle valgus juba särab.",
+        "Esimene ja teine kaader on üldiselt tumedamad ja udused, kolmandal on ere valgusallikas, mis on stseeni fookuses.",
+        "Kaameranurk ja fookus muutuvad, liikudes veest tuletorni tervikpildini ja sealt detailse lähivõtteni laternaruumist."
+      ],
+      "snr": "017",
+      "ajad": [
+        "114.840",
+        "135.880"
+      ]
+    },
+    {
+      "explanation": "Stseen algab sügava pimedusega, kus on aimata vihmast ööd või väga pimedat keskkonda. Esimesel kaadril on näha tumedaid, udusaid pilvemassiive ja võimalikku vihma langust taevast, mille all horisondi lähedal on aimatavad mägised või künklikud maastikukontuurid. Üleminek järgmistele kaadritele toob stseeni peaaegu täielikku mustusse, kus miski pole enam eristatav, andes edasi tühjuse või pimedusse sukeldumise tunde. Viimases kaadris hajub pimedus veidi, asendudes ühtlasema tumeda halli tooniga, millel on märgata peeneid heledamaid vertikaalseid jooni või triipe, mis võivad viidata jätkuvale vihmasajule, langevale tolmule või kaamerale langenud vedelikule, aga ka abstraktsele valgusefektile. Üldmulje on müstiline, sünge ja abstraktne, keskendudes atmosfäärile ja pimeduse varjunditele.",
+      "actions": [
+        "Vihm sajab",
+        "Maastik tumeneb",
+        "Stseen muutub abstraktsemaks",
+        "Liikumine läbi pimeduse"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Öö",
+        "Vihm",
+        "Udu",
+        "Pilved",
+        "Abstraktne",
+        "Sünge",
+        "Müsteerium",
+        "Atmosfäär",
+        "Vari"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Pilved",
+        "Vihm",
+        "Maastiku kontuurid"
+      ],
+      "colorcodes": [
+        "#0A0A0A",
+        "#1A1A1A",
+        "#000000",
+        "#2F2F2F",
+        "#4A4A4A"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt näitab udust maastikku ja taevast, kus on näha pilvi ja vihma.",
+        "Teine pilt on peaaegu täielikult must, pakkudes minimaalset visuaalset informatsiooni.",
+        "Kolmas pilt on tumedam hall taust, millel on heledad vertikaalsed triibud, kaotades maastiku detailid ja muutudes abstraktsemaks."
+      ],
+      "snr": "018",
+      "ajad": [
+        "135.880",
+        "143.560"
+      ]
+    },
+    {
+      "explanation": "Stseen on valdavalt pime ja salapärane, domineerivad sügavad mustad ja tumedad hallid toonid. Kaks kaadrit (esimene ja kolmas) näitavad pimedal taustal peeneid, heledaid jooni või kriipse, mis libisevad vertikaalselt ja diagonaalselt, meenutades kiirelt langevaid vihmapiiskasid, lumehelbeid või veejälgi klaasil. Need jooned loovad dünaamilise ja abstraktse efekti. Teine, keskmine kaader on täiesti must, mis katkestab joonte nähtavuse ja annab stseenile momendi täielikku pimedust, viidates kiirele üleminekule, pilkasele pimedusele või stiliseeritud visuaalsele katkestusele. Üldine mulje on minimalistlik ja atmosfääriline, keskendudes valguse ja varju mängule pimedas ruumis või maastikul.",
+      "actions": [
+        "Heledate joonte ilmumine",
+        "Heledate joonte kadumine",
+        "Täielik pimedus"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Must",
+        "Abstraktne",
+        "Jooned",
+        "Minimalism",
+        "Vihm",
+        "Lumi",
+        "Atmosfääriline",
+        "Liikumine",
+        "Vari",
+        "Valgusefekt"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Peened heledad jooned/kriipsud"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#1A1A1A",
+        "#333333",
+        "#E0E0E0",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": 95,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Teine kaader on täiesti must ja ilma igasuguste detailideta, samas kui esimene ja kolmas kaader sisaldavad peeneid heledaid jooni ja kriipse tumedal taustal.",
+        "Joonte paigutus ja tihedus võivad esimese ja kolmanda kaadri vahel veidi erineda, kuid üldine efekt on sarnane."
+      ],
+      "snr": "019",
+      "ajad": [
+        "143.560",
+        "149.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pimedat ja salapärast keskkonda. Üks kaader näitab veepinda, kus virvendavad ja peegelduvad heledad täpid ja jooned, viidates valgusele või veepritsmetele. Vasakul pool on osaliselt vee all tume, silindrilise või ovaalse kujuga objekt, mis samuti peegeldab valgust. Vee all on aimatavad tumedamad kontuurid, mis võivad olla taimestik või muu materjal, andes veele sügavrohelise või hallika tooni. Teised kaadrid on peaaegu täielikult pimedad, domineerib must taust, mida läbivad heledad vertikaalsed ja diagonaalsed jooned või triibud. Need triibud annavad edasi liikumist, meenutades langevat vihma, valguse kiiri läbi pimeduse või abstraktseid visuaalefekte. Ühes tumedas kaadris on jooned hajusamad ja peenemad, andes hallika alatooni, samas kui teises on need teravamad ja selgemalt eristuvad vastu sügavmusta tausta. Stseeni üldmulje on sünge, minimalistlik ja keskendub veele ning valguse ja varju mängule pimedas keskkonnas.",
+      "actions": [
+        "Vee virvendamine ja peegeldamine",
+        "Valguse peegeldumine tumedalt objektilt",
+        "Joonte või triipude langemine/liikumine"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Vesi",
+        "Salapära",
+        "Peegeldus",
+        "Vihm",
+        "Abstraktne",
+        "Sünge",
+        "Müstiline",
+        "Öine"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Vesi",
+        "Tume objekt",
+        "Valguspeegeldused",
+        "Heledad jooned/triibud"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#EEEEEE",
+        "#222222",
+        "#1A281E"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "80",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader on hallika tooniga, uduste ja pehmemate heledate triipudega.",
+        "Teine kaader näitab veepinda tumeda objekti, heledate virvenduste ja veealuste kontuuridega.",
+        "Kolmas kaader on sügavmusta taustaga, selgete ja teravate valgete vertikaalsete ja diagonaalsete joontega."
+      ],
+      "snr": "020",
+      "ajad": [
+        "149.840",
+        "157.120"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb kolmest järjestikusest kaadrist, mis kujutavad valguse kiireid muutusi pimedast heledaks ja tagasi pimedaks. Alguses on kaader valdavalt tumehall, kergelt teraline, viidates vähesele valgusele või pimedusele. Paremal küljel on näha paar õhukest vertikaalset heledat joont, mis võivad olla peegeldused või valguskiired. Järgmises hetkes muutub stseen järsult ja intensiivselt heledamaks, muutudes helelillakashalliks. Vasakul on märgatav väike, tuhm roheline täpp, mis viitab objektiivi peegeldusele (lens flare). Seejärel naaseb stseen kiiresti algsesse pimedasse olekusse, olles taas tumehall ja teraline, sarnanedes esimesele olekule. Puuduvad selged objektid, isikud või tekstid, mis annaksid konkreetse konteksti, kuid valguse kiire muutumine viitab tõenäoliselt valgussähvatusele, ekraani heleduse muutusele või kaamera välgule.",
+      "actions": [
+        "valguse muutumine",
+        "valgussähvatus",
+        "objektiivi peegeldus"
+      ],
+      "keywords": [
+        "pimedus",
+        "heledus",
+        "valgus",
+        "kontrast",
+        "sähvatus",
+        "tumehall",
+        "helelillakashall",
+        "teraline",
+        "objektiivi peegeldus"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "valgus",
+        "objektiivi peegeldus"
+      ],
+      "colorcodes": [
+        "#2A2A2A",
+        "#D0D0D5",
+        "#72A072"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene ja kolmas kaader on tumehallid ja sarnased, samas kui teine kaader on oluliselt heledam ja lillakashall.",
+        "Teises kaadris on vasakul näha roheline objektiivi peegeldus, mida teistes kaadrites ei ole.",
+        "Valguse intensiivsuse järsk muutus pimedast heledaks ja tagasi pimedaks."
+      ],
+      "snr": "021",
+      "ajad": [
+        "157.120",
+        "158.280"
+      ]
+    },
+    {
+      "explanation": "Stseen algab täielikus pimeduses, mis järk-järgult hajub, paljastades tumeda silueti, mis meenutab tuletorni ülemist osa. Lähemalt vaadeldes ilmub tuletorni lambikamber selgemalt, näidates selle klaasist paneele ja metallist karkassi. Lõpuks süttib tuletorni võimas lamp, kiirates eredat valget valgust läbi klaasseinte. Valgus on intensiivne, luues klaasile nähtavaid peegeldusi ning tuues esile lambi spiraalse või trepjas struktuuri. Tuletorni ümber on näha ka piirded või reelingud, mis ümbritsevad platvormi lambikambri all. Kogu stseen on domineerivalt tumedates toonides, rõhutades tuletorni valguse olulisust öises keskkonnas.",
+      "actions": [
+        "Pimeduse hajumine",
+        "Tuletorni silueti ilmumine",
+        "Tuletorni lambi süttimine",
+        "Valguse kiirgumine"
+      ],
+      "keywords": [
+        "Tuletorn",
+        "Öö",
+        "Pimedus",
+        "Valgus",
+        "Illuminatsioon",
+        "Majakas",
+        "Meri",
+        "Navigatsioon",
+        "Eredus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Tuletorn",
+        "Tuletorni lamp",
+        "Klaasipaneelid",
+        "Metallraamistik",
+        "Reelingud",
+        "Tuletorni kuppel"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#242426",
+        "#333333",
+        "#FFFFFF",
+        "#880000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Pimedus hajub järk-järgult, paljastades stseeni.",
+        "Tuletorni siluett ilmub esmalt ähmaselt, seejärel selgemalt.",
+        "Tuletorni lamp süttib ja muutub eredaks, valgustades ümbrust.",
+        "Kaadrite järjestus näitab üleminekut abstraktsest pimedusest detailsele ja valgustatud objektile."
+      ],
+      "snr": "022",
+      "ajad": [
+        "158.280",
+        "168.160"
+      ]
+    },
+    {
+      "explanation": "Stseen algab ekstreemselt lähedase kaadriga tumedast, nahast või kangast esemest, mis on kinnitatud traatide või nööridega ja paikneb pimedal taustal, luues salapärase ja veidi ähvardava meeleolu. Seejärel avaneb vaade avarasse, sümmeetrilise puitkonstruktsiooniga hoone sisemusse, mis meenutab suurt küüni, pööningut või saali. Ruumi domineerivad paljad puidust talad, mis moodustavad katusekonstruktsiooni. Stseeni keskel on väiksem, valgetest paneelidest ehitatud hooneke, millel on tume uks ja pikk korsten. Hoone ees on kaks tooli, üks punane ja teine sinine. Alguses on ruum hämaralt valgustatud, jättes mulje hilisõhtust või ööst. Seejärel avanevad suured puidust uksed mõlemal pool, lastes sisse rohkem valgust ja muutes stseeni oluliselt heledamaks, avatumaks ja detailirohkemaks. Puitkonstruktsiooni ja keskmise hoone detailid tulevad selgemalt esile. Üleminek salapäraselt esemelt avarale ja valgustatud ruumile loob tunde avalikustamisest või sündmuse algusest.",
+      "actions": [
+        "Lähenemine esemele",
+        "Stseeni avanemine",
+        "Uste avanemine",
+        "Valgustuse muutumine"
+      ],
+      "keywords": [
+        "Küün",
+        "Puitkonstruktsioon",
+        "Sümmeetria",
+        "Salapära",
+        "Avastus",
+        "Üleminek",
+        "Toolid",
+        "Maskilaadne ese",
+        "Tume",
+        "Valge",
+        "Punane",
+        "Sinine",
+        "Hämardus",
+        "Valgus",
+        "Uksed",
+        "Korsten",
+        "Interjöör",
+        "Puidust",
+        "Trahvid"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Maskilaadne ese",
+        "Traadid/Nöörid",
+        "Puidust talad",
+        "Puidust seinad",
+        "Suured puidust uksed",
+        "Valge paneelidest hooneke",
+        "Tume uks",
+        "Korsten",
+        "Punane tool",
+        "Sinine tool",
+        "Puidust põrand"
+      ],
+      "colorcodes": [
+        "#2C2C2C",
+        "#5A4B3A",
+        "#A38C6D",
+        "#E0E0E0",
+        "#B02F2F",
+        "#2F6CB0",
+        "#1A1A1A"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on ekstreemselt lähedane kaader tumedast esemest, samas kui teine ja kolmas pilt on avarad kaadrid suurest ruumist.",
+        "Teine pilt on oluliselt hämaram kui kolmas pilt.",
+        "Teisel pildil on suured puidust uksed suletud, kolmandal pildil on uksed avatud.",
+        "Detailid, nagu puidust talad ja keskmine hooneke, on kolmandal pildil valguse tõttu palju selgemalt nähtavad kui teisel pildil.",
+        "Kolmas pilt kujutab valgustatumat stseeni, mis viitab päevaajale, võrreldes teise pildi hämarusega, mis viitab õhtule või ööle."
+      ],
+      "snr": "023",
+      "ajad": [
+        "168.160",
+        "195.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab puidust hoone siseruumi, tõenäoliselt pööningut või katusealust, vaadates üles lae poole. Keskmes on näha keerukat puitkonstruktsiooni, mis koosneb paksudest horisontaalsetest taladest ja diagonaalsetest sarikatest, samuti puidust laudadest, mis moodustavad lae pinna. Konstruktsioon on enamasti helepruunides looduslikes puidutoonides, kohati paistab tumedama puidu elemente ja kaadrite keskel on näha tume, vertikaalne sammas- või torutaoline detail. Üks pilt keskendub detailselt puidu tekstuurile ja ehituslikule ühendusele, näidates poldiga kinnitatud puitdetaili, millel on näha ka puidu pragusid ja mustreid. Üldine atmosfäär on vaikne ja struktuur on robustne, rõhutades traditsioonilist puusepatööd ja ehituse detaile.",
+      "actions": [
+        "Puitehitise sisestruktuuri vaatlemine",
+        "Ehitusdetailide dokumenteerimine"
+      ],
+      "keywords": [
+        "Puitkonstruktsioon",
+        "Katuslagi",
+        "Puidust talad",
+        "Sarikad",
+        "Puitlaudis",
+        "Palkehiits",
+        "Poldid",
+        "Ehitus",
+        "Arhitektuur",
+        "Sisustus",
+        "Detailid",
+        "Puusepatöö",
+        "Pööning",
+        "Lagi"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Puit",
+        "Talad",
+        "Sarikad",
+        "Puitlaudis",
+        "Palkehiits",
+        "Poldid",
+        "Seibid",
+        "Metallkinnitus",
+        "Tume tugisammas/toru"
+      ],
+      "colorcodes": [
+        "#D4C1A8",
+        "#8B745D",
+        "#3F3F3F",
+        "#707070"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesed kaks kaadrit näitavad laiemat ülevaadet puidust katusekonstruktsioonist, kusjuures teine kaader on esimesest veidi heledam ja detailirohkem, samas üldiselt sarnase kompositsiooniga.",
+        "Kolmas kaader on lähivõte konkreetsest puitühendusest, fookusega puidust talal, tumedamal ülemisel puidul ja metallist poldil koos kandilise seibiga, andes detailse ülevaate ehituselementidest.",
+        "Kaadrites on erinev fookuskaugus ja kompositsioon, liikudes üldvaatest detailsele läbivaatusele, pakkudes erinevaid perspektiive samale objektile."
+      ],
+      "snr": "024",
+      "ajad": [
+        "195.880",
+        "216.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab äärmiselt lähivõtet kahest puitdetailist, mis on horisontaalse liitekohaga üksteise peal. Ülemine puit on tumedam, hallikasmust, rikkaliku ja nähtava puidusüüga, mis jookseb vertikaalselt. Alumine puit on heledam, hallikasbeež või kahvatu pruun, samuti selgelt eristuva vertikaalse puidusüüga. Mõlema puidu tekstuur tundub kare ja ilmselt aja jooksul kulunud. Valgus on stseenis hämar, valgustades esemeid peamiselt eest ja ülevalt, jättes suurema osa taustast sügavatesse varjudesse ja fookusest välja. Kaadris on terav fookus täpselt puitdetailide liitekohal, rõhutades materjali detaile ja vanust.",
+      "actions": [
+        "koosneb",
+        "kujutab",
+        "valgustab",
+        "rõhutab"
+      ],
+      "keywords": [
+        "Puit",
+        "detail",
+        "tekstuur",
+        "puidusüü",
+        "vana",
+        "kulunud",
+        "hämar valgus",
+        "lähivõte",
+        "hall",
+        "beež",
+        "liitekoht",
+        "materjal",
+        "tume",
+        "hele"
+      ],
+      "shot_type": "extreme close-up",
+      "placement": "not clear",
+      "objects": [
+        "puitdetailid",
+        "puit",
+        "puidusüü"
+      ],
+      "colorcodes": [
+        "#3C3C3D",
+        "#6D6C68",
+        "#2F2D2D"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 10,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel on minimaalsed erinevused kadreeringus või valguse nüanssides, mis on vaevu märgatavad. Sisuliselt on stseen sama."
+      ],
+      "snr": "025",
+      "ajad": [
+        "216.680",
+        "219.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab detailset lähivaadet siseruumi puitkonstruktsioonist, mis koosneb erineva laiuse ja tooniga puitlaudadest ning -prussidest. Valgus on hämar ja summutatud, luues varjudega mängiva tekstuuri ja sügavuse. Puit on toore või kergelt töödeldud välimusega, paljastades selgelt puidusüü mustreid ja oksakohti. Keskel on näha vertikaalseid puitprussi, mis moodustavad raami, nende kõrval on nii kitsamaid kui ka laiemaid puitpaneele, mis on paigutatud erinevatele sügavustele. Paremal pool on näha heledamat puitlauda, mis on diagonaalselt paigutatud, lisades kompositsioonile dünaamikat. Üldine toon on pruunikas-hall, rõhutades materjali naturaalsust ja ehituslikku olemust.",
+      "actions": [],
+      "keywords": [
+        "puitkonstruktsioon",
+        "puit",
+        "siseruum",
+        "ehitus",
+        "renoveerimine",
+        "tekstuur",
+        "vari",
+        "hämar",
+        "naturaalne",
+        "puidusüü",
+        "laudis",
+        "prussid"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "puitlauad",
+        "puitprussid",
+        "puitkonstruktsioon",
+        "sein"
+      ],
+      "colorcodes": [
+        "#615a51",
+        "#3c352f",
+        "#978a7f",
+        "#746d61",
+        "#b19d8d"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Väikesed erinevused valguses ja heleduses kaadrite vahel, mis viitavad kergele virvendusele või särituse muutusele. Esimene kaader on pisut heledam kui järgnevad."
+      ],
+      "snr": "026",
+      "ajad": [
+        "219.320",
+        "222.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab valgetest horisontaalsetest puitliistudest või laudadest ehitatud seina või struktuuri lähivõtet. Liistud on värvitud mattvalgeks, kuid neil on näha puidu tekstuur ja kerge kareduse märke. Liistude vahel on kitsad vahed, mis loovad ribilise või lamellise efekti. Pildil on esiplaanil fookuses struktuuri nurk, kus horisontaalsed liistud kohtuvad täisnurga all. Nurga tagaplaanil paremal ja vasakul on näha sama struktuuri, mis hajub fookusest välja, andes edasi sügavust. Mõnes kohas on liistude ühenduskohas näha ka väikseid kinnitusvahendeid, näiteks naelu või kruvisid. Valgus on pehme ja ühtlane, varjud on minimaalsed.",
+      "actions": [],
+      "keywords": [
+        "valge puit",
+        "puidust struktuur",
+        "horisontaalsed liistud",
+        "ribiline sein",
+        "lamellsein",
+        "arhitektuuriline detail",
+        "tekstuur",
+        "minimalistlik",
+        "valge värv",
+        "nurk",
+        "puitlaudis"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "valged puitliistud",
+        "puitlauad",
+        "kinnitusvahendid (naelad/kruvid)",
+        "sein/struktuur"
+      ],
+      "colorcodes": [
+        "#E8E8E8",
+        "#CFCFCF",
+        "#AFAFAF"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kaamera asend ja fookuspunkt nihkuvad veidi kaadrite vahel. Teises kaadris on veidi rohkem detaile näha paremal pool asuval struktuuri osal, sealhulgas väikesed kinnitusvahendid (naelad või kruvid), mis esimeses kaadris nii selgelt ei eristu."
+      ],
+      "snr": "027",
+      "ajad": [
+        "222.960",
+        "230.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kitsast, siseruumi, mis on täielikult ehitatud valgeks värvitud puidust. Ruumi külgedel on seinad kaetud horisontaalsete puitlaudadega, andes rustikaalse ja tekstuurse ilme. Keskel on näha rida kolme või nelja valget, ristkülikukujulist astet või riiulit, mis süvenevad allapoole. Astmete vertikaalsetel osadel ja horisontaalsetel pindadel on näha õrnu hallikaid plekke või kulumisjälgi, mis eristuvad puhtast valgest pinnast. Valgus on ühtlane ja ere, rõhutades ruumi minimalistlikku ja funktsionaalset disaini.",
+      "actions": [
+        "Kaamera liigub sujuvalt allapoole või suumib välja, paljastades järjest rohkem ruumi sügavust ja alumisi astmeid."
+      ],
+      "keywords": [
+        "Valged trepiastmed",
+        "Puidust seinad",
+        "Siseruum",
+        "Minimaalne disain",
+        "Valge värv",
+        "Horisontaalsed lauad",
+        "Trepikäik",
+        "Riiulid",
+        "Puhas",
+        "Rustikaalne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Trepiastmed",
+        "Puidust seinapaneelid",
+        "Puitlauad"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#E0E0E0",
+        "#C0C0C0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaamera liigub allapoole, paljastades järk-järgult rohkem astmeid või riiuleid allpool.",
+        "Ülemine aste muutub järjest vähem nähtavaks või kaob kaadrist, samal ajal kui alumised astmed ja nende taga olevad seinad tulevad paremini esile."
+      ],
+      "snr": "028",
+      "ajad": [
+        "230.840",
+        "237.320"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab tumedat, peaaegu musta tausta, mille keskel on fookuses ümmargune aken või luuk. See aken on tumehalli raamiga ja sellel on ristuvad pulgad, mis jagavad vaate neljaks segmendiks. Akna kaudu paistab hämaralt valgustatud interjöör, mis koosneb heledamatest, geomeetrilistest pindadest – eelkõige näib see olevat moodustatud nurkadest ja liituvatest tasapindadest, mis loovad abstraktse mustri. Üldmulje on müstiline ja rahulik, rõhutades kontrasti tumeda ümbruse ja akna kaudu paistva detailse sisevaate vahel. Akna külgedel on ka kaks horisontaalset pikendust, mis annavad sellele veidi tööstusliku või arhailise ilme, meenutades ehk laeva illuminaatorit või spetsiifilist arhitektuurset elementi.",
+      "actions": [],
+      "keywords": [
+        "pimedus",
+        "aken",
+        "luuk",
+        "geomeetria",
+        "arhitektuur",
+        "interjöör",
+        "vari",
+        "müstika",
+        "kontrast",
+        "hämarus",
+        "staatiline"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "ümmargune aken",
+        "aknaristid",
+        "akna raam",
+        "geomeetrilised pinnad",
+        "interjööri detailid"
+      ],
+      "colorcodes": [
+        "#131313",
+        "#262626",
+        "#BDBDBD",
+        "#969696",
+        "#D4D4D4"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on visuaalselt peaaegu märkamatud erinevused, mis viitavad sellele, et tegemist on järjestikuste kaadritega samast stseenist. Võimalikud minimaalsed valgusnihked või kaamera vibratsioonid on vaevu eristatavad."
+      ],
+      "snr": "029",
+      "ajad": [
+        "237.320",
+        "246.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist maastikku eredalt paistva täiskuuga tumedas taevas. Täiskuu asub kaadri vasakul ülemises nurgas, olles silmapaistvalt ere heledana ümbritsevas pimeduses. Kuu ümber on näha õrnu, hõljuvaid pilvesalgesid. Kaadri alumine osa on täidetud tumedate, siluetina paistvate puude või põõsastega, mis annavad edasi metsaserva või tiheda taimestiku muljet ööpimeduses. Üldine atmosfäär on rahulik, salapärane ja melanhoolne, rõhutades öise looduse ilu. Kolmas kaader on täiesti must, mis viitab stseeni lõppemisele või üleminekule.",
+      "actions": [],
+      "keywords": [
+        "kuu",
+        "täiskuu",
+        "öö",
+        "taevas",
+        "puud",
+        "siluetid",
+        "pimedus",
+        "loodus",
+        "rahulik",
+        "salapärane",
+        "pilved",
+        "mets",
+        "kaadri pimendamine"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "kuu",
+        "puud",
+        "pilved",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#D9E4EF",
+        "#272C41",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimese ja teise pildi vahel on märgata väga väikeseid erinevusi kuu ümber olevate pilvede asetuses ja tiheduses – need tunduvad veidi nihkunud või hajusamad.",
+        "Kolmas pilt on täielikult must, tähistades üleminekut teisele stseenile või kaadri pimendamist."
+      ],
+      "snr": "030",
+      "ajad": [
+        "246.200",
+        "262.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaadet merele pilvise taeva all, raamituna justkui mingi heledast puidust ehitise avausest, mille püstised postid on näha pildi vasakul ja paremal servas. Keskel avaneb avar merevaade hallikas-sinakatele lainetele ja tumedatele pilvedele. Horisondil paistab mitu väikest saarekest või maapiirkonda, mis sulanduvad pilvise taevaga. Esiplaanil on kivisillutisega kaetud kaldaramp, mis ulatub vette, ja selle kõrval on näha rannakive. Vee peal virvendab nõrk valguse peegeldus pilvede vahelt paistvast heledamast taevaalast. Üldmulje on melanhoolne, rahulik ja mõtisklev, domineerivad jahedad toonid.",
+      "actions": [
+        "Lained loksuvad ja liiguvad veepinnal",
+        "Valgus murdub pilvede vahelt ja peegeldub veel"
+      ],
+      "keywords": [
+        "Meri",
+        "Pilvine taevas",
+        "Randaramp",
+        "Kaldakivid",
+        "Saared",
+        "Rahulik",
+        "Melanhoolne",
+        "Loodusvaade",
+        "Puidust raamistik",
+        "Hallid toonid",
+        "Avatud vaade"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Meri",
+        "Taevas",
+        "Pilved",
+        "Kaldaramp",
+        "Rannakivid",
+        "Puidust raamistik",
+        "Saared",
+        "Lained"
+      ],
+      "colorcodes": [
+        "#747C82",
+        "#636D74",
+        "#9C9181",
+        "#5D5E5E",
+        "#B3B7B9"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on täiesti must, samas kui teine ja kolmas pilt kujutavad merevaadet.",
+        "Teise ja kolmanda pildi vahel on märgata minimaalseid erinevusi lainete liikumises ja valguse peegelduses veepinnal, mis annab edasi dünaamikat ja aja möödumist kaadrite vahel."
+      ],
+      "snr": "031",
+      "ajad": [
+        "262.760",
+        "296.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab üht musta nahast kinga, mis hõljub või on osaliselt vee all madalas, pruunikashallis veekogus. King on külili asendis, tald veidi ülespoole suunatud, andes sellele mahajäetud ilme. Vesi on täis väikeseid laineid ja peegeldusi, mis annavad sellele elava, kuid samas halli ja melanhoolse tooni. Vee äärtes ja osaliselt ka vees on näha arvukalt kive ja muid orgaanilisi või anorgaanilisi jäänuseid, mis on kaetud heleda, peaaegu valge vahutaolise massiga, mis annab keskkonnale reostuse või loodusliku ladestuse mulje. Üldine atmosfäär on vaikne, mahajäetud ja kergelt sünge. Pildistusnurk on madal, tuues esile kinga ja veepinna vahetu läheduse.",
+      "actions": [
+        "King hõljub vees",
+        "King on osaliselt vee all"
+      ],
+      "keywords": [
+        "must king",
+        "mahajäetud",
+        "vesi",
+        "kivid",
+        "vaht",
+        "reostus",
+        "sünge",
+        "melanhoolne",
+        "veekogu",
+        "kummaline objekt"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "king",
+        "vesi",
+        "kivid",
+        "vaht",
+        "praht"
+      ],
+      "colorcodes": [
+        "#0f0f0f",
+        "#5f6a6c",
+        "#c3c7c4",
+        "#807a75"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad erinevused."
+      ],
+      "snr": "032",
+      "ajad": [
+        "296.200",
+        "307.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pilvise taeva all avarat rannikumaastikku, kus domineerivad kolm ehitist: vana kivist majakas, selle kõrval asuv metallist vaatetorn või tugijaam ning paremal pildil esiplaanil puidust päästejaama hoone. Majakas on silindrilise kujuga, helehall või kollakasvalge ning ilmastikust kulunud. Selle tipus on laternaruum. Vasakul majakast tagapool kõrgub kitsas metallkonstruktsiooniga torn. Paremalt domineerib vaatevälja puidust, sadulkatusega päästejaam, mis asub kivisel alusel. Hoone esifassaadil on suur punane rist, mille taha on asetatud kaks sinist ankurt – see sümboliseerib merepäästeteenistust. Päästejaama ukse kohal on tumeda taustaga silt valge kirjaga. Maapind on kaetud hõreda rohu ja mõne kiviga. Üldine atmosfäär on sombune ja melanhoolne, rõhutades rannikuala ilmastikuolude karmust.",
+      "actions": [],
+      "keywords": [
+        "majakas",
+        "päästejaam",
+        "rannik",
+        "saar",
+        "Vilsandi",
+        "pilvine",
+        "merepääste",
+        "ajalooline",
+        "loodus",
+        "arhitektuur",
+        "Eesti"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "majakas",
+        "päästejaam",
+        "vaatetorn",
+        "kivid",
+        "rohi",
+        "pilved",
+        "puidust hoone",
+        "metallkonstruktsioon",
+        "silt"
+      ],
+      "colorcodes": [
+        "#6d6d6d",
+        "#b0a99e",
+        "#5a3d34",
+        "#e32b35",
+        "#466c8d"
+      ],
+      "texts": [
+        "VILSANDI PÄÄSTE-JAAM"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaadrid on peaaegu identsed, puuduvad märkimisväärsed visuaalsed erinevused."
+      ],
+      "snr": "033",
+      "ajad": [
+        "307.080",
+        "320.920"
+      ]
+    },
+    {
+      "explanation": "Stseen algab minimalistliku tiitelkaardiga, kus mustal taustal on suures helehallis kirjas pealkiri \"TÕUS JA MÕÕN\". Seejärel asendub tiitelkaart teise musta ekraaniga, millel on helehallis tekstis teade \"Filmi teokssaamist toetasid ja juhendasid:\" ning selle all loetelu nimedest, mis hõlmab ühtekokku ühtteistkümmet isikut, sealhulgas Kalle Vellevoog, Raimu Aardam, Anneli Ahven ja teised. Stseen lõpeb täielikult musta ekraaniga, mis viitab kas filmi algusele/lõpule või üleminekule järgmisele kaadrile. Kogu stseen on tekstipõhine ja visuaalselt väga puhas, keskendudes ainult informatsiooni edastamisele.",
+      "actions": [
+        "Teksti ilmumine",
+        "Tiitelkaartide vaheldumine",
+        "Stseeni lõpp musta ekraaniga"
+      ],
+      "keywords": [
+        "Tiitrid",
+        "Pealkiri",
+        "Krediidid",
+        "Filmi algus",
+        "Filmi lõpp",
+        "Must taust",
+        "Helehall tekst",
+        "Minimalistlik",
+        "Informatiivne",
+        "Toetajad",
+        "Juhendajad"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "TÕUS JA MÕÕN",
+        "Filmi teokssaamist toetasid ja juhendasid:",
+        "Kalle Vellevoog",
+        "Raimu Aardam",
+        "Anneli Ahven",
+        "Andri Allas",
+        "Harri Hiiuväin",
+        "Karlis Jaunzems",
+        "Leelo Jürjen",
+        "Aivar Kallas",
+        "Gunnar Laal",
+        "Sten- Johan Lill"
+      ],
+      "persons": [
+        "Kalle Vellevoog",
+        "Raimu Aardam",
+        "Anneli Ahven",
+        "Andri Allas",
+        "Harri Hiiuväin",
+        "Karlis Jaunzems",
+        "Leelo Jürjen",
+        "Aivar Kallas",
+        "Gunnar Laal",
+        "Sten- Johan Lill"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "70-100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt sisaldab pealkirja \"TÕUS JA MÕÕN\", teine pilt sisaldab filmi toetajate ja juhendajate nimekirja ning kolmas pilt on täiesti must, ilma igasuguse tekstita."
+      ],
+      "snr": "034",
+      "ajad": [
+        "320.920",
+        "375.360"
+      ]
+    }
+  ]
+}

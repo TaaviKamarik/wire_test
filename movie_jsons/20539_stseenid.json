@@ -1,0 +1,127 @@
+{
+  "film": [
+    "20539",
+    "20385",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Suur skandaal",
+    "fef004c4801ddf43d768c4a5eab7340ed59b111b.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab stiilselt riietatud noort naist istumas laua taga siseruumis, mis meenutab restorani või ööklubi. Naise nägu on kaunistatud dramaatilise meigiga, sealhulgas tumeda huulepulga ja võib-olla ka silmameigiga. Tema otsmikul on poolkuu sümbol või sarnane juuksekaunistus. Tal on tumedad juuksed, mis on osaliselt üles seatud. Naine kannab tumedat pikavarrukat särki või pluusi ja kaela ümber on seotud sinise-valge ruudulise mustriga siidsall. Tema käed on sümmeetriliselt paigutatud lauale, peopesad vastamisi ja sõrmed kergelt kõverdatud, mis annab pildile poseeritud ja teatraalse ilme. Ta vaatab pilguga paremale (vaataja seisukohast). Naise ees laual on tume pind ja pudel, mis on osaliselt kaetud heleda paberiga, meenutades šampanja- või veinipudelit. Taustal on näha suuri rohelisi toataimi ja punast seina või eraldajat. Kaugemal taustal on hägused valgusallikad, mis viitavad hämarale õhtu- või ööajale ja tekitavad salapärase atmosfääri.",
+      "actions": [
+        "Istumine",
+        "Poseerimine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Gooti",
+        "Stiilne",
+        "Poseeritud",
+        "Elegantne",
+        "Salapärane",
+        "Ööklubi",
+        "Restoran",
+        "Taimed",
+        "Kuu",
+        "Dramaatiline",
+        "Portree",
+        "Siseruum"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Sall",
+        "Laud",
+        "Pudel",
+        "Taimed",
+        "Istmed",
+        "Sein",
+        "Juuksekaunistus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#1F3F6D",
+        "#FFFFFF",
+        "#D02B2B",
+        "#3A5F3A",
+        "#C8A28E",
+        "#4B4C4D"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Kaks pilti on täiesti mustad (tühjad kaadrid).",
+        "Üks pilt näitab detailset stseeni naisega laua taga."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "45.600"
+      ]
+    },
+    {
+      "explanation": "Stseen algab ja lõpeb täieliku pimedusega, mille vahel ilmub mees, kes istub hämaras baaris baari leti taga. Tema ees on klaas kangema alkoholiga, tõenäoliselt viskiga, ja stiilne kaabu. Mees näib mõtlik, kurb või sügavates mõtetes, toetades oma küünarnukke letile ja vaadates allapoole. Baari interjöör on tumedates ja sumedates toonides, domineerivad punased valgusaktsendid ja sügavmustad varjud, mis loovad melanhoolse ja intiimse atmosfääri. Taustal on näha rohelisi taimi puitkastis ja muid baari sisustuselemente.",
+      "actions": [
+        "Mees istub baari leti taga",
+        "Mees toetub küünarnukkidega letile",
+        "Mees vaatab allapoole"
+      ],
+      "keywords": [
+        "Baar",
+        "Melanhoolia",
+        "Mõtlikkus",
+        "Üksildus",
+        "Hämarus",
+        "Jook",
+        "Kurbus",
+        "Öine",
+        "Sügavmõtteline"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Baarilett",
+        "Klaas",
+        "Jääkuubikud",
+        "Alkohol (tõenäoliselt viski)",
+        "Kaabu",
+        "Taimed (potitaimed)",
+        "Puitkast",
+        "Punased tuled",
+        "Baari sisustus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#7A5B45",
+        "#E0A74B",
+        "#8C0000"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "80",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene ja kolmas pilt on täiesti mustad, esindades pimedust või stseeni algust/lõppu, samas kui teine pilt näitab detailset stseeni baaris.",
+        "Valgusolud ja nähtav sisu muutuvad drastiliselt mustade ja stseenipildi vahel."
+      ],
+      "snr": "002",
+      "ajad": [
+        "45.600",
+        "237.440"
+      ]
+    }
+  ]
+}

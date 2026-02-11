@@ -1,0 +1,1624 @@
+{
+  "film": [
+    "17041",
+    "16919",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Tosin küsimust Eesti kohta: Vältimatu",
+    "c74b761c0ca0a47221146e82594346524785748a.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab ja lõpeb ühtlase musta taustaga. Vahepeal ilmub ekraani keskele valge sans-serif kirjas sõna \"Vältimatu\", mis seejärel kaob.",
+      "actions": [
+        "Teksti ilmumine",
+        "Teksti kadumine"
+      ],
+      "keywords": [
+        "Tiitel",
+        "Tekst",
+        "Must taust",
+        "Valge kiri",
+        "Minimalism",
+        "Must ekraan",
+        "Lihtsus"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Ekraan",
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Vältimatu"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": 95,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on täiesti must, teisel pildil ilmub mustale taustale valge tekst \"Vältimatu\"."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "14.080"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivõttes kujutatud noort meest tumedate lokkis juustega. Tema nägu on valgustatud hämaralt ja suunatult, luues sügavaid varje, mis rõhutavad tema näojooni ja annavad edasi introspektsiooni või melanhoolia tunnet. Mehe pilk on suunatud allapoole ja veidi kõrvale, vihjates sügavatele mõtetele, kurbusele või keskendumisele millelegi nähtamatule. Näol on näha kerget habemetüükast ja paremal põsel (vaataja vasakul) eristub sünnimärk või arm. Taust on tume ja fookusest väljas, mis suunab tähelepanu subjekti emotsionaalsele seisundile. Näo nahk tundub pisut läikiv, mis võib olla tingitud higist või valgusest. Üldine atmosfäär on tõsine ja emotsionaalselt laetud.",
+      "actions": [
+        "Vaatab allapoole",
+        "Mõtiskleb",
+        "Keskendub"
+      ],
+      "keywords": [
+        "Lähivõte",
+        "Meessoost",
+        "Tumeda juustega",
+        "Mõtisklev",
+        "Tume valgus",
+        "Varjud",
+        "Intiimne",
+        "Emotsionaalne",
+        "Kurbus",
+        "Introspektsioon"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese nägu",
+        "Lokkis juuksed",
+        "Habemetüügas",
+        "Sünnimärk/arm"
+      ],
+      "colorcodes": [
+        "#2A2A2A",
+        "#634F47",
+        "#1F1D1D",
+        "#8C7268",
+        "#725E56"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevused on näo valgustuses, mis järk-järgult muutub. Esimeses kaadris on nägu kõige tumedamalt varjus, eriti parempoolne külg (vaataja paremal). Teises ja kolmandas kaadris muutub näo vasakpoolne külg (vaataja vasakul) järk-järgult paremini valgustatuks, paljastades rohkem nahatooni ja tekstuuri põsel ja lõualuul. Mehe pilk püsib allapoole suunatud, kuid iga kaadriga tundub see süvenevat või muutuvat veidi avatumaks, kuigi üldine melanhoolne toon säilib."
+      ],
+      "snr": "002",
+      "ajad": [
+        "14.080",
+        "44.480"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha noort meest, kellel on tumedad lokkis juuksed ja habe. Ta vaatab peeglisse, uurides oma peegelpilti. Mees on ülakehast paljas. Peegelpildis on näha tema nägu ja õlad, samas kui pildi paremal küljel on esiplaanil mehe profiil, kes vaatab peeglisse. Peegli taga paistab telliskivisein. Valgus on hämar, luues intiimse ja mõtiskleva atmosfääri. Mehe pilk peeglis on intensiivne ja süvenenud.",
+      "actions": [
+        "Peeglisse vaatamine",
+        "Enda peegelpildi uurimine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Mees",
+        "Peegel",
+        "Peegelpilt",
+        "Enesereflektsioon",
+        "Lokkis juuksed",
+        "Habe",
+        "Telliskivisein",
+        "Siseruum",
+        "Hämar valgus",
+        "Mõtisklev"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Peegel",
+        "Telliskivisein"
+      ],
+      "colorcodes": [
+        "#2A2424",
+        "#4C3C34",
+        "#6B4E4A",
+        "#9F7E7A",
+        "#5F555A",
+        "#201C1D"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehe peegelpilt väga udune ja ebaselge.",
+        "Teisel pildil on peegelpilt muutunud selgemaks, kuid on endiselt veidi udune.",
+        "Kolmandal pildil on mehe peegelpilt täiesti terav ja selge, fookus on liikunud udususelt selgusele, tuues esile mehe näojooned ja ilme."
+      ],
+      "snr": "003",
+      "ajad": [
+        "44.480",
+        "88.040"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha inimese jalgu ja sääri, kes seisab paljajalu pruunikaspunastel põrandaplaatidel. Taustal on telliskivisein ning paremal pool tume puidust objekt ja ruudukujuline äravoolurest põrandal. Inimese jalgade ümber kukub triibuline aluspesu, mis on valge, sinise ja halli mustriga. Seejärel kummardub inimene ja korjab aluspesu maast üles.",
+      "actions": [
+        "Seismine",
+        "Aluspesu maha kukkumine",
+        "Kummardumine",
+        "Aluspesu üles korjamine"
+      ],
+      "keywords": [
+        "Paljajalu",
+        "Aluspesu",
+        "Põrandaplaadid",
+        "Telliskivisein",
+        "Äravoolurest",
+        "Vannituba",
+        "Hämar",
+        "Inimene"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Jalad",
+        "Sääred",
+        "Aluspesu",
+        "Põrandaplaadid",
+        "Telliskivisein",
+        "Äravoolurest",
+        "Tume puidust mööbel/ese"
+      ],
+      "colorcodes": [
+        "#724036",
+        "#9C755F",
+        "#D4C9C1",
+        "#4A4D53",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene kaader: Inimene seisab lihtsalt paljajalu, põrand on puhas.",
+        "Teine kaader: Triibuline aluspesu on kukkunud inimese jalgade ümber, pahkluude kõrgusele.",
+        "Kolmas kaader: Inimese käsi on näha kummardumas ja aluspesu maast üles korjamas."
+      ],
+      "snr": "004",
+      "ajad": [
+        "88.040",
+        "91.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi telliskiviseintega, kus toimub ettevalmistus sauna või dušši sisenemiseks. Esialgu on näha udune telliskivisein ja tume ukseava või nurk. Seejärel ilmub kaadrisse lokkis tumedate juustega ja habemetüüka või habemega nooremapoolne mees, kes on palja ülakehaga ja katab end oranži või punase rätikuga puusade kõrguselt. Mees vaatab allapoole, tema parem näopool on varjus. Ta seisab telliskiviseina ees. Lõpuks näeme meest (või võimalik, et teist isikut) sisenemas või juba siseruumis aurusesse saunaruumi või dušši läbi puitraamiga klaasukse. Isik on tagantvaates ja alasti. Saunaruumi uks asub telliskiviseina kõrval paremal pool ja telliskiviseinal ukseava kohal on näha väike tume tahvel või silt.",
+      "actions": [
+        "Mees katab end rätikuga",
+        "Mees siseneb saunaruumi/dušši"
+      ],
+      "keywords": [
+        "saun",
+        "telliskivisein",
+        "mees",
+        "rätik",
+        "vannituba",
+        "pesemine",
+        "alastus",
+        "siseruum"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "telliskivisein",
+        "rätik",
+        "klaasuks",
+        "puitraam",
+        "saunaruum",
+        "tahvel/silt"
+      ],
+      "colorcodes": [
+        "#8C4B4B",
+        "#A7A7A7",
+        "#2C231E",
+        "#C8A288",
+        "#D94C35",
+        "#70503D",
+        "#E0E0E0"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on udune ja fookuseta, teine ja kolmas on selged.",
+        "Esimene pilt ei näita ühtegi inimest, teisel pildil on mees rätikuga, kolmandal pildil on inimene (tõenäoliselt sama mees) alasti saunas.",
+        "Kaadrite fookus ja sisu muutub: algne udune stseen, seejärel mees rätikuga ja lõpuks mees saunauksest sisenemas."
+      ],
+      "snr": "005",
+      "ajad": [
+        "91.760",
+        "120.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast siseruumi, kus on noor tumedate lokkis juustega ja lühikese habemega mees. Ta on särgita ning tema ülakeha on tugeva punakasoranži valguse käes, mis loob dramaatilise ja intiimse atmosfääri. Taust on tume ja udune, andes aimu siseruumist, kus on näha ukseava või seina nurka. Mehe pilk on mõtlik või intensiivne, liikudes kaamerast eemale vaatamise ja otse vaatajale suunatud pilgu vahel. Stseeni fookus on mehel ja tema emotsionaalsel seisundil, mida võimendab valgus ja järjest lähemaks muutuv kaadrivalik.",
+      "actions": [
+        "Mõtisklemine",
+        "Vaatamine",
+        "Seismine"
+      ],
+      "keywords": [
+        "Noor mees",
+        "Lokkis juuksed",
+        "Habe",
+        "Särgita",
+        "Punane valgus",
+        "Dramaatiline",
+        "Intiimne",
+        "Siseruum",
+        "Mõtlik pilk",
+        "Intensiivne pilk"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Sein",
+        "Ukseava (võimalik)"
+      ],
+      "colorcodes": [
+        "#c63d1e",
+        "#8e1f0e",
+        "#1a1a1a",
+        "#0d0d0d"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on näha kaamera järkjärguline suumimine mehele, liikudes laiemalt kaadrilt (keskmine lähivõte) järjest lähemale (lähivõte).",
+        "Mehe pilk muutub: esimeses pildis vaatab ta kaamerast eemale, teises pildis veidi otsemalt, ja kolmandas pildis peaaegu otse kaamerasse.",
+        "Taust muutub järjest hägusemaks ja tumedamaks, kuna kaamera suumib mehele lähemale, pannes kogu fookuse mehele endale."
+      ],
+      "snr": "006",
+      "ajad": [
+        "120.600",
+        "127.480"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivaates näha puidust termomeeter, mis on paigaldatud tumedale, tekstuursele kivist või tellistest seinale. Valgus on hämar, luues sooja ja hubase, kuid samas salapärase atmosfääri, mis viitab siseruumile nagu saun. Termomeeter koosneb kahest vertikaalsest puitliistust, mille vahel jookseb punane vedelikusammas. Vasakul puitliistul on graveeritud või maalitud kujutised: ülemises osas viht ja alumises osas saunakulp. Parempoolsel liistul on märgitud temperatuurid Celsiuse kraadides (°C), ulatudes 40-st kuni 120-ni, numbritega 40, 60, 80, 100 ja 120. Punane vedelik näitab temperatuuri, mis kõikidel kaadritel kõigub veidi üle 80°C. Üldine toon on pruunikas-punakas ja rustikaalne.",
+      "actions": [
+        "Temperatuuri tõus/kõikumine termomeetril"
+      ],
+      "keywords": [
+        "Termomeeter",
+        "saun",
+        "puit",
+        "soojus",
+        "temperatuur",
+        "punane",
+        "mõõtmine",
+        "rustikaalne",
+        "sein",
+        "siseruum",
+        "pime",
+        "viht",
+        "kulp",
+        "Celsiuse_kraadid"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Termomeeter",
+        "puidust_alus",
+        "kivisein",
+        "telliskivisein",
+        "termomeetri_vedelik",
+        "viht_(illustratsioon)",
+        "kulp_(illustratsioon)"
+      ],
+      "colorcodes": [
+        "#4a2a21",
+        "#3c2018",
+        "#603a2e",
+        "#b00000",
+        "#c80000"
+      ],
+      "texts": [
+        "°C",
+        "120",
+        "100",
+        "80",
+        "60",
+        "40"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Punase termomeetri vedeliku tase kõigub kaadrite vahel veidi. Esimesel pildil on see napilt üle 80°C piiri, teisel pildil on see pisut kõrgemal, ja kolmandal pildil on vedeliku tase peaaegu identne teise pildiga või kõigub sellest minimaalselt madalamale, jäädes siiski üle 80°C."
+      ],
+      "snr": "008",
+      "ajad": [
+        "134.680",
+        "138.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme meest, kes istuvad saunas või sarnases pimedas puust ruumis. Valgus on väga sume ja soe, luues intiimse ja lõõgastunud atmosfääri. Mehed on palja ülakehaga ja istuvad puitpingil, mis on valmistatud horisontaalsetest puidulaudadest. Kaks meest äärtes on habetunud, vasakpoolsel on tumedad juuksed ja parempoolsel heledad või raseeritud juuksed. Keskmisel mehel on lokkis tumedad juuksed ja ta on noorema välimusega. Nad paistavad olevat elavas vestluses, pilgud on suunatud üksteisele, eriti vasakpoolse ja keskmise mehe vahel. Pingil nende ees on näha paar pudelit, mis võivad olla näiteks õllepudelid, lisades stseenile sotsiaalse elemendi. Üldine meeleolu on rahulik ja kammerlik, valgustus rõhutab varjudega meeste näojooni ja kehavorme, andes stseenile sügavust.",
+      "actions": [
+        "Istumine",
+        "Vestlemine",
+        "Pilguvahetamine",
+        "Lõõgastumine",
+        "Jookide tarbimine (implitsiitne)"
+      ],
+      "keywords": [
+        "Saun",
+        "Mehed",
+        "Jutuajamine",
+        "Pime",
+        "Soe valgus",
+        "Intiimne",
+        "Lõõgastus",
+        "Palja ülakehaga",
+        "Puit",
+        "Õllepudelid",
+        "Sõprus",
+        "Habe",
+        "Kammerlik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mehed",
+        "Puust seinad",
+        "Puust pink",
+        "Õllepudelid"
+      ],
+      "colorcodes": [
+        "#21110B",
+        "#6F301F",
+        "#9B4C2C"
+      ],
+      "texts": [],
+      "persons": [
+        "Kolm meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Meeste peade ja pilkude suunad ning näoilmed muutuvad kergelt kaadrite vahel, viidates aktiivsele vestlusele.",
+        "Paremalt poolt mehe silmad ja näoilme muutuvad kolmandas kaadris selgemaks ja avatumaks, võrreldes esimese ja teise kaadriga, kus ta on rohkem varjus või pilk suunatud eemale."
+      ],
+      "snr": "009",
+      "ajad": [
+        "138.920",
+        "147.840"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha kolm meest istumas kõrvuti pimedas ja sumedas ruumis, mis oma puitseinte ja atmosfääri poolest meenutab sauna või leiliruumi. Valgustus on väga madal ja soe, domineerib oranžikaspunane toon, mis loob sügavad varjud ja valgustab meeste nägusid ning paljastatud ülakehasid. Kõigil meestel on habe. Vasakpoolne mees paistab ühes kaadris rääkivat, samal ajal kui teised kuulavad või mõtisklevad. Parempoolse mehe vasakul õlal on näha tätoveering. Nende ees põrandal või pingil on kaks tumedat pudelit, mis viitab joogile. Meeste näoilmed ja kehahoiakud muutuvad kaadrite vahel, andes edasi suhtluse ja vestluse õhkkonna. Üldine tunnetus on intiimne, rahulik ja mõtisklev.",
+      "actions": [
+        "Istumine",
+        "Vestlemine",
+        "Rääkimine",
+        "Kuulamine",
+        "Suhtlemine"
+      ],
+      "keywords": [
+        "Saun",
+        "Leiliruum",
+        "Pimedus",
+        "Sume valgus",
+        "Mehed",
+        "Vestlus",
+        "Palja ülakehaga",
+        "Pudelid",
+        "Intiimne",
+        "Rahulik",
+        "Habe",
+        "Tätoveering"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Pudelid"
+      ],
+      "colorcodes": [
+        "#1A0D08",
+        "#9D5A3C",
+        "#8C4E2D",
+        "#BD7C57",
+        "#C24D28"
+      ],
+      "texts": [],
+      "persons": [
+        "Kolm meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Meeste näoilmed ja peade asendid muutuvad kaadrite vahel, viidates aktiivsele vestlusele ja reaktsioonidele.",
+        "Vasakpoolse mehe suu on teises kaadris avatud, justkui räägiks ta parasjagu.",
+        "Parempoolne mees pöörab oma näo teises kaadris vasakule ja naeratab kergelt, kolmandas kaadris on tema silmad suletud ja nägu mõtisklev.",
+        "Tätoveering parempoolse mehe vasakul õlal muutub teises ja kolmandas kaadris selgemini nähtavaks, mis viitab kergele kehaliigutusele."
+      ],
+      "snr": "011",
+      "ajad": [
+        "159.080",
+        "187.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte särgita meest hämaras, punakasoranžis valguses, mis annab edasi sooja ja intiimse atmosfääri. Mehed näivad istuvat või seisvat kuumas ja niiskes keskkonnas, mis viitab saunale või aurusaunale. Nende nahk on higine ja läikiv, peegeldades punast valgust. Vasakpoolsel mehel on tumedad lokkis juuksed ja habe, ta vaatab allapoole, tema nägu on mõtlik ja süvenenud. Parempoolsel mehel on lühemad tumedad juuksed ja habe, ta hoiab silmi kinni või vaatab samuti allapoole, ilmudes rahulikuna ja lõdvestununa. Üldine meeleolu on meditatiivne, vaikne ja sügavalt isiklik. Valgus tuleb altpoolt või on madalal, heites nägudele varjud ja rõhutades näojooni.",
+      "actions": [
+        "Istumine või seismine kuumas keskkonnas",
+        "Allapoole vaatamine",
+        "Silmade sulgemine",
+        "Higistamine"
+      ],
+      "keywords": [
+        "Saun",
+        "Mehed",
+        "Kuumus",
+        "Higi",
+        "Pimedus",
+        "Punakas valgus",
+        "Intiimne",
+        "Mõtlik",
+        "Rahulik",
+        "Alasti",
+        "Meditatiivne",
+        "Süvenenud",
+        "Hämarus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees (vasakul)",
+        "Mees (paremal)"
+      ],
+      "colorcodes": [
+        "#340D07",
+        "#6D2F1F",
+        "#2F110D",
+        "#1E0906",
+        "#4E2519"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks täiskasvanud meest (üks lokkis juustega ja habemega, teine lühemate juuste ja habemega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on näha väga peeneid muutusi parempoolse mehe näoilmes ja pea asendis. Esimeses pildis on ta nägu paremini valgustatud ja ta silmad on suletud rahulikumas poosis. Teises pildis on tema nägu kergelt varjus, andes edasi sügavama meditatiivse oleku. Kolmandas pildis on parempoolse mehe nägu veelgi rohkem varjus, tema peanupp on nähtav ja ta näib olevat veelgi rohkem süvenenud, suunates pilku madalamale või hoides silmi suletuna sügavamas mõttes. Vasakpoolse mehe poos ja pilk jäävad piltidel valdavalt samaks, vaid valguse ja varjude mäng tema näol muutub minimaalselt."
+      ],
+      "snr": "014",
+      "ajad": [
+        "204.280",
+        "215.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest hämaras, punaka valgusega ruumis, mis viitab sauna või kuumale keskkonnale. Valgus on pehme ja summutatud, andes stseenile intiimse ja intensiivse tunde. Mõlemad mehed on palja ülakehaga. Vasakpoolsel mehel on lokkis tumedad juuksed ja habe ning ta hoiab oma pead allapoole suunatud, vaadates alla. Tema näol on mõtlik või alistunud ilme. Parempoolsel mehel on lühemad tumedad juuksed ja habe ning näha on tema rinnakarvu. Tema näoilme on muutlik, väljendades pinget, ebamugavust või süvenemist, silmad on kohati suletud või kitsalt avatud, suu veidi avatud, justkui reageeriks ta kuumusele või mingile vestlusele. Ta vaatab ette või kergelt üles. Taust on täiesti pime ja detailitu, rõhutades meeste kohalolekut ja ruumi suletust.",
+      "actions": [
+        "Istumine",
+        "Kuumuses viibimine",
+        "Kuumusele reageerimine",
+        "Alla vaatamine",
+        "Ette vaatamine",
+        "Rääkimine (võimalik parempoolse mehe puhul)"
+      ],
+      "keywords": [
+        "Saun",
+        "Kuumus",
+        "Intiimne",
+        "Mehed",
+        "Hämarus",
+        "Punane valgus",
+        "Pingeline",
+        "Meditatiivne",
+        "Ebamugavus",
+        "Palja ülakehaga"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kaks meest",
+        "Inimkehad"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#A04000",
+        "#5C2D1F",
+        "#6F3A2B"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks meest",
+        "Noorem mees (vasakul)",
+        "Vanem mees (paremal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Parempoolse mehe näoilme ja silmade avatus muutuvad kergelt kaadrite vahel, pakkudes erinevaid reaktsioone kuumusele või vestlusele, varieerudes intensiivsest pingest kuni veidi avatumate silmadeni.",
+        "Vasakpoolse mehe poos ja näoilme jäävad enamasti samaks, pea allapoole suunatud."
+      ],
+      "snr": "015",
+      "ajad": [
+        "215.400",
+        "219.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest hämardatud, sügavpunase valgusega siseruumis, mis jätab mulje saunast või aurusaunast. Mõlemad mehed on palja ülakehaga ja nende nahk on higine, andes edasi kuuma ja niiske keskkonna tunde. Üks mees, kellel on habe ja lühikesed juuksed, vaatab pilgul alla, näol on kerge muie või mõtlikkus. Tema higine nägu ja otsmik paistavad valguses eriti. Teine mees, kellel on tumedad lokkis juuksed ja habe, on alguses näoga käte vahel, andes edasi emotsiooni nagu kurbus, masendus või sügav mõtisklus. Hiljem tõstab ta pilgu, tema näoilme on veidi murelik või tõsine. Stseeni valdav punane toon loob intiimse ja veidi dramaatilise atmosfääri. Paremal on näha ka esimese mehe õlaosa ja tätoveeringut.",
+      "actions": [
+        "Mehed viibivad siseruumis.",
+        "Üks mees vaatab mõtlikult alla, kergelt muigates.",
+        "Teine mees katab esmalt oma nägu kätega.",
+        "Teine mees tõstab seejärel pilgu ja vaatab ette.",
+        "Mehed higistavad."
+      ],
+      "keywords": [
+        "Saun",
+        "Punane valgus",
+        "Mehed",
+        "Higi",
+        "Emotsionaalne",
+        "Mõtlikkus",
+        "Intiimne",
+        "Hämarus",
+        "Kuumaõhusaun"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimesed"
+      ],
+      "colorcodes": [
+        "#4A0A0A",
+        "#9F2525",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": 60,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses kaadris on kujutatud habemega meest, kes vaatab alla kergelt muigates.",
+        "Teises kaadris on teine mees näoga käte vahel, näides masenduses või sügavalt mõtlikuna.",
+        "Kolmandas kaadris on seesama teine mees tõstnud oma pilgu üles, näoilme on tõsine või murelik, ning tema kõrval on näha esimese mehe õla osa ja tätoveeringut. Kaadrite vahel muutub fookus ühelt mehelt teisele ja näidatakse teise mehe emotsiooni arengut."
+      ],
+      "snr": "017",
+      "ajad": [
+        "231.440",
+        "251.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja sooja siseruumi, mis on valgustatud maheda, punakaspruuni kuma abil. Ruumi seinad ja lahtised puitkonstruktsioonid on tumedast puidust, mis annab ruumile maalähedase või saunalaadse tunde. Keskel asub püstine puitpost. Vasakpoolses esiplaanis on näha keerukam puidust ja metallist konstruktsioon, mis meenutab saunaahju või mingit küttekeha, mille küljes on kraanitaoline detail. Tagaplaanil puitraamide vahel paistab aken, kust hajub sisse pehmet, hallikat valgust, mis viitab väljasolevale tuhmile või videvikulisele olekule. Paremal pool on näha avatud ukseava või läbipääsu. Kahel esimesel pildil on ukseavast sisse astumas või sealt lahkumas alasti ülakehaga inimfiguur, tõenäoliselt laps või nooruk, kelle nahk peegeldab sama punakat kuma. Kolmandal pildil on see inimene kaadrist lahkunud, jättes ruumi tühjaks.",
+      "actions": [
+        "Inimese sisenemine või lahkumine ruumist/kaadrist",
+        "Küttekeha olemasolust tulenev kuma"
+      ],
+      "keywords": [
+        "Hämarus",
+        "Punakaspruun kuma",
+        "Puidust ruum",
+        "Saun",
+        "Intiimne",
+        "Rahulik",
+        "Liikumine",
+        "Aken",
+        "Ukseava",
+        "Öö"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Puidust seinad",
+        "Puitpost",
+        "Aken",
+        "Saunakerise moodi konstruktsioon",
+        "Kraanilaadne detail",
+        "Ukseava"
+      ],
+      "colorcodes": [
+        "#2F1B19",
+        "#8C3C26",
+        "#1E100F",
+        "#4F4F4D"
+      ],
+      "texts": [],
+      "persons": [
+        "Laps/Nooruk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Erinevus seisneb inimese asukohas kaadris: esimesel pildil on inimene nähtav paremal pool, teisel pildil on ta nihkunud veidi paremale, näidates liikumist kaadrist välja või ukseava poole. Kolmandal pildil on inimene kaadrist täielikult lahkunud.",
+        "Ülejäänud stseen (ruumi sisustus ja valgus) püsib kõigis kolmes kaadris muutumatuna."
+      ],
+      "snr": "018",
+      "ajad": [
+        "251.320",
+        "254.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivõtet noorest mehest, kes on ümbritsetud sügavast pimedusest. Tema nägu ja ülakeha on valgustatud intensiivse, altpoolt tuleva punakaspruuni või oranži valgusega, mis loob dramaatilisi varje ja toob esile ta näojooned. Mehe nahk tundub niiske või higine, mis võib viidata kas füüsilisele pingutusele, kuumusele või tugevatele emotsioonidele. Tema pilk on suunatud allapoole, edastades sügavat mõtisklust, kurbust või intensiivsust. Mehel on lokkis juuksed ja ühel kaadril on õrnalt näha tätoveeringut kaelal või õlal. Üldine atmosfäär on intiimne, intensiivne ja salapärane.",
+      "actions": [
+        "Mõtiskleb",
+        "Vaatab allapoole",
+        "Higistab",
+        "On emotsionaalselt laetud"
+      ],
+      "keywords": [
+        "Mees",
+        "Intensiivne valgustus",
+        "Punakas kuma",
+        "Higi",
+        "Sügav mõtisklus",
+        "Emotsionaalne",
+        "Pimedus",
+        "Lähivõte",
+        "Salapärane",
+        "Vari",
+        "Dramaatiline"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [],
+      "colorcodes": [
+        "#200403",
+        "#8C261A",
+        "#5A1A12",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on kõige tumedam ja kaader on laiem, kus mees on vaevu aimatav ja fookus udune.",
+        "Teine pilt on lähivõte mehe näo vasakust ülemisest osast, kus valgustus on intensiivsem ja näojooned selgemad.",
+        "Kolmas pilt näitab meest pisut laiemalt, paljastades rohkem tema nägu ja osa ülakehast, ning valgustus on veidi laiali hajunud, aga endiselt punakas.",
+        "Iga järgneva kaadriga suureneb mehe näo detailirohkus ja selgus."
+      ],
+      "snr": "019",
+      "ajad": [
+        "254.000",
+        "263.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme palja ülakehaga meest, kes istuvad tihedalt üksteise kõrval hämaras, punakas-oranži valgusega valgustatud ruumis, mis näib olevat saun. Meeste nahk on higist läikiv, mis rõhutab keskkonna kuumust ja niiskust. Valgus loob sügavaid varjusid, andes stseenile intiimse ja veidi müstilise atmosfääri. Kõigil kolmel mehel on habe. Vasakpoolne mees on täishabemega ja lühikeste juustega, vaatab veidi paremale, tema ilme on mõtlik või kuulav. Keskmine mees on noorem, lühema habeme ja lokkis juustega, tema pilk on enamasti suunatud alla või eemale, kuid ühes kaadris tõstab ta pilku veidi üles. Parempoolne mees on samuti täishabemega ja lühikeste juustega, tema ilme muutub neutraalsest selgeks naeratuseks. Kaadrite alumises servas on näha iga mehe ees tumedad silindrilised esemed, mis võivad olla pudelid. Stseen viitab jagatud hetkele, võimalikule vestlusele ja lõõgastumisele kuumas keskkonnas.",
+      "actions": [
+        "Istumine",
+        "Higistamine",
+        "Vaatamine",
+        "Vestlemine (oletatav)",
+        "Naeratamine"
+      ],
+      "keywords": [
+        "Saun",
+        "Mehed",
+        "Paljas ülakeha",
+        "Habe",
+        "Hämar",
+        "Kuumus",
+        "Higine",
+        "Punane valgus",
+        "Lõõgastus",
+        "Vestlus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mehed",
+        "Habe",
+        "Juuksed",
+        "Pudelid (oletatavad)",
+        "Sein (oletatavalt puidust)"
+      ],
+      "colorcodes": [
+        "#A0452E",
+        "#6B2F1F",
+        "#281814",
+        "#D46F54"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees 1 (vasakul)",
+        "Mees 2 (keskel)",
+        "Mees 3 (paremal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil vaatab keskmine mees allapoole ja parempoolse mehe ilme on neutraalne.",
+        "Teisel pildil tõstab keskmine mees pilku veidi üles ja vaatab vasakule, vasakpoolne mees säilitab mõtliku ilme.",
+        "Kolmandal pildil on keskmise mehe pilk jälle allapoole suunatud, vasakpoolne mees vaatab keskmise poole kergelt naeratades ja parempoolne mees naeratab selgelt, vaadates samuti keskmise mehe poole, mis viitab vestluse või jagatud hetke arengule."
+      ],
+      "snr": "020",
+      "ajad": [
+        "263.760",
+        "289.280"
+      ]
+    },
+    {
+      "explanation": "Kirjeldatav stseen toimub hämaras, soojas keskkonnas, mis sarnaneb tõenäoliselt saunaga või mõne muu rustikaalse paigaga, kus domineerivad punakad ja oranžikad toonid. Esialgu on näha habetunud meest, kes on palja ülakehaga ja naeratab õrnalt, tema nägu on osaliselt valgustatud, andes edasi sooja ja intiimse tunde. Seejärel nihkub fookus kätele, mis hoiavad ja manipuleerivad vihta ehk lehtedest valmistatud kimbukest, mis on traditsioonilistes suplusrituaalides tavaline vahend. Samuti on näha paljast, kergelt niisket jäset (tõenäoliselt jalg või käsi), mis vihjab aurusauna või sauna kontekstile. Taust on kogu stseeni vältel tume ja ebamäärane, tõenäoliselt puidust seinad, mis võimendavad keskendunud ja intiimset atmosfääri. Ühe kaadri taustal on märgata ka tumedat ämbrit või anumat. Üldine õhkkond on traditsiooniline, lõõgastav ja soe.",
+      "actions": [
+        "Mehe naeratamine",
+        "Viha hoidmine",
+        "Viha manipuleerimine/kasutamine"
+      ],
+      "keywords": [
+        "Saun",
+        "Hämarus",
+        "Soojus",
+        "Traditsioon",
+        "Viht",
+        "Lõõgastus",
+        "Punane valgus",
+        "Mees",
+        "Habetunud mees",
+        "Intiimne",
+        "Keha"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Viht (lehtedest kimp)",
+        "Ämber (osaliselt nähtav)",
+        "Puidust sein (tõenäoline taust)",
+        "Mehe paljas ülakeha",
+        "Inimese käed",
+        "Inimese jäse (jalg/käsi)"
+      ],
+      "colorcodes": [
+        "#4a0e0e",
+        "#6e120d",
+        "#0a0a0a",
+        "#8e3a24",
+        "#2f421f"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on näha habetunud mehe nägu ja ülakeha, kes naeratab kaamera poole, luues intiimse kontakti.",
+        "Teisel ja kolmandal pildil on fookus nihkunud tegevusele ja objektidele – nimelt vihale, seda hoidvatele kätele, osale paljast inimjäsemest ja taustal olevale ämbrile.",
+        "Kaadrite vahel muutub peamine visuaalne element inimeselt tegevusele ja detailsetele esemetele."
+      ],
+      "snr": "021",
+      "ajad": [
+        "289.280",
+        "301.720"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset hämaras siseruumis, mis meenutab sauna, kus domineerib intensiivne punakas-oranž valgus, andes edasi kuuma ja intiimse atmosfääri. Kolm palja ülakehaga meest istuvad või puhkavad. Vasakpoolne mees paistab suu veidi avatuna, justkui räägiks või hingaks sügavalt välja. Keskmise mehe näoilme on tõsine või mõtisklev ning ühel hetkel on ta kaetud rindkere ja õlgade ümber roheliste lehtedega, mis sarnanevad saunavihtaga, viidates traditsioonilisele või rituaalsele tegevusele. Parempoolne mees, kes on suures osas varjus, tõstab ühel hetkel oma kätt. Meeste higistav nahk peegeldab punast valgust, rõhutades kuumust. Stseeni lõpuosas muutub pilt märkimisväärselt tumedamaks ja hägusemaks, peaaegu täielikult mustaks, kusjuures vaid udused punased toonid on nähtavad, mis võib viidata aurule, suitsule või intensiivsele fookusele abstraktsele elemendile keskkonnas, kaotades selguse inimfiguuridest.",
+      "actions": [
+        "Istumine",
+        "Higistamine",
+        "Vestlemine (eeldatav)",
+        "Lehtedega katmine (keskmine mees)",
+        "Käe tõstmine (parempoolne mees)"
+      ],
+      "keywords": [
+        "Saun",
+        "Kuumus",
+        "Rituaal",
+        "Mehed",
+        "Punane valgus",
+        "Hämarus",
+        "Viht",
+        "Siseruum",
+        "Intiimne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Puitsein",
+        "Lehed (viht)"
+      ],
+      "colorcodes": [
+        "#A52A2A",
+        "#8B0000",
+        "#FF4500",
+        "#006400",
+        "#228B22",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Kolm meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Keskmine mees on teises kaadris kaetud roheliste lehtedega (vihtaga).",
+        "Paremal olev mees tõstab teises kaadris oma kätt.",
+        "Kolmas kaader on märkimisväärselt tumedam ja hägusem kui eelmised kaks, kujutades peaaegu täielikku pimedust ja udusaid punakaid vorme, kus detailid ja isikud pole enam äratuntavad. See viitab kas kaadri fookuse muutusele, suitsu/auru esilekerkimisele või väga lähedasele võttele mingist abstraktsest elemendist."
+      ],
+      "snr": "022",
+      "ajad": [
+        "301.720",
+        "351.400"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivaates mehe portree, mida valgustab intensiivne ja sügav punane valgus. Mehel on habe ja tema nägu ning kael on niisked, mis viitab higistamisele või pisaratele. Ta vaatab allapoole või hoiab silmi kergelt kinni, ilme on pingeline ja emotsionaalne, suu on kergelt avatud või pingule tõmmatud. Tema vasakul õlal on näha mitmeid tätoveeringuid, sealhulgas selgelt eristuv Aafrika mandri kujutis. Taust on täiesti pime, rõhutades fookust mehel ja tema intensiivsetel emotsioonidel. Üldine atmosfäär on sünge, dramaatiline ja introspektiivne.",
+      "actions": [
+        "Mees hingab sügavalt või ohkab",
+        "Nägu on higine või pisaratest märg",
+        "Silmad on kas suletud või vaatavad allapoole",
+        "Suu on kergelt avatud või pingule tõmmatud"
+      ],
+      "keywords": [
+        "Mees",
+        "Portree",
+        "Punane valgus",
+        "Emotsionaalne",
+        "Higi",
+        "Pisarad",
+        "Habe",
+        "Tätoveeringud",
+        "Tume",
+        "Intensiivne",
+        "Draama",
+        "Pinge",
+        "Valu",
+        "Mõtisklus"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Tätoveeringud (Aafrika mandri kujutis)"
+      ],
+      "colorcodes": [
+        "#410101",
+        "#000000",
+        "#904747"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe suu asend muutub kaadrite vahel – teises kaadris on suu veidi rohkem avatud kui esimeses ja kolmandas, mis annab edasi sügavamat hingamist või emotsiooni.",
+        "Silmade asend ja pilgu suund muutub minimaalselt kaadrite vahel, viidates peenele liikumisele või sisekaemusele."
+      ],
+      "snr": "023",
+      "ajad": [
+        "351.400",
+        "355.160"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivaates näha meest, kelle nägu ja paljas ülakeha on valgustatud intensiivse punase valgusega, luues dramaatilise ja salapärase atmosfääri. Mehel on lühike habe ja tema nahk paistab olevat niiske või higine. Tema näol ja õlgadel on näha väikeseid tumedaid täppe, mis võivad olla mustus, tahm, tuhk või putukad. Ta vaatab otse kaamerasse, tema silmad peegeldavad valgust. Esimesel pildil on mehe suu kergelt avatud, justkui ta räägiks või hingaks sügavalt. Seejärel muutub tema näoilme, suu sulgub ja ta naeratab kergelt, lisades stseenile ambivalentsust ja sügavust. Taust on peaaegu täielikult pime, vaid kerge punakas kuma vihjab valguse allikale väljaspool kaadrit, tõenäoliselt mehe ees või all.",
+      "actions": [
+        "Rääkimine või sügav hingamine (esimesel pildil)",
+        "Naeratamine",
+        "Vaatamine otse kaamerasse"
+      ],
+      "keywords": [
+        "Punane valgus",
+        "Mees",
+        "Lähivõte",
+        "Intensiivne",
+        "Salapärane",
+        "Niiskus",
+        "Tumedus",
+        "Habe",
+        "Naeratus",
+        "Dramaatiline"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Mees",
+        "Higi/niiskus",
+        "Tumedad täpid (mustus/putukad/tuhk)"
+      ],
+      "colorcodes": [
+        "#660a0a",
+        "#a6311b",
+        "#000000",
+        "#e75c44"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehe suu kergelt avatud, justkui ta räägiks või ohkaks, samal ajal kui teisel ja kolmandal pildil on suu suletud.",
+        "Teisel ja kolmandal pildil naeratab mees kergelt, kolmandal pildil on naeratus pisut selgem ja sügavamat. Esimesel pildil on näoilme pigem pingestatud või tõsine.",
+        "Näoilme muutub esimese pildi kõnelevast või pinges olekust teise ja kolmanda pildi kergelt naeratavaks ja rahulikumaks."
+      ],
+      "snr": "024",
+      "ajad": [
+        "355.160",
+        "357.040"
+      ]
+    },
+    {
+      "explanation": "Sügavpunase valgusega valgustatud stseen näitab noort, särgivaba meest pimedas sisekeskkonnas. Tema nahk on kaetud intensiivse punase tooniga, mis annab stseenile rituaalse või dramaatilise meeleolu. Mehe tumedad lokkis juuksed ja lühike habe on samuti punases valguses. Tema rinnal ja näol on näha väikseid tumedaid märke, mis võivad olla mustus, kuivanud veri või väikesed haavad. Esimeses hetkes on mees pea langetanud ja pilguga allapoole suunatud. Seejärel hakkab ta pead aeglaselt tõstma, paljastades rohkem oma nägu, kuid tema pilk jääb endiselt allapoole või otse ette. Kaamera suumib talle lähemale, pakkudes lähivaadet mehe ülakehast ja näost, mis on hetkeliselt veidi udune, vihjates liikumisele või kaamera fookuse muutusele. Paremal pool on näha ka teise isiku õla ja tätoveeringu osa, mis viitab sellele, et mees ei ole üksi. Üldine atmosfäär on intensiivne ja salapärane.",
+      "actions": [
+        "pea langetamine",
+        "pea tõstmine",
+        "allapoole vaatamine",
+        "istumine (oletatav)"
+      ],
+      "keywords": [
+        "punane valgus",
+        "mees",
+        "särgivaba",
+        "pimedus",
+        "rituaalne",
+        "intensiivne",
+        "märgid nahal",
+        "müsteerium",
+        "tätoveering"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "tätoveering (osaliselt nähtav)",
+        "teise isiku õlg"
+      ],
+      "colorcodes": [
+        "#8B0000",
+        "#000000",
+        "#FF0000"
+      ],
+      "texts": [],
+      "persons": [
+        "noorepoolne mees",
+        "teine isik (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide 1 ja 2 vahel tõstab mees aeglaselt pead, paljastades rohkem oma nägu. Kaamera fookus ja positsioon on veidi muutunud, pakkudes veidi laiema vaate mehele ja paremal olevale teisele isikule.",
+        "Piltide 2 ja 3 vahel on kaamera mehe näole ja ülakehale lähemale suumitud, fookus on veidi nihkunud või kaadri keskel toimub liikumine, mis muudab pildi natuke udusamaks."
+      ],
+      "snr": "025",
+      "ajad": [
+        "357.040",
+        "363.800"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivõte mehe näost, mis on intensiivselt valgustatud sügava punase valgusega, luues dramaatilise ja salapärase atmosfääri. Mehel on habe ja ta vaatab otse ette või kergelt allapoole, tema silmad on pisut kissis. Tema näol on peen, mõistatuslik naeratus või muie, kus huuled on kergelt surutud või õrnalt avatud, paljastades kohati hambaid. Valgus rõhutab näojooni ja annab nahale läikiva ilme. Taust on täiesti pime ja must, mis rõhutab mehe figuuri ning valguse intensiivsust.",
+      "actions": [
+        "Naeratamine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Mees",
+        "Punane valgus",
+        "Portree",
+        "Lähivõte",
+        "Naeratus",
+        "Muie",
+        "Tume taust",
+        "Müstiline",
+        "Intensiivne",
+        "Varjud"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese nägu",
+        "Habe"
+      ],
+      "colorcodes": [
+        "#FF0000",
+        "#CD0000",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on väga peened erinevused mehe suu asendis ja naeratuse intensiivsuses. Esimesel pildil on naeratus pisut tagasihoidlikum ja huuled rohkem suletud. Teisel pildil on naeratus veidi laiem ja huuled pisut avatumad, paljastades õrnalt hambaid. Kolmandal pildil on suu asend esimese ja teise pildi vahepeal, olles pisut suletum kui teisel pildil, kuid veidi avatum kui esimesel pildil."
+      ],
+      "snr": "026",
+      "ajad": [
+        "363.800",
+        "365.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort meest vööst ülespoole, kes on asetatud sügavasse ja intensiivsesse punakasoranži valgusesse. Mees on palja ülakehaga või kannab minimaalset riietust, tema nahal on näha tumedaid plekke või varje, mis lisavad stseenile dramaatilist ja possibly haavatavat tooni. Tal on tumedad lokkis juuksed ja lühike habe. Tema pilk on suunatud allapoole, algselt sügavalt mõtlik või väsinud, silmad kas suletud või peaaegu suletud. Stseeni edenedes tõstab ta aeglaselt pead ja avab silmad, paljastades pingsama või emotsionaalsema ilme, kuigi pilk jääb endiselt maas. Taust on udune ja punase valguse käes, andes aimu teise figuuri või objekti olemasolust. Kogu stseen õhkub intiimset, kuumusega laetud atmosfääri, luues dramaatilise, emotsionaalse ja sügavalt isikliku tunde.",
+      "actions": [
+        "Mees vaatab allapoole",
+        "Mees kallutab pead ettepoole",
+        "Mees tõstab aeglaselt pead",
+        "Mees avab silmad"
+      ],
+      "keywords": [
+        "Punane valgus",
+        "Intensiivne",
+        "Portree",
+        "Mees",
+        "Siseruum",
+        "Emotsionaalne",
+        "Intiimne",
+        "Pinge",
+        "Mõtlik",
+        "Haavatavus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Tumedad plekid nahal",
+        "Udune taust",
+        "Teine figuur (udune)"
+      ],
+      "colorcodes": [
+        "#A30000",
+        "#CC3300",
+        "#FF4500",
+        "#660000",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel kaadril on mehe pea rohkem ette kallutatud ja silmad peaaegu suletud, andes edasi sügavat mõtlikkust või väsimust.",
+        "Teisel kaadril on mehe pea veidi kõrgemal, pilk on endiselt suunatud allapoole ja silmad on veidi avatumad.",
+        "Kolmandal kaadril on mehe pea veelgi kõrgemal, silmad on täielikult avatud ja pilk on pingsam, näo detailid on paremini nähtavad."
+      ],
+      "snr": "027",
+      "ajad": [
+        "365.960",
+        "370.560"
+      ]
+    },
+    {
+      "explanation": "Stseen pakub ülidetailset lähivaadet inimese kehale, keskendudes nahapiirkonnale, mis on kaetud higiga ja intensiivselt valgustatud sügavpunase ja oranži tooniga. Kaadris on näha läikivat, higiseid piisku kandvat nahka, mis peegeldab sooja, intensiivset valgust. Paremal pool on nähtavad käe sõrmed, mis kas puudutavad õrnalt nahka või hoiavad seda kergelt kinni, lisades stseenile intiimse või pinge all oleva tunde. Valgusallikas tekitab aeg-ajalt valgussähvatuse vasakult, mis rõhutab kuumust ja niiskust. Ümbritsev keskkond on pime, mis toob esile valgustatud kehaosa ja käe. Stseeni üldine meeleolu on sensuaalne, intensiivne ja viitab kas füüsilisele pingutusele või emotsionaalsele erutusele.",
+      "actions": [
+        "Higistamine",
+        "Puudutamine",
+        "Haaramine"
+      ],
+      "keywords": [
+        "Higi",
+        "Nahk",
+        "Käsi",
+        "Punane",
+        "Oranž",
+        "Intensiivne",
+        "Kuumus",
+        "Intiimne",
+        "Sensuaalne",
+        "Lähedus",
+        "Pinge",
+        "Varjud",
+        "Peegeldus"
+      ],
+      "shot_type": "extreme close-up",
+      "placement": "indoor",
+      "objects": [
+        "Nahk",
+        "Käsi",
+        "Higi"
+      ],
+      "colorcodes": [
+        "#C03E00",
+        "#A02B00",
+        "#F05700",
+        "#801C00",
+        "#300000"
+      ],
+      "texts": [],
+      "persons": [
+        "Üksikisik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel kaadril on vasakul tugev oranži värvi valgussähvatus (lens flare), mis teistel kaadritel puudub või on oluliselt nõrgem.",
+        "Käe asend ja selle kontakt nahaga varieerub kaadrite vahel, pakkudes erinevaid puudutuse või haarde nüansse.",
+        "Teine kaader on üldiselt tumedam ja sügavama punase tooniga, samas kui esimene ja kolmas kaader on veidi eredamad ja oranžikamad, eriti nahal olevate valguslaikude osas.",
+        "Valguse intensiivsus ja jaotumine nahal ning higipiiskade nähtavus on kaadrite vahel mõnevõrra erinev."
+      ],
+      "snr": "028",
+      "ajad": [
+        "370.560",
+        "373.040"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub inimnäo ülemisele poolele, peamiselt silmadele ja otsmikule, mis on valgustatud intensiivse punase valgusega. Valgusallikas on suunatud näole, tekitades dramaatilisi varjusid ja rõhutades näo kontuure. Näol on näha niiskuse jälgi, mis võivad olla pisarad või higi, viidates emotsionaalsele pingele, kurbusele või füüsilisele pingutusele. Stseeni alguses on silmad pärani avatud, vaadates otse, seejärel hakkavad nad järk-järgult sulguma, kuni on viimases kaadris täielikult suletud. Taust on täiesti must, mis rõhutab subjektile ja loob intiimse, kammerliku tunde. Punane värv annab stseenile melanhoolse, pingestatud või isegi ohtliku alatooni.",
+      "actions": [
+        "Silmade avamine",
+        "Silmade pilgutamine",
+        "Silmade sulgemine",
+        "Nutmine või higistamine (niiskuse järgi otsustades)"
+      ],
+      "keywords": [
+        "Intensiivne punane valgus",
+        "Emotsionaalne",
+        "Silmad",
+        "Pisarakarva",
+        "Pinge",
+        "Kurbus",
+        "Melanhoolia",
+        "Lähivõte",
+        "Pimedus",
+        "Dramaatiline",
+        "Niiskus"
+      ],
+      "shot_type": "extreme close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese nägu",
+        "Silmad",
+        "Ripsmed",
+        "Nahk",
+        "Niiskuse piisad (pisarad/higipiisad)"
+      ],
+      "colorcodes": [
+        "#CC0000",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on silmad avatud ja vaatavad otse.",
+        "Teisel pildil on silmad osaliselt suletud, ripsmed on näha.",
+        "Kolmandal pildil on silmad täielikult suletud, mis viitab silmade järkjärgulisele sulgemisele stseenis."
+      ],
+      "snr": "029",
+      "ajad": [
+        "373.040",
+        "374.920"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud mehe nägu lähivaates, mis on eredalt ja altpoolt punase valgusega valgustatud, luues intensiivse ja kõhedusttekitava atmosfääri. Mees vaatab otse kaamerasse laia, avatud naeratusega, mille käigus on näha tema hambad. Tema silmad on pärani avatud. Näol, eriti põskedel, on tumedad plekid, mis annavad edasi räsitud või määrdunud mulje. Mehel on lühike habe või habemeajamata nägu. Taust on täiesti pime, süvendades keskendumist mehe näole ja tema näoilmele. Valgus tuleb otse ette vasakult või alt, tekitades dramaatilisi varje ja rõhutades näojooni. Üldine meeleolu on sügavalt psühholoogiline ja potentsiaalselt ähvardav või hullumeelne.",
+      "actions": [
+        "Mees naeratab laialt",
+        "Mees vaatab otse kaamerasse"
+      ],
+      "keywords": [
+        "Punane valgus",
+        "Mees",
+        "Nägu",
+        "Naeratus",
+        "Intensiivne",
+        "Kõhedusttekitav",
+        "Pimedus",
+        "Lähivõte",
+        "Draama",
+        "Plekid näol"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mehe nägu",
+        "Hambad",
+        "Habe",
+        "Plekid"
+      ],
+      "colorcodes": [
+        "#C00000",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Pilt 2 on märgatavalt pehmem ja vähem terav võrreldes piltidega 1 ja 3, mis on teravamad.",
+        "Kuigi üldine näoilme on sarnane, on piltidel minimaalsed erinevused suu asendis ja silmade avatuses, mis viitab loomulikule liikumisele kaadrite vahel.",
+        "Piltidel 1 ja 3 on suu veidi laiemalt avatud kui pildil 2."
+      ],
+      "snr": "030",
+      "ajad": [
+        "374.920",
+        "376.760"
+      ]
+    },
+    {
+      "explanation": "Stseenil on lähivõttes kujutatud keskealist või vanemat meest, kelle nägu on eredalt ja dramaatiliselt valgustatud altpoolt intensiivse punase valgusega. Mehel on habe ja ta on kiilas või lühikeste juustega. Tema nägu särab niiskusest või higist, mis peegeldab punast valgust, andes talle läikiva ja ebamaiseliku ilme. Mehe ilme muutub stseeni jooksul kergelt muigelt laialt avali irveks või naeratuseks, paljastades esihambad. Tema silmad on veidi kissis või pooleldi suletud, luues ähvardava ja sünge pilgu. Kogu taust on sügavmust, mis rõhutab mehe näo intensiivset punast valgustust ja loob õudusfilmliku või ähvardava õhkkonna.",
+      "actions": [
+        "Muigamine",
+        "Irve",
+        "Naeratamine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Punane valgus",
+        "Mehe nägu",
+        "Lähivõte",
+        "Õudus",
+        "Ähvardav",
+        "Irve",
+        "Naeratus",
+        "Pimedus",
+        "Dramaatiline",
+        "Higi",
+        "Sünge",
+        "Demonlik"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [],
+      "colorcodes": [
+        "#FF0000",
+        "#CC0000",
+        "#AA0000",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe suu avaneb järk-järgult laiemaks, muutudes kergelt kinnisest muigamiset laiaulatuslikuks naeratuseks või irveks, paljastades rohkem hambaid.",
+        "Mehe silmade ilme ja üldine valgustus jäävad kolme kaadri jooksul suhteliselt samaks."
+      ],
+      "snr": "031",
+      "ajad": [
+        "376.760",
+        "378.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaadet inimese peast, mis on osaliselt varjatud või puudutatud kätega, mis on mässitud lokkis või laineliste juuste sisse. Kogu kaader on valgustatud intensiivse ja sügavpunase valgusega, luues dramaatilise, intiimse ja emotsionaalse atmosfääri. Valgus ja varjud joonistavad välja käte ja juuste kontuure, jättes suure osa näost või pea küljest varjudesse, mis lisab stseenile salapära ja pinget. Detailid on udused ja fookus on käte ja juuste tekstuuri ning nende vahelise koostoime peal.",
+      "actions": [
+        "käed puudutavad pead/juukseid",
+        "peen liikumine"
+      ],
+      "keywords": [
+        "punane",
+        "vari",
+        "käed",
+        "pea",
+        "emotsioon",
+        "intiimne",
+        "dramaatiline",
+        "tume",
+        "inimene",
+        "liikumine",
+        "juuksed"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "käed",
+        "juuksed"
+      ],
+      "colorcodes": [
+        "#A30000",
+        "#3B0000"
+      ],
+      "texts": [],
+      "persons": [
+        "üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel on näha peeneid muutusi sõrmede asendis ja juuste paigutuses, mis viitab stseenis toimuvale aeglasele või pidevale liikumisele."
+      ],
+      "snr": "032",
+      "ajad": [
+        "378.720",
+        "380.320"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha äärmiselt detailne lähivaade inimese näost, keskendudes silmadele ja laubale, mis on kaetud intensiivse punase valgusega. Valgus rõhutab näonaha tekstuuri, mis näib olevat niiske või higine. Stseeni alguses on isiku silmad suletud, andes edasi rahulikkuse, meditatsiooni, või sügava emotsiooni tunde. Järk-järgult hakkavad silmad avanema, paljastades esmalt kitsa pilu ja seejärel laiemalt avatud pilgu. Punane valgus loob dramaatilise ja mõneti ähvardava või kirgliku atmosfääri, süvendades müstilisust ja intensiivsust. Kaamera liigub samal ajal kergelt sissepoole, tuues silmad järjest enam fookusesse ja esiplaanile.",
+      "actions": [
+        "Silmade sulgemine/hoidmine suletud",
+        "Silmade avamine",
+        "Vaatamine/pilgu suunamine"
+      ],
+      "keywords": [
+        "Lähivõte",
+        "Punane valgus",
+        "Silmad",
+        "Nägu",
+        "Emotsioon",
+        "Intensiivsus",
+        "Müsteerium",
+        "Higi",
+        "Niiskus",
+        "Dramaatiline",
+        "Pinge"
+      ],
+      "shot_type": "extreme close-up",
+      "placement": "not clear",
+      "objects": [
+        "Inimese nägu (silmad, laup, kulmud)",
+        "Niiskus nahal"
+      ],
+      "colorcodes": [
+        "#A51717",
+        "#7C0A0A",
+        "#4A0201",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 5,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on isiku silmad täielikult suletud.",
+        "Teisel pildil on silmad hakanud avanema, nähtav on kitsas pilu ja osa silmamunast.",
+        "Kolmandal pildil on silmad veelgi laiemalt avatud, pilk on suunatud ettepoole või ülespoole.",
+        "Piltide vahel on märgata kerget kaamera sisse-suumimist või fookuse nihkumist, tuues silmad järjest lähemale ja selgemaks.",
+        "Valguse ja varjude jaotus näol võib piltide vahel veidi erineda, luues dünaamikat."
+      ],
+      "snr": "033",
+      "ajad": [
+        "380.320",
+        "383.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte naist, kes valmistavad toitu õues idüllilises maapiirkonnas, tõenäoliselt järve kaldal asuvas suvemajas. Piknikulaud, kaetud valge laudlinaga, on laotud värsketest roogadest: klaasist kann oranži joogiga, mitu joogiklaasi, kausid maasikate ja värske salatiga, viilutatud puu- või köögiviljadega taldrik ning leivakorv. Üks naistest, heledate juustega, asetab lauale klaase, samal ajal kui teine naine, punakaspruunide juustega ja helesinises kleidis, viilutab hoolega köögivilju salatikaussi. Taustal paistab traditsiooniline puidust palkmaja, mida ümbritseb lopsakas rohelus – puud, põõsad ja muruväljak. Järve pinnal hõljuvad vesiroosid. Valgus on pehme ja hajutatud, mis viitab hilisele õhtutunnile või pilvisele päevale. Ühel hetkel pöörab punaste juustega naine pilgu lauast eemale, vaadates kaugusesse järve äärde, kus on näha ähmast inimfiguuri kõndimas. Laual on ka vaas siniste lilledega. Üldine atmosfäär on rahulik ja kutsuv.",
+      "actions": [
+        "Klaaside lauale asetamine",
+        "Köögiviljade lõikamine salatisse",
+        "Söögi valmistamine",
+        "Laua katmine",
+        "Ringi vaatamine",
+        "Jalutamine (kauguses)"
+      ],
+      "keywords": [
+        "Suvi",
+        "Õhtu",
+        "Järve ääres",
+        "Maaelu",
+        "Toiduvalmistamine",
+        "Idüll",
+        "Puhkus",
+        "Rahulikkus",
+        "Loodus",
+        "Sõprus",
+        "Söögikord",
+        "Piknik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Laud",
+        "Valge laudlina",
+        "Kann",
+        "Joogiklaasid",
+        "Maasikad",
+        "Salat",
+        "Lõikelaual köögiviljad/puuviljad",
+        "Korv leivaga",
+        "Puidust maja",
+        "Järv",
+        "Vesiroosid",
+        "Puud",
+        "Põõsad",
+        "Muru",
+        "Sinised lilled vaasis",
+        "Nuga",
+        "Kauss",
+        "Taldrik"
+      ],
+      "colorcodes": [
+        "#43523A",
+        "#A4C5E1",
+        "#A83839",
+        "#5B4E40",
+        "#E7E7E7",
+        "#4A56B1"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks naist",
+        "Üks inimfiguur kauguses"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "summer",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on näha mõlemat naist aktiivselt toitu valmistamas ja lauda katmas, punaste juustega naine on suunatud laua poole.",
+        "Teisel pildil on punaste juustega naine pööratud vaatega eemale lauast ning kaadri paremas ääres on näha udune inimfiguur kauguses järve ääres. Blondide juustega naine on suures osas kaadrist väljas.",
+        "Teisel pildil on laual vaasis ka sinised lilled, mida esimesel pildil ei olnud näha.",
+        "Kolmas pilt on täiesti must."
+      ],
+      "snr": "034",
+      "ajad": [
+        "383.960",
+        "419.120"
+      ]
+    },
+    {
+      "explanation": "Stseen algab ja lõpeb täiesti mustade kaadritega, samas kui keskmine kaader kuvab valget teksti mustal taustal. See on tüüpiline lõputiitrite või tänuavalduste ekraan, kus on esitatud filmitegijate nimed ja rollid. Tekst on jaotatud selgeteks kategooriateks nagu 'Platsiheli', 'Värvikorrektsioon', 'Subtiitrid' ja 'Täname:'. Nimede all on loetletud erinevad isikud ja organisatsioonid, sealhulgas üks sissekanne, mis sisaldab eestikeelset ja araabiakeelset teksti. Tiitrite loetelu on pikk, ulatudes üle nähtava ekraani osa, mis annab aimu, et tegemist on kerivate tiitritega.",
+      "actions": [
+        "Tekstide kuvamine ekraanil"
+      ],
+      "keywords": [
+        "Lõputekstid",
+        "Tiitrid",
+        "Must taust",
+        "Valge tekst",
+        "Nimed",
+        "Filmitegijad",
+        "Tänuavaldused",
+        "Krediidid",
+        "Araabia keel"
+      ],
+      "shot_type": "long",
+      "placement": "not clear",
+      "objects": [
+        "Tekst",
+        "Ekraan"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "EriK-hAnS SeFF",
+        "Platsiheli",
+        "Veli Valentin RAJASAAR",
+        "Tanel KADALIPP",
+        "Värvikorrektsioon",
+        "Piret KRUSTOK",
+        "Subtiitrid",
+        "Kristiina TANG",
+        "Täname:",
+        "Andrew - Eesti Araabia ي َِِ س ْ َِ ِر ْ َِ ب ُ ا ْ ب ِ َِ ا ْ ب ِ د ُ و ْ َِ ب ْ ا ْ",
+        "Olavi TANG",
+        "Heikki TANG",
+        "Mihkel MÕTTUS",
+        "Helen EHANDI",
+        "Karl Kristjan KALVIK",
+        "Kaarel KALVIK",
+        "Harri LILLEVARS",
+        "Liisa-Maria Anette SAMM",
+        "Karolina VEEVAMM"
+      ],
+      "persons": [
+        "Veli Valentin RAJASAAR",
+        "Tanel KADALIPP",
+        "Piret KRUSTOK",
+        "Kristiina TANG",
+        "Andrew",
+        "Olavi TANG",
+        "Heikki TANG",
+        "Mihkel MÕTTUS",
+        "Helen EHANDI",
+        "Karl Kristjan KALVIK",
+        "Kaarel KALVIK",
+        "Harri LILLEVARS",
+        "Liisa-Maria Anette SAMM",
+        "Karolina VEEVAMM"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "85",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on täiesti must kaader.",
+        "Teine pilt kuvab valgeid tiitreid mustal taustal, mis sisaldavad erinevate isikute nimesid ja rolle ning tänuavaldusi.",
+        "Kolmas pilt on samuti täiesti must kaader, mis sarnaneb esimesele pildile.",
+        "Tekstid teisel pildil moodustavad osa pikemast kerivast loetelust, mis pole täielikult ühel pildil nähtav."
+      ],
+      "snr": "035",
+      "ajad": [
+        "419.120",
+        "470.560"
+      ]
+    }
+  ]
+}

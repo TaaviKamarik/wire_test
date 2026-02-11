@@ -1,0 +1,4904 @@
+{
+  "film": [
+    "18876",
+    "18727",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Intervjuu Peeter Ülevainuga",
+    "fdb080aacb639ef9b64197157dd6996c6d3db994.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen koosneb kolmest järjestikusest kaadrist. Esimesed kaks kaadrit on täiesti mustad, ilma igasuguse visuaalse sisuta. Kolmas kaader näitab musta tausta, mille keskel on selgelt loetav valges kirjas küsimus eesti keeles: \"Kuidas valisite operaatori töö?\". Tekst on asetatud horisontaalselt ja vertikaalselt ekraani keskele. Kaadris puuduvad muud visuaalsed elemendid, isikud või esemed, rõhk on ainuüksi küsimuse esitamisel tekstiekraani kaudu.",
+      "actions": [
+        "Teksti kuvamine ekraanil",
+        "Küsimuse esitamine"
+      ],
+      "keywords": [
+        "Küsimus",
+        "Tekst",
+        "Must taust",
+        "Valge kiri",
+        "Operaatoritöö",
+        "Ekraan",
+        "Tiiter",
+        "Üleminek"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Kuidas valisite operaatori töö?"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": 90,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene ja teine pilt on täiesti mustad ja ilma igasuguse sisuta, samas kui kolmandal pildil on mustal taustal valge tekstiga esitatud küsimus."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "13.680"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine hallipäine mees, kes istub siseruumis ja räägib, vaadates veidi vasakule (vaataja poolt). Ta kannab tumesinist V-kaelusega kampsunit helesinise kraega särgi peal. Mehe taga on ulatuslikud raamaturiiulid, mis on tihedalt täidetud mitmesuguste raamatutega. Raamaturiiulid on jaotatud kolmeks vertikaalseks sektsiooniks ja need ulatuvad pildi servast servani. Raamatute seas on näha tiitleid nagu \"FILM GUIDE\" ja \"HISTORY OF CINEMA\", mis viitavad filmiteemalisele või akadeemilisele sisule. Vasakul ääres on riiulis ka sinised kaustad tekstidega nagu \"ENDLA\", \"EUROHITI\" ja \"RAKVERE\". Üldine valgustus on hele ja ühtlane. Teisel pildil on allservas näha subtiiter \"It is a very interesting story.\".",
+      "actions": [
+        "Istumine",
+        "Rääkimine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Raamatukogu",
+        "Raamaturiiulid",
+        "Mees",
+        "Siseruum",
+        "Akadeemiline",
+        "Filmiteadus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Pullover",
+        "Särk",
+        "Kaustad"
+      ],
+      "colorcodes": [
+        "#1F2A40",
+        "#6F8AB0",
+        "#B1B1B1",
+        "#4D565F",
+        "#86B2DE",
+        "#C03F3B",
+        "#EFD98D",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "SPECIAL",
+        "THE FILM GUIDE",
+        "Film Guide",
+        "Ephraim Katz",
+        "A LOVE BOOK",
+        "The History of Cinema",
+        "The Art of Cinema",
+        "ENDLA",
+        "EUROHITI",
+        "RAKVERE",
+        "Theory",
+        "It is a very interesting story."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil on stseenil näha subtiiter \"It is a very interesting story.\", mis esimesel pildil puudub."
+      ],
+      "snr": "002",
+      "ajad": [
+        "13.680",
+        "15.720"
+      ]
+    },
+    {
+      "explanation": "Stseenis on jäädvustatud vanem mees, kellel on lühikesed hallid juuksed, sinised silmad ja heledam nahatoon. Ta kannab tumedat V-kaelusega sviitrit, mille all on helesinine ja valge ruuduline nööpidega särk. Mees istub siseruumis ja räägib kaamerasse, hoides suu kergelt avatuna, tema ilme varieerub kõnelemisest mõtlikkuseni. Tema taga ja külgedel asuvad suured raamaturiiulid, mis on tihedalt täidetud erinevate raamatutega. Raamatute selgadelt paistavad mitmesugused värvitoonid, domineerivad punased, pruunid, oranžid ja tumesinised. Raamaturiiulitel on näha ka siniseid sildikesi või raamatutoesid. Ühel hetkel ilmub ekraani alumisse keskosasse mustale taustale valge subtiiter. Üldmulje on soe ja intellektuaalne, valgustus on pehme.",
+      "actions": [
+        "rääkimine",
+        "istumine",
+        "vaatamine",
+        "mõtlemine"
+      ],
+      "keywords": [
+        "mees",
+        "raamatukogu",
+        "raamaturiiulid",
+        "raamatud",
+        "siseruum",
+        "intervjuu",
+        "hallid juuksed",
+        "sviiter",
+        "särk"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "raamaturiiulid",
+        "raamatud",
+        "sviiter",
+        "särk",
+        "subtiiter"
+      ],
+      "colorcodes": [
+        "#212121",
+        "#A0A0A0",
+        "#B23C2A",
+        "#D38E37",
+        "#81A8C0",
+        "#4A6E8D",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "As a young schoolboy.",
+        "OSCAR 7",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "ENCYCLOPEDIA",
+        "ENDLA",
+        "ESTONIA",
+        "KINO EEROP",
+        "ELOKEVA"
+      ],
+      "persons": [
+        "vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teises kaadris on näha valget subtiitrit mustal taustal \"As a young schoolboy.\", mis puudub esimeses ja kolmandas kaadris.",
+        "Mehe suu asend ja näoilme varieeruvad kaadrite vahel; esimeses kaadris on ta rääkimas, teises sarnane esimesele, ja kolmandas pigem mõtlikuma või kuulava ilmega, suu suletud."
+      ],
+      "snr": "003",
+      "ajad": [
+        "15.720",
+        "25.400"
+      ]
+    },
+    {
+      "explanation": "Piltidel on kujutatud siseruumis istuvat keskealist või vanemat meest, kes paistab kellegagi vestlevat, vaadates kaadrist paremale. Tema näoilme on tõsine ja mõtlik, mis viitab süvenenud jutule. Mehel on seljas tume sinine V-kaelusega kampsun, mille all on helesinine kraega särk. Tal on hallid lühikesed juuksed ja kaelas paistab hele kett. Mehe selja taga ja külgedel on kaks täielikult raamatutega täidetud tumedaid raamaturiiuleid. Raamatute seljad on erinevat värvi, sealhulgas punased, sinised, kollased, valged ja mustad, andes taustale rikkaliku ja intellektuaalse ilme. Vasakul riiulitel on näha ka vertikaalselt paigutatud dokumendikarpe või kaustu, millel on sildid \"ENDLA\" ja \"RAKVERE\". Mõned raamatute pealkirjad on osaliselt loetavad, viidates filmiteemalistele teostele nagu \"THE FILM GUIDE\" ja \"THE FILM ENCYCLOPEDIA\". Üldine atmosfäär on rahulik ja akadeemiline, pakkudes vihjeid käimasolevast intervjuust või sügavast arutelust.",
+      "actions": [
+        "Vestleb",
+        "räägib",
+        "istub"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "mees",
+        "raamatud",
+        "raamaturiiul",
+        "siseruum",
+        "vestlus",
+        "hallid juuksed",
+        "kampsun",
+        "akadeemiline",
+        "raamatukogu",
+        "mõtlik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "raamatud",
+        "raamaturiiulid",
+        "kampsun",
+        "särk",
+        "kaelakee",
+        "dokumendikarbid"
+      ],
+      "colorcodes": [
+        "#1D2B44",
+        "#5A7EA4",
+        "#B0B0B0",
+        "#C7A68D",
+        "#404040",
+        "#B83A3A",
+        "#E0E0E0",
+        "#E0B050",
+        "#151515"
+      ],
+      "texts": [
+        "THE FILM GUIDE",
+        "THE FILM ENCYCLOPEDIA",
+        "THE MARCH OF CINEMA",
+        "early cine",
+        "GLOBAL ART",
+        "Theory",
+        "ENDLA",
+        "RAKVERE",
+        "Most films back then were Russian."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil on lisatud ingliskeelne subtiiter: 'Most films back then were Russian.'"
+      ],
+      "snr": "004",
+      "ajad": [
+        "25.400",
+        "40.200"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine kuni vanem mees, kes istub raamaturiiulite ees ja paistab rääkivat. Mehel on seljas tumesinine või must V-kaelusega kampsun, mille all on helesinine, väikese ruudulise mustriga nööbistatud särk. Tema juuksed on lühikesed ja hõbehallid ning tal on puhas raseeritud nägu. Mehe pilk on suunatud kaamerast veidi paremale, kuid ühes kaadris vaatab ta otse kaamerasse, suu kergelt avatud, justkui rääkides. Tema näoilme varieerub mõtisklevast rääkimiseni ja kerge muigeni. Taustaks on tihedalt raamatutega täidetud raamaturiiulid. Raamatud on erinevat värvi – näha on pruune, tumesiniseid, helesiniseid ja hallikaid selgasid, millel on nii ladina- kui ka kirillitsas kirjutatud pealkirjad. Mõnel raamatul on erksinised sildid küljes. Ülemisel riiulil on näha filmi- ja entsüklopeediaraamatuid, näiteks \"OSCAR 7\", \"THE FILM GUIDE\", \"THE MOVIE BOOK\" ja \"EPHRAIM KATZ THE FILM ENCYCLOPEDIA 6\". Allpool on riiulitel ka raamatuid eesti keeles, nagu \"ENDLA\" ja \"ESTONIA\". Stseen on selgelt siseruumides ja valgustus on ühtlane, mis viitab kontrollitud keskkonnale, näiteks intervjuule või salvestusele.",
+      "actions": [
+        "Mees räägib",
+        "Mees vaatab",
+        "Mees istub"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Raamatukogu",
+        "Mees",
+        "Siseruum",
+        "Vestlus",
+        "Film",
+        "Entsüklopeedia",
+        "Kultuur",
+        "Raamaturiiul"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Sildid"
+      ],
+      "colorcodes": [
+        "#1D232E",
+        "#7C91B5",
+        "#B8C0C4",
+        "#7E3E37",
+        "#293856",
+        "#88ABCE",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "OSCAR 7",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ THE FILM ENCYCLOPEDIA 6",
+        "ENDLA",
+        "ESTONIA",
+        "So I had the fortune of meeting a director whose name was Virve Reiman.",
+        "313.9185/87-1991",
+        "25",
+        "КИНО ЕВРОПЫ",
+        "ELOKUV",
+        "HISTORIA"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil on näha subtiitrid tekstiga \"So I had the fortune of meeting a director whose name was Virve Reiman.\", mis puuduvad teistel piltidel.",
+        "Mehe näoilme ja pilgu suund varieeruvad piltide vahel, andes edasi liikumist ja rääkimist. Esimesel pildil on pilk allapoole suunatud, teisel otse kaamerasse ja kolmandal taas kergelt eemale, kerge muie näol."
+      ],
+      "snr": "005",
+      "ajad": [
+        "40.200",
+        "55.960"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine kuni vanem mees, kes istub ja paistab rääkivat või kuulavat intervjuu stiilis olukorras. Ta on kaadris keskelt veidi paremal ja vaatab paremale, nägu on pingsa või tõsise ilmega. Mehel on seljas tume sinine V-kaelusega kampsun ja selle all helesinine triiksärk. Tema hallid juuksed on lühikesed ja hoolikalt kammitud. Tausta moodustavad kaks tumeda halli raamaturiiulit, mis on tihedalt täidetud erinevate raamatutega. Raamatute seljad on eri värvi – punased, mustad, valged, rohelised, sinised – ja paljudel on näha pealkirju, mis viitavad filmindusele ja teooriale. Vasakul riiuli ääres on virnas valgeid kaustu või karpe. Stseen on ilmselt filmitud siseruumis, hea ühtlase valgustusega, mis annab edasi päevase tunde.",
+      "actions": [
+        "Istumine",
+        "Vaatamine",
+        "Rääkimine (kaudselt, subtiitrite järgi)"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Raamatud",
+        "Raamaturiiul",
+        "Siseruum",
+        "Vestlus",
+        "Filmiteooria",
+        "Portree"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kampsun",
+        "Triiksärk",
+        "Kaustad"
+      ],
+      "colorcodes": [
+        "#1e2837",
+        "#82a8d3",
+        "#b4b7bb",
+        "#474b4e",
+        "#ffffff",
+        "#000000"
+      ],
+      "texts": [
+        "THE FILM GUIDE",
+        "FILM ENCYCLOPAEDIA",
+        "THE CINEMA BOOK",
+        "THEORY",
+        "EARLY CINEMA",
+        "A HISTORY OF CINEMA",
+        "HARMONY",
+        "GLOBALIZATION AND CULTURE",
+        "FILM",
+        "ENDLA",
+        "RAKVERE",
+        "She was the dubbing director.",
+        "She needed kids who would do the voiceover."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Ainus erinevus kahe kaadri vahel on subtiitrite tekst. Esimeses kaadris on tekstiks \"She was the dubbing director.\", teises kaadris on tekstiks \"She needed kids who would do the voiceover.\". Mehe asend ja taust on mõlemas kaadris identsed."
+      ],
+      "snr": "006",
+      "ajad": [
+        "55.960",
+        "67.120"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha vanemat meest, kes istub või seisab raamatute täis riiulite ees. Mees on kaadri keskpunktist veidi vasakul, vaadates otse kaamerasse. Tal on lühikesed hallid juuksed, mis on kenasti kammitud. Ta kannab tumedat sinist või musta V-kaelusega kampsunit helesinise ruudulise või mustrilise särgi peal. Tema kampsuni külge on kinnitatud pisike mikrofon, mis viitab sellele, et ta räägib või teda intervjueeritakse. Mehe näoilme muutub piltide vahel kergelt, minnes neutraalsemast või mõtlikumast ilmest peenele naeratusele. Ta avab suu, justkui rääkides. Taustal on raamaturiiulid, mis on tihedalt täidetud erinevate köidetega. Vasakul riiulil on näha raamatuid pealkirjadega nagu „ENDLA“ ja „ESTONIA“ ning numbreid nagu „1875-1991“. Parempoolsel riiulil on suures osas filmiteemalised raamatud pealkirjadega „OSCAR 7“, „THE FILM GUIDE“, „TIME MOVIE BOOK“, „EPHRAIM KATZ“ ja „THE FILM ENCYCLOPEDIA“. Samuti on näha raamatuid kirillitsas, näiteks „КИНО ЕВРОПЫ“ ja soomekeelne „ELOKUVAT“. Riiulitel on ka siniste ääristega raamatuhoidjad või jaotajad.",
+      "actions": [
+        "Mees räägib",
+        "Mees vaatab kaamerasse"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Raamatud",
+        "Raamaturiiul",
+        "Siseruum",
+        "Filmikogu",
+        "Hallid juuksed",
+        "Vestlus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Mikrofon",
+        "Särk",
+        "Kampsun",
+        "Sinised sildid/jaotajad"
+      ],
+      "colorcodes": [
+        "#1E232B",
+        "#6797BB",
+        "#A2A4A9",
+        "#3E2B1E",
+        "#8B1A1A",
+        "#004080",
+        "#007BFF",
+        "#EFEAE3"
+      ],
+      "texts": [
+        "ENDLA",
+        "ESTONIA",
+        "1875-1991",
+        "OSCAR 7",
+        "THE FILM GUIDE",
+        "TIME MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "THE FILM ENCYCLOPEDIA",
+        "6",
+        "КИНО ЕВРОПЫ",
+        "ELOKUVAT",
+        "And that was that, we got to voiceover a Russian film.",
+        "There was a small clip taken from the film."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Alumine tekstirida (subtiitrid) on erinev, viidates pidevale kõnele.",
+        "Mehe näoilme on kergelt muutunud, esimesel pildil neutraalsem, teisel pildil kergelt naeratav, ja tema suu asend erinev, mis näitab rääkimist."
+      ],
+      "snr": "007",
+      "ajad": [
+        "67.120",
+        "73.760"
+      ]
+    },
+    {
+      "explanation": "Stseenis on keskealine mees, kes istub raamaturiiulite ees ja räägib. Tal on hallikad juuksed ja ta kannab tumesinist pulloveri helesinise kraesärgiga. Tema näoilme viitab sellele, et ta on vestluses või annab intervjuud. Ta on paigutatud kaadri keskele ja taustaks on tihedalt raamatutega täidetud tumedad raamaturiiulid. Esimeses kaadris on mehe käed kaadri allservas, seejärel tõstab ta käed üles, et rõhutada oma juttu, moodustades pöialdega žesti, ning kolmandas kaadris on tema parem käsi endiselt üleval, osutades või rõhutades sõnu, samal ajal kui vasak käsi on all. Kaadrite allservas on subtiitrid, mis muutuvad vastavalt tema jutule.",
+      "actions": [
+        "Rääkimine",
+        "Kätega žestikuleerimine",
+        "Istumine"
+      ],
+      "keywords": [
+        "Mees",
+        "Raamatukogu",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Intervjuu",
+        "Vestlus",
+        "Hallid juuksed",
+        "Kampsun"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Raamatud",
+        "Raamaturiiulid",
+        "Pullover",
+        "Kraesärk"
+      ],
+      "colorcodes": [
+        "#30343a",
+        "#1d2d3a",
+        "#a7b7c5",
+        "#ffffff",
+        "#828c94",
+        "#4c525a"
+      ],
+      "texts": [
+        "There was a small clip taken from the film.",
+        "It was called \"ring\".",
+        "Usually a minute long, maybe more maybe less.",
+        "ENOLA",
+        "RAKVERE",
+        "THE FILM GUIDE",
+        "THE FILM ENCYCLOPAEDIA",
+        "THE CINEMA BOOK",
+        "HARMONY",
+        "FILM"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe käte asend muutub: esimeses kaadris on käed all, teises kaadris on mõlemad käed üles tõstetud pöialdega žesti tehes, kolmandas kaadris on parem käsi endiselt üleval žestikuleerimas, vasak käsi on all.",
+        "Subtiitrid muutuvad iga kaadri allservas, kajastades räägitud juttu."
+      ],
+      "snr": "008",
+      "ajad": [
+        "73.760",
+        "79.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast siseruumi, tõenäoliselt raamatukogu või isiklikku kabinetti, mis on üleni kaetud raamaturiiulitega. Kaadri keskmes on vanem mees, kes räägib ja teeb kätega žeste. Tema pea ja õlad on selgelt näha, ta on riietatud tumesinisesse kraega särki ja tumedasse kampsunisse. Mehel on lühikesed, hallid juuksed ja ta vaatab otse ettepoole, andes edasi tõsist või mõtisklevat ilmet. Tema parem käsi on alguses näha žestikuleerimas, seejärel on see allapoole suunatud. Tagaplaanil on tihedalt pakitud raamaturiiulid, mis on täidetud raamatute ja mõnede sideainetega. Raamatute seljad on erinevat värvi, domineerivad pruunid, punased, sinised ja valged toonid. Parempoolsel riiulil on näha mitmeid filmiteemalisi raamatuid inglise keeles. Kaadri alaosas on näha ingliskeelsed subtiitrid, mis annavad konteksti mehe jutule. Valgus on pehme ja ühtlane, mis viitab sisevalgustusele.",
+      "actions": [
+        "Rääkimine",
+        "Žestikuleerimine (parema käega)",
+        "Kuulamine/Mõtisklemine",
+        "Vaatamine otse kaamerasse"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Raamatukogu",
+        "Mees",
+        "Raamaturiiul",
+        "Dokumentaalfilm",
+        "Vestlus",
+        "Portree",
+        "Raamatud",
+        "Kaelus",
+        "Kampsun"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Särk",
+        "Kampsun",
+        "Sideained/Karbid",
+        "Prillid (mehe silme all)"
+      ],
+      "colorcodes": [
+        "#343940",
+        "#767C7D",
+        "#8B7452",
+        "#A8B1B6",
+        "#2F599B",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "It was called a \"ring\".",
+        "Usually a minute long, maybe more maybe less.",
+        "OSCAR Z",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "THE FILM ENCYCLOPEDIA",
+        "ESTONIA",
+        "ENDLA",
+        "ELOKUVAT"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevus seisneb peamiselt mehe parema käe asendis: esimesel pildil on käsi tõstetud ja žestikuleerib, samas kui teisel ja kolmandal pildil on käsi allapoole suunatud, puhkeasendis. Näoilmes on märgata ka pisemaid variatsioone, eriti suu piirkonnas."
+      ],
+      "snr": "009",
+      "ajad": [
+        "79.200",
+        "84.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest, kes istub intervjuu andes filmiraamatukogus või arhiivis. Mees on kaadri keskel, selja taga on suured tumehallid raamaturiiulid, mis on tihedalt täidetud lugematute filmiteemaliste raamatutega. Mõnedel raamatutel on näha pealkirjad inglise keeles, mis viitavad filmiajaloo, -teooria ja -juhenditele, näiteks \"THE FILM ENCYCLOPEDIA\" ja \"EARLY CINEMA\". Kaadri vasakus servas on näha heledaid arhiivikarpe sildistega nagu \"ENDLA\" ja \"RAKVERE\". Mees kannab tumesinist V-kaelusega kampsunit helesinise kraega särgi peal. Tal on lühikesed hallid juuksed ja ta vaatab veidi kaamerast eemale paremale, rääkides ja žestikuleerides kätega, et oma juttu rõhutada. Stseen on hästi valgustatud, tuues esile detailid nii isikul kui ka tema taga asuvas raamatukogukeskkonnas.",
+      "actions": [
+        "Mees räägib",
+        "Mees žestikuleerib parema käega",
+        "Mees istub"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Filmiraamatukogu",
+        "Arhiiv",
+        "Raamatud",
+        "Mees",
+        "Hallid juuksed",
+        "Särk",
+        "Kampsun",
+        "Riiulid",
+        "Filmisubtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kampsun",
+        "Särk",
+        "Arhiivikarbid",
+        "Sõrmus"
+      ],
+      "colorcodes": [
+        "#36454F",
+        "#1C2B4B",
+        "#ADD8E6",
+        "#C0C0C0",
+        "#8B0000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "It went round and round.",
+        "The film was glued together and looped.",
+        "THE FILM GUIDE",
+        "THE FILM ENCYCLOPEDIA",
+        "EARLY CINEMA",
+        "FILM",
+        "THE CINEMA BOOK",
+        "HARMONY",
+        "DIGITAL CINEMA",
+        "ENDLA",
+        "RAKVERE"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehe käed koos paigal, teisel pildil on parem käsi tõstetud žestikuleerimiseks.",
+        "Teisel pildil on näha ingliskeelsed subtiitrid, esimesel pildil subtiitrid puuduvad."
+      ],
+      "snr": "010",
+      "ajad": [
+        "84.040",
+        "90.920"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha vanemat hallipäist meest, kes kannab musta või tumesinise kampsuni all sinise mustriga särki. Ta istub intervjuu kontekstis, vaatab otse ette ja on kahes kaadris erinevate näoilmete ja käeasenditega. Mehe sinised silmad on teravalt fookuses. Tema taga asub mahukas raamaturiiul, mis on tihedalt täidetud erinevate suuruste ja värvidega raamatutega. Riiulil on näha ka mõned tumesinised kaustad või karbid. Valgus on ere ja nähtavasti kunstlik, valgustades mehe nägu selgelt, samas kui taust on veidi udune, suunates tähelepanu peategelasele. Ekraanil on näha valged subtiitrid, mis kirjeldavad tegevust ja mehe räägitavat juttu.",
+      "actions": [
+        "Mees räägib",
+        "Mees žestikuleerib käega"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Raamatukogu",
+        "Raamaturiiul",
+        "Filmid",
+        "Dublaaž",
+        "Käeviibe",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiul",
+        "Raamatud",
+        "Kaustad/karbid",
+        "Särk",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#B5B7B7",
+        "#C7AE97",
+        "#3F6085",
+        "#2E343C",
+        "#6E5C41",
+        "#8E302E",
+        "#556D8D",
+        "#A38C6D",
+        "#2C2F36",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "It went round and round.",
+        "The film was glued together and looped.",
+        "So it played on the screen and we had to dub over what was on the screen.",
+        "OSCAR Z",
+        "THE FILM GUIDE",
+        "HALLIWELL'S THE MOVIE BOOK",
+        "EPHRAIM KATZ THE FILM ENCYCLOPEDIA 6",
+        "ENDLA",
+        "ESTONIA"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehe käed paigal. Teisel pildil on mees käega žestikuleerimas, parem käsi on tõstetud ja liikumise tõttu udune.",
+        "Esimesel pildil on näha kaks subtiitririda: 'It went round and round.' ja 'The film was glued together and looped.'. Teisel pildil on subtiitrid muutunud ja näha on üks rida: 'So it played on the screen and we had to dub over what was on the screen.'."
+      ],
+      "snr": "011",
+      "ajad": [
+        "90.920",
+        "93.280"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või vanem mees, hallide lühikeste juustega, kes kannab tumesinist V-kaelusega kampsunit helesinise-valgeruutulise särgi peal. Ta istub ja räägib otse kaamerasse, näoga kergelt vasakule pööratud. Mehe taga on tumedad raamaturiiulid, mis on täis erineva suuruse ja värvusega raamatuid, mis viitab raamatukogule või kodusele kabinetile. Mõnedel raamatutel on näha pealkirjad. Pildi allosas on valged subtiitrid, mis kuvavad öeldut.",
+      "actions": [
+        "Mees räägib",
+        "Mees žestikuleerib parema käega (teisel pildil)"
+      ],
+      "keywords": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Intervjuu",
+        "Vestlus",
+        "Filmiteadus",
+        "Sisekujundus",
+        "Haridus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kampsun",
+        "Särk",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#2F3E58",
+        "#808080",
+        "#FFFFFF",
+        "#ADD8E6",
+        "#D3C3A6",
+        "#A64E3F",
+        "#4E7C8B",
+        "#3B3B3B"
+      ],
+      "texts": [
+        "So it played on the screen and we had to dub over what was on the screen.",
+        "ENDLA",
+        "RAKVERE T...",
+        "THE FILM ENCYCLOPEDIA",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "HITCHCOCK",
+        "THE CINEMA BOOK",
+        "HARMONY ...",
+        "FILM",
+        "MOVEI"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehe parem käsi rippumas või puhkeasendis, peaaegu nähtamatu. Teisel pildil on mehe parem käsi tõstetud ja ta žestikuleerib, hoides pöialt ja nimetissõrme peaaegu koos."
+      ],
+      "snr": "012",
+      "ajad": [
+        "93.280",
+        "95.640"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine kuni vanem mees, kes räägib siseruumis, tõenäoliselt raamatukogus või kontoris. Ta on riietatud tumesinisesse või musta V-kaelusega kampsunisse, mille all on helesinise mustriga särk. Tema juuksed on hallid ja korralikult kammitud. Ta on esitatud rinnakuva kaadris, mis keskendub tema näole ja ülakehale. Tema taga on riiulid, mis on täis raamatuid, videokassette ja muid meediavahendeid. Valgus on kunstlik ja tasakaalustatud, luues selge ja professionaalse ilme. Stseen mõjub intervjuu või dokumentaalfilmi võttekohana. Esimesel pildil on näha subtiitrid, mis viitavad tema kõnele, ja tema parem käsi on üles tõstetud žestikuleerimas. Kahes järgmises pildis on käsi langetatud ja kolmandal pildil subtiitrid puuduvad.",
+      "actions": [
+        "Mees räägib",
+        "Mees žestikuleerib (esimesel pildil)"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Raamatukogu",
+        "Raamaturiiulid",
+        "Vanem mees",
+        "Siseruum",
+        "Kõne",
+        "Dokumentaalfilm"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "VHS/videokassetid",
+        "Sildid/etiketid riiulitel",
+        "Valged sildid sinistes hoidjates"
+      ],
+      "colorcodes": [
+        "#2f4066",
+        "#a9c5df",
+        "#b2b2b2",
+        "#8c8c8c",
+        "#f8f0cf",
+        "#ffffff",
+        "#000000",
+        "#20407b"
+      ],
+      "texts": [
+        "So it played on the screen and we had to dub over what was on the screen.",
+        "OSCAR 2",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "EESTI",
+        "ENDLA",
+        "ELOKUVAT",
+        "TARTU",
+        "1875-1991",
+        "КИНО ЕВРОПЫ",
+        "6"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel ja teisel pildil on nähtavad subtiitrid, kolmandal pildil need puuduvad.",
+        "Esimesel pildil on mehe parem käsi tõstetud ja žestikuleerib, teisel ja kolmandal pildil on käsi langetatud.",
+        "Mehe näoilmes ja suu asendis on kerged variatsioonid piltide vahel, mis annab edasi kõne dünaamikat.",
+        "Kolmas pilt võib olla kergelt erineva kadreeringuga, olles veidi sisse suumitud või teisiti lõigatud, jättes mulje, et mehe pea on suurem võrreldes kaadri suurusega."
+      ],
+      "snr": "013",
+      "ajad": [
+        "95.640",
+        "97.760"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud vanemat meest, kes istub ja räägib siseruumis, mis on ümbritsetud tumedatest raamaturiiulitest, mis on ääretult täis raamatuid. Mehel on hallid juuksed, sügavsinine kampsun ja ruuduline särk. Tema ilme on läbimõtlik ja ta vaatab veidi kaamerast paremale, samal ajal kui ta räägib. Taustal on kaks suurt, tumehalli raamaturiiulit, mis on tihedalt täidetud erinevate raamatute ja kaustadega, viitades ilmselt tema huvile filmi või kirjanduse vastu. Vasakul pool on näha ka virn heledaid kaustu või mappe. Valgus on pehme ja ühtlane, mis rõhutab intervjuu või vestluse atmosfääri. Raamatute seljad on erinevat värvi, lisades tumedale taustale veidi värvi.",
+      "actions": [
+        "Mees räägib",
+        "Mees žestikuleerib kergelt (teisel pildil on käsi liikvel)"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Raamaturiiul",
+        "Raamatud",
+        "Film",
+        "Kino",
+        "Vestlus",
+        "Siseruum"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Kaustad",
+        "Särk",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#252D45",
+        "#4A4D4D",
+        "#E0E0E0",
+        "#A8B0BC"
+      ],
+      "texts": [
+        "That's how I first came into contact with film.",
+        "Ofcourse I explored the back rooms and saw how they loaded these rings into the projectors",
+        "That I really started taking an interest in cinema."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe näoilme ja pilk varieeruvad kergelt kaadrite vahel.",
+        "Teisel pildil on mehel käsi kergelt tõstetud, viitades žestile.",
+        "Alustekstid (subtiitrid) on igal pildil erinevad."
+      ],
+      "snr": "014",
+      "ajad": [
+        "97.760",
+        "113.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast keskealist või vanemat meest, kes on suunatud otse kaamera poole ja räägib, olles tõenäoliselt intervjuul. Ta on riietatud tumesinisesse või musta V-kaelusega kampsunisse, mille all on helesinine ruudulise mustriga (või täpiline) kraega särk. Mehe nägu on heledalt valgustatud, hallid juuksed on korralikult kammitud. Tema ilmed varieeruvad mõtisklevast ja allapoole vaatavast aktiivselt rääkiva ja kergelt naeratavani, vaadates veidi üles ja paremale. Taustal on tihedalt raamatutega täidetud raamaturiiulid, mis annavad edasi akadeemilise või intellektuaalse keskkonna tunde. Paljudel raamatutel on näha filmi- ja kinoalaseid pealkirju, mis viitab mehe võimalikule seotusele antud valdkonnaga. Mõned raamatud on eesti- ja ingliskeelsed. Raamatute vahel on näha ka siniseid raamatusildihoidjaid või -toed. Stseen on selgelt siseruumides ja hästi valgustatud.",
+      "actions": [
+        "Rääkimine",
+        "Vaatamine (alla, üles, otse kaamerasse)",
+        "Mõtisklemine",
+        "Žestikuleerimine (suu liikumisega)"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Raamatukogu",
+        "Raamaturiiulid",
+        "Filmikirjandus",
+        "Siseruumid",
+        "Mõtisklus",
+        "Kõne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "V-kaelusega kampsun",
+        "Kraega särk",
+        "Raamatusildihoidjad",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#2F4F4F",
+        "#ADD8E6",
+        "#8B0000",
+        "#A9A9A9",
+        "#000080",
+        "#FFFF00",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "OSCAR 7",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ ENCYCLOPEDIA",
+        "ENDLA",
+        "ESTONIA",
+        "ELOKUVAT",
+        "LUGU",
+        "1875-1991",
+        "KINO EUROOPA",
+        "AKTERID",
+        "When it was time to start thinking of a career I had two options ahead of me.",
+        "So I went with that."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe pea asend ja pilgu suund varieeruvad piltide vahel (allapoole vaatav, üles-paremale vaatav).",
+        "Mehe suu on kord suletud ja kord avatud, mis näitab rääkimise etappe.",
+        "Ekraanil kuvatavad subtiitrid muutuvad vastavalt räägitavale tekstile."
+      ],
+      "snr": "015",
+      "ajad": [
+        "113.600",
+        "130.400"
+      ]
+    },
+    {
+      "explanation": "Mees räägib kaamera ees, ilmselt intervjuus või dokumentaalfilmis, istudes suure raamaturiiulitega ruumis. Ta on keskealine hallide juustega mees, seljas tumesinine V-kaelusega džemper helesinise ruudulise särgiga. Tema näoilme ja pilk varieeruvad veidi kahe kaadri vahel, vaheldudes mõtlikust otse kaamerasse rääkimisega. Mehe taga asuv raamaturiiul on tumedat värvi, tõenäoliselt sügavhall või must, ja on tihedalt täidetud lugematu hulga raamatutega. Raamatud on väga erinevates värvitoonides, sealhulgas punased, sinised, rohelised, valged, mustad ja kollased. Riiuli vasakpoolses osas on näha ka mitmeid valgeid kaustu, millel on sildid nagu \"ENDLA\" ja \"RAKVERE TEATER\", viidates võimalikule seosele teatri või filmindusega. Ekraani allosas on näha valged subtiitrid, mis kuvavad mehe kõnet. Stseen on hästi valgustatud, mis viitab siseruumile ja kontrollitud võttekeskkonnale.",
+      "actions": [
+        "rääkimine",
+        "istumine",
+        "vaatamine"
+      ],
+      "keywords": [
+        "intervjuu",
+        "raamaturiiul",
+        "mees",
+        "siseruum",
+        "raamatud",
+        "Tallinnfilm",
+        "subtiitrid",
+        "dokumentaalfilm",
+        "vestlus",
+        "teater",
+        "kino"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "raamaturiiul",
+        "raamatud",
+        "kaustad",
+        "särk",
+        "džemper"
+      ],
+      "colorcodes": [
+        "#4B4B4B",
+        "#1F2F41",
+        "#A3A19C",
+        "#8AABCE",
+        "#FFFFFF",
+        "#000000",
+        "#A12B26",
+        "#2C5B96",
+        "#978F8A"
+      ],
+      "texts": [
+        "So I went with that.",
+        "In Tallinnfilm there was a regulation.",
+        "ENDLA",
+        "RAKVERE TEATER",
+        "THE FILM GUIDE",
+        "FILM ENCYCLOPAEDIA",
+        "HISTORY OF CINEMA",
+        "HARMONY",
+        "ART AND FILM",
+        "THEORY"
+      ],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe pilgu suund ja näoilme muutuvad veidi.",
+        "Subtiitrite tekst on erinev."
+      ],
+      "snr": "016",
+      "ajad": [
+        "130.400",
+        "134.000"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud vanemat, hallipäist meest, kes on riietatud musta kampsunisse ja sinise-valge ruudulisse särki. Mehe näoilme on tõsine ja mõtlik, vahel pöörab ta pilgu veidi kõrvale, vahel otse kaamerasse. Tema taustaks on kaks tihedalt raamatutega täidetud raamaturiiulit. Riiulitel on näha erineva suuruse ja värvusega raamatuid, mille hulgas on nii eestikeelseid kui ka ingliskeelseid pealkirju, mis viitavad filmikunstile ja entsüklopeediatele. Mõnedel raamatutel on sinised-valged sildid. Stseenis valitseb akadeemiline ja intellektuaalne õhkkond.",
+      "actions": [
+        "Mees räägib või annab intervjuud",
+        "Mees mõtiskleb"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Raamaturiiul",
+        "Raamatud",
+        "Intervjuu",
+        "Filmikunst",
+        "Haridus",
+        "Vestlus",
+        "Mõtisklemine",
+        "Raamatukogu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Sildid raamatutel",
+        "Kampsun",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#1b1b1c",
+        "#435e7d",
+        "#b8b8b8",
+        "#a2836c",
+        "#6c1f1f",
+        "#2b3951",
+        "#ad9760"
+      ],
+      "texts": [
+        "ENDLA",
+        "ESTONIA",
+        "1875-1999",
+        "OSCAR 7",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "FILM ENCYCLOPEDIA",
+        "KINO EUROOPA",
+        "That in order to become a cinematographer you had to have a degree."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kahel pildil on näha ingliskeelsed subtiitrid, mis esimesel pildil puuduvad.",
+        "Mehe pilgu ja pea asend on piltide vahel kergelt muutunud, viitades dünaamilisele kaadrile või lühikesele ajahetkele."
+      ],
+      "snr": "017",
+      "ajad": [
+        "134.000",
+        "139.800"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või vanem mees, kes on intervjueeritav. Ta istub raamaturiiulitega täidetud ruumis, mis annab edasi akadeemilise või intellektuaalse keskkonna tunde, näiteks raamatukogu või filmiarhiiv. Mees kannab tumesinist kampsunit või polo-särki, mille all on heledam ruuduline särk. Tema pilk on suunatud vasakule, viidates sellele, et intervjueerija või kaamera asub seal. Pildi allosas on nähtavad valged subtiitrid mustal taustal, mis edastavad mehe juttu. Taustal olevad raamaturiiulid on täis erineva suuruse ja värviga raamatuid, millest mõned on laiemalt tuntud pealkirjadega, viidates filmi- ja teatriteemalisele kirjandusele.",
+      "actions": [
+        "Mees räägib intervjuus",
+        "Kaamera salvestab"
+      ],
+      "keywords": [
+        "intervjuu",
+        "mees",
+        "raamatukogu",
+        "raamaturiiulid",
+        "raamatud",
+        "filmid",
+        "haridus",
+        "cinematographer",
+        "Moskva"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "raamaturiiul",
+        "raamatud",
+        "sinine kampsun",
+        "ruuduline särk",
+        "subtiitrid"
+      ],
+      "colorcodes": [
+        "#3D5C93",
+        "#4F5253",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "That in order to become a cinematographer you had to have a degree.",
+        "And that made me think where I should go study.",
+        "In those days you couldn't study film anywhere else other than Moscow.",
+        "THE FILM GUIDE",
+        "ENDLA",
+        "KIRO EHTOTID",
+        "RAAVERE TEATER",
+        "HARMONY",
+        "THE CINEMA BOOK",
+        "FILM",
+        "MOVIES",
+        "THEORY",
+        "КОМПОЗИЦИЯ КИНОКАДРА",
+        "КИНОСЦЕНАРИЙ",
+        "СТАЛКЕР",
+        "ИСТОРИЯ КИНО"
+      ],
+      "persons": [
+        "vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst muutub iga pildiga, edastades järjestikuseid lauseid intervjuust.",
+        "Mehe suu asend ja näoilme muutuvad kergelt vastavalt rääkimisele, mis annab edasi liikumist videokaadrite vahel."
+      ],
+      "snr": "018",
+      "ajad": [
+        "139.800",
+        "151.720"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või vanem mees, hallikate juustega, tumedas kampsunis ja sinise ruudulise särgiga, kes istub raamaturiiulite taustal. Tema ilme on tõsine ja mõtlik, pilk on suunatud vasakule. Riiulid on tihedalt täidetud erinevate raamatutega, millest osadel on näha ingliskeelseid pealkirju nagu \"OSCAR Z\", \"THE FILM GUIDE\", \"THE MOVIE BOOK\", \"EPHRAIM KATZ\", \"FILM ENCYCLOPEDIA\", samuti eestikeelseid või venekeelseid pealkirju (nt \"ESTONIA\", \"ENDLA\", \"ZILELE\", \"KINO EROPA\"). Mõnel raamatul on seljal sinised katted või sildid. Valgus on pehme, valgustades meest eestpoolt, andes stseenile intiimse ja intellektuaalse atmosfääri. Mees näib olevat intervjuul või arutlemas mingil teemal.",
+      "actions": [
+        "Mees vaatab vasakule",
+        "Mees räägib (subtiitrite järgi)"
+      ],
+      "keywords": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Intervjuu",
+        "Kultuur",
+        "Haridus",
+        "Mõtlik",
+        "Sülearvuti",
+        "Filmientsüklopeedia"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Vanem mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Tumesinine kampsun",
+        "Sinine ruuduline särk",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#1a1e22",
+        "#5c8ab0",
+        "#a0a0a0",
+        "#c7a48d",
+        "#8d6242",
+        "#4a4a4a",
+        "#8c2a2a",
+        "#2a5a8c",
+        "#e0e0e0"
+      ],
+      "texts": [
+        "In Estonia there was no place for that.",
+        "OSCAR Z",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "FILM ENCYCLOPEDIA",
+        "6",
+        "ESTONIA",
+        "ENDLA",
+        "ZILELE",
+        "KINO EROPA"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil on lisatud ingliskeelsed subtiitrid \"In Estonia there was no place for that.\", mis esimesel pildil puuduvad. Muus osas on kaadrid identsed."
+      ],
+      "snr": "019",
+      "ajad": [
+        "151.720",
+        "154.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast siseruumis tehtud intervjuud või vestlust, kus keskealine või vanem mees istub ja räägib kaamera poole. Mees on kadreeritud rinnust ülespoole ning kannab tumesinist V-kaelusega kampsunit helesinise särgi peal. Tal on lühikesed, heledad juuksed ja ta näoilme on tõsine, tähelepanelik. Tema taga on laialdased raamaturiiulid, mis on tihedalt täidetud väga paljude raamatute ja mõnede kaustikutega. Raamaturiiulid on tumedad, tõenäoliselt tumehallid või mustad. Raamatud on erinevates värvides – näha on nii punaseid, siniseid, rohelisi, kollaseid, valgeid kui ka musti raamatuid, mis viitab mitmekesisele kogule. Vasakul pool on näha ka mõningaid helesiniseid ja valgeid püstiseid kaustikuid või karpe. Stseenis on näha inglisekeelsed subtiitrid, mis muutuvad kaadrite vahel.",
+      "actions": [
+        "Mees räägib",
+        "Mees istub"
+      ],
+      "keywords": [
+        "intervjuu",
+        "raamaturiiulid",
+        "raamatud",
+        "siseruum",
+        "mees",
+        "vestlus",
+        "kultuur",
+        "kirjandus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "raamaturiiul",
+        "raamatud",
+        "kaustikud",
+        "kampsun",
+        "särk"
+      ],
+      "colorcodes": [
+        "#435275",
+        "#ACB4BA",
+        "#0C0C0C",
+        "#8DA7C5",
+        "#F7F7F7",
+        "#7D6241"
+      ],
+      "texts": [
+        "In Estonia there was no place for that.",
+        "I remember the problem was my Russian.",
+        "Thought I knew Russian well, seems that I didn't know it that well.",
+        "FILM GUIDE",
+        "THE CINEMA BOOK",
+        "HISTORY OF CINEMA"
+      ],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel muutub ekraani allservas kuvatav inglisekeelne subtiitrite tekst, kajastades mehe erinevaid jutulõike."
+      ],
+      "snr": "020",
+      "ajad": [
+        "154.320",
+        "162.240"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või vanem mees, hallide, korralikult kammitud juustega. Ta kannab tumedat, tõenäoliselt sügavsinist või musta V-kaelusega kampsunit helesinise ruudulise või täpilise särgi peal. Tema näojooned on rahulikud ja mõtisklevad; esimesel pildil vaatab ta kergelt allapoole ja vasakule (vaataja paremale), samas kui teisel ja kolmandal pildil on tema pilk suunatud otse ette, justkui pöördudes otseselt kellegi poole. Mees asub kaadris veidi vasakul, taustal laiub mahukas raamatukogu või isiklik tööruum, mis on täidetud tihedalt pakitud raamaturiiulitega. Riiulid ulatuvad peaaegu laeni ning sisaldavad hulgaliselt erineva suuruse ja värviga raamatuid, mis viitab ulatuslikule kollektsioonile. Mõned raamatute pealkirjad, näiteks “THE FILM GUIDE”, “THE MOVIE BOOK”, “OSCAR” ja “EPHRAIM KATZ”, viitavad filmindusele või kultuurile. Raamatute seas on ka venekeelseid ja eestikeelseid pealkirju. Riiulitel on märgata ka siniseid kaustataolisi esemeid või raamatutoesid. Stseen on ühtlaselt valgustatud, mis viitab siseruumile ja salvestusele.",
+      "actions": [
+        "Mees räägib",
+        "Mees vaatab",
+        "Mees mõtiskleb"
+      ],
+      "keywords": [
+        "Mees",
+        "Raamatukogu",
+        "Raamaturiiulid",
+        "Intervjuu",
+        "Kõnelemine",
+        "Subtiitrid",
+        "Portree"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Särk",
+        "Kampsun",
+        "Sinised kaustad/toed"
+      ],
+      "colorcodes": [
+        "#1D1D1D",
+        "#5B8BA6",
+        "#B8B8B8",
+        "#C9A790",
+        "#5C4B3C",
+        "#AB3535",
+        "#F4D09C",
+        "#2C3552",
+        "#FFFFFF",
+        "#000000",
+        "#3E6382"
+      ],
+      "texts": [
+        "I remember the problem was my Russian.",
+        "Thought I knew Russian well, seems that I didn't know it that well.",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "OSCAR",
+        "ESTONIA",
+        "ENDLA",
+        "КИНО ЕВРОПЫ",
+        "1875-1991",
+        "LUGU",
+        "ELOKUV"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0-5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha ingliskeelsed subtiitrid kaadri allosas, samas kui teistel piltidel subtiitreid ei ole.",
+        "Mehe näoilme ja pilgu suund muutuvad kergelt. Esimesel pildil on ta pilk suunatud allapoole ja veidi vasakule, teisel ja kolmandal pildil aga otse ette, andes edasi otsekohesema ja pingsama ilme."
+      ],
+      "snr": "021",
+      "ajad": [
+        "162.240",
+        "172.600"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud keskealine või vanem mees, kes istub siseruumis raamaturiiulite ees ja räägib. Mees on kaadris keskelt rinnust saati näha, seljas sinise ruudulise mustriga särk ja tumesinine V-kaelusega kampsun, millel on väike tumedam logo (tõenäoliselt polosärk). Tema hallid juuksed on lühikesed ja hoolikalt kammitud. Ta vaatab kaadrist veidi paremale, justkui pöörduks kellegi poole või annaks intervjuud. Taustaks on kaks tumedat halli raamaturiiulit, mis on tihedalt täis raamatuid ja kaustasid. Raamatute seljad on erinevat värvi, näiteks punased, sinised, mustad, valged ja kollased, luues kirju, kuid korrapärase tausta. Vasakpoolsel riiulil on näha ka kaustad või karbid siltidega nagu \"ENDLA\", \"KINOKEHTA\" ja \"RAHVERE\". Ühes pildis on ekraanil näha ka subtiitrid mehe jutu kohta.",
+      "actions": [
+        "Mees istub",
+        "Mees räägib"
+      ],
+      "keywords": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Intervjuu",
+        "Siseruum",
+        "Kinematograafia",
+        "Dokumentaalfilm",
+        "Telesari"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Kampsun",
+        "Särk",
+        "Kaustad",
+        "Sildid"
+      ],
+      "colorcodes": [
+        "#3F474A",
+        "#2C3C5C",
+        "#B0C4DE",
+        "#9B9B9B",
+        "#A63F3F",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "My specialty was documentary and television series cinematography",
+        "THE FILM GUIDE",
+        "Harmony",
+        "THEORY",
+        "ENDLA",
+        "KINOKEHTA",
+        "RAHVERE",
+        "RAVVERE"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil on näha ingliskeelsed subtiitrid (\"My specialty was documentary and television series cinematography\"), mida esimesel pildil ei ole.",
+        "Mehe suu asend on teisel pildil veidi avatud, justkui ta räägiks, samas kui esimesel pildil on suu suletud ja näoilme neutraalsem."
+      ],
+      "snr": "022",
+      "ajad": [
+        "172.600",
+        "179.040"
+      ]
+    },
+    {
+      "explanation": "Stseenis on mustal taustal valge tekst, mis esitab küsimuse. Ülemine tekstirida on eesti keeles: „Miks just dokumentaal?“. Teisel pildil lisandub alumisele reale ingliskeelne tõlge: „Why documentary?“. Tekst on selge ja loetav, asetseb ekraani keskel horisontaalselt. Ümber teksti on suur ala tühja musta ruumi. Kogu stseen on minimalistlik ja keskendub ainult küsimuse esitamisele.",
+      "actions": [
+        "Tekst ilmub ekraanile",
+        "Subtiitrid ilmuvad ekraanile"
+      ],
+      "keywords": [
+        "Tekst",
+        "Küsimus",
+        "Dokumentaal",
+        "Must taust",
+        "Valge kiri",
+        "Subtiitrid",
+        "Ekraan",
+        "Minimalistlik"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Tekst",
+        "Ekraan"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Miks just dokumentaal?",
+        "Why documentary?"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil on esimese pildiga võrreldes lisaks eesti keelsele tekstile juurde lisatud inglise keelne tõlge 'Why documentary?'."
+      ],
+      "snr": "023",
+      "ajad": [
+        "179.040",
+        "181.440"
+      ]
+    },
+    {
+      "explanation": "Pildiseeria kujutab vanemat heledate, helehallide juustega meest, kes istub siseruumis tumedate hallide raamaturiiulite taustal. Mees kannab tumesinist V-kaelusega kampsunit, millel on väike heledam logo, helesinise ruudulise krae ja pluusi peal. Tema näoilme on neutraalne kuni mõtlik ning pilk on suunatud kaamerast veidi eemale või otse ette, viidates vestlusele või intervjuule. Taustaks olevad kaks suurt raamaturiiulit on tihedalt täidetud erinevate raamatute ja mõnede kaustadega. Raamatute seas on mitmeid filmi- ja kunstiteemalisi teoseid. Ühel riiulil on näha ka siniseid ja valgeid kaustu tekstidega \"ENDLA\" ja \"RAKVERE TEATER\". Üldine õhkkond on akadeemiline ja intellektuaalne.",
+      "actions": [
+        "Mees räägib",
+        "Mees istub",
+        "Mees vaatab kaamerast eemale"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Raamatud",
+        "Raamaturiiul",
+        "Dokumentaalfilm",
+        "Filmikriitika",
+        "Siseruum",
+        "Portree",
+        "Akadeemiline",
+        "Mõtlik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kaustad",
+        "Kampsun",
+        "Särk",
+        "Logo"
+      ],
+      "colorcodes": [
+        "#363C42",
+        "#1F2C45",
+        "#88A7D0",
+        "#FFFFFF",
+        "#CEB38A",
+        "#A83236",
+        "#595C5E",
+        "#7D5B48"
+      ],
+      "texts": [
+        "Why documentary?",
+        "I was never that enamored by feature films.",
+        "THE FILM GUIDE",
+        "FILM",
+        "ENDLA",
+        "RAKVERE TEATER",
+        "THE STORY OF CINEMA",
+        "THE CINEMA BOOK",
+        "HARMONY",
+        "GLOBAL ART GUIDE",
+        "MOVIES",
+        "Theory",
+        "KINO",
+        "CINEMA",
+        "ESSE",
+        "Bridge of",
+        "Film",
+        "Cinema Studies"
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaadrite vahel muutuvad ekraanil nähtavad subtiitrid.",
+        "Mehe näoilme ja pilgu suund on kaadrite vahel veidi erinevad, viidates liikumisele kõnelemise ajal."
+      ],
+      "snr": "024",
+      "ajad": [
+        "181.440",
+        "184.600"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud vanemas eas meest heledate hallide juustega, kes kannab musta V-kaelusega kampsunit helesinise mustriga särgi peal. Mees on paigutatud kaadri keskelt veidi vasakule. Tema pilk on suunatud allapoole ja kergelt paremale, andes talle mõtliku või süvenenud ilme. Ta on intervjuul või vestluses, mida viitab teisel pildil olev subtiiter. Taustaks on tihedalt raamatuid täis riiulid, mis viitavad raamatukogule või kodusele kabinetile. Raamatud on erinevates suurustes ja värvides – punased, valged, sinised, pruunid, mustad ja kollased – ning on korralikult riiulitele paigutatud. Riiulite vahel on näha ka mõned valged sildid siniste servadega. Üldine valgustus on pehme ja ühtlane, tuues esile mehe näo ja ümbruse detailid.",
+      "actions": [
+        "Mees räägib või vestleb",
+        "Mees vaatab allapoole"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Raamatukogu",
+        "Raamaturiiul",
+        "Rääkimine",
+        "Dokumentaalfilm",
+        "Raamatud",
+        "Vana mees"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Valged sildid siniste servadega",
+        "Kampsun",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#B0B0B0",
+        "#000000",
+        "#87CEEB",
+        "#4A3A3A",
+        "#B22222",
+        "#F8F8F8",
+        "#FFD700"
+      ],
+      "texts": [
+        "I was always gravitating more towards documentary and real life, rather than these steady and concrete things.",
+        "OSCAR",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "ENDLA",
+        "ESTONIA",
+        "ZILE",
+        "LUGU",
+        "ELOKUVIA",
+        "KINO EUROOPA",
+        "2",
+        "3",
+        "6",
+        "1875-1991"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil on lisaks stseenile ekraani allosas ingliskeelne subtiiter.",
+        "Mehe suu asend on veidi erinev, viidates käimasolevale kõnele esimesel ja teisel hetkel."
+      ],
+      "snr": "025",
+      "ajad": [
+        "184.600",
+        "206.280"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või vanem mees, kes istub siseruumis tumedate raamaturiiulite ees. Mees on kaadri keskmes, kergete hallide juustega, riietatud tumesinisesse V-kaelusega kampsunisse, mille all on helesinine ruuduline särk. Tema pilk on suunatud veidi paremale kaamerast eemale. Mehe taga asuvad massiivsed, tumedad raamaturiiulid on tihedalt täidetud mitmesuguste raamatutega, millel on erinevat värvi kaaned – domineerivad on punased, sinised, valged, mustad ja pruunid toonid. Vasakul pool on näha ka siniseid kaustu sildistega. Stseen on hästi valgustatud pehme valgusega, mis toob esile nii mehe kui ka raamatute detailid. Üldine atmosfäär on akadeemiline või intellektuaalne, viitades intervjuule või vestlusele raamatute keskel.",
+      "actions": [
+        "Mees räägib",
+        "Mees istub"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Raamaturiiulid",
+        "Mees",
+        "Filmid",
+        "Dokumentaalfilmid",
+        "Kultuur",
+        "Siseruum"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kaustad",
+        "Kampsun",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#4D4E53",
+        "#1E2E4A",
+        "#7BA3C6",
+        "#C8A48B",
+        "#A8A8A8",
+        "#CC3B3E",
+        "#517DBA",
+        "#FFFFFF",
+        "#202020",
+        "#967F6D",
+        "#F2A3B3"
+      ],
+      "texts": [
+        "But Estonian documentaries at that time were made at a very high level",
+        "ENDLA",
+        "RAKVERE TEATER",
+        "FILM GUIDE",
+        "THE FILM GUIDE",
+        "THEORY",
+        "FILM",
+        "ART AND CINEMA",
+        "A HISTORY OF CINEMA",
+        "THE CINEMA BOOK",
+        "MOVIES",
+        "WORLD CINEMA"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil on lisatud ingliskeelsed subtiitrid: \"But Estonian documentaries at that time were made at a very high level\".",
+        "Mehe suu asend on esimesel pildil avatum, viidates aktiivsemale kõnelemisele, samas kui teisel pildil on suu veidi suletum, mis võib viidata pausi tegemisele või lause lõpetamisele."
+      ],
+      "snr": "026",
+      "ajad": [
+        "206.280",
+        "214.200"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud vanemat meest hallide juuste ja tõsise ilmega, kes on riietatud musta V-kaelusega kampsunisse sinise mustrilise särgi peal. Mees on kaadri esiplaanil ja vaatab otse kaamerasse, suu on kergelt avatud, mis viitab rääkimisele. Tema taga, nii vasakul kui ka paremal pool, asuvad tumedad raamaturiiulid, mis on täidetud arvukate erisuuruste ja -värviliste raamatutega, luues raamatukogu või isikliku õppekabinetti mulje. Mõned raamatud kannavad nähtavaid pealkirju, mis viitavad kino- või ajalooteemalistele teostele. Valgus on ere ja ühtlane, valgustades nii meest kui ka raamatuid.",
+      "actions": [
+        "Rääkimine",
+        "Vaatamine kaamerasse"
+      ],
+      "keywords": [
+        "Mees",
+        "Vanem mees",
+        "Hallid juuksed",
+        "Raamatukogu",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Intervjuu",
+        "Siseruum",
+        "Dokfilm",
+        "Eesti",
+        "Kvaliteet",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Raamatud",
+        "Raamaturiiulid",
+        "Sinised sildid/etiketid",
+        "Must kampsun",
+        "Sinine särk"
+      ],
+      "colorcodes": [
+        "#282d36",
+        "#74808c",
+        "#7794b6",
+        "#c4a77e",
+        "#a3382c",
+        "#31648a"
+      ],
+      "texts": [
+        "ENDLA",
+        "ESTONIA",
+        "OSCAR Z",
+        "THE FILM GUIDE",
+        "WELLS",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "FILM ENCYCLOPEDIA",
+        "ELOKUVAA",
+        "KИНО ЕВРОПЫ",
+        "HISTORY",
+        "But the quality of Estonian documentaries was top notch."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil on lisaks subtiitrid tekstiga \"But the quality of Estonian documentaries was top notch.\"."
+      ],
+      "snr": "027",
+      "ajad": [
+        "214.200",
+        "228.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil on mustal taustal valge tekst. Ekraani keskel on suuremas kirjas eestikeelne küsimus. Allpool, vasakule joondatult, on sama küsimus inglise keeles. Veelgi allpool, samuti vasakule joondatult, on inglisekeelne vastus küsimusele.",
+      "actions": [
+        "Teksti kuvamine",
+        "Küsimuse esitamine",
+        "Vastuse andmine"
+      ],
+      "keywords": [
+        "must taust",
+        "valge tekst",
+        "küsimus",
+        "vastus",
+        "subtiitrid",
+        "intervjuu",
+        "ekraanitekst"
+      ],
+      "shot_type": "long",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Millised olid suurimad raskused võtetel?",
+        "What were the hardest parts while filming?",
+        "Film gear was fairly clunky at the time."
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil on lisaks küsimustele ka inglisekeelne vastus 'Film gear was fairly clunky at the time.', mis esimesel pildil puudub."
+      ],
+      "snr": "028",
+      "ajad": [
+        "228.000",
+        "230.360"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või vanem mees, kes istub ja räägib. Tal on lühikesed hallid juuksed ja ta kannab tumesinist V-kaelusega džemperit helesinise kraega särgi peal. Džempril on näha väike logo vasakul rinna kõrgusel. Mees vaatab kergelt paremale (vaataja vasakule) ja tema suu on kergelt avatud, mis viitab vestlusele. Tema taga on suur tumedahall raamaturiiul, mis on tihedalt täis raamatuid. Raamaturiiul ulatub pildi servadest välja, andes edasi mulje suurest raamatukogust või akadeemilisest keskkonnast. Raamatud on erinevates suurustes ja värvides, mõned vertikaalselt, mõned horisontaalselt riiulis. Pildi allosas on valge subtiiter.",
+      "actions": [
+        "Mees istub",
+        "Mees räägib"
+      ],
+      "keywords": [
+        "Mees",
+        "Intervjuu",
+        "Raamaturiiul",
+        "Raamatud",
+        "Siseruum",
+        "Akadeemiline",
+        "Vestlus",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiul",
+        "Raamatud",
+        "Džemper",
+        "Särk",
+        "Subtiitrid",
+        "Logo (särgivarrukal)"
+      ],
+      "colorcodes": [
+        "#1E2D4A",
+        "#A9C3E3",
+        "#4F545B",
+        "#FFFFFF",
+        "#C8A28D"
+      ],
+      "texts": [
+        "Film gear was fairly clunky at the time."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehe silmad veidi rohkem avatud ja suu asend erineb minimaalselt teisest pildist.",
+        "Teisel pildil on mehe silmad kergelt rohkem suletud (võimalik, et vilgutab) ja suu asend on samuti pisut muutunud võrreldes esimese pildiga. Need erinevused on väga väikesed ja viitavad video kaadritele."
+      ],
+      "snr": "029",
+      "ajad": [
+        "230.360",
+        "234.160"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha hallijuukseline mees, kes on riietatud tumedasse kampsunisse ja selle all on ruuduline särk. Mehe pilk on suunatud veidi allapoole ja vasakule. Ta asub raamaturiiuli ees, mis on tihedalt täidetud erinevate raamatutega. Raamaturiiul moodustab suurema osa taustast. Ekraani allosas on valged subtiitrid mustal taustal, mis annavad edasi mehe öeldud teksti. Raamaturiiulil on näha nii eestikeelseid kui ka ingliskeelseid ja kirillitsas pealkirjadega raamatuid. Üldmulje on intervjuu või dokfilmilõik raamatukogus või koduses õpikeskkonnas.",
+      "actions": [
+        "Mees räägib (implitsiitselt subtiitrite tõttu)",
+        "Mees vaatab"
+      ],
+      "keywords": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiul",
+        "Intervjuu",
+        "Subtiitrid",
+        "Siseruum",
+        "Hallid juuksed",
+        "Dokumentaalfilm"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiul",
+        "Raamatud",
+        "Kampsun",
+        "Särk",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#24282B",
+        "#A2A7A4",
+        "#CAB8A6",
+        "#975F3C",
+        "#3A4C73",
+        "#FFFFFF",
+        "#4A3C32",
+        "#D2A850",
+        "#C7B4A3"
+      ],
+      "texts": [
+        "Just to record sound you needed to set up a big clunky sync-camera",
+        "ENDLA",
+        "ESTONIA",
+        "1875-1954",
+        "OSCAR Z",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "ALLMOVIE GUIDE",
+        "EPHRAIM KATZ",
+        "ENCYCLOPEDIA",
+        "6",
+        "КИНО ЕВРОПЫ",
+        "ELOKUVAP"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "030",
+      "ajad": [
+        "234.160",
+        "237.960"
+      ]
+    },
+    {
+      "explanation": "Pildid kujutavad vanemat, hallikate juustega meest, kes räägib kaamerasse. Ta istub kahe tumeda raamaturiiuli ees, mis on tihedalt täidetud erinevate raamatutega. Mehel on seljas tumesinine V-kaelusega kampsun, mille all on helesinine kraega särk. Raamaturiiulid on tumedad, tõenäoliselt hallid või mustad, ja raamatud on mitmesuguste värvidega (punased, sinised, rohelised, mustad, valged, kollased), viitades laiale filmikunsti ja teatriga seotud kirjandusele. Taust on kergelt fookusest väljas, tuues esile kõneleja. Ekraani allosas on subtiitrid, mis muutuvad kaadrite vahel.",
+      "actions": [
+        "Mees räägib/kõneleb kaamerasse."
+      ],
+      "keywords": [
+        "Mees",
+        "intervjuu",
+        "raamaturiiul",
+        "raamatud",
+        "filmikunst",
+        "kino",
+        "teater",
+        "vestlus",
+        "siseruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "raamaturiiulid",
+        "raamatud",
+        "kampsun",
+        "särk"
+      ],
+      "colorcodes": [
+        "#3A4C63",
+        "#2E3A42",
+        "#C0D0E0",
+        "#FFFFFF",
+        "#718C9D"
+      ],
+      "texts": [
+        "Just to record sound you needed to set up a big clunky sync-camera.",
+        "That was made soundproof.",
+        "FILM GUIDE",
+        "THE CINEMA BOOK",
+        "EARLY CINEMA",
+        "THEORY",
+        "MOVIES",
+        "THE FILM",
+        "THEORY OF THE",
+        "ESTONIAN CINEMA",
+        "KINEMATOGRAPHIA",
+        "ENDLA",
+        "RAKVERE TEATER",
+        "FILM",
+        "CINEMA"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe suu asend on kaadrites veidi muutunud, mis viitab kõnelemisele.",
+        "Subtiitrite tekst ekraani allosas on erinev: esimesel pildil \"Just to record sound you needed to set up a big clunky sync-camera.\" ja teisel pildil \"That was made soundproof.\""
+      ],
+      "snr": "031",
+      "ajad": [
+        "237.960",
+        "246.720"
+      ]
+    },
+    {
+      "explanation": "Stseenis on keskealine või vanem mees, kellel on hallid juuksed. Ta kannab ruudulist sinist särki ja tumesinist või musta pulloverit või kampsunit. Mees on kaadris keskelt rinnust saati ja vaatab otse ette, näol tõsine ilme. Tema taga on tihedalt raamatuid täis laetud raamaturiiul. Raamatud on erinevates suurustes ja värvitoonides, näiteks punased, pruunid, sinised, mustad ja valged. Mõnel raamatul on nähtavad pealkirjad. Kaadri allosas jooksevad ingliskeelsed subtiitrid, mis viitavad, et mees räägib. Üldine atmosfäär on informatiivne, nagu intervjuu või dokumentaalfilm.",
+      "actions": [
+        "Mees räägib",
+        "Mees on intervjueeritav"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Raamatud",
+        "Raamaturiiul",
+        "Siseruum",
+        "Ekspert",
+        "Dokumentaalfilm",
+        "Hallid juuksed"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiul",
+        "Raamatud",
+        "Särgid",
+        "Pullover",
+        "Sildid raamatutel"
+      ],
+      "colorcodes": [
+        "#344E6A",
+        "#C8C6C4",
+        "#000000",
+        "#A52A2A",
+        "#8B4513",
+        "#ADD8E6",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "That was made soundproof.",
+        "And all of that didn't really make for very operative filming.",
+        "Another limiting factor was very little film stock.",
+        "OSCAR Z",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ ENCYCLOPEDIA",
+        "ENDLA",
+        "ESTONIA",
+        "TELUGU",
+        "ELOKUVAT"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe näoilme muutub kergelt kaadrite vahel, peegeldades erinevaid kõnehetki.",
+        "Subtiitrite tekst muutub iga pildiga, vastavalt mehe jutule."
+      ],
+      "snr": "032",
+      "ajad": [
+        "246.720",
+        "257.680"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud keskealine või vanem mees, kes istub siseruumis raamaturiiulite ees ja paistab rääkivat. Mehel on lühikesed hallid juuksed ja ta kannab tumesinist V-kaelusega kampsunit helesinise ruudulise särgi peal. Tema pilk on suunatud vasakule, justkui vestluspartneri poole, ja tema ilme on mõtlik ning kaasahaarav. Tema parem käsi on kergelt tõstetud ja žestikuleerib, rõhutades räägitavat. Taustaks on kaks suurt tumedat raamaturiiulit, mis on tihedalt täis mitmesuguseid raamatuid – erineva suuruse, värvi ja teemaga, peamiselt filmikunsti ja teooria alaseid. Raamaturiiulid ulatuvad kaadri servadest välja ja loovad intellektuaalse ning teadmisi täis keskkonna. Vasakul servas on näha ka mõned valged arhiivikarbilaadsed esemed, millel on sildid nagu \"ENDLA\" ja \"RAAMATUKOGU\". Kogu stseen on hästi valgustatud, pakkudes selget ja detailirohket pilti.",
+      "actions": [
+        "Istumine",
+        "Rääkimine",
+        "Žestikuleerimine",
+        "Mõtlemine"
+      ],
+      "keywords": [
+        "Mees",
+        "Raamaturiiul",
+        "Raamatud",
+        "Vestlus",
+        "Siseruum",
+        "Kampsun",
+        "Särk",
+        "Intellektuaalne",
+        "Kultuur",
+        "Filmid",
+        "Teadmised"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kampsun",
+        "Särk",
+        "Karp"
+      ],
+      "colorcodes": [
+        "#2E3E4C",
+        "#87AFC7",
+        "#A8AEB2",
+        "#4F5457",
+        "#B72D2D",
+        "#EBEBEB",
+        "#2F3235"
+      ],
+      "texts": [
+        "THE FILM GUIDE",
+        "FILM ENCYCLOPEDIA",
+        "ENDLA",
+        "RAAMATUKOGU",
+        "Harmony",
+        "FILM",
+        "Theory",
+        "early cinema",
+        "The A-Z of CINEMA"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe parem käsi on teisel pildil nähtav, žestikuleerimas.",
+        "Mehe peahoid ja pilk on teisel pildil veidi muutunud, mis viitab liikumisele ja vestlusele."
+      ],
+      "snr": "033",
+      "ajad": [
+        "257.680",
+        "277.360"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha vanemat heledate hallide juustega meest, kes kannab tumesinist V-kaelusega kampsunit helesinise ruudulise särgi peal. Mees on paigutatud kaadrisse nii, et tema ülakeha ja nägu on selgelt nähtavad, ta asub keskel. Tema taga on tihedalt raamatuid täis riiulid, mis ulatuvad kaadri servast servani ja loovad detailirohke tausta. Raamatud on erinevates toonides – pruunid, punased, sinised, valged, mustad ja kollased. Mõned raamatute seljad on ingliskeelsete pealkirjadega, viidates filmiteemalistele teostele. Kaadrite allservas on ingliskeelsed subtiitrid. Valgus on kunstlik ja selge, valgustades hästi nii meest kui ka raamaturiiulit, luues siseruumi atmosfääri.",
+      "actions": [
+        "rääkimine",
+        "vaatamine"
+      ],
+      "keywords": [
+        "intervjuu",
+        "raamatukogu",
+        "raamaturiiul",
+        "vanem mees",
+        "siseruum",
+        "portree",
+        "vestlus",
+        "subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "raamatud",
+        "raamaturiiulid",
+        "särgi krae",
+        "džemper",
+        "sinised vahetükid/sildid raamaturiiulitel"
+      ],
+      "colorcodes": [
+        "#2A2F37",
+        "#A2A7AD",
+        "#4A6E7C",
+        "#A06734",
+        "#7B3E2C",
+        "#D4C3A3",
+        "#0F2A3F"
+      ],
+      "texts": [
+        "OSCAR Z",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ FILM ENCYCLOPEDIA",
+        "ENDLA",
+        "ESTONIA",
+        "1875-1995",
+        "KINO EUROPI",
+        "ELOKUVIA",
+        "Today that is not an issue.",
+        "In those days only a metre was used out of four and a half metres of film."
+      ],
+      "persons": [
+        "vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe näoilme ja suu asend muutuvad kaadrite vahel, mis annab märku, et ta räägib.",
+        "Piltidel on erinevad ingliskeelsed subtiitrid kaadri allservas."
+      ],
+      "snr": "034",
+      "ajad": [
+        "277.360",
+        "308.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat meest, kes istub siseruumides tumeda halli raamaturiiuli ees. Mees on heledate juustega, kannab tumesinist V-kaelusega kampsunit helesinise kraega särgi peal ja tema pilk on suunatud vasakule, andes talle mõtliku või keskendunud ilme. Tema taga on lai ja pikk raamaturiiul, mis on tihedalt täidetud suure hulga raamatute, kaustade ja muude esemetega. Raamatud on erinevates suurustes ja värvides, pakkudes rikkalikku ja intellektuaalset tausta. Ekraanil on näha ingliskeelsed subtiitrid, mis viitavad sellele, et tegemist on intervjuu või dokumentaalkaadriga. Valgus on ühtlane ja pehme, mis viitab kontrollitud keskkonnale, näiteks stuudiole või hästi valgustatud toale. Raamatute rohkus riiulil annab edasi akadeemilise või kultuurilise atmosfääri.",
+      "actions": [
+        "Istub",
+        "Räägib (subtiitrite põhjal)",
+        "Mõtiskleb",
+        "Vaatab vasakule"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Raamaturiiul",
+        "Raamatud",
+        "Siseruum",
+        "Dokumentaalfilm",
+        "Vestlus",
+        "Mõtisklemine",
+        "Õppimine",
+        "Kultuur",
+        "Informatsioon"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kaustad",
+        "Kampsun",
+        "Särk",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#4f5c6b",
+        "#323232",
+        "#8b8c8d",
+        "#b1c1ce",
+        "#ffffff",
+        "#d40000",
+        "#000000",
+        "#233d59"
+      ],
+      "texts": [
+        "In those days only a metre was used out of four and a half metres of film.",
+        "The director and cinematographer needed to know exactly what and for how long they would need to film for.",
+        "Research was very important",
+        "THE CINEMA BOOK",
+        "THEORY",
+        "FILM GUIDE",
+        "MOVIES",
+        "HARMONY",
+        "KINO",
+        "ENDLA",
+        "RAHAVERE TEATER",
+        "EESTI DRAMA",
+        "Eesti"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "low",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel muutuvad ainult ekraanil kuvatavad ingliskeelsed subtiitrid. Mehe asend, näoilme, riietus ja taust, sealhulgas raamaturiiulid, jäävad kõikidel piltidel samaks."
+      ],
+      "snr": "035",
+      "ajad": [
+        "308.640",
+        "318.240"
+      ]
+    },
+    {
+      "explanation": "Pildil on näha vanem hallipäine mees, kes on riietatud tumesinisesse kampsunisse ja helesinisesse ruudulisse särki. Ta vaatab otse ette ja räägib, suu on kergelt avatud. Mehe taga on kaks suurt raamaturiiulit, mis on täis erinevaid raamatuid. Vasakpoolsel riiulil on näha siniste vahelehtedega raamatuid, millel on kirjas \"ENDLA\" ja \"ESTONIA\". Parempoolsel riiulil on ingliskeelsed filmiteemalised raamatud, sealhulgas \"OSCAR Z\", \"THE FILM GUIDE\", \"HALLIWELLS THE MOVIE BOOK\" ja \"EPHRAIM KATZ FILM ENCYCLOPEDIA\". Samuti on seal mõned venekeelsed raamatud (\"КИНО ЕВРОПЫ\") ja soomekeelsed raamatud (\"ELOKUVIA\"). Alumine osa on täidetud samuti raamatutega, mis on erinevates suurustes ja värvides. Pildi allosas on näha ingliskeelne subtiiter: \"Research was very important.\"",
+      "actions": [
+        "Rääkimine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Raamatukogu",
+        "Mees",
+        "Raamatud",
+        "Uurimistöö",
+        "Subtiitrid",
+        "Filmientsüklopeedia",
+        "Kogemused"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Särk",
+        "Kampsun",
+        "Sinised vahelehed",
+        "Subtiiter"
+      ],
+      "colorcodes": [
+        "#4a4a4a",
+        "#c0c0c0",
+        "#5d5a73",
+        "#a8724d",
+        "#1a436e",
+        "#f0f0f0",
+        "#2d508e",
+        "#c4b78c"
+      ],
+      "texts": [
+        "OSCAR Z",
+        "THE FILM GUIDE",
+        "HALLIWELLS THE MOVIE BOOK",
+        "EPHRAIM KATZ FILM ENCYCLOPEDIA",
+        "ENDLA",
+        "ESTONIA",
+        "KIN",
+        "КИНО ЕВРОПЫ",
+        "ELOKUVIA",
+        "Research was very important."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 10,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pildid on praktiliselt identsed videokaadrid, näidates minimaalseid või olematuid erinevusi."
+      ],
+      "snr": "036",
+      "ajad": [
+        "318.240",
+        "322.160"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanem mees, kes istub siseruumides ja räägib, tõenäoliselt intervjuu või vestluse käigus. Mehel on lühikesed heledad, peaaegu hallid juuksed. Ta kannab tumesinist V-kaelusega kampsunit, mille all on helesinine nööpidega särk. Mehe pilk on suunatud kaadrist vasakule, justkui räägiks ta nähtamatu vestluspartneriga. Tema selja taga on kaks laia tumedat raamaturiiulit, mis on tihedalt täidetud väga erinevate raamatutega. Raamatud on varieeruva suuruse ja värviga – näha on nii punaseid, siniseid, valgeid kui ka musti köiteid. Vasakul riiuli osas on näha ka mõned valged ja sinised kaustad. Valgus on ühtlane ja ere, mis valgustab stseeni hästi. Üldine atmosfäär on akadeemiline ja intellektuaalne.",
+      "actions": [
+        "Rääkimine",
+        "Žestikuleerimine"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Vestlus",
+        "Raamatud",
+        "Raamaturiiul",
+        "Mees",
+        "Siseruum",
+        "Akadeemiline",
+        "Kampsun",
+        "Särk"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kaustad",
+        "V-kaelusega kampsun",
+        "Nööpidega särk"
+      ],
+      "colorcodes": [
+        "#2E2E2E",
+        "#2A3C52",
+        "#87AFC7",
+        "#A8A8A8",
+        "#C8A48A",
+        "#A72B2B",
+        "#4E6B90",
+        "#EFEFEF"
+      ],
+      "texts": [
+        "THE FILM GUIDE",
+        "THE FILM ENCYCLOPEDIA",
+        "HISTORY OF CINEMA",
+        "MOVIE",
+        "THEORY",
+        "ENOLA",
+        "RAAVERSE",
+        "And they followed closely how the film was coming along."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on mehe käed kaadri allpool ega ole nähtavad, ilmselt on need rahulikult paigal. Teisel pildil on mehe parem käsi tõstetud ja ta žestikuleerib aktiivselt rääkimise käigus.",
+        "Teisel pildil on lisatud subtiitrid tekstiga \"And they followed closely how the film was coming along.\", mis esimesel pildil puuduvad."
+      ],
+      "snr": "037",
+      "ajad": [
+        "322.160",
+        "330.400"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha vanem hallipäine mees, kes istub siseruumis, ilmselt raamatukogus või kabinetis, mille taustaks on tihedalt raamatuid täis riiulid. Mees kannab sinise ruudulise särgi peal tumesinist või musta kampsunit. Tema pilk on suunatud otse kaamerasse või veidi allapoole. Tema näoilme on tõsine ja keskendunud, kui ta räägib. Tema suu on avatud, viidates käimasolevale kõnele. Taustal on tumedad raamaturiiulid, mis on täidetud erinevas suuruses ja värvitoonides raamatutega. Riiulitel on näha nii inglise kui ka vene keeles pealkirju, mis viitavad filmindusele ja kultuurile. Mõnedel riiulitel on ka sinised raamatuhoidjad või -ümbrised. Valgus on ühtlane ja tekitab akadeemilise ning rahumeelse atmosfääri. Stseen on detailirohke, pakkudes sissevaadet intellektuaalsesse keskkonda.",
+      "actions": [
+        "Mees räägib",
+        "Mees annab intervjuud"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Raamatud",
+        "Raamaturiiul",
+        "Raamatukogu",
+        "Subtiitrid",
+        "Akadeemiline",
+        "Siseruum",
+        "Hallipäine",
+        "Kampsun"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Sinised raamatuhoidjad",
+        "Ruuduline särk",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#D9D9D9",
+        "#467198",
+        "#1A1A1A",
+        "#332B25",
+        "#E8DBC9",
+        "#4A3B30",
+        "#A11D1D",
+        "#E1E1E1",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "And they followed closely how the film was coming along.",
+        "When the film was more or less finished, the editors and chief editor examined the film.",
+        "OSCAR Z",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "KINÕ EPOCHÕ",
+        "ENDLA",
+        "ESTONIA",
+        "1875-1991"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe suu asend on veidi erinev, peegeldades käimasoleva kõne erinevaid faase.",
+        "Subtiitrite tekst on erinev, edastades mehe kõne järgnevaid lauseid."
+      ],
+      "snr": "038",
+      "ajad": [
+        "330.400",
+        "341.440"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha vanem mees, kes istub siseruumis ja räägib. Ta kannab tumesinist V-kaelusega kampsunit helesinise kraega särgi peal. Tema lühikesed hallid juuksed on korralikult kammitud. Mees vaatab veidi paremale (vaataja vasakule) ja tema suu on avatud, mis viitab käimasolevale kõnele. Ta on paigutatud kaadri keskele, võttes enda alla suurema osa keskmisest ja alumisest osast. Tema taga on kaks suurt tumedaid riiulit, mis on tihedalt täidetud raamatutega. Raamatud on erinevates suurustes ja värvides, pakkudes rikkalikku visuaalset tekstuuri. Riiulite vasakul poolel on näha ka mõned sinakasvalged kaustad või karbid. Stseeni valgustus on pehme ja ühtlane, tuues mehe näo esile. Pildil on tekstina lisatud subtiitrid, mis edastavad mehe jutustust filmi toimetamisprotsessist ja sellest, kuidas teatud osad eemaldati. Mees viitab oma käega kergelt teises kaadris, rõhutades oma sõnu.",
+      "actions": [
+        "Mees räägib ja selgitab",
+        "Mees žestikuleerib kergelt (teine kaader)"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Raamatukogu",
+        "Mees",
+        "Raamaturiiulid",
+        "Filmitöötlus",
+        "Siseruum",
+        "Kõne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Kampsun",
+        "Särk",
+        "Kaustad"
+      ],
+      "colorcodes": [
+        "#1A283B",
+        "#9FC5E8",
+        "#3A3F44",
+        "#A52A2A",
+        "#8B4513",
+        "#000000",
+        "#FFFFFF",
+        "#FFD700",
+        "#4682B4",
+        "#228B22"
+      ],
+      "texts": [
+        "When the film was more or less finished, the editors and chief editor examined the film.",
+        "Why is this here?",
+        "This doesn't belong at all!",
+        "It needed to be cut out.",
+        "THE FILM GUIDE",
+        "THE FILM ENCYCLOPEDIA",
+        "THE CINEMA BOOK",
+        "WORLD ART GUIDE",
+        "THEORY",
+        "MOVIES",
+        "ENDLA",
+        "RAKVERE RAEVER"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10-15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst muutub vastavalt mehe jutule.",
+        "Mehe suu asend ja näoilme varieeruvad kergelt rääkimise käigus.",
+        "Teises kaadris on näha mehe kätt, mis teeb kerge žesti (näpuga osutamine), samas kui esimeses ja kolmandas kaadris on käed pildist väljas."
+      ],
+      "snr": "039",
+      "ajad": [
+        "341.440",
+        "358.120"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanem mees, hallide juuste ja heleda nahaga, kes räägib kaamera poole. Tal on seljas ruuduline helesinine särk, mille peal on tume V-kaelusega kampsun. Ta on kadris veidi vasakule nihutatud. Mees räägib tõsise ja mõtliku ilmega, avades aeg-ajalt suud. Tema taga on suur puidust raamaturiiul, mis on tihedalt täidetud erinevate raamatutega. Raamatute seas on mitmeid ingliskeelseid filmijuhte ja entsüklopeediaid, aga ka eestikeelseid teoseid, näiteks 'EESTI' ja 'ENDLA'. Riiulitel on näha ka siniseid sildihoidjaid. Valgustus on pehme ja ühtlane, viitades siseruumile ja kontrollitud võttekeskkonnale. Ekraani allosas jooksevad valged subtiitrid mustal taustal, mis annavad edasi mehe juttu tsensuurist ja ideoloogilisest survest.",
+      "actions": [
+        "Mees räägib/annab intervjuud"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Rääkiv mees",
+        "Raamaturiiul",
+        "Raamatud",
+        "Sisetseen",
+        "Dokumentaalfilm",
+        "Tsensuur",
+        "Ideoloogia"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiul",
+        "Raamatud",
+        "Särk",
+        "Kampsun",
+        "Sildihoidjad",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#AAAAAA",
+        "#C9A48C",
+        "#5F8FBF",
+        "#2D4C6F",
+        "#2A2A2A",
+        "#7A5B3D",
+        "#8B2C2D",
+        "#3E5A8E",
+        "#FFFFFF",
+        "#1C1C1C",
+        "#6A4A2F",
+        "#000000"
+      ],
+      "texts": [
+        "It needed to be cut out.",
+        "Ideological pressures were present.",
+        "But on one hand it made the director think harder, how to hide an idea between the frames",
+        "OSCAR 7",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "ENCYCLOPEDIA",
+        "6",
+        "ESTONIA",
+        "ENDLA",
+        "1875-1991",
+        "FILMI TEGIJAD",
+        "KINO EUROPE",
+        "ELOKEVI"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevad subtiitrid kajastavad mehe jutu eri osi: esimesel pildil \"It needed to be cut out.\", teisel pildil \"Ideological pressures were present.\" ja kolmandal pildil \"But on one hand it made the director think harder, how to hide an idea between the frames\".",
+        "Mehe näoilme ja suu asend muutuvad kergelt vastavalt jutule, suu on kord rohkem, kord vähem avatud.",
+        "Mehe pilk varieerub kergelt, kolmandal pildil tundub ta vaatavat veidi ülespoole."
+      ],
+      "snr": "040",
+      "ajad": [
+        "358.120",
+        "364.160"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine või vanem mees, kes istub siseruumis raamatutest ümbritsetud tumedate riiulite ees. Ta on riietatud tumesinisesse kampsunisse, mille all on helesinine kraega särk. Mehel on lühikesed hallid juuksed ja ta vaatab kaamerast veidi paremale poole, justkui rääkides kellegagi või andes intervjuud. Tema suu on kergelt avatud, mis viitab kõnelemisele, mida toetavad ka ekraani alaosas kuvatavad subtiitrid. Tagaplaanil olevad raamaturiiulid on tihedalt täidetud erinevas suuruses ja värvitoonis raamatutega, andes stseenile intellektuaalse ja teadmisi väärtustava õhustiku. Riiulite vasakus servas on näha ka mõned valged kaustad siltidega. Üldine valgustus on ühtlane ja pehme, luues rahuliku keskkonna.",
+      "actions": [
+        "Mees istub",
+        "Mees räägib",
+        "Mees vaatab kaamerast veidi kõrvale"
+      ],
+      "keywords": [
+        "intervjuu",
+        "raamatukogu",
+        "raamaturiiulid",
+        "mees",
+        "kõnelemine",
+        "haridus",
+        "kultuur",
+        "filmikunst"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "raamaturiiulid",
+        "raamatud",
+        "valged kaustad",
+        "mehe kampsun",
+        "mehe särk"
+      ],
+      "colorcodes": [
+        "#1C2B3A",
+        "#87CEEB",
+        "#C0C0C0",
+        "#4A4A4A",
+        "#FFFFFF",
+        "#FFD700",
+        "#FF0000"
+      ],
+      "texts": [
+        "But on one hand it made the director think harder, how to hide an idea between the frames.",
+        "THE FILM GUIDE",
+        "FILM ENCYCLOPEDIA",
+        "THE CINEMA BOOK",
+        "HARMONY",
+        "WORLD CINEMA",
+        "MOVIES",
+        "RAKVERE TEATER",
+        "ENDLA",
+        "Theory",
+        "History"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe suu asend on piltidel kergelt erinev, viidates kõnelemise ajal toimunud väikesele liigutusele."
+      ],
+      "snr": "041",
+      "ajad": [
+        "364.160",
+        "369.320"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine kuni vanem mees, kellel on lühikesed hallid juuksed. Ta kannab tumedat kampsunit või kardigani helesinise ruudulise või mustrilise särgi peal. Mees on suunaga kaamerast veidi vasakule ja räägib, tema suu on kergelt avatud. Tema näoilme on tõsine ja keskendunud. Tema taga on kaks suurt raamaturiiulit, mis on täidetud tihedalt erinevates värvides raamatutega. Vasakpoolsel riiulil on raamatuid punaste, valgete, pruunide ja siniste selgadega, mõnel on näha tekste nagu \"ENDLA\" ja \"ESTONIA\". Parempoolsel riiulil on raamatute selgadel näha ingliskeelseid pealkirju nagu \"OSCAR 7\", \"THE FILM GUIDE\", \"THE MOVIE BOOK\" ja \"EPHRAIM KATZ FILM ENCYCLOPEDIA\", samuti mõned raamatud kirillitsas, näiteks \"КИНО ЕВРОПЫ\". Ruumi valgustus on ere, viidates siseruumis toimuvale intervjuule või esitlusele. Teisel pildil on lisaks ingliskeelsed subtiitrid, mis kuvavad mehe öeldud lauset.",
+      "actions": [
+        "Mees räägib",
+        "Mees vaatab kaamerast veidi kõrvale"
+      ],
+      "keywords": [
+        "Mees",
+        "Raamatukogu",
+        "Raamatud",
+        "Intervjuu",
+        "Siseruum",
+        "Hallid juuksed",
+        "Kampsun",
+        "Riiulid",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kampsun",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#5B8BAA",
+        "#9B3D3B",
+        "#FFFFFF",
+        "#4F5E8E",
+        "#C38B4B",
+        "#2C2C2C"
+      ],
+      "texts": [
+        "ENDLA",
+        "ESTONIA",
+        "1875-1991",
+        "OSCAR 7",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "FILM ENCYCLOPEDIA",
+        "6",
+        "КИНО ЕВРОПЫ",
+        "Which nowadays isn't necessary at all. Everything can be said bluntly."
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil on ekraanile lisatud ingliskeelsed subtiitrid.",
+        "Mehe näoilmes ja suu asendis on kerge muutus, mis viitab käimasolevale kõnele või liikumisele kaadrite vahel."
+      ],
+      "snr": "042",
+      "ajad": [
+        "369.320",
+        "374.640"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või vanem mees, kes istub siseruumis ja vaatab kaamerast veidi paremale. Ta on riietatud tumesinisesse V-kaelusega kampsunisse, mille all on helesinine nööbist kraega särk. Mehel on lühikesed heledad juuksed ja ta näib mõtlik. Tema taga on kaks suurt tumeda riiuliga raamaturiiulit, mis on täis mitmesuguseid raamatuid ja mõned kaustad. Raamatud on erinevates värvides ja suurustes, paljudel on näha ingliskeelseid pealkirju, mis viitavad filmi- või akadeemilisele sisule, näiteks „THE FILM GUIDE“, „THE FILM ENCYCLOPAEDIA“, „THE CINEMA BOOK“, „HARMONY“, „THEORY“. Vasakul riiulil on ka siniseid kaustu sildistega nagu „ENDLA“, „KINOHROONIKA“ ja „RAVERRE TEATER“. Valgus on pehme ja ühtlane, viitades siseruumile. Teisel pildil on lisaks stseenile ka valged subtiitrid mustal taustal, mis annavad edasi mehe öeldud teksti.",
+      "actions": [
+        "Mees istub",
+        "Mees räägib (subtiitrite põhjal)"
+      ],
+      "keywords": [
+        "intervjuu",
+        "raamatukogu",
+        "filmiraamatud",
+        "intellektuaal",
+        "sisetsoon",
+        "vestlus",
+        "mõtlik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "raamaturiiulid",
+        "raamatud",
+        "kaustad",
+        "kampsun",
+        "särk"
+      ],
+      "colorcodes": [
+        "#404040",
+        "#2F3B4B",
+        "#7D90A5",
+        "#D3D3D3",
+        "#E0E0E0",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "THE FILM GUIDE",
+        "THE FILM ENCYCLOPAEDIA",
+        "THE CINEMA BOOK",
+        "HARMONY",
+        "THEORY",
+        "ENDLA",
+        "KINOHROONIKA",
+        "RAVERRE TEATER",
+        "Those days you always needed a little censor in the back of your mind.",
+        "What can be put in the film and what can't."
+      ],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil on lisatud valged subtiitrid mustal taustal ekraani allosas, mis annavad edasi mehe öeldud teksti."
+      ],
+      "snr": "043",
+      "ajad": [
+        "374.640",
+        "376.240"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine või vanem mees, halli juuksevärviga, kes kannab sinise ruudulise mustriga särki ja tumesinist kampsunit. Ta istub siseruumis raamaturiiulite ees, mis on tihedalt täidetud erinevate raamatutega. Raamatud on erinevates toonides, valdavalt tumesinised, pruunid ja punased. Vasakul riiulil on näha silte tekstidega nagu \"ENDLA\" ja \"ESTONIA\" ning kuupäevi nagu \"1875-1991\". Paremal riiulil on ingliskeelsed filmiteemalised raamatud, millel on pealkirjad nagu \"OSCAR Z\", \"THE FILM GUIDE\", \"THE MOVIE BOOK\" ja \"EPHRAIM KATZ FILM ENCYCLOPEDIA\", samuti \"ELOKUV\". Mõlemal raamaturiiulil on ka sinise raamiga sildihoidjaid. Mees on kaadris rinnuni ja räägib, olles suunaga kergelt paremale kaamerast eemale. Piltidel on näha ingliskeelsed subtiitrid, mis edastavad tema jutustatud mõtteid tsensuurist filminduses ja selle mõjust filmidele.",
+      "actions": [
+        "Mees räägib"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Raamatukogu",
+        "Raamaturiiul",
+        "Mees",
+        "Film",
+        "Tsensuur",
+        "Siseruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Raamatud",
+        "Raamaturiiulid",
+        "Silt",
+        "Särk",
+        "Kampsun",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#2A3644",
+        "#B0B0B0",
+        "#8C4E3D",
+        "#FFFFFF",
+        "#BF9C85"
+      ],
+      "texts": [
+        "Those days you always needed a little censor in the back of your mind.",
+        "What can be put in the film and what can't.",
+        "In some ways that made the film even more interesting.",
+        "ENDLA",
+        "ESTONIA",
+        "1875-1991",
+        "OSCAR Z",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ FILM ENCYCLOPEDIA",
+        "ELOKUV"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe näoilme ja suu asend varieeruvad piltide vahel, peegeldades erinevaid hetki tema kõnest (räägib, paus, räägib).",
+        "Alati kuvatud ingliskeelsed subtiitrid muutuvad vastavalt tema öeldule."
+      ],
+      "snr": "044",
+      "ajad": [
+        "376.240",
+        "380.920"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha vanemat heledate juustega meest, kes istub ja räägib kaamera ees. Tema taga on sügavhallid raamaturiiulid, mis on tihedalt täidetud raamatutega. Paljud raamatud näivad olevat filmi- ja kunstiteemalised. Vasakul riiuli ääres on virn siniseid arhiivikaustu, millel on sildid nagu „ENDLA“ ja „RAKVERE TEATER“. Mees kannab tumesinist V-kaelusega kampsunit helesinise särgi peal. Tema ilme on tõsine ja keskendunud. Valgustus on ühtlane, mis viitab siseruumile ja võimalikule stuudiokeskkonnale. Mehel on kaelal näha mikrofonijuhet, mis viitab intervjuule või salvestusele.",
+      "actions": [
+        "Mees räägib",
+        "Mees žestikuleerib (teisel pildil)",
+        "Mees istub"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Raamatukogu",
+        "Filmid",
+        "Ajalugu",
+        "Kultuur",
+        "Siseruum",
+        "Raamaturiiul"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Arhiivikaustad",
+        "Särk",
+        "Kampsun",
+        "Mikrofonijuhe"
+      ],
+      "colorcodes": [
+        "#414242",
+        "#1D2D44",
+        "#6691B4",
+        "#C4A283",
+        "#A0A0A0",
+        "#D3CFCB"
+      ],
+      "texts": [
+        "THE FILM GUIDE",
+        "THE ENCYCLOPEDIA",
+        "HISTORY OF CINEMA",
+        "THE CINEMA BOOK",
+        "GLOBAL ART CINEMA",
+        "MOVIES",
+        "THEORY",
+        "KINO EUROOPA",
+        "ENDLA",
+        "RAKVERE TEATER",
+        "In some ways that made the film even more interesting.",
+        "That there were things hidden that the censor couldn't easily pinpoint."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe parema käe asend on muutunud: esimesel pildil on käed all, teisel pildil on parem käsi tõstetud ja žestikuleerib avatud peopesaga.",
+        "Subtiitrite tekst on muutunud, kajastades edasist juttu."
+      ],
+      "snr": "045",
+      "ajad": [
+        "380.920",
+        "390.960"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine kuni vanem mees, kes räägib ja žestikuleerib elavalt. Tal on heledad hallid juuksed, helesinine ruuduline särk ja tume kampsun. Ta on kaadrisse võetud keskmises lähivaates, mis toob esile tema näoilme ja ülakeha. Mehe taustaks on täidetud raamaturiiulid, mis on tihedalt raamatuid täis. Raamaturiiulid on pruunika puidu imitatsiooniga ning riiulitel on näha erineva suuruse, värvi ja keelega raamatuid, mis viitavad laiale teemaderingile, sh filmikunstile ja ajaloole. Paremal pool on näha tumedam raamaturiiul, millel on peamiselt tumesinised ja valged raamatud. Vasakpoolsel riiulil on rohkem punaseid ja heledamaid raamatuid. Stseeni allosas on ingliskeelsed subtiitrid, mis edastavad mehe juttu tsensuurist ja peidetud tähendustest. Üldmulje on informatiivne ja intellektuaalne, justkui intervjuu või vestlus raamatukogu või isikliku kabineti keskkonnas.",
+      "actions": [
+        "rääkimine",
+        "žestikuleerimine",
+        "mõtete väljendamine"
+      ],
+      "keywords": [
+        "intervjuu",
+        "mees",
+        "raamatukogu",
+        "raamaturiiulid",
+        "kõnelemine",
+        "sisevõte",
+        "tsensuur",
+        "intellektuaalne",
+        "lugemine",
+        "filmiraamatud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "raamatud",
+        "raamaturiiulid",
+        "särk",
+        "kampsun"
+      ],
+      "colorcodes": [
+        "#B3B7B9",
+        "#87A3B7",
+        "#1D242D",
+        "#6E492B",
+        "#8B2C2A",
+        "#A1B6B2",
+        "#1C273D",
+        "#F5E8D8",
+        "#4B5A69",
+        "#1E283A",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "That there were things hidden, that the censor couldn't easily pinpoint.",
+        "But they were there. You could grasp it, but maybe not.",
+        "OSCAR Z",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "FILM ENCYCLOPEDIA",
+        "ESTONIA",
+        "ENDLA",
+        "ELOKUV",
+        "BACH"
+      ],
+      "persons": [
+        "vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe näoilme ja suu asend on veidi erinevad, kuna ta on jutu keskel.",
+        "Mehe käsi on esimesel pildil rusikas ja suunatud ettepoole, teisel pildil on see veidi avatumalt teises asendis, jätkates žestikuleerimist.",
+        "Subtiitrite tekst on muutunud, peegeldades jutu jätkumist."
+      ],
+      "snr": "046",
+      "ajad": [
+        "390.960",
+        "393.280"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine mees, kes istub raamaturiiulite ees ja räägib. Ta on paigutatud kaadri keskossa, vaatab veidi kaamerast paremale, justkui pöördudes intervjueerija poole. Mehel on seljas tumesinine V-kaelusega kampsun, mille all paistab helesinine kraega särk. Tal on lühikesed hallid juuksed ja hele nahk. Tema näoilme on mõtlik ja rahulik. Taustaks on lai ja kõrge tumedast hallist materjalist raamaturiiul, mis on täidetud suure hulga raamatutega. Raamatute seljad on erinevat värvi – valged, punased, mustad, sinised, rohelised ja roosad – ning neil on näha mitmesuguseid pealkirju nii inglise, eesti kui ka vene keeles. Vasakul on näha ka kaustad või karbid, millel on kirjad nagu „ENDLA“ ja „RAKVERE TEATER“. Stseen on valgustatud ühtlaselt ja pehmelt, luues rahuliku ja akadeemilise atmosfääri. Kaadri allosas on näha inglisekeelsed subtiitrid.",
+      "actions": [
+        "Mees räägib",
+        "Mees istub",
+        "Mees vaatab kaamerast eemale paremale"
+      ],
+      "keywords": [
+        "intervjuu",
+        "raamaturiiul",
+        "raamatud",
+        "mees",
+        "kampsun",
+        "särk",
+        "akadeemiline",
+        "siseruum"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "raamaturiiulid",
+        "raamatud",
+        "kampsun",
+        "särk",
+        "prillid (taskus/rinnas)",
+        "kaustad/karbid"
+      ],
+      "colorcodes": [
+        "#404040",
+        "#304C69",
+        "#98B4C2",
+        "#FFFFFF",
+        "#FF0000",
+        "#000000",
+        "#7D8C96"
+      ],
+      "texts": [
+        "But they were there.",
+        "You could grasp it, but maybe not.",
+        "At the same time the director can say what he needs to.",
+        "THE FILM GUIDE",
+        "THE CINEMA BOOK",
+        "HARMONY",
+        "ENDLA",
+        "RAKVERE TEATER",
+        "КИНО ЕВРОПЫ"
+      ],
+      "persons": [
+        "täiskasvanud mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst on erinev.",
+        "Mehe näoilme ja suu asend on veidi muutunud, viitades jätkuvale kõnele.",
+        "Mehe parem käsi (mille väike osa on näha) on veidi muutnud asendit."
+      ],
+      "snr": "047",
+      "ajad": [
+        "393.280",
+        "400.000"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb kolmest järjestikusest mustal taustal kuvatud tekstikaardist. Ekraani keskel on valges kirjas küsimus eesti keeles: \"Kuidas on Eesti dokumentaal-filmid aja jooksul muutunud?\" See küsimus püsib kõikidel kaartidel muutumatuna. Esimesel kaardil on ainult eestikeelne küsimus. Teisel kaardil lisandub eestikeelsele küsimusele valge ingliskeelne subtiiter, mis tõlgib küsimuse. Kolmandal kaardil on eestikeelse küsimuse all ingliskeelne tekst, mis pakub vastuse või kommentaari esitatud küsimusele. Taust on ühtlaselt must ja tekst on valge, mis tagab hea kontrasti ja loetavuse. Stseen annab edasi informatsiooni küsimuse-vastuse formaadis.",
+      "actions": [
+        "Teksti kuvamine",
+        "Subtiitrite ilmumine"
+      ],
+      "keywords": [
+        "tekstikaart",
+        "küsimus",
+        "vastus",
+        "eesti dokumentaalfilmid",
+        "ajalugu",
+        "filmitehnika",
+        "must taust",
+        "valge tekst",
+        "subtiitrid",
+        "informatsioon"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "tekst",
+        "ekraan"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Kuidas on Eesti dokumentaal-filmid aja jooksul muutunud?",
+        "How have Estonian documentaries changed over time?",
+        "The biggest change, that's happened nowadays, is definitely the development in film tech."
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pildil 1 on ainult eestikeelne küsimus. Pildil 2 on lisaks eestikeelsele küsimusele ka ingliskeelne tõlge küsimusest. Pildil 3 on eestikeelse küsimuse all ingliskeelne vastus või kommentaar küsimusele. Eesti küsimus jääb kõikidel piltidel samaks."
+      ],
+      "snr": "048",
+      "ajad": [
+        "400.000",
+        "402.360"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha vanemat hallipäist meest, kes istub siseruumis raamatukogu või isikliku kabineti ees. Tema taga on tumesinised riiulid, mis on tihedalt täidetud raamatutega, millest paljud näivad olevat filmi- ja kinoteemadega seotud. Mees kannab tumesinist V-kaelusega kampsunit ja helesinist kraega särki. Ta vaatab kaamerast veidi vasakule, justkui vesteldes kellegagi väljaspool kaadrit. Tema nägu on keskendunud ja suu on avatud, mis viitab kõnelemisele. Piltide allservas on ingliskeelsed subtiitrid, mis edastavad tema öeldut.",
+      "actions": [
+        "Mees räägib",
+        "Mees istub"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Raamatukogu",
+        "Filmid",
+        "Mees",
+        "Kõnelemine",
+        "Siseruum",
+        "Ekspert"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kampsun",
+        "Särk",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#2C3540",
+        "#404A4D",
+        "#FFFFFF",
+        "#D2AE70",
+        "#8B7459",
+        "#3E506F"
+      ],
+      "texts": [
+        "The biggest change, that's happened nowadays, is definitely the development in film tech.",
+        "It's changed filmmaking for sure.",
+        "FILM GUIDE",
+        "THE FILM ENCYCLOPEDIA",
+        "THE CINEMA BOOK",
+        "HARMONY",
+        "GLOBAL ART CINEMA",
+        "MOVIES",
+        "THEORY",
+        "КИНО",
+        "RAKVERE TEATER",
+        "ENDLA"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe suu asend muutub piltide vahel, mis peegeldab kõnelemise faase.",
+        "Subtiitrite tekst muutub esimesest ja teisest pildist kolmandasse pilti."
+      ],
+      "snr": "049",
+      "ajad": [
+        "402.360",
+        "409.840"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud vanemat meest, umbes 60-70-aastast, hallide juustega, kes räägib. Ta on paigutatud kaadri alaossa ja vaatab otse kaamerasse. Mehel on seljas tume sinine või must V-kaelusega kampsun helesinise ruudulise särgi peal. Tema näoilme viitab jutustamisele või selgitamisele. Taustal on raamaturiiulid, mis on täidetud paljude raamatutega, andes stseenile raamatukogu, arhiivi või õppimisruumi miljöö. Valgustus tundub olevat kunstlik ja suunatud mehele. Piltide all on valged subtiitrid mustal ribal.",
+      "actions": [
+        "Mees räägib"
+      ],
+      "keywords": [
+        "Mees",
+        "Intervjuu",
+        "Vestlus",
+        "Raamatukogu",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Siseruum",
+        "Hallid juuksed",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Vanem mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kampsun",
+        "Särk",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#1E252F",
+        "#6F98C0",
+        "#B3B9BD",
+        "#C8A48B",
+        "#2A4C84",
+        "#A12B26",
+        "#E0DEDD",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Because no longer is the amount of film stock a limit.",
+        "The only limit is the directors mind.",
+        "THE FILM GUIDE",
+        "OSCAR Z",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "ENDLA",
+        "ESTONIA",
+        "ZILLI",
+        "MINU LUGU",
+        "1875-1991",
+        "КИНО ЕВРОПЫ",
+        "ELOPEK"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst on erinev: esimesel pildil on \"Because no longer is the amount of film stock a limit.\", teisel pildil on \"The only limit is the directors mind.\"",
+        "Mehe suu asend ja näoilme on veidi muutunud, mis viitab kõnelemisele ja liikumisele pildi hetkede vahel."
+      ],
+      "snr": "050",
+      "ajad": [
+        "409.840",
+        "414.480"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanemat meest, kellel on lühikesed hallid juuksed, kes kannab tumesinist V-kaelusega kampsunit helesinise kraesärgi peal. Mees istub, suunaga kergelt paremale, ja vaatab otse kaamerasse, ilmselt intervjuu andmise käigus. Taustal on suur tumesinine või tumehall raamaturiiul, mis on tihedalt täidetud erinevate filmiteemaliste raamatute ja kaustadega. Valgustus on ühtlane ja professionaalne, viidates siseruumis tehtud videole. Mees on keskendunud ja räägib, kasutades vahelduvaid käeasendeid ja näoilmeid, mis edastavad jutustamisrõõmu või mõtisklemist. Subtiitrid ilmuvad ekraani alaosas, pakkudes tema öeldut inglise keeles.",
+      "actions": [
+        "Mees räägib",
+        "Mees žestikuleerib",
+        "Mees istub"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Raamaturiiul",
+        "Raamatud",
+        "Filmiteadus",
+        "Ajalugu",
+        "Siseruum",
+        "Jutustamine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiul",
+        "Raamatud",
+        "Kaustad",
+        "Särk",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#3F474C",
+        "#232F41",
+        "#9CC2E4",
+        "#8F9CA4",
+        "#B3B7BB"
+      ],
+      "texts": [
+        "The only limit is the directors mind",
+        "When back then you had to go filming with a huge sync-camera, that was all laid out in several boxes.",
+        "THE FILM GUIDE",
+        "THE FILM ENCYCLOPEDIA",
+        "RAKVERE",
+        "ENDLA",
+        "THE CINEMA BOOK",
+        "A HISTORY OF FILM",
+        "HISTORY OF CINEMA",
+        "THEORY"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst on erinev: esimesel pildil on 'The only limit is the directors mind', teisel pildil on 'When back then you had to go filming with a huge sync-camera, that was all laid out in several boxes.'",
+        "Mehe käte asend on erinev: esimesel pildil on parem käsi tõstetud ja žestikuleerimas, samas kui teisel pildil on mõlemad käed allpool, parem käsi toetub vasakule käsivarrele.",
+        "Mehe suu asend on erinev: esimesel pildil on suu kergelt avatud või just avanemas, teisel pildil on see selgemalt avatud, justkui lause keskel."
+      ],
+      "snr": "051",
+      "ajad": [
+        "414.480",
+        "425.520"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanemas eas hallide juustega mees, kes istub siseruumis ja räägib. Ta kannab tumesinist V-kaelusega kampsunit ruudulise särgi peal. Mehe näoilme on läbimõeldud ja rääkiv, silmad on suunatud alla vasakule, justkui vestleks kellegagi, keda kaadris ei näe. Ta on paigutatud kaadri keskele, ümbritsenud tihedalt raamaturiiulitega, mis ulatuvad põrandast laeni ja on täis erinevaid raamatuid. Riiulid on puidust ja raamatute seljad on erinevates toonides, valdavalt pruunid, punased, sinised ja hallid. Mõnedel raamatutel on selgelt loetavad pealkirjad, näiteks eesti keeles nagu \"ENDLA\", \"ESTONIA\", \"MINU LUMI\", ja ka inglise keeles filmiteemalised teosed nagu \"OSCAR\", \"THE FILM GUIDE\", \"THE MOVIE BOOK\", \"EPHRAIM KATZ\". Paremal pool on näha riiulid, mis on spetsialiseerunud filmikunstile. Valgus on pehme ja loomulik, valgustades hästi mehe nägu ja raamatute detaile. Stseenil on allääres ingliskeelsed subtiitrid, mis kirjeldavad jutu sisu. Üldmulje on intellektuaalne ja akadeemiline, justkui salvestataks intervjuud raamatukogus või kodukontoris.",
+      "actions": [
+        "Rääkimine",
+        "Žestikuleerimine (kergelt parema käega viimasel kaadril)"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Filmikunst",
+        "Ajalugu",
+        "Kaamera",
+        "Sünkroonkaamera",
+        "Raamatukogu",
+        "Kõne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Subtiitrid",
+        "Kampsun",
+        "Särk",
+        "Sünkroonkaamera (mainitud tekstis)"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#A9A9A9",
+        "#1E90FF",
+        "#000000",
+        "#FFFFFF",
+        "#B0C4DE"
+      ],
+      "texts": [
+        "When back then you had to go filming with a huge sync-camera, that was all laid out in several boxes.",
+        "That had to be carried to for example the fifth floor, assembled and then you could start filming.",
+        "As opposed to nowadays when you can just grab a camera and go shooting. Sensors are so sensitive that you don't even need any lights.",
+        "ENDLA",
+        "ESTONIA",
+        "MINU LUMI",
+        "OSCAR",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "ELOKUVIA"
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe näoilme ja suu asend muutuvad kõne käigus, peegeldades erinevaid hetki vestlusest.",
+        "Viimasel pildil on näha mehe parem käsi, mis žestikuleerib kergelt, mis puudub eelmistel piltidel.",
+        "Ingliskeelsed subtiitrid muutuvad igal pildil, jätkates ja arendades räägitavat teemat."
+      ],
+      "snr": "052",
+      "ajad": [
+        "425.520",
+        "438.920"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanem mees, kes istub raamaturiiuli ees ja näib rääkivat. Mehel on seljas tume sinine V-kaelusega džemper ja helesinine ruuduline nööbitav särk. Tema juuksed on hallid ja lühikeseks lõigatud. Ta vaatab kaamerast paremale. Tema taga asub suur, tumehall raamaturiiul, mis on tihedalt täidetud erinevate raamatutega. Raamatute seas on näha erinevates keeltes pealkirju, sealhulgas eesti, inglise ja vene keeles. Pildi allosas on näha valge ingliskeelne subtiitrite tekst mustal taustal. Valgustus on ühtlane, mis viitab siseruumile.",
+      "actions": [
+        "rääkimine",
+        "istumine"
+      ],
+      "keywords": [
+        "mees",
+        "raamatud",
+        "raamaturiiul",
+        "intervjuu",
+        "siseruum",
+        "kõne",
+        "filmindus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "raamaturiiul",
+        "raamatud",
+        "džemper",
+        "särk",
+        "subtiitrid"
+      ],
+      "colorcodes": [
+        "#2E3643",
+        "#87A3C4",
+        "#B8B8B8",
+        "#4A4F54",
+        "#C6A78C",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "As opposed to nowadays when you can just grab a camera and go shooting.",
+        "Sensors are so sensitive that you don't even need any lights.",
+        "THE FILM GUIDE",
+        "RAHVAKA",
+        "ENDLA",
+        "RAKVERE TEATER",
+        "FILM CRITICISM",
+        "THE CINEMA BOOK",
+        "THEORY",
+        ""
+      ],
+      "persons": [
+        "vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe suu asend ja näoilme on piltidel veidi erinev, viidates jätkuvale kõnele või liikumisele kõne ajal."
+      ],
+      "snr": "053",
+      "ajad": [
+        "438.920",
+        "447.520"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine mees halli juustega, kes istub raamaturiiulite ees. Ta kannab helesinist ruudulist särki ja tumesinist V-kaelusega kampsunit. Mees vaatab kaamerast veidi vasakule, tema näoilme on neutraalne, kerge mõtlikkusega. Taustaks on tihedalt täidetud raamaturiiulid, kus on näha hulgaliselt erinevaid raamatuid, nende seas ka filmi- ja teatriteemalisi teoseid. Mõnedel raamatute selgadel on selgelt loetav inglise-, eesti- ja venekeelne tekst. Valgustus on ühtlane ja hele, viidates siseruumile, tõenäoliselt raamatukogule või kabinetile. Kogu kaader on täis detailseid elemente, keskendudes mehele ja tema taustale.",
+      "actions": [
+        "Istub",
+        "Vaatab",
+        "Teeb kerge käeliigutuse"
+      ],
+      "keywords": [
+        "Meessoost isik",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Portree",
+        "Intervjuu",
+        "Siseruum",
+        "Filmikunst",
+        "Teater",
+        "Akadeemiline",
+        "Lugemine",
+        "Hallid juuksed"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Särk",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#A8A9AB",
+        "#3E5A73",
+        "#222A30",
+        "#7D5C43",
+        "#F3F3F3"
+      ],
+      "texts": [
+        "ENOLA",
+        "ESTONIA",
+        "OSCAR 2",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "FILM ENCYCLOPEDIA",
+        "ELOKUVAT",
+        "КИНО ЕВРОПЫ",
+        "MINT"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehe parem käsi paigal ja rahulikus asendis, samas kui teisel pildil on käsi kergelt tõstetud või liigutatud, justkui alustaks žesti."
+      ],
+      "snr": "054",
+      "ajad": [
+        "447.520",
+        "462.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat meest, kes istub siseruumis ja räägib, tõenäoliselt intervjuu käigus. Ta on riietatud tumesinisesse V-kaelusega kampsunisse, mille all on helesinine ruuduline särk. Mehe hallid juuksed on lühikesed ja hoolikalt kammitud. Ta gestikuleerib aktiivselt oma kätega, liigutades neid rääkimise ajal üles-alla ja küljelt küljele, et oma juttu illustreerida. Tema vasakul käel on näha kuldne sõrmus. Mehe näoilme on tõsine ja keskendunud. Tema taga on tihedalt raamatuid täis tumedad raamaturiiulid, mis annavad edasi raamatukogu või filmiarhiivi atmosfääri. Raamatute seljad on erinevat värvi, luues taustale kireva, kuid harmoonilise mustri. Üksikute raamatute pealkirjad on osaliselt nähtavad, vihjates filmiteemalisele sisule. Stseen on hästi valgustatud, mis toob esile nii kõneleja kui ka raamatute detailid.",
+      "actions": [
+        "Istumine",
+        "Rääkimine",
+        "Gestikuleerimine kätega",
+        "Vaatamine kaamera poole"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Raamatukogu",
+        "Filmid",
+        "Raamatud",
+        "Vestlus",
+        "Mees",
+        "Siseruum",
+        "Ekspert"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kampsun",
+        "Särk",
+        "Sõrmus",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Käed"
+      ],
+      "colorcodes": [
+        "#1C273C",
+        "#7F8DA4",
+        "#B9B4AD",
+        "#4D5154",
+        "#CFA484",
+        "#A63F3F",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "When before films had layers to them.",
+        "THE FILM ENCYCLOPEDIA",
+        "FILM GUIDE",
+        "THE FILM ALMANAC",
+        "BERNHAH KAYE",
+        "THE CINEMA BOOK",
+        "MOVIES",
+        "THEORY",
+        "ENDLA",
+        "RAKVERE TEATER",
+        "FILM ART",
+        "HARMONY",
+        "GLOBAL ART",
+        "METAMORPHOSES",
+        "COSMOPOLIS",
+        "MIND GAMES",
+        "CINEMATOGRAPHY",
+        "THE ESSENCE OF CINEMA",
+        "THE ART OF CINEMA"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe käte asend muutub. Esimesel pildil on käed allpool, teisel on parem käsi tõstetud peopesaga allapoole suunatud, vihjates millelegi, millel on kihid. Kolmandal pildil on mõlemad käed tõstetud ja avatud, peopesad vastamisi.",
+        "Teisel pildil on nähtav subtiiter: \"When before films had layers to them.\""
+      ],
+      "snr": "055",
+      "ajad": [
+        "462.240",
+        "470.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat hallipäist meest siseruumis, kes on ümbritsetud raamaturiiulitest. Mees kannab ruudulist sinist särki ja tumesinist (või musta) kampsunit. Ta vaatab otse kaamerasse ja paistab rääkivat, kuna tema suu on avatud ning esimesel pildil on näha, kuidas ta žestikuleerib mõlema käega, peopesad avatud, justkui selgitades midagi. Järgmistel kaadritel on tema käed alla lastud ja fookus on tema näol ning suul. Taustal on tihedalt raamatuid täis riiulid, mis on organiseeritud ja sisaldavad erineva suuruse ja värvusega köiteid. Kolmandal pildil on näha ingliskeelsed subtiitrid, mis viitavad, et mees räägib teema kohta, mis on seotud visuaalsete seadmete harvema kasutamisega. Üldine õhkkond on rahulik ja intellektuaalne, meenutades intervjuud või arutelu.",
+      "actions": [
+        "Rääkimine",
+        "Kätega žestikuleerimine",
+        "Vaatamine kaamera poole"
+      ],
+      "keywords": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Intervjuu",
+        "Vestlus",
+        "Siseruum",
+        "Hallipäine",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Vanem mees",
+        "Raamaturiiul",
+        "Raamatud",
+        "Sinine ruuduline särk",
+        "Tumesinine kampsun"
+      ],
+      "colorcodes": [
+        "#8C8C8C",
+        "#3F6F9C",
+        "#2C2C2C",
+        "#966F4C",
+        "#2C4C7C",
+        "#9C3F3F",
+        "#F0F0F0",
+        "#1C1C1C",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "ENDLA",
+        "ESTONIA",
+        "1875 - 1991",
+        "OSCAR 2",
+        "THE FILM GUIDE",
+        "TIME MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "ELOKUVAT",
+        "It seems a bit uninteresting.",
+        "Because visual devices are used less."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil žestikuleerib mees mõlema käega aktiivselt, samal ajal kui teisel ja kolmandal pildil on käed all ja väljaspool kaadrit või puhkeasendis.",
+        "Esimesel pildil puuduvad subtiitrid, teisel pildil on subtiiter 'It seems a bit uninteresting.' ja kolmandal pildil 'Because visual devices are used less.'",
+        "Mehe näoilme ja suu asend muutuvad veidi piltide vahel, peegeldades rääkimise kulgu."
+      ],
+      "snr": "056",
+      "ajad": [
+        "470.520",
+        "476.400"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha vanem hallipäine mees, kes istub siseruumis tumedate raamaturiiulite ees. Mees kannab tumesinist V-kaelusega kampsunit, mille all on heledam ruuduline särk. Ta vaatab kaamerast veidi vasakule ja räägib, suu kergelt avatud. Tema taga on tihedalt raamatutega täidetud riiulid, millel on näha erinevaid raamatupealkirju, mis viitavad filmi- ja kunstiteemadele. Riiulite vasakus servas on osaliselt näha ka siniseid kaustu. Pildil on näha ingliskeelsed subtiitrid, mis edastavad mehe juttu.",
+      "actions": [
+        "rääkimine",
+        "istumine"
+      ],
+      "keywords": [
+        "intervjuu",
+        "raamatukogu",
+        "raamaturiiul",
+        "mees",
+        "rääkimine",
+        "siseruum",
+        "filmiraamatud",
+        "teadmised"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "raamaturiiulid",
+        "raamatud",
+        "kampsun",
+        "särk",
+        "kaustad",
+        "subtiitrid"
+      ],
+      "colorcodes": [
+        "#1C2D4F",
+        "#363C44",
+        "#C7A287",
+        "#FFFFFF",
+        "#000000",
+        "#B0C4DE",
+        "#4682B4",
+        "#FF0000",
+        "#0000FF",
+        "#008000",
+        "#FFFF00",
+        "#A52A2A"
+      ],
+      "texts": [
+        "Because visual devices are used less.",
+        "The director doesn't focus on them.",
+        "Either they think they're unnecessary or outdated.",
+        "In my opinion they enrich the film.",
+        "THE FILM GUIDE",
+        "THE CINEMA BOOK",
+        "HISTORY OF CINEMA",
+        "RÄGASE",
+        "ENDLA",
+        "KINO EUROPII",
+        "FILM",
+        "THEORY",
+        "HARMONY",
+        "FILM ART AND CINEMA"
+      ],
+      "persons": [
+        "vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst muutub piltide vahel, edastades mehe jutu jätku.",
+        "Mehe suu asend ja näoilme muutuvad kergelt rääkimise käigus."
+      ],
+      "snr": "057",
+      "ajad": [
+        "476.400",
+        "485.440"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud vanemat meest, umbes 60-70-aastast, kellel on lühikesed hallid juuksed, hele nahk ja sinised silmad. Ta kannab tumesinist või musta V-kaelusega kampsunit helesinise mustrilise nööpidega särgi peal. Mees asub kaadri vasakpoolses keskosas, rääkides ja tehes teises kaadris parema käega väikese žesti. Tema selja taga on kaks suurt raamaturiiulit, mis on tihedalt täidetud erinevate raamatutega. Riiulid on puidust, pruunides toonides. Raamatute seljad on mitmes värvitoonis, sealhulgas punane, pruun, kollane, beež ja hall, ning nendele on trükitud tekste eesti, inglise ja tõenäoliselt vene keeles. Alumises osas on näha valged subtiitrid tumedal läbipaistval ribal.",
+      "actions": [
+        "Mees räägib",
+        "Mees žestikuleerib"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Raamatukogu",
+        "Vanem mees",
+        "Film",
+        "Haridus",
+        "Lugemine",
+        "Tarkus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Kampsun",
+        "Särk",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#1b1c1e",
+        "#5d8cb9",
+        "#b8bfc5",
+        "#8b4513",
+        "#a52a2a",
+        "#f5deb3",
+        "#d2b48c",
+        "#e0e0e0",
+        "#5f9ea0",
+        "#ffffff"
+      ],
+      "texts": [
+        "In my opinion they enrich the film.",
+        "When besides the first layer, there is another hidden one",
+        "and I can find a visual device in there. To me that is much more interesting",
+        "ENDLA",
+        "ESTONIA",
+        "ZILE",
+        "OSCAR Z",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "THE FILM ENCYCLOPEDIA",
+        "EPHRAIM KATZ",
+        "6",
+        "ELOKUVAP",
+        "KINOTEATER",
+        "KINO E"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst muutub piltide vahel, kajastades erinevaid lauseid räägitavast sisust.",
+        "Mehe suu asend ja näoilme muutuvad rääkimise käigus.",
+        "Teises pildis on näha mehe parem käsi kaadri vasakus alanurgas, mis teeb žesti, esimeses pildis on käsi kaadrist väljas."
+      ],
+      "snr": "058",
+      "ajad": [
+        "485.440",
+        "494.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab minimalistlikku, musta taustaga tekstikaarti või ekraani. Keskel on valge kirjatüübiga esitatud küsimus eesti keeles: \"Millised inimesed sobiksid dokumentaali operaatoriks?\". Seejärel ilmub ekraanile küsimuse ingliskeelne tõlge: \"What types of people are suited for documentary cinematography?\", mis asub eestikeelse teksti all. Visuaalseid elemente peale teksti ja ühevärvilise tausta ei ole, andes edasi informatiivse ja selge sõnumi.",
+      "actions": [],
+      "keywords": [
+        "tekstiekraan",
+        "must taust",
+        "valge kiri",
+        "küsimus",
+        "dokumentalistika",
+        "tõlge",
+        "subtiitrid",
+        "minimalistlik"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Millised inimesed sobiksid dokumentaali operaatoriks?",
+        "What types of people are suited for documentary cinematography?"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": 85,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil on lisatud küsimuse ingliskeelne tõlge: \"What types of people are suited for documentary cinematography?\"."
+      ],
+      "snr": "059",
+      "ajad": [
+        "494.600",
+        "496.960"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud hallipäist, keskealist või vanemat meest, kes on paigutatud kaamera suhtes vasakule keskele. Mees kannab sinise ruudulise mustriga särki ja tumesinist kampsunit. Ta toetab oma lõuga ja suu piirkonda parema käega, olles süvenenud mõtetesse. Tema pilk on suunatud vasakule alla. Taustaks on tihedalt raamatuid täis tumedad raamaturiiulid, mis ulatuvad pildi ülemisest servast alumiseni. Raamatud on erinevates toonides – näha on punaseid, valgeid, rohelisi, kollaseid ja tumedaid raamatuköiteid. Riiulite vahel on näha ka siniseid sildihoidjaid. Pildi allosas on näha ingliskeelne subtiiter.",
+      "actions": [
+        "Lõua ja suu piirkonna toetamine käega",
+        "Mõtlikus poosis olemine",
+        "Vaatamine alla vasakule"
+      ],
+      "keywords": [
+        "Raamatukogu",
+        "Mõtlikkus",
+        "Mees",
+        "Raamaturiiul",
+        "Intervjuu",
+        "Dokumentalistik",
+        "Portree"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Särk",
+        "Kampsun",
+        "Sildihoidjad"
+      ],
+      "colorcodes": [
+        "#1E1E1E",
+        "#A7A7A7",
+        "#E3C1A1",
+        "#28374C",
+        "#C2D5E7",
+        "#5A83B4",
+        "#8A0000",
+        "#F0D575",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "ENDLA",
+        "ESTONIA",
+        "1875-1999",
+        "The OSCAR",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "THE FILM ENCYCLOPEDIA EPHRAIM KATZ",
+        "In order to be a documentary cinematographer a person has to have a quick reaction speed.",
+        "ELOKUV...",
+        "Bach",
+        "ZILE...",
+        "KINO EVROPI"
+      ],
+      "persons": [
+        "Hallipäine mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on mehe parem käsi, millega ta lõuga toetab, veidi lõdvemas asendis, sõrmed on rohkem laiali ja suu piirkond on rohkem avatud.",
+        "Teisel pildil on käsi liikunud veidi ülespoole ja on kokkusurutumas asendis, sõrmed on tihedamalt koos ja peopesa varjab suud rohkem.",
+        "Mehe pilk ja näoilme on teisel pildil veidi intensiivsemad, süvenenumad.",
+        "Väike muutus pea asendis ja õla joones on märgatav."
+      ],
+      "snr": "060",
+      "ajad": [
+        "496.960",
+        "503.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest, kes istub siseruumis tumeda raamaturiiuli ees, mis on täidetud paljude eri värvi ja suurusega raamatutega. Mees kannab tumesinist V-kaelusega kampsunit helesinise särgi peal ja tal on hallid juuksed. Teda näidatakse rinnust ülespoole, mis annab talle olulise fookuse. Mees räägib, väljendades end kätežestidega ja mõtliku näoilmega. Raamaturiiuli vasakpoolses osas on näha ka mõningaid kaustu või karpe, millel on kirjad. Üldine õhkkond on rahulikult intellektuaalne, viidates vestlusele või intervjuule raamatute keskel.",
+      "actions": [
+        "Mees räägib",
+        "Mees žestikuleerib parema käega",
+        "Mees toetab parema käe lõua alla",
+        "Istub"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Mees",
+        "Raamatukogu",
+        "Raamaturiiul",
+        "Siseruum",
+        "Vestlus",
+        "Kinematograafia",
+        "Dokumentalistika"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiul",
+        "Raamatud",
+        "Kaustad",
+        "Kampsun",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#404040",
+        "#1A2B42",
+        "#A0A0A0",
+        "#FFFFFF",
+        "#FF0000",
+        "#F0C020",
+        "#0080C0"
+      ],
+      "texts": [
+        "In order to be a documentary cinematographer a person has to have a quick reaction speed.",
+        "Because if a person is overly phlegmatic the moments just pass them by.",
+        "THE FILM GUIDE",
+        "THE CINEMA BOOK",
+        "MOVIES",
+        "HARMONY",
+        "ART AND CINEMA",
+        "VISUAL STORY",
+        "KONRAD MÄGI",
+        "KIRO EROIN",
+        "ENDLA",
+        "RAKVERE",
+        "THEORY"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on mehe parem käsi üles tõstetud ja veidi rusikas, žestikuleerides kõne ajal. Teisel pildil on sama käsi asetatud lõua alla, peegeldades mõtlikku või kaalutlevat hoiakut. Mehe suu asend ja näoilme muutuvad kergelt vastavalt kõnevoole ja žestidele."
+      ],
+      "snr": "061",
+      "ajad": [
+        "503.520",
+        "507.720"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud eakas mees hallide juustega, kes istub raamatute täidetud raamaturiiulite ees. Mehel on seljas ruudulise mustriga sinine särk ja tume, tõenäoliselt tumesinine või must, V-kaelusega kampsun. Ta on sügavalt mõtisklev, hoides paremat kätt lõua juures, sõrmed puhkavad lõual ja pöial põse lähedal. Tema pilk on suunatud allapoole ja kergelt vasakule, andes edasi keskendumist või tõsidust. Tagaplaanil on näha tihedalt raamatutega täidetud puitraamaturiiuleid, mis loovad akadeemilise või raamatukogu atmosfääri. Raamatute selgadel on näha erinevaid keeli ja pealkirju, sealhulgas ingliskeelseid ja tõenäoliselt eesti- või soomekeelseid tekste. Valgus on pehme ja ühtlane, tuues esile mehe näojooned ja raamatute detailid ilma teravate varjudeta. Üldine meeleolu on vaikne ja intellektuaalne. Esimesel pildil on stseeni allosas valged subtiitrid.",
+      "actions": [
+        "Mõtisklema",
+        "Kätt lõua juures hoidma",
+        "Vaatama alla ja vasakule"
+      ],
+      "keywords": [
+        "Mees",
+        "Eakas",
+        "Hallid juuksed",
+        "Raamatukogu",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Mõtisklev",
+        "Sügavmõtteline",
+        "Siseruum",
+        "Kontemplatiivne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Särk",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#C4C4C4",
+        "#2C3032",
+        "#55719B",
+        "#C8A48B",
+        "#8D2F2E",
+        "#2B4E6B",
+        "#D0B075"
+      ],
+      "texts": [
+        "Because if a person is overly phlegmatic the moments just pass them by.",
+        "THE FILM GUIDE",
+        "OSCAR 2",
+        "HALLIWELL'S THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "ENDLA",
+        "ESTONIA",
+        "ELOKUVAKIRJA",
+        "KINO EUROOPA",
+        "THE FILM ENCYCLOPEDIA",
+        "1875 - 1991",
+        "ZILE",
+        "BACH"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha valged subtiitrid \"Because if a person is overly phlegmatic the moments just pass them by.\", mis puuduvad teisel ja kolmandal pildil.",
+        "Mehe parema käe asend lõua juures on kolmandal pildil veidi muutunud võrreldes esimese ja teisega, pöial on liikunud pisut kõrgemale ja sõrmede asend on kergelt nihkunud.",
+        "Mehe pilgu suund ja näoilme näivad kolmandal pildil olevat kergelt teistsugused, pakkudes kerget variatsiooni mõtlikkuses."
+      ],
+      "snr": "062",
+      "ajad": [
+        "507.720",
+        "518.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat hallipäist meest, kes istub siseruumis tumedate, laeni ulatuvate raamaturiiulite ees. Riiulid on tihedalt täidetud mitmesuguste raamatute ja kaustadega. Mees kannab tumesinist kampsunit, mille all on heleda kraega särk. Ta räägib ja žestikuleerib kätega, vaadates otse kaamerasse või selle lähedusse. Kaadri alumises osas kuvatakse ingliskeelseid subtiitreid, mis edastavad mehe juttu filmikunsti ja operaatori mõtteviisi kohta.",
+      "actions": [
+        "Mees räägib",
+        "Mees žestikuleerib kätega",
+        "Mees toetab käe lõuale",
+        "Mees vaatab kaamerasse"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Vestlus",
+        "Raamatukogu",
+        "Raamaturiiulid",
+        "Filmikunst",
+        "Kinematograafia",
+        "Ekspert",
+        "Käežestid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kaustad",
+        "Särk",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#2D3E5B",
+        "#F0F0F0",
+        "#414141",
+        "#BF9C89",
+        "#8B4513",
+        "#4682B4",
+        "#B22222"
+      ],
+      "texts": [
+        "When there is an event unfolding infront of them, the cinematographer needs a mind like a computer.",
+        "They need to see which way the event may unfold.",
+        "ENDLA",
+        "KINO EUROOPAST",
+        "RAKVERE",
+        "THE FILM GUIDE",
+        "THE CINEMA BOOK",
+        "HARMONY",
+        "THEORY",
+        "FILM"
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe käte asend muutub kaadrite vahel: esimesel pildil toetab ta käe lõuale, samas kui teisel ja kolmandal pildil žestikuleerib ta mõlema käega.",
+        "Ingliskeelsed subtiitrid ilmuvad teisel ja kolmandal pildil, edastades mehe juttu."
+      ],
+      "snr": "063",
+      "ajad": [
+        "518.520",
+        "526.520"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või vanem hallipäine mees, kes istub raamatukogus või raamatutega täidetud toas. Ta kannab ruudulise mustriga sinist särki ja selle peal tumedat kampsunit. Mees räägib ja žestikuleerib aktiivselt kätega, vaadates veidi kaamerast paremale. Tema taga on tumedad raamaturiiulid, mis on tihedalt täidetud erinevate värvidega raamatutega, sealhulgas punaste, siniste, pruunide, mustade ja valgete köidetega. Mõnedel raamatutel on näha pealkirju nagu “ENDLA”, “ESTONIA”, “THE FILM GUIDE”, “THE MOVIE BOOK”, “EPHRAIM KATZ” ja “ELOKEEL”. Kaadris on näha ka ingliskeelsed subtiitrid, mis vahelduvad stseeni jooksul vastavalt räägitavale. Mehe vasakul sõrmusesõrmel on näha sõrmus.",
+      "actions": [
+        "Rääkimine",
+        "Žestikuleerimine kätega",
+        "Istumine"
+      ],
+      "keywords": [
+        "Meessõõmik",
+        "Hallipäine mees",
+        "Raamatukogu",
+        "Raamaturiiul",
+        "Raamatud",
+        "Intervjuu",
+        "Žestikuleerimine",
+        "Haritud keskkond",
+        "Portree"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Särk",
+        "Kampsun",
+        "Sõrmus"
+      ],
+      "colorcodes": [
+        "#36454F",
+        "#4682B4",
+        "#808080",
+        "#8B4513",
+        "#B22222",
+        "#F5F5DC",
+        "#000000"
+      ],
+      "texts": [
+        "ENDLA",
+        "ESTONIA",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "EPHRAIM KATZ",
+        "ELOKEEL",
+        "OSCAR Z",
+        "KINO EUROOPA",
+        "They need to see which way the event may unfold.",
+        "Where to turn and which techniques to use."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe käte asend ja žest on erinev. Esimesel pildil on parem käsi laiemalt avatud ja kõrgemal, teisel pildil on mõlemad käed koos ja žestikuleerivad teistsuguses asendis, käed teineteisele lähemal.",
+        "Subtiitrite tekst on erinev, peegeldades erinevat öeldud lauset."
+      ],
+      "snr": "064",
+      "ajad": [
+        "526.520",
+        "531.560"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanem mees, kes istub siseruumis raamaturiiulite ees ja vestleb. Tal on seljas tume sinine V-kaelusega kampsun ja helesinine kraega särk. Tema juuksed on hallid ja lühikesed. Mees žestikuleerib aktiivselt mõlema käega, sõrmus vasakus käes. Tema taga on kõrged tumedad raamaturiiulid, mis on tihedalt täis erineva suuruse ja värviga raamatuid. Valgus on ere ja näib olevat kunstlik, valgustades mehe nägu ja ülakeha ning osa raamaturiiulitest. Üldine atmosfäär viitab intellektuaalsele vestlusele või intervjuule.",
+      "actions": [
+        "Mees räägib",
+        "Mees žestikuleerib kätega",
+        "Mees istub"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Vestlus",
+        "Raamatukogu",
+        "Raamaturiiulid",
+        "Mees",
+        "Žestikuleerimine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Raamatud",
+        "Raamaturiiulid",
+        "Kampsun",
+        "Särk",
+        "Sõrmus"
+      ],
+      "colorcodes": [
+        "#1D2D44",
+        "#6B9DC4",
+        "#A0A0A0",
+        "#C8A282",
+        "#4A4A4A"
+      ],
+      "texts": [
+        "FILM GUIDE",
+        "ENDLA",
+        "RAHVASTE",
+        "KINO EUROOPA",
+        "Are they in the shadow or are they in the light."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0-10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe käte asend on erinev: esimesel pildil on vasak käsi rohkem kehale lähemal ja parem käsi veidi eemal, teisel pildil on mõlemad käed kõrgemale tõstetud ja avatud, žestikuleerides elavamalt.",
+        "Teisel pildil on lisaks ingliskeelsed subtiitrid: \"Are they in the shadow or are they in the light.\""
+      ],
+      "snr": "065",
+      "ajad": [
+        "531.560",
+        "538.200"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab vanemat meest, kes räägib kaamera poole või kaamerast veidi kõrvale, žestikuleerides kätega. Tema taustaks on tihedalt raamatuid täis tumedad puidust raamaturiiulid. Mehel on hallikasvalged juuksed, mis on kammitud paremale poole. Ta kannab tumesinist või musta V-kaelusega kampsunit helesinise ruudulise kraega särgi peal. Tema näoilme on tõsine ja mõtlik, huulte asend viitab rääkimisele. Raamaturiiulitel on näha erineva suuruse, värvi ja keelega raamatuid, sealhulgas inglise, eesti ja vene keeles. Valgus on pigem pehme ja ühtlane, viitades siseruumile ja kunstlikule valgustusele.",
+      "actions": [
+        "Mees räägib",
+        "Mees žestikuleerib kätega",
+        "Mees vaatab otse või veidi kõrvale kaamerast"
+      ],
+      "keywords": [
+        "Mees",
+        "Raamatukogu",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Intervjuu",
+        "Siseruum",
+        "Vestlus",
+        "Mõtlik",
+        "Intellektuaalne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kampsun",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#1E2D3F",
+        "#A0A4A6",
+        "#C69F86",
+        "#4A3A2B",
+        "#689DC2",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Are they in the shadow or are they in the light.",
+        "The mind needs to be atleast two or three steps ahead of the situation",
+        "Always following the scene.",
+        "OSCAR 2",
+        "THE FILM GUIDE 3",
+        "TIME The Movie Book",
+        "EPHRAIM KATZ",
+        "KINO EUROPA",
+        "ELOKEV",
+        "ENDLA",
+        "ESTONIA",
+        "1875-1991",
+        "ZILE"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst muutub igal pildil, edastades erinevaid lauseid või mõtteid.",
+        "Mehe käte asend ja žestid erinevad kaadrite vahel, vastavalt tema kõne rütmile ja sisule. Esimesel pildil on käed rohkem üles tõstetud ja avatud, kolmandal on need pigem allpool ja osaliselt kaadrist väljas.",
+        "Mehe näoilme ja suu asend muutuvad kergelt rääkimise käigus, kuigi üldine mõtlik ja tõsine toon jääb samaks."
+      ],
+      "snr": "066",
+      "ajad": [
+        "538.200",
+        "544.720"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha hallipäine keskealine või vanem mees, kes istub tumedate raamaturiiulite ees siseruumis. Mees kannab tumesinist kampsunit helesinise ruudulise särgi peal ja tema juuksed on hallid, küljele kammitud. Ta on pööratud kaamera poole, vaadates kergelt paremale (vaataja vasakule). Ta istub rahulikus poosis, käed puhkavad. Tema taga on laiad, tumedad raamaturiiulid, mis on tihedalt täidetud eri suuruse ja värvusega raamatute ja kaustadega. Raamatukaante värvipalett on mitmekesine, sisaldades punaseid, siniseid, kollaseid, valgeid ja musti toone. Vasakul pool on riiulitel näha ka heledaid kaustu. Valgustus on ühtlane ja ere, mis viitab kas päevavalgusele või professionaalsele valgustusele. All paremal nurgas on näha ka subtiitrid.",
+      "actions": [
+        "Istumine",
+        "Rääkimine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Vestlus",
+        "Raamatud",
+        "Raamaturiiul",
+        "Mees",
+        "Siseruum",
+        "Haridus",
+        "Kultuur",
+        "Teadmised"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kaustad",
+        "Kampsun",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#262D3B",
+        "#525C65",
+        "#A4A7A9",
+        "#7B90AA",
+        "#C73B3B",
+        "#DCC07C",
+        "#E7E7E7"
+      ],
+      "texts": [
+        "Ofcourse this can be learned, like all things in life.",
+        "But you need a certain type of character.",
+        "THE FILM GUIDE",
+        "THE ART OF CINEMA",
+        "ENDLA",
+        "RAHVUSVAHELISED"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on mehe suu kergelt avatud, mis viitab rääkimisele, ning subtiitrites on tekst 'Ofcourse this can be learned, like all things in life.'. Teisel pildil on mehe suu suletud ja näoilme on mõtlikum, justkui ta kuulaks või oleks parajasti pausi tegemas, ning subtiitrites on tekst 'But you need a certain type of character.'."
+      ],
+      "snr": "067",
+      "ajad": [
+        "544.720",
+        "552.480"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha vanem mees, kes istub ja räägib, tõenäoliselt antakse talle intervjuud. Tal on heledad, halliks tõmbunud juuksed, mis on kammitud küljele. Seljas kannab ta helesinist ruudulist särki, mille peal on tumesinine või must V-kaelusega kampsun. Mehe näoilme on tõsine ja mõtlik, suu on kergelt avatud, viidates käimasolevale kõnele. Ta vaatab kaamerast veidi paremale, otsekui pöördudes vestluspartneri poole. Tema taga on tihedalt raamatuid täis laotud raamaturiiulid. Raamatuid on erinevates suurustes ja värvides – domineerivad on tumedad (sinised, mustad, pruunid) ja mõned heledamad (valged, punased) seljad. Mõnel raamatul on selgelt loetavad pealkirjad, näiteks \"OSCAR 7\", \"THE FILM GUIDE\", \"HALLIWELL'S THE MOVIE BOOK\", \"EPHRAIM KATZ FILM ENCYCLOPEDIA\", \"ENDLA\", \"ESTONIA\", mis viitab teemakohasele kirjandusele, tõenäoliselt filmindusele. Raamaturiiulitel on näha ka siniseid raamatutoesid või kaustu. Üldine atmosfäär on akadeemiline või intellektuaalne, meenutades raamatukogu või isiklikku kabinetti.",
+      "actions": [
+        "Mees räägib",
+        "Mees vestleb"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Raamatukogu",
+        "Vanem mees",
+        "Filmikirjandus",
+        "Vestlus",
+        "Mõtisklus",
+        "Intellektuaalne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiulid",
+        "Sinised raamatutoed"
+      ],
+      "colorcodes": [
+        "#1F2834",
+        "#577F9A",
+        "#B6B8B6",
+        "#7E5C39",
+        "#4A4A4A",
+        "#073D62",
+        "#AF0E1D"
+      ],
+      "texts": [
+        "But you need a certain type of character.",
+        "If you're very composed - think ten times and then act. You might just miss the course of events entirely.",
+        "OSCAR 7",
+        "THE FILM GUIDE",
+        "HALLIWELL'S THE MOVIE BOOK",
+        "EPHRAIM KATZ FILM ENCYCLOPEDIA",
+        "ENDLA",
+        "ESTONIA"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide peamiseks erinevuseks on subtiitrite tekst, mis edastab jätkuvat juttu. Mehe asend ja stseen on sisuliselt identsed, viitades järjestikustele kaadritele videost."
+      ],
+      "snr": "068",
+      "ajad": [
+        "552.480",
+        "558.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat hallipäist meest, kes kannab tumesinist V-kaelusega kampsunit helesinise kraega särgi peal, istumas raamaturiiulite taustal. Mees vaatab kaamerast veidi paremale, tema näoilme on mõtlik ja ta paistab olevat vestluses või kõnelemas. Taustaks on suured tumedad raamaturiiulid, mis on tihedalt täis raamatuid erinevates keeltes ja värvides, millest mõned viitavad filmindusele. Ekraani allosas on poolläbipaistval mustal taustal kollased subtiitrid. Valgus on pehme ja ühtlane, tuues esile mehe ja luues intiimse õhkkonna.",
+      "actions": [
+        "Istub",
+        "Räägib/Suhtleb",
+        "Mõtiskleb"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Filmindus",
+        "Raamatud",
+        "Raamatukogu",
+        "Intellektuaal",
+        "Mõtisklus",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kampsun",
+        "Särk",
+        "Subtiitrid",
+        "Prillid (mehe kampsuni taskus)"
+      ],
+      "colorcodes": [
+        "#1A2A47",
+        "#709BC1",
+        "#4A4A4A",
+        "#F9F95D",
+        "#000000"
+      ],
+      "texts": [
+        "If you're very composed - think ten times and then act. You might just miss the course of events entirely.",
+        "How much creative freedom does a cinematographer have?",
+        "FILM GUIDE",
+        "THE CINEMA BOOK",
+        "HISTORY OF CINEMA",
+        "RAKVERE",
+        "ENDLA",
+        "DRAMA"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 5,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst muutub. Esimesel ja teisel pildil on tekst sama, kolmandal pildil on esitatud erinev küsimus.",
+        "Mehe suu asend ja näoilme on veidi erinevad, viidates käimasolevale vestlusele või kõnele."
+      ],
+      "snr": "069",
+      "ajad": [
+        "558.480",
+        "560.480"
+      ]
+    },
+    {
+      "explanation": "Stseenil on mustal taustal valge tekst. Ekraani keskosas on eesti keeles esitatud küsimus, mis on jaotatud kahele reale: 'Kui palju on operaatoril' ja 'oma voli?'. Ekraani alaosas, vasakul pool, on sama küsimus inglise keeles ühel real: 'How much creative freedom does a cinematographer have?'. Tekst on selgelt loetav ja on esitletud sans-serif fondis. Must taust moodustab suurema osa ekraanipinnast, luues kontrastse ja fookustatud esitluse tekstile.",
+      "actions": [],
+      "keywords": [
+        "küsimus",
+        "tekstiekraan",
+        "operaator",
+        "loominguline vabadus",
+        "subtiitrid",
+        "must taust",
+        "valge tekst",
+        "filmikunst",
+        "ekraanigraafika"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Kui palju on operaatoril oma voli?",
+        "How much creative freedom does a cinematographer have?"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "80",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "070",
+      "ajad": [
+        "560.480",
+        "562.840"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine või vanem mees, kes istub toolil ja on vestlusesse süvenenud. Tema pilk on suunatud veidi paremale, mis viitab sellele, et ta kas räägib ise või kuulab tähelepanelikult vestluspartnerit, kes asub kaadrist väljas. Mees kannab tumesinist V-kaelusega kampsunit ja helesinist ruudulist särki. Tema hallid juuksed on kenasti kammitud ja ta näoilme on tõsine ja mõtlik. Mehe taga ja tema mõlemal küljel on kõrged, tumedates toonides raamaturiiulid, mis on tihedalt täidetud erinevate raamatutega. Raamatute seljad on eri värvi, kuid valdavalt tunduvad need olevat akadeemilise või filmi-teemalised teosed, mis annab stseenile intellektuaalse ja õppekeskkonna tunde. Pildi allosas on näha valged subtiitrid mustal poolläbipaistval taustal, mis annavad edasi mehe öeldud teksti.",
+      "actions": [
+        "Mees istub",
+        "Mees räägib või kuulab",
+        "Mees vaatab paremale"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Vestlus",
+        "Raamatukogu",
+        "Raamaturiiul",
+        "Akadeemiline keskkond",
+        "Portree",
+        "Siseruum",
+        "Intellektuaalne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kampsun",
+        "Särk",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#333d45",
+        "#4f5b66",
+        "#8baccf",
+        "#ffffff",
+        "#000000"
+      ],
+      "texts": [
+        "It depends a lot on the director. How demanding they are and how good they are at explaining.",
+        "If they don't give the cinematographer any guidance then it's hard for the cinematographer to find any.",
+        "FILM GUIDE",
+        "THE CINEMA BOOK",
+        "HISTORY OF CINEMA",
+        "THEORY",
+        "ENGLA",
+        "RAKVERE",
+        "MOVIE",
+        "FILM"
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe suuasend ja näoilme on veidi muutunud, mis viitab käimasolevale vestlusele ja rääkimisele.",
+        "Subtiitrite tekst on erinev, mis näitab, et pildid on võetud eri hetkedel sama vestluse käigus."
+      ],
+      "snr": "071",
+      "ajad": [
+        "562.840",
+        "571.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat hallipäist meest, kes räägib siseruumis, mis näib olevat raamatukogu või raamaturiiulitega täidetud tuba. Mees on kaadri keskpunktis, vaadates veidi paremale kaadrist välja. Tema selja taga on tihedalt raamatuid täis tumedad raamaturiiulid, mis ulatuvad kaadri ülemisse serva. Raamatud on erinevates värvides ja suurustes, andes ruumile haritud ja intellektuaalse õhkkonna. Valgustus on ühtlane, mis viitab kas loomulikule päevavalgusele aknast või hästi seatud kunstvalgusele. Kaadri allosas on subtiitrid, mis edastavad mehe juttu inglise keeles.",
+      "actions": [
+        "Mees räägib"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "raamatukogu",
+        "raamaturiiulid",
+        "mees",
+        "sisekujundus",
+        "haridus",
+        "kino",
+        "dokumentaal"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "raamatud",
+        "raamaturiiulid",
+        "tumesinine kampsun/sviiter",
+        "helesinine ruuduline särk",
+        "subtiitrid"
+      ],
+      "colorcodes": [
+        "#8C8C8C",
+        "#1A2B3C",
+        "#ADD8E6",
+        "#362D2D",
+        "#8B0000",
+        "#00008B",
+        "#FFFFFF",
+        "#E0C7B7",
+        "#000000"
+      ],
+      "texts": [
+        "If they don't give the cinematographer any guidance then it's hard for the cinematographer to find any.",
+        "They must start improvising, but that may not always be for the best.",
+        "ENDLA",
+        "ESTONIA",
+        "OSCAR 2",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK 3",
+        "EPHRAIM KATZ",
+        "FILM ENCYCLOPEDIA",
+        "6",
+        "ELOKUV..."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0-5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst muutub, peegeldades erinevaid lauseid rääkija kõnes.",
+        "Mehe suu asend on veidi erinev – esimesel pildil on see rohkem avatud (nagu lauset alustades), teisel pildil veidi suletud (nagu lause lõpus või pausi ajal)."
+      ],
+      "snr": "072",
+      "ajad": [
+        "571.560",
+        "576.720"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud keskealist või vanemat meest, kes istub toolil ja räägib kaamera poole. Tema selja taga on kaks suurt tumedat raamaturiiulit, mis on tihedalt täidetud mitmesuguste raamatutega. Riiulid ulatuvad pildi servadeni ja annavad edasi akadeemilise või kultuurilise keskkonna. Mees kannab tumesinist kampsunit ja sinise-valgeruudulist särki. Tal on lühikesed hallid juuksed ja ta vaatab veidi kaamerast paremale. Tema nägu on tõsine ja keskendunud, viidates süvenemisele vestlusesse. Valgustus on ühtlane ja stuudiolik, rõhutades kõnelejat. Raamatute selgadel on näha mitmesuguseid pealkirju, mis viitavad filmindusele, kunstile ja teooriale, luues intelligentse atmosfääri.",
+      "actions": [
+        "Mees räägib",
+        "Mees istub"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Raamaturiiulid",
+        "Vanem mees",
+        "Siseruum",
+        "Raamatud",
+        "Filmiteadus",
+        "Vestlus",
+        "Teadmised",
+        "Kultuur",
+        "Portree"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Raamaturiiulid",
+        "Raamatud",
+        "Tool",
+        "Mees",
+        "Kampsun",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#2C3E50",
+        "#5A80B3",
+        "#B0B0B0",
+        "#363636",
+        "#C29F89"
+      ],
+      "texts": [
+        "THE FILM ENCYCLOPEDIA",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "ART CINEMA",
+        "THE DARK OF THE SUN",
+        "HARMONY",
+        "GLOBAL ART",
+        "MOVIES",
+        "THEORY",
+        "ENGLA",
+        "RAKVERE ENDLA",
+        "KINOSKOP",
+        "The director's job is very important.",
+        "Peeter Tooming had this viewpoint, that only the director makes the film."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil puuduvad ingliskeelsed subtiitrid, mis ilmuvad teisel ja kolmandal pildil.",
+        "Mehe suu asend ja näoilme muutuvad piltide vahel kergelt, kuna ta räägib."
+      ],
+      "snr": "073",
+      "ajad": [
+        "576.720",
+        "582.040"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine või vanem mees, hallide lühikeste juustega, kes kannab tumesinist V-kaelusega kampsunit helesinise mustrilise särgi peal. Ta on paigutatud kaadri keskele ja veidi vasakule, esiplaanile. Mees räägib, mis ilmneb nii tema näoilmetest kui ka subtiitritest. Tema taga on tihedalt raamatuid täis riiulid, mis ulatuvad üle kogu tausta. Raamatud on erinevates toonides, valdavalt tumedate (nt. tumepunased, sinised, mustad) ja mõned heledamate (nt. beežid) seljadega. Riiulitel on ka sinivalged sildid/järjehoidjad. Valgustus on pehme ja ühtlane, rõhutades mehe näojooni. Üldine miljöö viitab intervjuule või dokumentaalfilmile raamatukogu või isikliku kabineti keskkonnas.",
+      "actions": [
+        "Mees räägib/vestleb",
+        "Mees vaatab kaamerasse",
+        "Mees vaatab veidi alla ja paremale"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Dokumentaalfilm",
+        "Mees",
+        "Raamatukogu",
+        "Filmiarhiiv",
+        "Sisekeskkond",
+        "Rääkimine",
+        "Raamaturiiul"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamatud",
+        "Raamaturiiul",
+        "Kampsun",
+        "Särk",
+        "Sildid/järjehoidjad"
+      ],
+      "colorcodes": [
+        "#1E2F3E",
+        "#5D8EA6",
+        "#A0A0A0",
+        "#C8A58D",
+        "#5C1E1E",
+        "#2F3E50",
+        "#E0DED7",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "Peeter Tooming had this viewpoint, that only the director makes the film.",
+        "I would argue that they must have a very long arm in order to reach that button.",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "OSCAR 2",
+        "EPHRAIM KATZ",
+        "TIME MOVIE",
+        "ENDLA",
+        "ESTONIA",
+        "1875 - 1991",
+        "КИНО ЕВРОПЫ",
+        "ELOKUVA"
+      ],
+      "persons": [
+        "Keskealine/vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil vaatab mees otse kaamerasse ja ekraanil on subtiiter \"Peeter Tooming had this viewpoint, that only the director makes the film.\".",
+        "Teisel pildil vaatab mees veidi allapoole ja paremale ning ekraanil on subtiiter \"I would argue that they must have a very long arm in order to reach that button.\". Mehe suu ja näoilme on samuti veidi muutunud, mis viitab rääkimise jätkumisele."
+      ],
+      "snr": "074",
+      "ajad": [
+        "582.040",
+        "593.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või vanem mees, kes istub ja räägib, vaadates veidi paremale (vaataja vasakule). Tal on lühikesed heledad juuksed ja ta kannab tumesinist V-kaelusega kampsunit helesinise kraesärgi peal. Mehe ilme on tõsine ja keskendunud, viidates vestlusele või intervjuule. Tema taga on kaks suurt tumeda halli värvi raamaturiiulit, mis on täidetud tihedalt erinevates värvides ja suurustes raamatutega. Raamatute seas on näha ka filmi- ja kinoalaseid pealkirju, mis viitab teema spetsiifikale. Vasakul pool on vertikaalne virn heledaid dokumendikaustu või mappe, millel on näha sildid, näiteks 'RAKVERE' ja 'ENDLA'. Kogu stseen on valgustatud ühtlaselt ja selgelt, luues intellektuaalse ja rahuliku õhkkonna.",
+      "actions": [
+        "Mees räägib",
+        "Mees istub"
+      ],
+      "keywords": [
+        "Mees",
+        "Intervjuu",
+        "Vestlus",
+        "Raamatukogu",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Siseruum",
+        "Haridus",
+        "Filmiteadus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kampsun",
+        "Särk",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Dokumendikaustad",
+        "Sildid"
+      ],
+      "colorcodes": [
+        "#2C3F5C",
+        "#4A4D50",
+        "#82A4D2",
+        "#C82C2D",
+        "#DFD2AA",
+        "#E8E8E8",
+        "#4682B4"
+      ],
+      "texts": [
+        "I would argue that they must have a very long arm in order to reach that button.",
+        "THE FILM GUIDE",
+        "THE CINEMA BOOK",
+        "HARMONY",
+        "THE STORY OF CINEMA",
+        "RAKVERE",
+        "ENDLA"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "075",
+      "ajad": [
+        "593.000",
+        "596.960"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanem hallipäine mees, kes on riietatud tumesinisesse või musta kampsunisse ja sinise mustriga särki. Ta vaatab kaamerast pisut vasakule ja räägib, suu on kergelt avatud. Mehel on selgelt näha kortsud ja elukogemus. Mehe taga on kaks suurt, raamatutest tihedalt täidetud raamaturiiulit. Raamatud on erinevates suurustes ja värvides, sealhulgas punastes, sinistest, pruunides ja valgetes toonides. Mõnel raamatul on selgelt nähtavad pealkirjad nii ladina kui ka kirillitsa tähestikus. Kogu stseen on hästi valgustatud, mis viitab siseruumile, tõenäoliselt raamatukogule või isiklikule kabinetile.",
+      "actions": [
+        "Mees räägib",
+        "Mees vaatab kaamerast pisut vasakule"
+      ],
+      "keywords": [
+        "Mees",
+        "Vanem mees",
+        "Raamatukogu",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Intervjuu",
+        "Siseruum",
+        "Kõnelemine",
+        "Hallid juuksed"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kampsun",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#2C353D",
+        "#5D80A7",
+        "#A8A8A8",
+        "#8B2C2D",
+        "#385E7B",
+        "#D0D0D0",
+        "#3A3A3A"
+      ],
+      "texts": [
+        "I would argue that they must have a very long arm in order to reach that button.",
+        "OSCAR Z",
+        "THE FILM GUIDE",
+        "THE MOVIE BOOK",
+        "HALLIWELL'S",
+        "EPHRAIM KATZ",
+        "ENCYCLOPEDIA",
+        "ENDLA",
+        "ESTONIA",
+        "1879-1991",
+        "ZILEL",
+        "KINO ЕВРОПЫ",
+        "ELOKEE",
+        "PETER VÕI BACH"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha ingliskeelsed subtiitrid tekstiga 'I would argue that they must have a very long arm in order to reach that button.', mis teisel pildil puuduvad.",
+        "Mehe suu asend on piltide vahel pisut erinev, mis viitab kõnelemise ajal toimunud liikumisele."
+      ],
+      "snr": "076",
+      "ajad": [
+        "596.960",
+        "602.600"
+      ]
+    }
+  ]
+}

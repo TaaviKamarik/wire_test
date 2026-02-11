@@ -1,0 +1,2403 @@
+{
+  "film": [
+    "20547",
+    "20393",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Frank",
+    "74dd38f9bb50dbfe9da79d3ef910800bf0bcd3d4.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Pildid on täiesti mustad, mistõttu ei ole võimalik stseeni detailselt kirjeldada. Visuaalne informatsioon puudub täielikult.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "tühi pilt",
+        "informatsioon puudub",
+        "pimendus"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik pildid on identselt mustad ja neil puudub visuaalne sisu, seega erinevusi ei ole võimalik tuvastada."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "7.625"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast, kuid samas veidi rustikaalset siseruumi, mis on ilmselt kohvikunurk või lugemistuba. Ruumi keskmes on suur aken, mis pakub vaate linnatänavale ja vastas asuvatele ajaloolistele hoonetele. Akna ees on puidust lauaalusel paiknev ruudukujuline puitplaat, mis moodustab laua. Laua all on valge metallist radiaator. Kummalgi pool lauda on tumepruun puittool nahkpolstriga istmega. Parempoolsel toolil istub valge, inimesekujuline, karvane kuju, mis meenutab pehmet mannekeeni, käed toetumas lauale. Laual on valge tass alustassiga ja väike roheline potitaim oranžis savipotis. Vasakpoolne tool on tühi. Ruumi vasakus servas on tumepruun, viie riiuliga raamaturiiul täis raamatuid ja muid esemeid, nagu kaunistused ja tassid ülemistel riiulitel. Riiuli ülemisel osal on näha heledamat tahvlit tekstiga. Parempoolne sein on kaetud halli, tekstuuriga krohviga, mis annab ruumile toore ja industriaalse ilme. Seinal on näha ka kaks valget pistikupesa. Põrand on kaetud tumeda vaipkattega. Akna ees ripuvad heledad läbipaistvad kardinad. Üldine valgustus on hele ja loomulik, pärinedes aknast.",
+      "actions": [
+        "Istumine",
+        "Vaatamine (kuju poolt lauale/aknasse)",
+        "Ootamine (vasak tool on vaba)"
+      ],
+      "keywords": [
+        "Kohvik",
+        "Interjöör",
+        "Aken",
+        "Mannekeen",
+        "Raamatud",
+        "Laud",
+        "Toolid",
+        "Ootus",
+        "Siseruum",
+        "Hubasus",
+        "Rustikaalne"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Aken",
+        "Kardinad",
+        "Radiaator",
+        "Laud",
+        "Toolid",
+        "Valge karvane kuju (mannekeen)",
+        "Tass",
+        "Alustass",
+        "Potitaim",
+        "Savipott",
+        "Raamatud",
+        "Raamaturiiul",
+        "Sein",
+        "Põrand",
+        "Pistikupesad",
+        "Tahvel riiulil",
+        "Hoone väljaspool akent",
+        "Tänav",
+        "Dekoratiivesemed riiulil"
+      ],
+      "colorcodes": [
+        "#6A6E72",
+        "#4B3322",
+        "#F0F2E9",
+        "#5E8C56",
+        "#B47C56",
+        "#303030",
+        "#DDDDDD"
+      ],
+      "texts": [
+        "Secret Board",
+        "Feel Free to Leave Your Notes Here"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 5,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "002",
+      "ajad": [
+        "7.625",
+        "10.542"
+      ]
+    },
+    {
+      "explanation": "Pildil on mustal taustal valge suurtähtedes sõna \"FRANK\". Sõna on kujundatud nii, et tähtede seest paistab läbi heleda sisemiljöö vaade. Sõna \"FRANK\" on paigutatud pildi ülemisse keskossa. Tähtede sees on näha aken valgete ribakardinatega, keskel potilill helepruunis potis ja paremal pool heledat värvi tekstiil, mis võiks olla tekk või diivanikate. Stseen on üldiselt hele ja valgusrikas, viidates päevasele ajale. Ülejäänud pildipind, mis jääb väljapoole sõna \"FRANK\", on ühtlaselt must.",
+      "actions": [
+        "Teksti lugemine"
+      ],
+      "keywords": [
+        "Tekst",
+        "Sõna",
+        "FRANK",
+        "Must taust",
+        "Valge kiri",
+        "Cutout",
+        "Sisekujundus",
+        "Aken",
+        "Ribakardinad",
+        "Potilill",
+        "Valgus",
+        "Hele",
+        "Päev",
+        "Disain",
+        "Typograafia"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Tekst",
+        "Aken",
+        "Ribakardinad",
+        "Potilill",
+        "Pott",
+        "Tekstiil",
+        "Kiri"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#F0F0F0",
+        "#5E8842",
+        "#D3D3D3"
+      ],
+      "texts": [
+        "FRANK"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevused puuduvad, kuna esitatud on vaid üks pilt."
+      ],
+      "snr": "003",
+      "ajad": [
+        "10.542",
+        "13.458"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast siseruumi, tõenäoliselt kohvikut või raamatubaari, kus on laud kahe tooliga akna all. Ühel toolil istub suur valge karvane inimfiguur, seljaga vaataja poole, justkui aknast välja vaatamas või kohvi nautimas. Laud on tagasihoidlik, sellel on väike potitaim ja kohvitass alustassiga. Akna taga paistab hoone ja linna tänav, peegeldudes aknaklaasilt on näha tagurpidi teksti. Ruumi vasakul küljel on raamaturiiul täis raamatuid ja mõned dekoratiivesemed. Paremal ja tagasein on kaetud halli tekstuurse viimistlusega, mis annab ruumile rustikaalse ilme. Valgus paistab sisse aknast, luues päevase atmosfääri. Põrand on tume ja kaetud vaibaga. Aknaraami all on valge radiaator.",
+      "actions": [
+        "Istudes laua taga",
+        "Joomas kohvi (oletatav, kuna tass on laual)",
+        "Vaatamas aknast välja (figuuri asendi järgi)"
+      ],
+      "keywords": [
+        "kohvik",
+        "siseruum",
+        "aken",
+        "tänavavaade",
+        "mannekeen",
+        "tegelane",
+        "raamaturiiul",
+        "hubane",
+        "kohvitass",
+        "vaikus",
+        "ootamine",
+        "tekstuursein",
+        "aknalaud",
+        "radiaator",
+        "raamatud",
+        "toolid",
+        "laud"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "valge karvane inimfiguur",
+        "laud",
+        "kaks tooli",
+        "aken",
+        "aknalaud",
+        "radiaator",
+        "väike potitaim",
+        "kohvitass",
+        "alustass",
+        "raamaturiiul",
+        "raamatud",
+        "dekoratiivesemed riiulil",
+        "kardinad",
+        "seinad (hallid, tekstuuriga)",
+        "põrand (tume)",
+        "pistikupesad"
+      ],
+      "colorcodes": [
+        "#A9A9A9",
+        "#D2B48C",
+        "#8B4513",
+        "#FFFFFF",
+        "#000000",
+        "#4CAF50",
+        "#F5DEB3"
+      ],
+      "texts": [
+        "The Book Spot",
+        "Guest Music Playlist",
+        "music",
+        "coffee"
+      ],
+      "persons": [
+        "mannekeen"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad erinevused."
+      ],
+      "snr": "004",
+      "ajad": [
+        "13.458",
+        "16.542"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha helepruunist puidust lauda, mille keskel asetseb valge keraamiline teetass või kohvitass koos alustassiga. Tassi mõlemal küljel on näha kohevaid, valgeid käsi või käpajäljendusi, mis meenutavad karusnahast kindaid või mingi pehme looma käppi. Käppadel on näha kerget rohekas-sinist ja punakat kiudude sisse segunemist. Tassi ja käte taga on näha suurt, valget ja kohevat objekti, mis tundub olevat pehme kehaosa või kostüümi detail. Taust on tume, luues kontrastse ja hubase atmosfääri. Kogu stseen on pehme ja kutsuv, vihjates ootamisele või lõõgastumisele.",
+      "actions": [
+        "Ootamine",
+        "Puhkamine"
+      ],
+      "keywords": [
+        "Kohev",
+        "Pehme",
+        "Valge",
+        "Tass",
+        "Alustass",
+        "Puitlaud",
+        "Hubane",
+        "Mänguline",
+        "Käpad",
+        "Hommikusöök",
+        "Kohvipaus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Valge keraamiline tass",
+        "Valge keraamiline alustass",
+        "Puidust laud",
+        "Kohevad valged käed/kindad",
+        "Kohev valge keha/riietus",
+        "Tume taust"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#F5F5F5",
+        "#B27B4E",
+        "#8B5E3C",
+        "#1B1B1B",
+        "#CED3DE"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "005",
+      "ajad": [
+        "16.542",
+        "19.792"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast siseruumi, mis meenutab vaikset kohvikunurka või lugemistuba. Suur aken laseb sisse eredat loomulikku päevavalgust, valgustades akna ees asuvat väikest ruudukujulist lauda. Laual seisab valge kohvitass alustassiga ja väike roheline potitaim. Laua ümber on kaks tumepruuni puidust tooli mustade istmepatjadega. Ühel toolil istub valgest, kohevast või kangast valmistatud humanoidne figuur, mis meenutab skulptuuri või abstraktset mannekeeni. Figuuri asend muutub kolme pildi jooksul, liikudes rahulikult laualt sirutusesse, kus käed on üle pea ja selg nõjatub tahapoole. Ruumis domineerivad tumedad toonid: parempoolne sein on tumeda tekstuuriga, meenutades pahtlit või krohvi, vasakul pool on tume raamaturiiul, mis on täis raamatuid ja mõnda dokumenti. Akna all on näha valget radiaatorit. Põrand on kaetud tumeda vaibaga. Üldmulje on rahulik, minimalistlik ja veidi mõtisklev, figuuri liikumine lisab stseenile dünaamilisust ja jutustust.",
+      "actions": [
+        "valge figuur istub toolil",
+        "valge figuur sirutab käsi ülespoole",
+        "valge figuur nõjatub toolis tahapoole"
+      ],
+      "keywords": [
+        "kohvik",
+        "interjöör",
+        "aken",
+        "laud",
+        "tool",
+        "skulptuur",
+        "figuur",
+        "venitamine",
+        "raamaturiiul",
+        "hubane",
+        "päevavalgus",
+        "rahulik"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "aken",
+        "laud",
+        "toolid",
+        "valge figuur",
+        "tass",
+        "alustass",
+        "potitaim",
+        "radiaator",
+        "raamaturiiul",
+        "raamatud",
+        "kardinad",
+        "seinad",
+        "põrand",
+        "pistikupesad",
+        "kaablid"
+      ],
+      "colorcodes": [
+        "#4A4A4A",
+        "#FFFFFF",
+        "#E0D9C8",
+        "#F0F0E0",
+        "#B59C82",
+        "#5C3D2F",
+        "#1A1A1A",
+        "#CB7D54",
+        "#4B6B3E",
+        "#3A3A3A",
+        "#2D2D2D",
+        "#FDFDFD"
+      ],
+      "texts": [
+        "tekst dokumendil/nimekirjal raamaturiiulil"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "kevad",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil istub valge figuur suhteliselt sirgelt, käed on küünarnukkidest kõverdatud ja toetuvad lauale tassi lähedal.",
+        "Teisel pildil on figuur toolis tahapoole nõjatud, selg vastu tumedat seina, käed on sirutatud ülespoole ja veidi tahapoole, sõrmed kergelt laiali.",
+        "Kolmandal pildil on figuuri käed veelgi kõrgemale ja tahapoole sirutatud, sõrmed on tugevamalt laiali ja painutatud, andes liigutusele maksimaalse venitatuse ilme."
+      ],
+      "snr": "006",
+      "ajad": [
+        "19.792",
+        "24.458"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast ja veidi sürreaalset siseruumi, mis meenutab kohvikut või lugemisnurka. Ruumi kesksel kohal on laud, mis asub suure akna ees. Aknast paistab välja linnavade. Laua ääres istub valgest karvasest materjalist valmistatud humanoidne figuur, mis meenutab mannekeeni või skulptuuri. Figuur on paigutatud ühele kahest toolist laua taga. Laual on valge tass alustassiga ja väike potitaim. Teine tool laua ääres on tühi, pakkudes istumisvõimalust. Vasakul pool on tume puidust raamaturiiul, mis on täidetud mitmete raamatutega. Paremal pool on tumehall krobelise tekstuuriga sein, kus on näha ka paar pistikupesa. Akent ääristavad heledad, pehmed valged kardinad ning akna all on radiaator. Üldine atmosfäär on vaikne ja mõtisklev, figuur lisab stseenile ainulaadse ja kunstilise noodi.",
+      "actions": [
+        "Figuur istub laua ääres",
+        "Figuur muudab kehaasendit (käte ja pea liigutamine)",
+        "Ootamine"
+      ],
+      "keywords": [
+        "kohvik",
+        "siseruum",
+        "sürreaalne",
+        "mannekeen",
+        "skulptuur",
+        "valge figuur",
+        "aken",
+        "raamaturiiul",
+        "raamatud",
+        "tass kohvi",
+        "vaikne",
+        "ootamine",
+        "hubane"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "laud",
+        "toolid",
+        "aken",
+        "kardinad",
+        "raamaturiiul",
+        "raamatud",
+        "potitaim",
+        "tass",
+        "alustass",
+        "radiaator",
+        "sein",
+        "pistikupesad",
+        "valge karvane figuur"
+      ],
+      "colorcodes": [
+        "#3A3A3A",
+        "#F0F0F0",
+        "#E0E0E0",
+        "#5B2B0A",
+        "#C19A71",
+        "#C96F4A",
+        "#4A2B1B"
+      ],
+      "texts": [
+        "Tekstid ei ole loetavad"
+      ],
+      "persons": [
+        "Puuduvad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel muutub valge karvase figuuri kehaasend.",
+        "Esimesel pildil on figuuri mõlemad käed üles tõstetud ja pea kergelt ülespoole suunatud, justkui oleks ta liigutuses, ehmunud või üllatunud.",
+        "Teisel pildil on figuuri käed lauale asetatud, peopesad allapoole, ja pea on ettepoole suunatud, vaadates tassi.",
+        "Kolmandal pildil on figuuri käte ja pea asend sarnane teisele pildile, kuid on märgata peeneid erinevusi käte paigutuses laual ning pea kallutuses, mis annab veidi teistsuguse rahuliku või ootava hoiaku."
+      ],
+      "snr": "007",
+      "ajad": [
+        "24.458",
+        "26.292"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab valget karvast olendit või tegelaskuju, kes istub puidust laua taga ja on haaramas kohvitassi. Kaadris on näha olendi keha parem külg ja vasak käsi, mis on kaetud paksu valge koheva materjaliga, meenutades loomakarva või pehmet tekstiili. Olendi keha tundub olevat ümar ja pehme. Laul on asetatud valge keraamiline kohvitass koos alustassiga. Vasakult paistab sisse pehme päevavalgus, vihjates akna olemasolule ja õhukesele heledale kardinale. Stseen areneb nii, et alguses on olendi käsi tassiga kaugel laual, seejärel liigub see tassi poole ja lõpuks haarab olend tassi käepidemest. Valdavalt on tegemist heledate toonidega, mis loovad rahuliku ja pehme atmosfääri.",
+      "actions": [
+        "Koheva olendi käsi sirutab tassi poole",
+        "Koheva olendi käsi puudutab tassi",
+        "Koheva olendi käsi haarab tassist"
+      ],
+      "keywords": [
+        "Kohev olend",
+        "Karvane",
+        "Valge",
+        "Kohvitass",
+        "Puidust laud",
+        "Rahulik",
+        "Hommikukohv",
+        "Siseruum",
+        "Pehme"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kohev olend (või karvane kostüüm)",
+        "Kohvitass",
+        "Alustass",
+        "Puidust laud",
+        "Kardin (tagaplaanil)",
+        "Aken (tagaplaanil)"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#F0F0F0",
+        "#B08C6E",
+        "#E0E0E0",
+        "#4C4C4C"
+      ],
+      "texts": [],
+      "persons": [
+        "Isik (kostüümis)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on koheva olendi käsi tassist kaugemal ja veel ei puuduta seda.",
+        "Teisel pildil on koheva olendi käsi tassi kohal, justkui alustamas tassi haaramist.",
+        "Kolmandal pildil on koheva olendi käsi kindlalt tassi käepideme ümber, hoides tassi."
+      ],
+      "snr": "008",
+      "ajad": [
+        "26.292",
+        "28.542"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast ja veidi sürreaalset interjööri, tõenäoliselt kohvikut või raamatukogu nurgakest. Kesksel kohal on valge, kohevast materjalist valmistatud mannekeenilaadne figuur, mis istub tumedast puidust toolil väikese kandilise laua taga. Figuur hoiab vasakus käes valget kohvitassi ja on suunanud selle oma näo poole, justkui jooki nautides. Selle kohev tekstuur on eriti silmapaistev kätel ja kehal. Laual on valge alustass ja väike roheline potitaim. Akna taga paistab hägune linnavaade ja alumine osa on kaetud radiaatoriga. Aknaklaasil on peegelpildis näha tekst \"music\". Aknaid ääristavad heledad, lainelised kardinad. Ruumi seinad on tumedad, halli värvi ja tekstuuriga, andes edasi ajastatud või rustikaalse tunde. Vasakul on puidust raamaturiiul täis raamatuid, mis vihjab lugemiskohale. Laua vastas asub teine tühi puidust tool. Põrand on kaetud tumeda vaibaga. Seintel on näha pistikupesad.",
+      "actions": [
+        "Istudes laua taga",
+        "Tassi hoidmine",
+        "Joomine/nautimine"
+      ],
+      "keywords": [
+        "Kohvik",
+        "Mannekeen",
+        "Kohev",
+        "Valge",
+        "Sürreaalne",
+        "Hubane",
+        "Raamaturiiul",
+        "Siseruum",
+        "Kohvipaus",
+        "Mõtisklev"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Mannekeenilaadne figuur",
+        "Kohvitass",
+        "Alustass",
+        "Laud",
+        "Tool",
+        "Aken",
+        "Kardinad",
+        "Radiaator",
+        "Potitaim",
+        "Raamaturiiul",
+        "Raamatud",
+        "Sein",
+        "Põrand",
+        "Pistikupesad"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#4A4A4A",
+        "#4F2E1A",
+        "#D3C9BE",
+        "#4CAF50"
+      ],
+      "texts": [
+        "music"
+      ],
+      "persons": [
+        "Mannekeenilaadne figuur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Üks piltidest on lähivõte kohevast käest, mis hoiab tassi, keskendudes detailidele ja tekstuurile.",
+        "Teine pilt on üldvaade samast stseenist, näidates tervet kohevat figuuri, lauda, ruumi sisekujundust ja aknavaadet."
+      ],
+      "snr": "009",
+      "ajad": [
+        "28.542",
+        "31.958"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast sisetingimustes asuvat ruumi, mis näib olevat kohvik või lugemisnurk. Kesksel kohal on väike ümmargune laud, mille taga istub valge, udusest materjalist valmistatud inimfiguur, mis meenutab skulptuuri või mannekeeni. Figuur hoiab tassi suu juures, justkui jooki nautides. Laua vastas on vaba puidust tool tumeda istmega. Paremal pool on nähtav suur aken, millest paistab ere päevavalgus ja läbi mille on näha udune välismaailm, tõenäoliselt tänavaliiklus. Akna all on valge radiaator ja aknalaual väike roheline potitaim. Aknaid raamivad heledad kardinad. Vasakul pool on tumedast puidust raamaturiiul, mis on täidetud erinevate raamatutega ja mille peal on reas väikesed tühjad tassid. Riiuli kohal on seinale kinnitatud väike valge menüü või teadetetahvel. Ruumi seinad on tumedad, tekstuuriga ja varjudega kaetud, andes ruumile sügavust. Põrand on kaetud tumeda vaibaga. Seintel on näha mitu valget pistikupesa. Üldmulje on vaikne ja mõtisklev, rõhutades üksildust või ootust.",
+      "actions": [
+        "figuur joob tassikeest",
+        "figuur istub toolil",
+        "raamatud on riiulil"
+      ],
+      "keywords": [
+        "kohvik",
+        "interjöör",
+        "skulptuur",
+        "mannekeen",
+        "raamaturiiul",
+        "aken",
+        "päevavalgus",
+        "vaikus",
+        "üksildus",
+        "mõtisklev",
+        "hubane"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "inimfiguur",
+        "toolid",
+        "laud",
+        "aken",
+        "kardinad",
+        "raamaturiiul",
+        "raamatud",
+        "tassid",
+        "taldrik",
+        "potitaim",
+        "radiaator",
+        "seinad",
+        "pistikupesad",
+        "põrand",
+        "menüü/silt"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#333333",
+        "#8B4513",
+        "#D3D3D3",
+        "#A9A9A9",
+        "#4B0082"
+      ],
+      "texts": [
+        "music",
+        "The Best Way To...",
+        "m.ebm"
+      ],
+      "persons": [
+        "figuur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel ja teisel pildil hoiab valge figuur tassi suu juures, justkui joomise asendis.",
+        "Kolmandal pildil on valge figuur käe pisut alla lasknud, nii et tass ei ole enam otse suu juures. Võimalik, et kaameranurk on kolmandal pildil veidi muutunud."
+      ],
+      "snr": "010",
+      "ajad": [
+        "31.958",
+        "36.375"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast siseruumi, kus valges, karvases kostüümis (sarnaneb jetiga või teise karvase olendiga) tegelane asetab puidust lauale valge teetassi koos alustaldrikuga. Kaadris on näha kostüümi käed ja rinnakorv. Üks karvane käsi on ettevaatlikult tassi alustaldrikule asetanud ja seejärel eemaldunud, teine karvane jäse puhkab laual vasakul pool. Taust on pehme ja udune, kujutades heledat kardinat ja vihjet aknale, mis viitab loomulikule päevavalgusele.",
+      "actions": [
+        "Teetassi asetamine alustaldrikule",
+        "Teetassi lauale panemine",
+        "Karvase kostüümi käe liigutamine"
+      ],
+      "keywords": [
+        "Karvane kostüüm",
+        "Jeti",
+        "Valge",
+        "Teetass",
+        "Kohvitass",
+        "Alustaldrik",
+        "Puidust laud",
+        "Siseruum",
+        "Mugavus",
+        "Joogipaus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Karvane kostüüm (käed, kehaosa)",
+        "Teetass",
+        "Alustaldrik",
+        "Puidust laud",
+        "Kardin (taustal)",
+        "Aken (kaudne)"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#FDFDFD",
+        "#A87D56",
+        "#C19973",
+        "#F0F0F0"
+      ],
+      "texts": [],
+      "persons": [
+        "Isik karvases kostüümis"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on karvane käsi teetassi asetamisel alustaldrikule ja lauale, olles veel tassiga kontaktis.",
+        "Teisel ja kolmandal pildil on teetass koos alustaldrikuga lauale asetatud ning karvane käsi on tassist eemaldunud.",
+        "Teine ja kolmas pilt on visuaalselt identsed, näidates sama hetke pärast tassi asetamist."
+      ],
+      "snr": "011",
+      "ajad": [
+        "36.375",
+        "39.125"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast siseruumi, mis näib olevat kohvik või lugemisnurk. Keskel on akna ees paigutatud väike ruudukujuline laud kahe tooliga. Akna taga avaneb vaade linnale ja selle hoonetele, ning aknal on näha tagurpidi kirja \"music. coffee\". Laual on väike roheline potitaim pruunis potis, valge kohvitass ja alustass. Ühel toolil istub omapärane valge karvane inimkujuline figuur. Hiljem lisandub stseenile noormees, kes võtab istet figuuri vastas olevale toolile, käes mobiiltelefon või sarnane ese, vaadates figuuri poole. Toa vasakus servas on tumeda puidust raamaturiiul, mis on täidetud mitmesuguste raamatutega ning mille peal on näha ka mõned tassid. Parempoolne sein on kaetud tumeda tekstuuriga viimistlusega. Akna all on näha valget radiaatorit ja akna ees ripuvad heledad kardinad. Põrand on kaetud tumeda vaibaga. Üldine atmosfäär on vaikne, kutsuv ja mõnevõrra müstiline tänu ebatavalisele figuurile.",
+      "actions": [
+        "Istumine",
+        "Vaatamine (mehe poolt figuuri suunas)",
+        "Koosolemine",
+        "Ootamine (figuuri puhul)",
+        "Kohvi joomine (oletatav)"
+      ],
+      "keywords": [
+        "Kohvik",
+        "Lugemisnurk",
+        "Siseinterjöör",
+        "Kummaline figuur",
+        "Koosviibimine",
+        "Rahulik",
+        "Hubane",
+        "Raamaturiiul",
+        "Aknaäärne",
+        "Mannekeen"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Toolid (2)",
+        "Valge karvane inimkujuline figuur",
+        "Kohvitass",
+        "Alustass",
+        "Potitaim",
+        "Aken",
+        "Raamaturiiul",
+        "Raamatud",
+        "Tassid (riiulil)",
+        "Radiaator",
+        "Sein",
+        "Põrandavaip",
+        "Pistikupesad",
+        "Kardinad",
+        "Mobiiltelefon"
+      ],
+      "colorcodes": [
+        "#4A4A4A",
+        "#3F3C3C",
+        "#6B3E2D",
+        "#1A1A1A",
+        "#E0DED7",
+        "#A18C72",
+        "#333333",
+        "#F0F0F0",
+        "#8B4513",
+        "#5C8F5B",
+        "#FFFFFF",
+        "#D0D0D0"
+      ],
+      "texts": [
+        "music. coffee",
+        "Raamaturiiulil olev paberileht (tekst loetamatu)"
+      ],
+      "persons": [
+        "Noormees (mustas pusa, istub laua taga)",
+        "Valge karvane inimkujuline figuur (istub teisel pool lauda)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene ja teine pilt on identsed.",
+        "Kolmandal pildil on laua taga varem tühjal toolil istumas noormees, kes kannab musta pusa ja pükse ning vaatab valge karvase figuuri poole. Esimesel ja teisel pildil on see tool tühi.",
+        "Noormees hoiab kolmandal pildil käes mobiiltelefoni või muud väikest eset."
+      ],
+      "snr": "012",
+      "ajad": [
+        "39.125",
+        "46.417"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast siseruumi, mis sarnaneb kohvikule või ooteruumile. Keskel on väike hele puidust laud, mille ümber on kaks tumedat puidust tooli. Parempoolsel toolil istub elusuuruses, heledast, karvasest materjalist (nt fliisist) inimkuju, millel pole selgeid näojooni. Kuju on paigale tardunud, jalad ja käed kergelt painutatud, justkui istuks loomulikult. Vasakpoolsel toolil istuvad erinevates kaadrites erinevad inimesed, kes kõik vaatavad otse karvase figuuri poole. Laual on kaks valget tassi (tõenäoliselt kohvi- või teetassid) ja väike roheline potitaim (näib olevat basiilik või sarnane ürt) terrakotapotis. Aknalaualt paistab aknast välja vaade linnatänavale ja heledale, võimalik et ajaloolisele hoonele. Aknale on peegelpildis kirjutatud tagurpidi sõnad \"MUSIC\" ja \"COFFEE\". Ruumis vasakul on tumedal riiulil rohkelt raamatuid, mille kohal on riiulil rida tühje klaasist tasse. Parempoolne sein on tumedast, tekstuuriga materjalist, sarnanedes betoonile või tumedale krohvile, ja seal on näha mõned pistikupesad. Põrand on kaetud tumeda vaibaga. Üldine valgustus on pehme päevavalgus, mis tuleb aknast sisse.",
+      "actions": [
+        "Istumine laua taga",
+        "Vaatamine karvase figuuri poole",
+        "Tassi käes hoidmine",
+        "Mõtlik poos (pildil 3)",
+        "Hoidmine kaussi (pildil 1)"
+      ],
+      "keywords": [
+        "Kohvik",
+        "Siseinterjöör",
+        "Nukk",
+        "Figuur",
+        "Inimesed",
+        "Laua taga",
+        "Kummaline",
+        "Paigalseis",
+        "Vaatamine",
+        "Raamatud",
+        "Taim",
+        "Aken"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Toolid",
+        "Raamatud",
+        "Raamaturiiul",
+        "Aken",
+        "Potitaim",
+        "Tassid",
+        "Fluffy figuur",
+        "Sein",
+        "Põrandavaip",
+        "Pistikupesad",
+        "Klaastassid",
+        "Hoone (väljas)",
+        "Peapael",
+        "Müts",
+        "Kauss"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#333333",
+        "#8B4513",
+        "#FFD700",
+        "#DC143C",
+        "#006400",
+        "#808080",
+        "#4682B4"
+      ],
+      "texts": [
+        "MUSIC",
+        "COFFEE"
+      ],
+      "persons": [
+        "Naine (heledate juustega)",
+        "Naine (punakaspruunide juustega)",
+        "Mees",
+        "Inimkuju (mitte inimene)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Vasakpoolsel toolil istuvad erinevates kaadrites erinevad inimesed.",
+        "Iga inimene kannab erinevat riietust ja omab erinevat soengut või peakatet.",
+        "Esimesel pildil hoiab vasakpoolne isik käes kaussi, teistel piltidel on käed laual või teises poosis."
+      ],
+      "snr": "013",
+      "ajad": [
+        "46.417",
+        "48.250"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist istumas väikese puitlaua taga, vastas talle on valge, karvane, inimkujuline mannekeen. Nad asuvad siseruumis, mis tundub olevat hubane ja pisut hämar, võimalik, et kohvikus või elutoas. Suur aken avaneb tänavale, kus on näha vanu hooneid ja linnapilti. Vasakul on puidust raamaturiiul täis raamatuid ja paremal on tekstuuriga hall sein. Laual on kaks kohvitassi ja väike roheline potitaim. Naine muudab igal pildil oma riietust, kehaasendit ja näoilmet, mis viitab erinevatele hetkedele või interaktsioonidele mannekeeniga. Mannekeen jääb kogu stseeni vältel muutumatuks, istudes ja vaadates aknast välja.",
+      "actions": [
+        "Istumine laua taga",
+        "Mõtisklemine ja vaatamine",
+        "Vestlemine (implitsiitselt)",
+        "Kohvitassi hoidmine (mõnel pildil)",
+        "Vaate nautimine aknast (mannekeeni asend)"
+      ],
+      "keywords": [
+        "kohvik",
+        "siseruum",
+        "mannekeen",
+        "naine",
+        "laud",
+        "aken",
+        "raamaturiiul",
+        "tassid",
+        "installatsioon",
+        "hubane",
+        "päevavalgus",
+        "linnavaade",
+        "hall sein",
+        "puitmööbel",
+        "potitaim",
+        "raamatud",
+        "interaktsioon",
+        "mõtisklus",
+        "isolatsioon"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "puitlaud",
+        "puittoolid",
+        "valge karvane mannekeen",
+        "noor naine",
+        "suur aken",
+        "raamaturiiul",
+        "raamatud",
+        "kohvitassid",
+        "potitaim",
+        "kardinad",
+        "väljaspool asuvad hooned",
+        "tekstuuriga hall sein",
+        "elektripistikud",
+        "põrandavaip",
+        "rippuv tahvel/leht raamaturiiulil",
+        "topsid/kausid riiulil"
+      ],
+      "colorcodes": [
+        "#2E4748",
+        "#302E31",
+        "#A37F5D",
+        "#855C42",
+        "#F5F5F5",
+        "#4F5050",
+        "#4A3D36",
+        "#6A2C55",
+        "#B9AE72",
+        "#3C5C6B",
+        "#2C353C",
+        "#2B2C2E",
+        "#E0E0E0",
+        "#B0B0B0",
+        "#D0D0D0",
+        "#F0E6D8"
+      ],
+      "texts": [
+        "music",
+        "The Song of the Day is..."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naine kannab esimesel pildil tumerohelist jakki ja musta seelikut, toetades lõuga käele ja vaadates mõtlikult. Teisel pildil on tal seljas lilla kardigan, kollane seelik, tumedad sukkpüksid ja peas pruun müts, suunurgas on kerge naeratus. Kolmandal pildil on naisel tumesinine mustriga särk, tumedad teksapüksid ja heledam müts peas, ta räägib aktiivselt (suu on avatud) ja käed on laual.",
+        "Naine muudab oma kehaasendit ja näoilmet igal pildil, alustades mõtisklevast asendist, liikudes sõbraliku naeratuse juurde ja lõpetades aktiivse vestlusega."
+      ],
+      "snr": "014",
+      "ajad": [
+        "48.250",
+        "49.625"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast siseruumi, mis sarnaneb kohviku või puhketoaga. Vasakul pool on näha raamaturiiul, mis on täidetud erinevate raamatutega. Keskel on suur aken, millest paistab välja linna vaade, kus on näha hooneid ja taevast. Akna ees ja aknalaua peal on väike potitaim. Aknale on kleebitud tagurpidi tekst, mis tundub olevat \"COFFEE\" ja \"MUSIC\". Akna ees on puidust laud, mille ümber on kaks tooli. Ühel toolil istub inimene, teisel toolil istub valge, karvane ja elusuuruses inimfiguur, mis meenutab skulptuuri. Laual on näha kaks kohvitassi. Ruumi paremal küljel on tume tekstuuriga sein, kus on näha elektripistikud ja juhtmed. Põrand on kaetud tumeda vaibaga. Kogu stseen on valgustatud loomuliku päevavalgusega, mis paistab sisse aknast.",
+      "actions": [
+        "Istumine laua taga",
+        "Vaatamine/suhtlemine (implitsiitne figuuri suunas)",
+        "Joogi nautimine (tasside olemasolu tõttu)"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Kohvik",
+        "Aken",
+        "Laud",
+        "Toolid",
+        "Inimene",
+        "Skulptuur",
+        "Kunst",
+        "Raamaturiiul",
+        "Raamatud",
+        "Taim",
+        "Kohvitassid",
+        "Tekstuuriga sein",
+        "Päevavalgus",
+        "Hubane",
+        "Ebatavaline"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Puidust laud",
+        "Toolid",
+        "Kohvitassid",
+        "Väike potitaim",
+        "Raamaturiiul",
+        "Raamatud",
+        "Suur aken",
+        "Valge karvane inimfiguur/skulptuur",
+        "Sein",
+        "Põrandavaip",
+        "Elektripistikud",
+        "Juhtmed",
+        "Eesriided/kardinad"
+      ],
+      "colorcodes": [
+        "#4A4A4A",
+        "#FFFFFF",
+        "#6B4E3A",
+        "#E0DED7",
+        "#2D2420",
+        "#4CAF50",
+        "#8B4513"
+      ],
+      "texts": [
+        "COFFEE (tagurpidi)",
+        "MUSIC (tagurpidi)"
+      ],
+      "persons": [
+        "Noor mees (prillidega)",
+        "Noor naine (tume tukk, sportlikus riietuses)",
+        "Noor naine (kübaraga, pluusi ja kardiganiga)",
+        "Karvane inimfiguur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevad inimesed istuvad laua taga figuuri vastas igal pildil. Esimesel pildil on prillidega noormees, heleda juuksevärviga, seljas hall t-särk ja tumedad teksad. Teisel pildil on tumedate juustega noor naine, juuksed patsi seotud, seljas tume pikkade varrukatega pluus ja tumedad püksid, jalas oranžikad tossud. Kolmandal pildil on heleda kübaraga noor naine, seljas mustriline pluus, tumedad teksad ja pruunid saapad, õlgadel heledat värvi kardigan.",
+        "Iga inimese riietus ja aksessuaarid on erinevad.",
+        "Inimeste kehahoid ja käte asetus laual erineb kergelt piltide vahel (nt. ühel pildil hoitakse tassi, teisel puhkavad käed laual)."
+      ],
+      "snr": "015",
+      "ajad": [
+        "49.625",
+        "50.667"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast siseruumi, tõenäoliselt kohvikut või raamatukogu ala, kus inimfiguur istub väikese puidust laua taga vastamisi suure, valge ja karvase humanoidse olendiga. Inimfiguurid vahetuvad piltidel (naeratav naine, tõsine naine, tõsine mees), kuid karvane olend jääb konstantseks. Laud on kaetud valge teetassi ja väikese rohelise potitaimega. Inimeste taga vasakul on tume raamaturiiul, mis on täidetud raamatute ja dekoratiivtassidega. Keskel tagaplaanil domineerib suur aken valgete läbipaistvate kardinatega, millest paistab linnamaastik ja hoone fassaad, viidates päevasele ajale. Ruumi parem külg on kaetud tumedahalli tekstuurse seinaga. Üldine atmosfäär on summutatud tumedate toonidega, mida tasakaalustab ere aken ja valge olend.",
+      "actions": [
+        "Istumine",
+        "Vaatamine",
+        "Vestlemine (eeldatavasti)",
+        "Naeratamine"
+      ],
+      "keywords": [
+        "Kohvik",
+        "Siseinterjöör",
+        "Mannekeen",
+        "Kunst",
+        "Müstiline",
+        "Inimene",
+        "Laud",
+        "Aken",
+        "Raamaturiiul",
+        "Kohtumine",
+        "Vestlus",
+        "Ebaharilik",
+        "Fantaasia"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Toolid",
+        "Valge karvane olend",
+        "Naine",
+        "Mees",
+        "Tass",
+        "Pott",
+        "Taim",
+        "Raamaturiiul",
+        "Raamatud",
+        "Tassid (riiulil)",
+        "Aken",
+        "Kardinad",
+        "Sein",
+        "Põrand",
+        "Pistikupesad",
+        "Kingad"
+      ],
+      "colorcodes": [
+        "#4C4C4C",
+        "#F0F0F0",
+        "#BFA892",
+        "#608C4A",
+        "#30404C",
+        "#70383C"
+      ],
+      "texts": [
+        "Ebaselge tekst raamatutel"
+      ],
+      "persons": [
+        "Naine",
+        "Mees",
+        "Karvane humanoid"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Stseenis laua taga istuv inimene vahetub. Esimesel pildil on naeratav tumedate juustega naine, teisel pildil on blondide juustega naine ja kolmandal pildil on tõsisema ilmega mees.",
+        "Inimeste riietus on iga kord erinev.",
+        "Inimeste näoilmed varieeruvad: naeratus, kerge naeratus ja tõsine/neutraalne ilme."
+      ],
+      "snr": "016",
+      "ajad": [
+        "50.667",
+        "51.208"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha valget, karvast, tõenäoliselt antropomorfset tegelast, kes sirutab oma käe valge kohvitassi poole ja haarab seejärel tassi sangast. Tegelase käsi ja osa kehast on kaetud paksu valge karvaga, mis annab talle koheva ja pehme välimuse. Tegevus toimub heledast puidust laual. Tass asetseb valgel alustassil. Taustal on näha eredat valgust, mis viitab aknale ja päevasele ajale, ning tumedamaid varjundeid, mis loovad sügavust. Üldine õhkkond on rahulik ja kodune.",
+      "actions": [
+        "Karvane käsi läheneb tassile",
+        "Karvane käsi haarab tassi sangast kinni",
+        "Käsi hoiab tassi"
+      ],
+      "keywords": [
+        "valge karvane käsi",
+        "kohvitass",
+        "alustass",
+        "puidust laud",
+        "antropomorfne tegelane",
+        "kohev",
+        "valge",
+        "hommikukohv",
+        "interjöör"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "valge kohvitass",
+        "valge alustass",
+        "puidust laud",
+        "valge karvane käsi",
+        "valge karvane keha/kostüüm"
+      ],
+      "colorcodes": [
+        "#F7F7F7",
+        "#C59772",
+        "#E5E5E5",
+        "#404040",
+        "#82B3C0"
+      ],
+      "texts": [],
+      "persons": [
+        "antropomorfne tegelane"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on karvane käsi tassi kohal, sõrmed kergelt kõverdatud, valmistudes tassist kinni haarama. Käel on märgata pisike sinine detail.",
+        "Teisel pildil on käsi liikunud tassile lähemale, kuid ei puuduta seda veel. Sinine detail ei ole enam selgelt nähtav.",
+        "Kolmandal pildil on käsi tassi sangast kindlalt kinni haaranud ja hoiab seda."
+      ],
+      "snr": "017",
+      "ajad": [
+        "51.208",
+        "53.167"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast siseruumi, mis sarnaneb kohviku või koduse söögitoaga, kus laud on kaetud kahele. Ühel pool lauda istub mees, teisel pool aga valge, kohev, inimkujuline figuur. Figuur on kaetud üleni valge karvase materjaliga ja paistab olevat kostüüm või kunstobjekt, mis imiteerib inimest. Figuur hoiab käes valget kruusi, millest tõuseb auru, viidates kuumale joogile, ning see on asetatud valgele tassialusele. Figuur on ilmselt joomas. Mees vaatab figuuri poole. Laual on lisaks veel klaas vett ja väike roheline potitaim. Akende ees on valged kardinad, mille tagant paistab linnamaastik. Ruumi paremal küljel on tume tekstuuriga sein ja vasakul pool asub raamaturiiul täis raamatuid ning mõned väikesed tassid. Üldine atmosfäär on vaikne ja mõtisklev, rõhutades veidrat kooslust inimese ja selle koheva olendi vahel.",
+      "actions": [
+        "Istumine",
+        "Joomine (koheva figuuri poolt)",
+        "Kruusi hoidmine",
+        "Vaatamine (mehe poolt figuurile)"
+      ],
+      "keywords": [
+        "Kohvik",
+        "Kohev figuur",
+        "Inimene",
+        "Laud",
+        "Jook",
+        "Kummaline",
+        "Interjöör",
+        "Aken",
+        "Raamaturiiul",
+        "Valge",
+        "Mõtisklev",
+        "Kostüüm"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Toolid",
+        "Valge kohev figuur",
+        "Mees",
+        "Valge kruus",
+        "Valge tassialus",
+        "Klaas (vee jaoks)",
+        "Pottides taim",
+        "Raamaturiiul",
+        "Raamatud",
+        "Valged kardinad",
+        "Aken",
+        "Tume sein",
+        "Müts (ühel mehel)",
+        "Prillid (ühel mehel)"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#363636",
+        "#C2A385",
+        "#A87E58",
+        "#4A6E4B",
+        "#34495E"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Valge kohev figuur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe välimus muutub piltide vahel: ühel pildil kannab ta halli nokamütsi ja tumedat pikkade varrukatega särki ning tumedaid saapaid, teisel pildil on tal lühemad juuksed (ilma mütsita), prillid, helehall T-särk ja heledad tossud.",
+        "Esimene pilt on lähivõte koheva figuuri käest ja kruusist, samas kui teised kaks pilti on laiad kaadrid, mis näitavad kogu stseeni."
+      ],
+      "snr": "018",
+      "ajad": [
+        "53.167",
+        "58.292"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast siseruumi, mis sarnaneb kohviku või lugemissaaliga. Kesksel kohal on puidust laud kahe tooliga, mis asub suure akna ees, kust paistab päevavalgus. Ühel toolil istub noor naine, kes on riietatud helesinisesse pluusi, tumedatesse teksadesse ja kandub beeži mütsi. Tema juuksed on lühikesed ja ta vaatab naeratades teise tooli poole. Teisel toolil istub kummaline, helevalge karvane humanoidkuju, kes meenutab suurt mänguasja või tegelaskuju. See kuju ulatab tassi naisele üle laua. Laual on veel mobiiltelefon, väike taim potis ja mingi jook. Ruumi vasakus servas on näha raamaturiiulid rohkete raamatutega. Parempoolne sein on tumedam, krobelise tekstuuriga. Üldine atmosfäär on vaikne ja intiimne, viidates vestlusele või ootusele.",
+      "actions": [
+        "Istumine laua taga",
+        "Tassi ulatamine/asetamine",
+        "Vestlemine (oletatav)",
+        "Vaatamine ja naeratamine"
+      ],
+      "keywords": [
+        "Kohvik",
+        "Hubane",
+        "Kummaline",
+        "Fantaasia",
+        "Kohtumine",
+        "Siseruum",
+        "Raamatud",
+        "Interaktsioon",
+        "Karvane kuju"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Puidust laud",
+        "Puidust toolid",
+        "Valge kohvitass",
+        "Tassialus",
+        "Roheline taim potis",
+        "Mobiiltelefon",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Aken",
+        "Heledad kardinad",
+        "Noor naine",
+        "Karvane humanoidkuju",
+        "Hall müts",
+        "Helesinine pluus",
+        "Tumedad teksad",
+        "Beežid kingad",
+        "Valge pleed/jakk (toolil)",
+        "Pistikupesad/valgustid"
+      ],
+      "colorcodes": [
+        "#F5F5DC",
+        "#8B4513",
+        "#D3D3D3",
+        "#A9A9A9",
+        "#ADD8E6",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "The Long Walk",
+        "A Game of Thrones",
+        "The King Must Die",
+        "Books We Love"
+      ],
+      "persons": [
+        "Noor naine",
+        "Karvane humanoidkuju"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Pilt 1 on laiema vaatega, näidates kogu stseeni kahe tegelase, laua, akna ja ruumi üldise interjööriga. Pildid 2 ja 3 on lähivõtted kohvitassist laual.",
+        "Pildil 2 on karvase kuju käsi tassi kohal, justkui seda ulatades, samas kui pildil 3 on käsi veidi eemal ja tassi ümber, fookus on tassil endal.",
+        "Piltidel 2 ja 3 on näha tassi ja kuju karvast tekstuuri detailsemalt, mis laiemal pildil (pilt 1) ei ole nii selge."
+      ],
+      "snr": "019",
+      "ajad": [
+        "58.292",
+        "60.417"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast ja vaikset siseruumi, tõenäoliselt kohvikut või lugemisnurka. Kesksel kohal on väike puidust laud kahe puidust tooliga. Ühel toolil istub inimene ja teisel toolil istub valge, plüüsist, inimkujuline mannekeen. Laul on kaks kohvitassi või kruusi ja väike roheline potitaim. Akna taga paistab päevane aeg ja näha on heledad kardinad ning vana arhitektuuriga hoone. Vasakul pool on puidust raamaturiiul täis raamatuid, mis viitab lugemisvõimalusele. Ruumis on tumedad, tekstuuriga seinad ja tumedapoolne vaipkattega põrand, mis loob rahuliku ja mõtiskleva atmosfääri. Aknal on peegeldusena näha tagurpidi kirjutatud sõnad \"music\" ja \"coffee\".",
+      "actions": [
+        "Istumine laua taga",
+        "Joomine tassidest (oletatav)",
+        "Vaatamine ja suhtlemine (mannekeeniga)",
+        "Naeratamine (mõnede inimeste poolt)"
+      ],
+      "keywords": [
+        "Kohvik",
+        "Lugemisnurk",
+        "Mannekeen",
+        "Siseruum",
+        "Aknaäärne",
+        "Rahulik",
+        "Raamaturiiul",
+        "Kohvitass",
+        "Vestlus (oletatav)",
+        "Hubane",
+        "Kunstiline"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Puidust laud",
+        "Puidust toolid",
+        "Valge plüüsist inimkuju/mannekeen",
+        "Kohvitassid/kruusid",
+        "Väike potitaim",
+        "Aken",
+        "Kardinad",
+        "Raamaturiiul",
+        "Raamatud",
+        "Hoone väljaspool (nähtav läbi akna)",
+        "Seinad",
+        "Põrand",
+        "Radiaator",
+        "Pistikupesad"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#D2B48C",
+        "#D3D3D3",
+        "#808080",
+        "#ADD8E6",
+        "#228B22",
+        "#F5F5DC",
+        "#000000"
+      ],
+      "texts": [
+        "music",
+        "coffee"
+      ],
+      "persons": [
+        "Noor naine (tumedate juustega, mustrilise särgiga)",
+        "Noor naine (blondide juustega, musta bleiseriga)",
+        "Noor naine/tüdruk (hele pruunide juustega, rohelise mütsiga)",
+        "Valge plüüsist inimkuju (mannekeen)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Igal pildil istub mannekeeni vastas erinev inimene.",
+        "Esimene pilt näitab tumedate juustega naist, seljas mustriline pluus ja pruunid püksid, kes vaatab mannekeenile naeratades.",
+        "Teine pilt näitab blondide juustega naist, seljas must bleiser ja mustad püksid, kes samuti naeratab ja vaatab mannekeenile.",
+        "Kolmas pilt näitab heledate juustega noort naist või tüdrukut, peas roheline müts, seljas valge t-särk ja sinised teksapüksid, kes on tõsisema ilmega."
+      ],
+      "snr": "020",
+      "ajad": [
+        "60.417",
+        "61.792"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast siseruumi, tõenäoliselt kohvikut või lugemisnurka, kus inimene istub puidust laua ääres vastamisi ebatavalise, valge, koheva karvkattega kaetud inimfiguuriga. Laual on kaks tassi ja väike roheline potitaim. Aknalaualt paistab läbi akna vana hoone siluett ning valgete kardinate vahelt kumab päevavalgus, mis heidab ruumi üldise pehme valguse. Ruumi vasakus servas on raamaturiiul täis raamatuid, mis lisavad hubasust. Paremal pool on tume, tekstuuriga sein, millel on näha paar pistikupesa. Inimene laua taga hoiab käes tassi, justkui nautides kohvi või teed.",
+      "actions": [
+        "Istumine",
+        "Tassi hoidmine",
+        "Vaatamine (tassi, ettepoole)"
+      ],
+      "keywords": [
+        "Kohvik",
+        "Hubane",
+        "Siseruum",
+        "Mannekeen",
+        "Kohev figuur",
+        "Jook",
+        "Raamaturiiul",
+        "Aken",
+        "Päevavalgus",
+        "Portree"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Toolid",
+        "Kohev inimfiguur",
+        "Tassid",
+        "Potitaim",
+        "Raamaturiiul",
+        "Raamatud",
+        "Kardinad",
+        "Aken",
+        "Hoone (väljas)",
+        "Sein",
+        "Pistikupesad",
+        "Müts",
+        "Prillid"
+      ],
+      "colorcodes": [
+        "#363636",
+        "#F0F0F0",
+        "#8B5A2B",
+        "#4F7942",
+        "#87CEEB",
+        "#B22222",
+        "#2F4F4F",
+        "#808080"
+      ],
+      "texts": [
+        "DRUM MUSIC (peegelpildis aknal)",
+        "The Song Remains The Same (väike tekst raamaturiiuli sildil)",
+        "[Lugematu tekst raamaturiiulil]"
+      ],
+      "persons": [
+        "Mees",
+        "Naine",
+        "Kohev inimfiguur"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Inimene laua taga: Esimesel pildil on noor mees triibulise hallikasvalge mütsi ja tumesinise jakiga. Teisel pildil on naine punase mütsi ja helesinise kampsuniga. Kolmandal pildil on naine halli kardiganiga ja lahtiste heledate juustega.",
+        "Riietus ja välimus: Igal pildil on erinev inimene erinevas riietuses ja välimusega, samal ajal kui ümbritsev keskkond ja kohev inimfiguur jäävad muutumatuks."
+      ],
+      "snr": "021",
+      "ajad": [
+        "61.792",
+        "62.625"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast siseruumi, mis meenutab kohvikut või lugemissaali. Keskel on väike nelinurkne puidust laud kahe puidust tooliga. Ühel toolil istub inimkujuline, valge, pehme tekstuuriga figuur, mis meenutab mannekeeni või skulptuuri. Teisel toolil istub igal pildil erinev naine. Taustal vasakul on hele sein sisseehitatud raamaturiiuliga, mis on täidetud raamatutega ja millel on ka mõned dekoratiivesemed ning paberileht tekstiga. Paremal pool on tume, krobelise tekstuuriga sein, millel on näha pistikupesasid ja juhtmestikku. Laua taga on suur aken heledate kardinatega, pakkudes vaate linnatänavale, kus on näha hooneid ja peegelpildis sõnu 'music' ja 'coffee'. Akna all laual seisab väike toataim ja kohvitass taldrikuga. Põrand on kaetud tumeda vaibaga. Kogu stseen on valgustatud loomuliku päevavalgusega, mis paistab sisse aknast.",
+      "actions": [
+        "Istumine",
+        "Kohvi joomine (kaudselt, hoitakse tassi)",
+        "Vaatamine",
+        "Suhtlemine (kaudselt, istutakse vastamisi)",
+        "Pea langetamine (kolmandal pildil)"
+      ],
+      "keywords": [
+        "Kohvik",
+        "Siseruum",
+        "Mannekeen",
+        "Kunstifiguur",
+        "Raamaturiiul",
+        "Kohvihetk",
+        "Aknavaade",
+        "Vestlus",
+        "Hubane",
+        "Mõtisklus",
+        "Seltskond"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Toolid",
+        "Tass",
+        "Taldrik",
+        "Toataim",
+        "Aken",
+        "Kardinad",
+        "Raamaturiiul",
+        "Raamatud",
+        "Valge figuur/mannekeen",
+        "Pistikupesad",
+        "Juhtmed",
+        "Seinad",
+        "Vaip"
+      ],
+      "colorcodes": [
+        "#4A2E1C",
+        "#6B4E3A",
+        "#333333",
+        "#444444",
+        "#E0E0E0",
+        "#F0F0F0",
+        "#2D4C6E",
+        "#B39B7C",
+        "#4A6F4A",
+        "#9A8B78"
+      ],
+      "texts": [
+        "music",
+        "coffee"
+      ],
+      "persons": [
+        "Naine",
+        "Mannekeen/figuur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Igal pildil istub valge figuuri vastas erinev naine.",
+        "Naiste riietus, soengud ja näoilmed erinevad märkimisväärselt. Esimesel pildil on naine tumesinises kõrge kaelusega kampsunis, juuksed patsis ja hoiab tassi. Teisel pildil on naine heledas kampsunis ja kollase salliga, punakate juustega ja naeratab figuurile. Kolmandal pildil on naine tumedas mustrilises mantlis, tumedate juustega ning kummardub laua kohale.",
+        "Valge figuur jääb kõigil piltidel samasse asendisse."
+      ],
+      "snr": "022",
+      "ajad": [
+        "62.625",
+        "65.875"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast siseruumi, mis sarnaneb kohviku või vaikse toaga. Suure akna ees asub väike puidust laud kahe tooliga. Ühel toolil istub alati suur, valge ja karvane inimkuju, teisel toolil aga vahelduvad erinevad inimesed. Laual on näha kaks kohvitassi alustassidega, teelusikas ja väike roheline taim lillepotis. Ruumi vasakus servas on näha raamaturiiul täis raamatuid, paremal ja ees on tumedad, tekstuuriga seinad. Akna taga paistab hoone ning aknaklaasile on kirjutatud tekst. Üldine atmosfäär on rahulik ja veidi sürrealistlik, kuna inimkuju on vestluspartneriks või kaaslaseks erinevatele inimestele, kes temaga laua taga istuvad.",
+      "actions": [
+        "Istumine toolil",
+        "Kohvi või tee joomine (kaasa arvatud tassi nuusutamine)",
+        "Vaatamine ja tähelepanu pööramine",
+        "Kallutamine üle laua",
+        "Vestluses osalemine (näiline)",
+        "Žestikuleerimine (inimkuju puhul)",
+        "Raamatute hoidmine (riiulil)"
+      ],
+      "keywords": [
+        "Kohvik",
+        "Siseruum",
+        "Inimkuju",
+        "Karvane",
+        "Laud",
+        "Aken",
+        "Kohvitassid",
+        "Raamaturiiul",
+        "Hubane",
+        "Sürrealistlik",
+        "Vestlus",
+        "Ootamine",
+        "Kohtumine",
+        "Interaktsioon"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Toolid",
+        "Inimkuju (karvane)",
+        "Kohvitassid",
+        "Alustassid",
+        "Teelusikas",
+        "Taim (väike roheline)",
+        "Lillepott",
+        "Aken",
+        "Kardinad",
+        "Raamaturiiul",
+        "Raamatud",
+        "Seinad",
+        "Pistikupesad",
+        "Põrand (vaip)",
+        "Hoone (väljaspool akent)"
+      ],
+      "colorcodes": [
+        "#343434",
+        "#ECECEC",
+        "#8B5738",
+        "#4A7DB3",
+        "#0C7B2F",
+        "#E28B51",
+        "#2E2E2E"
+      ],
+      "texts": [
+        "coffee music",
+        "Tundmatu tekst raamaturiiulil"
+      ],
+      "persons": [
+        "Naine sinises jakis (esimesel pildil)",
+        "Mees hallis mütsis (teisel pildil)",
+        "Naine oranžis pluusis (kolmandal pildil)",
+        "Karvane inimkuju (kohal kõigil piltidel)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Inimene, kes istub karvase inimkuju vastas laua taga, vaheldub igal pildil. Esimesel pildil on tegu tumedajuukselise naisega sinises jakis, kes on tassi kohale kummardunud. Teisel pildil on habemega mees hallis mütsis, kes on ettepoole kummardunud ja tundub kellegagi rääkivat või millelegi reageerivat. Kolmandal pildil on tumedanahalise naisega oranžis kardiganis, kes istub sirgelt ja vaatab otse inimkujule.",
+        "Inimeste kehahoiakud ja interaktsioonid lauaga või karvase inimkujuga erinevad igal pildil.",
+        "Karvase inimkuju käte asend varieerub pisut piltide vahel. Esimesel ja kolmandal pildil on käed lõdvestunult süles, samas kui teisel pildil on käed pisut tõstetud, nagu oleks ta žestikuleerimas või reageerimas."
+      ],
+      "snr": "023",
+      "ajad": [
+        "65.875",
+        "67.417"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast siseruumi, mis sarnaneb kohviku või lugemissaaliga. Kesksel kohal on puidust laud kahe tooliga. Ühel toolil istub inimene (kes vahetub erinevatel piltidel), teisel toolil aga suur, inimkehakujuline, kreemjasvalge karvase materjaliga kaetud kuju, mis meenutab pehmet nuku või kunstiteost. Laual on kaks tassi ja väike roheline potitaim. Akna taga avaneb vaade vanale linnahoonele ja tänavale ning aknale on kleebitud tekstid, mis on seestpoolt vaadates tagurpidi (nähtavad on sõnad 'coffee' ja 'music'). Ruumi vasakul küljel asub raamaturiiul täis raamatuid ja mõningaid esemeid. Seinad on tumedad, tekstuuriga, andes ruumile modernse ja samas hubase tunde. Üldine valgustus on päevale omane, aknalt paistev sinakas toon viitab jahedamale ilmale väljas.",
+      "actions": [
+        "Inimesed istuvad laua taga",
+        "Pehme kuju istub laua taga",
+        "Vaatamine/pilgu hoidmine vastaskuju poole",
+        "Kohvi joomine (implisteeritud tasside olemasoluga)"
+      ],
+      "keywords": [
+        "kohvik",
+        "siseruum",
+        "aken",
+        "laud",
+        "toolid",
+        "raamaturiiul",
+        "kunstiteos",
+        "pehmost kuju",
+        "inimene",
+        "kontrast",
+        "hubane",
+        "linnavaade",
+        "raamatud"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "laud",
+        "toolid",
+        "kruusid/tassid",
+        "potitaim",
+        "raamaturiiul",
+        "raamatud",
+        "aken",
+        "hooned (väljaspool akent)",
+        "pehmost/karvane kuju",
+        "sein",
+        "pistikupesad",
+        "kardinad"
+      ],
+      "colorcodes": [
+        "#5F6060",
+        "#8B4513",
+        "#F5F5DC",
+        "#ADD8E6",
+        "#3CB371"
+      ],
+      "texts": [
+        "coffee",
+        "music"
+      ],
+      "persons": [
+        "noor naine (esimesel pildil)",
+        "noor mees (teisel pildil)",
+        "naine (kolmandal pildil)",
+        "pehmost kuju (fiktiivne)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevad inimesed istuvad laua taga pehmele kujule vastas. Esimene on noor naine tumedate juustega, triibulises pluusis ja veinipunaste pükstega. Teine on noor mees tumedate lokkis juustega, tumesinises džempris ja teksapükstes. Kolmas on naine karvamütsi ja sooja jopega.",
+        "Istmepooside ja näoilmete erinevused inimeste vahel.",
+        "Riietuse erinevused inimeste vahel."
+      ],
+      "snr": "024",
+      "ajad": [
+        "67.417",
+        "70.917"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri, tõenäoliselt kohvikut või sarnast ruumi, kus suur, valge ja karvane humanoidsõbralik figuur istub puitlaua taga, seljaga vaataja poole, ning vaatab aknast välja. Figuur on valmistatud pehmest materjalist, sarnanedes suurele plüüsist nukule või kunstobjektile, millel on nähtavad liigendid küünarnukkidel. Laual on valge teetass alustassiga ja väike roheline potitaim. Akna taga paistab hoone helesinise fassaadiga ning tänav, millel on näha valguse juti liikumisest. Aknale on peegeldusega kirjutatud sõna \"coffee\" tagurpidi. Ruumi paremal seinal on näha tööstusliku stiilis torusid ja halli, veidi kulunud seina tekstuuri. Üldine atmosfäär on vaikne ja veidi melanhoolne, valgustus on jahe ja pehme.",
+      "actions": [
+        "istub laua taga",
+        "vaatab aknast välja",
+        "parema käe sõrmed liiguvad"
+      ],
+      "keywords": [
+        "kohvik",
+        "aken",
+        "figuur",
+        "nukk",
+        "tee",
+        "taim",
+        "sisustus",
+        "linnavaade",
+        "rahulik",
+        "valge",
+        "pehmed tekstuurid",
+        "interjöör"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "pehmed figuur",
+        "puitlaud",
+        "aken",
+        "potitaim",
+        "väike pruun pott",
+        "valge teetass",
+        "valge alustass",
+        "tool",
+        "hoone (väljas)",
+        "tänav (väljas)",
+        "torud (seinal)",
+        "kardin"
+      ],
+      "colorcodes": [
+        "#F5F5F5",
+        "#A7C2D7",
+        "#554030",
+        "#3B7E45",
+        "#606060"
+      ],
+      "texts": [
+        "coffee"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Figuuri parema käe asend laual muutub viimases kaadris. Esimeses ja teises kaadris on käsi rahulikult laual, sõrmed kergelt kõverdatud. Kolmandas kaadris on figuuri parema käe sõrmed veidi sirutatud ja eraldatud, nagu oleks ta just tassi kergelt puudutanud või seda liigutanud."
+      ],
+      "snr": "025",
+      "ajad": [
+        "70.917",
+        "72.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest siseruumis, tõenäoliselt akna lähedal istumas. Mehel on helepruunid juuksed, täishabe ja ümmargused prillid. Ta pilk on suunatud allapoole ja veidi paremale, mis annab märku süvenemisest või mõtisklusest. Mees kannab sooja, mustrilist kampsunit, milles segunevad kollased, pruunid ja võimalik, et hallikad toonid. Kampsuni vasakul õlapiirkonnal on kolm dekoratiivset nööpi. Kaadri vasakus servas on ähmane taust, kus on näha puidust riiul raamatute või paberitega. Kaadri paremat poolt domineerib ere aken, mida katab osaliselt hele, läbikumav kardin, lastes tuppa pehme ja hajutatud valguse. Paremal ääres on näha valge aknaraam või seinaosa. Üldine valgus on loomulik ja pehme, rõhutades mehe profiili ja kampsuni tekstuuri. Atmosfäär tundub vaikne ja introspektiivne.",
+      "actions": [
+        "mõtiskleb",
+        "vaatab alla",
+        "istub"
+      ],
+      "keywords": [
+        "mees",
+        "habe",
+        "prillid",
+        "kampsun",
+        "aken",
+        "kardin",
+        "siseruum",
+        "mõtisklev",
+        "rahulik",
+        "süvenenud",
+        "valgus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "prillid",
+        "habe",
+        "kampsun",
+        "aken",
+        "kardin",
+        "riiul",
+        "raamatud",
+        "nööbid"
+      ],
+      "colorcodes": [
+        "#967039",
+        "#7F5831",
+        "#F0F0F0",
+        "#B6B6B0",
+        "#6C4C33"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel ei ole märgatavaid erinevusi."
+      ],
+      "snr": "026",
+      "ajad": [
+        "72.000",
+        "74.083"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab naist siseruumis istumas, vaadates läbi suure akna välja linnatänavale. Naine on pööratud küljega vaataja poole, tema pilk on suunatud aknast välja. Tema riietus viitab jahedale ilmale; esimesel hetkel kannab ta kohevat pruuni karvamütsi ja paksu pruuni talvejopet, hiljem aga rohekashalli kapuutsiga jopet, mille all on mustriline kootud müts. Tema punakaspruunid juuksed on näha mütside alt. Ta istub puittoolil puitlaua ääres. Laual on erinevatel hetkedel erinevad esemed: esimesel pildil vaskne kohvikann (cezve) ja valge tass koos taldrikuga, teisel pildil väike läbipaistev pudel pruuni pulbriga (võimalik, et kaneel), ja kolmandal pildil sinine läbipaistev veepudel. Laual püsivalt seisab savipotis väike roheline toataim. Akna taga paistab linnamaastik, kus on näha heleda fassaadiga vana hoone, millel on kaarjad aknad. Aknal on näha liiklusest tingitud udused punased valgusjäljed, mis viitavad sõidukitele ja hilisele õhtule või ööle. Aknal on ka tagurpidi peegelduv tekst \"music\". Tagapool vasakul on näha riiul, millel on raamatud või paberid.",
+      "actions": [
+        "Istumine",
+        "Aknast välja vaatamine",
+        "Mõtisklemine",
+        "Vaatlemine"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Aken",
+        "Linn",
+        "Talv",
+        "Naine",
+        "Kohvik",
+        "Tänav",
+        "Liiklus",
+        "Mõtisklus",
+        "Jahe ilm"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Aken",
+        "Laud",
+        "Tool",
+        "Karvamüts",
+        "Talvejope",
+        "Kapuuts",
+        "Kootud müts",
+        "Vaskkann",
+        "Kohvitass",
+        "Taldrik",
+        "Vürtsipudel",
+        "Veepudel",
+        "Toataim",
+        "Savipott",
+        "Hoone",
+        "Tänav",
+        "Sõidukite tuled",
+        "Kardin",
+        "Riiul",
+        "Raamatud/paberid"
+      ],
+      "colorcodes": [
+        "#6e4e3b",
+        "#a27252",
+        "#b0b0b0",
+        "#a1b8d2",
+        "#ff0000",
+        "#5f7a52",
+        "#ffffff",
+        "#81b1d2",
+        "#b7b7b7"
+      ],
+      "texts": [
+        "music"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "winter",
+      "daytime": "evening",
+      "differences": [
+        "Naisel on esimesel pildil seljas pruun karvamüts ja jope, hiljem kapuutsiga jope ja kootud müts.",
+        "Laual olevad esemed varieeruvad: esimesel pildil vaskkann ja kohvitass, teisel pildil vürtsipudel, kolmandal pildil veepudel."
+      ],
+      "snr": "027",
+      "ajad": [
+        "74.083",
+        "74.667"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab ühte meest, kes istub siseruumides akna ääres puidust laua taga. Väljaspool akent on näha tänav ja vana hoone kaarjate akendega. Aknal on peegeldusega näha kiri \"music\" ning kiired valgusribad viitavad liiklusummikule või sõidukitele. Laual on erinevaid tassi, alustassid ja üks väike potitaim. Vasakul tagaplaanil on näha raamaturiiul või riiulid, millel on paberid või menüüd. Mees on piltidel riietatud erinevalt, kuid tema üldine poos ja asukoht jäävad samaks – ta vaatab paremale aknast välja või kergelt alla lauale. Riietus viitab külmale ilmale, nagu sügisele või talvele.",
+      "actions": [
+        "Mees istub laua taga",
+        "Mees vaatab aknast välja",
+        "Mees sirutab käe tassi poole"
+      ],
+      "keywords": [
+        "siseruum",
+        "kohvik",
+        "aken",
+        "laud",
+        "mees",
+        "külm ilm",
+        "raamaturiiul",
+        "tassid",
+        "potitaim",
+        "linnavaade"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "puidust laud",
+        "aken",
+        "tass",
+        "alustass",
+        "potitaim",
+        "tool",
+        "raamaturiiul",
+        "hoone",
+        "tänav",
+        "kardinad",
+        "prillid",
+        "müts",
+        "sall",
+        "kindad",
+        "särk",
+        "jakk"
+      ],
+      "colorcodes": [
+        "#B22222",
+        "#2F4F4F",
+        "#FF4500",
+        "#808080",
+        "#FFFFFF",
+        "#8B4513",
+        "#6495ED",
+        "#000000"
+      ],
+      "texts": [
+        "КИНО 70-Х СОВЕТСКАЯ",
+        "music"
+      ],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Mehe riietus on erinev: esimesel pildil punane T-särk ja krunnis juuksed, teisel pildil karvamüts ja prillid tumeda jopega, kolmandal pildil mustvalge sall, tumeda mustriga jope ja kindad.",
+        "Laual olevad tassid on erineva värvi ja suurusega: esimesel pildil roheline ja valge tass, teisel pildil oranž ja valge tass, kolmandal pildil kaks valget tassi, millest üks on väiksem ja erineva disainiga.",
+        "Mehe käte asend on erinev: esimesel pildil käed laual pole näha, teisel pildil käsi toetub lauale, kolmandal pildil sirutab käe väiksema tassi poole."
+      ],
+      "snr": "028",
+      "ajad": [
+        "74.667",
+        "75.250"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaadet valgele kohvitassile koos alustassiga, mis asuvad heledal puidust laual. Tassi poole sirutub erinevate inimeste käsi, mis viitab tegevusele tassi haaramiseks või selle liigutamiseks. Taust on udune ja viitab siseruumile, tõenäoliselt kohvikule või restoranile, kus on näha tumedaid ja abstraktselt värvilisi objekte, mis meenutavad kunstiteoseid või sisustuselemente. Valgus on pehme ja loomulik, valgustades tassi ja lauda, luues rahuliku ja kutsuva atmosfääri.",
+      "actions": [
+        "käe sirutamine tassi poole",
+        "tassi haaramise liigutus"
+      ],
+      "keywords": [
+        "kohvitass",
+        "alustass",
+        "puidust laud",
+        "käsi",
+        "siseruum",
+        "kohvik",
+        "jook",
+        "valge tass",
+        "laua taga",
+        "detail",
+        "lähivõte"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "kohvitass",
+        "alustass",
+        "puulaud",
+        "käsi",
+        "inimene (osaliselt näha)",
+        "taust (ebamäärased kujud ja värvid)"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#BC9576",
+        "#A57D5C",
+        "#1E1A27",
+        "#B5A69B",
+        "#8C3893",
+        "#483560"
+      ],
+      "texts": [],
+      "persons": [
+        "täiskasvanu (käsi ja torso)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Igas pildis on näha erinevat riietust kandva inimese kätt ja torsot: esimesel pildil on musta-valget horisontaaltriibuline särk, teisel pildil on musta-valget abstraktse mustriga särk ja sõrmes on sõrmus, kolmandal pildil on tume ühevärviline T-särk.",
+        "Käe asend tassi suhtes varieerub veidi, viidates erinevatele hetkedele tegevuses või erinevatele inimestele."
+      ],
+      "snr": "029",
+      "ajad": [
+        "75.250",
+        "75.917"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõtet valgest keraamilisest kohvitassist ja alustassist, mis asetsevad pruunil puitlaual. Tass on täidetud joogiga, mis tekitab kerget auru või kuumuse tunnet. Kaadri keskel on näha inimese käsi, mis sirutub tassi poole, puudutades seda õrnalt. Käsi on kaetud erinevate riietega – alguses tumeda pika varrukaga rõivaga, seejärel musta jopega ja lõpuks valge karvase jakiga, viidates võimalikule ilma muutusele või erinevatele olukordadele. Taust on udune, kuid aimatav on sisekujundus, mis meenutab kohvikut või hubast söögikohta, kus on näha kunstilisi elemente või grafiti seinal. Fookus on selgelt tassil, alustassil ja tassi puudutaval käel, luues intiimse ja keskendunud atmosfääri. Valgus on pehme ja loomulik, rõhutades materjalide tekstuure.",
+      "actions": [
+        "käsi sirutub tassi poole",
+        "käsi puudutab tassi",
+        "inimene hoiab tassi"
+      ],
+      "keywords": [
+        "kohvitass",
+        "alustass",
+        "puitlaud",
+        "käsi",
+        "kohvik",
+        "jook",
+        "kuumus",
+        "tekstuur",
+        "valge keraamika",
+        "puit",
+        "interjöör"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "kohvitass",
+        "alustass",
+        "puitlaud",
+        "käsi",
+        "pika varrukaga särk",
+        "must jope",
+        "valge karvane jakk",
+        "sein",
+        "graffiti"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#A87C52",
+        "#363636",
+        "#D3C3B6",
+        "#7D5F3D"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Käe ümber olev rõivas muutub: esimesel pildil on tumeda varrukaga pluus, teisel pildil must jope ja kolmandal pildil valge karvane jakk.",
+        "Käe asend tassi suhtes muutub veidi, liikudes tassi puudutamisest selle kohale."
+      ],
+      "snr": "030",
+      "ajad": [
+        "75.917",
+        "76.583"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, tõenäoliselt kohvikut või hubast keskkonda, kus puidust laua taga istub inimene. Laua keskel asetseb valge tass koos taldrikuga. Taust on udune, kuid paistab olevat riiul või mööbel ning hele kardin. Inimese käed toetuvad lauale, kas siis tassi lähedal või eemal, olenevalt hetkest.",
+      "actions": [
+        "Inimene istub laua taga",
+        "Inimese käsi asetseb tassi lähedal",
+        "Inimese käed toetuvad lauale"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Kohvik",
+        "Laud",
+        "Tass",
+        "Taldrik",
+        "Inimene",
+        "Jook",
+        "Ootamine",
+        "Puit",
+        "Istumine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Valge tass",
+        "Valge taldrik",
+        "Puidust laud",
+        "Inimene",
+        "Kampsun",
+        "Särk",
+        "Raamatud (hägused taustal)",
+        "Kardin"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#A06F4D",
+        "#2F4F4F",
+        "#5E4E42",
+        "#2F2F2F",
+        "#F5F5F5"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Inimese riietus on erinev: esimesel pildil kannab ta tumerohelist/tumesinist pika varrukaga särki, samas kui teisel ja kolmandal pildil on tal seljas triibuline (tumedate ja heledate triipudega) kampsun.",
+        "Inimese käte asend: esimesel pildil on üks käsi tassi lähedal, teistel piltidel on mõlemad käed laual tassist eemal.",
+        "Teine ja kolmas pilt on visuaalselt identsed."
+      ],
+      "snr": "031",
+      "ajad": [
+        "76.583",
+        "78.958"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast siseruumi, tõenäoliselt kohvikut või ooteruumi, kus on väike ruudukujuline puidust laud kahe tooliga. Üks tool on hõivatud karvase valge mannekeeni poolt, millel on inimkuju, pisut kogukas. Esimesel pildil istub mannekeeni vastas toolil mees, kes vaatab mannekeeni ja hoiab käes kohvitassi. Hilisematel piltidel on mees stseenist lahkunud, jättes mannekeeni üksi laua taha. Laual on kohvitassid alustassidega ja väike lusikas. Akna taga paistab vanem hoone ning aknaklaasil on peegelduv tekst 'music' ja 'coffee'. Aknalaual on väike potitaim. Ruumis on tumedad seinad, mille ühes nurgas on raamaturiiul raamatute ja raamitud tekstiga. Akna all on radiaator ja akent ääristavad heledad kardinad.",
+      "actions": [
+        "Istumine laua taga",
+        "Kohvi joomine (või kohvitassi hoidmine)",
+        "Vaatamine (mees vaatab mannekeeni)",
+        "Lahkumine (mees lahkub stseenist)"
+      ],
+      "keywords": [
+        "Kohvik",
+        "Sisustus",
+        "Mannekeen",
+        "Kohvitamine",
+        "Aken",
+        "Raamaturiiul",
+        "Siseruum",
+        "Üksindus",
+        "Kunstiline",
+        "Hõre"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Puidust laud",
+        "Toolid",
+        "Mees",
+        "Mannekeen",
+        "Kohvitassid",
+        "Alustassid",
+        "Lusikas",
+        "Aknalaud",
+        "Potitaim",
+        "Aken",
+        "Kardinad",
+        "Radiaator",
+        "Raamaturiiul",
+        "Raamatud",
+        "Raamitud tekst",
+        "Seinad",
+        "Põrand",
+        "Pistikupesa",
+        "Juhe",
+        "Hoone (läbi akna)"
+      ],
+      "colorcodes": [
+        "#303030",
+        "#8F6242",
+        "#B18F58",
+        "#EDEBEA",
+        "#E0E0E0",
+        "#4A6E46",
+        "#D1B36D",
+        "#754425"
+      ],
+      "texts": [
+        "The living room",
+        "Sergei Dovlatov",
+        "MUSIC",
+        "music",
+        "coffee"
+      ],
+      "persons": [
+        "Mees",
+        "Mannekeen"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil istub mees laua taga mannekeeni vastas ja hoiab kohvitassi. Teisel ja kolmandal pildil on mees stseenist lahkunud, jättes mannekeeni üksi.",
+        "Kohvitasside paigutus muutub: esimesel pildil hoiab mees tassi, teisel ja kolmandal pildil on kõik tassid laual.",
+        "Mannekeeni käte asend muutub veidi teise ja kolmanda pildi vahel (kolmandal pildil on käsi pisut kõrgemal, tassi poole suunatud)."
+      ],
+      "snr": "033",
+      "ajad": [
+        "84.417",
+        "91.583"
+      ]
+    },
+    {
+      "explanation": "Pildid kuvavad ühtlast ja täiesti musta värvi kogu oma ulatuses. Puuduvad igasugused eristatavad objektid, kujud, tekstid või muud visuaalsed detailid. Stseeni iseloomustab täielik pimedus ja valguse puudumine.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "pimedus",
+        "tühi",
+        "puuduv sisu",
+        "monokroomne",
+        "sügavmust",
+        "informatsiooni puudumine"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": 100,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel puuduvad erinevused, kõik kaadrid on identselt mustad."
+      ],
+      "snr": "034",
+      "ajad": [
+        "91.583",
+        "92.792"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, mis näib olevat hubane, kuid hämaralt valgustatud kohvik, stuudio või koosviibimiste ruum. Seintel on tumedad, tõenäoliselt tumerohelised või pruunid toonid, ja laes on nähtavad torustikud või ventilatsioonisüsteemid. Parempoolses osas domineerib suur aken valgete kardinatega, mis pakub vaate välismaailma. Esimesel ja teisel kaadril paistab aknast ere päevavalgus, viimases kaadris aga õhtune või öine vaade tänavavalgustuse ja autotuledega, mis annab märku aja möödumisest. Ruumi vasakus servas on pikk raamaturiiul täidetud raamatute ja väiksemate esemetega. Keskel-paremal, akna lähedal, on puidust laud ja toolid. Kogu stseeni vältel on laua taga istumas liikumatult valge, inimkujuline figuur, mis meenutab mannekeeni või valges kostüümis inimest. Tema ümber liiguvad ja tegutsevad mitmed inimesed: üks keskne isik, kes algselt on kaamerale seljaga ja hiljem pöördub; naine, kes on nähtav raamaturiiuli lähedal ja joob klaasist; ning teised, kes kas suhtlevad valge figuuriga või on ruumi eri nurkades. Paremas servas on nähtav kaamera statiivil, mis viitab filmivõttele või töökojale. Põrandal on mustriline vaip. Stseeni vasak pool on must ja sisaldab valgeid tekste, mis muutuvad kaadrite vahel.",
+      "actions": [
+        "Inimesed liiguvad ruumis",
+        "Inimene vaatab aknast välja",
+        "Inimene puudutab istuva figuuri pead/õlga",
+        "Inimene joob klaasist",
+        "Inimesed suhtlevad valge figuuriga",
+        "Pildistamine kaameraga statiivil"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Kohvik",
+        "Stuudio",
+        "Hämar valgustus",
+        "Aken",
+        "Mannekeen",
+        "Filmivõte",
+        "Inimesed",
+        "Raamaturiiul",
+        "Puidust mööbel",
+        "Mustriline vaip",
+        "Kontrastne valgustus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Raamaturiiul",
+        "Raamatud",
+        "Väikesed esemed riiulil",
+        "Aken",
+        "Valged kardinad",
+        "Puidust laud",
+        "Puidust toolid",
+        "Valge inimkujuline figuur (mannekeen)",
+        "Mustriline vaip",
+        "Laelambid",
+        "Eksponeeritud torud/ventilatsioon",
+        "Klaas",
+        "Kaamera statiivil"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#363636",
+        "#2E3A32",
+        "#A6916F",
+        "#4F3D29",
+        "#D9D9D9",
+        "#AAB8C0",
+        "#7F7F7F",
+        "#FDFDFD",
+        "#707070"
+      ],
+      "texts": [
+        "Director/Script/Sound Effect",
+        "Red, Hung Huei Jen",
+        "Editing",
+        "Olga Pärn",
+        "People of the human",
+        "Aggie Pak Yee Lee",
+        "Aleksander Seema",
+        "Anastasiya Nikolova",
+        "Anne-Sophia Mihhejeva",
+        "Auden Lincoln-Vogel",
+        "Barbara Kartner",
+        "Brita Männaste",
+        "Dag Ove Solaas",
+        "David Imeiyez"
+      ],
+      "persons": [
+        "Red, Hung Huei Jen",
+        "Olga Pärn",
+        "Aggie Pak Yee Lee",
+        "Aleksander Seema",
+        "Anastasiya Nikolova",
+        "Anne-Sophia Mihhejeva",
+        "Auden Lincoln-Vogel",
+        "Barbara Kartner",
+        "Brita Männaste",
+        "Dag Ove Solaas",
+        "David Imeiyez",
+        "Valge figuur (mannekeen või inimene)",
+        "Mitmed teised inimesed (liikuvad, istuvad, joomas)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 50,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Vasakpoolsel mustal paneelil kuvatud tekst muutub kaadrite vahel: esmalt režii/heli tiitrid, seejärel montaaži tiitrid ja lõpuks nimekiri inimestest.",
+        "Inimeste asukohad ja tegevused muutuvad kaadrite vahel, näiteks keskel-paremal asuv inimene pöörab end kaamerast eemale vaatamast vasakule.",
+        "Kõige märkimisväärsem erinevus on akna taga nähtav valgus: esimestes kaadrites on päevane (ere või pilves) valgus, viimases kaadris aga õhtused/öised tänavavalgustid ja autotuled.",
+        "Teises ja kolmandas kaadris on nähtav kaamera statiivil, mis esimeses kaadris puudub.",
+        "Kolmandas kaadris on naine raamaturiiuli lähedal nähtav klaasist joomas."
+      ],
+      "snr": "035",
+      "ajad": [
+        "92.792",
+        "103.167"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumis toimuvat koosviibimist või sündmust, mis paistab olevat hämaralt valgustatud, hubane keldrilaadne ruum või kunstigalerii. Vasak pool ekraanist on musta värvi ja sellel jookseb ülespoole keriv tekstirida inimeste nimedega pealkirja \"People of the human\" all, mis viitab krediidile või osalejate loetelule. Parem pool näitab ruumi, kus on näha mitu inimest liikumas ja omavahel suhtlemas. Akna kaudu paistab õue tänavavaade, mis viitab õhtusele ajale. Akna kõrval laual istub valge inimsuurune mannekeen. Ruumis on ka riiulid raamatute või esemetega, laud, potitaim ning kaamera statiivil, mis võib viidata video salvestamisele. Erinevates kaadrites varieerub fookus ja kaamera asukoht: ühes on esiplaanil kellegi näo osa, teises laiem vaade inimestele ja ruumile, kolmandas aga lähiplaan käest, mis on ilmselt kaamera hoidja käsi. Üldine atmosfäär on vaikne ja intiimne, ruumi valgustavad soojad kunstlikud valgusallikad. Seintel on tumedad toonid, torud on nähtavad lae lähedal, andes ruumile veidi industriaalse hõngu.",
+      "actions": [
+        "Inimesed liiguvad ringi",
+        "Inimesed vestlevad (oletatav)",
+        "Inimene vaatab kaamerasse",
+        "Kaamera liigub",
+        "Nimede nimekiri kerib ekraanil"
+      ],
+      "keywords": [
+        "Koosviibimine",
+        "Siseruum",
+        "Mannekeen",
+        "Krediidid",
+        "Hämar valgus",
+        "Kaamera",
+        "Sotsiaalne sündmus",
+        "Kunst",
+        "Galerii",
+        "Õhtune",
+        "Hubane",
+        "Riiulid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Aken",
+        "Kardinad",
+        "Laud",
+        "Potitaim",
+        "Mannekeen",
+        "Riiulid",
+        "Raamatud/esemed riiulitel",
+        "Kaamera",
+        "Statiiv",
+        "Teleekraan (osaliselt)",
+        "Toolid",
+        "Torud",
+        "Käsi",
+        "Riietus"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#5a4b3d",
+        "#a0a0a0",
+        "#8b4513",
+        "#696969",
+        "#36454F",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "People of the human",
+        "Aggie Pak Yee Lee",
+        "Aleksander Seema",
+        "Anastasiya Nikolova",
+        "Anne-Sophia Mihhejeva",
+        "Auden Lincoln-Vogel",
+        "Barbara Kartner",
+        "Brita Männaste",
+        "Dag Ove Solaas",
+        "David Jimeivez",
+        "Joni Männistö",
+        "Jung Hyun Kim",
+        "Kaidi Marmor",
+        "Kamila Kučiková",
+        "Katya Russell",
+        "Kertu Johanna Jõeste",
+        "Laura Benavides",
+        "Lisa Cipers",
+        "Marcela Echeverri",
+        "Mariely Barboza",
+        "Marie-Angélique Nzamwitakuze",
+        "Marina Vetrova",
+        "Mattias Ots",
+        "Mert Sirlacki",
+        "Michael Becken",
+        "Miska Kotinurmi",
+        "Nata Metlukh",
+        "Nele Kurvits",
+        "Noga Harel",
+        "Oleksandr Kazimirchuk",
+        "Pablo Nicolás Martinez Ballarín",
+        "Patricia Grobarek",
+        "Paula Parts",
+        "Red, Hung Huei Jen"
+      ],
+      "persons": [
+        "Vähemalt 7-10 inimest (erinevas vanuses, näha on näod ja kehad)",
+        "Esiplaanil isik (esimesel pildil näo osa, kolmandal pildil käsi)",
+        "Mannekeen (valge, inimsuurune)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Kaadrid erinevad fookuse ja kaamera liikumise poolest. Esimesel pildil on esiplaanil näo lähivõte, teisel pildil laiem vaade ruumile ja inimestele, kolmandal pildil on fookuses käe lähivõte.",
+        "Teksti loetelu jätkub igas kaadris, kerides ülespoole, kuid iga pilt näitab erinevat osa loetelust.",
+        "Inimeste asukohad ja kehahoiakud muutuvad kaadrite vahel, mis viitab pidevale liikumisele ruumis.",
+        "Valgusolud ja üldine atmosfäär jäävad samaks, kuid detailid muutuvad kaamera asukoha ja nurga tõttu."
+      ],
+      "snr": "036",
+      "ajad": [
+        "103.167",
+        "117.000"
+      ]
+    }
+  ]
+}

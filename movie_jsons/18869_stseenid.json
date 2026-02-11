@@ -1,0 +1,3089 @@
+{
+  "film": [
+    "18869",
+    "18720",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Olevik",
+    "d12bf817d3c2a3b075173e35223029dbfe5da508.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täiesti musta ekraaniga, misjärel ilmub ekraani keskele minimalistlik logo. Logo koosneb kolmest väikesest, erksavärvilisest ringist – punane, roheline ja sinine – mis on paigutatud kolmnurkselt ümber pisikese valge keskpunkti. Sellest paremale ilmub valge tekst “BFM”. Seejärel logo kaob ja mustale ekraanile ilmub alla valge tekst, mis on osa lausest: “You're sitting there, on your chair,”. Kogu stseen on visuaalselt pime ja keskendub teksti ning logo esitlusele, mis viitab sissejuhatusele või tiitlikaardile.",
+      "actions": [
+        "Ekraani muutumine mustast logo ilmumisega",
+        "Logo kadumine",
+        "Teksti ilmumine ekraani alumisse serva"
+      ],
+      "keywords": [
+        "Must ekraan",
+        "Logo",
+        "Tekst",
+        "Sissejuhatus",
+        "Minimalistlik",
+        "Pimedus",
+        "Valge tekst",
+        "Värvilised ringid"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Logo",
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#FF0000",
+        "#00FF00",
+        "#0000FF"
+      ],
+      "texts": [
+        "BFM",
+        "You're sitting there, on your chair,"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "95-100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on täiesti must.",
+        "Teisel pildil on mustal taustal keskel logo (BFM ja värvilised ringid).",
+        "Kolmandal pildil on mustal taustal allpool valge tekst (You're sitting there, on your chair,), logo on kadunud."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "14.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvise maastiku avarust, kus kahel inimesel on käsil korjamine või tegevus, mis hõlmab okste tassimist. Peategelasteks on laps ja vanem mees, kes liiguvad mööda laia, justkui kündmata või koristatud põldu. Maapind on valdavalt märg ja porine, pruuni ja tumepruuni tooniga, millel on kohati näha lumelaike ja külmunud rohtu. Horisondil paistab taamal metsapiir paremal pool ja kaugemal vasakul pool mõned hooned, mis annavad aimu asustusest. Taevas on pilvine ja hall, mis loob üldiselt melanhoolse või jaheda atmosfääri. Nii laps kui ka mees kannavad talvistele oludele sobivat riietust – paksud mantlid, mütsid ja saapad. Mõlemad tassivad käes erineva suurusega puidust oksi, mis viitab kas küttepuude korjamisele või metsatööde jääkide koristamisele. Vanem mees paistab lapsega suhtlevat, olles temaga vestluses. Üldine meeleolu on pigem töine ja vaikne.",
+      "actions": [
+        "Kõndimine mööda põldu",
+        "Okste tassimine",
+        "Vestlemine",
+        "Metsatööde jääkide korjamine"
+      ],
+      "keywords": [
+        "Talv",
+        "Põld",
+        "Okas",
+        "Pori",
+        "Lumi",
+        "Külm",
+        "Kündmata",
+        "Metsapiir",
+        "Laps",
+        "Vanem mees",
+        "Korjamine",
+        "Töö"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Laps",
+        "Vanem mees",
+        "Okas",
+        "Põld",
+        "Lumi",
+        "Mets",
+        "Hoone",
+        "Müts",
+        "Mantel",
+        "Saapad",
+        "Kindad",
+        "Prillid"
+      ],
+      "colorcodes": [
+        "#5B442D",
+        "#D7DDDE",
+        "#A9B0B5",
+        "#334A31",
+        "#7D5F48",
+        "#2C3E50",
+        "#D9E1E3",
+        "#705B47"
+      ],
+      "texts": [
+        "Listen Nublu,",
+        "what does a magpie crave?"
+      ],
+      "persons": [
+        "Laps (tüdruk)",
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha ainult laps, kes kõnnib vaataja poole, hoides käes oksi. Vanemat meest ei ole kaadris näha.",
+        "Teisel ja kolmandal pildil on lisaks lapsele kaadris ka vanem mees. Laps on neil piltidel eemal, liikudes mehest mööda või temast eemale.",
+        "Vanem mees on teisel ja kolmandal pildil kaadri paremal või keskel esiplaanil, käes samuti oksi.",
+        "Subtiitrid tekstiga ilmnevad ainult teisel ja kolmandal pildil, kus mees näib lapsega suhtlevat."
+      ],
+      "snr": "003",
+      "ajad": [
+        "27.160",
+        "34.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest – vanemat meest ja väikest last –, kes kõnnivad avatud, mudasel ja haritud põllul. Mõlemad kannavad kimbukaupa mahalangenud või kogutud puuoksi. Maapind on tume, märg ja ebaühtlane, viitades hilissügisele või varatalvele. Taustal on näha tihe metsaserv ja kaugemal üksikud hooned või puud, mis annavad maastikule hõreda ilme. Taevas on hall ja pilvine, luues jaheda ja vaikse atmosfääri. Mees kannab helehalli jopet, siniseid teksaseid, kindaid ja tumedat mütsi ning tema prillid annavad talle elutarga ilme. Laps kannab pruuni mantlit, tumedat mütsi ja saapaid, mis on mudased. Nende tegevus viitab tööle või puidukogumisele looduses.",
+      "actions": [
+        "Põllul kõndimine",
+        "Puuokste kandmine",
+        "Oksade kogumine",
+        "Liikumine läbi mudase maastiku"
+      ],
+      "keywords": [
+        "Muda",
+        "Põld",
+        "Mets",
+        "Oksad",
+        "Kõndimine",
+        "Talv",
+        "Sügis",
+        "Külm",
+        "Hall",
+        "Maaelu",
+        "Puidukogumine",
+        "Pilvine"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Puuoksad",
+        "Muda",
+        "Põllumaa",
+        "Metsaserv",
+        "Mehe jope",
+        "Mehe teksased",
+        "Mehe müts",
+        "Kindad",
+        "Prillid",
+        "Lapse mantel",
+        "Lapse müts",
+        "Saapad"
+      ],
+      "colorcodes": [
+        "#4F3B2A",
+        "#B0B7BC",
+        "#3A4A35",
+        "#E0E0E0",
+        "#3F5F8F",
+        "#8C6A4F",
+        "#2A2A2A"
+      ],
+      "texts": [
+        "what does a magpie crave?"
+      ],
+      "persons": [
+        "Vanem mees",
+        "Laps"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Piltidel on näha inimeste järkjärgulist liikumist mööda põldu edasi.",
+        "Mehe ja lapse asendid ning keha orientatsioon on kaadrite vahel kergelt muutunud, näidates edasiliikumist.",
+        "Oksade paigutus mehe kätes on iga kaadriga pisut erinev, viidates pidevale liikumisele ja võimalikule oksade kohendamisele.",
+        "Üldine taust ja valgus jäävad samaks, rõhutades stseeni järjepidevust."
+      ],
+      "snr": "004",
+      "ajad": [
+        "34.360",
+        "36.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest – vanemat meest ja last – kes kõnnivad üle porise ja osaliselt lumise põllu metsa ääres. Mõlemad kannavad seljas ja kätes kogutud oksi, mis viitab küttepuude kogumisele. Mees on pildi paremal poolel, laps vasakul, mõlemad kõnnivad vaatajast veidi vasakule suundudes. Maa on kaetud paksu muda ja üksikute lumelaikudega. Taamal paistab paks lehtpuumets, mille puud on raagus, viidates külmale aastaajale. Taevas on ühtlaselt hall ja pilvine, pakkudes pehmet ja hajutatud valgust. Mõlemad isikud on soojalt riidesse pakitud – mehel on seljas hele jope, sinised teksad ja tume müts, lapsel aga pruun jope, tumedamad püksid ja tume müts. Õhkkond on töine ja ruraalne, ilm on jahe ja niiske. Kaadris on tunda liikumist, justkui isikud oleksid teel eesmärgipäraselt edasi.",
+      "actions": [
+        "Kõndimine",
+        "Küttepuude kandmine",
+        "Põllul liikumine"
+      ],
+      "keywords": [
+        "Küttepuude kogumine",
+        "Talvine maastik",
+        "Muda",
+        "Lumi",
+        "Mets",
+        "Vanem ja laps",
+        "Ruraalne elu",
+        "Töö",
+        "Külm ilm",
+        "Raagus puud"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Oksad (küttepuud)",
+        "Muda",
+        "Lumi",
+        "Mets",
+        "Põld",
+        "Joped",
+        "Mütsid",
+        "Püksid",
+        "Saapad"
+      ],
+      "colorcodes": [
+        "#523a2a",
+        "#d0d0d0",
+        "#3a493a",
+        "#b2b2b2",
+        "#84604e",
+        "#4a688a",
+        "#e0e0e0"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees",
+        "Laps"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Isikute kehahoiakud ja jalgade asendid muutuvad kergelt, kajastades edasiliikumist üle maastiku.",
+        "Kogutud okste paigutus ja haardumine on veidi erinevates kaadrites, mis on tingitud kandmise käigus toimuvast loomulikust nihkumisest."
+      ],
+      "snr": "006",
+      "ajad": [
+        "37.960",
+        "39.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, täiskasvanud meest ja last, kes kõnnivad mööda laia, porist ja märga põldu metsa serval. Maapind on valdavalt pruun, kaetud mudaga ja üksikute valgete lume- või külmapatšidega, mis viitab jahedale ilmale. Taustal laiub tihe mets, kus on nii raagus lehtpuid kui ka igihaljaid puid. Taevas on pilves ja hall. Täiskasvanud mees, kes asub pildi paremal pool, kannab helehalli jopet, siniseid teksaseid ja tumedat mütsi. Ta tassib üle vasaku õla ja parema käega suurt puntraks seotud oksi või küttepuid. Tema pilk on suunatud vasakule, lapse poole. Laps, kes asub pildi vasakul poolel, on riietatud pruuni jopesse, sinisesse teksadesse ja tumedasse mütsi. Laps kannab üle parema õla väiksemat puutükki või keppi. Mõlemad on riietatud praktilistesse ja vastupidavatesse rõivastesse ning jalanõudesse, mis on mudased. Üldine atmosfäär on vaikne ja töine, andes edasi maaelu igapäevatoimetusi külmas ja niiskes keskkonnas.",
+      "actions": [
+        "Puid kandma",
+        "Kõndima",
+        "Oksasid tassima",
+        "Vaatama"
+      ],
+      "keywords": [
+        "Porine",
+        "Mets",
+        "Põld",
+        "Talv",
+        "Külm",
+        "Hall",
+        "Puidutöö",
+        "Maaelu",
+        "Laps",
+        "Täiskasvanu",
+        "Oksad",
+        "Liikumine",
+        "Välitingimused"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Täiskasvanud mees",
+        "Laps",
+        "Oksad",
+        "Puit",
+        "Mets",
+        "Põld",
+        "Porine maa",
+        "Müts",
+        "Jakk",
+        "Teksad",
+        "Saapad",
+        "Taevas",
+        "Lumi/külm"
+      ],
+      "colorcodes": [
+        "#614F35",
+        "#BEC7CC",
+        "#3A513E",
+        "#AAB4BB",
+        "#4C6F9C",
+        "#E4E5E6",
+        "#7D6B4E"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Laps"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Täiskasvanud mehe asend ja käte paigutus okste hoidmisel muutuvad veidi, mis annab edasi liikumise. Tema vasak käsi on esimesel pildil rohkem okste keskel, teisel pildil toetab ta neid rohkem altpoolt.",
+        "Lapse kehahoiak ja puutüki asend õlal muutuvad kergelt, viidates edasiliikumisele. Esimesel pildil on laps veidi rohkem seljaga vaataja poole, teisel pildil on pöördumine veidi ettepoole märgatavam."
+      ],
+      "snr": "007",
+      "ajad": [
+        "39.160",
+        "40.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest õues küttepuid lõhkumas ja ette valmistamas. Esiplaanil on näha inimene, kes kannab pruuni karvase kraega jakki ja kirjusid, mustrilisi labakindaid. Ta lööb kirvega puupakule asetatud halgu, et seda lõhkuda. Kirves on mõnel hetkel õhus, mõnel hetkel aga puupakul puhkeasendis. Tagaplaanil on teine, vanem inimene, kes kannab helehalli jakki, tumedaid teksapükse ja tumedat mütsi. Temagi lõhub suurema puutüve peal puid. Üldine fookus on puidulõhkumise tegevusel. Taustal on näha suur virn lõhutud küttepuid ja vana puidust hoone või kuur. Maapind on tume ja näib niiske, viitades jahedale ja niiskele ilmale. Õhkkond on töine ja maaelulik.",
+      "actions": [
+        "Puude lõhkumine",
+        "Kirvega löömine",
+        "Küttepuude ettevalmistamine"
+      ],
+      "keywords": [
+        "Küttepuud",
+        "Kirves",
+        "Puidulõhkumine",
+        "Maaelu",
+        "Töö",
+        "Väljas",
+        "Talvine",
+        "Niiske ilm"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Kirves",
+        "Puupakk",
+        "Küttepuud",
+        "Halg",
+        "Hoone/Kuur",
+        "Labakindad",
+        "Jakk",
+        "Müts",
+        "Püksid"
+      ],
+      "colorcodes": [
+        "#6E4024",
+        "#A9A9A9",
+        "#30353E",
+        "#28558A",
+        "#C39967",
+        "#D53F4A",
+        "#E5BA5F",
+        "#9BC37F",
+        "#FDFDFD"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest",
+        "Vanem mees",
+        "Naine/Noorem inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esiplaanil oleva kirve ja puuhalu asend: esimesel pildil on kirves õhus lõhkumas ja halg lendab pakult, teisel pildil on kirves puhkeasendis puupakul ning halg puudub, kolmandal pildil on kirves taas puupakku löömas.",
+        "Kaadri fookus ja detail: kolmas pilt on lähivõte esiplaanil oleva inimese kätel ja tegevusel, näidates labakinnaste mustrit detailselt, samas kui esimesed kaks pilti on veidi laiemad ja haaravad rohkem tausta."
+      ],
+      "snr": "008",
+      "ajad": [
+        "40.280",
+        "53.320"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud sooja ja südamlikku hetke õues, kus vanem täiskasvanu, tõenäoliselt vanaisa, hoiab last süles, aidates tal ulatuda kõrgele puiduhunniku tippu. Täiskasvanul on seljas hele, tõenäoliselt helehall või valge paks polsterdatud jope, peas tume sinine kootud müts ja käes valged, mustade täppidega kindad. Lapsel on seljas pruun, lambavillase voodriga mantel, peas tume kootud müts ja käes täiskasvanu omadega sarnased valged, mustade täppidega kindad. Esimeses kaadris ulatab laps käe puiduhunniku kohal oleva puitkonstruktsiooni poole, täiskasvanu hoiab teda turvaliselt kinni. Järgnevates hetkedes on laps pööranud oma pilgu täiskasvanu poole ja nad näivad omavahel vestlevat. Taustaks on suur ja korralikult laotud küttepuude riit, mis asub tõenäoliselt mingi varjualuse või kuuri all, mida näitavad puidust talad hunniku kohal. Stseeni valgustab loomulik päevavalgus ja tegelaste riietus (paksud joped, mütsid, kindad) viitab jahedale ilmale, tõenäoliselt talvele või hilissügisele. Kolmandas kaadris on näha subtiitrid, mis viitavad dialoogile tegelaste vahel.",
+      "actions": [
+        "Lapse hoidmine ja üles tõstmine",
+        "Puiduhunniku juures seismine",
+        "Üles ulatamine",
+        "Omavahel vestlemine",
+        "Teineteisele otsa vaatamine"
+      ],
+      "keywords": [
+        "Küttepuud",
+        "Laps",
+        "Täiskasvanu",
+        "Vanaisa",
+        "Perekond",
+        "Õues",
+        "Talv",
+        "Vestlus",
+        "Puiduhunnik",
+        "Müts",
+        "Jope",
+        "Kindad"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Küttepuud",
+        "Puitkonstruktsioon",
+        "Talad",
+        "Paks jope",
+        "Mantel",
+        "Kootud müts",
+        "Kindad"
+      ],
+      "colorcodes": [
+        "#8B7A6C",
+        "#C8C8C8",
+        "#343C4B",
+        "#664835",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Hmm, so what does a magpie crave?"
+      ],
+      "persons": [
+        "Laps",
+        "Täiskasvanu (mees)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris ulatab laps käe ülespoole, vaadates samal ajal üles, täiskasvanu pilk on suunatud lapse poole. Teises ja kolmandas kaadris on lapse pilk pööratud täiskasvanu poole, luues otsese kontakti. Täiskasvanu on kolmandas kaadris rohkem lapse poole pööratud. Kolmandas kaadris on näha subtiitrid 'Hmm, so what does a magpie crave?'."
+      ],
+      "snr": "009",
+      "ajad": [
+        "53.320",
+        "61.480"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noor naine, kes vaatab otse kaamerasse. Ta on riietatud sooja heledasse pruuni tooni salli või rätikusse, mis katab tema pea ja kaela, ning tumedasse mantlisse. Tema näoilme on tõsine ja mõtlik. Naine asub väljas lumises maastikus, taustal on näha paljaid puid ja vanu puidust hooneid, mis annab stseenile talvise ja veidi melanhoolse õhkkonna. Valgus on pehme ja hajutatud, vihjates pilvisele talvepäevale.",
+      "actions": [
+        "Naine seisab",
+        "Naine vaatab otse kaamerasse"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Talv",
+        "Lumi",
+        "Sall",
+        "Väljas",
+        "Maal",
+        "Külm",
+        "Mõtlik",
+        "Tõsine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Helepruun sall/rätik",
+        "Tume mantel",
+        "Lumi",
+        "Paljad puud",
+        "Põõsad",
+        "Puidust hoone/maja"
+      ],
+      "colorcodes": [
+        "#B49E7C",
+        "#2D3A4B",
+        "#D0D4D6",
+        "#4E4A47",
+        "#D4AD97",
+        "#3A2A28"
+      ],
+      "texts": [
+        "Hmm, so what does a magpie crave?"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on subtiitrid, teisel ja kolmandal pildil puuduvad subtiitrid."
+      ],
+      "snr": "010",
+      "ajad": [
+        "61.480",
+        "71.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab avaral ja külmal maastikul liikuvaid inimesi metsa taustal. Maapind on kaetud heleda, tõenäoliselt paksu lume või härmatisega kruusa või kividega, mis annab stseenile talvise või hilissügisese ilme. Paremal pool pildil on näha pikk rida puid, mis jagunevad tumerohelisteks okaspuudeks ja pikkadeks, peenikesteks lehtpuudeks, millel pole lehti, näiteks kased. Päikesevalgus paistab puude vahelt läbi, valgustades osaliselt metsaalust ja luues sügavaid varjusid, vihjates kas varahommikule või hilisele pärastlõunale. Kesksel kohal liigub musta pika mantliga ja heleda peakattega täiskasvanud figuur, kes kannab kaasas tumedat kotti või ämbrit. Esialgu on ta üksi, kuid hiljem ühineb temaga laps, kes on riietatud pruunikasse riietusse ja jookseb täiskasvanu poole. Hilisemates kaadrites liiguvad nad koos edasi mööda härmas maapinda, samal ajal kui ekraanile ilmuvad subtiitrid.",
+      "actions": [
+        "Täiskasvanu kõndimine",
+        "Lapse jooksmine",
+        "Lapse liitumine täiskasvanuga",
+        "Koos edasi liikumine"
+      ],
+      "keywords": [
+        "talv",
+        "külm",
+        "mets",
+        "härmatis",
+        "kruus",
+        "kõndimine",
+        "jooksmine",
+        "maastik",
+        "subtiitrid"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Mets",
+        "Okaspuud",
+        "Lehtpuud",
+        "Härmas maapind",
+        "Kruus",
+        "Kivid",
+        "Täiskasvanu riietus (must mantel, hele peakate)",
+        "Kott/ämber",
+        "Lapse riietus (pruunikas)"
+      ],
+      "colorcodes": [
+        "#2F533E",
+        "#CFCFCF",
+        "#2C2C36",
+        "#D1B185",
+        "#7F583D",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "You said.",
+        "gives them the will to find another bird’s nest"
+      ],
+      "persons": [
+        "Täiskasvanu (pikk must mantel, hele peakate)",
+        "Laps (pruunikas riietus)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha ainult täiskasvanu figuur, kes kõnnib paremalt vasakule, ilma tekstita.",
+        "Teisel pildil ilmub stseeni laps, kes jookseb täiskasvanu poole, ja ilmub esimene subtiiter: 'You said.'",
+        "Kolmandal pildil on täiskasvanu ja laps juba koos, liikudes samas suunas, ning ilmub teine, pikem subtiiter: 'gives them the will to find another bird’s nest'."
+      ],
+      "snr": "011",
+      "ajad": [
+        "71.520",
+        "81.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimfiguuri, täiskasvanut ja last, kes kõnnivad läbi laia, lumelappidega kaetud ja kuivanud rohuga põllu. Figuurid on kaamerast eemale pööratud, liikudes suurte raagus puude suunas, mis seisavad maastiku keskel. Taamal horisondil on näha tihe okaspuumets, mis piirab põldu. Taevas on ühtlaselt hall ja pilvine, andes stseenile jaheda ja pisut kõleda ilme. Täiskasvanud figuur kannab tumedat pikka mantlit ja hoiab käes tumedat ämbrit. Laps on väiksem ja tal on seljas heledam mantel. Ühe raagus puu lähedal on märgata lendavat lindu. Maapinnal on hajutatud lumekihid, mis on segunenud kuiva talvise taimestikuga. Üldine õhkkond on rahulik, kuid samas kõle ja üksildane, rõhutades teekonna või sihtkoha olulisust selles avatud maastikus.",
+      "actions": [
+        "Kõndimine",
+        "Ämbri kandmine",
+        "Lendamine (lind)"
+      ],
+      "keywords": [
+        "Talvine maastik",
+        "Kõle",
+        "Üksildus",
+        "Raagus puud",
+        "Põld",
+        "Lumi",
+        "Pilvine taevas",
+        "Teekond",
+        "Maaline"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Raagus puu",
+        "Ämber",
+        "Lumi",
+        "Kuiv rohi",
+        "Okaspuumets",
+        "Lind"
+      ],
+      "colorcodes": [
+        "#E0E0E0",
+        "#A9A9A9",
+        "#D2B48C",
+        "#000000",
+        "#5C4033",
+        "#696969"
+      ],
+      "texts": [
+        "gives them the will to find another bird's nest"
+      ],
+      "persons": [
+        "Täiskasvanu",
+        "Laps"
+      ],
+      "imagetype": "real",
+      "emptypercent": "80",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha ingliskeelne tekstirida \"gives them the will to find another bird's nest\", mis puudub teistel piltidel.",
+        "Täiskasvanud figuuri peas olev peakate/juuksed paistavad piltide vahel pisut erinevalt (esimesel heledam sall, hiljem heledad juuksed või vähem märgatav peakate).",
+        "Linnu asukoht puu lähedal on kaadrite vahel muutunud, mis viitab liikumisele."
+      ],
+      "snr": "012",
+      "ajad": [
+        "81.480",
+        "99.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte naissoost isikut – täiskasvanud naist ja noort tüdrukut – seismas lumisel väljal halli, pilvise taeva all. Tagaplaanil on näha tumedaid metsatukki, mis ulatub horisondini. Mõlemad isikud on riietatud paksult ja vaatavad tõsise ilmega ettepoole, andes stseenile mõtliku või melanhoolse tooni. Lumine maastik ja paksud riided viitavad külmale ilmale. Piltide vahel puuduvad olulised erinevused, tegemist on sisuliselt identsete kaadritega.",
+      "actions": [
+        "Seisavad",
+        "Vaatavad ette"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Väli",
+        "Mets",
+        "Külm",
+        "Naine",
+        "Tüdruk",
+        "Portree",
+        "Väljas",
+        "Hall taevas",
+        "Tõsine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Täiskasvanud naine",
+        "Noor tüdruk",
+        "Lumi",
+        "Põld",
+        "Mets",
+        "Taevas",
+        "Tume mantel",
+        "Hele sall",
+        "Müts",
+        "Pruun mantel",
+        "Must beani-tüüpi müts",
+        "Mustriline sall"
+      ],
+      "colorcodes": [
+        "#BFA785",
+        "#202030",
+        "#805C40",
+        "#2E3E3E",
+        "#D0D0D0",
+        "#F0F0F0",
+        "#303A30"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Tüdruk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Minimaalsed pikslite nihked, visuaalselt identsed."
+      ],
+      "snr": "013",
+      "ajad": [
+        "99.560",
+        "104.400"
+      ]
+    },
+    {
+      "explanation": "Noorel naisel on kaelas helepruun rätik ja seljas tume mantel. Ta seisab välitingimustes, arvatavasti talvisel põllul või avatud maastikul, kus on üksikud puud. Stseeni keskmes on noor naine ja surnud lind, mis ripud algselt traadi abil puuoksast. Naine vaatab, seejärel võtab linnu oksast alla ja hoiab seda hoolikalt oma kätes. Tema näoilme on mõtlik ja veidi kurb. Ümbritsev maastik on talvine, maapinnal on lumelaigud, taamal on näha paljaid puid ja põldu ning pilves, heledat taevast.",
+      "actions": [
+        "Vaatab lindu",
+        "Ulatab käed linnu poole",
+        "Võtab linnu oksast alla",
+        "Hoiab lindu kätes",
+        "Mõtleb"
+      ],
+      "keywords": [
+        "Harakas",
+        "Naine",
+        "Talv",
+        "Loodus",
+        "Kurbus",
+        "Mõtlikkus",
+        "Surnud lind",
+        "Põld",
+        "Puud",
+        "Rätik",
+        "Külm"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Harakas (lind)",
+        "Traat/nöör",
+        "Puu (oksad, tüvi)",
+        "Mantel",
+        "Rätik",
+        "Lumi",
+        "Põld",
+        "Kindad"
+      ],
+      "colorcodes": [
+        "#464B5C",
+        "#B39973",
+        "#DADFE2",
+        "#707371",
+        "#3B3D3B",
+        "#E0E5E7",
+        "#B8A783"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil ripud lind puuoksast traadi abil peadpidi alla ja naine vaatab seda eemalt, tema käsi on all. Linnu suu on lahti.",
+        "Teisel pildil on naine linnule lähemal, ulatab käed linnu juurde ja hoiab seda, ilmselt võttes seda oksast alla. Linnu suu on avatud.",
+        "Kolmandal pildil hoiab naine lindu mõlema käega oma rinna kõrgusel ja vaatab seda allapoole, tema pilk on suunatud linnule ja näoilme on süvenenud. Linnu suu on suletud ja pea on pööratud."
+      ],
+      "snr": "014",
+      "ajad": [
+        "104.400",
+        "128.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist talvises väliskeskkonnas. Ta on riietatud sooja tumesinisesse mantlisse ja heledasse (beeži või helepruuni) pearätti, mis katab ka kaela. Naine hoiab mõlemas käes väikest, tumedate ja valgete sulgedega lindu, mis sarnaneb harakaga. Tema pilk on suunatud õrnalt ja mõtlikult linnule, väljendades kaastunnet või kurbust. Taustal on näha paljaid, lehtedeta puid, osaliselt lumega kaetud põldu ja kaugemal metsaserva. Ühel puuoksal paistab ka rippuv konks. Üldine õhkkond on jahe, vaikne ja melanhoolne, viidates talvisele päevale pilves taeva all.",
+      "actions": [
+        "Hoiab lindu kätes",
+        "Vaatab lindu",
+        "Mõtiskleb",
+        "Väljendab kaastunnet"
+      ],
+      "keywords": [
+        "Naine",
+        "Lind",
+        "Talv",
+        "Kurbus",
+        "Mõtisklus",
+        "Loodus",
+        "Kaastunne",
+        "Väli",
+        "Külm",
+        "Maakoht"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Lind",
+        "Mantel",
+        "Sall",
+        "Puu",
+        "Konks",
+        "Põld",
+        "Mets",
+        "Lumi"
+      ],
+      "colorcodes": [
+        "#2D3949",
+        "#CBA781",
+        "#E4C8BC",
+        "#3C2E2A",
+        "#2A2A2A",
+        "#DEDEDE",
+        "#A8B1B8",
+        "#6B5749",
+        "#F0F2F3",
+        "#C6B9A8"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Naise pea ja keha asend muutub kaadrite vahel kergelt, pakkudes erinevaid vaatenurki naise näole ja linnule.",
+        "Linnu asend naise kätes varieerub veidi, näidates erinevates kaadrites tema tiibu ja keha erinevatest külgedest.",
+        "Naise pilgu suund muutub õrnalt, säilitades siiski fookuse linnul.",
+        "Valgus ja taust jäävad järjepidevaks, mis viitab lühikesele ajahetkele kaadrite vahel."
+      ],
+      "snr": "015",
+      "ajad": [
+        "128.400",
+        "132.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort tüdrukut talvisel maastikul, kes hoiab ettevaatlikult ja kurvalt käte vahel surnud või vigastatud mustvalget harakat, kelle tiivad on laiali sirutatud. Tüdruk kannab peas tumedat kootud mütsi, seljas pruuni lambanahkset või karvase voodriga mantlit ja kätel kirjusid, täpilisi kindaid. Tema pilk on suunatud allapoole, linnu poole, andes stseenile mõtliku ja melanhoolse ilme. Ümbritsev loodus on talvine, maapind on kaetud kuivanud kollakashalli rohu ja kerge härmatisega. Taustal on näha mõned raagus puud, millest üks paremal on jämeda sammaldunud tüvega. Valgus on pehme päevavalgus, mis annab stseenile loomuliku ja vaoshoitud tonaalsuse. Kolmandal pildil on näha ingliskeelsed subtiitrid, mis annavad pildile lisakonteksti.",
+      "actions": [
+        "Hoiab lindu",
+        "Vaatab alla"
+      ],
+      "keywords": [
+        "Tüdruk",
+        "Harakas",
+        "Talv",
+        "Kurbus",
+        "Loodus",
+        "Lind",
+        "Mantel",
+        "Müts",
+        "Kindad",
+        "Härmatis",
+        "Maastik",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Tüdruk",
+        "Harakas",
+        "Müts",
+        "Mantel",
+        "Kindad",
+        "Puu",
+        "Rohi",
+        "Härmatis"
+      ],
+      "colorcodes": [
+        "#875C3B",
+        "#2F2F2F",
+        "#D1C5B6",
+        "#A69E96",
+        "#8C997C"
+      ],
+      "texts": [
+        "That same morning",
+        "had visited the hen house"
+      ],
+      "persons": [
+        "Noor tüdruk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0-10",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel ja teisel pildil puuduvad subtiitrid.",
+        "Kolmandal pildil on nähtavad valged subtiitrid „That same morning had visited the hen house“ pildi alumises keskel."
+      ],
+      "snr": "016",
+      "ajad": [
+        "132.320",
+        "139.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia panoraamvaadet metsapiirile heleda taeva all. Horisontaalne metsajoon koosneb peamiselt kõrgetest okaspuudest, mille hulgas on selgelt eristatavaid mände, eriti vasakul ja paremal ääres. Puude võrad on tihedad ja tumerohelised. Metsajoone keskel on näha ka mõningaid lehtpuid, millel on veel lehed puudu, viidates varakevadele või hilissügisele. Metsa kohal laiub avar, helehall taevas, kus on näha mõningaid hajutatud pilvefragmente, mis annavad taevale pehme ja ühtlase tooni. Üldine valgus on pehme ja loomulik, vihjates hommikule või varasele pärastlõunale. Stseeni alumises osas on näha subtiitreid, mis jutustavad lugu ja muutuvad kaadrite vahel.",
+      "actions": [
+        "Subtiitrite kuvamine"
+      ],
+      "keywords": [
+        "Loodus",
+        "Mets",
+        "Taevas",
+        "Panoraam",
+        "Hommik",
+        "Vaikus",
+        "Rahu",
+        "Kevad",
+        "Maastik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Mets",
+        "Taevas",
+        "Pilved",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#c6d0d2",
+        "#1f2e22",
+        "#2f4034",
+        "#4d5b4a",
+        "#ffffff"
+      ],
+      "texts": [
+        "That same morning I had visited the henhouse",
+        "a magpie had broken in and..."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "spring",
+      "daytime": "morning",
+      "differences": [
+        "Esimesel ja teisel pildil on sama subtiitrite tekst: \"That same morning I had visited the henhouse\".",
+        "Kolmandal pildil on subtiitrite tekst muutunud: \"a magpie had broken in and...\"."
+      ],
+      "snr": "017",
+      "ajad": [
+        "139.680",
+        "146.960"
+      ]
+    },
+    {
+      "explanation": "Stseenil on lähivõttes kujutatud vana, ilmastiku poolt räsitud puitpruss või palk, mis on horisontaalselt paigutatud. Pruss on kaetud tumedate plekkide ja pragudega, kohati on näha heledamaid, hallikasvalgeid alasid, mis võivad olla koorejäänused, samblikud või värvijäljed. Selle keskele on tihedalt mähitud paks, tugevalt roostetanud metallkett, mille alumine osa ripub vabalt alla. Kett on tumepruun-oranžika tooniga ja rõhutab objekti vanust ning kasutust. Taust on udune ja hele, vihjates avarale või udusele väliskeskkonnale. Vasakul pool on osaliselt näha teist puitkonstruktsiooni, mis toetab prussi. Üldpilt annab edasi mahajäetuse, aja ja lagunemise tunnet.",
+      "actions": [],
+      "keywords": [
+        "vana",
+        "roostes",
+        "puit",
+        "kett",
+        "ilmastikuräsitud",
+        "mahajäetud",
+        "tekstuur",
+        "detailne",
+        "rabe",
+        "loodus",
+        "aeg"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "puitpruss",
+        "palk",
+        "metallkett",
+        "puitpost"
+      ],
+      "colorcodes": [
+        "#5B3A2C",
+        "#7C472A",
+        "#B5B2AB",
+        "#D0D0D0",
+        "#9A958E"
+      ],
+      "texts": [
+        "a magpie had broken in and...",
+        "It had already finished the eggs and"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevused seisnevad peamiselt piltidel kuvatud tekstis: esimesel pildil on tekst \"a magpie had broken in and...\", teisel pildil \"It had already finished the eggs and\", ja kolmandal pildil puudub tekst täielikult.",
+        "Visuaalselt on märgata kaadrite vahel ka kergeid variatsioone fookuses, valgustuses ja kompositsioonis, mis viitab kaamera liikumisele või kaadrite muutumisele videos. Näiteks kolmandal pildil on puidu tekstuurid ja heledamad toonid mõnevõrra selgemalt esile toodud."
+      ],
+      "snr": "018",
+      "ajad": [
+        "146.960",
+        "161.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab külma, tõenäoliselt hilistalvist või varakevadist päeva avatud maastikul. Noorem tüdruk, riietatud soojalt tumedasse mütsi, pruuni lambanahkse voodriga mantlisse ja kirevatesse kinnastesse, mängib vana puust kaevu juures. Esialgu vaatab ta läbi kinnaste, imiteerides binoklit, ja naeratab. Tema ümber laiub avar põld, mis on kaetud kuivanud kollakaspruuni rohuga ning siin-seal on näha lumelaike. Taamal on näha metsa piiri selge taeva all. Kaevu juurde on ehitatud rustikaalne puitkonstruktsioon, millel on ka horisontaalne palk ja keti fragment. Hiljem on stseenil näha täiskasvanu käsi (kandes tumesinist varrukat ja punase/roosa mustriga labakinnast), kes kallab hõbedasest metallist ämbrist vett kaevu sisse või selle lähedal olevasse anumasse. Kaevu ümber on näha samblaseid kive, mis annavad edasi vana ja looduslähedase tunde.",
+      "actions": [
+        "Vaatamine läbi kinnaste",
+        "Naeratamine",
+        "Seismine kaevu juures",
+        "Vee kallamine ämbrist"
+      ],
+      "keywords": [
+        "Maastik",
+        "Kaev",
+        "Tüdruk",
+        "Talv",
+        "Vesi",
+        "Rustikaalne",
+        "Kindad",
+        "Mantel",
+        "Mängimine",
+        "Loodus",
+        "Põld",
+        "Lumi"
+      ],
+      "shot_type": "medium to close-up progression",
+      "placement": "outdoor",
+      "objects": [
+        "Tüdruk",
+        "Kaev",
+        "Puust post",
+        "Horisontaalne palk",
+        "Kett",
+        "Ämber",
+        "Vesi",
+        "Lumelaigud",
+        "Kuivanud rohi",
+        "Mets",
+        "Müts",
+        "Mantel",
+        "Kindad",
+        "Sall",
+        "Sammal",
+        "Kivid"
+      ],
+      "colorcodes": [
+        "#6A442E",
+        "#353B3C",
+        "#B0A06D",
+        "#FFFFFF",
+        "#D48E75",
+        "#8E9BA4",
+        "#4A6E4D",
+        "#4E6B87"
+      ],
+      "texts": [],
+      "persons": [
+        "Tüdruk",
+        "Täiskasvanu (käed nähtavad)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesed kaks kaadrit keskenduvad tüdrukule ja ümbritsevale maastikule, kolmas kaader on lähivõte kaevust ja vee kallamise tegevusest, kus on näha täiskasvanu käsi.",
+        "Tüdruku kehahoiak ja pilgu suund muutuvad esimese ja teise kaadri vahel.",
+        "Kaevu detailid, eriti ketid ja ava, muutuvad selgemaks, kui kaamera kolmandas kaadris lähemale liigub."
+      ],
+      "snr": "019",
+      "ajad": [
+        "161.560",
+        "191.960"
+      ]
+    },
+    {
+      "explanation": "Stseenis vaatab inimene, kelle seljaosa ja õlg on pildi esiplaanil, alla musta värvi ämbrisse, mis on täidetud veega. Ämber asub kuivanud kollakaspruunil rohul. Vee pinnal peegeldub tagurpidi noore naise nägu, kes kannab tumedat peakatet või kapuutsi ja kellel on tumedad lokkis juuksed. Naise näoilme muutub kaadrite jooksul, alustades rahuliku ja veidi mõtiskleva pilguga, avades seejärel silmi ja suud, ning lõpuks väljendades selgelt üllatust või šokki laialt avatud suu ja silmadega.",
+      "actions": [
+        "Vaatamine",
+        "Peegelduse jälgimine",
+        "Näo ilme muutumine"
+      ],
+      "keywords": [
+        "Ämber",
+        "Vesi",
+        "Peegeldus",
+        "Naine",
+        "Nägu",
+        "Üllatus",
+        "Šokk",
+        "Mõtisklus",
+        "Väljas",
+        "Rohtla",
+        "Sügisene",
+        "Veepeegeldus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Must ämber",
+        "Vesi",
+        "Ämbri käepide (puidust/plastist)",
+        "Kuivanud rohi"
+      ],
+      "colorcodes": [
+        "#1E222A",
+        "#6F6C66",
+        "#AEACA8",
+        "#4A4D51",
+        "#8F8981"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (peegelduses)",
+        "Vaatav inimene (nähtav selja tagant)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Naise näo ilme muutub kaadrite vahel: esimesel pildil on ta suu peaaegu suletud ja ilme rahulik, teisel pildil on suu kergelt avatud ja silmad laiemalt lahti, kolmandal pildil on suu laialt avatud (justkui ohe või karje) ja silmad täielikult avatud, väljendades üllatust või šokki.",
+        "Naise silmade ja suu avatus suureneb iga järgneva pildiga."
+      ],
+      "snr": "020",
+      "ajad": [
+        "191.960",
+        "197.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist, kes kõnnib avatud ja värskelt küntud põllul otse kaamera poole. Tema ilme on tõsine ja mõtlik, andes edasi melanhoolse või sihikindla meeleolu. Naine kannab tumedat pikka mantlit ja heledat beezikat salli, mis on tihedalt ümber pea ja kaela mässitud. Vasakus käes hoiab ta tumedat ämbrit ning paremas käes on näha tume kinnas. Põld on kaetud pikkade vagudega, mille vahel on näha valgeid lumelörtsi- või härmaplekke, mis viitab jahedale varakevadisele ilmale. Taamal laiub mets, mille vasakpoolses osas on raagus lehtpuud ja paremal pool tihe roheline okaspuumets. Taevas on hele ja pilvine. Kolmandal pildil on näha ka subtiiter, mis annab stseenile lisakonteksti.",
+      "actions": [
+        "kõndimine",
+        "ämbris millegi kandmine"
+      ],
+      "keywords": [
+        "naine",
+        "põld",
+        "küntud maa",
+        "mets",
+        "varakevad",
+        "talv",
+        "jahe",
+        "mõtlik",
+        "üksik",
+        "ämber",
+        "mantel",
+        "sall"
+      ],
+      "shot_type": "pikk plaan",
+      "placement": "õues",
+      "objects": [
+        "naine",
+        "mantel",
+        "sall",
+        "ämber",
+        "kindad",
+        "põld",
+        "vagusid",
+        "lumi",
+        "härm",
+        "mets",
+        "lehtpuud",
+        "okaspuud",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#302E34",
+        "#C2A78C",
+        "#504D48",
+        "#E8EBE9",
+        "#B5B2AF",
+        "#3B5A3C",
+        "#A7C0D8",
+        "#3A3A3A"
+      ],
+      "texts": [
+        "I should have also asked"
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "päris",
+      "emptypercent": 65,
+      "season": "varakevad",
+      "daytime": "päev",
+      "differences": [
+        "Kolmandal pildil on näha subtiiter \"I should have also asked\", mis puudub kahel esimesel pildil.",
+        "Naise asukoht kaamera suhtes on piltidel pisut erinev, viidates tema liikumisele kaadri jooksul, kusjuures kolmandal pildil on naine kaamerale kõige lähemal."
+      ],
+      "snr": "021",
+      "ajad": [
+        "197.760",
+        "215.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, vanemat meest ja nooremat naist, puuriida ees õues. Massiivne puuriit moodustab kogu tausta, ulatudes üle pildi laiuse ja vertikaalselt kuni puukuuri katuseni, mis on kaetud sambla või lumega. Maapind on kaetud osaliselt sulanud lumega ning pruunika lehestiku või samblaga. Ilm on pilves ja päevane. Mõlemad tegelased on riietatud paksudesse talveriietesse. Mees kannab helehalli jopet, tumesiniseid pükse ja pruune talvesaapaid, lisaks mütsi. Naine kannab tumedat pikka mantlit, heledat tooni salli, mis on mähitud ümber kaela ja pea, ning kindaid. Stseeni jooksul on näha mees algul seistes, seejärel kummardumas, et asetada midagi (tundub olevat riidetükk või müts) puidust pingile, mis asub puuriida ees, ja lõpuks istumas sellel pingil. Naine seisab alguses mehega vastakuti, seejärel pöörab oma selja mehe poole ja vaatab eemale, ning viimaks istub mehe kõrvale pingile. Pingi ees maapinnal on must ämber ja virn halge.",
+      "actions": [
+        "Seismine",
+        "Kummardamine",
+        "Istumine",
+        "Esineva eseme asetamine pingile",
+        "Pööramine"
+      ],
+      "keywords": [
+        "Puuriit",
+        "Talv",
+        "Õues",
+        "Vanem mees",
+        "Noorem naine",
+        "Vestlus (subtiitrite järgi)",
+        "Külm ilm",
+        "Maaelu",
+        "Ootamine",
+        "Puhkus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Puuriit",
+        "Puukuur",
+        "Puidust pink",
+        "Must ämber",
+        "Halud (maapinnal)",
+        "Lumi (maapinnal ja katusel)",
+        "Samblik (katusel ja maapinnal)",
+        "Helehall jope",
+        "Tumesinised püksid",
+        "Pruunid talvesaapad",
+        "Tume pikk mantel",
+        "Hele sall",
+        "Müts (mehel)",
+        "Kindad (naisel)"
+      ],
+      "colorcodes": [
+        "#8C6C4F",
+        "#D9D9D9",
+        "#4A4A4A",
+        "#C8C8C8",
+        "#607B5E",
+        "#3E5472"
+      ],
+      "texts": [
+        "I should have also asked.",
+        "between its beak and swallow?"
+      ],
+      "persons": [
+        "Vanem mees",
+        "Noorem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe asend muutub seistes kummardamisele ja lõpuks istumisele.",
+        "Naise asend muutub mehega vastakuti seismiselt selja pööramisele ja seejärel mehe kõrvale istumisele.",
+        "Subtiitrid muutuvad, peegeldades vestluse edenemist.",
+        "Esimesel ja teisel kaadril on mõlemad inimesed püsti, kolmandal kaadril istuvad nad pingil."
+      ],
+      "snr": "022",
+      "ajad": [
+        "215.880",
+        "245.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest ja nooremat naist istumas lihtsal puidust pingil massiivse, hoolikalt laotud puuriida ees. Maapind on kaetud kuivanud lehtede ja okstega, mis viitab sügisesele või varakevadisele ajale. Vanem mees on riietatud heledasse jopesse, tumedatesse pükstesse ja mütsi ning hoiab käes heledat eset, mis näib olevat kangatükk või jalanõude puhastusvahend. Ta tundub väsinud või haiglane, algul kummardudes ettepoole, seejärel toetades pea naise õlale ja lõpuks lesides peaaegu horisontaalselt naise süles. Noorem naine on riietatud tumedasse mantlisse, mustadesse pükstesse, tumedatesse saabastesse ning tal on paks hele sall ümber kaela ja tumedad mustriga kindad käes. Tema pilk on suunatud otse ette, nägu on rahulik ja leebe, pakkudes mehele vaikselt tuge. Stseeni üldine meeleolu on mõtisklev, veidi melanhoolne, rõhutades hoolitsust ja põlvkondadevahelist seost. Vasakpoolses esiplaanis on must ämber ja mõned laotud puupalgid.",
+      "actions": [
+        "Vanem mees kummardub ettepoole",
+        "Vanem mees toetab pea naise õlale",
+        "Vanem mees lesib naise süles",
+        "Noorem naine istub rahulikult",
+        "Noorem naine pakub toetust"
+      ],
+      "keywords": [
+        "puuriit",
+        "maaelu",
+        "vanadus",
+        "noorus",
+        "hoolitsus",
+        "toetus",
+        "puhkus",
+        "rahulik",
+        "melanhoolia",
+        "sügis",
+        "talv",
+        "põlvkondade vahe"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "puiduriit",
+        "puidust pink",
+        "must ämber",
+        "palk",
+        "kuivanud lehed",
+        "okkad",
+        "kivi",
+        "mehe jope",
+        "mehe müts",
+        "naise mantel",
+        "naise sall",
+        "naise kindad",
+        "hele ese mehe käes"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#A0522D",
+        "#D2B48C",
+        "#B0C4DE",
+        "#000000",
+        "#CD853F",
+        "#800000"
+      ],
+      "texts": [],
+      "persons": [
+        "vanem mees",
+        "noorem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on vanem mees kummardunud kergelt ettepoole, vaadates alla ja hoides heledat eset süles.",
+        "Teisel pildil toetab vanem mees oma pea noorema naise paremale õlale, vasak käsi kergelt ümber naise, hoides endiselt heledat eset.",
+        "Kolmandal pildil on vanem mees veelgi rohkem taha nõjatanud, lesides peaaegu horisontaalselt naise süles/õla piirkonnas, jalad välja sirutatud."
+      ],
+      "snr": "023",
+      "ajad": [
+        "245.880",
+        "249.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, vanemat meest ja nooremat naist, istumas puidust pingil massiivse ja korralikult laotud puuriida ees. Puuriit moodustab taustal domineeriva tekstuuri ja värvipaleti. Maapind on kaetud kuivanud lehtede ja mullaga, vihjates jahedamale aastaajale. Vasakul esiplaanil on näha musta ämbrit ja mõningaid suuremaid palke. Üldine atmosfäär on vaikne ja mõtlik, naise pilk on otse kaamerasse suunatud, näol on tõsine või melanhoolne ilme. Mees lamab pingil naise lähedal, tema poos on lõdvestunud, ehkki pisut ebamugav. Mõlemad kannavad soojemaid riideid, mis sobivad jahedasse ilma.",
+      "actions": [
+        "Istumine pingil",
+        "Lamamine pingil",
+        "Vaatamine kaamerasse",
+        "Puhkamine",
+        "Millegi hoidmine käes"
+      ],
+      "keywords": [
+        "maaelu",
+        "puuriit",
+        "pink",
+        "inimene",
+        "paar",
+        "sügis",
+        "kevad",
+        "külm",
+        "mõtlik",
+        "melanhoolia",
+        "ootamine",
+        "puhkus",
+        "vanadus",
+        "noorus",
+        "vaikus",
+        "loodus",
+        "puit",
+        "soe riietus",
+        "kontemplatsioon"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "puidust pink",
+        "puuriit",
+        "palk",
+        "must ämber",
+        "mehe müts",
+        "mehe jope",
+        "mehe püksid",
+        "mehe kindad",
+        "naise sall",
+        "naise mantel",
+        "naise püksid",
+        "naise jalatsid"
+      ],
+      "colorcodes": [
+        "#8B7355",
+        "#A88F6F",
+        "#3A3B3C",
+        "#D3C0A4",
+        "#66564B",
+        "#464B56",
+        "#2F2D2D"
+      ],
+      "texts": [],
+      "persons": [
+        "vanem mees",
+        "noorem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Mehe silmade asend ja pilk on kaadrite vahel pisut muutunud: esimeses kaadris tundub mees vaatavat ülespoole, teises on silmad rohkem lõdvestunud või suletud, kolmandas vaatab ta taas avatud silmadega naise suunas."
+      ],
+      "snr": "024",
+      "ajad": [
+        "249.480",
+        "250.680"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud kahte inimest, vanemat meest ja nooremat naist, kes istuvad puidust pingil õues, suure ja korrapärase küttepuude virna ees. Vanem mees lamab pingil, pea naise süles, näib puhkavat või magavat. Ta kannab heledat jopet, tumedaid pükse ja kindaid. Naine istub sirgelt, vaatab otse ettevaatajale, kandes tumedat mantlit ja heledat salli, mis katab tema pea ja kaela. Tema käed on kokku pandud süles. Maapind nende ümber on kaetud kuivanud lehtede ja mullaga. Vasakul on näha veel üks palk ja must ämber. Üldine atmosfäär on rahulik ja vaikne, viidates maaelule või suvilamiljööle.",
+      "actions": [
+        "Istumine",
+        "Puhkamine",
+        "Magamine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Maaelu",
+        "Küttepuud",
+        "Rahulikkus",
+        "Puhkus",
+        "Generatsioonid",
+        "Loodus",
+        "Puit",
+        "Sügis",
+        "Talv"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Küttepuude virn",
+        "Puidust pink",
+        "Kopp/ämber",
+        "Palk",
+        "Mantel",
+        "Sall",
+        "Jope",
+        "Püksid",
+        "Kindad",
+        "Lehed maapinnal"
+      ],
+      "colorcodes": [
+        "#8B5E3C",
+        "#A07F5E",
+        "#2F3643",
+        "#A68661",
+        "#B3B7B8",
+        "#435A6D",
+        "#6B6858",
+        "#3E3F40"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees",
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [],
+      "snr": "025",
+      "ajad": [
+        "250.680",
+        "251.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest – vanemat meest ja nooremat naist – istumas puiduriida ees asetseval puupingil. Tagaplaanil domineerib kõrge, tihedalt laotud halupuudest virn, mis koosneb erineva suuruse ja tooniga puutükkidest. Maapind on kaetud kuiva mulla, lehtede ja üksikute rohututtidega, viidates jahedamale aastaajale. Vasakul esiplaanil on näha musta ämbrit ja mõnda palgiotsa. Noorem naine istub pingi paremal poolel sirgelt, seljas tume mantel, tumedad püksid ja jalatsid ning kaelas beežikas sall. Tema lühikesed tumedad juuksed on nähtavad. Tema pilk on suunatud otse vaataja poole, ilme on rahulik ja mõtlik. Vanem mees lamab naise süles ja pingi vasakul poolel, kergelt külgasendis. Tal on seljas helehall jope, tumesinised püksid ja heledad saapad. Peas on tal nokamüts ja käes paistab tal olevat mingi nöör või riidetükk. Tema silmad on suletud või vaatavad allapoole, andes puhkava või väsinud mulje. Mehe pea toetub naise süles või õlal.",
+      "actions": [
+        "Istumine",
+        "Lamamine",
+        "Puhkamine",
+        "Toetamine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "puiduriit",
+        "pink",
+        "vanem mees",
+        "noor naine",
+        "puhkus",
+        "toetus",
+        "maaelu",
+        "jahe ilm"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "puiduriit",
+        "pink",
+        "must ämber",
+        "palgid",
+        "sall",
+        "mantel",
+        "jope",
+        "püksid",
+        "jalatsid",
+        "nokamüts",
+        "kindad",
+        "nöör/riietükk"
+      ],
+      "colorcodes": [
+        "#8B694F",
+        "#CBB294",
+        "#2D2D2D",
+        "#BDBDBD",
+        "#6C6251"
+      ],
+      "texts": [],
+      "persons": [
+        "noorem naine",
+        "vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Naise käte asend: esimeses kahes kaadris on naise käed süles, kolmandas kaadris on tema parem käsi mehe ümber ja hoiab teda.",
+        "Kindad: kolmandas kaadris kannab naine punaste mustritega kindaid, mis eelnevates kaadrites puuduvad.",
+        "Mehe pea asend: kolmandas kaadris toetub mehe pea selgemalt naise süles/õlal, pakkudes toekamat puhkust.",
+        "Üldine poos: kolmandas kaadris on mõlema inimese poosid veidi lõdvestunumad ja intiimsemad."
+      ],
+      "snr": "026",
+      "ajad": [
+        "251.880",
+        "268.680"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud horisontaalne metsapiir heleda, pilvise taeva taustal. Mets on nähtav tumeda siluetina, mis annab pildile sügavuse ja vaikuse tunde. Vasakul pool on eristuv, kõrgem mänd, mis on kergelt kaldu ja mille okste kontuurid on selgelt nähtavad. Ülejäänud mets koosneb tihedast puude rivist, kus on nii okas- kui ka lehtpuid; lehtpuud näivad olevat raagus, viidates jahedamale aastaajale. Taevas on valdavalt helehall, õrnade valgete pilvedega, mis on hajutatud üle horisondi ja annavad taevale kerge tekstuur. Üldmulje on rahulik, looduslik ja vaoshoitud värvigammaga.",
+      "actions": [],
+      "keywords": [
+        "Mets",
+        "Taevas",
+        "Siluett",
+        "Loodus",
+        "Puud",
+        "Rahu",
+        "Vaikus",
+        "Horisont",
+        "Pilved",
+        "Hall",
+        "Tumeroheline",
+        "Maastik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Mänd",
+        "Mets",
+        "Puud",
+        "Taevas",
+        "Pilved"
+      ],
+      "colorcodes": [
+        "#C6C8CB",
+        "#D9DCDC",
+        "#24292B"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 55,
+      "season": "sügis",
+      "daytime": "päev",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad erinevused."
+      ],
+      "snr": "027",
+      "ajad": [
+        "268.680",
+        "280.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri, arvatavasti kööki või sahvrit, kus inimene seisab seljaga vaataja poole akna ees. Aken on stseeni peamine valgusallikas, luues tugeva silueti inimesest ja ruumi esemetest vastu heledat välisvalgust. Aknaruudud on kaetud veepiiskadega, mis viitab vihmasele või märjale ilmale väljas. Ruumi seinad on kaetud puitpaneelidega ja sisustus on tagasihoidlik, ent funktsionaalne. Akna all on puust riiul, millel asetsevad mitmesugused köögitarbed, nagu kauss, veekeetja ja potid. Seintel ripuvad kuivatatud ürdid või taimed ning teised nõud. Kogu stseen on komponeeritud kõrge kontrasti ja tumedate varjudega, mis annavad edasi vaikse ja keskendunud igapäevastele toimetustele pühendumise tunde.",
+      "actions": [
+        "kallab vedelikku kaussi",
+        "hoiab kannu ja töötleb kausis midagi",
+        "segab kätega kausis olevat sisu"
+      ],
+      "keywords": [
+        "siluett",
+        "köök",
+        "aken",
+        "kontrast",
+        "igapäevatoimetused",
+        "maaelu",
+        "valgus-vari",
+        "rahulik",
+        "traditsiooniline",
+        "vaikne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "inimene",
+        "aken",
+        "puitpaneelid",
+        "kauss",
+        "veekeetja",
+        "pott",
+        "kuivatatud ürdid",
+        "ämbrid",
+        "nõud",
+        "riiul",
+        "traatkorv",
+        "kann"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#e0e0e0",
+        "#8c7255",
+        "#5c5c5c"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil kallab inimene valgest kannust vedelikku kaussi.",
+        "Teisel pildil hoiab inimene kannu veidi madalamal ja tema käed on kausi kohal, viidates segamisele või ettevalmistusele.",
+        "Kolmandal pildil on inimene asetanud kannu kõrvale ja segab või töötleb sisu otse kätega kausis."
+      ],
+      "snr": "028",
+      "ajad": [
+        "280.200",
+        "310.400"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud noort naist vanamoelises köögis või majapidamisruumis, kes peseb midagi suures valges emailkausis. Ta seisab akna lähedal, kust paistab sisse pehme päevavalgus, valgustades tema profiili ja käsi. Naine kannab tumedat, lillemustriga kleiti. Tema pilk on alguses suunatud allapoole kausis olevale esemele, seejärel tõstab ta pilgu ja vaatab mõtlikult aknast välja. Ta käed on kausis märjaks saanud, viidates aktiivsele pesemisele. Aknalaual on näha retro stiilis veekeetja või kann ning ruumi sisekujundus on tagasihoidlik ja ajastule vastav. Stseeni üldine toon on rahulik ja meditatiivne.",
+      "actions": [
+        "Pesemine kausis",
+        "Mõtlikult aknast välja vaatamine",
+        "Kätega eseme hõõrumine"
+      ],
+      "keywords": [
+        "Naine",
+        "Pesemine",
+        "Aken",
+        "Köök",
+        "Kodutöö",
+        "Mõtisklev",
+        "Rahulik",
+        "Päevavalgus",
+        "Vana",
+        "Vintage"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Noor naine",
+        "Aken",
+        "Valge emailkauss",
+        "Lilleline kleit",
+        "Vana veekeetja/kann",
+        "Sein",
+        "Aknalaud"
+      ],
+      "colorcodes": [
+        "#3A3F42",
+        "#C4B18F",
+        "#D9DFDC",
+        "#3D342D",
+        "#CED3D6"
+      ],
+      "texts": [
+        "Because the magpie is back"
+      ],
+      "persons": [
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on naine vaatamas allapoole kausi sisse, keskendudes pesemisele.",
+        "Teisel ja kolmandal pildil on naine tõstnud pilgu ja vaatab aknast välja, ilme on mõtisklevam.",
+        "Kolmandal pildil on lisatud ingliskeelne subtiiter: \"Because the magpie is back\"."
+      ],
+      "snr": "029",
+      "ajad": [
+        "310.400",
+        "337.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja rustikaalset siseruumi, tõenäoliselt vana maja tuba. Keskmes on kaks inimest. Üks neist lamab madalal voodil või platvormil, olles kaetud teki või riidega, nii et vaid jalalabad on näha. Teine inimene, naine, seljas tumeda mustriga kleit, on läheduses, kas seisab või istub, vaadates lamajat. Ruumi tagaseinas on aken metallist varbadega, millest paistab sisse tuhm valgus. Akna all on puidust konstruktsioon, millel on ümar puuketas ja valge ese, mis meenutab leivatükki. Paremal pool on väike puidust laud, millel asetseb valge emailkauss. Üldine atmosfäär on vaikne ja mõtlik, valguse nappus loob melanhoolse meeleolu. Seintel ripub kohati heledamat riiet või kardinat.",
+      "actions": [
+        "üks inimene lamab/puhkab",
+        "teine inimene vaatleb/viibib läheduses",
+        "päevavalgus langeb aknast sisse"
+      ],
+      "keywords": [
+        "siseruum",
+        "hämar",
+        "vana maja",
+        "aken",
+        "metallvarbad",
+        "puitkonstruktsioon",
+        "inimene",
+        "lamaja",
+        "vaatleja",
+        "kauss",
+        "vaikus",
+        "mõtlikkus",
+        "rustikaalne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "aken",
+        "metallvarbad",
+        "puidust sein",
+        "puidust laud",
+        "puidust platvorm/voodi",
+        "ümar puitketas",
+        "valge ese (leib/riie)",
+        "kauss",
+        "musterdatud kleit",
+        "teki/riide all olev inimkeha",
+        "jalad",
+        "riie/kardin"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#3b3b3b",
+        "#4d4d4d",
+        "#a0a0a0",
+        "#3c3c3c",
+        "#e0e0e0",
+        "#c2a792"
+      ],
+      "texts": [
+        "Because the magpie is back"
+      ],
+      "persons": [
+        "kaks inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on tunduvalt tumedam ja lõigatum, näidates peamiselt tegelase alaselga ja subtiitreid.",
+        "Teine ja kolmas pilt pakuvad laiemat vaadet ruumile ja mõlemale tegelasele.",
+        "Seisva/istuvalt naise kehahoiak ja asend muutuvad teise ja kolmanda pildi vahel – kolmandas pildis on ta rohkem näoga lamaja poole ja istub/kummardub lähemale.",
+        "Kolmandas pildis on selgelt näha lamava inimese jalad ja laual olev valge kauss, mis teises pildis pole nii detailselt või üldse nähtavad."
+      ],
+      "snr": "030",
+      "ajad": [
+        "337.120",
+        "351.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist, kes asub hämaras ja rustikaalses siseruumis, tõenäoliselt puidust seintega hoones, näiteks palkmajas või keldris. Naine on kaadri keskel ja vasakul pool, parem pool on suures osas pime. Tema seljas on tume, lillelise mustriga kleit, millel on näha roosasid õisi ja rohelisi lehti mustal või väga tumedal taustal. Kleidi kaelusel on valge pitsiline või heegeldatud detail. Naine on tumedate juustega ja heleda nahaga. Stseeni valgus on madal, luues intiimse ja mõtiskleva meeleolu. Valgusvihk paistab kergelt tema näole ja õlale, esile tuues tema profiili ja juuste kontuure. Puidust seinad taga on tumedad ja varjudesse mattunud, pakkudes sügavust ja tagasihoidlikku tausta.",
+      "actions": [
+        "Vaatamine alla",
+        "Vaatamine üles",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Noor naine",
+        "Hämar",
+        "Rustikaalne",
+        "Siseruum",
+        "Puitseinad",
+        "Lilleline kleit",
+        "Mõtisklev",
+        "Rahulik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Puidust sein",
+        "Lilleline kleit"
+      ],
+      "colorcodes": [
+        "#202020",
+        "#3A2C29",
+        "#D4A7AF",
+        "#6B8B67",
+        "#E0C0AE",
+        "#3C3028",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses ja teises pildis vaatab naine alla või küljele, tema pilk on suunatud allapoole. Kolmandas pildis tõstab naine pilgu üles ja vaatab ettepoole-ülespoole."
+      ],
+      "snr": "031",
+      "ajad": [
+        "351.320",
+        "369.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab katuselt avanevat vaadet, kus esiplaanil on laineline, tõenäoliselt eterniidist või laineplekist katus. Katuse kohal, stseeni keskel, kõrgub telliskorsten. Korstna tipus istub tume lind, kes on ilmselt vares või hakak, vaadates paremale. Korstna ja katuse taga ning külgedel on näha paljaste okstega puude võrad, mis annavad edasi talvise või varakevadise meeleolu. Taevas on ühtlaselt hallikas-sinine ja pilvine, ilma otsese päikesepaisteta. Stseeni üldine värvigamma on summutatud ja hallikates-pruunides toonides, luues rahuliku ja veidi melanhoolse atmosfääri. Lind on ainus liikuv element paigal seisvas maastikus.",
+      "actions": [
+        "Lind istub korstnal",
+        "Lind nihutab asendit korstnal"
+      ],
+      "keywords": [
+        "korsten",
+        "katus",
+        "lind",
+        "puud",
+        "talv",
+        "hall taevas",
+        "maaelu",
+        "vaikus",
+        "loodus",
+        "pargitud vaade"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "katus",
+        "korsten",
+        "lind",
+        "puud",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#525C6A",
+        "#81614F",
+        "#756A63",
+        "#3A3B3E",
+        "#4B4B4B"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Lind on nihutanud oma asendit korstna tipus. Esimeses kaadris on lind veidi vasakul, teises kaadris on ta liikunud pisut paremale ja kolmandas kaadris on ta taas nihkunud vasakule, sarnasele positsioonile esimese kaadriga."
+      ],
+      "snr": "032",
+      "ajad": [
+        "369.000",
+        "377.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab välitegevust hägusevõitu päeval, tõenäoliselt hilissügisel või varatalvel, kuna maapind on kaetud pruuni lehtede- ja poriseguga ning osa puid on raagus. Kaadris on näha üks inimene, kes on riietatud soojalt halli jope, tumedate pükste ja mütsiga. Isik tegeleb puidulõhkumisega. Ta hoiab kahe käega kirvest ja on puid lõhkumas halupakul, mis asub stseeni alumises keskosas. Vasakult paistavad teised lõhkumiseks ettevalmistatud halud virnas, samuti veel lõhkumata palgid. Paremal pool on suur ja korralikult laotud küttepuude virn, mille kõrval on puidust pink. Taustal laiub tihe, valdavalt okaspuudest koosnev mets, mis viitab külmale ilmale või metsalisele asukohale. Maapind on ebaühtlane, kaetud mudase pinnase, okste ja puutükkidega, mis on lõhkumise käigus tekkinud. Valgus on pehme ja ühtlane, viitades pilvisele ilmale.",
+      "actions": [
+        "puidulõhkumine",
+        "kirvega löögi sooritamine",
+        "kirvega puu raiumine",
+        "küttepuude ettevalmistamine"
+      ],
+      "keywords": [
+        "puidulõhkumine",
+        "kirves",
+        "metsatöö",
+        "õues",
+        "küttepuud",
+        "halupakk",
+        "talvine tegevus",
+        "füüsiline töö"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "inimene",
+        "kirves",
+        "halupakk",
+        "küttepuud",
+        "palgid",
+        "mets",
+        "puud",
+        "pink",
+        "müts",
+        "jope",
+        "püksid",
+        "saapad"
+      ],
+      "colorcodes": [
+        "#B6B6B6",
+        "#2F2F3B",
+        "#6D5C4C",
+        "#4A5D4A",
+        "#E0D0B0",
+        "#7B7B7B"
+      ],
+      "texts": [],
+      "persons": [
+        "üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel kaadril on inimene kirve üles tõstnud ja valmistub lööki sooritama, kirves on pea kohal õhus.",
+        "Teisel kaadril on kirves löögi tegemise faasis, langemas allapoole ja just tabamas halupakule asetatud puud.",
+        "Kolmandal kaadril on kirves juba puusse löödud ja puit on pooleks lõhenenud, inimene hoiab kirvevart ja jälgib tulemust."
+      ],
+      "snr": "033",
+      "ajad": [
+        "377.520",
+        "378.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab naist välitingimustes puid raiumas hilissügisesel või talvisel päeval. Naine on riietatud soojalt, kandes halli jopet, musti pükse, musta mütsi ja valgeid kindaid. Tema peaülesanne on puid kirvega lõhkuda, mis asuvad tugeva puupaku peal. Maapind tema ümber on kaetud langenud lehtede ja külmakihiga või hõreda lumega, mis annab aimu jahedast temperatuurist. Stseenis on näha nii aktiivset puid raiumise hetke, kus kirves on hoos, kui ka järgnevaid faase, kus naine on just raiumise lõpetanud või korjab maast halge kokku. Taamal paremal on hoolikalt laotud virn halge puidust pingil, vasakul aga virn tooreid palke ja mõned vanad ehitusmaterjalid, näiteks eterniitplaadid. Kaugemas taustas domineerib tihe okasmets, mis pakub looduslikku tausta ja annab aimu metsastest oludest. Metsa tagant paistab hele ala, mis võib olla veekogu või lihtsalt pilvine taevas. Stseen peegeldab maalähedast elustiili ja rasket füüsilist tööd talveks ettevalmistumisel.",
+      "actions": [
+        "puid raiuma",
+        "kirvega lööma",
+        "puid kokku korjama",
+        "kükitama",
+        "puid vaatama",
+        "kirvest hoidma"
+      ],
+      "keywords": [
+        "puiduraie",
+        "talvine tegevus",
+        "külm",
+        "mets",
+        "halud",
+        "kirves",
+        "puidustik",
+        "naine",
+        "maatöö",
+        "ettevalmistus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "kirves",
+        "puupakk (alus)",
+        "halud",
+        "palgid",
+        "puidust pink",
+        "eterniitplaadid",
+        "okaspuud",
+        "müts",
+        "jope",
+        "kindad",
+        "püksid",
+        "saapad",
+        "lehed",
+        "lumi"
+      ],
+      "colorcodes": [
+        "#96999B",
+        "#1A1A1A",
+        "#8C6A4F",
+        "#3E573C",
+        "#D3DBDC"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Naine on esimesel pildil kirvega hoos puid raiumas, käed kõrgel. Raudumist ootav puuhalg on pakul.",
+        "Teisel pildil on kirves just löögi teinud või allapoole langemas ja naine vaatab töödeldud puitu pakul.",
+        "Kolmandal pildil on naine kummargil ja korjab maast halge, mis on juba lõhutud. Kirves on kas pakus või maas."
+      ],
+      "snr": "034",
+      "ajad": [
+        "378.720",
+        "383.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab väliskeskkonda, tõenäoliselt metsaserva või lageraiet, kus inimene tegeleb puude ettevalmistamisega. Maapind on kaetud lumelaikude ja mahalangenud lehtedega, vihjates talvisele või hilissügisesele aastaajale. Esiplaanil on jäme puupakk, mis toimib puidulõhkumispakuna, mille ümber on laiali pillutatud juba lõhutud puiduhalgusid. Ühel hetkel on puidupakul näha kirvest, mis viitab käimasolevale tegevusele. Soojalt riietatud inimene, seljas hall talvejope, peas must müts, jalas mustad püksid ja kätes kindad, kummardub, et maast puiduhalgusid üles korjata ja need seejärel puidupakule asetada, ilmselt edasiseks lõhkumiseks või korrastamiseks. Vasakul pool on näha palkidest ehitatud ja laineliste katuseplaatidega kaetud kuuri või panipaika, mille kõrval on veel palkidest virn. Taustal laiub tihe okaspuumets ja paremal ääres on puidust pingil korrapäraselt laotud küttepuude riit. Üldine atmosfäär annab edasi töist ja looduslähedast keskkonda.",
+      "actions": [
+        "Puidu korjamine",
+        "Puidu asetamine lõhkumispakule",
+        "Puidu ettevalmistamine"
+      ],
+      "keywords": [
+        "Puidulõhkumine",
+        "Metsatöö",
+        "Talv",
+        "Küttepuud",
+        "Väljas",
+        "Mets",
+        "Töö",
+        "Lumi"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puidupakk",
+        "Lõhutud halud",
+        "Kirves",
+        "Palkvirn",
+        "Puukuur",
+        "Lainelised katuseplaadid",
+        "Puuriit",
+        "Pink",
+        "Mets",
+        "Okaspuud",
+        "Lumi",
+        "Kuivanud lehed",
+        "Jope",
+        "Müts",
+        "Kindad",
+        "Püksid"
+      ],
+      "colorcodes": [
+        "#A0A0A0",
+        "#1C1C1C",
+        "#6B4D35",
+        "#3D4F3D",
+        "#E0E0E0",
+        "#2F3B2E"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Inimese asend ja tegevuse faas on erinevates kaadrites: esimesel pildil on inimene sügavalt kummardunud ja korjab halgu, teisel pildil on inimene püstisemas asendis ja asetab halgu puidupakule.",
+        "Kirves on esimesel pildil selgemini nähtav puidupakul, teisel pildil on see inimese tegevuse tõttu osaliselt varjatud või nihkunud."
+      ],
+      "snr": "035",
+      "ajad": [
+        "383.520",
+        "385.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest õues metsaservas puid lõhkumas ja ette valmistamas. Keskel on suur püstine puupakk, mida kasutatakse lõhkumisaluseks, ja selle ümber on maas hunnik juba lõhutud ja lõhkumist ootavaid halge. Inimene, tõenäoliselt naine, kes kannab paksu halli talvejopet, tumedaid pükse, musta mütsi ja kindaid, on parasjagu puid lõhkumas. Ta hoiab käes ühte piklikku puuhalgu, et see lõhkumisalusele asetada. Maapind on kaetud sulanud lume, okste ja lehtedega, mis annab märku jahedast aastaajast. Taustal paistab tihe okaspuumets ja vasakul on puidust varjualune või kuur, mille katus on valmistatud vanadest puitlaudadest ja eterniidist, ning selle ees on virnas palkidest sein. Paremal on näha veel üks puuhalgude virn. Üldine õhkkond on maalähedane ja töine, viidates talveks valmistumisele.",
+      "actions": [
+        "Puude lõhkumine",
+        "Puuhalgu asetamine lõhkumisalusele",
+        "Puuhalgu hoidmine"
+      ],
+      "keywords": [
+        "Puidulõhkumine",
+        "Õues",
+        "Metsaserv",
+        "Talvetöö",
+        "Maalähedane",
+        "Külm ilm",
+        "Puiduhalg",
+        "Käsitsitöö",
+        "Loodus",
+        "Talvine ettevalmistus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene (naine)",
+        "Puuhalg",
+        "Lõhkumisalus (puupakk)",
+        "Kirves",
+        "Lõhutud puit",
+        "Müts",
+        "Jakk",
+        "Käpikud (kindad)",
+        "Püksid",
+        "Saapad",
+        "Mets",
+        "Puud",
+        "Varjualune (kuur)",
+        "Eterniitkatus",
+        "Palgivirn",
+        "Maapind",
+        "Sulanud lumi",
+        "Lehed"
+      ],
+      "colorcodes": [
+        "#A9B0B5",
+        "#2A2B2F",
+        "#5B4E3E",
+        "#8C785C",
+        "#3B4B3F",
+        "#E8EBF0"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil hoiab inimene puuhalgu kõrgemal, valmistudes seda lõhkumisalusele asetamaks.",
+        "Teisel pildil on inimene halu juba madalamale, lõhkumisaluse peale asetanud."
+      ],
+      "snr": "036",
+      "ajad": [
+        "385.920",
+        "387.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest õues metsasel alal puid lõhkumas. Kaadri keskel on suur vertikaalne puidust plokk, mida kasutatakse lõhkumise alusena. Sellel plokil asetseb puupakk, mida inimene parasjagu kirvega lõhub. Inimene on riietatud tumedasse mütsi, heledasse (tõenäoliselt halli või valge) jopesse, tumedatesse pükstesse ja saabastesse ning kannab kindaid. Tema pikk tume juuksekarv paistab mütsi alt. Ta on aktiivselt hõivatud puidu lõhkumisega, sooritades kirvega löögiliigutust. Maapind on kaetud mulla, puulaastude ja hajutatud lumelaikudega, mis viitab külmale ilmale, tõenäoliselt hilissügisele või talvele. Tagaplaanil paistab tihe okaspuumets. Vasakul pool on näha maast ehitatud varjualune või puuriit, mis on kaetud vanade laineliste katuseplaatidega, ja selle kõrval on hoolikalt virnastatud pikad palgid. Üldine meeleolu on töine, maalähedane ja väljas tegutsemisele keskendunud.",
+      "actions": [
+        "Puid lõhkuma",
+        "Kirvega lööma",
+        "Palke virnastama (tagaplaanil)"
+      ],
+      "keywords": [
+        "Puidulõhkumine",
+        "Kirves",
+        "Mets",
+        "Vabaõhk",
+        "Talv",
+        "Töö",
+        "Maaelu",
+        "Külm ilm",
+        "Palgid"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Kirves",
+        "Puidulõhkuja plokk (pakklatva)",
+        "Puupakk",
+        "Lõhutud puiduhalud",
+        "Palgid",
+        "Varjualune",
+        "Lainelised katuseplaadid",
+        "Mets",
+        "Okaspuud",
+        "Lumi/härmatis",
+        "Muld",
+        "Puulaastud",
+        "Müts",
+        "Jope",
+        "Püksid",
+        "Saapad",
+        "Käpikud"
+      ],
+      "colorcodes": [
+        "#D6D6D6",
+        "#2F2F2F",
+        "#6D4C32",
+        "#406D3E",
+        "#E6E6E6",
+        "#8B8B8B"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene (puidulõhkuja)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on inimene kirvega kõrgemal positsioonil, alustades hoogu allapoole suunatud löögiks.",
+        "Teisel pildil on kirves madalamal, olles kas just tabanud puupakku või kohe seda tabamas, mis kajastub ka inimese veidi ettepoole kaldunud kehahoiakus."
+      ],
+      "snr": "037",
+      "ajad": [
+        "387.120",
+        "388.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes lõhub puude metsaserval või taluhoovi lähedal. Kaadris domineerib jahe ja pilvine päevavalgus, mis heidab maastikule hallika varjundi. Vasakul on näha lihtne, robustne puidust varjualune või kuur, mille katus on valmistatud lainelisest eterniidist või vanadest puitlaudadest. Kuuri taga on hoolikalt virnastatud palgid. Maapind on kaetud pruuni mulla, puiduhakke ja üksikute lumelaikudega, mis annavad aimu jahedast hilissügisest või varatalvest. Stseeni keskel, veidi paremal, seisab tumeda mütsi, heleda halli pika jope, tumedate pükste ja saabastega inimene. Ta on riietatud paksudesse riietesse ja kannab kindaid. Inimene lõhub kirvega puidutüve abil halgusid, kasutades lõhkumispakuna suurt puupakku. Kirves on näha lööduna halu sisse. Paku ümber maapinnal on juba palju lõhutud puiduhalge. Taustal kõrgub tihe okasmets (näiteks kuused või männid) ja paremal kauguses paistab läbi puude veekogu, mis võib olla järv või jõgi.",
+      "actions": [
+        "Puude lõhkumine",
+        "Kirvega löömine"
+      ],
+      "keywords": [
+        "Puidulõhkumine",
+        "Mets",
+        "Talu",
+        "Kuur",
+        "Talv",
+        "Hilissügis",
+        "Maaelu",
+        "Kirves",
+        "Halud",
+        "Okasmets",
+        "Väljas"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Kirves",
+        "Puupakk",
+        "Halud",
+        "Jope",
+        "Müts",
+        "Saapad",
+        "Püksid",
+        "Kindad",
+        "Kuur",
+        "Palgid",
+        "Okaspuud",
+        "Lumi",
+        "Muld",
+        "Veekogu"
+      ],
+      "colorcodes": [
+        "#8C8C8C",
+        "#404040",
+        "#304E2E",
+        "#A08462",
+        "#D4D4D4",
+        "#606060"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Inimese asend ja kirve sügavus halu sees muutuvad pisut kaadrite vahel, mis näitab liikumist puude lõhkumise tegevuses.",
+        "Esimesel pildil on kirves just halgu tabanud või tabamas, käed on kõrgemal.",
+        "Teisel ja kolmandal pildil on kirves sügavamalt halgu löödud ning inimene on rohkem hoogu sisse viinud, keha on rohkem ettepoole kallutatud."
+      ],
+      "snr": "038",
+      "ajad": [
+        "388.320",
+        "389.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab naist puid raiumas õues külmas ja pilvises keskkonnas. Naine seisab keset pilti, kandes paksu halli jopet, musta mütsi, musti pükse ja saapaid. Tema ees on suur puidupakk (raiumispakk), millele ta asetab puid halgudeks raiumiseks. Maa on kaetud pruuni mulla, puiduhake ja õhukese lumekihi või jäitega. Naine hoiab käes kirvest ning sooritab puidu raiumise liigutust. Tema taga vasakul on lihtne palkidest ehitatud kuur või puiduriit, mille katus on valmistatud vanadest eterniitplaatidest. Kuuri taga ja kogu ülejäänud taustal laiub tihe okaspuumets, mis annab stseenile maalähedase ja isoleeritud tunde.",
+      "actions": [
+        "Puidu raiumine kirvega",
+        "Kirve ülesviimine hoobi andmiseks",
+        "Kirve paku poole langetamine"
+      ],
+      "keywords": [
+        "Puidu raiumine",
+        "Kirves",
+        "Puidupakk",
+        "Mets",
+        "Talvine maastik",
+        "Külm ilm",
+        "Õues",
+        "Käsitsitöö",
+        "Maalähedane",
+        "Lihtne elu",
+        "Palkhoone"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Kirves",
+        "Puidupakk",
+        "Halud",
+        "Virnastatud puit",
+        "Puukuur",
+        "Palkhoone",
+        "Eterniidist katus",
+        "Mets",
+        "Kuused",
+        "Lumi/jäide",
+        "Maa"
+      ],
+      "colorcodes": [
+        "#8E989F",
+        "#2D2D2D",
+        "#4A634E",
+        "#826E57",
+        "#908C82",
+        "#BCC2C3",
+        "#5E6971"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil hoiab naine kirvest paku kohal, valmistudes raiumiseks, palk on kirve all paku peal.",
+        "Teisel pildil on naine kirvega õhus, hooga üles viimas, valmistudes hoopi andma, kirves on kõrgemale tõstetud.",
+        "Kolmandal pildil on naine kirvega raiumisliigutust alustamas, kirves on pea kohal ja langemas puidule."
+      ],
+      "snr": "039",
+      "ajad": [
+        "389.520",
+        "390.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest õues metsaservas puid lõhkumas. Maapind on pruunika ja hallika tooniga, kaetud mullaga, kuivanud lehtedega ja hõredate lumelaikudega, mis viitab jahedale aastaajale, tõenäoliselt hilissügisele või varatalvele. Esiplaanil on näha mitmeid juba lõhutud puidutükke maas ning suur puupakk, mis toimib raiepakuna. Sellel pakul seisab vertikaalselt pikem halg, mida inimene parasjagu kirvega lõhub. Inimene on riietatud soojalt, kandes halli talvemantlit, tumedaid pükse, tumedat mütsi ja heledaid kindaid. Tema juuksed on pikad ja tumedad, osaliselt mütsi alt välja paistmas. Kirves on löögiasendis, puidu sees või just enne kontakti puuga. Taustal on näha lihtsat, robustset puitsalu, millel on laineplekist katus. Salu kõrval on virnas ettevalmistatud halge. Veidi kaugemal taustal on tihe okaspuumets ja paremal paistab läbi hõredate puude mingi veekogu. Üldine atmosfäär on vaikne ja töine.",
+      "actions": [
+        "Puid lõhkuma",
+        "Kirvega halgu lööma"
+      ],
+      "keywords": [
+        "Puulõhkumine",
+        "Metsaserv",
+        "Talv",
+        "Õues",
+        "Töö",
+        "Külm",
+        "Maaelu"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Kirves",
+        "Puidupakk (raiepakk)",
+        "Halg",
+        "Lõhutud puidutükid",
+        "Kuur",
+        "Laineplekist katus",
+        "Halupakkide virn",
+        "Okaspuud",
+        "Veekogu",
+        "Muld",
+        "Lumi/jäätunud pinnas",
+        "Talvemantel",
+        "Müts",
+        "Kindad"
+      ],
+      "colorcodes": [
+        "#8C999C",
+        "#262D34",
+        "#5F4F3D",
+        "#3B4B3F",
+        "#6A5B49",
+        "#9C9B98",
+        "#1B1E21"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on inimene kujutatud kirvega õhus, just enne kontakti haluga, käed on kõrgemal. Teisel pildil on kirves juba halu sisse löödud ja inimese kehahoiak on allapoole suunatud, näidates löögi lõppfaasi või läbilööki."
+      ],
+      "snr": "040",
+      "ajad": [
+        "390.720",
+        "391.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest (naist) õues puulõhkumisega tegelemas külmal aastaajal. Ta seisab keset raiesmikku või metsaalust, kus maapind on kaetud õhukese lumekihi või härmatisega ja kuivanud lehtedega. Paremal on näha puutüve, mida kasutatakse puupakuna ja selle ümber on juba lõhutud halge. Tagaplaanil on näha puidust, palkidest ehitatud varjualust, mille katus on kaetud eterniitplaatidega ja mille taga virnastatud palgid. Varjualusest kaugemal ja stseeni paremas servas on tihe kuusemets, mille vahelt paistab veekogu, tõenäoliselt järv või jõgi. Inimene kannab tumedat mütsi, paksu helehalli või hõbedast talvejopet, tumedaid pükse ja saapaid ning heledaid kindaid. Tema pikad tumedad juuksed on nähtavad mütsi alt. Ta on keskendunud puulõhkumisele, hoides kirvest kahe käega ja valmistudes löögiks või on just löögi sooritanud.",
+      "actions": [
+        "Puude lõhkumine kirvega",
+        "Kirve üles- ja allaliigutamine"
+      ],
+      "keywords": [
+        "Puulõhkumine",
+        "Mets",
+        "Külm ilm",
+        "Talv",
+        "Kirves",
+        "Puuhalud",
+        "Lõhkumispakk",
+        "Varjualune",
+        "Kuused",
+        "Vesi"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene (naine)",
+        "Kirves",
+        "Puupakk (lõhkumispakk)",
+        "Lõhutud puuhalud",
+        "Virnastatud palgid",
+        "Varjualune (eterniitkatus)",
+        "Müts",
+        "Talvejope",
+        "Kindad",
+        "Püksid",
+        "Saapad",
+        "Puud (kuused)",
+        "Maapind",
+        "Lumi/Härmatis",
+        "Vesi (järv/tiik)",
+        "Pink (paremal tagaplaanil)"
+      ],
+      "colorcodes": [
+        "#A6AEB0",
+        "#3D4F42",
+        "#6C4D34",
+        "#D7DADC",
+        "#2A2D3A",
+        "#5A5A5C"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on inimene kirvega ülespoole hoogu võtmas, parem käsi kõrgemal ja keha ettepoole kaldu. Kirves on peaaegu pea kohal. Teisel pildil on inimene kirvega allapoole lööki sooritamas või just sooritanud, käed on allpool ja kirves on löögipakuga kontaktis või selle lähedal. Inimese juuksed on teisel pildil rohkem nähtavad, langedes vabamalt kaela ümber."
+      ],
+      "snr": "041",
+      "ajad": [
+        "391.920",
+        "393.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist talvises või hilissügiseses metsamaastikus puid raiumas. Ta kannab sooja halli jopet, tumedaid pükse, musta mütsi ja kindaid. Naine seisab räsitud maapinnal, mis on kaetud halli ja lumese seguga, ning raiumiseks ettevalmistatud puupaku juures. Kesksel kohal on paks, vertikaalselt asetsev puupakk, millesse on sisse löödud kirves. Maapinnal on näha saetud puidujuppe ja laiali puistatud puuhalge. Taustal asub lihtne, palkidest ehitatud varjualune või küttepuude riit, millel on räsitud eterniitkatus. Varjualuse taga ja ümber laiub tihe, tumeroheline okaspuumets. Paremal kauguses paistab helehall veekogu, mis peegeldab pilvist taevast. Üldine atmosfäär on jahe ja töine, valgus on pehme ja hajutatud, vihjates pilvisele päevast. Naise kehahoiak ja kirve asend annavad märku füüsilisest tegevusest, mis on pooleli.",
+      "actions": [
+        "Puid raiumine",
+        "Kirve hoidmine",
+        "Puupaku lõhkumine"
+      ],
+      "keywords": [
+        "Puid raiumine",
+        "Kirves",
+        "Mets",
+        "Talv",
+        "Külm",
+        "Väljas",
+        "Palkhoone",
+        "Puupakk",
+        "Naine",
+        "Töö",
+        "Hall",
+        "Loodus",
+        "Küttepuud"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Kirves",
+        "Puupakk",
+        "Palgid (küttepuud)",
+        "Palkhoone/Varjualune",
+        "Eterniitkatus",
+        "Puud (okaspuumets)",
+        "Mets",
+        "Vesi (järv/tiik)",
+        "Maa",
+        "Lumi/Hall"
+      ],
+      "colorcodes": [
+        "#A3A3A3",
+        "#3E513D",
+        "#7C5C3F",
+        "#2C2C2C",
+        "#C3C3C3"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kirve asend puupakus ja naise käte hoiak on erinevad. Esimesel pildil on kirves sügavamale pakku löödud ning naise käed on madalamal ja painutatumad, mis viitab kas löögi lõppfaasile või kirve ülesvõtmise algusele. Teisel pildil on kirves pakust veidi ülespoole tõstetud ja naise käed on sirgemad ning kõrgemal, mis annab märku kirve üles tõstmisest järgmiseks hoobiks või selle asendi korrigeerimisest."
+      ],
+      "snr": "042",
+      "ajad": [
+        "393.120",
+        "394.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab välitingimustes metsas või selle lähedal puid rakuvat inimest. Vasakul on näha lihtne puidust ehitis, mis on kaetud vana lainepapi või laudkatusega ja mille ees on laotud puuhalud. Paremal seisab inimene tumedates riietes – musta mütsiga, halli paksu jopega ja tumedate pükstega ning kinnastega. Ta on keskendunud puidu raiumisele, hoides mõlema käega kirvest pea kohal, et lüüa pakule asetatud halgu. Maa on kaetud pruuni lehepuru ja osaliselt ka lume või härmatisega, mis viitab jahedale ilmale. Ümberringi on tihedalt puid, peamiselt okaspuud, mille rohelised oksad loovad metsase tausta. Maapinnal on näha juba lõhutud puiduhalgusid.",
+      "actions": [
+        "Puid raiumine",
+        "Kirve tõstmine"
+      ],
+      "keywords": [
+        "Puidu raiumine",
+        "Kirves",
+        "Mets",
+        "Välitingimused",
+        "Pakk",
+        "Talv",
+        "Manuaalne töö",
+        "Loodus",
+        "Halgud"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kirves",
+        "Pakk",
+        "Puiduhalg",
+        "Lõhutud puiduhalgud",
+        "Puidust ehitis",
+        "Lainepappkatus",
+        "Halgud (ladustatud)",
+        "Puu (okaspuud)",
+        "Maa"
+      ],
+      "colorcodes": [
+        "#A8ADB1",
+        "#363D3F",
+        "#603E1C",
+        "#40422B",
+        "#82888D"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on inimene alustamas kirve tõstmist, hoides seda rindkere kõrgusel.",
+        "Teisel pildil on inimene viinud kirve pea kohale, valmis alla lööma, näidates edasijõudmist puidu raiumise tegevuses."
+      ],
+      "snr": "043",
+      "ajad": [
+        "394.320",
+        "395.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort inimest metsas puulõhkumisel, mis toimub külmal talvisel päeval, maapinnal on näha kerget lund või härma ning kuivi lehti. Isik, kes kannab tumedat mütsi, helehalli paksu jopet ja tumedaid pükse ning on pika tumeda juustega, on keskendunud kirve löömisele paku peal olevale halule. Stseen näitab kahte järjestikust hetke: esmalt tõstab inimene kirvest jõuliselt pea kohale, valmistudes löögiks, ning seejärel on jäädvustatud hetk vahetult pärast kirve täpset maale löömist halu sisse, kus kirves on sügavalt puidus. Halgu lüüakse suurel jämedast puunotist valmistatud lõhkumispakul. Ümberringi maapinnal lebavad juba lõhutud halud, märjad lehed ja rohi. Taustal asub tihe ja kõrge okasmets, mis loob varjatud ja isoleeritud tunde. Vasakul pool on näha lihtsat varjualust või kuuri, mis on ehitatud horisontaalselt paigutatud palkidest ja kaetud laineliste eterniitplaatidega. Varjualuse taga on virnas veel palgimaterjali. Paremal pool on maapind samuti kaetud lehtede ja lumejälgedega, ning seal on näha ka lihtsat puidust pinki või alust.",
+      "actions": [
+        "Puude lõhkumine",
+        "Kirvega virutamine",
+        "Kirve hoidmine",
+        "Palkide ladustamine"
+      ],
+      "keywords": [
+        "Puulõhkumine",
+        "Mets",
+        "Talvine maastik",
+        "Kirves",
+        "Töö",
+        "Üksindus",
+        "Välitingimused",
+        "Varjualune",
+        "Lõkkevalmistus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Kirves",
+        "Lõhkumispakk (suur puunott)",
+        "Halud (lõhutud puud)",
+        "Puunotid (varjualuse ehituses ja virnas)",
+        "Laineline eterniit (varjualuse katus)",
+        "Mets (okasmets)",
+        "Maapind (lehed, lumi/härm, mustus)",
+        "Müts",
+        "Jop",
+        "Püksid",
+        "Saapad",
+        "Pink/laud (puidust)"
+      ],
+      "colorcodes": [
+        "#727b7c",
+        "#2f3435",
+        "#3b4d3f",
+        "#9e8e6d",
+        "#afb4b9",
+        "#565d5e",
+        "#463e30"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 10,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Inimese kehaasend: Esimesel pildil on inimene kirvest üles tõstmas, et hoogu võtta ja löögiks valmistuda. Teisel pildil on ta kirvega juba pakku löönud ja tema keha on allapoole suunatud, käed kirve küljes pikendatud.",
+        "Kirve asend: Esimesel pildil on kirves tõstetud pea kohale. Teisel pildil on kirves löödud paku peal olevasse halgu, olles sügavalt puidus kinni.",
+        "Halu seisukord: Esimesel pildil on halg löömiseks valmis. Teisel pildil on halg just löögi saanud."
+      ],
+      "snr": "044",
+      "ajad": [
+        "395.520",
+        "396.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist talvises või hilissügiseses metsaservas puid lõhkumas. Ta on riietatud soojalt, kandes musta mütsi, halli puhvjopet, tumedaid pükse ja saapaid ning kindaid. Naise ümber on näha puidu lõhkumiseks ette nähtud pakk ning maapinnal on laiali mitmeid juba lõhutud puidutükke ja prahti. Tagaplaanil on horisontaalselt laotud palkidest ehitis või puiduhunnik, mis on kaetud lainelise eterniitkatusega. Taustal kõrgub tihe okaspuumets. Maapind on kaetud pruunika mulla, lehtede ja üksikute heledate, lumetaoliste külmakahjustatud laikudega. Valgus on loomulik ja hajutatud, vihjates pilvisele päevale.",
+      "actions": [
+        "Puid lõhkuma",
+        "Kirvega lööma",
+        "Palke ette valmistama"
+      ],
+      "keywords": [
+        "Puid lõhkumine",
+        "Mets",
+        "Talv",
+        "Sügis",
+        "Loodus",
+        "Käsitöö",
+        "Maaelu",
+        "Töö"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Kirves",
+        "Puidulõhkumise pakk",
+        "Lõhutud puidutükid",
+        "Palgi hunnik",
+        "Eterniitkatus",
+        "Müts",
+        "Puhvjope",
+        "Kindad",
+        "Püksid",
+        "Saapad",
+        "Mets",
+        "Okaspuud",
+        "Maa"
+      ],
+      "colorcodes": [
+        "#A9B3BA",
+        "#2F2F31",
+        "#4B624A",
+        "#8C6A4B",
+        "#DFE5E8"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel ja teisel pildil on kirves puidulõhkumise pakku kinni jäänud ning naine hoiab seda, olles parasjagu löömise faasis või sellest välja tulemas.",
+        "Kolmandal pildil on naine just kirvega puidu lõhkumise lõpetanud ning hoiab ühte lõhutud puidutükki õhus, kirves ise ei ole enam näha. Tema kehaasend on pööratud ja käed kõrgemale tõstetud, mis viitab edukale lõhkumisele."
+      ],
+      "snr": "045",
+      "ajad": [
+        "396.720",
+        "397.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, tõenäoliselt naist, õues puid lõhkumas kirvega. Inimene on riietatud soojalt: tumedas mütsis, prillides, helehallis või rohekashallis talvejopes, tumedates pükstes ja mustades saabastes. Tegevus toimub metsa servas, mille taustal on tihe okaspuumets. Vasakul pool asub lihtne puust konstruktsioon, mille katus on kaetud vanade laineliste plekk-plaatidega, mis näeb välja nagu puukuur või varjualune. Maapind on kaetud mulla, puulaastude ja prahiga, viidates jahedale ja niiskele aastaajale. Kirve löömiseks kasutatakse püstist puupakku. Ühel hetkel on kirves tõstetud kõrgele pea kohale, et hoogu võtta, teisel hetkel on kirves juba alla suunatud, et pakk pooleks lüüa, kusjuures kirvepea on liikumisest veidi udune. Stseen on detailne ja realistlik, kujutades füüsilist tööd ja elustiili looduskeskkonnas.",
+      "actions": [
+        "puid lõhkuma",
+        "kirvest tõstma",
+        "kirvega hoopi andma",
+        "füüsilist tööd tegema"
+      ],
+      "keywords": [
+        "puulõhkumine",
+        "kirves",
+        "mets",
+        "õues",
+        "talvetöö",
+        "jope",
+        "pakk",
+        "puukuur",
+        "külm ilm",
+        "füüsiline töö",
+        "maaelu"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "kirves",
+        "pakk",
+        "puuhalud",
+        "mets",
+        "okaspuud",
+        "puukuur",
+        "laineline plekk-katus",
+        "maapind",
+        "müts",
+        "prillid",
+        "jope",
+        "püksid",
+        "saapad"
+      ],
+      "colorcodes": [
+        "#A7B0B2",
+        "#3A523B",
+        "#6F5139",
+        "#282A2D",
+        "#7A7E80"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene",
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on inimene hooga kirve pea kohale tõstnud, valmistudes hoobiks. Teisel pildil on kirves juba alla suunatud ja hoobi andmise keskel, kusjuures kirvepea on liikumise tõttu udune ja keha asend on muutunud vastavalt liigutusele."
+      ],
+      "snr": "046",
+      "ajad": [
+        "397.920",
+        "399.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort inimest metsaäärsel puhastikul puid raiumas. Isik kannab tumedat mütsi, halli jopet, tumedaid pükse ja kindaid ning tumedaid saapaid. Nad seisavad puupaku ees, mis toimib raiumisaluse, ja hoiavad kirvest, mis on löödud tükki puitu. Kirvel on lühike vars ja tume tera. Maapind on kaetud niiske pinnase ja puulehtedega ning sellel lamab juba raiutud puidutükke. Taamal on näha palkidest virn ja vana, sammaldunud lainelise plekk-katusega varjualune või kuur. Stseeni tagaplaanil domineerivad tihedalt istutatud okaspuud, mis loovad tumerohelise fooni ja annavad edasi jaheda atmosfääri. Ühel pildil ilmub ekraanile ingliskeelne subtiiter.",
+      "actions": [
+        "Puid raiuma",
+        "Kirvest hoidma",
+        "Puupakule lööma"
+      ],
+      "keywords": [
+        "Puiduraie",
+        "Metsaserv",
+        "Kirves",
+        "Palk",
+        "Töö",
+        "Vaikus",
+        "Talvine meeleolu",
+        "Jahe"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kirves",
+        "Raiumispakk",
+        "Puidutükid",
+        "Palgi virn",
+        "Varjualune",
+        "Laineline plekk-katus",
+        "Okaspuud",
+        "Müts",
+        "Jope",
+        "Püksid",
+        "Kindad",
+        "Saapad"
+      ],
+      "colorcodes": [
+        "#4A6348",
+        "#6B4C33",
+        "#A0A0A0",
+        "#202020"
+      ],
+      "texts": [
+        "I'm peeking how you're sleeping,"
+      ],
+      "persons": [
+        "Noor inimene",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Piltidel on kirve asend erinev: esimesel pildil on kirves justkui löömise faasis või sügavalt puupakku löödud, samal ajal kui teisel ja kolmandal pildil on see puutükki sisse jäänud ja inimene hoiab seda kinni.",
+        "Kolmandal pildil on ekraanil näha ingliskeelne subtiiter, mida teistel piltidel ei ole."
+      ],
+      "snr": "047",
+      "ajad": [
+        "399.120",
+        "400.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab naist, kes raib puitu välitingimustes metsaservas. Ta on riietatud soojalt, kandes tumedat mütsi, halli tepitud jopet, tumedaid pükse ja saapaid. Naine kasutab kirvest, et lõhkuda puiduhakul asetsevaid palke. Maapind on kaetud osaliselt lume või jääga, puiduhakkidega ja palja mullaga, mis viitab hilissügisele või varakevadele. Taustal on näha riit halgusid, mis on kaetud laineliste plekk-plaatidega, viidates puidu hoiukohale. Edasi tagapool laiub tihe okaspuumets. Kaadrid jäädvustavad naise puiduraioomise protsessi, kus kirve liikumine on näha üles-alla löömisena puidu lõhkumiseks.",
+      "actions": [
+        "Puidu raiumine",
+        "Kirvega löömine",
+        "Kirve tõstmine",
+        "Puidu lõhkumine"
+      ],
+      "keywords": [
+        "Puidu raiumine",
+        "Mets",
+        "Hilissügis",
+        "Varakevad",
+        "Töötamine",
+        "Kirves",
+        "Puiduhakk",
+        "Naine",
+        "Väljas",
+        "Külm ilm"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Kirves",
+        "Puiduhakk",
+        "Palgid",
+        "Halud",
+        "Laineline plekk",
+        "Puud",
+        "Müts",
+        "Jope",
+        "Püksid",
+        "Saapad",
+        "Lumi"
+      ],
+      "colorcodes": [
+        "#9BA8A4",
+        "#2A2F34",
+        "#4A574E",
+        "#634C37",
+        "#E0E2E3"
+      ],
+      "texts": [
+        "I'm peeking how you're sleeping."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on naine kirvega õhus, alustades lööki, kirves on pea kohal ja langemas.",
+        "Teisel pildil on kirves keset lööki, umbes rinna kõrgusel, liikumas allapoole.",
+        "Kolmandal pildil on kirves täielikult alla löödud ja tabanud puiduhakku, puit hakkab ilmselt lõhenema."
+      ],
+      "snr": "048",
+      "ajad": [
+        "400.320",
+        "401.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab väliala metsaservas, kus üks inimene, riietatud soojalt helehalli jopesse, tumedatesse pükstesse ja tumedasse mütsi, tegeleb puidulõhkumisega. Ta seisab stseeni keskel ja paremal pool, hoides käes kirvest ning lüües sellega puidulõhkumisplokile asetatud palki. Kirve asend näitab liikumise kolme etappi – algasendist, kus kirves on üleval, läbi keskmise hoo kuni löögini palgi pihta. Maapind on kaetud pruuni mulla, külmunud jää või hõreda lumega, mis annab aimu jahedast aastaajast. Vasakul on näha palke ja ladustatud puid, mis on osaliselt kaetud lihtsa varjualusega, millel on laineplekist katus. Taustal laiub tihe okaspuumets. Üldine õhkkond on maalähedane ja praktiline.",
+      "actions": [
+        "Puidu lõhkumine",
+        "Kirvega löömine",
+        "Puidu ettevalmistamine"
+      ],
+      "keywords": [
+        "Puidulõhkumine",
+        "Mets",
+        "Talvine",
+        "Maakoht",
+        "Kirves",
+        "Palgid",
+        "Töö",
+        "Väljas"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Kirves",
+        "Lõhkumisplokk",
+        "Puupalgid",
+        "Puiduhunnik",
+        "Varjualune",
+        "Okaspuud",
+        "Maapind",
+        "Lumi",
+        "Jää"
+      ],
+      "colorcodes": [
+        "#A1A9AF",
+        "#2A2F34",
+        "#4F6C4C",
+        "#5B5B5B",
+        "#6C513E"
+      ],
+      "texts": [
+        "I'm peeking how you're sleeping."
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kirve ja inimese käte asend muutub igas kaadris, näidates puidulõhkumise tegevuse edenemist. Esimesel pildil on kirves kõige kõrgemal, hoos üles tõstetud, teisel pildil on see keset allapoole suunatud hoogu ja kolmandal pildil on kirves tabamas puupakku."
+      ],
+      "snr": "049",
+      "ajad": [
+        "401.520",
+        "402.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort inimest õues metsaservas puid lõhkumas. Inimene kannab tumedat mütsi, halli jopet, tumedaid pükse ja saapaid ning on varustatud kirvega. Nad seisavad puupaku ees, millel on lõhutav puuhalg. Maapind on märg, porine ja kaetud puulaastude ning mõne üksiku kuivanud lehega, mis viitab kas hilissügisele või varakevadele. Taustal on näha koonerduspuudest mets ja palkidest ning lainelisest plekk-katusest varjualune või kuur. Inimese liigutused näitavad puidu lõhkumise protsessi, alates kirve hoogsast tõstmisest kuni lõhutud halgu vaatlemiseni. Subtiitrid ekraanil lisavad stseenile emotsionaalset allteksti, mis viitab magaja jälgimisele ja hirmule lähedale tulla.",
+      "actions": [
+        "Puid lõhkumine",
+        "Kirvega hoogu võtmine",
+        "Kirvega löömine puuhalule",
+        "Lõhutud puidu vaatlemine"
+      ],
+      "keywords": [
+        "Puidulõhkumine",
+        "Metsaserv",
+        "Välitingimused",
+        "Töö",
+        "Külm ilm",
+        "Käsitsitöö",
+        "Kirves",
+        "Palk",
+        "Varjualune"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Kirves",
+        "Puupakk",
+        "Puuhalud",
+        "Palkidest varjualune",
+        "Laineline plekk-katus",
+        "Koonerduspuud",
+        "Mets",
+        "Müts",
+        "Jope",
+        "Püksid",
+        "Saapad",
+        "Kindad"
+      ],
+      "colorcodes": [
+        "#B2B4B6",
+        "#2F2D2E",
+        "#806040",
+        "#304030",
+        "#605040",
+        "#606060"
+      ],
+      "texts": [
+        "I'm peeking how you're sleeping.",
+        "I'm scared to come near"
+      ],
+      "persons": [
+        "Noor inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on inimene kirvega halgu lõhkumise keskel, kirves on õhus ja hakkab puutuma halgu, samal ajal kui subtiitrites on tekst 'I'm peeking how you're sleeping.'.",
+        "Teisel pildil on kirves juba halgu löönud, mis on pooleks läinud ja inimene vaatab lõhutud puitu, samal ajal kui subtiitrites on tekst 'I'm scared to come near'.",
+        "Kolmandal pildil seisab inimene sirgemalt, kirves on kergelt hoitud ja nad vaatlevad endiselt lõhutud puitu puupakul, subtiitrites on sama tekst 'I'm scared to come near'."
+      ],
+      "snr": "050",
+      "ajad": [
+        "402.720",
+        "403.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab ühte inimest talvises või hilissügiseses metsaäärses paigas puid lõhkumas. Inimene kannab helehalli jakki, tumedaid pükse, musta mütsi ja tumedaid saapaid. Ta on keskendunud puidulõhkumisele, hoides mõlema käega kirvest ja sooritades puidu lõhkumiseks vajalikku hooga lööki vastu pakku. Maapind on kaetud hallikas-valge kihi ehk kerge lume või härmatisega ning pruunika mullaga, puude all on näha laiali puusplintrid. Tagapool on näha virnas palkmaja tüüpi puid, millel on peal improviseeritud varikatus, mis on tehtud vanadest laudadest ja eterniidist. Taustaks on tihe okasmets. Esimesel kaadril on näha inglisekeelne subtiiter 'I'm scared to come near'.",
+      "actions": [
+        "Puid lõhkuma",
+        "Kirvega hoogu võtma",
+        "Kirvega paku pihta lööma"
+      ],
+      "keywords": [
+        "Puidulõhkumine",
+        "Kirves",
+        "Mets",
+        "Õues",
+        "Maaelu",
+        "Talv",
+        "Füüsiline töö",
+        "Pakud"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Kirves",
+        "Pakk (lõhkumispakk)",
+        "Halu virn",
+        "Varikatus",
+        "Okasmets",
+        "Maa",
+        "Puiduhake"
+      ],
+      "colorcodes": [
+        "#A7A6A6",
+        "#2F3132",
+        "#5F775B",
+        "#664F3D",
+        "#D8D7D7",
+        "#000000"
+      ],
+      "texts": [
+        "I'm scared to come near"
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Inimese ja kirve asend muutub pildilt pildile, kajastades puidulõhkumise liikumist: algne hoovõtt, kirve kõrgeim punkt ja löök paku pihta.",
+        "Subtiiter 'I'm scared to come near' on nähtav ainult esimesel pildil."
+      ],
+      "snr": "052",
+      "ajad": [
+        "405.120",
+        "406.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, tõenäoliselt naist, kes viibib külmas ja metsases keskkonnas. Ühes osas on näha inimest, kes raib kirvega halgu pakul metsa serval, kus taustal on okaspuud ja virn palke, mis on kaetud lainepapiga. Maa on kaetud mustuse, metsaprahiga ja üksikute lumelaikudega. Inimesel on seljas soe hall jope, must müts ja pikad tumedad juuksed. Teises osas seisab sama inimene või sarnase välimusega isik sügavas raagus lehtmetsas, kus puud moodustavad vertikaalse halli mustri. Tal on silmad suletud ja ta kannab sarnast halli jopet, musta mütsi ja mustrilist salli. Stseenis on esindatud nii füüsiline töö looduses kui ka vaikne mõtisklus või sisekaemus. Ühel kaadril on ekraanil ka teksti, mis lisab stseenile sügavama, võimalikult melanhoolse emotsionaalse mõõtme.",
+      "actions": [
+        "Halgude raiumine kirvega",
+        "Silmade sulgemine",
+        "Mõtisklemine/Meditatsioon"
+      ],
+      "keywords": [
+        "Talv",
+        "Mets",
+        "Külm",
+        "Hallus",
+        "Töö",
+        "Üksildus",
+        "Mõtisklus",
+        "Naturaalne",
+        "Melanhoolia",
+        "Tühjus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Kirves",
+        "Halg",
+        "Pakupukk",
+        "Puiduriit/Varjualune",
+        "Okaspuud",
+        "Lehtpuud (raagus)",
+        "Jope",
+        "Müts",
+        "Püksid",
+        "Saapad",
+        "Kindad",
+        "Sall",
+        "Lumi/Jää"
+      ],
+      "colorcodes": [
+        "#A9B3BB",
+        "#2A2A2B",
+        "#364B35",
+        "#5B483D",
+        "#E0E4E7",
+        "#4C4B53",
+        "#8C5F4B"
+      ],
+      "texts": [
+        "It's eating you empty"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil tegeleb inimene halgude raiumisega kirvega, teisel pildil seisab ta suletud silmadega ja mõtiskleb.",
+        "Esimesel pildil on taustaks okaspuumets ja puiduriit, teisel pildil on tihe raagus lehtpuumets.",
+        "Esimesel pildil on näha lumelaike ja metsaprahti maapinnal, teisel pildil on fookus rohkem inimesel ja taustal olevatel puudel.",
+        "Teisel pildil on ekraanil ingliskeelne subtiiter 'It's eating you empty', mida esimesel pildil ei ole."
+      ],
+      "snr": "053",
+      "ajad": [
+        "406.320",
+        "418.880"
+      ]
+    }
+  ]
+}

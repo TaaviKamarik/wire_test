@@ -1,0 +1,4247 @@
+{
+  "film": [
+    "17188",
+    "17067",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Naeruga tule vastu",
+    "c30eed62af70b440b760f9a56e62c28650454650.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täiesti musta taustaga, mille keskel hõljuvad kolm udust, valget või helehalli ringi, mis on paigutatud kolmnurga kujuliselt. Seejärel muutuvad ringid teravamaks ja saavad värviliseks: üks on tumesinine, teine erkpunane ja kolmas jääb valgeks, moodustades selgema kolmnurga. Nende värviliste ringide paremal pool ilmub valge tekst “B M”. Lõpuks kaovad nii värvilised ringid kui ka tekst ekraanilt, jättes alles täiesti musta tausta.",
+      "actions": [
+        "Ringide udusus hajub",
+        "Ringid muutuvad värviliseks",
+        "Tekst ilmub ekraanile",
+        "Kõik elemendid kaovad ekraanilt"
+      ],
+      "keywords": [
+        "Animatsioon",
+        "Logo",
+        "Bränding",
+        "Minimaalne",
+        "Must taust",
+        "Ringid",
+        "Värvilised ringid",
+        "Tekst",
+        "Transitsioon"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [
+        "Ringid",
+        "Tekst",
+        "Must taust"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#2D4C8D",
+        "#D80000"
+      ],
+      "texts": [
+        "B M"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt näitab uduselt valgeid ringe, samas kui teisel pildil on teravad ja värvilised ringid koos tekstiga.",
+        "Ringide udusus ja teravus varieerub kaadrite vahel.",
+        "Ringide värvus muutub valgest siniseks, punaseks ja valgeks.",
+        "Tekst 'B M' ilmub ja kaob kaadrite jooksul.",
+        "Kaadrid erinevad visuaalsete elementide olemasolu poolest – alguses udused ringid, seejärel värvilised teravad ringid ja tekst, lõpuks täiesti tühi must taust."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "6.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes kannab paksu karvakraega kapuutsiga talvejakki ja musta seljakotti. Isik on seljaga vaataja poole ja kõnnib suure sinise hoone või garaažiuste kompleksi suunas. Hoone fassaadil on mitu ristkülikukujulist akent või paneeli, millel on heledad raamid. Maa on kaetud asfaltiga või sillutisega. Alguses on stseen väga tume, andes salapärase ja ebamäärase mulje, kusjuures vaid siluett ja siniste uste kontuurid on vaevu nähtavad. Seejärel muutub stseen märgatavalt heledamaks, paljastades riietuse detailid ja hoone selgema pildi. Stseenis on näha tekst \"FIGHT FIRE WITH LAUGHTER\". Lõpukaadris on inimene sisenemas ühte sinistest ustest, kusjuures detailid riietusest ja seljakotist on lähedalt näha. Seljakotil on näha logo \"Vaude\".",
+      "actions": [
+        "kõndimine",
+        "sisenemine"
+      ],
+      "keywords": [
+        "talvine riietus",
+        "seljakott",
+        "uksed",
+        "hoone",
+        "õues",
+        "talv",
+        "rändur",
+        "jakk",
+        "kapuuts",
+        "karusnahk",
+        "sinine",
+        "pime",
+        "hele",
+        "liikumine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "inimene",
+        "talvejakk",
+        "kapuuts",
+        "karusnahast krae",
+        "seljakott",
+        "hoone",
+        "uksed",
+        "aknad",
+        "asfalt",
+        "sillutis",
+        "karabiin seljakotil"
+      ],
+      "colorcodes": [
+        "#0F1213",
+        "#2E5C8D",
+        "#8E705C",
+        "#000000",
+        "#FFFFFF",
+        "#FF0000"
+      ],
+      "texts": [
+        "FIGHT FIRE WITH LAUGHTER",
+        "VAUDE"
+      ],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on äärmiselt tume ja udune, näidates vaid siluetti ja ähmaselt tausta, samas kui järgnevad pildid on oluliselt heledamad ja detailirohkemad.",
+        "Teisel pildil on lisatud pealiskiri \"FIGHT FIRE WITH LAUGHTER\", mida teistel piltidel ei ole.",
+        "Piltidel muutub kaamera vaatenurk ja kaugus objektist: alguses on isik kaugemal ja hiljem liigub kaamerale lähemale ning sisenemisel on tegemist lähivõttega.",
+        "Esimesel pildil on isiku identiteet ja riietuse detailid peaaegu nähtamatud, hiljem aga selgelt eristatavad, sealhulgas seljakoti bränd Vaude."
+      ],
+      "snr": "002",
+      "ajad": [
+        "6.560",
+        "17.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noormeest, kes kannab tumesinist T-särki kirjaga \"PÄÄSTE\" seljal, ning on hõivatud varustuse kontrollimisega siseruumides, mis meenutab päästeteenistuse või tuletõrjejaama ruume. Esimeses kaadris uurib ta keskendunult metallpaneelil olevat nimekirja või kontroll-lehte, millel on osaliselt näha eestikeelseid sõnu nagu \"KÄÄSTE\" ja \"KUIKUAM\". Seejärel näeb teda süvenemas avatud sahtlisse või kappi, mis on täidetud mitmesuguste torude, ventiilide ja muude mehaaniliste osadega, viidates põhjalikule varustuse kontrollile. Lõpuks astub ta kapist eemale, selg kaamera poole. Taustal on näha riiuleid, kus hoitakse päästeülikondi, mis koosnevad tumedatest ja kollastest osadest, ning seinale toetuvad jalgrattad, mis annavad edasi töökeskkonna praktilisust.",
+      "actions": [
+        "Uurib seinal olevat nimekirja",
+        "Kontrollib varustust",
+        "Kummardub kapi sisse",
+        "Sirutab käe kapi sisemusse",
+        "Kõnnib eemale"
+      ],
+      "keywords": [
+        "Pääste",
+        "Päästja",
+        "Tuletõrjuja",
+        "Varustuse kontroll",
+        "Siseruum",
+        "Päästejaam",
+        "Mees",
+        "Töö",
+        "Hooldus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "T-särk",
+        "Metallist seinapaneel",
+        "Nimekiri/kontroll-leht",
+        "Avatud varustuse kapp/sahtel",
+        "Torud",
+        "Ventiilid",
+        "Voolikud (võimalikud)",
+        "Riiulid",
+        "Päästeülikonnad",
+        "Jalgrattad",
+        "Mõõdikud",
+        "Nupud/lülitid"
+      ],
+      "colorcodes": [
+        "#1A2B47",
+        "#FFFFFF",
+        "#A6A6A6",
+        "#333333",
+        "#E0DCD2",
+        "#F5A623",
+        "#C0392B"
+      ],
+      "texts": [
+        "PÄÄSTE",
+        "KÄÄSTE",
+        "KUIKUAM"
+      ],
+      "persons": [
+        "Noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe asend ja tegevus muutuvad kaadrite vahel: esmalt uurib ta seinal olevat nimekirja, seejärel süveneb varustuse kappi ning kolmandas kaadris kõnnib eemale.",
+        "Kaamera vaatenurk ja fookuspunkt muutuvad, et rõhutada erinevaid tegevusi ja varustuse detaile.",
+        "Kapi sisu ja mehaanilised osad on kõige selgemalt näha teises kaadris."
+      ],
+      "snr": "003",
+      "ajad": [
+        "17.680",
+        "24.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivõttes noort meest siseruumis, kes on keskendunud tema käes olevale tumedale esemele. Mehe lühikesed tumedad juuksed ja tõsine, mõtlik ilme annavad edasi süvenenud olekut. Ta kannab tumedat T-särki. Valgustus on hämar ja summutatud, luues intiimse ja keskendunud atmosfääri. Taust on udune ja pime, peites detailid, kuid vihjates riiulitele või panipaigale. Mees vaatab allapoole ja paremale (oma perspektiivist), käed on hõivatud esemega, mille kuju pole selgelt eristatav.",
+      "actions": [
+        "Keskendub millelegi",
+        "Uurib eset",
+        "Hoiab käes eset"
+      ],
+      "keywords": [
+        "Noor mees",
+        "Siseruum",
+        "Hämar",
+        "Keskendumine",
+        "Mõtlik",
+        "Tõsine",
+        "Portree",
+        "Lähivõte"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Noor mees",
+        "T-särk",
+        "Tundmatu tume ese"
+      ],
+      "colorcodes": [
+        "#252528",
+        "#4a3e36",
+        "#c09477",
+        "#1b1b1b"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe pilk ja pea asend on pisut muutunud; teisel pildil on ta pilk suunatud natuke rohkem alla ja paremale (oma vaatenurgast).",
+        "Käes hoitav ese ja selle asend kätes on pisut erinev; teisel pildil on ese veidi selgemalt nähtav või hoitav veidi teise nurga alt, andes aimu, et ta tegeleb sellega aktiivsemalt.",
+        "Esimesel pildil on mehe nägu ja käes hoitav ese veidi teravamalt fookuses kui teisel pildil."
+      ],
+      "snr": "004",
+      "ajad": [
+        "24.680",
+        "25.880"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud noort meest siseruumis, mis on hämaralt valgustatud. Mehel on lühikesed tumedad juuksed ja seljas must T-särk. Tema pilk on suunatud allapoole, andes mõista, et ta keskendub millelegi, mis asub temast madalamal, tõenäoliselt ekraanile või mingile seadmele. Tema näole langeb pehme, kergelt purpurjas valgus, eriti selgelt on see näha teisel pildil, viidates valgusallikale tema ees või all. Tausta moodustab tume ja hägune ruum, kus on aimata erinevaid esemeid ja varustust, mis võib viidata tehnilisele töökeskkonnale või laoruumile. Üldine õhkkond on rahulik ja keskendunud.",
+      "actions": [
+        "Vaatab allapoole",
+        "Keskendub millelegi",
+        "Istub või on kummardunud"
+      ],
+      "keywords": [
+        "Noormees",
+        "Keskendumine",
+        "Siseruum",
+        "Hämarus",
+        "Ekraanivalgus",
+        "Must T-särk",
+        "Tehniline",
+        "Fookus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Noormees",
+        "Must T-särk",
+        "Hägune taust",
+        "Valguspeegeldus"
+      ],
+      "colorcodes": [
+        "#202020",
+        "#403e40",
+        "#967268",
+        "#514d55",
+        "#4f3a74"
+      ],
+      "texts": [],
+      "persons": [
+        "Noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Teisel pildil on noormehe näol näha eredamat ja selgemat valguspeegeldust, mis on kergelt purpurja/sinaka tooniga, viidates valgusallika aktiveerumisele või muutumisele.",
+        "Noormehe pea asend on teisel pildil veidi muutunud, andes süvenenuma ja keskendunuma ilme.",
+        "Üldine heledus on teisel pildil näopiirkonnas veidi intensiivsem."
+      ],
+      "snr": "005",
+      "ajad": [
+        "25.880",
+        "28.440"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõtet inimesest, kes tegeleb andmete sisestamise või kontrollimisega. Pildi keskmes on inimese käed ja dokument, mida nad klambrialusel hoiavad. Inimese ülakeha ja pea tagumine osa on osaliselt nähtaval. Nad kannavad tumedat särki. Vasaku käega hoiavad nad kindlalt musta klambrialust või kausta, milles on valge paberist dokument. Parema käega hoiavad nad valget ja hõbedast pastapliiatsit ning teevad dokumendile märke. Dokument näib olevat kontroll-leht või detailne logi. Sellel on ruudustik mitme veeru ja rea. Vasakul pool on veerg pealkirjaga \"Nimetus\", kus on loetletud erinevad esemed või ülesanded. Üleval on numbrite jada (1 kuni 24 on selgelt nähtavad), mis tõenäoliselt tähistavad kuu päevi või konkreetseid kontrollpunkte. Isik täidab aktiivselt ruudustikku, tehes üksikutesse lahtritesse väikseid märke või sümboleid (nagu linnukesed), mis näitavad loetletud esemete täitmist või olekut. Uduvas taustal on näha tööstuslik või laokeskkond, eelkõige metallriiulid või -restid, mille küljes ripuvad mitmed sinised riidest rihmad. Mõnel sinisel rihmal on selgelt nähtav täht \"B\", mis viitab märgistusele. Valgustus viitab siseruumides toimuvale päevasele ajale.",
+      "actions": [
+        "Kirjutamine",
+        "Andmete sisestamine",
+        "Kontrollimine",
+        "Hoidmine"
+      ],
+      "keywords": [
+        "Kontroll-leht",
+        "Vorm",
+        "Töö",
+        "Käed",
+        "Sulepea",
+        "Dokument",
+        "Andmed",
+        "Inspekteerimine",
+        "Logistiline töö",
+        "Laohaldus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Käed",
+        "Sulepea",
+        "Kontroll-leht",
+        "Kaust",
+        "Riiulid",
+        "Sinised rihmad",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#C19A6B",
+        "#4A6EAA",
+        "#3B445A",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "Nimetus",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24",
+        "Veerandid 500g",
+        "Korduv...",
+        "B"
+      ],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Pastapliiatsi täpne asukoht dokumendil nihkub pisut igal pildil, liikudes mööda rida edasi, justkui jätkaks inimene vormi täitmist.",
+        "Isiku vasaku käe asend ja haare kausta ümber muutuvad piltide vahel kergelt."
+      ],
+      "snr": "006",
+      "ajad": [
+        "28.440",
+        "33.880"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumis, tõenäoliselt tuletõrjejaama garaažis, kus seisab valge tuletõrjeauto avatud tagaluugiga, mis paljastab selle varustuse. Piltidel on näha üks meessoost tuletõrjuja tumesinises Pääste-logoga T-särgis ja tumedates pükstes. Ta on esmalt süvenenud paberite kontrollimisse lõikelaualt, hoides paremas käes pliiatsit. Seejärel võtab ta pausi, et juua rohelisest kruusist. Lõpuks toetub ta lauale, hoides kruusi vasakus käes ja vaatab kaamerast vasakule, justkui vesteldes kellegagi. Ta räägib, et viimane meeskond peaks teatama, kui midagi puudu on. Auto tagaosas on näha redelid, oranžid helkurribad ja registreerimismärk. Taustal on ka teisi objekte, nagu punane tulekustuti ja teine auto.",
+      "actions": [
+        "Mees kontrollib pabereid lõikelaualt",
+        "Mees joob rohelisest kruusist",
+        "Mees toetub lauale",
+        "Mees vestleb"
+      ],
+      "keywords": [
+        "Tuletõrjuja",
+        "päästja",
+        "tuletõrjeauto",
+        "garaaž",
+        "töö",
+        "paus",
+        "kruus",
+        "kontroll",
+        "suhtlus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "tuletõrjeauto",
+        "lõikelaud",
+        "paberid",
+        "pliiats",
+        "roheline kruus",
+        "laud",
+        "punane tulekustuti",
+        "redelid",
+        "auto numbrimärk",
+        "riietusese/jakk",
+        "muud tööriistad/esemed laual"
+      ],
+      "colorcodes": [
+        "#263346",
+        "#4CAF50",
+        "#F5F5F5",
+        "#FF8C00",
+        "#FF0000",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "PÄÄSTE",
+        "650 MKB",
+        "EMPC",
+        "Looks good.",
+        "If anything would be missing the last team needs to tell me about it"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe tegevus muutub: esimesel pildil kirjutab, teisel joob, kolmandal räägib ja toetub.",
+        "Lõikelaud liigub mehe käest lauale.",
+        "Roheline kruus ilmub teisel pildil ja on mehel käes ka kolmandal pildil.",
+        "Subtiitrid ilmuvad teisel ja kolmandal pildil."
+      ],
+      "snr": "007",
+      "ajad": [
+        "33.880",
+        "46.560"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha rida rohelisest traatvõrgust kapikesi või riidekappe, mis asuvad tõenäoliselt siseruumis, näiteks riietusruumis või laos. Kapikeste uksed on varustatud ripplukkudega, millest üks kollase keti ja punase detailiga on esiplaanil selgelt nähtav. Kapikeste sees ripuvad tumedad riietusesemed, mis on varustatud erkkollaste või neoonroheliste helkurribadega. Need riietusesemed näivad olevat vormiriided või tööriided, mis on vertikaalselt rippumas. Valgusvihk viitab siseruumile ja kunstvalgustusele, luues ühtlase valgustuse kogu stseenis. Taustal on näha heledat, plaaditud seina ja torustikku, mis annab ruumile utilitaarse ilme. Kapikesed on piklikud ja vertikaalsed, moodustades korrapärase rea. Paremal pool on näha ka mõnede riietusesemete alaosi, mis on sinise ja kollase triibuga, vihjates näiteks sokkidele või püksisäärele.",
+      "actions": [
+        "Kaamera liigub aeglaselt paremale"
+      ],
+      "keywords": [
+        "kapid",
+        "riietusruum",
+        "ladu",
+        "vormiriided",
+        "helkurid",
+        "lukk",
+        "turvalisus",
+        "siseruum",
+        "roheline võrk",
+        "tööriided"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "traatvõrk-kapid",
+        "ripplukk",
+        "vormiriided",
+        "helkurribad",
+        "sokid",
+        "püksisääred",
+        "sein",
+        "plaadid",
+        "torustik",
+        "kett"
+      ],
+      "colorcodes": [
+        "#2B6D6D",
+        "#E8F902",
+        "#1A1A1A",
+        "#D0D0D0",
+        "#F44336",
+        "#3F51B5"
+      ],
+      "texts": [
+        "If anything would be missing the last team needs to tell me about it"
+      ],
+      "persons": "not clear",
+      "imagetype": "real",
+      "emptypercent": "0-5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaamera fookus ja asukoht muutub kaadrite vahel. Esimeses kaadris on fookus esiplaanil oleval tabalukul ja kapil. Teises ja kolmandas kaadris nihkub kaamera aeglaselt paremale, tuues esile rohkem kapikesi ja nende sisu paremal pool, samal ajal kui vasakpoolne osa muutub hägusamaks. Kolmandas kaadris on paremal pool selgemini näha riiete alaosa (nt sinise ja kollase triibuga sokid või püksisääred)."
+      ],
+      "snr": "008",
+      "ajad": [
+        "46.560",
+        "50.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet sõiduki sisemusest läbi külgpeegli, mis on osa suuremast peeglikompleksist. Peeglis peegeldub sõiduki erkpunane külg ja siseruum, mis on tõenäoliselt garaaž või depoo. Ruumi iseloomustavad valged seinad ja lakke paigaldatud fluorestsentsvalgustid. Peegelpildis on näha osa punasest sõidukist, mille küljel on tagurpidi kiri, mis annab aimu, et tegemist on kiirabiautoga (näha on selgelt osa sõnast \"AMBULANS\"). Ülemises peeglis on näha ka tekst \"SM S\" või sarnane lühend. Kaadri allservas on subtiitrid, mis viitavad sõiduki kontrollile ja teabe edastamisele vahetuste vahel. Valgus on ere ja ühtlane, iseloomulik siseruumile.",
+      "actions": [
+        "Sõiduki ülevaatuse teostamine",
+        "Informatsiooni vahetamine meeskondade vahel",
+        "Peeglisse vaatamine"
+      ],
+      "keywords": [
+        "Sõiduk",
+        "Külgpeegel",
+        "Garaaž",
+        "Kiirabiauto",
+        "Valgustus",
+        "Subtiitrid",
+        "Kontroll",
+        "Punane",
+        "Valge"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Külgpeegel",
+        "Punane sõiduk (sees ja peegelduses)",
+        "Valged seinad",
+        "Fluorestsentsvalgustid",
+        "Uks (peegelduses)",
+        "Sõna \"AMBULANS\" (peegelduses)",
+        "Sõna \"SM S\" (peegelduses)"
+      ],
+      "colorcodes": [
+        "#DD3333",
+        "#FFFFFF",
+        "#202020"
+      ],
+      "texts": [
+        "If anything would be missing the last team needs to tell me about it",
+        "I need to control also, but I need to know.",
+        "AMBULANS",
+        "SM S"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha üks külgpeegel, teisel pildil aga kaks üksteise kohal asetsevat peeglit, mis on osa ühest ja samast peeglikompleksist.",
+        "Subtiitrite tekst on mõlemal pildil erinev, edastades erinevaid lauseid.",
+        "Teise pildi alumises peeglis on selgemalt ja suuremalt näha sõna \"AMBULANS\" tagurpidi, mis annab täpsema vihje sõiduki tüübi kohta."
+      ],
+      "snr": "009",
+      "ajad": [
+        "50.120",
+        "55.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet tuletõrjeauto avatud ust läbi, pakkudes sissevaadet sõiduki kabiini või varustuse hoiupaika. Pildi esiplaanil domineerivad auto eredad punased uksepostid ja ukse sisekülg. Sõiduki sisemuses on näha hoolikalt paigutatud tuletõrjuja varustust: must jope erekollaste helkurribadega, mille varrukatest paistavad hallid kindad. Jope kohal, riiuli peal või spetsiaalses hoidikus, asub helekollane või oliivroheline tuletõrjekiiver. Tagapool on näha ka oranži värvi seadet, mis võib olla kaasaskantav valgusti või muu päästevahend. Kogu stseen annab edasi valmisoleku ja korra tunde. Piltidel on näha erinevaid subtiitreid, mis viitavad vestlusele või mõtisklusele valmisolekust ja kontrollist.",
+      "actions": [
+        "Varustuse hoiustamine",
+        "Varustuse valmisoleku tagamine",
+        "Kontrollimine (viidatud subtiitritega)",
+        "Vestlus (viidatud subtiitritega)"
+      ],
+      "keywords": [
+        "Tuletõrjuja",
+        "Tuletõrjeauto",
+        "Päästevarustus",
+        "Kiiver",
+        "Jope",
+        "Kindad",
+        "Valmisolek",
+        "Päästeteenistus",
+        "Punane auto",
+        "Varustus",
+        "Helkurribad"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Tuletõrjeauto (osa)",
+        "Tuletõrjuja jope",
+        "Tuletõrjuja kiiver",
+        "Kindad",
+        "Helkurribad",
+        "Oranž seade (nt valgusti)",
+        "Auto uks",
+        "Uksepost"
+      ],
+      "colorcodes": [
+        "#E60000",
+        "#1A1A1A",
+        "#C4D389",
+        "#6B6B6B",
+        "#B5D430",
+        "#FF8C00"
+      ],
+      "texts": [
+        "I need to control also, but I need to know.",
+        "Ready for action?",
+        "Yes. If they have any problems they're going to answer us"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pilt 1 sisaldab subtiitreid: \"I need to control also, but I need to know.\"",
+        "Pilt 2 sisaldab subtiitreid: \"Ready for action?\"",
+        "Pilt 3 sisaldab subtiitreid: \"Yes. If they have any problems they're going to answer us\"",
+        "Visuaalne sisu (objektid, nende paigutus, valgustus) on kõigil piltidel praktiliselt identne, mis viitab, et tegemist on järjestikuste kaadritega videost, mis illustreerivad erinevaid dialooge."
+      ],
+      "snr": "010",
+      "ajad": [
+        "55.400",
+        "60.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noormeest, kes asub tõenäoliselt tuletõrjejaamas või sarnases tööstushoones. Ta toetub metallist letile või seadmele, hoides käes rohelist tassi. Ta kannab tumesinist T-särki, millel on osaliselt näha kiri. Ta on süvenenud vestlusesse, mida kinnitavad subtiitrid. Tagaplaanil on näha tööstuslikku tehnikat, mis meenutab tuletõrjeautot või suurt masinat, samuti metallriiulite süsteeme, kus hoitakse tumedaid vormirõivaid või päästevarustust. Ühe avause kaudu on näha helehalli sõiduautot, mis viitab siseruumile vaatega teisele siseruumile või õue. Üldine valgusvihk annab märku päevasest ajast. Paremal tagaplaanil on näha punast tulekustutit ja riiuleid päästevarustusega.",
+      "actions": [
+        "Toetub letile",
+        "Hoiab tassi",
+        "Räägib (subtiitrite järgi)",
+        "Kuulab"
+      ],
+      "keywords": [
+        "Tuletõrjejaam",
+        "Tööstushoone",
+        "Päevaaeg",
+        "Mees",
+        "Vestlus",
+        "Metalllett",
+        "Tuletõrjuja",
+        "Päästetöö",
+        "Siseruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Roheline tass",
+        "Metallist lett/seade",
+        "Tumesinine T-särk",
+        "Tööstusmasinad/tuletõrjeauto",
+        "Metallriiulid",
+        "Tumeda värvi vormirõivad/päästevarustus",
+        "Helehall sõiduauto",
+        "Punane tulekustuti",
+        "Valge sein",
+        "Hall põrand",
+        "Dokumentide kaust"
+      ],
+      "colorcodes": [
+        "#28374a",
+        "#70bf4c",
+        "#b0b0b0",
+        "#d62c2c",
+        "#ffffff",
+        "#404040"
+      ],
+      "texts": [
+        "Yes. If they have any problems they're going to answer us",
+        "But I also need to control.",
+        "MPL",
+        "PASTE"
+      ],
+      "persons": [
+        "Noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst on erinev.",
+        "Mehe suu asend ja näoilme on veidi muutunud, mis viitab jätkuvale vestlusele.",
+        "Mehe parema käe asend tassi hoides on kergelt muutunud.",
+        "Piltidel on jäädvustatud kaks erinevat hetke vestlusest, kus kaamera nurk ja üldine kompositsioon on sama."
+      ],
+      "snr": "011",
+      "ajad": [
+        "60.200",
+        "73.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet aknast välja, kus on näha maja ja selle ümbrust varahommikusel või õhtusel ajal. Akna raamistik jagab vaate kolmeks vertikaalseks osaks. Keskel on näha suure katusega maja, millel on telliskivikorsten. Maja katus on tumedat tooni, tõenäoliselt metallist või kivist, ja sellel on näha selgeid jooni või paneele. Maja allosas on näha aknad ja ka üks väiksem heledam katus või räästas. Maja ümber ja taustal on metsane maastik puudega, millest enamikul on lehed maas, viitades sügisele või talvele. Paremal pool on näha tumeda okaspuu siluett, mis varjab osa vaatest. Taevas on heledates roosakates ja hallikates toonides, mis annab stseenile rahuliku ja veidi unenäolise meeleolu. Valgus on pehme ja hajutatud.",
+      "actions": [],
+      "keywords": [
+        "aken",
+        "vaade",
+        "maja",
+        "katus",
+        "korsten",
+        "puud",
+        "mets",
+        "videvik",
+        "hommikuhämarus",
+        "sügis",
+        "talv",
+        "rahu",
+        "vaikne",
+        "maastik",
+        "elamu"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "akna raam",
+        "maja",
+        "katus",
+        "korsten",
+        "aknad",
+        "puud",
+        "okaspuu",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#d8c2c4",
+        "#bec0c7",
+        "#6b6978",
+        "#cccccc",
+        "#c4c4c4",
+        "#2e3535",
+        "#5a5658"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "autumn",
+      "daytime": "morning",
+      "differences": [
+        "Puuduvad"
+      ],
+      "snr": "012",
+      "ajad": [
+        "73.800",
+        "77.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme meest avarapoolses köögis, mis näib olevat ühiskasutuses olev ruum, näiteks ühiselamus, varjupaigas või puhkekodus. Köögis on helehallid seinakapid, valge töötasapind ja valged põrandakapid. Ühes kaadris on näha ka suured aknad, mis lasevad sisse loomulikku päevavalgust. Keskel on valge söögilaud, mille ümber istuvad kaks habemega meest. Üks neist kannab tumedat jakki ja salli, teine prille ja tumedat särki. Laud on kaetud hommikusöögi või kerge einega, seal on taldrikud röstsaia või võileibadega, valged kruusid jookidega, nutitelefon ja maitseained. Kolmas mees, heledanahalise olekuga, lühikeste juuste ja tumesinise T-särgiga, millel on kiri \"PÄÄSTE\", seisab ja tegutseb köögis. Ühes hetkes valab ta pudelist vedelikku laual istuvate meeste kruusidesse või taldrikutesse. Teises hetkes on ta köögi tööpinnajuures, teiste seadmete ja nõude läheduses. Köögis on näha erinevaid seadmeid nagu veekeetja, kohvimasin, mikrolaineahi, ahi ja pliit. Seinal ripub kalender või plakat ning tööpinnale on asetatud ka nõudepesuvahendi pudel. Õhkkond on rahulik ja kodune, vihjates ühisele söögikorrale või puhkehetkele.",
+      "actions": [
+        "Vedeliku valamine pudelist",
+        "Istumine söögilaua taga",
+        "Söömine/eine võtmine",
+        "Vestlemine/suhtlemine",
+        "Köögis toimetamine",
+        "Kohvi valmistamine (või selleks valmistumine)"
+      ],
+      "keywords": [
+        "köök",
+        "mehed",
+        "hommikusöök",
+        "ühiskasutus",
+        "söömine",
+        "toimetamine",
+        "rahulik",
+        "koosviibimine",
+        "sisustus",
+        "olme"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "söögilaud",
+        "kruus",
+        "taldrik",
+        "röstsai/võileib",
+        "nutitelefon",
+        "pudel",
+        "särk",
+        "sall",
+        "prillid",
+        "köögikapp",
+        "töötasapind",
+        "aken",
+        "kohvimasin",
+        "veekeetja",
+        "mikrolaineahi",
+        "pliit",
+        "ahi",
+        "nõudepesuvahendi pudel",
+        "maitseained",
+        "kalender/plakat",
+        "tool"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#3C5E62",
+        "#1E325A",
+        "#8B8B8B",
+        "#000000"
+      ],
+      "texts": [
+        "PÄÄSTE",
+        "Fairy"
+      ],
+      "persons": [
+        "kolm meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaamera nurk ja kaugus varieeruvad kaadrite vahel, pakkudes erinevaid vaatenurki köögile ja inimestele.",
+        "Esimeses ja teises kaadris on fookus peamiselt laual toimuval interaktsioonil ja mehel, kes vedelikku valab.",
+        "Kolmas kaader on laiem ja näitab rohkem köögi üldist paigutust ning toob esile tegevusi töölaua juures."
+      ],
+      "snr": "013",
+      "ajad": [
+        "77.320",
+        "100.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme meest siseruumis valge laua ümber istumas, vestlemas ja süües või juues. Taustal on näha pikad hallide ja valgete ustega kapid, mis viitab ühisruumile nagu söögisaal, puhketuba või ühiselamu. Keskmine mees, kelle nägu on piltidel selgelt nähtav, hoiab käes tassi ja väikest metallist teesõela, vihjates tee valmistamisele või joomisele. Tema ees laual on valge tass/kruus ja klaas punase joogiga. Teised mehed on samuti tegevuses söömise või joomisega, nende ees on tassid ja suupisted, üks neist hoiab käes leivatükki. Üldine atmosfäär on vaba ja seltskondlik.",
+      "actions": [
+        "Söömine",
+        "Joomine",
+        "Vestlemine",
+        "Teesõela käes hoidmine",
+        "Suupistete hoidmine"
+      ],
+      "keywords": [
+        "Söögiaeg",
+        "Puhkus",
+        "Vestlus",
+        "Seltskond",
+        "Siseruum",
+        "Teesõel",
+        "Sõprus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Laud (valge)",
+        "Toolid (puidust)",
+        "Kapid (hallid ja valged uksed)",
+        "Tassid (valged, klaasist)",
+        "Teesõel (metallist)",
+        "Suupisted (leib/sai)",
+        "Pudel (roheline, klaasist)",
+        "Kann (hall/metallik)",
+        "Radiaator",
+        "Kruus (valge)"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#808080",
+        "#000080",
+        "#4B2C00",
+        "#6B8E23",
+        "#A52A2A",
+        "#36454F"
+      ],
+      "texts": [
+        "PJESETK",
+        "90"
+      ],
+      "persons": [
+        "Mees (vasakul, seljaga vaataja poole, tumedate juuste ja habemega, prillid, must särk)",
+        "Mees (keskel, näoga vaataja poole, lühikesed helepruunid juuksed, tumesinine särk kirjaga 'PJESETK')",
+        "Mees (paremal, osaliselt näha, tumedad juuksed, käsi tassis juures)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Keskmise mehe näoilme muutub piltidel kergelt, esimene pilt näitab tõsist ilmet, teine ja kolmas pilt näitavad teda kergelt naeratamas.",
+        "Käte asendid ja objektide paigutus laual varieeruvad veidi kaadrite vahel, näiteks teesõela ja suupistete hoidmine.",
+        "Kaadrite fookus nihkub veidi, keskendudes peamiselt keskmisele mehele, kuid esiplaanil oleva mehe näo selgus varieerub samuti."
+      ],
+      "snr": "014",
+      "ajad": [
+        "100.920",
+        "116.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, tõenäoliselt elutuba või puhkeala, kus meesterahvas istub seljaga vaataja poole pruunil mooduldiivanil ja vaatab televiisorit. Ruumi valgustus on hämar, kuid paremal on suur aken, millest paistab sisse loomulikku valgust. Aknalaual on rivis mitu auhinda või trofeed. Akna all on radiaator ja toataim. Põrand on kaetud heledate ruuduliste plaatidega. Vasakul seinal on valge uks ja paremal punakas sein. Televiisor on lameekraaniga ja asetseb mustal alusel, mille ümber on näha juhtmeid. Teleekraanil on lähivõte näitlejast, kes sarnaneb Will Smithiga. Meesterahvas hoiab käes pulti, olles süvenenud televiisori jälgimisse. Diivan on pruunidest osadest kokku pandud, moodustades L-kuju.",
+      "actions": [
+        "Televiisori vaatamine",
+        "Puldiga televiisori juhtimine",
+        "Puhkamine diivanil"
+      ],
+      "keywords": [
+        "Televiisori vaatamine",
+        "Elutuba",
+        "Siseruum",
+        "Diivan",
+        "Puhkehetk",
+        "Film",
+        "Auhinnad",
+        "Hämar",
+        "Mees",
+        "Will Smith"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Televiisor",
+        "Diivan",
+        "Pult",
+        "Aken",
+        "Radiaator",
+        "Auhinnad",
+        "Toataim",
+        "Põrandaplaadid",
+        "Uks",
+        "Sein",
+        "Telealus",
+        "Kaablid"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#A9A9A9",
+        "#F5F5DC",
+        "#800000",
+        "#FFFFFF",
+        "#000000",
+        "#D3D3D3"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (vaatab telerit)",
+        "Näitleja televiisoriekraanil (tõenäoliselt Will Smith)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Televiisoriekraanil kuvatava näitleja näoilme ja pea asend on piltide vahel veidi muutunud, andes edasi kerge liikumise või kaadri muutuse filmi sisu osas."
+      ],
+      "snr": "015",
+      "ajad": [
+        "116.200",
+        "120.560"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noort meest lähivõttes, keskendudes tema ülakehale ja näole. Mehel on lühikesed pruunid juuksed, hele nahatoon ja kerge habemetüügas. Ta kannab tumesinist T-särki ja vaatab pildilt vasakule (vaataja paremale) mõtliku või tõsise ilmega. Ta on paigutatud kaadri keskossa. Taust on udune ja annab aimu siseruumist. Vasakul on näha valge uksepiit heledal seinal, paremal aga soojema tooniga, kollaka varjundiga sein, millel ripub raamitud pilt. Kaadri alumises vasakus nurgas on näha pruunid pehmed mööbliesemed, mis on samuti udused. Valgus on pehme ja ühtlane, mis viitab sisevalgustusele.",
+      "actions": [
+        "Vaatamine",
+        "Jälgimine",
+        "Mõtlemine"
+      ],
+      "keywords": [
+        "Noormees",
+        "Portree",
+        "Siseruum",
+        "T-särk",
+        "Mõtlik",
+        "Lähivõte",
+        "Argine",
+        "Kodune",
+        "Vaade",
+        "Habetüügas"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "T-särk",
+        "Sein",
+        "Uksepiit",
+        "Pilt seinal",
+        "Mööbel (pehmed tumbad/ottomanid)"
+      ],
+      "colorcodes": [
+        "#2E3B4B",
+        "#D9D2BC",
+        "#E8E8E8",
+        "#C4967C",
+        "#6B503B",
+        "#F4AF30"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik kolm pilti on identsed või praktiliselt identsed kaadrid, millel puuduvad nähtavad erinevused. Tõenäoliselt on tegemist video kolme sama kaadriga."
+      ],
+      "snr": "016",
+      "ajad": [
+        "120.560",
+        "124.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, kus tumeda raamiga LG teleril kuvatakse aktiivset videomängu. Teler on paigutatud madalale alusele, millel on näha ka mitu kaugjuhtimispulti. Mänguekraanil käib intensiivne kaklus kahe tegelase vahel: paremal pool sinises kostüümis naisvõitleja (Kitana) ja vasakul pool pruunikas-punases riietuses meesvõitleja. Mängu taustal on maaliline maastik koskede, roheluse ja idamaise arhitektuuriga. Ekraani ülaosas on näha mängu kasutajaliidest, mis sisaldab tegelaste nimesid ('KITANA', 'SHANG TSUNG'), elujõu ribasid koos numbritega ning muid mänguindikaatoreid. Ühel hetkel ilmub ekraanile subtiiter 'Wow, a woman.'. Teleri taga, taustal, on näha heleda radiaatori ribisid ja riiulit, millel seisavad rivis mitmed kuldsed karikad ja auhinnad. Üldine valgustus on sume, luues hubase õhkkonna. Mängu ajal näib naistegelane sooritavat rünnakut, samas kui meestegelane on kaitseseisundis.",
+      "actions": [
+        "Videomängu mängimine",
+        "Mängutegelaste kaklemine",
+        "Mängu edenemise jälgimine",
+        "Subtiitri lugemine"
+      ],
+      "keywords": [
+        "Videomäng",
+        "Kaklusmäng",
+        "LG teler",
+        "Elutuba",
+        "Meelelahutus",
+        "Karikad",
+        "Radiaator",
+        "Mortal Kombat"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "LG teler",
+        "Kaugjuhtimispuldid",
+        "Radiaator",
+        "Riiul",
+        "Karikad",
+        "Auhinnad",
+        "Videomängu tegelased (naine ja mees)",
+        "Kosk (mängus)",
+        "Puud (mängus)",
+        "Idamaine arhitektuur (mängus)",
+        "Mängu kasutajaliides"
+      ],
+      "colorcodes": [
+        "#202020",
+        "#4080D0",
+        "#804020",
+        "#408040",
+        "#D4AF37",
+        "#C0C0C0",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "LG",
+        "KITANA",
+        "SHANG TSUNG",
+        "2 HITS",
+        "5% Damage",
+        "Wow, a woman.",
+        "78",
+        "73",
+        "71",
+        "113"
+      ],
+      "persons": [
+        "Naissoost videomängu tegelane (Kitana)",
+        "Meessoost videomängu tegelane (Shang Tsung või sarnane)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on Kitana elujõu riba all kirjas '2 HITS' ja '5% Damage', mis järgnevatel piltidel puudub.",
+        "Elujõu numbrid muutuvad: Kitana elujõud langeb 78-lt 73-le ja seejärel 71-le, samas kui Shang Tsungi elujõud püsib 113-l kõigil piltidel.",
+        "Teisel pildil ilmub ekraanile ingliskeelne subtiiter 'Wow, a woman.', mis esimesel ja kolmandal pildil puudub.",
+        "Mängu tegelaste asukohad ja kehahoiakud muutuvad veidi, mis näitab mängu edenemist ja tegevust. Eelkõige sooritab Kitana teisel ja kolmandal pildil selgelt rünnakuliigutusi.",
+        "Tegelaste portreed ekraani ülemistes nurkades muutuvad veidi, peegeldades nende tegevust ja kaamera nurka mängus."
+      ],
+      "snr": "017",
+      "ajad": [
+        "124.080",
+        "129.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte noort meest siseruumides videomängu mängimas. Kaamera on paigutatud vasakpoolse mängija selja taha, vaatega telerile ja parempoolsele mängijale. Vasakpoolne mees kannab tumesinist T-särki, mille seljal on valge kiri \"PÄÄSTE\", ja tumesiniseid lühikesi pükse punaste detailidega, millel on osaliselt näha kiri \"PA\" või \"PX\". Parempoolne mees on riietatud tumesinisesse dressikomplekti punaste kaunistustega ja hoiab käes sinist mängupulti. Mõlemad istuvad pruunidel või oranžidel diivanitel/toolidel, mis viitavad mugavale vaba aja veetmisele. Teleri taga on näha hele sein, mille alumises osas asub radiaator. Radiaatori kohal on riiul, millel seisavad auhinnad või dekoratiivesemed. Põrand on kollakaspruuni tooni. Kaugemas vasakus servas on osaliselt näha heleda uksepiita. Üldine õhkkond on rahulik ja keskendunud meelelahutusele.",
+      "actions": [
+        "Videomängu mängimine",
+        "Istumine",
+        "Mängupuldi hoidmine",
+        "Teleri vaatamine"
+      ],
+      "keywords": [
+        "Videomäng",
+        "Meelelahutus",
+        "Vaba aeg",
+        "Siseruum",
+        "Mängimine",
+        "Pääste",
+        "Noored",
+        "Sõbrad",
+        "Lõõgastus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Teler",
+        "Mängupult",
+        "Diivan",
+        "T-särk",
+        "Lühikesed püksid",
+        "Dressipluus",
+        "Radiaator",
+        "Riiul",
+        "Auhinnad",
+        "Uks",
+        "Sein",
+        "Põrand",
+        "Telerialus"
+      ],
+      "colorcodes": [
+        "#2E3A52",
+        "#FFFFFF",
+        "#AE2626",
+        "#8B593C",
+        "#E0E0D6",
+        "#444444",
+        "#72A0D4",
+        "#C7A77D"
+      ],
+      "texts": [
+        "PÄÄSTE",
+        "PA",
+        "PX"
+      ],
+      "persons": [
+        "Kaks meest",
+        "Mängija"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltidel puuduvad märkimisväärsed erinevused, tegemist on ilmselt järjestikuste kaadritega videost, kus esinevad vaid minimaalsed detailide nihked (nt pea asend või käte liikumine), mis on inimsilmale peaaegu märkamatud."
+      ],
+      "snr": "018",
+      "ajad": [
+        "129.400",
+        "132.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab LG brändiga lameekraaniga telerit, mis seisab pimedas mööblialusel, kuvades vägivaldset võitlusmängu. Mängu areenil on näha kaks tegelast – üks on püstiasendis ja teine lamab maas. Püstiasendis olev tegelane on hilisemates kaadrites verega kaetud ja hoiab käes mingit objekti, mis viitab mängu lõpukäigule või võidule. Ruumi taustal on näha heledat seina, tumedat radiaatorit ja riiulit, millel asuvad karikad või trofeed. Ruum on hämaralt valgustatud, jättes mulje õhtusest ajast. Ühes kaadris ilmub teleriekraanile tekst, mis reageerib mängusündmusele.",
+      "actions": [
+        "Võitlusmängu mängimine",
+        "Mängutegelaste võitlemine",
+        "Mängutegelase pikali kukkumine",
+        "Mängutegelase lõpetava käigu sooritamine",
+        "Mängusündmusele reageerimine (teksti kaudu)",
+        "Teleriekraanil pildi kuvamine"
+      ],
+      "keywords": [
+        "Võitlusmäng",
+        "LG teler",
+        "Elutuba",
+        "Mängimine",
+        "Teleriekraan",
+        "Trofie",
+        "Radiaator",
+        "Siseruum",
+        "Õhtune aeg",
+        "Johnny Cage",
+        "Mortal Kombat"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Teler",
+        "LG logo",
+        "Telerialus",
+        "Teleripult (osaliselt nähtav)",
+        "Mängutegelane (Johnny)",
+        "Mängutegelane (alistatud)",
+        "Mänguareen",
+        "Publik (mängus)",
+        "Karikad/Trofie",
+        "Riiul",
+        "Radiaator",
+        "Sein",
+        "Mängus olev pea sarnane objekt"
+      ],
+      "colorcodes": [
+        "#1E1E1E",
+        "#FFFFFF",
+        "#C70000",
+        "#D4AF37",
+        "#E0E0E0",
+        "#303030",
+        "#3A3A3A"
+      ],
+      "texts": [
+        "LG",
+        "What? What did you do?",
+        "Johnny"
+      ],
+      "persons": [
+        "Mängutegelane (Johnny)",
+        "Mängutegelane (alistanud)",
+        "Publik (mängus)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on mängu tegelased lahinguolukorras, kus üks on püstiasendis ja teine lamab maas.",
+        "Teisel pildil ilmub ekraanile valge tekst 'What? What did you do?' ning püstiasendis olev mängutegelane on saanud vigastusi (veri rinnal).",
+        "Kolmandal pildil on tekst 'What? What did you do?' kadunud, püstiasendis tegelane hoiab käes pea sarnast objekti ning tema rinnal on selgelt näha nimi 'Johnny' ja suurem vereplekk, viidates lõpetatud käigule."
+      ],
+      "snr": "019",
+      "ajad": [
+        "132.480",
+        "136.080"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha noort meest lühikese heleda juuksega, pildistatuna peamiselt pooltüki- või lähivõttes siseruumides. Ta istub pruunil diivanil, mis on näha nii esi- kui ka tagaplaanil. Mehel on seljas tumesinine T-särk, mille vasakul rinnal on heledat värvi embleem. Tema vasakul randmel on hõbedane käekell. Ta vaatab kaamerast eemale, paremale poole, ja tema näoilme muutub kergelt läbi kaadrite, vihjates vestlusele või reaktsioonile mingile sündmusele. Tagaplaanil on helebeež sein, mille vasakus servas on näha valge uksepiit ja kaugemal, häguselt, värviline objekt, mis võib olla pilt või dekoratsioon. Ühes kaadris on näha ingliskeelseid subtiitreid, mis annavad edasi lause: \"See? Oh, it started!\".",
+      "actions": [
+        "Istumine",
+        "Vaatamine",
+        "Rääkimine/Reageerimine"
+      ],
+      "keywords": [
+        "Noormees",
+        "Siseruum",
+        "Diivan",
+        "T-särk",
+        "Käekell",
+        "Vestlus",
+        "Reaktsioon",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Noormees",
+        "T-särk",
+        "Käekell",
+        "Diivan",
+        "Sein",
+        "Uksepiit",
+        "Pilt/dekoratsioon"
+      ],
+      "colorcodes": [
+        "#2A3C4D",
+        "#C2A180",
+        "#E6E1D2",
+        "#614032",
+        "#BCC0C2",
+        "#F5F5F5"
+      ],
+      "texts": [
+        "See? Oh, it started!"
+      ],
+      "persons": [
+        "Noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teises kaadris on nähtav subtiitrite tekst \"See? Oh, it started!\".",
+        "Mehe näoilme ja pilgu suund muutub kergelt kaadrite vahel, vihjates emotsioonide või reaktsioonide arengule.",
+        "Erinevused kaadrite kadreeringus, eriti esimesest kaadrist teise/kolmanda juurde, kus võte muutub pisut tihedamaks mehe näole."
+      ],
+      "snr": "020",
+      "ajad": [
+        "136.080",
+        "140.600"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumides, tõenäoliselt ühiskasutatavas puhkeruumis või elutoas. Kaks noort kuni keskealist meest istuvad mugavalt punakaspruunil diivanil ja vestlevad elavalt. Mõlemad on riietatud tumesinistesse T-särkidesse, millel on 'PÄÄSTE' logo ja tunnusmärk, ning tumesiniste dressipükste ja valgete tossudega, mis viitab ühisele kuuluvusele, tõenäoliselt päästeteenistusele. Vasakpoolne mees hoiab paremas käes punast lauatennise reketit, kuulates tähelepanelikult oma kaaslast, näol sageli kerge naeratus. Tal on vasakul randmel must randmeseade. Parempoolne mees on elavam, žestikuleerides kätega rääkimise ajal. Erinevatel hetkedel on näha, kuidas ta hoiab vasakus käes kas valget tassi/pudelit või punast lauatennise reketit, ning kannab vasakul randmel hõbedast käekella. Nende näoilmed muutuvad dialoogi käigus, ulatudes aktiivsest vestlusest mõtiskleva kuulamiseni. Taustal on suur lameekraaniga teler, mis kuvab erksaid pilte, võimalik et kontserdist või üritusest. Aknad on kaetud valgete ribikardinatega ja potitaim lisab rohelust. Üldine atmosfäär on pingevaba ja vestluslik, vihjates vaba aja veetmisele. Lauatennise mäng võis just lõppeda või on algamas, arvestades reketite olemasolu. Ühel hetkel on ekraanil näha ingliskeelsed subtiitrid: 'Could buy a new car instead. That's what I'm saying!'.",
+      "actions": [
+        "Istumine diivanil",
+        "Vestlemine",
+        "Kuulamine",
+        "Kätega žestikuleerimine",
+        "Lauatennise reketi hoidmine",
+        "Tassi/pudeli hoidmine"
+      ],
+      "keywords": [
+        "Päästjad",
+        "Puhkehetk",
+        "Siseruum",
+        "Vestlus",
+        "Lauatennis",
+        "Sõprus",
+        "Vaba aeg",
+        "Vormiriietus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Diivan",
+        "Teler",
+        "Telekaalus",
+        "Aknakatted (valged ribikardinad)",
+        "Toataim",
+        "Lillepott",
+        "Lauatennise reketid (punased)",
+        "Käekellad",
+        "Valge tass/pudel",
+        "T-särgid (tumesinised)",
+        "Dressipüksid (tumesinised)",
+        "Tossud (valged)"
+      ],
+      "colorcodes": [
+        "#1A213D",
+        "#E32636",
+        "#8B4513",
+        "#E0E0E0",
+        "#FFFFFF",
+        "#C69F77",
+        "#B48D6C"
+      ],
+      "texts": [
+        "PÄÄSTE",
+        "Could buy a new car instead. That's what I'm saying!"
+      ],
+      "persons": [
+        "Kaks noort meest",
+        "Päästjad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Parempoolse mehe vasakus käes olev ese muutub valgest tassist/pudelist punaseks lauatennise reketiks.",
+        "Parempoolse mehe näoilmed ja käežestid varieeruvad vestluse käigus, vasakpoolse mehe ilme jääb pigem kuulavaks ja kergelt naeratavaks.",
+        "Ingliskeelsed subtiitrid on nähtavad ainult ühel pildil."
+      ],
+      "snr": "021",
+      "ajad": [
+        "140.600",
+        "158.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest, nähtuna tagantpoolt, liikumas läbi nõrgalt valgustatud sisekoridori. Mõlemad kannavad tumedaid, arvatavasti tumesiniseid t-särke, mille seljal on heledate tähtedega kiri \"PÄÄSTE\". Nad näivad liikuvat eesmärgipäraselt, kas siis edasi mööda koridori või sisenemas ruumi ukseava kaudu. Keskkond viitab institutsionaalsele või elamuhoonele, millel on heledad seinad ja nähtavad ukseavad. Üks mees on pidevalt kaamerale lähemal, teine järgneb talle, olles vahel osaliselt varjatud või peegelduses nähtav. Koridori seinad on valged või heleda beeži tooniga, teises kaadris on näha seinal punast andurit või häirenuppu.",
+      "actions": [
+        "Kõndimine",
+        "Liikumine",
+        "Sisenemine (ukseavast)"
+      ],
+      "keywords": [
+        "Pääste",
+        "Koridor",
+        "Siseruumid",
+        "Mehed",
+        "T-särgid",
+        "Nõrk valgustus",
+        "Liikumine",
+        "Ukseava"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "T-särgid",
+        "Seinad",
+        "Ukseava",
+        "Valgusti",
+        "Punane andur/alarm"
+      ],
+      "colorcodes": [
+        "#1E2B3C",
+        "#E8E8E8",
+        "#DEDFCC",
+        "#C80000"
+      ],
+      "texts": [
+        "PÄÄSTE"
+      ],
+      "persons": [
+        "Kaks meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Fookuspunkti muutumine: Esimesel pildil on tagumine mees kergelt udune, samas kui teisel ja kolmandal pildil on kaamerale lähemal olev mees teravamalt fookuses.",
+        "Positsioonide ja liikumise progressioon: Pildid näitavad meeste järk-järgulist liikumist koridoris, alustades kaugemalt esimesel pildil, liikudes edasi teisele pildile ja jõudes kolmandal pildil ukseava juurde, kus üks mees on juba ukseavasse sisenemas.",
+        "Objektide ilmumine/kadumine: Teisel pildil on seinal näha punane andur/alarm, mis esimesel pildil pole kaadris ja kolmandal pildil on väljaspool kaadri nurka.",
+        "Teksti värvitoon: Teisel pildil paistab särgil olev tekst rohekama tooniga, samas kui esimesel ja kolmandal pildil on see valgem/heledam, mis võib olla tingitud valgustusest või peegeldusest.",
+        "Kadreering: Kolmandal pildil on esiplaanil olev mees kadreeritud ukseavasse, andes stseenile sügavust ja suuna muutuse, võrreldes kahe esimese kaadriga, kus nad on avatud koridoris."
+      ],
+      "snr": "022",
+      "ajad": [
+        "158.240",
+        "166.480"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumides, piklikus koridoris, mille seinad on heledat rohelist tooni. Vasakul seinal asub valge topelt-valguslüliti. Paremal pool, koridori sügavuses, on näha tumedaid uksi ja üleval avariiväljapääsu silt, mis koosneb rohelisest taustast ja punasest märgist. Esimesel kahel pildil on näha kahte meest tumedates T-särkides koridoris liikumas. Esimesel pildil on mehed lähemalt ja üks neist vaatab otse ette, teisel pildil on nad kaugemal ja hägusemad. Koridori valgustus on kunstlik, luues seintele pehmeid varje. Kolmas pilt keskendub suletud valgele uksele, millel on näha hõbedane ukselink, ümmargune lukk ning ukse ülemises osas ebakorrapärane auk.",
+      "actions": [
+        "Meeste liikumine koridoris",
+        "Ukse avamine/sulgemine (järjestusest järeldatav)"
+      ],
+      "keywords": [
+        "Koridor",
+        "Uks",
+        "Valguslüliti",
+        "Mehed",
+        "Auk",
+        "Lukk",
+        "Uksehing",
+        "Siseruum",
+        "Roheline sein",
+        "Avariiväljapääsu silt"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Valguslüliti",
+        "Uks",
+        "Ukselink",
+        "Ukselukk",
+        "Uksehing",
+        "Sein",
+        "Koridor",
+        "Avariiväljapääsu silt",
+        "Valgustid",
+        "Auk ukse sees"
+      ],
+      "colorcodes": [
+        "#CBD9B2",
+        "#FFFFFF",
+        "#C0C0C0",
+        "#FF0000",
+        "#008000",
+        "#1A1A1A"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Inimeste olemasolu ja asukoht muutub: esimesel pildil on mehed lähemal ja teravamad, teisel pildil kaugemal ja hägused, kolmandal pildil puuduvad.",
+        "Ukse avatuse aste varieerub: esimesel ja teisel pildil on näha uksepiire, mis viitab poolavatud uksele, samas kolmandal pildil on uks täielikult suletud.",
+        "Kaamera fookuspunkt ja kadreering muutuvad: esimesel ja teisel pildil on fookuses koridor ja liikuvad inimesed, kolmandal pildil on fookus nihutatud uksele, näidates detaile nagu lukk, link ja auk."
+      ],
+      "snr": "023",
+      "ajad": [
+        "166.480",
+        "175.480"
+      ]
+    },
+    {
+      "explanation": "Stseen on jäädvustatud siseruumides, ilmselt jõusaalis või treeningruumis, kus on heledad rohekad seinad ja läikiv hele põrand, mis peegeldab ümbrust. Kaamera on paigutatud madalale, fookusega inimese jalgadele ja põrandale. Inimene kannab tumesiniseid dressipükse punaste detailidega (millel on näha tekst “PÄÄSTE”) ja heledaid tosse. Tagaplaanil on näha mitmesuguseid jõusaali seadmeid, sealhulgas jõupinki, trenažööri ning põrandal asetsevat kangi raskustega. Paremal pool tagaplaanil on näha ka radiaator ja ruloodega aken. Valgustus on ere ja kunstlik. Inimene paistab seisvat kangi ees, kas valmistudes harjutuseks või tehes harjutuse vahepausile.",
+      "actions": [
+        "Seismine",
+        "Treenimine",
+        "Jõuharjutuste sooritamine"
+      ],
+      "keywords": [
+        "Jõusaal",
+        "Treening",
+        "Jalad",
+        "Tossud",
+        "Kang",
+        "Raskused",
+        "Siseruum",
+        "Sport",
+        "PÄÄSTE",
+        "Harjutus",
+        "Madal kaamera"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese jalad",
+        "Dressipüksid",
+        "Tossud",
+        "Põrand",
+        "Kang",
+        "Raskused",
+        "Jõupink",
+        "Trenazöör",
+        "Peegeldus",
+        "Radiaator",
+        "Aken",
+        "Aknaluugid",
+        "Postid"
+      ],
+      "colorcodes": [
+        "#BED6BE",
+        "#DCCBAF",
+        "#1A213D",
+        "#9E2D3B",
+        "#A19C87",
+        "#B6B6B6",
+        "#424545",
+        "#E0E0E0"
+      ],
+      "texts": [
+        "PÄÄSTE",
+        "18-16.",
+        "Oh, my turn."
+      ],
+      "persons": [
+        "Sportlane",
+        "Treener"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teises pildis on nähtavad subtiitrid \"18-16. Oh, my turn.\", mis puuduvad esimesel ja kolmandal pildil.",
+        "Inimese kehahoiak ja jalgade asend on piltide vahel veidi muutunud, viidates liikumisele või harjutuse sooritamise faasile."
+      ],
+      "snr": "024",
+      "ajad": [
+        "175.480",
+        "182.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, tõenäoliselt spordisaali või puhkeruumi, kus toimub lauatennise mäng. Kesksel kohal on sügavsinine lauatenniselaud, millel on selgelt nähtavad valged märgistused ja must võrk. Esialgu on kaadris näha tagantpoolt tume särk, millel on osaliselt loetav tekst \"ÄÄSTE\". Hiljem nihkub fookus ja ilmub lähivõte sama inimese käsivarrest, millel on selgelt näha skoor \"6-3\". Tagaplaanil on uduselt tajutav teine inimene tumedas riietuses, kes seisab samuti lauatenniselaua taga, vihjates aktiivsele mängule. Ruumi taustal on näha heledat rohelist seina, valge raamiga akent ning mööbliesemeid, nagu riiulid ja punane iste või diivan. Üldine valgus on ere, viidates päevasele ajale.",
+      "actions": [
+        "Lauatennise mängimine (kaudselt)",
+        "Seismine lauatennise laua juures"
+      ],
+      "keywords": [
+        "Lauatennis",
+        "Sport",
+        "Siseruum",
+        "Mäng",
+        "Skoor",
+        "Sinine laud",
+        "ÄÄSTE"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Lauatenniselaud",
+        "Lauatennise võrk",
+        "Inimene",
+        "Särk",
+        "Aken",
+        "Sein",
+        "Riiul",
+        "Padi/diivan"
+      ],
+      "colorcodes": [
+        "#2F59B2",
+        "#FFFFFF",
+        "#000000",
+        "#C8E6C9",
+        "#DD2C00"
+      ],
+      "texts": [
+        "ÄÄSTE",
+        "6-3"
+      ],
+      "persons": [
+        "Kaks inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaamera nurk ja fookus muutuvad kaadrite vahel, liikudes üldisemalt vaatelt lähivõttele.",
+        "Esiplaani inimene on erinevatel kaadritel erinevas ulatuses näha, alustades õlast ja särgitekstist ning lõpetades käsivarrel oleva skooriga.",
+        "Tekst \"ÄÄSTE\" on näha esimesel kaadril, tekst \"6-3\" ilmub kolmandal kaadril.",
+        "Tagaplaan muutub esimesel kaadril detailsemast (näidates rohkem ruumi) kolmandal kaadril udusimaks ja vähem informatiivseks."
+      ],
+      "snr": "025",
+      "ajad": [
+        "182.080",
+        "187.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest siseruumis, tõenäoliselt jõusaalis või puhkeruumis, lauatennist ehk pingpongi mängimas. Mees seisab sinise lauatenniselaua ees, hoides punase kummiga reketit. Tema riietuseks on tumesinine T-särk, mille rinnal on näha logo ja seljal tekst 'PÄÄSTE', ning tumesinised spordipüksid punaste küljetriipudega. Ta on mängule keskendunud, sooritades erinevaid lööke. Lauatenniselaua võrk on valge, siniste horisontaalsete joontega. Ruumi seinad on heledad, roheka tooniga ja põrand beež. Paremal pool on aknad, millest paistab päevavalgus, ja nende all radiaator. Taustal vasakul on näha mitmesugust jõusaali varustust, sealhulgas treeningpink, kangid, raskuskettad ja multitreeningmasin.",
+      "actions": [
+        "Lauatennist mängimine",
+        "Reketi hoidmine",
+        "Palli löömine",
+        "Liikumine lauatennise laua ümber"
+      ],
+      "keywords": [
+        "Lauatennis",
+        "Pingpong",
+        "Siseruum",
+        "Sport",
+        "Jõusaal",
+        "Mees",
+        "Reketi",
+        "Pall",
+        "Mäng",
+        "Treening"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Lauatenniselaud",
+        "Lauatennise võrk",
+        "Lauatennisereketi",
+        "Lauatennisepall",
+        "Jõusaali varustus",
+        "Kangid",
+        "Raskuskettad",
+        "Treeningpink",
+        "Aknad",
+        "Radiaator",
+        "Sein",
+        "Põrand",
+        "T-särk",
+        "Spordipüksid"
+      ],
+      "colorcodes": [
+        "#1E2D6A",
+        "#D8E7BA",
+        "#1D2D49",
+        "#D3222B",
+        "#CC2626",
+        "#E9D7C1",
+        "#FFFFFF",
+        "#2A2A2A"
+      ],
+      "texts": [
+        "6-3",
+        "PÄÄSTE"
+      ],
+      "persons": [
+        "Meessoost isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Isiku asend ja liikumine on erinevad kaadrite vahel, mis näitab tegevuse jätkumist.",
+        "Esimeses pildis on näha lauatenniselaua nurgas skoori '6-3', teistes piltides seda skoori pole.",
+        "Reketi asend ja palli olemasolu/asukoht erinevad kaadrite vahel.",
+        "Teisel pildil on selgelt näha mehe särgil teksti 'PÄÄSTE', mis esimesel ja kolmandal pildil on varjus või nurga tõttu loetamatu."
+      ],
+      "snr": "026",
+      "ajad": [
+        "187.160",
+        "201.680"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud siseruumi, tõenäoliselt spordi- või vabaajaruumi, kus kesksel kohal on lauatennise laud. Laud on halli lauaplaadiga ja musta raami ning jalgadega, mille keskel on must võrk. Taustal on hele, kergelt rohekat tooni sein, mille vastu on asetatud kaks tumesinist, polsterdatud matti. Vasakul pool on näha akent valgete horisontaalsete ribakardinatega ja akna all on valge radiaator. Ruum tundub olevat hästi valgustatud, tõenäoliselt akende kaudu tuleva päevavalgusega.",
+      "actions": [],
+      "keywords": [
+        "Lauatennis",
+        "ping-pong",
+        "spordisaal",
+        "siseruum",
+        "mäng",
+        "sport",
+        "laud",
+        "võrk",
+        "aken",
+        "radiaator",
+        "matt",
+        "roheline sein"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Lauatennise laud",
+        "Lauatennise võrk",
+        "Aken",
+        "Ribakardinad",
+        "Radiaator",
+        "Sein",
+        "Sinised matid",
+        "Laua jalad",
+        "Laua raam"
+      ],
+      "colorcodes": [
+        "#5C6777",
+        "#2C2C2C",
+        "#B9C6A7",
+        "#3B3B7E",
+        "#EAEAEA"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 5,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene ja teine pilt on kompositsioonilt ja sisult väga sarnased. Teine pilt on üldiselt veidi tumedam ning sellel on kerge kaamera nihke tõttu sügavusteravus pisut muutunud. Kolmas pilt on täiesti must, mis viitab kas stseeni lõppemisele, pimedusele või üleminekule teisele kaadrile."
+      ],
+      "snr": "027",
+      "ajad": [
+        "201.680",
+        "206.880"
+      ]
+    },
+    {
+      "explanation": "Kõik kolm pilti on täiesti mustad, mis tähendab, et neil puudub igasugune visuaalne informatsioon või detailid. Stseen on täiesti pime ja tühi, seega ei ole võimalik tuvastada ühtegi objekti, isikut, tegevust, aastaaega ega muid spetsiifilisi omadusi.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "pime",
+        "tühi",
+        "informatsioon puudub",
+        "nähtamatu",
+        "pimendus"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik kolm pilti on identselt mustad ja nende vahel ei ole mingeid erinevusi."
+      ],
+      "snr": "028",
+      "ajad": [
+        "206.880",
+        "210.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat siseruumi, tõenäoliselt koridori või fuajeed koolis või kontoris, kus inimene liigub kiiresti vasakult paremale. Kogu stseen on udune ja hägune, mis annab edasi kiiruse ja liikumise tunde. Seintel on mitu teadetetahvlit, mis on kaetud paberitega, mõnel on näha ka punaseid ja oranže detaile. Lisaks on interjööris rohelisi leheseid taimi, mis lisavad elustavat elementi. Inimene on riietatud tumedatesse, tõenäoliselt mustadesse või tumesinistesse riietesse, meenutades spordiriietust. Valgusallikad, nagu laes olev valgusti, annavad tagasihoidlikku valgust, luues pigem õhtuse või öise meeleolu. Kaamera jälgib või püüab kinni liikuva isiku erinevaid hetki koridoris, näidates alguses isikut laiemalt ja seejärel keskendudes rohkem tema liikumisele teadetetahvlite ja taimede vahel.",
+      "actions": [
+        "inimene kõnnib või jookseb kiiresti koridoris",
+        "inimene liigub vasakult paremale läbi kaadrite"
+      ],
+      "keywords": [
+        "udu",
+        "liikumine",
+        "siseruum",
+        "koridor",
+        "inimene",
+        "kontor",
+        "kool",
+        "teadetetahvel",
+        "taimed",
+        "hämar valgus",
+        "kiirus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "inimene",
+        "koridor",
+        "seinad",
+        "teadetetahvlid",
+        "paberid",
+        "taimed",
+        "valgusti"
+      ],
+      "colorcodes": [
+        "#d4d0b1",
+        "#1a1e2b",
+        "#3e502b",
+        "#e0e0e0",
+        "#cc3333"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Inimese asukoht ja nähtavus muutub kaadrite lõikes, liikudes vasakult paremale ja paljastades üha rohkem tausta.",
+        "Tagaplaani elemendid (teadetetahvlid, taimed) muutuvad nähtavamaks ja nende asukoht kaadris nihkub, pakkudes erinevaid vaatenurki koridorile.",
+        "Valgusallikas (laes olev lamp) ilmub teises kaadris lühidalt nähtavale.",
+        "Esimene kaader on abstraktsem ja udusem, teine ja kolmas kaader pakuvad veidi rohkem detaile taustast, kuigi jäävad üldiselt häguseks."
+      ],
+      "snr": "029",
+      "ajad": [
+        "210.360",
+        "211.640"
+      ]
+    },
+    {
+      "explanation": "Piltidel on näha üleni musta stseeni, kus puudub igasugune visuaalne sisu või detailid. Kogu kaader on täielikult pime ja ühevärviline. Objekti, tegevust ega tausta ei ole võimalik eristada.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "pime",
+        "tühjus",
+        "puudub informatsioon",
+        "blank",
+        "monokroomne"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik pildid on identsed ja täielikult mustad, erinevusi ei ole."
+      ],
+      "snr": "030",
+      "ajad": [
+        "211.640",
+        "212.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, tõenäoliselt koridori, kus inimene, riietatud tumedatesse rõivastesse ja valgetesse tossudesse, kõnnib kaamerast eemale ja siseneb silmatorkava punase raamiga ukseavast. Liikudes ukseavasse, muutub valgustus ja inimene ilmub siluetina. Kaamera liigub ja suumib ukseavale, mille tulemusena muutuvad järgmised kaadrid järjest hägusemaks ja abstraktsemaks, paljastades punased raamid ja sinise vertikaalse elemendi ukseava sees. Kogu stseen annab edasi kiire liikumise ja dünaamilise fookuse muutuse.",
+      "actions": [
+        "inimene kõnnib",
+        "inimene siseneb ukseavast"
+      ],
+      "keywords": [
+        "siseruum",
+        "koridor",
+        "ukseava",
+        "punane raam",
+        "inimene",
+        "siluett",
+        "liikumine",
+        "hägusus",
+        "abstraktne"
+      ],
+      "shot_type": "not clear",
+      "placement": "indoor",
+      "objects": [
+        "ukseava",
+        "sein",
+        "koridor",
+        "uks (ukselink)",
+        "sinine vertikaalne element",
+        "põrand"
+      ],
+      "colorcodes": [
+        "#C80000",
+        "#EBE4D8",
+        "#2C2F42",
+        "#3B5B87",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader näitab inimest tervikuna koridoris liikumas, teine kaader keskendub inimese siluetile ukseavas, kolmas kaader on äärmiselt hägune lähivõte ukseava detailidest.",
+        "Fookus muutub teravast (või kergelt udusest) täiesti häguseks.",
+        "Kaamera liigub üldisemalt vaatelt ukseava detailidele, suumides sisse.",
+        "Valgustus muutub heledast koridorist tumedamaks ukseava taga.",
+        "Inimese nähtavus väheneb selgest siluetiks ja kaob lõpuks kaadrist täielikult."
+      ],
+      "snr": "031",
+      "ajad": [
+        "212.600",
+        "213.960"
+      ]
+    },
+    {
+      "explanation": "Stseen on täiesti must. Kõik pildid on üleni mustad ja neil puudub igasugune visuaalne sisu, mistõttu ei ole võimalik tuvastada ühtegi objekti, isikut, tegevust ega keskkonda. Pildid ei edasta informatsiooni ega detaile.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "tühi",
+        "pime",
+        "puuduv sisu"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel pole nähtavaid erinevusi, kõik kaadrid on identselt mustad ja tühjad."
+      ],
+      "snr": "032",
+      "ajad": [
+        "213.960",
+        "214.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest riietumas päästja või tuletõrjuja vormiriietusse riietusruumis. Mees on keskealine, lühikeste pruunide juustega ja keskendunud ilmega. Ta kannab tumesinist pikkade varrukatega särki, millel on punased detailid ja osaliselt nähtav kiri, näiteks \"PRAS\" või \"ÄSTE\". Ta tõmbab jalga tumedaid, arvatavasti töö- või vormipükse ning seejärel selga tumedat jopet või üleriietust. Ruumis on näha tüüpilist riietusruumi sisustust: metallist kapid või riiulid taustal, pikk pink, millel on kokku volditud päästja/tuletõrjuja vormiriided (tumedad joped kollaste helkurribadega), samuti valgeid spordijalanõusid põrandal. Ühes kaadris on näha ka radiaatorit ja sinist käterätikut. Valgus on pehme ja ühtlane, viitades siseruumile.",
+      "actions": [
+        "Mees riietub",
+        "Mees tõmbab jalga pükse",
+        "Mees paneb selga jopet",
+        "Mees valmistub tööks"
+      ],
+      "keywords": [
+        "Päästja",
+        "Tuletõrjuja",
+        "Vormiriietus",
+        "Riietumine",
+        "Riietusruum",
+        "Ettevalmistus",
+        "Tööriided",
+        "Kapid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Särk",
+        "Püksid",
+        "Jope",
+        "Päästja vormiriietus",
+        "Riietusruumi pink",
+        "Radiaator",
+        "Metallkapid",
+        "Spordijalanõud",
+        "Käterätik",
+        "Riiete hunnik"
+      ],
+      "colorcodes": [
+        "#212B58",
+        "#D90D1C",
+        "#2C2D34",
+        "#F1D430",
+        "#EBEBEB",
+        "#82A6C8"
+      ],
+      "texts": [
+        "ÄSTE",
+        "PRAS"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe asend muutub riietumise käigus: esimesel pildil on ta kummardunud pükse jalga pannes, teisel pildil seisab sirgelt ja kolmandal tõmbab selga jopet.",
+        "Tagaplaanil muutub vaade pisut, pakkudes erinevates kaadrites fookust pingile riietega või metallkappidele."
+      ],
+      "snr": "033",
+      "ajad": [
+        "214.920",
+        "216.360"
+      ]
+    },
+    {
+      "explanation": "Stseen on täiesti must. Pilttel puudub igasugune nähtav sisu või detailid. Kõik kaadrid koosnevad ühtlasest mustast värvipinnast, andes edasi tühjuse ja pimeduse tunde. Puudub igasugune visuaalne teave objektide, inimeste, tegevuste või keskkonna kohta.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "pimedus",
+        "tühjus",
+        "eikuski",
+        "puudumine",
+        "monokroomne"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel puuduvad erinevused, kõik kaadrid on identselt mustad."
+      ],
+      "snr": "034",
+      "ajad": [
+        "216.360",
+        "217.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab päästjat siseruumides, tõenäoliselt päästekomando hoones või päästeautos, valmistumas väljasõiduks või toimetamas varustusega. Päästja on tumesinises vormis, mille seljal on suurte valgete tähtedega kiri \"PÄÄSTE\" ja varrukatel ning seljal helkurkollased-rohelised horisontaalsed triibud. Ta on aktiivses liikumises, esmalt sirutades kätt paremale poole, kus asub varustusega perforeeritud sein, ning seejärel tegeleb ta helehalli rullukse avamise või sulgemisega. Rullukse taga on näha riiulid siniste kottide või esemetega. Stseeni taustal paistab helehall sein ja osaliselt punane uks, andes edasi funktsionaalse ja töökeskkonna mulje.",
+      "actions": [
+        "Käe sirutamine",
+        "Varustusega tegelemine",
+        "Rullukse avamine",
+        "Rullukse sulgemine",
+        "Liikumine",
+        "Ettevalmistumine"
+      ],
+      "keywords": [
+        "Päästja",
+        "Päästevorm",
+        "Helkurribad",
+        "Siseruumid",
+        "Varustus",
+        "Rulluks",
+        "Valmisolek",
+        "Töökeskkond",
+        "Päästeteenistus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Päästja",
+        "Päästevorm",
+        "Helkurribad",
+        "Punane uks",
+        "Helehall sein",
+        "Perforeeritud sein",
+        "Tööriistad (tagaplaanil)",
+        "Rulluks",
+        "Riiulid",
+        "Sinised esemed/kotid"
+      ],
+      "colorcodes": [
+        "#2E3840",
+        "#ADCE51",
+        "#C62D2C",
+        "#E8E8E8",
+        "#6B7B75",
+        "#0A0A0A"
+      ],
+      "texts": [
+        "PÄÄSTE"
+      ],
+      "persons": [
+        "Meespäästja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on päästja seljaga kaamera poole ja sirutab kätt paremal oleva varustusseinani. Vasakul on näha punane uks ja helehall sein. Tekst \"PÄÄSTE\" on selgelt nähtav.",
+        "Teisel pildil on päästja pööranud pead ja ülakeha paremale, ta on aktiivses liikumises helehalli rulluksega. Käed on tõstetud ukse kõrgusele ja liikumise tõttu on pilt veidi udune. Tekst \"PÄÄSTE\" on osaliselt nähtav.",
+        "Kolmandal pildil jätkab päästja rulluksega toimetamist, tema ülakeha ja käed on jätkuvas liikumises. Ukse taga riiulitel on näha siniseid esemeid. Tekst \"PÄÄSTE\" on endiselt nähtav."
+      ],
+      "snr": "035",
+      "ajad": [
+        "217.320",
+        "218.840"
+      ]
+    },
+    {
+      "explanation": "Käesolev stseen on täiesti pime, esitades ühtlase musta välja, millel puuduvad igasugused visuaalsed detailid, objektid, kujutised või tekst. See on täielik pimedus ilma valgusallikate või eristatavate elementideta, mis annab edasi tühjuse ja nähtamatuse tunde.",
+      "actions": [],
+      "keywords": [
+        "pimendus",
+        "must",
+        "tühjus",
+        "tühi",
+        "nähtamatu",
+        "monokroomne"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik pildid on identsed, näidates ühtlast musta ekraani, ilma igasuguste visuaalsete erinevusteta."
+      ],
+      "snr": "036",
+      "ajad": [
+        "218.840",
+        "220.080"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt kooli võimlas või suuremas klassiruumis. Taustal on näha heledast puidust võre- või lippidest sein, mis meenutab võimlemispuud või redelipuid, ning mitmeid virnastatud halle toole. Pildi keskel on noor mees, kes kannab tumesinist või musta vormiriietust punaste detailidega ja paistab olevat mingi instruktor või päästja. Ta kükitab või põlvitab ja hoiab paremas käes valget, ovaalset eset, mis meenutab seepi või kivi. Tema ees, pildi esiplaanil, on näha rühm lapsi, kelle seljad ja pead on fookusest väljas, mis annab mõista, et nad istuvad põrandal ja kuulavad meest tähelepanelikult. Mehe ees põrandal asub kollane plastkast, milles on näha punaseid ja hõbedaseid esemeid. Üldine atmosfäär viitab hariduslikule või ohutusalasele loengule lastele.",
+      "actions": [
+        "Mees räägib ja selgitab",
+        "Mees demonstreerib eset",
+        "Lapsed kuulavad tähelepanelikult"
+      ],
+      "keywords": [
+        "Võimla",
+        "Kool",
+        "Instruktor",
+        "Lapsed",
+        "Loeng",
+        "Esitlus",
+        "Ohutusõpe",
+        "Vormiriietus",
+        "Haridus",
+        "Demonstratsioon"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Noor mees",
+        "Lapsed",
+        "Hallid toolid",
+        "Puitlippidest sein",
+        "Kollane plastkast",
+        "Valge ovaalne ese",
+        "Tumesinine/must vormiriietus",
+        "Punased esemed (kastis)",
+        "Hõbedased esemed (kastis)",
+        "Roheline matt (tagaplaanil)"
+      ],
+      "colorcodes": [
+        "#4a4a4a",
+        "#8c6e4a",
+        "#1a2a3a",
+        "#e0c01a",
+        "#ffffff",
+        "#cc0000"
+      ],
+      "texts": [
+        "What does this mean?"
+      ],
+      "persons": [
+        "Noor mees (instruktor/päästja)",
+        "Lapsed (õpilased)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil on näha ingliskeelne tekst \"What does this mean?\", mida esimesel pildil ei ole.",
+        "Mehe suu asend on kaadrite vahel pisut muutunud, mis viitab rääkimisele või liikumisele."
+      ],
+      "snr": "037",
+      "ajad": [
+        "220.080",
+        "224.040"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub avarates siseruumides, tõenäoliselt lasteaia või kooli saalis, millel on hele puitpõrand ja kreemikad seinad. Kaamera fookuses on seljaga seisva täiskasvanud mees, kes on riietatud tumesinisesse särki ja kannab üle õlgade punaseid rihmasid, mis viitab võimalikule tuletõrjuja ametile või ohutusalasele koolitusele. Tema ees ja paremal istub pikas reas umbes paarkümmend koolieelikust või algklassi last, kes on riietatud vabaaja riietesse ja jälgivad tähelepanelikult meest. Lapsed istuvad ilmselt pinkidel või väikestel toolidel. Vasakpoolses servas on näha ka üks täiskasvanud naine, kes samuti stseeni jälgib. Mees paistab suhtlevat lastega, esitades neile küsimusi ja saades neilt vastuseid, mis on näha subtiitrites. Õhkkond on õppeline ja interaktiivne.",
+      "actions": [
+        "Mees räägib/esitab küsimusi",
+        "Lapsed kuulavad/vaatavad tähelepanelikult",
+        "Lapsed vastavad (implied by text)",
+        "Naine jälgib"
+      ],
+      "keywords": [
+        "Lapsed",
+        "Täiskasvanu",
+        "Siseruum",
+        "Koolitus",
+        "Haridus",
+        "Interaktsioon",
+        "Tähelepanelikud",
+        "Tuletõrjuja",
+        "Ohutus",
+        "Vestlus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Puitpõrand",
+        "Heledad seinad",
+        "Rihmad (mehe seljal)",
+        "Subtiitrid",
+        "Pink (implied)"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#F5F5DC",
+        "#000080",
+        "#8B0000",
+        "#FFC0CB",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "What does this mean?",
+        "That there's fire!",
+        "That there's smoke!"
+      ],
+      "persons": [
+        "Mees (instruktor/tuletõrjuja)",
+        "Naine (täiskasvanu)",
+        "Lapsed (ca 20)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil küsib mees subtiitrites: 'What does this mean?', samas kui teisel pildil annavad lapsed (või mees ise) vastuse: 'That there's fire! That there's smoke!', mis näitab vestluse kulgemist ja järgnevat vastust."
+      ],
+      "snr": "038",
+      "ajad": [
+        "224.040",
+        "227.680"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumis, tõenäoliselt kooli võimlas või saalis, kus seinad on kaetud heleda puitpaneeliga ja põrand on puidust. Tagaplaanil on näha mitu virna halle kokkupandavaid toole. Keskel põlvitab tumesinises/mustas vormis, punaste detailidega mees, kes paistab olevat tuletõrjuja või ohutusinstruktor. Tal on lühikesed heledad juuksed. Ta juhib tähelepanu väikestele lastele, kelle seljad ja pead on näha esiplaanil. Mees demonstreerib midagi, hoides käes väikest valget eset, mis meenutab suitsuandurit. Tema ees põrandal on kollane kandik, millel on muid esemeid. Paremal taustal on näha beeži värvi radiaator. Subtiitrid kuvavad mehe selgitusi ja küsimusi lastele tuleohutuse kohta.",
+      "actions": [
+        "Mees põlvitab põrandal",
+        "Mees hoiab käes valget eset",
+        "Mees žestikuleerib oma kätega",
+        "Mees selgitab ja räägib (kuvatud subtiitritega)",
+        "Lapsed kuulavad ja jälgivad",
+        "Mees demonstreerib objekti liikumist (objekt kukub ümber vastavalt subtiitrile)"
+      ],
+      "keywords": [
+        "Tuletõrjuja",
+        "Ohutusõpetus",
+        "Lapsed",
+        "Siseruum",
+        "Demostratsioon",
+        "Suitsuandur",
+        "Haridus",
+        "Põrand",
+        "Toolid",
+        "Kollane kandik",
+        "Puidust sein"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees (tuletõrjuja/instruktor)",
+        "Lapsed",
+        "Tumesinine/must vorm punaste detailidega",
+        "Valge väike ese (võimalik suitsuanduri mudel)",
+        "Kollane kandik",
+        "Hallid toolid (virnastatud)",
+        "Puidust seinapaneelid",
+        "Puidust põrand",
+        "Radiaator"
+      ],
+      "colorcodes": [
+        "#1A212E",
+        "#AA2F2B",
+        "#F5DA2A",
+        "#8B8B8B",
+        "#C3A77C",
+        "#EBE1D8"
+      ],
+      "texts": [
+        "That there's fire!",
+        "That there's smoke!",
+        "Currently it means that the fire alarm is working.",
+        "What shall we do then?",
+        "Well, that fell over."
+      ],
+      "persons": [
+        "Mees (tuletõrjuja/instruktor)",
+        "Lapsed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe käte asendid ja žestid muutuvad kaadrite vahel, näidates demonstreerimise ja selgituste progressi.",
+        "Valge objekti asend mehe käes ja sellega seotud tegevus varieerub vastavalt selgituse faasile.",
+        "Subtiitrid muutuvad, peegeldades mehe jutu jätku: alguses hoiatades tule ja suitsu eest, seejärel selgitades suitsuanduri tööd ja lõpuks küsides 'Mida me siis teeme?' ja märkides, et miski 'kukkus ümber'."
+      ],
+      "snr": "039",
+      "ajad": [
+        "227.680",
+        "235.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interaktiivset tegevust siseruumis, tõenäoliselt lasteaias või huviringis. Keskel on mees tumedas vormis (ilmselt päästja või tuletõrjuja), kes liigub mööda ruumi ja demonstreerib midagi, hoides käes väikest klaasi või tassi. Ümberringi on grupp lapsi, kes istuvad kas põrandal või madalatel puidust pinkidel, jälgides hoolega mehe tegevust. Mõned täiskasvanud, sealhulgas heleblondi juuksega naine valges kampsunis, istuvad laste seas. Ruum on avar ja valgusküllane tänu suurtele akendele, millest paistavad välja paljad puud, viidates sügisele või talvele. Põrand on kaetud heleda puiduga. Akendel on heledad kardinad ja tagaplaanil on näha pikk laud või kapp. Mees liigub kaadrite vahel vasakult paremale ja pöörab end lõpus vaatajate poole tagasi, pakkudes dünaamilist vaatepilti.",
+      "actions": [
+        "Mees liigub ruumis ringi",
+        "Mees demonstreerib midagi väikese klaasiga",
+        "Lapsed jälgivad meest",
+        "Täiskasvanud jälgivad tegevust",
+        "Lapsed istuvad põrandal või pinkidel"
+      ],
+      "keywords": [
+        "Päästja",
+        "Tuletõrjuja",
+        "Lapsed",
+        "Täiskasvanud",
+        "Demonstratsioon",
+        "Siseruum",
+        "Lasteaed",
+        "Interaktiivne",
+        "Klaas",
+        "Vormiriietus"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Puidust põrand",
+        "Suured aknad",
+        "Heledad kardinad",
+        "Puidust pingid",
+        "Väike klaas või tass",
+        "Tumedad vormiriided",
+        "Valge kampsun",
+        "Laste riided",
+        "Pikk laud või kapp",
+        "Taimed aknalaual",
+        "Pildid seinal"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#F5F5DC",
+        "#1E2B3C",
+        "#FFFFFF",
+        "#B0C4DE",
+        "#7CFC00",
+        "#FF0000"
+      ],
+      "texts": [
+        "What shall we do then?",
+        "Well, that fell over."
+      ],
+      "persons": [
+        "Päästja (mees tumedas vormis)",
+        "Blondi juuksega naine valges kampsunis",
+        "Lapsed (eri vanuses poisid ja tüdrukud)",
+        "Teised täiskasvanud (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe asend ja suund muutub iga kaadriga, liikudes vasakult paremale ja pöörates seejärel",
+        "Kaamera nurk muutub veidi, paljastades rohkem ruumi ja inimesi tagaplaanil hilisemates kaadrites",
+        "Laste ja täiskasvanute täpne paigutus ja poosid varieeruvad veidi vastavalt mehe liikumisele"
+      ],
+      "snr": "040",
+      "ajad": [
+        "235.560",
+        "238.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lasteaia saalis toimuvat ohutusõpetuse tundi, kus umbes tosina eelkooliealise lapsega suhtleb tuletõrjuja. Lapsed istuvad kas puitpõrandal või madalatel pinkidel, jälgides tähelepanelikult tumesinises tuletõrjuja vormis meest. Temaga koos on ka üks täiskasvanud naine, kes istub lastega pingil. Ruumi kollased seinad ja suured aknad, mida kaunistavad helesinised kardinad, loovad avaruse ja valgusküllase atmosfääri. Põrandal on puidust laudis ja selle keskel paikneb oranži-pruuni mustriga vaip. Tuletõrjuja demonstreerib lastele mingit väiksemat ohutusvahendit, mis näib olevat käepidemega seade, ehk väike kustuti. Ta selgitab selle kasutamist või ohtlikkust, hoides seda algselt laste poole suunaga, samal ajal kui üks laps pakub välja \"Paneme selle siia. EIII....\". Seejärel kõnnib tuletõrjuja veidi eemale, uurib objekti oma käes ja muretseb valjult \"Vaip süttib põlema. Ma ei tea, kuhu me selle siis paneme.\". Ta liigub seejärel seljaga laste poole, suunaga vaiba poole, justkui rõhutades, et objekti ei tohiks vaibale panna. Lapsed jälgivad tema tegevust ja jutte huviga, õppides mängulisel ja praktilisel viisil tuleohutuse kohta. Ruumis on näha ka riiuleid, kappe ja suuri toataimi.",
+      "actions": [
+        "Demonstreerimine",
+        "Istumine",
+        "Vaatamine",
+        "Rääkimine",
+        "Käsitsemine",
+        "Kõndimine",
+        "Juhendamine"
+      ],
+      "keywords": [
+        "Lasteaed",
+        "Tuletõrjuja",
+        "Ohutusõpetus",
+        "Lapsed",
+        "Demonstratsioon",
+        "Siseruum",
+        "Haridus",
+        "Tuleohutus",
+        "Mänguline õpe"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Lapsed",
+        "Tuletõrjuja",
+        "Täiskasvanud naine",
+        "Lasteaia mööbel",
+        "Puidust põrand",
+        "Vaip",
+        "Aknad",
+        "Helesinised kardinad",
+        "Kollased seinad",
+        "Toataim",
+        "Ohutusvahend/kustuti",
+        "Pingid",
+        "Riiulid",
+        "Kapid",
+        "Lauanõud/dekoratsioonid riiulitel"
+      ],
+      "colorcodes": [
+        "#F1E5B1",
+        "#ADD8E6",
+        "#1F2C3A",
+        "#8B4513",
+        "#D2B48C",
+        "#A0522D"
+      ],
+      "texts": [
+        "Let's put it here. NOOO....",
+        "The carpet will catch on fire. I don't know where we will put it then."
+      ],
+      "persons": [
+        "Tuletõrjuja",
+        "Lapsed",
+        "Lasteaiaõpetaja/abiline"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Tuletõrjuja asend ja tegevus: Esimeses kaadris on ta laste poole ja näitab neile midagi. Teises kaadris kõnnib ta laste juurest eemale, vaatab kätte ja räägib. Kolmandas kaadris on ta seljaga, liikudes vaiba poole.",
+        "Laste poosid ja pilgud: Kuigi üldiselt istuvad, on nende pilgud ja kehahoiakud tuletõrjuja liikumise järgi muutuvad, jälgides tema tegevust.",
+        "Subtiitrid: Kaadrite vahel kuvatakse erinevad dialoogiread.",
+        "Käes hoitava eseme suund: Esimeses kaadris on see suunatud laste poole, hilisemates kaadrites tuletõrjuja enda poole või allapoole."
+      ],
+      "snr": "042",
+      "ajad": [
+        "248.240",
+        "261.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laste mänguväljakut, mida vaadeldakse siseruumist läbi suure valge aknaraamiga akna. Akna vasakul ja paremal küljel on näha valgeid poolläbipaistvaid kardinaid. Väljas valitseb karge ja külm ilm, maapinda katab õhuke härmatise või lume kiht, andes maastikule hallikasvalge tooni. Mänguväljakul kasvab mitu puud, mille okstel ripuvad erkpunased marjad, tõenäoliselt pihlakad, pakkudes hallile maastikule värvikontrasti. Taustal on näha heledaid, ilmselt elamuhooneid. Mänguväljakul on mitmeid atraktsioone, sealhulgas suur kollane ja punane ronimislinnak liumägede ja redelitega, sinine liumägi ning kollakas-pruun kiigelaadne konstruktsioon. Mänguväljakul mängivad mitmed lapsed, enamik neist kannab sooje riideid ja mütsi. Esiplaanil, akna sees, on näha väikest poissi, kes on riietatud tumesinisesse või halli mustrilisse talvejopesse ja mütsi. Tema asend ja aknale kuvatud tekstid viitavad sellele, et ta räägib kellegagi, keda pildil ei näe, ning tegemist on dialoogi või monoloogiga mänguasja asetamise teemal.",
+      "actions": [
+        "Mängimine",
+        "Kõndimine",
+        "Vaatamine läbi akna",
+        "Rääkimine",
+        "Ronimine",
+        "Liumäel laskumine"
+      ],
+      "keywords": [
+        "Mänguväljak",
+        "Lasteaed",
+        "Talv",
+        "Härmatis",
+        "Pihlakad",
+        "Aken",
+        "Liumägi",
+        "Ronimislinnak",
+        "Külm ilm",
+        "Lapsed"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Aknaraam",
+        "Kardinad",
+        "Puud",
+        "Pihlakamarjad",
+        "Liumäed (kollane, punane, sinine)",
+        "Ronimislinnak",
+        "Ronimisredel (kollane, punane)",
+        "Kiik",
+        "Hooned",
+        "Lapsed",
+        "Müts",
+        "Talvejope",
+        "Härmatis maapinnal",
+        "Kleeps/kleebis aknaraamil"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#8B0000",
+        "#FFD700",
+        "#4682B4",
+        "#808080",
+        "#B0C4DE"
+      ],
+      "texts": [
+        "Let's put it here. Nooo...",
+        "Well, I'll bring it here then. Nooo...",
+        "VALIAS",
+        "ADEX",
+        "SYSTEM"
+      ],
+      "persons": [
+        "Lapsed",
+        "Poiss"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Aknale kuvatud tekst muutub, peegeldades vestluse edenemist: alguses \"Let's put it here. Nooo...\", seejärel \"Well, I'll bring it here then. Nooo...\".",
+        "Esiplaanil oleva poisi asend ja kehahoiak muutuvad veidi, peegeldades teksti muutust – tema käed ja näo suund on pisut erinevad.",
+        "Poisi jope muster on teisel kaadril veidi selgemini nähtav."
+      ],
+      "snr": "043",
+      "ajad": [
+        "261.360",
+        "269.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab välitegevust, kus grupp lapsi, peamiselt poisid, kõnnib asfaltteel mööda heledat hoonet, mis on osaliselt roheline ja osaliselt kollane. Lapsed on riietatud paksudesse talvejopedesse, mütsidesse ja kinnastesse, mis viitab jahedale ilmale ja talvisele aastaajale. Nende riietuses on näha mitmeid värve, nagu sinine, oranž ja tumesinine. Grupiga on kaasas vähemalt kaks täiskasvanut: üks naine valges mütsis ja tumedas mantlis, kes kõnnib laste kõrval paremal, ja teine mees päästeteenistuse mustas jopes, mille seljal on valgete helkurribade ja tekstiga kiri \"PÄÄSTE\". Mees on suunatud laste poole ja ütleb neile: \"Let's go closer.\" Taustal on näha teisi hooneid ja paljaste okstega puid, mis annavad linnakeskkonna tunde. Päike paistab selgelt, tekitades maapinnale varjud. Stseenis on tunda organiseeritud grupitegevust, mis võib olla kooli või lasteaia õppekäik või tutvumine päästeteenistuse tööga.",
+      "actions": [
+        "kõndimine",
+        "vaatamine",
+        "rääkimine",
+        "juhendamine"
+      ],
+      "keywords": [
+        "lapsed",
+        "päästeteenistus",
+        "õues",
+        "talv",
+        "grupp",
+        "hoone",
+        "asfalt",
+        "päike",
+        "juhendaja",
+        "õppekäik"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "lapsed",
+        "naine",
+        "mees",
+        "hoone",
+        "puud",
+        "asfalttee",
+        "talvemantlid",
+        "mütsid",
+        "kindad",
+        "päästejope",
+        "auto"
+      ],
+      "colorcodes": [
+        "#4CAF50",
+        "#FBC02D",
+        "#212121",
+        "#FFFFFF",
+        "#42A5F5",
+        "#E65100",
+        "#607D8B"
+      ],
+      "texts": [
+        "PÄÄSTE",
+        "Let's go closer."
+      ],
+      "persons": [
+        "lapsed",
+        "naine",
+        "päästja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on stseen jäädvustatud eestpoolt paremalt, rõhutades naist ja laste esiosa, samas kui teisel pildil on rõhk päästjal ja laste grupist tagantvaatel.",
+        "Päästja jope seljal olev kiri \"PÄÄSTE\" ja tema öeldud tekst \"Let's go closer.\" on nähtavad ainult teisel pildil.",
+        "Kaamera nurk ja positsioon on erinevad, pakkudes samast stseenist erinevaid vaateid.",
+        "Esimesel pildil on taustal selgemalt näha sõidukit."
+      ],
+      "snr": "044",
+      "ajad": [
+        "269.920",
+        "279.480"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha grupp lapsi, kes seisavad õues ja kuulavad täiskasvanud meest, kes on seljaga vaataja poole. Mees kannab tumedat päästjate vormi kollaste helkurribadega. Lapsed on riietatud paksudesse talveriietesse, kandes värvilisi mütsid, jopesid ja salle, mis viitab jahedale ilmale. Nende riietuse värvid on mitmekesised, hõlmates sinist, roosat, rohelist ja triibulisi mustreid. Lapsed on erinevas vanuses ja vaatavad tähelepanelikult meest, kes näib neile midagi seletavat või õpetavat. Taustaks on hele (rohekaskollane) hoonesein ja paremal pool on näha tumedaid okaspuid. Stseen annab edasi haridusliku tegevuse või ohutuskoolituse mulje.",
+      "actions": [
+        "Päästja räägib ja annab juhiseid",
+        "Lapsed kuulavad ja jälgivad",
+        "Lapsed seisavad reas"
+      ],
+      "keywords": [
+        "Lapsed",
+        "Päästja",
+        "Päästeamet",
+        "Tuletõrjuja",
+        "Ohutuskoolitus",
+        "Õues",
+        "Talv",
+        "Mütsid",
+        "Joped",
+        "Vormiriietus",
+        "Koolitus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Lapsed",
+        "Päästja",
+        "Mütsid",
+        "Joped",
+        "Sallid",
+        "Päästja vormiriietus",
+        "Hoonesein",
+        "Puu"
+      ],
+      "colorcodes": [
+        "#CBD59E",
+        "#1F2837",
+        "#D5E180",
+        "#3F8BC4",
+        "#DE6F7E",
+        "#5B9E5A",
+        "#C72F30"
+      ],
+      "texts": [
+        "PÄÄSTE",
+        "We have thirteen bathtubs of water with us all the time."
+      ],
+      "persons": [
+        "Lapsed",
+        "Päästja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe asend ja näo pööre muutuvad veidi kaadrite vahel, näidates aktiivset rääkimist ja liikumist.",
+        "Ingliskeelne subtiiter on nähtav teisel pildil, puududes esimeselt ja kolmandalt.",
+        "Kolmandal pildil on mehe suu avatud, mis rõhutab tema kõnelemist."
+      ],
+      "snr": "045",
+      "ajad": [
+        "279.480",
+        "285.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab gruppi lapsi õues jahedas ilmaga, tõenäoliselt sügisel, kes on kogunenud ümber tumeda, vertikaalse objekti vasakul. Lapsed on riietatud soojalt, kandes erinevaid talvemütse ja pakse jopesid. Enamik neist vaatab huviga vasakule, justkui uurides mingit sisu. Üks oranži kapuutsiga laps on esiplaanil vasakul, vaadates vasakule, seejärel teiste poole pöördudes, suu lahti üllatusest. Teine, sinisetriibulise mütsiga ja sinise mustriga jopega poiss, jälgib tähelepanelikult vasakut objekti. Grupis on ka helesinisetriibulise mütsiga ja tumehalli jopega laps, roosa mütsiga ja sinise jopega laps, rohelisetriibulise mütsiga laps ning musta-valgekirju mütsiga ja tumerohelise jopega laps. Lapsed näivad olevat dialoogis ja nende näoilmed väljendavad uudishimu, üllatust ja avastamisrõõmu. Taustal on näha uduselt puid ja heledat pinnast, mis viitab välitingimustele.",
+      "actions": [
+        "Vaatamine",
+        "Uurimine",
+        "Suhtlemine",
+        "Üllatumine",
+        "Kuulamine",
+        "Gasping"
+      ],
+      "keywords": [
+        "Lapsed",
+        "Õues",
+        "Sügis",
+        "Talveriided",
+        "Mütsid",
+        "Joped",
+        "Uudishimu",
+        "Üllatus",
+        "Grupp",
+        "Limonaadipudelid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Lapsed",
+        "Talvemütsid",
+        "Talvejoped",
+        "Tume konteiner",
+        "Puud",
+        "Tee/rada"
+      ],
+      "colorcodes": [
+        "#4A567D",
+        "#D35400",
+        "#2E86C1",
+        "#ECF0F1",
+        "#A93226",
+        "#F8C471",
+        "#229954",
+        "#E74C3C",
+        "#6D6D6D"
+      ],
+      "texts": [
+        "Have you seen the small lemonade bottles? 0.5 litre ones?",
+        "There's 6000 bottles in here."
+      ],
+      "persons": [
+        "Oranži kapuutsiga laps",
+        "Sinitriibulise mütsiga poiss",
+        "Helesinisetriibulise mütsiga laps",
+        "Roosa mütsiga laps",
+        "Valge mütsiga laps",
+        "Rohelisetriibulise mütsiga laps",
+        "Musta-valgekirju mütsiga laps",
+        "Teised lapsed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Stseenis muutuvad laste näoilmed ja fookus vastavalt dialoogile ja avastusele. Algne üldine uudishimu süveneb üllatuseks, eriti ühe lapse puhul, kes reageerib suurele pudelite arvule. Kaadrid näitavad, kuidas grupi dünaamika ja tähelepanu jaotuvad eri hetkedel erinevatele lastele ja objektidele."
+      ],
+      "snr": "046",
+      "ajad": [
+        "285.360",
+        "298.880"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud grupp väikesi lapsi, tõenäoliselt lasteaialapsi, kes on kogunud õues punase tuletõrjeauto ümber. Lapsed on riietatud soojadesse talveriietesse, sealhulgas paksudesse jopesse ja mütsidesse, mis viitab külmale ilmale. Nad vaatlevad pingsalt tuletõrjeauto avatud varustusekappe, kus on näha mitmesuguseid päästetööriistu ja seadmeid, nagu voolikud, otsikud ja hüdraulilised päästevahendid. Üks vormis tuletõrjuja suhtleb lastega, selgitades neile varustuse otstarvet ja demonstreerides seda. Tegevus toimub päevasel ajal, tõenäoliselt haridusliku õppekäigu raames.",
+      "actions": [
+        "Lapsed vaatlevad tuletõrjeautot ja selle varustust.",
+        "Tuletõrjuja selgitab lastele päästetehnikat.",
+        "Lapsed seisavad ja kuulavad tähelepanelikult."
+      ],
+      "keywords": [
+        "Tuletõrjeauto",
+        "lapsed",
+        "tuletõrjuja",
+        "päästetehnika",
+        "õppekäik",
+        "talveriietus",
+        "päästetööriistad",
+        "voolikud",
+        "lasteaed"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Tuletõrjeauto",
+        "tuletõrjevoolikud",
+        "tuletõrjeotsikud",
+        "hüdraulilised päästetööriistad (nt. lõuad)",
+        "kollased köied/rullid",
+        "oranž tekk/riie",
+        "varustusekapid",
+        "hoone (tagaplaanil)",
+        "puud",
+        "laste talvemütsid",
+        "laste talvejoped"
+      ],
+      "colorcodes": [
+        "#9F2121",
+        "#1F2833",
+        "#EFE22A",
+        "#E1639D",
+        "#42728C",
+        "#EF8639",
+        "#C9D04F",
+        "#28354A",
+        "#5B7C4B"
+      ],
+      "texts": [],
+      "persons": [
+        "lapsed",
+        "tuletõrjuja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaadrite vahel muutub kaamera nurk ja fookus, pakkudes erinevaid vaateid sündmusele.",
+        "Esimeses kaadris on tuletõrjuja pildi paremal, selgitades varustust lastele, kes on enamasti seljaga kaamera poole.",
+        "Teises kaadris on tuletõrjuja pildi vasakul ja fookus on laste rühmal ning tuletõrjeauto esiosal, pakkudes selgemat pilti laste nägudest ja riietusest.",
+        "Kolmas kaader on lähivõte tuletõrjeauto varustusest ja laste tagumistest peadest/selgadest, tuues esile detailid tööriistadest.",
+        "Erinevatel kaadritel on näha erinevaid tuletõrjeauto varustuse detaile, alustades voolikutest ja lõpetades hüdrauliliste tööriistadega."
+      ],
+      "snr": "047",
+      "ajad": [
+        "298.880",
+        "317.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes on riietatud talveriietesse – peas tume müts, seljas sinine talvejope ja käes soojad, värvilised kindad. Üks kinnas on silmatorkavalt sinine valge lumemustriga, punaste ja kollaste äärtega, teisel kindal on roosad, mustad ja valged triibud. Inimene on tegevuses tumedas, hämaralt valgustatud siseruumis, mis võib olla näiteks sõiduki pagasiruum või panipaik. Vasakul on näha punast kütusekanistrit, millel on must käepide ja punane kork või nupp. Paremal pool on lisaks näha sinist või türkiissinist riideeset või tekki, millel on ringikujulised mustrid. Tegevus viitab esemete laadimisele või mahalaadimisele pimedast ruumist.",
+      "actions": [
+        "esemete laadimine",
+        "esemete mahalaadimine",
+        "kütusekanistri käsitsemine"
+      ],
+      "keywords": [
+        "talv",
+        "külm",
+        "riided",
+        "kindad",
+        "kütusekanister",
+        "pime ruum",
+        "laadimine",
+        "transport"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "inimene",
+        "müts",
+        "talvejope",
+        "kindad",
+        "kütusekanister",
+        "riideese",
+        "panipaik"
+      ],
+      "colorcodes": [
+        "#2F323D",
+        "#3C6EA2",
+        "#DF291D",
+        "#8B5F54",
+        "#D9D2D2",
+        "#62B5E5",
+        "#F7DE2F",
+        "#FC5D8C"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "winter",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on näha rohkem inimese ülakeha, sealhulgas mütsi ja osa sinisest jopest, ning roosa-triibulist kätt, punane kanister on osaliselt kaadri allosas. Teisel pildil on fookus nihkunud ja kaader on veidi sisse suumitud, tuues esile punase kütusekanistri vasakul ja sinise mustriga riideeseme paremal. Lumemustriga kinnas on selgemalt näha teises kaadris."
+      ],
+      "snr": "048",
+      "ajad": [
+        "317.960",
+        "324.440"
+      ]
+    },
+    {
+      "explanation": "Talvine stseen, mis vaheldub detailse vaatega päästesõidukile ja laiemate tänavavaadetega sõiduki seest. Stseenis on näha valge ja must pääste- või tehnikasõiduk, mille juures seisavad kaks inimest soojades talvejopedes – üks sinises täpilises jopes ja teine hallis jopes. Sinises jopes isik hoiab käes tumedat eset, mis võib olla taskulamp, suunates seda alla. Seejärel muutub vaatepunkt, näidates tänavavaateid autost. Üks kaader on keeruline, peegeldades või kattudes tänavapildiga, kus on hooned, punane maastur ja hägune roosas riietuses inimkuju, vihjates liikumisele linnakeskkonnas. Teine vaade autost fookusub lumisele tänavale, kus on näha lumega kaetud teed, puid, hooneid ja teisi sõidukeid, sealhulgas valget kaubikut või maasturit. Autojuhi küljepeeglis peegeldub samuti lumine tee ja puud. Üldine mulje on talvine linnaelu ja liikumine lumises keskkonnas.",
+      "actions": [
+        "Seisavad",
+        "Vaatavad",
+        "Hoiavad eset",
+        "Sõidavad (kaudselt)"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Sõiduk",
+        "Päästesõiduk",
+        "Tänav",
+        "Linn",
+        "Auto",
+        "Inimene",
+        "Jope",
+        "Taskulamp",
+        "Peegeldus",
+        "Küljepeegel",
+        "Hooned"
+      ],
+      "shot_type": "not clear",
+      "placement": "outdoor",
+      "objects": [
+        "Pääste-/tehnikasõiduk",
+        "Ratas",
+        "Oranž suunatuli",
+        "Metallist panipaik",
+        "Sinine talvejope",
+        "Hall talvejope",
+        "Taskulamp (võimalik)",
+        "Hooned",
+        "Tänavasilt (hägune)",
+        "Autoküljepeegel",
+        "Lumi",
+        "Puud",
+        "Maastur/kaubik (punane ja valge)",
+        "Teised autod"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#A9A9A9",
+        "#344A6A",
+        "#FFA500",
+        "#8B0000",
+        "#FFC0CB"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest talveriietes (võimalikud lapsed/täiskasvanud)",
+        "Hägune isik roosas riietuses"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader on lähivõte statsionaarsest päästesõidukist inimestega selle kõrval, teised kaadrid on autost tehtud laiemad vaated liikuvale tänavapildile.",
+        "Vaatepunkt ja fookus muutuvad: lähivõttelt detailile (sõiduk ja inimesed) laiemale panoraamvaatele (linnatänav autost).",
+        "Üks kaader sisaldab tugevaid peegeldusi/ülekateid, mis muudavad stseeni keeruliseks tõlgendada.",
+        "Inimesed on selgelt näha vaid esimeses kaadris, teistes kaadrites on nad kas hägused või puuduvad täielikult.",
+        "Sõidukid on esimeses kaadris detailne päästesõiduk, teistes kaadrites erinevad sõiduautod (maasturid, kaubikud)."
+      ],
+      "snr": "049",
+      "ajad": [
+        "324.440",
+        "334.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest auto roolis keset talvist linnamaastikku. Mees, kandes musta mütsi ja tumepruuni talvejopet, hoiab paremas käes musta kohvitopsi, toetades seda roolile. Tema pilk on suunatud aknast välja, ettepoole, andes mõista, et ta on teel või parasjagu peatunud. Auto aknast avaneb vaade lumisele linnatänavale, kus on näha teisi autosid, sh valge veoauto ja punane sõiduauto, ning mitmekorruselisi hooneid, millest mõned on hallikat tooni. Maapind ja autode katused on lumega kaetud, viidates külmale talvepäevale. Sõiduki roolil on näha tootja Subaru logo. Üldine meeleolu on vaikne ja argine.",
+      "actions": [
+        "autos istumine",
+        "kohvi hoidmine",
+        "välja vaatamine"
+      ],
+      "keywords": [
+        "autojuht",
+        "talv",
+        "lumi",
+        "linn",
+        "kohv",
+        "sõit",
+        "müts",
+        "jope",
+        "Subaru"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "auto",
+        "mees",
+        "rool",
+        "kohvitops",
+        "müts",
+        "jope",
+        "hooned",
+        "lumi",
+        "puud",
+        "teised autod",
+        "veoauto",
+        "parkimismärk",
+        "iste"
+      ],
+      "colorcodes": [
+        "#2D2C2C",
+        "#705B48",
+        "#DCE3E8",
+        "#AAB7C2",
+        "#2D2D2D",
+        "#820D1D",
+        "#F0F0F0",
+        "#5C626F"
+      ],
+      "texts": [
+        "SUBARU"
+      ],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaamera nurk ja fookuspunkt muutuvad kergelt kaadrite vahel, nihutades rõhku mehe ja auto sisult tausta elementidele.",
+        "Taustal olev linnavaade ja hooned muutuvad, andes aimu kas auto liikumisest või erinevatest võttenurkadest.",
+        "Mehe pilgu suund muutub kergelt, vaadates esimeses ja kolmandas kaadris pisut rohkem paremale, teises kaadris otsemalt ette."
+      ],
+      "snr": "050",
+      "ajad": [
+        "334.040",
+        "349.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort meest auto kabiinis juhiistmel istumas. Ta kannab tumepruuni või oliivikarva jopet ja musta nokamütsi. Mehe pilk on suunatud vasakule, läbi auto esiakna ja küljeakna, mis annab aimu, et ta vaatab teed või ümbritsevat lumist linnamaastikku. Tema vasak käsi hoiab rooli, mille keskel on näha logo 'SUBARU', ja paremas käes on musta värvi kohvitops. Auto sisemus on tumedates toonides, luues kontrastse fooni väljas valitsevale talvemaastikule. Väljaspool autot on näha paksu lumega kaetud teed ja maapinda, samuti hooneid tagaplaanil. Auto küljeklaas on kaetud kerge uduse või märja kihiga, mis annab pildile talvise ja melanhoolse tunde. Kaadri paremas servas on näha osaliselt valget ja sinist riba, mis võib olla mingi reklaam või silt. Üldine meeleolu on rahulik ja keskendunud, vihjates sõidule või ootamisele külmas talveilmas.",
+      "actions": [
+        "Vaatamine läbi akna",
+        "Rooli hoidmine",
+        "Kohvitopsi hoidmine",
+        "Autos istumine"
+      ],
+      "keywords": [
+        "Autojuht",
+        "Talv",
+        "Lumi",
+        "Auto",
+        "Linn",
+        "Kohv",
+        "Nokamüts",
+        "Rool",
+        "Kabiin",
+        "Külm",
+        "Päev",
+        "Fookus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Auto",
+        "Rool",
+        "Kohvitops",
+        "Nokamüts",
+        "Jope",
+        "Autoaken",
+        "Lumi",
+        "Hoone",
+        "Tee",
+        "Armatuurlaud",
+        "Välispeegel"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#605F4F",
+        "#333333",
+        "#E8E8E8",
+        "#2A2A2A",
+        "#A0A0A0",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "SUBARU",
+        "Ebalevalt loetav tekst paremal valgel/sinisel ribal"
+      ],
+      "persons": [
+        "Mees",
+        "Autojuht"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaadrite vahel on väga väikesed, peaaegu märkamatud erinevused mehe näoilmes ja suu asendis, mis viitab minimaalsele liikumisele pildistamise hetkede vahel.",
+        "Teisel pildil on kaadri paremas servas olev valge riba ülemine osa veidi rohkem nähtaval, kuid tekst on mõlemal pildil ebaselge.",
+        "Esimene pilt võib paista veidi teravam või detailsem kui teine."
+      ],
+      "snr": "051",
+      "ajad": [
+        "349.200",
+        "353.960"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab vaadet auto esiklaasist lumisel ja lörtsisel talvepäeval. Tee on märg ja osaliselt kaetud lörtsi ja lumega. Esiklaas on kaetud veeplekkide ja lörtsiga, eriti paremal pool, mis annab pildile udune ja filtreeritud välimuse. Sõiduk liigub mööda kahesuunalist tänavat, kus ees on teisi autosid, mille tagatuled paistavad punaselt. Üks punane sõiduauto on otse ees, mõned teised autod on paremal kauguses. Vasakul pool teed on näha tanklaga sarnanevat ala erinevate reklaamtahvlite ja hoonete ning parkivate autodega. Kauguses paistavad hallid hooned, paljad puud, tänavavalgustid ja silmapiiril domineerib kirikutorn koos tööstuslike korstnatega. Üldine atmosfäär on jahe, pilvine ja hall, iseloomulik talvisele linnaelule.",
+      "actions": [
+        "Sõitmine autoga",
+        "Teiste autode liikumine",
+        "Lörtsi ja vee kogunemine tuuleklaasile"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumesadu",
+        "Lörts",
+        "Autojuhtimine",
+        "Tee",
+        "Sõidukid",
+        "Linn",
+        "Külm",
+        "Hall",
+        "Tuuleklaas",
+        "Liiklus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Auto armatuurlaud",
+        "Tuuleklaas",
+        "Vesi tuuleklaasil",
+        "Lörts tuuleklaasil",
+        "Tee",
+        "Lumi",
+        "Sõiduautod",
+        "Hooned",
+        "Puud",
+        "Tänavavalgustid",
+        "Kirikutorn",
+        "Korstnad",
+        "Kollased lipud",
+        "Reklaamtahvlid",
+        "Tankla viidad"
+      ],
+      "colorcodes": [
+        "#A1A09F",
+        "#D8D7D6",
+        "#595856",
+        "#FF0000",
+        "#FFFF00",
+        "#7D7D7C"
+      ],
+      "texts": [
+        "24",
+        "Aruküla",
+        "LO",
+        "DI",
+        "A",
+        "25",
+        "29"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Autod teel on erinevates positsioonides, mis viitab liikumisele. Ees olev punane auto on teises kaadris lähemale jõudnud.",
+        "Pildistava auto liikumise tõttu on taustal olevad hooned ja märgid (näiteks vasakul pool olevad tankla viidad ja paremal olev 'Aruküla' silt) erinevalt nähtavad ja teises kaadris kohati selgemalt loetavad."
+      ],
+      "snr": "052",
+      "ajad": [
+        "353.960",
+        "359.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab autot interjöörist, keskendudes juhi käele, mis hoiab roolist kinni. Käsi on asetatud rooli vasakule poolele ja kannab hõbedast käekella. Roolil on selgelt näha kiri 'SUBARU'. Juht kannab heledamat, pruunikashalli tooni jope või paksu varrukat. Paremal pool on näha osa armatuurlauast ja mõningaid nuppe ning punakalt hõõguvaid kellasid. Läbi autoakna paistab ähmane, hele hallikasvalge väliskeskkond, mis viitab lumisele või sombusele ilmale. Üldine valgustus autos on hämar, luues veidi mõtliku või tõsise atmosfääri.",
+      "actions": [
+        "Roolist kinni hoidmine",
+        "Auto juhtimine (kaudselt)"
+      ],
+      "keywords": [
+        "Auto",
+        "Rool",
+        "Käsi",
+        "Käekell",
+        "Subaru",
+        "Interjöör",
+        "Juhtimine",
+        "Talv",
+        "Hämar",
+        "Sõiduk",
+        "Armatuurlaud"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Rool",
+        "Käsi",
+        "Käekell",
+        "Autoukse polster",
+        "Armatuurlaud",
+        "Aken",
+        "Jope varrukas"
+      ],
+      "colorcodes": [
+        "#2C2C2D",
+        "#1C1C1C",
+        "#7D6A5D",
+        "#907464",
+        "#B6B6B6",
+        "#C8D0D5",
+        "#5C1B14"
+      ],
+      "texts": [
+        "SUBARU"
+      ],
+      "persons": [
+        "Juht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Teine pilt on esimesest veidi heledam, eriti akna taga paistev väliskeskkond."
+      ],
+      "snr": "053",
+      "ajad": [
+        "359.800",
+        "362.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab autoga sõitvat meest, kes on jäädvustatud küljeprofiilis läbi autoakna. Mees kannab tumedat mütsi või kapuutsi ja tumedat riietust. Tema pilk on suunatud allapoole ja ettepoole, andes talle mõtliku või melanhoolse ilme. Auto aknast paistab hägune taust, mis viitab sõiduki liikumisele. Taustal on näha elamuid, mis on osaliselt kaetud lumega või asuvad külmas, hallis ilmas. Ühes kaadris on näha kollakas maja, teistes aga hallikaid ja valgeid hooneid ning puid. Valgus on pehme ja hajutatud, viidates pilvisele päevadele. Üldine toon on jahe ja summutatud.",
+      "actions": [
+        "Mees sõidab autos",
+        "Mees vaatab aknast välja",
+        "Mees on mõtlik"
+      ],
+      "keywords": [
+        "Autosõit",
+        "Mõtlikkus",
+        "Talv",
+        "Linnakeskkond",
+        "Mees",
+        "Beanie",
+        "Külm ilm",
+        "Liikumine",
+        "Hall päev"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Auto sisemus",
+        "Auto aken",
+        "Maja",
+        "Hoone",
+        "Puu",
+        "Lumi",
+        "Müts",
+        "Kapuuts"
+      ],
+      "colorcodes": [
+        "#261f1f",
+        "#7a5e4b",
+        "#aea798",
+        "#a0a8ab",
+        "#d8d8d8"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Taust muutub piltide vahel, illustreerides auto liikumist.",
+        "Erinevates kaadrites on näha erinevaid hooneid ja puid, mis on liikumise tõttu hägused.",
+        "Kolmandas kaadris on veidi paremini näha mehe paremat kätt, mis asub tõenäoliselt roolil või toetub auto sisemusele, vihjates, et ta võib ise autot juhtida."
+      ],
+      "snr": "054",
+      "ajad": [
+        "362.520",
+        "365.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab autojuhi tegevust sõidu ajal autokabiinist lähivõttes. Kaadris on näha juhi ülakeha, käed ja osa auto sisemusest. Juht kannab heledamat, hallikas-pruuni (khaki tooni) jopet ja tumesiniseid pükse. Turvavöö on kinnitatud üle juhi rinna. Vasak käsi hoiab rooli, samal ajal kui parem käsi on kas käigukangil või selle läheduses, viidates käiguvahetusele või valmisolekule seda teha. Auto interjööris on näha käigukang, selle ümbruses olev konsool ja paremal pool armatuurlaual asuv raadio/heli süsteem rohelise taustavalgustusega. Käigukangi kõrval on näha kokkuvolditud kindaid. Üldine valgus on summutatud, luues kas pilvise päeva või hämarama aja mulje. Kaadrid näitavad sama tegevust erinevatel hetkedel, kus juhi parema käe asend käigukangil muutub.",
+      "actions": [
+        "Käiguvahetus",
+        "Auto juhtimine",
+        "Rooli hoidmine"
+      ],
+      "keywords": [
+        "Autojuht",
+        "Sõit",
+        "Käigukang",
+        "Rool",
+        "Auto interjöör",
+        "Turvavöö",
+        "Jope",
+        "Käed",
+        "Kindad"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Auto",
+        "Rool",
+        "Käigukang",
+        "Turvavöö",
+        "Jope",
+        "Püksid",
+        "Autoraadio",
+        "Konsool",
+        "Kindad"
+      ],
+      "colorcodes": [
+        "#6b6655",
+        "#29304e",
+        "#1b1b1b",
+        "#20773d",
+        "#0c0b0a"
+      ],
+      "texts": [],
+      "persons": [
+        "Autojuht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Parem käsi muudab asendit käigukangil: esimestel kaadritel on käsi kangil, kolmandal on see kangist eemal.",
+        "Kolmandal kaadril on käigukangi nupp ja selle nahast ümbris detailsemalt näha, kuna käsi ei kata seda.",
+        "Vasaku käe haare roolil ja käte üldine asend on kaadrite vahel kergelt erinev, peegeldades liikumist ja tegevust."
+      ],
+      "snr": "055",
+      "ajad": [
+        "365.280",
+        "368.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist välivaadet läbi auto esiklaasi, millel on näha veetilku, mis viitab vihmale või sulavale lumele. Vaatepunkt on autost, kusjuures pildi alumises osas on näha tumeda armatuurlaua ülemine osa ja esiklaasi alaosa. Maapind on ühtlaselt kaetud paksu lumekihiga, moodustades laia lumise välja või tee. Vasakul on erekollane reklaamsilt tumeda tekstiga, millel on selgelt loetav number \"10-19\" ja mis näib sisaldavat ka rohelisi kujundeid või logo. Kaugemal ja sildi taga kasvab tihe metsik puude kogum, mis on lehtedeta, andes edasi talvise ja jaheda meeleolu. Puude harud moodustavad hallika ja tiheda võrgu, mis kaob halli taeva taustal. Pildi keskelt paremale on lumisel teel kõndimas üks inimene, riietatud tumedatesse riietesse. Kauguses paistavad hallikad hooned ja mis näib olevat bussi ootepaviljon või pink. Paremal pool on näha ka elektriliini post. Taevas on ühtlaselt hall ja pilvine, luues külma ja sombuse atmosfääri. Üldmulje on vaikne ja talviselt jahe.",
+      "actions": [
+        "Sõiduk liigub aeglaselt edasi või on peatanud",
+        "Inimene kõnnib mööda lumist teed"
+      ],
+      "keywords": [
+        "Talvine maastik",
+        "Lumi",
+        "Auto vaade",
+        "Esiklaas",
+        "Armatuurlaud",
+        "Lehetud puud",
+        "Reklaamsilt",
+        "Jalakäija",
+        "Hall ilm",
+        "Veetilgad",
+        "Linnamaastik",
+        "Külm"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Auto armatuurlaud",
+        "Auto esiklaas",
+        "Veepiisad",
+        "Lumi",
+        "Puud",
+        "Reklaamsilt",
+        "Tee",
+        "Hoone",
+        "Bussi ootepaviljon",
+        "Elektriliini post"
+      ],
+      "colorcodes": [
+        "#F0F8FF",
+        "#A9A9A9",
+        "#FFD700",
+        "#228B22",
+        "#36454F"
+      ],
+      "texts": [
+        "10-19"
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kõndiv inimene liigub kaadrite vahel edasi ja lähemale vaatepunktile. Esimeses kaadris on inimene paremal ja kaugemal, teises keskel ja lähemal ning kolmandas vasakul ja kõige lähemal.",
+        "Autoklaasil olevate veepiiskade asetus ja kuju on veidi muutunud, mis viitab kas auto liikumisele või klaasipuhastite tööle."
+      ],
+      "snr": "056",
+      "ajad": [
+        "368.080",
+        "370.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaates heledat telliskiviseina, millele on kinnitatud kaks infotahvlit. Suurem, valge nelinurkne silt asub seina keskel ja edastab Patarei Kultuuripargi lahtiolekuaegade infot nii eesti kui ka inglise keeles. Sildil on kirjas, et park on avatud esmaspäevast pühapäevani kella 12:00-st 21:00-ni. Allpool ja suuremast sildist paremal asub väiksem sinine nelinurkne tänavasilt tekstiga \"Kalaranna\". Telliskivid on väga heledad, peaaegu valged või helehallid, ning nende vahel on tumedad vuugid. Seina alaosas, sinise sildi lähedal, on märgata lumeriismeid või jahedama ilma jälgi, mis viitavad talvisele aastaajale. Valge sildi alumises osas on väike lisa tekst, mis annab teada, et Kultuuripargil on õigus lahtiolekuaegu muuta.",
+      "actions": [],
+      "keywords": [
+        "märgid",
+        "infotahvel",
+        "tänavasilt",
+        "telliskivisein",
+        "Patarei",
+        "Kalaranna",
+        "lahtiolekuajad",
+        "eesti keel",
+        "inglise keel",
+        "kultuuripark",
+        "talv",
+        "avatud",
+        "hoiatussilt"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "telliskivisein",
+        "valge infosilt",
+        "sinine tänavasilt",
+        "lumi/jää (jäägid seinal)"
+      ],
+      "colorcodes": [
+        "#E2E2E2",
+        "#464646",
+        "#FFFFFF",
+        "#000000",
+        "#2E4E98"
+      ],
+      "texts": [
+        "Kultuuripark Patarei",
+        "avatud",
+        "Esm. - pühap. 12.00 - 21.00",
+        "Cultural Park Patarei",
+        "open",
+        "Mon to Sun 12 PM - 9 PM",
+        "Kultuuripargil on õigus lahtiolekuaegu muuta",
+        "Cultural Park have right to change opening hours",
+        "Kalaranna"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Pildid on identsed, olulisi erinevusi ei ole."
+      ],
+      "snr": "057",
+      "ajad": [
+        "370.800",
+        "375.160"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab autost välja astuva inimese teekonda, mis on jäädvustatud auto seestpoolt. Esimesel kaadril on näha musta mütsi ja heledama jopega noor inimene, kes istub juhiistmel, pilk veidi allapoole suunatud, võimalik, et vestleb telefoniga või on süvenenud millessegi autos. Auto uks on avatud, pakkudes vaate lumisele ja puudega kaetud talvisele maastikule halli pilvise taeva all. Teises kaadris on sama inimene just autost välja astumas, seljaga vaataja poole, kandes pikka khakivärvi talvemantlit ja tumedaid pükse, sammudes lumisele pinnale. Viimases kaadris on juhiiste tühi ja auto uks endiselt avatud, paljastades nüüd takistamatu vaate väljas olevale vaiksele, lumega kaetud maastikule, kus kauguses on näha vaid puud ja udused ehitiste kontuurid. Üldine atmosfäär on külm ja talvine.",
+      "actions": [
+        "Autos istumine",
+        "Autost välja astumine",
+        "Autost lahkumine"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Auto",
+        "Väljas",
+        "Külm",
+        "Lahkumine",
+        "Maastik",
+        "Tühi iste",
+        "Ukse avamine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor and outdoor",
+      "objects": [
+        "Auto",
+        "Rool",
+        "Juhiiste",
+        "Auto uks",
+        "Lumi",
+        "Puud",
+        "Müts",
+        "Jope",
+        "Mantel",
+        "Püksid",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#F0F2F3",
+        "#A6AFB5",
+        "#5B6A71",
+        "#272B2D",
+        "#1E1F21",
+        "#827E72",
+        "#6F7161",
+        "#3C4247"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Inimese asend ja tegevus autos: esimesel pildil istub inimene autos, teisel astub autost välja ja kolmandal on inimene autost lahkunud ning iste on tühi.",
+        "Autosisene vaade: juhiiste on algul hõivatud, seejärel pooltühi (inimene astub välja) ja lõpuks täiesti tühi, pakkudes selge vaate väljapoole."
+      ],
+      "snr": "058",
+      "ajad": [
+        "375.160",
+        "384.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvise maastiku taustal ühte meest, kes tegeleb fotograafiaga. Maapind on kaetud paksu lumekihiga, mis viitab talvele. Mees kannab tumedat talvejopet karvase kraega, musta mütsi ja kindaid. Tema peas on must müts, mis on sügavalt pähe tõmmatud. Stseen toimub väljas, ilmselt mahajäetud tööstus- või laohoonetega piirkonnas. Tagaplaanil on roostetanud metallvärav, mis on kaetud valge grafitiga. Värava kõrval on telliskivisein, millel esimesel pildil on näha valge plakat teksti 'PATAREL' ja vertikaalsete mustade joontega. Teisel pildil on telliskiviseinal näha tänavasilt 'Kalaranna'. Mees hoiab käes musta kaamerat ja esimesel ning teisel pildil vaatab ta läbi kaamera pildistades. Kolmandal pildil on ta pööratud seljaga kaamera poole ja paistab eemalduvat. Kolmandal pildil on ka subtiiter 'I wanted to become a photographer'. Üldine toon on jahe ja summutatud, domineerivad valge, hall, pruun ja roostekarva toonid.",
+      "actions": [
+        "pildistamine",
+        "fotografeerimine",
+        "kaameraga poseerimine",
+        "kõndimine",
+        "vaatamine läbi kaamera pildinäidiku"
+      ],
+      "keywords": [
+        "fotograafia",
+        "talv",
+        "lumi",
+        "linnaruum",
+        "graffiti",
+        "kaamera",
+        "mees",
+        "mahajäetud",
+        "külm",
+        "rooste"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "kaamera",
+        "talvejope",
+        "müts",
+        "kindad",
+        "lumi",
+        "roostes metallvärav",
+        "graffiti",
+        "telliskivisein",
+        "plakat",
+        "tänavasilt",
+        "hooned"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#4A4A4A",
+        "#8B4513",
+        "#A9A9A9",
+        "#D3D3D3"
+      ],
+      "texts": [
+        "PATAREL",
+        "Kalaranna",
+        "I wanted to become a photographer",
+        "graffiti"
+      ],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaamera asend ja fookus erinevad kaadrite vahel – esimesel pildil hoiab mees kaamerat veidi allpool, teisel vaatab läbi pildinäidiku ja kolmandal on kaamera rippus või käes ning mees on seljaga. ",
+        "Erinevad tekstiplokid on nähtaval: esimesel pildil on seinaplakatil 'PATAREL', teisel pildil on tänavasilt 'Kalaranna' ja kolmandal pildil on subtiiter 'I wanted to become a photographer'.",
+        "Mees on erinevas poosis ja suunaga – esimesel pildil on ta kergelt küljega, teisel vaatab läbi kaamera ja kolmandal on ta seljaga eemaldumas."
+      ],
+      "snr": "059",
+      "ajad": [
+        "384.040",
+        "398.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort meest, kes kõnnib lumisel rajal välitingimustes talvisel päeval. Mees on keskel kaadris ja vaatab kaamerast paremale, rääkides. Tal on seljas tume soe talveparka karvase kapuutsiäärega, peas must müts ja käes mustad kindad. Tema vasakul küljel kulgeb mööda rada metallist piirdeaed, mis eraldab jalutustee lumistest kuhjadest ja võimalikust ehitus- või mullatööde alast. Tagaplaanil on näha lume all olevaid puid ja teisi, kaugemaid inimesi kõndimas samal rajal. Üldine atmosfäär on hall ja pilvine, viidates külmale talveilmale.",
+      "actions": [
+        "Kõndimine",
+        "Rääkimine",
+        "Käega žestikuleerimine"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Noormees",
+        "Vestlus",
+        "Jalutuskäik",
+        "Väljas",
+        "Hall ilm",
+        "Aiapiire",
+        "Külm",
+        "Linnalähine maastik"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Talveparka",
+        "Müts",
+        "Kindad",
+        "Lumi",
+        "Metallist aiapiire",
+        "Puud",
+        "Elektriliini postid",
+        "Teised inimesed (kauguses)",
+        "Hooned (kauguses, ähmaselt)",
+        "Tee"
+      ],
+      "colorcodes": [
+        "#4e4840",
+        "#e0e6eb",
+        "#aabac4",
+        "#26211e",
+        "#736b5d",
+        "#b62220"
+      ],
+      "texts": [
+        "I wanted to become a photographer",
+        "but I realised when I tried photoshooting in clubs, portraits"
+      ],
+      "persons": [
+        "Noormees (eestpoolt, rääkimas)",
+        "Kaks inimest (tagantvaates, kauguses)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0-10",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub kaadrite vahel, edastades järjestikuseid lauseid.",
+        "Noormehe parema käe asend muutub veidi, viidates liikumisele ja žestikuleerimisele rääkimise ajal."
+      ],
+      "snr": "060",
+      "ajad": [
+        "398.280",
+        "404.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte noort meest õues, kes on asetatud roostepruuni ja graffitiga kaetud metallukse või seina ette. Vasakpoolsel mehel, kellel on tume soeng ja habe, on silmade ees lai valge pael, mis toimib silmaklapina. Ta kannab pruunikat või oliivrohelist paksu jopet ja tema näole on ilmunud kerge naeratus. Parempoolne mees, kes kannab musta mütsi ja paksu karusnahast kraega jopet, ulatub vasakpoolse mehe poole, reguleerides või sidudes silmaklapi paela. Tema pilk on suunatud vasakpoolse mehe poole. Taustaks oleval uksel on näha ka valget paberilehte ja ümmargust punase piirjoonega keelumärki, millel on kujutatud sõiduk. Vasakul ääres on näha ka heledast tellisest seina. Alumises osas on näha ingliskeelsed subtiitrid. Kogu stseen viitab jahedale ilmale ja päevale.",
+      "actions": [
+        "Silmaklapi sidumine",
+        "Silmaklapi reguleerimine",
+        "Paigalseis",
+        "Naeratamine",
+        "Rääkimine (subtiitrite järgi)"
+      ],
+      "keywords": [
+        "Silmaklapid",
+        "Pimedus",
+        "Graffit",
+        "Tänav",
+        "Talv",
+        "Noored mehed",
+        "Joped",
+        "Portree",
+        "Väljas",
+        "Fotograafia"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Valge silmaklapp/pael",
+        "Metalluks/sein",
+        "Graffiti",
+        "Paberileht/plakat",
+        "Keelumärk",
+        "Tellissein",
+        "Subtiitrid",
+        "Joped",
+        "Müts"
+      ],
+      "colorcodes": [
+        "#704F36",
+        "#FFFFFF",
+        "#3A3A3A",
+        "#8B7A60",
+        "#FF0000",
+        "#FFFF00",
+        "#D4D4D4"
+      ],
+      "texts": [
+        "but I realised when I tried photoshooting in clubs, portraits",
+        "VÄRNA VÄLJA EZZE M",
+        "illegible text on poster and graffiti"
+      ],
+      "persons": [
+        "Kaks noort meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Parempoolse mehe käte asend silmaklapi reguleerimisel muutub kergelt kaadrite vahel.",
+        "Parempoolse mehe pea asend ja näoilme varieeruvad pisut.",
+        "Vasakpoolse mehe näoilme ja naeratuse intensiivsus muutub kaadrite vahel.",
+        "Subtiitrid jäävad kõikides kaadrites samaks."
+      ],
+      "snr": "061",
+      "ajad": [
+        "404.160",
+        "406.640"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub õues talvises keskkonnas, mille taustaks on tihedalt graffitiga kaetud tumepruun või roostes metallsein. Pildil on kaks inimest. Esiplaanil, seljaga vaataja poole, on tumeda mütsi ja paksu, heleda karvase kapuutsiservaga talvejopega isik. See inimene filmib teist tegelast musta videokaameraga. Teine isik, kes on suunaga kaamera poole, kannab pruuni või khaki värvi talvejopet ning hoiab käsi pea külgedel, nähtavasti kohandades või hoides oma silmade ees silmapaistvaid valgeid prille või silmakatet, millel on selgelt nähtav hõõguv V-kujuline või liblika motiivi meenutav disain. Üldine atmosfäär on külm ja võib-olla performatiivne, arvestades filmimist ja ebatavalisi prille. Subtiitrid viitavad raskusele või mittesobivusele. Taustal on näha ka valge piirdega märk, millel on keelav ring ja osaline tekst 'VÄRNA MITTE ETTE'.",
+      "actions": [
+        "Filmimine",
+        "Käed pea juures hoidmine/prillide kohandamine",
+        "Seismine"
+      ],
+      "keywords": [
+        "Talv",
+        "Graffiti",
+        "Väljas",
+        "Filmimine",
+        "Erilised prillid",
+        "Jope",
+        "Külm",
+        "Linnakeskkond",
+        "Performatiivne",
+        "Subtiitrid",
+        "Metallsein"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Video kaamera",
+        "Talvejope (pruun/khaki)",
+        "Talvejope (tume, karvase kapuutsiga)",
+        "Müts (tume)",
+        "Erilised prillid/silmakate (valge V-kujuline)",
+        "Metallsein",
+        "Graffiti",
+        "Märk (liiklus-/hoiatussilt)",
+        "Lumi (mütsil)"
+      ],
+      "colorcodes": [
+        "#40281F",
+        "#FFFFFF",
+        "#6B5B3C",
+        "#2C2C2C",
+        "#A51D1D"
+      ],
+      "texts": [
+        "I realised that it's too difficult and not for me.",
+        "VÄRNA MITTE ETTE",
+        "White graffiti text (unreadable)"
+      ],
+      "persons": [
+        "Üks isik, seljaga vaataja poole, tumedas mütsis ja karvase kapuutsiga jopes, filmib.",
+        "Üks isik, näoga kaamera poole, pruunis/khaki jopes, käed pea juures, kandes erilisi valgeid prille."
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esiplaanil oleva isiku käed ja hoiang: Esimesel ja teisel pildil on käed allpool või kaamera ei ole selgelt nähtav, kolmandal pildil hoiab isik selgelt kaamerat ja filmib.",
+        "Tagaplaanil oleva isiku käte asend: Käte asend pea juures varieerub veidi kaadrite vahel, esimene pilt näitab käsi veidi kõrgemal, kattes rohkem kõrvade piirkonda, samas kui teisel ja kolmandal on käed madalamal, templite piirkonnas."
+      ],
+      "snr": "062",
+      "ajad": [
+        "406.640",
+        "409.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort meest kõndimas õues lumerohkel talvepäeval. Ta kannab sooja tumepruuni või hallikaspruuni karusnahkse äärega kapuutsiga talvemantlit ja musta mütsi. Maapind on kaetud paksu lumekihiga. Mees räägib, väljendades mõtteid selle kohta, kuidas midagi on tema jaoks liiga raske ja mitte sobiv, kuid samas tõdedes, et talle meeldib seda endale teha ega ole professionaal, lõpetades positiivse noodiga \"Mulle meeldib!\". Taust varieerub kaadrite vahel: ühes kaadris on näha aiaga piiratud ala, mis meenutab ehitusplatsi, teistes on aga telliskivihoone ja mõned raagus põõsad või puud. Üldine õhkkond on jahe ja pilvine, kuid samas vestluslik ja mõtisklev.",
+      "actions": [
+        "Mees kõnnib",
+        "Mees räägib",
+        "Mees mõtiskleb"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Noormees",
+        "Mantel",
+        "Müts",
+        "Väljas",
+        "Jutuajamine",
+        "Mõtisklemine",
+        "Telliskivihoone",
+        "Aed"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Noormees",
+        "Talvemantel",
+        "Must müts",
+        "Karvane kapuutsi äär",
+        "Lumi",
+        "Tara/Aed",
+        "Telliskivihoone",
+        "Raagus puud/põõsad",
+        "Aken trellidega"
+      ],
+      "colorcodes": [
+        "#5C5D51",
+        "#000000",
+        "#E0E0E0",
+        "#B0B0B0",
+        "#B5A081",
+        "#7A7A7A"
+      ],
+      "texts": [
+        "I realised that it's too difficult and not for me.",
+        "I like to do this for myself.",
+        "I'm not really a professional.",
+        "I like it!"
+      ],
+      "persons": [
+        "Noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaamera nurk ja kaugus mehest ning fookuspunkt muutuvad kergelt kaadrite vahel, pakkudes erinevaid vaatenurki mehe näole ja taustale.",
+        "Esimene kaader näitab taustal avatumat, taraga piiratud ala, mis võib viidata ehitusplatsile, samas kui teised kaadrid keskenduvad telliskivihoonele ja paljastele põõsastele.",
+        "Mehe näoilme ja suu asend muutuvad vastavalt räägitavale tekstile, alates mõtlikust esimeses kaadris kuni entusiastlikumani viimases.",
+        "Igal kaadril on erinev subtiitrite tekst, mis edastab jutustuse järjepidevust."
+      ],
+      "snr": "063",
+      "ajad": [
+        "409.200",
+        "420.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist väliala, kus meesterahvas, seljas tume talveparka karvase kapuutsiäärega ja peas must müts, on keskendunud fotograafiale. Ta hoiab käes kaamerat ning on pööratud vaatajast veidi eemale, justkui sihtides oma objektiivi paremal asuvale maastikule või hoonele. Ümbrus on kaetud paksu lumekihiga, mis katab maad, teed ja hoonetevahelisi alasid. Vasakul on näha vana, kulunud fassaadiga hoone, millel on puitraamidega aknad ja telliskivist seinadetailid, andes stseenile rustikaalse ja ajahambast puretud ilme. Hoone seinal on näha ka ümmargune liiklusmärk numbriga '10'. Paremal paistab lumine tee või rada ning kaugemal teine, väiksem hoone ja valge kaubik. Taamal on näha paljaid, talviseid puid. Üldine õhkkond on jahe ja vaikne, iseloomulik hallile talvepäevale. Esimeses kaadris on näha ekraaniteksti \"I like it!\".",
+      "actions": [
+        "Pildistamine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Fotograafia",
+        "Väljas",
+        "Hoone",
+        "Mees",
+        "Kaamera",
+        "Külm",
+        "Hall",
+        "Lumemaastik"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Kaamera",
+        "Must müts",
+        "Talveparka",
+        "Lumi",
+        "Vana hoone",
+        "Puitaknad",
+        "Lumine tee",
+        "Kaubik",
+        "Puud",
+        "Märk '10'"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#505555",
+        "#202020",
+        "#A0A090",
+        "#B0B0B0",
+        "#608070",
+        "#E0E0E0"
+      ],
+      "texts": [
+        "I like it!",
+        "10"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris on näha subtiitrid \"I like it!\", mis järgmistest kaadritest puuduvad.",
+        "Järgmised kaadrid on veidi sisse suumitud, pakkudes subjektist lähema vaate."
+      ],
+      "snr": "064",
+      "ajad": [
+        "420.760",
+        "426.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tänavakunsti teost heledal telliskiviseinal, mille ees on lumega kaetud maa. Graffiti on hallides, mustades ja valgetes toonides siil, kes istub puutüve otsas ja kasutab musta sülearvutit. Sülearvutil on kaanel äratuntav punane logo, mis meenutab õuna. Siilil on ühes kõrvas väike punane kõrvaklapp. Telliskivisein on kulunud välimusega, helehalli või beeži varjundiga ning sellel on mõned punakaspruunid plekid siili kohal. Maa on ühtlaselt kaetud valge lumekihiga, millest siin-seal paistab läbi üksikuid tumedaid kõrrekesi. Üldine valgus loob öise või õhtuse atmosfääri.",
+      "actions": [
+        "Siil kasutab sülearvutit"
+      ],
+      "keywords": [
+        "tänavakunst",
+        "graffiti",
+        "siil",
+        "sülearvuti",
+        "lumi",
+        "talv",
+        "telliskivisein",
+        "stencil art",
+        "öö",
+        "arvutikasutaja",
+        "punane logo",
+        "puutüvi"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "graffiti",
+        "siil (graffitina)",
+        "sülearvuti (graffitina)",
+        "puutüvi (graffitina)",
+        "telliskivisein",
+        "lumi",
+        "rohi",
+        "punane kõrvaklapp"
+      ],
+      "colorcodes": [
+        "#C7C6C6",
+        "#E7ECEC",
+        "#282828",
+        "#E81A1A",
+        "#A0A0A0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Punase kõrvaklapi nähtavus ja täpsus siili kõrvas varieerub veidi piltide vahel, olles kohati selgem ja kohati pisut udusem."
+      ],
+      "snr": "065",
+      "ajad": [
+        "426.520",
+        "429.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist väliskeskkonda, kus inimene seisab lumisel tänaval ja vaatleb või jäädvustab pilti ehitusplatsist. Kesksel kohal on musta mütsi ja paksu karvase kraega talvejopega inimene, kelle näoprofiil on osaliselt nähtav esimesel pildil ning teisel pildil on ta seljaga kaamera poole. Ta hoiab käes digitaalset seadet, tõenäoliselt kaamerat või nutitelefoni, ja on süvenenud tegevusse. Maa on kaetud paksu lumekihiga, millel on näha rehvijälgi ja jalajälgi. Taamal asub ehitusplats, kus seisavad suured kollased ekskavaatorid ja oranž teerull. Ehitusala on piiratud lihtsate metallist taradega. Tagaplaanil paistavad hoonete siluetid ja raagus puud, mis rõhutavad talveaega. Taevas on pilvine ja hall, mis annab stseenile jaheda ja karge ilme.",
+      "actions": [
+        "hoiab käes digitaalset seadet",
+        "vaatab ekraani",
+        "suunab seadet ehitusplatsi poole",
+        "seisab lumisel tänaval"
+      ],
+      "keywords": [
+        "talv",
+        "lumi",
+        "ehitusplats",
+        "ekskavaator",
+        "teerull",
+        "külm",
+        "kaamera",
+        "linnaruum",
+        "raagus puud",
+        "pilvine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "inimene",
+        "müts",
+        "talvejope",
+        "karvane krae",
+        "kindad",
+        "kaamera/digitaalne seade",
+        "lumi",
+        "tänav",
+        "rehvijäljed",
+        "jalajäljed",
+        "ehitusplats",
+        "ekskavaatorid",
+        "teerull",
+        "ehitustara",
+        "hooned",
+        "puud",
+        "taevas"
+      ],
+      "colorcodes": [
+        "#E3E3E3",
+        "#5A5A55",
+        "#1A1A1A",
+        "#F5C600",
+        "#DC3D00",
+        "#BCC3C8"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on inimene näoga veidi kaamera poole ja vaatab käes oleva seadme ekraani, pakkudes külgvaadet tema näoprofiilist. Teisel pildil on inimene seljaga kaamera poole ja hoiab seadet kõrgemal, suunates seda otse ehitusplatsile, andes aimu, et ta pildistab või filmib stseeni. Taustal olev ehitusplats on teisel pildil veidi laiemalt ja terviklikumalt näha."
+      ],
+      "snr": "066",
+      "ajad": [
+        "429.720",
+        "433.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist ehitusplatsi, kus maapind on kaetud paksu lumekihiga. Kaks töölist liiguvad läbi lumise maastiku, liikudes vasakult paremale üle kaadri. Mõlemad töölised kannavad oranže turvaveste tumedate tööriiete peal ja neil on jalas paksud talvesaapad. Üks töölistest veab järel halli tünnikujulist eset, mis on nööriga ühendatud, tõmmates seda mööda lund. Teine tööline kannab kaasas tööriistu ja seadmeid. Taustal on näha pooleliolevaid betoonkonstruktsioonidega hooneid, kuhjatud lumemägesid ja ehitusmaterjale. Ehitusplats on piiratud aiaga ja maapinnal on näha varasema tegevuse jälgi lumel. Üldine õhkkond on külm ja töine.",
+      "actions": [
+        "Töölised kõnnivad lumes",
+        "Varustuse vedamine",
+        "Tööriistade kandmine",
+        "Ehitustööd (kaudselt)"
+      ],
+      "keywords": [
+        "Ehitusplats",
+        "Talv",
+        "Lumi",
+        "Töölised",
+        "Turvavestid",
+        "Külm",
+        "Objekt",
+        "Ehitus",
+        "Välitöö",
+        "Rasketehnika jäljed"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Lumi",
+        "Töölised",
+        "Oranžid turvavestid",
+        "Tööriided",
+        "Saapad",
+        "Hall tünnikujuline ese (troll/konteiner)",
+        "Nöör",
+        "Tööriistad",
+        "Ehitised (pooleliolevad)",
+        "Betoonkonstruktsioonid",
+        "Lumekuhjad",
+        "Aed",
+        "Kivid",
+        "Kollased kaablid/voolikud"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#FFA500",
+        "#36454F",
+        "#A9A9A9",
+        "#8B4513"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks töölist"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Töölised on piltide vahel liikumises, nihkudes vasakult paremale mööda lumist maapinda.",
+        "Nende asukohad kaadris on iga pildiga veidi muutunud, demonstreerides nende edasiliikumist ehitusplatsil."
+      ],
+      "snr": "067",
+      "ajad": [
+        "433.560",
+        "434.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist ehitusplatsi päeval, mis on täielikult kaetud lumega. Keskel kõnnivad kaks meest, kes on riietatud paksudesse töörõivastesse ja neil on seljas silmatorkavad oranžid ohutusvestid. Vasakpoolne mees veab enda järel halli silindrilist eset, mis näib olevat varustatud rataste või kelguga, mis aitab seda üle lume libistada. Parempoolne mees kannab vasakus käes mitmeid esemeid, mis sarnanevad tööriistade või tarvikutega, ja paremas käes kausta või tahvlit. Taustal on näha pooleliolevat ehitist või selle vundamenti, samuti suuri lume- või mullahunnikuid. Esiplaanil on näha piirdeaeda ja vasakul all kollast toru või kaablit, mis viitab käimasolevatele töödele. Õhk on külm ja maastik on talviselt lumine, pakkudes rasketes tingimustes töötamise tunnet.",
+      "actions": [
+        "Kõndimine lumes",
+        "Raske eseme vedamine",
+        "Tööriistade või tarvikute kandmine"
+      ],
+      "keywords": [
+        "Ehitusplats",
+        "Talv",
+        "Lumi",
+        "Töölised",
+        "Oranžid ohutusvestid",
+        "Külm",
+        "Transport",
+        "Ehitamine"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Lumi",
+        "Ehitusplats",
+        "Pooleliolev hoone",
+        "Kaks meest",
+        "Oranžid ohutusvestid",
+        "Töörõivad",
+        "Hall silindriline ese (ratastel/kelgul)",
+        "Tööriistad/tarvikud",
+        "Kaust/tahvel",
+        "Lumehunnikud",
+        "Piirdeaed",
+        "Kollane toru/kaabel"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#FFA500",
+        "#000000",
+        "#808080",
+        "#FFFF00",
+        "#A9A9A9"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks meest",
+        "Ehitustöölised"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on ülemises osas märkimisväärne must riba, mis teisel pildil puudub.",
+        "Meeste asend ja liikumine on piltide vahel edasi arenenud – teisel pildil on nad esimesest kaadrist mõned sammud edasi liikunud, mis annab edasi ajalist järjepidevust.",
+        "Teine pilt on pisut heledam ja detailid on selgemini eristatavad kui esimesel pildil."
+      ],
+      "snr": "068",
+      "ajad": [
+        "434.720",
+        "436.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes kõnnib talvises linnakeskkonnas. Maapind on kaetud paksu lumekihiga, mis näib olevat värskelt sadanud, ning puud on raagus, viidates külmale aastaajale. Isik kannab sooja, karusnahaga ääristatud kapuutsiga parkat ja tumedat mütsi. Stseen algab ehitusplatsi juurest, kus on näha mitmeid lumega kaetud raskeveokeid, sealhulgas kollane ekskavaator ja oranž teerull. Seejärel liigub isik edasi mööda lumist tänavat või teerada, millel on näha jälgi liikumisest, olgu need siis sõiduki- või jalajäljed. Tänava ääres on mitu hoonet – nii vanemad puitmajad kui ka kortermajad – ja piirdeaiad. Üldine õhkkond on vaikne, külm ja natuke kõle, iseloomulik hallile talvepäevale.",
+      "actions": [
+        "Kõndimine",
+        "Vaatamine (esimesel pildil)"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Ehitusplats",
+        "Tänav",
+        "Müts",
+        "Parka",
+        "Karusnahk",
+        "Rasketehnika",
+        "Ekskavaator",
+        "Teerull",
+        "Külm",
+        "Linnakeskkond",
+        "Hooned",
+        "Puud",
+        "Jäljed lumes"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Lumi",
+        "Parka",
+        "Müts",
+        "Ekskavaator",
+        "Teerull",
+        "Rasketehnika",
+        "Hoone",
+        "Maja",
+        "Puu",
+        "Tänav",
+        "Piirdeaed",
+        "Sõidujäljed",
+        "Kapuuts"
+      ],
+      "colorcodes": [
+        "#E0E0E0",
+        "#70655B",
+        "#1A1A1A",
+        "#FFC700",
+        "#D04A2A",
+        "#3A4B3A",
+        "#805A3B",
+        "#A0A0A0"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on isik näha külgvaates ja vaatab paremale, taustal ehitusplats rasketehnikaga.",
+        "Teisel ja kolmandal pildil on isik näha selja tagant, ta kõnnib mööda lumist tänavat.",
+        "Taust muutub ehitusplatsilt lumiseks tänavaks, mida ääristavad hooned ja puud.",
+        "Kolmandal pildil on selgemalt näha vanem puidust maja vasakul pool teed ning tänav on paremini nähtav."
+      ],
+      "snr": "069",
+      "ajad": [
+        "436.440",
+        "441.520"
+      ]
+    },
+    {
+      "explanation": "Stseen algab keskmise kaadriga mehest, kes seisab lumises ja külmas välikeskkonnas, mis näib olevat ehitusala. Ta kannab sooja tumedat talvejakki karvase kapuutsiäärega ja musta mütsi. Tema pilk on suunatud kaadrist paremale ja suu on kergelt avatud, justkui räägiks või reageeriks millelegi. Taustal on näha lumega kaetud kaevamised, piirdeaiad ja kaugemal ehitised. Kaadris paremal on punane ümmargune keelumärk. Pärast seda visuaalset stseeni tumeneb ekraan täielikult mustaks ja valgel dekoratiivsel kirjatüübil ilmuvad keskele filmikrediidid, mis identifitseerivad režissööri.",
+      "actions": [
+        "Mees räägib või reageerib",
+        "Tekst ilmub ekraanile"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Ehitusplats",
+        "Mees",
+        "Talveriided",
+        "Filmikrediidid",
+        "Režissöör",
+        "Külm",
+        "Välitingimused"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Lumi",
+        "Tara",
+        "Ehitusplats",
+        "Märk",
+        "Keelumärk",
+        "Ehitised",
+        "Jakk",
+        "Müts",
+        "Tekst",
+        "Must taust"
+      ],
+      "colorcodes": [
+        "#575656",
+        "#000000",
+        "#C71A1A",
+        "#FFFFFF",
+        "#E0E0E0",
+        "#BFBFBF"
+      ],
+      "texts": [
+        "DIRECTOR",
+        "BARIS DEMIR"
+      ],
+      "persons": [
+        "Mees",
+        "Baris Demir"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene osa kujutab reaalset inimest lumises välikeskkonnas, teine osa on mustal taustal olev tekst ekraanil.",
+        "Esimene osa on täis visuaalset infot ja tegevust, teine osa on staatiline krediidiekraan.",
+        "Valguse ja värvide osas on suur kontrast: esimene on hallikate toonidega päevane stseen, teine on must-valge tekst tumedal taustal."
+      ],
+      "snr": "070",
+      "ajad": [
+        "441.520",
+        "524.120"
+      ]
+    }
+  ]
+}

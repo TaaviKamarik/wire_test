@@ -1,0 +1,623 @@
+{
+  "film": [
+    "11592",
+    "11583",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Votka",
+    "875ecb35f415fdaafbaa32c7a2ad2014d72ddc0b.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen koosneb kolmest järjestikusest kaadrist. Esimene kaader on täiesti must ekraan, mis ei sisalda ühtegi objekti ega teksti. Järgmised kaks kaadrit on identsed: need kujutavad musta tausta, mille keskel on selge, valge ja suure tähega kirjutatud sõna \"Votka\". Tekst on paigutatud horisontaalselt keskele ja vertikaalselt samuti keskosa lähedale, luues minimalistliku ja otsekohese visuaali. Visuaal on puhas ja keskendub ainult tekstile ja selle taustale, luues potentsiaalselt pealkirja, sissejuhatuse või lühisõnumi efekti.",
+      "actions": [
+        "Teksti ilmumine ekraanile"
+      ],
+      "keywords": [
+        "must taust",
+        "valge tekst",
+        "Votka",
+        "pealkiri",
+        "minimalistlik",
+        "ekran",
+        "pimedus",
+        "kontrast"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Votka"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil puudub igasugune tekst või kujutis, olles täiesti must. Teisel ja kolmandal pildil on mustal taustal nähtav valge tekst \"Votka\".",
+        "Teine ja kolmas pilt on omavahel identsed, sisu poolest erinevad vaid esimesest pildist."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "4.638"
+      ]
+    },
+    {
+      "explanation": "Stseen algab musta taustaga, millel on keskel valge tekst \"Votka\", mis toimib pealkirjana või teemana. Seejärel siirdub stseen kollaažile või jagatud ekraanile, mis koosneb teralistest, desatureeritud fotodest. Ühel fotol on näha udune, heledajuukseline nägu, mis paistab naeratavat või naervat, ning teises osas on kujutatud noor inimene, kes istub puitsillal või kail seljaga vaataja poole, vaadates veekogu. Teises fotokompositsioonis, kusjuures vasakul pool on samuti domineeriv valge vertikaalne riba, on näha kolm tumedates riietes inimest tihedalt koos, võimalik et kallistamas või poseerimas. Taustal on näha aknale või trellidele sarnanevaid elemente. Kõik fotod on mustvalged või halltoonides, andes neile vanade mälestuste või nostalgilise meeleolu. Üldine esteetika on mõtisklev ja intiimne, keskendudes inimsuhetele ja möödunud hetkedele.",
+      "actions": [
+        "vaatamine",
+        "istumine",
+        "poseerimine",
+        "naeratamine/naermine"
+      ],
+      "keywords": [
+        "nostalgia",
+        "mälestused",
+        "vanad fotod",
+        "mustvalge",
+        "teraline",
+        "split-screen",
+        "noorus",
+        "sõprus",
+        "veekogu",
+        "tiitlikaart",
+        "intiimne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "veekogu",
+        "puitsild",
+        "kai",
+        "tumedad riided",
+        "aken",
+        "trellid",
+        "valge vertikaalne riba"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [
+        "Votka"
+      ],
+      "persons": [
+        "noor inimene",
+        "udune nägu",
+        "kolm inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Stseen algab puhta tekstikaardiga mustal taustal, seejärel järgnevad fotokollaažid.",
+        "Fotode sees on erinevad subjektid: üksikul moel esinevad inimesed (udune nägu, inimene vee ääres) ja grupipilt kolme inimesega.",
+        "Fotod on kõik sarnase teralise, desatureeritud ja vanade fotode stiiliga, kuid kujutavad erinevaid hetki ja asukohti."
+      ],
+      "snr": "002",
+      "ajad": [
+        "4.638",
+        "25.492"
+      ]
+    },
+    {
+      "explanation": "Stseen algab väliskeskkonnas või ukseavas toimuva rahvarohke kogunemisega, kus mitmed inimesed on tihedalt koos, luues elava ja võib-olla piduliku atmosfääri. Nende figuurid on osaliselt varjutatud ja ähmased, andes aimu suuremast seltskonnast. Seejärel siirdub tegevus siseruumi, mis on täis peojärgset segadust: laual või riiulil on rida tühje või peaaegu tühju MAXIMUS VODKA pudeleid, koos krõbisevate paberite ja tühja klaasiga. Taustal ripub seinal pildiraamiga foto, millel on näha meest ja veel üht ebaselget figuuri. Stseen kulmineerub intiimse lähivõttega noorest lokkis juustega mehest, kes istub diivanil ja vaatab mõtlikult oma käes olevat hõbedast sõrmust. Tema nägu peegeldab tõsidust ja sügavat mõtisklust, mis pakub teravat kontrasti eelneva kaootilise peojärgse olukorraga. Kogu stseen on esitatud mustvalgena, andes sellele ajatu ja melanhoolse tunde.",
+      "actions": [
+        "Kogunemine",
+        "Joomine",
+        "Mõtisklemine",
+        "Sõrmuse hoidmine",
+        "Diivanil istumine"
+      ],
+      "keywords": [
+        "Pidu",
+        "Kogunemine",
+        "Segadus",
+        "Alkohol",
+        "Mõtisklus",
+        "Sõrmus",
+        "Noormees",
+        "Mustvalge",
+        "Peojärgne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor and outdoor",
+      "objects": [
+        "MAXIMUS VODKA pudelid",
+        "Klaas",
+        "Krõbisevad paberid/pakendid",
+        "Pildiraam",
+        "Foto",
+        "Diivan",
+        "Padi",
+        "Sõrmus",
+        "Sein",
+        "Uks/Sammas",
+        "Hoone"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "MAXIMUS VODKA",
+        "MAXIMUS"
+      ],
+      "persons": [
+        "Noormees",
+        "Rahvahulk/Inimesed",
+        "Mees fotol",
+        "Teine inimene fotol"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader näitab rahvarohket väliskogunemist või ukseava stseeni, kus inimesed on tihedalt koos ja osaliselt varjutatud.",
+        "Teine kaader kujutab peojärgset siseruumi, mis on täis tühje alkoholpudeleid ja segadust. Kaadri keskel on pildiraamis foto, kus on kujutatud meest ja teist inimest.",
+        "Kolmas kaader keskendub ühele noorele mehele, kes istub diivanil ja hoiab käes sõrmust, olles sügavalt mõtlik. See on lähivõte ja fookus on isiklikul momendil.",
+        "Kaadrite miljöö ja fookus erinevad dramaatiliselt: avalik kogunemine, kaootiline sisekeskkond ja intiimne isiklik hetk."
+      ],
+      "snr": "003",
+      "ajad": [
+        "25.492",
+        "82.849"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt modernset ust, mis on disainitud vertikaalsete vahelduvate paneelidega. Suurem osa ukse pinnast on kaetud vahelduvate tumedamate ja heledamate hallide toonidega paneelidega, luues triibulise mustri. Paremal pool on uksepiit ja uksepaneelid on tumedamas hallis/mustas toonis, kus on selgelt näha hõbedane ukse käepide ja ümar ukselukk. Kogu pilt on monokroomne, kus domineerivad erinevad halli toonid mustast valgeni, andes stseenile minimalistliku ja kaasaegse ilme. Uks on suletud ja pilt on tehtud siseruumides.",
+      "actions": [],
+      "keywords": [
+        "uks",
+        "modernne",
+        "triibuline",
+        "halltoonid",
+        "mustvalge",
+        "uksekäepide",
+        "ukselukk",
+        "interjöör",
+        "minimalistlik",
+        "paneelid",
+        "suletud",
+        "dekoor"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "uks",
+        "uksepaneelid",
+        "ukselink",
+        "ukselukk",
+        "uksepiit"
+      ],
+      "colorcodes": [
+        "#2F2F2F",
+        "#EEEEEE",
+        "#666666"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on veidi pikslilisem või madalama kvaliteediga võrreldes teiste piltidega.",
+        "Teine ja kolmas pilt on visuaalselt teravamad ja selgemad, näidates sama stseeni parema resolutsiooniga."
+      ],
+      "snr": "004",
+      "ajad": [
+        "82.849",
+        "84.117"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort inimest istumas diivanil siseruumis, esialgu ilmega, mis viitab mõtlikkusele või ebamugavusele. Ta tõmbab oma tumeda, lahti nööbitud särgi kaelust ülespoole, vaadates esmalt otse ette ja seejärel mõtlikult alla. Tema juuksed on tumedad ja pisut sassis. Hiljem kaob inimene kaadrist, jättes fookuse diivanile ja sellel olevatele patjadele – ühele valgele rüüsiga padjale ja mitmele tumedamale mustrilisele padjale. Taustaks on ühtlane valge sein. Kogu stseen on mustvalge ja loob pisut melanhoolse või intiimse meeleolu.",
+      "actions": [
+        "Istub diivanil",
+        "Tõmbab särgikaelust üles",
+        "Vaatab ettepoole",
+        "Vaatab alla/paremale",
+        "Kadub kaadrist"
+      ],
+      "keywords": [
+        "Mõtlik",
+        "Rahutu",
+        "Diivan",
+        "Särgi kaelus",
+        "Mustvalge",
+        "Siseruum",
+        "Noor inimene",
+        "Ebamugavus",
+        "Isoleeritus",
+        "Padjad"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Diivan",
+        "Padjad",
+        "Särk",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#333333",
+        "#AAAAAA",
+        "#FFFFFF",
+        "#111111",
+        "#555555"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks noor inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses kaadris vaatab inimene otse ette, teises kaadris on pilk suunatud rohkem alla ja paremale.",
+        "Inimese näoilme muutub: esimeses kaadris on pilk intensiivsem ja otsesem, teises kaadris pisut leebem ja mõtlikum.",
+        "Kolmandas kaadris inimene puudub, kaamera fookus on nihkunud diivanile ja patjadele."
+      ],
+      "snr": "005",
+      "ajad": [
+        "84.117",
+        "88.355"
+      ]
+    },
+    {
+      "explanation": "Stseen algab suletud uksega, mis on jagatud vertikaalsete heledate paneelidega tumedal taustal. Ukse paremal pool on näha horisontaalne lingike, millest teise kaadri jooksul haaratakse. Kaader nihkub lähemale käele, mis pöörab lingist, andes märku ukse avamisest. Kolmandas kaadris on uks juba osaliselt avatud, paljastades selle taga kaks noort meest. Mehed seisavad kitsas koridoris või trepikojas, mille tagaplaanil on näha aken, millest paistab päevavalgus. Üks meestest, lühemate juustega, kannab tumedat T-särki ja vaatab otse ette, näoilme on veidi üllatunud või ootamatu. Teine mees, pikemate juustega, kannab heledat kapuutsi ja vaatab veidi ülespoole või paremale, mõtlikuma ilmega. Üldine toon on mustvalge, mis annab stseenile ajatu või retrohõngu. Tundub, et ukse avaja on neile ootamatult peale sattunud või neid leidnud.",
+      "actions": [
+        "Ukse avamine",
+        "Ukse lingist haaramine",
+        "Seismine koridoris",
+        "Vaatamine/pilgu heitmine"
+      ],
+      "keywords": [
+        "Uks",
+        "Ukselink",
+        "Noored mehed",
+        "Koridor",
+        "Hall",
+        "Siseruum",
+        "Mustvalge",
+        "Kohtumine",
+        "Üllatus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Uks",
+        "Ukselink",
+        "Ukseraam",
+        "Sein",
+        "Koridor",
+        "Aken",
+        "T-särk",
+        "Kapuutsiga pusa"
+      ],
+      "colorcodes": [
+        "grayscale"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks noort meest",
+        "Ukse avaja (käsi nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt näitab suletud ust vertikaalsete paneelidega ja ukse lingiga.",
+        "Teine pilt keskendub käele, mis haarab ukse lingist, näidates tegevust ust avada.",
+        "Kolmas pilt kujutab avatud ust, mille tagant ilmuvad kaks noort meest koridoris, taustal on näha aken ja osa interjöörist."
+      ],
+      "snr": "006",
+      "ajad": [
+        "88.355",
+        "91.625"
+      ]
+    },
+    {
+      "explanation": "Stseen on mustvalge ja kujutab siseruumis kolme inimest. Esiplaanil on näha kahe inimese seljad, mis on suunatud kaamera poole. Ühel neist, kes asub paremal, on käes läbipaistev klaaspudel, mis on osaliselt kaetud fooliumi või paberiga ning millel on näha etiketi osa. See inimene kannab heledat, ilmselt kootud, rõivast (kampsunit või kardigani). Teine inimene esiplaani vasakul on samuti seljaga kaamera poole ja tal on pikemad juuksed. Tagaplaanil, avatud ukseavas, seisab noormees tumeda särgi ja tumedate juustega. Ta vaatab otse esiplaani tegelaste poole, tema ilme on tõsine või jälgiv. Ukseava taga on näha avatud riidekappi või garderoobi, kus ripuvad riidepuud, mis annab märku kodusest keskkonnast. Üldine õhkkond on vaoshoitud ja jälgiv, noormehe pilk viitab, et ta on tunnistajaks mingile olukorrale, milles pudel etendab rolli.",
+      "actions": [
+        "Jälgimine",
+        "Vaatamine",
+        "Pudeli hoidmine",
+        "Seismine"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Siseruum",
+        "Kolm inimest",
+        "Pudel",
+        "Uks",
+        "Jälgimine",
+        "Olukord",
+        "Kodu",
+        "Noormees",
+        "Tagantvaade"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Pudel",
+        "Käsi",
+        "Uks",
+        "Särk",
+        "Riidepuud",
+        "Riidekapp",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Tekst pudelil (ebaselge)"
+      ],
+      "persons": [
+        "Noormees",
+        "Inimene (tagantvaates)",
+        "Inimene (tagantvaates, pudeliga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teine pilt on lähivõte käest ja pudelist, pakkudes detailsemat vaadet sellele objektile ja tegevusele.",
+        "Esimene ja kolmas pilt on stseenist peaaegu identsed kaadrid, kuid kolmandal pildil on kontrast pisut pehmem või kaadreering minimaalselt muutunud."
+      ],
+      "snr": "007",
+      "ajad": [
+        "91.625",
+        "96.430"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte noort meest siseruumides, tõenäoliselt valgusküllases koridoris või ukseavas. Vasakul pool on näha ukse käepide ja uks ning paremal pool taustal trepikäik. Kogu stseen on mustvalge. Algselt seisavad mehed kaamera poole suunatud pilguga, üks tumedas T-särgis ja lühemate juustega, teine heledas kapuutsiga pusa ja pikemate juustega. Pikemate juustega mees toetab käe teise mehe õlale, luues sõbraliku või juhusliku interaktsiooni. Järgmistes kaadrites liigub fookus meestele lähemale, kujutades nende ülakehasid ja näidates tegevuse või kaamera liikumisest tingitud kerget hägusust. Üldine meeleolu on spontaanne ja dokumentaalne.",
+      "actions": [
+        "Seismine",
+        "Vaatamine kaamera poole",
+        "Käe asetamine teise isiku õlale",
+        "Objekti hoidmine käes (esimesel pildil)"
+      ],
+      "keywords": [
+        "Noored mehed",
+        "Koridor",
+        "Siseruumid",
+        "Mustvalge",
+        "Uks",
+        "Trepikäik",
+        "Juhuslik",
+        "Interaktsioon",
+        "Sõprus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Uks",
+        "Uksekäepide",
+        "Sein",
+        "Trepikäik",
+        "Trepipiire",
+        "Kapuutsiga pusa",
+        "T-särk",
+        "Kätega hoitav ese (võimalik telefon või väike pudel)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (lühemate tumedate juustega, tumedas T-särgis)",
+        "Mees (pikemate juustega, heledas kapuutsiga pusa)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaamera liigub kaugvõttest (medium shot) lähivõtte poole (medium close-up).",
+        "Meeste kehaasendid ja fookuspunkt kaadrites muutuvad, alguses on mõlemad mehed selgelt nähtavad, hiljem fookus nihkub või üks mees liigub kaadrist välja.",
+        "Teisel ja kolmandal pildil esineb rohkem liikumishägu või pikslilisust, mis viitab kas kiiremale liikumisele või madalamale resolutsioonile."
+      ],
+      "snr": "008",
+      "ajad": [
+        "96.430",
+        "100.834"
+      ]
+    },
+    {
+      "explanation": "Stseen algab, kus mees liigub seljaga kaamera poole toast välja või sügavamale tuppa. Tema taga, ukseavasse ilmub naine, kes piilub kaamera poole. Mees kaob kaadrist, ja naine astub ukseavasse, hoides ukse raami. Ta vaatab otse kaamerasse pingsa või tõsise ilmega. Tema taga on näha riidekapp riidepuudega riidepuul ja kokkuvolditud riietega riiulitel. Seejärel sulgeb naine ukse, jättes nähtavale vaid kitsa prao. Kogu stseen on mustvalge.",
+      "actions": [
+        "Mees liigub toast välja/sisse",
+        "Naine piilub ukseavast",
+        "Naine astub ukseavasse",
+        "Naine vaatab kaamerasse",
+        "Naine sulgeb ukse"
+      ],
+      "keywords": [
+        "Ukseava",
+        "uks",
+        "sisenemine",
+        "lahkumine",
+        "inimesed",
+        "riidekapp",
+        "mustvalge",
+        "pilk",
+        "tõsidus",
+        "peitmine",
+        "kaamerasse vaatamine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Uks (puidust raamiga ja vertikaalsete klaaspaneelidega)",
+        "Riidepuud",
+        "Riiulid",
+        "Riided (volditud)",
+        "Seinad",
+        "Ukseraam"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#808080",
+        "#333333",
+        "#CCCCCC"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha kaks inimest ukseavas, mees seljaga kaamera poole ja naine piilumas. Teisel pildil on mees kaadrist lahkunud ja naine seisab üksi ukseavas, vaadates otse kaamerasse. Kolmandal pildil on naine kadunud ja uks on peaaegu täielikult suletud.",
+        "Ukse asend muutub avatust peaaegu suletuks.",
+        "Inimeste arv ja positsioon kaadris muutub kaadrite jooksul."
+      ],
+      "snr": "009",
+      "ajad": [
+        "100.834",
+        "104.071"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mustvalges pildikeeles noort inimest mitmes erinevas emotsionaalses ja tegevuslikus olukorras. Alguses on näha kätt, mis on ukse lingil, avamas või sulgemas ust siseruumis. Seejärel näeme sama noort inimest sügavates mõtetes või murelikuna, käsi toetamas tema põske ja pilk suunatud allapoole. Tema näoilme on melanhoolne, kajastades sisemist introspektsiooni. Hiljem on noor inimene profiilis, hoides käes väikest läikivat metallist eset, mis meenutab võtit või tööriista tükki, ning uurib seda hoolikalt tekstuuriga heleda seina taustal. Tema taga on näha teise isiku käsi, mis annab mõista teise inimese kohalolekust või toetusest. Kogu stseen on dramaatilise valgustusega, rõhutades stseeni emotsionaalset kaalu.",
+      "actions": [
+        "Ukse avamine/sulgemine",
+        "Mõtisklemine",
+        "Käe toetamine põsele",
+        "Esme hoidmine",
+        "Esme uurimine"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Noor mees",
+        "Mõtlikkus",
+        "Uks",
+        "Ukselink",
+        "Metallese",
+        "Siseruum",
+        "Emotsionaalne",
+        "Introspektsioon",
+        "Draama"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Uks",
+        "Ukselink",
+        "Käsi",
+        "Noor mees",
+        "Metallese",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#333333",
+        "#666666",
+        "#999999",
+        "#CCCCCC",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees",
+        "Teine isik (käsi)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinev fookus (uks, nägu, objekt)",
+        "Kaadrite tüübid on erinevad (lähivõte, keskmine lähivõte, keskmine võte)",
+        "Noore inimese poosid ja emotsioonid on erinevad",
+        "Ühel pildil on näha teise isiku käsi, teistel mitte"
+      ],
+      "snr": "010",
+      "ajad": [
+        "104.071",
+        "223.423"
+      ]
+    },
+    {
+      "explanation": "Stseen algab lähivaatega kätele, mis hoiavad kortsus ja kulunud mustvalget fotot. Fotol on näha mitme inimese nägusid, mis on aga foto halva seisukorra tõttu raskesti eristatavad. Seejärel liigub stseen siseruumi, mis näib olevat hämaralt valgustatud baar või lounge. Kolm meest istuvad tumedal diivanil või pingil vastu krobelist, heledat seina. Esialgu on üks meestest, tumedate lokkis juuste ja tumeda nööpidega särgiga, istumas suhteliselt sirgelt ja vaatab lauda. Tema vasakul pool on heledat dressipluusi kandev mees ettepoole vajunud, pea osaliselt varjatud. Paremal pool lebab kolmas mees, tumedas t-särgis, tugevalt diivanil, pea samuti alla vajunud. Laual on näha klaaspudel, mitu tühja või pooltühja klaasi ja võimalik, et tuhatoos, mis viitab joomisele. Õhkkond on väsinud või purjusolekust tingitud. Järgmises kaadris on esialgu sirgelt istunud mees osaliselt kaadrist välja liikunud paremale ning kaks diivanile jäänud meest on teineteise vastu veelgi tihedamalt vajunud, näib, nagu oleksid nad magama jäänud või uimased, nende pead peaaegu puudutamas. Kogu stseen on mustvalge, mis süvendab melanhoolset või sügavmõttelist meeleolu.",
+      "actions": [
+        "Foto hoidmine",
+        "Foto vaatamine",
+        "Istumine",
+        "Uimane olek",
+        "Tugunemine diivanile",
+        "Magamine/uinumine",
+        "Kaadrist lahkumine (osaliselt)"
+      ],
+      "keywords": [
+        "Mustvalge",
+        "Mälestus",
+        "Väsimus",
+        "Pohmell",
+        "Sõprus",
+        "Baar",
+        "Peojärgne",
+        "Nostalgia",
+        "Hämarus",
+        "Inimesed"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Foto",
+        "Käed",
+        "Diivan",
+        "Laud",
+        "Pudel",
+        "Klaasid",
+        "Sein",
+        "Dressipluus",
+        "Särk",
+        "T-särk"
+      ],
+      "colorcodes": [
+        "grayscale"
+      ],
+      "texts": [
+        "Coca-Cola"
+      ],
+      "persons": [
+        "Kolm meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Erinevus kaadrite vahel seisneb fookuse ja kompositsiooni muutuses: esimene kaader on lähivaade fotole ja kätele, samas kui järgmised kaadrid näitavad laiemat pilti inimestest ja nende ümbrusest. Lisaks muutub inimeste asend ja tegevus: algselt on üks meestest istumas sirgemalt ja vaatab lauda, hiljem on ta kaadrist osaliselt lahkunud ning kaks ülejäänud meest on teineteise vastu nõjatumise tõttu tihedamalt koos."
+      ],
+      "snr": "011",
+      "ajad": [
+        "223.423",
+        "251.651"
+      ]
+    }
+  ]
+}

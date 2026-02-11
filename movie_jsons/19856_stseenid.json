@@ -1,0 +1,2375 @@
+{
+  "film": [
+    "19856",
+    "19705",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Linnakorilased",
+    "bcd2e2538705efc2d5c9ec8ed0089cf23d120f30.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab öist linnaliiklust auto salongist vaadatuna, läbi tuuleklaasi, mis peegeldab ja murrab valgust. Pildil on näha lai tänav, mille ääres on mitmed hooned ja valgustatud poeketi sildid, näiteks H&M. Horisondi suunas paistavad tänavavalgustid, mis kiirgavad kollakasoranži valgust. Tuleklaasil on näha veetilku või kondensatsiooni, mis tekitavad hajutatud valgusefekte. Tänavast paremal asub pikk, modernne hoonekompleks, millel on palju aknaid ja sissepääse, mille kohal on valgustatud reklaamid. Keskel on näha suunaviitade komplekti, mis näitavad teed Viljandisse, Valgasse (E264) ja Võrru (E263), koos kaugust märkiva lisasildiga '200m' ja lennuki ikooniga. Vasakul on näha auto sisemust, sealhulgas osa roolist ja armatuurlauast, mis viitab sellele, et vaataja on sõidukis. Vasakul pool tänaval on näha ka muid kaupluste sümboleid, näiteks McDonald'si kuldseid kaari, ja kaugemal vasakul pool on teed valgustavad punased tuled, mis võivad viidata teisele ristmikule või valgusfooridele. Paremalt on näha ka teisi liiklusmärke, sealhulgas noolega märk, mis viitab edasisuunalisele pöördele. Üleüldiselt on stseen dünaamiline, täis linna ööelu valguseid ja varjudes peituvaid detaile.",
+      "actions": [
+        "Sõitmine (kaudselt viidatud vaatenurga ja teekirjeldusega)",
+        "Pööramine (viidatud suunaviitade ja tekstiga)"
+      ],
+      "keywords": [
+        "Öö",
+        "Linn",
+        "Liiklus",
+        "Tänav",
+        "Valgused",
+        "Autosalong",
+        "Suunaviidad",
+        "Reklaamid",
+        "Peegeldused"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Autosisu (rool, armatuurlaud)",
+        "Tuuleklaas",
+        "Tänav",
+        "Hoonekompleks",
+        "Suunaviit",
+        "Tänavavalgustid",
+        "Poereklaamid (H&M, McDonald's logo)",
+        "Valgusfoor (punane)",
+        "Liiklusmärgid",
+        "Autod (kauguses)",
+        "Pöörangumärk"
+      ],
+      "colorcodes": [
+        "#0C0D10",
+        "#F9B810",
+        "#FF0000",
+        "#FFFFFF",
+        "#8B8B8B",
+        "#2F3B4A"
+      ],
+      "texts": [
+        "VILJANDI",
+        "VALGA",
+        "VÕRU",
+        "E264",
+        "E263",
+        "32",
+        "200m",
+        "H&M",
+        "From here, turn right..."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Teisel pildil on lisatud valge tekst 'From here, turn right...' kaadri alaossa.",
+        "Kolmandal pildil on pilt veidi sisse suumitud või auto on liikunud edasi, mistõttu on vasakul asuvad liiklusküünlad ja reklaamid detailsemad ning keskel olevad suunaviidad paistavad suuremad."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "17.392"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab autot seestpoolt, vaadatuna tagumiselt istmelt juhi suunas. Pildil on näha öine autosõit linnas, kusjuures autot juhib naine. Tema punakaspruunid juuksed on krunni seotud ning ta kannab tumedat jopet, millel paistab olevat karvane krae või vooder. Naine hoiab mõlema käega auto roolist, millel on aimatav Volvo logo. Auto sisemus on üldiselt hämar ja tume, saades valgust peamiselt väljastpoolt linna udustest tänavatuledest, hoonetest ja valgustatud ekraanidest. Esiklaasi kaudu avaneb vaade öisele linnamaastikule. Tahavaatepeegli küljes ripuvad mitmed väikesed ornamendid ja armatuurlaual on näha nuppe. Ühel hetkel ilmub ekraanile ingliskeelne subtiiter. Stseen edastab rahuliku ja introspektiivse öise autosõidu meeleolu.",
+      "actions": [
+        "Sõidab autoga",
+        "Hoiab roolist"
+      ],
+      "keywords": [
+        "Autosõit",
+        "Öine linn",
+        "Autojuht",
+        "Volvo",
+        "Krunn",
+        "Jope",
+        "Pimedus",
+        "Linna tuled",
+        "Auto sisemus",
+        "Rool",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Auto",
+        "Rool",
+        "Tahavaatepeegel",
+        "Armatuurlaud",
+        "Linn",
+        "Hooned",
+        "Valgustid",
+        "Ornamendid",
+        "Iste",
+        "Juhiaken",
+        "Esiklaas"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#333333",
+        "#FFC107",
+        "#FF4500",
+        "#87CEEB",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "I've understood yeah...",
+        "Volvo"
+      ],
+      "persons": [
+        "Naine",
+        "Autojuht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Teisel pildil on näha inglisekeelne subtiiter \"I've understood yeah...\", mis esimesel pildil puudub.",
+        "Kaadri raamistik on teisel pildil veidi laiem, näidates pisut rohkem auto sisemust ja ümbrust."
+      ],
+      "snr": "002",
+      "ajad": [
+        "17.392",
+        "20.562"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist sõitu autoga, mis lõpeb peatumisega tanklas. Esimesel kaadril on näha auto interjöör pimedas, kus naine juhib sõidukit. Tema juuksed on krunnis ja tal on seljas tume jope, millel paistab olevat karvane krae. Auto salong on valgustatud tänavavalgustuse ja kaugemate tulede poolt, luues öise atmosfääri. Armatuurlaual ja roolil on näha auto sisemuse detaile, sealhulgas Volvo logo roolil. Pildil on ka ingliskeelsed subtiitrid \"...I've understood yeah...\", mis viitab käimasolevale vestlusele. Järgmised, identsed kaadrid viivad vaatepunkti väljapoole, näidates tumedat sedaani (võimalik, et sama auto) parklas tankla ees. Tankla on eredalt valgustatud valgete ja roheliste tuledega, mis paistavad teravalt silma pimedas öös. Ümberringi on näha tänavavalgusteid ja muid objekte kauguses, kinnitades, et tegevus toimub asustatud piirkonnas öisel ajal. Parkla on suhteliselt tühi, välja arvatud kujutatud autod ja kaugemal paistev hoone.",
+      "actions": [
+        "Autojuhtimine",
+        "Parkimine",
+        "Vestlemine (kaudselt)"
+      ],
+      "keywords": [
+        "Öine sõit",
+        "Tankla",
+        "Auto",
+        "Autojuht",
+        "Pimedus",
+        "Valgustus",
+        "Parkla",
+        "Linn"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Auto",
+        "Rool",
+        "Armatuurlaud",
+        "Tahavaatepeegel",
+        "Tankla katus",
+        "Kütusepumbad",
+        "Parkla",
+        "Tänavavalgustid",
+        "Hoone",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#0A0A0A",
+        "#FFFFFF",
+        "#00FF00",
+        "#FFD700",
+        "#36454F"
+      ],
+      "texts": [
+        "...I've understood yeah..."
+      ],
+      "persons": [
+        "Naine/Autojuht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt näitab auto interjööri ja juhti, samas kui teised kaks pilti on välisvaated tanklale ja parklale.",
+        "Vaatepunkt erineb: esimene pilt on autosisene, kas autojuhi või kaasreisija vaatepunktist, teised pildid on välised panoraamvaated.",
+        "Fookus erineb: esimene pilt keskendub inimesele ja autosisesele tegevusele koos subtiitritega, teised pildid keskenduvad laiemale keskkonnale (tankla, parkla, autod)."
+      ],
+      "snr": "003",
+      "ajad": [
+        "20.562",
+        "23.649"
+      ]
+    },
+    {
+      "explanation": "Piltidel on kujutatud öine stseen avaral asfalteeritud parkimisplatsil, mille taustal on eredalt valgustatud tankla. Esiplaanil paremal on parkimiskohale pargitud tume sedaan, mille katusel on selgelt näha katuseraamid. Selle taga, vasakule suunatud, paistab veel teinegi tume sõiduk. Parkimisplats on valgustatud mitme pikendatud postiga tänavalaterna poolt, heites valgust pinnale ja ümbrusele. Tankla varikatus on intensiivselt valge või roheka tooniga valgustatud, pakkudes kontrastiks ümbritsevale pimedusele. Bensiinipumbad on näha varikatuse all. Kaugemal, pimeduses, on aimatavad hoonekontuurid ja mõned puud, mis on lehtedeta, viidates jahedamale aastaajale. Üldine atmosfäär on vaikne ja rahulik, rõhutades ööpimedust ja kunstliku valguse saari.",
+      "actions": [],
+      "keywords": [
+        "öö",
+        "tankla",
+        "parkla",
+        "auto",
+        "sedaan",
+        "valgustatud",
+        "pime",
+        "tänavalaternad",
+        "katuseraamid",
+        "asfalt",
+        "vaikne"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "auto",
+        "sedaan",
+        "katuseraamid",
+        "tankla",
+        "bensiinipumbad",
+        "varikatus",
+        "tänavalaternad",
+        "parkla",
+        "asfalt",
+        "hooned",
+        "puud"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#e6ffe6",
+        "#fefefe",
+        "#1a1a1a",
+        "#4a4a4a"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [],
+      "snr": "004",
+      "ajad": [
+        "23.649",
+        "25.359"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest öisel ajal linnakeskkonnas, liikudes mööda teed tööstusliku või laopinna läheduses. Esimeses kaadris kõnnivad nad pimedal tänaval mööda tänavavalgustuspostist ja suurest hallist, vertikaalsete metallpaneelidega hoonest. Seejärel lähenevad nad suurematele rohelistele prügikastidele hoone küljel. Lõpuks on näha lähivaates üht inimest, kes uurib suurt sinist lahtist prügikasti. Prügikasti sees on valge kott värskete puu- ja juurviljadega, nagu õunad ja kurgid. Stseenis kuuleb teksti, kus keegi märgib, et õunad on ilusad, mis viitab toidu päästmisele või prügikastist toidu leidmisele.",
+      "actions": [
+        "Kõndimine",
+        "Liikumine prügikastide suunas",
+        "Prügikasti avamine",
+        "Prügikasti sisu uurimine",
+        "Puu- ja juurviljade vaatlemine",
+        "Kommenteerimine"
+      ],
+      "keywords": [
+        "Öö",
+        "Linnakeskkond",
+        "Pimedus",
+        "Prügikast",
+        "Toidu päästmine",
+        "Puuviljad",
+        "Juurviljad",
+        "Väljas",
+        "Inimesed"
+      ],
+      "shot_type": "not clear",
+      "placement": "outdoor",
+      "objects": [
+        "Kaks inimest",
+        "Tänavavalgustuspost",
+        "Hoone",
+        "Tee",
+        "Rohelised prügikastid",
+        "Sinine prügikast",
+        "Valge kott",
+        "Õunad",
+        "Kurgid",
+        "Seljakott",
+        "Puu- ja juurviljad"
+      ],
+      "colorcodes": [
+        "#343D43",
+        "#2E4F33",
+        "#0D0D0D",
+        "#F5F5F5",
+        "#B32F1A",
+        "#4A8C41",
+        "#E0E0A0"
+      ],
+      "texts": [
+        "These apples are beautiful."
+      ],
+      "persons": [
+        "Kaks naist"
+      ],
+      "imagetype": "real",
+      "emptypercent": 50,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kaamera asukoht ja võttenurk muutuvad kaadrite vahel, liikudes üldvaatest (long shot) detailsele lähivaatele (close-up).",
+        "Inimesed liiguvad esimesest kaadrist teise kaadri suunas prügikastide poole.",
+        "Esimeses kaadris on näha tänavavalgustusposti ja suurt halli hoonet, samas kui teises kaadris on rohkem esiplaanil rohelised prügikastid ja hoone alumine struktuur.",
+        "Kolmandas kaadris on selgelt näha prügikasti sisu – valge kott puu- ja juurviljadega, mis varasemates kaadrites ei olnud nähtav.",
+        "Tekst \"These apples are beautiful.\" ilmub vaid kolmandas, lähivaates kaadris."
+      ],
+      "snr": "005",
+      "ajad": [
+        "25.359",
+        "26.401"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämaralt valgustatud suurt, tumedat prügikasti või konteinerit, mis on täidetud märkimisväärse koguse värske väljanägemisega puu- ja köögiviljadega. Konteineri sees on näha suurt rohelist prügikotti. Kaadris on inimese käsi, mis on riietatud tumedasse kindasse ja katsub või valib prügikastist tooteid. Puu- ja köögiviljade hulgas on selgelt eristatavad punased ja rohelised õunad, pikad oranžid porgandid, rohelised kurgid, punakaspruunid nektariinid või virsikud ja mõned salatilehed. Valgus on nõrk ja näib tulevat ülalt, heites pikki varje ja luues intiimse, kuid samas kõleda atmosfääri. Stseen viitab toidu raiskamisele ja inimlikule tegevusele, mis hõlmab prügikastist elatise otsimist.",
+      "actions": [
+        "Prügikastist toidu valimine",
+        "Õuna käega katsumine/hoidmine",
+        "Prügikasti sisu uurimine"
+      ],
+      "keywords": [
+        "Prügikast",
+        "Toidu raiskamine",
+        "Prügist toidu otsimine",
+        "Värsked tooted",
+        "Öine tegevus",
+        "Konteiner",
+        "Õunad",
+        "Porgandid",
+        "Nektariinid",
+        "Kurgid",
+        "Salatilehed",
+        "Käsitsi sortimine",
+        "Hämarus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Prügikast",
+        "Roheline prügikott",
+        "Punased õunad",
+        "Rohelised õunad",
+        "Porgandid",
+        "Kurgid",
+        "Nektariinid",
+        "Salatilehed",
+        "Inimese käsi (kindas)",
+        "Võimalikud virsikud"
+      ],
+      "colorcodes": [
+        "#0F0F0F",
+        "#3A7340",
+        "#9B2D3A",
+        "#C84649",
+        "#67966A",
+        "#B66B2F",
+        "#E8E8E8"
+      ],
+      "texts": [
+        "These apples are beautiful.",
+        "Are those nectarines?"
+      ],
+      "persons": [
+        "Inimene (nähtav käsi)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil hoiab inimene käega punast õuna ja all on subtiiter “These apples are beautiful.”.",
+        "Teisel pildil on käsi liikunud sügavamale prügikasti ja subtiiter on “Are those nectarines?”.",
+        "Kolmandal pildil on käsi endiselt prügikasti sisus, kuid subtiitrid puuduvad.",
+        "Valguse suunamine ja toodete paigutus on kaadrite vahel veidi muutunud, näidates tegevuse jätkumist."
+      ],
+      "snr": "006",
+      "ajad": [
+        "26.401",
+        "41.583"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab suurt hulka värskeid puu- ja juurvilju, mis on kuhjatud tumeda prügikasti või konteineri sisse. Konteiner on seestpoolt vooderdatud rohelise kilekotiga. Näha on punaseid õunu, oranže porgandeid, tumerohelisi suvikõrvitsaid ning ka lehtköögivilju, mis meenutavad salatit või kapsast. Mõned viljad paistavad olevat heledamad, võimalikult banaanid või kollakad õunad. Enamik toiduaineid näib olevat hea kvaliteediga ja söödav, mis viitab toidu raiskamisele. Valgus langeb otse viljadele, jättes ümbruse ja konteineri servad pimedaks.",
+      "actions": [
+        "Toiduainete äraviskamine",
+        "Toiduainete kuhjamine prügikasti"
+      ],
+      "keywords": [
+        "Toiduraiskamine",
+        "Toidu ülejäägid",
+        "Prügikast",
+        "Prügikonteiner",
+        "Puuviljad",
+        "Juurviljad",
+        "Õunad",
+        "Porgandid",
+        "Suvikõrvitsad",
+        "Salat",
+        "Söödav toit",
+        "Pime",
+        "Roheline kilekott",
+        "Raiskamine",
+        "Tarbetu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Prügikast/konteiner",
+        "Roheline prügikott",
+        "Õunad",
+        "Porgandid",
+        "Suvikõrvitsad",
+        "Salatilehed/kapsas",
+        "Banaanid (võimalikud)",
+        "Väikesed sildid/etiketid"
+      ],
+      "colorcodes": [
+        "#8C0F10",
+        "#AE4F0F",
+        "#2B4729",
+        "#D2C19D",
+        "#0A0A0A"
+      ],
+      "texts": [
+        "not clear"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Pildid on peaaegu identsed, esineb väga minimaalseid kaameraasendi või heleduse nihkeid, mis on tõenäoliselt järjestikustest kaadritest.",
+        "Visuaalselt märkimisväärseid erinevusi ei ole."
+      ],
+      "snr": "007",
+      "ajad": [
+        "41.583",
+        "47.839"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist prügikorilust või toidu päästmist. Kaks inimest, tõenäoliselt naised, sorivad suures, tumedas välistingimustes asuvas prügikastis, mis on vooderdatud rohelise prügikotiga. Konteiner on täis suures osas tervet ja söödavat kraami, sealhulgas õunu, porgandeid, kurke, sibulaid ja muid puu- ning köögivilju. Üks inimestest kannab kindaid ja on aktiivselt konteinerisse kummardunud, hoides käes punast õuna, mis näib olevat heas korras. Teine inimene seisab prügikasti kõrval, jälgides tegevust. Stseenis valitseb hämar valgus, mis viitab öisele ajale, ning inimesed kannavad jopesid ja salle, mis annab märku jahedast ilmast. Tekstid ekraanil rõhutavad tegevuse olemust, viidates toidu „decent“ seisukorrale ja „linnakorilastele“.",
+      "actions": [
+        "Prügikorilus",
+        "Toidu päästmine prügikastist",
+        "Puuviljade ja köögiviljade sorteerimine",
+        "Esemete hoidmine",
+        "Vaatlemine"
+      ],
+      "keywords": [
+        "Prügikorilus",
+        "Dumpster diving",
+        "Toiduraiskamine",
+        "Toidu päästmine",
+        "Taaskasutus",
+        "Öine tegevus",
+        "Linnakeskkond",
+        "Säästlikkus",
+        "Hämarus",
+        "Puuviljad",
+        "Köögiviljad"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Prügikast",
+        "Roheline prügikott",
+        "Õunad",
+        "Porgandid",
+        "Kurgid",
+        "Sibulad",
+        "Sidrunid",
+        "Kindad",
+        "Joped",
+        "Scarf",
+        "Puu- ja köögiviljad"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#386c38",
+        "#bc2d2e",
+        "#e37e00",
+        "#335985",
+        "#ffe100"
+      ],
+      "texts": [
+        "But still decent.",
+        "Linnakorilased",
+        "CITY DIVERS."
+      ],
+      "persons": [
+        "Kaks inimest",
+        "Naine (prügikasti kohal)",
+        "Naine (seisab kõrval)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kaadri kaugus: Esimesed kaks kaadrit on lähivõtted prügikasti sisust ja tegevusest (käsi hoidmas õuna), kolmas kaader on laiem võte, mis näitab kahte inimest ja prügikasti tervikuna koos ümbrusega.",
+        "Teksti olemasolu: Esimesel kaadril puudub igasugune tekst. Teisel kaadril on näha ingliskeelne subtiiter \"But still decent.\". Kolmandal kaadril on lisaks eestikeelne pealkiri \"Linnakorilased\" ja ingliskeelne \"CITY DIVERS.\".",
+        "Inimeste nähtavus: Esimesel kaadril pole inimesi näha. Teisel kaadril on näha ühe inimese käsi kinnastega, mis hoiab õuna. Kolmandal kaadril on näha kaks inimest tervenisti, üks neist kummardunud prügikasti kohale ja teine seisab kõrval."
+      ],
+      "snr": "008",
+      "ajad": [
+        "47.839",
+        "49.091"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, kes uurivad õues pimedal ajal suurt tumedat prügikasti. Üks isik, kes on riietatud tumedasse kapuutsiga pusa ja salliga, ulatab käega prügikasti sisse, tõmmates sealt välja esemeid, mis näivad olevat puuviljad. Teine inimene, heledate juuste ja salliga jopet kandes, seisab tagapool ja vaatab samuti prügikasti sisse. Prügikasti kaas on avatud ja selle sees on näha prügikoti rohelist lainerit ning muid esemeid. Taustal on näha tumedat tänavat või kõnniteed ning hoone või aia piirjooni, valgustus on napp ja annab stseenile salapärase või intiimse tunde. Pildil on peal kollane tekst \"LINNAKORILASED\" ja valge tekst \"CITY DIVERS\".",
+      "actions": [
+        "Prügikastis sorimine",
+        "Esemete korjamine prügikastist",
+        "Prügikasti sisu uurimine",
+        "Valguse suunamine prügikasti sisule (võimalik, et esiplaanil oleva isiku taskulambi abil)"
+      ],
+      "keywords": [
+        "Öö",
+        "Prügikast",
+        "Korilus",
+        "Toiduraiskamine",
+        "Inimesed",
+        "Tänav",
+        "Pime",
+        "Keskkonnateadlikkus",
+        "Urban",
+        "Scavenging"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Prügikastid",
+        "Inimesed",
+        "Kapuutsiga pusa",
+        "Sallid",
+        "Jope",
+        "Puuviljad (õunad või sarnased)",
+        "Prügikott",
+        "Tänav/kõnnitee",
+        "Hooned/aed taustal",
+        "Valgusallikas"
+      ],
+      "colorcodes": [
+        "#FFFF00",
+        "#FFFFFF",
+        "#0E162B",
+        "#282828",
+        "#576F50",
+        "#D22B2B"
+      ],
+      "texts": [
+        "LINNAKORILASED",
+        "CITY DIVERS"
+      ],
+      "persons": [
+        "Kaks inimest",
+        "Isik kapuutsiga (esiplaanil)",
+        "Naine (tagapool)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "autumn",
+      "daytime": "night",
+      "differences": [
+        "Teksti \"LINNAKORILASED\" asukoht nihkub vertikaalselt piltide vahel.",
+        "Inimeste käte ja kehade asendid on mõnevõrra erinevad, viidates liikumisele või järjestikustele hetkedele.",
+        "Prügikasti sisu detailid ja esemete paigutus on kergelt muutunud, mis annab edasi tegevuse dünaamikat."
+      ],
+      "snr": "009",
+      "ajad": [
+        "49.091",
+        "56.598"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte noort naist öisel ajal õues prügikastide juures. Esiplaanil on üks naine tumedas kapuutsi ja kirju salliga, kes on kummardunud avatud prügikasti kohale, mille sees on roheline prügikott. Ta hoiab ühes käes midagi (võimalik, et toiduainet) ja valgustab prügikasti sisemust, ilmselt mobiiltelefoni taskulambiga. Tema seljas on näha seljakott. Teine naine seisab tema taga ja paremal, kandes sinist jakki ja salli ning vaatab samuti avatud prügikasti sisse. Prügikastides on näha mitmeid esemeid, sealhulgas punaseid õunu ja muid puuvilju. Taustal on näha teisi prügikaste ja tumedaid hooneid või aedasid. Üleval pildil on erekollane tekst 'LINNAKORILASED' ja all 'CITY DIVERS.', mis viitab tegevusele, mida nad parasjagu sooritavad.",
+      "actions": [
+        "Prügikastidesse vaatamine",
+        "Toiduainete otsimine",
+        "Prügikasti sisu valgustamine",
+        "Esmete kätte võtmine"
+      ],
+      "keywords": [
+        "Linnakorilased",
+        "Prügikastid",
+        "Öö",
+        "Toidu raiskamine",
+        "Linnaelu",
+        "Keskkond",
+        "Säästlikkus",
+        "Prügisukeldumine",
+        "Toidu päästmine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Prügikastid",
+        "Prügikott (roheline)",
+        "Õunad",
+        "Muud puuviljad",
+        "Kapuuts",
+        "Sallid",
+        "Jakk",
+        "Seljakott",
+        "Mobiiltelefon (oletatav valgusallikas)"
+      ],
+      "colorcodes": [
+        "#FFFF00",
+        "#222222",
+        "#66B266",
+        "#004080",
+        "#CC3333"
+      ],
+      "texts": [
+        "LINNAKORILASED",
+        "CITY DIVERS.",
+        "Take them with both hands..."
+      ],
+      "persons": [
+        "Kaks noort naist"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kolmandal pildil on lisandunud ingliskeelne subtiiter 'Take them with both hands...'."
+      ],
+      "snr": "010",
+      "ajad": [
+        "56.598",
+        "57.849"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte noort inimest öisel ajal õues, kes uurivad avalikke prügikaste. Vasakpoolne isik, riietatud tumedatesse talveriietesse (müts, jakk, sall), kummardub üle avatud prügikasti, sorib selle sisus ja otsib sealt midagi. Tema seljas on ka seljakott. Parempoolne isik, heledamate juuste ja sinise jopega, seisab püsti ja jälgib tegevust, aidates samuti prügikasti sisu üle vaadata. Kolmandal kaadril on selgelt näha, et vasakpoolne isik hoiab käes valgusallikat, näiteks taskulampi või telefoni valgust, mis valgustab prügikasti sisemust. Prügikastis on näha toiduaineid nagu õunad ja porgandid. Ümbrus on pime, vaid teekatte ja kaugemate hoonete kontuurid on vaevumärgatavad. Stseeni üldine meeleolu viitab tegevusele, mis on seotud toiduraiskamise ja taaskasutusega, tuntud ka kui linna korilus või prügisukeldumine.",
+      "actions": [
+        "Prügikastis sorimine",
+        "Toidu otsimine",
+        "Valgusallika hoidmine ja kasutamine",
+        "Vaatlemine",
+        "Vestlus (subtiitrite põhjal)"
+      ],
+      "keywords": [
+        "Öö",
+        "Prügikast",
+        "Toiduraiskamine",
+        "Linnaotsijad",
+        "Prügisukeldujad",
+        "Taaskasutus",
+        "Külm aastaaeg",
+        "Vaesus",
+        "Tänav"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Prügikastid (sinine ja roheline)",
+        "Prügikotid (rohelised)",
+        "Õunad",
+        "Porgandid",
+        "Valgusallikas (taskulamp/telefonivalgus)",
+        "Talveriided (müts, sall, jakk)",
+        "Seljakott",
+        "Asfalditee"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#2C4A73",
+        "#F4E81A",
+        "#4A6E4C",
+        "#C93E2B",
+        "#5A5A5A",
+        "#3D5A80"
+      ],
+      "texts": [
+        "LINNAKORILASED",
+        "Take them with both hands...",
+        "I'll show you the light."
+      ],
+      "persons": [
+        "Kaks noort inimest (üks naine, teine tumedates riietes isik)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "sügis/talv/varakevad",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on näha pealkiri 'LINNAKORILASED' ja esimene subtiiter 'Take them with both hands...'.",
+        "Teisel pildil on erinev subtiiter 'I'll show you the light.'.",
+        "Kolmandal pildil puuduvad tekstid ning vasakpoolse isiku käes on selgelt näha valgusallikas, mis valgustab prügikasti sisu. Valgustamise tegevus on kolmandal pildil kõige selgem."
+      ],
+      "snr": "011",
+      "ajad": [
+        "57.849",
+        "59.101"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist tegevust, kus kaks inimest on prügikastide juures, otsides sealt toitu. Üks inimene, kes on tumedamates riietes, kannab kapuutsi ja seljakotti ning sirutab käe suurde musta prügikasti, mis on täidetud rohelise prügikotiga, kus on näha värsket puu- ja juurvilja, eelkõige nektariine ja kurke. Teine inimene, heledamates riietes ja soenguga, hoiab taskulampi, valgustades prügikasti sisemust, et otsija saaks paremini näha. Tegemist on ilmselt toidu päästmisega äravisatud kauba hulgast. Mõlemad inimesed on keskendunud tegevusele, uurides prügikasti sisu. Taustal on näha teisi prügikaste ja tumedat öist linnakeskkonda, võimalik, et poe tagaala või tänav. Alapealkirjad annavad aimu leitud asjade väärtusest ja tegelaste reaktsioonist.",
+      "actions": [
+        "Prügikastist toidu otsimine",
+        "Taskulambiga prügikasti valgustamine",
+        "Puu- ja juurviljade sorteerimine ja korjamine",
+        "Kommunikatsioon leidude üle"
+      ],
+      "keywords": [
+        "Öö",
+        "Prügikast",
+        "Toidu raiskamine",
+        "Nektariinid",
+        "Toidu päästmine",
+        "Taskulamp",
+        "Värsked viljad",
+        "Linnaelu",
+        "Vaesus",
+        "Ressursisääst"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Prügikastid (suured, mustad ja sinised)",
+        "Roheline prügikoti vooder",
+        "Taskulamp",
+        "Nektariinid",
+        "Kurgid",
+        "Seljakott",
+        "Riided",
+        "Kapuuts",
+        "Sall",
+        "Asfalt / tee",
+        "Hoone sein (taustal)"
+      ],
+      "colorcodes": [
+        "#1C1C1C",
+        "#4CAF50",
+        "#FF5722",
+        "#FFFFFF",
+        "#3F51B5",
+        "#757575"
+      ],
+      "texts": [
+        "I haven't eaten nectarines in a long time.",
+        "Jeez, all of them are nectarines."
+      ],
+      "persons": [
+        "Kapuutsiga inimene (tumedates riietes)",
+        "Taskulampi hoidev inimene (heledamates riietes)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10-20",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt näitab mõlemat inimest selgemalt ja laiemalt, samal ajal kui teine ja kolmas pilt keskenduvad rohkem kapuutsiga inimesele ja prügikasti sisule.",
+        "Alapealkirjad ilmuvad teisel ja kolmandal pildil, andes juurde konteksti tegevusele.",
+        "Kaamera nurk muutub veidi teises ja kolmandas kaadris, lähemale ja madalamale vaatele."
+      ],
+      "snr": "012",
+      "ajad": [
+        "59.101",
+        "62.854"
+      ]
+    },
+    {
+      "explanation": "Pildiseeria kujutab hämaras valguses inimest, kes on kummardunud suure, tumeda prügikasti kohale. Inimene kannab tumedaid riideid, tumesinine kootud müts sarnane ese peas, siniseid kindaid ja värvilist, ilmselt kootud salli, millel on mitmevärvilised mustrid (näiteks roheline, kollane, punane, sinine). Prügikast on täidetud suure hulga värskelt välja nägevate puuviljadega, mis on peamiselt punased ja kollakasrohelised nektariinid või õunad. Inimene sorib prügikastis ja korjab puuvilju välja, asetades neid ilmselt mingisse rohelisse võrkkotti või sarnasesse anumasse, mis on osaliselt nähtav vasakul pildi servas. Stseeni valgustus on väga hämar, mis viitab kas öisele ajale või siseruumile, mis on halvasti valgustatud. Tagaplaanil on näha teisi prügikaste, mis on fookusest väljas. Üldine atmosfäär on tõsine ja viitab toidu raiskamisele või toidu hankimisele ebatavalisel viisil.",
+      "actions": [
+        "Prügikastis sorimine",
+        "Puuviljade korjamine",
+        "Puuviljade uurimine",
+        "Kummardumine",
+        "Kätega esemete haaramise liigutused"
+      ],
+      "keywords": [
+        "Prügikast",
+        "Toiduraiskamine",
+        "Nektariinid",
+        "Õunad",
+        "Korjamine",
+        "Öö",
+        "Hämarus",
+        "Käsitsi sortimine",
+        "Kinnastega käed",
+        "Vaesus",
+        "Sall"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Inimene",
+        "Prügikast (suur, tume)",
+        "Prügikastid (tagaplaanil, uksed avatud)",
+        "Nektariinid",
+        "Õunad",
+        "Kindad (sinised)",
+        "Sall (värviline)",
+        "Tumedad riided",
+        "Roheline võrkkott"
+      ],
+      "colorcodes": [
+        "#121516",
+        "#A4292B",
+        "#537C4C",
+        "#2F3841",
+        "#CFC5A2"
+      ],
+      "texts": [
+        "Jeez, all of them are nectarines."
+      ],
+      "persons": [
+        "Inimene (tundmatu)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on näha subtiitrid \"Jeez, all of them are nectarines.\", mis teistel piltidel puuduvad.",
+        "Isiku käte ja puuviljade asend prügikastis muutub piltide vahel, näidates tegevuse jätkumist. Esimesel pildil on käed sügavamal prügikastis, teisel pildil on näha, kuidas ta on puuvilju haarama hakkamas ja kolmandal pildil hoiab ta juba puuvilja käes.",
+        "Isiku pea asend muutub veidi, kui ta vaatab puuviljade poole.",
+        "Valgus langeb erinevalt puuviljadele ja isikule kaadrite vahel, mis annab dünaamika ja viitab kaamera liikumisele või aja möödumisele."
+      ],
+      "snr": "013",
+      "ajad": [
+        "62.854",
+        "85.377"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämaral õhtul või öösel inimest, kes kummardub suure musta prügikasti kohale ja korjab sealt välja mitmesuguseid puuvilju, peamiselt õunu ja virsikuid või nektariine. Inimene kannab tumedaid riideid, sh kapuutsi ja kirjut salli ning kindaid, mis viitab jahedamale ilmale või hügieenile. Prügikast on täidetud värskete puuviljadega, mis näivad olevat söödavad, mitte riknenud. Paremal on näha veel üks suur sinine prügikast. Valgus paistab otse prügikasti sisule, valgustades puuvilju eriti eredalt pimedas keskkonnas.",
+      "actions": [
+        "prügikastist toidu korjamine",
+        "õunte ja teiste puuviljade sorteerimine",
+        "kummardumine",
+        "prügikasti sisusse sirutamine"
+      ],
+      "keywords": [
+        "prügikast",
+        "toidu raiskamine",
+        "toidu päästmine",
+        "vaesus",
+        "öine",
+        "prügi",
+        "õunad",
+        "puuviljad",
+        "humanitaarkriis",
+        "öö",
+        "külmutamine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "inimene",
+        "prügikastid",
+        "õunad",
+        "virsikud/nektariinid",
+        "kurk",
+        "jakk",
+        "kapuuts",
+        "sall",
+        "kindad",
+        "prügikasti kaas"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#213155",
+        "#a32e2e",
+        "#d4d4d4",
+        "#336633",
+        "#6b5e54",
+        "#6f7f8f"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "inimese käe ja pea asendi minimaalne muutus",
+        "valgustus ja fookus on piltidel peaaegu identsed",
+        "kerge nihutus kaamera vaatenurgas"
+      ],
+      "snr": "014",
+      "ajad": [
+        "85.377",
+        "87.879"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist välitingimustes toimuvat tegevust, kus inimene otsib suures tumedas prügikastis toitu. Prügikast on täidetud üllatavalt suure hulga värskena näivate puuviljade (peamiselt õunad ja virsikud/nektariinid) ja lehtköögiviljadega (salat). Inimene on riietatud tumedatesse riietesse ja kannab salli, mis varjab suure osa tema näost. Ta on küürus prügikasti kohale ja sirutab käe selle sisemusse, et esemeid uurida või välja võtta. Taustal on näha tänavavalgusteid, teed ja paljaid puuoksi, mis viitavad hilissügisele või talvele.",
+      "actions": [
+        "Prügikastis sobramine",
+        "Mahavisatud toidu kogumine",
+        "Esmete uurimine prügikastist",
+        "Kummardumine"
+      ],
+      "keywords": [
+        "Prügikasti sukeldumine",
+        "Toidujäätmed",
+        "Vaesus",
+        "Öö",
+        "Prügikast",
+        "Puuviljad",
+        "Õunad",
+        "Välitingimustes",
+        "Linnaäärne",
+        "Nälg",
+        "Kuldkollane valgus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Prügikast",
+        "Inimene",
+        "Õunad",
+        "Virsikud/nektariinid",
+        "Salat (lehtköögiviljad)",
+        "Tumedad riided (jakk/pusa)",
+        "Sall",
+        "Tänavavalgustid",
+        "Tee/rada",
+        "Puuoksad",
+        "Sinine prügikast (taustal)"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#D62A2A",
+        "#336633",
+        "#F0F8DC",
+        "#665240",
+        "#FFFF00",
+        "#2F4F4F",
+        "#B0E0E6"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene (soo ebaselge)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "autumn",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader on kesklähivõte, mis näitab inimest sügavalt prügikasti ulatamas ja toiduvalikut selgemalt.",
+        "Teine kaader on laiem võte, mis hõlmab rohkem inimese ülakeha ja ümbritsevat öist keskkonda koos tänavavalgustite ja paljaste puuokstega.",
+        "Kolmas kaader on lähivõte, mis keskendub prügikasti sisule – puuviljadele ja rohelistele – ning inimese käele, mis valib esemeid."
+      ],
+      "snr": "015",
+      "ajad": [
+        "87.879",
+        "89.131"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes rügab pimedas suures mustas prügikastis, otsides ja korjates välja toidukaupu. Prügikasti põhjas on näha rohkelt terveid puuvilju ja köögivilju, sealhulgas punaseid ja rohelisi õunu, tomateid ning mõned rohelised lehtviljad (näiteks salat). Inimene kannab tumedaid riideid, pikki varrukaid ja kindaid, ulatades oma käe sügavale prügikasti. Stseen on valgustatud kitsa ja intensiivse valgusallikaga, mis annab eredat valgust vaid prügikasti sisemusele, jättes ümbruse pimedaks. Inimene hoiab ühte punast õuna käes, inspekteerides seda ilmselt kvaliteedi osas. Prügikastis on näha ka roheline kilekott.",
+      "actions": [
+        "prügikastist asjade välja korjamine",
+        "toidu päästmine",
+        "puuviljade valimine",
+        "õuna hoidmine",
+        "prügikastis sorimine"
+      ],
+      "keywords": [
+        "toidu raiskamine",
+        "prügikast",
+        "õunad",
+        "tomatid",
+        "taaskasutamine",
+        "vaesus",
+        "pimedus",
+        "öö",
+        "toidu päästmine",
+        "konteiner",
+        "dumpster diving"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "prügikast",
+        "õunad",
+        "tomatid",
+        "kilekott",
+        "kindad",
+        "lehtköögiviljad"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#b53831",
+        "#e44d34",
+        "#388448",
+        "#5f6162",
+        "#c9d877",
+        "#b8916d"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Isiku käe asend on muutunud: esimesel pildil sirutab ta kätt prügikasti sügavamale, teisel pildil hoiab käes ühte punast õuna."
+      ],
+      "snr": "016",
+      "ajad": [
+        "89.131",
+        "101.643"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes sirutab oma käed pimedas või hämaras keskkonnas asuvasse suurde tumedasse prügikonteinerisse või mahutisse. Konteiner on täidetud rikkaliku koguse puuviljadega, eelkõige punaste õunte ja nektariinidega, samuti roheliste õunte ja mõne muu toidujäägiga, nagu salatilehed. Suur osa puuviljadest näib olevat veel söödav, kuigi mõnel võivad olla kerged defektid. Inimene kannab tumedaid riideid ja halli värvi kindaid, mis viitab kas hügieenile või kaitsele külma eest. Valgusallikas (tõenäoliselt pealamp või taskulamp) valgustab otse konteineri sisu, jättes ümbritseva ala sügavalt pimedaks. Tegevus on keskendunud toidu, eelkõige puuviljade, päästmisele või otsimisele konteinerist.",
+      "actions": [
+        "Asjade otsimine",
+        "Puuviljade korjamine",
+        "Prügikastist asjade välja võtmine",
+        "Toidu päästmine",
+        "Konteinerisse küünitamine"
+      ],
+      "keywords": [
+        "Prügikast",
+        "Konteiner",
+        "Toit",
+        "Puuviljad",
+        "Õunad",
+        "Nektariinid",
+        "Prügikorjamine",
+        "Jäätmed",
+        "Söödav toit",
+        "Dunkerdamine",
+        "Hämar",
+        "Öö",
+        "Kindad",
+        "Ülejäägid",
+        "Valguskiir"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Käsi",
+        "Kindad",
+        "Prügikast",
+        "Konteiner",
+        "Õunad",
+        "Nektariinid",
+        "Salatilehed",
+        "Toidujäätmed"
+      ],
+      "colorcodes": [
+        "#121212",
+        "#822626",
+        "#D85151",
+        "#5C8C5C",
+        "#999999",
+        "#E8E8C0"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on parem käsi veel puuvilju haarama hakkamas, samal ajal kui vasak käsi on sügavamal konteineris.",
+        "Teisel pildil on parem käsi juba ühe punase puuvilja kohal ja hakkab seda haarama.",
+        "Kolmandal pildil on vasak käsi hoidmas ühte punast puuvilja, samal ajal kui parem käsi on valimas järgmist puuvilja sügavamalt konteinerist. Asendimuutused on minimaalsed ja näitavad tegevuse pidevust."
+      ],
+      "snr": "017",
+      "ajad": [
+        "101.643",
+        "102.894"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest öösel õues prügikastist toitu otsimas. Üks inimestest, tumedates riietes ja kapuutsiga, ulatab käe (hallis kindas) sügavale musta prügikasti sisse, kust ta korjab välja mitmesuguseid puu- ja köögivilju. Prügikast on täidetud visatud toiduainetega, sealhulgas punaste ja roheliste õunte, kapsalehtede, sibulate ja teiste riknemata välimusega toodetega, mis on segatud roheliste kilekottidega. Teine inimene, heledate juustega naine, seisab kõrval ja jälgib tegevust, kandes tumesinist jopet ja salli. Taust on pime, valgustatud vaid prügikasti sisu valgustava allika ja kaugemate tänavavalgustitega. Taustal on näha raagus puid, mis viitab külmale aastaajale. Stseen annab edasi meeleolu toiduraiskamisest ja ellujäämisvajadusest, kus inimesed otsivad toiduks kõlblikku kaupa prügikastidest.",
+      "actions": [
+        "Prügikastist toidu otsimine",
+        "Käega prügikasti sisse ulatamine",
+        "Puu- ja köögiviljade välja korjamine",
+        "Prügikasti sisu valgustamine (kaudselt)",
+        "Suhtlemine/vestlemine (kajastub subtiitris)"
+      ],
+      "keywords": [
+        "Prügikastis sorimine",
+        "Toidu päästmine",
+        "Öine tegevus",
+        "Vaesus",
+        "Üleliigne toit",
+        "Puuviljad",
+        "Köögiviljad",
+        "Jäägid",
+        "Ellujäämine",
+        "Toiduraiskamine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Must prügikast",
+        "Sinine prügikasti kaas",
+        "Punased õunad",
+        "Rohelised õunad",
+        "Kapsalehed",
+        "Sibulad",
+        "Muud puu- ja köögiviljad",
+        "Inimese käsi",
+        "Hall kinnas",
+        "Kapuutsiga riietus",
+        "Sall",
+        "Seljakott",
+        "Naine",
+        "Mehefiguur (oletatavalt)",
+        "Roheline kilekott",
+        "Raagus puud",
+        "Tänavavalgustus",
+        "Asfalt"
+      ],
+      "colorcodes": [
+        "#1E1E1E",
+        "#333333",
+        "#A82020",
+        "#608040",
+        "#F0D060",
+        "#888888",
+        "#405060",
+        "#202020",
+        "#C8C8C8"
+      ],
+      "texts": [
+        "Yeah."
+      ],
+      "persons": [
+        "Mees (oletatavalt)",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimene ja kolmas pilt on lähivõtted prügikasti sisust ja käest, samas kui teine pilt on laiem kaader, mis näitab mõlemat inimest ja prügikasti väljastpoolt.",
+        "Teisel pildil on näha ingliskeelne subtiiter 'Yeah.'.",
+        "Naise tegelane on selgelt nähtav ainult teisel pildil.",
+        "Valgustus ja nurk prügikasti sisule on veidi erinev esimesel ja kolmandal pildil, kuigi fookus on sarnane."
+      ],
+      "snr": "018",
+      "ajad": [
+        "102.894",
+        "104.146"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast pimedat ala, kus inimene sirutab oma käe sügavale musta, suurt prügikonteinerisse või kasti. Konteiner on täidetud suure hulga toiduainetega, peamiselt puu- ja juurviljadega, mis tunduvad olevat üllatavalt heas seisukorras, hoolimata nende paiknemisest prügikonteineris. Inimene kannab tumedaid riideid ja heledaid (hallikas-siniseid) kindaid ning on selgelt tegevuses toidu esemete otsimise ja välja võtmisega. Konteineri sisemuses on näha rohelist kilekotti või vooderdust, mis hoiab toitu eraldi muust prahist. Valgus on nõrk ja tuleb ilmselt väljastpoolt, valgustades osaliselt konteineri sisu. Näha on suuri koguseid õunu, porgandeid, kurke, tomateid, virsikuid või nektariine, sibulaid ja salatilehti, mis viitavad toidupoodide või restoranide ülejääkidele. Ühes kaadris on näha ka teksti, mis ütleb \"There's so much here.\", rõhutades toidu rohkust konteineris.",
+      "actions": [
+        "Toidu otsimine prügikonteinerist",
+        "Puu- ja juurviljade välja võtmine konteinerist",
+        "Konteinerisse kummardumine"
+      ],
+      "keywords": [
+        "Prügikast",
+        "Toidu raiskamine",
+        "Toidu päästmine",
+        "Puu- ja juurviljad",
+        "Dumping",
+        "Öine tegevus",
+        "Prügikonteiner",
+        "Ülejäägid"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Inimese käsi",
+        "Kindad",
+        "Must prügikonteiner",
+        "Roheline kilekott/vooder",
+        "Õunad",
+        "Porgandid",
+        "Kurgid",
+        "Tomatid",
+        "Virsikud/nektariinid",
+        "Salatilehed",
+        "Sibulad",
+        "Banaan",
+        "Erinevad puu- ja juurviljad"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#000000",
+        "#6B8E23",
+        "#4CAF50",
+        "#E52B50",
+        "#FF0000",
+        "#ED8F3D",
+        "#FFA500",
+        "#E0E0E0",
+        "#A9A9A9"
+      ],
+      "texts": [
+        "There's so much here."
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader näitab inimest konteinerisse kummardumas ja toitu haarates, kusjuures käsi on sügavalt sees ning fookuses on käe liikumine konteineri suunas.",
+        "Teine kaader on esimesega sarnane, kuid käsi on veidi sügavamal konteineris ja hoiak on erinev, paljastades rohkem konteineri sisu ja seal olevate toiduainete hulka.",
+        "Kolmandas kaadris on käsi toidule lähemal, paremini on näha konteineris olevaid puu- ja juurvilju ning valgus on veidi parem, tuues esile rohkem detaile. Lisaks on selles kaadris näha ekraaniteksti \"There's so much here.\"."
+      ],
+      "snr": "019",
+      "ajad": [
+        "104.146",
+        "111.653"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub öösel väljas, tõenäoliselt tööstus- või äripiirkonnas, kus tumedad, lihtsad hooned ja asfalttee on valgustatud kaugemate tänavavalgustitega. Kolm inimest on kogunenud tumeda sedaani auto avatud pakiruumi ümber. Üks blondide juustega naine, riietatud teksajakki, heledasse salli ja roosasse toppi, tegeleb aktiivselt auto pakiruumiga, vaadates sisse ja küünitades alla. Ta näib sealt esemeid otsivat või uurivat. Teine tumedamate juustega naine, seljas tume jakk ja sall, seisab lähedal, jälgides pakiruumi sisu ja ühel hetkel kummardub ka ise sisse vaatama. Mütsi, heleda jaki ja tumedate pükstega mees seisab veidi eemal, kandes suurt punast kilekotti ja seljakotti. Vestlus keerleb auto pakiruumi ümber, vihjates esemete leidmisele, võimalik et prügikastist, nagu näitab subtiiter: \"There were some, but they were in the bottom of the dumpster...\". Üldine atmosfäär viitab mitteametlikule kogunemisele või tegevusele, mis on seotud esemete taaskasutamise või kogumisega.",
+      "actions": [
+        "Auto pakiruumi avamine ja sisu uurimine",
+        "Pakiruumi sisu otsimine ja välja võtmine",
+        "Vestlemine",
+        "Kottide kandmine"
+      ],
+      "keywords": [
+        "Öö",
+        "Pakiruum",
+        "Auto",
+        "Kogumine",
+        "Sõprus",
+        "Vestlus",
+        "Tänav",
+        "Hooned",
+        "Tuled",
+        "Dumpster diving"
+      ],
+      "shot_type": "medium-long",
+      "placement": "outdoor",
+      "objects": [
+        "Tume sedaanauto",
+        "Auto pakiruum",
+        "Punane kilekott",
+        "Seljakott",
+        "Sallid",
+        "Tumedad hooned",
+        "Tänavavalgustid",
+        "Asfalttee",
+        "Muud autod taustal",
+        "Papp või paberipala auto pakiruumis"
+      ],
+      "colorcodes": [
+        "#2E3A40",
+        "#F0F0F0",
+        "#F80000",
+        "#E1A987",
+        "#EE9F9C",
+        "#726E6F"
+      ],
+      "texts": [
+        "There were some, but they were in the bottom of the dumpster..."
+      ],
+      "persons": [
+        "Naine blondide juustega: kannab teksajakki, heledat salli ja roosat särki, uurib auto pakiruumi.",
+        "Naine tumedamate juustega: kannab tumedat jakki ja salli, seisab auto lähedal ja vaatab pakiruumi.",
+        "Mees: kannab mütsi, heledat jakki ja tumedaid pükse, hoiab käes punast kilekotti ja seljakotti."
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on näha kõik kolm inimest, rõhutades blonde naise tegevust auto pakiruumiga ja mehe kohalolekut kottidega.",
+        "Teine pilt keskendub blonde naise ja auto pakiruumi tegevusele, teised isikud on kaadri servas või vähem esindatud. Siin kuvatakse ka subtiiter.",
+        "Kolmas pilt näitab blonde naist ja tumedate juustega naist koos auto pakiruumi juures, süvendades nende tegevust pakiruumi sisuga. Mees puudub sellest kaadrist."
+      ],
+      "snr": "020",
+      "ajad": [
+        "111.653",
+        "121.830"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist õues toimuvat tegevust, kus kolm inimest on kogunenud avatud auto pakiruumi ümber. Vasakul seisab tumedate riietega mees, seljas seljakott, tegeledes pakiruumi sisuga. Temast paremal asub naine heleda jope ja tumeda salli või rätikuga, samuti pakiruumi juures esemetega manipuleerides. Veidi eemal vasakul on näha kolmas mees tumeda jope ja mütsiga, kes hoiab käes punast kotti. Auto pakiruum on täidetud mitmesuguste toiduainetega, sealhulgas värskete puu- ja köögiviljadega nagu õunad, brokkoli ja plastikusse pakitud rohelised köögiviljad, samuti on näha plastpudeleid ja kilekotte. Üldine õhkkond viitab toidu jagamisele või abistamisele, kus vestluses väljendatakse tänu ja hinnatakse jagatavat toitu. Valgustus on hämar, pärinedes tõenäoliselt tänavavalgustusest või auto tuledest.",
+      "actions": [
+        "Toidu jagamine auto pakiruumist",
+        "Esemete paigutamine või väljavõtmine pakiruumist",
+        "Suhtlemine ja vestlemine",
+        "Punase koti hoidmine",
+        "Tänulikkuse väljendamine"
+      ],
+      "keywords": [
+        "Öö",
+        "Välitingimused",
+        "Toiduabi",
+        "Heategevus",
+        "Auto",
+        "Pakiruum",
+        "Värske toit",
+        "Inimesed",
+        "Kohtumine",
+        "Pimedus",
+        "Tänu",
+        "Annetus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Auto",
+        "Avatud pakiruum",
+        "Seljakott",
+        "Joped",
+        "Müts",
+        "Sall/rätik",
+        "Punane kott",
+        "Kilekotid",
+        "Plastpudelid",
+        "Pappkast",
+        "Õunad",
+        "Brokkoli",
+        "Pakendatud köögiviljad",
+        "Greipfruudi viilud",
+        "Tee/asfalt"
+      ],
+      "colorcodes": [
+        "#4a4a4a",
+        "#a0937a",
+        "#727272",
+        "#a06f47",
+        "#b12f2f",
+        "#4d824d",
+        "#e0e0e0",
+        "#b37b42"
+      ],
+      "texts": [
+        "Alright, well thank you.",
+        "A good smörgås, you can do a lot of things with that."
+      ],
+      "persons": [
+        "Naine",
+        "Mees (seljakotiga)",
+        "Mees (punase kotiga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kaamera nurk ja laius muutuvad piltide vahel, liikudes üldvaatest detailsemale lähivõttele auto pakiruumi sisust.",
+        "Esimestel piltidel on fookus inimeste tegevusel pakiruumi ümber, samas kui kolmandal pildil on lähivõte keskendunud pakiruumi toidusisule.",
+        "Subtiitrid ilmuvad teisel ja kolmandal pildil, pakkudes dialoogi konteksti stseenile."
+      ],
+      "snr": "021",
+      "ajad": [
+        "121.830",
+        "186.061"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte noort naist siseruumides, kes on hõivatud toidukaupade lahtipakkimisega. Üks naistest, tumedas kapuutsiga dressipluusis ja tumedates pükstes, kummardub üle puidust kasti, mis on täidetud puu- ja köögiviljadega nagu õunad, paprikad ja lillkapsas, ning asetab neid hoolikalt välja. Teine naine, heledate juustega ja seljas roosa pika varrukaga särk, millel on musta koera siluett, istub põrandal tema kõrval ja jälgib toimingut. Vasakul pool on näha hele, võimalik et Siiami tõugu kass, kes samuti lahtipakkimist uudishimulikult jälgib. Taustal on näha esiku osa, kus ripub mitmeid riideesemeid. Vasakul on avatud ukse kaudu nähtav teine tuba, kus asub mööbel ja potitaim. Põrand on kaetud heledate puidust plankudega.",
+      "actions": [
+        "Toidukaupade lahtipakkimine",
+        "Kummardumine",
+        "Istudes vaatlemine",
+        "Esemete asetamine"
+      ],
+      "keywords": [
+        "toidukaubad",
+        "esik",
+        "naine",
+        "kass",
+        "puu- ja köögiviljad",
+        "lahtipakkimine",
+        "siseruum",
+        "ostud",
+        "kodu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "naised",
+        "kass",
+        "puidust kast",
+        "õunad",
+        "paprikad",
+        "lillkapsas",
+        "roheline kapsas",
+        "kilekotid",
+        "riided (rippumas)",
+        "põrandalaudis",
+        "lamp",
+        "taim (potis)",
+        "kott (põrandal)"
+      ],
+      "colorcodes": [
+        "#3A3D3C",
+        "#DD9892",
+        "#C1AF9D",
+        "#9BB384",
+        "#DD3E35",
+        "#8F694F",
+        "#E0DDDB",
+        "#2E2E2E",
+        "#E8A8A1"
+      ],
+      "texts": [],
+      "persons": [
+        "kaks naist"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Tumeda dressipluusiga naine sirutab esimesel pildil käe kasti vasakule küljele, teisel pildil tõstab ta sealt välja lillkapsa või kapsa.",
+        "Blondide juustega naise pilk on esimesel pildil suunatud alla ja vasakule, teisel pildil on tema pilk suunatud rohkem ettepoole, kuid siiski kasti suunas."
+      ],
+      "snr": "022",
+      "ajad": [
+        "186.061",
+        "217.551"
+      ]
+    },
+    {
+      "explanation": "Kaks noort inimest, tõenäoliselt naised, pakivad ja sorteerivad toidukaupu suurest papist kastist ja kilekottidest puidust põrandal. Esialgselt näeme laiemat plaani, kus vasakus alanurgas on selgelt näha valge kass. Esiplaanil on heledate juustega naine, kes kannab lõheroosa pika varrukaga pluusi, millel on mustad detailid varrukal ja väike musta loomamotiiv pluusi rinnal. Ta on aktiivselt tegev puu- ja köögiviljade, nagu tomatid, paprikad, õunad, mandariinid ja salat, väljavalimisel ja kottidesse panemisel või neist välja võtmisel. Ühel hetkel korjab ta üles punase õuna ja hoiab seda käes. Teine inimene on tagaplaanil, kummardudes samuti toidukaupade poole, kandes tumedat kapuutsi ja värvilist salli. Stseen toimub siseruumides, tõenäoliselt eluruumis, kus valgel seinal ripuvad mitmed riideesemed nagu mantlid ja jakid. Põrandal on näha ka roheline militaarstiilis kott. Valgus on kodune ja pehme, mis viitab päevasele ajale. Inimesed näivad vestlevat ja tegevus on suunatud ühisele toidukaupade haldamisele.",
+      "actions": [
+        "Toidukaupade sorteerimine",
+        "Kottide lahtipakkimine",
+        "Puu- ja köögiviljade uurimine",
+        "Puu- ja köögiviljade kasti või kotti panemine/välja võtmine",
+        "Õuna käes hoidmine",
+        "Naeratamine"
+      ],
+      "keywords": [
+        "Toidukaupade sorteerimine",
+        "Köögiviljad",
+        "Puuviljad",
+        "Kodune tegevus",
+        "Inimesed",
+        "Kass",
+        "Siseruum",
+        "Juhuslik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Tomatid",
+        "Punane paprika",
+        "Mandariinid",
+        "Õunad",
+        "Roheline salat",
+        "Kilekotid",
+        "Papist kast",
+        "Roheline kangast kott/seljakott",
+        "Valge kass",
+        "Riided (jakid, mantlid)",
+        "Puitpõrand",
+        "Valge sein",
+        "Värviline sall"
+      ],
+      "colorcodes": [
+        "#F0A093",
+        "#2F2F2F",
+        "#E1DBD2",
+        "#6B543D",
+        "#596B4F",
+        "#FDFDFD",
+        "#DD0000",
+        "#FFC300"
+      ],
+      "texts": [
+        "But more."
+      ],
+      "persons": [
+        "Naine (heledate juustega, lõheroosa pluusiga)",
+        "Inimene (tumedate riiete ja salliga)",
+        "Kass"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on valge kass paremini nähtav vasakus alanurgas ja esiplaanil olev naine naeratab laiemalt. Kaader on veidi laiem.",
+        "Teisel pildil on kaamera fookus veidi lähemal, esiplaanil olev naine on kummardunud ja korjab õuna. Pildil on nähtav ingliskeelne subtiiter 'But more.'. Tagaplaanil olev inimene on rohkem kummardunud.",
+        "Kolmandal pildil hoiab esiplaanil olev naine õuna käes ja naeratab kergelt, subtiiter puudub. Tagaplaanil olev inimene on veidi teises asendis või vähem nähtav."
+      ],
+      "snr": "024",
+      "ajad": [
+        "235.193",
+        "257.090"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt köögis või majapidamisruumis, kus põrandal on laiali laotatud ostud ja naine on neid sorteerimas. Naine on blondide juustega, juuksed krunni seatud, kannab roosat pikavarrukat särki, mille varrukal on tekst 'PINK', ja musti pükse. Ta on kükitavas asendis või istub põrandal. Tema kõrval on siiamilaadne kass, kes jälgib naise käte tegevust. Põrandal on mitmeid valgeid toidukotte, must prügikott ja roheline kott. Piltidel on näha erinevaid puu- ja köögivilju, nagu brokoli/lillkapsas, lehtsalat, õunad, virsikud/nektariinid ja paprika. Ühel kaadritest ilmub nähtavale ka teine inimene, kes on kaadri vasakul küljel, kannab tumedaid riideid ja hoiab käes rohelist kilekotti. Stseenis on näha subtiitreid, mis viitavad dialoogile halbade uudiste ja rooma salati kohta. Ruumi üldine väljanägemine on pigem lihtne ja kulunud, puitpõranda ja heledate puitustega. Taustal on näha ka töötasapinda või riiulit koos mõnede pudelite või anumatega. Paremal pool on punane ämber/konteiner.",
+      "actions": [
+        "Toidukaupade sorteerimine",
+        "Kottide hoidmine ja tühjendamine",
+        "Kassi jälgimine",
+        "Rääkimine"
+      ],
+      "keywords": [
+        "Toidukaubad",
+        "Siseruum",
+        "Köök",
+        "Kass",
+        "Sorteerimine",
+        "Igapäevaelu",
+        "Dialoog",
+        "Põrand",
+        "Kotid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Kass",
+        "Valged kilekotid",
+        "Must kilekott",
+        "Roheline kilekott",
+        "Punane ämber",
+        "Brokoli/lillkapsas",
+        "Salatileht (rooma salat)",
+        "Õunad",
+        "Virsikud/nektariinid",
+        "Paprika",
+        "Pakendatud tooted",
+        "Puidust põrand",
+        "Puidust uksed",
+        "Töötasapind/riiul",
+        "Pudelid/anumad",
+        "Roosa pikkade varrukatega särk",
+        "Mustad püksid",
+        "Tume jope/pusa"
+      ],
+      "colorcodes": [
+        "#E57373",
+        "#000000",
+        "#FFFFFF",
+        "#D32F2F",
+        "#8BC34A",
+        "#A9A9A9",
+        "#A0522D",
+        "#F5DEB3"
+      ],
+      "texts": [
+        "PINK",
+        "Listen... I have some bad news for you.",
+        "What about this Romaine lettuce?"
+      ],
+      "persons": [
+        "Naine (blondide juustega, roosas särgis)",
+        "Teine isik (tumedates riietes, osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid, teisel pildil on subtiitrid tekstiga \"Listen... I have some bad news for you.\" ja \"What about this Romaine lettuce?\".",
+        "Teisel pildil on nähtav teine inimene kaadri vasakul küljel, kes hoiab käes rohelist kilekotti. Esimesel pildil seda inimest näha ei ole.",
+        "Kassi pea asend on piltidel veidi erinev."
+      ],
+      "snr": "025",
+      "ajad": [
+        "257.090",
+        "286.369"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub hämaras siseruumis, ilmselt kodus, kus kesksel kohal on suur pappkast täis toidukaupu, peamiselt värsket toorainet. Kasti on laotud brokolit ja lillkapsast läbipaistvatesse kottidesse, samuti õunu ja muid puu- ja köögivilju. Esimesel plaanil ja paremal pool uurib siiami tõugu kass uudishimulikult kasti sisu. Vasakul all on näha veel ühe kassi osa. Taustal on näha rippuvaid esemeid, sealhulgas jopet ja muid riideesemeid, samuti kotte ja karvaseid esemeid, mis võivad olla kindad või mütsid. Paremal pool põrandal lebavad kindad ja kaugemal ka teine kass. Ühes kaadris on näha ka inimese jalgu, kes kõnnib läbi ruumi. Üldine atmosfäär on vaikne ja kodune, keskendudes toidupakkide lahtipakkimisele või sorteerimisele.",
+      "actions": [
+        "Kass uurib toidukasti sisu",
+        "Inimene kõnnib läbi ruumi",
+        "Kassid puhkavad põrandal",
+        "Toidukaupade lahtipakkimine või sorteerimine"
+      ],
+      "keywords": [
+        "Toidukast",
+        "Kassid",
+        "Toit",
+        "Köögiviljad",
+        "Puuviljad",
+        "Broccoli",
+        "Lillkapsas",
+        "Õunad",
+        "Siseruum",
+        "Hämarus",
+        "Kodu",
+        "Ost",
+        "Pakendatud"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Pappkast",
+        "Broccoli (kilekottides)",
+        "Lillkapsas (kilekottides)",
+        "Õunad (kilekottides ja lahtiselt)",
+        "Muud puu- ja köögiviljad",
+        "Siiami kass",
+        "Teised kassid",
+        "Kott/seljakott",
+        "Karvased esemed (nt kindad või mütsid)",
+        "Kindad (põrandal)",
+        "Riided (rippumas seinal)",
+        "Inimese jalad",
+        "Uks/läbikäik"
+      ],
+      "colorcodes": [
+        "#4B3621",
+        "#8B4513",
+        "#A9A9A9",
+        "#008000",
+        "#FFFFFF",
+        "#FF0000",
+        "#808080",
+        "#D3D3D3"
+      ],
+      "texts": [
+        "What about this Romaine lettuce?",
+        "Tootesildid (loetamatud) kilekottidel"
+      ],
+      "persons": [
+        "Üks inimene (nähtavad jalad)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimene ja kolmas pilt on sarnase nurga alt, kuid kolmas pilt on veidi laiem, näidates rohkem tausta ja kahte kassi ning inimese jalgu paremal kaugemal.",
+        "Teine pilt keskendub ainult inimese jalgadele, kes liigub läbi ruumi, ega näita toidukasti ega kasse.",
+        "Subtiiter 'What about this Romaine lettuce?' ilmub ainult esimesel pildil.",
+        "Siiami kassi asend ja vaatenurk kasti suhtes varieeruvad esimese ja kolmanda pildi vahel.",
+        "Valgustus ja kompositsioon pakuvad stseenist erinevaid vaatepunkte, kuigi üldine hämarus jääb püsima."
+      ],
+      "snr": "026",
+      "ajad": [
+        "286.369",
+        "314.189"
+      ]
+    },
+    {
+      "explanation": "Stseenis istub köögilaua taga kaks noort naist, kes näivad vestlevat või aega veetvat. Laud on kaetud heleda lillelise laudlinaga, millel on taldrik auravate pelmeenide või vareenikutega ja nuga. Paremal pool istuval naisel on pikad heledad juuksed ja seljas musta-valgetriibuline pluus. Ta joob aeg-ajalt kruusist ja toetab oma pead käele, vaadates vestluskaaslast või mõtiskledes. Vasakul pool istuval naisel on tumedamad juuksed ning seljas must T-särk. Ta jälgib tähelepanelikult oma kaaslast, vahetades pilke ja ilmeid ning toetades käsi lauale või lõuale. Taustal on näha lihtsad valged seinad ja aken, mille aknalaual on virn apelsine või mandariine ning teisi koduseid esemeid, sealhulgas kilekott puuviljadega.",
+      "actions": [
+        "Istumine laua taga",
+        "Joomine kruusist",
+        "Vestlemine",
+        "Vaatamine vestluskaaslast",
+        "Toetumine käele",
+        "Söömine (kaudne, toit laual)",
+        "Naeratamine (kergelt)"
+      ],
+      "keywords": [
+        "Kaks naist",
+        "Köök",
+        "Söögituba",
+        "Laud",
+        "Pelmeenid",
+        "Vareenikud",
+        "Kruus",
+        "Vestlus",
+        "Siseruum",
+        "Kodu",
+        "Sõbrannad",
+        "Hommikusöök",
+        "Lõunasöök"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Laudlina",
+        "Taldrik",
+        "Pelmeenid",
+        "Vareenikud",
+        "Nuga",
+        "Kruus",
+        "Aknalaud",
+        "Aken",
+        "Apelsinid",
+        "Mandariinid",
+        "Kilekott",
+        "Sein",
+        "T-särk",
+        "Triibuline pluus"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#8B4513",
+        "#F8DE7E",
+        "#D3D3D3",
+        "#5F9EA0"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks naist"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil hoiab paremal pool istuv naine kruusi suu juures, justkui joob, ja tema pilk on suunatud vasakule, mitte otse vestluskaaslasele. Vasakpoolne naine vaatab otse ette ja toetab käe lõuale. Tema ilme on mõtlik.",
+        "Teisel pildil on paremal pool istuv naine asetanud kruusi lauale, ta toetab käe lõuale ja vaatab otsa vasakpoolsele naisele, suu kergelt avatud, mis viitab rääkimisele. Vasakpoolne naine on samuti muutnud asendit – tema käsi on toetatud lauale ja ta vaatab vestluskaaslast, naeratades kergelt, mis näitab suuremat kaasatust vestlusesse."
+      ],
+      "snr": "027",
+      "ajad": [
+        "314.189",
+        "325.492"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub vanas, kulunud sisetoas, mille seinad on pleekinud kollast värvi ja kohati on värv maha koorunud. Toa vasakul seinal ripub suur plakat, millel on kujutatud naine saksofoniga ja tekst 'DIO DAYS?'. Esiplaanil paremal on näha mööblit, mis paistab olevat pruun nahksohva või tugitool. Paremal pool avaneb uks, mis viib teise ruumi või koridori. Ukseavas on näha kahte inimest: üks naine ja teine, osaliselt varjatud isik. Tagumises ruumis on puidust põrand ja punane ämber, samuti muud segamini esemed ja mööbel. Valgus paistab olevat loomulik päevavalgus. Naise juuksed on pikad ja pruunid ning ta kannab tumedat riietust ja seljakotti. Ukseava kaudu on näha, kuidas naine räägib ja seejärel lahkub, samal ajal kui teine isik reageerib naise sõnadele või tegevusele.",
+      "actions": [
+        "Suhtlemine",
+        "Vestlemine",
+        "Lahkumine",
+        "Reageerimine",
+        "Kõndimine"
+      ],
+      "keywords": [
+        "Sisetuba",
+        "Korter",
+        "Vana",
+        "Kulunud",
+        "Uks",
+        "Plakat",
+        "Suhtlus",
+        "Kollane sein",
+        "Mööbel",
+        "Äraminek",
+        "Päevavalgus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Kollane sein",
+        "Plakat",
+        "Naine",
+        "Sohva",
+        "Uks",
+        "Käepide",
+        "Põrand",
+        "Punane ämber",
+        "Kott (seljakott)",
+        "Mööbel",
+        "Ukseraam"
+      ],
+      "colorcodes": [
+        "#E0E57D",
+        "#FFFFFF",
+        "#E60000",
+        "#E84EB5",
+        "#F7F056",
+        "#1A1A1A",
+        "#593B2F"
+      ],
+      "texts": [
+        "I'll call you with the details.",
+        "DIO DAYS?"
+      ],
+      "persons": [
+        "Naine (pruunide juustega)",
+        "Teine isik (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on naine ukseavas, käsi suu ees, justkui naerdes või suud kattes, ja teine isik on temast sügavamal ruumis peaaegu täielikult nähtav.",
+        "Teisel pildil on naine ukseavas selgelt nähtav ja ta paistab rääkivat, sest ekraanil on subtiiter 'I'll call you with the details.'. Teine isik on nüüd peaaegu täielikult varjatud ukse taha.",
+        "Kolmandal pildil pöörab naine selja kaamerale ja paistab lahkuvat, astudes tagumisest ruumist eemale. Teine isik on ukse taha kadunud ja pole enam nähtav.",
+        "Subtiiter on nähtav ainult teisel pildil."
+      ],
+      "snr": "028",
+      "ajad": [
+        "325.492",
+        "458.291"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri, tõenäoliselt kööki või abiruumi, mida iseloomustab osaliselt renoveerimata sein, millelt on näha värvi koorumist ja pahtli kahjustusi. Vasakul pool on suur aken, mis laseb sisse rohkelt päevavalgust, valgustades ruumi. Akna kõrval, paremal, seisab valge lahtise uksega külmkapp. Külmkapi riiulitel on näha mitmesuguseid toiduaineid: klaaspurgid, pudelid, pakendatud rohelised köögiviljad nagu brokoli ja kapsas, ning toidunõud, mis sisaldavad valmisroogasid. Külmkapi kohal on asetatud veekeetja ja valge kruus. Stseeni keskel on noor, heledate juustega naine, kes kannab tumedat t-särki. Ta sirutab parema käe külmkapist sisse, justkui võtaks või paneks sinna midagi. Naise profiil on nähtav, keskendunud pilguga külmkapis olevatele asjadele. Kaadrite paremat äärt raamib udune heleda värvusega uks, mis võib olla kas külmkap ukse välimine osa või teise ruumi sissepääs. Vasakul esiplaanil on näha blender või sarnane köögiseade.",
+      "actions": [
+        "Naine sirutab käe külmkapist sisse",
+        "Naine vaatab külmkappi",
+        "Toiduainete hoiustamine/võtmine külmkapist"
+      ],
+      "keywords": [
+        "Külmkapp",
+        "Köök",
+        "Naine",
+        "Toiduained",
+        "Aken",
+        "Eluruum",
+        "Renoveerimata",
+        "Argipäev",
+        "Toit"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Külmkapp",
+        "Aken",
+        "Naine",
+        "Brokoli",
+        "Kapsas",
+        "Purgid",
+        "Pudelid",
+        "Pakendatud köögiviljad",
+        "Pott",
+        "Veekeetja",
+        "Kruus",
+        "Sein",
+        "Blender",
+        "Uks"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#C0C0C0",
+        "#3A6D3A",
+        "#252525",
+        "#A52A2A",
+        "#FFA000"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil ei ole inimest näha, teisel ja kolmandal pildil on näha naine.",
+        "Esimesel pildil on stseeni vasakus osas ainult aken ja osaliselt blender, teisel pildil on näha inimese vasak käsi ja kehaosa.",
+        "Kolmandal pildil on naine selgemalt ja täielikumalt näha kui teisel pildil, kus on näha ainult tema käsi ja osa kehast."
+      ],
+      "snr": "029",
+      "ajad": [
+        "458.291",
+        "518.351"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri, mis näib olevat köök või majapidamisruum, kus keskel kulunud puupõrandal istub siiamilaadne kass. Kassi karvastik on beežikaspruun tumedamate otstega näol, kõrvadel, käppadel ja sabal, ning ta vaatab otse kaamerasse. Põrand on vanast ja kulunud puidust, heledaks värvitud, kuid värv koorub paljudest kohtadest maha, paljastades tumedama puidu. Vasakul esiplaanil on näha osa valgest ümmarguse lauaplaadiga lauast. Taustal seina ääres on erinevad esemed: mitmed joogipurgid (rohelised, sinised, punased), tumedad ja heledad pudelid ning klaaspurgid, mis sisaldavad näiteks marineeritud köögivilju (kurke) ja kirssidega hoidist. Mõned esemed asuvad põrandal ja mõned väiksel puidust riiulil või kastil. Ühel pudelil on selgelt näha silt “LAUA VIIN”. Paremal on valge külmkapp ja selle kõrval osaliselt nähtav valge pliit punaste nuppudega. Vasakul taustal on näha ka kilekotis apelsine. Ruumi valgustab loomulik päevavalgus, mis loob varjud ja heledad alad.",
+      "actions": [
+        "kass istub"
+      ],
+      "keywords": [
+        "kass",
+        "siiam",
+        "köök",
+        "tuba",
+        "interjöör",
+        "puupõrand",
+        "pudelid",
+        "purgid",
+        "joogipurgid",
+        "külmkapp",
+        "pliit",
+        "laud",
+        "kodu",
+        "elamine",
+        "toiduained",
+        "joogid",
+        "kulunud",
+        "päevavalgus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "kass",
+        "puupõrand",
+        "pudelid",
+        "purgid",
+        "joogipurgid",
+        "külmkapp",
+        "pliit",
+        "laud",
+        "apelsinid",
+        "riiul/kast",
+        "sein",
+        "kilekott"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#E0E0E0",
+        "#2E8B57",
+        "#4682B4",
+        "#FF0000",
+        "#FFD700",
+        "#A0522D",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "LAUA VIIN"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "030",
+      "ajad": [
+        "518.351",
+        "529.946"
+      ]
+    },
+    {
+      "explanation": "Pildiseeria kujutab tagantvaates noort inimest, kes istub heledate seintega ruumis laua taga. Tegu on tõenäoliselt köögi- või sööginurgaga. Inimene, kellel on pikkade juuksed hobusesabas, kannab musta t-särki ja on hõivatud lauaga, kus on näha toiduvalmistamise või söömisega seotud esemeid – kausid, riistad ja koostisosad. Ta on pööratud näoga suure akna poole, millest paistab sisse ere päevavalgus, valgustades ruumi. Akna taga on näha puid, mis viitab välivaatele. Aknalaual on rida potte roheliste taimedega, tõenäoliselt maitsetaimed, samuti segisti ja avokaadod. Akna kõrval paremal asub valge külmkapp, mille küljes on magnetid ja märkmed. Külmkapi all ja akna all on riiulitel või virnades erinevad toidunõud ja purgid. Ruumi üldmulje on kodune ja hubane, vasakul seinal on mõned paberid või plakatid kinnitatud. Põrand on tume.",
+      "actions": [
+        "Istumine",
+        "Toidu valmistamine või söömine"
+      ],
+      "keywords": [
+        "Köök",
+        "Toit",
+        "Päevavalgus",
+        "Kodu",
+        "Aknalaud",
+        "Toiduvalmistamine",
+        "Söömine",
+        "Rahulik",
+        "Hubane"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Laud",
+        "Tool",
+        "Seinad",
+        "Aken",
+        "Potitaimed",
+        "Ürdid",
+        "Segisti",
+        "Avokaadod",
+        "Külmkapp",
+        "Magnetid",
+        "Märkmed seinal",
+        "Paberid seinal",
+        "Kausid",
+        "Toiduvalmistamise riistad",
+        "Purgid",
+        "Riiulid",
+        "Põrand",
+        "Puud",
+        "Luud/mopivars"
+      ],
+      "colorcodes": [
+        "#D4D4D4",
+        "#1F1F1F",
+        "#FFFFFF",
+        "#A8A8A8",
+        "#F8F8F8",
+        "#3F3F3F",
+        "#968F82",
+        "#4CAF50"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad erinevused."
+      ],
+      "snr": "031",
+      "ajad": [
+        "529.946",
+        "534.034"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab köögis toimetavat inimest, kes seisab pliidi ees ja segab potis midagi puulusikaga. Vaade on esitatud läbi ukseava või koridori, mis jätab pildi vasaku ja esiplaanil oleva osa sügavatesse varjudesse. Paremal, köögi poole, paistab köök valgustatuna eredast päikesevalgusest, mis tungib sisse vasakul asuvast aknast. Akna tagant paistab ebaselgelt talvine või varakevadine maastik paljaste puudega. Inimene on peaaegu siluetina, kandes tumedat T-särki ja tumedaid pükse. Tema heledad juuksed on tagantvalguses nähtavad. Köögis on näha valget külmkappi, millel on magnetid ja paberid, pliiti, metallist taburetti, ruudulist köögirätikut ning mitmeid kappe ja riiuleid, millest osa on päikesevalgusega valgustatud ja osa jääb varju. Stseen annab edasi koduse ja hubase, kuid veidi vanema köögi tunde.",
+      "actions": [
+        "Kokkamine",
+        "Segamine potis",
+        "Toimetamine köögis"
+      ],
+      "keywords": [
+        "Köök",
+        "Kokkamine",
+        "Päikesevalgus",
+        "Siluett",
+        "Hommik",
+        "Kodu",
+        "Kodu",
+        "Kodune",
+        "Pliit",
+        "Külmkapp"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Pliit",
+        "Pott",
+        "Puulusikas",
+        "Külmkapp",
+        "Aken",
+        "Taburett",
+        "Köögirätik",
+        "Kapp",
+        "Riiul",
+        "Ukseava",
+        "Rõivad (rippumas)"
+      ],
+      "colorcodes": [
+        "#0d0d0d",
+        "#f0f0e0",
+        "#3d3d3d",
+        "#6b3e3e",
+        "#d9b897",
+        "#f2f2f2"
+      ],
+      "texts": [],
+      "persons": [
+        "Täiskasvanu"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Isiku parema käe ja puulusika asend poti kohal on pisut muutunud, viitades segamise pidevale liikumisele.",
+        "Pildilt pildile on näha väga kergeid variatsioone isiku kehapoosis, mis annab edasi toimetamise loomulikkust ja pidevat liikumist.",
+        "Väikesed muutused valguse ja varjude intensiivsuses, eriti potist tõusva auru nähtavuses."
+      ],
+      "snr": "032",
+      "ajad": [
+        "534.034",
+        "556.431"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist, kes istub laua taga ja sööb salatit. Naine on heledate juustega ja kannab musta lühikeste varrukatega särki, millel on näha trükist kirjaga „BEATS FROM THE…“ ja stiliseeritud tornide või losside logo. Tal on huulel neet. Laual on tema ees väike taldrik salatiga, suurem klaaskauss samuti salatiga ja läbipaistev plasttops veega. Ta hoiab hõbedast lusikat ja tõstab sellega toitu taldrikult suhu. Laual paistab veel punane, südamekujulise mustriga suupistekott (tõenäoliselt Ritter Sport šokolaad) ja roheline pudel. Taustal vasakul on näha köögimööblit, riiuleid nõudega, pliiti või vana ahju ning segamini köögitarbeid. Paremal pool on lihtne helehall sein. Ruumi valgustab loomulik valgus, mis langeb vasakult, tekitades tugevaid varje ja esile tuues naise vasaku külje.",
+      "actions": [
+        "Söömine",
+        "Lusika hoidmine",
+        "Toidu suhutõstmine"
+      ],
+      "keywords": [
+        "Söömine",
+        "Salat",
+        "Köök",
+        "Naine",
+        "Lõunasöök",
+        "Päevavalgus",
+        "Lihtne interjöör",
+        "Toidu nautimine",
+        "Must T-särk",
+        "Ritter Sport"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Lusikas",
+        "Taldrik",
+        "Salatikauss",
+        "Vesi",
+        "Klaastops",
+        "Roheline pudel",
+        "Suupistekott",
+        "Südamemotiiv",
+        "Köögimööbel",
+        "Nõud",
+        "Pliit",
+        "Sein",
+        "Must T-särk",
+        "Huuleneet"
+      ],
+      "colorcodes": [
+        "#1D1D1D",
+        "#C8A78F",
+        "#5A8341",
+        "#3C7238",
+        "#CE1B2D",
+        "#E0E0E0",
+        "#8B8B8B"
+      ],
+      "texts": [
+        "BEATS FROM THE...",
+        "Ritter Sport"
+      ],
+      "persons": [
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on naine toidu lusikaga suhu viimas või parasjagu suust välja võtnud, huule peal on näha toidujäänuseid. Teisel pildil on lusikas juba suus, suu kergelt avatud ja toitu mälutakse."
+      ],
+      "snr": "033",
+      "ajad": [
+        "556.431",
+        "574.866"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kilpkonna söömas rohelist salatit siseruumides, tõenäoliselt keldris või mõnes vanemas, renoveerimata ruumis. Kilpkonn on heledat beeži ja pruunika mustriga kilbiga, pea ja jalad on tekstuurse nahaga. Ta hoiab oma suus ere-rohelist salatilehte ja näib seda innukalt söövat. Valgus paistab vasakult, luues tugevad varjud paremale poole ja tausta. Kilpkonn asub heledal pinnal, mis võib olla paberileht või alus, millel on märkamatuid kirjeid. Taustal on näha vana, kulunud sein, millel on murenenud krohv ja telliselaadsed kihid, ning ka tumenenud põrand. Üldmulje on soe, kuid valgus-varju kontrast on tugev.",
+      "actions": [
+        "kilpkonn sööb salatit",
+        "kilpkonna pea liigub",
+        "kilpkonn närib"
+      ],
+      "keywords": [
+        "kilpkonn",
+        "salat",
+        "söömine",
+        "loom",
+        "siseruum",
+        "vari",
+        "valgus",
+        "tekstuur",
+        "sein",
+        "loodus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "kilpkonn",
+        "salat",
+        "sein",
+        "põrand",
+        "alus/paber"
+      ],
+      "colorcodes": [
+        "#C9BA8D",
+        "#6F5233",
+        "#7AC34A",
+        "#CDBE9A",
+        "#8F644A",
+        "#E0E0E0",
+        "#3A3A3A"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kilpkonna pea asend on muutunud, mis näitab liikumist söömise ajal.",
+        "Salati kogus kilpkonna suus ja selle kuju on muutunud, mis viitab söömisele.",
+        "Kilpkonna keha asendis on märgata väikseid nihkeid."
+      ],
+      "snr": "034",
+      "ajad": [
+        "574.866",
+        "584.751"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist siseruumis, tõenäoliselt köögis, joomas läbipaistvast plastiktopsist. Teda on näha kergelt külje ja tagantpoolt, näoga valge külmiku poole. Tal on pikad tumepruunid juuksed ponisabasse seotud ja seljas on tume, arvatavasti must T-särk. Tagaplaanil on valge külmkapp, mis on kaunistatud mitmesuguste magneti ja piltidega. Naise paremal pool on näha valget avatud kappi või riiulit, mis on täidetud tavaliste köögiesemetega nagu valged kruusid, purgid ja pudelid. Üldine valgusvihk viitab loomulikule valgusele, mis siseneb vasakult ja heidab pehme kuma külmikule. Fookus nihkub piltide vahel, esimesed kaadrid toovad esile naise ja tema tegevuse, samas kui hilisemad kaadrid näitavad rohkem köögikeskkonda taustal.",
+      "actions": [
+        "Joob topsist",
+        "Seisab köögis",
+        "Vaatab külmkapi poole"
+      ],
+      "keywords": [
+        "Köök",
+        "Naine",
+        "Joomine",
+        "Külmkapp",
+        "Kapp",
+        "Siseruum",
+        "Argipäev",
+        "Ponisaba",
+        "Läbipaistev tass",
+        "Valgus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Läbipaistev plastiktops",
+        "Külmkapp",
+        "Külmkapimagnetid",
+        "Köögikapp",
+        "Riiulid",
+        "Valged kruusid",
+        "Purgid",
+        "Pudelid",
+        "Tume T-särk",
+        "Juuksed (ponisabaga)"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#F0F0F0",
+        "#FFFFFF",
+        "#4A352F",
+        "#606060"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel kahel pildil on naine fookuses ja selgelt nähtav, kolmandal on fookus nihkunud tagaplaanil olevatele köögiesemetele ja naine on kaadrist väljas või äärmiselt udune.",
+        "Fookuspunkt ja teravus muutuvad piltide vahel märgatavalt.",
+        "Tagaplaan, eriti külmkapp ja kapp, muutub esimesest kaadrist kolmandani järjest selgemaks ja detailsemaks.",
+        "Naise asend ja tegevus (joomine) on kõige selgemad esimesel pildil, teisel on ta ikka joomas, kuid juba kergelt udune, ja kolmandal on tema tegevus kadunud."
+      ],
+      "snr": "035",
+      "ajad": [
+        "584.751",
+        "595.845"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumis diivanil lebavat noort naist, kes on hõivatud kahe kassiga. Naine on riietatud musta lühikese varrukaga T-särki, tumesiniseid teksaseid ja tal on jalas tumesinised sokid. Ta toetub selili lamades patjadele ja on osaliselt kaetud värvilise (musta, valge, halli ja punase ruudulise mustriga) tekiga. Tema käes on valge kaabel või nöör, millega ta mängitab diivanil tema ees lebavat Siiami tõugu kassi. Teine samast tõust kass istub rahulikult diivani seljatoel paremal pool, vaadates peamiselt vasakule. Ruumi seinad on helekollast värvi, mis on kohati kulunud ja koorunud, andes edasi ajas kulunud mulje. Vasakul on näha raamatukapp täis raamatuid ja akna kohal on valge riie või kardin. Tuba on valgustatud loomuliku valgusega, mis viitab päevasele ajale.",
+      "actions": [
+        "Lõõgastumine diivanil",
+        "Mängimine kassiga",
+        "Kassi meelitamine",
+        "Puhkamine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Puhkehetk",
+        "Lemmikloomad",
+        "Kassid",
+        "Diivan",
+        "Noor naine",
+        "Mäng",
+        "Elutuba",
+        "Kodune",
+        "Siiami kass"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Pruun nahkdiivan",
+        "Värviline ruuduline tekk",
+        "Padi",
+        "Noor naine",
+        "Kaks Siiami tõugu kassi",
+        "Valge kaabel/nöör",
+        "Raamatukapp",
+        "Raamatud",
+        "Kollane sein",
+        "Kooruv tapeet/värv",
+        "Aken",
+        "Valge kardin/kate",
+        "Väike pruun dekoratiivese"
+      ],
+      "colorcodes": [
+        "#D8D880",
+        "#1C1C1C",
+        "#4A5B6F",
+        "#3A3A69",
+        "#4C2B20",
+        "#E0D2C0",
+        "#4A3C2F",
+        "#C04040",
+        "#808080",
+        "#F0F0F0"
+      ],
+      "texts": [
+        "HEARTBEATS UNDER"
+      ],
+      "persons": [
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Diivani seljatoel istuva kassi pea on teises pildis veidi rohkem naise poole pööratud.",
+        "Naise käsi, mis hoiab valget kaablit, on teises pildis veidi teises asendis, samuti on kaabel veidi teise kujuga, mis viitab liikumisele.",
+        "Diivanil lamava kassi asend on minimaalselt muutunud, eelkõige pea ja keha suund, reageerides kaabli liikumisele."
+      ],
+      "snr": "036",
+      "ajad": [
+        "595.845",
+        "601.893"
+      ]
+    },
+    {
+      "explanation": "Stseen algab täiesti musta ekraaniga, mis seejärel asendub mustal taustal keskelt kuvatud erekollase tekstiga. See tekst esitleb pealkirja „Meeskond:“ ning loetleb erinevaid produktsioonirole nagu režissöör/idee, produtsent, operaator, heli ja montaažirežissöör ning produktsiooni assistent, koos vastavate isikute nimedega. Lõpus on ka märgitud juhendaja. Pärast teksti lühikest kuvamist naaseb ekraan taas täiesti mustaks. Üldine mulje on ametlikust tunnustusest tootemeeskonnale, sarnanedes filmi lõpukrediitidega.",
+      "actions": [
+        "Musta ekraani kuvamine",
+        "Kollase teksti ilmumine mustal taustal",
+        "Meeskonna nimekirja näitamine",
+        "Teksti kadumine ekraanilt"
+      ],
+      "keywords": [
+        "Krediidid",
+        "Lõputekst",
+        "Meeskond",
+        "Rollid",
+        "Nimistu",
+        "Must taust",
+        "Kollane tekst",
+        "Tiitrid"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#F7CE49"
+      ],
+      "texts": [
+        "Meeskond:",
+        "Režissöör/idee: Kamilla Selina Lepik",
+        "Produtsent: Kerli Jaago",
+        "Operaator: Liene Ratniece",
+        "Helioperaator: Kamilla Selina Lepik",
+        "Helirežissöör: Rauno Roosnurm",
+        "Montaažirežissöör: Aivo Jäger",
+        "Produktsiooni assistent: Keith Roland Lepik",
+        "Juhendaja: Kersti Uibo"
+      ],
+      "persons": [
+        "Kamilla Selina Lepik",
+        "Kerli Jaago",
+        "Liene Ratniece",
+        "Rauno Roosnurm",
+        "Aivo Jäger",
+        "Keith Roland Lepik",
+        "Kersti Uibo"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": 90,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Stseen algab täiesti musta pildiga, kus puudub igasugune visuaalne sisu.",
+        "Seejärel ilmub ekraanile mustal taustal kollane tekst, mis esitab meeskonna nimekirja koos rollidega.",
+        "Stseen lõpeb taas täiesti musta pildiga, mis on identne stseeni algusega.",
+        "Peamine erinevus on teksti olemasolu või puudumine piltidel."
+      ],
+      "snr": "037",
+      "ajad": [
+        "601.893",
+        "634.050"
+      ]
+    }
+  ]
+}

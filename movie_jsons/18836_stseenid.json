@@ -1,0 +1,4369 @@
+{
+  "film": [
+    "18836",
+    "18687",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Ametniku surm",
+    "adf761749ffd63f16b8b48a8b81ab0e02d8e03ec.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen leiab aset vanal, sillutatud tänaval, mida ääristab ilmastiku poolt räsitud puidust hoone kivist vundamendi ja kooruva värviga heleda puidust uksega. Üldine valgus on tuhm, vihjates kas pilvisele päevale või õhtu lähenemisele, mis loob tõsise ja mõtliku meeleolu. Ühel hetkel seisab pidulikus ruudulises ülikonnas, lipsu ja tumedates pükstes mees soliidselt, hoides pruuni nahast portfelli, tema pilk on tõsine. Tema lähedal, hoone kulunud astmetel, istub paljajalu noormees, kes näib kõhn ja on riietatud lihtsatesse, tumedatesse ja võimalik, et narmendavatesse riietesse. Tema ilme on tõsine, rõhutades teravat kontrasti kahe isiku vahel. Hiljem nähakse noormeest seismas, seljas triibuline kampsun ja tumedad püksid, endiselt paljajalu. Tema nägu on pinges ja murelik, kui ta hoiab üles väikest kokkusurutud valget eset, mis paistab olevat paber või riie, võimalik, et õrnalt punasega määrdunud. Tagaplaanil seisavad kaks mundrites ja mütsides meest, arvatavasti sõdurid või politseinikud, jälgides stseeni, nende kohalolek lisab õhkkonda käegakatsutava pinge ja ametliku kontrolli. Stseen tervikuna annab edasi jutustuse inimeste suhtlusest ja vaatlusest ajaloolises või perioodipõhises keskkonnas, mida iseloomustavad sotsiaalsed kontrastid ja ametivõimude kohalolek.",
+      "actions": [
+        "seisab",
+        "istub",
+        "hoiab portfelli",
+        "hoiab eset",
+        "jälgib"
+      ],
+      "keywords": [
+        "ajalooline",
+        "linnastseen",
+        "sotsiaalne kontrastsus",
+        "pinge",
+        "ametivõimud",
+        "draama",
+        "räsitud välimus",
+        "formallne riietus",
+        "vaatlus",
+        "tänav",
+        "paljajalu",
+        "kummaline objekt"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "portfell",
+        "munakivid",
+        "vana puidust hoone",
+        "kivist vundament",
+        "puidust uks",
+        "trepiastmed",
+        "king",
+        "triibuline kampsun",
+        "mundrid",
+        "mütsid",
+        "kokkusurutud valge ese"
+      ],
+      "colorcodes": [
+        "#4B4B4B",
+        "#8F694F",
+        "#A0A0A0",
+        "#202020",
+        "#A89069",
+        "#CC0000"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees (paljajalu)",
+        "mees ülikonnas (portfelliga)",
+        "kaks mundrites meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Ülikonnas ja portfelliga mees on ühel kaadril olemas, kuid teistel puudub.",
+        "Noormehe kehahoiak muutub astmetel istumisest tänaval seismiseks.",
+        "Noormees hoiab ühel kaadril väikest kokkusurutud valget eset, mida ta teistel ei hoia.",
+        "Kaks mundrites meest ilmuvad tagaplaanile ühes kaadris, kuid puuduvad teistel.",
+        "Esimene kaader keskendub jalale ja maapinnale, erinedes teiste kaadrite laiematest võtetest, mis näitavad inimesi ja hoonet."
+      ],
+      "snr": "002",
+      "ajad": [
+        "46.280",
+        "70.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vana, kulunud välimusega hoone sissepääsu ees toimuvat tegevust. Keskel on näha trepist alla kiirustavat meest tsiviilriietes: pruunis pintsakus ja tumedates pükstes. Mõlemal pool hoone peatrepist lähenemist seisab kaks vormirõivastuses valvurit, kes kannavad helehalle mundreid, mütse ja hoiavad käes pikki esemeid, mis sarnanevad püsside või ritvadega. Valvurid on jäigas asendis, justkui auvalve. Hoone seintele sissepääsu kõrvale on kinnitatud kaks suurt valget bännerit, millel on must stiliseeritud kotka- või linnukujuline embleem punase viisnurgaga rinnal. Hoone ise näib olevat aastate jooksul lagunenud, krohv koorub ja seinad on pleekinud.",
+      "actions": [
+        "Tsiviilisik liigub kiiresti trepist alla",
+        "Valvurid seisavad paigal valves",
+        "Valvurid hoiavad püsse või ritvasid"
+      ],
+      "keywords": [
+        "Vana hoone",
+        "Valvurid",
+        "Tsiviilisik",
+        "Trepp",
+        "Sissepääs",
+        "Liikumine",
+        "Munder",
+        "Embleem",
+        "Propaganda",
+        "Lagunenud"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone",
+        "Trepp",
+        "Uks",
+        "Valvurid",
+        "Tsiviilisik",
+        "Vormiriietus",
+        "Mütsid",
+        "Püssid",
+        "Bännerid",
+        "Embleemid",
+        "Punane täht"
+      ],
+      "colorcodes": [
+        "#A09E9C",
+        "#BFC4C7",
+        "#CF2A28",
+        "#1F2225",
+        "#F8F8F8",
+        "#4F382E"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks valvurit",
+        "Üks tsiviilisik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Tsiviilisiku asukoht trepil muutub kaadrite vahel, näidates tema liikumist ülesvalt allapoole.",
+        "Esimesel pildil on tsiviilisik trepi ülemises osas, teisel keskel ja kolmandal pildil on ta jõudnud trepi alumisele osale."
+      ],
+      "snr": "003",
+      "ajad": [
+        "70.000",
+        "70.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vana ja veidi räsitud hoone välisukse esist, millele viib üles lai betoontrepp. Hoone fassaadi ilmestavad kaks suurt valget bännerit või otse seinale maalitud sümbolit, mis paiknevad ukse mõlemal küljel. Igal bänneril on punane ja must viieharuline täht, millele on lisatud stiliseeritud tiivad või 'A'-tähe kuju, andes edasi ametliku ja autoritaarse tunde. Ukse ees seisavad sammudel kaks valvurit, mõlemad vormiriietuses – helehallid jakid, tumedad püksid ja peakatted – ning hoiavad käes vintpüsse. Stseeni keskmeks on tsiviilisikust mees, riietatud pruuni tvīdjakki ja tumedatesse pükstesse, kes läheneb uksele. Üks valvuritest suhtleb temaga, esialgu justkui juhendades või kontrollides tema sissepääsu. Seejärel ulatab mees valvurile pruuni portfelli. Pärast portfelli üleandmist siseneb mees hoonesse ja kaob osaliselt silmist, samal ajal kui valvurid jäävad liikumatult valveseisangusse. Üldine atmosfäär on tõsine ja ametlik, vihjates võimalikule ajaloolisele või post-Nõukogude kontekstile. Piltide kohal on näha ka taevast, mis on kahvatuhall ja pilvine, ning piltidel on näha tiitriteksti.",
+      "actions": [
+        "Tsiviilisik astub hoone trepist üles",
+        "Vasakpoolne valvur interakteerub tsiviilisikuga",
+        "Tsiviilisik ulatab valvurile portfelli",
+        "Tsiviilisik siseneb hoonesse",
+        "Kaks valvurit seisavad valveseisangus, hoides püsse"
+      ],
+      "keywords": [
+        "Vana hoone",
+        "Sissepääs",
+        "Trepp",
+        "Valvurid",
+        "Vormiriietus",
+        "Sümboolika",
+        "Täht",
+        "Tiivad",
+        "Autoritaarne",
+        "Ajalooline",
+        "Portfell",
+        "Üleandmine",
+        "Tiitrid"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone",
+        "Trepp",
+        "Uksed",
+        "Aknad",
+        "Bännerid/Sildid",
+        "Embleem/Sümbol (punane-must täht tiibadega)",
+        "Valvurite mütsid",
+        "Valvurite vormid",
+        "Püssid/Vintpüssid",
+        "Portfell",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#b2afa8",
+        "#d4d0c9",
+        "#8f8a84",
+        "#ffffff",
+        "#cc0000",
+        "#000000",
+        "#c0c0c0",
+        "#303030",
+        "#553322",
+        "#705030",
+        "#808080",
+        "#d0d0d0"
+      ],
+      "texts": [
+        "PRODUTSENT",
+        "HANNA KRUUSI"
+      ],
+      "persons": [
+        "Valvur 1 (vasakul)",
+        "Valvur 2 (paremal)",
+        "Tsiviilisik/Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on tsiviilisik just trepile astumas, vasakpoolne valvur hoiab teda käevarrest kinni või juhendab teda.",
+        "Teisel pildil ilmub ekraanile tekst 'PRODUTSENT HANNA KRUUSI'. Tsiviilisik on pööratud vasakpoolse valvuri poole ja annab talle üle pruuni portfelli.",
+        "Kolmandal pildil on tsiviilisik juba hoonesse sisenenud, näha on ainult tema seljaosa. Mõlemad valvurid on tagasi rangelt valveseisangus ja vaatavad otse ette, enam nad tsiviilisikuga ei suhtle."
+      ],
+      "snr": "004",
+      "ajad": [
+        "70.800",
+        "97.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja ülerahvastatud kontorit või arhiivi, mille seinad on kaetud paberite, dokumentide ja raamatutega täidetud riiulitega. Kesksel kohal on kirjutuslaud, mida valgustab laualamp, luues sooja, kuid piiratud valgusvihu ümbritsevas pimeduses. Laual on vanaaegne kirjutusmasin, pabervirnad ja templipadi. Stseenis ilmub kaaderisse mees ülikonnas, kes alguses seisab laua taga, vaatab allapoole ja seejärel istub maha, justkui valmistudes tööle või juba alustades dokumendihunnikutega tegelemist. Riiulid ja põrand laua ümber on samuti täis paberipakikesi, mis annab edasi tohutu töömahu või arhiivi mulje. Üldine õhkkond on töökas ja detailirohke, kuid veidi rõhuv.",
+      "actions": [
+        "Mees siseneb kaadrisse (implitsiitselt)",
+        "Mees seisab laua taga",
+        "Mees vaatab allapoole lauale",
+        "Mees istub laua taha",
+        "Mees valmistub tööle (kirjutusmasinaga)"
+      ],
+      "keywords": [
+        "Arhiiv",
+        "Kontor",
+        "Dokumendid",
+        "Paberid",
+        "Raamatud",
+        "Hämarus",
+        "Töötamine",
+        "Ülekoormus",
+        "Vanaaegne",
+        "Kirjutusmasin",
+        "Kurnatus",
+        "Kord",
+        "Rutiin"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Riiulid",
+        "Raamatud",
+        "Paberid",
+        "Dokumendid",
+        "Virnad",
+        "Kirjutuslaud",
+        "Laualamp",
+        "Kirjutusmasin",
+        "Templipadi",
+        "Väike kuju/figuur",
+        "Mees"
+      ],
+      "colorcodes": [
+        "#352B20",
+        "#4A3C2B",
+        "#C19E6E",
+        "#9B7F59",
+        "#E0E0E0",
+        "#1A1A1A"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (ülikonnas)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on kaaderis ainult tühi, valgustatud töökoht koos riiulite ja paberitega, mees puudub.",
+        "Teisel pildil seisab mees laua taga, vaadates allapoole, justkui mõtiskledes või valmistudes tegevuseks.",
+        "Kolmandal pildil on mees maha istunud laua taha, valmis tööle asuma või juba alustades kirjutusmasinaga."
+      ],
+      "snr": "005",
+      "ajad": [
+        "97.120",
+        "122.120"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivaates laua taga toimetava isiku käsi, kes tegeleb põhjaliku paberimajandusega. Laud on kaetud virnade viisi vanade paberite ja kaardikestega, mis annab edasi bürokraatliku või arhiveerimisega seotud tegevuse tunde. Paremal pool laual on näha suured virnad pabereid, millest mõned on kokku seotud nööriga, ning hulgaliselt väikeseid ruudustikuga kaarte. Vasakul pool laual on vana Olivetti Dora kirjutusmasin. Isik kannab ruudulist pintsakut ja heledat särki. Valgus on soe ja suunatud, luues intiimse ja keskendunud tööõhustiku.",
+      "actions": [
+        "Kaartide tembeldamine",
+        "Kaartide käsitsemine ja sortimine",
+        "Kirjutusmasinaga töötamine (kaudselt)"
+      ],
+      "keywords": [
+        "Kontoritöö",
+        "Paberimajandus",
+        "Arhiveerimine",
+        "Vintage",
+        "Büroo",
+        "Käsitsitöö",
+        "Templiga löömine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kirjutusmasin (Olivetti Dora)",
+        "Paberivirnad",
+        "Väikesed kaardid",
+        "Tempel",
+        "Tindipadi",
+        "Puidust laud",
+        "Ruuduline pintsak"
+      ],
+      "colorcodes": [
+        "#D4C3A3",
+        "#6A4B3A",
+        "#F0F0E0",
+        "#A06030",
+        "#202020"
+      ],
+      "texts": [
+        "olivetti DORA",
+        "A.H. Gremn",
+        "polüür",
+        "W. 539/19",
+        "Stappejs"
+      ],
+      "persons": [
+        "Isik (käed ja riietus on nähtavad)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil hoiab vasak käsi väikest kaarti tekstiga \"A.H. Gremn\", parem käsi on templipadja lähedal, justkui valmistudes tembeldamiseks või asetades templi tagasi.",
+        "Teisel pildil on vasak käsi asetanud uue kaardi lauale, millel on tähekujuline logo ja tekst \"polüür\", parem käsi on veidi eemaldunud tindipadjast ja liigub üle kaardi.",
+        "Kolmandal pildil lööb parem käsi templiga kaardile, millel on tekst \"W. 539/19\" ja \"Stappejs\". Vasak käsi hoiab kaarti paigal. Tindipadi on selgelt nähtaval."
+      ],
+      "snr": "006",
+      "ajad": [
+        "122.120",
+        "129.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest, kes töötab intensiivselt tohutus, vanamoelises arhiivis või kontoris. Ta istub keset ruumi suvaliselt kuhjatud dokumentide ja raamatute keskel puitlaua taga. Mees on riietatud retrohõngulisse ruudulisse või kalasaba mustriga pintsakusse, heledasse särki ja lipsu, mis viitab vanemale ajastule. Tema töökoht on valgustatud otsese, sooja lauvalgusti valgusega, mis heidab eredat kuma paberitele ja kirjutusmasinale, samal ajal kui ülejäänud ruum on sügavalt varjus ja sepia-toonides. Põrandast laeni ulatuvad riiulid on üle koormatud lugematute köidete, kaustade ja paberivirnadega, mis loovad mulje lõputust bürokraatiast või teabehulgast. Laual on näha vanaaegne kirjutusmasin, templi taoline ese ja hulgaliselt virnastatud dokumente. Üldine atmosfäär on sünge, studeeriv ja kohati rõhuv, andes edasi salapärase ja pingsa töö miljööd.",
+      "actions": [
+        "Mees istub laua taga",
+        "Kummardub dokumentide kohale",
+        "Sirutab käe eseme poole laual (võimalik tempel)",
+        "Uurib pabereid",
+        "Tegeleb dokumentidega"
+      ],
+      "keywords": [
+        "Arhiiv",
+        "Kontor",
+        "Vanamoodne",
+        "Dokumendid",
+        "Paberimajandus",
+        "Sepia",
+        "Öine töö",
+        "Keskendumine",
+        "Salapärane",
+        "Ametnik",
+        "Kirjutusmasin",
+        "Ületöötanud",
+        "Retro",
+        "Vintage",
+        "Müstika"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kirjutuslaud",
+        "Kirjutusmasin",
+        "Lauvalgusti",
+        "Raamatud",
+        "Dokumendid",
+        "Paberivirnad",
+        "Riiulid",
+        "Ülikond",
+        "Särk",
+        "Lips",
+        "Templi taoline ese"
+      ],
+      "colorcodes": [
+        "#332F2A",
+        "#7C5F4D",
+        "#E3D9C9",
+        "#8C7B65",
+        "#5A4D41"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe poos ja käte asend laual muutuvad kergelt kaadrite vahel: ühel hetkel sirutab ta käe paremal pool asuva eseme poole (võimalik tempel), teisel hetkel hoiab ta käsi paberite kohal, kummardudes neile lähemale.",
+        "Mehe pea asend ja pilgu suund varieeruvad veidi, mis annab edasi tema pidevat keskendumist ja tegevust dokumentidega."
+      ],
+      "snr": "007",
+      "ajad": [
+        "129.920",
+        "138.160"
+      ]
+    },
+    {
+      "explanation": "Tume, intiimne ja korraldatud, kuid samas täis dokumente stseen kujutab meest, kes istub laua taga, mis on valgustatud lauapirni kollaka valgusega. Ta on riietatud ruudulisse pintsaku ja lipsu, mis viitab ametlikule või professionaalsele rollile. Mees tegeleb suure paberipaki või kaustaga, mis on nööriga kokku seotud. Laual on ka vintage stiilis kirjutusmasin. Taustaks on näha riiulid, mis on tihedalt täidetud paberkandjal dokumentide ja kaustadega, luues arhiivi või uurimisasutuse õhkkonna. Mehe näoilme on tõsine ja keskendunud, viidates süvenemisele tööülesandesse või uurimistöösse. Üldine meeleolu on salapärane ja tõsine, rõhutades intellektuaalset tööd pimedas toas.",
+      "actions": [
+        "Mees sirutab käe paberipaki poole",
+        "Mees võtab paberipaki kätte",
+        "Mees hoiab paberipakki käes",
+        "Mees vaatab paberipakki",
+        "Mees töötab laua taga"
+      ],
+      "keywords": [
+        "Arhiiv",
+        "Uurija",
+        "Ajakirjanik",
+        "Büroo",
+        "Dokumendid",
+        "Paberid",
+        "Kirjutusmasin",
+        "Süngus",
+        "Töö",
+        "Keskendumine",
+        "Retro",
+        "Vintage",
+        "Öine",
+        "Salajane",
+        "Ruum",
+        "Ametlik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Paberipakid",
+        "Dokumendid",
+        "Nöör",
+        "Kirjutusmasin",
+        "Laualamp",
+        "Laud",
+        "Riiulid",
+        "Kaustad riiulitel",
+        "Raamatud riiulitel",
+        "Ruuduline pintsak",
+        "Särk",
+        "Lips"
+      ],
+      "colorcodes": [
+        "#8B6B4C",
+        "#6A4B30",
+        "#E0D8C7",
+        "#F2EFE8",
+        "#FFC800",
+        "#F0A000",
+        "#302C26",
+        "#201E1A"
+      ],
+      "texts": [
+        "Käekiri paberipakil (pole loetav)"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil sirutab mees käe paberipaki poole, tema nägu pole selgelt näha.",
+        "Teisel pildil hoiab mees paberipakki käes, tema nägu on näha ja ta vaatab paberipakki.",
+        "Kolmandal pildil on mehe pilk intensiivsem ja ta on paberipakiga süvenenud, kaamera on pisut lähemale suumitud.",
+        "Kaamera fookus ja nurk muutuvad veidi, rõhutades mehe tegevust ja näoilmet."
+      ],
+      "snr": "008",
+      "ajad": [
+        "138.160",
+        "148.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast hämarat, ülekoormatud kontorit või arhiivi, mis on täidetud tohutute paberivirnade ja raamatutega. Suurem osa ruumist on kaetud põrandast laeni ulatuvate riiulitega, mis on tihedalt täis dokumente, kaustu ja raamatuid, luues kaootilise ja kurnava mulje. Ruumis valitseb üldine kollakaspruun ja tumedates toonides värvigamma, mis annab edasi vana ja tolmuse atmosfääri. Stseeni keskel on puidust kirjutuslaud, mis on samuti kaetud paberitega. Laual põleb ere lauavalgusti, mis heidab sooja kollast valgust ainult kitsale tööpinnale, jättes ülejäänud ruumi sügavatesse varjudesse. Alguses istub laua taga ülikonnas mees, kes on süvenenud paberite uurimisse ja sorteerimisse. Tema tegevus näib olevat intensiivne ja pingeline. Hiljem tõuseb mees lauast püsti ja lahkub kaadrist vasakule, jättes laua tühjaks.",
+      "actions": [
+        "Mees istub laua taga",
+        "Mees sirvib ja sorteerib pabereid",
+        "Mees tõuseb lauast püsti",
+        "Mees lahkub kaadrist"
+      ],
+      "keywords": [
+        "Kontor",
+        "Arhiiv",
+        "Raamaturiiulid",
+        "Paberivirnad",
+        "Hämar",
+        "Laualamp",
+        "Uurimine",
+        "Töö",
+        "Ületöötamine",
+        "Segadus",
+        "Vanamoodne",
+        "Süvenemine"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Meest",
+        "Kontorilaud",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Paberivirnad",
+        "Dokumendid",
+        "Lauavalgusti",
+        "Kruus",
+        "Väike monitor/sülearvuti",
+        "Pastakas/pliiats",
+        "Paberihoidja"
+      ],
+      "colorcodes": [
+        "#4a3a2d",
+        "#b38b4d",
+        "#e0e0e0",
+        "#201e1a",
+        "#7c5e32",
+        "#d4ae6d"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil istub mees laua taga ja tegeleb paberitega, tema ülakeha on selgelt nähtav.",
+        "Teisel pildil on mees tõusmas lauast ja liikumas kaadrist vasakule, tema selg on osaliselt näha ja liikumisest tingituna kergelt udune.",
+        "Kolmandal pildil on mees kaadrist peaaegu täielikult lahkunud, laud on temast tühi, välja arvatud kerge uduvines liikumise jälg kaadri vasakus servas."
+      ],
+      "snr": "009",
+      "ajad": [
+        "148.720",
+        "152.360"
+      ]
+    },
+    {
+      "explanation": "Stseen areneb vanas, osaliselt lagunenud hoones, mis vihjab ajaloolisele perioodile või mahajäetud paigale. Seinad on koorunud, pakkudes murenenud elegantsi üldmuljet. Valgustus on sageli summutatud, loomuliku valguse kiired akendest valgustavad tolmukübemeid õhus, luues melanhoolse õhkkonna. Esialgu jäädvustab kaamera figuure, kes liiguvad läbi suure, tühja ruumi kõrgete lagede ja suurte puitustega. Mitmed mehed on riietatud tumedatesse, peaaegu mantlisarnastesse rõivastesse ja neil on nokkmütsid, mis annavad neile aukartust äratava, ametliku, võimalik, et sõjaväelise või poolsõjaväelise välimuse. Samas ruumis kõnnib otstarbekalt ka teine mees, eristudes pruuni tviidjakiga ja lipsuga, hoides samal ajal virna pabereid. Tema lause \"Ma muutsin meelt. Kamtšatkale!\" annab mõista olulisest otsusest või käsust. Nende liikumiste ajal on taustal näha teisi vormis mehi, kes erinevad tumedates rüüdes figuuridest, kuid kannavad sarnaseid sõjaväelisi halli jakke punaste õlapaeltega ja nokkmütse, ilmudes valvurite või saatjatena. Stseen siirdub seejärel ametlikule kogunemisele teises, kuid samuti vanas toas. Seal on pika puitlaua ümber istumas suur rühm mehi, kõik ühtemoodi riietatud hallidesse sõjaväelistesse jakkidesse punaste paeltega ja nokkmütsidesse. Nad näivad olevat hõivatud ametliku koosolekuga, kirjutades hoolikalt või vaadates lauale laotatud dokumente. Tviidjakis mees on samuti kohal, seistes laua lähedal, näides endiselt olevat juhtival või järelevalve rollis, võimalik, et jagades või kogudes pabereid. Üldine mulje on tõsisest, võimalik, et salajasest või rangelt ametlikust bürokraatlikust sündmusest, mis toimub ajaloo ja ehk ka askeetlikkuse hõnguga keskkonnas.",
+      "actions": [
+        "kõndimine",
+        "käskude andmine",
+        "pabereid hoidmine",
+        "seismine",
+        "istumine",
+        "kirjutamine",
+        "dokumentide ülevaatamine"
+      ],
+      "keywords": [
+        "ajalooline",
+        "sõjaväeline",
+        "bürokraatia",
+        "kokkusaamine",
+        "otsus",
+        "hoone varemed",
+        "ametlik",
+        "dokumentatsioon",
+        "Kamtšatka",
+        "tviidjakk",
+        "vormiriietus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "puituksed",
+        "koorunud seinad",
+        "aken",
+        "puitpõrand",
+        "mantlisarnased rõivad",
+        "nokkmütsid",
+        "sõjaväevormid",
+        "embleemid",
+        "dokumendid",
+        "paberid",
+        "tviidjakk",
+        "lips",
+        "pikk puitlaud",
+        "toolid"
+      ],
+      "colorcodes": [
+        "#383B3C",
+        "#6B5D4E",
+        "#7F221B",
+        "#B9B0A3",
+        "#4C3C2C"
+      ],
+      "texts": [
+        "I changed my mind. To Kamchatka!"
+      ],
+      "persons": [
+        "mehed",
+        "ametnikud",
+        "sõdurid",
+        "ülemus"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevad ruumid (suur tühi ruum vs. koosolekuruum).",
+        "Erinevad tegevused (liikumine ja käskude andmine vs. laua taga istumine ja dokumentide täitmine).",
+        "Erinevad riietused tegelastel (mõnes kaadris tumedad mantlisarnased rõivad, teises kaadris tsiviilriietus, kolmandas kaadris domineerivad hallid mundrid punaste õlapaeltega).",
+        "Kaadrite fookus (üksikud liikumises olevad tegelased vs. suur grupp laua taga).",
+        "Teksti olemasolu ühel kaadril."
+      ],
+      "snr": "010",
+      "ajad": [
+        "152.360",
+        "172.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab koosolekut või istungit hämaras, tolmuses ruumis, kus valgus tungib sisse suurtest akendest, luues uduse ja salapärase atmosfääri. Keskmes on mees ülikonnas, tõenäoliselt ametnik või sekretär, kes seisab ja suhtleb laua taga istuvate meestega. Laua taga istuvad mitmed mehed militaarstiilis hallikasrohelistes vormides, millel on punased õlakud ja punaste tärnidega mütsid. Üks neist, noorem mees, suitsetab ühes kaadris ja teises kuulab tähelepanelikult, käed laual. Ülikonnas mees edastab mingisugust teavet või otsust, öeldes \"Kardan, et see ei ole võimalik.\" Stseenis valitseb tõsine ja pingeline õhkkond, mis viitab olulisele ja võimalik, et keerulisele olukorrale.",
+      "actions": [
+        "Istumine laua taga",
+        "Paberite hoidmine ja nendega toimetamine",
+        "Rääkimine",
+        "Kuulamine",
+        "Suitsetamine (sigareti hoidmine suus)",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Koosolek",
+        "Istung",
+        "Nõukogude aeg",
+        "Militaarvorm",
+        "Pingeline õhkkond",
+        "Otsustamine",
+        "Sekretär",
+        "Siseruum",
+        "Ajalooline",
+        "Dokumendid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Paberid (dokumendid)",
+        "Laud",
+        "Aknad",
+        "Militaarvormid",
+        "Mütsid punase tärniga",
+        "Sigaret",
+        "Ülikond"
+      ],
+      "colorcodes": [
+        "#726C6B",
+        "#A89F8B",
+        "#A11F1F",
+        "#D4D4D4",
+        "#4A4541"
+      ],
+      "texts": [
+        "I'm afraid, that's not possible.",
+        "Kardan, et see ei ole võimalik."
+      ],
+      "persons": [
+        "Ametnik/sekretär (mees ruudulises ülikonnas)",
+        "Militaarametnikud/sõdurid (mehed hallikasrohelistes vormides punaste õlakute ja punase tärniga mütsidega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimeses ja teises kaadris on ülikonnas mees selgemalt nähtav, kolmandas kaadris on tema figuur tumeda siluetina kaadri keskel, varjutades paberid ja fookus on nihkunud istujatele.",
+        "Teises kaadris on näha subtiitrid (\"I'm afraid, that's not possible.\"), mis teistes kaadrites puuduvad.",
+        "Istuv mees vasakul on esimeses kaadris näha peamiselt seljaga, teises kaadris profiilis sigaretiga suus ja kolmandas kaadris on ta näoga kaamera poole, ilma sigaretita, käed laual või põlvedel.",
+        "Kaameranurk ja fookus muutuvad kaadrite vahel, liikudes üldisemast vaatest istuvate isikute detailsematele lähivõtetele."
+      ],
+      "snr": "011",
+      "ajad": [
+        "172.560",
+        "203.360"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumides, mis näib olevat vana ja ametlik hoone, heledate, veidi kulunud seinte ja uduse õhkkonnaga, mis võib viidata tolmule või suitsule. Ruumis viibib mitu inimest, mis annab aimu formaalsest kogunemisest, tõenäoliselt kohtuistungist või ülekuulamisest. Esiplaanil, seljaga kaamera poole, on näha hallis vormis ja punaste õlakutega isikut, kellel on peas hall karusnahast müts. Temast vasakul istub veel üks sarnases militaarstiilis hallis vormis ja karusnahast mütsiga isik. Paremal pool istuvad kaks meest samuti hallides militaarstiilis vormides, karusnahast ääristega kraedega ja hallide karusnahast mütsidega, millel on punased tähed. Üks neist kirjutab aktiivselt paberitele pliiatsiga. Kesksel kohal seisab mees iseloomulikus pruun-beežis ruudulises ülikonnas lipsuga, kes liigub istuvate isikute vahel, hoides käes pabereid. Alguses paistab ta üllatunud või väljendab end rõhutatult, ning toimub dialoog, kus keegi küsib \"tuletõrjepommidest\", kuid see vaigistatakse kiiresti käsuga \"vaikust\" ja \"asja juurde\". Hiljem tundub mees olevat keskendunum oma paberitele. Stseenis valitseb tõsine ja formaalne meeleolu, kus on tunda autoriteeti ja pinget. Stseeni alguses on näha ka tume, tõenäoliselt karusnahast riietatud figuur, kelle jalad ripuvad, mis annab stseenile salapärase ja ebatavalise lisamõõtme.",
+      "actions": [
+        "Rääkimine",
+        "Reageerimine",
+        "Paberite hoidmine",
+        "Kirjutamine",
+        "Istumine",
+        "Seismine",
+        "Vahele segamine (implitsiitne)",
+        "Vaikust nõudmine"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Kohtuistung",
+        "Ülekuulamine",
+        "Militaarvorm",
+        "Bürokraatia",
+        "Paberimajandus",
+        "Pinge",
+        "Hall",
+        "Must",
+        "Pruun",
+        "Mütsid",
+        "Vormirõivad",
+        "Retro",
+        "Ametlik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Paberid",
+        "Pliiats",
+        "Karusnahast mütsid",
+        "Karusnahast kraed",
+        "Vormirõivad",
+        "Ülikond",
+        "Lips",
+        "Laud (eeldatav)"
+      ],
+      "colorcodes": [
+        "#6F7273",
+        "#424647",
+        "#A1A3A4",
+        "#A68D6E",
+        "#8C755E",
+        "#A32D2D",
+        "#1A1A1A",
+        "#D4D1C7"
+      ],
+      "texts": [
+        "But what about the fire bombs...",
+        "-Silence! To the point!"
+      ],
+      "persons": [
+        "Mehed",
+        "Sõjaväelased",
+        "Ametnik",
+        "Istuvad isikud",
+        "Seisev isik",
+        "Karusnahka riietatud isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaamera nurk muutub kaadrite vahel, näidates erinevaid isikuid või detaile rohkem või vähem.",
+        "Tumeda karusnahka riietatud figuur on esimeses kaadris nähtavam ja järgmistes vähem esil.",
+        "Ruudulises ülikonnas mehe näoilme ja kehahoiak muutuvad empaatilisest/üllatunud olekust keskendunumaks.",
+        "Subtiitrid ilmuvad teises kaadris.",
+        "Kirjutamise tegevus muutub nähtavaks kolmandas kaadris."
+      ],
+      "snr": "012",
+      "ajad": [
+        "203.360",
+        "214.040"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumis, mis on suure tõenäosusega vana ja kulunud saal või büroo. Seinad on kooruvast värvist, andes ruumile räsitud ja ajahamba puretud ilme. Ruumis on pikk puidust laud, mille ümber istuvad ja liiguvad neli meest. Kolm meest kannavad militaarstiilis halle-rohekaid mundreid punaste õlaaktsentidega ja nokkmütse, millel on punane viisnurk. Laua keskel istuv vormis mees on vuntsidega ning tema pilk kõigub otse ette vaatamise ja laual olevatele paberitele süvenemise vahel. Temast vasakul istuv vormis mees on süvenenud paberitesse. Laua paremal äärel on näha veel üks vormis mees. Neljas mees, tsiviilriietes, ruudulises pintsakus, liigub stseeni jooksul, vaadates esmalt üle vasaku vormis mehe õla ja hiljem asetades käe suu ette, justkui sosistaks või oleks üllatunud keskmise vormis mehe taga seistes. Taustal, läbi ukseava, on näha veel vähemalt kaks vormis meest, kes paistavad olevat valvurid. Õhkkond on tõsine ja pisut sünge, viitades võimalikule ülekuulamisele, nõupidamisele või kohtumisele olulisel hetkel.",
+      "actions": [
+        "Istumine laua taga",
+        "Paberite lugemine ja uurimine",
+        "Pilkude vahetamine",
+        "Suu katmine käega",
+        "Sosistamine või üllatuse väljendamine",
+        "Liikumine ruumis",
+        "Valvepidamine"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Koosolek",
+        "Sõjavägi",
+        "Mundrid",
+        "Punane viisnurk",
+        "Laud",
+        "Paberid",
+        "Vana ruum",
+        "Räsitud",
+        "Nõukogude ajastu",
+        "Kommunistlik",
+        "Külm õhkkond",
+        "Kontor",
+        "Uurimine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Piklik puidust laud",
+        "Paberid/dokumendid",
+        "Sõjaväemütsid punaste viisnurkadega",
+        "Halli-rohelised mundrid",
+        "Punased õlaaktsendid",
+        "Ruuduline pintsaks",
+        "Kooruvate seintega ruum",
+        "Dekoratiivsed pilastrid/sambad seintel",
+        "Ukseava",
+        "Puidust põrandalauad",
+        "Pink (taustal)"
+      ],
+      "colorcodes": [
+        "#8C8D8B",
+        "#CFCBC4",
+        "#606A61",
+        "#2D2E2B",
+        "#C82A2D",
+        "#DDCFC5",
+        "#74472F"
+      ],
+      "texts": [],
+      "persons": [
+        "Keskmine vormis mees (vuntsidega)",
+        "Vasakpoolne vormis mees",
+        "Parempoolne vormis mees",
+        "Tsiviilriietes mees (ruudulise pintsakuga)",
+        "Valvurid (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Tsiviilriietes mees ilmub stseeni vasaku vormis mehe selja tagant ja liigub hiljem keskmise vormis mehe taha, asetades käe suu ette, justkui sosistades või mingeid uudiseid edastades.",
+        "Keskmise vormis mehe pilk ja kehakeel muutuvad: esimeses kaadris vaatab ta otse ette, teises on ta pilk suunatud paberitele ning kolmandas kaadris on ta taas pilguga ettepoole, samal ajal kui tsiviilisik tema selja taha ilmub.",
+        "Vasakpoolne vormis mees on kõigis kaadrites süvenenud paberitesse, aga tema kohalolu ja fookus stseenis muutuvad sõltuvalt tsiviilisiku liikumisest ja teiste tegelaste positsioonidest."
+      ],
+      "snr": "013",
+      "ajad": [
+        "214.040",
+        "222.640"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kaks meest siseruumis, mis tundub olevat vanem või kulunud, heledates toonides tapeediga. Peategelane on mees, kes kannab ruudulist pruunikaid toone pintsakut, triibulist lipsu ja heledat särki. Alguses vaatab ta sügavalt alla, käed on risti või kokku pandud, mis annab edasi mõtliku või mureliku oleku. Seejärel tõstab ta pilgu, tema näoilme muutub intensiivsemaks ja murelikumaks, suu on kergelt avatud, justkui ta oleks midagi kuulmas või ütlemas. Viimases kaadris ilmub esiplaanile osaliselt teine mees, kelle peas on hall müts musta äärega valge ruudu ja punase viisnurgaga. Mõlema mehe ilme on tõsine ja keskendunud, vihjates olulisele ja pingelisele hetkele.",
+      "actions": [
+        "Vaatab alla",
+        "Klassib käsi",
+        "Tõstab pilgu",
+        "Kummardub ettepoole",
+        "Vaatab murelikult",
+        "Räägib või hingeldab (suu avatud)"
+      ],
+      "keywords": [
+        "Mehed",
+        "Siseruum",
+        "Ruuduline pintsak",
+        "Lips",
+        "Müts",
+        "Punane täht",
+        "Nõukogude sümboolika",
+        "Murelik",
+        "Tõsine",
+        "Intensiivne",
+        "Vestlus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Plaaditud pintsak",
+        "Triibuline lips",
+        "Hele särk",
+        "Hall müts",
+        "Punase tähega embleem",
+        "Tapeet"
+      ],
+      "colorcodes": [
+        "#8C7A70",
+        "#D8CFC5",
+        "#5A4D45",
+        "#9E9086",
+        "#404040",
+        "#C82D2D",
+        "#FFFFFF",
+        "#B0A292"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees plaaditud pintsaku ja lipsuga",
+        "Mees halli mütsiga"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Peategelase pilgu suund muutub allapoole vaatamisest ülespoole ja ettepoole vaatamiseks.",
+        "Peategelase näoilme muutub mõtlikust või kontsentreeritust murelikuks ja intensiivseks.",
+        "Kolmandal pildil ilmub kaadrisse teine tegelane, kelle peas on hall müts punase viisnurga sümboliga.",
+        "Kaamera nurk ja fookus nihkub, et kaasata teine tegelane ja rõhutada peategelase reageeringut."
+      ],
+      "snr": "014",
+      "ajad": [
+        "222.640",
+        "239.640"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumis, mis on ilmselt vana ja lagunenud hoone suur saal või tuba. Seinad on koorunud krohviga ja näivad kulunud, andes ruumile melanhoolse ja ajaloolise atmosfääri. Tagaseinas on näha ukseava ja kaugemal udune figuur. Ruumis domineerivad hallikad ja pruunikad toonid. Esiplaanil istub mees, seljas hallikaspruun militaarstiilis keep või tekk ja peas samast materjalist müts, millel on punane viisnurk. Tal on näha vuntsid ja ta on süvenenud millegi vaatamisse või kirjutamisse allapoole. Tema taga seisab teine mees, seljas pruunikiru ruuduline pintsak, valge särk ja lips. Ta vaatab istuvat meest tähelepanelikult, kergelt ettepoole kummardudes, justkui jälgiks või juhendaks teda. Stseenis valitseb tõsine ja keskendunud meeleolu, mida rõhutab sombune valgus.",
+      "actions": [
+        "Istuv mees on süvenenud lugemisse või kirjutamisse",
+        "Seisev mees jälgib istuvat meest"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Vana hoone",
+        "Lagunenud seinad",
+        "Sõjaväevorm",
+        "Nõukogude sümboolika",
+        "Jälgimine",
+        "Süvenemine",
+        "Tõsine meeleolu",
+        "Hallid toonid",
+        "Pruunid toonid",
+        "Ajalooline"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees (istuv)",
+        "Mees (seisev)",
+        "Müts punase tähega",
+        "Keep/tekk",
+        "Ruuduline pintsak",
+        "Särk",
+        "Lips",
+        "Seinad",
+        "Koorunud krohv",
+        "Dekoratiivsed liistud",
+        "Ukseava",
+        "Põrand",
+        "Paber/objekt põrandal"
+      ],
+      "colorcodes": [
+        "#B8B5AC",
+        "#7C7E7B",
+        "#9B2123",
+        "#6C5643",
+        "#E2E4E1",
+        "#A6A39B"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks meest esiplaanil",
+        "Üks udune figuur taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Istuv mees muudab kergelt oma pea asendit ja pilgu suunda piltide vahel, samuti käe asendit.",
+        "Seisva mehe pilgu suund muutub kergelt, keskendudes järjest enam istuva mehe ülakehale ja näole.",
+        "Esimesel pildil on vasakul all põrandal näha paberileht või sarnane objekt, mis järgmistel piltidel on kas nihkunud või jääb varju."
+      ],
+      "snr": "015",
+      "ajad": [
+        "239.640",
+        "256.320"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub suures, vanas ja veidi räsitud ruumis, millel on kõrged hallikad krohvseinad, kõrged laed ja massiivsed puituksed tagaplaanil. Õhk on täis kerget udu või suitsu, mis annab stseenile salapärase ja veidi sünge tonaalsuse. Ruumis on kesksel kohal pikk puidust laud, mille ümber istub rühm mehi, kes kannavad sarnaseid hallides toonides militaarstiilis talvepalituid ja nokamütse; mõnel neist on riietuses punaseid aktsente (kraed või sallid). Nad on süvenenud paberitega tegelemisse, kirjutavad ja paistavad arutlevat või koosolekut pidavat. Paremal pool esiplaanil ja keskel liigub ringi mees tsiviilriietuses – tal on seljas pruunikirju ruuduline pintsak, valge särk ja triibuline lips. Ta on energiline, žestikuleerib ja tundub olevat autoriteetses rollis, rääkides või andes juhiseid. Tagaplaanil, uste lähedal, seisab tume ja ähmane kuju, mis on raskesti defineeritav, lisades stseenile mõnevõrra kummitusliku või ähvardava varjundi. Üldine atmosfäär on tõsine, ametlik ja pingeline, rõhutades olulist hetke või otsuste langetamist.",
+      "actions": [
+        "Arutlemine",
+        "Kirjutamine",
+        "Paberitega tegelemine",
+        "Kõndimine",
+        "Rääkimine",
+        "Käskude andmine",
+        "Kuulamine"
+      ],
+      "keywords": [
+        "Ajalooline",
+        "Militaar",
+        "Koosolek",
+        "Tõsine",
+        "Formaalne",
+        "Vana ruum",
+        "Udune",
+        "Sünge",
+        "Otsustamine",
+        "Nõukogu",
+        "Interjöör"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Puidust laud",
+        "Puidust toolid",
+        "Paberid",
+        "Pastakad",
+        "Militaarstiilis palitud",
+        "Nokamütsid",
+        "Lips",
+        "Pintsak",
+        "Uksed",
+        "Seinad",
+        "Tume kuju",
+        "Sallid"
+      ],
+      "colorcodes": [
+        "#808080",
+        "#A0522D",
+        "#000000",
+        "#FFFFFF",
+        "#8B0000",
+        "#C0C0C0",
+        "#404040"
+      ],
+      "texts": [
+        "Find a solution!",
+        "In the name of the boot, you are useless."
+      ],
+      "persons": [
+        "Sõdurid",
+        "Ametnik (tsiviilis)",
+        "Ähmane kuju"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Tsiviilriietes mehe asukoht kaadris muutub: esimesel pildil on ta paremal, liikudes teises ja kolmandas pildis vasemale ning esiplaanile. Ta on iga pildiga rohkem esiplaanil.",
+        "Esimesel pildil puuduvad subtiitrid, teisel ja kolmandal pildil on subtiitrid \"Find a solution!\" ja \"In the name of the boot, you are useless!\".",
+        "Tsiviilriietes mehe kehahoiak ja käte asend muutuvad vastavalt tema liikumisele ja kõnele."
+      ],
+      "snr": "016",
+      "ajad": [
+        "256.320",
+        "262.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja ülerahvastatud arhiivi või kontorituba, kus riiulid on ääreni täidetud vanade paberite, toimikute ja köidetega. Õhkkond on tihe ja rõhuv, andes aimu lõputust bürokraatiast või ajaloolistest ülestähendustest. Keskel on mees, kes kannab ruudulist pruuni ülikonda, heledat särki ja lipsu, süvenenud oma töösse. Ta on nähtav nii riiulitelt dokumentide otsimas kui ka laua taga vana kirjutusmasinaga tippimas. Tema töölaud on samuti paberitega kaetud ning selle ainsaks oluliseks valgusallikaks on kollakasvalgust kiirgav lauavalgusti. Valgus langeb kirjutusmasinale, paberivirnadele, väikesele ventilaatorile ja raadiole või salvestile. Laual seisab ka raamitud tunnistus pealkirjaga \"SÕJAVÄGISE EHTENDUS TEENETEST\". Ühel hetkel katkestab mees oma tegevuse ja vaatab otse vaataja poole tõsise, võib-olla väsinud pilguga. Stseeni saadab alapealkiri: \"In the name of the boot, you are useless.\", mis lisab üldisele meeleolule lootusetuse ja mõttetuse tunde.",
+      "actions": [
+        "Ulatab käe faili järele",
+        "Tipib kirjutusmasinal",
+        "Vaatab otse kaamerasse/vaataja poole"
+      ],
+      "keywords": [
+        "Arhiiv",
+        "bürokraatia",
+        "paberimajandus",
+        "töö",
+        "süngus",
+        "vintaaž",
+        "väsimus",
+        "ülekoormus",
+        "salapära",
+        "dokumentatsioon",
+        "hämarus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Paberid",
+        "dokumendid",
+        "kaustad",
+        "riiulid",
+        "kirjutusmasin",
+        "laud",
+        "laualamp",
+        "ventilaator",
+        "raadio/salvesti",
+        "raamitud tunnistus",
+        "ülikond",
+        "särk",
+        "lips"
+      ],
+      "colorcodes": [
+        "#4A3C2B",
+        "#8B6F57",
+        "#D4AF37",
+        "#2C2C2C"
+      ],
+      "texts": [
+        "In the name of the boot, you are useless.",
+        "SÕJAVÄGISE EHTENDUS TEENETEST"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kaadrite vahel muutub mehe tegevus ja pilgu suund: esimesel pildil sirutab ta käe riiulilt faili järele, teisel tipib kirjutusmasinal ja kolmandal vaatab otse vaataja poole.",
+        "Kaadri fookus muutub laiemast vaatest riiulitele lähivõttele mehest laua taga."
+      ],
+      "snr": "017",
+      "ajad": [
+        "262.440",
+        "299.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab koosolekut, kus rühm mehi istub ümber pika puidust laua, mis on kaetud paberitega. Mehed on riietatud tumedatesse mantlitesse ja hallidesse mütsidesse, millel on punane täht, mis annab edasi ajaloolise, tõenäoliselt nõukogudeaegse sõjalise või poliitilise koosoleku tunde. Ruum on hämar, kiviseintega ja annab edasi tõsise ja pingelise õhkkonna. Üks mees esiplaanil, kelle selg on algselt kaamera poole, pöörab hiljem oma pea ja pilgu otse kaamera poole. Laua taga on näha ka üks seisev figuur.",
+      "actions": [
+        "Mehed istuvad ümber laua.",
+        "Esiplaanil olev mees pöörab oma pilgu kaamera poole.",
+        "Mõned mehed vaatavad kaamera suunas või veidi kõrvale.",
+        "Üks mees räägib (viidates subtiitrile)."
+      ],
+      "keywords": [
+        "Nõukogude ajastu",
+        "koosolek",
+        "sõjavägi",
+        "ajalooline",
+        "mehed",
+        "punane täht",
+        "mundrid",
+        "strateegia",
+        "hallid toonid",
+        "retro",
+        "konverents",
+        "sisene"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Pikk puidust laud",
+        "Toolid",
+        "Paberid",
+        "Dokumendid",
+        "Tumedad mantlid",
+        "Hallid mütsid",
+        "Punased tähed mütsidel",
+        "Hallid sallid/kraed",
+        "Kiviseinad",
+        "Pastapliiatsid/sulepead"
+      ],
+      "colorcodes": [
+        "#4A4A4A",
+        "#8C8C8C",
+        "#CC0000",
+        "#6B4E3B",
+        "#9C9B9A",
+        "#D4D4D4"
+      ],
+      "texts": [
+        "Let me listen, please!"
+      ],
+      "persons": [
+        "Umbes 10-12 meest",
+        "Esiplaanil istuv mees (pöörab pead)",
+        "Ümber laua istuvad mehed",
+        "Üks seisev mees laua taga",
+        "Kõik mehed on vanuses 30-50 aastat",
+        "Enamikul on vuntsid"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses kaadris on esiplaanil istuv mees seljaga kaamera poole.",
+        "Teises kaadris on esiplaanil istuv mees pööranud pea ja pilgu otse kaamera poole.",
+        "Kolmandas kaadris on sama poos ja pilk nagu teises kaadris, kuid lisandunud on ingliskeelne subtiiter: \"Let me listen, please!\""
+      ],
+      "snr": "018",
+      "ajad": [
+        "299.800",
+        "305.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja retrohõngulist siseruumi, mis näib olevat kellegi töö- või kabinetituba. Kesksel kohal on vanaaegne kirjutusmasin, mille ees istub lipsuga ruudulises ülikonnas mees. Ta on süvenenud kirjutamisse, sõrmed klahvidel. Tema pilk pöördub ühel hetkel otse vaataja poole, seejärel veidi kõrvale, enne kui ta kaadrist kaob, jättes fookuse lauale ja sealsetele esemetele. Laud on kaetud paksu vanade paberite virnaga, millest mõned on nööriga kokku seotud. Laual on ka antiikne lauaventilaator ja laualamp, mis annab sooja kollakasoranži valgust, heites valgusvihku kirjutusmasinale ja paberitele. Laua paremas servas seisab raamitud tunnistus või auhind, millel on näha käejälg ja eestikeelsed tekstid. Taustal on näha riiulitäis dokumente või raamatuid, samuti puust redel, mis toetub seinale. Üldine atmosfäär on vaikne ja pingeline, viitades keskendumisele või mõnele salajasele tegevusele.",
+      "actions": [
+        "Mees trükib kirjutusmasinal",
+        "Mees vaatab otse kaamerasse",
+        "Mees pöörab pilku",
+        "Mees lahkub kaadrist"
+      ],
+      "keywords": [
+        "Retro",
+        "Kontor",
+        "Kirjutamine",
+        "Dokumendid",
+        "Hämar",
+        "Pingeline",
+        "Uurimine",
+        "Ajalooline",
+        "Mees",
+        "Töö"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kirjutusmasin",
+        "Laualamp",
+        "Lauaventilaator",
+        "Paberivirnad",
+        "Dokumendid",
+        "Raamitud tunnistus",
+        "Ülikond",
+        "Lips",
+        "Riiulid",
+        "Raamatud",
+        "Puust redel",
+        "Tool"
+      ],
+      "colorcodes": [
+        "#8A6C52",
+        "#6B3E2B",
+        "#2B2B2B",
+        "#FBD99F",
+        "#745138"
+      ],
+      "texts": [
+        "Reports!",
+        "SÕJAAEGNE ÜHENDUS",
+        "TÕRGUMISEKS"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil vaatab mees otse kaamerasse, teisel veidi kõrvale ja ilmub subtiiter 'Reports!', kolmandal pildil on mees kaadrist lahkunud ning fookus on laua esemetel."
+      ],
+      "snr": "019",
+      "ajad": [
+        "305.120",
+        "313.120"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub avarates, ent lagunenud siseruumides, mis meenutavad kunagist suursugust hoonet või mõisat. Seinad on kaetud kooruva krohviga, paljastades allolevad pragunenud pinnad, ning ruumi ilmestavad kulunud, kuid endiselt detailirohked pilastrid ja uksepiidad. Ühes toas, vasakul, istub lihtsal valgel pingil keskealine või vanem mees tumedas ülikonnas, süvenenult oma tegevusse – ta hoiab käes esemeid, mis viitavad kirjutamisele või dokumentide uurimisele. Tema asend on mõtisklev ja rahulik. Temast paremal asuvast ornamenditud ukseavast paistab teine, sama räsitud ruum, kus seisab valvurina noor sõdur. Sõdur kannab halli mundrit, punaste õlapaeltega ja peakatet, millel on punane täht, ning hoiab püssi. Stseen areneb edasi, kui kolmas mees, elegantse ruudulise pintsakuga, valge särgi ja lipsuga, siseneb samasse ruumi valvurist paremalt. Tema pilk on tõsine ja üllatunud, justkui reageerides nähtule. Sõdur pöörab pead uue tulija poole, samal ajal kui istuv vanem mees jääb taustal oma tegevusega hõivatuks, pöörates vähe tähelepanu toimuvale. Üldine õhkkond on sünge, ajalooline ja pisut pingeline.",
+      "actions": [
+        "istumine",
+        "kirjutamine (oletatav)",
+        "valvamine",
+        "seismine",
+        "sisenemine",
+        "kõndimine",
+        "vaatamine",
+        "reageerimine"
+      ],
+      "keywords": [
+        "lagunenud hoone",
+        "varemed",
+        "siseruum",
+        "sõdur",
+        "valvur",
+        "punane täht",
+        "uniform",
+        "ajalooline",
+        "pingeline",
+        "ootus",
+        "melanhoolia"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "seinad",
+        "kooruv krohv",
+        "pilastrid",
+        "uks",
+        "ukseava",
+        "põrand",
+        "puupõrand",
+        "pink",
+        "paber (oletatav)",
+        "pliiats (oletatav)",
+        "mundrid",
+        "püss",
+        "müts",
+        "punane täht",
+        "pintsakuülikond",
+        "särk",
+        "lips"
+      ],
+      "colorcodes": [
+        "#949696",
+        "#514d42",
+        "#b83d3d",
+        "#786c5c",
+        "#6a5944",
+        "#c9c9c9"
+      ],
+      "texts": [],
+      "persons": [
+        "vanem mees",
+        "sõdur",
+        "noorem mees (ruudulise pintsakuga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaamera liigub ja kaadrite fookus muutub, alustades laiemast võttest ja liikudes karakteritele lähemale.",
+        "Stseeni lisandub uus tegelane (mees ruudulise pintsakuga).",
+        "Sõdur reageerib uue tegelase saabumisele, pöörates oma pead.",
+        "Vanem mees taustal jääb oma tegevusse süvenenult."
+      ],
+      "snr": "020",
+      "ajad": [
+        "313.120",
+        "354.560"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumides, hubases ja retrohõngulises elutoas, mis viitab 20. sajandi keskpaiga ajastule. Tuba on sisustatud heledates beezides või pruunikates toonides tapeetitud seintega, mida allpool täiendab tumedast puidust vooderdus. Mõlemal pool tuba asuvad suured aknad, mida katavad valged, poolläbipaistvad kardinad, lastes sisse pehmet hajutatud valgust. Ruumis domineerib vintage stiilis puidust telekaalus, millel seisab vana kineskooptelekas. Paremal pool on näha mitmeharuline põrandalamp, mis annab sooja ja hubast valgust. Keskel asub ümmargune puidust kohvilaud, kaetud heleda lauajooksja ja vaasiga, mis sisaldab dekoratiivseid elemente või lilli. Seintel ripuvad raamitud pildid, mis lisavad toale iseloomu. Esialgu näitab telekas roosade abstraktsete kujunditega multifilmi, mida jälgib kaadri paremas servas istuv inimene, kellest on näha vaid selg ja õlg. Peagi siseneb vasakult naine, kellel on lühikesed heledad juuksed, seljas mustriline kleit ja põll. Ta hoiab käes midagi väikest. Teleekraanil asendub multikas seejärel kahinaga. Stseen liigub lähemale, fokusseerides vestlusele naise ja mehe vahel. Naine on istunud mehega vastamisi ja vaatab talle intensiivselt otsa. Teleekraan taustal näitab endiselt kahinat, kuid selle vahelt on korraks näha kaader vanast saatejupist või filmist, kus on inimene. Ekraanile ilmuvad subtiitrid, mis edastavad dialoogi: “No, I couldn’t. I had lost my handkerchief.” Kogu stseen õhkab kodust, veidi nostalgilist ja intiimset atmosfääri, kus kaks inimest vestlevad omas ajas kinni jäänud, kuid hoolikalt sisustatud kodus.",
+      "actions": [
+        "Vaatamine televiisorit",
+        "Ruumi sisenemine",
+        "Istumine",
+        "Vestlemine"
+      ],
+      "keywords": [
+        "Retro",
+        "Vintage",
+        "Elutuba",
+        "Kineskooptelekas",
+        "Sisekujundus",
+        "Kodu",
+        "Dialoog",
+        "Naine",
+        "Mees",
+        "Mööbel",
+        "Hubane",
+        "Nostalgia"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Telekaalus",
+        "Kineskooptelekas",
+        "Multifilmi kujutised",
+        "Kohvilaud",
+        "Lauajooksja",
+        "Vaas",
+        "Lillede/dekoratiivsed oksad",
+        "Põrandalamp",
+        "Kardinad",
+        "Raamitud pildid",
+        "Tapeet",
+        "Puusärgis",
+        "Kleit",
+        "Põll",
+        "Taskurätik (mainitud dialoogis)"
+      ],
+      "colorcodes": [
+        "#BBA992",
+        "#715544",
+        "#FFFFFF",
+        "#C8C8C8",
+        "#D4AF37",
+        "#5A3A3A",
+        "#E0E0E0"
+      ],
+      "texts": [
+        "No, I couldn't.",
+        "I had lost my handkerchief."
+      ],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teleekraani sisu muutub multifilmist staatiliseks kahinaks ja seejärel staatilise kahina vahelt ilmuvad kaadrid vanast telesaatest.",
+        "Stseeni siseneb naine, kes hiljem maha istub ja alustab vestlust.",
+        "Kaadri fookus muutub, liikudes laialt üldplaanilt kahe inimese dialoogile keskenduvaks poollähivaateks.",
+        "Ilmuvad subtiitrid, mis vahendavad vestlust."
+      ],
+      "snr": "021",
+      "ajad": [
+        "354.560",
+        "375.400"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealist meest, kes istub siseruumis möbleeritud toas diivanil. Mees on poolprofiilis, vaatab kaadrist paremale ja räägib. Tal on seljas heledatriibuline särk ja tumedast kangast lips, millel on heledad diagonaalsed triibud. Tema näoilme on veidi murelik või üllatunud, suu on avatud rääkimise või kergelt ehmunud oleku tõttu. Ta istub kootud mustriga diivanil, mille tekstuur on selgelt näha. Taust on tume, puitpaneelidega sein, mis loob soliidse ja traditsioonilise atmosfääri. Stseen on üldiselt tumedates ja soojades toonides, valgus on pehme ja suunatud. Ekraani allosas on näha valged subtiitrid. Mehe juuksed on lühikesed ja kammitud küljele, andes talle puhas ja korrektse välimuse.",
+      "actions": [
+        "Mees istub",
+        "Mees räägib",
+        "Mees vaatab"
+      ],
+      "keywords": [
+        "Mees",
+        "Sisekujundus",
+        "Diivan",
+        "Särk",
+        "Lips",
+        "Subtiitrid",
+        "Vestlus",
+        "Murelik",
+        "Retro",
+        "Puitpaneelid",
+        "Kootud muster"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Särk",
+        "Lips",
+        "Diivan",
+        "Puitpaneelid",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#d6cfbf",
+        "#2c2f30",
+        "#615a4b",
+        "#4e4034",
+        "#c49a79",
+        "#ffffff"
+      ],
+      "texts": [
+        "No, I couldn't.",
+        "I had lost my handkerchief."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe suu asend ja näoilme on erinevates kaadrites marginaalselt muutunud, mis viitab rääkimisele ja elavatele emotsioonidele lausete vahel."
+      ],
+      "snr": "022",
+      "ajad": [
+        "375.400",
+        "378.360"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud vanemas eas naine, kellel on hele, lokkidesse sätitud hallikaskollane soeng. Ta istub diivanil, kandes oranži-pruunika mustriga pluusi ja selle peal punast valgete täppidega põlle. Naine vaatab esmalt otse kaamerasse, suu veidi avatud, justkui rääkides, ning seejärel pöörab pilgu vasakule (tema vaatenurgast), jäädes tõsiseks ja mõtlikuks. Ruumi valgus on summutatud, luues melanhoolse või intiimse atmosfääri. Tagaplaanil on näha tumedat puitmööblit, tõenäoliselt kapp või riiul vasakul, ning paremal pool seinal samuti tumedat mööblit ja mingi elektrooniline seade. Diivan on heledast, mustrilisest kangast. Üldine esteetika viitab vanemale ajastule või retrostiilile.",
+      "actions": [
+        "Istumine",
+        "Vaatamine",
+        "Rääkimine (impliseeritud subtiitritega esimesel pildil)",
+        "Pea pööramine"
+      ],
+      "keywords": [
+        "Naine",
+        "Siseruum",
+        "Diivan",
+        "Põll",
+        "Retro",
+        "Mõtlik",
+        "Tõsine",
+        "Subtiitrid",
+        "Blondid juuksed",
+        "Hallid juuksed"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Diivan",
+        "Põll",
+        "Pluus",
+        "Juuksed",
+        "Kapp",
+        "Sein",
+        "Elektrooniline seade"
+      ],
+      "colorcodes": [
+        "#B5AC9E",
+        "#B44A42",
+        "#5E3C2D",
+        "#8C4E34",
+        "#8C7B65",
+        "#4C3C2C",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "No, I couldn't.",
+        "I had lost my handkerchief."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrid on nähtavad ainult esimesel pildil.",
+        "Naise pilk ja näoilme muutuvad: esimesel pildil vaatab ta otse ja paremale, suu veidi avatud, andes märku rääkimisest. Teistel piltidel on ta pea pööratud vasakule ja suu on suletud, andes edasi mõtlikuma või kuulavama ilme."
+      ],
+      "snr": "023",
+      "ajad": [
+        "378.360",
+        "380.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest, kes istub diivanil siseruumis, mille seinad on kaetud tumeda puitpaneeliga. Ta on riietatud valgesse püsttriibulisse särki ja tumepruuni-valgetriibulisse lipsuga, mis annab edasi ametliku või poolametliku õhustiku. Mehel on tumedad, lühikesed juuksed ja ta vaatab oma pilguga algul vasakule küljele, justkui kedagi jälgides või millelegi reageerides, enne kui langetab pilgu sügavalt mõtlikult allapoole. Tema näoilme muutub piltidel järjest mõtlikumaks ja veidi kurvaks või murelikuks. Suu juures või huulte vahel on näha pisikest valget eset, mis meenutab hambaorki või õhukest pulka, mis annab talle veidi rahutu või pinges oleku. Valgustus on pigem hämar ja soe, luues intiimse ja veidi rõhuva atmosfääri.",
+      "actions": [
+        "Mees istub",
+        "Mees vaatab vasakule",
+        "Mees langetab pilku",
+        "Mees mõtleb",
+        "Valge objekt on suu juures"
+      ],
+      "keywords": [
+        "Mees",
+        "Siseruum",
+        "Kontor",
+        "Mõtlik",
+        "Pingeline",
+        "Hämar",
+        "Puitpaneelid",
+        "Retro",
+        "Diivan",
+        "Ametlik riietus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Särk",
+        "Lips",
+        "Diivan",
+        "Puitpaneelid",
+        "Valge objekt (hambaork/pulk)",
+        "Rinnatasku"
+      ],
+      "colorcodes": [
+        "#453127",
+        "#DED2BB",
+        "#493322",
+        "#8D7D6F",
+        "#A1816E",
+        "#E7E6E2"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab mees pilguga vasakule (vaataja seisukohalt) ja tema suu on kergelt avatud, valge ese ripub selgemalt huulte küljes. Tema ilme on tähelepanelikum või küsivam.",
+        "Teisel pildil on mehe pilk hakanud allapoole langema, suu on rohkem suletud ja valge ese on veidi vähem märgatav. Ilme on mõtlikum ja murelikum.",
+        "Kolmandal pildil on mehe pilk suunatud veelgi rohkem allapoole, näoilme on sügavalt mõtlik, isegi melanhoolne või resignatsiooniga. Valge ese on endiselt suu juures, kuid veelgi diskreetsemalt."
+      ],
+      "snr": "024",
+      "ajad": [
+        "380.080",
+        "392.400"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõttes inimest (tõenäoliselt naist) istumas siseruumis, ilmselt diivanil või tugitoolis, mis on kaetud heledama tekstuurse kangaga. Isik kannab tumedat, pruunikasmusta põhimustriga kleiti, mida kaunistavad oranžikaspunased ja kreemikad täpid või pritsmed, ning millel on punane kaelus või kraeäär. Üle kleidi on seotud punakaspruun põll, mis on kaetud väikeste heledate täppidega. Kätes hoitakse üht pruuni tooni muna ja väikest valget eset, mis paistab olevat munakoore tükk või mõni muu sarnane kerge ese. Käte asend viitab muna ettevalmistamisele või koorimisele. Valgus on summutatud ja soe, luues rahuliku ja intiimse atmosfääri. Taustal on näha teisi siseruumi elemente, näiteks mööbliosa või seinakate, mis on samuti mustrilise tekstiiliga.",
+      "actions": [
+        "Muna hoidmine",
+        "Muna koorimine (oletatav)",
+        "Istumine"
+      ],
+      "keywords": [
+        "Muna",
+        "Koorimine",
+        "Siseruum",
+        "Põll",
+        "Kleit",
+        "Rahulik",
+        "Täpid",
+        "Käsitöö",
+        "Intiimne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Muna",
+        "Kleit",
+        "Põll",
+        "Käsi",
+        "Valge ese (munakoor)",
+        "Diivan/tugitool"
+      ],
+      "colorcodes": [
+        "#3B2E2A",
+        "#7E402C",
+        "#C2B6A2",
+        "#8D3A31",
+        "#C8C0B2",
+        "#A37F5D",
+        "#E0C7B4",
+        "#F1F1F1",
+        "#706F6F",
+        "#A8A6A4"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Muna asend muutub kaadrite vahel veidi kõrguse ja kaldenurga osas, liikudes esimeselt pildilt kolmandale kergelt allapoole, peegeldades käe liikumist.",
+        "Valge eseme asend käes muutub samuti kergelt kaldenurga ja orientatsiooni osas iga kaadri vahel, mis näitab tegevuse jätkumist."
+      ],
+      "snr": "025",
+      "ajad": [
+        "392.400",
+        "394.960"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine mees, kes istub heleda, kergelt roheka või beezika tooniga sohval. Ta on riietatud heledasse pikitriibulisse särki, millel on peenikesed tumedad triibud. Kaelas kannab ta tumepruuni lipsust, millel on samuti heledamad diagonaalsed triibud. Mehe nägu on ettepoole suunatud ja tema ilme on kergelt üllatunud või murelik, suu on natuke avatud. Tema juuksed on tumedat värvi ja kenasti kammitud. Ta vaatab pildist vasakule, justkui kuulaks kedagi või reageeriks millelegi. Taust on ühevärviline ja koosneb tumedast puitpaneelist, mis annab ruumile ametliku ja ehk ka veidi vanamoodsa tunde. Valgus on pehme ja toob esile mehe näojooned ning riietuse detailid. Üldine meeleolu on pigem tõsine ja keskendunud.",
+      "actions": [
+        "Mees istub",
+        "Mees räägib või kuulab",
+        "Mees vaatab vasakule"
+      ],
+      "keywords": [
+        "Mees",
+        "Portree",
+        "Sohva",
+        "Kontor",
+        "Ärimees",
+        "Murelik",
+        "Üllatunud",
+        "Särk",
+        "Lips",
+        "Puitpaneel"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Sohva",
+        "Särk",
+        "Lips",
+        "Puitpaneel"
+      ],
+      "colorcodes": [
+        "#BEB09B",
+        "#3C2C26",
+        "#7D6246",
+        "#FFFFFF",
+        "#221E19"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad erinevused. Need on identsed kaadrid või väga sarnased duplikaadid."
+      ],
+      "snr": "026",
+      "ajad": [
+        "394.960",
+        "397.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest hallis ülikonnas, kes avab puidust ukse ja siseneb hämarasse ruumi. Alguses on näha mees selja tagant, tema parem käsi on ukse ülaosas, justkui koputaks või tõukaks, samal ajal kui vasak käsi keerab messingivärvilist ukselinki allapoole. Uks on helepruunist puidust, nähtava puidusüü ja dekoratiivsete paneelidega. Kui mees astub uksest sisse, avaneb uks laiemalt, paljastades tumeda toa sügavuses istuva vormiriietuses figuuri, kes istub laua taga. Toas on ka tumedad kardinad. Stseeni üldine valgustus on hämar ja loob pinge või salapära tunde.",
+      "actions": [
+        "Ukse avamine",
+        "Sisseastumine",
+        "Lingi keeramine",
+        "Uksele koputamine/tõukamine"
+      ],
+      "keywords": [
+        "Uks",
+        "Ülikond",
+        "Siseneb",
+        "Salapärane",
+        "Hämar tuba",
+        "Ametlik",
+        "Pinge",
+        "Puituks",
+        "Siseruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Puidust uks",
+        "Ukselink",
+        "Hall ülikond (jak)",
+        "Laud",
+        "Kardinad",
+        "Vormiriietus"
+      ],
+      "colorcodes": [
+        "#5C6E72",
+        "#5B4D3C",
+        "#A98C42",
+        "#1A1A1A",
+        "#7F2F2F"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees hallis ülikonnas",
+        "Figuur vormiriietuses"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil seisab mees suletud ukse ees, käsi lingil ja uksepaneelil, uks on suletud.",
+        "Teisel pildil on mees ukse avamise käigus, ukseleht on veidi avanenud ja mehe keha on kaadri keskel.",
+        "Kolmandal pildil astub mees uksest sisse, uks on laialt avatud ja näha on tuba koos seal istuva, hämaralt valgustatud figuuriga. Mees on osaliselt siluetina."
+      ],
+      "snr": "027",
+      "ajad": [
+        "397.800",
+        "420.160"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine mees, kes kannab helehalli triibulist ülikonda, valget särki ja triibulist lipsu. Tema lühikesed tumedad juuksed on korralikult kammitud ja peas on tummsoeng. Mees seisab siseruumides tumeda puitseinapaneelide taustal, mis annab stseenile väärika ja tagasihoidliku tonaalsuse. Tema näoilme on tõsine, kergelt üllatunud või küsiv ning suu on kergelt avatud. Kolmandal kaadril on näha, et ta räägib, kuna suu on laiemalt avatud ja ekraanile ilmuvad subtiitrid: \"Pardon me.\". Valgustus on pigem hämar, luues mehe näo vasakule poolele ja taustale pehmeid varjusid, mis rõhutavad stseeni dramaatilist või mõtisklevat meeleolu. Stseenis domineerivad pruunid ja hallid toonid.",
+      "actions": [
+        "Rääkimine",
+        "Seismine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Mees",
+        "Ülikond",
+        "Siseruum",
+        "Puitsein",
+        "Subtiitrid",
+        "Tõsine",
+        "Rääkimine",
+        "Vabandamine",
+        "Filmikaader"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Ülikond",
+        "Särk",
+        "Lips",
+        "Puitsein",
+        "Puitpaneelid"
+      ],
+      "colorcodes": [
+        "#4A3B2F",
+        "#C0C0C0",
+        "#FFFFFF",
+        "#2E231F"
+      ],
+      "texts": [
+        "Pardon me."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kolmandal pildil on ekraanil näha ingliskeelsed subtiitrid \"Pardon me.\", mis puuduvad kahel esimesel pildil.",
+        "Kolmandal pildil on mehe suu veidi avatum, mis annab märku rääkimisest, võrreldes esimese ja teise pildiga, kus suu on vaid kergelt avatud.",
+        "Esimene ja teine pilt on visuaalselt identsed."
+      ],
+      "snr": "028",
+      "ajad": [
+        "420.160",
+        "423.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja tõsise õhkkonnaga kontorit või kabinetti. Ruumis on tumeroheline vertikaalse triibuga tapeet ja puidust põrand. Avaras ruumis domineerivad tumedast puidust mööbliesemed: suur massiivne laud keskel, klassikaline puidust tool laua ees vasakul ja suur puidust riiul või kapp paremal. Tagaseinas on aken, mis on kaetud paksude helesinakas-hallide kardinatega. Laua peal on laualamp valge kupliga, mis heidab valgust laua osale. Laual on erinevaid pabereid, dokumendid, pliiatsid ja tass. Seintele on kinnitatud erinevaid märkmeid ja joonistusi. Stseeni keskmes on mees, kes kannab halli või rohekat vormiriietust ja mütsi. Tema asend muutub stseeni jooksul istuvast püstisesse ja siis veidi ettepoole kummardunuks. Üldine valgustus on nõrk, viitades õhtusele või öisele ajale.",
+      "actions": [
+        "Mees istub laua taga.",
+        "Mees tõuseb püstiasendisse laua taha.",
+        "Mees seisab laua taga ja kummardub veidi laua kohale, tehes kätega liigutusi."
+      ],
+      "keywords": [
+        "Kontor",
+        "kabinett",
+        "mees",
+        "uniform",
+        "hämar",
+        "pime",
+        "mööbel",
+        "laud",
+        "laualamp",
+        "kardinad",
+        "paberid",
+        "tõsine",
+        "ajalooline",
+        "siseruum"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "tool",
+        "riiul/kapp",
+        "aken",
+        "kardinad",
+        "laualamp",
+        "paberid",
+        "dokumendid",
+        "pliiatsid",
+        "kruus/tass",
+        "pildid seinal",
+        "tapeet",
+        "puupõrand",
+        "vormimüts"
+      ],
+      "colorcodes": [
+        "#284444",
+        "#332211",
+        "#779999",
+        "#EEEEEE",
+        "#BB8866"
+      ],
+      "texts": [
+        "Pardon me."
+      ],
+      "persons": [
+        "Mees hallis või rohekas vormis ja mütsiga"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil istub mees laua taga ja ekraanil on ingliskeelne subtiiter \"Pardon me.\".",
+        "Teisel pildil on mees tõusnud püstiasendisse laua taha ja subtiiter on kadunud.",
+        "Kolmandal pildil on mees endiselt püstiasendis, kuid on veidi ettepoole kummardunud ja teeb kätega liigutuse laua kohal."
+      ],
+      "snr": "029",
+      "ajad": [
+        "423.680",
+        "429.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskmise plaani võttes keskealist meest siseruumis, tumedate puitpaneelide ja -ustega seina taustal. Mees on lühikeste, tumedate ja külgedelt kammitud juustega ning heleda nahaga. Ta kannab formaalset halli ülikonda, valget särki ja triibulist (tõenäoliselt halli ja tumedat tooni) lipsu. Tema näoilme on murelik või kergelt üllatunud, silmad on laiad ja suu on kergelt avatud, justkui oleks ta hetk tagasi midagi öelnud või hakkaks kohe rääkima. Pilk on suunatud otse ette, mis annab edasi otsese kontakti kellegi või millegagi kaadrist väljaspool. Taustal olevad puitpaneelid ja uksepiidid viitavad soliidsele, võimalik, et ajaloolisele või ametlikule interjöörile. Valgusallikas näib tulevat vasakult, luues paremale poole mehest varjud.",
+      "actions": [
+        "Rääkimine",
+        "Reageerimine",
+        "Seismine",
+        "Kellelegi poole vaatamine"
+      ],
+      "keywords": [
+        "Mees",
+        "Ülikond",
+        "Puitpaneelid",
+        "Formaalne",
+        "Reaktsioon",
+        "Murelik",
+        "Üllatunud",
+        "Siseruum",
+        "Filmistseen",
+        "Ajalooline"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Ülikonnajakk",
+        "Särk",
+        "Lips",
+        "Puitpaneelid",
+        "Uks"
+      ],
+      "colorcodes": [
+        "#40352d",
+        "#9ba1a6",
+        "#f0f0f0",
+        "#7c7673",
+        "#d2b09d",
+        "#2c2525",
+        "#ffffff"
+      ],
+      "texts": [
+        "Your excellency..."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on mehe suu veidi avatud, justkui rääkima hakkamas, ja subtiitrid puuduvad.",
+        "Teisel pildil on lisandunud subtiiter \"Your excellency...\", mehe suu on avatum ja näoilme intensiivsem, viidates aktiivsele kõnelemise hetkele.",
+        "Kolmandal pildil on subtiitrid kadunud ning mehe suu on veidi rohkem suletud kui teisel pildil, kuid endiselt kergelt avatud, justkui oleks ta lause lõpetanud ja ootaks vastust, säilitades mureliku ilme."
+      ],
+      "snr": "030",
+      "ajad": [
+        "429.000",
+        "437.080"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud mees keskmise lähivõttega, suunates püstoli otse vaataja poole. Mehel on seljas hallikas-roheline militaarstiilis vorm ja peas samast kangast müts, millel on mustal taustal punane viisnurk. Tal on selgelt eristuvad vuntsid ja tõsine, otse vaatajale suunatud pilk, mis loob ähvardava ja intensiivse atmosfääri. Mehe parem käsi, milles ta püstolit hoiab, on fookusest väljas ja esiplaanil, rõhutades relva ja selle sihtimist. Taustal on näha tuba tumeroheliste seintega, millest paremal on triibuline tapeet. Toas on vanaaegne mööbel: vasakul pool tumedast puidust laud ja kõrge seljatoega tool, paremal suur klaasuksega kapp. Seintel on näha rippuvaid pabereid või kaarte ning pildiraamis maal. Ülal keskel on näha peeglit ornamendiga raamis, mis peegeldab ruumi osi. Üldine valgus on summutatud ja tekitab dramaatilise meeleolu.",
+      "actions": [
+        "Suunab püstoli",
+        "Vaatab otse ette",
+        "Seisab ruumis"
+      ],
+      "keywords": [
+        "Revolutsionäär",
+        "Relv",
+        "Ähvardav",
+        "Tuba",
+        "Ajalooline",
+        "Militaar",
+        "Portree",
+        "Mees",
+        "Vuntsid",
+        "Müts",
+        "Tärn",
+        "Sisemiljöö",
+        "Vanaegne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Püstol",
+        "Müts",
+        "Vorm",
+        "Vuntsid",
+        "Särk",
+        "Tapeet",
+        "Laud",
+        "Tool",
+        "Kapp",
+        "Peegel",
+        "Pilt (maal)",
+        "Paberid",
+        "Kardinad"
+      ],
+      "colorcodes": [
+        "#334a49",
+        "#5f6667",
+        "#b32120",
+        "#3c2f25",
+        "#4c6665",
+        "#1e2a2c"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevusi ei ole"
+      ],
+      "snr": "031",
+      "ajad": [
+        "437.080",
+        "439.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest lamamas voodis, pea toetumas lillelisele padjale. Valgus on hämar, mis viitab öisele ajale või pimedale ruumile. Mehel on seljas hele, ribiline särk ja tema nägu, eriti otsaesine ja kael, on kaetud higiga, mis annab märku võimalikust rahutusest, haigusest või halvast unenäost. Voodi on kaetud heleda voodilina või tekiga. Mehe näoilme ja silmade olek varieerub kaadrite vahel, pakkudes dünaamilist vaadet tema seisundist. Üldine õhkkond on jahe ja vaikne, kuid mehe näoilme muutumine lisab stseenile teatud pinget või ebamugavust.",
+      "actions": [
+        "Magamine",
+        "Silmade avamine",
+        "Higistamine",
+        "Märgilise teki ülespoole tõmbamine"
+      ],
+      "keywords": [
+        "Uni",
+        "Magamine",
+        "Rahutus",
+        "Voodi",
+        "Mees",
+        "Öö",
+        "Pimedas",
+        "Higi",
+        "Padi",
+        "Voodilina",
+        "Ribiline särk"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Voodi",
+        "Padi (lilleline)",
+        "Voodilina / Tekk",
+        "Särk (ribiline)",
+        "Higi"
+      ],
+      "colorcodes": [
+        "#383a45",
+        "#e0dccd",
+        "#afa9a3",
+        "#a36778",
+        "#5b7b6c"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on mehe silmad suletud ja ta tundub magavat.",
+        "Teisel pildil on mehe silmad avatud, pilk on suunatud ülespoole ja suu on kergelt avatud, mis viitab ärkamisele või rahutusele.",
+        "Kolmandal pildil on mehe silmad taas suletud ja tekk on tõmmatud kõrgemale, kattes osaliselt tema kaela ja lõuga."
+      ],
+      "snr": "032",
+      "ajad": [
+        "439.840",
+        "463.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab koduinterjööri, kus naine lõikab mehe juukseid ümmarguse puitraamiga peegli ees. Mees istub rahulikult valges särgis ja triibulises lipis, vaadates peeglisse. Tema ilme on kohati mõtlik, kohati veidi pingsam. Naine seisab tema taga, kandes mustrilist hommikumantlit, ning kasutab kääre ja kammi, et hoolikalt mehe soengut sättida. Peegel peegeldab ka tagaplaanil olevat tuba, kus on näha kummut raamatute ja lambiga. Seinal ripub tikitud pilt. Esiplaanil on näha udune ja mustriline kuju, mis raamib peeglit ja annab edasi vaatenurka, justkui keegi vaataks peeglisse või kaamera on paigutatud vaatleja selja taha. Taustal kuvatakse subtiitreid, mis annavad edasi juhiseid vee säilitamise ja toiduvarude kogumise kohta, luues argisele tegevusele ootamatu ja ärevusttekitava konteksti. Üldine õhkkond on korraga rutiinne ja varjatud ohutunnet kiirgav.",
+      "actions": [
+        "Juuste lõikamine",
+        "Juuste kammimine",
+        "Peeglisse vaatamine",
+        "Istumine",
+        "Seismine",
+        "Juhiste lugemine (implitsiitne vaatajale)"
+      ],
+      "keywords": [
+        "Siseklipp",
+        "Juukselõikus",
+        "Peegel",
+        "Kodu",
+        "Rutiin",
+        "Ettevalmistused",
+        "Juhised",
+        "Nõukogudeaegne interjöör",
+        "Kodune tegevus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Peegel",
+        "Käärid",
+        "Kamm",
+        "Mehe särk",
+        "Lips",
+        "Naise hommikumantel",
+        "Tikitud pilt",
+        "Kummut",
+        "Raamatud",
+        "Lamp",
+        "Tapet",
+        "Puitraam"
+      ],
+      "colorcodes": [
+        "#A2A297",
+        "#5C432D",
+        "#8C7B64",
+        "#FEFEFE",
+        "#3D4A5C",
+        "#4A382A"
+      ],
+      "texts": [
+        "It is advised to store. filtrated and sanitized water.",
+        "The pantry should be filled with cereals, such as:"
+      ],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub, andes esmalt juhiseid vee kohta ja seejärel toiduvarude kohta.",
+        "Naise käte asend ja tööriistad varieeruvad – esimesel pildil hoiab ta kääre, teisel ja kolmandal on lisaks näha kamm.",
+        "Mehe näoilme ja pilk muutuvad pisut – esimesel pildil on ta silmad suletud või pilk suunatud allapoole, teistel piltidel on pilk rohkem otse ette suunatud, peeglisse vaatav."
+      ],
+      "snr": "033",
+      "ajad": [
+        "463.880",
+        "487.120"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõtet lahtisest vintage stiilis nahast reisikomplektist või tualettkotist, mis on hoolikalt organiseeritud ja täidetud mitmesuguste hooldustarvetega. Komplekti sees on näha puidust ja nahast käepidemetega juukseharjad, mitu hõbedast metallist silindrilist anumat pruunide nahkrihmadega, käärid, väike nuga või tööriist ning teised pisitarbed pruunide käepidemetega. Paremal pool on näha tumeda nahatooniga käsi, mis sirutab esemete poole ja manipuleerib ühte hõbedast anumat. Taustal, mis on kergelt fookusest väljas, on näha antiikset valget ketastelefoni, pärlitega kaelakeesid ja prossi. Kogu komplekt ja selle ümbrus asetseb puidust laual, kaunistatud beeži pitsi või narmastega kangaga. Stseenil on üldiselt soojad, summutatud toonid, mis annavad edasi ajatu ja elegantse tunde.",
+      "actions": [
+        "Käsi sirutab reisikomplekti poole",
+        "Käsi puudutab ja nihutab ühte hõbedast silindrilist anumat",
+        "Esemed on komplektis hoolikalt organiseeritud ja paigutatud"
+      ],
+      "keywords": [
+        "Vintage",
+        "Retro",
+        "Reisikomplekt",
+        "Tualettkott",
+        "Hooldustarbed",
+        "Elegantne",
+        "Organiseeritud",
+        "Lähivõte",
+        "Käsi",
+        "Antiikne",
+        "Ehted",
+        "Pruun nahk",
+        "Hõbedane metall"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Nahast reisikomplekt",
+        "Puit- ja nahkäepidemetega juukseharjad",
+        "Metallist silindrilised anumad/pudelid",
+        "Pruunid nahkrihmad",
+        "Käärid",
+        "Väike nuga/tööriist",
+        "Väikesed pruunide käepidemetega tööriistad",
+        "Valge ketastelefon",
+        "Kaelakeed/helmed",
+        "Prossid/rinnanõelad",
+        "Dekoratiivne pitsi meenutav kangas",
+        "Puidust lauapind",
+        "Inimese käsi"
+      ],
+      "colorcodes": [
+        "#603E2D",
+        "#A06F48",
+        "#B5B5B5",
+        "#E0E0E0",
+        "#E0DBC1",
+        "#5A3A2C",
+        "#4B5242"
+      ],
+      "texts": [
+        "The pantry should be filled with cereals, such as:"
+      ],
+      "persons": [
+        "Üks inimene (käsi on nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Käe asend muutub kaadrite vahel kergelt, näidates hõbedase silindrilise anuma puudutamist ja pisikest nihutamist. Eriti on märgata sõrmede ja anuma positsiooni muutust kolme kaadri jooksul."
+      ],
+      "snr": "034",
+      "ajad": [
+        "487.120",
+        "489.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaates juukselõikust siseruumis. Kaamera on suunatud tagantvaates mehele, kelle tumedaid juukseid trimmivad käärid. Käärid on hoitud hoolikalt juuksepiiri lähedal ja neid hoiab teine inimene, kelle käed on pildil selgelt näha. Mees kannab valget särki. Taustal on uduselt näha pruun laud, millel asetsevad esemed, nagu punane raamat ja väike pudel. Stseeni alumises osas jooksevad valged subtiitrid, mis kirjeldavad sahvrisse varumist vajavaid teravilju.",
+      "actions": [
+        "Juuste lõikamine kääridega",
+        "Subtiitrite kuvamine"
+      ],
+      "keywords": [
+        "Juukselõikus",
+        "Käärid",
+        "Siseruum",
+        "Mees",
+        "Käed",
+        "Sahver",
+        "Teraviljad",
+        "Detailvaade",
+        "Toimetus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Käärid",
+        "Juuksed",
+        "Käed",
+        "Valge särk",
+        "Raamat",
+        "Laud",
+        "Pudel"
+      ],
+      "colorcodes": [
+        "#412C26",
+        "#FFFFFF",
+        "#C2967F",
+        "#8D3227"
+      ],
+      "texts": [
+        "The pantry should be filled with cereals, such as:",
+        "buckwheat, oatmeal, barley, rice, semolina."
+      ],
+      "persons": [
+        "Mees (tagantvaates)",
+        "Inimene (käed)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel ja teisel pildil kuvatakse subtiitrite esimene osa: \"The pantry should be filled with cereals, such as:\".",
+        "Kolmandal pildil kuvatakse subtiitrite jätk: \"buckwheat, oatmeal, barley, rice, semolina.\"",
+        "Visuaalne sisu (juukselõikus) jääb kõigil piltidel samaks, muutub vaid subtiitrite tekst."
+      ],
+      "snr": "035",
+      "ajad": [
+        "489.520",
+        "492.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt inimese käsi, mis interakteeruvad helehalli ülikonnajakiga. Jakk asetseb puidust riidepuul heledal, kergelt mustrilisel voodikattel või tekil. Kaamera fookuses on jope ja seda liigutav käsi. Esimeses kaadris on käsi jope küljes ülevalt vasakult, justkui asetades või kohendades seda. Seejärel näidatakse, kuidas jakki tõstetakse üles, kuni see viimases kaadris pildilt täielikult kaob, jättes nähtavale ainult voodikatte. Valgus viitab siseruumile, tõenäoliselt päevavalgusele, mis loob vasakule tumeda varju. Ekraani alumises osas on nähtavad subtiitrid, mis loetlevad teraviljasorte.",
+      "actions": [
+        "Ülikonnajaki kohendamine või asetamine",
+        "Ülikonnajaki ülestõstmine",
+        "Ülikonnajaki eemaldamine kaadrist"
+      ],
+      "keywords": [
+        "Ülikond",
+        "Jakk",
+        "Hall",
+        "Riided",
+        "Käsi",
+        "Siseruum",
+        "Voodikate",
+        "Riidepuu",
+        "Teravili",
+        "Subtiitrid",
+        "Tõstmine",
+        "Eemaldamine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Hall ülikonnajakk",
+        "Puidust riidepuu",
+        "Hele mustriline voodikate",
+        "Inimese käsi",
+        "Tume vari"
+      ],
+      "colorcodes": [
+        "#A8A7A7",
+        "#F0E8D7",
+        "#6B4E38",
+        "#2E2E2E"
+      ],
+      "texts": [
+        "buckwheat, oatmeal, barley, rice, semolina."
+      ],
+      "persons": [
+        "Üks inimene (käed nähtavad)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Käe asend ja haare jope küljes muutub, näidates liigutust.",
+        "Ülikonnajakk liigub kaadris progressively ülespoole.",
+        "Voodikate, mis on taustal, muutub jakki tõstes järjest nähtavamaks, kuni viimases kaadris täidab see kogu pildi.",
+        "Vasakul pool olev vari muutub kuju ja asukohta, peegeldades liikumist ja valguse langemist."
+      ],
+      "snr": "036",
+      "ajad": [
+        "492.200",
+        "493.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist meest, kes asub siseruumis, tõenäoliselt magamistoas või riietusruumis, riietumas. Peegelpildist nähtub, kuidas abistaja, kelle nägu pole näha ja kes kannab lillemustrilist hommikumantlit, aitab tal halli ülikonnajakki selga panna valge särgi ja triibulise lipsu peale. Lõpuks on mees täielikult ülikonnas. Tuba on sisustatud tumedast puidust mööbliga, nagu riiulid, laud ja lamp, andes stseenile veidi ajastutruu ilme. Peegli ümber on näha helepruun raam ja taustal on helehall tapetseeritud sein. Stseeni iseloomustab lisaks tekst subtiitrites, mis viitab toiduvarudele.",
+      "actions": [
+        "Riidesse panemine",
+        "Jaki selga panemine",
+        "Peeglisse vaatamine",
+        "Abistamine"
+      ],
+      "keywords": [
+        "Peegel",
+        "Riided",
+        "Hommikumantel",
+        "Ülikond",
+        "Toit",
+        "Sisetuba",
+        "Abistamine",
+        "Nõukogude aeg"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Peegel",
+        "Mees",
+        "Abistaja (käed ja selg)",
+        "Särk",
+        "Lips",
+        "Ülikonnajakk",
+        "Hommikumantel",
+        "Mööbel (riiul, laud, voodi)",
+        "Raamatud",
+        "Lamp"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#363636",
+        "#808080",
+        "#6C6955",
+        "#A0A175",
+        "#614F44",
+        "#4B372F",
+        "#6C635B",
+        "#523B2F"
+      ],
+      "texts": [
+        "buckwheat, oatmeal, barley, rice, semolina.",
+        "Make sure your kitchen is filled with conserves."
+      ],
+      "persons": [
+        "Keskealine mees",
+        "Abistaja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe riietumise protsess: Esimesel pildil on mees jaki selga panemise alguses, teisel on jakk juba seljas ja ta on peaaegu riides.",
+        "Abistaja fookus: Kolmandal pildil on peeglis näha vaid abistaja, kes sirutab käed ette ja mees on kaadrist kadunud.",
+        "Subtiitrite sisu: Esimesel pildil on loetletud teravilju (\"buckwheat, oatmeal, barley, rice, semolina.\"), samas kui teisel pildil on juhis köögi konservidega täitmiseks (\"Make sure your kitchen is filled with conserves.\")."
+      ],
+      "snr": "037",
+      "ajad": [
+        "493.760",
+        "505.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme ametlikult riietatud meest siseruumis, mis meenutab vana kontorit, raamatukogu või kohtusaali ooteruumi. Kaamera on paigutatud kõrgele, pakkudes laia ülaltvaadet sündmusele. Keskel, puidust pingil istub kiilaspäine mees hallis ülikonnas, süvenenult paberitesse, mida ta käes hoiab ja uurib. Tema paremal käel, samal pingil istub teine kiilaspäine mees tumedas ülikonnas, kes tegeleb väikese tumeda esemega, mis näib olevat raamat või karp, seda uurides ja avades. Nende vastas, toolil istub kolmas mees tumedate juustega, samuti hallis ülikonnas, jälgides teisi. Tema käsi on suunatud lõua poole, mis viitab mõtisklusele või süvenenud kuulamisele. Esiplaanil, osaliselt fookusest väljas, on näha pronksist laualampi laual, mis lisab stseenile õppimist või töökeskkonda iseloomustavat tunnet. Põrand on kaetud tumeda, ühevärvilise kattega. Üldine atmosfäär on tõsine ja keskendunud.",
+      "actions": [
+        "Istudes",
+        "Dokumentide uurimine",
+        "Raamatu/karbi avamine ja uurimine",
+        "Vaatlemine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Ametlik kohtumine",
+        "Siseruum",
+        "Dokumendid",
+        "Arutelu",
+        "Põhjalik uurimine",
+        "Vanamoeline",
+        "Tõsine",
+        "Kohtumine"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Puidust pingid",
+        "Kirjutuslaud",
+        "Laualamp",
+        "Paberid",
+        "Ülikonnad",
+        "Väike tume raamat/karp",
+        "Kohver/kott (märgatav ühel pildil mehe jalgade juures)"
+      ],
+      "colorcodes": [
+        "#5A5B5F",
+        "#D9D9D9",
+        "#8B4513",
+        "#606060",
+        "#3C3C3C",
+        "#B87333",
+        "#E0E0E0"
+      ],
+      "texts": [],
+      "persons": [
+        "Kolm meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Parempoolse tumedas ülikonnas mehe tegevus muutub: esimesel pildil ta hoiab väikest tumedat eset, teisel pildil vaatab seda tähelepanelikumalt ja kolmandal pildil on ese avatud ning ta uurib selle sisu.",
+        "Vasakpoolse hallis ülikonnas mehe käe asend lõua juures muutub pisut kaadri jooksul, viitades tema mõtiskluse süvenemisele."
+      ],
+      "snr": "038",
+      "ajad": [
+        "505.840",
+        "522.080"
+      ]
+    },
+    {
+      "explanation": "Stseenis istuvad kaks meest pikal puidust pingil. Vasakpoolne mees kannab helehalli ülikonda, valget särki ja tumetriibulist lipsu. Tal on lühikesed tumedad juuksed. Parempoolne mees on tumedamas (tõenäoliselt tumepruunis või oliivhallis) ülikonnas, valges särgis ja heledatriibulise lipsuga, samuti lühikeste tumedate juustega. Ruumi vasakus osas on heledad, beezikashallid kardinad ning seinal paistab retrostiilis pistikupesa või lüliti. Paremal pool on täis raamaturiiulid vanade raamatutega. Vasakpoolne mees asetab stseeni alguses pruuni nahast kohvri pingile ja sellele väikese tumeda eseme. Seejärel pöörab ta pea paremale, vaadates teise mehe suunas. Parempoolne mees istub kogu stseeni vältel rahulikult, vaadates otse ette tõsise ilmega. Stseenis toimub dialoog, kus parempoolne mees annab juhiseid.",
+      "actions": [
+        "Kohvri ja väikese eseme paigutamine",
+        "Pea pööramine paremale",
+        "Istumine pingil",
+        "Otse ette vaatamine",
+        "Rääkimine (kaudselt subtiitrite kaudu)"
+      ],
+      "keywords": [
+        "Koosolek",
+        "Vestlus",
+        "Kontor",
+        "Raamatukogu",
+        "Mees",
+        "Ülikond",
+        "Retro",
+        "Tõsine",
+        "Juhised"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Puidust pink",
+        "Pruun nahast kohver",
+        "Väike tume ese",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kardinad",
+        "Seinale paigaldatud pistikupesa/lüliti"
+      ],
+      "colorcodes": [
+        "#4A3222",
+        "#8C969C",
+        "#5A5D54",
+        "#C0C8C8",
+        "#966C44",
+        "#5C5E5F"
+      ],
+      "texts": [
+        "Brizzalov.",
+        "Yes, just get it done."
+      ],
+      "persons": [
+        "Mees helehallis ülikonnas",
+        "Mees tumedas ülikonnas"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil tegeleb vasakpoolne mees oma kohvri ja väikese esemega, samal ajal kui parempoolne mees vaatab otse ette.",
+        "Teisel pildil on vasakpoolne mees pea paremale pööranud, vaadates parempoolse mehe suunas, samal ajal kui parempoolne mees jätkab otse ette vaatamist.",
+        "Kolmandal pildil on vasakpoolne mees osaliselt kaetud või väljas kaadrist ja ekraanile ilmuvad subtiitrid, mis näitavad parempoolse mehe öeldut: \"Brizzalov. Jah, lihtsalt tee see ära.\""
+      ],
+      "snr": "039",
+      "ajad": [
+        "522.080",
+        "558.480"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub vanamoodsas sisekontoris või kabinetis, mida iseloomustab tumeroheline vertikaalsete triipudega tapeet ja tumedast puidust põrand, millel on mustriline vaip. Ruumi vasakut külge domineerib suur, rikkalike nikerdustega tume puidust kirjutuslaud. Lauda taga istub mees mundris, algselt telefoniga rääkides ja vahepeal lauale vaadates. Kolmandal kaadril on ta telefoni toru hargile pannud ja vaatab laual olevaid pabereid. Ruumi paremal küljel asub suur, samuti rikkalike nikerdustega tume puidust vitriinkapp või riidekapp. Tagaplaanil on suur aken heledate läbipaistvate kardinatega, millest paistab sisse loomulik päevavalgus. Akna lähedasel seinal on mitmesugused dokumendid ja pildid nööpnõeltega kinnitatud. Kirjutuslaual on valge kupliga laualamp. Stseeni arenedes siseneb kolmandas kaadris vasakult kaadrisse teine mees heledas ülikonnas, seljaga vaataja poole, vaadates laua taga istuvat meest. Esimeses ja teises kaadris on kaadris näha ainult kirjutuslaua taga istuvat meest, kes räägib telefoniga, samas kui kolmandas kaadris lisandub sisenenud mees.",
+      "actions": [
+        "Mees mundris räägib telefoniga",
+        "Mees mundris vaatab laual olevaid pabereid",
+        "Teine mees siseneb tuppa vasakult",
+        "Kaamera fookus muutub"
+      ],
+      "keywords": [
+        "Kabinet",
+        "Kontor",
+        "Ajalooline",
+        "Sisekujundus",
+        "Töö",
+        "Vestlus",
+        "Kohtumine"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Kirjutuslaud",
+        "Toolid",
+        "Vitriinkapp",
+        "Aken",
+        "Kardinad",
+        "Laualamp",
+        "Telefon",
+        "Paberid",
+        "Pildid",
+        "Vaip",
+        "Tapeet",
+        "Munder",
+        "Ülikond"
+      ],
+      "colorcodes": [
+        "#385040",
+        "#4A3C32",
+        "#F8F8F8",
+        "#BDBDBD"
+      ],
+      "texts": [
+        "Brizzalov.",
+        "Yes, just get it done."
+      ],
+      "persons": [
+        "Brizzalov",
+        "Teine mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimeses ja teises kaadris on Brizzalov telefoniga rääkimas, vaadates algul veidi vasakule ja siis otse, mis näitab kerget liikumist või kaadri muutust. Kaamera fookus on temal.",
+        "Kolmandas kaadris on Brizzalov telefoni toru hargile pannud ja vaatab lauale. Vasakult on kaadrisse sisenenud teine mees (seljaga vaataja poole). Kaamera fookus on nihkunud tagaplaanile ja sisenenud mehe seljale, jättes Brizzalovi kergelt fookusest välja."
+      ],
+      "snr": "040",
+      "ajad": [
+        "558.480",
+        "570.960"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumis, esinduslikus ja kergelt vanamoodsas kabinetis või toas. Seinad on kaetud tumerohelise vertikaalselt triibulise tapeediga ning põrandat katab tumedast puidust parkett, mille keskel on suur, detailse mustriga vaip. Ruumis domineerib imposantne, sügavpruunist puidust nikerdatud topeltuks ja laest rippuv antiikne metallist lühter. Vasakul pool on näha suur, tume, puidust raamaturiiul või kapp, paremal seinal aga raamitud kaart või joonistus ning selle ümber ka teisi pabereid ja pilte. Stseeni keskmes on keskealine mees, riietatud helehalli ülikonda, valgesse särki ja tumedasse lipsusse. Ta seisab ruumi keskel, näoga vaataja poole. Algselt on tema hoiak neutraalne, käed on rinnapiirkonnas kokku pandud, hoides väikest tumedat eset. Edasi areneb stseen nii, et mehe näoilme muutub murelikuks ja suu avaneb, justkui ta räägiks. Tema pilk ja kehakeha reedavad pinget ja palvet. Stseeni lõpupoole on näha ka teise inimese kukalt, kes kannab halli mütsi või nokamütsi, viidates dialoogile. Esiplaanil vasakul on näha ka valget, kuplikujulist laualampi, mis osaliselt varjab raamaturiiulit. Mehe öeldud sõnad annavad aimu õnnetusest ja palvest see lõpetada.",
+      "actions": [
+        "Mees seisab ruumi keskel",
+        "Mees hoiab käes väikest tumedat eset",
+        "Mees räägib mureliku ja paluva ilmega",
+        "Mees pöördub kellegi poole (kelle kukal on nähtav)"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Kabinet",
+        "Mees",
+        "Ülikond",
+        "Antiikmööbel",
+        "Roheline tapeet",
+        "Puituks",
+        "Lühter",
+        "Murelik",
+        "Paluv",
+        "Subtiitrid",
+        "Kaart",
+        "Raamaturiiul",
+        "Valgusti"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Ülikond",
+        "Särk",
+        "Lips",
+        "Puituks",
+        "Roheline tapeet",
+        "Puitpõrand",
+        "Vaip",
+        "Lühter",
+        "Raamaturiiul/kapp",
+        "Raamitud kaart/joonistus",
+        "Paberid/pildid seinal",
+        "Puidust tool",
+        "Väike tume ese (mehe käes)",
+        "Valge lauvalgusti",
+        "Väike tume kapp/radiaator",
+        "Teine isik (kukal ja müts)"
+      ],
+      "colorcodes": [
+        "#5C7F61",
+        "#7B5F4A",
+        "#A9B3B9",
+        "#252837",
+        "#E6E7E8"
+      ],
+      "texts": [
+        "I, I sneezed and it was just an accident... -Finish it off."
+      ],
+      "persons": [
+        "Mees ülikonnas",
+        "Teine isik (tagantvaates, hall müts)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaamera suumib mehele lähemale, muutes fookust laiemalt ruumilt detailsemalt mehe näole ja emotsioonile.",
+        "Mehe näoilme muutub neutraalsest murelikuks ja paluvaks, suu avaneb rääkimiseks.",
+        "Ilmuvad subtiitrid, mis annavad edasi mehe öeldud teksti.",
+        "Esiplaanile ilmub osaliselt teise inimese kukal, viitades dialoogile.",
+        "Esiplaanile ilmub osaliselt valge, kuplikujuline lauvalgusti."
+      ],
+      "snr": "041",
+      "ajad": [
+        "570.960",
+        "595.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab Nõukogude-aegses sõjaväevormis meest, kes istub puidust laua taga formaalses kabinetis. Tal on seljas hallikaspruun varrukateta hõlmikpluus või keep ning peas samast materjalist müts, millel on punane viisnurk valge äärisega. Mehel on vuntsid ja ta on stseeni alguses pisut kohmetu või vabandav, pillates käest pabereid ja öeldes, et aevastas kogemata. Seejärel muutub tema näoilme tõsisemaks ja kergelt ärritunuks, kui ta vaatab otse ette. Lõpuks langetab ta pilgu lauale, žestikuleerib kätega ja kutsub kedagi edasi, korrates 'Järgmine! Järgmine!'. Taustal on näha tumedast puidust pilastrid ja heledad kardinad. Paremas ääres on osaliselt näha suur valge kuppel- või lambivarjulaadne ese. Valgus viitab päevasele ajale.",
+      "actions": [
+        "paberite pillamine",
+        "vabandamine aevastamise pärast",
+        "reageerimine nähtamatult isikult tulnud käsule",
+        "pea pööramine ja pilgu muutmine",
+        "kätega žestikuleerimine",
+        "järgmise inimese sissekutsumine"
+      ],
+      "keywords": [
+        "sõdur",
+        "vormiriietus",
+        "kontor",
+        "ametnik",
+        "dokument",
+        "vabandus",
+        "käsk",
+        "Nõukogude Liit",
+        "punaarmee",
+        "laua taga"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "sõjaväevorm",
+        "müts",
+        "punane viisnurk",
+        "vuntsid",
+        "laud",
+        "paberid",
+        "puidust pilastrid",
+        "kardinad",
+        "valge kuppel/lambivari"
+      ],
+      "colorcodes": [
+        "#716e69",
+        "#992b2d",
+        "#4d3a2a",
+        "#e3e8e9",
+        "#342c26"
+      ],
+      "texts": [
+        "I, I sneezed and it was just an accident...",
+        "-Finish it off.",
+        "Next.",
+        "Next!"
+      ],
+      "persons": [
+        "mees (sõdur)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "mehe näoilme muutub kohmetust/vabandavast tõsiseks/ärritunuks ja seejärel kamandavaks",
+        "mehe pilgu suund muutub (alguses eemale, siis otse ja lõpus lauale)",
+        "käte asend muutub (paberite pillamisest laual puhkamiseni ja žestikuleerimiseni)",
+        "subtiitrite ilmumine ja kadumine"
+      ],
+      "snr": "042",
+      "ajad": [
+        "595.840",
+        "605.200"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub vanas, pidulikus siseruumis, mis meenutab kabinetti või bürood. Toas on tumedast puidust mööbel, sealhulgas suur raamaturiiul vasakul ja uhke nikerdatud uks keskel tagaplaanil. Seinad on kaetud vertikaalsete triipudega hallikasrohelise tapeedi või puitpaneelidega. Paremal on seinal näha osa tumedast maalist või pildist. Esiplaanil vasakul on suur valge kuppeljas laualamp. Stseeni keskel seisab heledas (hallikas) ülikonnas ja lipsuga mees, hoides käsi rinna kõrgusel kokku. Ta vaatab kaadrist välja vasakule, kus on näha hallis mütsis mehe selga, kes hoiab käes musta telefoni toru. Esimese mehe taha ilmub teine mees pruunis ülikonnas ja lipsuga, kes läheneb lauale ja hakkab avama musta portfelli. Kogu olustik viitab ametlikule kohtumisele, nagu ülekuulamine või intervjuu, mille käigus käsitletakse dokumente.",
+      "actions": [
+        "Mees heledas ülikonnas räägib",
+        "Mees pruunis ülikonnas ilmub kaadrisse",
+        "Mees pruunis ülikonnas läheneb lauale",
+        "Mees pruunis ülikonnas avab portfelli",
+        "Mees hallis mütsis hoiab telefoni toru"
+      ],
+      "keywords": [
+        "Kabinet",
+        "Ametlik kohtumine",
+        "Intervjuu",
+        "Retro",
+        "Siseruum",
+        "Tõsine",
+        "Ülikonnad",
+        "Portfell",
+        "Telefon"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laualamp (valge kupliga)",
+        "Puidust raamaturiiul/kapp",
+        "Puidust uks (nikerdustega)",
+        "Triibuline tapeet/seinapaneelid",
+        "Maal/pilt seinal",
+        "Portfell (must)",
+        "Telefonitoru (must)",
+        "Vaip (mustriga)",
+        "Tool (pruun)"
+      ],
+      "colorcodes": [
+        "#808080",
+        "#4f443b",
+        "#a9a39f",
+        "#516960",
+        "#3f322b",
+        "#1a191d",
+        "#6a7d90"
+      ],
+      "texts": [
+        "Next!",
+        "Next!"
+      ],
+      "persons": [
+        "Mees heledas ülikonnas",
+        "Mees pruunis ülikonnas",
+        "Mees hallis mütsis (selja tagant)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on heledas ülikonnas mees ainus kaadris nähtav täiskasvanu, rääkides lause \"Next! Next!\".",
+        "Teisel pildil ilmub tema selja taha pruunis ülikonnas mees, vaatab samas suunas kui esimene mees.",
+        "Kolmandal pildil on pruunis ülikonnas mees liikunud laua juurde ja avab portfelli, samal ajal kui heledas ülikonnas mees on astunud pisut tahapoole või nihkunud kaadris veidi vasakule, hoides nüüd käed portfelli kohal. Heledas ülikonnas mees enam ei räägi."
+      ],
+      "snr": "043",
+      "ajad": [
+        "605.200",
+        "633.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat siseruumi, mis meenutab vana postimaja või ametiasutust. Ruumi vasakus servas on pikk puidust pink, millel istub tume ülikonda riietatud mees, toetades pead kätele ja näides mõtlik või ootav. Kolmandas kaadris on sama mees püsti tõusnud ja liigub kaadri vasakus osas, olles nähtav siluetina. Ruumi paremal pool on puidust laud, mille taga istub prillidega inimene vormiriietuses (punase kraega särk), süvenenult paberitega tegeledes ja kirjutades. Laual on valgust andev laualamp ning sinine metallist postkast kirjaga \"ПОЧТА\". Laua taga on raamaturiiul täis raamatuid ja seinale kinnitatud dokumente. Paremal trepikäik viib ülespoole. Vasakpoolses seinas on suur valge plakat punase viisnurgaga, millel on tiivad, mis meenutab nõukogudeaegset või sõjaväelist embleemi. Üldine atmosfäär on vaikne ja ametlik, domineerivad tumedad toonid ja kunstlik valgustus loob dramaatilisi varjusid.",
+      "actions": [
+        "Üks inimene istub pingil ja ootab/mõtiskleb",
+        "Üks inimene tõuseb pingilt püsti ja liigub",
+        "Üks inimene istub laua taga ja tegeleb paberimajandusega/kirjutab"
+      ],
+      "keywords": [
+        "Kontor",
+        "Postimaja",
+        "Ooteruum",
+        "Paberimajandus",
+        "Nõukogude aeg",
+        "Hämarus",
+        "Ootamine",
+        "Töö",
+        "Vormiriietus",
+        "Ametlik"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Puidust laud",
+        "Tool",
+        "Paberid",
+        "Laualamp",
+        "Raamaturiiul",
+        "Raamatud",
+        "Trepp",
+        "Puidust pink",
+        "Sinine metallist postkast",
+        "Suur valge plakat punase tähe ja tiibadega",
+        "Kardinad"
+      ],
+      "colorcodes": [
+        "#4a3423",
+        "#3a2b1e",
+        "#444240",
+        "#333333",
+        "#9e2a2a",
+        "#6f1c1c",
+        "#2f4f6c",
+        "#f0f0f0"
+      ],
+      "texts": [
+        "ПОЧТА"
+      ],
+      "persons": [
+        "Ametnik",
+        "Ootaja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimeses ja teises pildis istub üks inimene pingil, pea kätele toetatud. Kolmandas pildis on sama inimene pingilt tõusnud ja liigub kaadri vasakus osas, nähtav siluetina."
+      ],
+      "snr": "044",
+      "ajad": [
+        "633.880",
+        "644.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat siseruumi, tõenäoliselt kabinetti või vanema maja koridori, kus on näha puidust trepikäsipuu. Keskel tegutseb isik, kes on riietatud tumedasse pintsakusse ja valgesse särki. Esimeses hetkes hoiab ta käes horisontaalset, heledast materjalist, võimalik, et puidust plaati või eset. Seejärel tegeleb ta väikese tumeda kohvri või karbi sulgemise või lukustamisega, kasutades oma paremat kätt. Laual või pinnal isiku ees on näha vana, tumesinise või rohelise värvi, metalne masin või kast. Selle taga on heledast keraamikast purk või pudel. Laual on ka virn pabereid või dokumente. Üldine valgustus on hämar ja stseenis on tunda keskendunud või tõsist õhkkonda.",
+      "actions": [
+        "Hoiab heledat plaati",
+        "Sulgeb või lukustab kohvrit/karpi",
+        "Liigutab kätt"
+      ],
+      "keywords": [
+        "Hämar",
+        "Siseruum",
+        "Pintsak",
+        "Kohver",
+        "Vintage",
+        "Käsipuu",
+        "Kontor",
+        "Töö"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Pintsak",
+        "Särk",
+        "Käsi",
+        "Puidust plaat/ese",
+        "Tume kohver/karp",
+        "Tumesinine masin/kast",
+        "Keraamiline purk/pudel",
+        "Paberid/dokumendid",
+        "Puidust trepikäsipuu",
+        "Laud/pind"
+      ],
+      "colorcodes": [
+        "#3A3C3F",
+        "#FFFFFF",
+        "#2A474D",
+        "#A6927C",
+        "#C0B298",
+        "#2D2A2B"
+      ],
+      "texts": [],
+      "persons": [
+        "Isik (tõenäoliselt mees)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil hoiab isik horisontaalset heledat plaati, mida järgmistel piltidel enam ei ole.",
+        "Teisel pildil on isik tegevuses väikese tumeda kohvri või karbi sulgemise või lukustamisega, samal ajal kui esimesel ja kolmandal pildil see tegevus puudub või on lõppenud.",
+        "Kolmandal pildil on isiku käsi liikumas kaadrist välja või eemaldumas esemest, samas kui eelmistel piltidel on käsi tegevuses."
+      ],
+      "snr": "045",
+      "ajad": [
+        "644.880",
+        "649.480"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumis, mis on hämaralt valgustatud, jättes maha sünge ja tõsise mulje. Ruum näib olevat kabinet või õppetoas, kus on traditsiooniline puitmööbel ja raamaturiiulid täis raamatuid. Ühes kaadris istub noor mees, riietatud heledasse halli ülikonda, valgesse särki ja tumedasse lipsi, puust pingil või toolil. Ta hoiab käsi risti ja tema näoilme on mõtlik või murelik. Valgus langeb talle vasakult, heites sügavaid varje. Teises kaadris on fookuses osa mehest sõjaväevormis, millel on punased õlapaelad, kes kirjutab laua taga paberitele, mida valgustab laualamp. Taustal on näha raamaturiiuleid. Kolmandas kaadris ulatab sama sõjaväevormis mees, kandes mantlit ja vuntse, ülikonnas mehele raamatu või dokumendi, samal ajal kui ülikonnas mees on seljaga kaamera poole. Läheduses on näha paberitele kinnitatud märkmeid. Stseenis valitseb ametlik ja pingeline õhkkond, mis viitab kas ametlikule kohtumisele, ülekuulamisele või olulisele dokumendivahetusele.",
+      "actions": [
+        "Istumine",
+        "Käed risti hoidmine",
+        "Mõtisklemine",
+        "Kirjutamine",
+        "Dokumendi ulatamine",
+        "Dokumendi vastuvõtmine"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Kabinet",
+        "Hämar",
+        "Sünge",
+        "Ametlik",
+        "Sõjaväevorm",
+        "Ülikond",
+        "Raamaturiiulid",
+        "Dokumendid",
+        "Mõtlikkus",
+        "Pinge"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees (ülikonnas)",
+        "Puust pink",
+        "Kardinad",
+        "Raamaturiiul",
+        "Raamatud",
+        "Mees (sõjaväevormis)",
+        "Punased õlapaelad",
+        "Laud",
+        "Paberid",
+        "Sulg (kirjutusvahend)",
+        "Laualamp",
+        "Mantel",
+        "Vuntsid",
+        "Dokument",
+        "Märkmed"
+      ],
+      "colorcodes": [
+        "#454d50",
+        "#e0e0e0",
+        "#202425",
+        "#7a7a7a",
+        "#9b1f28",
+        "#5a3a2a",
+        "#b39c6c",
+        "#6a5a4a"
+      ],
+      "texts": [
+        "Your excellency..."
+      ],
+      "persons": [
+        "Noor mees (ülikonnas)",
+        "Ohvitser (sõjaväevormis)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Erinevad tegelaste tegevused: üks mees istub ja mõtiskleb, teine kirjutab laua taga, ja kolmandas kaadris toimub dokumentide üleandmine.",
+        "Kaadrite fookus varieerub: esimeses on fookus ülikonnas mehel, teises taustal oleval raamaturiiulil ja kirjutaval mehel, kolmandas kahe mehe vahelisel suhtlusel.",
+        "Valgustus rõhutab erinevaid stseeni osi: esimeses on suunatud valgus ülikonnas mehele, teises laualamp valgustab kirjutuspinda ja kolmandas on kogu stseen hämar, kuid valgus toob esile dokumendi üleandmise.",
+        "Ühes kaadris on näha subtiitreid, teistes puuduvad."
+      ],
+      "snr": "046",
+      "ajad": [
+        "649.480",
+        "673.560"
+      ]
+    },
+    {
+      "explanation": "Piltidel on kujutatud siseruumides toimuvat vestlust kahe mehe vahel. Stseen on hämaralt valgustatud, andes edasi piduliku ja tõsise meeleolu. Kaamera fookuses on keskealine mees, kellel on seljas hele hall ülikond, valge särk ja tumeda mustriga lips. Tema juuksed on pisut sassis ja näoilme on tõsine, kergelt murelik või paluv, pilk on suunatud otse vestluspartnerile. Mees hoiab käes mitmeid pabereid ja punast kausta. Ta pöördub teise isiku poole, kellest on näha vaid selga ja pea tagaosa vasakul pildi servas. Teine isik kannab tumedat riietust, mis viitab ülikonnale või vormiriietusele. Tagaplaanil on näha tumedaid puitpinke, mis annavad aimu avalikust hoonest, näiteks kohtusaalist, kirikust või auditooriumist.",
+      "actions": [
+        "Vestlemine",
+        "Rääkimine",
+        "Dokumentide hoidmine",
+        "Pöördumine teise isiku poole",
+        "Seletamine või palumine"
+      ],
+      "keywords": [
+        "Vestlus",
+        "Formaalne",
+        "Siseruum",
+        "Dialoog",
+        "Dokumendid",
+        "Mees",
+        "Ülikond",
+        "Tõsine",
+        "Hämar",
+        "Lugupidamine",
+        "Vabandus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Paberid",
+        "Punane kaust",
+        "Ülikonnad",
+        "Lips",
+        "Puitpingid (taustal)"
+      ],
+      "colorcodes": [
+        "#1B2124",
+        "#606C74",
+        "#E7E7E7",
+        "#4F555F",
+        "#A22221",
+        "#B68D76",
+        "#3B3C3D"
+      ],
+      "texts": [
+        "Your excellency...",
+        "If I dare to bother your excellency, only out of regret, not willingly."
+      ],
+      "persons": [
+        "Mees ülikonnas",
+        "Teine isik (näha seljast)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst muutub esimese pildi ja teise/kolmanda pildi vahel, mis näitab dialoogi edenemist.",
+        "Mehe näoilme ja huulte asend muutuvad pisut piltide vahel, andes edasi kõne jätkumist ja emotsiooni süvenemist."
+      ],
+      "snr": "047",
+      "ajad": [
+        "673.560",
+        "677.680"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, kus kaks meest vestlevad hämaras valguses. Vasakul pool on näha puidust trepi käsipuu ja hele pind, millele on kinnitatud paberid. Keskel ja paremal on kaks meest. Üks mees, tõenäoliselt nõukogude sõjaväelane või ohvitser, kannab halli sõjaväevormi, millel on punased pagunid ja mütsi kaunistab punane täht. Tal on silmatorkavad vuntsid. Ta seisab teise mehe ees, kelle selg on enamasti kaamera poole. Vestlus tundub olevat pingeline ja tõsine. Alguses on sõjaväelane viisakas, kuid hiljem süüdistatakse teda pilkamises. Sõjaväelane hoiab ühes käes tumedat raamatut või kausta.",
+      "actions": [
+        "Nõukogude sõjaväelane seisab ja suhtleb teise mehega",
+        "Sõjaväelane hoiab käes tumedat raamatut või kausta",
+        "Teine mees kuulab ja reageerib verbaalselt",
+        "Teine mees pöörab oma kehaga veidi sõjaväelase poole"
+      ],
+      "keywords": [
+        "Nõukogude ajastu",
+        "Sõjavägi",
+        "Dialoog",
+        "Konfrontatsioon",
+        "Ajalooline",
+        "Siseruum",
+        "Hämar",
+        "Dokumendid",
+        "Regrett",
+        "Pilkamine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Sõjaväevorm",
+        "Müts",
+        "Punane täht",
+        "Vuntsid",
+        "Mantel/keep",
+        "Raamat/kaust",
+        "Puidust käsipuu/trepp",
+        "Dokumendid/paberid",
+        "Hele pind"
+      ],
+      "colorcodes": [
+        "#525C51",
+        "#8C2224",
+        "#1A1A1A",
+        "#C89F82",
+        "#5C4D32",
+        "#B5BDB6",
+        "#5C3D2B"
+      ],
+      "texts": [
+        "If I dare to bother your excellency, only out of regret, not willingly.",
+        "Are you mocking me?",
+        "I, I..."
+      ],
+      "persons": [
+        "Nõukogude sõdur/ohvitser",
+        "Tsiviilisik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil alustab sõjaväelane viisaka pöördumisega, hoides käsi vabalt. Subtiitrid kuvavad tema esialgset lauset.",
+        "Teisel pildil hoiab sõjaväelane juba tumedat raamatut või kausta ja sirutab seda ettepoole. Teine mees esitab süüdistava küsimuse: 'Are you mocking me?'. Sõjaväelase näoilme on muutunud tõsisemaks.",
+        "Kolmandal pildil alustab teine mees katkendlikku vastust 'I, I...', mis viitab kõhklusele või šokile. Sõjaväelase näoilme on veelgi pingelisem ja ootab vastust."
+      ],
+      "snr": "048",
+      "ajad": [
+        "677.680",
+        "684.000"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud kahte meest hämaras siseruumis. Fookuses on tagaplaanil olev mees, kes kannab helehalli ülikonda, valget särki ja tumedat triibulist lipsu. Tema juuksed on tumedad ja veidi sassis. Mehe näoilme on murelik, võib-olla hirmunud või paluv, silmad on laiad ja suu kergelt avatud, justkui oleks ta midagi öelnud või hakkaks kohe rääkima. Tema pilk on suunatud esiplaanil olevale mehele, kelle selg on kaamera poole. Esiplaanil olev mees kannab tumerohelist või halli vormiriietust, millel on silmapaistvad punased õlakud või rinnasildid. Tema kuju on veidi udune, andes sügavust ja rõhutades ülikonnas mehe emotsioone. Ülevalt on näha kaadri alumises osas subtiitrid „I, I...“, mis viitavad ülikonnas mehe kõhklevale kõnele. Üldine valgustus on tume ja atmosfäär tundub pingeline ning tõsine.",
+      "actions": [
+        "Kaks meest suhtlevad või on vestluse alguses.",
+        "Ülikonnas mees väljendab oma näoilmega muret või hirmu.",
+        "Ülikonnas mees on rääkimas või alustamas kõnet, mida iseloomustab tema avatud suu ja subtiitrid."
+      ],
+      "keywords": [
+        "Siseruum",
+        "Kaks meest",
+        "Ülikond",
+        "Vormiriietus",
+        "Murelik ilme",
+        "Pingeline olukord",
+        "Subtiitrid",
+        "Hämar valgustus",
+        "Hirm",
+        "Vestlus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Ülikond",
+        "Särk",
+        "Lips",
+        "Vormiriietus",
+        "Punane õlak/rinnasilt",
+        "Sein",
+        "Põrand"
+      ],
+      "colorcodes": [
+        "#8a8e8f",
+        "#ffffff",
+        "#262e33",
+        "#515450",
+        "#bb2d2d",
+        "#22252a",
+        "#c69f8c"
+      ],
+      "texts": [
+        "I, I..."
+      ],
+      "persons": [
+        "Mees ülikonnas",
+        "Mees vormiriietuses"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "049",
+      "ajad": [
+        "684.000",
+        "688.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest hämaras siseruumis, mis näib olevat kitsas koridor või trepihall. Vasakul on näha trepi käsipuu ja seinale kinnitatud paberid, mis loovad pisut ametliku või bürokraatliku tausta. Esialgu seisab noorem mees, kandes hallikasrohelist sõjaväe-stiilis mundrit, peas punase tähega nokamütsi ja vuntsidega, käed rinnal risti. Ta vaatab tähelepanelikult teist meest, kes on riietatud ülikonda ja keda on esimesel kaadril näha selja tagant. Seejärel pöörab ülikonnas mees pilgu ja keha ülespoole vasakule, ilmetab üllatunud ja murelikku näoilmet. Tema reaktsioon intensiivistub, kui ta vaatab veelgi teravamalt üles ja tõstab parema käe justkui millegi suunas viibates või ehmatuse märgiks. Subtiitrid \"Air fire!\" teisel kaadril viitavad äkilisele välisele ohule või sündmusele, mis suunab stseeni fookuse meeste omavaheliselt suhtluselt üldisele ohutundele. Üldine atmosfäär on pingeline ja ootamatu sündmuse tõttu kiiresti muutuv.",
+      "actions": [
+        "Mundris mees seisab risti pandud kätega ja vaatab",
+        "Ülikonnas mees vaatab algselt teise mehe poole (kaadris selg)",
+        "Ülikonnas mees pöörab pilgu üles vasakule",
+        "Ülikonnas mees ilmutab üllatust ja muret",
+        "Ülikonnas mees tõstab parema käe",
+        "Ülikonnas mees reageerib verbaalselt (\"Air fire!\")"
+      ],
+      "keywords": [
+        "Hämarus",
+        "Siseinterjöör",
+        "Mundur",
+        "Ülikond",
+        "Pingeline olukord",
+        "Üllatus",
+        "Ootamatu sündmus",
+        "Dokumendid",
+        "Trepp",
+        "Nõukogude aeg"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mundris mees",
+        "Ülikonnas mees",
+        "Sõjaväemüts punase tähega",
+        "Hallikasroheline sõjaväemunder",
+        "Hall ülikond",
+        "Lips",
+        "Paberid",
+        "Trepi käsipuu",
+        "Seinad"
+      ],
+      "colorcodes": [
+        "#3D3A3A",
+        "#606C62",
+        "#B50E0C",
+        "#E5DDCB",
+        "#C39F80"
+      ],
+      "texts": [
+        "Air fire!",
+        "Tekst paberitel"
+      ],
+      "persons": [
+        "Mundris mees",
+        "Ülikonnas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kaadri fookus ja kompositsioon muutuvad: algselt on fookus kahe mehe interaktsioonil, hiljem keskendub kaamera ülikonnas mehe reaktsioonile välisele sündmusele.",
+        "Ülikonnas mehe näoilme ja kehahoiak muutuvad dramaatiliselt: esialgsest varjatud olekust üllatuse ja mure kaudu paanikas käe tõstmiseni.",
+        "Subtiitrid \"Air fire!\" ilmuvad teisel kaadril, lisades stseenile konteksti ja selgitades ülikonnas mehe reaktsiooni põhjust.",
+        "Mundris mees kaob kaadrist teises ja kolmandas pildis, mis viitab fookuse nihkumisele tema pealt."
+      ],
+      "snr": "050",
+      "ajad": [
+        "688.040",
+        "694.040"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine mees ametlikus ülikonnas, kes on süvenenud kirjutamisse pimedal laual. Tema nägu on profiilis ja ta hoiab paremas käes pastapliiatsit, pannes hoolikalt sõnu paberile. Laud on kaetud virnade dokumentide, laualambi ja küünlajalaga, millel on küünlad, mis viitab vanamoodsale või pingelisele keskkonnale. Taustal on ruum pime ja udune, ilmselt kontor. Stseen on üldiselt tumedates toonides ja valguse annab laualamp, mis loob intiimse ja keskendunud õhkkonna. Subtiitrid algavad rahustava sõnumiga, et paanikaks pole põhjust, kuid muutuvad kiiresti hoiatusteks, et tuleks akendest eemale hoida ja uksed kinni naelutada, lõpetades viitega \"vaenlasele\", mis loob tunde ähvardavast ohust või kriisist.",
+      "actions": [
+        "Kirjutamine",
+        "Keskendumine",
+        "Teksti loomine"
+      ],
+      "keywords": [
+        "Pingeline",
+        "Ametnik",
+        "Kirjutamine",
+        "Kriis",
+        "Hoiatus",
+        "Pimedus",
+        "Keskendumine",
+        "Dokument",
+        "Vanamoodne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Pastapliiats",
+        "Laud",
+        "Paberid",
+        "Dokumendivirnad",
+        "Laualamp",
+        "Küünlajalg",
+        "Küünlad"
+      ],
+      "colorcodes": [
+        "#3B3C3B",
+        "#81878B",
+        "#E0E2E0",
+        "#917565",
+        "#FFFFFF",
+        "#EBEAE8",
+        "#6C5A4B"
+      ],
+      "texts": [
+        "There is no reason for panic.",
+        "Stay away from windows.",
+        "Nail your doors...",
+        "The enemy..."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Peamine erinevus kaadrite vahel on subtiitrite sisu, mis edastab järjestikku kolm erinevat teadet: esialgse rahustava sõnumi, seejärel ohutusjuhised ja lõpuks viite \"vaenlasele\".",
+        "Kaamera nurk ja mehe poos on pisut muutunud, pakkudes veidi erinevaid vaateid laual olevatele esemetele ja mehe käele.",
+        "Esimeses kaadris on vasakul üleval laualamp rohkem fookuses, teistes kaadrites on fookus nihkunud rohkem laua paremal poolel olevatele paberivirnadele ja küünlajala lähedusse."
+      ],
+      "snr": "051",
+      "ajad": [
+        "694.040",
+        "703.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja kergelt segamini töö- või õpperuumi. Keskel asub puitlaud, mille taga istub mees, süvenenult paberite uurimisse. Laual põleb soe, valge kupliga lamp, mis heidab valgust peamiselt mehe tööpiirkonnale ja laual olevatele dokumentidele. Ruumi seinad on tumepruunid ja neil ripuvad raamitud pildid ning mitmed paberilehed või märkmed, mis on nähtavasti teibitud või tihvitatud. Paremal pool on näha tumedast puidust raamaturiiul, mis on täidetud raamatute, korvi ja muu sisuga, sealhulgas kellaga. Vasakul pool on osaliselt näha ruudulise mustriga tugitool. Sügavale ruumi viib avatud uks, mille taga paistab veelgi hämaram ala, kus ripub jope või mantel. Üldine atmosfäär on vaikne, keskendunud ja veidi melanhoolne, viidates hilisõhtusele või öisele tööle ja uurimisele.",
+      "actions": [
+        "Istub laua taga",
+        "Töötab paberitega",
+        "Uurib dokumente",
+        "Lugemine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Kontor",
+        "Töölaud",
+        "Paberid",
+        "Hämar",
+        "Uurimine",
+        "Üksildus",
+        "Keskendumine",
+        "Tumedad toonid",
+        "Sisekujundus",
+        "Lambivalgus",
+        "Sisemine"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Tool",
+        "Laualamp",
+        "Paberid",
+        "Raamatud",
+        "Raamaturiiul",
+        "Prügikast",
+        "Pildiraamid",
+        "Märkmed seinal",
+        "Tugitool",
+        "Uks",
+        "Mantel",
+        "Korv",
+        "Kell"
+      ],
+      "colorcodes": [
+        "#503A2E",
+        "#FFDDAA",
+        "#6F7F8F",
+        "#A0A0A0",
+        "#5C4A3C",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "The enemy..."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on üldiselt heledamalt valgustatud kui teine ja kolmas, pakkudes paremat nähtavust kogu ruumile. Teine ja kolmas pilt on oluliselt tumedamad, keskendudes rohkem lambi vahetule valgusele.",
+        "Mehe poosis on kergeid erinevusi: esimesel pildil on ta intensiivselt paberitele kummardunud, teisel pildil on tema asend sarnane, kuid vähem selgelt näha tumeduse tõttu, ja kolmandal pildil on ta veidi püstisema kehahoiakuga, vaadates paberitele.",
+        "Subtiitrid \"The enemy...\" on näha ainult esimesel pildil."
+      ],
+      "snr": "052",
+      "ajad": [
+        "703.680",
+        "736.560"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha meest, kes istub laua taga ja kirjutab pärgamendile sulepeaga. Ta kannab halli ülikonda, valget särki ja tumedat lipsu. Peamine valgusallikas on paremal esiplaanil põlev küünal küünlajalas, mis heidab sooja kollakas-oranži valgust mehe kätele, paberile ja osaliselt ka tema näole. Ülejäänud ruum on sügavas varjus, luues intiimse, keskendunud ja ajaloohõngulise atmosfääri. Mees on kirjutamisele süvenenud ja tema pilk on suunatud paberile.",
+      "actions": [
+        "kirjutamine",
+        "sulepeaga kirjutamine",
+        "süvenenult keskendumine"
+      ],
+      "keywords": [
+        "kirjutamine",
+        "sulepea",
+        "küünal",
+        "pimendus",
+        "ülikond",
+        "mees",
+        "ajaloohõnguline",
+        "käsikiri"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "ülikond",
+        "särk",
+        "lips",
+        "sulepea",
+        "paber",
+        "küünal",
+        "küünlajalg",
+        "laud"
+      ],
+      "colorcodes": [
+        "#3F4B4E",
+        "#E2BD84",
+        "#5A6763",
+        "#CFC3B1",
+        "#262A2E"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on oluliselt tumedam kui teine ja kolmas pilt, kus detailid on paremini nähtavad.",
+        "Teise ja kolmanda pildi vahel on väga väikesed asendi muutused mehe käe ja sulepea positsioonis, mis viitavad pidevale tegevusele."
+      ],
+      "snr": "053",
+      "ajad": [
+        "736.560",
+        "755.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kitsast ja hämarat munakivisillutisega tänavat või alleed, mis on mattunud paksu udusse või suitsu. Tänava ääres seisavad vanad, krohvitud hallide seintega hooned, vasakpoolsel seinal on näha puidust planke ja kaarjat ust. Üleval paistab ka väike aken. Üksik mees tumedas ülikonnas jookseb mööda tänavat, hoides käes pabereid. Ühel hetkel komistab ta ja kukub pikali munakividele, paberid pudenevad temast laiali. Taustal, sügaval udus, on näha veel ähmasemaid inimfiguure, mis annavad stseenile salapärase ja dramaatilise tooni. Üldine atmosfäär on sünge ja ajalooline.",
+      "actions": [
+        "Jooksmine mööda tänavat",
+        "Kukkumine munakivisillutisele",
+        "Paberite laialipudenemine",
+        "Lamamine maas",
+        "Liikumine udu sees (taustal)"
+      ],
+      "keywords": [
+        "Udu",
+        "Munakivisillutis",
+        "Tänav",
+        "Hooned",
+        "Jooksmine",
+        "Kukkumine",
+        "Dokumendid",
+        "Dramaatiline",
+        "Salapärane",
+        "Hämarus",
+        "Ajalooline"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Munakivisillutis",
+        "Hoone seinad",
+        "Kaarjas uks",
+        "Aken",
+        "Puidust plangud",
+        "Paberid",
+        "Udu/Suits"
+      ],
+      "colorcodes": [
+        "#4a4f52",
+        "#727d82",
+        "#2d2d2d",
+        "#b3b3b3",
+        "#6a4a2a"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees tumedas ülikonnas",
+        "Inimfiguurid taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel hetkel on tänav eesplaanil inimtühi, vaid udu ja taustal ähmaste figuurid.",
+        "Järgmisel hetkel jookseb mees mööda tänavat, hoides käes pabereid.",
+        "Kolmandal hetkel on sama mees kukkunud munakivisillutisele ja tema paberid on laiali pudenenud."
+      ],
+      "snr": "054",
+      "ajad": [
+        "755.280",
+        "766.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest munakivisillutisega teel, keda ümbritseb paks udu ja laiali puistatud paberid. Mees on riietatud tumedasse ülikonda, mis sulandub hallidesse toonidesse. Stseeni alguses lamab mees maas, toetudes ühele käele ja hoides teises käes avatud raamatut, murelik ilme näol. Tema ümber on hulgaliselt valgeid, potentsiaalselt käsikirjadega pabereid. Seejärel hakkab mees paberilehti kokku koguma, liikudes põlvitavasse asendisse. Ta korjab hoolega laiali paisatud dokumente, näidates üles teatud meeleheidet või püüdlust taastada kord. Taustal on näha kivimüüri ja puidust konstruktsioone, paremal puidust piiret, mis kaob udusse. Üldine atmosfäär on sünge, melanhoolne ja desolaatne.",
+      "actions": [
+        "Lamab maas",
+        "Hoiab raamatut",
+        "On murelikus/meeleheitlikus seisundis",
+        "Liigub põlvitavasse asendisse",
+        "Korjab laiali pillutud pabereid kokku",
+        "Kogub dokumente hunnikusse"
+      ],
+      "keywords": [
+        "Udu",
+        "Munakivisillutis",
+        "Käsikirjad",
+        "Mure",
+        "Desolaatne",
+        "Sünge",
+        "Kogumine",
+        "Üksildus",
+        "Hallid toonid",
+        "Ülikond",
+        "Raamat",
+        "Mehepeetus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Ülikond",
+        "Raamat",
+        "Paberid",
+        "Munakivisillutis",
+        "Kivimüür",
+        "Puidust redel/tugipost",
+        "Puidust piire",
+        "Udu"
+      ],
+      "colorcodes": [
+        "#4d4d4d",
+        "#666666",
+        "#404040",
+        "#808080",
+        "#e6e6e6",
+        "#f0f0f0",
+        "#cccccc",
+        "#e0e0e0",
+        "#8b6e53",
+        "#a0846a"
+      ],
+      "texts": [
+        "Paberitel olev tekst ei ole loetav."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Stseeni alguses lamab mees munakivisillutisel, hoides raamatut ja olles ümbritsetud laiali pillutud paberitest, väljendades muret või meeleheidet.",
+        "Seejärel hakkab mees end püsti ajama ja liigub põlvitavasse asendisse, mille käigus hakkab ta laiali pillutud pabereid kokku koguma.",
+        "Stseeni lõpupoole on näha, kuidas mees aktiivselt korjab paberilehti kokku, ladudes neid hunnikusse, mis näitab üleminekut passiivsest murest aktiivsele tegutsemisele ja korra taastamise püüdlusele."
+      ],
+      "snr": "055",
+      "ajad": [
+        "766.160",
+        "771.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat sisepaika, mis sarnaneb vana kontori või raamatukoguga. Keskel asub puidust laud, mille taga magab vormiriietuses mees, pea lauale toetatud. Tema ees laual on hunnik pabereid ja laualamp, mis heidab sooja valgust. Mehe selja taga on seina külge kinnitatud valge tahvel, mis on kaetud arvukate paberite ja märkmetega. Vasakul pool on näha riiulid täis raamatuid, mis viitab töö- või õppekeskkonnale. Paremal pool domineerib lai puidust trepp, mis annab ruumile avarust ja sügavust. Trepi kõrval laual seisab sinine postkast, millel on kiri 'ПОЧТА'. Stseen areneb nii, et alguses on ruumis vaid magav mees, hiljem aga siseneb paremalt poolt ka teine mees, kes liigub mööda treppi alla laua poole, hoides käes pabereid, justkui oleks ta saabunud kirju tooma või toimetama.",
+      "actions": [
+        "Mees magab laua taga",
+        "Teine mees siseneb ruumi",
+        "Teine mees kõnnib mööda treppi alla",
+        "Teine mees läheneb lauale ja sinisele postkastile",
+        "Teine mees hoiab käes pabereid"
+      ],
+      "keywords": [
+        "Magamine",
+        "Väsimus",
+        "Töökeskkond",
+        "Kontor",
+        "Raamatukogu",
+        "Post",
+        "Sisenemine",
+        "Nõukogude aeg",
+        "Hämarus",
+        "Retro"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Puidust laud",
+        "Laulamp",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Puidust trepp",
+        "Sinine postkast",
+        "Paberid",
+        "Märkmed",
+        "Vormiriietus",
+        "Õlapaelad",
+        "Kohver/kott"
+      ],
+      "colorcodes": [
+        "#4A3A2F",
+        "#7B7F7D",
+        "#B23D3F",
+        "#3B5F84",
+        "#6B655A",
+        "#FDF9D2"
+      ],
+      "texts": [
+        "ПОЧТА"
+      ],
+      "persons": [
+        "Magav mees (vormiriietuses)",
+        "Sisenev mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on näha ainult laua taga magav mees.",
+        "Teisel pildil ilmub paremalt kaadri servast sisse teine mees, kes on liikumises trepil.",
+        "Kolmandal pildil on teine mees juba laua ja sinise postkasti lähedal, paremini nähtav ja hoiab käes pabereid."
+      ],
+      "snr": "056",
+      "ajad": [
+        "771.080",
+        "776.680"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumis, mis tundub olevat mingi ametlik või eluruum, iseloomustatud puidust uksega vasakul, triibulise tapeediga seintel ja tumeda mustrilise vaibaga põrandal. Kaks noort meest, seljas hallid uniformid punaste õlakute ja punase tähega kaunistatud hallide mütsidega, on stseeni keskmes. Alguses on nad keskendunud laual olevale esemele, mis näib olevat metallist serveerimisnõu. Seejärel ilmub pildile kolmas, vanem mees, kes kannab halli ülikonda ja lipsu. Ta näib olevat ärritunud või liigutatud, hoides kortsus paberit või taskurätti rinnale surutuna. Noored mehed pööravad temale tähelepanu. Vanem mees räägib, samal ajal kui üks noortest meestest vaatab teda tähelepanelikult ja teine pilkleb kõrvale. Ruumi taustal on näha tumedat raamaturiiulit paremal ja mööblit, sealhulgas tooli.",
+      "actions": [
+        "Noored mehed vaatavad alla esemele laual",
+        "Kolmas mees siseneb stseeni",
+        "Kolmas mees hoiab kortsus paberit/taskurätti rinna peal",
+        "Noored mehed pööravad pilgu kolmanda mehe poole",
+        "Kolmas mees räägib",
+        "Üks noortest meestest vaatab rääkijat",
+        "Teine noor mees vaatab kõrvale"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Vestlus",
+        "Emotsioon",
+        "Vormiriietus",
+        "Nõukogude-aegne sümboolika",
+        "Pinge",
+        "Formaalne keskkond",
+        "Nõutu mees"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kolm meest",
+        "Hallid vormiriided",
+        "Punased tähed mütsidel",
+        "Hallid mütsid",
+        "Punased pagunid/õlakud",
+        "Hall ülikond",
+        "Lips",
+        "Kortsus paber/taskurätt",
+        "Metallist serveerimisnõu",
+        "Laud",
+        "Puidust uks",
+        "Triibuline tapeet",
+        "Mustriga vaip",
+        "Raamaturiiul",
+        "Tool",
+        "Seinakaunistus/pilt"
+      ],
+      "colorcodes": [
+        "#7A7978",
+        "#A52A2A",
+        "#878A8F",
+        "#697372",
+        "#664531",
+        "#24354D",
+        "#8B4A2F"
+      ],
+      "texts": [
+        "If I were the one to mock here,"
+      ],
+      "persons": [
+        "Kaks noort meest vormiriietuses",
+        "Üks vanem mees ülikonnas"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Alguses on stseenis kaks noort meest, hiljem liitub nendega kolmas, vanem mees.",
+        "Esimeses kaadris vaatavad noored mehed alla, järgnevates kaadrites on nende pilk suunatud kolmanda mehe poole.",
+        "Kolmas mees ilmub stseeni, kandes halli ülikonda ja olles nähtavalt ärritunud.",
+        "Stseeni edenedes ilmuvad ekraanile subtiitrid kolmanda mehe öelduga.",
+        "Kaamera asukoht või fookus nihkub, näidates esimeses kaadris rohkem vasakpoolset ust ja vaipa, hiljem aga parempoolset raamaturiiulit."
+      ],
+      "snr": "057",
+      "ajad": [
+        "776.680",
+        "793.200"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, mis meenutab vana bürood või kabinetti. Ruumis domineerivad suured aknad, mis on kaetud heledate, poolläbipaistvate kardinatega. Kaadri keskel seisab seljaga kaamera poole ülikonnas mees, kes on riietatud heledasse halli jakki ja valgesse särki. Tema ümber on kolm noort meest hallides, sõjaväelise stiilis vormides, millel on punased õlapaelad ja hallid pilotkamütsid, mille esiküljel on punane viisnurk. Kaks vormis meest seisavad kaamera poole pööratud küljega, üks vasakul ja teine paremal, kuulates ilmselt keskset figuuri. Kolmas vormis mees istub taustal laua taga, paremal, näoga vasakule, hoides pead allapoole ja tundudes mõtlik või allasurutud. Laud on varustatud valge gloobusekujulise lauavalgustiga. Stseenis on näha pinget ja distsiplinaarset olukorda, kus ülikonnas mees annab ilmselt korraldusi või manitseb istuvat noormeest, mis kulmineerub lausega „Mine välja.” Istuva noormehe kehahoiak muutub kergelt teise kaadri ajal, viitades reaktsioonile öeldule.",
+      "actions": [
+        "Keskne mees räägib",
+        "Kaks vormis meest kuulavad",
+        "Istuval mehel on pea langetatud",
+        "Iluv mees reageerib öeldule",
+        "Ülikonnas mees annab käskluse"
+      ],
+      "keywords": [
+        "Siseruumid",
+        "Büroo",
+        "Kabinet",
+        "Kohtumine",
+        "Manitsus",
+        "Distsiplinaarne",
+        "Pinge",
+        "Nõukogude aeg",
+        "Sõjavägi",
+        "Uniformid",
+        "Kardinad"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Tool",
+        "Laualamp",
+        "Kardinad",
+        "Aknad",
+        "Uniformid",
+        "Pilotkamütsid",
+        "Ülikond",
+        "Särk",
+        "Õlapaelad"
+      ],
+      "colorcodes": [
+        "#707A7F",
+        "#B8B8B8",
+        "#FFFFFF",
+        "#DA2B29",
+        "#E0E0E0"
+      ],
+      "texts": [
+        "If I were the one to mock here,",
+        "there wouldn't be...",
+        "-Get out."
+      ],
+      "persons": [
+        "Ülikonnas mees",
+        "Kaks vormis noormeest",
+        "Iluv vormis noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrid muutuvad ja täienevad kaadrite vahel, näidates dialoogi edenemist.",
+        "Iluv vormis mees muudab kergelt oma kehahoiakut teise kaadri ajal, justkui reageerides kuuldud käsule."
+      ],
+      "snr": "058",
+      "ajad": [
+        "793.200",
+        "795.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme meest siseruumis, mis näib olevat kabinet või õppesaal. Keskel seisab keskealine mees helehallis ülikonnas, valges särgis ja tumedat mustriga lipsus. Tema näol on murelik ilme, suu on kergelt avatud ja ta hoiab mõlema käega kortsus valget eset, mis võib olla taskurätik või paber, vastu rinda. Tema pilk on suunatud allapoole või hoiab ta silmad maas. Tema külgedel seisavad kaks nooremat meest, kes kannavad eristuvaid militaarstiilis rõivaid: hallikashalle keepe või manteleid punaste õlarihmade ehk pagunitega. Peas on neil samasugused hallikashallid mütsid, millel on punane valge äärisega viisnurk. Mõlemad mundris mehed seisavad paigal, jälgides keskset figuuri tõsiste ja valvsate nägudega. Taustal on vasakul tumedast puidust raamaturiiul täis raamatuid, keskel tagapool suur puidust topeltuks ja paremal vertikaalsete hallikassinistest triipudega sein. Triibulisel seinal on näha valge tahvel või suur paberileht jooniste või tekstiga. Vasakus alanurgas on näha valge lambi või lauaobjekti osa. Valgustus on ühtlane, viitades siseruumile, tõenäoliselt kabinetile või kontorile, kus valitseb formaalne või pingeline atmosfäär. Üldine esteetika vihjab ajaloolisele, võimalik, et varasele Nõukogude ajastule, seda eelkõige mundrite tõttu.",
+      "actions": [
+        "Keskmine mees hoiab kortsus paberit või rätikut vastu rinda ja ilmutab stressi",
+        "Kaks mundris meest seisavad ja jälgivad keskmist meest",
+        "Mehed liigutavad kergelt käsi ja pead kaadrite vahel"
+      ],
+      "keywords": [
+        "stress",
+        "mure",
+        "siseruum",
+        "ajalooline",
+        "militaar",
+        "uniform",
+        "pingeline",
+        "interrogatsioon",
+        "Nõukogude aeg"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kolm meest",
+        "Ülikond",
+        "Munder/vorm",
+        "Mütsid",
+        "Keep/mantel",
+        "Punased tähed mütsidel",
+        "Taskurätik/paber",
+        "Raamaturiiul",
+        "Raamatud",
+        "Puidust uks",
+        "Sein (triibuline)",
+        "Valge tahvel/paber",
+        "Lamp/lauavalgusti"
+      ],
+      "colorcodes": [
+        "#B7B7B7",
+        "#FFFFFF",
+        "#2D251F",
+        "#726E67",
+        "#8E1F1F",
+        "#3C2E24",
+        "#849692",
+        "#DBC4AF",
+        "#000000"
+      ],
+      "texts": [
+        "How..."
+      ],
+      "persons": [
+        "Kolm meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil on näha subtiiter \"How...\"",
+        "Keskmise mehe näoilme ja käte asend varieerub kergelt kaadrite vahel, viidates pidevale liikumisele",
+        "Mundris meeste pea asendites ja pilgu suunas on minimaalsed muutused, mis on tingitud kaadrite järjestikuste hetkedega"
+      ],
+      "snr": "059",
+      "ajad": [
+        "795.520",
+        "800.360"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumis, mis näib olevat ajalooline kontor või kabinet. Keskel seisab seljaga kaamera poole helehallis ülikonnas mees. Tema ümber, mõlemal pool, seisavad kaks nooremat meest, kes kannavad halli, jämedast riidest sõjaväestiilis tuunikaid punaste õlapaeltega ja halli nokata mütsi. Nende seljad on kaamera poole pööratud ja nad vaatavad ettepoole. Noormeeste taga on näha heledaid, sinakashalle akna- või uksekardinaid. Stseeni fookuses on laua taga istuv vanem mees, kes on riietatud samasugusesse halli sõjaväetuunikasse punaste õlapaeltega ja kannab halli mütsi, millel on punane viisnurk. Tal on vuntsid ja ta on näoga kaamera poole. Laual, tema ees, on valge kuplikujuline laualamp ja näib olevat ka paberid. Istuva mehe näoilme muutub stseeni jooksul tõsisest avatud suuga emotsionaalsemaks, ilmselt pahaseks või käskivaks, ning ta toetab käe lauale. Tema öeldud sõnad 'Get out of here.' ilmuvad hiljem ekraanile tekstina. Üldine värvigamma on summutatud hallides ja pruunides toonides, millele annavad erksust punased detailid vormiriietusel.",
+      "actions": [
+        "Vestlemine",
+        "Käsu andmine",
+        "Seismine",
+        "Istumine",
+        "Kuulamine",
+        "Lauale toetumine"
+      ],
+      "keywords": [
+        "Kontor",
+        "Sõjaväeline",
+        "Ajalooline",
+        "Autoriteet",
+        "Konflikt",
+        "Dialoog",
+        "Siseinterjöör",
+        "Hall",
+        "Punane",
+        "Nõukogude"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kardinad",
+        "Laud",
+        "Valge laualamp",
+        "Sõjaväetuunika",
+        "Müts",
+        "Õlapaelad",
+        "Ülikond",
+        "Punane täht"
+      ],
+      "colorcodes": [
+        "#6B6E6B",
+        "#8E8E8E",
+        "#A89B8D",
+        "#D92424",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Get out of here."
+      ],
+      "persons": [
+        "Mees ülikonnas",
+        "Kaks noort meest sõjaväevormis",
+        "Vanem mees sõjaväevormis (istuv)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimest ja teist pilti eristab istuva mehe näoilme ja suu asend – teisel pildil on ta suu avatud, justkui rääkides või karjudes.",
+        "Kolmandal pildil on lisaks nähtav ingliskeelne tekst 'Get out of here.', mis ilmub ekraanile ja annab edasi istuva mehe öeldud sõnad.",
+        "Istuva mehe käe asend muutub stseeni edenedes, teisel ja kolmandal pildil toetab ta käe lauale."
+      ],
+      "snr": "060",
+      "ajad": [
+        "800.360",
+        "803.960"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud dramaatiline moment siseruumides, kus üks mees on kaadris keskel, rinnust saati näoga vaataja poole. Tal on seljas helehall ülikond, valge särk ja tumedatriibuline lips, mis on veidi viltu. Mehe tumedad lokkis juuksed on sassis, ja tema näol on näha punetust ja määrdunud plekke, mis viitavad ärevusele või eelnenud sündmustele. Kahes esimeses kaadris on mehe suu lahti ja silmad laialt avatud, väljendades šokki, viha või paanikat, samal ajal kui ta vaatab otse ette. Kolmandas kaadris on ta pilk suunatud allapoole, suu on kinni ja üldine hoiak on nukram või resignatsiooniga, justkui oleks ta alistunud või sügavalt pettunud. Taust on udune, vasakul on näha tumedat puitpaneeli ja paremal heledamaid vertikaalseid elemente, mis meenutavad pilastreid või seinaornamente. Valgus on pehme, luues mehe näole varjusid ja andes stseenile süngema meeleolu.",
+      "actions": [
+        "Mees karjub või hüüab",
+        "Mees vaatab otse ette",
+        "Mees langetab pilgu",
+        "Mees väljendab emotsioone nagu viha, paanika, kurbus või resignatsioon"
+      ],
+      "keywords": [
+        "dramaatiline",
+        "emotsionaalne",
+        "konflikt",
+        "mees",
+        "ülikond",
+        "siseruum",
+        "ärevus",
+        "šokk",
+        "kurbus",
+        "lahkumine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "ülikond",
+        "särk",
+        "lips",
+        "puitpaneelid",
+        "sein"
+      ],
+      "colorcodes": [
+        "#A0A0A0",
+        "#FFFFFF",
+        "#4A3B2F",
+        "#B0B0B0",
+        "#302820",
+        "#DDC2B0",
+        "#C29F92",
+        "#503520",
+        "#C8C8C8"
+      ],
+      "texts": [
+        "Get out of here",
+        "Get out!"
+      ],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevus subtiitrites: Esimeses kaadris on tekst 'Get out of here', teises 'Get out!' ja kolmandas puuduvad subtiitrid.",
+        "Mehe näoilme ja pilk: Esimeses ja teises kaadris on mehe suu avatud ja pilk otse ette suunatud, väljendades karjumist või šokki. Kolmandas kaadris on mehe suu suletud ja pilk allapoole suunatud, andes edasi resignatsiooni või kurbust."
+      ],
+      "snr": "061",
+      "ajad": [
+        "803.960",
+        "811.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab nelja meest siseruumis, mis näib olevat kontor või kabinet. Ruumi iseloomustavad tumedad puitmööbliesemed ja rohelise-halli vertikaalsete triipudega tapeet. Kolm meest on riietatud sõjaväelisesse vormi, mis koosneb hallikasrohelistest kuubedest või mantlitest, hallidest mütsidest punase tähega ja punastest õlapaeltetaolistest elementidest. Üks neist, istudes või toetudes suurele tumedast puidust lauale, kannab veidi teistsugust, lühemat keepi meenutavat vormiriietust. Kaks ülejäänud vormikandjat seisavad laua külgedel, mõlemad tähelepaneliku ilmega. Neljas mees on näha selja tagant, kandes halli tsiviilkostüümi pintsakut, ja on pööratud näoga laua taga istuvate vormikandjate poole. Laual on näha mitmesuguseid esemeid, sealhulgas dokumente, laualamp valge kupliga, tindipott, võimalik relv või binokkel kabuuris, samuti tume rahakott või dokumendihoidja ning raamitud pilt. Ruumi kaunistavad ka pikad heledad aknakardinad ja suur tumedalt raamitud maal seinal, mis kujutab süngemat stseeni. Õhkkond on ametlik ja tõsine, viidates võimalikule kohtumisele, ülekuulamisele või olulisele briifingule.",
+      "actions": [
+        "Rääkimine",
+        "Vaatamine",
+        "Seismine",
+        "Istumine",
+        "Kohtumine",
+        "Ülekuulamine"
+      ],
+      "keywords": [
+        "Kontor",
+        "Koosolek",
+        "Sõjaväelased",
+        "Vormiriietus",
+        "Nõukogude",
+        "Ülekuulamine",
+        "Paberid",
+        "Munder",
+        "Siseinterjöör",
+        "Pinge",
+        "Nõukogude võim",
+        "Kommunistid",
+        "Revolutsionäärid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Tool",
+        "Paberid",
+        "Laualamp",
+        "Tindipott",
+        "Relv (või binokkel)",
+        "Rahakott",
+        "Maal",
+        "Kardinad",
+        "Tapeet",
+        "Mütsid",
+        "Punased tähed",
+        "Õlapaeltetaolised elemendid",
+        "Kostüüm",
+        "Aken",
+        "Pildiraam"
+      ],
+      "colorcodes": [
+        "#A0A0A0",
+        "#CC0000",
+        "#3A2A1A",
+        "#708070",
+        "#E0E0E0"
+      ],
+      "texts": [],
+      "persons": [
+        "Neli meest",
+        "Kolm mundris sõjaväelast",
+        "Üks tsiviilriietes mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaamera asend ja kadreering muutuvad kergelt vasakult paremale suunas.",
+        "Esimesel pildil on tsiviilriietes mees keskel ja vasakpoolne mundris mees on osaliselt varjatud.",
+        "Teisel pildil on kaamera liikunud veidi paremale, paljastades rohkem vasakpoolset mundris meest ja vähem tsiviilriietes mehe vasakut külge.",
+        "Kolmandal pildil on kaamera liikunud veelgi paremale, näidates täielikult vasakpoolse mundris mehe nägu, kes vaatab otse vaataja poole.",
+        "Tsiviilriietes mehe pea on kolmandaks pildiks kaadrist väljas, kuigi tema õlg jääb nähtavale.",
+        "Parempoolne mundris mees muudab samuti pilku veidi, nihutades seda vasakule või veidi otse ette."
+      ],
+      "snr": "062",
+      "ajad": [
+        "811.360",
+        "816.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest, kes istub küürus vanal munakivisillutisega teel, toetudes robustsele kiviseinale. Ümbrust katab tihe suits või udu, mis hajub järk-järgult kaadrite edenedes. Mees paistab olevat hädas, valu kannatav või kurnatud. Tema riietus on tume ja näib olevat katkine, paljastades põlved. Tema jalad on paljad ja määrdunud või vigastatud. Üldine atmosfäär on sünge ja troostitu, rõhutades mehe üksildust ja raskusi. Paremal ääres on näha ka kivimüüri osa ja üksikuid suuremaid kive maapinnal.",
+      "actions": [
+        "Mees istub küürus",
+        "Mees toetub kiviseinale",
+        "Mees on suitsus/udus",
+        "Mees ilmutab kannatusi/väsimust"
+      ],
+      "keywords": [
+        "Mees",
+        "Kannatus",
+        "Kurbus",
+        "Suits",
+        "Udu",
+        "Kivitee",
+        "Sein",
+        "Väsimus",
+        "Vigastused",
+        "Hädaolukord",
+        "Üksildus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Kivitee (munakivisillutis)",
+        "Kivisein",
+        "Suits/udu",
+        "Riietus",
+        "Kivid (maapinnal)",
+        "Puituks (paremal taustal)"
+      ],
+      "colorcodes": [
+        "#A7A6A6",
+        "#828282",
+        "#404040",
+        "#E0E0E0",
+        "#2F3235",
+        "#626362",
+        "#A1A0A0"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on nähtav kõige tihedam suits/udu, mis varjab meest ja ümbrust oluliselt.",
+        "Teisel pildil on suits/udu hõredam, võimaldades näha mehe nägu ja riietust selgemalt.",
+        "Kolmandal pildil on suits/udu kõige hõredam, paljastades mehe vigastused jalgadel ja ümbruse detailid veelgi selgemalt."
+      ],
+      "snr": "063",
+      "ajad": [
+        "816.960",
+        "824.160"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine mees, kes vaatab paremale (vaataja vasakule) sügava ja veidi dushunud ilmega. Tal on sassis tumedad lokkis juuksed ja ta näol, eriti põskedel ja lõual, on näha mustust või tahma. Mees kannab halli ülikonnajakki, valget särki ja tumedat triibulist lipsu. Tundub, et tema riietus on samuti veidi määrdunud. Taustaks on lihtne, hele-hall tekstuuriga sein. Esimeses kaadris on mees ümbritsetud tiheda, suitsuse või uduse kihiga, mis annab stseenile melanhoolse või katastroofijärgse tunde. Järgmistes kaadrites suits hajub järk-järgult, tuues mehe näojooned ja tausta selgemini esile, samas kui mehe ilme jääb tõsiseks ja mõtlikuks.",
+      "actions": [
+        "Mees seisab",
+        "Mees vaatab paremale",
+        "Mees mõtleb",
+        "Suits hajub"
+      ],
+      "keywords": [
+        "Mees",
+        "Ülikond",
+        "Lips",
+        "Tahm",
+        "Mustus",
+        "Suits",
+        "Udu",
+        "Hirmunud",
+        "Mõtlik",
+        "Tõsine",
+        "Hall",
+        "Sein"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Ülikonnajakk",
+        "Särk",
+        "Lips",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#A3A6A8",
+        "#FFFFFF",
+        "#343C40",
+        "#1E1E1E",
+        "#767C7D"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Suitsu või udu intensiivsus taustal ja mehe ümber on esimeses kaadris kõige tihedam ning muutub iga järgneva kaadriga õhemaks ja selgemaks.",
+        "Mehe näojooned ja riietuse detailid muutuvad kaadrite vahel järjest selgemaks, kuna suits kaob.",
+        "Mehe pea asend muutub veidi, esimeses kaadris on ta nägu veidi rohkem otse, teistes kaadrites on ta kergelt paremale pööratud."
+      ],
+      "snr": "064",
+      "ajad": [
+        "824.160",
+        "832.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest uduses või suitsuses väliskeskkonnas, mille taustal on kare ja tekstuuriline hall sein. Üldine atmosfäär on müstiline ja melanhoolne, tihedast valgest või helehallist udust tingituna. Üks mees on nähtav seljaga, kandes tumerohelist või halli triibulist kampsunit ja tumedaid pükse, tema kuju on udu tõttu osaliselt hägune. Teine mees, keda näeb ka lähemalt, kannab heledat ülikonda, valget särki ja tumedat lipsu. Tema soeng on korratu ning näoilme viitab väsimusele või kurvameelsusele. Särgile on tekkinud tume plekk ja ta hoiab käes väikest tumedat eset, millel on selgelt eristuv punane serv, võimalik et raamatut või rahakotti. Taustaks olev sein on krobeline, aukude ja ebatasasustega, mis annavad sellele vana või kulunud ilme, meenutades betooni või kaljupinda. Stseen tervikuna loob ettekujutuse üksindusest, pingest ja järelemõtlemisest karmi ja uduses keskkonnas.",
+      "actions": [
+        "Mees vaatab alla",
+        "Mees hoiab eset käes",
+        "Kaks meest seisavad uduses keskkonnas"
+      ],
+      "keywords": [
+        "udu",
+        "suits",
+        "mehed",
+        "ülikond",
+        "kampsun",
+        "hall sein",
+        "tekstuur",
+        "kurbus",
+        "melanhoolia",
+        "mõtlikkus",
+        "müstiline",
+        "väsimus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "ülikond",
+        "lips",
+        "särk",
+        "kampsun",
+        "püksid",
+        "sein",
+        "udu",
+        "suits",
+        "ese (raamat/rahakott)",
+        "müür"
+      ],
+      "colorcodes": [
+        "#E0E0E0",
+        "#A9A9A9",
+        "#4F5E51",
+        "#FFFFFF",
+        "#8B0000",
+        "#333333"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks meest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris on kaks meest kaugemal ja udus, üks neist seljaga.",
+        "Teises kaadris on mees ülikonnas esiplaanil, tema näoilme ja käes hoitav punase servaga ese on selgelt näha.",
+        "Kolmas kaader on lähivõte tekstuuritud hallist seinast, inimesi pole näha.",
+        "Kaadrite fookus ja subjekti detailsus varieeruvad, liikudes kahe mehe üldvaatelt emotsionaalse detaili ja keskkonna tekstuuri lähivaatele."
+      ],
+      "snr": "065",
+      "ajad": [
+        "832.880",
+        "868.320"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub hämaralt valgustatud toas, mis näib olevat elutuba või kabinet. Ruumi keskmes on kolmekohaline, heledast ruudulisest kangast diivan. Tagaseinal on puidust paneelid ja hele, mustrilise tapeediga kaetud ülemine osa. Diivani taga on puidust kapp, millel seisavad pudelid ja raamatud. Kapi kohal ripub raamitud pilt loojangust ja paremal seinal teine raamitud pilt. Vasakul seinal on mitu väiksemat pildiraami. Stseeni alguses siseneb tuppa mees, kandes halli pintsakut, valget särki ja lipsu, ning tal on käes valge punase äärega taskurätik. Ta näib olevat väsinud või murelik. Mees kõnnib diivani juurde ja istub sellele. Stseeni arenedes ilmub taustale naine, kes seisab kapi taga ja vaatab mehe poole. Naine kommenteerib mehe välimust, öeldes, et ta näeb \"kohutav\" välja, mis viitab mehe halvale enesetundele või raskele päevale. Üldine atmosfäär on vaikne ja veidi melanhoolne.",
+      "actions": [
+        "Mees siseneb tuppa",
+        "Mees kõnnib diivani poole",
+        "Mees istub diivanile",
+        "Mees hoiab taskurätikut",
+        "Naine ilmub taustale",
+        "Naine räägib mehega",
+        "Mees kuulab"
+      ],
+      "keywords": [
+        "Elutuba",
+        "Diivan",
+        "Väsinud mees",
+        "Hämar valgus",
+        "Siseinterjöör",
+        "Draama",
+        "Mure",
+        "Vestlus",
+        "Taskurätik"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Kolmekohaline diivan",
+        "Puidust kapp",
+        "Raamitud pildid (loojanguga, abstraktne muster, väikesed pildid)",
+        "Raamatud",
+        "Pudelid",
+        "Taskurätik",
+        "Mehe ülikond (pintsak, särk, lips)",
+        "Naise kleit/rõivas"
+      ],
+      "colorcodes": [
+        "#827e77",
+        "#4a453f",
+        "#7b8186",
+        "#e0d0cf",
+        "#7b5f4a",
+        "#7f6e6d"
+      ],
+      "texts": [
+        "Oh god, Ivan, you look horrible!"
+      ],
+      "persons": [
+        "Mees (Ivan)",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses kaadris on ruum tühi, mees ilmub paremalt poolt kaadrisse.",
+        "Teises kaadris on mees diivani poole liikumas, näoga allapoole ja hoiab taskurätikut.",
+        "Kolmandas kaadris istub mees diivanil ja taustal ilmub naine, samuti kuvatakse ekraanile subtiitrid naise öelduga.",
+        "Mehe kehahoiak muutub seismisest/kummardumisest istumiseks."
+      ],
+      "snr": "066",
+      "ajad": [
+        "868.320",
+        "888.840"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealist meest, kes kannab blondi lokkis parukat ja vuntse. Ta on riietatud tumepruunimustrilisse särki ja punasesse põlle. Mees vaatab otse kaamerasse tõsise ilmega. Taustaks on siseruum, mille seinad on tumepruunid ja kaetud juhuslikult kinnitatud paberite või dokumentidega. Paremal taustal on näha lauda, millel seisavad pudelid ja paberid, ning osaliselt ka riiul raamatutega. Vasakul on näha diivani või tugitooli serva. Valgus on pigem summutatud, luues veidi vanamoodsa või süngema atmosfääri. Esimesel ja teisel pildil on näha ingliskeelseid subtiitreid, mis annavad edasi mehe öeldud teksti.",
+      "actions": [
+        "Mees vaatab kaamerasse",
+        "Mees räägib (subtiitrite põhjal)"
+      ],
+      "keywords": [
+        "Mees",
+        "Parukas",
+        "Vuntsid",
+        "Põll",
+        "Särk",
+        "Siseruum",
+        "Tuba",
+        "Kontor",
+        "Paberid",
+        "Dokument",
+        "Raamatud",
+        "Mööbel",
+        "Tõsine",
+        "Blond",
+        "Vanamoodne",
+        "Süngus",
+        "Tumedad toonid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Blond parukas",
+        "Vuntsid",
+        "Mustriline särk",
+        "Punane põll",
+        "Seinad",
+        "Paberid/dokumendid (seinal)",
+        "Laud",
+        "Pudelid",
+        "Raamatud",
+        "Riiul",
+        "Diivan/tugitool"
+      ],
+      "colorcodes": [
+        "#51423B",
+        "#4A2B20",
+        "#8C343A",
+        "#E0D1A1",
+        "#5F4232",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Didn't you hear me?",
+        "Get out!"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 55,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel ja teisel pildil on näha ingliskeelseid subtiitreid (\"Didn't you hear me? Get out!\"), mis kolmandal pildil puuduvad.",
+        "Mehe pilk ja näoilme on kõigil kolmel pildil peaaegu identsed, kuid kolmandal pildil tundub pilk pisut intensiivsem ja suunatum otse ette."
+      ],
+      "snr": "068",
+      "ajad": [
+        "909.440",
+        "911.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte keskealist inimest siseruumis, mis näib olevat retrohõnguline elutuba või puhkeruum. Põrandast poole seina kõrguseni on pruun puitpaneel, kõrgemal heledam seinavärv. Taustal asub pruun puidust kapp. Keskel on ruudulise mustriga beežikashall diivan, millel istuvad mees ja naine. Mees on helehalli ülikonnajaki, valge särgi ja triibulise lipsuga, ent tema olek on räsitud ja lips on viltu. Tema silmad on suletud ja pea tahapoole longus, justkui oleks ta teadvusetu või tugevas joobes. Näol on näha mustust või vigastusi. Naine istub mehe kõrval, seljas tumeda mustriga kleit ja punane põll. Tema näoilme väljendab alguses muret või hoolitsust, kui ta mehe rinnale käe paneb, siis aga ehmumist või šokki. Lõpuks hoiab ta käes väikest tumedat pudelit, mis viitab mehe seisundi põhjusele, ja asetab käe enda rinnale.",
+      "actions": [
+        "Mees lamab diivanil, silmad suletud, pea longus, näib olevat teadvusetu või joobes",
+        "Naine sirutab käe mehe poole, puudutades tema rinda või õlga",
+        "Naine tõmbub veidi tagasi, väljendades šokki või muret",
+        "Naine hoiab käes väikest tumedat pudelit",
+        "Naine asetab oma käe rinnale"
+      ],
+      "keywords": [
+        "Drama",
+        "Mure",
+        "Šokk",
+        "Joobeseisund",
+        "Teadvusetus",
+        "Retro",
+        "Siseruum",
+        "Kodu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Diivan",
+        "Puitpaneel",
+        "Puidust kapp",
+        "Mehe ülikond",
+        "Lips",
+        "Naine kleit",
+        "Põll",
+        "Väike pudel",
+        "Klaasist vaas"
+      ],
+      "colorcodes": [
+        "#5C3E2E",
+        "#B8A185",
+        "#7A7A7A",
+        "#6B3E39",
+        "#A83A3A",
+        "#E0C7B2"
+      ],
+      "texts": [
+        "Stolichnaya"
+      ],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise käe asend muutub: esimesel pildil on käsi mehe rinnale asetatud, teisel on käsi mehe näo lähedal veidi tagasi tõmmatud ning kolmandal pildil on naine asetanud käe oma rinnale.",
+        "Naise näoilme areneb murest šoki ja ehmumiseni.",
+        "Väike tume pudel ilmub naise kätte kolmandal pildil.",
+        "Klaasist vaas on osaliselt nähtav kaadri vasakus alanurgas kolmandal pildil, samas kui kahes esimeses kaadris see puudub või on kaadrist väljas."
+      ],
+      "snr": "070",
+      "ajad": [
+        "917.080",
+        "930.280"
+      ]
+    }
+  ]
+}

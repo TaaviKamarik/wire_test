@@ -1,0 +1,4316 @@
+{
+  "film": [
+    "16305",
+    "16268",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Viimane trubaduur",
+    "62b6f8afeecbb4ea9449754565311484e7f3dec4.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täielikus pimeduses, misjärel ilmuvad ekraani keskele kolm udust, helendavat ringi, mis on paigutatud kolmnurka. Ülemine vasakpoolne ring on pisut suurem, alumine vasakpoolne pisut väiksem ja parempoolne ring kõige eredam. Seejärel muutuvad udused ringid teravateks ja värvilisteks – ülemine vasakpoolne punaseks, alumine vasakpoolne siniseks ja parempoolne roheliseks. Koos nende värviliste ringidega ilmub paremale poolele valge tekst, mis moodustab logo: suured tähed 'BFM', mille all on väiksemas kirjas 'Baltic Film and' ja 'Media School'. Lõpuks kaob kogu logo pimedusse, jättes ekraani täiesti mustaks.",
+      "actions": [
+        "Ilmumine",
+        "Helendumine",
+        "Teravnemine",
+        "Värvumine",
+        "Kadumine",
+        "Logoga tutvustamine"
+      ],
+      "keywords": [
+        "Logo",
+        "Animatsioon",
+        "Pimedus",
+        "Värvilised ringid",
+        "RGB",
+        "Kool",
+        "Meedia",
+        "Sissejuhatus",
+        "Väljumine"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Ringid",
+        "Logo",
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#FF0000",
+        "#00FF00",
+        "#0000FF"
+      ],
+      "texts": [
+        "BFM",
+        "Baltic Film and",
+        "Media School"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": 100,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt näitab udust heledatest ringidest koosnevat kujundit mustal taustal.",
+        "Teine pilt näitab teravaid punaseid, rohelisi ja siniseid ringe koos valge tekstiga 'BFM Baltic Film and Media School' mustal taustal.",
+        "Kolmas pilt on täiesti must, ilma igasuguste elementideta."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "11.520"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub päikeselisel päeval õues, rohelisel muruplatsil, mis paistab olevat maapiirkonna hoovis või aias. Vanem inimene, kellel on hallid juuksed ja seljas mustriga sviiter ning heledad püksid, kaevab labidaga auku maasse. Kaevatud pinnasest on tekkinud kõrvale kivide ja mulla hunnik. Läheduses on näha musta värvi sarvedega lammas, kes jälgib tegevust või sööb rahulikult rohtu. Taustal on näha aeda. Inimese nägu on hetkeliselt näha, mis viitab füüsilisele pingutusele kaevamise ajal, kusjuures viimasel pildil on näha ka liikumisest tingitud udusefekt.",
+      "actions": [
+        "kaevamine",
+        "labidaga töötamine",
+        "rohu söömine (lammas)",
+        "jälgimine (lammas)"
+      ],
+      "keywords": [
+        "kaevamine",
+        "aed",
+        "lammas",
+        "päikeseline",
+        "õues",
+        "töö",
+        "maapiirkond",
+        "kivid",
+        "muld",
+        "labidas",
+        "vana inimene"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "labidas",
+        "muru",
+        "kivid",
+        "muld",
+        "auk",
+        "lammas",
+        "aiapiire",
+        "puupulk"
+      ],
+      "colorcodes": [
+        "#5B892F",
+        "#7BA44D",
+        "#715E4D",
+        "#937B62",
+        "#2D241E",
+        "#B9A588",
+        "#7A6953",
+        "#B1A186",
+        "#9C897C"
+      ],
+      "texts": [],
+      "persons": [
+        "vanem inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Erinevused on fookuspunktides: esimene pilt näitab labida tööd ja lammast, teine pilt inimese käsi ja keha, kolmas pilt inimese nägu ja ülakeha liikumises."
+      ],
+      "snr": "002",
+      "ajad": [
+        "11.520",
+        "26.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest jalgrattaga sõitmas mööda kruusateed. Kaamera jäädvustab stseeni nii madala nurga alt maapinnalt jalgratta ratta ja varjude perspektiivist kui ka tagantvaates jalgratturi selja tagant. Sõitja kannab hallikat pikka kuube või mantlit ja tumedat laia äärega mütsi. Tema seljal on rihmaga kinnitatud punane, valgete detailidega akordion. Tee on tolmune või kruusane, ääristatud helerohelise rohuga. Taamal paistavad raagus või äsja lehte minevad lehtpuud, vihjates varakevadele. Päike paistab madalalt, tekitades pikki varje jalgrattast ja sõitjast teele. Ühel kaadritest ilmub pildile ka tekst \"VIIMANE TRUBADUUR\".",
+      "actions": [
+        "Jalgrattaga sõitmine",
+        "Teekäimine",
+        "Liikumine",
+        "Akordioni kandmine"
+      ],
+      "keywords": [
+        "Jalgratas",
+        "Akordion",
+        "Teekond",
+        "Trubaduur",
+        "Kevad",
+        "Maatee",
+        "Vari",
+        "Muusik",
+        "Üksildus"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Jalgratas",
+        "Akordion",
+        "Müts",
+        "Mantel/kuub",
+        "Kruusatee",
+        "Rohi",
+        "Puud",
+        "Vari",
+        "Jalats",
+        "Pedaal",
+        "Rihmad"
+      ],
+      "colorcodes": [
+        "#A89F7D",
+        "#6B7D6C",
+        "#727271",
+        "#C60D0B",
+        "#F8F8F8",
+        "#9C9A94",
+        "#4C4B4B"
+      ],
+      "texts": [
+        "VIIMANE TRUBADUUR"
+      ],
+      "persons": [
+        "Jalgrattur",
+        "Sõitja",
+        "Trubaduur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "spring",
+      "daytime": "morning or evening",
+      "differences": [
+        "Kolmandal pildil on tekst \"VIIMANE TRUBADUUR\", mis puudub teisel pildil.",
+        "Esimene pilt on lähivõte maapinnast ja jalgratta rattast, samas kui teine ja kolmas pilt on tagantvaates kaugvõtted jalgratturist."
+      ],
+      "snr": "003",
+      "ajad": [
+        "26.320",
+        "35.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest sõitmas vanema rohelist/türkiissinist värvi jalgrattaga mööda maateed või rada. Kaamera jälgib jalgratturit küljelt, luues tunde liikumisest ja tekitades taustale udususefekti. Jalgrattur kannab heledaid pükse ja valgeid kõrge säärega ketsid, tema jalad pedaalivad aktiivselt. Taustal on näha pruun puidust aed, mis eraldab tee haruldastest lehtedest puudest ja rohtunud põllust või kraavist. Puud on veel raagus, mis viitab hilistalvele või varakevadele, kuid muru on juba hakanud roheliseks minema. Valgus on ere ja loomulik, iseloomustades päevast aega. Stseen rõhutab rahulikku liikumist looduskeskkonnas.",
+      "actions": [
+        "Jalgrattaga sõitmine",
+        "Pedaalimine",
+        "Liikumine edasi"
+      ],
+      "keywords": [
+        "Jalgratas",
+        "Maatee",
+        "Aed",
+        "Pedaalimine",
+        "Väljas",
+        "Loodus",
+        "Liikumine",
+        "Kevad",
+        "Sport"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Jalgratas",
+        "Inimene",
+        "Püksid",
+        "Ketsid",
+        "Jalad",
+        "Pedaalid",
+        "Rattakumm",
+        "Porilaud",
+        "Ratas",
+        "Puud",
+        "Aed",
+        "Põld",
+        "Kraav",
+        "Muldtee"
+      ],
+      "colorcodes": [
+        "#4F8C81",
+        "#C2B280",
+        "#E0E0E0",
+        "#8B4513",
+        "#A07F5A",
+        "#708050",
+        "#C0D0E0",
+        "#A9A9A9"
+      ],
+      "texts": [],
+      "persons": [
+        "Jalgrattur"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene ja teine pilt kujutavad jalgratturit ja jalgratast liikumises, kusjuures jalgrattur ja ratas on kaadris edasi liikunud ja pedaalide asend muutunud.",
+        "Kolmas pilt on laiem kaader samast taustast, kuid ilma jalgratturi ja jalgrattata, pakkudes laiemat vaadet ümbrusele (aed, puud, põld, kraav).",
+        "Liikumise udu on esimesel kahel pildil märgatavam taustal, kuna kaamera jälgib objekti, samas kui kolmandal pildil, kus puudub liikuv objekt, on taust selgem."
+      ],
+      "snr": "004",
+      "ajad": [
+        "35.760",
+        "40.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaikset ja rahulikku loodusvaadet õhtuse või varajase hommiku valguses. Esiplaanil domineerib lai veekogu, mis peegeldab õrnalt roosakat taevast ja vastaskalda puid. Vesi on peaaegu liikumatu, luues selged, kuid samas pehmed peegeldused raagus puudest vasakul ja tumedatest okaspuudest ning maja siluetist paremal. Vee pinnal on näha üksikuid kuivanud taimevarsi ja lehti. Vasakul kaldal kasvab tihe rida raagus lehtpuid, mis sirutuvad vee kohale. Paremal pool veekogu taga on näha laiem rohumaa või põld, mille taga kõrgub rühm tumedaid okaspuid, tõenäoliselt kuused või männid. Nende puude vahelt paistab vana või tagasihoidlik maja tumeda katusega. Taevas on ühtlaselt kahvatu roosa või lavendliroosa varjundiga, andes kogu stseenile unenäolise ja melanhoolse tunde. Üldmulje on vaikne ja meditatiivne.",
+      "actions": [],
+      "keywords": [
+        "loodus",
+        "maastik",
+        "vesi",
+        "peegeldus",
+        "õhtu",
+        "hämarik",
+        "roosakas taevas",
+        "puud",
+        "maja",
+        "kevad",
+        "vaikne",
+        "rahulik",
+        "melanhoolne",
+        "üleujutus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "vesi",
+        "puud",
+        "maja",
+        "taevas",
+        "põld",
+        "rohi",
+        "oksad"
+      ],
+      "colorcodes": [
+        "#D5A0A4",
+        "#AD969A",
+        "#3A403A",
+        "#605C57",
+        "#907E81"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "spring",
+      "daytime": "evening",
+      "differences": [
+        "Piltide vahel on näha üliväikeseid muutusi veepinna detailides ja valguse peegeldustes, mis võivad olla tingitud kas vee õrnast liikumisest või kaamera väga minimaalsest nihkest. Üldine kompositsioon ja sisu on piltidel praktiliselt identsed."
+      ],
+      "snr": "005",
+      "ajad": [
+        "40.680",
+        "45.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat hallipäist ja kergelt habetunud meest istumas lihtsas, ilmselt maapiirkonna kodus. Mehel on seljas kollase kaelusega helesinine särk, mille peal on mustriline beezikas-pruun kampsun. Ta istub ruudulise laudlinaga kaetud laua taga. Laual on vana valge tumeda randiga emailpott, mis näib olevat kergelt kulunud. Mees hoiab käes heledat ümarat eset, mis sarnaneb kartuliga, ja näib seda koorivat või puhastavat. Tema pilk on suunatud allapoole või kõrvale, andes stseenile mõtliku või melanhoolse tooni. Toa seinad on heledad, kuid valgustus on hämar, luues intiimse ja veidi nukra atmosfääri. Tagaplaanil on näha seinal rippumas erinevaid riideesemeid – jakke, salli ja mütsi, mis annab aimu elupaiga tagasihoidlikkusest ja funktsionaalsusest. Samuti on näha nagi peal rippumas punavalget triibulist rätikut ja väikest metallpotti. Põrandal või madalal riiulil seisavad tumeroheline ja valge ämber. Üldine meeleolu on vaikne ja isiklik, keskendudes mehe igapäevasele tegevusele ja ümbrusele.",
+      "actions": [
+        "Istumine laua taga",
+        "Millegi koorimine või puhastamine käes",
+        "Alla või eemale vaatamine"
+      ],
+      "keywords": [
+        "Eakas mees",
+        "Maakodu",
+        "Sisemus",
+        "Vaikus",
+        "Mõtisklev",
+        "Kampsun",
+        "Laud",
+        "Pott",
+        "Kartul",
+        "Kodune",
+        "Hämar valgus",
+        "Riided konksul"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Eakas mees",
+        "Laud",
+        "Laudlina",
+        "Valge emailpott",
+        "Mustriline kampsun",
+        "Sinine särk",
+        "Kartul (või sarnane vili)",
+        "Seinakonksud",
+        "Riided (jakid, sallid, mütsid)",
+        "Punavalge triibuline rätik",
+        "Väike metallpott",
+        "Tumeroheline ämber",
+        "Valge ämber",
+        "Riiul/pink",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#BAAA91",
+        "#91A3B8",
+        "#EBEBEB",
+        "#3F474A",
+        "#E3E4C7",
+        "#4A6348",
+        "#BDC3C6",
+        "#8A8B8D",
+        "#C9A78F"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene kaader näitab meest detailsemalt, tema pilk on suunatud alla ja kergelt paremale, fookus on tema näol ja tegevusel.",
+        "Teine kaader näitab meest profiilis, ta on pööranud pead rohkem paremale ja kaamerast eemale, rõhutades tema kehakeelt.",
+        "Kolmas kaader on laiem plaan, kus mees puudub; see annab edasi toa üldisema atmosfääri ja sisekujunduse, näidates seinal rippuvaid riideid ja nurka ämbritega, pakkudes konteksti mehe ümbrusele."
+      ],
+      "snr": "006",
+      "ajad": [
+        "45.480",
+        "74.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest seismas vana, ilmastikust kulunud puitmaja ukseavas. Hoone uks on tumepunane, paneelidega ja näitab selgeid kulumise märke. Mehel on hallid, lokkis juuksed ja näol on näha kortse, mis annavad tunnistust vanusest. Ta on riietatud soojalt: kollase t-särgi ja sinise kraega särgi peal kannab ta beeži, pruuni, rohelise ja sinise mustriga kootud kampsunit. Mees vaatab uksest välja paremale (vaataja paremale), kusjuures tema näoilme muutub stseeni jooksul mõtlikust või tõsisest kergelt naeratavaks. Mehe taga avaneb vaade tumedale siseruumile, kus ripub tume riideese koos konksuga. Ukseavast paremal on näha vana, halliks kulunud puidust sein ja osa valge raamiga aknast. Stseen on valgustatud eredalt loomuliku valgusega, mis heidab mehe näole selged varjud.",
+      "actions": [
+        "Seisab ukseavas",
+        "Vaatab välja",
+        "Muudab näoilmet"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Ukseava",
+        "Puitmaja",
+        "Rustikaalne",
+        "Kootud kampsun",
+        "Ilmastikust kulunud",
+        "Mõtlik",
+        "Naeratav",
+        "Maaelu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Puituks",
+        "Ukseava",
+        "Puitsein",
+        "Aken",
+        "Kootud kampsun",
+        "T-särk",
+        "Kraega särk",
+        "Riideese",
+        "Konks"
+      ],
+      "colorcodes": [
+        "#5B2B2D",
+        "#A0A0A0",
+        "#F8D958",
+        "#C2AE92",
+        "#967054",
+        "#74A292",
+        "#5F7D8B",
+        "#705B48",
+        "#E8E8E8"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe näoilme muutub kaadrite vahel tõsisest kergelt naeratavaks.",
+        "Mehe pilk on suunatud alguses otse paremale, hiljem veidi kaugemale paremale.",
+        "Esimene pilt keskendub detailsemalt uksele ja selle tekstuurile enne mehe ilmumist kaadrisse."
+      ],
+      "snr": "007",
+      "ajad": [
+        "74.120",
+        "89.080"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset päikeselisel kevadpäeval vana pruunika puitmaja ees, millel on hall laineline eterniitkatus ja valge raamiga aknad. Rohelise muruga kaetud õuel, maja ukseavas seisab vanem mees, seljas hele pruunika mustriga kampsun ja khakivärvi püksid. Tal on hallid, veidi sassis juuksed ja ta vaatab üllatunud ilmega paremale. Maja ees pingil istub noorem habemega mees, seljas khaki jope, heledad püksid ja jalas valged tossud. Ta hoiab süles väikest punast akordionit ning kannab samasuguse tooniga mütsi. Stseen kujutab nende kahe mehe kohtumist ja vestlust. Vanem mees väljendab oma üllatust nähes nooremat meest akordioniga, viidates talle kui trubaduurile. Ta vaatab nooremat meest mõtisklevalt, samal ajal kui noorem mees kuulab ja vaatab talle vastu, näol kerge muie.",
+      "actions": [
+        "Vanem mees astub majast välja",
+        "Vanem mees räägib",
+        "Noorem mees istub pingil",
+        "Noorem mees hoiab akordionit",
+        "Noorem mees kuulab"
+      ],
+      "keywords": [
+        "Maal",
+        "Talumaja",
+        "Akordion",
+        "Kohtumine",
+        "Vestlus",
+        "Kevad",
+        "Muusik",
+        "Väljas",
+        "Päike",
+        "Trubaduur"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Puitmaja",
+        "Laineline eterniitkatus",
+        "Valged aknad",
+        "Uks",
+        "Muru",
+        "Puuoksad",
+        "Puitpink",
+        "Akordion",
+        "Müts",
+        "Kampsun",
+        "Jope",
+        "Tossud"
+      ],
+      "colorcodes": [
+        "#7B4B38",
+        "#8A8D8B",
+        "#799A48",
+        "#B0C8D9",
+        "#A69477",
+        "#808269",
+        "#AA442D",
+        "#C0A17E"
+      ],
+      "texts": [
+        "Didn't think I'd see a troubadour at the end of my life."
+      ],
+      "persons": [
+        "Vanem mees",
+        "Noorem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on kaader laiem, näidates terviklikumat vaadet majale ja õuele, samal ajal kui teised pildid on lähemalt võetud, keskendudes meeste omavahelisele suhtlusele.",
+        "Teisel pildil on subtiitrid 'Didn't think I'd see a troubadour at the end of my life.', mis kolmandal pildil puuduvad.",
+        "Noorema mehe müts on teisel pildil tema süles ja kolmandal pildil toetub see tema jalale.",
+        "Meeste näoilmed muutuvad: vanem mees on esimesel pildil üllatunud, teisel tõsisemalt vaatav, kolmandal ehk mõtlikum. Noorem mees vaatab esimesel pildil eemale, teisel kuulab ja kolmandal vaatab vanemat meest kergelt naeratades."
+      ],
+      "snr": "008",
+      "ajad": [
+        "89.080",
+        "121.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab heledajuukselist ja habemega meest, kes istub siseruumis laua taga, aknale avaneva vaatega. Mees kannab heledat, beeži või kreemika tooniga, ruudulist pikkade varrukatega särki. Tema pilk on suunatud allapoole ja kergelt paremale, nägu on valgustatud pehme sisevalgusega, luues rahuliku ja keskendunud atmosfääri. Akna taga on näha tumedat, hägust maastikku või puid, mis viitab hilisõhtusele või öisele ajale. Akent raamivad punase-valgeruudulised kangast kardinad, mis on tõmmatud külgedele ja paigal hoitud. Akna ülaosa on kaunistatud valgete pitsist linikutega. Mees näib olevat millegagi hõivatud laual, tema parem käsi on nähtav hoidmas väikest heledat eset, mis võib olla toit või söögiriist. Tema suu on kergelt avatud, mis annab stseenile vaikse ja mõtiskleva meeleolu.",
+      "actions": [
+        "Istumine laua taga",
+        "Allapoole vaatamine",
+        "Väikese eseme hoidmine käes",
+        "Võimalik söömine või joomine",
+        "Keskendumine"
+      ],
+      "keywords": [
+        "Mees",
+        "Habe",
+        "Heledad juuksed",
+        "Aken",
+        "Kardinad",
+        "Siseruum",
+        "Hubane",
+        "Öö",
+        "Keskendunud",
+        "Särk",
+        "Pitslinikud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Ruuduline särk",
+        "Aken",
+        "Punase-valgeruudulised kardinad",
+        "Valged pitslinikud",
+        "Väike ese (käes)",
+        "Laud (osaliselt)"
+      ],
+      "colorcodes": [
+        "#C9C4AE",
+        "#B33D35",
+        "#F4E8D6",
+        "#F5F5F5",
+        "#1F2837",
+        "#EBC19F",
+        "#82633C"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe parema käe asend ja eseme nähtavus muutuvad kaadrite vahel: esimesel pildil pole käsi näha, teisel ilmub see pildile ja kolmandal on see selgelt näha, hoides väikest heledat eset.",
+        "Mehe suu asend muutub kergelt avatumaks hilisematel piltidel, viidates võimalikule rääkimisele, söömisele või suu liigutamisele.",
+        "Kerged variatsioonid mehe pilgu suunas ja näoilmes, mis tulenevad kaadrite vahelisest minimaalsest liikumisest."
+      ],
+      "snr": "009",
+      "ajad": [
+        "121.800",
+        "129.400"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset hubases ja vanamoodsas siseruumis, mis koosneb köögist ja söögitoast. Ruumide seinu katab mustriga tapeet ning valgustus on üldiselt hämar ja soe, viidates hilisõhtule või ööle. Köögis on näha puidust kappe ja riiuleid, gaasipliiti, kraanikaussi ning rippuvaid köögiriistu, sealhulgas küüslauke. Vanem mees, kellel on hallid juuksed ja triibuline kampsun, tegutseb köögis kraanikausi juures, ilmselt toimetades nõudega. Köögist avaneb uks teise, veelgi hämaramasse tuppa, kus on näha riiuleid, potte ja rippuvaid rätikuid. Söögitoas istub laua taga noorem mees heledate juuste ja särgiga, süvenenult oma taldrikule. Laud on kaetud valge laudlinaga ning sellel on taldrikud, kruusid, söögiriistad, soola- ja pipratoos ning purk. Aknal ripuvad punavalged ruudulised kardinad ja aknast paistab hämar, võimalik, et lumine öine maastik. Vanem mees liigub hiljem söögituppa, kus ta seisab laua ääres ja kummardub veidi, jälgides nooremat meest või laual olevat toitu. Üldine atmosfäär on vaikne ja kodune, keskendudes igapäevaelu toimingutele.",
+      "actions": [
+        "Nõude pesemine/korrastamine",
+        "Söömine",
+        "Seismine",
+        "Istumine",
+        "Ringi liikumine",
+        "Vaatamine/jälgimine",
+        "Nõjatumine laua kohale"
+      ],
+      "keywords": [
+        "Kodune",
+        "Rustikaalne",
+        "Söömaaeg",
+        "Öine",
+        "Hämar",
+        "Mehed",
+        "Kodu",
+        "Köök",
+        "Söögituba",
+        "Vanamoodne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Köök",
+        "Söögituba",
+        "Laud",
+        "Toolid",
+        "Nõud",
+        "Kruusid",
+        "Laudlina",
+        "Aken",
+        "Kardinad",
+        "Tapeet",
+        "Seinapilt",
+        "Seinakell",
+        "Gaasipliit",
+        "Kraanikauss",
+        "Kapp",
+        "Riiulid",
+        "Küüslauk",
+        "Pott",
+        "Rätik",
+        "Soolatoos",
+        "Pipratoos",
+        "Purk",
+        "Taldrikud"
+      ],
+      "colorcodes": [
+        "#D4C9A7",
+        "#9D8A6A",
+        "#B7302E",
+        "#FFFFFF",
+        "#6C5E4A",
+        "#958B79",
+        "#E6E0D2",
+        "#8B6D4F",
+        "#2A3C4D"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees",
+        "Noorem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Stseen liigub köögist söögituppa, näidates esmalt vanemat meest köögitoimingutel ja seejärel mõlemat meest söögilauas.",
+        "Vanema mehe tegevus muutub nõudega toimetamiselt laua ääres seismisele ja noorema mehe/toidu vaatlemisele.",
+        "Noorem mees on nähtav ainult söögitoas laua taga süües."
+      ],
+      "snr": "010",
+      "ajad": [
+        "129.400",
+        "143.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast siseruumi, tõenäoliselt elamut, kus kesksel kohal on vanem mees. Mehel on hallid, veidi sassis juuksed ja ta kannab mitmekihilist riietust: kollast T-särki, selle peal sinist teksasärki ja kõige peal beeži-pruunika mustriga kampsunit. Tema näol on näha kortse, mis viitavad vanusele. Ruumi taust on tagasihoidlik ja kodune. Vasakul pool on näha riiete nagis rippuvaid tumedaid ja heledamaid rõivaesemeid ning nende all puidust kingariiul mitme jalatsipaariga. Paremal pool on seinal rippumas metallist kulbike ja selle all tumepunane kruus ning tumedam ahi või mööbliese. Seinte värvus on soe, beežikas-oranžikas toon, mis annab ruumile hubase ja maalähedase tunde. Valgus paistab olevat pehme ja hajutatud, luues rahuliku atmosfääri.",
+      "actions": [
+        "Istub või toetub",
+        "Vaatab ringi",
+        "Mõtiskleb"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Kampsun",
+        "Kodune",
+        "Siseruum",
+        "Mõtisklev",
+        "Hallid juuksed",
+        "Riiul",
+        "Kruus",
+        "Hubane",
+        "Maalähedane"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kampsun",
+        "Kollane T-särk",
+        "Teksasärk",
+        "Riiete nagi",
+        "Rõivad",
+        "Puidust kingariiul",
+        "Jalatsid",
+        "Metallist kulbike",
+        "Tumepunane kruus",
+        "Ahi",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#D6976F",
+        "#B0A68A",
+        "#FCD703",
+        "#4682B4",
+        "#8B0000",
+        "#A9A9A9",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe pea asend ja pilgu suund varieeruvad kaadrite vahel. Esimesel pildil on pea kallutatud alla paremale, pilk suunatud alla. Teisel pildil on pea tõstetud ja pilk suunatud otse ette, näol on kerge küsiv ilme. Kolmandal pildil on pea taas veidi alla kallutatud, pilk ettepoole-paremale, olles mõtisklevamal ilmel."
+      ],
+      "snr": "011",
+      "ajad": [
+        "143.960",
+        "146.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort, habemega meest, kes istub siseruumis laua taga ja sööb lusikaga. Ta kannab heledat ruudulist särki. Mehe ilme on läbivalt mõtlik ja tõsine. Taustal on näha aken punase-valgeruuduliste kardinatega, mille kohal ripuvad pitsilised kaunistused. Aknast paistab välja tume, udune või pime maastik, kus on näha puude kontuure, mis viitab hilisele õhtule või ööle. Üldine atmosfäär on vaikne ja intiimne, keskendudes mehe sisemaailmale ja tema mõtetele, mida rõhutavad ekraanil kuvatavad subtiitrid. Valgus tuleb peamiselt eestpoolt, valgustades mehe nägu ja rõhutades tema pilku.",
+      "actions": [
+        "Söömine lusikaga",
+        "Mõtlikult vaatamine",
+        "Rääkimine (suletud või avatud suuga, vastavalt subtiitrile)"
+      ],
+      "keywords": [
+        "Meheportree",
+        "Söömine",
+        "Mõtisklus",
+        "Siseruum",
+        "Öö",
+        "Kardinad",
+        "Aken",
+        "Subtiitrid",
+        "Intiimne",
+        "Tõsine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Lusikas",
+        "Aken",
+        "Kardinad (punase-valgeruudulised)",
+        "Pitskaunistused",
+        "Sein",
+        "Tundmatu roog kausis (ei ole otse näha, aga eeldatav lusika kasutamisest)"
+      ],
+      "colorcodes": [
+        "#c6c6b3",
+        "#aa3d36",
+        "#fdfdfd",
+        "#2b3a3c",
+        "#704f2f",
+        "#c7a78b",
+        "#426943"
+      ],
+      "texts": [
+        "Soon I'll be done with anyway."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimeses kaadris vaatab mees otse kaamerasse, suu on kergelt avatud ja lusikas on huulte lähedal, justkui oleks ta kohe söömas või rääkimas.",
+        "Teises kaadris ilmub ekraanile subtiiter 'Soon I'll be done with anyway.'. Mees vaatab allapoole või vasakule poole, ilme on tõsisem ja mõtlikum.",
+        "Kolmandas kaadris on subtiiter endiselt nähtav. Mees vaatab kergelt üles ja ette, kuid mitte otse kaamerasse, vaid pilk on suunatud eemale, ilme on jätkuvalt mõtlik ja veidi sünge."
+      ],
+      "snr": "012",
+      "ajad": [
+        "146.160",
+        "149.680"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanemat meest, kellel on hallid, sassis juuksed ja hele habemetüügas. Ta kannab mustrilist heledat pruunikas-beeži kootud kampsunit, mille all on teksasärk ja nähtav kollane särgi krae. Mees istub siseruumis, tõenäoliselt rustikaalses köögis või elutoas. Esimesel pildil vaatab ta otse kaamerasse mõtliku või melanhoolse ilmega, kaasas on subtiiter \"Soon I'll be done with anyway.\". Järgmistes kaadrites pöörab ta pead aeglaselt allapoole ja paremale, ning tema ilme muutub, vihjates kergele naeratusele või resignatsioonile, mis näitab vestluse jätkumist või vastust. Teisel pildil on näha subtiiter \"It's not like anyone...\". Kolmandal pildil on mees tabatud keset liigutust, pea veelgi paremale pööratud ja ilma subtiitriteta. Taustal on näha ruumi detaile: vasakul riiul või nagid rippuvate riietega ja paremal sooja punakaspruuni seina taustal rippuv kulp, sügavpunane kruus ja osa traditsioonilisest pliidist või ahjust. Üldine valgustus on pehme, viitades päevasele ajale.",
+      "actions": [
+        "Mees räägib",
+        "Mees mõtiskleb",
+        "Mees pöörab pead allapoole",
+        "Mees pöörab pead paremale",
+        "Mehe ilme muutub"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Mõtlik",
+        "Resignatsioon",
+        "Siseruum",
+        "Köök",
+        "Kampsun",
+        "Subtiitrid",
+        "Portree",
+        "Liikumine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kampsun",
+        "Teksasärk",
+        "Kollane särk",
+        "Sein",
+        "Riided",
+        "Riiul",
+        "Kulp",
+        "Punane kruus",
+        "Pliit/ahi",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#BE9F76",
+        "#B06248",
+        "#922325",
+        "#5B7F9B",
+        "#E0B95B",
+        "#A0A0A0",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Soon I'll be done with anyway.",
+        "It's not like anyone..."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe peapoos ja pilgu suund muutuvad.",
+        "Mehe ilme muutub pisut, liikudes mõtlikult naeratuse suunas.",
+        "Subtiitrite tekst muutub esimeselt pildilt teisele pildile.",
+        "Kolmandal pildil puuduvad subtiitrid, mis viitab tegevuse jätkumisele."
+      ],
+      "snr": "013",
+      "ajad": [
+        "149.680",
+        "153.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest siseruumis, istumas akna lähedal. Aken on raamitud punavalgeruuduliste, külgedele seotud kardinatega ja kaunistatud valgete pitslinadega ülal. Akna taga on näha tume välisvaade, mis viitab õhtule või ööle, kus paistavad ebaselged puud või tihe taimestik. Mehel on habe ja heledad juuksed ning ta kannab heledat ruudulist nööbiga särki. Ta näib mõtisklev, vaadates kord alla, kord otse ette pingsa ilmega. Ühel hetkel on ta jäädvustatud söömas, tuues lusikat suu juurde ja rääkides, mida kinnitab subtiiter. Tema pilk on sel hetkel intensiivne ja ettepoole suunatud. Üldine atmosfäär on vaikne ja sisekaemuslik.",
+      "actions": [
+        "Istub",
+        "Vaatab alla",
+        "Vaatab ette",
+        "Sööb lusikaga",
+        "Räägib"
+      ],
+      "keywords": [
+        "Mees",
+        "Söömine",
+        "Mõtisklev",
+        "Siseinterjöör",
+        "Aken",
+        "Öö",
+        "Õhtu",
+        "Kardinad",
+        "Pits",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Särk",
+        "Lusikas",
+        "Aken",
+        "Ruudulised kardinad",
+        "Pitslinad",
+        "Puud",
+        "Taimestik"
+      ],
+      "colorcodes": [
+        "#C2BA9C",
+        "#283745",
+        "#8C2B2C",
+        "#FDFDFB"
+      ],
+      "texts": [
+        "Surely there's someone."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "autumn",
+      "daytime": "night",
+      "differences": [
+        "Mehe näoilme ja pilgu suund muutuvad.",
+        "Mehe käte asend muutub, ühes kaadris on tal lusikas käes ja ta on söömas.",
+        "Teises kaadris ilmub ekraanile subtiiter."
+      ],
+      "snr": "014",
+      "ajad": [
+        "153.800",
+        "159.120"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanemat meest, kes istub siseruumis, tõenäoliselt köögis või elutoas. Tal on seljas soe beeži ja pruuni mustriga kampsun, mille all on sinine kraega särk ja kollane T-särk. Mehe hallid juuksed on sassis ja näos on näha elujooni. Tema pilk ja ilme muutuvad stseeni jooksul: ühel hetkel vaatab ta otse ette kergelt mõtlikul ilmel, siis sulgeb silmad ja langetab pilgu, väljendades kurbust või resignatsiooni, ning seejärel avab uuesti silmad ja räägib. Taustal on näha soojades toonides (pruun, ooker) sein, rippuvaid köögitarvikuid, näiteks kulbi, ja punast tassi puittreipingi või kummuti peal. Vasakul taustal ripub seinal riideid. Üldine atmosfäär on vaikne ja melanhoolne.",
+      "actions": [
+        "Istumine",
+        "Vaatamine",
+        "Silmade sulgemine",
+        "Rääkimine"
+      ],
+      "keywords": [
+        "Portree",
+        "Vana mees",
+        "Mõtlikkus",
+        "Kurbus",
+        "Siseruum",
+        "Rustikaalne",
+        "Kampsun",
+        "Vestlus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kampsun",
+        "Särk",
+        "Sein",
+        "Puidust mööbel",
+        "Punane tass",
+        "Kulbi",
+        "Riided"
+      ],
+      "colorcodes": [
+        "#967B5C",
+        "#C8B291",
+        "#344A68",
+        "#D9D2C8",
+        "#A82E2E",
+        "#F4D77D",
+        "#595C5C"
+      ],
+      "texts": [
+        "Not even grandchildren."
+      ],
+      "persons": [
+        "Vana mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe näoilme ja silmade asend muutuvad kaadrite vahel. Esimeses kaadris on mees avatud silmadega ja pilk on ette suunatud. Teises kaadris on mehe silmad suletud ja pea kergelt langetatud. Kolmandas kaadris on silmad taas avatud, pilk ette suunatud ja suu kergelt avatud, viidates rääkimisele, mida kinnitab ka subtiiter."
+      ],
+      "snr": "015",
+      "ajad": [
+        "159.120",
+        "164.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest vanamoodsas, maalähedases interjööris, mis näib olevat köök või söögituba, öisel ajal. Noor mees, heleda habeme ja särgiga, istub puidust laua ääres akna juures, süvenenult oma taldrikusse, laual on ka moosipurk ja tass. Akent raamivad punase-valgeruudulised kardinad, väljas paistab pime, mägine maastik. Esiplaanil istub vanem mees, hallide sassis juuste ja mustrilise kampsuniga, seljaga noorema mehe poole, vaadates allapoole kurvameelse ilmega, käed rüpes. Ruum on hämaralt valgustatud, luues sooja, kuid melanhoolse atmosfääri. Seinad on kaetud mustrilise tapeediga ja taustal on näha heledat külmikut või kappi koos riiuli ja nõudega. Stseeni üldine meeleolu viitab vaiksele, võib-olla raskele vestlusele perekonnast, kahetsusest või üksindusest.",
+      "actions": [
+        "Noorem mees istub laua taga",
+        "Noorem mees sööb või mõtiskleb",
+        "Vanem mees istub",
+        "Vanem mees kuulab või on sügavates mõtetes"
+      ],
+      "keywords": [
+        "Sisehooldus",
+        "Melanhoolia",
+        "Vestlus",
+        "Perekond",
+        "Igatsus",
+        "Maaelu",
+        "Köök",
+        "Söögituba",
+        "Vaikne",
+        "Mõtisklemine",
+        "Üksindus",
+        "Retro"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Toolid",
+        "Kardinad",
+        "Aken",
+        "Taldrik",
+        "Kauss",
+        "Kruus",
+        "Purk",
+        "Tapeet",
+        "Külmkapp",
+        "Riiul",
+        "Nõud"
+      ],
+      "colorcodes": [
+        "#9a2f2e",
+        "#a48f72",
+        "#4a5c71",
+        "#9c8e76",
+        "#d7d0bb",
+        "#7b7260",
+        "#30414f"
+      ],
+      "texts": [
+        "Not even grandchildren."
+      ],
+      "persons": [
+        "Vanem mees",
+        "Noorem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Noorema mehe pea asend ja näoilme varieeruvad pisut. Esimesel ja teisel pildil vaatab noorem mees alla mõtlikult. Kolmandal pildil on noorem mees kergitanud oma pead ja vaatab veidi ettepoole, suu on kergelt avatud, mis viitab reaktsioonile vestlusele või valmisolekule rääkida."
+      ],
+      "snr": "016",
+      "ajad": [
+        "164.360",
+        "176.920"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanemat meest, kes istub siseruumis. Tal on hallid, veidi sassis juuksed ja hallikas habe-vunts. Mehe näos on sügavalt mõtlik, veidi melanhoolne või väsinud ilme, pilk on suunatud allapoole ja paremale. Ta kannab pruunides ja beežides toonides, mustrilist kampsunit, mille all on helesinine nööpidega särk ja kollane T-särk. Ta paikneb ruumis, mille tagasein on sooja pruunikas-punase või terrakotavärvi tooniga. Seinal vasakul ripub riideid, sh ruuduline särk. Paremal seinal ripub hõbedane köögilusikas ja mõned muud esemed. Paremal pool on näha ka tume puidust mööbliese, mis võib olla ahi või kapp, ning selle peal seisab erkpunane kruus. Valgus on pehme ja soe, luues hubase, kuid samas tõsise atmosfääri.",
+      "actions": [
+        "Istub",
+        "Vaatab allapoole",
+        "Mõtiskleb"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Mõtlik",
+        "Melanhoolne",
+        "Siseruum",
+        "Rustikaalne",
+        "Kampsun",
+        "Hallid juuksed",
+        "Kööginõud",
+        "Maalähedane",
+        "Hõbedane lusikas",
+        "Punane kruus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kampsun",
+        "Särk",
+        "Sein",
+        "Rippuvad riided",
+        "Köögilusikas",
+        "Punane kruus",
+        "Tume mööbel",
+        "Metallist anum"
+      ],
+      "colorcodes": [
+        "#B89F7D",
+        "#A3755A",
+        "#5C7D9E",
+        "#A52A2A",
+        "#4A2C1A",
+        "#A3A3A3",
+        "#E5C06A",
+        "#C0C0C0"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe pea asend ja pilk on kaadrite vahel kergelt muutunud, vihjates peenele liikumisele või meeleolu nihkele.",
+        "Esimesel pildil on mehe pilk veidi rohkem allapoole suunatud ja pea asend veidi madalam.",
+        "Hilisematel piltidel on pea pisut püstisem ja pilk veidi ettepoole, andes veidi teistsuguse, kuid siiski mõtliku ilme.",
+        "Näoilme ja varjude muster näol muutuvad minimaalselt, mis on iseloomulik järjestikustele kaadritele videos."
+      ],
+      "snr": "017",
+      "ajad": [
+        "176.920",
+        "184.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat või öist maastikku, kus on näha mitu maamaja ja kõrvalhoonet. Esiplaanil on tumedam maatükk, mis võib olla põld või lage maa, millel kasvab kohati rohi. Paremal esiplaanil on märgata tumedat looma, mis meenutab siga või koera. Vasakul asub puitmaja, mille sissepääsu juures põleb ere soe valgus, valgustades maja ust ja selle esise ala. Maja katus on tume ja sellel on näha antenn. Taamal, paremal pool, on veel kaks puitmaja või kõrvalhoonet. Parempoolsemast hoonest paistab samuti soe valgus, mis valgustab kõrval asuvat väikest kasvuhoonet või varjualust. Keskmine hoone on tumedam ja valgustamata. Horisondi taga laiub tume metsaserv. Taevas on sügavsinine või tumehall, vihjates hilisõhtusele või öisele ajale. Üldine meeleolu on rahulik ja vaikne, pakub kodutunnet ja annab edasi ka teatavat üksindust.",
+      "actions": [
+        "Maja valgustamine",
+        "Looma liikumine (oletatav)"
+      ],
+      "keywords": [
+        "maastik",
+        "maa",
+        "küla",
+        "õhtu",
+        "öö",
+        "hämarus",
+        "majad",
+        "puitmajad",
+        "valgus",
+        "vaikus",
+        "mets",
+        "põld",
+        "loodus",
+        "rahulik",
+        "kodu",
+        "üksindus",
+        "kevad",
+        "sügis"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "puitmaja",
+        "maja",
+        "katus",
+        "antenn",
+        "valgus",
+        "uks",
+        "aken",
+        "aed",
+        "põld",
+        "mets",
+        "puu",
+        "loom",
+        "kasvuhoone",
+        "kõrvalhoone",
+        "post"
+      ],
+      "colorcodes": [
+        "#344053",
+        "#1E211E",
+        "#F9E08A",
+        "#4A4A4A",
+        "#1F2E23",
+        "#222E34"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 60,
+      "season": "spring",
+      "daytime": "night",
+      "differences": [
+        "Pildid on identsed."
+      ],
+      "snr": "018",
+      "ajad": [
+        "184.040",
+        "191.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maaelu miljööd pilvise ilmaga, kus vanem mees tegutseb vana puidust kuuri juures. Kuuri sissepääsu juures on näha hoolikalt laotud halupuid, mis annab aimu, et tegemist on puukuuriga. Mees on riietatud soojalt, kandes pruuni pikka mantlit, rohekashalle pükse ja musti kummikuid. Tal on hallid, veidi sassis juuksed. Algselt on mees kummargil kuuri sisse, justkui võtaks sealt midagi, hoides käes tumedat eset. Seejärel sirutab ta end välja, vaatab pilguga kuuri avausest välja ning viimaks seisab ta otse kuuri ukseavas, vaadates vasakule, justkui pöördudes kellegi poole küsiva pilguga. Kuuri kõrval on roostetanud metallist ämber ja maas lebavad kivid. Esiplaanil paremal on näha türkiissinise raamiga jalgratas. Taamal paistab suurem vana hoone, millel on hall laineline eterniitkatus ja väike valge raamiga aken. Maapind on kaetud rohelise muruga, mis viitab kevadele või suvele. Taamal on näha ka madalat võrkaeda või aia jäänuseid. Kogu stseen on täis vanu ja kulunud esemeid, mis annavad edasi autentse ja ajatu tunde.",
+      "actions": [
+        "kummardumine kuuri sisse",
+        "millegi haaramise liigutus",
+        "end sirutamine",
+        "ukseavast välja vaatamine",
+        "ukseavas seismine",
+        "küsiva pilgu heitmine"
+      ],
+      "keywords": [
+        "maaelu",
+        "talukoht",
+        "puukuur",
+        "vanamees",
+        "igapäevatoimetused",
+        "jalgratas",
+        "töö",
+        "vanadus",
+        "küsimus",
+        "puud",
+        "hall ilm"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "puidust kuur",
+        "halupuud",
+        "metallist ämber",
+        "jalgratas",
+        "vana hoone",
+        "laineline eterniitkatus",
+        "aken",
+        "muru",
+        "kivid",
+        "aed"
+      ],
+      "colorcodes": [
+        "#967055",
+        "#A39D90",
+        "#6B9F4E",
+        "#A8D9E0",
+        "#000000"
+      ],
+      "texts": [
+        "What are you doing?"
+      ],
+      "persons": [
+        "vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Mehe poos ja asend muutuvad kaadrite vahel, algselt kummargil, seejärel sirutab ta end välja ja lõpuks seisab ukseavas",
+        "Subtiitrid tekstiga \"What are you doing?\" ilmuvad kolmandas kaadris"
+      ],
+      "snr": "019",
+      "ajad": [
+        "191.040",
+        "205.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort meest vabas õhus, aia- või hoovialal, vana ja räämas kasvuhoone kõrval. Mees on kükitavas asendis ja tegeleb kasvuhoone ukse puitraami parandamisega, kasutades haamrit ja kangitaolist tööriista. Kasvuhoone on ehitatud vanadest puitraamidest ja klaaspaneelidest, millest mõned tunduvad olevat purunenud või puudu. Kasvuhoone sisemus on täidetud tumeda mullaga. Mees kannab praktilisi õueriideid: tumesinist kampsunit, khaki värvi pükse ja tumedaid kummikuid. Ümbritsev keskkond hõlmab rohelist muru, puidust aeda ja mõningaid raagus põõsaid, mis viitab varakevadele. Mees naeratab ja on oma töösse süvenenud. Ekraanil on subtiitrid, mis viitavad vestlusele kasvuhoone renoveerimise teemal, öeldes, et siin ümberringi midagi ei kasva ja väike renoveerimine ei teeks paha.",
+      "actions": [
+        "Mees parandab kasvuhoonet.",
+        "Mees töötab haamri ja kangiga (või peitliga).",
+        "Mees kükitab maha.",
+        "Mees naeratab.",
+        "Kasvuhoonet renoveeritakse."
+      ],
+      "keywords": [
+        "Kasvuhoone",
+        "Remont",
+        "Mees",
+        "Aed",
+        "Kevad",
+        "Remonditööd",
+        "Vana",
+        "Väljas",
+        "Aiandus",
+        "Ehitus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Kasvuhoone",
+        "Haamer",
+        "Kang (või peitel)",
+        "Klaasipaneelid",
+        "Puitraam",
+        "Pinnas/muld",
+        "Rohi",
+        "Tara (puidust)",
+        "Põõsad",
+        "Sinine kampsun",
+        "Khaki püksid",
+        "Kummikud"
+      ],
+      "colorcodes": [
+        "#44546c",
+        "#a09270",
+        "#2f2a28",
+        "#a8b090",
+        "#728468",
+        "#d0d0d0"
+      ],
+      "texts": [
+        "What are you doing?",
+        "Nothing grows around here.",
+        "A renovation wouldn't hurt."
+      ],
+      "persons": [
+        "Noor, habemega mees, seljas sinine kampsun, khaki värvi püksid ja tumedad kummikud. Ta kükitab ja teeb remonditöid, näoilmel on naeratus."
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub iga pildiga, edastades vestluse järgmisi repliike.",
+        "Mehe kehahoiak ja käte asend muutuvad veidi tööriistade kasutamise käigus. Esimesel pildil on ta keskendunud tööle, hoides haamrit ja kangi kasvuhoone raamil. Teisel pildil on käte asend veidi muutunud, justkui oleks ta tööriistu liigutanud. Kolmandal pildil paistab ta vaatavat kaamera poole ja naeratavat, kang on kasvuhoone raamilt eemaldatud või toetub sellele kergemalt, mis viitab vestlusele või hetkelisele pausi tegemisele töös.",
+        "Mehe näoilme muutub kergelt – esimesel pildil on ta keskendunud tööle kerge naeratusega, kolmandal pildil on naeratus laiem ja ta tundub olevat vestlusesse kaasatud."
+      ],
+      "snr": "020",
+      "ajad": [
+        "205.920",
+        "211.080"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud eakas mees, kellel on hallid ja veidi räsitud juuksed ning lühike hall habe. Ta kannab pruuni paksu mantlit, mille all paistab beeži-pruunides toonides mustriga särk ja tume, potentsiaalselt must kõrge kaelusega alussärk. Tema näoilme muutub pildiseeria jooksul mõtlikust või kergelt murelikust pilgust allapoole vaadates otsesemaks ja lõpuks ärritunuks või noomivaks, kui ta räägib. Ta suu on avatud ja nägu väljendab rahulolematust. Ta asub õues, taustal on näha vana, kulunud puidust sein, mis tõenäoliselt kuulub puukuurile või majale. Seina sisse on ehitatud ukseava, kust paistab kenasti riita laotud küttepuud. Puidust sein on halliks kulunud. Valgus on päevane, pehme ja ühtlane.",
+      "actions": [
+        "rääkimine",
+        "vaatamine",
+        "väljendama frustratsiooni",
+        "noomimine"
+      ],
+      "keywords": [
+        "maamees",
+        "vana mees",
+        "hallid juuksed",
+        "puuriit",
+        "puukuur",
+        "õues",
+        "maaelu",
+        "rahulolematus",
+        "räsitud",
+        "puidust sein"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "mees",
+        "puuriit",
+        "puukuur",
+        "puidust sein",
+        "mantel",
+        "särk",
+        "juuksed",
+        "habe"
+      ],
+      "colorcodes": [
+        "#8E6E52",
+        "#A0A0A0",
+        "#8A8B8D",
+        "#705B47",
+        "#D9C9A8",
+        "#2C2C2C"
+      ],
+      "texts": [
+        "You can't even hammer properly!"
+      ],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab mees alla ja paremale, näoilme on mõtlik või murelik.",
+        "Teisel pildil vaatab mees rohkem kaamera poole, suu on kergelt avatud, justkui oleks ta rääkimise keskel või reageeriks millelegi.",
+        "Kolmandal pildil vaatab mees otse kaamerasse, suu on laiemalt avatud ja näoilme selgelt frustreeritud või noomiv, kaasas on subtiitrid."
+      ],
+      "snr": "021",
+      "ajad": [
+        "211.080",
+        "219.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maapiirkonna õueala, kus esiplaanil paremas servas on noorem habemega mees, kelle juuksed on sassis ja näoilme pingestatud või ärritunud. Ta piilub millegi valge puitkonstruktsiooni tagant, hoides kinni selle servast, ja grimassitab, suu kergelt avatud. Seljas on tal tumesinine kampsun ja ruuduline särk. Taustal, vasakul, seisab vanem hallipäine mees pruunis jakis ja tumedates kummikutes, kes jälgib toimuvat. Tema pilk on suunatud esiplaanil oleva mehe poole. Vanema mehe taga on vana puidust hoone, mille avatud ukse tagant paistavad virnastatud halud. Hoone vastu toetub kaks jalgratast: üks helesinine ja teine tumedam. Maa on kaetud erkrohelise rohuga, mis viitab soojale aastaajale. Üldine õhkkond on maalähedane ja rustikaalne, valitseb päevavalgus.",
+      "actions": [
+        "Piilumine",
+        "Grimassitamine",
+        "Pingutamine",
+        "Jälgimine",
+        "Seismine"
+      ],
+      "keywords": [
+        "Maalähedane",
+        "Rustikaalne",
+        "Taluõu",
+        "Piiluja",
+        "Grimass",
+        "Pingutus",
+        "Jälgimine",
+        "Sassis juuksed",
+        "Jalgrattad",
+        "Puitmaja",
+        "Vana hoone"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Valge puitraam",
+        "Roheline muru",
+        "Puidust hoone",
+        "Küttepuud",
+        "Helesinine jalgratas",
+        "Tumedam jalgratas",
+        "Pruun jope",
+        "Tumesinine kampsun",
+        "Ruuduline särk",
+        "Kummikud"
+      ],
+      "colorcodes": [
+        "#74a04d",
+        "#a47b59",
+        "#8c6a4e",
+        "#e7e7e7",
+        "#2c3a5d",
+        "#63a99c",
+        "#a9916e"
+      ],
+      "texts": [
+        "- Stubborn sheep!"
+      ],
+      "persons": [
+        "Noorem habemega mees",
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Teises pildis on subtiitrid \" - Stubborn sheep!\" lisatud.",
+        "Noorema mehe näoilme on teises pildis veidi intensiivsem ja suu on avatum."
+      ],
+      "snr": "022",
+      "ajad": [
+        "219.160",
+        "228.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast eakamat meest, kes seisab õues vana, ilmastikust kulunud puidust kuuri või hoone ees. Hoone parempoolne osa on tahutud halliks muutunud puitlaudadest seinaga, millel on näha pragusid ja ämblikuvõrke. Vasakul pool on sama puidust hoone uks, mis on veidi paokil, pakkudes pilguheite siseruumi, mis on täidetud hoolikalt laotud küttepuudega. Mees kannab soojale ilmale sobivat riietust: pruuni avarapoolset mantlit, mille all paistab musta kraega särk ja mustriline kampsun. Tema juuksed on hallid, pisut sassis ja lokkis. Mehe näoilme on tõsine, mõtlik või veidi väsinud, ta vaatab otse kaamerasse. Üldine õhkkond on maalähedane ja tagasihoidlik, loodusliku päevavalgusega, mis viitab pilvisele päevale või varjulisele kohale. Kogu stseen annab edasi vaikse, ehk isegi üksildase maaelu tunnet.",
+      "actions": [
+        "Mees seisab",
+        "Mees vaatab kaamerasse",
+        "Küttepuud on laotud"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Maaelu",
+        "Puukuur",
+        "Küttepuud",
+        "Hallipäine",
+        "Väsinud",
+        "Maalähedane",
+        "Vana puit",
+        "Sügis",
+        "Mõtlik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Puukuur",
+        "Puidust uks",
+        "Puitsein",
+        "Küttepuud",
+        "Pruun mantel",
+        "Mustriline kampsun",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#8B735F",
+        "#6C6C6C",
+        "#2F2F2F",
+        "#A0A0A0",
+        "#C8B48F"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Kolmandal pildil puudub pildilt mees, näidates ainult tausta.",
+        "Esimesel ja teisel pildil on mehe näoilmes ja silmades väga väikesed, peaaegu märkamatud erinevused, mis annavad edasi kerget emotsionaalset muutust."
+      ],
+      "snr": "023",
+      "ajad": [
+        "228.880",
+        "233.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maaelu keskkonda, kus noorem habemega mees piilub puidust ukse- või aknaraami tagant. Tema näoilme muutub algsest grimassist laia naeratuse ja avatud suuni. Mehel on seljas ruuduline särk tumesinise kardiganiga ning tema helepruun habe on hoolitsetud. Juuksed on kergelt sassis, kuid ühel hetkel muutuvad oluliselt rohkem sassis olekusse. Taustal kõnnib vanem mees, seljas helepruun mantel ja tumedad saapad, hoides käes reha. Ta liigub eemale vanast puidust kuurist või hoonest, mille uks on lahti ja kust paistab sisse laotud puiduhunnik. Hoone vastu toetub hele sinakasroheline jalgratas. Maa on kaetud rohelise muruga ja üldine atmosfäär on lihtne ja maalähedane, valitseb ere päevavalgus.",
+      "actions": [
+        "Noorem mees grimassitseb",
+        "Noorem mees naeratab laialt",
+        "Noorem mees piilub",
+        "Noorem mees raputab pead või tõmbab käega läbi juuste (oletatav tegevus juuste sassis oleku põhjal)",
+        "Vanem mees kõnnib",
+        "Vanem mees kannab reha"
+      ],
+      "keywords": [
+        "Maaelu",
+        "Talu",
+        "Mehed",
+        "Piilumine",
+        "Grimass",
+        "Naeratus",
+        "Õues",
+        "Puidust hoone",
+        "Reha",
+        "Jalgratas",
+        "Sassis juuksed",
+        "Päevavalgus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Noorem mees",
+        "Vanem mees",
+        "Ruuduline särk",
+        "Tumesinine kardigan",
+        "Habe",
+        "Pruun mantel",
+        "Saapad",
+        "Reha",
+        "Puidust hoone",
+        "Lahtine uks",
+        "Puiduhunnik",
+        "Sinakasroheline jalgratas",
+        "Roheline muru",
+        "Puidust ukseraam/aknaleng"
+      ],
+      "colorcodes": [
+        "#2E3A59",
+        "#C1C1C1",
+        "#8B6543",
+        "#6B8B3B",
+        "#8C7B6A",
+        "#A6957F",
+        "#7ABFC1",
+        "#E0E0E0",
+        "#E2B79A"
+      ],
+      "texts": [],
+      "persons": [
+        "Noorem mees",
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil grimassitseb noorem mees, suu pingul ja silmad kissis. Tema juuksed on kergelt sassis.",
+        "Teisel pildil naeratab noorem mees laialt, suu avatud ja hambad paistavad. Tema juuksed on oluliselt rohkem sassis ja tunduvad olevat ülespidi. Tema parem käsi on osaliselt näha pildi paremas servas.",
+        "Kolmandal pildil naeratab noorem mees samamoodi laialt ja suu avatult nagu teisel pildil, kuid tema juuksed on tagasi kergemalt sassis olekusse, sarnaselt esimesele pildile. Tema parem käsi pole enam näha.",
+        "Vanema mehe asend ja taust on kõigil piltidel peaaegu identsed, viidates sellele, et pildid on tehtud lühikese aja jooksul või on tegu järjestikuste kaadritega."
+      ],
+      "snr": "024",
+      "ajad": [
+        "233.200",
+        "236.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt vaadet, kus vanast, roostetanud veepumbast voolab puhas vesi valgesse metallist emailitud ämbrisse. Vesi voolab järjepidevalt ja tekitab ämbrisse kukkudes väikeseid mulle. Pump on värvuselt tumepruun, roostetanud tekstuuriga, ja selle jooksuotsal on puidust käepide. Ämber on valge, musta emailitud servaga, ja selles on juba märkimisväärne kogus vett. Taustal on näha ere roheline muru, mis viitab soojale aastaajale, ning paremal pool on udune, tihedalt haruline põõsastik või puuvõra. Päike paistab selgelt, valgustades stseeni.",
+      "actions": [
+        "Vesi voolab pumbast ämbrisse",
+        "Ämber täitub veega",
+        "Vesi loksub ja mullitab ämbris"
+      ],
+      "keywords": [
+        "Veepump",
+        "Vesi",
+        "Ämber",
+        "Rooste",
+        "Õues",
+        "Kevad",
+        "Suvi",
+        "Roheline muru",
+        "Maaelu",
+        "Puhas vesi",
+        "Voolav vesi"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Roostes veepump",
+        "Puidust käepide",
+        "Valge emailitud metallist ämber",
+        "Voolav vesi",
+        "Roheline muru",
+        "Põõsad/puud taustal"
+      ],
+      "colorcodes": [
+        "#7B3E25",
+        "#FFFFFF",
+        "#000000",
+        "#5F7A3F",
+        "#E0F2F7",
+        "#99885C"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Veetase ämbris on iga järgmise pildiga kõrgem, mis viitab ämbri täitumisele ajas.",
+        "Veejoa ja mullide asetus ning kuju erineb veidi iga kaadri vahel, andes edasi liikumise ja voolamise."
+      ],
+      "snr": "025",
+      "ajad": [
+        "236.960",
+        "240.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest õues, tõenäoliselt aias või maapiirkonnas, tegelemas vana ja roostes veepumbaga. Mees on hallipäine, keskealine või vanem, ja kannab mustrilist beežides ja pruunides toonides kampsunit. Ta on füüsiliselt hõivatud pumba kasutamisega, surudes pumba puidust kangi energiliselt alla, et vett üles pumbata. Mõnes kaadris mees peatub ja vaatab mõtlikult kas pumpa või eemale, ilmselt tehes pausi. Taustal on näha lihtne kasvuhoone valgete raamidega ja madal puidust aed. Üleval ja kaugemal paistavad hõredad, paljad puud, millel on just-just tärkamas esimesed lehed, viidates varakevadele. Taevas on hele ja selge, mis viitab päikeselisele päevasele ajale. Stseen annab edasi maalähedase ja tööka meeleolu.",
+      "actions": [
+        "Veepumba kasutamine",
+        "Veepumbaga pumpamine",
+        "Mõtlikult vaatamine",
+        "Pausi tegemine"
+      ],
+      "keywords": [
+        "Vana mees",
+        "Veepump",
+        "Käsipump",
+        "Aed",
+        "Kasvuhoone",
+        "Kevad",
+        "Maaelu",
+        "Päev",
+        "Välistingimused",
+        "Mustriline kampsun",
+        "Hallid juuksed",
+        "Roostes pump"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Vana mees",
+        "Veepump",
+        "Pumba puidust kang",
+        "Mustriline kampsun",
+        "Kasvuhoone",
+        "Puidust aed",
+        "Puud",
+        "Taevas",
+        "Maa"
+      ],
+      "colorcodes": [
+        "#7b6e57",
+        "#9e917d",
+        "#c2bcac",
+        "#6b4d3d",
+        "#8f6a5b",
+        "#b3c5d6",
+        "#e0ebf3",
+        "#c4c4c4",
+        "#948c82",
+        "#b8b8b8"
+      ],
+      "texts": [],
+      "persons": [
+        "Vana mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil pumpab mees aktiivselt veepumbaga, hoides mõlema käega puidust kangist kinni ja vaadates allapoole pumpa. Teisel ja kolmandal pildil on ta pumpamise peatanud; tema käed ei ole enam aktiivselt kangil ja ta vaatab kas pumpa või eemale, näol on mõtlikum ilme.",
+        "Kaameranurk ja fookus muutuvad. Esimene pilt on laiem keskmine kaader, mis näitab rohkem pumpa ja mehe torso alumist osa. Teine pilt on veidi lähemal, fookusega mehel ja pumba ülemisel osal. Kolmas pilt on keskmine lähivõte, keskendudes peamiselt mehe näole ja ülakehale, jättes suure osa pumbast kaadrist välja või mehe varju.",
+        "Pumba kangi asend erineb. Esimesel pildil on kang allapoole suunatud, mis viitab pumpamise liigutusele. Teisel ja kolmandal pildil on kang veidi ülespoole suunatud, mis võib tähendada puhkeasendit või pumpamishoobi lõppu."
+      ],
+      "snr": "026",
+      "ajad": [
+        "240.920",
+        "249.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest, keda näeb selja tagant, lähenemas maapiirkonnas asuvale vanale puidust hoonele, mis on ilmselt laut või kuur. Hoone esiküljel on lühem puitfassaad ja pikem külg on kaetud hallide laineliste asbesttsementplaatidega, millel on punane hari. Üks osa külgfassaadist on kaetud valge lainelise plekiga. Hoone ees, rohelisel murul, seisab tumehall Volkswagen Golf Mk3 universaalkerega auto. Auto juures on näha avatud metallvärav, mis piirab hoonet ja selle ümbrust. Paremal pool on värava taga virnastatud küttepuud ja kivihunnikud. Vasakul pool on näha puidust lattidest aeda. Taamal paistavad okaspuud ja lehtpõõsad. Mees on riietatud beezikas-pruunides toonides kampsunisse ja heledatesse pükstesse. Päike paistab eredalt, viidates selgele ilmale. Teisel ja kolmandal pildil on auto sees näha veel üht inimest, kes toetub akna pihta. Stseen annab edasi maaelu rahu ja liikumist.",
+      "actions": [
+        "Mees kõnnib",
+        "Auto seisab",
+        "Inimene toetub autos"
+      ],
+      "keywords": [
+        "Maapiirkond",
+        "Vana hoone",
+        "Laut",
+        "Kuur",
+        "Auto",
+        "Mees",
+        "Küttepuud",
+        "Päev",
+        "Kevad",
+        "Muru",
+        "Talumaja",
+        "Külaelu"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Vana puidust hoone",
+        "Volkswagen Golf Mk3",
+        "Metallvärav",
+        "Küttepuud",
+        "Kivihunnikud",
+        "Puidust aed",
+        "Muru",
+        "Puud",
+        "Kampsun",
+        "Püksid"
+      ],
+      "colorcodes": [
+        "#689B37",
+        "#938F87",
+        "#B7A380",
+        "#3C4245",
+        "#74A7C5"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees",
+        "Inimene autos"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Mehe asend on muutunud, mis annab edasi liikumise.",
+        "Autos on esimesel pildil keegi nähtamatu, teisel ja kolmandal pildil on juhiistmel näha teist inimest, kes toetub vastu autoakent.",
+        "Fookus ja kaamera nurk on veidi muutunud."
+      ],
+      "snr": "027",
+      "ajad": [
+        "249.760",
+        "254.320"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset õues, päikselisel päeval vana puidust hoone ees. Keskealine või vanem mees väljub tumedast kaheukselisest autost. Ta kannab helesinist bleiserit musta T-särgi peal, millel on nähtav Fairtrade'i logo. Tal on ees päikeseprillid ja käes paberkandjal dokument või ümbrik. Autol on tagaakna lähedal kleebised, millest üks kujutab Pink Floydi logo ja nime. Mees väljub autost, kohendab oma päikeseprille ja pöördub kaamera eest ära, justkui pöördudes kellegi poole, öeldes: \"Mis seekord siis on?\". Stseen annab edasi ootamatut või korduvat olukorda maapiirkonnas. Puitmaja annab stseenile maalähedase ja ajatu tunde.",
+      "actions": [
+        "Mees väljub autost",
+        "Mees kohendab päikeseprille",
+        "Mees räägib",
+        "Mees hoiab käes pabereid/kausta"
+      ],
+      "keywords": [
+        "Mees",
+        "Auto",
+        "Õues",
+        "Päev",
+        "Puidust hoone",
+        "Päikesepaiste",
+        "Fairtrade",
+        "Pink Floyd",
+        "Maaelu",
+        "Vestlus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Tumepruun/must auto",
+        "Helesinine bleiser",
+        "Must T-särk",
+        "Tumedad püksid",
+        "Päikeseprillid",
+        "Paberkandjal kaust/ümbrik",
+        "Vana puidust hoone",
+        "Aken hoones",
+        "Autouks",
+        "Autokleebised",
+        "Fairtrade logo",
+        "Pink Floyd logo"
+      ],
+      "colorcodes": [
+        "#282A2B",
+        "#90B0D5",
+        "#1E1E1E",
+        "#6B5B49",
+        "#D5B495",
+        "#0078C1",
+        "#66AF4E",
+        "#FFFFFF",
+        "#E0E0E0"
+      ],
+      "texts": [
+        "FAIRTRADE",
+        "PINK FLOYD",
+        "What is it this time?"
+      ],
+      "persons": [
+        "Keskealine mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on mees pooleldi autost väljas, nägu osaliselt varjatud autouksega.",
+        "Teisel pildil on mees täielikult autost väljas, käsi näo lähedal, ilmselt päikeseprille kohendamas või nina sügamas, ja ilmub subtiiter.",
+        "Kolmandal pildil on mees käe alla lasknud, vaatab otse kaamera eest ära ja räägib, Fairtrade'i logo on T-särgil selgelt nähtav. Subtiiter on endiselt pildil."
+      ],
+      "snr": "028",
+      "ajad": [
+        "254.320",
+        "256.960"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha vanemat meest, tõenäoliselt 60-70-aastast, räpakate hallide juustega, kes seisab õues traatvõrgust tara taga. Mees kannab mitmevärvilist (pruuni, beeži ja helerohelist) mustrilist kampsunit kollase särgi peal. Tema näoilme on tõsine ja ta paistab rääkivat. Taustal on näha lihtsat puidust maamaja, mille ümber on hõredate okstega puud ja põõsad, mis viitab varakevadele. Taevas on hele ja selge, vihjates päevasele ajale. Maapind on kaetud rohelise rohuga. Tara on valmistatud tumedast metallraamist ja rohelisest traatvõrgust. Stseeni üldine meeleolu on maalähedane ja argine.",
+      "actions": [
+        "Rääkimine",
+        "Seismine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Maamees",
+        "Aed",
+        "Maja",
+        "Kevad",
+        "Päev",
+        "Vanem mees",
+        "Vestlus",
+        "Maalähedane"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Kampsun",
+        "Särk",
+        "Tara",
+        "Traatvõrk",
+        "Maja",
+        "Aken",
+        "Trepp",
+        "Põõsad",
+        "Puud",
+        "Rohi",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#8B6F57",
+        "#D1C6AF",
+        "#A0B497",
+        "#F8E71C",
+        "#5A4232",
+        "#828F7F",
+        "#6B3C2B",
+        "#FFFFFF",
+        "#C2DAEF",
+        "#7AA05C",
+        "#B38C7A",
+        "#A6A6A6"
+      ],
+      "texts": [
+        "- Here are the papers."
+      ],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil on lisatud subtiitrid tekstiga \"- Here are the papers.\", samal ajal kui esimene pilt on ilma subtiitriteta. Muus osas on pildid identsed."
+      ],
+      "snr": "029",
+      "ajad": [
+        "256.960",
+        "259.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest välitingimustes, kes suhtlevad läbi roostes metallväravaga võrkaia. Esiplaanil, seljaga vaataja poole, seisab vanem mees heledas mustriga džemperis ja khaki-värvi pükstes. Tema ees, teisel pool aeda ja väravat, seisab keskealine kiilaspäine mees päikeseprillidega, helesinises bleiseris tumeda Fairtrade logoga T-särgi peal ja tumedates pükstes. Mees hoiab käes dokumenti või paberit. Ta seisab avatud väravas, andes märku, et on saabunud või lahkumas. Taustal paistab puitkuur või laut lainepapist katusega ja selle ees on pargitud tume kolmeukseline Volkswagen Golf. Maa on kaetud rohelise rohuga ja paremal on näha kivihunnikuid või ehitusprahti. Stseen toimub päikesepaistelisel kevadisel päeval.",
+      "actions": [
+        "Kaks meest suhtlevad läbi aia",
+        "Mees avab/sulgeb väravat",
+        "Mees esitab dokumenti",
+        "Mees teatab omandiõigusest"
+      ],
+      "keywords": [
+        "Välitingimused",
+        "Aed",
+        "Värav",
+        "Maavaldus",
+        "Suhtlus",
+        "Konflikt",
+        "Päikesepaisteline",
+        "Kevad",
+        "Maaelu",
+        "Auto",
+        "Laut"
+      ],
+      "shot_type": "medium long",
+      "placement": "outdoor",
+      "objects": [
+        "Võrkaed",
+        "Metallvärav",
+        "Puitkuur",
+        "Lainepappkatus",
+        "Volkswagen Golf auto",
+        "Rohumaa",
+        "Kivihunnikud",
+        "Paber/dokument",
+        "Päikeseprillid",
+        "Pusa",
+        "Püksid",
+        "Bleiser",
+        "T-särk"
+      ],
+      "colorcodes": [
+        "#B9A27E",
+        "#4A6E34",
+        "#89A7C3",
+        "#4A4A4B",
+        "#7C6851",
+        "#9D8B72",
+        "#2C2C2D",
+        "#787A7C"
+      ],
+      "texts": [
+        "FAIRTRADE",
+        "The land is now officially mine."
+      ],
+      "persons": [
+        "Vanem mees (seljaga)",
+        "Keskealine kiilaspäine mees (näoga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid, teisel ja kolmandal pildil on subtiitrid \"The land is now officially mine.\".",
+        "Esimesel pildil on näoga kaamera poole olev mees suletud suuga, teisel pildil on tema suu kergelt avatud (ilmselt räägib lauset \"The land is now officially mine.\"), kolmandal pildil on ta naeratades suletud suuga, näidates rahulolu või smugust ilmet."
+      ],
+      "snr": "030",
+      "ajad": [
+        "259.040",
+        "263.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest seismas õues, ilmselt oma koduhoovis. Mees on umbes 60-70-aastane, tal on hallid, veidi sassis juuksed ja ta kannab heledamustrilist pruuni sviitrit kollase ja sinise kraega särgi peal. Ta on selgelt emotsionaalne ja vestleb kellegagi, kellega ta ei ole pildil. Tema suu on avatud kahes esimeses kaadris, justkui räägiks ta otse, kolmandas kaadris on suu suletud ja ilme mõtlikum või kahetsevam. Mees seisab tugeva tumeda metallist aia taga, mis koosneb nii armatuurist kui ka võrkaia osast. Taustal paistab maapiirkonnale iseloomulik tume puidust maja heledate akendega. Maja ümber ja taga on näha räsitud, lehtedeta puid ja põõsaid, mis viitab varakevadele. Maa on kaetud rohelise muruga. Üldine meeleolu on tõsine ja isegi veidi traagiline, mida rõhutavad mehe sõnad kodust ja kahetsusest tegemata lepingu pärast. Päikesepaisteline päevavalgus loob kontrasti mehe emotsionaalse olekuga.",
+      "actions": [
+        "Mees räägib",
+        "Mees seisab"
+      ],
+      "keywords": [
+        "Maaelu",
+        "Kodu",
+        "Vanem mees",
+        "Aed",
+        "Maja",
+        "Kevad",
+        "Väljas",
+        "Rääkimine",
+        "Emotsioon",
+        "Kahetsus",
+        "Otsustavus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Vanem mees",
+        "Metallist aed",
+        "Puidust maja",
+        "Aken",
+        "Lehtedeta puud",
+        "Roheline muru",
+        "Taevas",
+        "Põõsad"
+      ],
+      "colorcodes": [
+        "#A9997C",
+        "#806F54",
+        "#E8CD73",
+        "#4F3C2F",
+        "#6D4B38",
+        "#778F4A",
+        "#8DA654",
+        "#4D4D4D",
+        "#9FA8B1"
+      ],
+      "texts": [
+        "- This is my home!",
+        "This is where I've lived and this is where I'll die!",
+        "Should've made a contract."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Mehe näoilme ja suu asend muutuvad kaadrite vahel, peegeldades räägitavat teksti ja emotsiooni sügavust. Esimeses kahes kaadris on mehe suu avatud, kolmandas suletud ja ilme mõtlikum.",
+        "Subtiitrid muutuvad igas kaadris, esitades järjestikuse dialoogi fragmendid."
+      ],
+      "snr": "031",
+      "ajad": [
+        "263.240",
+        "268.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte keskealist või vanemat meest vestlemas või vaidlemis üle räämas traataia maapiirkonnas. Vasakpoolne mees on halli, sassis juustega, seljas mustrilise kampsuni ja rohekas-pruunid püksid. Ta on emotsionaalne ja žestikuleerib, hoides esimeses kaadris suu ees pikka roostes metalltoru, mis näib olevat osa aiast, justkui kasutades seda kõnetoruna. Hiljem hoiab ta käes pruuni paberit või dokumenti. Parempoolne mees on kiilas, prillidega ja kannab helesinist ruudulist särki. Ta seisab rahulikumalt ja kuulab või vastab vasakpoolsele mehele. Nendevaheline tara on vana ja koosneb puitpostidest ning roostes traataiast, mille küljes on ka roostes metalltorud. Tagaplaanil on näha rohelist muru, kuivanud lehti ja rägastikku ning kaugemal lehtpuud, mis on osaliselt raagus, kuid millel hakkab juba rohelust tekkima. Maastik on metsane ja põõsastikuga. Stseenis valitseb ere päevavalgus, mis viitab kevadele või varakevadele. Vestlus tundub olevat konfliktne ja puudutab lepingu puudumist või omandiõiguse küsimusi, nagu viitavad ekraanil olevad subtiitrid.",
+      "actions": [
+        "Mehed räägivad üle aia",
+        "Mehed vaidlevad",
+        "Vasakpoolne mees kasutab metalltoru kõnetoruna või žestina",
+        "Vasakpoolne mees hoiab käes paberit või dokumenti",
+        "Parempoolne mees kuulab tähelepanelikult"
+      ],
+      "keywords": [
+        "Maapiirkond",
+        "Aiapiir",
+        "Vaidlus",
+        "Vestlus",
+        "Kevad",
+        "Vanad mehed",
+        "Diagnoos",
+        "Ebaõiglus",
+        "Tüli",
+        "Leping",
+        "Maatükk",
+        "Naabrid"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Traataed",
+        "Puitpostid",
+        "Roostes metalltorud",
+        "Muru",
+        "Lehtpuud",
+        "Põõsastik",
+        "Paber/dokument",
+        "Prillid",
+        "Kampsun",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#7a775e",
+        "#607c64",
+        "#a9b0ba",
+        "#8d6b4f",
+        "#c0c0c0",
+        "#51493b"
+      ],
+      "texts": [
+        "Should've made a contract.",
+        "- I'm not going anywhere!"
+      ],
+      "persons": [
+        "Keskealine mees",
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Vasakpoolse mehe käte asend ja esemed, mida ta hoiab (esimesel pildil metalltoru suu ees, järgmistel piltidel paber käes).",
+        "Subtiitrite tekst muutub, mis viitab dialoogi edenemisele.",
+        "Meeste näoilmete ja kehahoiaku väikesed muutused, mis peegeldavad vestluse kulgu."
+      ],
+      "snr": "032",
+      "ajad": [
+        "268.440",
+        "284.920"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub õues maapiirkonnas, kus taustal on näha vana puidust ait või kuur. Aida ette on pargitud tume Volkswagen Golf (3-ukseline luukpära). Aida seina ääres seisab ka suur rehv ja muid esemeid. Esiplaanil on roostetanud metallist aed ja värav. Aia taga, rohelisel murul, seisab kiilas, prillide ja habemega mees. Ta kannab helesinist jaki tumeda t-särgi ja tumedate pükste peal. T-särgil on näha Fairtrade'i logo. Mees on hetkel värava taga, alguses näoga eemale pöörates, seejärel pöördub kaamera/vestluskaaslase poole, osutades käega. Kaadri vasakus allnurgas on näha osaliselt teine inimene, kes hoiab käes pabereid või raamatut. Maapinnal, aia paremal poolel, on näha ka kive ja prahti. Stseenis valitseb päevane, ere valgus, mis viitab kas kevadele või varasuvele.",
+      "actions": [
+        "Mees pöördub kaamera/vestluskaaslase poole",
+        "Mees osutab käega",
+        "Inimene hoiab käes pabereid/raamatut"
+      ],
+      "keywords": [
+        "Maapiirkond",
+        "Vana hoone",
+        "Auto",
+        "Aed",
+        "Värav",
+        "Mees",
+        "Vestlus",
+        "Välitingimused",
+        "Roostetanud",
+        "Päevane"
+      ],
+      "shot_type": "medium long",
+      "placement": "outdoor",
+      "objects": [
+        "Puidust ait/kuur",
+        "Tumeda värvi auto (Volkswagen Golf)",
+        "Suur rehv",
+        "Roostetanud metallist aed/värav",
+        "Roheline muru",
+        "Kivid/praht",
+        "Mees (kiilas, habemega, päikeseprillidega)",
+        "Helesinine jakk",
+        "Tume t-särk (Fairtrade'i logoga)",
+        "Tumedad püksid",
+        "Paberid/raamat",
+        "Osaliselt nähtav inimene"
+      ],
+      "colorcodes": [
+        "#8B653C",
+        "#303030",
+        "#4B7D31",
+        "#9B5D3F",
+        "#A5C0D7",
+        "#1A1A1A"
+      ],
+      "texts": [
+        "I'm not going anywhere!",
+        "The grave is pretty deep already.",
+        "You'll fit in soon enough.",
+        "FAIRTRADE"
+      ],
+      "persons": [
+        "Kiilas mees päikeseprillidega",
+        "Osaliselt nähtav inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Mehe kehahoiak muutub: esimesel pildil on ta seljaga, pöörates, teisel ja kolmandal pildil on ta näoga kaamera poole ja osutab käega.",
+        "Subtiitrite tekst muutub piltide vahel, edastades dialoogi kulgu."
+      ],
+      "snr": "033",
+      "ajad": [
+        "284.920",
+        "290.160"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud habemega mees, kes seisab vana, punakaspruuni puitmaja ukseavas. Maja seinad on kaetud vertikaalsete laudistega ja sellel on valgete raamidega aknad mõlemal pool ust. Mehel on seljas tume sinine nööpidega kampsun, hele (võimalik, et valge või beežikas) kraega särk ja heledad (beežid või khaki) püksid. Tal on õlal üle õla kantud kott. Stseeni alguses paistab mees olevat liikumises, astumas uksest välja või pööramas pead paremale, samal ajal kui tema käed on kergelt tõstetud või žestikuleerivad. Edasi seisab ta paigal, käed taskutes, vaadates otse või kergelt paremale, tõsisema või mõtlikuma näoilmega. Taustal on näha heledat taevast, mis viitab päikselisele päevale. Maja vasakul küljel toetub seina vastu puidust kepp või tööriist.",
+      "actions": [
+        "Astub uksest välja või seisab ukseavas",
+        "Pöörab pead paremale",
+        "Vaatab otse või kergelt paremale",
+        "Hoiab käsi taskutes",
+        "Räägib (esimesel pildil subtiitrite põhjal)"
+      ],
+      "keywords": [
+        "Mees",
+        "Puitmaja",
+        "Ukseava",
+        "Kampsun",
+        "Habe",
+        "Maalähedane",
+        "Vana maja",
+        "Aknad",
+        "Subtiitrid",
+        "Õlakott"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Puitmaja",
+        "Uks",
+        "Aken",
+        "Kampsun",
+        "Särk",
+        "Püksid",
+        "Habe",
+        "Õlakott",
+        "Puidust kepp"
+      ],
+      "colorcodes": [
+        "#754431",
+        "#FFFFFF",
+        "#222B3F",
+        "#C4B99D",
+        "#C9C4B7",
+        "#8F6F4C"
+      ],
+      "texts": [
+        "You'll fit in soon enough."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "spring, summer or autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on mees liikumises, astub uksest välja või pöörab pead paremale, tema vasak käsi on kergelt tõstetud ja pildil on näha subtiitreid. Teisel ja kolmandal pildil seisab mees paigal, käed taskutes või üks käsi taskus, ja vaatab otse või kergelt paremale. Subtiitrid puuduvad teisel ja kolmandal pildil. Mehe näoilme muutub dünaamilisest (esimene pilt) pigem tõsiseks või mõtlikuks (teine ja kolmas pilt)."
+      ],
+      "snr": "034",
+      "ajad": [
+        "290.160",
+        "300.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maapiirkonna õueala päikeselisel ja ilmselt soojal päeval. Esiplaanil on näha roostetanud pruuni metallist aiavärava posti ja võrkaia fragmenti, mis raamib vaadet. Võrkaia taga, rohelisel muruplatsil, seisab tume, tõenäoliselt musta või tumepruuni värvi Volkswagen Golf (kolmanda generatsiooni) luukpära. Auto on suunatud vasakule, selle juhtistmel istub kiilas mees, kes kannab helesinist särki ja päikeseprille. Ta toetab oma paremat küünarnukki avatud autoaknale ja vaatab ettepoole või kergelt vaataja suunas. Auto tagaklaasid on tumendatud ja vasak esiosa on veidi porine. Tagaplaanil domineerib vana puitlaudisest hoone, mis meenutab küüni või kuuri. Hoone on kaetud halli lainelise eterniitkatusega. Hoone fassaadil on väike valge raamiga aken, mille ülemine osa on avatud. Hoone vasakus servas on vastu seina toetumas suur must rehv ja valge eterniiditükk. Paremal pool hoonel on kitsas puidust uks. Paremal esiplaanil, murul, on näha hunnik heledaid kive või ehitusprahti. Üldine õhkkond on rahulik ja maaeluline.",
+      "actions": [
+        "Mees istub autos",
+        "Auto on pargitud",
+        "Mees toetab küünarnukki avatud autoaknale",
+        "Mees vaatab ettepoole"
+      ],
+      "keywords": [
+        "Maaelu",
+        "auto",
+        "mees",
+        "küün",
+        "aed",
+        "muru",
+        "päikeseline",
+        "rahulik",
+        "rooste",
+        "puit",
+        "värav"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Volkswagen Golf auto",
+        "mees",
+        "puitlaudisest hoone",
+        "eterniitkatus",
+        "aken",
+        "uks",
+        "rehv",
+        "eterniiditükk",
+        "metallist aiaväravapost",
+        "metallvõrkaed",
+        "muru",
+        "kivid",
+        "ehituspraht",
+        "päikeseprillid",
+        "särk",
+        "numbrimärk"
+      ],
+      "colorcodes": [
+        "#5C8D41",
+        "#73503C",
+        "#333333",
+        "#8FB7DC",
+        "#A0A0A0",
+        "#8C472E",
+        "#D0D0D0",
+        "#966C52",
+        "#444444"
+      ],
+      "texts": [
+        "187 4AB"
+      ],
+      "persons": [
+        "Kiilas mees helesinises särgis ja päikeseprillides"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Mehe pea asend ja pilk muutuvad kaadrite vahel. Esimeses kaadris on mehe pea veidi madalamal ja pööratud rohkem auto sisemuse poole. Teises ja kolmandas kaadris on mehe pea veidi püstisem ja pilk tundub olevat suunatud rohkem ettepoole või kergelt kaamera suunas. Ülejäänud stseeni elemendid (auto, hoone, aed, muru, praht) jäävad staatiliseks."
+      ],
+      "snr": "035",
+      "ajad": [
+        "300.880",
+        "304.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lammaste karjamaad või aedikut varakevadisel päeval. Keskel on näha tumepruuni värvi lammas, kellel on lokkis sarved ja tihe, kräsuline vill. Lammas on kummardunud ja näib söövat värskelt tärganud rohtu või nokkivat midagi maast. Esiküljel on näha künka moodi värskelt üleskaevatud mulda, mis annab märku põllutöö algusest. Vasakul all on osa punasest põllutööriistast, mis meenutab adra tera. Tagaplaaniks on vana puidust lattidest aed, mis eraldab karjamaa eemal olevast maast. Aia taga paistab rohelise rohuga kaetud ala ja kaugemal puuderida, mille lehed pole veel täielikult puhkenud, viidates kevadele. Taevas on hele ja pilvine, luues pehme päevavalguse.",
+      "actions": [
+        "Lammas sööb/nokib maast",
+        "Lammas kummardub"
+      ],
+      "keywords": [
+        "Lammas",
+        "Karjamaa",
+        "Aed",
+        "Kevad",
+        "Muld",
+        "Rohi",
+        "Põllutööriist",
+        "Loom",
+        "Maaelu",
+        "Sarved",
+        "Vill",
+        "Talu"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Lammas",
+        "Puitaed",
+        "Muld",
+        "Rohi",
+        "Puud",
+        "Põllutööriist (adra osa)"
+      ],
+      "colorcodes": [
+        "#523326",
+        "#7A533E",
+        "#997F64",
+        "#52673F",
+        "#BCCEC8",
+        "#A0AE9C"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Lamba pea ja keha asend muutub minimaalselt kaadrite vahel, mis viitab lamba liikumisele rohu nokkimise ajal."
+      ],
+      "snr": "036",
+      "ajad": [
+        "304.080",
+        "309.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maamaja ees rohelisel muruplatsil toimuvat. Maja on vana, pruunist puidust, vertikaalse laudisega ja halli lainelise eterniitkatusega. Maja esiküljel on väike sissepääsuala punase ukse ja kahe väikese valge raamiga aknaga. Paremal pool on suurem valge raamiga aken. Muru on roheline, osaliselt ebatasane ja kaetud kuivanud lehtede või rohututtidega. Paremal pool pildil on näha puudest ja põõsastest koosnev hekk või mets, millel on varakevadised pungad või noored lehed. Taamal vasakul on näha muid puid. Noorem mees istub puupingil ja mängib akordionit, naeratades. Hiljem ilmub stseeni vanem mees, kes kõnnib noorema mehe poole. Mõlemad mehed on riietatud soojalt, viidates jahedamale ilmale.",
+      "actions": [
+        "Noorem mees mängib akordionit",
+        "Noorem mees istub pingil",
+        "Noorem mees naeratab",
+        "Vanem mees kõnnib"
+      ],
+      "keywords": [
+        "Maamaja",
+        "Akordion",
+        "Muusika",
+        "Külaelu",
+        "Kevad",
+        "Roheline",
+        "Rahu",
+        "Nostalgia",
+        "Maal"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puidust maja",
+        "Eterniitkatus",
+        "Aknad",
+        "Uks",
+        "Muru",
+        "Puud",
+        "Põõsad",
+        "Puupink",
+        "Akordion",
+        "Saapad",
+        "Särgid",
+        "Püksid",
+        "Jope",
+        "Väike puidust pakk"
+      ],
+      "colorcodes": [
+        "#824121",
+        "#A1A1A1",
+        "#812020",
+        "#FFFFFF",
+        "#618141",
+        "#1F211F",
+        "#C1B1A1",
+        "#A14141",
+        "#B18151"
+      ],
+      "texts": [],
+      "persons": [
+        "Noorem mees",
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil istub noorem mees üksi pingil, mängib akordionit ja naeratab.",
+        "Teisel pildil ilmub stseeni vasakult vanem mees, kes kõnnib noorema mehe poole. Noorema mehe kehahoiak ja näoilme on veidi muutunud, tema naeratus on silmatorkavam.",
+        "Kolmandal pildil on vanem mees liikunud veelgi lähemale noorema mehe poolele, näidates edasiliikumist stseenis. Noorema mehe asend ja näoilme on jäänud võrreldes teise pildiga samaks."
+      ],
+      "snr": "037",
+      "ajad": [
+        "309.600",
+        "326.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes kaevab kivises ja kuivas pinnases. Vaateväli on suunatud alt üles, näidates kaevaja jalga heledates tööriietes või pükstes ja tumedat saabast. Pinnas on täis eri suurusega kive ja lahtist mulda, mis annab aimu raskest füüsilisest tööst. Paremal pool on näha tumedat metallist kaevetööriista, mis on sügavale pinnasesse surutud ja mida kasutatakse kivide ja mulla lahtikaevamiseks. Ümbritsev keskkond on kuiv ja tolmu täis, viitades tööle välitingimustes. Valgus on ere ja loomulik päevavalgus.",
+      "actions": [
+        "Kaevamine",
+        "Pinnase kobestamine",
+        "Kivide eraldamine",
+        "Füüsiline töö"
+      ],
+      "keywords": [
+        "Kaevamine",
+        "Pinnas",
+        "Kivid",
+        "Töö",
+        "Välitöö",
+        "Saapad",
+        "Tööriided",
+        "Kaevetööriist",
+        "Muld",
+        "Kivine pinnas"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kaevaja jalg",
+        "Püksid/tööriided",
+        "Saapad",
+        "Kaevetööriist",
+        "Kivid",
+        "Pinnas",
+        "Muld"
+      ],
+      "colorcodes": [
+        "#D8D0A5",
+        "#3A3B3B",
+        "#8B8B8B",
+        "#5E4F3D",
+        "#716654"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaevaja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teises pildis on kaevetööriist sügavamale pinnasesse surutud, mis näitab tegevuse edenemist ja intensiivsust.",
+        "Teises pildis on kaevetööriista ümber rohkem pinnast lahti rebitud ja üles paisatud, mis viitab käimasolevale tööle ja liikumisele."
+      ],
+      "snr": "038",
+      "ajad": [
+        "326.720",
+        "330.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest väljas maalilisel taluõuel päikeselisel kevadpäeval. Esiplaanil ja keskel paremal on vanem mees, kes aktiivselt kaevab maad labidaga, kuhjates kive ja mulda enda ette hunnikusse. Tema liigutused on dünaamilised, vihjates füüsilisele tööle. Vasakul, avatud aiavärava ääres, seisab noorem mees, käed taskus, ja jälgib vanema mehe tegevust. Tema kehahoiak on rahulik ja vaatlev. Tagaplaanil on näha vana puidust maja ja haruldase võraga puid, mis annavad edasi varakevadise või suvise meeleolu. Üldine õhkkond on rahulik, kuid tegevusterohke, rõhutades maaelu ja töö toimetusi.",
+      "actions": [
+        "Vanem mees kaevab maad labidaga",
+        "Noorem mees seisab ja jälgib",
+        "Vanem mees viskab labidaga mulda ja kive"
+      ],
+      "keywords": [
+        "Maaelu",
+        "Taluhoov",
+        "Kaevamine",
+        "Töö",
+        "Vaatlemine",
+        "Kevad",
+        "Päikesepaiste",
+        "Aed",
+        "Maja",
+        "Mehed"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Labidas",
+        "Kivihunnik",
+        "Auk maas",
+        "Aed",
+        "Värav",
+        "Puidust maja",
+        "Puud",
+        "Rohi",
+        "Muld"
+      ],
+      "colorcodes": [
+        "#819e4a",
+        "#b5a17a",
+        "#2c2d2f",
+        "#c4beb0",
+        "#723d2d",
+        "#c1b098",
+        "#d0dade",
+        "#97938d"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees",
+        "Noorem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Vanema mehe asend ja labida hoiak muutuvad, näidates kaevamise liikumist ja dünaamikat. Esimesel pildil on ta valmis lööma, teisel on ta veidi ettepoole kaldus, kolmandal on labidas õhus, mulda visates.",
+        "Noorema mehe kehahoiak ja asend jäävad piltide vahel peaaegu samaks, viidates tema vaatlevale rollile."
+      ],
+      "snr": "039",
+      "ajad": [
+        "330.720",
+        "339.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest õues rohelisel rohumaal, tegelemas pikkade puidust vaiadega. Mees kannab heledates toonides mustrilist paksu kampsunit ja selle all sinist kraega särki. Tal on hallid, lokkis juuksed ja kaelas erekollane ehe. Tema tegevus hõlmab vaiade jõulist käsitlemist – ta kas surub neid maasse või tõmbab neid üles. Mõnes kaadris on näha tema pingutust, käed on kõrgel ja keha liigub aktiivselt, samal ajal kui ühes kaadris on ta madalamas asendis, pilk suunatud allapoole, justkui puhates või keskendudes järgmisele liigutusele. Taustal on näha paljaid põõsaid ja puid, mis viitab varakevadele. Maapind on kaetud erkrohelise rohuga ja valgus on ere ning loomulik, mis annab stseenile värske ja energilise tunde.",
+      "actions": [
+        "Vaiade käsitsemine",
+        "Pingutamine",
+        "Füüsiline töö",
+        "Maasse surumine",
+        "Keskendumine",
+        "Puhkepaus tegevuse vahel"
+      ],
+      "keywords": [
+        "Mees",
+        "Väljas",
+        "Töö",
+        "Puidust vaia",
+        "Loodus",
+        "Maaelu",
+        "Kampsun",
+        "Roheline",
+        "Päevavalgus",
+        "Kevad"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Puidust vaiad",
+        "Mustriline kampsun",
+        "Sinine särk",
+        "Erekollane kaelaehe",
+        "Roheline rohi",
+        "Paljad põõsad",
+        "Puud"
+      ],
+      "colorcodes": [
+        "#8D765D",
+        "#4B6E29",
+        "#6B543D",
+        "#8C8C8C",
+        "#E8C857"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Mehe kehahoiak ja tegevus: Esimesel ja kolmandal pildil on mees aktiivsemas liikumises, käed kõrgel vaiu käsitsedes, samas kui teisel pildil on ta madalamas asendis, vaatab allapoole, justkui puhkaks või keskenduks.",
+        "Emotsioon/pingutus: Esimesel ja kolmandal pildil on näha suuremat füüsilist pingutust, teisel pildil on fookus keskendumisel või hetkelisel pausil.",
+        "Fookus: Teisel pildil on mehe nägu selgemalt nähtav, samas kui esimesel ja kolmandal on rõhk pigem tema käte ja vaiade liikumisel."
+      ],
+      "snr": "040",
+      "ajad": [
+        "339.840",
+        "349.200"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub õues rohelisel muruplatsil heleda päikesevalguse käes. Kaks meest vestlevad teineteisega. Vasakpoolne neist on noorem, tumeda habemega ja toetub traataiaga piirde külge, kandes heledat särki, tumedat kampsunit ja heledaid pükse. Tema näol on alguses kerge muie või huvitatud ilme, mis vestluse käigus muutub neutraalsemaks. Parempoolne mees on vanem ja hallipäine, hoides käes keppi või tööriista. Stseeni alguses on ta osaliselt pildile seljaga, veidi kummardunud ning tema seljal on lühiajaliselt näha väike hall karvane loom. Vestluse edenedes pöörab vanem mees ennast rohkem noorema poole, pakkudes vestluspartnerile oma profiili, ning tema ilme muutub tõsisemaks või mõtlikumaks, olles püstisemas asendis. Tagaplaanil on näha lehtedeta puid ning paremal pool kauguses hoone tumeda katusega.",
+      "actions": [
+        "Vestlemine",
+        "Toetumine aiapiirdele",
+        "Kummardumine",
+        "Eseme (kepp/tööriist) hoidmine",
+        "Keha pööramine",
+        "Jälgimine"
+      ],
+      "keywords": [
+        "Vestlus",
+        "Väljas",
+        "Aiapiire",
+        "Päikeseline",
+        "Roheline muru",
+        "Maaelu",
+        "Põlvkondadevaheline",
+        "Aed",
+        "Mõtisklev"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Traataed",
+        "Kepp",
+        "Rohtunud maa",
+        "Puud",
+        "Hoone",
+        "Väike loom (kass)"
+      ],
+      "colorcodes": [
+        "#639035",
+        "#DCE8EE",
+        "#2E3134",
+        "#F7F7F7",
+        "#B2A287",
+        "#C3BCA7",
+        "#383431"
+      ],
+      "texts": [
+        "You would've done the same."
+      ],
+      "persons": [
+        "Kaks meest (üks noorem, üks vanem)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Vanema mehe kehahoiak muutub kummarduvast püstisemaks ja ta pöörab oma näo rohkem noorema mehe poole.",
+        "Ühel hetkel on vanema mehe seljal/õlal näha väike hall loom, mis hiljem kaob või on varjatud.",
+        "Ühes kaadris on näha subtiiter \"You would've done the same.\", mis teistes kaadrites puudub.",
+        "Noorema mehe näoilme muutub stseeni käigus kergelt muietavast neutraalsemaks."
+      ],
+      "snr": "041",
+      "ajad": [
+        "349.200",
+        "355.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab ligiplaanis habetunud meest õues, kes kannab heledat ruudulist särki ja tumesinist kampsunit. Tema heledad juuksed on sassis ja paistavad hõrenevat otsmikult. Mehe näoilme on kortsus, silmad pilukil, mis annab edasi veidi küsiva, kahtleva või mõtliku emotsiooni, justkui ta esitaks küsimuse või reageeriks kuuldud lausele. Tagaplaanil on näha maapiirkonna miljöö: vasakul on vana punakaspruun puithoone või kuur, selle ees kuivanud okstega põõsastikud. Paremal pool on haljendavad puud ja pesunööril kuivamas punased riideesemed. Üldine valguse hulk ja puude seisukord viitavad kevadele ja päevale.",
+      "actions": [
+        "Mees räägib või reageerib vestlusele",
+        "Mehe nägu väljendab mõtlikkust või umbusku"
+      ],
+      "keywords": [
+        "Mees",
+        "Habe",
+        "Sassis juuksed",
+        "Kortsus nägu",
+        "Õues",
+        "Maapiirkond",
+        "Puithoone",
+        "Pesunöör",
+        "Kevade",
+        "Päev",
+        "Vestlus",
+        "Kahtlus",
+        "Mõtisklus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Habe",
+        "Heledad juuksed",
+        "Ruuduline särk",
+        "Tumesinine kampsun",
+        "Puithoone",
+        "Põõsad",
+        "Puud",
+        "Pesunöör",
+        "Kuivav pesu"
+      ],
+      "colorcodes": [
+        "#AA8B62",
+        "#6E5A47",
+        "#B1A894",
+        "#2C354E",
+        "#7A4232",
+        "#4B6E41",
+        "#A42C38"
+      ],
+      "texts": [
+        "And where has that taken you?"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Ainus erinevus piltide vahel on subtiitri \"And where has that taken you?\" ilmumine teisel pildil ja selle puudumine esimesel ja kolmandal pildil.",
+        "Mehe näoilme, poos ja taust on kõigil piltidel identsed."
+      ],
+      "snr": "043",
+      "ajad": [
+        "363.840",
+        "369.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat, hallipäist meest, kes kannab beezides ja pruunides toonides mustriga kampsunit kollase särgi peal. Ta asub õues rohelisel rohumaal, mille taustal on näha tihedat rida raagus puid või põõsaid. Mehe näoilmed on emotsionaalsed ja muutlikud, väljendades viha, frustratsiooni või kurbust. Ühel hetkel hoiab ta käes peenikest pulka. Stseen on valgustatud eredalt päevavalguse käes, mis viitab päikesepaistelisele päevale. Tausta taimestik – roheline rohi ja lehtedeta puud – annab märku varakevadest. Mees räägib emotsionaalselt, öeldes, et tegemist on ainsa asjaga, mis tal alles on. Kolmandal hetkel on mees liikumise tõttu udune, kummardumas või eemale pöörates, mis rõhutab hetke intensiivsust ja tema emotsionaalset seisundit. Üldine atmosfäär on pingeline ja tundeküllane.",
+      "actions": [
+        "Rääkimine",
+        "Žestikuleerimine",
+        "Emotsioonide väljendamine",
+        "Pulga käes hoidmine",
+        "Vaatamine",
+        "Kummardumine või pööramine"
+      ],
+      "keywords": [
+        "Mees",
+        "Välitingimused",
+        "Emotsionaalne",
+        "Vanem",
+        "Maakoht",
+        "Pusa",
+        "Roheline",
+        "Päikesepaiste",
+        "Vihane",
+        "Kurb",
+        "Murelik",
+        "Kevad"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Pusa",
+        "Kollane särk",
+        "Pulk",
+        "Rohi",
+        "Põõsad",
+        "Puud",
+        "Maa"
+      ],
+      "colorcodes": [
+        "#A3845A",
+        "#C9B28D",
+        "#E6C847",
+        "#5E7A2E",
+        "#8CA447",
+        "#5C4C3E",
+        "#B8B8B8",
+        "#D9D9D9"
+      ],
+      "texts": [
+        "This here is the only thing I have left."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 60,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Erinevad näoilmed ja kehakeel mehel",
+        "Teksti lisamine teisel pildil",
+        "Mees hoiab esimesel ja kolmandal pildil pulka käes, teisel pildil pole pulk selgelt nähtav",
+        "Kolmandal pildil on mees liikumise tõttu udune ja kummardumas või eemale pöörates"
+      ],
+      "snr": "044",
+      "ajad": [
+        "369.920",
+        "377.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maaelu idülli ja samal ajal esiplaanil oleva mehe sügavat mõtisklust või ebamugavust. Kaadrite keskmes on habemega mees, kelle sassis, heledad juuksed annavad talle räsitud välimuse. Tema näoilme on pingestatud, silmad on kissis ja otsaesisel on kortsud, mis viitavad intensiivsele mõttele, segadusele või kergele ärritusele. Mees kannab tumesinist kardigani heleda, ruudulise särgi peal. Taustal avaneb vaade punakaspruunile puidust majale, millel on kaks selgelt eristuvat valgete raamidega akent. Maja ümbritseb roheline muru ja raagus põõsad, mis annavad aimu varakevadest. Maja kõrval on puidust aed ja pesunöör, millel kuivavad kaks riideeset – üks punakas ja teine tumedam. Murul maja ees on näha ka tume objekt, mis meenutab lammast või suuremat looma. Stseeni valgustab soe, loomulik päevavalgus, mis loob rahuliku, kuid mehe pingestatud näo tõttu samas ka kerge pingega atmosfääri.",
+      "actions": [
+        "Mees kortsutab otsaesist",
+        "Mees kissitab silmi",
+        "Mees pöörab pead",
+        "Riided kuivavad pesunööril"
+      ],
+      "keywords": [
+        "Maaelu",
+        "Maamaja",
+        "Puidust maja",
+        "Habe",
+        "Sassis juuksed",
+        "Mõtisklev",
+        "Kevad",
+        "Pesunöör",
+        "Loodus",
+        "Välitingimused",
+        "Talunik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Puidust maja",
+        "Aknad",
+        "Põõsad",
+        "Rohi",
+        "Tara",
+        "Pesunöör",
+        "Kuivavad riided",
+        "Kardigan",
+        "Särk",
+        "Habe",
+        "Juuksed",
+        "Tume loom"
+      ],
+      "colorcodes": [
+        "#283747",
+        "#733E3E",
+        "#F2F2F2",
+        "#7BA35A",
+        "#C6A36E",
+        "#BD4C4C"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 10,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimeses ja teises kaadris on näha mees, kolmandas kaadris meest ei ole.",
+        "Mees on esimeses kaadris otse vaataja poole pööratud, kergelt kissitades, teises kaadris on ta pead küljele pööranud ja vaatab kaadrist välja.",
+        "Kolmas kaader on laiem ülevaatekaader, mis näitab maja ja ümbritsevat keskkonda detailsemalt (medium shot), samal ajal kui esimesed kaks on lähivõtted mehest (medium close-up).",
+        "Mehe näoilme on kaadrite vahel kergelt muutunud, esimeses tugevamalt pingestatud kui teises."
+      ],
+      "snr": "045",
+      "ajad": [
+        "377.120",
+        "384.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, tõenäoliselt esikut või kitsast koridori, mis viib teise tuppa. Vasakul pool on näha puidust riiul ja mitmed riideesemed – tumepruun jope, oliivroheline mantel, ruuduline särk ja tume kübar. Paremal seinal on metallist nagin, millel ripub valge emailpott musta sangaga ja punase-valgetriibuline rätik. Stseenis on habemega mees, kellel on keskmise pikkusega pruunid juuksed. Ta kannab tumesinist kampsunit heleda kraega särgi peal, paistmas on ka tumedad traksid. Mees läheneb valgele uksele, avab selle ja piilub sisse kõrvaltuppa. Ukse tagant paistab aken heledate läbipaistvate kardinatega ja osa voodist, viidates magamistoale. Valgus tuleb suures osas aknast ja loob uksele pikki varjusid, mis annab märku päevasest ajast. Üldine õhkkond on rahulik ja vaikne, mees paistab olevat millegagi süvenenud.",
+      "actions": [
+        "Mees avab ukse",
+        "Mees vaatab tuppa sisse",
+        "Mees läheneb uksele"
+      ],
+      "keywords": [
+        "sisestseen",
+        "mees",
+        "uks",
+        "riided",
+        "esik",
+        "magamistuba",
+        "nagi",
+        "pott",
+        "rätik",
+        "kampsun",
+        "habe",
+        "aken",
+        "kardinad",
+        "valgus",
+        "varjud",
+        "rahulik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "uks",
+        "riided",
+        "jope",
+        "mantel",
+        "särk",
+        "kübar",
+        "nagid",
+        "metallist nagin",
+        "pott",
+        "emailpott",
+        "rätik",
+        "kampsun",
+        "traksid",
+        "aken",
+        "kardinad",
+        "voodi",
+        "riiul"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#1D2D3D",
+        "#CDB79E",
+        "#6B7B61",
+        "#4A3A2C",
+        "#D2403B",
+        "#696969"
+      ],
+      "texts": [],
+      "persons": [
+        "habemega mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil ei ole kaadris inimest, teisel pildil ilmub mees kaadrisse ja sirutab käe ukse lingi poole, kolmandal pildil on uks avatud ja mees vaatab sellest sisse teise tuppa."
+      ],
+      "snr": "046",
+      "ajad": [
+        "384.560",
+        "431.080"
+      ]
+    },
+    {
+      "explanation": "Piltidel on näha mees, kes piilub avause, tõenäoliselt ukseava, kaudu. Tal on lühikesed pruunikad juuksed ja hoolitsetud pruun habe. Seljas on tal ruuduline särk beeži või heleda ruudulise mustriga ning selle peal tume sinine või must kardigan. Üle õla ripub tal pruun nahkrihm, mis kuulub tõenäoliselt kotile. Tema ilme on mõtlik, pingsalt vaatlev ja veidi murelik, sinised silmad on fokuseeritud. Ta tundub vaatavat midagi pingsalt eespool. Taustal on näha siseruum, tõenäoliselt esik või panipaik, kus ripub nagis mitu jopet ja pruuni-punase ruudulise mustriga tekk-jakk. Ülemisel riiulil on puidust tahvel ja mingid esemed, alumisel riiulil virn raamatuid ja valge vaas või ese. Stseenist õhkub vaoshoitust ja ootust.",
+      "actions": [
+        "Piilumine",
+        "Vaatlemine",
+        "Mõtisklemine",
+        "Koti rihma hoidmine/kohandamine"
+      ],
+      "keywords": [
+        "Mees",
+        "Habe",
+        "Kardigan",
+        "Ukseava",
+        "Piilumine",
+        "Mõtlik",
+        "Siseruum",
+        "Riided",
+        "Tagasihoidlik",
+        "Ootuspärane",
+        "Pingsus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Habe",
+        "Juuksed",
+        "Ruuduline särk",
+        "Kardigan",
+        "Nahkrihm",
+        "Kott (oletatav)",
+        "Ukseava",
+        "Sein",
+        "Riiulid",
+        "Joped",
+        "Tekk-jakk",
+        "Puidust tahvel",
+        "Raamatud",
+        "Vaas/valge ese",
+        "Nagid"
+      ],
+      "colorcodes": [
+        "#4A4D4B",
+        "#A8A082",
+        "#7B512C",
+        "#4C2F1F",
+        "#BEBEA0",
+        "#6F6A5B",
+        "#3C3B3A",
+        "#A3321D",
+        "#7D8E9E"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab mees rohkem vasakule (vaataja seisukohalt), tema vasak käsi ei ole näha ning tema ilme on rohkem pingsalt suunatud. Teisel pildil on ta pööranud oma pea rohkem otse kaamera poole ja hoiab oma parema käega koti rihma. Tema ilme on muutunud veidi pehmemaks ja pärvamaks. Kolmandal pildil on ta pea veelgi rohkem otse kaamera poole pööratud, nägu on veidi avatum ja suu kergelt avatud, vasak käsi hoiab endiselt koti rihma. Tema ilme on nüüd kõige rohkem otse suunatud ja tundub uudishimulik või kergelt üllatunud."
+      ],
+      "snr": "047",
+      "ajad": [
+        "431.080",
+        "446.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat, vanamoelist magamistuba või elutuba. Ruum on valgusküllane tänu suurele aknale, mis asub keskel ja on kaetud valge pitskardinaga, mis laseb läbi sumeda päevavalguse. Akna tagune vaade on ebaselge, vihjates pilvisele ilmale. Paremal pool seina ääres seisab lihtne, korrastamata voodi kortsus linade, tekkide ja padjaga. Voodi kõrval põrandal on näha riideesemeid, sealhulgas tumedad sokid ja heledat värvi riidetükk. Vasakul pool on osaliselt näha tume puidust riidekapp või garderoob, millel ripub heleda lillelise mustriga kleit riidepuul. Põrandat katab vana, tumedates toonides (pruunid, punakad, beežid) idamaise mustriga vaip. Seinad on kaetud heleda mustrilise tapeediga. Toa üldmulje on tagasihoidlik ja veidi räsitud, valguse ja varjude mäng loob melanhoolse või rahuliku atmosfääri. Paremas servas on näha ka tume kummut või sarnane mööbliese ning vasakul all nurgas väike tool ja tass. Seinal voodi kohal on näha pistikupesa.",
+      "actions": [
+        "Puuduvad nähtavad tegevused"
+      ],
+      "keywords": [
+        "magamistuba",
+        "vana",
+        "hämar",
+        "akna valgus",
+        "korrastamata",
+        "vaip",
+        "pitskardinad",
+        "riidekapp",
+        "kleit",
+        "üksindus",
+        "nostalgia",
+        "vaikus",
+        "tagasihoidlik"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "aken",
+        "pitskardin",
+        "voodi",
+        "tekk",
+        "padi",
+        "linad",
+        "sokid",
+        "riidetükk",
+        "riidekapp",
+        "kleit",
+        "riidepuu",
+        "vaip",
+        "tapeet",
+        "kummut",
+        "tool",
+        "tass",
+        "sein",
+        "pistikupesa"
+      ],
+      "colorcodes": [
+        "#3a2e2b",
+        "#a0a09a",
+        "#e0e0e0",
+        "#6d7b8d",
+        "#6b3d30",
+        "#ffffff",
+        "#4c4c4c"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaamera asukoht on kaadrite vahel kergelt nihkunud paremale poole.",
+        "Esimesel pildil on vasakus allnurgas näha rohkem ruumi ja objekte, sealhulgas tass ja tooli jalg, mis järgmistes kaadrites liiguvad kaadri servale või välja.",
+        "Riidekapp vasakul on esimesel pildil veidi rohkem kaadri keskel, samas kui teisel ja kolmandal pildil on see nihkunud kaadri vasakusse serva, kusjuures kolmandal pildil on osa kapi vasakust servast välja lõigatud."
+      ],
+      "snr": "048",
+      "ajad": [
+        "446.400",
+        "459.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab habet ja heledaid juukseid omavat meest, kes istub lihtsa voodi äärel hämaras toas. Mees kannab heledat nööbitavat särki ja tumedaid pükse. Tuba on kaetud sinakashalli mustriga tapeediga, millel on heledad lehe- või lillemotiivid. Vasakpoolses aknas paistavad valged õhukesed kardinad, mille kaudu sisenev loomulik valgus loob tugeva kontrasti ruumi hämarate osadega. Voodil on heledad voodipesud ja kaks patja, millest üks on tumedama ja teine heledama kattega. Esimeses kaadris hoiab mees käes tumedat mütsi, vaadates seda mõtlikult. Seejärel asetab ta mütsi voodile patjade juurde ning võtab kätte avatud raamatu või dokumendid, millele ta keskendunult pilgu pöörab ja neid loeb, ilmudes süvenenult. Stseeni üldine meeleolu on vaikne, introspektiivne ja veidi melanhoolne.",
+      "actions": [
+        "Mees istub voodi äärel",
+        "Mees hoiab käes tumedat mütsi (esimeses kaadris)",
+        "Mees paneb mütsi voodile (kaadrite vahel)",
+        "Mees loeb avatud raamatut või dokumente",
+        "Mees vaatab raamatut/dokumente süvenenult"
+      ],
+      "keywords": [
+        "Sisetuba",
+        "Mees",
+        "Voodi",
+        "Lugemine",
+        "Mõtlik",
+        "Hämar",
+        "Rahulik",
+        "Introspektiivne",
+        "Melanhoolia",
+        "Nostalgia",
+        "Üksildus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Voodi",
+        "Padi",
+        "Voodipesu",
+        "Aken",
+        "Kardinad",
+        "Tapeet",
+        "Raamat",
+        "Dokumendid",
+        "Müts"
+      ],
+      "colorcodes": [
+        "#A0B2B6",
+        "#C7C2B2",
+        "#5C5C5C",
+        "#FFFFFF",
+        "#F0EDE1",
+        "#3A3A3A",
+        "#2A2A2A"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris hoiab mees käes tumedat mütsi, teises ja kolmandas kaadris on müts asetatud voodile patjade kõrvale.",
+        "Esimeses kaadris vaatab mees mütsi, ilmudes mõtlikuna. Teises ja kolmandas kaadris on mees süvenenud raamatu või dokumentide lugemisse, tema pilk on suunatud lehtedele.",
+        "Raamatu/dokumentide asend ja mehe kehahoiak on teises ja kolmandas kaadris veidi erinevad, viidates lugemise või vaatlemise eri hetkedele."
+      ],
+      "snr": "049",
+      "ajad": [
+        "459.280",
+        "485.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest maapiirkonnas, tõenäoliselt taluõues või kodukoha aias. Maapind on kaetud rohelise muruga, mis viitab kevadele või varasuvel. Esialgu on esiplaanil näha rohus maas puidust tööriista ja süvendit või kraavi. Taustal on vana puidust maja akendega, mõned raagus puud/põõsad, traataed ja puidust tara. Taevas tundub olevat pilves või on hiline pärastlõuna/varajane õhtu. Vanem mees, hallide juustega, kannab pikka pruuni mantlit, khakivärvi pükse ja tumedaid saapaid. Ta istub puupaku peal, alguses mõtlikult allapoole vaadates või käsi lõua juures hoides. Seejärel läheneb talle noorem mees, kes on riietatud ruudulisse (punase, musta ja valge mustriga) jakki, heledatesse pükstesse ja tumedatesse saabastesse. Noorem mees kummardub kraavi lähedal, hoides pikka metallist tööriista, mis näib olevat labidas või kang, ning hakkab kraavi kallal toimetama või seda inspekteerima. Samal ajal süütab vanem mees sigareti ja jälgib noorema mehe tegevust, tema ilme on endiselt mõtlik või vaatlev. Üldine atmosfäär tundub vaikne, ehk veidi nukker või järelemõtlik, rõhutades maalähedases keskkonnas toimuvat tööd ja mõtisklusi.",
+      "actions": [
+        "istumine",
+        "mõtisklemine",
+        "vaatamine",
+        "kõndimine",
+        "kummardumine",
+        "töötamine tööriistaga",
+        "sigareti süütamine",
+        "suitsetamine"
+      ],
+      "keywords": [
+        "maapiirkond",
+        "taluõu",
+        "mehed",
+        "töö",
+        "mõtisklus",
+        "kraav",
+        "aed",
+        "maja",
+        "kevad",
+        "õhtu",
+        "maalähedane",
+        "vaikus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "vanem mees",
+        "noorem mees",
+        "puupakk",
+        "muru",
+        "kraav",
+        "puidust tööriist",
+        "traataed",
+        "puidust tara",
+        "vana puidust maja",
+        "aknad",
+        "raagus puud",
+        "põõsad",
+        "pruun mantel",
+        "khakivärvi püksid",
+        "tumepruunid saapad",
+        "hallid juuksed",
+        "ruuduline jakk",
+        "heledad püksid",
+        "sigaret"
+      ],
+      "colorcodes": [
+        "#916F4F",
+        "#3A2F2B",
+        "#789045",
+        "#9B916F",
+        "#7D3130",
+        "#3A3231",
+        "#CFC9B5",
+        "#7A4E38",
+        "#B8C4C6"
+      ],
+      "texts": [],
+      "persons": [
+        "vanem mees",
+        "noorem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "spring",
+      "daytime": "evening",
+      "differences": [
+        "Noorem mees on nähtav alates teisest pildist ja on kolmandal pildil täielikult kaadris.",
+        "Vanema mehe poos muutub kergelt ning kolmandal pildil süütab ta sigareti.",
+        "Noorema mehe tegevus muutub kõndimiselt tööriistaga kraavi ääres töötamiseks.",
+        "Kolmandal pildil on näha vanema mehe käes sigaretti ja noorem mees kummardub sügavama kraavi kohal, mitte lihtsalt sirge maapinna lähedal."
+      ],
+      "snr": "050",
+      "ajad": [
+        "485.800",
+        "509.800"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub vanemale mehele, kellel on hallid, pisut sassis juuksed ja lühike habemetüügas. Tema nägu on kortsuline, eriti silmade ümbruses, ja ta kannab pruuni, tõenäoliselt fliisist või hommikumantlilaadset jakki, mille all paistab kollane särk ja veel üks sinine riideese. Mees näib olevat sügavates mõtetes või murelik, vaadates allapoole ja pisut kõrvale. Tema pilk on intensiivne ja väljendab melanhooliat. Ta on väljaspool, taust on udune, vihjates maapiirkonnale või metsatukale, kus on näha ka mõningaid uduseid struktuure, näiteks aia posti. Valgus on pehme ja loomulik, andes stseenile rahulikku, ent samas tõsist tooni.",
+      "actions": [
+        "Vaatab allapoole",
+        "On mõtlikus poosis",
+        "Viib käe suu juurde (teatud kaadrites)",
+        "Hingab sisse/välja (implied by slight changes in posture)"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Hallid juuksed",
+        "Kortsuline nägu",
+        "Mõtlik",
+        "Kurb",
+        "Murelik",
+        "Üksildane",
+        "Välitingimused",
+        "Maapiirkond",
+        "Hommikumantel",
+        "Pruun jakk",
+        "Kollane särk",
+        "Videvik",
+        "Sügisene meeleolu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Pruun jakk",
+        "Kollane särk",
+        "Sinine rõivaese",
+        "Aia post (udusel taustal)",
+        "Puu (udusel taustal)"
+      ],
+      "colorcodes": [
+        "#735C4B",
+        "#E0C755",
+        "#B8B8B8",
+        "#C89F82",
+        "#7A7D69"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel ja kolmandal pildil on mehe käed allapoole, teisel pildil on ta käe toonud suu või lõua juurde, mis intensiivistab tema mõtlikku ja melanhoolset ilmet.",
+        "Silmade pilgu suunas ja peanupu kallakus on kergeid nüansse, mis annavad edasi pisut erinevaid emotsionaalseid varjundeid."
+      ],
+      "snr": "051",
+      "ajad": [
+        "509.800",
+        "517.000"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha habetunud mees tumesinises, punase ja heleda ruudulisel särgis, mis on lahti ja mille all on heledam triibuline kraega särk. Ta asub õues rohelise rohumaa ja taustal olevate paljaste puude või võsaga metsapiiri ees. Esimestel ja viimastel kaadritel on mees ettepoole kummardunud ja liikumises, mistõttu tema nägu on veidi udune. Keskmisel kaadril vaatab mees otse kaamerasse või veidi küljele, tema nägu on selge ja tal on rääkiv ilme, huultelt on lugeda küsimust. Stseenis valitseb kevadine või hilistalvine aeg, mida iseloomustavad tärkav rohi ja lehtedeta puud. Valgus on pehme, mis viitab pilvisele päevale.",
+      "actions": [
+        "Ettepoole kummardumine",
+        "Rääkimine",
+        "Üles vaatamine",
+        "Liikumine"
+      ],
+      "keywords": [
+        "Mees",
+        "Habe",
+        "Ruuduline särk",
+        "Õues",
+        "Mets",
+        "Rohi",
+        "Küsimus",
+        "Maaelu",
+        "Kevad",
+        "Töö"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Ruuduline särk",
+        "Kraega särk",
+        "Habe",
+        "Puud",
+        "Rohi"
+      ],
+      "colorcodes": [
+        "#2D3D50",
+        "#A63C3F",
+        "#BDBDBD",
+        "#4A6C38",
+        "#5A4B42",
+        "#C8997A"
+      ],
+      "texts": [
+        "Should we make room for the sheep?"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel ja kolmandal pildil on mees liikumises ja ettepoole kummardunud, mistõttu tema nägu on udune.",
+        "Teisel pildil on mees peaaegu paigal, vaatab otse kaamerasse või küljele, tema nägu on selgelt näha ja tal on rääkimise ilme.",
+        "Subtiitrid ('Should we make room for the sheep?') on nähtavad ainult teisel pildil."
+      ],
+      "snr": "052",
+      "ajad": [
+        "517.000",
+        "521.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest välitingimustes maalähedases keskkonnas. Vanem mees, hallide juustega, istub pruunil puupakul või kännul, kandes pruuni mantlit, rohelisi pükse ja tumedaid saapaid. Ta hoiab käes piipu, suitsetab ja vaatab mõtlikult nooremat meest. Noorem mees, heledate juuste ja habemega, on kükkis ja kaevab maasse auku, kasutades labidat. Ta kannab ruudulist särki ja heledaid pükse. Kaevamisel viskab ta mulda ja kive augu kõrvale. Taustal on näha roheline muru, puidust maja valgete aknaraamidega, traataed ja puidust tara ning hõredad puud. Üldine õhkkond on rahulik ja argine, viidates kevadisele hilisõhtule või varajasele hommikule.",
+      "actions": [
+        "Vanem mees suitsetab piipu",
+        "Vanem mees istub puupakul",
+        "Vanem mees vaatab nooremat meest",
+        "Noorem mees kaevab labidaga auku",
+        "Noorem mees kükib",
+        "Noorem mees viskab mulda ja kive augu kõrvale"
+      ],
+      "keywords": [
+        "Kaevamine",
+        "Piibusuitsetamine",
+        "Maaelu",
+        "Aiatööd",
+        "Õues",
+        "Kevad",
+        "Maja",
+        "Aed",
+        "Mehed",
+        "Töö",
+        "Jutuajamine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Labidas",
+        "Piip",
+        "Puupakk",
+        "Känd",
+        "Muru",
+        "Muld",
+        "Kivid",
+        "Auku",
+        "Maja",
+        "Aed",
+        "Traataed",
+        "Puidust tara",
+        "Aknad",
+        "Puud",
+        "Mantel",
+        "Särk",
+        "Püksid",
+        "Saapad"
+      ],
+      "colorcodes": [
+        "#7f6448",
+        "#a02020",
+        "#36495b",
+        "#608d3e",
+        "#c1b39e",
+        "#5f3e28",
+        "#2a2a2a",
+        "#a0a0a0",
+        "#ffffff",
+        "#5a3c26"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees",
+        "Noorem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "spring",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil hoiab noorem mees labidat õhus, justkui valmistudes kaevama.",
+        "Teisel pildil on noorem mees labida maasse löönud ja hakkab mulda üles võtma, tema näoilme on kontsentreeritum.",
+        "Kolmandal pildil viskab noorem mees labidaga mulda augu kõrvale ja vanema mehe piibust on näha suitsupahvakut, mis viitab aktiivsele suitsetamisele ja rääkimisele."
+      ],
+      "snr": "053",
+      "ajad": [
+        "521.960",
+        "527.280"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud habemega ja keskmise pikkusega juustega mees, kes kannab tumesiniste, hallide, punaste ja beežide toonidega ruudulist flanelljakki, mille all on heledam nööbitav särk. Tema ilme muutub stseeni jooksul: esmalt on ta suu laialt naeratades avatud ja nägu rõõmus, seejärel muutub naeratus tagasihoidlikumaks, suu sulgub ja pilk on suunatud kõrvale, väljendades mõtlikkust või kerget muigamist. Taust on udune, kuid eristatavad on lehtedeta puud ja roheline maapind, mis viitab välitingimustele, tõenäoliselt põlluservale või metsa äärde hilissügisel või varakevadel. Valgus on loomulik, päevane. Üldine meeleolu on maalähedane ja pingevaba.",
+      "actions": [
+        "Naeratamine",
+        "Naermine",
+        "Vaatamine kõrvale",
+        "Seismine"
+      ],
+      "keywords": [
+        "Mees",
+        "Habe",
+        "Ruuduline särk",
+        "Flanellsärk",
+        "Väljas",
+        "Loodus",
+        "Põlluserv",
+        "Metsaääär",
+        "Naeratus",
+        "Mõtlik",
+        "Maamees",
+        "Lehtedeta puud",
+        "Kevad",
+        "Sügis"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Flanelljakk",
+        "Nööbitav särk",
+        "Habe",
+        "Puud (taustal)",
+        "Roheline maapind"
+      ],
+      "colorcodes": [
+        "#2C3C4B",
+        "#6A7E8F",
+        "#AC3423",
+        "#D9D5CB",
+        "#D9D9DA",
+        "#C8A484",
+        "#8F7B64",
+        "#5A6E5C",
+        "#768E65",
+        "#4B4A4B"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Mehe näoilme muutub laialt naeratuselt ja avatud suult tagasihoidlikumale, mõtlikule muigele ja suletud suule.",
+        "Mehe pea asend ja pilgu suund muutuvad kergelt paremale poole vaatavaks."
+      ],
+      "snr": "054",
+      "ajad": [
+        "527.280",
+        "532.040"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivaates vanem mees, kelle hallid, lainelised ja veidi sassis juuksed raamivad tema kortsulist nägu. Tema sügav ja mõtlik pilk on suunatud otse vaatajale või veidi allapoole, andes edasi tõsise, isegi melanhoolse või väsinud meeleolu. Mehe näoilmet rõhutavad silmade ümber olevad kortsud ja kerged tumedad ringid silmade all. Tal on näha lühike hallikas habemetüvi. Mees kannab paksu, pruuni, ilmselt fliisist või frottematerjalist hommikumantlit või jakki, mille all paistab kollane särk ja veelgi allpool sinine riideese. Stseeni taust on udune, näidates rohelist muru ja metallist aia fragmenti, mis viitab välitingimustele. Valgus on pehme ja sume, võimalik, et õhtupäike või varahommikune valgus, andes stseenile rahuliku ja introspektiivse sügavuse.",
+      "actions": [
+        "Mees istub või kükitab mõtisklevalt",
+        "Mees toob oma parema käe lõua alla, justkui sügavalt mõtiskledes",
+        "Mees hoiab pingsat pilku"
+      ],
+      "keywords": [
+        "vanem mees",
+        "hallid juuksed",
+        "kortsud",
+        "mõtlik",
+        "tõsine",
+        "melanhoolne",
+        "õues",
+        "aia ääres",
+        "udune taust",
+        "sume valgus",
+        "hommikumantel",
+        "fluffy",
+        "habemetüvi"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "mees",
+        "rohi",
+        "aed",
+        "puud (uduses taustal)",
+        "kollane särk",
+        "pruun hommikumantel/jakk"
+      ],
+      "colorcodes": [
+        "#8C8C8C",
+        "#826E5D",
+        "#E0BA3F",
+        "#B48D73",
+        "#6F8B4F",
+        "#57693B"
+      ],
+      "texts": [],
+      "persons": [
+        "vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Piltidel on mehe parema käe asendis erinevused. Esimesel ja kolmandal pildil on käsi all, teisel pildil on see tõstetud lõua alla toetuseks, justkui mõtiskledes.",
+        "Kerged nüansid mehe näoilmes ja pilgu suunas, mis annavad edasi hetkelist meeleolude muutust."
+      ],
+      "snr": "055",
+      "ajad": [
+        "532.040",
+        "541.320"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub õues, pimedal õhtul või öösel vana puidust hoone, ilmselt lauda või maja, ees. Kaks meest istuvad puidust trepiastmetel. Valgusallikas on soe ja suunatud, paistes hoone uksest vasakult ülevalt, heites pikki varje. Maa trepi ümber on kas muld või rohi. Trepi vastu, vasakul pool, toetub jalgratas. Üks meestest on noorem, kandes ruudulist särki, heledaid pükse ja tumedaid saapaid, ning hoiab süles lõõtspilli. Teine on vanem mees, hallide juustega ja beežis või pruunis palitus, istudes tema kõrval. Nad on süvenenud vestlusesse või mõtisklevasse olekusse, luues rahuliku ja mõtlikku atmosfääri.",
+      "actions": [
+        "Istumine trepiastmetel",
+        "Vestlemine",
+        "Mõtisklemine",
+        "Lõõtspilli hoidmine",
+        "Lõõtspilli mängimine (võimalik)"
+      ],
+      "keywords": [
+        "Öine stseen",
+        "Hämarus",
+        "Maalähedane",
+        "Puitmaja",
+        "Rahulik",
+        "Mõtisklev",
+        "Vestlus",
+        "Muusika",
+        "Sõprus",
+        "Varjud",
+        "Külm ilm"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Puidust hoone",
+        "Puidust uks",
+        "Puidust trepiastmed",
+        "Jalgratas",
+        "Lõõtspill",
+        "Ruuduline särk",
+        "Palitu",
+        "Saapad",
+        "Maa"
+      ],
+      "colorcodes": [
+        "#6B4D30",
+        "#C9A76E",
+        "#2A2A2A",
+        "#3D6F6A",
+        "#7F604A",
+        "#B28E4D",
+        "#1C1C1C",
+        "#4A6A4E"
+      ],
+      "texts": [
+        "- Don't we all."
+      ],
+      "persons": [
+        "Noorem mees",
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader on laiem, näidates tervet hoone esikülge, jalgratast ja ainult nooremat meest, kes vaatab eemale.",
+        "Teine kaader on lähemal, näidates mõlemat meest. Noorem mees hoiab lõõtspilli ja ekraanil on subtiiter \"- Don't we all.\".",
+        "Kolmas kaader on väga sarnane teisele, samuti lähim kaader mõlemast mehest, kuid subtiiter on eemaldatud ja noorema mehe käed on lõõtspillil asetatud mängimisasendisse."
+      ],
+      "snr": "056",
+      "ajad": [
+        "541.320",
+        "603.320"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud üksikut, vana puitmaja keset avarat maastikku, mis viitab kas kaugemale asukohale või mahajäetud seisundile. Maja on pruunikashallist puidust ja selle katus on tumedast, arvatavasti eterniidist või vanast laudisest. Korsten kerkib majanurgast. Maja akendel on näha heledad raamid ja ees asub väiksem juurdeehitus, mis sisaldab ust ja lisaks akent. Maja vasakul küljel seisab rühm tumedaid, kõrgeid okaspuid, tõenäoliselt kuuski, andes stseenile sügavust ja varjualust. Maja taga ja paremal küljel on näha tihe lehtpuude mets, mis on raagus, mis viitab hilissügisele või varakevadele. Esiplaanil on rohtukasvanud väli kuivanud rohu ja põõsastega, mis on kaetud heleda pruunika ja kollaka tooniga, mis omakorda kinnitab jahedamat aastaaega. Paremal pool on näha madal, puidust plankudest aed. Taevas on hele, kuid uduvine, andes kogu stseenile pehme, difuusse ja veidi melanhoolse valguse, mis viitab hommikusele või õhtusele ajale. Üldine meeleolu on vaikne, rahulik ja mõtisklev, rõhutades looduse ja inimtekkelise ehitise kooslust.",
+      "actions": [],
+      "keywords": [
+        "Vana maja",
+        "puitmaja",
+        "maapiirkond",
+        "sügis",
+        "varakevad",
+        "karge",
+        "vaikne",
+        "loodus",
+        "mahajäetud",
+        "hall",
+        "pruun",
+        "mets",
+        "aed",
+        "hommik",
+        "õhtu"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "maja",
+        "katus",
+        "korsten",
+        "aknad",
+        "uks",
+        "okaspuid",
+        "lehtpuid",
+        "mets",
+        "aed",
+        "rohi",
+        "põõsad"
+      ],
+      "colorcodes": [
+        "#e8e0d4",
+        "#6b5c51",
+        "#4a4d4f",
+        "#a3957a",
+        "#2e3b30"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "autumn",
+      "daytime": "morning",
+      "differences": [],
+      "snr": "057",
+      "ajad": [
+        "603.320",
+        "607.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maalähedast idülli varakevadel või hilissügisel, kus on näha talumaja ümbrust. Pilvise taeva all avaneb vaade rohelisele õuele, mida ääristab vana puitaed. Aia taga sirgub mets ja üksikud paljad puud. Õues asub äsja haritud aiamaa lapp, kus liigub ringi tumedakarvaline loom, mis meenutab siga või metssea põrsast. Samas õues, aia ja metsa taustal, seisab vana, puidust ja klaasist kasvuhoone. Üks hallipäine mees, riietatud pruuni mantlisse ja rohekatesse pükstesse, kõnnib mööda õue. Talukompleksi kuulub ka vana, tume palkmaja, millel on musta värvi plekk-katus ja puidust uks. Maja seina ääres on näha labidas ja muid tööriistu. Kogu stseen annab edasi rahulikku ja veidi ajahambast puretud, kuid toimivat maaelu atmosfääri.",
+      "actions": [
+        "Loom kõnnib aiamaal",
+        "Mees kõnnib õues"
+      ],
+      "keywords": [
+        "Maaelu",
+        "Talukoht",
+        "Aed",
+        "Kasvuhoone",
+        "Palgimaja",
+        "Puitaed",
+        "Kevad",
+        "Pilvine",
+        "Vana",
+        "Päevinud",
+        "Mets",
+        "Vaikus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puitaed",
+        "Aiamaa",
+        "Muld",
+        "Roheline rohi",
+        "Paljas puu",
+        "Mets",
+        "Kasvuhoone",
+        "Mees",
+        "Siga (või metsloom)",
+        "Palkmaja",
+        "Uks",
+        "Labidas",
+        "Valgusti (seinal)",
+        "Torud",
+        "Mantel",
+        "Püksid",
+        "Saapad"
+      ],
+      "colorcodes": [
+        "#5B8B3F",
+        "#5F422E",
+        "#D0D0D0",
+        "#7A664E",
+        "#3C2E28",
+        "#2F2F2F"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Erinevad fookuspunktid ja kaadrid: esimene pilt näitab aiamaad looma ja metsaga, teine pilt keskendub mehele ja kasvuhoonele, kolmas pilt detailsele vaatele palkmajast.",
+        "Objektide nähtavus varieerub kaadrite vahel (nt loom on ainult esimesel pildil, mees teisel, palkmaja detailid kolmandal).",
+        "Kaadrite kaugus stseenist: lai kaader, poolpikk kaader, lähivõte."
+      ],
+      "snr": "058",
+      "ajad": [
+        "607.920",
+        "642.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maapiirkonna õueala pilves päeval, tõenäoliselt varakevadel või hilissügisel. Paremal pool on vana palkhoone kivist vundamendi ja tumeda katusega. Maapind on kaetud rohelise rohuga, mille vahel on kuivemaid laike ja pikemaid kõrsi. Keset muru on tumeda mullakuhja hunnik. Paremal, hoone lähedal, seisab püsti mahalõigatud puupakk. Taustal laiub hõre mets lehtpuude ja mõne okaspuuga. Kaadrisse ilmub vanem mees, seljas helepruun mantel ja heledad püksid, kes kõnnib üle mullakuhja. Seejärel jääb ta seisma, seljaga vaataja poole, käed taskus, vaadates hoone ja metsa suunas.",
+      "actions": [
+        "Kõndimine",
+        "Seismine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Maaelu",
+        "Vana hoone",
+        "Loodus",
+        "Maastik",
+        "Kevad",
+        "Sügis",
+        "Mullakuhja",
+        "Puupakk",
+        "Mees",
+        "Palkhoone",
+        "Välitingimused",
+        "Pilves ilm"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Palkhoone",
+        "Kivist vundament",
+        "Katus",
+        "Rohumaa",
+        "Mullakuhja",
+        "Puupakk",
+        "Lehtpuud",
+        "Okaspuud",
+        "Mets",
+        "Pilves taevas",
+        "Mehe mantel",
+        "Mehe püksid",
+        "Mehe jalatsid"
+      ],
+      "colorcodes": [
+        "#919593",
+        "#827360",
+        "#463B34",
+        "#557934",
+        "#9B836C"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puudub kaadris inimene.",
+        "Teisel pildil kõnnib mees vasakult paremale üle mullakuhja, olles liikumises.",
+        "Kolmandal pildil on mees peatunud ja seisab seljaga vaataja poole, käed taskus, vaadates hoone ja tausta suunas."
+      ],
+      "snr": "059",
+      "ajad": [
+        "642.600",
+        "657.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist meest lihtsas ja veidi melanhoolses magamistoas. Algselt istub ta voodi serval, pilk suunatud alla, paistes mõtliku või mureliku olekuga. Tal on seljas heledavärviline pikkade varrukatega särk kollase alussärgi peal ja oliivrohelised püksid. Tuba on kaetud heleda tapeediga, millel on korduv muster väikestest sinakatest lilledest või lehtedest. Paremal pool seisab mitme sahtliga puidust öökapp, millel on mõned esemed. Päike paistab tuppa paremalt poolt, valgustades seinaosa. Stseeni arenedes muudab mees oma asendit, justkui valmistudes püsti tõusma või midagi oma jalgadel kohendades, ning hakkab seejärel voodist eemalduma, käsi ulatumas alla oma küljele või voodi poole. Voodi on sassis linade ja tekkidega, andes aimu, et mees on just ärganud või puhkab.",
+      "actions": [
+        "Istumine",
+        "Allavaatamine",
+        "Mõtisklemine",
+        "Asendi muutmine",
+        "Riideid kohendamine",
+        "Püsti tõusmise alustamine",
+        "Liikumine voodist eemale"
+      ],
+      "keywords": [
+        "Mees",
+        "Magamistuba",
+        "Voodi",
+        "Öökapp",
+        "Päikesepaiste",
+        "Mõtlik",
+        "Sassis voodi",
+        "Hommik",
+        "Üksindus",
+        "Toas"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Voodi",
+        "Padi",
+        "Tekid",
+        "Linad",
+        "Öökapp",
+        "Sahtlid",
+        "Raamatud",
+        "Dekoratiivne ese",
+        "Tapeet",
+        "Aken (kaudselt valgusest)"
+      ],
+      "colorcodes": [
+        "#E0DCD4",
+        "#F1DD54",
+        "#57583F",
+        "#94AAC7",
+        "#6D472C",
+        "#E8E3DC",
+        "#B9A896",
+        "#E0E0D5"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe asend ja tegevus muutuvad: esimeses kaadris istub ta mõtlikult, teises alustab liigutust ja kolmandas on juba voodist eemaldumas.",
+        "Kaamera nurk ja kaugus muutuvad: alguses on näha laiemalt meest ja tuba, kolmandas kaadris on detailsem lähiplaan mehe alakehast ja käest."
+      ],
+      "snr": "060",
+      "ajad": [
+        "657.000",
+        "675.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat meest, kes on astumas välja pimedast, vanast puitmajast, mille uksed ja uksepiidad on kulunud punakaspruuni värviga ja näitavad aastatepikkust ilmastikumõju. Mees kannab valget linasärki kollase T-särgi peal ja tal on sassis hallid juuksed ning kuldne kõrvarõngas ühes kõrvas. Ta liigub varjust valgusesse, alustades sügavamalt hoone sisemusest, kus on näha vaid tumedust ja ebamääraseid esemeid nagu riiul või padjad, ning lõpetades toetudes parema käega heleda, kulunud puitlaudisest välisseinale. Tema pilk ja kehahoiak muutuvad pildiseeria jooksul mõtlikust ja sissepoole pööratud olekust tähelepanelikumaks ja väljapoole vaatavaks, justkui hingaks ta sügavalt sisse värsket õhku või vaataks ringi. Üldine meeleolu viitab maaelule ja ajatusele, kus materjalid on looduslikud ja ilmastikust kulunud.",
+      "actions": [
+        "Mees astub uksest välja",
+        "Mees toetub uksepiidale",
+        "Mees hingab sügavalt",
+        "Mees vaatab ümbrust",
+        "Mees ilmub varjust valgusesse"
+      ],
+      "keywords": [
+        "Eakas mees",
+        "Puidust uks",
+        "Maaelu",
+        "Vananenud puit",
+        "Päikesepaiste",
+        "Ukselävi",
+        "Portree",
+        "Linane särk",
+        "Kulunud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Puidust uks",
+        "Uksepiit",
+        "Vananenud puitlaudis (välissein)",
+        "Valge linasärk",
+        "Kollane T-särk",
+        "Kuldne kõrvarõngas",
+        "Sassis juuksed",
+        "Varjud",
+        "Tume siseruum",
+        "Riiul või mööbel (tagaplaanil)",
+        "Padi või tekstiil (tagaplaanil)"
+      ],
+      "colorcodes": [
+        "#733c30",
+        "#d6af42",
+        "#e0e0e0",
+        "#a3815c",
+        "#1a1a1a"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt näitab vaid punakaspruuni kulunud puitukse detaili, ilma inimeseta, rõhutades ukse tekstuuri ja vanust.",
+        "Teine pilt kujutab meest ukseavas, kus ta on osaliselt varjus, ilmudes tumedast interjöörist. Tema nägu on alla vaatav ja mõtlik, ta pole veel täielikult valguses.",
+        "Kolmas pilt näitab meest valguses täies ulatuses, ta on astunud edasi ja toetub uksepiidale. Tema juuksed on sassis, kõrvarõngas on selgelt näha ja ta vaatab otse ette või väljapoole, omandades elavama ja teadlikuma ilme.",
+        "Valguse ja varjude suhe muutub progressiivselt kaadrite vahel, illustreerides mehe liikumist pimedusest valgusesse ning tuues esile tema välimuse detailid.",
+        "Mehe näoilme ja kehahoiak muutuvad avatumaks ja teadlikumaks, peegeldades tema üleminekut siseruumist väljapoole."
+      ],
+      "snr": "061",
+      "ajad": [
+        "675.120",
+        "682.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest õues rohelise muruplatsi taustal. Üks mees on kaamera poole seljaga, nähtav on tema hall, lokkis juustega pea ja parem õlg. Tema vastas seisab teine mees, kes on kiilakas, lühikese halli habemega ja kannab tumedaid päikeseprille. Tema seljas on pruun jakk ja must T-särk, paremal kõrva juures paistab väike must juhe (tõenäoliselt peakomplektist või kuuldeaparaadist). Meeste selja taga on avar roheline muruplats, mille taga jookseb puidust aed. Aia taga on näha puid ja põõsaid, mis viitavad metsatukale või haljasalale. Paremal kaugemal asub läbipaistvast materjalist kasvuhoone. Maapinnal, vasakul mehe selja taga on näha paar heledat lapikut objekti. Valgus on ere ja selge, mis viitab päikesepaistelisele päevale. Stseeni üldine toon on rahulik ja jutlev, kolmandal pildil kiilakas mees isegi naeratab.",
+      "actions": [
+        "Suhtlemine",
+        "Rääkimine",
+        "Naeratamine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Vestlus",
+        "Mehed",
+        "Väljas",
+        "Maaelu",
+        "Kasvuhoone",
+        "Päikeseprillid",
+        "Aed",
+        "Kevad",
+        "Suvi",
+        "Muru",
+        "Rahulik",
+        "Naeratus",
+        "Talupidamine",
+        "Portree"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Muruplats",
+        "Puuoksad",
+        "Puidust aed",
+        "Kasvuhoone",
+        "Päikeseprillid",
+        "Jakk",
+        "T-särk",
+        "Kõrvaklapp/kuular",
+        "Plaadid maapinnal"
+      ],
+      "colorcodes": [
+        "#4F8C2A",
+        "#A5CAD7",
+        "#5E4A35",
+        "#9E9E9E",
+        "#E0E0E0",
+        "#A8876F",
+        "#1E1E1E"
+      ],
+      "texts": [
+        "Forget about yesterday.",
+        "Everything's cleared."
+      ],
+      "persons": [
+        "Mees (hallide lokkis juustega, seljaga)",
+        "Mees (kiilakas, habemega, päikeseprillidega, näoga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on kiilaka mehe näoilme neutraalne, ta vaatab otse ja suu on veidi avatud, justkui alustaks rääkimist.",
+        "Teisel pildil on samale stseenile lisatud subtiitrid 'Forget about yesterday. Everything's cleared.' Kiilaka mehe näoilme on sarnane esimesele pildile, suu on endiselt veidi avatud, mis viitab kõnelemisele.",
+        "Kolmandal pildil puuduvad subtiitrid. Kiilakas mees naeratab, huuled on suletud ja suunurgad on ülespoole pööratud, andes edasi positiivse või rahuloleva emotsiooni."
+      ],
+      "snr": "062",
+      "ajad": [
+        "682.640",
+        "686.840"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud keskealine või vanem mees, kellel on hallikas-blondid sassis juuksed ja lühike habemetüügas näo alumisel osal. Ta seisab poolenisti tumedast puidust ukseavas, toetades oma paremat kätt uksepiidale ja vasakut kätt samuti kaadri vasakusse serva jäävale ukseosale. Mees kannab pikavarrukalist heledat, tõenäoliselt linast või puuvillast särki, millel on eest nööpidega avanev kaelus. Selle särgi all paistab kollane T-särk. Tema vasakus kõrvas on näha hõbedane rõngaskõrvarõngas. Mehe pilk on suunatud alla ja paremale ning tema näoilme viitab segadusele, tüdimusele või kergele ärritusele, suu on kergelt avatud, justkui räägiks ta parajasti või hingaks sisse. Eespoolt ja vasakult langev ere valgus loob tugevad kontrastid, valgustades esile tema juukseid ja näojooneid, samas kui taust ukseavas on suures osas tume ja udune. Üldine meeleolu on pingeline, mida süvendab mehe näoilme ja võimalik dialoog.",
+      "actions": [
+        "Seismine ukseavas",
+        "Vaatamine alla ja paremale",
+        "Toetumine uksepiidale",
+        "Rääkimine"
+      ],
+      "keywords": [
+        "Mees",
+        "Ukseava",
+        "Emotsioon",
+        "Murelik",
+        "Päikseline",
+        "Portree",
+        "Subtiitrid",
+        "Väsinud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Mees",
+        "Valge särk",
+        "Kollane T-särk",
+        "Hõbedane kõrvarõngas",
+        "Puidust uksepiit"
+      ],
+      "colorcodes": [
+        "#E0E0E0",
+        "#D9A02A",
+        "#6F4A2C",
+        "#B0B0B0",
+        "#C2967F",
+        "#302E2A"
+      ],
+      "texts": [
+        "- Have you finally lost it?"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Ainult teisel pildil on näha subtiitrid \"- Have you finally lost it?\".",
+        "Mehe suu asend ja näoilme on piltidel veidi erinev, viidates pidevale liikumisele ja rääkimisele.",
+        "Teisel pildil on näha ka subtiitrite riba all vasakul, mida teistel piltidel ei ole."
+      ],
+      "snr": "063",
+      "ajad": [
+        "686.840",
+        "690.280"
+      ]
+    },
+    {
+      "explanation": "Stseenis on keskealine mees, kes paikneb välitingimustes, rohelise muruga kaetud aias. Mehel on lühikesed hallid juuksed ja lühike hallikas-pruun habe ning vuntsid. Ta kannab tumepruuni või tumehalli jopet, mille all on tume särk. Stseeni alguses on mehel peas päikeseprillid ning parema kõrva küljest ripub hele kõrvaklapi juhe. Hiljem on päikeseprillid eemaldatud, paljastades tema silmad. Mees räägib, tema suu on avatud ja näoilme on sõbralik, kergelt naeratav. Ta vaatab pildilt vasakule, justkui räägiks kellelegi kaadri taga. Taustal on näha puitlippidest tara ja kaugemal paremal pool heleda raamiga läbipaistev kasvuhoone. Taevas on helesinine ja päikeseline. Üldmulje on kevadine või suvine päev.",
+      "actions": [
+        "Mees räägib",
+        "Mees naeratab",
+        "Kõrvaklapi juhe ripub kõrva küljest",
+        "Päikeseprillid eemaldatakse"
+      ],
+      "keywords": [
+        "Mees",
+        "Õues",
+        "Rääkiv",
+        "Habe",
+        "Hallid juuksed",
+        "Päikeseprillid",
+        "Kõrvaklapp",
+        "Jope",
+        "Roheline muru",
+        "Aed",
+        "Kasvuhoone",
+        "Tara",
+        "Päikeseline",
+        "Kevadine",
+        "Suvine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Päikeseprillid",
+        "Kõrvaklapi juhe",
+        "Jope",
+        "Särk",
+        "Muru",
+        "Aed (tara)",
+        "Kasvuhoone"
+      ],
+      "colorcodes": [
+        "#5A4B3A",
+        "#D8C1AE",
+        "#C8CACB",
+        "#60803A",
+        "#E0DEDC",
+        "#909090",
+        "#E8E8E8"
+      ],
+      "texts": [
+        "We had a chat yesterday.",
+        "Next time around,",
+        "he'll bring the grandchildren."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on mehel päikeseprillid ees, järgmistel piltidel on need eemaldatud, paljastades tema silmad.",
+        "Teksti subtiitrid muutuvad piltide vahel, peegeldades erinevaid lauseosi.",
+        "Mehe suu asend ja näoilme muutuvad rääkimise käigus."
+      ],
+      "snr": "064",
+      "ajad": [
+        "690.280",
+        "709.800"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine või vanem mees, kes toetub puitkonstruktsiooni, ilmselt uksepiida või posti vastu, vaadates kaadrist välja paremale. Tal on seljas valge avarama lõikega pikkade varrukatega särk, mille all paistab kollane T-särk. Mehe juuksed on hallikad-blondid, lühemad külgedelt ja pikemad pealael, veidi sassis. Vasakus kõrvas on tal rõngaskõrvarõngas. Tema ilme on mõtlik või veidi murelik. Ta on valgustatud naturaalse, ere valgusega, mis viitab välitingimustest tulevale päikesevalgusele, samas kui taust tema taga on tume, andes sügavuse efekti. Üldine atmosfäär on rahulik ja kontemplatiivne.",
+      "actions": [
+        "Toetub vastu puitkonstruktsiooni",
+        "Vaatab kaadrist välja"
+      ],
+      "keywords": [
+        "Mees",
+        "Mõtlik",
+        "Kollane särk",
+        "Valge särk",
+        "Puit",
+        "Ukseava",
+        "Kõrvarõngas",
+        "Halli juuksed"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Valge särk",
+        "Kollane T-särk",
+        "Puidust uksepiit",
+        "Puidust sein",
+        "Kõrvarõngas"
+      ],
+      "colorcodes": [
+        "#E0E0E0",
+        "#FBC02D",
+        "#8D6E63",
+        "#3E2723"
+      ],
+      "texts": [
+        "Next time around, he'll bring the grandchildren."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on ingliskeelsed subtiitrid, mis puuduvad teistel piltidel.",
+        "Mehe näoilme ja pilgu suund on piltidel väga pisut erinev, viidates väikesele liikumisele või kaadrite erinevusele videos, näiteks teisel ja kolmandal pildil on tema suu ja lõualuu pisut rohkem lõdvestunud kui esimesel."
+      ],
+      "snr": "065",
+      "ajad": [
+        "709.800",
+        "714.880"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud kahte meest õues, kevadises maapiirkonna või taluhoovi miljöös. Kaamera on paigutatud ühe mehe selja taha, näidates teda õlgadest ülespoole, vaadates teise mehe poole. Teine mees, kes on suunaga kaamera poole, on keskkaadris, näoilmega suunatud vestluskaaslase poole. Ta on habemega ja lühikeste hallide juustega, kandes pruuni jopet musta T-särgi peal, millel on näha Fairtrade'i logo. Mees naeratab kergelt ja on ilmselt vestluses osaline. Ta pilk on suunatud alla, paistab, et ta vaatleb midagi. Tagaplaanil on roheline muruplats, puidust aed ja puud, mis on alles lehtedeta, viidates varakevadele. Paremal pool on näha valge klaasist kasvuhoone. Üldine atmosfäär on rahulik ja sõbralik. Ühel hetkel hoiab kaamera poole pööratud mees käes väikest heledat eset, uurides seda.",
+      "actions": [
+        "Mees vaatab vestluskaaslase poole",
+        "Mees naeratab kergelt",
+        "Mees hoiab käes väikest eset",
+        "Mees vaatleb eset",
+        "Mehed vestlevad (implitsiitselt)"
+      ],
+      "keywords": [
+        "Vestlus",
+        "Maaelu",
+        "Kevad",
+        "Väljas",
+        "Portree",
+        "Sõbralik",
+        "Rahulik",
+        "Aiandushone",
+        "Taluhoov",
+        "Fairtrade"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees (seljaga)",
+        "Mees (näoga kaamera poole)",
+        "Pruun jope",
+        "Must T-särk",
+        "Fairtrade'i logo",
+        "Roheline muru",
+        "Puidust aed",
+        "Lehetud puud",
+        "Valge kasvuhoone",
+        "Väike hele ese"
+      ],
+      "colorcodes": [
+        "#613c1f",
+        "#1e1e1e",
+        "#4a82b9",
+        "#5a882a",
+        "#c6c6c6",
+        "#dee5e4"
+      ],
+      "texts": [
+        "Fairtrade'i logo (sinise ja rohelise värviga, inimfiguuri ja lehe kujutisega)"
+      ],
+      "persons": [
+        "Mees (seljaga kaamera poole)",
+        "Mees (näoga kaamera poole)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Teisel pildil hoiab kaamera poole pööratud mees käes väikest heledat eset.",
+        "Teisel pildil on mehe pilk suunatud rohkem alla, uurides eset.",
+        "Teisel pildil on mehe suunurgad pisut rohkem allapoole, naeratus on vaoshoitum."
+      ],
+      "snr": "066",
+      "ajad": [
+        "714.880",
+        "718.760"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset maapiirkonnas, kus keskmes on vana, ilmastikust kulunud puidust majake ehk onn, millel on punakaspruunid lauad ja valged aknaraamid. Ümberringi on rohelised põllud hõredate puudega ja taevas on helesinine, osaliselt pilves. Stseenis on kaks meest: üks neist on kiilas, habemega ja kannab pruuni jakki, hoides käes prille. Teisel mehel on sassis hallid juuksed ning ta kannab valget särki, mille all paistab sageli kollane T-särk, ja heledaid pruune pükse. Nende tegevused ja suhtlus varieeruvad: näeme neid sõbralikult rääkimas avatud ukseavas, valges särgis meest seismas ukseavas või mõtisklevalt uksepakul istumas. Lähikonnas rohelisel murul näeme ka tumepruuni lammast rahulikult rohtu söömas, mis rõhutab maaelu rahulikku ja idüllilist atmosfääri. Looduslik valgus ja rohelus viitavad kevadele või varasuvelisele päevale.",
+      "actions": [
+        "Rääkimine",
+        "Seismine",
+        "Vaatamine",
+        "Istumine",
+        "Toetumine",
+        "Söömine (lammas)"
+      ],
+      "keywords": [
+        "Maaelu",
+        "Maamaja",
+        "Vana maja",
+        "Sõprus",
+        "Lammas",
+        "Loodus",
+        "Kevad",
+        "Vaikus",
+        "Päevaelu"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Puidust maja",
+        "Aknad",
+        "Uks",
+        "Ukselävi",
+        "Prillid",
+        "Roheline muru",
+        "Põld",
+        "Puud",
+        "Lammas",
+        "Aiapost",
+        "Katus"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#F5F5DC",
+        "#FFD700",
+        "#BDB76B",
+        "#4CAF50",
+        "#87CEEB",
+        "#2F170D"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees pruunis jakis",
+        "Mees valges särgis"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Ühel pildil on näha kahte meest suhtlemas, teistel piltidel on näha vaid ühte meest.",
+        "Valges särgis mehe tegevus ja poos muutuvad: ta seisab ukseavas ja vestleb, seisab ukseavas ja vaatab otse ette ning istub uksepakul ja vaatab lammast.",
+        "Kaameranurk ja kaadri suurus varieeruvad, alates kesklähedasest võttest kuni laia plaanini, mis näitab rohkem ümbrust.",
+        "Lammas on nähtav mitmel pildil taustal, kuid mitte kõikidel kaadritel.",
+        "Valge särgi all olev kollane T-särk on mõnel pildil selgelt nähtav, teisel mitte."
+      ],
+      "snr": "067",
+      "ajad": [
+        "718.760",
+        "758.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest maalilisel maateel päikeselisel päeval. Mees, kellel on habe, istub või liigub mööda kruusateed. Tal on seljas heledam ruuduline või triibuline särk ja selle peal khakiroheline või hallikas mantel. Tema näol on märgata kergeid vigastusi või mustust, eriti parema silma kohal. Mehe näoilme on veidi väsinud, kuid samas on huultel kerge muie või irve. Ta vaatab otse ette või kergelt vaataja poole. Ümbruskonnas on avarad rohelised põllud ja kauguses paistab puude rivi. Taevas on selge ja helesinine, kohati tumedam sinine, kohati heledam. Päike paistab eredalt, valgustades stseeni. Üldine meeleolu on segane – lootusrikas tänu päikesepaistele ja avarusele, kuid samas on mehe olekus tunda pinget või raskust.",
+      "actions": [
+        "Mees vaatab ette",
+        "Mees naeratab kergelt",
+        "Mees liigub mööda teed"
+      ],
+      "keywords": [
+        "Maatee",
+        "Põld",
+        "Mees",
+        "Naeratus",
+        "Õues",
+        "Päikesepaiste",
+        "Kevad",
+        "Maastik",
+        "Mantel",
+        "Habe",
+        "Selge taevas"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Kruusatee",
+        "Põld",
+        "Puud",
+        "Mantel",
+        "Särk",
+        "Habe",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#8EB8E8",
+        "#B9D2EF",
+        "#6D8A41",
+        "#B6A280",
+        "#7A806D",
+        "#D8D7B5",
+        "#4E3829"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on detailsem kaader helesinisest taevast, mis annab konteksti järgmistele kaadritele.",
+        "Kahe viimase pildi vahel on mehe näoilmes ja pea asendis väga väike, vaevumärgatav muutus – naeratus on pisut erinev ja pilk ehk marginaalselt suunatum.",
+        "Pildid 2 ja 3 on sisuliselt identsed, kuid peegeldavad pidevat liikumist või hetkelisi emotsioonimuutusi."
+      ],
+      "snr": "068",
+      "ajad": [
+        "758.400",
+        "776.360"
+      ]
+    }
+  ]
+}

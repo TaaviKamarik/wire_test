@@ -1,0 +1,3306 @@
+{
+  "film": [
+    "11567",
+    "11558",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Pjotr, 68",
+    "90b8651524ee5505b002a429725d79918e369e18.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täielikult musta ekraaniga, mis seejärel elavneb lühikeseks hetkeks, kui mustal taustal ilmub paremasse alanurka valge tekstlogo. Logo koosneb suurest, rasvasest lühendist \"BFM\", mille all on väiksemas kirjas \"Baltic Film and Media School\". Pärast lühikest ekraanil viibimist kaob tekst uuesti ning stseen lõpeb taas täielikult musta ekraaniga, mis annab edasi sujuva sisse- ja väljajuhtimise efekti. Kogu stseen on minimalistlik ja professionaalne, keskendudes brändi identiteedile.",
+      "actions": [
+        "Teksti ilmumine",
+        "Teksti kadumine",
+        "Ekraani mustaks minemine/tulek"
+      ],
+      "keywords": [
+        "Tiitrid",
+        "Logo",
+        "Must taust",
+        "Kool",
+        "Film",
+        "Meedia",
+        "Haridus",
+        "Intro",
+        "Välja",
+        "Must",
+        "Valge",
+        "Tekst"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Puuduvad"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "BFM",
+        "Baltic Film and Media School"
+      ],
+      "persons": [
+        "Puuduvad"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "98",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel ja viimasel pildil on ekraan täielikult must.",
+        "Keskmisel pildil ilmub mustale taustale valge tekst \"BFM\" ja \"Baltic Film and Media School\" paremasse alanurka."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "6.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat inimest, tõenäoliselt meest, madalast vaatenurgast ülespoole vaatamas. Inimene kannab seljas tumedat varrukateta pluusi punase äärisega. Tema pea on tugevalt kuklasse kallutatud, rõhutades lõuga ja kaela, pilk on suunatud ülespoole. Taust on äärmiselt ere, koosnedes vertikaalsetest heledatest aladest, mis viitavad akendele või eredalt valgustatud seintele, ning tumedamatest raamidest või seinadetailidest. See loob pildile kõrge kontrasti ja tausta ülevalgustatuse. Stseeni esimeses osas on inimene teravalt fookuses, pakkudes selget vaadet tema näole ja kehahoiakule. Järgmised hetked näitavad stseeni järkjärgulist hägustumist ja fookuse kadu, kus inimene muutub järjest ebamäärasemaks ja sulandub taustaga kokku, kuni ta peaaegu täielikult kaob, jättes alles vaid abstraktsed vertikaalsed värvilaigud. Üldine meeleolu viitab liikumisele, venitusharjutusele või sügavale mõtisklusele. Valgus on ere ja loomulik, viitades päevasele ajale siseruumides.",
+      "actions": [
+        "Üles vaatamine",
+        "Pea kuklasse kallutamine",
+        "Venitamine"
+      ],
+      "keywords": [
+        "Portree",
+        "Eakas inimene",
+        "Üles vaatamine",
+        "Ere taust",
+        "Venitamine",
+        "Siseinterjöör",
+        "Kõrge kontrast",
+        "Udu",
+        "Liikumine",
+        "Vananemine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Särk",
+        "Aken (implied)",
+        "Sein (implied)"
+      ],
+      "colorcodes": [
+        "#3F4247",
+        "#D03F64",
+        "#B29184",
+        "#FFFFFF",
+        "#527A9B",
+        "#BBA99C"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakas inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide fookus ja teravus muutuvad drastiliselt: esimene pilt on terav, teine hägune ja kolmas peaaegu täiesti udune, kus subjekt on kaotanud oma kuju.",
+        "Inimese nähtavus väheneb märgatavalt: esimesel pildil on inimene selgelt nähtav, teisel muutub ta ebamääraseks kujuks ja kolmandal kaob peaaegu täielikult, sulandudes taustaga kokku.",
+        "Kompositsioon muutub, kus subjekt taandub fookusest ja tausta elemendid (kuigi hägusad) hakkavad domineerima pildi hilisemates osades.",
+        "Vertikaalsed tausta elemendid on esimesel pildil selgemini eristatavad, muutudes järgmistes piltides üha hägusamaks ja abstraktsemaks."
+      ],
+      "snr": "002",
+      "ajad": [
+        "6.680",
+        "19.840"
+      ]
+    },
+    {
+      "explanation": "Stseen on peaaegu täielikult must. Paremas alanurgas on valge tekst \"Peter, 68\", mis on kirjutatud serif-fondis. Pildil on näha ainult must taust ja nimetatud tekst, mis viitab tegelase tutvustusele või subtiitrile filmis või dokumentaalis.",
+      "actions": [
+        "Tekst ilmub ekraanile",
+        "Tegelase nimi ja vanus kuvatakse"
+      ],
+      "keywords": [
+        "must ekraan",
+        "tekst",
+        "nimi",
+        "vanus",
+        "subtiiter",
+        "tutvustus",
+        "film",
+        "dokumentaal"
+      ],
+      "shot_type": "textbackground",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#D2D2D2"
+      ],
+      "texts": [
+        "Peter, 68"
+      ],
+      "persons": [
+        "Peter"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "98",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Tekst \"Peter, 68\" on esimesel pildil heledam valge (#FFFFFF), teisel pildil aga pisut tumedam/hallikam valge (#D2D2D2)."
+      ],
+      "snr": "003",
+      "ajad": [
+        "19.840",
+        "25.520"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõtet tumedast retrostiilis Panasonicu raadio-kassettmakist, mis asetseb puitmööblil. Seade on valgustatud nii, et selle detailid on selgelt näha. Raadio ülemises osas on näha raadiosageduste skaala ja keskel kasseti sisestusava koos nuppudega. Taustal, mis on kergelt fookusest väljas, on näha raamatuid, mis viitab sellele, et tegevus toimub siseruumides, tõenäoliselt raamatukogus või elutoas. Puitmööblil on näha dekoratiivseid metallist käepidemeid või ornamente. Valgus on pigem hämar, luues hubase õhustiku.",
+      "actions": [],
+      "keywords": [
+        "Panasonic",
+        "raadio",
+        "kassettmakk",
+        "boombox",
+        "retro",
+        "vintage",
+        "elektroonika",
+        "muusika",
+        "siseruum",
+        "puitmööbel",
+        "raamatud"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Panasonicu raadio-kassettmakk",
+        "kõlarid",
+        "raadiosageduste skaala",
+        "kasseti ava",
+        "nupud",
+        "puitkapp",
+        "raamatud",
+        "toitejuhe",
+        "dekoratiivsed käepidemed"
+      ],
+      "colorcodes": [
+        "#343434",
+        "#181818",
+        "#71523E",
+        "#40352A"
+      ],
+      "texts": [
+        "Panasonic",
+        "SOFT EJECT/CUE & REVIEW CONTROL",
+        "FULL AUTO STOP",
+        "AUTOMATIC LEVEL CONTROL",
+        "AG BUILT-IN",
+        "DIRECTION",
+        "88 92 96 100 104 108 MHz",
+        "530 600 700 800 1000 1300 1600 kHz"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "004",
+      "ajad": [
+        "25.520",
+        "29.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast eakat meest toas treenimas. Mees on keskealine või vanem, hallide juustega, seljas sinine varrukateta pluus punase ja halli kraeäärega. Ta teeb harjutusi hantlitega, tõstes ja langetades neid. Tema näol on näha keskendumist ja pingutust. Tuba tundub olevat elutuba või magamistuba, mille tagaseinas ripub suur, punase tooniga pärsia stiilis vaip, millel on keerulised ornamendid musta, valge ja kuldsega. Vaibal on ka näha dekoratiivne valgusti. Vasakul pool on näha tumedast puidust riidekapp. Üldine õhkkond on rahulik, kuid mehe pingutus annab stseenile energilise alatooni, pakkudes samas kodust ja tuttavat keskkonda.",
+      "actions": [
+        "Treenimine hantlitega",
+        "Hantlite tõstmine",
+        "Hantlite langetamine",
+        "Keskendumine",
+        "Pingutamine"
+      ],
+      "keywords": [
+        "Treening",
+        "Hantlid",
+        "Eakas mees",
+        "Toas",
+        "Vaip",
+        "Värviline",
+        "Jõuharjutus",
+        "Pärsia vaip",
+        "Kapp",
+        "Elutuba",
+        "Kodus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Hantlid",
+        "Vaip",
+        "Riidekapp",
+        "Valgusti",
+        "Pluus"
+      ],
+      "colorcodes": [
+        "#475a89",
+        "#b23a3b",
+        "#8a8a8a",
+        "#000000",
+        "#741718",
+        "#1c0e0f",
+        "#e0d0b0",
+        "#a48130",
+        "#36221c"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe käte asend: esimesel pildil on hantlid üles tõstetud, teistel piltidel on need langetatud või langetamise faasis.",
+        "Hantlid: esimesel pildil on hantlid selgelt näha mehe kätes tõstetud asendis, teistel piltidel on need kas langetatud või osaliselt kaadrist väljas.",
+        "Mehe näoilme: esimesel pildil on näoilme pingestatum, teistel piltidel on see veidi lõdvestunum või süvenenum.",
+        "Kaamera fookus/nurk: teisel ja kolmandal pildil on kaamera veidi allapoole suunatud ja mees on kaadris madalamal, samuti on kaader veidi lähemale suumitud, mis toob esile valgusti vaibal."
+      ],
+      "snr": "005",
+      "ajad": [
+        "29.800",
+        "36.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumides vanemat meest sooritamas painutusharjutust, täpsemalt esispagaati ehk Hanumanasanat. Mees on paigutatud kaadri keskossa, vaadates vasakule ja kergelt alla, ning tema keha on suunatud kaamera poole vasakult küljelt. Tal on seljas sinine punaste äärtega varrukateta pluus ja punased valgete triipudega lühikesed püksid. Jalas on tal hallid sokid. Tema parem jalg on sirutatud otse ette ja vasak jalg taha, moodustades sirge joone põrandaga. Mõlema jala talla all on väikesed mustad matid, mis tõenäoliselt hõlbustavad libisemist või kaitsevad põrandat. Mehe käed toetuvad põrandale keha ees, aidates tasakaalu hoida ja kehahoiakut toetada. Mees paistab olevat sügavalt keskendunud või pingutamas, kuna ta ei ole veel täielikult põrandale vajunud. Taustal on näha valget seina ja valget radiaatorit. Vasakul pool on tumeda mustriga kardin ja paremal pool on näha osa puidust toolist ja teist samasugust kardinat. Põrand on puidust, heledamates toonides, ja esiplaanil on näha osa punasest joogamatist või vaibast. Valgus on pehme, vihjates siseruumidele.",
+      "actions": [
+        "Sooritab spagaati",
+        "Venitab",
+        "Harjutab",
+        "Keskendub"
+      ],
+      "keywords": [
+        "Spagaat",
+        "Venitus",
+        "Harjutus",
+        "Vanem mees",
+        "Jooga",
+        "Painduvus",
+        "Siseruum",
+        "Sport",
+        "Tervis",
+        "Treening"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Varrukateta pluus",
+        "Lühikesed püksid",
+        "Sokid",
+        "Mustad matid (jalge all)",
+        "Puidust põrand",
+        "Punane matt/vaip",
+        "Valge sein",
+        "Radiaator",
+        "Kardinad",
+        "Puidust tool"
+      ],
+      "colorcodes": [
+        "#476ED6",
+        "#DF2524",
+        "#9E0106",
+        "#8A8B8F",
+        "#C1C2C5",
+        "#C19968",
+        "#FFFFFF",
+        "#3D2928"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pildid on peaaegu identsed, ilma märgatavate erinevusteta poosis, valguses või taustaelementides. Tõenäoliselt on tegemist järjestikuste kaadritega videost, kus liikumine on minimaalne."
+      ],
+      "snr": "006",
+      "ajad": [
+        "36.320",
+        "42.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest siseruumis, kes on hõivatud erinevate tegevustega. Ühel hetkel on ta näha külgvaates, kandes halli punase randiga tanktoppi, kusjuures taust on hele, vihjates kas aknale või tugevale valgusallikale. Mehe nägu on osaliselt näha ja esineb kortse, mis viitavad vanusele. Teistel hetkedel on näha mehe käsi pimedamas valguses, kui ta sirutab käe riiuli või sahtli poole, millel on virnas valgeid riideesemeid. Kolmandas kaadris hoiab mees, kes kannab tumedat t-särki, käes kahte tumedat ristkülikukujulist eset, mis võivad olla mingid tööriistad või seadme osad. Tausta moodustavad puidust seinapaneelid ja punased detailid. Üldmulje on, et inimene sooritab erinevaid koduseid või ettevalmistavaid ülesandeid.",
+      "actions": [
+        "Liikumine/tegutsemine",
+        "Käe sirutamine/esemete haaramine",
+        "Esemete hoidmine"
+      ],
+      "keywords": [
+        "Mees",
+        "Siseruum",
+        "Tegevus",
+        "Riided",
+        "Esemed",
+        "Käed",
+        "Riiul",
+        "Puitpaneel"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Tanktopp",
+        "T-särk",
+        "Ristkülikukujulised esemed",
+        "Valged riideesemed",
+        "Riiul/sahtel",
+        "Puitpaneelid"
+      ],
+      "colorcodes": [
+        "#9E9E9E",
+        "#FF0000",
+        "#2F3337",
+        "#FFFFFF",
+        "#8B4513"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Isiku riietus varieerub (hall tanktopp punase randiga vs. tume t-särk).",
+        "Valgustus on piltide vahel erinev (hele, intensiivne valgus ühel pildil vs. pimedam, siseruumivalgustus teistel).",
+        "Tegevused on erinevad (liikumine/tegutsemine vs. esemete haaramisega tegelemine riiulil vs. esemete hoidmine).",
+        "Taust muutub (hele aknataoline taust vs. tume riiulitega ala vs. puidust paneelidega sein)."
+      ],
+      "snr": "007",
+      "ajad": [
+        "42.240",
+        "49.960"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha inimest siseruumis, kes tegeleb musta värvi esemega, mis meenutab vibu keskmist osa või spetsiaalset tööriista. Inimese käed ja ülakeha on fookuses. Tal on seljas tumehall või tumesinine T-särk ja punased lühikesed püksid, mis paistavad osaliselt kaadrite alumises osas. Valgusallikas paistab olevat aken, mis on näha tagaplaanil vasakul pool, pakkudes ruumi loomulikku päevavalgust. Inimene hoiab ja manipuleerib musta esemega, paigutades või kinnitades sellele midagi, nagu on näha erinevatel kaadritel, kus tema käed on hõivatud objekti kokkupanemise või reguleerimisega. Teises kaadris on selgelt näha, kuidas ta kinnitab eseme külge rihma või muud väiksemat osa. Pildiseeria annab edasi tegevuse, kus midagi ehitatakse, reguleeritakse või ette valmistatakse.",
+      "actions": [
+        "Musta eseme hoidmine",
+        "Eseme kokkupanek",
+        "Eseme reguleerimine",
+        "Eseme külge millegi kinnitamine",
+        "Tööriista või seadme käsitlemine"
+      ],
+      "keywords": [
+        "käsitöö",
+        "montaaž",
+        "tööriist",
+        "siseruum",
+        "aken",
+        "valgus",
+        "vibu",
+        "detailid",
+        "reguleerimine",
+        "ettevalmistus",
+        "inimene"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "inimene",
+        "must ese",
+        "käed",
+        "tume särk",
+        "punased lühikesed püksid",
+        "aken",
+        "aknalaud",
+        "sein",
+        "rihm/nöör"
+      ],
+      "colorcodes": [
+        "#3D4459",
+        "#DB2A3D",
+        "#242424",
+        "#E0DED7",
+        "#B48D6C"
+      ],
+      "texts": [],
+      "persons": [
+        "üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Musta eseme asend ja haare muutuvad kaadrite vahel.",
+        "Esimesel pildil hoiab inimene musta eset peamiselt ühe käega.",
+        "Teisel pildil kasutab inimene mõlemat kätt, et esemega manipuleerida, kinnitades sellele rihma või muud väiksemat osa.",
+        "Kolmandal pildil hoitakse eset mõlema käega erinevas asendis, võimalik, et pärast kohandust või uues kokkupanemise etapis. Ese näib olevat kompaktsem või suunatud erinevalt võrreldes esimese kaadriga."
+      ],
+      "snr": "008",
+      "ajad": [
+        "49.960",
+        "54.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest siseruumis treenimas või füüsilist tegevust sooritamas. Pildiseerias on näha mehe jalg, mis on kaetud heleda soki või jalakaitsmega, mille ümber on kinnitatud beežikas rihm. Jalg toetub punasele matile, mis viitab treeningkeskkonnale või spordialale. Samuti on näha mehe ülakeha ja käsi liikumises, seljas on tal tumedat värvi särk punaste detailidega. Mehe nägu on keskendunud ja ta vaatab üles, mis annab edasi pingutust. Taustal paistab ere valgus läbi akna, mis valgustab stseeni ja loob kontrastse silueti. Stseen annab edasi intensiivse ja pühendunud treeningu atmosfääri.",
+      "actions": [
+        "treenimine",
+        "liikumine",
+        "keskendumine",
+        "üles vaatamine"
+      ],
+      "keywords": [
+        "treening",
+        "sport",
+        "keskendumine",
+        "vanem mees",
+        "siseruum",
+        "punane matt",
+        "füüsiline aktiivsus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "jalg",
+        "sokk",
+        "rihm",
+        "punane matt",
+        "treeningriided",
+        "aken"
+      ],
+      "colorcodes": [
+        "#990000",
+        "#FFFFFF",
+        "#D2B48C",
+        "#2F4F4F",
+        "#F5F5DC"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on fookus jalal punasel matil, teisel pildil kehal liikumises ja kolmandal pildil mehe näol ja ülakehal.",
+        "Valgus on erinev: esimene ja teine pilt on pimedamad, kolmas pilt on heledam tänu aknast paistvale valgusele.",
+        "Taustad on erinevad: punane matt, ähmased sisustuselemendid ja ere aken."
+      ],
+      "snr": "009",
+      "ajad": [
+        "54.960",
+        "63.080"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha detailne lähivõte puidust naiskulptuurist, mis kujutab naise pead ja õlavöödet. Skulptuur on paigutatud heleda, vertikaalsete triipude ja lillemustriga tapeediga kaetud seina vastu. Naiskuju nägu on kergelt pööratud vaataja poole, tal on pikad, voolavad juuksed, mis langevad üle õlgade. Tema näoilme on rahulik ja suul on õrn naeratus. Skulptuur on valmistatud puidust ja sellel on soe, naturaalne puidutoon, mis annab edasi orgaanilise ja käsitööna valminud tunde. Taustal olev tapeet on beežides ja pruunides toonides, kus on kujutatud lillekimpude mustreid, luues tagasihoidliku, kuid samas dekoratiivse tausta. Valgus on ühtlane, viitades siseruumile.",
+      "actions": [],
+      "keywords": [
+        "Puidust skulptuur",
+        "Naiskuju",
+        "Käsitöö",
+        "Kunst",
+        "Tapeet",
+        "Lillemuster",
+        "Siseruum",
+        "Dekoratsioon",
+        "Puit",
+        "Portree"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Puidust skulptuur",
+        "Sein",
+        "Tapeet"
+      ],
+      "colorcodes": [
+        "#8B5F42",
+        "#A67C5F",
+        "#C79A7D",
+        "#E8E5DF",
+        "#F0EDE5",
+        "#9B8C7B",
+        "#7C6E5C"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahelisi erinevusi ei ole."
+      ],
+      "snr": "010",
+      "ajad": [
+        "63.080",
+        "65.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast siseruumi, tõenäoliselt elutuba või magamistuba, kus vanem mees teeb kodus trenni. Mees sooritab kükke, hoides kummaski käes musta hantlit. Ta kannab sinist varrukateta pluusi punase äärisega ja punaseid lühikesi pükse. Ruumi sisustus on tagasihoidlik ja veidi vanamoodne. Vasakul on näha heledat värvi vana kineskooptelerit, mis asetseb puidust riiulil või kapil. Teleri taga ja vasakul on tume puidust riidekapp. Stseeni domineerivaks taustaelemendiks on suur, punast värvi idamaise mustriga vaip, mis on riputatud seinale või katab mööblit. Paremal pool on näha heledat ust. Mehe liigutused näitavad kükiharjutuse erinevaid faase: keskmisest kükist, kus käed on kõverdatud ja hantlid põlvede lähedal, sügavama kükini, kus käed on rohkem alla sirutatud, kuni lõpuks püstiasendini, kus käed hantlitega ripuvad vabalt keha kõrval. Mehe näoilme on kogu harjutuse vältel keskendunud.",
+      "actions": [
+        "Mees teeb kükke",
+        "Mees hoiab hantleid",
+        "Mees seisab püsti",
+        "Mees kükitab"
+      ],
+      "keywords": [
+        "Kodu treening",
+        "Hantlid",
+        "Vanem mees",
+        "Siseruum",
+        "Kükid",
+        "Sport",
+        "Vaip",
+        "Vana teler"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Hantlid",
+        "Särgisärkk",
+        "Lühikesed püksid",
+        "Kineskoopteler",
+        "Puidust riiul/kapp",
+        "Riidekapp",
+        "Idamaine vaip",
+        "Uks"
+      ],
+      "colorcodes": [
+        "#31446C",
+        "#C42125",
+        "#7B0C0E",
+        "#50311D",
+        "#C8C9CA",
+        "#1F1F1F",
+        "#F3EFE9"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe kehahoid ja jalgade painutus muutuvad, näidates kükiharjutuse erinevaid faase: piltidel on jäädvustatud liikumine keskmisest kükist, sügavamasse kükki ja lõpuks püstiasendisse.",
+        "Hantlite asend ja käte nurk muutuvad vastavalt kükiprogressioonile."
+      ],
+      "snr": "011",
+      "ajad": [
+        "65.560",
+        "70.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest, kes liigub siseruumis. Mees kannab tumesinist varrukateta spordisärki, millel on rinna- ja õlaosas valge ja punane triip. Tal on heledad, peaaegu hallid juuksed ja ta vaatab enamasti alla või ette. Ruumi tagaplaanil on näha puidust kappe ja raamaturiiuleid täis raamatuid, mis viitab kodusele elutoale või õpperuumile. Ühes kaadris on näha ka suurt akent, millest paistab talvine maastik paljaste puude ja heleda päevavalgusega, viidates aastaajale. Seintel on heledates toonides mustriline tapeet ja ühes nurgas on näha punase mustriga vaipa. Valgus on ere, eriti akna poolt. Stseenis valitseb igapäevane ja rahulik õhkkond.",
+      "actions": [
+        "Liikumine",
+        "Vaatamine alla",
+        "Vaatamine ette"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Mees",
+        "Vanem mees",
+        "Raamaturiiul",
+        "Raamatud",
+        "Kapp",
+        "Aken",
+        "Tapeet",
+        "Vaip",
+        "Spordisärk",
+        "Talv",
+        "Päevavalgus",
+        "Kodu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Spordisärk (sinine, valge, punane)",
+        "Puidust kapid",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Aken",
+        "Mustriline tapeet",
+        "Punase mustriga vaip",
+        "Pildid (seinal)",
+        "Punane tooli seljatugi",
+        "Puud (väljas akna taga)"
+      ],
+      "colorcodes": [
+        "#3C467D",
+        "#FFFFFF",
+        "#BB2A3D",
+        "#B57E61",
+        "#D2D2D2",
+        "#6B4D33",
+        "#EFE4D2",
+        "#802619",
+        "#F1F1F1"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 5,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe kehahoiak ja pilgu suund muutuvad kaadrite vahel, näidates liikumist.",
+        "Tagaplaani detailid erinevad oluliselt: esimeses kaadris on rohkem näha ülemisi kappe ja raamaturiiuleid, samas kui kolmandas kaadris on fookus aknal, mille taga paistab talvine välivaade, ning on näha mustrilist tapeeti ja vaipa.",
+        "Valgustus on kolmandas kaadris akna tõttu märkimisväärselt heledam ja avaram võrreldes kahe esimese kaadriga, mis on üldiselt hämaramad.",
+        "Kaameranurk on esimeses kaadris veidi madalamalt suunatud mehele, samas kui kolmandas on see pigem silmade kõrguselt."
+      ],
+      "snr": "012",
+      "ajad": [
+        "70.960",
+        "75.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast siseruumides toimuvat treeningut, kus inimene sooritab harjutusi punasel treeningmatil. Valge seinaga ruumis on näha puitpõranda servi ja mitmesuguseid esemeid, mis viitavad kodu- või amatöörjõusaalile. Vasakul pool on virnas mitu tumedat hantlit või kuuliga raskust. Tagaplaanil paistavad ka mööbliesemed, nagu laud või riiul, ning paremal pool lauad ja toolid. Esimesel pildil hoiab inimene käes hallikasrohelist sangpommi, olles kummardunud algasendis. Järgnevatel piltidel on inimene sirgunud püstiasendisse, sangpommi enam käes ei hoia. Inimesel on jalas heledad sokid ja seljas punased lühikesed püksid, fookus on peamiselt jalgadel ja alaseljal, mis paistavad olevat treenitud. Üldine atmosfäär on pühendunud ja keskendunud treeningule.",
+      "actions": [
+        "Sangpommi tõstmine/asetamine",
+        "Kummardumine",
+        "Püstiasendisse sirgumine",
+        "Treeningu sooritamine"
+      ],
+      "keywords": [
+        "Treening",
+        "Jõusaal",
+        "Siseruumid",
+        "Sangpomm",
+        "Fitness",
+        "Sport",
+        "Jalgade treening",
+        "Punane matt",
+        "Kettlebell"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Sangpomm",
+        "Treeningmatt",
+        "Sokid",
+        "Lühikesed püksid",
+        "Hantlid",
+        "Mööbel",
+        "Sein",
+        "Puitpõrand"
+      ],
+      "colorcodes": [
+        "#C00000",
+        "#DCDCDC",
+        "#C39F80",
+        "#8A9F8E",
+        "#E0E0E0",
+        "#8B4513"
+      ],
+      "texts": [],
+      "persons": [
+        "Isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on inimene kummardunud ja hoiab käes sangpommi, samas kui teisel ja kolmandal pildil on inimene püstiasendis ja sangpomm puudub."
+      ],
+      "snr": "013",
+      "ajad": [
+        "75.160",
+        "79.560"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha eakas mees, kes treenib siseruumis hantlitega. Ta on pildistatud altvaates, peaga tahapoole kallutatult ja silmad suletud või ülespoole vaatamas, näol on näha pingutus ja higi. Ta kannab halli varrukateta pluusi, millel on punakas äär. Mõlemas käes hoiab ta musti, kahe sfääriga ühendatud hantleid, mis meenutavad kujult kaheksat või maapähklit. Mees on kontsentreeritud ja teeb ilmselt jõuharjutust. Taust on enamasti erevalge, viidates tugevale valgusallikale, tõenäoliselt aknale. Vasakul on näha helepruuni ukse- või seinarami detail ja paremal tume aknaraam.",
+      "actions": [
+        "raskuste tõstmine",
+        "treenimine",
+        "pingutamine",
+        "harjutamine"
+      ],
+      "keywords": [
+        "eakas mees",
+        "treening",
+        "hantlid",
+        "siseruum",
+        "pingutus",
+        "sport",
+        "jõud",
+        "harjutus",
+        "valgus",
+        "aken",
+        "fitness"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "eakas mees",
+        "hantlid",
+        "varrukateta pluus",
+        "aken",
+        "aknaream",
+        "sein/ukseraam"
+      ],
+      "colorcodes": [
+        "#D3D3D3",
+        "#000000",
+        "#F5F5DC",
+        "#8B4513",
+        "#FF0000",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kolmas pilt erineb oluliselt esimesest kahest, kuna sellel on kujutatud ainult erevalget aknatausta ja osa aknaraamist, puudub aga pildi peategelane – treeniv eakas mees.",
+        "Esimesed kaks pilti on praktiliselt identsed, näidates meest raskusi tõstmas täpselt samas asendis ja sama näoilmega. Nende kahe pildi vahel ei ole märkimisväärseid visuaalseid erinevusi."
+      ],
+      "snr": "014",
+      "ajad": [
+        "79.560",
+        "88.280"
+      ]
+    },
+    {
+      "explanation": "Stseenis on esiplaanil detailne lähivaade puidust nikerdatud naise pea ja õlgade skulptuurist. Skulptuur kujutab stiliseeritud naise nägu, millel on suured, ovaalsed silmad, selgelt välja toodud nina ja täidlased huuled. Juuksed on samuti puidust välja nikerdatud, voolavate lokkide ja lehtedega, mis annavad edasi loodusliku või mütoloogilise hõngu, eriti paremal pool, kus juuksed sulanduvad lehestikuks või sarvedeks. Puidu toon on soe pruun, varieerudes heledamatest puiduvärvidest sügavamate varjudeni, mis rõhutavad nikerduse detaile ja tekstuuri. Skulptuur on paigutatud heledasse, beeži või helepruuni tooniga ruumi, mille seina katab korduv lillemustriga tapeet. Valgustus on pehme ja soe, luues intiimse ja veidi müstilise atmosfääri, heites näole õrnu varjusid.",
+      "actions": [],
+      "keywords": [
+        "puidust skulptuur",
+        "naise pea",
+        "nikerdatud",
+        "kunst",
+        "sisekujundus",
+        "käsitöö",
+        "tapeet",
+        "lillemuster",
+        "stiliseeritud",
+        "müstiline"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "puidust skulptuur",
+        "naise pea",
+        "nikerdatud nägu",
+        "nikerdatud juuksed",
+        "silmad",
+        "nina",
+        "huuled",
+        "tapeet",
+        "lillemuster"
+      ],
+      "colorcodes": [
+        "#9a7250",
+        "#725139",
+        "#c5bdb1",
+        "#9d8c7c",
+        "#a89a8c"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad visuaalsed erinevused. Need on identsed kaadrid."
+      ],
+      "snr": "015",
+      "ajad": [
+        "88.280",
+        "90.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest siseruumis sooritamas lõuatõmbeid. Mees on keskealistest vanem, tal on lühikesed hallid juuksed ja ta kannab lillakas-sinist punaste äärtega spordisärki. Ta hoiab kinni hõbedasest lõuatõmbekangist, mis on kinnitatud puidust raami külge ülemises vasakus nurgas. Mees on pingutatud poosis, näoilmes on näha pingutust ja keskendumist, ta vaatab ülespoole kangi suunas. Ta käed on küünarnukkidest kõverdatud, mis viitab lõuatõmbe sooritamisele. Ta on umbes pooleldi üles tõmmatud asendis. Taustal on kollakas-pruuni tooniga mustrilise tapeediga sein. Paremal pool on pikk peegel, mis peegeldab meest ja osa toast. Peegli kohal on puidust riiul, millel on näha paar pudelit ja muid esemeid. Peegelpildis on mehe käed samuti ülestõmmatud asendis. Vasakul pool on seinamaal siniste ja valgete toonidega maastikupildiga. Vasakus ääres paistab kaasa teise inimese lokkis heledaid juukseid, mis viitab teise isiku olemasolule ruumis. Valgus on toas soe ja ühtlane.",
+      "actions": [
+        "Sooritab lõuatõmbeid",
+        "Treeningut tehes pingutab",
+        "Hoiab kinni lõuatõmbekangist"
+      ],
+      "keywords": [
+        "Lõuatõmbed",
+        "Treening",
+        "Vanem mees",
+        "Siseruum",
+        "Jõutreening",
+        "Peegel",
+        "Peegeldus",
+        "Pingutus",
+        "Aktiivne eluviis"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Lõuatõmbekang",
+        "Mees",
+        "Spordisärk",
+        "Tapeet",
+        "Peegel",
+        "Riiul",
+        "Pudelid",
+        "Maal",
+        "Puidust raam",
+        "Juuksed"
+      ],
+      "colorcodes": [
+        "#5A5A8F",
+        "#D4B89D",
+        "#A72A2E",
+        "#BDBDBD",
+        "#8B6C4B"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees",
+        "Võimalik teine inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe pea asend ja näoilme muutuvad veidi kaadrite vahel, mis näitab liikumist ja aktiivset lõuatõmbe sooritamist.",
+        "Käed ja keha asend on kangi suhtes pisut erinev, demonstreerides liikumisfaase.",
+        "Üldine valgustus ja kaamera nurk jäävad kõigis kaadrites samaks."
+      ],
+      "snr": "016",
+      "ajad": [
+        "90.120",
+        "95.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest, kes treenib koduses keskkonnas. Ta seisab ruumi keskel punasel vaibal, jalad harkis ja käed liikumises. Mehel on seljas tumesinine T-särk ja punased lühikesed püksid. Ruum, kus ta treenib, paistab olevat elutuba või spetsiaalselt treenimiseks kohandatud ala. Toa seinu katab heleda põhitooniga tapeet, millel on tumedam muster. Tagaseinal on suured aknad, mis lasevad sisse loomulikku valgust, ja neid ääristavad mustrilised kardinad. Seintel on mitmeid dekoratiivseid esemeid, sealhulgas raamitud pildid ja skulptuurne detail. Vasakul küljel on suur, ornamenteeritud raamiga peegel, mis peegeldab osa toast. Peegli all on tumedast puidust laud, millel seisab metallist jalgadega lamp ja teisi väiksemaid esemeid. Laua lähedal punasel vaibal on näha mitu hantlit. Paremal pool on näha tumeda puitmööbli ja toolidega ala, mis viitab lugemis- või puhkenurgale.",
+      "actions": [
+        "Mees treenib",
+        "Mees liigutab käsi",
+        "Mees tõstab hantleid"
+      ],
+      "keywords": [
+        "Kodu",
+        "Treening",
+        "Vanem mees",
+        "Elutuba",
+        "Hantlid",
+        "Sport",
+        "Punane vaip",
+        "Peegel",
+        "Sisetreening",
+        "Aknad"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "T-särk",
+        "Lühikesed püksid",
+        "Peegel",
+        "Peegliraam",
+        "Tapeet",
+        "Kardinad",
+        "Aknad",
+        "Laud",
+        "Lamp",
+        "Pildid seinal",
+        "Skulptuur seinal",
+        "Hantlid",
+        "Punane vaip",
+        "Toolid",
+        "Raamatukapp/riiulid",
+        "Puitmööbel"
+      ],
+      "colorcodes": [
+        "#A71C22",
+        "#EA2C2B",
+        "#2E3E5C",
+        "#C9C2B7",
+        "#AE8392",
+        "#614B3D",
+        "#BF9C85"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil sooritab mees käteharjutusi ilma hantliteta, käed pea lähedal.",
+        "Teisel pildil hoiab mees mõlemas käes hantlit ja sooritab tõstmisharjutust (tõstes hantleid üles)."
+      ],
+      "snr": "017",
+      "ajad": [
+        "95.440",
+        "98.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumis treenivat inimest, kes sooritab energilisi liigutusi, tõenäoliselt poksiharjutusi või muid kiireid käeliigutusi. Inimene on paigutatud kaadri keskele, valgus paistab eredalt tagant läbi akende, luues silueti efekti. Liigutused on nii kiired, et käed ja osa kehast on kaadrites udused. Inimesel on seljas punase detailiga treeningriietus. Valgus on väga ere, mis annab stseenile kontrasti ja dünaamilisuse.",
+      "actions": [
+        "treening",
+        "poksiharjutus",
+        "käte liigutamine",
+        "füüsiline aktiivsus"
+      ],
+      "keywords": [
+        "treening",
+        "fitness",
+        "siseruum",
+        "tagantvalgus",
+        "siluett",
+        "dünaamiline",
+        "sport",
+        "liikumine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "inimene",
+        "aken",
+        "treeningriietus"
+      ],
+      "colorcodes": [
+        "#F8F8F8",
+        "#6B4E44",
+        "#DB6262",
+        "#5A7E97",
+        "#3C3432"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt näitab, kuidas inimese parem käsi (vaataja vasakul) on pikendatud kaamera suunas, luues tugeva liikumisudu, mis varjab osaliselt nägu.",
+        "Teisel pildil on parem käsi veidi tagasi tõmmatud, mis paljastab rohkem nägu ja annab aimu, et käes hoitakse mingit väikest objekti (võimalik, et telefoni või treeningvahendit). Liikumisudu on endiselt märgatav.",
+        "Kolmandal pildil on käte asend muutunud veelgi, käed on veelgi kaugemal kehast ja liikumisudu on levinud üle kogu ülakeha. Nägu on selgemini näha kui esimesel pildil, kuid liikumise dünaamika on endiselt kaadris."
+      ],
+      "snr": "018",
+      "ajad": [
+        "98.360",
+        "102.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat inimest, tõenäoliselt meest, tegemas siseruumides jõuharjutusi. Kaamera on asetatud madalale, vaatega ülespoole, pakkudes laia nurga alt pilku tuppa. Esimesel pildil on näha vaid inimese pealagi, samal ajal kui järgmistes kaadrites on ta täies ulatuses esile toodud, tõstes kahte tumedat sangpommi pea kohale. Inimene kannab tumedat varrukateta särki ja võimalik, et punaseid pükse. Tuba on heledate seintega, millest üks on kaetud triibulise tapeediga. Laes ripub klassikaline lühter, vasakul seinal on seinalamp ja paremal on suur tume puidust raamaturiiul, mis on täidetud raamatutega. Tegevus näitab liigutuse progressiooni algasendist, kus sangpommid on tõstetud küünarnukkidest kõverdatud kätega pea kohale, kuni täielikult sirutatud kätega lõppasendini.",
+      "actions": [
+        "Jõuharjutuse sooritamine",
+        "Sangpommide tõstmine",
+        "Käte sirutamine",
+        "Treening"
+      ],
+      "keywords": [
+        "Treening",
+        "Jõusaal kodus",
+        "Sangpomm",
+        "Harjutus",
+        "Siseruum",
+        "Mees",
+        "Vanem inimene",
+        "Lühter",
+        "Raamaturiiul",
+        "Madal vaatenurk"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Sangpommid",
+        "Lühter",
+        "Seinalamp",
+        "Raamaturiiul",
+        "Tapeet",
+        "Särk",
+        "Püksid",
+        "Laud (tagaplaanil, osaliselt nähtav)"
+      ],
+      "colorcodes": [
+        "#E9E9E9",
+        "#A07C64",
+        "#4C3326",
+        "#41577A",
+        "#3D3F44",
+        "#E6E0D2",
+        "#D36154"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha vaid inimese pealagi, mis viitab, et ta on madalamas asendis või alustab harjutust.",
+        "Teisel pildil on inimene nähtav vööst ülespoole, hoides sangpomme kõverdatud kätega pea kohal.",
+        "Kolmandal pildil on inimene sirutanud oma käed täielikult pea kohale, viies harjutuse lõpule. Sangpommid on kõige kõrgemas asendis."
+      ],
+      "snr": "019",
+      "ajad": [
+        "102.240",
+        "111.680"
+      ]
+    },
+    {
+      "explanation": "Stseenis näidatakse eakat, aga lihakast meest, kes sooritab oma kodus jõutreeningut, kandes mõlemas käes raskeid sangpomme. Ta kõnnib edasi-tagasi punase vaibaga kaetud toas, mille seinad on kaetud heleda mustrilise tapeediga. Mees kannab sinist punaste äärtega varrukateta pluusi ja punaseid valgete äärtega lühikesi pükse. Toas on näha mitmeid esemeid, mis viitavad vanemale elamistingimusele, sealhulgas vana kineskoopteleriga laud, seinal rippuv idamaine vaip, peegel ja kunstiteos, mis kujutab naise torsot. Põrandal on näha ka teisi sangpomme. Valgus on päevane ja üldine õhkkond viitab hubasele kodusele treeningkeskkonnale.",
+      "actions": [
+        "Kõndimine",
+        "Raskuste kandmine",
+        "Treeningu sooritamine (sangpommi kõnd)",
+        "Harjutamine"
+      ],
+      "keywords": [
+        "Sangpomm",
+        "Treening",
+        "Trenn",
+        "Jõusaal kodus",
+        "Eakas sportlane",
+        "Lihakas",
+        "Päevane aeg",
+        "Siseruum",
+        "Vana mööbel"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Sangpommid",
+        "Punane vaip",
+        "Mustriline tapeet",
+        "Valge uks",
+        "Väike laud",
+        "Kineskoopteler (monitor)",
+        "Laualamp",
+        "Peegel",
+        "Seinal rippuv vaip",
+        "Diivan/lamamisase",
+        "Raamitud pildid/kaunistused"
+      ],
+      "colorcodes": [
+        "#A52A2A",
+        "#CC0000",
+        "#4682B4",
+        "#F5F5DC",
+        "#808080",
+        "#FFFFFF",
+        "#D2B48C"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe asend kaamera suhtes varieerub (pööratud seljaga, näoga kaamera poole, uuesti seljaga pööratud).",
+        "Kaamera nurk ja positsioon muutuvad veidi, tuues esile erinevaid ruumi osi ja tausta detaile.",
+        "Kolmandal pildil on märgatavam liikumise hägusus (motion blur), eriti taustal, mis viitab kaamera liikumisele või kiiremale kaadrile.",
+        "Tagaplaanil olevad objektid, nagu seinal rippuv vaip ja peegel, on eri piltidel erinevalt nähtavad, sõltuvalt mehe asendist ja kaadri kompositsioonist."
+      ],
+      "snr": "020",
+      "ajad": [
+        "111.680",
+        "119.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab täiskasvanud inimest, keda nähakse selja tagant, tegemas siseruumis akende pesu. Isik kannab tumedat, tõenäoliselt bordoo- või tumepunast kampsunit heledate horisontaalsete triipudega. Aknast paistev välisvalgus on väga ere, peaaegu ülevalgustatud, mistõttu inimene on näha siluetina. Läbi akna on näha linnamaastikku või eeslinna mitme kortermajaga taustal. Akna paremal küljel ripub ruuduline kardin ja paremal asuval klaasist vaheseinal või uksel on näha inimese ähmane peegeldus. Inimese käed liiguvad aktiivselt üle akna, mis viitab puhastustegevusele. Valguse iseloom viitab hommikule või hilisele pärastlõunale, ning maastiku järgi võiks olla tegemist sügise või varakevadega.",
+      "actions": [
+        "Akna puhastamine",
+        "Käe tõstmine",
+        "Liigutamine",
+        "Pühkimine"
+      ],
+      "keywords": [
+        "Akende pesemine",
+        "Siluett",
+        "Aken",
+        "Valgus",
+        "Siseruum",
+        "Kortermaja",
+        "Hommik",
+        "Kodutöö",
+        "Puhastus",
+        "Kardin"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Aken",
+        "Inimene",
+        "Kardin",
+        "Aknalaud",
+        "Kortermajad",
+        "Klaasist vahesein",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#3D1F2B",
+        "#C1C1C1",
+        "#FDFDFD",
+        "#9C5F5F",
+        "#D4A99F",
+        "#A17E6B",
+        "#6B6B6B"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "autumn",
+      "daytime": "morning",
+      "differences": [
+        "Inimese asend ja käe liikumine akent puhastades muutub kaadrite vahel, näidates töö progressi.",
+        "Esimesel pildil on inimese käsi kõrgele tõstetud, puhastades akna ülemist osa.",
+        "Teisel pildil on inimene veidi pööratud ja käsi madalamal, puhastades akna keskosa või alumist osa. Paremal klaasist vaheseinal on selgemalt näha inimese peegeldus.",
+        "Kolmandal pildil on inimese käsi taas kõrgele tõstetud, kuid ta on aknale veidi rohkem suunatud kui esimesel pildil, hõlmates teist ülemise akna osa. Kaugemal asuvad hooned on ka veidi selgemalt ja teravamalt näha, mis võib olla tingitud kaamera liikumisest või fookuse väikesest muutusest."
+      ],
+      "snr": "022",
+      "ajad": [
+        "133.760",
+        "147.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat meest siseruumis, tõenäoliselt koduses keskkonnas, istumas laua taga. Mehel on seljas tumepunane (maroon) kootud kampsun valgete horisontaalsete mustriribadega rinnal ja varrukatel. Tal on parema käe sõrmusesõrmes sõrmus. Laud on kaetud heleda beeži või pruunika mustrilise laudlinaga, millel on märgata ruudulist või triibulist mustrit. Laual on ka väiksem, punase-valge ruuduline riie. Mees hoiab kätes valget keraamilist kruusi, millel on lilleline muster (punased ja valged roosid roheliste lehtedega). Kruusis on hõbedane lusikas. Ta on näha nii kruusi hoidmas kui ka sellest joomas. Ühel hetkel on laual kruusi kõrval väike ümmargune, heleda värvusega küpsis. Taustal on näha heledat, diskreetse lille- või lehemustriga tapeeti, samuti on seinal kalender ja võimalik, et raamitud pilt. Ühes kaadris on näha ka musta spiraalkaablit.",
+      "actions": [
+        "Joob kruusist",
+        "Hoiab kruusi",
+        "Sirutab käe küpsise järele"
+      ],
+      "keywords": [
+        "vanem mees",
+        "kruus",
+        "kohv",
+        "tee",
+        "küpsis",
+        "kampsun",
+        "söögilaud",
+        "joomine",
+        "siseruum",
+        "kodu",
+        "igapäevane elu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "valge keraamiline kruus",
+        "hõbedane lusikas",
+        "väike ümmargune küpsis",
+        "punane-valge ruuduline rätik/laudlina",
+        "heleda mustriga laudlina",
+        "tume-punane kootud kampsun",
+        "valged mustrid kampsunil",
+        "tapeet",
+        "kalender",
+        "raamitud pilt",
+        "must spiraalkaabel",
+        "sõrmus"
+      ],
+      "colorcodes": [
+        "#8B0000",
+        "#D3D3D3",
+        "#F5F5F5",
+        "#A52A2A",
+        "#556B2F",
+        "#D2B48C",
+        "#E0E0E0"
+      ],
+      "texts": [
+        "It wouldn't look good..."
+      ],
+      "persons": [
+        "vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha mehe käsi hoidmas kruusi ja laual on väike ümmargune küpsis. Mehe nägu pole pildil näha.",
+        "Teisel pildil on näha meest kruusist joomas, tema nägu on selgelt nähtav. Küpsis ei ole laualt näha.",
+        "Kolmandal pildil on fookus taas mehe kätel ja kruusil laual, kuid küpsis on laualt kadunud. Pildil on ingliskeelne subtiiter: \"It wouldn't look good...\"."
+      ],
+      "snr": "023",
+      "ajad": [
+        "147.440",
+        "170.880"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähiplaani isiku jalgadest ja pahkluudest, kes istub toolil või laua taga siseruumis. Isik kannab tumedaid, tõenäoliselt musti pükse, helehalle sokke ja ruudulisi sisejalatseid ehk susse. Sussid on pruunika-rohelise-beeži ruudulise mustriga. Parempoolne jalg (vaataja seisukohalt) on piltidel erinevates asendites, kord veidi tõstetud, kord tasasemalt põrandal. Põrand on kaetud osaliselt mustriliste plaatidega, mis on helehallides ja tumedamates toonides, ning osaliselt pruunikirju mustriga vaibaga. Vasakul on näha heleda puidust tooli või laua jalg. Pildi allosas on ingliskeelne subtiiter. Üldine atmosfäär on kodune ja hubane.",
+      "actions": [
+        "Jalapositsooni muutmine",
+        "Istumine"
+      ],
+      "keywords": [
+        "Jalad",
+        "Sussid",
+        "Sokid",
+        "Püksid",
+        "Põrand",
+        "Vaip",
+        "Siseruum",
+        "Kodune",
+        "Mugavus",
+        "Istumine",
+        "Detail"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Jalad",
+        "Püksid",
+        "Sokid",
+        "Sussid",
+        "Tooli jalg",
+        "Laua jalg",
+        "Põrandaplaadid",
+        "Vaip"
+      ],
+      "colorcodes": [
+        "#282729",
+        "#b0b0b0",
+        "#8c6a51",
+        "#5c7b50",
+        "#ab8e77",
+        "#8c5b36",
+        "#9b9a93",
+        "#4b4c48",
+        "#a27e61",
+        "#714e3b",
+        "#a59c8d",
+        "#ffffff"
+      ],
+      "texts": [
+        "It wouldn't look good..."
+      ],
+      "persons": [
+        "Üksik isik (nähtavad on ainult jalad ja sääred)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Parempoolse jala (vaataja seisukohalt) asend muutub: esimesel pildil on see veidi tõstetud, paljastades rohkem talla alust; teisel pildil on jalg pisut madalamal; kolmandal pildil on jalg tasasemalt põrandal.",
+        "Vasak jalg (vaataja seisukohalt) näitab samuti väiksemaid nurga- ja asukohamuutusi, olles esimesel pildil veidi tõstetum."
+      ],
+      "snr": "024",
+      "ajad": [
+        "170.880",
+        "174.920"
+      ]
+    },
+    {
+      "explanation": "Siseruumides on kujutatud vanemat meest, tõenäoliselt 50-60ndates eluaastates, kes kannab tumepunast, jämedast koest kõrge kaelusega kampsunit. Tema nägu on fookuses, ta vaatab allapoole ja tema suu on kergelt avatud, justkui rääkides või kuulates tähelepanelikult. Mehel on hallikad juuksed ja hele nahk. Stseenis on näha ka lähiplaani tema kokku pandud kätest, millel on vasaku käe sõrmuses lihtne kuldne abielusõrmus. Tema randmetel on sama tumepunane kampsun ja käte all paistab tumedat riiet, mis võib olla püksid. Taustal on heledat värvi mustriline tapeet, millel on delikaatsed lehe- või lillemotiivid, ja samuti on näha lauda koos heleda mustrilise lauakattega. Üldmulje stseenist on rahulik ja kodune.",
+      "actions": [
+        "Rääkimine",
+        "Kuulamine",
+        "Käte hoidmine"
+      ],
+      "keywords": [
+        "Mees",
+        "Vanem",
+        "Kampsun",
+        "Tumepunane",
+        "Siseruumid",
+        "Detailid",
+        "Käed",
+        "Abielusõrmus",
+        "Kodune",
+        "Rahulikkus",
+        "Portree"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kampsun",
+        "Käed",
+        "Abielusõrmus",
+        "Tapeet",
+        "Laud",
+        "Lauakate",
+        "Püksid"
+      ],
+      "colorcodes": [
+        "#8B202F",
+        "#EAE4D9",
+        "#F0EEE4",
+        "#C8C0B2",
+        "#C0A060"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimestel kaadritel on fookuses mehe nägu, samas kui viimane kaader on lähivõte tema kätest.",
+        "Mehe näoilmes on esimeste kaadrite vahel minimaalne muutus suu asendis."
+      ],
+      "snr": "025",
+      "ajad": [
+        "174.920",
+        "186.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest linna elurajoonis, mis on iseloomulik postsotsialistlikule arhitektuurile, taustal kõrguvate korterelamutega. On hilistalv või varakevad, kuna maapinnal on näha sulava lume või jää laike ja puud on raagus. Mees kannab värvilist jopet (sinine, punane, valge), tumedaid pükse ja tumedat mütsi ning heledaid kindaid. Ta kõnnib mööda rohtset, osaliselt lumist ala rohelise välispordivahendi poole. Jõudes spordivahendi juurde, toetub ta ühele horisontaalsele torule ja hakkab seda puhastama või pühkima mingi lapitaolise esemega. Kaameranurk liigub üldvaatest lähivõttele, et fookustada mehe tegevusele.",
+      "actions": [
+        "Kõndimine",
+        "Lähenemine",
+        "Toetumine",
+        "Puhastamine/pühkimine"
+      ],
+      "keywords": [
+        "Elurajoon",
+        "Korterelamud",
+        "Välispordivahend",
+        "Treening",
+        "Puhastus",
+        "Hilisatalv",
+        "Varakevad",
+        "Linnalik miljöö",
+        "Mees",
+        "Spordijakk",
+        "Kindad"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Korterelamud",
+        "Välispordivahend (rohelised torud)",
+        "Muru",
+        "Lumi/jää laigud",
+        "Puud",
+        "Autod",
+        "Jope",
+        "Müts",
+        "Kindad",
+        "Püksid",
+        "Puhastusvahend"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#2E5BB6",
+        "#BC2C3D",
+        "#3E8D42",
+        "#DEDBD3",
+        "#1A1A1A",
+        "#E0E0E0"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on lai üldvaade, mis näitab kogu stseeni ja tausta.",
+        "Teine pilt on keskmise kaugusega kaader, mis fookustab mehele ja tema tegevusele välispordivahendi juures.",
+        "Kolmas pilt on lähivõte mehe kätel ja puhastustegevusel spordivahendi torul.",
+        "Kaameranurk ja kaugus muutuvad progressiivselt laiemast lähimale, detailsemaks.",
+        "Mehe positsioon ja tegevus arenevad kõndimisest puhastamiseni.",
+        "Lumelaikude nähtavus varieerub kaadrite vahel."
+      ],
+      "snr": "026",
+      "ajad": [
+        "186.240",
+        "210.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast vabas õhus toimuvat treeningut, kus keskealine või vanem mees teeb füüsilisi harjutusi. Ta on riietatud sportlikult, seljas sinise, valge ja punase värvi kombinatsiooniga jope, peas tume müts ning kätes heledad kindad. Mees hoiab kinni rohelisest metallist latist, mis on ilmselt osa mänguväljaku konstruktsioonist, näiteks kiigest või kangist. Tema kehahoiak ja näoilme viitavad pingutusele ja keskendumisele harjutuse sooritamisel. Taoline treening toimub rohelisel muruplatsil, mille taustal on näha mitmekorruseline beežikas-hall korterelamu paljude akendega. Puud taustal on raagus, mis viitab kas varakevadisele või hilissügisesele ajale. Üldine õhkkond on jahe, aga piisavalt valgusküllane päevane aeg.",
+      "actions": [
+        "Harjutamine",
+        "Füüsiline tegevus",
+        "Sportimine",
+        "Hoidmine"
+      ],
+      "keywords": [
+        "Sport",
+        "Harjutus",
+        "Väljas",
+        "Mänguväljak",
+        "Mees",
+        "Korterelamu",
+        "Jope",
+        "Kindad",
+        "Roheline ala"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Metallvarras",
+        "Jope",
+        "Müts",
+        "Kindad",
+        "Korterelamu",
+        "Aknad",
+        "Muru",
+        "Puud",
+        "Kiikede konstruktsioon"
+      ],
+      "colorcodes": [
+        "#204192",
+        "#D8213E",
+        "#EAEAEA",
+        "#5A8C40",
+        "#1F1F1F",
+        "#E0E0E0",
+        "#D0D0C0",
+        "#4B6E30"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "kevad",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader näitab meest liikumises, tema nägu ja käsi on liikumise tõttu pisut udused.",
+        "Teises kaadris on mees samuti liikumises, aga pisut selgemalt eristatav.",
+        "Kolmas kaader on kõige teravam, näidates meest lühikese pausi või aeglasema liikumise hetkel.",
+        "Üldiselt on kaadrid järjest selgemad, jäädvustades hetke dünaamilisest harjutusest."
+      ],
+      "snr": "027",
+      "ajad": [
+        "210.880",
+        "214.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noormeest, kes teeb õues treeningut horisontaalpuul. Mees on rippumas kahe käega rohelisest metallist latist, tema keha on maapinnaga peaaegu paralleelselt ja nägu on suunatud ülespoole, väljendades intensiivset pingutust. Ta kannab musta mütsi, sinist, punast ja valget värvi dressipluusi ning tumedaid pükse. Taustal on näha mitu tüüpilist nõukogudeaegset paneelelamut, mis annavad edasi linnakeskkonna või magalapiirkonna tunde. Taevas on selge ja helesinine, mis viitab päikeselisele päevale. Ülesvõte on tehtud altpoolt, andes vaate treenijale otse näkku ja rõhutades tema füüsilist pingutust. Stseenis puudub lopsakas taimestik, mis võiks viidata jahedamale aastaajale.",
+      "actions": [
+        "treenimine",
+        "rippumine",
+        "jõuharjutus",
+        "pingutamine",
+        "kalistenika"
+      ],
+      "keywords": [
+        "treenimine",
+        "kalistenika",
+        "õuesport",
+        "horisontaalpuu",
+        "paneelmajad",
+        "päev",
+        "sportlane",
+        "pingutus",
+        "eluhoone",
+        "linnakeskkond"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "mees",
+        "horisontaalpuu",
+        "metallkonstruktsioon",
+        "elamud",
+        "valgustipost",
+        "puur",
+        "maja",
+        "aed",
+        "müts",
+        "dressipluus"
+      ],
+      "colorcodes": [
+        "#1C7741",
+        "#223F82",
+        "#E82729",
+        "#E8E7DF",
+        "#000000",
+        "#7FA6C4",
+        "#BABAB8"
+      ],
+      "texts": [],
+      "persons": [
+        "noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Noormehe näoilme muutub kergelt, peegeldades liikumise ajal toimuvat pingutust.",
+        "Noormehe keha asend varieerub minimaalselt, näidates dünaamilist harjutust."
+      ],
+      "snr": "028",
+      "ajad": [
+        "214.840",
+        "220.320"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud inimest seismas osaliselt lumega kaetud muruplatsil, mis asub sillutatud tee ja rohelise metallkonstruktsiooni kõrval. Taustal on näha mitmekorruselisi korterelamuid ja nende ees pargitud autosid. Inimene on riietatud sportlikesse talveriietesse, kandes värvilist jopet (punane, sinine, valge), musti retuuse, musta mütsi ja valgeid kindaid ning spordijalatseid. Inimene vaatab alla oma jalgade poole, ilmselt kohendades riietust või jalanõusid. Üldine atmosfäär viitab külmale ilmale ja õues viibimisele, võimalik, et enne või pärast mingit füüsilist tegevust.",
+      "actions": [
+        "Seisab",
+        "Vaatab alla",
+        "Kohendab riietust/jalatseid"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Muru",
+        "Korterelamud",
+        "Spordiriided",
+        "Külm ilm",
+        "Väljas",
+        "Inimene",
+        "Ettevalmistus",
+        "Vaba aeg",
+        "Õues treening"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Lumi",
+        "Muru",
+        "Korterelamud",
+        "Autod",
+        "Sillutatud tee",
+        "Metallkonstruktsioon",
+        "Puud (raagus)",
+        "Müts",
+        "Jope",
+        "Retuusid",
+        "Kindad",
+        "Spordijalanõud"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#5A7E3E",
+        "#C82020",
+        "#2B4E8C",
+        "#B0B0B0"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on erinevus kaadri suuruses ja vaatenurgas. Esimeses ja teises kaadris on fookus inimese jalgadel ja alumisel kehaosal, samas kui kolmas kaader näitab inimest vööst ülespoole, andes selgema ülevaate tema riietusest ja ümbritsevast keskkonnast. Inimese poos on sarnane, kuid kaadrite järjestus näitab tegevuse jätkumist või poosi kerget muutumist."
+      ],
+      "snr": "029",
+      "ajad": [
+        "220.320",
+        "224.120"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub väljas kortermajade vahelisel haljasalal, mis on kaetud tärganud rohu, mulla, lompide ja sulava lume/jää laikudega, vihjates hilistalvele või varakevadele. Taustal on mitu suurt, heledates toonides (roosakas-beež, valge) kortermaja tumedate akendega. Esimesel pildil on keskel näha puidust kiikede ja liivakastiga mänguväljak. Teises ja kolmandas kaadris on esiplaanil keskealine või vanem mees, kes kõnnib platsil. Mees kannab tumesinist mütsi ja sinise, valge ning punase värvitoonidega spordijopet. Tema näoilme muutub piltide jooksul tõsisemast naeratavamaks. Teisel pildil on näha ka subtiiter.",
+      "actions": [
+        "Mees kõnnib",
+        "Mees räägib (subtiitri põhjal)",
+        "Mees naeratab"
+      ],
+      "keywords": [
+        "Elamurajoon",
+        "Kortermajad",
+        "Mänguväljak",
+        "Kevad",
+        "Lumesulamine",
+        "Välitingimused",
+        "Portree",
+        "Mees",
+        "Jutustus",
+        "Kõndimine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Kortermajad",
+        "Haljasala",
+        "Rohi",
+        "Muld",
+        "Lomp",
+        "Sulav lumi",
+        "Puidust kiiged",
+        "Liivakast",
+        "Autod",
+        "Müts (tumesinine)",
+        "Jope (sinine, valge, punane)",
+        "Spordiplatsi konstruktsioonid"
+      ],
+      "colorcodes": [
+        "#F0E6D7",
+        "#A9A9A9",
+        "#6B8E23",
+        "#000080",
+        "#FF0000",
+        "#FFFFFF",
+        "#36454F"
+      ],
+      "texts": [
+        "So, that's the whole program. Shortened, of course."
+      ],
+      "persons": [
+        "Keskealine või vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on lai kaader kogu stseenist, teine ja kolmas pilt on keskmised kaadrid, mis keskenduvad mehele.",
+        "Mehe asend ja näoilme muutuvad: pildil 2 on ta profiilis ja tõsine, pildil 3 on ta rohkem eestvaates ja naeratab.",
+        "Subtiiter on nähtav ainult pildil 2.",
+        "Mänguväljaku elemendid (kiiged, liivakast) on selgelt nähtavad ainult esimesel pildil."
+      ],
+      "snr": "030",
+      "ajad": [
+        "224.120",
+        "237.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist kõndimas mööda asfaltteed paremalt vasakule, heledast, mitmekorruselisest hoonest mööda. Hoone on roosakas-beeži tooniga ja sellel on mitu akent ning kaks suurt ust keskel. Esiplaanil on muruplats, mis on kaetud kuivanud lehtede ja rohututtidega, ning mitu paljast, talvist puud, mille oksad ulatuvad taeva poole. Päike paistab madalalt, heites pikki varje ja valgustades hoone fassaadi ning puuoksi sooja tooniga. Naine kannab tumerohelist mantlit, heledat pearätti ja tumedaid kingi ning hoiab vasakus käes valget kilekotti.",
+      "actions": [
+        "Vanem naine kõnnib mööda teed"
+      ],
+      "keywords": [
+        "Vanem naine",
+        "Jalutuskäik",
+        "Hoone",
+        "Puu",
+        "Päikesepaiste",
+        "Vaikne",
+        "Varakevad",
+        "Asfalttee"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Kilekott",
+        "Asfalttee",
+        "Muruplats",
+        "Puud",
+        "Hoone",
+        "Aknad",
+        "Uksed",
+        "Mantel",
+        "Pearätt",
+        "Varjud"
+      ],
+      "colorcodes": [
+        "#D5C2B9",
+        "#8C754A",
+        "#4A3A2C",
+        "#3A5F4E",
+        "#D9E4EA",
+        "#A1A280"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "early spring",
+      "daytime": "morning",
+      "differences": [
+        "Naise asend on erinev, näidates tema liikumist paremalt vasakule. Esimesel pildil on naine veidi paremal ja astub vasaku jalaga ettepoole. Teisel pildil on ta teinud ühe sammu edasi vasakule ja on astumas parema jalaga ette."
+      ],
+      "snr": "031",
+      "ajad": [
+        "237.080",
+        "240.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest tagantvaates, kes liigub või kõnnib edasi urbanistlikus keskkonnas. Inimene kannab tumedat mütsi ja silmatorkavat spordijopet, millel on punase, sinise ja valge V-kujuline muster. Taustal on näha mitmeid korrusmaju, mis on valdavalt telliskivipunast või roosakat tooni ja mille akendest paistab valgust. Horisondi poole, vasakul pool, on märgata ka madalamaid hooneid ja kaugel eemal paistab punane sõiduk. Puud taustal on raagus, mis viitab jahedamale aastaajale. Taevas on hele ja selge, mis näitab päist aega. Kogu stseen annab edasi liikumist ja dünaamikat.",
+      "actions": [
+        "Edasiliikumine",
+        "Kõndimine"
+      ],
+      "keywords": [
+        "Tagantvaade",
+        "Inimene",
+        "Liikumine",
+        "Jakk",
+        "Müts",
+        "Linnakeskkond",
+        "Elumajad",
+        "Talv",
+        "Päevane aeg",
+        "Värviline riietus",
+        "Udusus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Jakk",
+        "Müts",
+        "Korrusmajad",
+        "Puud (raagus)",
+        "Tee",
+        "Auto",
+        "Hooned"
+      ],
+      "colorcodes": [
+        "#E0354F",
+        "#3B4D8D",
+        "#D8D8D8",
+        "#BE5C5C",
+        "#E0E0E0",
+        "#2A2A2A"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Inimese asend ja keha liikumine on kaadrite vahel muutunud, mis viitab tegevuse jätkumisele ja edasiliikumisele.",
+        "Taustal olevad objektid (hooned, puud) on kaadrite vahel pisut nihkunud ja liikumise tõttu kohati hägusemad, eriti servades.",
+        "Esimeses kaadris on vasakul kauguses punane auto ja madalam hoone selgemini eristatavad, samas kui hilisemates kaadrites muutuvad need udasemaks ja raskemini tuvastatavaks.",
+        "Üldine fookus ja liikumise udusus jope servadel varieerub kaadrite lõikes, andes edasi dünaamikat."
+      ],
+      "snr": "032",
+      "ajad": [
+        "240.320",
+        "246.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia nurga alt vaadet märjale või lörtsisele asfaldteele päikesevalguses. Tee pind on niiske ja peegeldav, andes edasi külma ja ehk isegi jäise mulje. Päike paistab madalalt, tõenäoliselt hommikul või õhtul, visates pikki tumedaid varje üle tee paremalt vasakule. Valgusallika, mis on vasakul kaadrist väljas, tõttu tekib teel ere valguspeegeldus, mis ilmneb läätsepõletusena diagonaalse heledate punktide reana üle pildi keskosa. Tee vasakpoolses osas on näha ümmargune kaevukaas. Ülemises vasakus nurgas on uduselt näha puude või põõsaste siluetid ja ehk ka veidi lund või jäätunud pinda. Üldine värvigamma on soe, valdavalt punakaspruun tee toon, kontrastiks tumedad varjud ja eredad valged peegeldused. Stseenis on tunda talvist või varakevadist atmosfääri.",
+      "actions": [],
+      "keywords": [
+        "Asfalttee",
+        "Märg tee",
+        "Jääs tee",
+        "Päike",
+        "Varjud",
+        "Valguspeegeldus",
+        "Läätsepõletus",
+        "Kaevukaas",
+        "Talv",
+        "Hommik",
+        "Õhtu",
+        "Päikeseloojang",
+        "Päikesetõus",
+        "Külm ilm"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Tee",
+        "Asfalt",
+        "Kaevukaas",
+        "Varjud",
+        "Päikesevalgus",
+        "Läätsepõletus",
+        "Põõsad",
+        "Lumi (võimalik)"
+      ],
+      "colorcodes": [
+        "#844c4c",
+        "#3d3d3d",
+        "#fcfcfc",
+        "#b5b5b5",
+        "#2a2a2a"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "morning",
+      "differences": [
+        "Piltide vahel on märgata minimaalseid muutusi läätsepõletuste intensiivsuses ja asukohas, mis viitab videokaadritele või kergele kaamera liikumisele.",
+        "Ülejäänud stseen, nagu kaevukaas ja varjud, jääb staatiliseks."
+      ],
+      "snr": "033",
+      "ajad": [
+        "246.080",
+        "249.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab välitingimustes toimuvat jooksu tegevust külmal aastaajal. Kaadrites liigub üks inimene mööda osaliselt lumist ja jäist kõnniteed. Kõnniteest vasakul on madal kiviaed, mille taga laiub roheline muruala ja hõredad puud. Vasakul kaugemal on näha mitmekorruselisi elumaju ja parkinud autosid. Paremal pool kõnniteed on samuti lumised ja jäised laigud, ning edasi kulgeb tänav, mille ääres on parkinud ridamisi sõiduautosid ja näha on elamute ridu. Taevas on hele ja madal päike annab stseenile sooja kuma, viidates hommikule või õhtule. Puud on lehtedeta, mis koos lumelaikudega viitab talvele või hilissügisele.",
+      "actions": [
+        "Jooksmine",
+        "Sportimine",
+        "Treening"
+      ],
+      "keywords": [
+        "Jooksja",
+        "Kõnnitee",
+        "Lumi",
+        "Jää",
+        "Talv",
+        "Külm",
+        "Õues",
+        "Hommik",
+        "Õhtu",
+        "Tänav",
+        "Puud",
+        "Autod",
+        "Sport",
+        "Vaba aeg"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Kõnnitee",
+        "Lumi",
+        "Jää",
+        "Puud",
+        "Autod",
+        "Elumajad",
+        "Kiviaed",
+        "Muru",
+        "Jope",
+        "Püksid",
+        "Müts"
+      ],
+      "colorcodes": [
+        "#c1ced8",
+        "#345baf",
+        "#a43132",
+        "#dee1e3",
+        "#6b7c4d",
+        "#312f2c",
+        "#b9c5d2"
+      ],
+      "texts": [],
+      "persons": [
+        "Jooksja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "morning or evening",
+      "differences": [
+        "Inimese asukoht kaadris muutub, näidates tema liikumist mööda kõnniteed kaamera poole.",
+        "Jooksja kehaasend ja jalade asetus on iga kaadri vahel erinev, illustreerides jooksu etappe."
+      ],
+      "snr": "034",
+      "ajad": [
+        "249.040",
+        "252.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mitut täiskasvanut lapsevankritega kõndimas mööda kivisillutisega kõnniteed külmal talvepäeval. Taustal on näha mitmekorruselisi kortermaju ja teel liikuvaid autosid. Maapind kõnnitee ääres ja haljasaladel on kaetud lume või härmatisega, mis viitab talvele või varakevadele. Päike on madalal, luues pika varju ja pehme valguse. Inimesed on riietatud soojalt, kandes pakse jopesid ja ühte karusnahkset mantlit. Grupp liigub mööda teed vasakult paremale ja seejärel kaamera eest eemale, luues dünaamilise ja jätkuva liikumise tunde.",
+      "actions": [
+        "Kõndimine",
+        "Lapsevankrite lükkamine",
+        "Autod sõidavad teel"
+      ],
+      "keywords": [
+        "jalutuskäik",
+        "lapsevankrid",
+        "talv",
+        "külm ilm",
+        "kõnnitee",
+        "linn",
+        "kortermajad",
+        "vanemad",
+        "jalakäijad",
+        "päikesepaiste"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "lapsevankrid",
+        "kõnnitee",
+        "autod",
+        "kortermajad",
+        "puud",
+        "muru",
+        "lumi",
+        "tänav",
+        "riided"
+      ],
+      "colorcodes": [
+        "#B0B0B0",
+        "#202020",
+        "#B04050",
+        "#E87030",
+        "#608060",
+        "#E0E0E0",
+        "#A0B0C0",
+        "#808080",
+        "#F0E0D0"
+      ],
+      "texts": [],
+      "persons": [
+        "lapsevanemad",
+        "jalutajad",
+        "inimesed (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaamera liigub koos jalutajatega mööda kõnniteed, pakkudes järjestikku erinevaid vaatenurki ja fookuspunkte.",
+        "Fookus ja kadreering muutuvad: esimene pilt näitab laiemalt gruppi ja tausta, teine pilt on neile lähemal ja rõhutab kahte keskmist jalutajat, kolmas pilt keskendub tagumisele, paremal asuvale jalutajale, kes on nüüd kaamera ees ja liigub eemale.",
+        "Inimesed ja vankrid nihkuvad kaadris paremale ja kaugemale, kuna kaamera jälgib neid liikumises.",
+        "Taustal olevad hooned ja teed muutuvad proportsionaalselt kaugemaks ja erinevate nurkade alt nähtavaks kaamera liikumise tõttu.",
+        "Valguse peegeldused teedel ja lumel muutuvad kaadri liikumisel, pakkudes dünaamilisemat stseeni."
+      ],
+      "snr": "035",
+      "ajad": [
+        "252.680",
+        "255.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab mitut eakat inimest ületamas märga või jäist teed laia ülekäiguraja kaudu. Esitluspildil on näha kaks eakat inimest, kes on ülekäiguraja keskel, liikumas paremalt vasakule. Meesterahvas, riietatud tumedasse mantlisse ja karvamütsi, toetub valgele kepile või käimisnõrgale, kandes samal ajal üle õla tumedat kotti. Tema kõrval liigub naisterahvas tumedas mantlis ja pearätiga, kes samuti toetub kepile ja kannab ruudulist käekotti. Taamal paistab silmatorkav punastest tellistest hoone, mis meenutab kirikut, ning selle ümber on park puude ja põõsastega, mille paljad oksad viitavad külmale aastaajale. Maapind ja tänav on märjad ning läikivad, peegeldades valgust ja vihjates võimalikule jääle või sulale. Taustal on näha ka teisi hooneid, linna maastikku ja mõningaid teisi jalakäijaid, sealhulgas lapsi. Üldine atmosfäär on jahe ja päikesepaisteline, kuid valguse nurk viitab madalale päikesele, mis on iseloomulik talvepäevale. Ülekäiguraja valged triibud on selgelt nähtavad tumedal asfaldil.",
+      "actions": [
+        "Inimesed ületavad teed",
+        "Inimesed kõnnivad",
+        "Inimesed kasutavad käimisnõrku",
+        "Inimesed kannavad kotte"
+      ],
+      "keywords": [
+        "Ülekäigurada",
+        "Eakad inimesed",
+        "Jäine tee",
+        "Talv",
+        "Linnaelu",
+        "Käimisnõrgad",
+        "Tänav",
+        "Kirik",
+        "Pargiala",
+        "Pedestrianid",
+        "Külm ilm",
+        "Liiklus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Ülekäigurada",
+        "Tänav",
+        "Kõnnitee",
+        "Punastest tellistest hoone",
+        "Puud",
+        "Põõsad",
+        "Liiklusmärgid",
+        "Valgustuspostid",
+        "Käimisnõrgad/kepid",
+        "Käekotid/kandekotid",
+        "Mantlid",
+        "Mütsid",
+        "Sallid",
+        "Autod (taustal)",
+        "Peegeldused veel"
+      ],
+      "colorcodes": [
+        "#6B1F1C",
+        "#4F4F4F",
+        "#FFFFFF",
+        "#2F2F2F",
+        "#A0A0A0",
+        "#D1C4A5",
+        "#8B5B47"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakad mehed",
+        "Eakad naised",
+        "Lapsed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Inimeste asukohad ülekäigurajal on muutunud, mis näitab liikumist. Esimesel pildil on peamised tegelased ülekäiguraja alguses või keskel, teisel pildil on nad edasi liikunud, meesterahvas on jõudnud peaaegu ülekäiguraja lõppu ja naisterahvas on ülekäiguraja keskel.",
+        "Pildi vasakus servas olev naisterahvas on esimesel pildil alles astumas ülekäigurajale, samas kui teisel pildil on ta juba mõne sammu edasi astunud."
+      ],
+      "snr": "036",
+      "ajad": [
+        "255.320",
+        "258.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab linna väliala, mis hõlmab nii elava liiklusega tänavat koos jalakäijate ülekäigurajaga kui ka ajutise turuplatsi või müügiala. Valgus on ere ja madalal asuv päike tekitab tugevaid helke ja läätsesähvatusi, viidates hommikule või hilisele pärastlõunale. Stseeni alguses on näha meest sinise, punase ja valge triibulise jope ning musta mütsiga üle jalakäijate ülekäiguraja jooksmas, paistes kiirustavat. Ta liigub algselt kaamera poole ja seejärel eemale. Talle lähedal on tumedat värvi mahtuniversaal ja teised inimesed taustal. Hiljem liigub fookus turuplatsile, kus on püstitatud müügiletid ruuduliste laudlinadega ja pakutakse müügiks igihaljaid taimi, mis näivad olevat jõulupuud. Turul on näha kahte meest: üks kannab jõuluvana mütsi ja teine helkurribadega tumedat jakki. Hooned taustal on hallikaspruunid, puud on raagus ja üldine õhkkond viitab talvele, tõenäoliselt jõuluajale.",
+      "actions": [
+        "Jooksmine",
+        "Müümine (kaudselt)",
+        "Kõndimine",
+        "Sõitmine"
+      ],
+      "keywords": [
+        "Linnamaastik",
+        "Jalakäija",
+        "Jalakäijate ülekäigurada",
+        "Turg",
+        "Jõulud",
+        "Päikeseloojang/tõus",
+        "Helesähvatus",
+        "Talv",
+        "Kiirustamine"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Jope",
+        "Müts",
+        "Auto",
+        "Hooned",
+        "Puud",
+        "Jalakäijate ülekäigurada",
+        "Müügiletid",
+        "Laudlinad",
+        "Igihaljad taimed",
+        "Jõuluvana müts",
+        "Reflektorriietus",
+        "Tänav"
+      ],
+      "colorcodes": [
+        "#4169E1",
+        "#FF0000",
+        "#FFFFFF",
+        "#000000",
+        "#808080",
+        "#FFD700",
+        "#228B22"
+      ],
+      "texts": [],
+      "persons": [
+        "Jooksja",
+        "Turumüüja (kaudselt)",
+        "Ostja (kaudselt)",
+        "Jõuluvana mütsiga mees",
+        "Helkurjakiga mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimestel kaadritel on fookuses jooksja ja tema liikumine üle jalakäijate ülekäiguraja, autode ja hoonete taustal.",
+        "Viimane kaader keskendub turuala tegevusele, kus on näha müügilette igihaljaste taimedega ja teisi inimesi, näiteks jõuluvana mütsiga mees.",
+        "Valgus ja päikese helk on kõikidel piltidel märgatav, kuid teises kaadris on see eriti intensiivne.",
+        "Kaadrite vahel muutub kaamera asukoht ja nurk, pakkudes stseenist erinevaid vaateid."
+      ],
+      "snr": "037",
+      "ajad": [
+        "258.200",
+        "263.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab rõõmsat või naervat vanemat meest õues, kes on riietatud tumedasse mütsi ja värvilisse spordijakki. Ta asub kahvaturoosa, veidi räsitud fassaadiga hoone ees, millel on mitu akent. Päikesepaiste valgustab stseeni soojalt, viidates hommikule või õhtule. Mehe näoilme on elav ja positiivne, suu on naerul. Hoone taustal on märgata pragunenud värvi ja üldist kulumist, mis annab pildile veidi ajatu või maaelu hõngu.",
+      "actions": [
+        "Mees naeratab laialt või naerab",
+        "Mees vaatab kaamera suunas või veidi küljele",
+        "Mees liigub edasi või kaamera liigub temaga kaasa"
+      ],
+      "keywords": [
+        "Mees",
+        "Naeratus",
+        "Rõõmus",
+        "Õues",
+        "Hoone",
+        "Spordijakk",
+        "Müts",
+        "Päikesepaisteline",
+        "Värviline",
+        "Kuldne tund",
+        "Fassaad"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Müts",
+        "Spordijakk",
+        "Hoone",
+        "Aknad",
+        "Rõdu"
+      ],
+      "colorcodes": [
+        "#222222",
+        "#D22B2B",
+        "#E0E0E0",
+        "#2A2A3D",
+        "#D38B7C",
+        "#A4D1E8"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "autumn",
+      "daytime": "morning",
+      "differences": [
+        "Esimesel pildil on märgata liikumisudu mehe ja tausta ümber, mis annab dünaamilisema tunde. Järgmised pildid on teravamad ja stabiilsemad.",
+        "Kaamera asend muutub veidi kaadrite vahel, pakkudes veidi erinevaid nurki ja näidates taustast erinevaid detaile. Esimesel pildil on näha hoone rõdu vasakul, mis hilisematel kaadritel on kas väljaspool kaadrit või varjatud.",
+        "Mehe näoilme varieerub veidi – esimesel pildil on naeratus laiem ja hoogu täis, samas kui teisel ja kolmandal on see pisut vaoshoitum, kuid endiselt rõõmus.",
+        "Esimene pilt on veidi laiem ja näitab rohkem taeva ala, samas kui teised on rohkem keskendunud mehele ja hoonele."
+      ],
+      "snr": "038",
+      "ajad": [
+        "263.800",
+        "285.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab valget kahekorruselist hoonet, mille esimesel korrusel asub pood nimega REGALIA. Poe sissepääsu kohal on suur valge silt kuldsete tähtedega, millel on kirjas \"REGALIA\". Poe uks on pruun ja sellel on samuti \"REGALIA\" logo ja tekst. Paremal pool ust on ümmargune punane Coca-Cola logo. Hoone esimesel korrusel on mitu suurt akent, millel on näha kauba väljapanekuid ja ühes aknas silt \"AVATUD\". Kahel inimesel, kes mööduvad poe eest, on seljas soojad riided, viidates jahedamale ilmale. Üks naine, pruunis mantlis ja punase mütsiga, kõnnib mööda tänavaäärset kõnniteed. Teine naine, seljas heledam lilla dressipluus või spordiriietus, on just poest välja astumas ja hoiab käes valget kotti. Hoone tagataustal läbi akende paistavad puud on raagus, mis viitab hilissügisele või talvele. Päikesevalgus langeb peale hoonele ja inimestele, luues mõnusalt valgustatud päeva tunde.",
+      "actions": [
+        "Pruunis mantlis naine kõnnib vasakult paremale mööda kõnniteed",
+        "Lillas riietuses naine astub poest välja ja hakkab kõndima paremale",
+        "Pruunis mantlis naine pöörab ja liigub poe sissepääsu suunas"
+      ],
+      "keywords": [
+        "pood",
+        "REGALIA",
+        "hoone",
+        "kõnnitee",
+        "naised",
+        "talv",
+        "päev",
+        "liikumine",
+        "linnaelu"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "hoone",
+        "poe silt",
+        "poe uks",
+        "aknad",
+        "kõnnitee",
+        "Coca-Cola silt",
+        "prügikast (osaliselt)",
+        "puud (tagaplaanil)",
+        "käekott",
+        "ostukott"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#D4AF37",
+        "#8B4513",
+        "#CC0000",
+        "#800000",
+        "#B0E0E6",
+        "#9932CC"
+      ],
+      "texts": [
+        "REGALIA",
+        "AVATUD",
+        "Coca-Cola"
+      ],
+      "persons": [
+        "naine pruunis mantlis ja punase mütsiga",
+        "naine lillas riietuses valge kotiga"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil kõnnib pruunis mantlis naine vasakult paremale ja lillas riietuses naine on just poest välja astumas, jäädes keskele poe ukse lähedale.",
+        "Teisel pildil on pruunis mantlis naine udune liikumise tõttu, olles lillas riietuses naisest mööduvas asendis. Lillas riietuses naine on veidi kaugemale liikunud.",
+        "Kolmandal pildil on pruunis mantlis naine pööranud ja liigub poe sissepääsu suunas, selg vaataja poole. Lillas riietuses naine on edasi liikunud poest eemale paremale."
+      ],
+      "snr": "039",
+      "ajad": [
+        "285.880",
+        "288.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaadet pargile või haljasalale selgel päikeselisel päeval. Maastik on kergelt künklik, kaetud pruunikasrohelise rohuga, millel on näha ka üksikuid heledamaid laike, mis võivad olla jäänused lumest või kevadisest külmast. Pildil on kolm inimest ja mitu objekti. Kolm inimest liiguvad mööda nõlva eri suundades, tekitades maapinnale pikki varjusid, mis viitab kas hommikusele või hilisõhtusele ajale. Kaks inimest liiguvad paremalt vasakule ja üks vasakult paremale. Taevas on hele ja selge, ilma pilvedeta.",
+      "actions": [
+        "Jooksmine/liikumine mööda nõlva",
+        "Suure objekti kandmine",
+        "Seisamine/aeglane liikumine",
+        "Väikese objekti hoidmine"
+      ],
+      "keywords": [
+        "park",
+        "haljasala",
+        "külm ilm",
+        "päikesepaisteline",
+        "varjud",
+        "liikuvad inimesed",
+        "loodus",
+        "tühi puu",
+        "pink",
+        "talv"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "rohi",
+        "maa",
+        "taevas",
+        "puud (lehetud)",
+        "kivi",
+        "pink",
+        "postid",
+        "värviline objekt (komps/rull)",
+        "valge objekt (kott/anum)",
+        "väike punane märk"
+      ],
+      "colorcodes": [
+        "#A4C5D9",
+        "#C2DAE8",
+        "#7D6C4A",
+        "#9E895C",
+        "#61553B",
+        "#3A3A3A",
+        "#E0E0E0",
+        "#B27DCB",
+        "#4F8C75"
+      ],
+      "texts": [],
+      "persons": [
+        "Isik 1: jookseb nõlvast alla vasakult paremale, kannab suurt värvilist (lillakas-valget) kompsu või rulli, seljas heledam pluus/jope ja tumedad püksid.",
+        "Isik 2: liigub keskel vasakult paremale, riietatud tumedatesse riietesse (must mantel).",
+        "Isik 3: liigub paremalt vasakule, kannab rohelist jopet ja hoiab käes valget objekti (kotti või anumat)."
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kolme inimese asukohad muutuvad piltidel. Isik 1 liigub vasakult paremale, jõudes lähemale pingile. Isik 2 liigub samuti vasakult paremale, stseeni keskel. Isik 3 liigub paremalt vasakule, liikudes stseeni keskel olevate postide poole."
+      ],
+      "snr": "040",
+      "ajad": [
+        "288.120",
+        "291.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab päikeselist päeva avaral vabaõhualal, mis sarnaneb pargi või mänguväljakuga. Maa on kaetud hõreda, kollakas-pruuni rohuga, millel on kohati heledamaid, võimalik, et härmatisest tingitud laike. Maastikku kaunistavad mitmed raagus puud, mis viitavad külmale aastaajale. Esiplaanil ja keskel on laste mänguväljak, millel on ainulaadne kiik (kaalukiik) ja punane istepink. Mitmed inimesed liiguvad ringi: üks naine seisab koos väikese lapsega delfiinikujulise vedrukiigu juures, teine inimene kõnnib keskväljal ja kolmas inimene jookseb kaugemal teerajal. Stseeni läbib asfalteeritud teerada, mis kaob taamal rohelise künka taha. Taevas on ere sinine ja selge.",
+      "actions": [
+        "Naine seisab paigal",
+        "Laps on vedrukiigu juures",
+        "Üks inimene kõnnib keskväljal",
+        "Teine inimene jookseb taamal teerajal",
+        "Inimesed liiguvad mänguväljakul"
+      ],
+      "keywords": [
+        "Park",
+        "Mänguväljak",
+        "Lapsed",
+        "Inimesed",
+        "Raagus puud",
+        "Päikeseline",
+        "Külm ilm",
+        "Kaalukiik",
+        "Pink",
+        "Vedrukiik",
+        "Vabaõhk",
+        "Rohtla"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Laps",
+        "Kaalukiik",
+        "Punane pink",
+        "Delfiinikujuline vedrukiik",
+        "Puud",
+        "Rohi",
+        "Asfalteeritud rada",
+        "Valgustuspost",
+        "Mägi/küngas"
+      ],
+      "colorcodes": [
+        "#66A7E0",
+        "#716F4F",
+        "#C42618",
+        "#A07C44",
+        "#302A24",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Laps",
+        "Kõndiv inimene",
+        "Jooksev inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "talv",
+      "daytime": "day",
+      "differences": [
+        "Laps vedrukiigu juures muudab veidi asendit",
+        "Naine muudab veidi oma kehahoiakut",
+        "Keskväljal kõndiv inimene liigub pildilt vasakult paremale",
+        "Taamal teerajal jooksev inimene liigub vasakult paremale ja kaugemale"
+      ],
+      "snr": "041",
+      "ajad": [
+        "291.200",
+        "295.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaadet välitingimustes asuvale vabaajapargile või rulapargile. Esiküljel on kaks suurt betoonist rampide serva, mis raamivad vaadet keskmisele haljasalale. Keskel on suur roheline muruküngas, mille tipus asub erepunane rõngakujuline platvorm ja selle keskel kõrge metallist pylon. Künga ees, betoonrajal, on kaks pikka pinki punaste jalgadega. Taustal on näha linnakeskkonda, hooneid ja lehtedeta puid, mis viitab varakevadele. Taevas on selge ja helesinine, valitseb päikeseline ilm. Üks inimene jookseb kaadrite vältel üle murukünka ees oleva ala, liikudes vasakult paremale.",
+      "actions": [
+        "Inimene jookseb üle muruala"
+      ],
+      "keywords": [
+        "Rulapark",
+        "Välipark",
+        "Betoonrambid",
+        "Muruküngas",
+        "Punane platvorm",
+        "Pylon",
+        "Pink",
+        "Jooksmine",
+        "Linnamaastik",
+        "Kevad",
+        "Päikesepaiste",
+        "Sport",
+        "Vaba aeg",
+        "Rekreatsiooniala"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Betoonrambid",
+        "Muruküngas",
+        "Punane rõngasplatvorm",
+        "Metallpylon",
+        "Punase jalaga pingid",
+        "Tänavalambid",
+        "Puud",
+        "Hooned (taustal)",
+        "Mänguväljak (taustal)"
+      ],
+      "colorcodes": [
+        "#87CEEB",
+        "#8B943A",
+        "#CE0000",
+        "#8C8C8C",
+        "#C80000",
+        "#D3D3D3"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Inimese asukoht muutub: esimesel pildil on inimene vasakul, keskmisel pildil keskel ja viimasel pildil paremal pool. Liikumine on viimasel pildil udune, mis viitab kiirusele."
+      ],
+      "snr": "042",
+      "ajad": [
+        "295.160",
+        "296.640"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha inimest talvisel välialal sörkimas. Tegevus toimub lahtise lumise või jääs välja kõrval, mida ääristab metallist võrkaed. Taustal on näha mõned madalad hooned ja paljad puud, mis viitavad külmale aastaajale. Maapind on kaetud osaliselt sulanud lumega või jääga, mis moodustab tumedama raja, millel inimene jookseb. Valgus on ere ja päikeseline, mis annab stseenile karge ja värske ilme. Inimene kannab soojalt riides, peas on must müts, seljas punase, valge ja tumesinise värvikombinatsiooniga jope ning jalas tumedad püksid ja jalatsid. Kätes on tal kindad. Stseen jätab mulje aktiivsest ja tervislikust eluviisist ka külmadel talvepäevadel. Kauguses on näha ka spordiväljaku tulesid või valgusteid.",
+      "actions": [
+        "Sörkima",
+        "Jooksma",
+        "Liikuma"
+      ],
+      "keywords": [
+        "Sörkimine",
+        "Talv",
+        "Väli",
+        "Sport",
+        "Liikumine",
+        "Külm",
+        "Päikesepaiste",
+        "Jooksja",
+        "Võrkaed"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Võrkaed",
+        "Lumi",
+        "Jää",
+        "Puu",
+        "Hoone",
+        "Pink",
+        "Müts",
+        "Jope",
+        "Kindad",
+        "Püksid",
+        "Jalatsid",
+        "Valgusti"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#FF0000",
+        "#000080",
+        "#ADD8E6",
+        "#F0F0F0",
+        "#D3D3D3",
+        "#402000",
+        "#C0C0C0"
+      ],
+      "texts": [],
+      "persons": [
+        "Sörkija",
+        "Sportlane"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Inimene on liikunud paremale kaadri suhtes.",
+        "Kaamera on järginud sörkivat isikut või panninud kergelt.",
+        "Viimasel pildil on näha pink, mis eelmistel kaadrites oli osaliselt või täielikult kaadrist väljas."
+      ],
+      "snr": "043",
+      "ajad": [
+        "296.640",
+        "299.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab külma ilmaga spordiväljakut või jalgpalliväljakut. Esialgsetel kaadritel on esiplaanil näha inimene, kes jookseb suure kiirusega vasakult paremale, jäädes liikumise tõttu häguseks. Ta kannab tumedaid pükse või retuuse ja heledamat ülaosa, kuigi detailid on ebaselged. Esialgsed ja hilisemad kaadrid keskenduvad stseenile pärast jooksjat või ilma jooksjata. Esikohal on härmatisega kaetud rohi või muru, mis särab valge või hallika tooniga, viidates madalatele temperatuuridele. Muru pinnal on selgelt näha üksikud rohukõrsed ja jääkristallid. Keskel horisondil seisab jalgpallivärav, mis on valmistatud heledast või hõbedasest metallist ja on ilma võrguta. Värava taga on näha rida puid ja põõsaid, millel on vähe lehti või mis on täiesti raagus, mis viitab hilissügisele või talveajale. Taevas on selge ja helesinine, mis näitab päikesepaistelist päeva ja loob terava kontrasti maapinna külmaga. Üldine atmosfäär on karge ja värske.",
+      "actions": [
+        "jooksmine",
+        "treening"
+      ],
+      "keywords": [
+        "spordiväljak",
+        "jalgpallivärav",
+        "härmatis",
+        "külm",
+        "talv",
+        "sügis",
+        "jooksmine",
+        "sport",
+        "õues",
+        "päikesepaisteline",
+        "liikumine",
+        "kiirus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "jalgpallivärav",
+        "muru",
+        "härmatis",
+        "puud",
+        "põõsad",
+        "inimene"
+      ],
+      "colorcodes": [
+        "#C2D9E8",
+        "#EFEFEF",
+        "#6B6B4C",
+        "#A9A9A9",
+        "#5C675B",
+        "#333333"
+      ],
+      "texts": [],
+      "persons": [
+        "jooksja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha hägune inimfiguur, kes jookseb üle esiplaanil oleva härmatisega kaetud välja.",
+        "Teisel ja kolmandal pildil puudub inimfiguur, jättes stseeni tühjaks ja rahulikuks."
+      ],
+      "snr": "044",
+      "ajad": [
+        "299.600",
+        "302.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab väljastpoolt roosakat või helelillat korterelamut päikesepaistelisel päeval. Hoonel on valged aknaraamid ja mitu ristkülikukujulist akent, milles peegelduvad puude oksad ja sinine taevas. Hoone alumine osa on helehall. Seinal on näha tänavasilt tekstiga 'Noorte 4' ja tumedat värvi vihmaveerenn. Päikesevalgus loob seinale ja maapinnale värvilisi läätsehelke ja mitmetahuliselt kumavate ringide mustreid. Maapinnal on näha asfaltkatet ja rohulappe. Teisel pildil ilmub kaadrisse inimene, kes jookseb vasakult paremale, olles liikumise tõttu udune. Inimese vari on seinal ja maapinnal selgelt näha.",
+      "actions": [
+        "Jooksmine"
+      ],
+      "keywords": [
+        "Korterelamu",
+        "Roosakas hoone",
+        "Päikesepaiste",
+        "Läätsehelgid",
+        "Jooksja",
+        "Tänavasilt",
+        "Aknad",
+        "Kevad",
+        "Päev",
+        "Välitingimustes"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Korterelamu",
+        "Aknad",
+        "Tänavasilt",
+        "Vihmaveerenn",
+        "Muru",
+        "Asfalt",
+        "Inimene",
+        "Vari"
+      ],
+      "colorcodes": [
+        "#F4D8D5",
+        "#C9C3C2",
+        "#FFFFFF",
+        "#5E5D5D",
+        "#7A845A",
+        "#E3F0F4"
+      ],
+      "texts": [
+        "Noorte 4"
+      ],
+      "persons": [
+        "Üks inimene (jooksja)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene ja kolmas pilt on sarnased, kujutades stseeni ilma inimeste või liikuva objektita.",
+        "Teisel pildil on näha inimene jooksmas vasakult paremale läbi kaadri. Inimene on liikumise tõttu udune.",
+        "Inimese vari on näha seinal ja maapinnal ainult teisel pildil."
+      ],
+      "snr": "045",
+      "ajad": [
+        "302.120",
+        "304.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab üht inimest, tõenäoliselt täiskasvanud meest, kes liigub välitingimustes mööda märga või peegeldavat teepinda. Isik kannab tumedaid pükse ja tumesinist jopet, millel on õlgadel punased detailid. Ta liigub otse kaamera poole või kaamerast mööda, tekitades märkimisväärset liikumishägusust. Tugev, madal päike paistab otse tagant, luues intensiivset tagantvalgust, märkimisväärset läätsesära ja eredaid peegeldusi maapinnal. See valgusefekt annab stseenile peaaegu et eeterliku, helendava ilme, eriti kaadri keskel, ja loob inimese silueti. Taustal on näha telliskivitooni hooneid ja parkivaid autosid, mis viitavad linna- või elamurajoonile. Üldine meeleolu on dünaamiline ja valgusküllane.",
+      "actions": [
+        "liikumine",
+        "jooksmine",
+        "jalutamine"
+      ],
+      "keywords": [
+        "tagantvalgus",
+        "läätsesära",
+        "liikumishägu",
+        "linnakeskkond",
+        "õues",
+        "päikesepaiste",
+        "udu",
+        "siluett",
+        "dünaamiline",
+        "kuldne tund",
+        "märgpind",
+        "urban"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "inimene",
+        "hooned",
+        "tee",
+        "autosid",
+        "päike"
+      ],
+      "colorcodes": [
+        "#6b0b0a",
+        "#2a3b70",
+        "#f8f8f8",
+        "#a6956b",
+        "#8b5f3a"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "autumn",
+      "daytime": "morning",
+      "differences": [
+        "Esimene pilt on kõige selgem, näidates inimest ja tausta detaile paremini, samas kui läätsesära on märgatav, kuid kontrolli all.",
+        "Teine pilt on kõige heledam ja hägusem, peaaegu täielikult ülevalgustatud intensiivse läätsesäraga, mis varjutab suurema osa stseenist valgega.",
+        "Kolmandal pildil on inimene liikunud veidi paremale ja on endiselt hägune, kuid taustast on näha rohkem detaile kui teisel pildil, samas kui läätsesära on endiselt tugev, kuid veidi vähem domineeriv kui teisel pildil.",
+        "Piltide vahel on näha kerget kaamera asukoha või vaatenurga muutust, eriti kolmandal pildil, kus fookus tundub olevat nihkunud."
+      ],
+      "snr": "046",
+      "ajad": [
+        "304.600",
+        "310.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet ärihoone välisküljele päikesepaistelisel päeval. Hoone fassaad on pruunikaspunase tooniga ning sellel on suured klaasaknad. Vasakpoolsel aknal on roheliste tähtedega silt kirjaga \"BAAR\". Paremal pool on sissepääs, mida katab pruun varikatus, mille all on näha kiri \"BAAR ABSHERON\". Hoone ülemises osas, akende kohal, on valge pikk silt musta tekstiga, kus on mainitud müügipindu, kontaktandmeid \"SUTULAITE 5162659\" ja \"ABU TURG\". Fassaadi kaunistavad väikesed valgusketid. Akendel on näha peegeldusi, mis annavad aimu ümbritsevast keskkonnast ja taevast. Üldine valgusvihk on soe, mis viitab päikeselisele päevale.",
+      "actions": [],
+      "keywords": [
+        "baar",
+        "absheron",
+        "turg",
+        "ärihoone",
+        "fassaad",
+        "aknad",
+        "silt",
+        "varikatus",
+        "valgusketid",
+        "päikesepaiste",
+        "tänavavaade"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "hoone",
+        "aken",
+        "uks",
+        "varikatus",
+        "silt",
+        "valgusketid",
+        "valgusti",
+        "peegeldused"
+      ],
+      "colorcodes": [
+        "#A0685F",
+        "#509D50",
+        "#704D41",
+        "#FFFFFF",
+        "#C02020"
+      ],
+      "texts": [
+        "BAAR",
+        "ÜDILE. NII VÄLI-KUI SISEMÜÜGIPINNAD",
+        "SUTULAITE 5162659",
+        "ABU TURG",
+        "VESTMAN",
+        "ABSHERON"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on kerged muutused kaamera nurkades ja sisse- või väljasuumi astmes.",
+        "Esimesel ja teisel pildil on ülemine valge silt tekstiga \"ÜDILE. NII VÄLI-KUI SISEMÜÜGIPINNAD\" täielikult nähtav, kolmandal pildil on see tekst osaliselt kaadri ülaservast välja lõigatud.",
+        "Aknapeegelduste ja valgusketide nähtavuses on märgata väikeseid nihkeid kaamera liikumisest tingituna."
+      ],
+      "snr": "047",
+      "ajad": [
+        "310.040",
+        "313.440"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub õues päikesepaistelisel talvisel või varakevadisel päeval, kus kolm meest seisavad asfalteeritud platsil. Esimesel pildil on esiplaanil olev mees veidi udune, teisel pildil teravamas fookuses. Esplaanil on keskealine mees, kes kannab musta kootud mütsi ning punase, valge ja tumesinise (või musta) chevron-mustriga jopet, millel on näha kiri \"CHOJNIK\". Ta vaatab kaadrist välja paremale poole. Temast tagapool vasakul seisavad kaks teist meest. Üks neist on habemega ja kannab tumedat jopet, tumedaid pükse ja saapaid, tegeledes oma kätega millegi väiksemaga. Teine mees kannab tumedat karvamütsi, tumedat jopet ja siniseid teksaseid, ning tegeleb samuti oma kätega millegi väiksemaga (võimalik, et süütab sigaretti või tegeleb telefoniga). Taustal on näha madalamaid hooneid ja paljaste okstega puid, mis viitavad külmale ilmale. Pildil on näha ka asfalteeritud platsi ja paremal servas osaliselt tumedat sõidukit, mis sarnaneb maasturi või kaubikuga. Valgus on ere ja päikesepaisteline, luues pikki varjusid ja peegeldusi. Üldine õhkkond on karge ja argine.",
+      "actions": [
+        "Seisab",
+        "Vaatab",
+        "Tegeleb kätega"
+      ],
+      "keywords": [
+        "Mehed",
+        "Väljas",
+        "Talv",
+        "Külm ilm",
+        "Päikesepaiste",
+        "Jope",
+        "Müts",
+        "Karvamüts",
+        "Asfalteeritud plats",
+        "Parkla",
+        "Hoone",
+        "Paljad puud",
+        "Auto",
+        "Argine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Must müts",
+        "Punane jope",
+        "Valge jope",
+        "Sinine jope",
+        "Karvamüts",
+        "Tume jope",
+        "Tumedad püksid",
+        "Saapad",
+        "Teksad",
+        "Sõiduk",
+        "Puud",
+        "Hooned",
+        "Asfalt"
+      ],
+      "colorcodes": [
+        "#2F2D2E",
+        "#D21E2B",
+        "#F0F0F0",
+        "#274D90",
+        "#A9D1E8",
+        "#3B413E",
+        "#604A3A"
+      ],
+      "texts": [
+        "CHOJNIK"
+      ],
+      "persons": [
+        "Mees musta mütsiga",
+        "Mees habemega",
+        "Mees karvamütsiga"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on esiplaanil olev mees veidi udune (fookus on kaugemal taustal), teisel pildil on ta teravamalt fookuses.",
+        "Teine pilt on esimesest veidi sisse suumitud või kaamera on liikunud lähemale, muutes esiplaanil oleva mehe kaadris suuremaks ja täpsemalt nähtavaks."
+      ],
+      "snr": "048",
+      "ajad": [
+        "313.440",
+        "321.960"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivaates näha valget kella sihverplaati koos mustade numbrite ja osutiga. Sihverplaadil on selgelt eristatavad numbrid 4, 5 ja 6. Vasakul ülal on tekst \"QUARTZ\". Pildil on üks must osuti, mis liigub üle numbrite 5 suunas. Osuti keskpunkt on numbrite 4, 5 ja 6 vahel, kuid lähemal numbritele 5 ja 6. Kella osuti liigub pidevalt paremalt vasakule, näidates aja kulgemist. Kella alumises servas on näha ka minutiloenduse märgid. Valgustus on ühtlane ja hele, mis viitab siseruumile.",
+      "actions": [
+        "kellaosuti liigub"
+      ],
+      "keywords": [
+        "kell",
+        "sihverplaat",
+        "numbrid",
+        "osuti",
+        "kvarts",
+        "aeg",
+        "valge",
+        "must",
+        "detailvaade"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "kella sihverplaat",
+        "kella osuti",
+        "numbrid",
+        "minutimärgid"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#000000"
+      ],
+      "texts": [
+        "QUARTZ",
+        "4",
+        "5",
+        "6"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kellaosuti asend muutub igal pildil, liikudes järk-järgult paremalt vasakule üle numbri 5 suunas 6-le.",
+        "Esimesel pildil on osuti veidi üle numbri 5 (umbes 26-27 minuti peal).",
+        "Teisel pildil on osuti liikunud veidi vasakule (umbes 27-28 minuti peal).",
+        "Kolmandal pildil on osuti liikunud veelgi vasakule, olles peaaegu poolel teel numbri 5 ja 6 vahel (umbes 28-29 minuti peal)."
+      ],
+      "snr": "049",
+      "ajad": [
+        "321.960",
+        "325.640"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivõte vanemast mehest, kes on prillidega ja vaatab alla, keskendunult millelegi, mis jääb kaadrist välja. Tema nägu on tugevalt valgustatud vasakult poolt sooja, kuldse valgusega, mis loob selged esiletõstud ja varjud. Valgus rõhutab tema näojooni ja kortsukesi suu ja nina ümber. Mehel on õhuke vunts ja hele kulm. Ta kannab tumedat, kootud rõivast, mis paistab olevat kampsun või sviiter. Taust on udune ja heledam, viitades siseruumile, kus valgusallikas (võimalik, et aken või lamp) asub paremal pool. Üldmulje on rahulik ja keskendunud.",
+      "actions": [
+        "Vaatamine alla",
+        "Keskendumine"
+      ],
+      "keywords": [
+        "Lähivõte",
+        "Portree",
+        "Keskendunud",
+        "Prillid",
+        "Mees",
+        "Siseruum",
+        "Varjud",
+        "Valgus",
+        "Kuldne valgus",
+        "Mõtlik",
+        "Vanem inimene"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Prillid",
+        "Inimese nägu",
+        "Kootud rõivas"
+      ],
+      "colorcodes": [
+        "#B07E5C",
+        "#D19F7A",
+        "#3D3B3C",
+        "#474A44",
+        "#5A625A",
+        "#DEDECF",
+        "#F8F8F8"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pildid on peaaegu identsed, ilma märkimisväärsete visuaalsete erinevusteta."
+      ],
+      "snr": "050",
+      "ajad": [
+        "325.640",
+        "332.680"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõttes inimese käsi, kes valmistub kirjutama pastapliiatsiga paberile. Valgus on hämar ja fookus on teravalt käte ja pastapliiatsi peal, samal ajal kui taust on sügavalt must ja udune. Vasak käsi hoiab pastapliiatsit, mis on tumepruuni värvi metallist otsaga, ning paremas käes on sõrmusesõrmes lihtne kuldne või hõbedane sõrmus. Käed asetsevad paberi kohal, mis on helebeeži tooniga. Üldine atmosfäär on vaikne ja keskendunud, viidates süvenemisele mingisse ülesandesse.",
+      "actions": [
+        "Hoidma pastapliiatsit",
+        "Valmistuma kirjutama",
+        "Asetama pastapliiatsit paberile"
+      ],
+      "keywords": [
+        "Käed",
+        "Pastapliiats",
+        "Kirjutamine",
+        "Paber",
+        "Lähivõte",
+        "Sõrmus",
+        "Keskendumine",
+        "Hämar"
+      ],
+      "shot_type": "extreme close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese käed",
+        "Pastapliiats",
+        "Paber",
+        "Sõrmus"
+      ],
+      "colorcodes": [
+        "#8B5F4C",
+        "#A0725B",
+        "#5C2D2B",
+        "#A2A2A2",
+        "#1E1C1C",
+        "#E0D3C9",
+        "#D4C9BF"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene (käed)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on pastapliiats suunatud ülespoole ja eemal paberist, parem käsi on lõdvestunult. Teisel pildil on pastapliiats langetatud paberi kohale, valmis kirjutama, ja parema käe sõrmed on veidi sirutatud, toetades või valmistudes paberit hoidma. Kolmandal pildil on pastapliiats samuti paberi kohal, kuid parema käe asend on veidi muutunud, sõrmed on pisut ettepoole nihkunud, näidates jätkuvat ettevalmistust tegevuseks."
+      ],
+      "snr": "051",
+      "ajad": [
+        "332.680",
+        "341.920"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud eakas inimene, tõenäoliselt mees, kes istub siseruumis laua taga ja keskendub kirjutamisele või joonistamisele. Valgus tuleb tugevalt paremalt poolt, arvatavasti aknast, luues selged varjud vasakule poolele. Isik kannab prille, heledat (tõenäoliselt valget) T-särki ja tumerohelist või halli soonilist kampsunit. Tema käed hoiavad pastapliiatsit ning on paberilehe kohal. Laual on pruunikates toonides mustriline laudlina. Taustal on näha ruuduline kardinaga aken ja heleda mustriga sein või mööbel. Üldine atmosfäär on vaikne ja keskendunud, valguse ja varjude mäng loob sügavust ja hubasust.",
+      "actions": [
+        "Kirjutamine",
+        "Joonistamine",
+        "Keskendumine",
+        "Istumine",
+        "Pastapliiatsi hoidmine"
+      ],
+      "keywords": [
+        "Eakas",
+        "Keskendumine",
+        "Kirjutamine",
+        "Prillid",
+        "Siseruum",
+        "Laud",
+        "Pastapliiats",
+        "Varjud",
+        "Valgusküllane",
+        "Kampsun"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Eakas inimene",
+        "Prillid",
+        "Pastapliiats",
+        "Paber",
+        "Laud",
+        "Lauakate",
+        "Kampsun",
+        "T-särk",
+        "Aken",
+        "Kardin"
+      ],
+      "colorcodes": [
+        "#3E514B",
+        "#F5F5F5",
+        "#C89F82",
+        "#A36B4F",
+        "#FBFBFB",
+        "#F2DDC6"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesest pildist teisele on isiku pea kerges asendis muutunud, suunaga pisut ülespoole ja siis kolmandal pildil veelgi. See viitab liikumisele ja tegevuse jätkumisele.",
+        "Käe ja pastapliiatsi asend paberil muutub veidi, näidates edasiminekut kirjutamisel või joonistamisel."
+      ],
+      "snr": "052",
+      "ajad": [
+        "341.920",
+        "347.560"
+      ]
+    },
+    {
+      "explanation": "Stseenil on lähivõttes kujutatud eaka mehe nägu, kes kannab prille ja on keskendunud millelegi, mis jääb pildiraamist allapoole. Tugev, soe valgus langeb vasakult, valgustades osa mehe näost ja luues sügavaid varje. Tema näo parem pool ja õlg on varjus. Mehel on seljas tume riietus, mis võib olla kampsun. Tema ilme on mõtlik ja keskendunud, vihjates lugemisele või kirjutamisele. Prilliklaasidel on näha peegeldusi. Üldine toon on soe ja kollakas.",
+      "actions": [
+        "keskendumine",
+        "allapoole vaatamine",
+        "lugemine või kirjutamine (oletatav)"
+      ],
+      "keywords": [
+        "eakas",
+        "mees",
+        "prillid",
+        "lähivõte",
+        "kontsentratsioon",
+        "valgus ja vari",
+        "portree",
+        "mõtlikkus"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "prillid",
+        "nägu",
+        "kampsun"
+      ],
+      "colorcodes": [
+        "#A36F4D",
+        "#D19A79",
+        "#545B5C",
+        "#777D85",
+        "#B29377",
+        "#403E3F"
+      ],
+      "texts": [],
+      "persons": [
+        "eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Näo asendi ja kalde kerged muutused kaadrite vahel.",
+        "Suu ja lõua piirkonna kergelt erinevad ilmed, mis viitavad kergele lihaste liikumisele või kergele emotsionaalsele nüansile.",
+        "Valguse ja varjude jaotuses on pisikesed variatsioonid, mis tulenevad pealiigutustest."
+      ],
+      "snr": "053",
+      "ajad": [
+        "347.560",
+        "355.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat meest koduses interjööris laua taga istumas. Mees, kellel on seljas tumesinine või tumehall kampsun ja valge särk ning prillid ees, on keskendunud laual olevatele paberitele ja dokumentidele. Ta uurib neid hoolikalt, kohati ettepoole küünitades, kohati püstisemalt istudes. Tugev päikesevalgus paistab sisse aknast, luues seinale mehe pika, selgelt eristuva varju. Laud on kaetud oranži-pruuni ruudulise laudlinaga, millel lisaks paberitele ja märkmikule lebavad ka teised prillid. Seinal on näha kalender, millel on nähtavad kuupäevad 1-31, ning raamitud pilt valge lillega, mis meenutab liiliat. Aknal ripub ruuduline kardin ja akna all on radiaator. Mehe ilme on mõtlik ja keskendunud, viidates süvenemisele loetavasse materjali. Ühes kaadris on ekraanil näha subtiiter, mis annab edasi mehe mõttekäiku.",
+      "actions": [
+        "Istumine laua taga",
+        "Paberite uurimine",
+        "Lugemine",
+        "Mõtisklemine",
+        "Keskendumine",
+        "Ettepoole küünitamine",
+        "Varju loomine seinale"
+      ],
+      "keywords": [
+        "Eakas mees",
+        "Interjöör",
+        "Päikesevalgus",
+        "Varjud",
+        "Paberid",
+        "Dokumendid",
+        "Lugemine",
+        "Mõtisklus",
+        "Kodu",
+        "Vaikus",
+        "Keskendumine",
+        "Hubane"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Eakas mees",
+        "Laud",
+        "Ruuduline laudlina",
+        "Paberid",
+        "Dokumendid",
+        "Märkmik",
+        "Prillid (seljas)",
+        "Prillid (laual)",
+        "Raamitud pilt (valge lillega)",
+        "Sein",
+        "Aken",
+        "Ruuduline kardin",
+        "Radiaator",
+        "Kalender"
+      ],
+      "colorcodes": [
+        "#364049",
+        "#D48C62",
+        "#8F543C",
+        "#FFFFFF",
+        "#E0DBCF"
+      ],
+      "texts": [
+        "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31",
+        "Starting from now, these phrases will be running through my head"
+      ],
+      "persons": [
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris on mees rohkem ettepoole küünitunud, tema nägu on suuremas osas varjus ning ta vaatab alla paberitele, käed on lähestikku paberite kohal.",
+        "Teises kaadris istub mees püstisemalt, tema nägu on selgemalt näha ja valgustatud. Selles kaadris on nähtav ka ingliskeelne subtiiter: \"Starting from now, these phrases will be running through my head\".",
+        "Kolmandas kaadris on tegemist lähivõttega mehe näost, rõhutades tema keskendunud ilmet. Selles kaadris on kalender seinal veelgi selgemalt näha.",
+        "Kaadrite fookus ja kompositsioon varieeruvad kergelt, pakkudes erinevaid vaatenurki mehele ja tema tegevusele laua taga.",
+        "Valguse ja varjude muster jääb läbi kaadrite sarnaseks, kuigi mehe poosist tingituna langeb valgus tema kehale ja näole pisut erinevalt."
+      ],
+      "snr": "054",
+      "ajad": [
+        "355.920",
+        "387.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat meest, kes vaatab oma korterist välja ja jälgib linnalist maastikku. Tema vaatevälja jäävad mitmekorruselised kortermajad, mille rõdud on värvilised – mõned punased, teised tumedad. Kauguses domineerib kõrge suitsukorsten, millest eraldub tihe suitsu- või aurupilv, vihjates jahedale ilmale ja tööstuslikule tegevusele. Paremal pool on näha ka kõrgepingemasti siluett. Taevas on hele ja veidi pilvine. Mees ise on kujutatud aknast välja vaatamas, kandes prille ja tumedat kardigani valge särgi peal. Päikesepaiste langeb tema näole ja tubasele seinale, luues sooja ja mõtiskleva atmosfääri siseruumis. Üldine meeleolu on pentsik ja tähelepanelik.",
+      "actions": [
+        "Eaka mehe aknast välja vaatamine",
+        "Suitsu/auru eraldumine suitsukorstnast",
+        "Päikesepaiste langemine mehele ja ruumi"
+      ],
+      "keywords": [
+        "Linnavaade",
+        "Suitsukorsten",
+        "Kortermajad",
+        "Eakas mees",
+        "Prillid",
+        "Aknast välja vaatamine",
+        "Tööstusmaastik",
+        "Linnakeskkond",
+        "Päikesepaiste",
+        "Suitsuheitmed",
+        "Kõrgepingemast"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Suitsukorsten",
+        "Suits",
+        "Kortermajad",
+        "Rõdud",
+        "Kõrgepingemast",
+        "Taevas",
+        "Eakas mees",
+        "Prillid",
+        "Kardigan",
+        "Särk",
+        "Aken",
+        "Sein",
+        "Juuksed",
+        "Kõrv"
+      ],
+      "colorcodes": [
+        "#D8D8D8",
+        "#8B7B6B",
+        "#8C8C8C",
+        "#F7EBCC",
+        "#CC4C50",
+        "#333F4F",
+        "#F0E0D0",
+        "#4C4F5C",
+        "#FFFFFF",
+        "#A0B0C0"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakas mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaadrite fookuspunkt on erinev: esimene näitab laia linnavaadet, teine ja kolmas keskenduvad eakale mehele.",
+        "Kaadrites on erinevad elemendid esiplaanil ja tagaplaanil: esimeses hooned ja korsten, teises ja kolmandas mees.",
+        "Kaadrite vaatenurk varieerub laia plaanist lähivõteteni.",
+        "Valgus paistab olevat pisut erineva nurga alt ja intensiivsusega, kuigi kõik kaadrid kujutavad päevavalgust."
+      ],
+      "snr": "055",
+      "ajad": [
+        "387.640",
+        "438.880"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb kahest järjestikusest kaadrist, mis kujutavad mustal taustal valget teksti. Esimene kaader tutvustab lühidalt karakteri lugu, kus 68-aastane Peter jõi 25 aastat, ta naine ja tütar lahkusid temast, kuid alates 1991. aastast lõpetas ta joomise ja hakkas regulaarselt treenima. Tekst asub ekraani alumises paremas nurgas. Teine kaader näitab filmitegijate tiitreid, sealhulgas režissööri (Director), operaatori (Cinematographer) ja produtsendi (Producer) nimesid. Need tiitrid on paigutatud ekraani paremale poolele ja tunduvad ülespoole kerivat või vahetuvat, kusjuures osa teksti (nt 'Editor') on nõrgemalt nähtav. Mõlemal kaadris on domineerivaks värviks must taust ja valge tekst, mis loob minimalistliku ja selge esteetika. Stseen sarnaneb filmi lõputiitrite või sissejuhatava tekstiga, mis annab taustainfot või tutvustab tegijaid.",
+      "actions": [
+        "Teksti ilmumine ekraanile",
+        "Teksti sisu vahetumine",
+        "Tiitrite liikumine või vahetumine"
+      ],
+      "keywords": [
+        "Tiitrid",
+        "Must taust",
+        "Valge tekst",
+        "Filmitegijad",
+        "Lugu",
+        "Karakteri tutvustus",
+        "Minimalistlik"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "Tekst",
+        "Ekraan"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Peter, 68,",
+        "drank heavily for 25 years.",
+        "His wife and daughter left him.",
+        "Since 1991, Peter quit drinking and started to exercise regularly.",
+        "Director",
+        "Ivan Pavljutskov",
+        "Cinematographer",
+        "Jekaterina Hitruhina",
+        "Producer",
+        "Maris Salumets",
+        "Editor"
+      ],
+      "persons": [
+        "Peter",
+        "Ivan Pavljutskov",
+        "Jekaterina Hitruhina",
+        "Maris Salumets"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "85",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevus seisneb kuvatava teksti sisus ja paigutuses. Esimesel pildil on tegelase 'Peter' elulugu ekraani paremas alanurgas, teisel pildil aga filmitegijate nimed ja rollid ekraani paremal poolel, nagu keriksid tiitrid üles.",
+        "Kuigi mõlemad pildid on mustal taustal valge tekstiga, on teksti sisu ja funktsioon täiesti erinev (süžeeline sissejuhatus vs. lõputiitrid)."
+      ],
+      "snr": "056",
+      "ajad": [
+        "438.880",
+        "464.400"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2901 @@
+{
+  "film": [
+    "19633",
+    "19482",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Neli hingetõmmet",
+    "2488dd95bc10535823e2690d6abd416e17511815.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täielikus pimeduses. Seejärel ilmuvad tumedale taustale kolm uduseks jäänud, helehalli/valget ringikujulist objekti. Ajapikku muutuvad need ringid teravamaks ja saavad konkreetse värvuse: punane (vasakul üleval), sinine (vasakul all) ja roheline (paremal), moodustades kolmnurkse asetuse. Nende keskel on väike valge täpp. Samal ajal või vahetult pärast seda ilmub rohelisest ringist paremale valge tekst \"BFM\". Kogu stseen on minimalistlik ja keskendub logo esitlemisele mustal taustal.",
+      "actions": [
+        "Objektide ilmumine",
+        "Pildi hägustumine/fookuse muutumine",
+        "Objektide teravnemine",
+        "Värvide ilmumine",
+        "Teksti ilmumine"
+      ],
+      "keywords": [
+        "Logo",
+        "Animatsioon",
+        "Pimedus",
+        "Fookus",
+        "Ringid",
+        "Värvid",
+        "Minimalistlik",
+        "Bränding",
+        "Digitaalne"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Ringid",
+        "Valge täpp",
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#F00000",
+        "#008000",
+        "#0000FF",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "BFM"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": 90,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on täielikult must (100% pimedus).",
+        "Teisel pildil ilmuvad tumedale taustale kolm uduseks jäänud heledat ringikujulist objekti.",
+        "Kolmandal pildil on ringid teravad ja saanud selged värvid (punane, sinine, roheline), nende keskel on valge täpp ja paremal on valge tekst \"BFM\"."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "12.721"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lahkamissaali või surnukuuri sisemust, mis on helge, steriilne ja valgete plaatidega kaetud. Ruumi keskel on mitu roostevabast terasest lauda. Esiplaanil on suur lahkamislaud, millel lebav keha on kaetud musta surnukotiga. Keskplaanil teisel teraslaual lamab surnud isik, kelle alakeha on kaetud valge linaga. Tema kohal töötab meditsiinitöötaja (mees helesinistes kirurgirõivastes, müts ja kindad käes), kes sooritab protseduuri. Paremal pool seisab kaks teist meditsiinitöötajat: üks mees rohelistes kirurgirõivastes ja üks naine erksalt purpursete juustega, samuti heledates kirurgirõivastes, kes jälgivad toimuvat. Ruumi valgustavad ülevalt rippuvad kirurgilised lambid ja lae all asuvad luminofoorlambid. Tagaplaanil on näha uksed, riiulid, valgetahvlid ja meditsiinivarustus. Ühel valgetahvlil vasakul ja teisel paremal ei ole tekst loetav. Tagumises ukseavas on näha veel ühte inimest.",
+      "actions": [
+        "Meditsiinipersonal sooritab lahangut või ettevalmistust surnukehal",
+        "Kaks meditsiinitöötajat jälgivad protseduuri",
+        "Kolmas isik ilmub tagumisest ukseavast"
+      ],
+      "keywords": [
+        "lahkamissaal",
+        "surnukuur",
+        "meditsiiniline",
+        "steriilne",
+        "lahang",
+        "surnukeha",
+        "meditsiinipersonal",
+        "roostevaba teras",
+        "surnukott",
+        "valgustus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "roostevabast terasest lauad",
+        "surnukott",
+        "surnukeha",
+        "kirurgilised lambid",
+        "luminofoorlambid",
+        "valged plaaditud seinad",
+        "uksed",
+        "valgetahvlid",
+        "riiulid",
+        "meditsiinivarustus",
+        "kirurgirõivad",
+        "meditsiinikindad",
+        "kirurgimüts"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#9ECBEC",
+        "#4CAF50",
+        "#90EE90",
+        "#000000",
+        "#C0C0C0",
+        "#FF00FF"
+      ],
+      "texts": [
+        "tekst valgetahvlil (loetamatu)",
+        "tekst ukse kohal (roheline silt, loetamatu)"
+      ],
+      "persons": [
+        "lahkaja/arst",
+        "meditsiinitöötaja (vaatleja, mees)",
+        "meditsiinitöötaja (vaatleja, naine purpursete juustega)",
+        "lahatud/surnud isik",
+        "isik ukseavas"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on tagumises ukseavas olev isik enamasti varjatud, samas teisel pildil on see isik rohkem nähtav ja astunud veidi ruumi sisse, hoides käes pabereid."
+      ],
+      "snr": "002",
+      "ajad": [
+        "12.721",
+        "16.934"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meditsiinilist või forensilist keskkonda, tõenäoliselt lahkamistoa või morge siseruumi. Seinad on kaetud valgete plaatidega, andes steriilse ja kliinilise ilme. Esiplaanil ja keskel on mees, kes kannab helesinist ühekordset kaitsekittlit, heledat rohelist juuksemütsi, prille ja siniseid kummikindaid. Ta on süvenenud oma tegevusse ja tegeleb metallist lahkamislaual lebava surnukehaga. Surnukeha on enamasti kaetud valge linaga, kuid selle kõhu- ja vaagnapiirkonnas ning parema jala ülaosas on näha märkimisväärset traumat, kus on paljastatud sisikond ja märgatavalt verd. Mees kasutab meditsiinilist pihustit, millega ta peseb surnukeha jalga. Tema paremal tagapool seisab naine, kes on samuti riietatud helesinisesse kaitsekittlisse ja heledasse rohelisse juuksemütsisse. Naine jälgib mehe tegevust tõsise ilmega. Vasakul esiplaanil on näha roostevabast terasest valamu koos kraaniga ja mõned pudelid letil. Taustal on uks või ukseava, mille kohal ripub roheline, rahvusvahelise sümboliga väljapääsumärk. Paremal taustal on näha ka sinine riiul.",
+      "actions": [
+        "Lahangu teostamine või surnukeha uurimine",
+        "Surnukeha pesemine või puhastamine meditsiinilise pihustiga",
+        "Meditsiinilise protseduuri jälgimine",
+        "Instrumentide kasutamine"
+      ],
+      "keywords": [
+        "Lahangutuba",
+        "Meditsiiniline protseduur",
+        "Forensika",
+        "Surnukeha",
+        "Vereplekid",
+        "Operatsioonikittel",
+        "Juuksemüts",
+        "Laip",
+        "Meditsiinipersonal",
+        "Vaatlus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Lahkamislaud",
+        "Surnukeha",
+        "Meditsiinilised kitlid",
+        "Juuksemütsid",
+        "Kindad",
+        "Prillid",
+        "Pihusti",
+        "Valamu",
+        "Kraan",
+        "Pudelid",
+        "Metallkonks",
+        "Ukseava",
+        "Väljapääsumärk",
+        "Riiul",
+        "Plaaditud seinad"
+      ],
+      "colorcodes": [
+        "#ADD8E6",
+        "#90EE90",
+        "#FFFFFF",
+        "#800000",
+        "#A9A9A9",
+        "#000000",
+        "#2F4F4F",
+        "#4682B4"
+      ],
+      "texts": [
+        "Rohelisel väljapääsumärgil on stiliseeritud jooksv mehe sümbol, mis tähistab väljapääsu."
+      ],
+      "persons": [
+        "Meesarst/lahkaja",
+        "Naisassistent/vaatleja",
+        "Surnukeha (inimene)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil hoiab mees kätt surnukeha jala kohal instrumendiga, mille otstarve pole koheselt selge. Teisel pildil on selgelt näha, et ta kasutab pihustit, millest väljub veejuga, pesedes surnukeha jalga.",
+        "Mehe kehahoiak on teisel pildil veidi ettepoole kaldus, mis annab dünaamilisema mulje.",
+        "Naine taustal on esimesel pildil näoga veidi rohkem paremale pööratud, teisel pildil otsemalt ettepoole vaatamas.",
+        "Teisel pildil on pihusti veejuga selgelt näha."
+      ],
+      "snr": "003",
+      "ajad": [
+        "16.934",
+        "21.063"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meditsiinilist keskkonda, tõenäoliselt operatsioonisaali või lahkamiskambrit, kus valgetel plaatidega kaetud seintel ja laes domineerib steriilne atmosfäär. Ruum on valgustatud ülevalt kahe suure, moodsa kirurgilise lambiga, millest üks on ümar ja teine piklik. Keset ruumi, seljaga vaataja poole, seisab meditsiinitöötaja, kandes siniseid kirurgilisi riideid: alusülikonda, helesinist peale pandud kirurgilist kitleid, siniseid kindaid ja kirurgilist mütsi. Tema pilk ja tähelepanu on suunatud lauale lamavale inimfiguurile, kes on tõenäoliselt patsient või surnukeha, kaetud osaliselt musta linaga. Inimfiguuri paljad jalad on selgelt nähtavad, ilmselt mingi protseduuri või uuringu all. Töötaja kummardub laua kohal ja tegeleb kätega laual oleva figuuriga. Ruumi vasakus servas on näha valge tahvel, millel on ebaselge käekiri ja mõned joonistused, mis meenutavad nägusid või küsimärke. Tahvli all on puidust resti meenutav ese. Paremal pool seinal on näha paberkäterätiku hoidik. Vasakul taustal on metallist ratastel laud, millel on laptop ja tass, viidates tööjaamale. Üldine õhkkond on töine ja kontsentreeritud.",
+      "actions": [
+        "Meditsiinitöötaja teeb protseduuri või uurib laual lamavat inimfiguuri",
+        "Kummardub üle laua",
+        "Töötab kätega"
+      ],
+      "keywords": [
+        "operatsioonisaal",
+        "lahkamisruum",
+        "meditsiin",
+        "arst",
+        "kirurg",
+        "patsient",
+        "surnukeha",
+        "haigla",
+        "steriilne",
+        "töö",
+        "valge",
+        "sinine",
+        "laud",
+        "tuled",
+        "uurimine",
+        "protseduur"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "kirurgilised lambid",
+        "valged plaaditud seinad",
+        "meditsiinitöötaja",
+        "kirurgiline kitel",
+        "kirurgimüts",
+        "kindad",
+        "kirurgiline laud",
+        "inimfiguur (patsient/surnukeha)",
+        "must lina/kott",
+        "valge tahvel",
+        "käekiri",
+        "joonistused",
+        "puidust rest",
+        "ratastel metalllaud",
+        "laptop",
+        "tass",
+        "paberkäterätiku hoidik"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#ADD8E6",
+        "#0000FF",
+        "#000000",
+        "#808080",
+        "#F5DEB3"
+      ],
+      "texts": [
+        "2x kirja",
+        "2x nägu/küsimärk"
+      ],
+      "persons": [
+        "meditsiinitöötaja",
+        "inimfiguur (patsient/surnukeha)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on meditsiinitöötaja pisut püstisemas asendis ja tema käed on kõrgemal. Teisel pildil on meditsiinitöötaja rohkem üle laua kummardunud ja tema käed on madalamal, mis viitab aktiivsemale tööle või täpsemale tegevusele."
+      ],
+      "snr": "004",
+      "ajad": [
+        "21.063",
+        "25.234"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha surnukeha alumine osa – jalad ja labajalad – metallist lahkamislaual või uurimislaual. Keha on selili asendis, jalad on laiali ja tallad on suunatud ülespoole. Laud on kaetud vere ja vedelikuga, mis viitab hiljutisele meditsiinilisele protseduurile, tõenäoliselt lahkamisele või põhjalikule puhastamisele. Vaade on osaliselt piiratud laua kohal oleva metallist konstruktsiooniga, mis on samuti vereplekiline. Jalad on nähtavalt kahvatud, kohati lillaka varjundiga, ja neil on näha karvakasvu. Varvastel on kohati tumedamaid plekke, mis võivad olla veri või sinakas-lillakas värvimuutus. Parema jala varvaste ümbruses on näha rohkem verd. Taustal on ähmaselt näha siniseid riideid ja käsi, mis viitab meditsiinipersonali kohalolekule ja tegevusele. Üldine toon on jahe ja steriilne, kuid veri lisab dramaatilisust ja vihjab traagilisele sündmusele.",
+      "actions": [
+        "Surnukeha lamab lahkamislaual",
+        "Laual on veri ja vedelik",
+        "Meditsiinipersonali käed on taustal nähtavad, vihjates keha uurimisele või ettevalmistamisele"
+      ],
+      "keywords": [
+        "autopsia",
+        "lahkamine",
+        "surnukeha",
+        "jalad",
+        "veri",
+        "meditsiiniline protseduur",
+        "morg",
+        "uurimislaud",
+        "kahvatu nahk",
+        "traagiline"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "inimese jalad",
+        "metallist lahkamislaud",
+        "veri",
+        "vedelik",
+        "metallist piire/konstruktsioon",
+        "meditsiinipersonali käed"
+      ],
+      "colorcodes": [
+        "#A37C7C",
+        "#6B0000",
+        "#B0B0B0",
+        "#DEDEDE",
+        "#405D7C"
+      ],
+      "texts": [],
+      "persons": [
+        "surnud isik (näha ainult jalad ja sääred)",
+        "meditsiinipersonali liige (näha käed ja osaliselt riietus)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "005",
+      "ajad": [
+        "25.234",
+        "29.404"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha minimalistlikku musta tausta, mille keskel paikneb valge suurtähtedes tekst \"FOUR BREATHS\". Tekst on lihtsa, selge ja modernse šriftiga, asetusega ekraani keskel. Pilt on staatiline ja fookus on ainsana ekraanil oleval tekstil. Puuduvad muud visuaalsed elemendid või detailid peale musta tausta ja valge kirja.",
+      "actions": [],
+      "keywords": [
+        "tekst",
+        "pealkiri",
+        "must taust",
+        "minimalism",
+        "juhend",
+        "sissejuhatus",
+        "hingamine",
+        "valge kiri"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "FOUR BREATHS"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": 90,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pilte vahel erinevusi ei ole."
+      ],
+      "snr": "006",
+      "ajad": [
+        "29.404",
+        "33.575"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha naine, kes istub laua taga meditsiinilises keskkonnas, tõenäoliselt kabinetis või laboris. Tal on seljas valge meditsiiniline kittel ja lühikesed punakaspruunid juuksed. Naine vaatab paremale (vaataja vasakule) ja on parajasti kas rääkimas või naeratamas. Tema rinnataskul on näha visiitkaart nimega ja logoga ning pastapliiatsid ja prillid. Mikrofoni juhe jookseb rinnataskus oleva mikrofoni külge. Naise vasakul käel asub laual professionaalne mikroskoop, selle taga arvutimonitor ja klaviatuur. Tagaplaanilt paistab valge sein, millel on riiul raamatute ja dokumentidega. Üldine valgus on ere ja ühtlane, viitades päevasele ajale siseruumis.",
+      "actions": [
+        "Rääkimine",
+        "Naeratamine",
+        "Istumine"
+      ],
+      "keywords": [
+        "Meditsiin",
+        "Labor",
+        "Mikroskoop",
+        "Arst",
+        "Kabinett",
+        "Töö",
+        "Naine",
+        "Siseruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Valge meditsiiniline kittel",
+        "Mikroskoop",
+        "Laud",
+        "Arvutimonitor",
+        "Klaviatuur",
+        "Riiul",
+        "Raamatud",
+        "Dokumendid",
+        "Nimesilt",
+        "Pastapliiatsid",
+        "Prillid",
+        "Mikrofon",
+        "Tool",
+        "Sein",
+        "Laualamp"
+      ],
+      "colorcodes": [
+        "#F5F5F5",
+        "#8B4513",
+        "#333333",
+        "#7B3F00",
+        "#E0E0D0"
+      ],
+      "texts": [
+        "www.tromboos.ee",
+        "Tromboosiühing",
+        "Kaarina Rätsep"
+      ],
+      "persons": [
+        "Kaarina Rätsep"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on naine avatud suuga rääkimas.",
+        "Teisel pildil on naine suletud suuga naeratamas.",
+        "Naise näoilme on muutunud rääkivast naeratavaks."
+      ],
+      "snr": "007",
+      "ajad": [
+        "33.575",
+        "40.540"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meditsiinilist laborit või lahkamissaali, kus kaks meditsiinitöötajat teostavad protseduuri lahkamislaual lebaval surnukehale. Ruumi seinad on kaetud valgete plaatidega ja valgustus on ere, tagades hea nähtavuse. Keskel asub roostevabast terasest lahkamislaud, millel lebav keha on osaliselt kaetud valge linaga. Keha jalad on paljastatud ja neil on näha ulatuslikud vigastused või lahkamisjäljed, kus on näha lihast ja kudesid. Üks meditsiinitöötaja, riietatud helesinisesse kaitserõivastusse ja siniste kinnastega, on kummardunud keha kohale ja näib kasutavat instrumenti. Teine töötaja, riietatud tumesinisesse riietusse, seisab laua taga ja assisteerib protseduuri. Vasakul on eraldi laud, millel on suur kuhjatis, mis näib olevat siseorganid või kuded, asetatud roostevabast terasest anumasse. Laual on ka sülearvuti ja muid esemeid. Ruumi valgustab suur, lakke kinnitatud operatsioonilamp, millel on kiri 'CHROMO-PHARE'. Tagapool on näha kraanikauss, riiulid meditsiiniliste tarvikutega ja valge uks, millel on tuvastatav tekst 'HÄÄLÄTUD'. Üldmulje on steriilne ja professionaalne.",
+      "actions": [
+        "Lahkamine",
+        "Surnukeha uurimine",
+        "Meditsiinilise protseduuri läbiviimine",
+        "Assisteerimine",
+        "Instrumentide kasutamine"
+      ],
+      "keywords": [
+        "Lahkamissaal",
+        "Morgue",
+        "Patoloogia",
+        "Meditsiin",
+        "Surnukeha",
+        "Kirurgia",
+        "Teadus",
+        "Haigla",
+        "Lõikus",
+        "Autopsia"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Lahkamislaud",
+        "Surnukeha",
+        "Meditsiinitöötajad",
+        "Siseorganid",
+        "Kirurgiline lamp",
+        "Kaitserõivad",
+        "Kirurgilised kindad",
+        "Sülearvuti",
+        "Kraanikauss",
+        "Riiulid",
+        "Valged plaadid",
+        "Roostevabast terasest anum",
+        "Valge uks",
+        "Kirurgilised instrumendid"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#A3C9F7",
+        "#4F70AB",
+        "#876E6A",
+        "#545E65",
+        "#C4B9AA"
+      ],
+      "texts": [
+        "CHROMO-PHARE",
+        "HÄÄLÄTUD"
+      ],
+      "persons": [
+        "Meditsiinitöötaja (helesinine riietus)",
+        "Meditsiinitöötaja (tumesinine riietus)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "008",
+      "ajad": [
+        "40.540",
+        "43.961"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meditsiinilises keskkonnas või laboris töötavat naist, kes istub laua taga ja räägib. Tema ees on töölaual laiaulatuslik mikroskoop, arvutimonitor ja klaviatuur. Naine kannab valget laborikitlit, mille rinnataskul on näha logo ja tekstid, ning kaelarihma küljes nimesilt. Ta on pööratud kaamera poole ja vaatab veidi vasakule, suu on avatud, mis annab märku, et ta räägib. Taustal on riiulid raamatute ja dokumentidega ning heledad seinad. Üldine atmosfäär on professionaalne ja informatiivne, võimalik, et tegemist on intervjuuga või selgitusega.",
+      "actions": [
+        "rääkimine",
+        "istumine"
+      ],
+      "keywords": [
+        "labor",
+        "meditsiin",
+        "teadus",
+        "arst",
+        "õde",
+        "uurija",
+        "kontor",
+        "mikroskoop",
+        "intervjuu",
+        "töö"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "laborikitli",
+        "töölaud",
+        "mikroskoop",
+        "arvutimonitor",
+        "klaviatuur",
+        "laualamp",
+        "riiul",
+        "raamatud",
+        "dokumendid",
+        "pastapliiatsid",
+        "nimesilt",
+        "kõrvaklapid",
+        "tool",
+        "sein"
+      ],
+      "colorcodes": [
+        "#F5F5F5",
+        "#D5E1CE",
+        "#A57C5B",
+        "#1A1A1A",
+        "#9D433A",
+        "#6C4E3A",
+        "#E0E0E0"
+      ],
+      "texts": [
+        "www.tromboos.ee",
+        "Tromboosi-ühing",
+        "Kaarin Ristmägi",
+        "SEADUS",
+        "EESKIRI"
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise suu asend on pisut erinev, viidates pidevale kõnele või liikumisele lause keskel.",
+        "Naise näoilme on veidi muutunud, suu on esimesel pildil pisut laiemalt avatud kui teisel.",
+        "Naise pilgu suund on mõnevõrra muutunud kaadrite vahel."
+      ],
+      "snr": "009",
+      "ajad": [
+        "43.961",
+        "49.174"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meditsiinilist protseduuri, tõenäoliselt lahkamist või kohtumeditsiinilist uuringut, mida viiakse läbi surnud meesterahva kehal eredalt valgustatud, steriilses ruumis. Ruumi seinad on kaetud valgete plaatidega ja see näib olevat spetsiaalne meditsiiniasutus, tõenäoliselt surnukuur või operatsioonituba. Esilplaanil on meessoost meditsiinitöötaja, kes kannab helesinist kirurgilist kitlit, heledat rohelist kirurgimütsi, siniseid kaitsekindaid ja tumedate raamidega prille. Ta on sügavalt keskendunud lamava surnukeha rinnale ja kõhuõõnele. Tema käed on seotud rinna-/kõhupiirkonnaga, kus suur sisselõige paljastab sisemisi kudesid ja võimalik, et elundeid, mis on sügavpunase ja toore välimusega. Surnukeha ise näitab märkimisväärset laiba laike või verevalumeid, eriti lillat värvimuutust rinnal, kaelal ja kätel. Valge lina või rätik katab keha alumist osa ja on osaliselt määrdunud verega pea lähedal. Taustal, vasakul, on osaliselt näha teine meditsiinitöötaja, tõenäoliselt naine, kes on samuti riietatud helesinisesse kitlisse ja mütsi ning näib olevat hõivatud sarnase ülesandega või varustuse ettevalmistamisega. Taustal on näha erinevaid meditsiinilisi esemeid ja haiglainfrastruktuuri, nagu metallist alused, must prügikott, paberjaotaja seinal ja tekstiga uks. Üleval ripuvad torud või kaablid, mis viitavad spetsialiseeritud seadmetele. Üldine atmosfäär on kliiniline ja keskendunud.",
+      "actions": [
+        "Lahangu sooritamine",
+        "Meditsiinilise uuringu läbiviimine",
+        "Kirurgiliste instrumentidega töötamine",
+        "Keha sisselõike uurimine",
+        "Meditsiinilise varustuse ettevalmistamine (taustal)"
+      ],
+      "keywords": [
+        "Autopsia",
+        "Lahang",
+        "Kohtumeditsiin",
+        "Patoloog",
+        "Meditsiiniline protseduur",
+        "Surnukuur",
+        "Operatsioonituba",
+        "Kaitsevarustus",
+        "Verevalumid",
+        "Lividiteet",
+        "Kirurgiline kittel",
+        "Keha uurimine",
+        "Siseorganid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Surnukeha",
+        "Meditsiiniline laud",
+        "Meditsiinitöötaja (mees)",
+        "Meditsiinitöötaja (naine, taustal)",
+        "Kirurgiline kittel (helesinine)",
+        "Kirurgimüts (heleroheline)",
+        "Kaitsekindad (sinised)",
+        "Prillid (tumeda raamiga)",
+        "Meditsiinilised instrumendid",
+        "Valge lina/rätik",
+        "Valged plaaditud seinad",
+        "Ukseava",
+        "Prügikott (must)",
+        "Paberjaotaja (valge)",
+        "Metallist alus/konsool",
+        "Rippuvad torud/kaablid",
+        "Seinakontaktid/lülitid"
+      ],
+      "colorcodes": [
+        "#90BEE7",
+        "#6BB0DC",
+        "#B4CFCF",
+        "#95B4B4",
+        "#5A83BE",
+        "#3A73B0",
+        "#F0F0F0",
+        "#FFFFFF",
+        "#7E4F6F",
+        "#D01F1F",
+        "#B20F0F",
+        "#5C3D2E",
+        "#202020",
+        "#2A4060",
+        "#B0B0B0",
+        "#D0D0D0"
+      ],
+      "texts": [
+        "HOOLDUS"
+      ],
+      "persons": [
+        "Patoloog/Arst (mees)",
+        "Meditsiiniõde/Assistent (naine)",
+        "Surnukeha (mees)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 10,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on peamine meessoost meditsiinitöötaja pisut kaldu, teisel pildil on ta otsemalt surnukeha poole suunatud ja kergelt püstisema kehahoiakuga.",
+        "Mehe parema käe asend on veidi muutunud, küünarnukk on teisel pildil veidi sirgem.",
+        "Kaadri fookus on esimesel pildil veidi laiemalt hajutatud, teisel pildil tundub see olevat pisut teravamalt suunatud peamise tegevuse ja mehe näo poole.",
+        "Väikesed nihked kaamera asendis või hetkelises tegevuses, mis viitab video kaadritele."
+      ],
+      "snr": "010",
+      "ajad": [
+        "49.174",
+        "53.470"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist naist valges meditsiinikitlis istumas kontori- või laborikeskkonnas. Naisel on lühikesed punakaspruunid juuksed ja ta vaatab kergelt vasakule, suunaga kaamerast eemale, näoilme viitab vestlusele või esitlusele. Tema kitli küljes on väike rinnamikrofon ja rinnas ripub nimesilt tekstiga \"Kaarina Rannmägi\". Kitli rinnataskus on pliiatsid, mille hulgas on näha ka tekst \"Jaana Oihberg\". Tema selja taga vasakul pool on lauapeal kaasaegne laborimikroskoop, mille kõrval on arvutimonitor ja klaviatuur. Laua kohal seinal on valged riiulid, millel on reas raamatud ja paberikaustad. Ruumi seinad on heledad, kergelt roheka tooniga. Üldine õhkkond on professionaalne ja meditsiiniline.",
+      "actions": [
+        "naine räägib või kuulab",
+        "naine istub"
+      ],
+      "keywords": [
+        "arst",
+        "meditsiin",
+        "labor",
+        "kontor",
+        "naine",
+        "mikroskoop",
+        "teadus",
+        "spetsialist",
+        "intervjuu",
+        "valge kittel",
+        "arvuti",
+        "raamatud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "meditsiinikittel",
+        "mikroskoop",
+        "arvutiekraan",
+        "klaviatuur",
+        "riiulid",
+        "raamatud",
+        "paberid",
+        "pliiatsid",
+        "mikrofon",
+        "nimesilt",
+        "tool",
+        "laud",
+        "kõrvarõngad"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#8C593C",
+        "#B0B0B0",
+        "#000000",
+        "#E0E4D5"
+      ],
+      "texts": [
+        "www.tromboos.ee",
+        "Jaana Oihberg",
+        "Kaarina Rannmägi"
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise suu asend ja näoilme on veidi erinevad, mis viitab kõnelemisele või liikumisele kaadrite vahel. Esimesel pildil on naise suu kergelt lahti ja ta naeratab veidi laiemalt, teisel pildil on suu suletud või peaaegu suletud ja naeratus tagasihoidlikum."
+      ],
+      "snr": "011",
+      "ajad": [
+        "53.470",
+        "58.850"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meditsiinilist protseduuri, tõenäoliselt lahkamist või surnukeha ettevalmistamist, mis toimub steriilses siseruumis. Fookuses on meditsiinitöötaja käed, kes kannab siniseid kindaid ja helesinist kaitsehommikumantlit, ning surnukeha ülakeha. Surnukeha on karvane ja selle rinna- või kõhupiirkonnal on näha punakaid jälgi, mis viitavad verele, haavadele või varasematele sisselõigetele. Töötaja manipuleerib kätega nahka ja kudesid, teostades nähtavasti õmblemist või mingit sarnast detailset tööd. Ühes käes paistab olevat punakas niit või instrument, samal ajal kui teine käsi on märja väljanägemisega ja tegutseb otse kehal, tõmmates või sidudes. Taust on hele, viidates meditsiinilisele või laboratoorsele keskkonnale.",
+      "actions": [
+        "Meditsiinilise protseduuri läbiviimine",
+        "Õmblemine",
+        "Haava sulgemine",
+        "Kudede manipuleerimine",
+        "Naha töötlemine",
+        "Instrumendi käsitsemine"
+      ],
+      "keywords": [
+        "Lahkamine",
+        "Meditsiiniprotseduur",
+        "Surnukeha",
+        "Kirurgia",
+        "Õmblused",
+        "Kaitsevarustus",
+        "Kindad",
+        "Rindkere",
+        "Kõht",
+        "Post-mortem",
+        "Patoanatoomia",
+        "Meditsiin"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Surnukeha ülakeha",
+        "Meditsiinitöötaja käed",
+        "Sinised kindad",
+        "Helesinine kaitsehommikumantel",
+        "Karvad",
+        "Veri",
+        "Punakas niit/instrument",
+        "Hele sein"
+      ],
+      "colorcodes": [
+        "#4692C5",
+        "#A0DBEB",
+        "#FFFFFF",
+        "#BF2B2B",
+        "#33261C",
+        "#D4C6A2",
+        "#7D5C45"
+      ],
+      "texts": [],
+      "persons": [
+        "Meditsiinitöötaja",
+        "Surnud isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Käte asend ja liikumine edasi protseduuri käigus on iga pildi vahel erinev.",
+        "Esimesel pildil on vasakus käes selgemalt näha punakas niit või instrument.",
+        "Teisel pildil on parem käsi veidi teises asendis, justkui sooritaks naha tõmbamist või kohandamist.",
+        "Kolmandal pildil on parem käsi selgemalt näha õmbluse või sidumise liigutust tegemas, sõrmed on rohkem kokku surutud ja fokusseeritud konkreetsele manöövrile.",
+        "Surnukeha piirkond, millega töötatakse, on iga kaadri puhul pisut erinevalt fookuses, kajastades protseduuri järkjärgulist edenemist."
+      ],
+      "snr": "012",
+      "ajad": [
+        "58.850",
+        "61.687"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist lühikeste punakaspruunide juustega naist, kes istub laua taga ja räägib. Ta kannab valget laborimantlit, mille rinnale on kinnitatud mikrofon, ID-kaart ja kaks pastakat. Naine vaatab otse kaamerasse ja tema suu on avatud, justkui rääkides või selgitades midagi. Taustal vasakul on näha valge riiul raamatute ja pruunide dokumentidega. Laual naise ees, vasakul, seisab suur valge ja must mikroskoop, selle taga aga arvutimonitor ja klaviatuur. Üldine keskkond viitab laborile või kontorile. Paremal taustal on hele, peaaegu valge sein.",
+      "actions": [
+        "Naine räägib",
+        "Naine istub"
+      ],
+      "keywords": [
+        "laboratoorium",
+        "meditsiin",
+        "teadlane",
+        "arst",
+        "kontor",
+        "vestlus",
+        "mikroskoop",
+        "tervishoid",
+        "uurimistöö",
+        "professionaal"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "laborimantel",
+        "mikrofon",
+        "ID-kaart",
+        "pastakad",
+        "mikroskoop",
+        "arvutimonitor",
+        "klaviatuur",
+        "riiul",
+        "raamatud",
+        "dokumendid",
+        "laud",
+        "tool",
+        "kaabel"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#F5F5F5",
+        "#7B3E31",
+        "#000000",
+        "#333333",
+        "#0000FF",
+        "#007BFF",
+        "#E0E0E0",
+        "#5C4033"
+      ],
+      "texts": [
+        "www.tromboos.ee",
+        "tromboos.ühine",
+        "Kaarina Ränimägi"
+      ],
+      "persons": [
+        "Kaarina Ränimägi"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise suu asend on erinev: esimesel pildil on see kergelt avatud, teisel aga laiemalt avatud, mis näitab rääkimise kulgu.",
+        "Naise parema käe asend muutub veidi teisel pildil, viidates liigutusele rääkimise ajal."
+      ],
+      "snr": "013",
+      "ajad": [
+        "61.687",
+        "65.941"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laboratooriumi või teadustöö keskkonda, kus teadlane või meditsiinitöötaja uurib mikroskoobi all proove. Kaadris on näha lühikeste pruunikaspunaste juustega inimene, kes kannab valget laborikitlit ja pilkupüüdvaid ehteid – stiliseeritud geomeetrilise kujutisega kõrvarõngaid. Isik on süvenenud töösse, hoides paremat kätt mikroskoobi reguleerimisnuppudel ja vaadates läbi okulaaride. Tema paremal randmel on näha kuldne käekell. Mikroskoop on modernne, valget ja halli värvi digitaalne mudel. Taustal on valge riiul, kuhu on paigutatud mitu tumedat kausta, virn pabereid ning kollane märkmeleht osaliselt loetava tekstiga. Mikroskoobi taga on näha ka arvutiekraan, mis kuvab andmeid. Üldine õhkkond on töine ja keskendunud teadustööle.",
+      "actions": [
+        "Mikroskoobiga uurimine",
+        "Mikroskoobi reguleerimine",
+        "Laboritöö tegemine"
+      ],
+      "keywords": [
+        "Labor",
+        "Mikroskoop",
+        "Teadlane",
+        "Uurimine",
+        "Laborikittel",
+        "Meditsiin",
+        "Analüüs",
+        "Töö"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mikroskoop",
+        "Laborikittel",
+        "Kõrvarõngad",
+        "Käekell",
+        "Riiul",
+        "Kaustad",
+        "Paberid",
+        "Märkmeleht",
+        "Arvutiekraan",
+        "Laud"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000",
+        "#783F2B",
+        "#CFA25C",
+        "#FDF498",
+        "#B0B0B0"
+      ],
+      "texts": [
+        "SEDA ABJA",
+        "KIN"
+      ],
+      "persons": [
+        "Teadlane"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil ei ole näha isiku paremat kätt mikroskoobil, teisel pildil on isiku parem käsi nähtav, toetudes mikroskoobile reguleerimisnuppude juures ja sellel on kuldne käekell."
+      ],
+      "snr": "014",
+      "ajad": [
+        "65.941",
+        "68.235"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivaates inimest, tõenäoliselt naist, kes vaatab intensiivselt läbi mikroskoobi okulaari. Ta kannab valget särki või laborikitlit ja tal on lühikesed, pruunikad juuksed. Tema nägu on profiilis ja väljendab keskendumist. Paremas kõrvas on tal silmapaistev nelinurkne, tume metallist kõrvarõngas, mille sees on kujutatud stiliseeritud taime- või oksakujutis. Mikroskoop on modernne, musta ja halli värvi, okulaaril on näha logo 'Nikon'. Taust on hägune, viidates siseruumile, mis võib olla labor või uurimisruum, kus on näha riiuleid või muud varustust.",
+      "actions": [
+        "Vaatamine mikroskoobi kaudu",
+        "Uurimine",
+        "Keskendumine"
+      ],
+      "keywords": [
+        "Mikroskoop",
+        "Teadlane",
+        "Labor",
+        "Uurimine",
+        "Fookus",
+        "Kõrvarõngas",
+        "Nikon",
+        "Laborivarustus",
+        "Meditsiin",
+        "Bioloogia"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mikroskoop",
+        "Inimese pea",
+        "Kõrvarõngas",
+        "Valge särk/laborikitli osa",
+        "Juuksed",
+        "Nikon logo",
+        "Hägune taust",
+        "Riiuli serv (taustal)"
+      ],
+      "colorcodes": [
+        "#1c1f20",
+        "#a2a2a2",
+        "#f5f5f5",
+        "#5d3d2c",
+        "#b8867a",
+        "#423632",
+        "#e3e3e3"
+      ],
+      "texts": [
+        "Nikon"
+      ],
+      "persons": [
+        "Teadlane",
+        "Laborant",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 5,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevusi ei ole."
+      ],
+      "snr": "015",
+      "ajad": [
+        "68.235",
+        "70.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab naist, kes istub kontori- või laborikeskkonnas ja on kaamera poole pööratud. Tal on lühikesed punakaspruunid juuksed ja ta kannab valget meditsiinikitlit. Tema ees ja vasakul on näha töölaud koos mikroskoobi, arvutimonitori ja klaviatuuriga. Laual on ka erinevaid laboritarbeid, nagu pudelid ja dokumendid. Tagaplaanil on riiulid raamatute ja kaustadega. Naine vaatab paremale, pisut kaamerast eemale. Tema rinnataskul on nimesilt, millel on näha tekst ja väike pilt temast, samuti on näha veebiaadress ja organisatsiooni nimi. Ta kannab rinnamikrofoni. Stseen on heledalt valgustatud, mis viitab päevasele ajale siseruumides.",
+      "actions": [
+        "Naine räägib või kuulab (esimene kaader)",
+        "Naine naeratab (teine kaader)"
+      ],
+      "keywords": [
+        "laboratoorium",
+        "arst",
+        "meditsiin",
+        "mikroskoop",
+        "kontor",
+        "naine",
+        "valge kitli",
+        "töökoht",
+        "uurimistöö",
+        "tervishoid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "valge meditsiinikitli",
+        "mikroskoop",
+        "arvutimonitor",
+        "klaviatuur",
+        "riiulid",
+        "raamatud",
+        "dokumendid",
+        "pastapliiatsid",
+        "nimesilt",
+        "rinnamikrofon",
+        "laualamp",
+        "tool",
+        "pudelid laual"
+      ],
+      "colorcodes": [
+        "#F5F5F5",
+        "#D8E2DC",
+        "#8B4513",
+        "#36454F",
+        "#E0B49B"
+      ],
+      "texts": [
+        "www.tromboos.ee",
+        "tromboosiklubi",
+        "Kaarina Reimägi",
+        "SINN",
+        "14"
+      ],
+      "persons": [
+        "Kaarina Reimägi"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on naise suu kergelt avatud, justkui ta räägiks või oleks poole lause peal, ja tema näoilme on neutraalsem.",
+        "Teisel pildil naeratab naine laialt, suu on suletud ja silmad kergelt kissis, väljendades rõõmsameelset emotsiooni."
+      ],
+      "snr": "016",
+      "ajad": [
+        "70.320",
+        "79.079"
+      ]
+    },
+    {
+      "explanation": "Stseenil on lähikaadris naine, kes kannab meditsiinilist riietust – helesinist kirurgilist mütsi ja sama värvi ühekordset hommikumantlit. Tema pea on kergelt allapoole suunatud, pilk keskendunud millegile, mis jääb kaadrist välja, vihjates meditsiinilise protseduuri läbiviimisele või hoolikale tööle. Tema näoilme on tõsine ja keskendunud. Vasakul küljel on näha roostevabast terasest tilguti statiivi, mille küljes ripub läbipaistev vedelikku sisaldav kott. Taust on hele, valgete kahhelplaatidega sein, mis loob steriilse ja kliinilise keskkonna. Naisel on kõrvas ka tumedat värvi piklikud kõrvarõngad, mis on abstraktselt kujundatud.",
+      "actions": [
+        "Keskendunult allapoole vaatamine",
+        "Meditsiinilise protseduuri läbiviimine"
+      ],
+      "keywords": [
+        "Meditsiin",
+        "Operatsioon",
+        "Haigla",
+        "Kirurg",
+        "Arst",
+        "Protseduur",
+        "Keskendumine",
+        "Steriilne",
+        "Naine",
+        "Tilguti"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Roheline kirurgiline müts",
+        "Sinine kirurgiline hommikumantel",
+        "Kõrvarõngad",
+        "Tilguti statiiv",
+        "Tilguti kott",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#9AD1C7",
+        "#ADD8E6",
+        "#D8B7A4",
+        "#F0F0F0",
+        "#333333",
+        "#C8D8EB",
+        "#DDDDDD"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel on väga väikesed, peaaegu märkimatud erinevused naise pea asendis ja pilgu suunas, mis viitavad hetkelisele liikumisele või väga lühikesele ajavahemikule kaadrite vahel. Üldine kompositsioon ja valgus on identne."
+      ],
+      "snr": "017",
+      "ajad": [
+        "79.079",
+        "84.793"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine naine, kes istub töölaua taga ja räägib otse kaamerasse. Tal on seljas valge laborimantel ja lühikesed punakas-pruunid juuksed. Tema mantli külge on kinnitatud must mikrofon ja kaelas on ID-kaardi hoidja, millel on näha tekst 'www.tromboos.ee', 'jooned-ühing' ning nimi 'Katriina Rohtmägi' koos väikese fotoga. ID-kaardi hoidja küljes on ka kaks pastapliiatsit, üks sinine ja teine roheline. Naise vasakul käel, laua peal, seisab suur valge ja must mikroskoop. Mikroskoobi taga on näha arvutimonitor ja klaviatuur. Taustal vasakul on riiul raamatute ja kaustadega, mis annab edasi akadeemilise või teadusliku keskkonna. Tuba on heledalt valgustatud, seinad on helerohekat või beeži tooni.",
+      "actions": [
+        "Naine räägib",
+        "Naine istub"
+      ],
+      "keywords": [
+        "Tervishoid",
+        "Labor",
+        "Teadus",
+        "Naine",
+        "Mikroskoop",
+        "Kontor",
+        "Intervjuu",
+        "Meditsiin",
+        "Uurimine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Valge laborimantel",
+        "Mikrofon",
+        "ID-kaardihoidja",
+        "Pastapliiatsid",
+        "Mikroskoop",
+        "Laud",
+        "Arvutimonitor",
+        "Klaviatuur",
+        "Raamaturiiul",
+        "Raamatud",
+        "Kaustad",
+        "Paberid",
+        "Sein",
+        "Tool",
+        "Laualamp"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#D8DDCF",
+        "#1A1A1A",
+        "#8B4513",
+        "#007FFF",
+        "#008000",
+        "#F8F8F8",
+        "#A52A2A"
+      ],
+      "texts": [
+        "www.tromboos.ee",
+        "jooned-ühing",
+        "Katriina Rohtmägi"
+      ],
+      "persons": [
+        "Katriina Rohtmägi"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise suu asend on veidi erinev, mis annab edasi liikumise ja kõnelemise mulje kaadrite vahel."
+      ],
+      "snr": "018",
+      "ajad": [
+        "84.793",
+        "97.264"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud naist meditsiinilises keskkonnas, tõenäoliselt operatsioonisaalis või laboris. Ta kannab helesinist kirurgilist hommikumantlit ja heledat ühekordset juuksevõrku. Hommikumantli alt paistab tumesinine tööriietuse ülaosa. Naise nägu on fookuses, tema pilk on suunatud allapoole ja paremale, kus on osaliselt näha mingi meditsiiniline seade või anum. Esimesel hetkel on naise suu avatud, justkui ta räägiks või reageeriks millelegi, samas kui teisel hetkel on suu kergelt suletud, andes mõtlikuma või kuulavama ilme. Tema silmad näivad pisut vesised või väsinud. Naise kõrvades on näha pikad, tumedad kõrvarõngad. Taust on hele ja steriilne, koosnedes valgetest kahhelplaatidest seinal ja heledast laest koos valgustusega, mis viitab kliinilisele keskkonnale.",
+      "actions": [
+        "Rääkimine",
+        "Vaatamine",
+        "Reageerimine",
+        "Töötamine"
+      ],
+      "keywords": [
+        "Meditsiiniline personal",
+        "Operatsioonisaal",
+        "Kirurgiline riietus",
+        "Tervishoid",
+        "Naisterahvas",
+        "Keskendunud",
+        "Siseruum",
+        "Sterilne",
+        "Arst",
+        "Õde"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kirurgiline hommikumantel",
+        "Juuksevõrk",
+        "Tööriided",
+        "Kõrvarõngad",
+        "Meditsiiniline seade/anum",
+        "Seinaplaadid",
+        "Valgusti"
+      ],
+      "colorcodes": [
+        "#B1D0E4",
+        "#3D5985",
+        "#F2F7F9",
+        "#DDEEF5",
+        "#E9B4AE",
+        "#2B2B2B"
+      ],
+      "texts": [],
+      "persons": [
+        "Naisterahvas",
+        "Meditsiinitöötaja"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise suu asend on erinev; esimesel pildil on see avatud, teisel pildil kergelt suletud.",
+        "Naise näoilme on veidi muutunud, mis viitab käimasolevale tegevusele või vestlusele."
+      ],
+      "snr": "019",
+      "ajad": [
+        "97.264",
+        "101.226"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist naist, kes istub laua taga toas, mis näib olevat labor või kabinet. Naine on kaadri keskel ja vaatab otse ette, rääkides. Tal on seljas valge kraega pikkade varrukatega pluus, mis meenutab laborikitlit. Naisel on lühikesed punakaspruunid juuksed ja ta kannab kõrvarõngaid. Rindkere külge on kinnitatud rinnasilt, millel on tekst ja mille küljes on ka must mikrofon. Tema taga vasakul on suur valge ja musta värvi mikroskoop, mille ees on musta ekraaniga arvutimonitor ja klaviatuur. Monitori taga on laual valge lauavalgusti. Taustal paremal on näha heleda seinaga tuba, kus on nagis rippumas heledad esemed. Taustal vasakul, naise selja taga on seinal riiul, millel on raamatud ja paberid, sealhulgas kollane kleepmärkmepaber. Kogu stseen on hästi valgustatud ja annab professionaalse mulje.",
+      "actions": [
+        "naine räägib",
+        "naine istub"
+      ],
+      "keywords": [
+        "labor",
+        "kabinet",
+        "teadlane",
+        "intervjuu",
+        "meditsiin",
+        "mikroskoop",
+        "arvuti",
+        "professionaalne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "laud",
+        "mikroskoop",
+        "arvutimonitor",
+        "klaviatuur",
+        "riiulid",
+        "raamatud",
+        "paberid",
+        "laualamp",
+        "tool",
+        "mikrofon",
+        "rinnasilt",
+        "pastakad",
+        "kõrvarõngad",
+        "kleepmärkmepaber"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#8B4513",
+        "#ADD8E6",
+        "#F5F5DC",
+        "#000000",
+        "#C0C0C0",
+        "#800000",
+        "#FFFF00"
+      ],
+      "texts": [
+        "www.tromboos.ee",
+        "tromboosiohlikkus",
+        "Kaarin Ristmägi"
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "020",
+      "ajad": [
+        "101.226",
+        "106.606"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivõttes inimese käsi, kes kirjutab paberivormile. Isik kannab valget kitlit, mis viitab meditsiinivaldkonnale. Paremal käel on näha nimesilt kirjaga \"Kaarina R.\" ja \"Arst-resident\". Käed hoiavad sinist pastapliiatsit ja kirjutavad rohekatoonilisele blanketile. Blangi peal on osaliselt näha käsitsi kirjutatud infot, näiteks kuupäev \"23.05.2016\" ja sõna \"KIELIN\". Vasaku käe sõrmusesõrmes on näha kaks sõrmust. Taustal on uduselt näha arvutiklaviatuuri osa. Üldine keskkond on tõenäoliselt kabinet või vastuvõtutuba. Valgus on ere ja ühtlane, mis viitab päevasele ajale siseruumis.",
+      "actions": [
+        "Kirjutamine pastapliiatsiga",
+        "Vormi täitmine",
+        "Pliiatsi hoidmine"
+      ],
+      "keywords": [
+        "Meditsiin",
+        "Arst",
+        "Resident",
+        "Kirjutamine",
+        "Retsept",
+        "Dokument",
+        "Töö",
+        "Kabinet",
+        "Käed",
+        "Pliiats",
+        "Sõrmused",
+        "Kuupäev"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese käed",
+        "Sinine pastapliiats",
+        "Rohekas paberivorm/blankett",
+        "Laud",
+        "Valge arstikitli varrukas",
+        "Nimesilt",
+        "Kaks sõrmust",
+        "Klaviatuur"
+      ],
+      "colorcodes": [
+        "#F5F5F5",
+        "#0047AB",
+        "#F0C9B3",
+        "#D0E0D0",
+        "#D2B48C",
+        "#FFD700"
+      ],
+      "texts": [
+        "Kaarina R.",
+        "Arst-resident",
+        "23.05.2016",
+        "KIELIN"
+      ],
+      "persons": [
+        "Arst-resident Kaarina R."
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Pliiatsi asend ja käe hoiak muutuvad kergelt iga kaadri vahel, näidates kirjutamistegevuse dünaamikat.",
+        "Kirjutamise käik paberil on pisut erinev, kuna iga kaader jäädvustab toimingut eri hetkedel.",
+        "Esimesel ja kolmandal pildil on pliiats tihedamalt kirjutatava sõna \"KIELIN\" juures, teisel pildil on see veidi nihkunud või tõusnud."
+      ],
+      "snr": "021",
+      "ajad": [
+        "106.606",
+        "109.818"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaadet naise näost, kes on süvenenud ja vaatab allapoole. Tal on lühikesed, pruunikad juuksed ja ta kannab heledat, ilmselt valget või helehalli, kraega särki. Tema paremas kõrvas (vaataja vasakul) ripub unikaalne tume metallist kõrvarõngas, mis on ruudukujulise raami sees stiliseeritud puuoksa kujutisega. Naine on heleda nahaga, millel on kohati roosakas varjund, eriti esimeses kaadris. Tema silmad on alla suunatud, näol on keskendunud ilme. Ripsmed on tumedad ja selgelt nähtavad. Taust on ühtlane, hele ja udune, vihjates siseruumile.",
+      "actions": [
+        "Vaatab allapoole",
+        "Keskendub"
+      ],
+      "keywords": [
+        "Portree",
+        "Lähivaade",
+        "Keskendumine",
+        "Ehted",
+        "Siseruum",
+        "Naine",
+        "Kontsentratsioon"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Kõrvarõngas",
+        "Särk",
+        "Juuksed",
+        "Nägu",
+        "Ripsmed"
+      ],
+      "colorcodes": [
+        "#E2ADAF",
+        "#D8D9DB",
+        "#554137",
+        "#3D3D3D",
+        "#F0F0F0"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses pildis on naha toonil märgatavam roosakas-violetne varjund võrreldes teise ja kolmanda pildiga, mis on veidi neutraalsemad ja jahedamad.",
+        "Kõrvarõnga asend ja orientatsioon kõrva suhtes varieerub pisut kaadrite vahel, viidates väga väikesele pea liikumisele.",
+        "Fookus ja teravus on üldiselt järjepidev, kuid esimeses kaadris tundub kõrvarõngas olevat veidi selgemalt esile toodud."
+      ],
+      "snr": "022",
+      "ajad": [
+        "109.818",
+        "113.447"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab naist, kes istub laua taga sisetingimustes, tõenäoliselt laboris või kabinetis. Naine, kellel on lühikesed punakaspruunid juuksed, kannab valget laborikitlit ning tal on rinnale kinnitatud mikrofon ja mitu nimesilti koos pastakatega. Tema ilme viitab sellele, et ta on rääkimise või selgitamise keskel. Tema taga vasakul on valge riiul raamatute ja kaustadega, millele on kinnitatud kollane kleepmärge. Laua peal on märkimisväärne valge ja hall mikroskoop, osaliselt nähtav arvutimonitor ja klaviatuur. Üldine õhkkond on professionaalne ja uurimuslik.",
+      "actions": [
+        "Rääkimine",
+        "Selgitamine",
+        "Žestikuleerimine"
+      ],
+      "keywords": [
+        "Laboratoorium",
+        "Teadlane",
+        "Uurimine",
+        "Mikroskoop",
+        "Kabinet",
+        "Intervjuu",
+        "Meditsiin",
+        "Tervishoid",
+        "Naine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Mikroskoop",
+        "Laud",
+        "Riiul",
+        "Raamatud",
+        "Märkmed",
+        "Arvutimonitor",
+        "Arvuti klaviatuur",
+        "Laudlamp",
+        "Pastakad",
+        "Nimesildid",
+        "Mikrofon",
+        "Kõrvarõngad",
+        "Sein",
+        "Tooli seljatugi"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#D3D3D3",
+        "#000000",
+        "#F0E68C",
+        "#8B4513",
+        "#B0C4DE",
+        "#5F9EA0"
+      ],
+      "texts": [
+        "www.tromboos.ee",
+        "Joonas Qliking",
+        "Katerina Rutsing"
+      ],
+      "persons": [
+        "Katerina Rutsing"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naine on esimesel pildil neutraalsema näoilmega, avatud suuga justkui rääkimise keskel. Teisel pildil on ta naeratav, silmad kergelt kissis ja parem käsi (vaataja seisukohalt vasak) on tõstetud žestikuleerimiseks.",
+        "Teisel pildil on selgemalt näha alumise nimesildi tekst 'Katerina Rutsing'."
+      ],
+      "snr": "023",
+      "ajad": [
+        "113.447",
+        "134.509"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab väikest poissi, kes istub puidust laua taga ja vaatab suure huviga, kuidas täiskasvanu käsi valmistab või kaunistab šokolaadimuffineid. Poiss toetab oma pead käele ja jälgib toimingut pingsalt. Laual on must ahjuplaat, millel on mitu juba valmis või peaaegu valmis šokolaadimuffinit paberist vormides. Paremal pool on näha täiskasvanu käsi, mis hoiab lusikat ja on parasjagu hõivatud muffinitele midagi lisamisega või nende kaunistamisega metallist kausist/potist. Taustal on näha roheline sein ja pruun puidust uks kuldse ukselingiga. Laual, poisi ees, on ka paberite või raamatu virn.",
+      "actions": [
+        "Poiss istub laua taga ja vaatab.",
+        "Täiskasvanu käsi asetab lusikaga midagi muffinitele.",
+        "Muffineid valmistatakse või kaunistatakse.",
+        "Poiss ootab kannatlikult."
+      ],
+      "keywords": [
+        "Laps",
+        "Poiss",
+        "Muffinid",
+        "Šokolaad",
+        "Küpsetamine",
+        "Magustoit",
+        "Laud",
+        "Tool",
+        "Kök",
+        "Ootamine",
+        "Isud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Väike poiss",
+        "Täiskasvanu käsi",
+        "Puidust laud",
+        "Puidust tool",
+        "Must ahjuplaat",
+        "Šokolaadimuffinid",
+        "Paberist muffinivormid",
+        "Lusikas",
+        "Metallist kauss/pott",
+        "Roheline sein",
+        "Pruun puidust uks",
+        "Ukselink",
+        "Raamat/märkmik laual",
+        "Valge anum",
+        "Sinine anum"
+      ],
+      "colorcodes": [
+        "#C39F80",
+        "#3E8F6C",
+        "#785038",
+        "#60B0CC",
+        "#707572",
+        "#C29676",
+        "#40281F",
+        "#B0B0B0"
+      ],
+      "texts": [
+        "Ei ole loetav"
+      ],
+      "persons": [
+        "Väike poiss",
+        "Täiskasvanu (ainult käsi nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Täiskasvanu käe ja lusika asend on veidi erinev kahe kaadri vahel, mis näitab tegevuse jätkumist või liikumist. Esimesel pildil on lusikas veidi kõrgemal, justkui asetamas sisu muffinile, samas kui teisel pildil on lusikas veidi madalamal, lähemal muffinile või just lõpetamas tegevust."
+      ],
+      "snr": "024",
+      "ajad": [
+        "134.509",
+        "137.054"
+      ]
+    },
+    {
+      "explanation": "Pildil on näha keskealine naine lühikese punakaspruuni soenguga, kes kannab valget rüüüd või kitlit. Ta on pööratud kaamera poole ja naeratab kergelt, vaadates vasakule. Tema suu on veidi avatud, justkui rääkides või naerdes. Taustal vasakul pool on näha musta värvi optiline seade, mis sarnaneb mikroskoobi või mõne muu diagnostilise aparaadiga. Seadme all on näha musta värvi ekraan või monitor. Tuba on heledates toonides, tagasein on heleroheline. Taustal paremal on näha udune peegel ja riidepuu puidust nagadega. Ülemises vasakus nurgas on näha virn pabereid riiulil. Valgustus on ühtlane ja hele, viitades siseruumile. Naine kannab lihtsaid tumedaid kõrvarõngaid.",
+      "actions": [
+        "naine räägib",
+        "naine naeratab",
+        "naine vaatab vasakule"
+      ],
+      "keywords": [
+        "naine",
+        "arst",
+        "spetsialist",
+        "meditsiinitöötaja",
+        "valge kitli",
+        "mikroskoop",
+        "intervjuu",
+        "kliinik",
+        "kontor",
+        "siseruum",
+        "meditsiin",
+        "rõõmus",
+        "portree",
+        "teadus",
+        "labor"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "valge rüü/kitli",
+        "punakaspruunid juuksed",
+        "must optiline seade",
+        "monitor",
+        "heleroheline sein",
+        "peegel",
+        "riidepuu",
+        "paberipakid/dokumendid",
+        "kõrvarõngad"
+      ],
+      "colorcodes": [
+        "#e4bcb0",
+        "#713229",
+        "#f8f8f8",
+        "#c7d8c7",
+        "#201e1d"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 55,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltidel on näha peaaegu identset stseeni, kusjuures peamised erinevused on naise suu asendis ja näoilme nüanssides, mis viitavad pidevale rääkimisele või naeratamisele video salvestamise käigus. Esimesel pildil on naise suu veidi suletum naeratus, samas kui teisel ja kolmandal pildil on suu veidi rohkem avatud, justkui lause keskel."
+      ],
+      "snr": "025",
+      "ajad": [
+        "137.054",
+        "144.811"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine naine, kes on kaadris esiplaanil ja räägib või annab intervjuud. Tal on lühikesed, punakaspruunid juuksed, mis on stiilselt kammitud. Naine kannab valget püstkraega meditsiinilist kitlit või laborikitlit, mis viitab professionaalsele rollile, näiteks arstile või teadlasele. Tema näol on kerge naeratus ja ta vaatab otse kaamerasse. Tema silmad on sinised ja pilk on sõbralik. Paremas kõrvas on tal minimalistlik, abstraktse kujuga musta värvi kõrvarõngas. Taustal vasakul on näha osa mustast optilisest seadmest, mis sarnaneb mikroskoobiga, ja musta värvi ekraani või monitori. Paremas tagaplaanil on uduselt näha heleda seinaga ruum, kus paiknevad riiulid ja nagid. Nagis paistavad rippumas mõned rõivaesemed. Ruum on üldiselt heledates toonides ja jätab puhta ning korras mulje.",
+      "actions": [
+        "Rääkimine",
+        "Naeratamine",
+        "Vaatamine kaamerasse"
+      ],
+      "keywords": [
+        "Naine",
+        "Intervjuu",
+        "Arst",
+        "Teadlane",
+        "Valge kittel",
+        "Lühikesed juuksed",
+        "Portree",
+        "Meditsiin",
+        "Labor",
+        "Kabinet"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Valge kittel",
+        "Punased juuksed",
+        "Kõrvarõngas",
+        "Mikroskoop",
+        "Monitor",
+        "Riiulid",
+        "Riidenagi",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#FDFDFD",
+        "#96473D",
+        "#0A0B0C",
+        "#D5E0D5",
+        "#4A6E8D"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naise suu asend on piltide vahel veidi erinev, mis viitab vestluse kulgemisele. Esimesel pildil on naise suu veidi avatum ja laiemalt naeratav, teisel pildil on huuled rohkem kokku surutud, kuigi naeratus on endiselt näha."
+      ],
+      "snr": "027",
+      "ajad": [
+        "150.525",
+        "164.414"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaadet helesinistele meelespealilledele, mis õitsevad tihedalt koos rohelise lehestiku ja varte keskel. Lilled on väikesed ja neil on viis kroonlehte ning kollane südamik. Mõnedel õiepungadel ja õite servadel on märgata ka õrna roosakat tooni. Pildil on esiplaanil fookuses üksikud lilleõied ja nende kobar, samas kui taust on meeldivalt udune, näidates samuti rohkelt meelespeasid ja rohelust. Üldmulje on õrn, värske ja loomulik, pakkudes vaatajale rahulikku ja idüllilist loodushetke. Valgus on ere ja ühtlane, vihjates päikeselisele päevale.",
+      "actions": [
+        "lilled õitsevad"
+      ],
+      "keywords": [
+        "meelespea",
+        "lilled",
+        "kevad",
+        "suvi",
+        "aed",
+        "loodus",
+        "õitsemine",
+        "sinine",
+        "roheline",
+        "delikaatne",
+        "pastelne"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "meelespea lilled",
+        "rohelised lehed",
+        "rohelised varred",
+        "õienupud"
+      ],
+      "colorcodes": [
+        "#A8D1EE",
+        "#F0DD5F",
+        "#698C3E",
+        "#D1A2B5"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Pildid on peaaegu identsed, esinevad vaid väga väikesed nihked kaadri kompositsioonis ja fookuses, mis viitavad järjestikustele kaadritele videost või minimaalsele kaamera liikumisele. Esiplaanil olevad lilled on kõigis kaadrites fookuses, taust jääb udune. Olulisi erinevusi piltide vahel ei ole."
+      ],
+      "snr": "028",
+      "ajad": [
+        "164.414",
+        "170.128"
+      ]
+    },
+    {
+      "explanation": "Pildid on täiesti mustad ja neil puudub igasugune sisu või detail. Tegu on ühtlase musta värvipinnaga, mis ei kujuta ühtegi äratuntavat objekti, tegevust ega stseeni.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "pimedus",
+        "tühi",
+        "värvipind",
+        "sisutu",
+        "monokroomne"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": 100,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik pildid on identsed – täiesti mustad ja ilma igasuguse sisuta."
+      ],
+      "snr": "029",
+      "ajad": [
+        "170.128",
+        "170.921"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud siseruumi, kus valgel riiulil või laual asetseb keskselt türkiissinine Buddha pea kuju. Kuju on detailse tekstuuriga, kujutades rahuliku ilmega nägu ja kõrget, kuplitaolist peaosa. See seisab ristkülikukujulisel peegelalusel, mis peegeldab nii kuju ennast kui ka selle ees olevat kahte valget, ebakorrapärase kujuga kristalli. Paremal pool peegli kõrval on näha väike elegantne valge munakujuline dekoratiivese, millel on kuldsed või värvilised detailid ja mis seisab kolmel jalal. Taustaks on lihtne, helevalge sein, mis loob minimalistliku ja rahuliku atmosfääri. Valgus on pehme ja ühtlane, viitades päevavalgusele.",
+      "actions": [],
+      "keywords": [
+        "spirituaalne",
+        "dekoratsioon",
+        "interjöör",
+        "rahu",
+        "Buddha",
+        "kristallid",
+        "peegel",
+        "minimalism",
+        "valge",
+        "türkiis"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Buddha pea kuju",
+        "kristallid",
+        "peegelalus",
+        "dekoratiivmuna",
+        "valge riiul",
+        "valge sein"
+      ],
+      "colorcodes": [
+        "#4AC4C9",
+        "#F2F2F2",
+        "#FFFFFF",
+        "#B0D8D7"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "030",
+      "ajad": [
+        "170.921",
+        "173.048"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab detailset vaadet siseruumides asuvatele dekoratiivsetele esemetele, mis on paigutatud tumedale ümmargusele alusele või lauale. Esiplaanil keskel on valkjas, kergelt kulunud välimusega inglikuju, mis istub avatud raamatu kujulisel alusel. Ingel on detailse viimistlusega, näidates tiibu ja riidevoltidega kaetud keha. Inglist paremal on suur, lilla ja lihvitud kalliskivi või kristall. Tagaplaanil, ingli ja kalliskivi taga, on kaks suuremat tekstuuri ja vormiga eset: vasakul hallikas-valge, ebakorrapärase kujuga vaas või anum, ja paremal punakaspruun, krobeline ese, mis sarnaneb Himaalaja soolalambiga, millest jookseb välja valge juhe. Üldine meeleolu on rahulik ja kodune, keskendudes ornamentidele ja valgusallikale.",
+      "actions": [],
+      "keywords": [
+        "dekoratsioonid",
+        "inglikuju",
+        "kalliskivi",
+        "soolalamp",
+        "sisekujundus",
+        "ornament",
+        "vaikne stseen",
+        "elutuba",
+        "spirituaalne"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "inglikuju",
+        "lilla kalliskivi",
+        "tume kandik",
+        "dekoratiivne vaas",
+        "Himaalaja soolalamp",
+        "raamatu kuju",
+        "valge juhe"
+      ],
+      "colorcodes": [
+        "#CDCED0",
+        "#A126DD",
+        "#212328",
+        "#D9D9D9",
+        "#A86150",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "031",
+      "ajad": [
+        "173.048",
+        "175.675"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab fotot avatud raamatust, mille leheküljel on detailne ja värvikirev kunstiteos. Teosel on kaks majestuslikku, tiibadega ja halodega ingellikku figuuri, kes hõljuvad läbi dünaamilise pilvedega täidetud taeva. Vasakpoolsel figuuril on punakaspruunid juuksed ja ta hoiab käes heledat objekti või vormi. Parempoolsel figuuril on pikad, voogavad blondid juuksed. Mõlemad kannavad pikki, keerukate mustritega kaunistatud rõivaid, mis on dekoreeritud väikeste figuuride ja sümbolitega. Figuuride all on tormine, tumesinine meri valgete lainetega. Suur, tume mereimetaja, arvatavasti hüljes või merilõvi, on osaliselt vees näha vasakul all. Taevas, figuuride kohal, lendab kolm valget lindu, mis meenutavad kajakaid või tuvisid. Kogu kunstiteos on raamitud elegantse, tumeda kuldsete aktsentidega ornamendiga äärisega. Üldmulje on müstiline ja vaimne, ühendades taeva ja mere. Kahel pildil on näha alumisel osal valge subtiitrite riba tekstiga.",
+      "actions": [
+        "Hõljumine/lendamine (inglid)",
+        "Lendamine (linnud)",
+        "Ujumine (mereimetaja)",
+        "Laine moodustamine (meri)",
+        "Lugemine (implikatsioon raamatust)"
+      ],
+      "keywords": [
+        "Ingel",
+        "Tiivad",
+        "Halo",
+        "Müstika",
+        "Kunst",
+        "Maal",
+        "Illustratsioon",
+        "Raamat",
+        "Meri",
+        "Lained",
+        "Taevas",
+        "Pilved",
+        "Linnud",
+        "Mereimetaja",
+        "Vaimne maailm",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Raamat",
+        "Kunstiteos",
+        "Ingli figuur",
+        "Tiivad",
+        "Halo",
+        "Kleit/rõivad",
+        "Meri",
+        "Lained",
+        "Linnud",
+        "Mereimetaja (hüljes/merilõvi)",
+        "Pilved",
+        "Dekoratiivne raam",
+        "Subtiitrite riba"
+      ],
+      "colorcodes": [
+        "#7BA0D7",
+        "#123B68",
+        "#FFFFFF",
+        "#9D5C3E",
+        "#E0C988",
+        "#A68F5A"
+      ],
+      "texts": [
+        "My name is Harriet Piekkola and I work as a medium. So I work with the spiritual world."
+      ],
+      "persons": [
+        "Harriet Piekkola (nimetatud tekstis)",
+        "Kaks ingellikku figuuri (kujutatud kunstiteosel)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid, teisel ja kolmandal pildil on näha subtiitrid \"My name is Harriet Piekkola and I work as a medium. So I work with the spiritual world.\""
+      ],
+      "snr": "032",
+      "ajad": [
+        "175.675",
+        "179.429"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast siseruumi, tõenäoliselt elutuba või vaimse nõustamise kabinetti, kus blond naine keskeas, prillidega ja värvilise salliga istub laua taga ja räägib. Tema nägu on kaadri keskpunktis, suunaga otse vaataja poole. Naisel on seljas türkiissinine topp ja mitmevärviline, boheemlaslik sall, millel on roosad, sinised, rohelised ja kollased toonid. Tema kaelas ripub hõbedane kaelakee ripatsiga ja sõrmedel on mitu sõrmust. Naise selja taga ja vasakul on valge sein, mis on kaunistatud mitmete vaimsete esemete ja kunstiteostega. Vasakul pool laual on näha valge inglifiguur, mitmed kristallid ja kivid, metallist helikauss ja väike buda kuju. Tagaplaanil seinal rippuvad kaks raamitud maali. Paremal pool naise taga on näha helesinine voodi või diivan ja sellel sinine tekk, mis viitab magamistoa või puhkeala olemasolule. Ülemises paremas nurgas paistab teine raamitud pilt seinal. Laual naise ees on sinine keraamiline kann ja väike valge taldrik. Üldine atmosfäär on rahulik ja vaimne, mida rõhutavad paljud sisustusdetalild.",
+      "actions": [
+        "Naine räägib/annab intervjuud",
+        "Naine istub"
+      ],
+      "keywords": [
+        "Vaimne",
+        "Müstiline",
+        "Medium",
+        "Intervjuu",
+        "Kodu",
+        "Nõustamine",
+        "Rahulik",
+        "Siseinterjöör",
+        "Kristallid",
+        "Buddha",
+        "Inglifiguur"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Prillid",
+        "Multivärviline sall",
+        "Türkiissinine topp",
+        "Kaelakee",
+        "Sõrmused",
+        "Puust laud",
+        "Sinine keraamiline kann",
+        "Valge taldrik",
+        "Valge inglifiguur",
+        "Kogumik kristalle ja kive",
+        "Metallist helikauss",
+        "Buda kuju",
+        "Kaks raamitud maali seinal",
+        "Helesinine voodi/diivan",
+        "Voodikate",
+        "Roosa soolakivi lamp",
+        "Seinal rippuvad suled/kaunistused"
+      ],
+      "colorcodes": [
+        "#36C0CC",
+        "#F782C9",
+        "#8FD1F4",
+        "#B0E479",
+        "#FEE16F",
+        "#E3D29F",
+        "#F0C4A4",
+        "#0A0A0A",
+        "#486E9E",
+        "#F5F5F5",
+        "#2AB8BE",
+        "#A47B5A"
+      ],
+      "texts": [
+        "My name is Harriet Piekkola and I work as a medium. So I work with the spiritual world.",
+        "I was always quite lonely child and my mom told me that I had these invisible friends.",
+        "If you believe, that life continues after death, everything gets much more interesting."
+      ],
+      "persons": [
+        "Naine (Harriet Piekkola)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel muutuvad ekraanil olevad subtiitrid, kajastades naise jutu edenemist.",
+        "Naise suu ja näoilme muutuvad kergelt rääkides, kuid üldine poos ja pilk jäävad samaks."
+      ],
+      "snr": "033",
+      "ajad": [
+        "179.429",
+        "200.575"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat naist siseruumis, kes näib olevat vestluses. Tal on pikad heledad juuksed, mis langevad õlgadele, ja ta kannab helesinist pluusi ning värvilist, mustritega salli, mis on seotud tema kaela ümber. Salli värvipalett hõlmab roosasid, rohelisi, lillasid ja tumedaid toone. Naise kaelas on pikk hõbedane kaelakee, millel ripuvad kaks tumedat ripatsit. Tausta on näha heledaid seinu, kus esimeses kaadris paistab raamitud pilt, mis kujutab veidra ilmega, vanamoodsat beebi nägu. Hilisemates kaadrites nihkub fookus allapoole naise kehale, näidates tema kõhtu, tumedaid teksapükse ja läheduses asetsevat dekoratiivset puidust karpi. Kolmandas kaadris on näha ka sulega unenäopüüdja-sarnane ese. Vestlus käib elust pärast surma ja teadmistest, mida inimene endas kannab, nagu ilmneb subtiitritest. Üldine meeleolu on mõtisklev ja intiimne.",
+      "actions": [
+        "Kõnelemine",
+        "Kandmine (riided ja ehted)"
+      ],
+      "keywords": [
+        "Naine",
+        "Vestlus",
+        "Sisekliima",
+        "Vaimsus",
+        "Ehted",
+        "Särk",
+        "Sall",
+        "Maal",
+        "Unenäopüüdja"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Sall",
+        "Kaelakee",
+        "Maal (raamitud)",
+        "Puidust karp",
+        "Unenäopüüdja (sulgadega)",
+        "Helesinine pluus",
+        "Tumedad teksapüksid"
+      ],
+      "colorcodes": [
+        "#62b1b3",
+        "#f2f2f2",
+        "#f462a6",
+        "#9ee09e",
+        "#3d3d3d",
+        "#2c3a44",
+        "#7b5130",
+        "#d4a78c"
+      ],
+      "texts": [
+        "If you believe, that life continues after death, everything gets much more interesting.",
+        "Because we don't know everything, but at the same time all the knowledge is in us and"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader näitab naise nägu, dekolteed ja tausta koos maaliga.",
+        "Teine kaader keskendub naise kerele (kõhule ja rätile) ning näitab rohkem tema teksapükse.",
+        "Kolmas kaader on lähivõte naise kerest ja jalgadest, kus fookuses on unenäopüüdja siledad suled ning osa tema tumedatest teksapükstest ja särgi alaservast.",
+        "Subtiitrid muutuvad kaadrite vahel, kajastades jätkuvat dialoogi.",
+        "Kaadrite fookus nihkub naise näost allapoole keha ja detailidele."
+      ],
+      "snr": "034",
+      "ajad": [
+        "200.575",
+        "210.502"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat blondi naist intervjuul või vestlusel siseruumis, mis näib olevat kodu või vaimsele praktikale pühendatud ruum. Naine istub puidust laua taga, kandes sinise topiga salli, millel on mitmevärvilised mustrid (roosa, roheline, sinine, kollane). Tal on ees prillid, kaelas ripatsiga kaelakee ja käe peal käevõrud ning kell. Laud on ümmargune ja puidust, sellel on sinine savikann ja mõned valged dekoratiivesemed. Naise vasakul küljel, taustal, on valge riiul, kus on inglikuju, must Buddha kuju, laulukauss puidust kurikaga, erinevad kristallid ja Himaalaja soolalamp. Seintel on raamitud kunstiteosed, sealhulgas abstraktne pilt ja portree. Naise paremal küljel, taustal, on näha helesinise tekiga voodi. Valgus on ere ja ühtlane, mis viitab päevasele ajale. Naine räägib, mida kinnitavad tema avatud suu ja ekraanil kuvatavad subtiitrid.",
+      "actions": [
+        "Naine räägib",
+        "Naine istub",
+        "Kaamera salvestab"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Vaimsus",
+        "Kodu",
+        "Vaimne praktika",
+        "Naine",
+        "Kristallid",
+        "Buddha",
+        "Ingel",
+        "Laulukauss",
+        "Subtiitrid",
+        "Päevaaeg"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Blond naine",
+        "Prillid",
+        "Mitmevärviline sall",
+        "Sinine topp",
+        "Ehted",
+        "Ümmargune puidust laud",
+        "Sinine savikann",
+        "Valged dekoratiivesemed laual",
+        "Valge riiul/konsool",
+        "Valge ingli kuju",
+        "Musta Buddha kuju",
+        "Laulukauss",
+        "Puidust kurikas",
+        "Erinevad kristallid",
+        "Himaalaja soolalamp",
+        "Valged seinad",
+        "Raamitud kunstiteosed",
+        "Valge voodi",
+        "Helesinine voodikate"
+      ],
+      "colorcodes": [
+        "#D1B26E",
+        "#40B8DB",
+        "#DE88C2",
+        "#69C496",
+        "#56B8D8",
+        "#E8D882",
+        "#B38D66",
+        "#47729F",
+        "#DCE2E7",
+        "#D4C494",
+        "#75D4E1",
+        "#302B28",
+        "#E8E9EA"
+      ],
+      "texts": [
+        "around us. If we only want to understand it.",
+        "I believe, that our physical body is just a",
+        "shell of our soul. So when the body dies,",
+        "in every soul, there are many lived lives. So",
+        "the soul becomes a cluster of lives."
+      ],
+      "persons": [
+        "Keskealine/vanem blond naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub iga kaadriga, kajastades käimasolevat kõnet.",
+        "Naise suu asend ja käeliigutused varieeruvad kergelt vastavalt rääkimisele."
+      ],
+      "snr": "035",
+      "ajad": [
+        "210.502",
+        "247.706"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab detailset vaadet hõbedastest raamidest ja värvilisest klaasist valmistatud vitraažinglile, mis ripub õhukese niidi otsas helehalli-rohelise seina taustal. Inglil on heledast lillakast klaasist keha, helesinakas-rohelised tiivad ja pruunikas-hall pärl pea kohal, mida ümbritseb hõbedane oreool. Hõbedased metallist detailid raamivad klaasitükke ja annavad inglile selge kuju. Valgus on pehme ja hajutatud, valgustades inglit eestpoolt, luues kergeid varjundeid metallpindadele ja klaasile. Seina tekstuur on minimaalselt nähtav, pakkudes inglile neutraalset tausta. Stseen on üldiselt rahulik ja kontemplatiivne.",
+      "actions": [
+        "Ingel ripub"
+      ],
+      "keywords": [
+        "Vitraaž",
+        "Ingel",
+        "Ornament",
+        "Kunstiteos",
+        "Siseinterjöör",
+        "Rahulik",
+        "Vaikne",
+        "Meditatiivne",
+        "Sümbol",
+        "Klaas",
+        "Metall"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Vitraažingel",
+        "Sein",
+        "Niit"
+      ],
+      "colorcodes": [
+        "#a9b7b4",
+        "#d1c8d0",
+        "#b6d4cf",
+        "#8d878d",
+        "#8c8c8c"
+      ],
+      "texts": [
+        "in every soul, there are many lived lives. So the soul becomes a cluster of lives.",
+        "That's why people have these strong experiences. when they travel to a new"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel erineb ekraani alaosas kuvatav tekst. Esimesel pildil on tekst: \"in every soul, there are many lived lives. So the soul becomes a cluster of lives.\", samas kui teisel ja kolmandal pildil on tekst: \"That's why people have these strong experiences. when they travel to a new\"."
+      ],
+      "snr": "036",
+      "ajad": [
+        "247.706",
+        "255.213"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab interjööri, kus keskel istub kaamerasse vaatav vanem naine. Tal on blondid juuksed, prillid ja seljas värviline sall sinise pluusi peal. Naine istub puidust laua taga, käed on laual risti. Tema suu on avatud, mis viitab kõnelemisele. Taustal vasakul on valge sein kahe raamitud pildiga, millest üks kujutab valgeid sulelisi objekte ja teine inimfiguuri. Seina ääres on valge konsoollaud, millel on erinevaid spirituaalseid ja dekoratiivesemeid: valge ingli kuju, must Buddha kuju, kuldne helikauss koos vasaraga, mitmed kristallid ja kivid ning muid väiksemaid objekte. Paremal tagapool on näha voodi helesinise voodipesu ja padjaga. Voodi kohal seinal on veel üks raamitud pilt. Laua paremal servas on sinine keraamiline kann.",
+      "actions": [
+        "Naine räägib",
+        "Naine vaatab kaamerasse",
+        "Naine istub"
+      ],
+      "keywords": [
+        "Naine",
+        "Interjöör",
+        "Spirituaalsus",
+        "Buddha",
+        "Ingel",
+        "Kristallid",
+        "Helikauss",
+        "Vestlus",
+        "Sisekujundus",
+        "Mälestus",
+        "Hing",
+        "Harmoonia"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Prillid",
+        "Sall",
+        "Pluus",
+        "Laud",
+        "Ingli kuju",
+        "Buddha kuju",
+        "Helikauss",
+        "Vasar",
+        "Kristallid",
+        "Kivid",
+        "Raamitud pildid",
+        "Voodi",
+        "Voodipesu",
+        "Padi",
+        "Kann"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#D050C0",
+        "#40B0E0",
+        "#A06030",
+        "#A0E0F0",
+        "#4070B0"
+      ],
+      "texts": [
+        "place, and feel like they’ve been there before. This memory is from their past life.",
+        "are travelling towards the light and love, and there’s a harmony. But it doesn’t mean that",
+        "So we’re leaving all our assets here, but all the knowledge travels with our soul."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise suu asend ja näoilme on veidi erinevates kaadrites varieeruv, mis annab märku, et ta kõneleb.",
+        "Alati kuvatav subtiitrite tekst on igas kaadris erinev, kajastades kõne jätkumist."
+      ],
+      "snr": "037",
+      "ajad": [
+        "255.213",
+        "293.877"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab siseruumi, tõenäoliselt elutuba, kus keskealine hõbedaste juuste ja punaste prilliraamidega naine istub mustal nahkdiivanil. Naine on riietatud kollasesse jakki või kardiganisse ja valgesse särki. Tema vasakul käel on mitu käevõru, sealhulgas silmatorkav laimiroheline. Ta vaatab otse kaamerasse, rääkides ja žestikuleerides kätega. Tagaplaan on valge sein, millel ripub suur abstraktne maal värviliste geomeetriliste kujunditega. Paremal pool on näha minimalistlikku mööblit, sealhulgas laud küünla ja lambiga, ning mustas vaasis kollased tulbid. Üldine õhkkond on rahulik ja valgustatud, viidates päevasele ajale.",
+      "actions": [
+        "Naine räägib otse kaamerasse",
+        "Naine žestikuleerib kätega, et oma sõnu rõhutada",
+        "Naine istub diivanil"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Naine",
+        "Siseruum",
+        "Diivan",
+        "Maal",
+        "Rääkimine",
+        "Käevõrud",
+        "Prillid",
+        "Tulbid",
+        "Lein"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Diivan",
+        "Maal",
+        "Prillid",
+        "Käevõrud",
+        "Sõrmus",
+        "Laud",
+        "Küünlajalg",
+        "Küünlad",
+        "Lamp",
+        "Vaas",
+        "Tulbid",
+        "Tool (osaliselt näha)"
+      ],
+      "colorcodes": [
+        "#FFFF00",
+        "#FFFFFF",
+        "#000000",
+        "#808080",
+        "#FF0000",
+        "#00FF00"
+      ],
+      "texts": [
+        "Its meaning has changed.",
+        "Two very important and powerful persons have died. First my dad then my husband."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel muutuvad subtiitrid, mis edastavad naise öeldud lauseid.",
+        "Naine muudab oma käte asendit ja žeste rääkimise ajal, rõhutades oma sõnu."
+      ],
+      "snr": "039",
+      "ajad": [
+        "305.388",
+        "328.703"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sügavat leina ja mälestamise hetki, keskendudes detailsetele sümbolitele ja lilleseadetele. Kaadrid vahelduvad, näidates esmalt valgel pinnal (näiteks taldrikul või alusel) olevat liivast ja väikestest kivikestest moodustatud risti, millele toetub üks roheliste lehtedega roosioks. Seejärel fookus liigub erinevatele matuselilleseadetele, mis on tõenäoliselt asetatud kirstule või mälestuslauale. Ühes kaadris domineerivad valged liiliad koos sügavsiniste väikeste õite ja rohelise lehestikuga. Teises kaadris on näha valgeid ja kollaseid roose koos siniste lillede ja rohelise haljastusega. Kõik kaadrid on lähivõtted, mis toovad esile esemete tekstuuri ja värvid, samas kui taustad on tumedad ja fookusest väljas, rõhutades esiplaanil olevate sümbolite tähtsust. Stseenis on tugev kurbuse ja refleksiooni hõng, mida süvendavad kuvatavad tekstid isiklikust kaotusest ja sureva inimese hooldamisest.",
+      "actions": [
+        "Rituaali läbiviimine (liivaristi loomine)",
+        "Sureva inimese hooldamine",
+        "Mälestamine ja leinamine"
+      ],
+      "keywords": [
+        "Lein",
+        "Mälestus",
+        "Surm",
+        "Rituaal",
+        "Matused",
+        "Lilled",
+        "Liiv",
+        "Rist",
+        "Hoolitsus",
+        "Kaotus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Liivarist",
+        "Roosioks",
+        "Lehed",
+        "Valge alus",
+        "Matuse lilleseade",
+        "Liiliad",
+        "Sinised lilled",
+        "Kollased roosid",
+        "Valged roosid",
+        "Roheline lehestik",
+        "Pakkekile"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#3E5F3B",
+        "#605C55",
+        "#274D7F",
+        "#F7E56B",
+        "#202020",
+        "#4C7345"
+      ],
+      "texts": [
+        "Two very important and powerful persons have died. First my dad then my husband.",
+        "When I was taking care of the dying person we explored how touching affects him."
+      ],
+      "persons": [
+        "Jutustaja (implied)",
+        "Isa (implied)",
+        "Abikaasa (implied)",
+        "Surev inimene (implied)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinev fookusobjekt: esimene pilt näitab liivaristi ja roosioksa, teine ja kolmas pilt aga matuselilleseadeid.",
+        "Erinevad lilleseaded: teises pildis on valged liiliad ja sinised õied, kolmandas aga valged ja kollased roosid koos siniste õitega.",
+        "Esimene pilt sisaldab teksti isiklikust kaotusest, samas kui teine ja kolmas pilt kuvavad teksti sureva inimese hooldamise kohta.",
+        "Kaamera nurk ja lilleseadete paigutus on teise ja kolmanda pildi vahel veidi erinev."
+      ],
+      "snr": "040",
+      "ajad": [
+        "328.703",
+        "343.176"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine naine, kellel on lühikesed, lokkis hallid juuksed ja punase raamiga prillid. Ta kannab kollast pintsakut valge topi peal ning istub siseruumis, tõenäoliselt mustal diivanil. Naine räägib ja žestikuleerib kätega, mis annab aimu, et tegemist on intervjuu või jutustamisega. Ta on kadreeritud keskplaanis, nii et näha on tema ülakeha ja käed. Taustaks on valge sein, millel ripub raamitud kunstiteos abstraktse mustriga, mis sisaldab kollaseid, oranže, rohelisi ja siniseid toone. Paremal pool on näha laualamp ja väiksem laud kollaste lilledega vaasis ning tumedate esemetega. Pildil on ka ingliskeelsed subtiitrid, mis kuvavad naise juttu.",
+      "actions": [
+        "Naine räägib",
+        "Naine žestikuleerib kätega"
+      ],
+      "keywords": [
+        "Naine",
+        "Intervjuu",
+        "Rääkimine",
+        "Siseruum",
+        "Kollane pintsak",
+        "Prillid",
+        "Subtiitrid",
+        "Kunstiteos"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Prillid",
+        "Kollane pintsak",
+        "Valge topp",
+        "Hallid juuksed",
+        "Käevõrud",
+        "Must diivan",
+        "Valge sein",
+        "Raamitud kunstiteos",
+        "Laud",
+        "Laualamp",
+        "Kollased lilled",
+        "Vass",
+        "Must ese laual",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#F4D03F",
+        "#FFFFFF",
+        "#C4C4C4",
+        "#C80000",
+        "#0A0A0A",
+        "#606060",
+        "#FFD700",
+        "#FFA500",
+        "#32CD32",
+        "#1E90FF"
+      ],
+      "texts": [
+        "When I was taking care of the dying person we explored how touching affects him.",
+        "a lot, and he actually asked if he could die in my arms."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise suu asend muutub, näidates kõnelemist.",
+        "Naise käte asend ja žestid muutuvad piltide vahel.",
+        "Subtiitrite tekst muutub, jätkates lauset."
+      ],
+      "snr": "041",
+      "ajad": [
+        "343.176",
+        "389.222"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kevadist loodusvaadet, kus esiplaanil on rikkalikult õitsevad puuoksad, mis on kaetud tihedate valgete õite ja noorte roheliste lehtedega. Õied on enamasti teravustatud, luues selge fookuse nende delikaatsele ilule. Taustal on näha hägune mets, mis koosneb pikkadest, vertikaalsetest puutüvedest, mis on varjulised ja tumedad. Päikesevalgus paistab läbi õite ja lehtede, luues heledaid sähvatusi ja pehme, unistava atmosfääri. Üldine meeleolu on rahulik, värske ja annab edasi kevadise õitsengu tunnet.",
+      "actions": [
+        "Õied õitsevad",
+        "Päikesevalgus paistab läbi okste",
+        "Puuoksad õõtsuvad kergelt (kaadrite vahelise nihke põhjal järeldatav)"
+      ],
+      "keywords": [
+        "Kevad",
+        "Õitsemine",
+        "Loodus",
+        "Mets",
+        "Päikesevalgus",
+        "Õied",
+        "Valge",
+        "Roheline",
+        "Hägune taust",
+        "Värskus",
+        "Rahulik",
+        "Puuoksad",
+        "Kirsipuu õied (või sarnased)",
+        "Päevavalgus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Õitsevad puuoksad",
+        "Valged õied",
+        "Rohelised lehed",
+        "Puu tüved (taustal)",
+        "Mets (taustal)",
+        "Päikesevalgus"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#6B944F",
+        "#3A623A",
+        "#593D2C",
+        "#E0E0E0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Fookuse teravus: Esimeses kaadris on esiplaanil olevad õied veidi udused, samas kui teises ja eriti kolmandas kaadris on keskel olevad õiekobarad selgelt teravustatud.",
+        "Kaamera positsioon/nurk: On märgata väga väikest kaamera nihkumist või panoraamimist, mis muudab õite ja okste paigutust kaadris minimaalselt, tuues keskpunkti veidi selgemalt esile."
+      ],
+      "snr": "042",
+      "ajad": [
+        "389.222",
+        "399.983"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia, panoraamvaadet linnamaastikule, mis on pildistatud toast läbi akna, mille ees on horisontaalsed rulood. Rulood loovad pildile triibulise ja osaliselt varjutatud efekti. Vaate esiplaanil on näha keerukas teedevõrgustik mitme sõiduraja, ristmike ja jalakäijate ülekäikudega. Teedel ja parkimiskohtades liigub või seisab mitu sõidukit, sealhulgas autosid ja üks valge buss. Kõnniteedel ja hoonete läheduses on näha mitmeid väikseid jalakäijate figuure. Keskmist ja tagaplaani domineerivad mitmed suured mitmekorruselised hooned, valdavalt heledates hallides ja valgetes toonides, mis viitavad modernsele arhitektuuristiilile. Vasakul on silmapaistev kõrge, ristkülikukujuline hoone horisontaalsete aknaridadega, mis võib olla haigla või kontorihoone. Selle paremal küljel asub madalamaid, laiemalt asetsevaid hooneid lamedate katuste ja suurte klaaspindadega, mis moodustavad tõenäoliselt osa samast kompleksist. Taustal ulatub kaugemasse horisonti linnaehitus ja tihedalt asustatud ala, mida katab helesinine taevas hajameelselt pilvedega. Hoonete ümber ja teede ääres on rohelust lopsaka lehestikuga puude näol, mis viitab soojale aastaajale. Üldmulje on tegevusterohkest ja funktsionaalsest linnakeskkonnast selgel, päikeselisel päeval. Perspektiiv on kõrgelt, mis annab aimu vaatest hoone ülemiselt korruselt.",
+      "actions": [
+        "Inimesed kõnnivad",
+        "Autod sõidavad",
+        "Buss sõidab"
+      ],
+      "keywords": [
+        "linnavaade",
+        "hooned",
+        "rulood",
+        "tee",
+        "autod",
+        "buss",
+        "puud",
+        "kõrghoone",
+        "linnaarhitektuur",
+        "päevavalgus",
+        "linnaliiklus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor looking outdoor",
+      "objects": [
+        "rulood",
+        "hooned",
+        "autod",
+        "buss",
+        "puud",
+        "teed",
+        "parklad",
+        "jalakäijad",
+        "tänavavalgustuspostid",
+        "liiklusmärgid"
+      ],
+      "colorcodes": [
+        "#3c4144",
+        "#a9b0ba",
+        "#e1e6eb",
+        "#4a753d",
+        "#6f8fa9",
+        "#5c5c5c"
+      ],
+      "texts": [],
+      "persons": [
+        "jalakäijad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad erinevused."
+      ],
+      "snr": "044",
+      "ajad": [
+        "402.694",
+        "404.988"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab eakat inimest haiglavoodis lamamas ja rääkimas, tõenäoliselt intervjuu või vestluse käigus. Isik on keskeas või vanem, lühikese heleda juuksega ja kannab prille, millel on punased ja valged detailid. Tal on seljas oranžikas-beež haiglakleit, mille paremal rinnal on näha logo ja osaliselt loetav tekst, mis viitab Oulun Yliopistollinen Sairaala (Oulu Ülikooli Haigla). Isik on voodis poollamavas asendis, valge padja ja helesinise tekiga. Tema küljes on näha meditsiiniseadmeid: väike must mikrofon on kinnitatud pluusi külge ja valge toru või voolik paistab rinna piirkonnast. Suust on ta avatud, mis viitab rääkimisele või hääle tegemisele. Voodi kõrval on ratastel haigla öökapp, mille ülemisel riiulil on klaas kollaka vedelikuga, kaks valget tassi (üks tumeda joogiga), väike valge anum ja oranž pudel, millel on kiri 'ZERO'. Tagapool on näha ka raamat. Alumistel riiulitel on sinine meditsiiniseade (tõenäoliselt valupump või muu kontrollseade) punase nupu ja ekraaniga, kollane või oranž rätik ning nutitelefon. Taust on tume ja udune, viidates haiglatoale.",
+      "actions": [
+        "Lamab voodis",
+        "Räägib",
+        "Kannab meditsiiniseadmeid"
+      ],
+      "keywords": [
+        "haigla",
+        "patsient",
+        "eakas",
+        "meditsiiniline",
+        "intervjuu",
+        "haiglavoodi",
+        "prillid",
+        "mikrofon",
+        "öökapp"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "eakas inimene",
+        "haiglavoodi",
+        "padi",
+        "tekk",
+        "prillid",
+        "haiglakleit",
+        "mikrofon",
+        "meditsiinituubid",
+        "öökapp",
+        "klaas",
+        "tassid",
+        "oranž pudel",
+        "raamat",
+        "meditsiiniseade",
+        "rätik",
+        "nutitelefon"
+      ],
+      "colorcodes": [
+        "#EBBA8B",
+        "#C3DBE7",
+        "#FFFFFF",
+        "#3D2D24",
+        "#F5A623",
+        "#BC2B2E",
+        "#A7CCD9",
+        "#303030"
+      ],
+      "texts": [
+        "OULUN YLIOPISTOLLINEN SAIRAALA",
+        "HUIPPUPALVELU",
+        "ZERO"
+      ],
+      "persons": [
+        "eakas naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Isiku suu asend muutub veidi rääkimise ajal, viidates dünaamilisele liikumisele.",
+        "Isiku pilk nihkub kergelt piltide vahel."
+      ],
+      "snr": "045",
+      "ajad": [
+        "404.988",
+        "420.378"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab haiglapalatit, kus keskealine või vanem inimene lamab voodis, toetudes patjadele. Ta kannab heledat oranži haiglasärki ja prille. Tema rinnal on näha meditsiiniseadme torud ja pistikud, viidates ravi saamisele. Paremal pool on öökapp, millel on erinevaid esemeid: oranž karastusjoogi pudel, kaks tühja klaasi, pruun plasttops, valge plasttops, raamat, kollane lõngakeras ja mobiiltelefon. Voodi kõrval on ka sinine meditsiiniline aparaat koos voolikuga, mis ilmselt on ühendatud patsiendiga. Inimene on aktiivses vestluses, suu on avatud ja näoilmed muutuvad pilte vaadates, vihjates emotsionaalsele kaasatusele. Ta vaatab kaamera poole või kaamera läheduses asuva vestluspartneri suunas.",
+      "actions": [
+        "Lamamine haiglavoodis",
+        "Rääkimine/suhtlemine",
+        "Näoilmete muutmine",
+        "Vaatamine kaamera suunas"
+      ],
+      "keywords": [
+        "Haigla",
+        "Patsient",
+        "Ravi",
+        "Haiglapalat",
+        "Meditsiiniseadmed",
+        "Vestlus",
+        "Voodi",
+        "Öökapp",
+        "Prillid",
+        "Patsiendihooldus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Haiglavoodi",
+        "Padi",
+        "Haiglasärk",
+        "Prillid",
+        "Mikrofon (reversmikrofon)",
+        "Meditsiinilised voolikud/ühendused",
+        "Öökapp",
+        "Karastusjoogi pudel (Fanta)",
+        "Klaasid (kaks tühja)",
+        "Pruun plasttops",
+        "Valge plasttops",
+        "Raamat",
+        "Kollane lõngakeras",
+        "Mobiiltelefon",
+        "Meditsiiniline aparaat (sinine)",
+        "Meditsiiniline voolik"
+      ],
+      "colorcodes": [
+        "#F8D19F",
+        "#E5EBF2",
+        "#96363B",
+        "#939294",
+        "#F68B25",
+        "#6BA0D0",
+        "#F7D472",
+        "#000000"
+      ],
+      "texts": [
+        "Fanta",
+        "PÕHJA-EESTI REGIONAALHAIGLA (logo ja tekst särgil)",
+        "Numbrid/sümbolid sinisel meditsiiniseadmel"
+      ],
+      "persons": [
+        "Patsient (vanem naine)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Inimese näoilme muutub: esimesel pildil on suu avatum ja pilk veidi ülespoole suunatud, teisel pildil suu samuti avatud, aga pilk otsem, kolmandal pildil on suu kergelt avatud ja silmad suuremad, andes veidi üllatunud või tähelepanelikuma ilme.",
+        "Pea asend ja kaldenurk varieerub piltide vahel kergelt.",
+        "Silmade suund muutub veidi, kõikides kaadrites on pilk suunatud kaamera poole või selle lähedusse."
+      ],
+      "snr": "046",
+      "ajad": [
+        "420.378",
+        "470.595"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanema inimese käsi, mis on põimitud või kokku pandud ja asetatud helesinisele (türkiisitooni) tekile. Käed on kortsulised ja neil on näha vanuselaike, mis viitab küpsele eale. Küüned on lühikesed ja näivad hoolitsetud. Isik on lamavas asendis, kandes heledat, virsiku- või aprikoosivärvi rõivastust, mis võib olla haiglariietus või ööriided. Ülakeha ülemises osas, uduses taustal, on näha meditsiiniliste torude või juhtmete osi, mis viitab meditsiinilisele keskkonnale, näiteks haiglale või hooldekodule. Pildi fookuses on käed ja tekk, samal ajal kui taust on pehme ja udune.",
+      "actions": [
+        "Käed on põimitud",
+        "Isik puhkab või lamab"
+      ],
+      "keywords": [
+        "Eakas",
+        "Käed",
+        "Puhkus",
+        "Haigla",
+        "Patsient",
+        "Hooldekodu",
+        "Vanadus",
+        "Kortsud",
+        "Tekk",
+        "Oranž",
+        "Sinine",
+        "Lamamine",
+        "Rahulik",
+        "Meditsiiniline keskkond"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Käed",
+        "Tekk",
+        "Riietus (haiglariietus/ööriided)",
+        "Meditsiinilised torud/juhtmed"
+      ],
+      "colorcodes": [
+        "#A7DBD8",
+        "#F3D9B5",
+        "#D8B29C",
+        "#8C5C42"
+      ],
+      "texts": [],
+      "persons": [
+        "Eakas inimene (patsient)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Pildid on identsed, ilma märgatavate erinevusteta."
+      ],
+      "snr": "047",
+      "ajad": [
+        "470.595",
+        "474.766"
+      ]
+    },
+    {
+      "explanation": "Piltidel on näha haiglavoodis lebav keskealine või vanem inimene, tõenäoliselt naine, kes kannab oranžikaspruuni patsiendipluusi ja prille. Inimene toetub valgetele patjadele ja lamab valgetel voodilinadel, rohekassinine tekk on talle rinna kõrguseni tõmmatud. Ta vaatab otse kaamerasse ja räägib, suu on kergelt avatud ning käed on rinnal kokku pandud. Voodi kõrval asub ratastel haigla öökapp, millel on mitmeid esemeid: paar klaasi, tassid, pudel, salvrätikud ja väike meditsiiniline seade, millel on nähtav ekraan ja juhtmed. Vasakul pool on näha veel üks väiksem laud või riiul, millel on kausid ja pudelid. Stseen kujutab realistlikult haiglapalatit.",
+      "actions": [
+        "Rääkimine",
+        "Kaamerasse vaatamine",
+        "Haiglavoodis lamamine",
+        "Käte kokkupanek"
+      ],
+      "keywords": [
+        "Haigla",
+        "Patsient",
+        "Voodi",
+        "Rääkimas",
+        "Naine",
+        "Prillid",
+        "Meditsiiniline",
+        "Siseruum",
+        "Taastumine",
+        "Intervjuu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Patsient",
+        "Haiglavoodi",
+        "Valged padjad",
+        "Heleoranž patsiendipluus",
+        "Rohekas/sinakas tekk",
+        "Prillid (punaste sangadega)",
+        "Öökapp",
+        "Klaasid (joogiklaasid)",
+        "Tassid",
+        "Pudel (jook)",
+        "Salvrätikud/paberist tassialused",
+        "Meditsiiniline seade (monitor/pump)",
+        "Juhtmed",
+        "Väike kõrvalriiul/laud",
+        "Roostevabast terasest kausid",
+        "Plastikpudelid/kreemid",
+        "Kott (põrandal)"
+      ],
+      "colorcodes": [
+        "#E6B58F",
+        "#70C0BB",
+        "#FFFFFF",
+        "#3C3F42",
+        "#E0C7B2",
+        "#D93B3B"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene (patsient)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Inimese suu asend on veidi muutunud, mis viitab rääkimise jätkumisele.",
+        "Väikesed erinevused näoilmes ja silmade asendis, mis annavad edasi liikumist ja dünaamikat."
+      ],
+      "snr": "048",
+      "ajad": [
+        "474.766",
+        "531.489"
+      ]
+    },
+    {
+      "explanation": "Stseen algab ja lõpeb täiesti musta ekraaniga. Vahepeal ilmub mustale taustale valge tekst, mis sisaldab pealkirja \"SPECIAL THANKS:\" ja selle all nimekirja inimestest ning ühest kohast (Honkanummen Hautausmaa), kellele tänu avaldatakse. Tekst on selge, loetav ja sans-serif fondis. Kogu stseen annab edasi lõputiitrite või tänusõnade osa mingis videoproduktsioonis.",
+      "actions": [
+        "Teksti ilmumine ekraanile",
+        "Teksti viibimine ekraanil",
+        "Teksti kadumine ekraanilt"
+      ],
+      "keywords": [
+        "Lõputiitrid",
+        "Tänusõnad",
+        "Krediidid",
+        "Must taust",
+        "Valge tekst",
+        "Nimede nimekiri",
+        "Filmi lõpp"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "SPECIAL THANKS:",
+        "Kaarina Ristmägi",
+        "Eva-Maria Mittler",
+        "Harriet Piekkola",
+        "Gunilla Hannelius",
+        "Pietu Takala",
+        "Päivi Rautiainen",
+        "Jesper Rautiainen",
+        "Misika Kankkonen",
+        "Rebecca Rautiainen",
+        "Marika Palm",
+        "Jyrki Heiskanen",
+        "Honkanummen Hautausmaa"
+      ],
+      "persons": [
+        "Kaarina Ristmägi",
+        "Eva-Maria Mittler",
+        "Harriet Piekkola",
+        "Gunilla Hannelius",
+        "Pietu Takala",
+        "Päivi Rautiainen",
+        "Jesper Rautiainen",
+        "Misika Kankkonen",
+        "Rebecca Rautiainen",
+        "Marika Palm",
+        "Jyrki Heiskanen"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "80",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on täiesti must, ilma igasuguse tekstita.",
+        "Teisel pildil ilmub mustale taustale valge tekst, mis sisaldab tänusõnu ja nimekirja isikutest ning kohast.",
+        "Kolmas pilt on taas täiesti must, sarnaselt esimesele pildile, näidates teksti kadumist ekraanilt."
+      ],
+      "snr": "049",
+      "ajad": [
+        "531.489",
+        "564.564"
+      ]
+    }
+  ]
+}

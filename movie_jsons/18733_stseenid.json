@@ -1,0 +1,621 @@
+{
+  "film": [
+    "18733",
+    "18588",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Intervjuu Elo Tustiga",
+    "20d67c7c15dac1a4dd9737b87f68d2c48086b7e7.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täielikult musta ekraaniga. Seejärel ilmub ekraani keskel mustale taustale minimalistlik logo, mis koosneb kolmest värvilisest ringist ja väikesest valgest punktist. Ringid on punane, roheline ja sinakaslilla, moodustades kolmnurga, mille keskel on valge punkt. Logo kõrval paremal on valge tekst \"BFM\". Pärast seda kaob logo ja sellega seotud tekst. Ekraan muutub taas täiesti mustaks, millele ilmub allserva valge tekst: \"After graduating high school I tried to get in to some places.\"",
+      "actions": [
+        "Logo ilmumine ekraanile",
+        "Teksti \"BFM\" ilmumine ekraanile",
+        "Logo ja teksti kadumine ekraanilt",
+        "Uue teksti ilmumine ekraanile"
+      ],
+      "keywords": [
+        "Must taust",
+        "Logo",
+        "Tekst",
+        "Minimalistlik",
+        "Graafika",
+        "Sissejuhatus",
+        "Subtiitrid"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Värvilised ringid",
+        "Valge punkt",
+        "Logo",
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#D72828",
+        "#229D45",
+        "#373A7D"
+      ],
+      "texts": [
+        "BFM",
+        "After graduating high school I tried to get in to some places."
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "99",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on ekraan täiesti must.",
+        "Teisel pildil on mustal taustal kolmest värvilisest ringist ja valgest punktist koosnev logo koos valge tekstiga \"BFM\".",
+        "Kolmandal pildil on logo ja \"BFM\" tekst kadunud ning musta ekraani allservas on valge tekst \"After graduating high school I tried to get in to some places.\"."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "11.800"
+      ]
+    },
+    {
+      "explanation": "Pildiseeria kujutab vanemat naist, kes istub siseruumis tumelillas, pehme tekstuuriga tugitoolis või diivani osal. Ta on kaadrisse võetud keskmiselt lähedalt, vaadates paremale poole, suu on kergelt avatud, mis viitab rääkimisele või kõnelemisele. Naisel on heledad, hallikad juuksed, mis on kuklas kinni pandud juukseklambriga. Ta kannab heledat, tõenäoliselt valget või kreemikat, pika varrukaga pintsakut, mille all on must pluus. Kaelas on tal peenike kuldne kett. Tausta moodustab ühtlane hele hall, kergelt volditud või laineline kangas, mis sarnaneb suurele kardinale, andes stseenile neutraalse ja rahuliku fooni. Stseen tundub olevat osa intervjuust või vestlusest.",
+      "actions": [
+        "Istub",
+        "Räägib",
+        "Vestleb"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Intervjuu",
+        "Rääkimine",
+        "Siseruum",
+        "Vanem",
+        "Vestlus",
+        "Jutustamine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Tugitool",
+        "Kardin",
+        "Pintsak",
+        "Pluus",
+        "Kaelakett",
+        "Juukseklamber"
+      ],
+      "colorcodes": [
+        "#E7E7E7",
+        "#2F2F2F",
+        "#513A49",
+        "#909090",
+        "#D8B7A4",
+        "#ADADAD"
+      ],
+      "texts": [
+        "After graduating high school I tried to get in to some places.",
+        "One of them was theater director."
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel erinevad ainult ekraanil kuvatavad ingliskeelsed subtiitrid. Esimene pilt sisaldab teksti \"After graduating high school I tried to get in to some places.\", teine pilt aga teksti \"One of them was theater director.\". Kõik muud visuaalsed elemendid ja kompositsioon on identsed."
+      ],
+      "snr": "002",
+      "ajad": [
+        "11.800",
+        "18.120"
+      ]
+    },
+    {
+      "explanation": "Stseenil on keskealine kuni vanem naine, kes istub ja räägib. Ta on paigutatud kaadri keskele, näoga veidi paremale kaamerast, otsekui vastates intervjuuküsimusele. Naisel on helehallid juuksed, mis on tõmmatud tahapoole, ja heledad silmad. Ta kannab valget pintsakut või jakki tumeda särgi peal ning tal on kaelas lihtne kuldse tooniga kett. Tema näoilme on tõsine ja keskendunud, suu on kergelt avatud, mis viitab käimasolevale kõnele. Kaadri vasakus allosas on näha tumepunase või lilla tooni tugitooli käetugi, millel naine ilmselt istub. Taust on ühtlane, helehall riidest drapeering, millel on vertikaalsed voldid, andes stseenile lihtsa ja puhta ilme. Valgus on pehme ja ühtlane, tuues esile naise näo ja ülakeha. Pildi allosas on näha subtiitrid, mis edastavad naise öeldut.",
+      "actions": [
+        "rääkimine",
+        "istumine",
+        "intervjueeritav olemine"
+      ],
+      "keywords": [
+        "intervjuu",
+        "naine",
+        "jutustamine",
+        "portree",
+        "hall taust",
+        "subtiitrid",
+        "valge pintsak",
+        "kuldne kaelakee"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "valge pintsak",
+        "tume särk",
+        "kuldne kaelakee",
+        "tugitooli käetugi",
+        "hall riidest taust",
+        "subtiitrid"
+      ],
+      "colorcodes": [
+        "#F5F5F5",
+        "#A9A9A9",
+        "#1A1A1A",
+        "#DAA520",
+        "#800020"
+      ],
+      "texts": [
+        "One of them was theater director.",
+        "They suggested that there would be a national spot",
+        "Not only me, but the others that had got accepted, too."
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst muutub iga kaadriga, peegeldades jutustuse jätkumist.",
+        "Naise suu asend ja näoilme muutuvad kergelt, mis on tingitud kõnelemise progressioonist."
+      ],
+      "snr": "003",
+      "ajad": [
+        "18.120",
+        "121.860"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine või vanem naine, kes istub tumedas, tõenäoliselt sametises tugitoolis ja räägib. Ta on paigutatud kaadri paremasse serva, vaadates ja kõneledes vasakule. Naise heledad, hallikad juuksed on kuklasse seotud sinise juukseklambriga. Ta kannab heledat, pigem valget bleiserit või jakki, mille all on must, tõenäoliselt litritega kaunistatud pluus. Tema kaelas on näha peenike kuldset värvi kaelakee. Naise näoilme on mõtlik ja tõsine, suu on kõnelemise ajal avatud. Ta on suursugusem ehitusega. Taust on lihtne ja ühevärviline, hallikas-sinine kardin või kangas, mis viitab stuudio- või intervjuukeskkonnale. Valgus on pehme ja ühtlane, varjudeta, mis toob esile subjekti. Kogu stseen annab edasi rahuliku ja intiimse vestluse või jutustamise õhkkonna.",
+      "actions": [
+        "istumine",
+        "rääkimine",
+        "vaatamine"
+      ],
+      "keywords": [
+        "intervjuu",
+        "naine",
+        "portree",
+        "jutustamine",
+        "mõtisklemine",
+        "stuudio",
+        "vestlus",
+        "tugitool"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "tugitool",
+        "bleiser",
+        "pluus",
+        "juukseklamber",
+        "kaelakee",
+        "taustakardin"
+      ],
+      "colorcodes": [
+        "#E8E8E8",
+        "#4A3347",
+        "#B0B7BC",
+        "#2A2A2A",
+        "#4F6D97"
+      ],
+      "texts": [
+        "Not only me, but the others that had got accepted, too.",
+        "But of course later it become clear that we weren't geniuses after all.",
+        "Looking back, I think that many things were missing.."
+      ],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst muutub iga pildi vahel, peegeldades naise kõne jätkumist.",
+        "Naise suu asend ja näoilme muutuvad kergelt vastavalt kõnelemisele.",
+        "Väikesed muutused juuste ja riietuse asendis on märgatavad piltide vahel."
+      ],
+      "snr": "004",
+      "ajad": [
+        "121.860",
+        "125.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vanemat naist, kes annab intervjuud või tunnistust. Naine, kellel on heledad juuksed ja tõsine ilme, on riietatud valgesse jakki ja kannab kuldset kaelakeed. Ta istub, osaliselt näha on tumeda mööblieseme (tõenäoliselt tooli seljatoe) fragment, ning tema taustaks on ühtlane hele hall sein. Naine on kaadris õlgadest ülespoole, luues kesklähedase kaadri. Ta vaatab kergelt paremale, mõtlikult. Ühes kaadris tõstab ta vasaku käe nina juurde, justkui puudutades või pühkides, suu kergelt avatud, rääkides. Teistes kaadrites on käed all ja ta jätkab rääkimist tõsise ilmega. Pildil on näha ingliskeelsed subtiitrid.",
+      "actions": [
+        "Räägib",
+        "Mõtiskleb",
+        "Tõstab vasaku käe nina juurde",
+        "Laseb käe alla"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Naine",
+        "Tunnistus",
+        "Rääkimine",
+        "Mõtisklus",
+        "Hall taust",
+        "Valge jakk",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Valge jakk",
+        "Tume pluus",
+        "Kuldne kaelakee",
+        "Tume mööbliese",
+        "Hall sein"
+      ],
+      "colorcodes": [
+        "#F2F2F2",
+        "#B2B2B2",
+        "#333333",
+        "#D4AF37",
+        "#C79A7F"
+      ],
+      "texts": [
+        "Looking back, I think that many things were missing..",
+        "and parallel class's, too",
+        "And there wasn't probably any point of them, too."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses ja kolmandas kaadris on naise käed all või kaadrist väljas, teises kaadris on vasak käsi tõstetud nina piirkonda.",
+        "Naise suu asend varieerub kaadrite vahel, olles teises kaadris selgemalt avatud rääkimise ajal, samal ajal kui teistes kaadrites on see pigem suletud või kergelt avatud.",
+        "Ingliskeelsed subtiitrid muutuvad iga kaadri vahel, kajastades erinevaid lauseid."
+      ],
+      "snr": "005",
+      "ajad": [
+        "125.680",
+        "288.700"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud keskealine või vanem naine, kes istub ja räägib kaamera poole, tõenäoliselt intervjuu käigus. Ta on riietatud elegantsesse valgesse bleiserisse, mille all on tume pluus, ja kannab peenikest kuldset kaelakeed. Tema heledad, hallika varjundiga juuksed on tagasi kammitud. Naise nägu on selgelt nähtav, valgusega on esile toodud tema elukogemust peegeldavad jooned. Tema ilme on tõsine ja mõtlik, pilk on suunatud kas otse kaamerasse või veidi sellest mööda. Tema suu on avatud, viidates aktiivsele kõnelemisele. Taustaks on lihtne, hele-hallikasroheline sein, millel on aimatav peen vertikaalne tekstuur, mis viitab stuudio- või sisekeskkonnale. Valgus on pehme ja ühtlane, ilma teravate varjudeta. Pildi vasakus servas on näha tumeda, polsterdatud tooli osa, mis viitab naise istuvale asendile. Ekraani allosas on ingliskeelsed subtiitrid, mis edastavad tema öeldut.",
+      "actions": [
+        "Rääkimine",
+        "Istumine",
+        "Intervjuu andmine"
+      ],
+      "keywords": [
+        "Naine",
+        "Intervjuu",
+        "Stuudio",
+        "Portree",
+        "Subtiitrid",
+        "Kõneleja",
+        "Valge bleiser",
+        "Mõtlik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Valge bleiser",
+        "Tume pluus",
+        "Kuldne kaelakee",
+        "Polsterdatud tool (osaliselt)",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#A9B0B3",
+        "#FFFFFF",
+        "#282828",
+        "#C2A18D",
+        "#EBD49D",
+        "#5B3F4F",
+        "#807B7A"
+      ],
+      "texts": [
+        "So I did my thesis in Tallinnfilm.",
+        "to like all of that.",
+        "I would point out a movie"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kaadrite vahel on märgata väikseid erinevusi naise pea asendis ja suu avatuses, mis viitab rääkimisele ja loomulikule liikumisele intervjuu ajal.",
+        "Subtiitrite tekst muutub iga kaadriga, edastades erinevat osa vestlusest.",
+        "Naine vaatab esimestes kaadrites veidi allapoole ja teises kaadris otsemalt kaamerasse, mis annab dünaamika.",
+        "Kaelakee asend on kaadrite vahel veidi muutunud, mis kinnitab väikeseid liigutusi."
+      ],
+      "snr": "006",
+      "ajad": [
+        "288.700",
+        "422.360"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha keskealine või vanem naine, kes on jäädvustatud rindkere kõrguselt. Tal on heledad juuksed, mis on tõmmatud kuklasse ja kinnitatud sinise juuksekummiga. Naine kannab heledat, valget või kreemikat pintsakut, mille all paistab tumedam riietusese ja kaelas on tal õhuke kuldne kaelakee. Tema pilk on suunatud paremale kaadri poole, näidates tähelepanelikkust või vestlust. Esimesel pildil on tema suu kergelt avatud, viidates kõnelemisele või pausi tegemisele. Taust on ühtlane, tumehall sein, mis annab edasi lihtsa ja neutraalse sisekeskkonna, tõenäoliselt stuudio või konverentsiruumi. Valgus on pehme ja ühtlane, rõhutades naise näojooni ilma teravate varjudeta. Üldine meeleolu on rahulik ja keskendunud.",
+      "actions": [
+        "Istumine",
+        "Vaatamine paremale",
+        "Rääkimine (esimesel pildil)",
+        "Kuulamine"
+      ],
+      "keywords": [
+        "Naine",
+        "Keskealine",
+        "Pintzak",
+        "Heledad juuksed",
+        "Hall taust",
+        "Siseruum",
+        "Kaelakee",
+        "Intervjuu",
+        "Portree",
+        "Rahulik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Pintzak",
+        "Kaelakee",
+        "Juuksekumm",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#E7E3E5",
+        "#595B5F",
+        "#6A79B3",
+        "#BA8A57"
+      ],
+      "texts": [
+        "I would point out a movie"
+      ],
+      "persons": [
+        "Keskealine või vanem naine heledate juuste ja sinise juuksekummiga, seljas hele pintsak ja kaelas kuldne kaelakee."
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on kaadri allosas näha ingliskeelne subtiiter \"I would point out a movie\", mis puudub teistel piltidel.",
+        "Naise suu on esimesel pildil kergelt avatud, justkui rääkides, samas kui teisel ja kolmandal pildil on suu suletud. See viitab liikumisele ja kõnelemise hetke muutumisele.",
+        "Naise pilk ja pea asend on piltide vahel veidi erinevad, näidates liikumist ja dünaamikat stseeni jooksul."
+      ],
+      "snr": "007",
+      "ajad": [
+        "422.360",
+        "430.600"
+      ]
+    },
+    {
+      "explanation": "Stseenil on keskealine naine, kes istub siseruumis, tõenäoliselt intervjuul või vestlusel. Tal on heledad, tagasitõmmatud juuksed ja ta kannab valget bleiserit, mille all on tumedam, potentsiaalselt sädelev pluus. Tema kaelas on peen kuldne kaelakee. Naise näoilme varieerub pingsast ja mõtisklevast kuni aktiivselt kõnelevani, suu on avatud ja pilk on suunatud otse kaamera poole. Ta istub tumedapurpurses või pruunikas tugitoolis, mis on näha kaadri vasakus allosas. Taustaks on udune, helehall ja kergelt tekstuuriga sein või tekstiil, mis loob minimalistliku fooni. Valgustus on pehme ja ühtlane, rõhutades naise nägu.",
+      "actions": [
+        "Rääkimine",
+        "Istumine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Naine",
+        "Intervjuu",
+        "Vestlus",
+        "Bleiser",
+        "Tugitool",
+        "Taust",
+        "Kõne",
+        "Subtiitrid",
+        "Keskealine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Valge bleiser",
+        "Tume pluus",
+        "Kuldne kaelakee",
+        "Tumedapurpur tugitool",
+        "Helehall sein/taust"
+      ],
+      "colorcodes": [
+        "#F5F5F5",
+        "#D0D0D0",
+        "#330033",
+        "#D4AF37",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "My friend"
+      ],
+      "persons": [
+        "Üks keskealine naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise näoilme muutub pildist pilti, alates mõtisklevast kuni aktiivselt kõnelevani.",
+        "Naise suu asend varieerub pildi 1 kergelt avatust kuni piltide 2 ja 3 selgelt avatuni, mis viitab rääkimisele.",
+        "Piltidel 2 ja 3 on näha ingliskeelne subtiiter 'My friend', mis esimesel pildil puudub.",
+        "Naise pilk muutub pildi 1 veidi kõrvalepõiklevast pilgust piltide 2 ja 3 otse kaamerasse suunatud pilguks."
+      ],
+      "snr": "008",
+      "ajad": [
+        "430.600",
+        "448.220"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud vanemat heledate juustega naist, kes istub siseruumis ja räägib. Tema juuksed on kinni pandud ja nägu on selgelt näha. Naine kannab heledat, valget või kreemikat pintsakut või jakki, mille all on must või tume pluus. Tema kaelas on peen kuldne kett. Ta vaatab otse kaamerasse või veidi kõrvale, suu on avatud rääkides. Taust on ühtlane, helehall ja tagasihoidlik, mis toob esile portreteeritava. Valgus on pehme ja ühtlane, viitades stuudiovõttele või kontrollitud valgustusele. Pildil on näha ka ingliskeelsed subtiitrid, mis kuvavad tema juttu.",
+      "actions": [
+        "Rääkimine",
+        "Istumine",
+        "Vaatamine kaamerasse"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Intervjuu",
+        "Rääkimine",
+        "Sisevõte",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Hele jakk/pintsak",
+        "Tume pluus",
+        "Kuldne kaelakee",
+        "Taust (hall sein/kardin)",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#D8D8D8",
+        "#FFFFFF",
+        "#363636",
+        "#C0A040",
+        "#AE7D61"
+      ],
+      "texts": [
+        "My friend",
+        "So he had this idea, and of course I asked",
+        "to make the movie."
+      ],
+      "persons": [
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub iga pildiga, edastades naise lause järgmise osa.",
+        "Naise suu ja näoilme muutuvad kergelt rääkides, peegeldades erinevaid kõnefaase."
+      ],
+      "snr": "009",
+      "ajad": [
+        "448.220",
+        "523.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha vanem naine, kes on filmitud keskmises lähivõttes siseruumides. Naine kannab heledat (valget või kreemikat) pintsaku- või jopesarnast rõivaeset ja tal on heledad (blondid või hallikad) juuksed, mis on tagasi kammitud. Ta kannab kaelakeed. Naise nägu on tõsine ja keskendunud, sinised silmad vaatavad kaamerast paremale (vaataja seisukohalt) mööda, justkui vastates intervjueerija küsimusele. Tema näol, eriti põskedel, on märgata kerget punetust. Ta räägib, nagu näitavad tema avatud suu ja allosas olevad subtiitrid. Taust on ühevärviline tumehall või söekarva hall, mis annab stseenile neutraalse ja professionaalse ilme. Valgustus on ühtlane ja pehme, tuues esile naise näojooned.",
+      "actions": [
+        "Naine räägib",
+        "Naine annab intervjuud"
+      ],
+      "keywords": [
+        "Intervjuu",
+        "Naine",
+        "Rääkimine",
+        "Siseruum",
+        "Tõsine",
+        "Hall taust",
+        "Keskmine lähivõte"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Pintsak",
+        "Kaelakee"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#6C6C6C",
+        "#E3BCB1",
+        "#C0BABA",
+        "#AA6666"
+      ],
+      "texts": [
+        "I approached the movie industry",
+        "a few times later on."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Subtiitrite tekst muutub kaadrite vahel, ilmudes ja täiendades jutustust.",
+        "Naise suu asend muutub rääkimise käigus, kajastades loomulikku kõnet."
+      ],
+      "snr": "010",
+      "ajad": [
+        "523.000",
+        "529.480"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud keskealist või vanemat naist, kelle heledad juuksed on tahapoole seotud. Tema näol, eriti põskedel ja nina ümber, on märgata punetust. Naine kannab heledat, tõenäoliselt valget või kreemikat, kraega jakki või bleiserit ning kaelas õhukest kuldse tooniga kaelakeed. Valgustus on ühtlane ja selge, tuues esile naise näojooned ja riietuse. Taust on ühtlane, tumehall ja kergelt tekstuuriga, mis annab stseenile kaine ja neutraalse ilme, suunates fookuse täielikult portreteeritavale isikule. Ühel kaadril vaatab naine otse kaamerasse tõsise või mõtliku ilmega, teisel aga pöörab pea paremale (vaataja vasakule), paljastades vasakul pool peas sinise juukseklambri. Kaader keskendub naise ülakehale ja näole.",
+      "actions": [
+        "Vaatab otse kaamerasse",
+        "Pöörab pead paremale (vaataja vasakule)"
+      ],
+      "keywords": [
+        "Naine",
+        "Portree",
+        "Intervjuu",
+        "Tõsine",
+        "Vanem",
+        "Heledad juuksed",
+        "Jakk",
+        "Kaelakee",
+        "Hall taust",
+        "Punetus",
+        "Küljepilt"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Jakk",
+        "Kaelakee",
+        "Juukseklipp",
+        "Taustasein"
+      ],
+      "colorcodes": [
+        "#E8E8E8",
+        "#3D4042",
+        "#C8A393",
+        "#7297AB",
+        "#CEB880"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise pea asend ja pilgu suund erinevad: esimesel pildil vaatab ta otse ette, teisel aga paremale (vaataja vasakule).",
+        "Sinine juukseklamber on selgemalt nähtav teisel pildil tänu pea pööratud asendile.",
+        "Ilme on kaadrite vahel veidi erinev, kuigi mõlemal on tõsine või neutraalne."
+      ],
+      "snr": "011",
+      "ajad": [
+        "529.480",
+        "632.400"
+      ]
+    }
+  ]
+}

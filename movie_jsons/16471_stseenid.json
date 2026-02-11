@@ -1,0 +1,3305 @@
+{
+  "film": [
+    "16471",
+    "16355",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Slava",
+    "585bee57b7b8a1b8461736e023d65cd02447ddce.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab moodsat arhitektuurset keskkonda, kus domineerivad betoonkonstruktsioonid ja hallid hooned. Esindatud on betoonseinad, millel on märgatavad veeplekid, mis viitavad hiljutisele niiskusele või vihmale. Kaadri keskel liigub inimene, riietatud praktilistesse talve- või sügisrõivastesse, sealhulgas hall jope, kollane kapuutsiga pusa ja mustriline müts, kandes seljakotti. Nad mööduvad betoonist piirdest või käsipuust. Taustal on näha hoone horisontaalsete ribakardinatega akende või paneelidega ja metallist käsipuu. Ühel hallil seinal on ka väike valge ruut sümboliga. Stseeni alguses on esiplaan udune ja peegeldused tekstidega nagu \"parole\" on näha, enne kui fookus liigub selgemalt inimestele ja arhitektuurile. Üldine värvipalett on summutatud, koosnedes peamiselt halli erinevatest toonidest, valgest ja kollasest, koos juhuslike tumedate peegelduste ja plekkidega. Tegevus toimub väljas päevasel ajal, tõenäoliselt sügisel või talvel, arvestades inimese riietust ja niisket betooni.",
+      "actions": [
+        "kõndimine",
+        "liikumine"
+      ],
+      "keywords": [
+        "linnakeskkond",
+        "arhitektuur",
+        "betoon",
+        "hall",
+        "kaasaegne",
+        "jalutamine",
+        "talv",
+        "sügis",
+        "niiske",
+        "jahe"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "betoonsein",
+        "käsipuu",
+        "seljakott",
+        "hoone",
+        "ribakardinad",
+        "müts",
+        "jope",
+        "kapuutsiga pusa",
+        "veeplekid"
+      ],
+      "colorcodes": [
+        "#737373",
+        "#F0F0F0",
+        "#D3D3D3",
+        "#808080",
+        "#EBEBEB",
+        "#E4C02E",
+        "#000000"
+      ],
+      "texts": [
+        "parole",
+        "-"
+      ],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Inimese ilmumine ja kadumine kaadrist",
+        "Kaamera liikumine või fookuse muutumine uduse esiplaanilt selgele arhitektuurile",
+        "Erinevad vaatenurgad samale keskkonnale, kus detailid muutuvad nähtavamaks"
+      ],
+      "snr": "002",
+      "ajad": [
+        "9.240",
+        "46.480"
+      ]
+    },
+    {
+      "explanation": "Üksik mees viibib hallis betoonkeskkonnas, mis sarnaneb kas välise läbipääsu või suure ehitise interjööriga. Ta on riietatud soojalt, kandes silmapaistvat mitmevärvilist kootud mütsi (sinise, musta, lilla, valge ja rohelise mustriga), kollast kapuutsiga pusa ja halli jopet punaste detailidega, mis viitab jahedale temperatuurile. Tal on habe. Stseeni alguses vaatab ta süvenenult alla, justkui mõtiskledes või midagi uurides. Seejärel tõstab ta pilgu, vaadates otse ettepoole tõsise ja keskendunud ilmega, justkui oleks midagi märganud või kedagi jälgiks. Stseeni jätkudes nihkub fookus tema alaseljale ja jalgadele, näidates teda eemaldumas, hoides käes virna valgeid pabereid. Taustal on uduselt näha ka teisi inimesi ja metallkonstruktsioone, mis viitab avalikule või poolavalikule linnakeskkonnale.",
+      "actions": [
+        "Vaatab süvenenult alla",
+        "Tõstab pilgu",
+        "Vaatab otse ettepoole",
+        "Kõnnib eemale",
+        "Hoiab käes valgeid pabereid"
+      ],
+      "keywords": [
+        "Mees",
+        "Betoonkeskkond",
+        "Jahe ilm",
+        "Kootud müts",
+        "Jope",
+        "Habe",
+        "Mõtisklev",
+        "Tähelepanelik",
+        "Kõndimine",
+        "Paberid",
+        "Linnaelu",
+        "Müstiline",
+        "Üksindus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kootud müts",
+        "Kollane kapuutsiga pusa",
+        "Hall jope punaste detailidega",
+        "Habe",
+        "Sinised teksapüksid",
+        "Valged paberid",
+        "Betoonseinad",
+        "Trepi- või metallkonstruktsioonid taustal"
+      ],
+      "colorcodes": [
+        "#6F7275",
+        "#3C5A87",
+        "#5A3F74",
+        "#E3B426",
+        "#B12B2C",
+        "#FFFFFF",
+        "#0B0A0C",
+        "#6D9F91",
+        "#6B6F77",
+        "#546C86"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (peategelane)",
+        "Kõrvalised isikud (taustal udused)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab mees alla, teisel pildil on ta pea tõstnud ja vaatab otse ettepoole, mis muudab tema ilme mõtisklevast tähelepanelikuks ja tõsiseks.",
+        "Kolmas pilt on fookustatud peategelase alaseljale ja jalgadele, näidates teda kõndimas ja käes valgeid pabereid hoidmas, samal ajal kui esimesed kaks pilti keskenduvad tema ülakehale ja näole."
+      ],
+      "snr": "003",
+      "ajad": [
+        "46.480",
+        "58.920"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud meest, kes seisab õues märjal betoon- või asfaldipinnal, mis annab märku vihmast või sulast. Ta on riietatud soojalt, kandes tumedahalli talvejopet, mille alt paistab kollane pusa, ja tumesinist mustriga talvemütsi. Mehel on habe. Ta hoiab käes valget plakatit. Esimeses hetkes vaatab mees kõrvale ja plakat on kas tühja poolega ees või kokkuvolditud. Järgmisel hetkel pöörab ta näo otse vaataja poole ja plakat on lahti volditud, paljastades venekeelse sõnumi: 'ИРА ПРИЕДЬ В ТАЛЛИНН! Я ТЕБЯ ЖДУ!' (Ira tule Tallinnasse! Ma ootan sind!) ning suure kollase naerunäo emotikoni. Tagaplaanil on näha moodne, helehall hoone suurte akendega, betoonist sammas ja metallist piire. Üldine valgusvihk viitab pilvisele päevale.",
+      "actions": [
+        "Mees hoiab plakatit",
+        "Mees paljastab plakati sisu",
+        "Mees vaatab kõrvale",
+        "Mees vaatab otse ette"
+      ],
+      "keywords": [
+        "Mees",
+        "Talveriided",
+        "Plakat",
+        "Märg maa",
+        "Ootamine",
+        "Tallinn",
+        "Väliruum",
+        "Naerunägu"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Talvemüts",
+        "Talvejope",
+        "Pusa",
+        "Plakat",
+        "Hoone",
+        "Metallpiire",
+        "Betoonsammas",
+        "Märg asfaldipind"
+      ],
+      "colorcodes": [
+        "#2A3C5A",
+        "#555555",
+        "#FFD700",
+        "#D0D0D0",
+        "#B0B0B0",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "ИРА ПРИЕДЬ В ТАЛЛИНН!",
+        "Я ТЕБЯ ЖДУ!",
+        "Ira come to Tallinn!",
+        "I'm waiting for you!",
+        "🙂"
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel kaadril vaatab mees kõrvale ja hoiab plakatit kokkuvoldituna või tühja poolega ees. Teisel kaadril on mees suunatud otse ette ja hoiab lahti volditud plakatit, millel on nähtav sõnum ja emotikon.",
+        "Subtiitrid inglise keeles ilmuvad teisel kaadril."
+      ],
+      "snr": "004",
+      "ajad": [
+        "58.920",
+        "68.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaadet linnakeskkonnast pilvisel ja niiskel päeval, tõenäoliselt sügisel või kevadel. Pildil on näha lai ristmik mitmete sõiduradadega, kus toimub tihe autoliiklus. Vasakul pool on näha foorid ja tänavapostid. Paremal pool esiplaanil seisab halli mütsi, kollase-pruuni jope ja teksapükstega mees, kes hoiab käes pabereid ja kilekotti. Ta seisab märjal sillutatud platvormil, mille ees on pikk madal betoonist piirdesein. Platvormi taga on näha teisi hooneid, mis moodustavad linna silueti. Maa on märg, mis viitab hiljutisele vihmale või niiskele ilmale. Üleüldine toon on hallikas ja melanhoolne.",
+      "actions": [
+        "Mees seisab paigal ja hoiab käes pabereid ning kilekotti",
+        "Autod sõidavad ristmikul ja mööda tänavat",
+        "Naine kõnnib mehe taga paremale kaadrist välja",
+        "Inimene ilmub betoonseina taha vasakul pool"
+      ],
+      "keywords": [
+        "Linnakeskkond",
+        "Tänav",
+        "Ristmik",
+        "Liiklus",
+        "Niiske",
+        "Hall ilm",
+        "Mees",
+        "Jalakäijaala",
+        "Betoonpiire"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Auto",
+        "Foor",
+        "Tänavapost",
+        "Piirded",
+        "Betoonsein",
+        "Paberid",
+        "Kilekott",
+        "Müts",
+        "Jope",
+        "Teksapüksid",
+        "Hoone",
+        "Tänavasilt (anna teed)"
+      ],
+      "colorcodes": [
+        "#4a4a4a",
+        "#b0b0b0",
+        "#800000",
+        "#555d66",
+        "#1a1a1a",
+        "#e2b544"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (peategelane, halli mütsiga, kollase-pruuni jakiga)",
+        "Naine (mustades riietes)",
+        "Inimene (peidus betoonseina taga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris on punane maastur pööramas vasakule ja tumedam sedaan liigub kaugemal, paremal platvormil on must kogu (võimalik lind/loom).",
+        "Teises kaadris on punane maastur kaugemale liikunud, tumedam sedaan on samuti edasi liikunud, ning vasakult ilmub kaadrisse tumedat värvi sedaan, mis hakkab samuti vasakule pöörama. Paremal pool peategelase taga kõnnib mustas riietuses naine. Must kogu piirdel on kadunud.",
+        "Kolmandas kaadris on punane maastur ja tumedam sedaan kaadrist lahkunud, selle asemel on punane luukpära pööramas vasakule. Mustas riietuses naine on kaadrist lahkunud ja vasakul pool betoonseina taga on näha inimest, kes on osaliselt peidus."
+      ],
+      "snr": "005",
+      "ajad": [
+        "68.440",
+        "75.600"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud keskealine mees, kes seisab väljas ja hoiab käes suurt valget plakatit. Mees kannab talviseid riideid, sealhulgas musta, halli ja valge mustriga mütsi, halli kampsunit või dressipluusi ning halli, punaste ja kollaste detailidega jopet. Tal on ka lühike habe. Mees vaatab otse kaamerasse, tema suu on kergelt avatud, mis viitab kas rääkimisele või emotsionaalsele reaktsioonile. Tema hoitud plakati peal on vene keeles kiri, millest on näha osa. Taustal on modernne hall hoone ja tumerohelised igihaljad põõsad või puud, mis annavad edasi linnakeskkonna tunde. Maapind on hallikas ja tundub olevat niiske või märja ilmaga. Üldine valgus on pehme ja ühtlane, viitades pilves päevale. Stseen edastab ootuse või lootuse tunnet.",
+      "actions": [
+        "Mees hoiab silti mõlema käega.",
+        "Mees vaatab otse kaamerasse.",
+        "Mees seisab paigal.",
+        "Mees räägib või reageerib (tema suu liigub või on kergelt avatud)."
+      ],
+      "keywords": [
+        "Mees",
+        "Silt",
+        "Plakat",
+        "Väljas",
+        "Linn",
+        "Ootus",
+        "Külm ilm",
+        "Soe riietus",
+        "Modernne arhitektuur",
+        "Vene keel"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Müts",
+        "Jope",
+        "Silt/Plakat",
+        "Hoone",
+        "Põõsad",
+        "Piire",
+        "Maapind"
+      ],
+      "colorcodes": [
+        "#7F8C8D",
+        "#ECF0F1",
+        "#2C3E50",
+        "#FFFFFF",
+        "#F1C40F",
+        "#E74C3C",
+        "#27AE60"
+      ],
+      "texts": [
+        "ИРА ПРИЕДЬ В ТАЛЛИ",
+        "Я ТЕБЯ Ж"
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe suu asend muutub kergelt kaadrite vahel, viidates liikumisele või rääkimisele.",
+        "Mehe üldine näoilme, eriti suu ja lõua piirkonnas, nihkub peenelt."
+      ],
+      "snr": "006",
+      "ajad": [
+        "75.600",
+        "81.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vilgast linnatänavat hallil, pilvisel päeval, kus fookuses on ühistranspordi ja jalakäijate liikumine. Esilplaanil liigub paremalt vasakule mööda teed valge linnaliinibuss, mille küljel on tumedate tähtedega kirjas \"AMAP 15 S\" ja mitu suurt aknaruutu, kust paistavad sõitjate siluetid. Bussi kõrval ja taga asub bussipeatus, kus ootab rühm erinevas vanuses ja riietuses jalakäijaid – mehi ja naisi jakkides, mantlites ja kampsunites, mis viitab jahedamale ilmale. Mõned inimesed jalutavad ka tänaval ja ületavad teed. Bussipeatuse juures on näha metallraamiga reklaamtahvleid ja halli pikka pinki. Stseenis on ka ebatavaline detail: kollane takso, mille registreerimisnumber algab \"192 AEG\", on trossiga pukseerimisel, viidates võimalikule rikkile või transpordile. Taustal kõrgib moodne hoone suurte peegeldavate akendega. Üldine atmosfäär on argine ja jahe, valitsevad hallid, valged ja tumedad toonid.",
+      "actions": [
+        "Buss sõidab mööda tänavat",
+        "Inimesed ootavad bussipeatuses",
+        "Inimesed jalutavad kõnniteel",
+        "Inimesed ületavad teed",
+        "Takso on pukseerimisel"
+      ],
+      "keywords": [
+        "Linnatänav",
+        "Bussipeatus",
+        "Ühistransport",
+        "Jalakäijad",
+        "Takso",
+        "Pukseerimine",
+        "Hall päev",
+        "Linnakeskkond",
+        "Liiklus",
+        "Tänavapilt"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Buss",
+        "Takso",
+        "Puksiirtross",
+        "Bussipeatuse reklaamtahvlid",
+        "Pink",
+        "Tänav",
+        "Kõnnitee",
+        "Hoone",
+        "Valgusfoor",
+        "Piirded"
+      ],
+      "colorcodes": [
+        "#F8F8F8",
+        "#7A7A7A",
+        "#EEDD00",
+        "#303030",
+        "#A0A0A0",
+        "#B0B0B0"
+      ],
+      "texts": [
+        "AMAP 15 S",
+        "192 AEG"
+      ],
+      "persons": [
+        "Bussijuhid (oletatav)",
+        "Bussisõitjad",
+        "Jalakäijad",
+        "Mehed",
+        "Naised"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Piltide peamine erinevus seisneb bussi liikumise ja selle asendi nihkes kaadris. Esimesel pildil on buss alles sisenemas paremalt poolt, pukseeritav takso ja bussipeatuse tegevus on veel selgelt näha.",
+        "Teisel pildil on buss liikunud edasi vasakule, täites suurema osa kaadrist ning varjates osaliselt taksot ja bussipeatuse ala.",
+        "Kolmandal pildil on buss peaaegu möödunud, jättes bussipeatuse ja takso peaaegu täielikult varju, pakkudes detailsemat vaadet bussi küljele ja taustale. Kaadrite järjestus annab edasi bussi möödumise dünaamikat."
+      ],
+      "snr": "007",
+      "ajad": [
+        "81.360",
+        "86.880"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha meesterahvas, kes seisab õues ja hoiab käes suurt valget plakatit. Ta on riietatud soojalt, kandes kootud mütsi, tumedat jopet kollase kapuutsiga pusa peal ja halli kootud kaelussalli. Mehe näol on habemetüügas ning ta vaatab otse kaamerasse, suu kergelt avatud, nagu räägiks või oleks just rääkimise lõpetanud. Plakatil on vene keeles kiri, mis kutsub kedagi nimega Ira Tallinna (ИРА ПРИЕДЬ В ТАЛЛИН). Allpool on näha osaliselt fraasi \"Я ТЕБЯ\" (Ma sind...), mis viitab armastus- või ootussõnumile. Taustal on kaasaegne helehall hoone, tõenäoliselt klaasist ja metallist fassaadiga, ning hoone ees on tumerohelised, koonusekujulised okaspuud või põõsad. Maapind on märg, mis viitab vihmasele või niiskele ilmale. Üldine õhkkond on jahe ja pilvine.",
+      "actions": [
+        "mees hoiab plakatit",
+        "mees räägib või on rääkinud",
+        "mees seisab paigal"
+      ],
+      "keywords": [
+        "mees",
+        "plakat",
+        "sõnum",
+        "väljas",
+        "linn",
+        "hall ilm",
+        "vene keel",
+        "müts",
+        "jope",
+        "Tallinn",
+        "armastussõnum",
+        "pilvine",
+        "oodates",
+        "tänaval"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "mees",
+        "plakat",
+        "kootud müts",
+        "jope",
+        "pusa",
+        "kaelussall",
+        "habemetüügas",
+        "hoone",
+        "okaspuud",
+        "märg maapind",
+        "metallist piire"
+      ],
+      "colorcodes": [
+        "#6E7B80",
+        "#E0E0E0",
+        "#5A5E62",
+        "#E5BE30",
+        "#6C6E70",
+        "#FFFFFF",
+        "#C8A790",
+        "#2B3D2B",
+        "#CACACA",
+        "#7C7E82"
+      ],
+      "texts": [
+        "ИРА ПРИЕДЬ В ТАЛЛИН",
+        "Я ТЕБЯ"
+      ],
+      "persons": [
+        "meesterahvas"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "sügis",
+      "daytime": "day",
+      "differences": [
+        "Mehe suu asend on kaadrite vahel kergelt erinev, viidates lühikesele videoklipile. Esimeses kaadris on suu veidi rohkem avatud kui teises ja kolmandas, justkui oleks ta rääkimise keskel või äsja lõpetanud."
+      ],
+      "snr": "008",
+      "ajad": [
+        "86.880",
+        "90.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab linna tänavapilti päeval, kus domineerib vasakult paremale liikuv valge linnaliinibuss. Bussi paremal küljel on näha teksti 'AMRP 155' ja tagaküljel 'SADAMA TIIG'. Bussi möödumisel ilmneb tänavaäärne ala, kus on pargitud mitu sõidukit, sealhulgas kaks kollast taksot (ühel neist on näha numbrimärk '192 AEG') ja must kaubik, mis sarnaneb Mercedes-Benz V-klassi sõidukile. Tänaval on ka bussipeatused, millel on läbipaistvad paneelid ja suured reklaamplakatid. Ühel plakatil on kiri 'ANIMATED BRAIN' ja teisel 'Elmar ja sõbrad', mis kujutab multimeedialikke tegelasi. Stseenis on näha ka inimesi – bussi juhti, jalakäijaid ning isikut musta kaubiku lähedal. Taustal asuvad modernsed, klaasist ja peegelpindadega hooned. Tänavat ääristavad metallist piirded, pingid, prügikastid ja potitaimed. Ülemistes kaadrites on märgata ka valgusfoore.",
+      "actions": [
+        "Buss sõidab mööda tänavat vasakult paremale",
+        "Inimesed kõnnivad ja seisavad tänaval",
+        "Autod on pargitud tänava ääres"
+      ],
+      "keywords": [
+        "Linnatänav",
+        "Linnaliinibuss",
+        "Taksod",
+        "Kaubik",
+        "Bussipeatus",
+        "Reklaamplakatid",
+        "Hooned",
+        "Jalakäijad",
+        "Liiklus",
+        "Tänavamööbel"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Linnaliinibuss",
+        "Kollased taksod",
+        "Must kaubik",
+        "Bussipeatuse varikatused",
+        "Reklaamplakatid",
+        "Pingid",
+        "Prügikastid",
+        "Metallist piirded",
+        "Hooned",
+        "Tänavasildid",
+        "Valgusfoorid",
+        "Põõsad/taimed pottides",
+        "Asfaldtee",
+        "Kõnnitee",
+        "Äärekivi"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#F7D700",
+        "#000000",
+        "#808080",
+        "#3CB371"
+      ],
+      "texts": [
+        "AMRP 155",
+        "SADAMA TIIG",
+        "192 AEG",
+        "ANIMATED BRAIN",
+        "Elmar ja sõbrad"
+      ],
+      "persons": [
+        "Bussijuht",
+        "Jalakäijad",
+        "Inimene kaubiku juures"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Bussi asukoht muutub kaadrite vahel oluliselt, liikudes vasakult ekraani keskosast paremale",
+        "Esimeses kaadris nähtav taust liigub bussi edenedes varju, avades vaate tänavale pargitud taksodele ja kaubikule",
+        "Kolmandas kaadris on täielikult näha kaks bussipeatust koos reklaamplakatitega, mis varasemates kaadrites olid osaliselt varjatud"
+      ],
+      "snr": "009",
+      "ajad": [
+        "90.880",
+        "95.360"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine habemega mees välitingimustes, keda filmitakse lähikaadris. Ta kannab mitut riidekihti, sealhulgas musta, tumesinise, helesinise, valge ja rohelise mustriga kootud mütsi, halli kõrge kaelusega kampsunit, kollast kapuutsiga pusa ning tumedat jopet/vesti, mille alt paistab punakas-oranž riidetükk. Mehe pilk ja näoilme muutuvad kaadrite lõikes: alguses vaatab ta otse vaatajasse või kaamera poole neutraalse, mõtiskleva ilmega. Seejärel pöörab ta pea ja pilgu aeglaselt vasakule, eemale kaamerast. Kolmandal pildil on ta pea pööratud vasakule, suu on kergelt avatud, mis annab märku rääkimisest või kõnelemisest. Samuti hoiab ta kolmandal pildil käes osaliselt nähtavat valget objekti, mis meenutab plakatit või silti. Taust on udune, kuid on näha igihaljaid puid või põõsaid vasakul ja heledat hoonet paremal. Stseeni valgus on pehme ja ühtlane, viitades pilvisele päevale.",
+      "actions": [
+        "Vaatab otse kaamerasse/ette",
+        "Pöörab pead vasakule",
+        "Vaatab eemale",
+        "Räägib/kõneleb",
+        "Hoiab käes plakatit/silti"
+      ],
+      "keywords": [
+        "Mees",
+        "Välitingimused",
+        "Müts",
+        "Talveriided",
+        "Mõtisklev",
+        "Kõnelemine",
+        "Plakat",
+        "Pilvine päev",
+        "Urbanistlik taust"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Kootud müts",
+        "Kampsun",
+        "Kapuutsiga pusa",
+        "Jope/vest",
+        "Habe",
+        "Puu/põõsas (taustal)",
+        "Hoone (taustal)",
+        "Plakat/silt"
+      ],
+      "colorcodes": [
+        "#4f565c",
+        "#b3a26a",
+        "#702c2e",
+        "#a9b0ae",
+        "#5c686e",
+        "#608f8e",
+        "#ffffff",
+        "#938f8f",
+        "#3a483f"
+      ],
+      "texts": "not clear",
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Mehe pilk ja näo asend muutuvad kaadrite vahel: esimesel pildil vaatab mees otse, teisel kergelt vasakule ja kolmandal selgelt vasakule.",
+        "Kolmandal pildil on mehe suu kergelt avatud, mis viitab rääkimisele, ja ta hoiab käes valget objekti (plakat/silt), mis eelmistel piltidel polnud nähtav."
+      ],
+      "snr": "010",
+      "ajad": [
+        "95.360",
+        "109.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia linnavaadet sombusel päeval, kus fookuses on tänav ja selle ääres toimuv. Vasakul pool, kõnniteel seisab noorem mees, seljas hall jope, selle all kollane kapuutsiga pusa, peas musta-sinise mustriga müts, jalas helesinised teksad ja tumedad jalanõud. Ta hoiab käes valget lehtrikujulist megafoni, mis viitab võimalikule avalikule pöördumisele või protestile. Mees seisab pika helehalli betoonpiirde kõrval, mis eraldab teda tihedast linnatänavast. Tänaval liigub mitmerealine liiklus, sealhulgas erinevat värvi sõiduautod (nt kollased taksod, helehallid ja mustad sedaanid, tumeda halliga maastur) ja kaubikud (punane madelkaubik). Taamal on näha modernseid linnahooneid, millel on kohati iseloomulikud kaarjad aknad või fassaadid. Tänaval on ka mitmeid tänavaposte ja valgustusposte. Kõnniteel ja tänaval liigub diskreetselt ka teisi jalakäijaid. Üldine õhkkond on igapäevane linnarutiin, vaatamata mehe ebatavalisele tegevusele megafoniga. Taevas on ühtlaselt hall, mis loob üldiselt jaheda ja neutraalse värvigamma.",
+      "actions": [
+        "Mees seisab ja hoiab megafoni",
+        "Autod sõidavad tänaval",
+        "Inimesed kõnnivad tänaval ja kõnniteedel",
+        "Üks inimene küürutab või istub piirde taga",
+        "Üks mees kõnnib mööda piiret"
+      ],
+      "keywords": [
+        "Linnapilt",
+        "Tänav",
+        "Liiklus",
+        "Jalakäijad",
+        "Megafon",
+        "Betoonpiire",
+        "Sombune ilm",
+        "Igapäevaelu",
+        "Protest",
+        "Avalik ruum"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Megafon",
+        "Müts",
+        "Jope",
+        "Teksad",
+        "Betoonpiire",
+        "Tänavapostid",
+        "Autod",
+        "Taksod",
+        "Kaubik",
+        "Hooned",
+        "Puud",
+        "Kõnnitee",
+        "Asfaldtee"
+      ],
+      "colorcodes": [
+        "#8B8B8B",
+        "#F0C240",
+        "#000000",
+        "#6688B7",
+        "#949494",
+        "#F7F7F7",
+        "#FFD700",
+        "#B22222",
+        "#A9A9A9",
+        "#D3D3D3"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees megafoniga",
+        "Jalakäijad",
+        "Inimene piirde taga",
+        "Mees piirde ääres"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Autode positsioonid ja tüübid tänaval muutuvad kaadrite vahel, näidates liikumist (nt punane kaubik ilmub teise kaadrisse ja on esimesest ja kolmandast kadunud, tumeda halliga maastur ilmub kolmandasse kaadrisse).",
+        "Inimene sinises jopes, kes esimeses kahes kaadris küürutab või istub betoonpiirde taga, on kolmandas kaadris kadunud.",
+        "Kolmandas kaadris ilmub pildile teine mees mustas jopes, kes kõnnib piirde parema otsa juurest mööda, olles eelmistel kaadritel puudu."
+      ],
+      "snr": "011",
+      "ajad": [
+        "109.320",
+        "120.120"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub linnakeskkonnas sügisesel päeval, mis on pilvise ja halli taevaga. Esiplaanil on näha habemega mees, kes kannab musta-sinise mustriga tuttmütsi, kollast kapuutsiga pusa ja halli jopet. Ta hoiab käes valgeid pabereid. Mees on kaasatud vestlusesse või suhtlusesse teiste inimestega. Tema ümber liigub kahel hetkel erinevaid isikuid – ühel korral seisab tema ees seljaga kaamera poole tumedas, võimalik, et vormiriietuses jakis mees, kelle õlal on punakas detail, ning teisel korral ilmub kaadri paremasse serva teine lühikeste juustega mees, kes samuti temaga suhtleb. Taustal on näha moodsaid klaashooneid, liiklust, sealhulgas rohelist bussi, ning reklaamtahvlit kirjaga „JOOVASTAV SÜGIS“. Üldine atmosfäär on argine ja linnamelu hõlmav. Stseen annab aimu mingist avalikust tegevusest või vestlusest tänaval.",
+      "actions": [
+        "Mees vestleb teiste inimestega",
+        "Mees hoiab pabereid",
+        "Inimesed liiguvad tänaval"
+      ],
+      "keywords": [
+        "Linn",
+        "Tänav",
+        "Sügis",
+        "Vestlus",
+        "Habemega mees",
+        "Tuttmüts",
+        "Vormiriietus",
+        "Moodsad hooned",
+        "Pilvine ilm",
+        "Aktiivsus",
+        "Paberid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Tuttmüts",
+        "Kollane pusa",
+        "Hall jope",
+        "Valged paberid",
+        "Moodsad klaashooned",
+        "Roheline buss",
+        "Autod",
+        "Liiklusmärgid",
+        "Betoonpiirded",
+        "Reklaamtahvel"
+      ],
+      "colorcodes": [
+        "#2A2A3D",
+        "#F2D55B",
+        "#8F908C",
+        "#F7F7F7",
+        "#50B066",
+        "#A02B3A"
+      ],
+      "texts": [
+        "JOOVASTAV SÜGIS"
+      ],
+      "persons": [
+        "Habemega mees (peategelane)",
+        "Mees tumedas jakis (võimalik, et vormis)",
+        "Teine mees (lühikeste juustega)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Peategelase pilk ja kehaasend muutuvad pisut, viidates aktiivsele suhtlusele ja fookuse nihkumisele.",
+        "Kaadrisse ilmuvad erinevad teised isikud, kes suhtlevad peategelasega. Esimeses kaadris on ta üksinda, teises ilmub kaadrisse seljaga kaamera poole mees tumedas jakis, kolmandas aga kaadrisse paremale teine mees."
+      ],
+      "snr": "012",
+      "ajad": [
+        "120.120",
+        "140.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte meest välitingimustes, ilmselt jahedas või külmas ilmas, arvestades nende riietust. Esiplaanil olev mees kannab silmatorkavat tumedat talvemütsi lumehelbe mustriga, klappidega kõrvadel, ning sooja kihilist riietust – halli jopet, kollast kapuutsiga pusa ja jämedat halli kampsunit. Tal on lühike habe ja ta hoiab käes pabereid. Tema taga olev teine mees on tuvastatav turvamehena, kandes tumedat vormiriietust, mille varrukal on näha \"G4S\" logo. Ühel hetkel räägib turvamees aktiivselt raadiosaatjasse, samal ajal kui mütsiga mees jälgib sündmusi, vaadates kord paberite poole, kord kaamera poole või küljele. Taustaks on moodne, helehallidest paneelidest ehitatud hoone suurte ristkülikukujuliste akendega, mis viitab linna- või ärikeskkonnale. Üldine õhkkond tundub tõsine või ametlik, vihjates kontrollitud olukorrale või avaliku ja turvatöötaja vahelisele suhtlusele.",
+      "actions": [
+        "Mehe seismine paberitega",
+        "Turvamehe seismine mehe lähedal",
+        "Turvamehe rääkimine raadiosaatjasse",
+        "Meeste vestlus/suhtlus",
+        "Mehe ümbruse jälgimine"
+      ],
+      "keywords": [
+        "Turvamees",
+        "Välitingimused",
+        "Talvemüts",
+        "Paberid",
+        "Raadiosaatja",
+        "Hall hoone",
+        "Talvised riided",
+        "Külm ilm",
+        "Ametlik suhtlus",
+        "G4S",
+        "Jälgimine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Paberid",
+        "Talvemüts",
+        "Jope",
+        "Kapuutsiga pusa",
+        "Kampsun",
+        "Raadiosaatja",
+        "Turvavorm",
+        "Hoone",
+        "Aknad",
+        "G4S logo"
+      ],
+      "colorcodes": [
+        "#D6D6D6",
+        "#2A3644",
+        "#6F8D98",
+        "#F7D754",
+        "#1F2D3A",
+        "#FFFFFF",
+        "#C39F80"
+      ],
+      "texts": [
+        "G4S",
+        "This is one lovebird. Everything is fine."
+      ],
+      "persons": [
+        "Mees (talvemütsiga)",
+        "Turvamees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Erinevused mehe pilgu suunas ja kehakeeles",
+        "Turvamehe tegevus raadiosaatjaga – ühes kaadris räägib ta aktiivselt, teises on ta lihtsalt kohal või kaadrist väljas",
+        "Subtiitrite olemasolu teises kaadris",
+        "Turvamehe positsioon kaadris muutub"
+      ],
+      "snr": "013",
+      "ajad": [
+        "140.080",
+        "155.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest selja tagant vaadatuna, kes seisab ilmselt sillal või kõrgemal platvormil, toetudes hallile betoonist piirdele. Isik kannab sinise, musta, valge ja rohelise mustriga sooja talvemütsi, erkkollast kapuutsi ja halli jopet. Ta hoiab käes valget paberilehte, mis on osaliselt nähtav. Isiku pea asend muutub kaadrite vahel: esimeses on see pööratud vasakule, teises otse ette ja kolmandas veidi paremale. Taustal on näha tihe linnakeskkond – hallid mitmekorruselised hooned, millel on palju aknaid ja rõdusid. Tänav on tühi sõidukitest, kuid seal liigub mitu jalakäijat. Vasakul on näha bussipeatuse silt ja turvakaameraga post. Ühe hoone alumisel korrusel asuvad poed või asutused, mille sildid on osaliselt nähtavad. Üldine valgus on pilvise ilma tõttu hajutatud ja jahe.",
+      "actions": [
+        "Isik seisab ja hoiab paberilehte",
+        "Isik pöörab pead vasakult paremale",
+        "Jalakäijad liiguvad tänaval"
+      ],
+      "keywords": [
+        "Linnaelu",
+        "Tänav",
+        "Talvemüts",
+        "Kollane kapuuts",
+        "Hall jope",
+        "Pilvine ilm",
+        "Paberileht",
+        "Betoonpiire",
+        "Linn",
+        "Jalakäijad",
+        "Hooned",
+        "Bussipeatus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Talvemüts",
+        "Kollane kapuuts",
+        "Hall jope",
+        "Valge paberileht",
+        "Betoonist piire",
+        "Tänav",
+        "Hooned",
+        "Aknad",
+        "Rõdud",
+        "Bussipeatuse silt",
+        "Turvakaamera",
+        "Reklaamsildid"
+      ],
+      "colorcodes": [
+        "#E7C647",
+        "#8B8B8B",
+        "#2C3F6D",
+        "#FDFDFD",
+        "#1A1A1A",
+        "#699684"
+      ],
+      "texts": [
+        "P",
+        "PL",
+        "TARTU ÜLIKOOL Kliinik"
+      ],
+      "persons": [
+        "Mees",
+        "Jalakäijad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Isiku pea asend muutub: esimesel pildil on pea pööratud vasakule, teisel otse ette ja kolmandal veidi paremale.",
+        "Taustal olevate jalakäijate asukohad on kaadrite vahel muutunud, viidates pidevale liikumisele stseenis."
+      ],
+      "snr": "014",
+      "ajad": [
+        "155.840",
+        "169.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab halli ja pilvise ilmaga linnakeskkonda. Esiväljal vasakul on lai hall kõnnitee või platvorm, mis viib vasakule eemale. Paremal esiplaanil on pikk betoonist piire, mis eraldab kõnniteed tiheda liiklusega tänavast. Tänaval liiguvad autod, sealhulgas mitmed kollased taksod, mustad sõiduautod ja valge buss. Tänavat ääristavad modernsed mitmekorruselised hooned suurte akende ja metalliläikega fassaadidega. Hoonete peal on näha erinevaid ärinimedega silte. Esiväljal seisab üks mees seljaga kaamera poole, näoga tänava ja hoonete suunas, hoides käes rullis valget paberit või plakatit. Mees kannab halli jopet, kollast kapuutsiga pusa, siniseid teksaseid ja tumedat kootud mütsi. Kõnnitee ja asfalt on kohati märjad, viitades niiskele ilmale. Üldine atmosfäär on pilvine ja töine.",
+      "actions": [
+        "Mees seisab",
+        "Autod ja buss sõidavad",
+        "Inimesed kõnnivad (kauguses vasakul)"
+      ],
+      "keywords": [
+        "Linnamaastik",
+        "Tänav",
+        "Pilvine",
+        "Hall",
+        "Betoon",
+        "Modernne arhitektuur",
+        "Liiklus",
+        "Taksod",
+        "Kõnnitee",
+        "Mees",
+        "Plakat",
+        "Ühistransport"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Hall jope",
+        "Kollane kapuutsiga pusa",
+        "Sinised teksad",
+        "Tume kootud müts",
+        "Paberirull/plakat",
+        "Kõnnitee",
+        "Betoonpiire",
+        "Tänav",
+        "Autod (kollased taksod, mustad sõiduautod, valged sõiduautod)",
+        "Valge buss",
+        "Hooned",
+        "Aknad",
+        "Sildid",
+        "Tänavavalgustid",
+        "Veejäljed asfaldil/kõnniteel"
+      ],
+      "colorcodes": [
+        "#8C8C8C",
+        "#F7D700",
+        "#333333",
+        "#FFFFFF",
+        "#6A8EAB"
+      ],
+      "texts": [
+        "CITY SUITE RESTAURANT",
+        "TALLINK La Carte",
+        "CELLAR"
+      ],
+      "persons": [
+        "Mees",
+        "Inimesed kauguses",
+        "Juhid sõidukites"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Must sõiduauto tänaval on esimesest kaadrist teise liikunud edasi paremale",
+        "Valge sõiduauto paremal on edasi liikunud ja on nüüd kaadris selgemalt nähtav",
+        "Valge buss on edasi liikunud vasakule ja on nüüd kaadris keskel",
+        "Paremalt on teise kaadrisse sisenenud uus valge sõiduauto"
+      ],
+      "snr": "015",
+      "ajad": [
+        "169.040",
+        "177.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest – noormehelikku meest ja neidilikku naist – välitingimustes linnakeskkonnas. Naine on riietatud soojalt, kandes kollast kapuutsi, kollase-rohelise-punase triibulise salli, tumedat nahka meenutavat jakki, kollast pluusi ja punaseid pükse ning kollaseid sõrmkindaid. Tal on käes valge kohvitops punase logoga ja must peegelkaamera. Mees kannab samuti sooje riideid: kollase-halli mustriga kootud mütsi või kapuutsi ja halli jopet. Ta hoiab käes valget plakatit, millel on venekeelne kiri ja kollane naerunägu. Taustal on näha hoone sissepääs, asfalttee, metallpiire ja betoonseinad, millel on ka grafiti. Esimesel hetkel vaatab naine üles taeva poole ja mees hoiab plakatit otse ette, vaadates justkui kaamerasse. Teisel hetkel pöörab naine oma pilgu mehe poole, justkui rääkides temaga, samal ajal kui mees vaatab naist, hoides plakatit endiselt lahti. Kolmandal hetkel on mõlemad tegelased pööranud pilgu teineteisest eemale, mees on plakati kokku pannud või selja taha pööranud. Üldine atmosfäär viitab jahedale ilmale, tõenäoliselt sügisele või varakevadele. Esimesel pildil on naise taga kauguses näha väike valge koer.",
+      "actions": [
+        "Naine vaatab üles",
+        "Naine hoiab kohvitopsi",
+        "Naine hoiab fotoaparaati",
+        "Naine pöörab pead mehe poole",
+        "Naine räägib (oletus)",
+        "Mees hoiab plakatit",
+        "Mees vaatab naist",
+        "Mees pöörab plakati kokku/eemale",
+        "Mõlemad tegelased pööravad pilgu teineteisest eemale"
+      ],
+      "keywords": [
+        "Linnakeskkond",
+        "Külm ilm",
+        "Ootamine",
+        "Plakat",
+        "Suhtlus",
+        "Üllatus",
+        "Linnaelu",
+        "Sügis/kevad",
+        "Kohtumine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Kohvitops",
+        "Fotoaparaat",
+        "Plakat",
+        "Kapuutsid",
+        "Sall",
+        "Jakid",
+        "Püksid",
+        "Kindad",
+        "Betoonsein",
+        "Asfalttee",
+        "Hoone",
+        "Metallpiire",
+        "Väike valge koer",
+        "Grafiti"
+      ],
+      "colorcodes": [
+        "#F7DC6F",
+        "#A9A9A9",
+        "#8B0000",
+        "#FFFFFF",
+        "#000000",
+        "#4A4A4A",
+        "#556B2F"
+      ],
+      "texts": [
+        "ИРА ПРИЕДЕТ В ТАЛЛИН",
+        "Я ТЕБЯ ЖДУ!",
+        "Lizzy (osaliselt nähtav)",
+        "muud kritseldused"
+      ],
+      "persons": [
+        "Neidilik naine",
+        "Noormehelik mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab naine üles ja mees hoiab plakatit lahti, vaadates otse ette. Taustal on näha väike valge koer.",
+        "Teisel pildil on naine pööranud pilgu mehe poole ja tundub temaga suhtlevat, samal ajal kui mees vaatab naist, hoides plakatit endiselt lahti. Koer ei ole enam kaadris näha.",
+        "Kolmandal pildil on mõlemad tegelased pööranud pilgu teineteisest ja kaamerast eemale. Mees on plakati kokku pannud või selja taha pööranud. Naine hoiab ikka topsi ja kaamerat, vaadates oma vasakule poole."
+      ],
+      "snr": "016",
+      "ajad": [
+        "177.360",
+        "187.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab suurt tumedat naisekuju skulptuuri, mis seisab kõrgel postamendil modernse, helehalli ruudukujuliste paneelidega hoone ees. Skulptuur on alasti ja vaatab üles ja paremale, parem käsi varjab silmi, justkui varjaks päikese eest või otsiks midagi kaugusest. Postamendi ees on haljastatud ala mitme kõrge, koonilise igihalja põõsa ja madalamate ümarate põõsastega. Skulptuuri aluse lähedal paremal pool on kaks inimest, kes kannavad kollaseid kaitsekiivreid. Üks neist hoiab käes paberit, mis näib olevat plaan või joonis, ning nad paistavad arutavat midagi või vaatavat dokumenti. Üldine atmosfäär on rahulik ja päevavalgus on pilvise taeva tõttu summutatud. Tegemist on linnakeskkonnaga, kus kunst kohtub arhitektuuriga, rõhutades skulptuuri monumentaalsust inimeste kõrval.",
+      "actions": [
+        "arutamine",
+        "plaanide vaatamine",
+        "seisamine",
+        "vaatamine kaugusse"
+      ],
+      "keywords": [
+        "skulptuur",
+        "statue",
+        "naine",
+        "hoone",
+        "modernne",
+        "haljastus",
+        "töötajad",
+        "linn",
+        "arhitektuur",
+        "kunst",
+        "pilvine",
+        "hall",
+        "monumentaalne",
+        "kaitsekiiver"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "skulptuur",
+        "postament",
+        "hoone",
+        "põõsad",
+        "kaitsekiivrid",
+        "paber",
+        "plaan"
+      ],
+      "colorcodes": [
+        "#A6A8A8",
+        "#2C343B",
+        "#3A4B3A",
+        "#F0C808",
+        "#1A1A1A"
+      ],
+      "texts": [],
+      "persons": [
+        "kaks inimest",
+        "töötajad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad erinevused."
+      ],
+      "snr": "017",
+      "ajad": [
+        "187.200",
+        "191.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest õues, tõenäoliselt Tallinna lennujaama või mõne sarnase suurema avaliku hoone ees. Naine, kellel on punakaspruunid juuksed, kollane pusa ja tumeroheline jope, hoiab käes kaamerat ja kohvitopsi, vaadates naeratades meest. Mees, kellel on peas triibuline müts, seljas kollane pusa ja tume jope, hoiab käes suurt valget silti venekeelse tekstiga ja suure kollase naerunäoga. Ta paistab olevat kedagi ootamas ning naine dokumenteerib seda hetke fotoga. Taustal on näha modernse arhitektuuriga hooneid, sõiduteed ja halli betoonist või kivist seina. Kogu stseen viitab jahedamale aastaajale, nagu sügis või kevad, riietuse ja üldise valgustuse järgi.",
+      "actions": [
+        "Mees hoiab silti",
+        "Naine vaatab mehe ja sildi poole",
+        "Naine naeratab",
+        "Naine hoiab käes kaamerat",
+        "Naine hoiab käes kohvitopsi",
+        "Naine pildistab (implitsiitne)",
+        "Mees räägib või reageerib (esimesel pildil on suu avatud)"
+      ],
+      "keywords": [
+        "Kohtumine",
+        "Ootamine",
+        "Tervitamine",
+        "Silt",
+        "Fotograafia",
+        "Tallinn",
+        "Lennujaam",
+        "Väljas",
+        "Sügis",
+        "Kevad",
+        "Emotsioon",
+        "Rõõm"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Paberist silt",
+        "Digikaamera",
+        "Kohvitops",
+        "Kollased pusad",
+        "Tumedad joped",
+        "Sall",
+        "Müts",
+        "Triibulised sõrmikud",
+        "Hooned",
+        "Sõidutee",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#fddb00",
+        "#aa4e21",
+        "#464a48",
+        "#474d53",
+        "#ffffff",
+        "#000000",
+        "#ffe601"
+      ],
+      "texts": [
+        "ИРА ПРИЕДЕТ В ТАЛЛИНН!",
+        "Я ТЕБЯ ЖДУ!"
+      ],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 55,
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Mehe näoilme muutub: esimesel pildil on suu avatud, justkui räägiks või reageeriks, samas kui teisel ja kolmandal on suu suletud, kolmandal ka kergelt naeratav.",
+        "Naise pea ja pilk liiguvad: esimesel pildil vaatab ta otse sildi poole, teisel ja kolmandal on pilk rohkem suunatud mehe poole ning naeratus muutub ilmekamaks.",
+        "Naise parema käe asend kaameraga muutub kergelt kaadrite vahel."
+      ],
+      "snr": "018",
+      "ajad": [
+        "191.520",
+        "200.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, noort naist ja meest, linnakeskkonnas. Nad seisavad kõnniteel või platvormil, mille taga avaneb vaade tihedale linnaliiklusele ja hoonetele. Naine, kellel on oranžikaspruunid juuksed, kannab kollast kootud kapuutsi ja kollase-punasekirju triibulist salli, hoiab käes valget-punast kohvitopsi. Ta vaatab mehe poole kerge naeratusega. Mees, kelle nägu on osaliselt kaadri ääres, kannab halli jopet ja kollast kapuutsi, millel on must-valge kootud ääris. Tal on habe ja ta hoiab käes pabereid. Tagaplaanil on näha sõidutee autode ja bussiga (mis ilmub ja kaob kaadrite vahel) ning hooneid. Üldine atmosfäär on argine ja linnlik, viidates võimalikule juhuslikule kohtumisele või lühikesele vestlusele.",
+      "actions": [
+        "Naine vaatab meest",
+        "Naine hoiab kohvitopsi",
+        "Mees hoiab pabereid",
+        "Seismine",
+        "Vestlemine (oletatav)"
+      ],
+      "keywords": [
+        "Linnastseen",
+        "Vestlus",
+        "Tänav",
+        "Noored",
+        "Kohv",
+        "Talv",
+        "Urbanistlik",
+        "Kootud riided",
+        "Linnaliiklus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kohvitops",
+        "Paberid",
+        "Kapuuts",
+        "Sall",
+        "Jakk",
+        "Autod",
+        "Buss",
+        "Hoone",
+        "Sõidutee",
+        "Betoonpiire",
+        "Valgusfoor"
+      ],
+      "colorcodes": [
+        "#E8BF39",
+        "#993300",
+        "#6E7B7D",
+        "#FFFFFF",
+        "#C82A2A"
+      ],
+      "texts": [
+        "Tekst kohvitopsil (hägune)"
+      ],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 0,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Taustal olev buss ilmub teises kaadris ja kaob kolmandas",
+        "Taustal olev liiklus (autode positsioonid) muutub kaadrite vahel",
+        "Naise peahoid ja näoilme muutuvad veidi kaadrite vahel",
+        "Mehe peahoid muutub veidi kaadrite vahel"
+      ],
+      "snr": "019",
+      "ajad": [
+        "200.160",
+        "224.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest linnakeskkonnas, ilmselt tänaval või jalakäijate alal, mis on ääristatud hallide betoonhoonete ja asfaltteega. Vasakul seisab noor punaste juustega naine, seljas tumeroheline või hall jakk, mille all on kollane kapuutsiga pusa. Tema kaela ümber on triibuline sall ja kätes on tal sõrmedeta kindad. Ta hoiab ühes käes punast 'coffee' logoga tassi ja teises musta fotokaamerat. Ta vaatab otse tema ees seisva mehe poole. Mees paremal on samuti riietatud sooja riietusse, tal on seljas hall jope, mille all on kollane kapuutsiga pusa ja peas kootud müts. Ta hoiab käes valget plakatit, millel on venekeelne kiri ja kollane naerunägu. Ta vaatab samuti naise poole. Taustal on näha teisi inimesi liikumas ja halli hoonet koos valgustatud akendega. Ühel hetkel pöörab naine selja mehele ja liigub kaamerast eemale paremale, samal ajal kui mees kaob kaadrist. Üldine õhkkond on jahe ja pilvine, mis viitab külmemale aastaajale.",
+      "actions": [
+        "Naine seisab ja vaatab mehe poole",
+        "Mees hoiab plakatit",
+        "Naine hoiab kohvitassi ja kaamerat",
+        "Naine pöörab selja",
+        "Naine kõnnib kaadrist välja"
+      ],
+      "keywords": [
+        "linn",
+        "tänav",
+        "plakat",
+        "kohv",
+        "kaamera",
+        "talv",
+        "ootamine",
+        "sõnum",
+        "hall ilm"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "kollane kapuutsiga pusa",
+        "tume jakk",
+        "triibuline sall",
+        "sõrmedeta kindad",
+        "punane kohvitops",
+        "fotokaamera",
+        "valge plakat",
+        "kollane naerunägu",
+        "kootud müts",
+        "hall jope",
+        "betoonsein",
+        "asfalt",
+        "hoone",
+        "valgustatud aknad",
+        "graffiti",
+        "teeäärised"
+      ],
+      "colorcodes": [
+        "#F4D03F",
+        "#343A40",
+        "#C0392B",
+        "#606060",
+        "#A7A7A7",
+        "#E0E0E0",
+        "#FFEB3B"
+      ],
+      "texts": [
+        "coffee",
+        "ИРА ПРИЕДЕТ В ТАЛЛИНН.",
+        "Я ТЕБЯ ЖДУ!",
+        "LIZIK",
+        ":)"
+      ],
+      "persons": [
+        "naine (punaste juuste ja kollase pusaga)",
+        "mees (kollase pusaga ja plakatiga)",
+        "taustal olevad inimesed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimeses ja teises kaadris on naine ja mees vastastikku ja peaaegu paigal, kusjuures teises kaadris on naise näoilme veidi muutunud või on tegemist väga väikese liikumisega.",
+        "Kolmandas kaadris on naine pöördunud ja kõnnib paremale, peaaegu seljaga kaamera poole, ning mees on kaadrist kadunud."
+      ],
+      "snr": "020",
+      "ajad": [
+        "224.920",
+        "233.760"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset välitingimustes, ilmselt linnatänaval, kus taustal on näha vilgas liiklus betoonist barjääriga eraldatud teel. Tee on sillutatud helehallide plaatidega. Kaadris on kaks inimest. Esialgu on üks neist näha selja tagant, kandes halli jopet punaka kraega ja silmatorkavat kollast kapuutsi. Ta hoiab käes valget paberilehte. Teine inimene, kes ilmub etteplaanile, läheneb samuti selja tagant. Temal on seljas tumeroheline sõjaväestiilis jope õlakutega ja üle õla jookseb heledam rihm. Ka temal on peas kollane kapuuts, mis näib olevat paksem või karvasem. See inimene hoiab käes valget kohvitopsi. Kaadrite arenedes pöörduvad kaks inimest üksteise poole. Esimene inimene paljastab oma näo – tegemist on habetunud mehega, kes kannab kollase kapuutsi all triibulist mütsi. Ta esitleb valget paberit, millel on kirjas venekeelne tekst \"В ТАЛЛИН!\" (eesti keeles \"TALLINNASSE!\") koos naerunäoga. Teine inimene, kelle seljaosa on endiselt kaamera poole, suhtleb temaga, hoides endiselt oma kohvitopsi. Üldine atmosfäär viitab lühikesele kohtumisele või suhtlusele kahe inimese vahel linnatänaval. Valgus on ühtlane ja pehme, mis viitab pilvisele päevale.",
+      "actions": [
+        "Jalutamine/lähenemine",
+        "Paberi hoidmine",
+        "Kohvitopsi hoidmine",
+        "Üksteise poole pööramine",
+        "Suhtlemine",
+        "Sõnumi esitlemine"
+      ],
+      "keywords": [
+        "Linn",
+        "Tänav",
+        "Kohtumine",
+        "Kapuuts",
+        "Silt",
+        "Tallinn",
+        "Jalakäijad",
+        "Autod",
+        "Betoonbarjäär",
+        "Joped",
+        "Kohv"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Paberileht",
+        "Kohvitops",
+        "Kollased kapuutsid",
+        "Hall jope",
+        "Tumeroheline jope",
+        "Triibuline müts",
+        "Betoonbarjäär",
+        "Tänavasillutis",
+        "Autod (kollane takso, tumehall maastur, hõbedane sedaan)"
+      ],
+      "colorcodes": [
+        "#F7D300",
+        "#6C6C6C",
+        "#FFFFFF",
+        "#4B5C4A",
+        "#D9D9D9",
+        "#A0522D"
+      ],
+      "texts": [
+        "В ТАЛЛИН!",
+        ":)"
+      ],
+      "persons": [
+        "Habetunud mees",
+        "Teine inimene (kollase kapuutsiga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Teine inimene ilmub kaadrisse lähemale ja hakkab suhtlema esimese inimesega.",
+        "Kaamera asend muutub, paljastades esimese inimese näo ja paberilehe sisu.",
+        "Stseen muutub üldvaatest lähimaks inimeste interaktsioonile."
+      ],
+      "snr": "021",
+      "ajad": [
+        "233.760",
+        "245.760"
+      ]
+    },
+    {
+      "explanation": "Kaks inimest vestlevad välitingimustes hoone ees. Vasakul seisab noor naine punaka juuksevärviga, seljas must nahkjakk, kollane pluus, punased püksid ja värviline sall (kollase, pruuni ja punase triibuga). Tal on kaelas kaamera ja ta hoiab paremas käes punavalget kohvitopsi. Tema suu on avatud ja ilme on elav, justkui ta räägiks või naerataks. Paremal seisab kapuutsiga inimene, kelle nägu on varjatud kollase kapuutsi ja tumeda maski või kattega, millel on ka mõned paelad või juuksetutid. Seljas on tal hall jope, millel on punased detailid ja kiri 'ISC'. Ta hoiab käes avatud valget paberipakki või märkmikku, milles on tekst ja number '1'. Inimene vaatab paberitesse või kuulab vestluskaaslast. Taustaks on suur, hele, lihtsa fassaadiga hoone sein, vasakul ees on tume, kivist või betoonist istutusala koos rohelusega. Üldine atmosfäär on jahe ja pilvine, mis sobib väljas vestlemiseks kihtides riietuses.",
+      "actions": [
+        "Naine räägib või naeratab.",
+        "Naine hoiab kohvitopsi.",
+        "Naine hoiab esimesel pildil lisaks kohvitopsile ka midagi söödavat vasakus käes.",
+        "Kapuutsiga inimene hoiab paberipakki või märkmikku.",
+        "Inimesed vestlevad.",
+        "Kapuutsiga inimene kuulab või loeb paberitelt."
+      ],
+      "keywords": [
+        "Vestlus",
+        "Linnaruum",
+        "Jahe ilm",
+        "Fotograafia",
+        "Salapärane",
+        "Kapuuts",
+        "Mask",
+        "Kohvipaus",
+        "Välitingimused",
+        "Kaamera"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Kohvitops",
+        "Kaamera (DSLR)",
+        "Sall",
+        "Nahkjakk",
+        "Kollane pluus",
+        "Punased püksid",
+        "Labakindad",
+        "Kollane kapuuts",
+        "Hall jope",
+        "Must mask/peakate",
+        "Paberipakid/märkmik",
+        "Hoone sein",
+        "Istutusala",
+        "Rohelus (puud/põõsad)",
+        "Metallist piirded (taustal)"
+      ],
+      "colorcodes": [
+        "#5c3b2e",
+        "#e0e0e0",
+        "#3d3b3c",
+        "#dda001",
+        "#b52c2c",
+        "#9f7d2f",
+        "#8d1c1c",
+        "#edc12a",
+        "#5e666a",
+        "#3b3b3b",
+        "#a31f24"
+      ],
+      "texts": [
+        "ISC",
+        "1"
+      ],
+      "persons": [
+        "Noor naine",
+        "Kapuutsiga inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil hoiab naine lisaks kohvitopsile vasakus käes midagi väikest (näeb välja nagu mõned küpsised või snäkk), mis teisel pildil on kadunud, justkui oleks ta selle ära söönud või maha pannud.",
+        "Naine on esimesel pildil veidi avatuma suu ja laiemalt naeratava/elavama ilmega. Teisel pildil on tema suu veidi suletum, kuigi ikka avatud, ja ilme on natuke tagasihoidlikum, justkui oleks rääkimise intensiivsus muutunud või paus tekkinud."
+      ],
+      "snr": "022",
+      "ajad": [
+        "245.760",
+        "251.200"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kaks inimest linna välialal, tõenäoliselt külma ilmaga, arvestades inimeste riietust ja halli päevavalgust, mis viitab sügisele või talvele. Vasakpoolne isik on riietatud halli jopesse, mille all paistab must-valge müts või kapuuts, ja kannab peal kollast kapuutsi. Ta hoiab käes valget paberitükki, millel on suure kollase naerunäo kujutis ja venekeelne tekst. See isik on suunatud paremal oleva teise isiku poole. Parempoolne isik on seljaga vaataja poole, kandes tumerohelist jopet ja suurt kollast kootud kapuutsi, mis katab pea. Tema õlal on hele hall kottrihm. Stseen areneb nii, et parempoolne isik pöörab ennast vasakpoolse isiku eest ära, asetades samal ajal valge-punase 'Coffee in' logoga kohvitopsi tumedale, läikivale horisontaalsele pinnale paremal pool kaadris. Seejärel tõstab parempoolne isik oma parema käe, justkui vasakpoolset isikut eemale tõrjudes või tema pakkumisest keeldudes. Tausta moodustavad hallid betoonist ehitised, asfalditud kõnnitee ja kauguses ebaselge linnamaastik koos postidega.",
+      "actions": [
+        "Isik hoiab märki",
+        "Isik vaatab teist isikut",
+        "Isik pöörab ennast ära",
+        "Isik asetab kohvitopsi pinnale",
+        "Isik viipab käega eemale"
+      ],
+      "keywords": [
+        "tänav",
+        "linn",
+        "inimeste interaktsioon",
+        "märk",
+        "naerunägu",
+        "kohvitops",
+        "kapuuts",
+        "eemaletõrjumine",
+        "sotsiaalne olukord"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "valge plakat",
+        "kollane naerunägu",
+        "hall jope",
+        "kollane kapuuts",
+        "must-valge müts",
+        "tumeroheline jope",
+        "hall kottrihm",
+        "valge kohvitops",
+        "tume läikiv pind",
+        "betoonist sein",
+        "kõnnitee",
+        "tee/tänav taustal",
+        "postid"
+      ],
+      "colorcodes": [
+        "#A9A9A9",
+        "#F5D136",
+        "#4B4F42",
+        "#FFFFFF",
+        "#DE261D",
+        "#464646"
+      ],
+      "texts": [
+        "В ТИПИНН!",
+        "Coffee in"
+      ],
+      "persons": [
+        "inimene vasakul",
+        "inimene paremal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil hoiab vasakpoolne isik märki ja vaatab paremal olevat isikut, kes on seljaga vaataja poole ja tundub olevat paigal.",
+        "Teisel pildil on paremal olev isik hakanud ennast vasakpoolse isiku eest ära pöörama ning asetab kohvitopsi tumedale pinnale.",
+        "Kolmandal pildil on parempoolne isik täielikult vasakpoolse isiku poolelt ära pööratud, kohvitops on paigutatud ja ta on oma käe välja sirutanud, justkui vasakpoolset isikut eemale tõrjudes."
+      ],
+      "snr": "023",
+      "ajad": [
+        "251.200",
+        "260.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest välitingimustes, kes seisab betoonist treppidel või platvormil, hoides käes valget plakatit. Ta kannab kollast kapuutsiga pusa, mille all on mustriline müts, ning tumedat jopet ja siniseid teksaseid. Mehel on näha habe või habemetüügas. Plakatil on venekeelne kiri \"ИРА ПРИЕДЬ В ТАЛЛИНН! Я ТЕБЯ ЖДУ!\" (Ira, tule Tallinnasse! Ma ootan sind!) ja kollane naerunägu. Taustal on näha tume kivisein, mõned igihaljad põõsad ja modernne hoone, millel on kiri \"KATUSE KINO\". Ühel hetkel paistab kiviseinal punane ühekordne kohvitops. Stseen on filmitud päevasel ajal pilvise ilmaga, andes üldmulje jahedast ja hallist keskkonnast. Kaadritel on näha kaamera fookuse märke ja ringe, mis viitavad videopildile või võtteprotsessile. Mehe pilk varieerub otse kaamerasse vaatamisest kuni eemale vaatamiseni, edastades justkui siirast sõnumit.",
+      "actions": [
+        "Plakati hoidmine",
+        "Seismine",
+        "Kaamerasse vaatamine",
+        "Teate edastamine"
+      ],
+      "keywords": [
+        "Plakat",
+        "Tänav",
+        "Linnakeskkond",
+        "Sõnum",
+        "Ootamine",
+        "Armastus",
+        "Teade",
+        "Kaamera ülekatte",
+        "Välivõte",
+        "Hall ilm"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Plakat",
+        "Mees",
+        "Kapuutsiga pusa",
+        "Müts",
+        "Jope",
+        "Teksapüksid",
+        "Kivisein",
+        "Betoonist trepid",
+        "Hoone",
+        "Igihaljad põõsad",
+        "Kohvitops",
+        "Naerunägu (plakatil)",
+        "Kaamera fookuse märgid"
+      ],
+      "colorcodes": [
+        "#FFC107",
+        "#000000",
+        "#4285F4",
+        "#FFFFFF",
+        "#808080",
+        "#A52A2A"
+      ],
+      "texts": [
+        "ИРА ПРИЕДЬ В ТАЛЛИНН! Я ТЕБЯ ЖДУ!",
+        "KATUSE KINO"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 60,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaadrite peamine erinevus seisneb kaamera kadreeringus: esimene kaader on laiem, näidates meest täispikkuses koos ümbritseva keskkonnaga, samas kui teised kaadrid on keskmised lähivõtted, keskendudes mehe ülakehale ja näole.",
+        "Mehe pilk varieerub otse kaamerasse vaatamisest kuni eemale vaatamiseni.",
+        "Kaamera fookuse märkide ja ringide prominentsus on erinevates kaadrites varieeruv; näiteks teises kaadris on suur fookusering eriti märgatav."
+      ],
+      "snr": "024",
+      "ajad": [
+        "260.920",
+        "273.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest linnaruumis, moodsa arhitektuuriga hoonete ja treppide taustal. Paremal seisab naine, kes esialgu pildistab kaameraga meest, seejärel pöörab selja ja hakkab eemalduma. Naine kannab tumedat jopet, kollast pluusi, punaseid pükse ja halli õlakotti. Vasakul seisev mees on riietatud halli jopesse, kollasesse kapuutsiga pusa ja mustrisse kootud mütsi. Ta hoiab käes valget plakatit, millel on esmalt osaliselt nähtav sõnum ja kollane naerunägu, hiljem aga selge kiri vene keeles, mis kutsub kedagi Tallinna ja väljendab ootust. Kogu stseen toimub pilvise ilmaga päevasel ajal, mis annab keskkonnale hallika ja jaheda tunde. Taustal on näha linnapilti kõrghoonetega ja maaaluse käigu sissepääsu.",
+      "actions": [
+        "Naine pildistab kaameraga meest",
+        "Naine pöörab selja ja hakkab eemalduma",
+        "Mees hoiab käes plakatit",
+        "Mees poseerib plakatiga"
+      ],
+      "keywords": [
+        "linn",
+        "tänav",
+        "fotograafia",
+        "sõnum",
+        "ootamine",
+        "plakat",
+        "kaamera",
+        "hall ilm",
+        "linnakeskkond"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "kaamera",
+        "valge plakat",
+        "õlakott",
+        "trepid",
+        "hooned",
+        "maa-aluse käigu sissepääs"
+      ],
+      "colorcodes": [
+        "#8C8D8F",
+        "#F4D658",
+        "#C82F2F",
+        "#343432",
+        "#595F63"
+      ],
+      "texts": [
+        "В Талли",
+        "ИРА ПРИЕДЬ В ТАЛЛИНН! Я ТЕБЯ ЖДУ!",
+        ":)"
+      ],
+      "persons": [
+        "naine",
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Naine vaatab esimeses kaadris mehe poole ja pildistab, teises ja kolmandas kaadris on naine seljaga ja eemaldumas.",
+        "Mehe käes olev plakat on esimeses ja teises kaadris osaliselt nähtav tekstiga 'В Талли' ja naerunäoga, kolmandas kaadris on tekst 'ИРА ПРИЕДЬ В ТАЛЛИНН! Я ТЕБЯ ЖДУ!' ja naerunägu täielikult nähtav."
+      ],
+      "snr": "025",
+      "ajad": [
+        "273.920",
+        "309.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pilvist sügispäeva linnakeskkonda, kus esiplaanil on näha hallist betoonist piiret ja heledat kõnniteed. Vaade avaneb laiale tänavale, mille vasakus servas on punane 'Anna teed' liiklusmärk ja foorid, mille punane tuli põleb. Tänava paremal pool kõrgub rida suuri modernseid hooneid paljude akendega ja esimese korruse vitriinides on näha riideid müügil. Tänava keskel kauguses on rida autosid peatumas foori taga ja üks punane universaalkerega auto sõidab aeglaselt paremalt vasakule. Ühel hetkel ilmub stseeni keskele keskealine mees, kes hoiab käes suurt valget plakatit. Mees kannab halli jopet ja kollase kapuutsiga pusa, kapuuts on peas. Plakatil on kirillitsas kiri 'ИРА ПРИЕДЕТ В ТАЛЛИНН Я ТЕБЯ ЖДУ!' ja kollane naerunägu. Mees vaatab kaamera suunas, ilme on tõsine ja ootusärev. Linnapildis domineerivad hallid ja betoonikarva toonid, mis annavad edasi jaheda ja pilvise sügispäeva atmosfääri.",
+      "actions": [
+        "autod peatuvad foori taga",
+        "punane auto sõidab aeglaselt",
+        "mees hoiab plakatit",
+        "mees vaatab kaamera suunas"
+      ],
+      "keywords": [
+        "linn",
+        "tänav",
+        "liiklus",
+        "autod",
+        "hooned",
+        "plakat",
+        "mees",
+        "ootamine",
+        "Tallinn",
+        "sügis",
+        "pilvine",
+        "foor",
+        "liiklusmärk",
+        "betoonpiire",
+        "urban"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "autod",
+        "hooned",
+        "tänav",
+        "kõnnitee",
+        "betoonpiire",
+        "foor",
+        "liiklusmärk (anna teed)",
+        "tänavalatern",
+        "plakat",
+        "vitriinaknad",
+        "riided (vitriinis)"
+      ],
+      "colorcodes": [
+        "#A6AFB5",
+        "#919395",
+        "#DDCF5D",
+        "#CB2828",
+        "#FDFDFD",
+        "#4C4B4C"
+      ],
+      "texts": [
+        "ИРА ПРИЕДЕТ В ТАЛЛИНН",
+        "Я ТЕБЯ ЖДУ!"
+      ],
+      "persons": [
+        "mees",
+        "inimesed (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader näitab linnatänavat ilma inimeseta esiplaanil, samas kui hilisemates kaadrites ilmub kaadri keskele mees, kes hoiab plakatit.",
+        "Kaadrite vahel on mehe asend ja pilk veidi muutunud, mis viitab liikumisele või video kaadritele."
+      ],
+      "snr": "026",
+      "ajad": [
+        "309.560",
+        "322.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest linnakeskkonnas jahedal, tõenäoliselt pilvisel päeval või õhtuhämaruses. Ta kannab kihilist riietust: halli jopet, erkollast kapuutsiga pusa (huppari) ja mustrilist tutikestega mütsi. Tal on ka habe. Kaadrites on näha, kuidas mees esmalt kohendab oma jakki või hoiavad midagi rinna juures, seejärel vaatab otse kaamerasse, näib rääkivat ja hoiab käes kokku rullitud valget paberilehte. Lõpuks pöörab ta selja kaamera poole, nii et domineerivaks jääb tema kollane pusa. Taustal on hägune linnavaade hoonete, tänavate ja liikuvate autodega, mille tuled põlevad, viidates hämarusele või pimedale ilmale. Taamal on näha ka punase tulega valgusfoor.",
+      "actions": [
+        "Jaki kohendamine",
+        "Rääkimine",
+        "Vaataja poole vaatamine",
+        "Selja pööramine",
+        "Paberi hoidmine"
+      ],
+      "keywords": [
+        "Linn",
+        "Mees",
+        "Jope",
+        "Huppari",
+        "Müts",
+        "Tänav",
+        "Külm ilm",
+        "Paber",
+        "Vestlus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Hall jope",
+        "Kollane huppari",
+        "Mustriline müts tutikestega",
+        "Habe",
+        "Autod",
+        "Tänav",
+        "Hooned",
+        "Valgusfoor",
+        "Valge paberirull",
+        "Piire"
+      ],
+      "colorcodes": [
+        "#525B60",
+        "#DDBC60",
+        "#4A575F",
+        "#B38F75",
+        "#C40B0B"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Mehe kehahoiak ja näoilme muutuvad (esimene kaader: jaki kohendamine; teine kaader: vaatab kaamerasse ja räägib; kolmas kaader: pöörab selja).",
+        "Teises kaadris ilmub mehe kätte kokku rullitud valge paberileht.",
+        "Kaamera nurk ja mehe orientatsioon kaamera suhtes muutuvad.",
+        "Taust nihkub ja näitab linnakeskkonnast veidi erinevaid osi, viidates subjekti liikumisele või kaamera panoraamimisele."
+      ],
+      "snr": "027",
+      "ajad": [
+        "322.880",
+        "342.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noorem mees, kes seisab hallis ja jahedas linnakeskkonnas. Ta kannab halli jopet, mille all on kollane kapuutsiga pusa, ning mustrilist mütsi. Mehel on habe ja ta vaatab pingsalt kaamera eest eemale, vasakule, hiljem otse ette. Tema ilme on tõsine või mõtlik. Taustal on näha helehalle betoonseinu, tumerohelisi igihaljaid põõsaid ning märga, peegeldavat asfalti või platsi, mis viitab vihmasele või niiskele ilmale. Üldine valgusküllastus on ühtlane ja hajutatud, vihjates pilvisele päevale. Stseeni jooksul ilmub kaadri alumisest servast välja tühi valge silt, mida mees hoiab enda ees.",
+      "actions": [
+        "Mees seisab",
+        "Mees vaatab kaamera eest eemale/ette",
+        "Mees hoiab sildi/paberit",
+        "Silt ilmub kaadrisse"
+      ],
+      "keywords": [
+        "Mees",
+        "Linn",
+        "Hall",
+        "Külm",
+        "Vihmane",
+        "Märg",
+        "Tõsine",
+        "Mõtlik",
+        "Protest",
+        "Silt",
+        "Kapuutsiga",
+        "Müts"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Jope",
+        "Kapuuts",
+        "Müts",
+        "Habe",
+        "Betoonsein",
+        "Põõsad",
+        "Märg pind",
+        "Tühi valge silt/paber"
+      ],
+      "colorcodes": [
+        "#575e65",
+        "#d4a93a",
+        "#2d303f",
+        "#c1c5cd",
+        "#546a75",
+        "#6a7178",
+        "#2f362e",
+        "#e8e8e8"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil hoiab mees käed all või on silt veel kaadrist väljas, teisel pildil hakkab kaadri alumisest servast ilmuma tühi valge silt, mida mees hoiab, ja kolmandal pildil on see silt juba täielikumalt näha, kattes mehe keha alaosa. Mehe pilk nihkub kaadri vahel kergelt."
+      ],
+      "snr": "028",
+      "ajad": [
+        "342.000",
+        "359.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort paari linnakeskkonnas, tõenäoliselt hämaral õhtul või pilvisel päeval, kus märjaks kastetud teekate peegeldab linnatulesid. Algselt kõnnivad naine tumedas kapuutsiga mantlis ja tumedas sallis ning mees tumedas sulejopes ja silmapaistvas punases sallis mööda betoonpiiret. Tagaplaanil on näha modernseid hooneid valgustatud siltidega nagu \"TALLINK\", \"BUFFET\" ja \"CELLAR\" ning mööda sõitvaid autosid. Stseeni edenedes paar peatub ja pöördub teineteise poole, mehe näol on näha naeratust. Kaamera läheneb neile ning esiplaanile ilmub fookusest väljas olev kolmas isik, kelle selg ja kollane kapuutsiga jakk raamivad peategelasi. Lõpuks on paar teineteisele väga lähedal, pead peaaegu kokku puutumas, mis annab edasi intiimse hetke, justkui sosistaksid nad teineteisele midagi või valmistuksid suudluseks, samal ajal kui fookusest väljas olev vaatleja esiplaanil lisab stseenile sügavust.",
+      "actions": [
+        "kõndimine",
+        "peatumine",
+        "teineteise poole pöördumine",
+        "naeratamine",
+        "lähedusse asumine",
+        "sosistamine (oletatav)"
+      ],
+      "keywords": [
+        "linnakeskkond",
+        "tänav",
+        "paar",
+        "intiimne hetk",
+        "sügis",
+        "õhtu",
+        "märjasteed",
+        "valgustatud sildid",
+        "vaatleja",
+        "kapuuts"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "betoonist piire",
+        "hooned",
+        "autod",
+        "tänav",
+        "valgustatud sildid",
+        "kapuutsiga mantel",
+        "sall",
+        "sulejope",
+        "kapuutsiga jakk"
+      ],
+      "colorcodes": [
+        "#3d4244",
+        "#9e1d21",
+        "#c79f29",
+        "#e4e4e4",
+        "#1a1a1a",
+        "#4d5156"
+      ],
+      "texts": [
+        "BUFFET",
+        "TALLINK",
+        "CELLAR",
+        "& a la Carte"
+      ],
+      "persons": [
+        "noor naine (tumedas kapuutsiga mantlis ja salliga)",
+        "noor mees (tumedas sulejopes ja punases sallis, naeratades)",
+        "kolmas isik (seljaga, kollase kapuutsiga jakiga, fookusest väljas)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Esimene pilt on laiem kaader, mis näitab paari kõndimas ja ümbritsevat linnakeskkonda.",
+        "Teine pilt on keskmine kaader, mis keskendub paarile, kes on peatanud ja teineteise poole pööranud, ning tutvustab kolmandat fookusest väljas olevat isikut esiplaanil.",
+        "Kolmas pilt on lähim kaader, mis rõhutab paari intiimset lähedust, nende pead on peaaegu koos, samal ajal kui kolmas isik esiplaanil on veelgi dominantsem ja fookusest väljas.",
+        "Kaamera liigub paarile järjest lähemale, muutudes laiemast kaadrist keskmiseks ja seejärel lähikaadriks.",
+        "Paari kehakeel muutub kõndimiselt peatumisele ja intiimsele lähenemisele."
+      ],
+      "snr": "029",
+      "ajad": [
+        "359.600",
+        "363.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab välitingimustes meest, kes seisab ja hoiab käes valget paberist silti. Mees on riietatud halli kapuutsiga jopesse, millel on kollane kapuuts tõmmatud üle musta ja valge mustriga mütsi, ning kannab musti kindaid. Tema pilk on suunatud eemale, vasakule. Sildil on vene keeles käsitsi kirjutatud tekst ja kollane naerunäo kleeps. Taustal vasakul on tume, tekstuuriga sein, mis võib olla kivi või betoon, ja paremal pool on märg, sillutatud ala koos astmete ja kauguses asuva metallpiirdega. Maa on märg, viidates hiljutisele sajule või niiskele ilmale. Üldine atmosfäär on jahe ja pilvine, vihjates sügisesele või varakevadisele päevale.",
+      "actions": [
+        "Mees hoiab silti",
+        "Mees pöörab pead ja vaatab paremale",
+        "Mees pöörab keha veidi paremale",
+        "Taustal kõnnib teine inimene (viimases kaadris)"
+      ],
+      "keywords": [
+        "Mees",
+        "Silt",
+        "Ootamine",
+        "Tallinn",
+        "Väljas",
+        "Märg",
+        "Hall",
+        "Kollane",
+        "Vene keel",
+        "Sõnum",
+        "Pilvine",
+        "Kapuuts"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Silt",
+        "Kapuutsiga jope",
+        "Kollane kapuuts",
+        "Müts",
+        "Kindad",
+        "Paber",
+        "Naerunäo kleeps",
+        "Sein",
+        "Sillutatud maa",
+        "Trepid",
+        "Metallpiire",
+        "Teine inimene"
+      ],
+      "colorcodes": [
+        "#708090",
+        "#F0E68C",
+        "#1A1A1A",
+        "#FFFFFF",
+        "#D3D3D3"
+      ],
+      "texts": [
+        "ИРА ПРИЕДЬ В ТАЛЛИНН",
+        "Я ТЕБЯ ЖДУ!"
+      ],
+      "persons": [
+        "Mees",
+        "Teine inimene (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Mehe pilk ja keha asend muutuvad veidi paremale, mis annab mulje liikumisest või pilgu pööramisest.",
+        "Viimasel pildil ilmub taustale jalutav inimene, keda eelmistel piltidel polnud.",
+        "Sildi hoidmise nurk ja sildi kuju muutuvad pisut, näidates paberi loomulikku liikumist."
+      ],
+      "snr": "030",
+      "ajad": [
+        "363.440",
+        "372.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab üht inimest, kes seisab välitingimustes hallidel tänavaplaatidel ja vaatab otse üles kaamera poole. Inimene kannab sooja riietust – kollast kapuutsi, halli jopet, tumedaid kindaid ja teksaseid. Tema käes on valge paberileht, millel on näha tekst ja suur kollane naerunägu (smiley). Maapinnal on näha mõned märjad laigud või loigud, mis viitavad hiljutisele vihmale või niiskusele. Taustal on näha lihtne hall betoonsein või -konstruktsioon. Valgus on hajameelne ja hämar, mis loob jaheda ja veidi melanhoolse atmosfääri. Stseen on jäädvustatud kõrgelt, andes ülevaate kogu figuurist ja selle ümbrusest.",
+      "actions": [
+        "Seisab",
+        "Hoiab paberit",
+        "Vaatab üles"
+      ],
+      "keywords": [
+        "Tänav",
+        "Inimene",
+        "Plakat",
+        "Sõnum",
+        "Külm",
+        "Niiske",
+        "Väljas",
+        "Betoon",
+        "Kapuuts",
+        "Smiley",
+        "Üksindus",
+        "Vaade ülevalt"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Valge paberileht",
+        "Kollane kapuuts",
+        "Hall jope",
+        "Teksased",
+        "Kindad",
+        "Tumedad jalanõud",
+        "Hallid tänavaplaadid",
+        "Märjad laigud",
+        "Betoonsein"
+      ],
+      "colorcodes": [
+        "#F0C419",
+        "#4F5456",
+        "#A2A7A9",
+        "#394A5B",
+        "#1C1C1E",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "ЗДАРОВ",
+        "Naerunägu"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [
+        "Kõigi kaadrite vahel on märgata väga väikseid ja peaaegu märkamatuid erinevusi paberi asendis ja voltides ning inimese pea kaldes, mis viitavad pidevale, kuid minimaalsele liikumisele."
+      ],
+      "snr": "031",
+      "ajad": [
+        "372.760",
+        "376.400"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud suurejooneline, tumedast materjalist, ilmselt kivist või pronksist naiskuju, mis on pildistatud altpoolt ülespoole vastu heledat, hallikatoonilist taevast. Kuju on detailne, kujutades naist pikkade juustega, tõstetud vasaku käega pea kohal ja kergelt ettepoole painutatud kehaga. Tema pilk on suunatud allapoole. Eriti märkimisväärne on kuju seestpoolt kumav punakasoranž valgus, mis valgustab tema nägu ja rinnaosa, andes stseenile müstilise ja dramaatilise ilme. Kuju pind näib olevat niiske või vihmajälgedega kaetud, mis lisab valguse peegeldusele efekti. Üldine toon on jahe ja sume, hall taevas annab edasi melanhoolse või hämara õhustiku, mida kumava valguse soojus vastandab.",
+      "actions": [
+        "Kuju seisab paigal",
+        "Kuju kumab seestpoolt"
+      ],
+      "keywords": [
+        "Kuju",
+        "monument",
+        "valgus",
+        "kuma",
+        "punane",
+        "oranž",
+        "dramaatiline",
+        "müstiline",
+        "hall",
+        "naiskuju",
+        "kunst",
+        "öine",
+        "viimistlus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kuju"
+      ],
+      "colorcodes": [
+        "#a0a6ae",
+        "#2e3032",
+        "#d14227"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltidel puuduvad nähtavad erinevused."
+      ],
+      "snr": "032",
+      "ajad": [
+        "376.400",
+        "379.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab välitingimustes seisvat meest, kes kannab sooje riideid ja hoiab käes kortsus valget paberist silti. Mees on keskmises plaanis, vaade on ülevalt alla. Tema pea on kaetud kollase kapuutsiga, mille all paistab mustriga müts. Seljas on tal tume jope, mille punane vooder on kapuutsi ääres näha. Käes kannab ta musti kindaid. Sildil on näha musta värviga kirjutatud kirillitsas tekst, mille ülemine osa sisaldab sõna \"ДЛИННИ\" ja alumine osa \"ПРИ\". Sildi keskel on joonistatud erekollane naerunägu mustade silmade ja suuga. Mehe pilk ja näoilme muutuvad stseeni jooksul: esmalt vaatab ta otse üles vaataja poole, kergelt avatud suuga, justkui rääkides või küsimust esitades, seejärel pöörab ta pilgu alla vasakule, suu on suletud ja üldine hoiak on mõtlikum või kurvem. Taustaks on hallidest ruudukujulistest tänavakividest sillutis, mis on kohati märg või niiske, peegeldades valgust. Üldine valgusküllus on tuhm ja pilvine, andes stseenile jaheda ja argise tooni.",
+      "actions": [
+        "Mees hoiab silti",
+        "Mees vaatab üles",
+        "Mees vaatab alla",
+        "Mees muudab pilgu suunda",
+        "Mees muudab näoilmet"
+      ],
+      "keywords": [
+        "Mees",
+        "Silt",
+        "Naerunägu",
+        "Välitingimused",
+        "Tänav",
+        "Külm aastaaeg",
+        "Kapuuts",
+        "Kindad",
+        "Hall",
+        "Kollane",
+        "Vene keel"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Silt",
+        "Paber",
+        "Kapuuts",
+        "Müts",
+        "Jope",
+        "Kindad",
+        "Tänavakivid"
+      ],
+      "colorcodes": [
+        "#606060",
+        "#F5E03D",
+        "#3A3D43",
+        "#202020",
+        "#B02020"
+      ],
+      "texts": [
+        "ДЛИННИ",
+        "ПРИ",
+        "Smiley face"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Mehe pilgu suund ja näoilme muutuvad: algul vaatab ta otse üles avatud suuga, hiljem alla suletud suuga.",
+        "Silt on esimeses kaadris kergemini loetav, kolmandas kaadris on see veidi rohkem kokku kortsutatud."
+      ],
+      "snr": "033",
+      "ajad": [
+        "379.160",
+        "383.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaates väikest, punast ühekordset kohvitopsi, millel on valge kaas. Tops seisab tumedal ja massiivsel postamendil või alusel. Topsi esiküljel on näha valge tekst „coffee“ ja stiliseeritud valge logo „in“, mis paiknevad punasel taustal. Topsi taga, fookusest väljas, on suured, tumedad ja robustsed inimjalgade kujud, mis kuuluvad tõenäoliselt pronksist või kivist valmistatud ausambale. Jalad on detailsed, näidates varvaste ja pahkluude kuju ning need seisavad samuti tumedal pinnal, mis sulandub postamendiga. Taust on udune ja ähmane, vihjates hoonele, mille akendest paistab kollakas valgus, andes aimu linnakeskkonnast. Üldine valgus on hämar, mis viitab kas varasele hommikule või õhtuhämarusele, luues vaikse ja pisut melanhoolse atmosfääri.",
+      "actions": [],
+      "keywords": [
+        "kohvitops",
+        "ausammas",
+        "jalad",
+        "postament",
+        "linnakeskkond",
+        "hämarik",
+        "punane",
+        "kuju",
+        "kohvi"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "kohvitops",
+        "topsi kaas",
+        "ausamba jalad",
+        "postament",
+        "hoone (hägune taustal)"
+      ],
+      "colorcodes": [
+        "#CD3333",
+        "#FFFFFF",
+        "#40322A",
+        "#2B2D2E",
+        "#F0E68C",
+        "#7D8E9E"
+      ],
+      "texts": [
+        "coffee",
+        "in"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [],
+      "snr": "034",
+      "ajad": [
+        "383.120",
+        "385.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet kaasaegsesse kohvikusse või kiirtoidukohta läbi suure klaasakna õhtusel või öisel ajal. Siseruum on erepunase ja valge sisekujundusega, kus domineerivad punased letid ja menüütabloo. Leti taga teenindab naeratav naisbarista, seljas punane särk. Keskel on näha kapuutsiga ja seljakotiga riietatud isikut, kes tellib ja saab oma ostu kätte – kohvitopsi ja ajalehe või ajakirja. See isik liigub leti juurest eemale. Esialgu seisab ta leti ees, siis liigub pisut tahapoole ja lõpuks eemaldub letist, vaadates oma ostetud esemeid. Esimeses plaanis paremalt vasakule liigub udune tumedajuukseline figuur, mis viitab käimasolevale tegevusele. Vasakul ääres on näha ka peegeldust või teist inimest väljaspool hoonet. Üldmulje on tegevusterohke, kuid rahulik sisekeskkond pimedal ajal.",
+      "actions": [
+        "Teenindamine leti taga",
+        "Kohvitopsi ja ajalehe/ajakirja kättesaamine",
+        "Liikumine leti juurest eemale",
+        "Naeratamine",
+        "Pabereid lugemine/vaatamine",
+        "Läbi kaadri liikumine (udune figuur)"
+      ],
+      "keywords": [
+        "Kohvik",
+        "Kiirtoidukoht",
+        "Teenindus",
+        "Öö",
+        "Punane sisekujundus",
+        "Kapuuts",
+        "Seljakott",
+        "Klaasaken",
+        "Liikumine",
+        "Pime"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kohvilett",
+        "Menüütabloo",
+        "Kohvimasin",
+        "Punased lauad",
+        "Mustad toolid",
+        "Dekoratiivtaim",
+        "Kohvitops",
+        "Ajaleht/ajakiri",
+        "Seljakott",
+        "Paberist ostukott",
+        "Sildid",
+        "Vitriinlett"
+      ],
+      "colorcodes": [
+        "#FF0000",
+        "#000000",
+        "#FFFFFF",
+        "#C0C0C0",
+        "#A52A2A",
+        "#808080"
+      ],
+      "texts": [
+        "... feel energy!",
+        "Kilindo",
+        "Co...",
+        "VIP",
+        "Menüüpunktid menüütablool"
+      ],
+      "persons": [
+        "Naisbarista (punases särgis)",
+        "Klient (kapuutsiga ja seljakotiga mees)",
+        "Udune figuur esiplaanil (tumedajuukseline)",
+        "Peegeldus/inimene väljas (vasakul)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kapuutsiga klient liigub leti eest veidi eemale, võttes vastu oma kohvitopsi ja pabereid, ning seejärel liigub kaadrist välja, uurides samal ajal oma oste.",
+        "Esiplaanil olev udune figuur liigub vasakult paremale läbi kaadri, olles esimesel pildil vasakul ääres ja viimasel pildil keskel, osaliselt varjates kapuutsiga klienti.",
+        "Kapuutsiga kliendi käes on teises ja kolmandas kaadris selgelt näha kohvitops ja ajaleht/ajakiri."
+      ],
+      "snr": "035",
+      "ajad": [
+        "385.920",
+        "396.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämaras siseruumis istuvat või seisvat meest, kelle näoilme muutub mõtisklevaks ja silmad sulguvad. Mees on keskmise ehitusega, heledate lühikeste juuste ja habemetüügaga. Ta kannab tumedat jopet, mille all on halli ja kollasega kapuutsiga pusa. Tema pilk on alguses suunatud kergelt alla ja ette, kuid siis sulgub ta silmad ning kallutab pea veelgi sügavamalt alla, andes edasi sügava mõtiskluse või väsimuse tunde. Taust on udune, kuid äratuntav kui kohviku- või kiirtoidukoha interjöör, kus domineerivad punased seinadetailid ja pikk lett, millel on näha erinevaid pudeleid, toppe ja menüütahvleid. Valgus on pehme ja summutatud, luues üldiselt melanhoolse või intiimse atmosfääri.",
+      "actions": [
+        "Mees vaatab alla",
+        "Mees sulgeb silmad",
+        "Mees kallutab pead",
+        "Mees mõtiskleb"
+      ],
+      "keywords": [
+        "Mees",
+        "Kohvik",
+        "Restoran",
+        "Siseruum",
+        "Hämar",
+        "Punane",
+        "Mõtisklev",
+        "Kapuutsiga pusa",
+        "Jope",
+        "Lett",
+        "Teenindusala",
+        "Melanhoolne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Kapuutsiga pusa",
+        "Jope",
+        "Baarilett",
+        "Punased seinad",
+        "Joogipudelid",
+        "Menüütahvlid",
+        "Anumad",
+        "Klaasid/topsid"
+      ],
+      "colorcodes": [
+        "#5e5e4d",
+        "#d83d31",
+        "#2b2b2b",
+        "#908b7e",
+        "#e9dd90"
+      ],
+      "texts": [
+        "Hägused tekstid menüütahvlitel"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil vaatab mees kergelt ettepoole ja alla, silmad avatud.",
+        "Teisel pildil on mehe silmad suletud ja ta vaatab sügavamalt alla, pea on veidi rohkem kallutatud.",
+        "Kolmandal pildil on mehe pea veelgi rohkem alla kallutatud ja silmad endiselt suletud, süvendades mõtiskleva või väsinud ilme muljet."
+      ],
+      "snr": "036",
+      "ajad": [
+        "396.640",
+        "405.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist linnavaadet, kus domineerivad suured modernsed hooned ja tänavavalgustus. Kaadri vasakus servas on näha kõrghoone, mille klaasfassaadid peegeldavad tänavatulesid ja kaugemaid objekte. Keskel asub imposantne, tumepunase või pruunikas-tooniga inimfiguuri kujutav kuju, mis seisab postamendil. Kuju taga asub suur, eredalt valgustatud hoone, millel on näha neoonsilt tekstiga \"Viru keskus\". Paremas servas on teine hoone, millel on osaliselt näha valgustatud silt \"HOTEL\". Esipaanil, paremal pool, istub üks inimene tumedates riietes (jakk või pusa, kapuuts peas) trepiastmetel. Inimesel on käes hele, kollakas-valge kott. Terve stseen on valgustatud tänavavalgustite ja hoonete sise- ning välisvalgustusega, luues tumeda ja salapärase, kuid samas eredate valguspunktidega rikastatud linnaatmosfääri.",
+      "actions": [
+        "inimene istub trepiastmetel",
+        "hooned on valgustatud",
+        "valgussildid on nähtavad",
+        "tänavavalgustid põlevad"
+      ],
+      "keywords": [
+        "öö",
+        "linn",
+        "hooned",
+        "kuju",
+        "tänavavalgustus",
+        "Viru keskus",
+        "HOTEL",
+        "inimene",
+        "trepp",
+        "kott",
+        "valgus",
+        "urban",
+        "monument",
+        "arhitektuur"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "hooned",
+        "kuju",
+        "postament",
+        "tänavavalgusti",
+        "trepiastmed",
+        "kott",
+        "tänav",
+        "valgussildid",
+        "aken",
+        "uksed"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#FFD700",
+        "#A0522D",
+        "#808080",
+        "#FF0000"
+      ],
+      "texts": [
+        "Viru keskus",
+        "HOTEL",
+        "j-tv (peegeldus)"
+      ],
+      "persons": [
+        "üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel puuduvad erinevused. Kõik kolm kaadrit on identsed."
+      ],
+      "snr": "037",
+      "ajad": [
+        "405.920",
+        "407.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist linnamaastikku, kus keskel domineerib suur tume hoone, millel on helendav silt kirjaga \"Viru keskus\". Hoone esiplaanil seisab pjedestaalil suur, tume, tõenäoliselt punakas või pruunikas inimkuju ehk skulptuur. Vasakul paistab sama hoone peegelduvaid aknaid, millelt on lugeda ka peegeldatud teksti, mis näib olevat \"J-IV\" või sarnane. Paremal pool stseenist on näha teine hoone, mille ülaosas helendab sõna \"HOTEL\". Esineb ka ere oranžikaskollase valgusega tänavalatern, mis heidab valgust stseeni paremale poolele. Esiplaanil, trepiastmetel, istub üks inimene, kellele paistab olevat käes valge kott või paber. Üldine atmosfäär on vaikne ja mõtisklev, linnaööl valitseb tumedate varjude ja valgusallikate kontrast.",
+      "actions": [
+        "Inimene istub trepil"
+      ],
+      "keywords": [
+        "Linnamaastik",
+        "öö",
+        "skulptuur",
+        "kaubanduskeskus",
+        "tänavavalgustus",
+        "trepp",
+        "üksildus",
+        "Viru keskus",
+        "hotel"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Suur hoone (Viru keskus)",
+        "Inimese kuju (skulptuur)",
+        "Trepp",
+        "Istuv inimene",
+        "Valge kott/paber",
+        "Tänavalatern",
+        "Hoone sildiga HOTEL",
+        "Peegelduvad aknad"
+      ],
+      "colorcodes": [
+        "#121212",
+        "#F9C74E",
+        "#9F110C",
+        "#FFFFFF",
+        "#2F3235",
+        "#1E2124"
+      ],
+      "texts": [
+        "Viru keskus",
+        "HOTEL",
+        "J-IV"
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [],
+      "snr": "038",
+      "ajad": [
+        "407.120",
+        "408.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia kaadrit linnamaastikust öösel. Keskel on näha suurt hoonet, mille esiküljel on valgustatud reklaamid „Viru keskus” ja peegelpildis kiri „J-Tiv”. Hoone ees seisab kõrge punakaspruun skulptuur. Paremal pool on näha teist suurt hoonet, mille ülemisel osal helendab kiri „HOTEL”. Tänavavalgusti valgustab seda hoonet ja treppi, millel istub üks inimene. Inimene kannab tumedaid riideid, jopet ja mütsi ning hoiab käes heledat paberit või kotti. Vasakul pool on näha tumedat hoonet, mille aknad peegeldavad valgust. Üldine atmosfäär on hämar, valgust pakuvad peamiselt hoone reklaamid ja tänavavalgustus.",
+      "actions": [
+        "Inimene istub trepil"
+      ],
+      "keywords": [
+        "öö",
+        "linn",
+        "tänav",
+        "hooned",
+        "skulptuur",
+        "valgusreklaamid",
+        "trepp",
+        "inimene",
+        "hotell",
+        "kaubanduskeskus",
+        "hämarus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "inimene",
+        "trepp",
+        "hooned",
+        "skulptuur",
+        "tänavavalgusti",
+        "valgusreklaamid",
+        "paber/kott"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#FFD700",
+        "#8B0000",
+        "#A52A2A",
+        "#808080",
+        "#FF0000"
+      ],
+      "texts": [
+        "Viru keskus",
+        "J-Tiv",
+        "HOTEL",
+        "Seeda"
+      ],
+      "persons": [
+        "üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [],
+      "snr": "039",
+      "ajad": [
+        "408.320",
+        "409.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab linnamaastikku öisel ajal. Vasakul on näha modernne hoone suurte klaasakendega, millelt peegelduvad tuled ja mis kannab peegelpildis teksti, mis näib olevat 'J-VIV'. Keskel on pjedestaalil tume, tõenäoliselt punakas figuurkuju, mis kujutab inimest, kelle üks käsi on üles tõstetud. Kuju taga asub suurel hoonefassaadil eredalt valgustatud silt 'Viru keskus'. Paremal pool on veel üks hoone, mille ülaosas on näha tekst 'HOTEL' ja mida valgustab ere tänavavalgusti. Esiplaanil, paremale poole, istub trepil või astmetel inimene, kes hoiab käes heledat paberilehte või kaarti. Inimene on riietatud tumedatesse rõivastesse, kandes ilmselt jopet ja mütsi. Üldine valgustus on öisele ajale omane, kusjuures valgust annavad peamiselt hoonetest, siltidest ja tänavavalgustitest kiirgavad kunstlikud tuled. Arhitektuur viitab modernsele linna keskkonnale.",
+      "actions": [
+        "Inimene istub trepil",
+        "Inimene hoiab käes paberit/kaarti"
+      ],
+      "keywords": [
+        "Öö",
+        "Linn",
+        "Keskus",
+        "Viru",
+        "Kuju",
+        "Istuv",
+        "Hoone",
+        "Tänavavalgustus",
+        "Silt",
+        "Pimedus",
+        "Hotell"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Paber/kaart",
+        "Figuurkuju",
+        "Pjedestaal",
+        "Hoone",
+        "Tänavavalgusti",
+        "Silt",
+        "Trepp/astmed"
+      ],
+      "colorcodes": [
+        "#111111",
+        "#FFD700",
+        "#FFFFFF",
+        "#8B0000",
+        "#FF0000",
+        "#A9A9A9",
+        "#222222"
+      ],
+      "texts": [
+        "Viru keskus",
+        "HOTEL",
+        "J-VIV",
+        "keskus",
+        "Seedri"
+      ],
+      "persons": [
+        "Istuv inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [],
+      "snr": "040",
+      "ajad": [
+        "409.520",
+        "410.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist linnavaadet, kus esiplaanil paremal pool istub üks inimene treppidel. Inimene on riietatud tumedasse jopesse, peas on müts ja ees prillid, ning ta hoiab käes heledat paberit, mis näib olevat kaart. Taustal domineerivad suured hooned, mis on osaliselt valgustatud. Vasakul pool on näha suur hoone suure punaka skulptuuriga selle ees, mille kohal on hiiglaslik valgustatud silt tekstiga 'Viru keskus'. Paremal pool on näha teine suur hoone, mille ülemisel korrusel on osaliselt nähtav valgustatud silt 'HOTEL'. Tänavavalgustuspost paremal valgustab stseeni kollaka valgusega. Üldine meeleolu on pime ja linnaselt rahulik.",
+      "actions": [
+        "Inimene istub trepil",
+        "Inimene hoiab paberit/kaarti"
+      ],
+      "keywords": [
+        "Öö",
+        "Linn",
+        "Tänav",
+        "Hoone",
+        "Keskus",
+        "Hotell",
+        "Viru",
+        "Inimene",
+        "Skulptuur",
+        "Valgus",
+        "Trepp",
+        "Pime",
+        "Urban"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone",
+        "Skulptuur",
+        "Trepp",
+        "Tänavavalgusti",
+        "Valguspost",
+        "Paber",
+        "Silt",
+        "Müts",
+        "Prillid",
+        "Jope"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#ffffff",
+        "#ff0000",
+        "#f5f5dc",
+        "#8b0000",
+        "#464646"
+      ],
+      "texts": [
+        "Viru keskus",
+        "HOTEL",
+        "Swedbank"
+      ],
+      "persons": [
+        "Üksik inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Erinevusi ei ole."
+      ],
+      "snr": "041",
+      "ajad": [
+        "410.720",
+        "411.920"
+      ]
+    },
+    {
+      "explanation": "Piltidel on näha lähivõte kortsus ja määrdunud paberist või papist, mida hoitakse tõenäoliselt kellegi käes. Paberi vasakul küljel on kollane naerunäo logo, mis on osaliselt kulunud ja määrdunud. Paberil on ka näha musti suurtähti, millest loetavad on fragmendid nagu \"I\", \"V\", \"B\", \"T\", \"A\". Tekst on paberi kortsude tõttu raskesti loetav. Taust on udune ja fookusest väljas, kujutades öist linnamaastikku koos tuhmide tänavavalgustitega, mis loovad heksagonaalsete punaste, valgete ja oranžide valguslaikude (bokeh) efekti. Stseeni üldine atmosfäär on tume, veidi melanhoolne ja salapärane, valguse allikas on tänavavalgustus.",
+      "actions": [
+        "paberit hoitakse",
+        "paberit uuritakse"
+      ],
+      "keywords": [
+        "öö",
+        "linn",
+        "tänav",
+        "paber",
+        "naerunägu",
+        "kortsus",
+        "määrdunud",
+        "tänavavalgustus",
+        "bokeh",
+        "salapärane",
+        "tume",
+        "graffiti",
+        "märgistus"
+      ],
+      "shot_type": "close-up",
+      "placement": "outdoor",
+      "objects": [
+        "paber",
+        "naerunägu (logo)",
+        "tänavavalgustid",
+        "käsi (viide)"
+      ],
+      "colorcodes": [
+        "#2B2B2B",
+        "#FFC107",
+        "#000000",
+        "#FFFFFF",
+        "#FF0000",
+        "#FFA500"
+      ],
+      "texts": [
+        "I",
+        "V",
+        "B",
+        "T",
+        "A"
+      ],
+      "persons": [
+        "inimene (viide)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Pildid on identsed."
+      ],
+      "snr": "042",
+      "ajad": [
+        "411.920",
+        "416.080"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub öisel ajal linnakeskkonnas, tõenäoliselt tänaval või jalakäijate alal. Maa on märg, peegeldades valgust. Esiplaanil, paremas servas, on näha habetunud mees, kes kannab kootud mütsi, kollast kapuutsiga pusa ja tumedat jopet. Tema pilk on suunatud otse ette või veidi paremale, ilme on mõtlik või melanhoolne. Vasakul pool on märjal maapinnal eredalt peegelduv punane tuli. Esimesel hetkel on see ala tühi, teisel hetkel aga kõnnib sealt mööda inimene, kellest on näha vaid jalad punastes pükstes ja tumedates kingades. Taust on udune, aimata on distantseid hoonetulede valguseid ja vasakul eemal paistavad trepiastmed. Üldine atmosfäär on pime, jahe ja veidi nukker, kujutades hetke linna üksilduses.",
+      "actions": [
+        "Mees istub/kükitab/vaatab",
+        "Inimene kõnnib mööda"
+      ],
+      "keywords": [
+        "Öö",
+        "Linn",
+        "Tänav",
+        "Märg maapind",
+        "Peegeldus",
+        "Punane tuli",
+        "Üksindus",
+        "Mõtisklev",
+        "Külm",
+        "Talv",
+        "Möödakäija",
+        "Vares",
+        "Koju"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Kootud müts",
+        "Kollane kapuutsiga pusa",
+        "Tume jope",
+        "Habe",
+        "Märg tänavakivi",
+        "Punane valguse peegeldus",
+        "Inimese jalad",
+        "Punased püksid",
+        "Tumedad kingad",
+        "Trepid",
+        "Udused taustavalgused"
+      ],
+      "colorcodes": [
+        "#2F2F2F",
+        "#1F1F1F",
+        "#FF0000",
+        "#FADF64",
+        "#6C5648"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Möödakäija"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on punase valguse peegelduse ala vasakul täiesti tühi, samas kui teisel pildil on samast kohast mööda kõndimas inimene, kellest on näha jalad punastes pükstes ja tumedates kingades."
+      ],
+      "snr": "043",
+      "ajad": [
+        "416.080",
+        "426.880"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub öisel tänaval või läbikäigus, kus valitseb pime ja jahe atmosfäär. Kaadri paremas servas, esiplaanil, on näha meest, kes istub või kükitab maas. Ta on riietatud sooja tumedasse kapuutsiga jakki, millel on punaseid ja kollaseid detaile, ning kannab musta mustriga mütsi, mis on tõmmatud üle pea. Tema pilk on mõtlik ja kerge murega, suunaga vasakule või ettepoole. Vasakul, kaadri keskmises plaanis, möödub inimene, kellest on näha ainult jalgu punastes pükstes ja tumedates kingades. Jalgade ümber on ere punane valguskera, mis valgustab ka märga asfalti. Üldine taust on udune ja pime, viidates linnakeskkonnale öisel ajal, kus kauguses on näha mõningaid hajutatud valgusallikaid. Stseen loob tunde üksindusest ja sotsiaalsest kontrastist mööduja ja paigal oleva inimese vahel.",
+      "actions": [
+        "Jalgsi liikumine",
+        "Vaatamine",
+        "Istumine/Kükitamine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Öö",
+        "Tänav",
+        "Mees",
+        "Jalakäija",
+        "Punane valgus",
+        "Varjud",
+        "Mõtlik",
+        "Üksindus",
+        "Kontrast",
+        "Linnakeskkond",
+        "Külm",
+        "Pimedus"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Kapuutsiga jakk",
+        "Müts",
+        "Püksid",
+        "Kingad",
+        "Tänavasillutis",
+        "Valguslaik",
+        "Udune taust",
+        "Valgusallikad kauguses"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#ff0000",
+        "#ffcc00",
+        "#4b4b4b",
+        "#8a6345"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Jalakäija"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esiplaanil oleva mehe pilk muutub piltide vahel. Esimesel pildil vaatab ta otse ette või kergelt ülespoole, teisel pildil kergelt vasakule ja kolmandal pildil on tema pilk selgelt vasakule suunatud, näol kerge ilme muutus.",
+        "Kolmandal pildil on mehe suu kergelt avatud, mis viitab kas rääkimisele, ohkamisele või mingile reaktsioonile, samas kui kahel esimesel pildil on ta suu suletud.",
+        "Mööduva inimese jalgade asend ja punase valguslaigu paigutus on kõigis kolmes pildis peaaegu identne, mis viitab väga lühikesele ajavahemikule kaadrite vahel ja fookuse asetusele esiplaanil oleva mehe emotsioonile/pilgule."
+      ],
+      "snr": "044",
+      "ajad": [
+        "426.880",
+        "432.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest öisel ajal välitingimustes. Esiplaanil on näha inimest selja tagant, kellel on seljas kollase kapuutsiga must jope ja õlakott. Temaga suhtleb keskmisel plaanil teine inimene, kellel on peas tumesinine triibuline kootud müts, seljas must jope ja kollase kapuutsiga pusa. Mõlemad kannavad seljakoppe. Teine inimene vaatab esiplaanil oleva poole. Maapind on kaetud tumeda mustrilise sillutisega, mis meenutab munakivisid või pimeduses valgustatud mustriga asfalti. Valgustus on hämar ja annab stseenile salapärase ja jaheda tunde. Stseen tundub jäädvustatud vestluse või kohtumise ajal.",
+      "actions": [
+        "Kaks inimest on omavahel suhelnud või kohtumas",
+        "Üks inimene vaatab teise suunas",
+        "Inimeste asendid muutuvad kaadrite vahel"
+      ],
+      "keywords": [
+        "Öö",
+        "Inimesed",
+        "Vestlus",
+        "Pimedus",
+        "Talveriided",
+        "Kootud müts",
+        "Kollane pusa",
+        "Seljakott",
+        "Munakivid",
+        "Tänav",
+        "Kohtumine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Kaks inimest",
+        "Kootud müts",
+        "Kollane kapuutsiga pusa",
+        "Must jope",
+        "Must seljakott",
+        "Õlakoti rihm",
+        "Tumesinine müts",
+        "Mustriline sillutis",
+        "Tumedad riided"
+      ],
+      "colorcodes": [
+        "#A89035",
+        "#2B3A4F",
+        "#9FA7B2",
+        "#2E2E2E",
+        "#4B322D",
+        "#674E45"
+      ],
+      "texts": [],
+      "persons": [
+        "Kootud mütsiga inimene",
+        "Kollase kapuutsiga inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Inimese peas oleva mütsiga näo asend muutub: esimesel pildil vaatab ta kergelt vasakule, teisel pildil aga otse esiplaanil oleva inimese/kaamera poole.",
+        "Kolmandal pildil on kaadris olevate inimeste orientatsioon ja asend muutunud: mütsiga inimene on nähtav selja tagant, mis viitab kas liikumisele või vestluse lõppemisele.",
+        "Esiplaanil olev inimene on kolmandal pildil samuti teise asendisse liikunud või pöördunud, näidates rohkem oma selga ja seljakoti rihmasid."
+      ],
+      "snr": "045",
+      "ajad": [
+        "432.880",
+        "440.840"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub pimedal tänaval öisel ajal, tõenäoliselt linnakeskkonnas, näib olevat niiske. Pildil on kaks inimest, mees ja naine. Esimesel hetkel naine kõnnib kaadrisse sisse, kandes punaseid pükse ja tumedat jopet. Mees istub paremal pool, vaadates kõrvale või allapoole. Seejärel naine istub mehe kõrvale. Mõlemad kannavad sooje riideid – mütsi ja jopet, naine lisaks salli. Õhkkond on mõtisklev ja pisut melanhoolne. Taust on hämar, näha on kauguses valgusallikaid ja tumedaid struktuure. Maapind peegeldab valgust, vihjates märjale pinnale.",
+      "actions": [
+        "Kõndimine",
+        "Istumine",
+        "Vaatamine allapoole",
+        "Vaatamine kõrvale",
+        "Paberi hoidmine"
+      ],
+      "keywords": [
+        "Öö",
+        "Linn",
+        "Tänav",
+        "Inimesed",
+        "Istumine",
+        "Külm ilm",
+        "Hämarus",
+        "Mõtisklev",
+        "Niiske"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Naine",
+        "Müts (kollane)",
+        "Müts (must/sinine)",
+        "Sall",
+        "Jope (tume)",
+        "Püksid (punased)",
+        "Seljakott",
+        "Kaamera",
+        "Tänav",
+        "Refleksioonid",
+        "Paber/salvrätik"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#AA3333",
+        "#E5C25F",
+        "#333A40",
+        "#F0A540",
+        "#4A4A4A",
+        "#3A3A3A"
+      ],
+      "texts": [
+        "Canon"
+      ],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "autumn",
+      "daytime": "night",
+      "differences": [
+        "Naine on esimesel pildil kõndimises ja osaliselt nähtav, teisel pildil istub mehe kõrval ning tema nägu on näha.",
+        "Mehe asend ja pilk on kaadrite vahel veidi muutunud; teisel pildil hoiab mees käes paberitükki.",
+        "Kaadrite kompositsioon muutub: esimene kaader näitab liikumist ja sissejuhatust, teine keskendub kahe inimese koosistumisele."
+      ],
+      "snr": "046",
+      "ajad": [
+        "440.840",
+        "446.240"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noor naine oranži-punaka juuksevärvi ja tukkidega, kandes kollast kootud kapuutsi ja selle all ilmselt mustrilist salli. Ta on kaadri keskmes, vaadates kellegi poole, kes asub kaadrist väljas paremal, ja tundub olevat sügavas vestluses. Tema näoilme varieerub: vahetevahel on ta pilk suunatud allapoole ja naeratus on tagasihoidlikum ning mõtlik, samas kui teistel hetkedel vaatab ta üles ja otse vestluspartnerile, laiemalt ja rõõmsamalt naeratades, paljastades ka hambaid. Taust on pime ja udune, mille vasakus servas paistavad udused punased tuled, viidates öisele ajale või hämarale siseruumile. Paremal on näha teise inimese tumeda kapuutsi osa, mis kinnitab vestluse olemasolu.",
+      "actions": [
+        "Naeratamine",
+        "Rääkimine (oletatav)",
+        "Kuulamine (oletatav)",
+        "Pilgu vahetamine"
+      ],
+      "keywords": [
+        "Noor naine",
+        "Oranžid juuksed",
+        "Kollane kapuuts",
+        "Naeratus",
+        "Vestlus",
+        "Öö",
+        "Hämarus",
+        "Portree",
+        "Emotsioonid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Kollane kapuuts",
+        "Sall",
+        "Tumedad rõivad (teisel isikul)",
+        "Punased tuled (taustal)"
+      ],
+      "colorcodes": [
+        "#E8BF65",
+        "#A85A2D",
+        "#D0B496",
+        "#2C2B2D",
+        "#A62118"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor naine",
+        "Teine inimene (näha osaliselt)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Naise pilgu suund: Esimesel ja kolmandal pildil on naise silmad suunatud allapoole või osaliselt suletud, samas kui teisel pildil on silmad avatud ja suunatud paremale-ülespoole, otse vestluspartnerile.",
+        "Naeratuse intensiivsus: Teisel pildil on naise naeratus märgatavalt avatum ja rõõmsam, paljastades hambaid, võrreldes esimese ja kolmanda pildiga, kus naeratus on tagasihoidlikum ja mõtlikum."
+      ],
+      "snr": "047",
+      "ajad": [
+        "446.240",
+        "451.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, naist ja meest, kes istuvad pimedas linnakeskkonnas, tõenäoliselt pingil või äärel. Nad on riietatud paksudesse talveriietesse, mis viitab jahedale ilmale. Naine vasakul kannab kollast mütsi, mustrilist salli ja tumedat nahkjopet, kaamera ripub tema õlal. Tema juuksed on punakaspruunid. Mees paremal kannab tumedat mustrilist mütsi, kollast dressipluusi ja tumedat talvejopet. Nende kehahoiakud ja pilgud viitavad sellele, et nad peavad tõsist vestlust, kus pilgud liiguvad üksteise vahel ja otse ette. Taust on udune ja pime, kuid näha on mõned udused tuled ja hoonete kontuurid, mis annavad edasi öise linna atmosfääri. Stseen on üldiselt sügavates, tumedates toonides, valgus tuleb peamiselt taustast ja mõnevõrra objektidelt endalt, luues mõtliku ja veidi melanhoolse õhkkonna.",
+      "actions": [
+        "Istumine",
+        "Vestlemine",
+        "Üksteisele otsa vaatamine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Öine stseen",
+        "Linnakeskkond",
+        "Vestlus",
+        "Talv",
+        "Pimedus",
+        "Kaks inimest",
+        "Mõtlikkus",
+        "Külm"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Kollane müts",
+        "Mustriline sall",
+        "Nahkjakk",
+        "Kaamera",
+        "Canon kaamera",
+        "Mustriline müts",
+        "Kollane dressipluus",
+        "Talvejakk",
+        "Hoonete kontuurid",
+        "Tuled taustal"
+      ],
+      "colorcodes": [
+        "#1e1e1e",
+        "#c8c060",
+        "#a05030",
+        "#d6c070",
+        "#a03030",
+        "#504030"
+      ],
+      "texts": [
+        "Canon"
+      ],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Mehe pilk ja peapoos muutuvad kaadrite vahel, liikudes paremalt ettepoole ja seejärel naise poole, mis annab edasi vestluse kulgemist.",
+        "Naise pilk nihkub kaadrite vahel, alguses ettepoole/allapoole, seejärel mehe poole, peegeldades reageerimist ja kuulamist.",
+        "Need muutused viitavad arenevale vestlusele või reaktsioonidele üksteisele, kus emotsioonid ja fookus nihkuvad."
+      ],
+      "snr": "048",
+      "ajad": [
+        "451.880",
+        "469.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, naist ja meest, istumas külg külje kõrval hämaras ja jahedas väliskeskkonnas, mis sarnaneb linnatänavaga või teealuse käiguga. Üldine meeleolu on tõsine ja mõtisklev. Naine vasakul on punakaspruunide juustega, kannab kollast või sinepitooni kapuutsi, oranži-pruuni-kreemikat mustrilist salli ja tumedat nahka meenutavat jakki. Tema õlal ripub must kaamera, millel on näha \"Canon\" logo. Tema pilk on suunatud mehe poole ning näoilme on tõsine ja mõtlik, suu kergelt avatud. Mees paremal kannab tumedat mustrilist mütsi, kollast pusa ja selle peal tumedat hallikasmusta talvejakki punaste detailidega. Tema näoilme on samuti tõsine, ta vaatab valdavalt alla või kergelt eemale. Taust on hämar ja udune, viidates öisele ajale. Tagaplaanil on näha ebamääraseid struktuure ja hajutatud valguseid, mis annavad edasi linnakeskkonda. Maapind paistab märg ja peegeldav, viidates hiljutisele vihmale. Valgus on üldiselt nõrk ja hajali, luues intiimse ja veidi nukra atmosfääri. Tegelased on kaadris keskmises plaanis, näidates neid vööst saadik.",
+      "actions": [
+        "istuvad",
+        "mõtisklevad",
+        "vestlevad (või on vaikuses)"
+      ],
+      "keywords": [
+        "öö",
+        "linn",
+        "vestlus",
+        "mõtisklemine",
+        "tõsine",
+        "jahe",
+        "märg maapind",
+        "kaamera",
+        "sügav mõte",
+        "paar"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "kaamera",
+        "Canon kaamera",
+        "jakk",
+        "kapuuts",
+        "sall",
+        "müts",
+        "pusa",
+        "rihm",
+        "märg maapind",
+        "taustavalgustus",
+        "linnakeskkond"
+      ],
+      "colorcodes": [
+        "#292422",
+        "#3F3F3F",
+        "#8A7B44",
+        "#A86D3C",
+        "#636A6C",
+        "#B6B9B6"
+      ],
+      "texts": [
+        "Canon"
+      ],
+      "persons": [
+        "naine",
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "autumn",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on väga väikesed, peaaegu märkamatud erinevused, peamiselt seotud mehe pea asendi ja pilguga. Esimesel pildil vaatab mees veidi alla ja paremale. Teisel pildil on ta pea veelgi rohkem alla ja paremale kallutatud ning suu võib tunduda õrnalt avatud. Kolmandal pildil on mehe pea kergelt naise poole pööratud, pilk on veidi otsem ja suletum. Naisel on pilk järjepidevalt mehe poole, kuid tema näoilmes ja pilgus võib samuti olla väga minimaalseid nüansimuutusi kaadrite vahel. Valgustuses ja varjudes on samuti õrnad erinevused, mis viitavad väikestele ajahetkede erinevustele või valgusallika muutustele."
+      ],
+      "snr": "049",
+      "ajad": [
+        "469.880",
+        "472.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, naist ja meest, pimedas ja niiskes linnakeskkonnas, tõenäoliselt maa-aluses läbipääsus või tunneli osas. Naine, kellel on punakad juuksed ja seljas kollane kapuutsiga pusa või jakk, vaatab pildist paremale, tema näol on kerge mure või mõtlikkus. Tema silmad on veidi paistes ja pilk on suunatud eemale, samuti on näha stseenis naise ilme kerget muutust, mis viitab kas kuulmisele või reaktsioonile. Mees, habetunud ja peas tuttmüts, seljas kollane pusa ja tume jope, istub märjal põrandal või astmel, vaadates nukralt allapoole. Taustal on näha redelitaolisi astmeid ja tumedaid kontuure, samuti eristub helepunane valguslaik märjal pinnal, mis loob süngema meeleolu. Üldiselt on stseenis rõhutatud tegelaste emotsioone ja ümbritseva keskkonna jahedust ning pimedust, kusjuures fookus on kord naise näoilmetel ja kord mehe haavataval olekul keskkonnas.",
+      "actions": [
+        "Naine vaatab paremale",
+        "Naine väljendab muret või mõtlikkust",
+        "Mees istub maas",
+        "Mees vaatab allapoole"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Öine",
+        "Külm",
+        "Kurbus",
+        "Mure",
+        "Linn",
+        "Maa-alune",
+        "Niiske",
+        "Üksindus",
+        "Dialoog (kaudne)",
+        "Punane valgus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Kollane kapuutsiga pusa/jakk",
+        "Punakad juuksed",
+        "Tume jope",
+        "Sall",
+        "Tuttmüts",
+        "Märg põrand",
+        "Trepid",
+        "Punane valguse peegeldus"
+      ],
+      "colorcodes": [
+        "#d6c152",
+        "#8b2c1f",
+        "#920000",
+        "#1a1a1a"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (punakate juustega)",
+        "Mees (habemega ja mütsiga)",
+        "Kaudne isik (kellele naine otsa vaatab)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 50,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Naise näoilme ja suu asend on esimese kahe kaadri vahel veidi muutunud.",
+        "Esimesed kaks kaadrit keskenduvad naise näole (lähivõtted), samas kui kolmas kaader näitab meest ja laiemat keskkonda (üldvõte).",
+        "Esimeses kahes kaadris on fookuses naise emotsioon, kolmandas kaadris mehe kehahoiak ja ümbritsev kontekst.",
+        "Erinevad tegelased on esiplaanil: esimeses kahes kaadris naine, kolmandas kaadris mees."
+      ],
+      "snr": "050",
+      "ajad": [
+        "472.000",
+        "494.960"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset hämaral, öisel linnatänaval. Esiplaanil on mees habeme või habemetüügaga, kes kannab tumedat kootud mütsi, heledat kapuutsiga pusa ja tumedat jakki. Algselt vaatab ta profiilis allapoole, näoilme mõtisklev või morn. Seejärel pöörab ta pilgu veidi kaamera poole või otse ette, väljendades otsekohesemat, võimalik, et murelikku või reflekteerivat ilmet. Ta asub robustse, tumeda betoonseina või -samba kõrval, mis moodustab tähistava piiri või esiplaanielemendi tema ja tagaplaanil oleva uduse tänavamelu vahel. Tagaplaan on pehme ja fookusest väljas, näidates mööduvate sõidukite (esi- ja tagatuled) ning tänavavalgustite kuma, mis annab märku hilisõhtusest liiklusest. Ühel hetkel mees kaob kaadrist, jättes fookusesse betoonseina vasakul ja uduse, tegusa tänava paremal, rõhutades mehe isolatsiooni või linnakeskkonna isikupäratust. Üldine meeleolu on vaikne ja sissepoole pööratud, asetudes elava, kuid kauge linnatulede taustale.",
+      "actions": [
+        "Mees vaatab alla ja kõrvale",
+        "Mees vaatab otse ette",
+        "Mehe näoilme muutub",
+        "Mees kaob kaadrist"
+      ],
+      "keywords": [
+        "Öö",
+        "Linn",
+        "Mees",
+        "Mõtisklev",
+        "Murelik",
+        "Tänav",
+        "Betoonsein",
+        "Hämarus",
+        "Isolatsioon",
+        "Talvemüts",
+        "Urbanistlik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Kootud müts",
+        "Hupari (kapuutsiga pusa)",
+        "Jakk",
+        "Habe",
+        "Betoonsein",
+        "Auto tuled (esi-, tagatuled)",
+        "Tänavatuled",
+        "Tänav",
+        "Ülekäigurada"
+      ],
+      "colorcodes": [
+        "#28221c",
+        "#b8a264",
+        "#1a1e22",
+        "#f0b000",
+        "#ffffff"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Mehe pilk ja näoilme muutuvad: alguses vaatab ta alla ja kõrvale, hiljem otse ette või kaamera poole.",
+        "Kolmandal pildil puudub mees kaadrist, fookus on betoonseinal ja tänaval.",
+        "Kaamera asetus või fookus nihkub, rõhutades kord meest, kord keskkonda ja tema puudumist."
+      ],
+      "snr": "051",
+      "ajad": [
+        "494.960",
+        "510.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist linnamaastikku, kus domineerib suur kaubanduskeskus nimega \"Viru Keskus\", mille valgustatud logo on selgelt näha. Maapind on märg ja läikiv, mis viitab vihmale või hiljutisele sademele. Stseenis on näha kaks erinevat inimest. Üks inimene, seljaga vaataja poole, kannab tumedat jopet ja heledat kapuutsi ning kõnnib mööda tänavaäärset kõnniteed mööda betoonist seina ja treppide kõrvalt, kandes kaasas heledat kotti. Teine inimene on punases jopes naine, kes kas kõnnib või seisab kaubanduskeskuse sissepääsu ees, kus on näha punakaid valguselemente. Üldine valgus on hämar, kunstvalgus pärineb peamiselt hoone valgustatud siltidelt ja tänavavalgustitelt, luues kontrastse ja dramaatilise meeleolu.",
+      "actions": [
+        "Kõndimine"
+      ],
+      "keywords": [
+        "Linn",
+        "Öö",
+        "Kaubanduskeskus",
+        "Märg maapind",
+        "Jalakäijad",
+        "Valgustatud silt",
+        "Betoonstruktuurid",
+        "Trepid",
+        "Kunstvalgus",
+        "Hämarus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone",
+        "Betoonseinad",
+        "Trepid",
+        "Valgusreklaam",
+        "Tänavavalgusti",
+        "Kott",
+        "Põõsad",
+        "Märg kõnnitee",
+        "Ukseavad"
+      ],
+      "colorcodes": [
+        "#2e2e2e",
+        "#1e1e1e",
+        "#0e0e0e",
+        "#bc3232",
+        "#c9b14c",
+        "#ffffff",
+        "#4a4a4a",
+        "#999999"
+      ],
+      "texts": [
+        "VIRU",
+        "keskus",
+        "Nordea Pank",
+        "Töö..."
+      ],
+      "persons": [
+        "Inimene tumedas jopes ja heledas kapuutsis",
+        "Naine punases jopes"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "autumn",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt kujutab teist inimest, kes kõnnib teises suunas ja asukohas, eemal Viru Keskuse sildist, hämarama valgustusega.",
+        "Teine ja kolmas pilt on peaaegu identsed, kujutades sama naist Viru Keskuse sildi ees. Erinevused on minimaalsed ja seisnevad peamiselt naise poosi ja peegelduste väga väikestes muutustes märjal maapinnal, viidates kiiretele järjestikustele kaadritele."
+      ],
+      "snr": "052",
+      "ajad": [
+        "510.200",
+        "584.840"
+      ]
+    }
+  ]
+}

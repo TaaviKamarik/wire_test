@@ -1,0 +1,3423 @@
+{
+  "film": [
+    "20094",
+    "19941",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Pärandus",
+    "6b25f129cd47a963ab510022522c05224c43ad66.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen toimub siseruumis, tõenäoliselt esikus või koridoris, kus on näha uks ja riidepuu. Valgus on hämar, mis viitab kas õhtule või üldiselt pimedale interjöörile. Seina ääres seisab pikk, tume vanaisa kell valge numbrilauaga, millel on mustad numbrid ja osutid. Kella kõrval on riidepuu, millel ripub tume rõivaese ja hele riidepuu. Vasakul seinal ripub raamitud pilt või maal. Paremal pool on näha suletud uks, millel on tekstuurse klaaspaneeliga aken. Stseenis on kaks inimest. Üks, heledate juustega isik, on vasakul osaliselt nähtav selja tagant, kandes tumedat riietust ja hoides käes tumedat eset, mis meenutab kinga. Teine isik, noor blond naine, siseneb uksest paremalt poolt. Tal on seljas hele beež trentšmantel ja tume kõrge kaelus või sall. Ta tundub olevat vabandav või kiirustav. Hiljem kummardub naine, võib-olla kingi jalast võtma või midagi kohendama, samal ajal kui esimene isik on endiselt kohal.",
+      "actions": [
+        "Siseneb ruumi",
+        "Räägib",
+        "Kummardub",
+        "Hoiab eset käes",
+        "Ootab"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Esik",
+        "Hämar",
+        "Vanaisa kell",
+        "Uks",
+        "Vestlus",
+        "Ootamine",
+        "Trentšmantel",
+        "Hilinenud"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Vanaisa kell",
+        "Riidepuu",
+        "Riietus",
+        "Uks",
+        "Klaaspaneel uksel",
+        "Maal/pilt",
+        "Ese (võimalik, et king)",
+        "Trentšmantel"
+      ],
+      "colorcodes": [
+        "#2E2D2B",
+        "#BDBDB8",
+        "#E2E2DD",
+        "#D9D8CF",
+        "#1C1C1C",
+        "#2D2A2A"
+      ],
+      "texts": [
+        "I'm sorry, I couldn't make it sooner. Had to wait for the babysitter.",
+        "- No problem. Jaak promised to call when they're about to arrive."
+      ],
+      "persons": [
+        "Noor blond naine (seljas beež trentšmantel)",
+        "Heledate/hallikate juustega isik (näha tagant, seljas tume riietus)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil puuduvad inimesed ja subtiitrid, ruum on tühi.",
+        "Teisel ja kolmandal pildil ilmub stseeni noor naine ja toimub vestlus teise isikuga.",
+        "Naise asend muutub: esmalt siseneb ta püstiselt ja seejärel kummardub.",
+        "Subtiitrid on nähtavad ainult teisel ja kolmandal pildil.",
+        "Teise isiku käes olev ese on teisel pildil selgemini eristatav."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "41.000"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt kodus, koridoris või esikus, mis avaneb heledasse, akendega ruumi. Stseeni keskmes on vestlus kolme naise vahel. Esimesena näeme vanemat, heledate juustega naist mustas pluusis, kes on alguses veidi uduseks jäänud, justkui liiguks või reageeriks millelegi. Tema selja taga on näha heledalt valgustatud tuba akna ja laua ning kardinatega. Järgmistes hetkedes on sama vanem naine selgemalt nähtav, pöörates pilku ja isegi kergelt naeratades teise naise poole, kelle selg on kaamera poole. See teine naine, kellel on blondid juuksed krunnis ja seljas hele jakk või mantel, vestleb aktiivselt. Tema sõnad viitavad eelnevale konfliktile, kus \"poisid kaklesid\", kuid keegi nimega Tiiu suutis nad rahustada. Kolmandas kaadris on naine, kelle selg oli kaamera poole, ise fookuses, ta on pööranud pead ja vaatab pigem alla, väljendades suurt hirmu ja šokki. Tema tagaplaanil ilmub nähtavale ka kolmas naine, tumedas kübaras ja tumedas riietuses, kes samuti paistab murelik. Vestluse käigus tuleb ilmsiks, et eelnev intsident oli hirmutav, kuna rääkiv naine kartis, et teda ennast rünnatakse. Üldine õhkkond on murelik ja pingeline, keskendudes üleelatud hirmule ja selle tagajärgedele.",
+      "actions": [
+        "Rääkimine",
+        "Kuulamine",
+        "Liikumine",
+        "Naeratamine (kergelt)",
+        "Pea pööramine",
+        "Murelikkuse väljendamine"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Vestlus",
+        "Kodu",
+        "Perekondlik",
+        "Konflikt",
+        "Hirm",
+        "Mure",
+        "Eakad",
+        "Naised",
+        "Dramaatiline"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Uksed",
+        "Ukseavad",
+        "Aken",
+        "Kardinad",
+        "Laud",
+        "Seinapildid",
+        "Peegel",
+        "Must pluus",
+        "Hele jakk",
+        "Tume kübar"
+      ],
+      "colorcodes": [
+        "#3B3C3B",
+        "#8A8B88",
+        "#FFFFFF",
+        "#B4A999",
+        "#D9D9D9",
+        "#595959"
+      ],
+      "texts": [
+        "- No problem. Jaak promised to call when they're about to arrive.",
+        "The boys had a bit of a scuffle but luckily Tiiu stepped in and calmed them down.",
+        "- My god, it was horrible, I was really scared they'd attack me too."
+      ],
+      "persons": [
+        "Vanem naine (mustas pluusis)",
+        "Keskealine naine (heledas jakis)",
+        "Naine tumedas kübaras",
+        "Jaak (mainitud)",
+        "Tiiu (mainitud)",
+        "Poisid (mainitud)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Inimeste asetus ja fookus kaadrites muutub: alguses on vanem naine osaliselt udune ja liikumises, seejärel selgelt nähtav ning naeratav, ja kolmandas kaadris jääb ta veidi tagaplaanile.",
+        "Vestluse sisu areneb vastavalt subtiitritele, alustades ootamise teemast ja liikudes edasi eelmise intsidendi kirjeldamisele ja selle emotsionaalsele mõjule.",
+        "Kolmanda naise ilmumine kaadrisse tagaplaanil hilisemates kaadrites."
+      ],
+      "snr": "002",
+      "ajad": [
+        "41.000",
+        "49.840"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumis, tõenäoliselt esikus või koridoris, mida valgustab hämar ja pehme valgus, luues südamliku, kuid pisut tõsise atmosfääri. Stseeni domineerivaks elemendiks on vasakul tagaplaanil seisev pikk, tume puidust vanaema kell, mille heledal numbrilaual on kellaaeg umbes veerand üheksa. Kellast vasakul on mantlinagi, millel ripub mitu tumedat riideeset, ning selle kohal on näha raamitud pilt. Keskmes on kaks naist: vanem, tumedate juuste ja tumeda kleidi või mantli ning tumeda bareti kandev naine, kes hoiab käes heledat, võimalik, et beeži või kollakat riidetükki. Ta väljendab alguses hirmu ja eelmise sündmuse kirjelduses ütleb: \"My god, it was horrible. I was really scared they'd attack me too.\" Noorem blond naine, tumedas jakis või pluusis, kohendab kaela või juuste piirkonda, vaadates alguses kella poole. Stseeni arenedes tervitab vanem naine kedagi sõnadega \"Hello!\" ja seejärel pöörab tähelepanu nooremale naisele, märkides: \"You're getting some grey hair I see.\" Tervituse peale siseneb pildile paremalt mees tumedas ülikonnas, heleda särgi ja taskurätikuga, ilmselt see, keda vanem naine tervitas. Üldine värvipalett on tume ja summutatud, rõhutades tegelaste vahelist tõsist, kuid perekondlikku suhtlust.",
+      "actions": [
+        "Rääkimine",
+        "Riidetükki käes hoidmine",
+        "Kaelale/juustele puudutamine/kohendamine",
+        "Sisenemine ruumi",
+        "Vaatamine kella poole",
+        "Pööramine teise tegelase poole"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Esik",
+        "Koridor",
+        "Vanaema kell",
+        "Mantlinagi",
+        "Vestlus",
+        "Hirm",
+        "Tervitus",
+        "Tähelepanek",
+        "Pime",
+        "Subdued",
+        "Perekondlik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Vanaema kell",
+        "Mantlinagi",
+        "Mantlid/riided",
+        "Maal",
+        "Hele riietükk",
+        "Müts/beret",
+        "Ülikond",
+        "Särk",
+        "Taskurätik",
+        "Uks/aken"
+      ],
+      "colorcodes": [
+        "#2f2d2b",
+        "#808080",
+        "#f0f0f0",
+        "#b3a270",
+        "#4a4a4a",
+        "#5c5a5a"
+      ],
+      "texts": [
+        "My god, it was horrible.",
+        "I was really scared they'd attack me too.",
+        "Hello!",
+        "You're getting some grey hair I see."
+      ],
+      "persons": [
+        "Vanem naine",
+        "Noorem naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Noorem naine muudab oma poosi ja kohendab kaela ümber midagi.",
+        "Vanem naine pöörab pead ja vaatab paremale, tervitades kedagi.",
+        "Vanem naine vahetab fookust ja teeb nooremale naisele kommentaari hallide juuste kohta.",
+        "Kolmandal kaadril siseneb pildile paremalt mees."
+      ],
+      "snr": "003",
+      "ajad": [
+        "49.840",
+        "64.640"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumides, alustades hämarast koridorist ja liikudes edasi eredalt valgustatud tuppa. Esimesel hetkel näeme vasakul esiplaanil eakat naist mustas kleidis ja kübaras, kes hoiab käes valget riidetükki ja räägib, vaadates paremale. Tema ees, koridori mööda edasi, liigub mees tumedas ülikonnas, seljaga vaataja poole, suundudes avatud ukse kaudu heledasse tagaruumi. Paremalt on osaliselt näha ka kolmandat isikut, samuti tumedates riietes ja seljaga. Järgmises kaadris on naine pööranud selja ja kõnnib koos mehega edasi tuppa. Lõpuks on mõlemad, mees ja naine, jõudnud tuppa, kus nad seisavad seljaga vaataja poole, akna ja laua lähedal. Tuba on tänu aknast paistvale eredale valgusele oluliselt heledam kui koridor. Stseenil on üldine melanhoolne või mõtlik toon, mida rõhutavad tumedad riided ja tegelaste hoiakud.",
+      "actions": [
+        "Eakas naine räägib",
+        "Naine hoiab riidetükki",
+        "Mees kõnnib koridoris",
+        "Naine kõnnib koridoris",
+        "Inimesed sisenevad tuppa",
+        "Inimesed seisavad toas laua juures"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Kodu",
+        "Koridor",
+        "Tuba",
+        "Vestlus",
+        "Vanemad inimesed",
+        "Matus",
+        "Lein",
+        "Päevavalgus",
+        "Vari",
+        "Heledus",
+        "Hämarus"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Koridor",
+        "Ukseava",
+        "Tuba",
+        "Aken",
+        "Kardinad",
+        "Laud",
+        "Vaibad",
+        "Tool",
+        "Naine (mustas kleidis ja kübaras)",
+        "Mees (tumedas ülikonnas)",
+        "Valge riie",
+        "Seinapeegel",
+        "Mööbel"
+      ],
+      "colorcodes": [
+        "#2f2f2f",
+        "#8b5e3f",
+        "#f0f0f0",
+        "#a0a0a0",
+        "#6b5a4b",
+        "#c4c4c4"
+      ],
+      "texts": [
+        "You're getting some grey hair I see.",
+        "What happened between the boys then?"
+      ],
+      "persons": [
+        "Eakas naine",
+        "Mees",
+        "Kolmas isik (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise asend muutub: esimeses kaadris vaatab kaamera poole ja räägib, edasi pöörab selja ja kõnnib.",
+        "Tegelaste asukoht muutub: esimeses kaadris on nad koridoris, hiljem liiguvad nad sügavamale tuppa.",
+        "Subtiitrite olemasolu: esimeses ja teises kaadris on subtiitrid, kolmandas puuduvad.",
+        "Valgustus muutub: koridor on hämaram, tagumine tuba on eredalt valgustatud.",
+        "Naise käes olev valge riidetükk on selgelt nähtav esimeses kaadris, hiljem mitte."
+      ],
+      "snr": "004",
+      "ajad": [
+        "64.640",
+        "75.880"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, mis näib olevat avar elutuba või söögituba, mis on ühendatud raamatukogu alaga. Kolm naist on kaadris, kellest kaks tegelevad aktiivselt laualt pruunist paberkotist esemete välja pakkimisega. Keskel on vanem heledate juustega naine, kes on riietatud musta pikavarrukalisse rõivasse ja ulatub kotist välja punase topsikujulise anuma. Tema kõrval paremal pool on noorem blond naine, kes kannab musta kõrge kaelusega pluusi ja musta kardigani. Ta võtab kotist välja punaseid ja kollaseid ümmargusi esemeid, mis näivad olevat puuviljad. Nende ees laual on juba näha oranže puuvilju ja punane piimapakki meenutav anum. Laual on mustrilise disainiga laudlina. Kaadris vasakul tagapool, stseeni alguses, seisab kübaraga naine, kellel on peas must elegantne kübar koos kaunistusega ja seljas must kleit. Tema näoilme esimesel hetkel viitab üllatusele või kimbatusele. Stseeni edenedes liigub kübaraga naine tagaplaanile vasakule, muutudes järjest kaugemaks ja lõpuks vaid siluetiks sügaval toas, raamaturiiulite taustal. Ruumi vasakus osas on näha suuri raamaturiiuleid täis raamatuid, rohelist vaipa ja rohkelt potitaimi ning lilli (näiteks roosad ja lillad õied vaasides), mis loovad koduse ja hubase atmosfääri. Seintel on rippumas erinevad kunstiteosed, sealhulgas värviline abstraktne maal ja kaks väiksemat raamitud pilti inimfiguuridega. Valgus on pehme ja loomulik, viitades päevasele ajale.",
+      "actions": [
+        "kaupade lahti pakkimine",
+        "esemete kotist välja võtmine",
+        "vaatlemine",
+        "toas liikumine",
+        "vestlemine (kaasa arvatud subtiitrite sisu)"
+      ],
+      "keywords": [
+        "sisestseen",
+        "perekond",
+        "kodune",
+        "rutiin",
+        "emotsioon",
+        "must riietus",
+        "raamatukogu",
+        "toidu lahti pakkimine",
+        "kolm naist",
+        "vestlus",
+        "kübar"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "paberkott",
+        "punane tops",
+        "punased puuviljad",
+        "kollased puuviljad",
+        "laud",
+        "laudlina",
+        "raamatud",
+        "raamaturiiulid",
+        "potitaimed",
+        "lilled",
+        "kunstiteosed",
+        "punane piimapakki meenutav anum",
+        "oranžid puuviljad",
+        "must kübar",
+        "mustad riided",
+        "puidust mööbel",
+        "roheline vaip"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#A9A9A9",
+        "#8B4513",
+        "#3CB371",
+        "#FF0000",
+        "#FFD700",
+        "#D2B48C",
+        "#FFC0CB"
+      ],
+      "texts": [
+        "It's not that bad. Margus wasn't even four yet and they all got along just fine.",
+        "They can understand well enough if you talk to them, just have to guide them a little."
+      ],
+      "persons": [
+        "vanem naine",
+        "noorem naine",
+        "kübaraga naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kübaraga naine liigub stseeni jooksul esiplaanilt tagaplaanile ja kaadri vasakusse serva, muutudes lõpuks vaid siluetiks.",
+        "Paberkotist võetakse stseeni edenedes välja rohkem esemeid, mis asetatakse lauale.",
+        "Naiste kehahoiakud ja tegevused arenevad vastavalt kauba lahtipakkimisele ja vestluse edenemisele."
+      ],
+      "snr": "005",
+      "ajad": [
+        "75.880",
+        "84.800"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha kahe inimese omavahelist suhtlust, mis toimub summutatud valgusega siseruumis. Enamik kaadrist on täidetud tumeda, fookusest väljas oleva esiplaaniga, mis kuulub ühele tegelasele, luues sügavust ja varjates suurt osa vaateväljast. Tagaplaanil on nähtav teine inimene, kes kannab tumedat, võimalik et soonilist pluusi ja paremal randmel värvilist helmestega käevõru. See tegelane hoiab paremas käes väikest heledat, silindrilist eset ning vasakus käes midagi, mis sarnaneb paberkotiga või on volditud ese. Kaadris on fookuses peamiselt tagaplaani tegelase käed ja rindkere. Dialoog viitab kellegi juhendamisele, kus üks tegelastest väljendab irooniliselt või skeptiliselt küsimust “walloping oafs” juhendamise kohta, millele vastatakse tegevuskavaga “I'll go see them.”",
+      "actions": [
+        "Vestlemine",
+        "Esemate hoidmine"
+      ],
+      "keywords": [
+        "Vestlus",
+        "Suhtlus",
+        "Käed",
+        "Ehe",
+        "Helmed",
+        "Tume pluus",
+        "Sisetingimused",
+        "Dialoog",
+        "Juhendamine",
+        "Oaf",
+        "Varjud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Helmestega käevõru",
+        "Hele silindriline ese",
+        "Paberkott",
+        "Sooniline pluus",
+        "Tume riie"
+      ],
+      "colorcodes": [
+        "#2A2B2A",
+        "#544945",
+        "#8C8B83",
+        "#C1B3AB",
+        "#A5B64E",
+        "#C67343",
+        "#8D4A56"
+      ],
+      "texts": [
+        "They can understand well enough if you talk to them, just have to guide them a little.",
+        "- How do you guide these walloping oafs?",
+        "- I'll go see them."
+      ],
+      "persons": [
+        "Kaks inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teise inimese kätes olevate esemete selgem nähtavale tulek esimese ja teise kaadri vahel",
+        "Vestluse edenemine subtriitrite kaudu"
+      ],
+      "snr": "006",
+      "ajad": [
+        "84.800",
+        "100.360"
+      ]
+    },
+    {
+      "explanation": "Stseen algab siseruumis, kus vanem mees ja noorem naine vestlevad. Naine, kandes tumedat riietust ja hoides käes heledat kotti, pöördub mehe poole ja ütleb midagi. Mees, kellel on heledad juuksed ja seljas tume jakk, kuulab teda tähelepanelikult, näol kerge naeratus. Ruum on valgusküllane, seintele on riputatud kunstiteosed, laual vaas kollaste lilledega ja potitaimed. Pildist paremal on näha osa raamaturiiulist. Seejärel pöörab naine selja ja hakkab liikuma valgete uste vahelt läbi, mis on osaliselt varjus, osaliselt eredas päikesevalguses. Osadel ustel on musterdatud klaaspaneelid. Naine suundub vasakul asuvasse trepikotta, mis on valmistatud tumedast puidust. Ta hakkab trepist alla minema, selg kaamera poole. Kogu stseen annab edasi vestluse ja seejärel lahkumise tunde, kus naine lahkub ruumist trepi kaudu. Tagaplaanil läbi avatud ukseava on näha teist tuba rohelise vaiba ja raamaturiiulitega.",
+      "actions": [
+        "Suhtlemine",
+        "Rääkimine",
+        "Kuulamine",
+        "Liikumine",
+        "Trepist alla minemine"
+      ],
+      "keywords": [
+        "Vestlus",
+        "Lahkumine",
+        "Interjöör",
+        "Elutuba",
+        "Trepikoda",
+        "Ukseavad",
+        "Päikesevalgus",
+        "Raamatukogu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Vanem mees",
+        "Noorem naine",
+        "Seinapildid",
+        "Laud",
+        "Kollased lilled",
+        "Vaas",
+        "Potitaimed",
+        "Raamaturiiulid",
+        "Valged uksed",
+        "Musterdatud klaas",
+        "Puidust trepp",
+        "Roheline vaip",
+        "Kott"
+      ],
+      "colorcodes": [
+        "#2C2C2C",
+        "#E6E6E6",
+        "#E9D252",
+        "#55724B",
+        "#876241"
+      ],
+      "texts": [
+        "- I'll go see them."
+      ],
+      "persons": [
+        "Vanem mees",
+        "Noorem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt keskendub inimeste vahelisele dialoogile ja näitab neid lähemalt.",
+        "Teine pilt nihkub laiemale plaanile, jälgides naise liikumist trepikoja poole ja tuues esile ruumi arhitektuuri, näiteks uksed ja teise toa.",
+        "Kolmas pilt keskendub naisele, kes laskub puidust trepist, ja trepikoja detailidele, uksed jäävad pildi esiplaanile.",
+        "Kaamera nurk ja fookus nihkuvad dialoogilt ja inimestelt ruumi ja liikumise kujutamisele."
+      ],
+      "snr": "007",
+      "ajad": [
+        "100.360",
+        "106.160"
+      ]
+    },
+    {
+      "explanation": "Stseen algab naise siluetiga hämaras, potentsiaalselt trepil või astmelisel platvormil, kus ta on peaaegu täielikult tumeda varju all. Seejärel paljastub naine selgemini, seistes hämaralt valgustatud siseruumis, tõenäoliselt koridoris või esikus. Tal on blondid juuksed krunnis ja seljas tume, ilmselt kootud kõrge kaelusega sviiter. Naine on seljaga vaataja poole, pöörates pead ja pilku kergelt vasakule (tema vaate suunas) ruumi sisemusse. Tema kõrval vasakul on heledat värvi uks. Paremal seina ääres seisavad püstiselt mitmed puidust suusad või sarnased pikad esemed ning seinal ripub raamitud pilt. Ruum on üldiselt pruunides ja hallikates toonides, luues rahuliku, aga samas veidi salapärase ja intiimse atmosfääri.",
+      "actions": [
+        "Seismine",
+        "Vaatamine (ruumi sisse)",
+        "Sisenemine (võimalik)"
+      ],
+      "keywords": [
+        "Hämar",
+        "Siseruum",
+        "Naine",
+        "Suusad",
+        "Uks",
+        "Krunn",
+        "Kootud sviiter",
+        "Koridor",
+        "Salapärane",
+        "Vaikne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Uks",
+        "Suusad",
+        "Pilt (raamitud)",
+        "Sein",
+        "Trepiastmed (esimesel pildil)"
+      ],
+      "colorcodes": [
+        "#28211b",
+        "#91887b",
+        "#3d3b3c",
+        "#a07d4b",
+        "#6d5b4a"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "winter",
+      "daytime": "evening",
+      "differences": [
+        "Esimene pilt on oluliselt tumedam ja kujutab naist peaaegu täielikult siluetina, taust on udune ja meenutab trepiastmeid.",
+        "Teine ja kolmas pilt on heledamad, paljastades naise juuste värvi (blond), riietuse detailid (tume kootud sviiter) ning ruumi sisu (uks, suusad, pilt seinal).",
+        "Teine ja kolmas pilt on peaaegu identsed, kuid naise pea asend on minimaalselt erinev, viidates järjestikustele kaadritele video voost."
+      ],
+      "snr": "008",
+      "ajad": [
+        "106.160",
+        "112.520"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub hämaras, kitsas siseruumis, mis näib olevat koridor või eeskoda, mis viib panipaika või väiksemasse ruumi. Vasakul pool on valge, kahe paneeliga uks, mis alguses on kergelt paokil. Ukse taga avaneb vaade madala kaldega laega ruumile, mis sisaldab erinevaid esemeid: rippuvat tumedat mantlit, valget püstist tolmuimejat ning mitmeid seinale toetatud suuski ja suusakeppe. Parempoolsel seinal ripub raamitud pilt. Stseeni siseneb noor blondide juustega naine, kelle juuksed on krunni seatud. Ta kannab tumedat, kõrge kaelusega, pikkade varrukatega riietust ja tema vasakul randmel on käevõru. Algselt seisab ta ukseava ees, käed ees kokku pandud, näides mõtliku või kõhkleva olekuga. Seejärel pöörab ta end kergelt vasakule, sirutades käe uksepiida poole, justkui kavatsedes ust sulgeda või sellele toetuda. Valgustus on summutatud ja soe, luues veidi melanhoolse või sügava mõtiskluse atmosfääri.",
+      "actions": [
+        "Sisenemine ruumi",
+        "Seismine ukseavas",
+        "Käe sirutamine ukse poole",
+        "Pöördumine"
+      ],
+      "keywords": [
+        "Hämar",
+        "Siseruum",
+        "Naine",
+        "Uks",
+        "Panipaik",
+        "Mõtlik",
+        "Kõhklev",
+        "Summutatud valgus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Uks",
+        "Suusad",
+        "Suusakepid",
+        "Tolmuimeja",
+        "Raamitud pilt",
+        "Mantel",
+        "Käevõru"
+      ],
+      "colorcodes": [
+        "#A29177",
+        "#1A1A1A",
+        "#EBE7D9",
+        "#B16C27",
+        "#3D342D"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil puudub inimene, uks on kergelt avatud ja panipaik näha.",
+        "Teisel pildil on naine ilmunud ukseavale, näoga vaataja poole, käed ees kokku pandud.",
+        "Kolmandal pildil on naine pööranud end kergelt vasakule, käsi uksepiida poole sirutatud, pilk suunatud vasakule."
+      ],
+      "snr": "010",
+      "ajad": [
+        "121.760",
+        "131.240"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub hämaras, õdusas, kuid pisut segamini toas, mis meenutab pööningut või katusekambrit tänu kaldus laele paremal pool. Seinakatteks on helepruun, tekstuurse pinnaga materjal. Kaadrit domineerib esiplaanil ja vasakul küljel olev laud, mis on täis pabereid, kontoritarbeid, kruusi, laualampi ja muid isiklikke esemeid. Laua kohal riiulil on samuti erinevaid nipsasju, metallist riist ja auhind. Seinal ripub kalajoonistus. Paremal pool on näha heleda polstriga tool ning taamal tume kapp, millel asub elektroonikaseade, tõenäoliselt võimendi või stereosüsteem. Valge lahti jäetud ukseavast siseneb tuppa noor helepruunide juustega naine, kes on riietatud tumedatesse, ilmselt mustadesse, rõivastesse. Ta liigub ukseavast laua juurde, kohendab midagi oma käel või randmel ning sirutab seejärel käe laual oleva väikese valge eseme, tõenäoliselt arvutihiire, poole.",
+      "actions": [
+        "Uksest sisenemine",
+        "Tuppa liikumine",
+        "Käe või randme kohendamine",
+        "Käe sirutamine laual oleva eseme poole",
+        "Laual oleva eseme puudutamine"
+      ],
+      "keywords": [
+        "Tuba",
+        "Pööning",
+        "Hämar",
+        "Segamini",
+        "Laud",
+        "Naine",
+        "Sisenemine",
+        "Isiklik",
+        "Askeldamine",
+        "Hubane"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Tool",
+        "Uks",
+        "Sein",
+        "Riiul",
+        "Joonistus (kaladest)",
+        "Metallist riist (riiv?)",
+        "Trofee",
+        "Kujukesed",
+        "Paberid",
+        "Kruus",
+        "Pastapliiatsid",
+        "Laualamp",
+        "Arvutihiir",
+        "Kapp",
+        "Elektroonikaseade",
+        "Valge kaabel"
+      ],
+      "colorcodes": [
+        "#A09070",
+        "#FDFDFD",
+        "#202020",
+        "#E0D0B8",
+        "#302820"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naine ilmub esimeses kaadris uksest sisse vaid osaliselt nähtavaks.",
+        "Teises kaadris on naine täielikult tuppa sisenenud ja seisab laua kõrval, kohendades midagi oma käel/randmel.",
+        "Kolmandas kaadris sirutab naine käe laual oleva eseme poole ja näib seda puudutavat või haaravat.",
+        "Naine liigub kaadrite jooksul ukseavast laua juurde."
+      ],
+      "snr": "011",
+      "ajad": [
+        "131.240",
+        "139.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat sisetingimust, tõenäoliselt elutoa või magamistoa ala. Valgus on nõrk ja kunstlik, andes ruumile intiimse ja mõtliku atmosfääri. Esiküljel on näha mustrilist, beežides ja pruunides toonides vaipa, millele on juhuslikult kuhjatud erinevaid riideesemeid. Riidete seas on nii heledaid toone (valged, beežid) kui ka tumedaid (hallid, mustad), mõnedel neist on võimalikud punakas-pruunid plekid või mustrid. Kaadris liiguvad ringi vähemalt kaks inimest, kellest näha on ainult nende jalgu ja sääri. Üks isik kannab tumedaid pükse ja tumedaid jalanõusid ning hoiab käes heledat, valget riideeset, mis võib olla T-särk või rätik. Tagaplaanil on näha puidust põrandat ja mööbliesemeid, nagu laud või riiul, millel asuvad raamatud, klaaspudel või purk ja osaliselt nähtav korvpall. Üldmulje on pisut korratu, viidates kas riiete sorteerimisele, kokkupakkimisele või lihtsalt igapäevaelu jälgedele. Inimeste liikumine annab stseenile dünaamilisust.",
+      "actions": [
+        "Inimesed liiguvad ruumis ringi",
+        "Üks inimene hoiab käes riideeset",
+        "Riided on laiali maas"
+      ],
+      "keywords": [
+        "Hämar",
+        "Siseruum",
+        "Vaip",
+        "Riided",
+        "Korratus",
+        "Liikumine",
+        "Jalad",
+        "Mööbel",
+        "Intiimne",
+        "Magamistuba",
+        "Elutuba",
+        "Puitpõrand"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Vaip",
+        "Riided",
+        "Puidust põrand",
+        "Laud",
+        "Tool (jalad)",
+        "Klaaspudel",
+        "Korvpall",
+        "Raamatud",
+        "Püksid",
+        "Jalanõud"
+      ],
+      "colorcodes": [
+        "#4A3C32",
+        "#8D877A",
+        "#FFFFFF",
+        "#2C2C2C",
+        "#6B5B49",
+        "#8A4545"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevates kaadrites on inimeste jalad ja kehahoiakud erinevad, mis viitab liikumisele ja tegevusele ruumis.",
+        "Kaadrite vahel muutub kaamera fookus ja perspektiiv, tuues mõnes kaadris esile rohkem tagaplaani detaile (nt korvpall, pudel laual) ja teises keskendudes pigem liikuvale inimesele, varjates tausta.",
+        "Riideesemete paigutus vaibal näib liikumise käigus veidi muutuvat."
+      ],
+      "snr": "012",
+      "ajad": [
+        "139.640",
+        "148.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist istumas või tegutsemas hubases, kuid kergelt hämaras pööningutoas või kaldlaega ruumis. Tuba on isikupärane, seinad on kaetud arvukate plakatite ja joonistustega, mis annavad edasi boheemlasliku või kunstilise atmosfääri. Paremal pool on aken, millest paistab sisse pehme päevavalgus, valgustades osaliselt ruumi ja naise nägu. Naine on blondide või heledate juustega, kergelt krunni seotud, ja kannab tumedat, kootud kampsunit või sviitrit. Ta on sügavalt millegisse süvenenud, vaatab allapoole ja hoiab käes heledat eset. Tema näoilme on mõtlik ja keskendunud. Üldine meeleolu on vaikne ja intiimne.",
+      "actions": [
+        "istub või seisab",
+        "vaatab allapoole",
+        "hoiab eset käes",
+        "keskendub"
+      ],
+      "keywords": [
+        "pööningutuba",
+        "kaldlagi",
+        "plakatid",
+        "joonistused",
+        "noor naine",
+        "mõtlik",
+        "kunstiline",
+        "hämarduv valgus",
+        "siseruum",
+        "hubane",
+        "keskendunud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "noor naine",
+        "kootud sviiter",
+        "plakatid",
+        "joonistused (kalad, muud teemad)",
+        "aken",
+        "päevavalgus",
+        "seinalamp",
+        "peegel/läikiv pind",
+        "heledad paberilehed/objekt naise käes",
+        "sein",
+        "lagi"
+      ],
+      "colorcodes": [
+        "#282A2E",
+        "#5B524B",
+        "#736E67",
+        "#E0DCCD",
+        "#CDB39F",
+        "#A89584"
+      ],
+      "texts": "not clear",
+      "persons": [
+        "noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on näha stseeni parem pool ja inimene on peamiselt tume siluett, mis on alles kaadrisse sisenemas või varjus.",
+        "Teisel pildil on naine täielikult kaadris ja tema nägu ning ruumi detailid on selgemalt valgustatud ja fookusesse toodud.",
+        "Kolmas pilt on teise pildiga väga sarnane, kuid võib-olla on naise asendis kerge nihe või keskendumine objektile tema kätes on rõhutatum, tuues selle esemegi selgemalt esile.",
+        "Kaadrid liiguvad tumedast ja varjulisest sisenemisest selgema ja detailsema portree suunas, kus naine on keskmes ja valgustatud."
+      ],
+      "snr": "013",
+      "ajad": [
+        "148.280",
+        "153.760"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha noort blondi naist, kes kannab tumedat, tõenäoliselt musta, rullkraega sviitrit. Ta asub hämaras, tagasihoidlikult sisustatud või isegi pooliku välimusega toas, mille seinad on beežikashallid ja millel ripub mitmeid pabereid või plakateid. Valgus on pehme ja summutatud, luues intiimse ja mõtliku atmosfääri. Naine alustab stseeni allapoole vaadates, kerge nukruse või süvenemisega ilmel, seejärel tõstab ta aeglaselt pea ja suunab pilgu vasakule kaadrist välja, hoides samal ajal tõsist ja pingsat näoilmet, justkui kuulaks või reageeriks millelegi. Tema juuksed on lihtsalt seatud ja ta pilk on terav, andes edasi pinge või ootusärevuse tunde.",
+      "actions": [
+        "naine vaatab alla",
+        "naine tõstab pea",
+        "naine vaatab vasakule kaadrist välja"
+      ],
+      "keywords": [
+        "naine",
+        "blondid juuksed",
+        "tume sviiter",
+        "hämar",
+        "sisekeskkond",
+        "mõtlik",
+        "tõsine",
+        "ootusärevus",
+        "vaatamine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "rullkraega sviiter",
+        "sein",
+        "paberid seinal",
+        "plakatid seinal"
+      ],
+      "colorcodes": [
+        "#423a35",
+        "#6f6760",
+        "#7f746d",
+        "#a49b92",
+        "#1e1e1e"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naine vahetab pilgu suunda, minnes allavaatamisest vasakule kaadrist välja vaatamisele.",
+        "Naise näoilmes toimub peen muutus süvenemisest või nukrusest tõsise ja pingsa ootusärevuseni."
+      ],
+      "snr": "014",
+      "ajad": [
+        "153.760",
+        "161.200"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt koduses keskkonnas. Esimesel pildil on näha esikust avanevaid uksi ja treppi, millele langeb ere päikesevalgus. Üks ukseava viib avarasse elutoa/söögialasse, teine raamatukoguks sarnanevasse ruumi. Hiljem avaneb vaade elutoa/söögialale, kus kaks naist on tegevuses toidu ja jookide ettevalmistamisega. Vanem naine, riietatud musta pikkade varrukatega riietusse, valab klaasist teekannust teed tassidesse ning hakkib köögivilju (kurke) lõikelaual. Tema kõrval seisab noorem naine, samuti tumedas riietuses (must sviiter ja musterdusega kleit/seelik), kes hoiab käes väikest kaussi või tassi. Toas on kaetud laud mustrilise laudlinaga, kuhu on paigutatud erinevad toidunõud, köögiviljad, paberkott ja teevarustus. Seintel on raamitud pildid ja toa sisustusse kuuluvad puidust kummut, laualamp ja toataimed. Kolmas isik, mees mustas jakis, ilmub hetkeks taustal, sisenedes raamatukogu alale.",
+      "actions": [
+        "Tee valamine",
+        "Kurgi hakkimine",
+        "Toidu ettevalmistamine laual",
+        "Toas seismine ja vaatlemine",
+        "Uksest sisenemine teise ruumi",
+        "Päikesevalguse langemine trepile ja tubadesse"
+      ],
+      "keywords": [
+        "Kodune stseen",
+        "Teejoomine",
+        "Söögivalmistamine",
+        "Elutuba",
+        "Raamatukogu",
+        "Päikesevalgus",
+        "Eakas naine",
+        "Noorem naine",
+        "Sisekujundus",
+        "Kummut"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Trepp",
+        "Uksed",
+        "Laud",
+        "Mustriline laudlina",
+        "Klaasist teekann",
+        "Teetassid",
+        "Lõikelaud",
+        "Nuga",
+        "Kurgid",
+        "Paberkott",
+        "Toidunõud",
+        "Maalid seinal",
+        "Puidust kummut",
+        "Toataimed",
+        "Raamaturiiulid (taustal)",
+        "Gloobus",
+        "Laualamp"
+      ],
+      "colorcodes": [
+        "#E8E7DD",
+        "#5C3A24",
+        "#1A1A1A",
+        "#4C6F4B",
+        "#87AB87",
+        "#D9B3B3",
+        "#3F5E4B"
+      ],
+      "texts": [
+        "modern stuff."
+      ],
+      "persons": [
+        "Eakas naine",
+        "Noorem naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt keskendub esikule ja ustele, samas kui järgnevad pildid näitavad toas toimuvat tegevust.",
+        "Noorem naine on teisel pildil selgelt nähtav ja hoiab käes väikest objekti, kolmandal pildil on ta vanema naise taha osaliselt varjatud.",
+        "Mees mustas jakis on selgelt näha kolmandal pildil raamatukogu uksest sisenemas, teisel pildil on tema vari või siluett vaevu aimatav.",
+        "Subtiitrid „modern stuff.” ilmuvad ainult kolmandal pildil.",
+        "Vanem naine valab teisel pildil teed ja kolmandal pildil hakkib kurke, mis viitab tegevuste järgnevusele."
+      ],
+      "snr": "015",
+      "ajad": [
+        "161.200",
+        "172.880"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub hämaras siseruumis, tõenäoliselt elutoas või söögitoas, mis on sisustatud traditsioonilises stiilis. Suurest aknast langeb sisse ere päevavalgus, valgustades ruumi üht külge, samal ajal kui siseruum ise on pigem tumedates toonides ja hubane. Aknale on riputatud pitskardinad ja akna lähedal ripub potitaim. Stseeni keskmes on heledate juustega naine, kes on juuksed krunni pannud ja kannab tumedat sviitrit. Ta liigub ruumis ringi, kandes alguses kandikul mitut tassi ja hiljem hoiab ühte tassi, millest ta joob. Tema tegevus viitab kas toidu serveerimisele või koristamisele. Laua taga on näha meest istumas ning teine vanem, tumedapäine naine, kes on samuti tumedalt riides, asetab taldrikuid lauale, aidates laua katmisel või koristamisel. Laual on näha tasse ja taldrikuid. Seintel ripuvad pildid, mis annavad edasi koduse ja isikupärase õhkkonna. Vestluse käigus mainitakse nii \"moodsaid asju\" kui ka seda, et \"ei pidanud maksma juristidele ega sarnastele\" – see viitab käimasolevale arutelule, mis on kas praktiline või retrospektiivne.",
+      "actions": [
+        "Tasside kandmine",
+        "Tassi hoidmine",
+        "Tassist joomine",
+        "Taldriku lauale asetamine",
+        "Laua taga istumine",
+        "Vestlemine/rääkimine"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Elutuba",
+        "Söögiaeg",
+        "Pere",
+        "Vestlus",
+        "Hämar",
+        "Hubane",
+        "Vintage",
+        "Naine",
+        "Tassid",
+        "Raamatud",
+        "Aken",
+        "Kardinad"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Noorem naine",
+        "Vanem naine",
+        "Mees",
+        "Söögilaud",
+        "Toolid",
+        "Tassid",
+        "Taldrikud",
+        "Kandik",
+        "Riiul",
+        "Raamatud",
+        "Aken",
+        "Pitskardinad",
+        "Rippuv taim",
+        "Pildid seinal",
+        "Tekstiilist laudlina/katte"
+      ],
+      "colorcodes": [
+        "#463E3C",
+        "#F0F0F0",
+        "#2D2A2A",
+        "#A8988C",
+        "#4C5F4C"
+      ],
+      "texts": [
+        "... modern stuff...",
+        "Didn't have to pay",
+        "for lawyers or the sort."
+      ],
+      "persons": [
+        "Noorem naine (heledate juustega)",
+        "Vanem naine (tumedate juustega)",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader näitab nooremat naist kandikuga ja mitme tassiga, vaadates akna poole ning on keskmine võte naise figuurist.",
+        "Teine kaader on laiem, hõlmates laua taga istuvat meest ja teist naist, kes asetab taldrikuid lauale, samal ajal kui noorem naine hoiab ühte tassi. Subtiitrite tekst on teises kaadris erinev.",
+        "Kolmas kaader on lähivõte noorema naise näost, kes joob tassist, näidates tema pehmet profiili ja tausta uduse riiuliga."
+      ],
+      "snr": "016",
+      "ajad": [
+        "172.880",
+        "199.720"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõtet tumedast puidust raamaturiiuli sektsioonist, mis on tihedalt täidetud esemetega. Riiulil on näha virn raamatuid, millest mõned on heleda seljaga ja teised roheka tooniga. Ühe raamatu seljal on loetav tekst \"KARILT... KUULAS\". Riiuli keskel seisab valge, dekoratiivne majaka figuur, mille all on väike majake. Majaka kõrval, paremal pool, on kaks raamitud fotot. Vasakpoolne foto on heleda puitraamiga värviline pilt kolmest naeratavast inimesest (tõenäoliselt lastest või noortest täiskasvanutest) talveriietes, lumes. Parempoolne, suurem foto on tumedas raamis ja mustvalge, kujutades kaht inimest – täiskasvanut ja last. Riiuli vasakus servas on näha veel vertikaalselt asetatud raamatuid, millest ühel on tekst \"Pilvel\". Riiuli paremas servas on aimatavad lisa raamatud. Teises kaadris ulatub paremalt alumisest nurgast kaadrisse käsi, mis sirutub riiulil olevate esemete poole, ning ilmub eestikeelsete subtiitrite inglise tõlge. Kolmandas kaadris on käsi endiselt näha, kuid see on pisut asendit muutnud, ja kuvatakse uued subtiitrid.",
+      "actions": [
+        "Käsi ulatub riiulil olevate esemete poole",
+        "Arutatakse esemete organiseerimist/korraldamist"
+      ],
+      "keywords": [
+        "Raamaturiiul",
+        "Mälestused",
+        "Fotod",
+        "Majakas",
+        "Kodune",
+        "Korraldamine",
+        "Perekonnapildid",
+        "Talv",
+        "Sisustus",
+        "Dialoog"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Raamaturiiul",
+        "Raamatud",
+        "Pildiraamid",
+        "Fotod",
+        "Dekoratiivne majakas",
+        "Käsi"
+      ],
+      "colorcodes": [
+        "#3A2E28",
+        "#E0DCCD",
+        "#6E8F8B",
+        "#E0DED7",
+        "#D4A38C",
+        "#2A2A2A",
+        "#8EC0D3"
+      ],
+      "texts": [
+        "KARILT... KUULAS",
+        "Pilvel",
+        "We need to decide how to organise this whole thing.",
+        "Someone has to take some sort of responsibility to figure it all out."
+      ],
+      "persons": [
+        "Inimene (kelle käsi on näha)",
+        "Kolm inimest värvifotol (lapsed/noored)",
+        "Kaks inimest mustvalgel fotol (täiskasvanu ja laps)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Teises kaadris ulatub käsi paremalt alt kaadrisse ning ilmuvad esimesed subtiitrid.",
+        "Kolmandas kaadris on käsi asendit muutnud ja ilmuvad teised subtiitrid."
+      ],
+      "snr": "017",
+      "ajad": [
+        "199.720",
+        "231.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort heledapäist naist lähivaates siseruumis. Naine on tumedapäise, ilmselt blondi juuksevärviga ning kannab tumedat kõrge kaelusega kampsunit. Ta on pildistatud küljelt profiilis, pilk suunatud allapoole või mõtlikult ettepoole. Tema käes on tume kruus, ilmselt kohvi või teega. Üldine atmosfäär on hämar ja mõtlik, taust on tume ja udune, vihjates siseruumile ning madalale valgusele. Tagaplaanil paistab ähmaselt mingi mööbliese, nagu riiul või kapp. Stseenis on näha dialoogi subtiitrite kaudu, mis annavad edasi vestluse vastutusest ja vabatahtlikkusest. Naise ilme on tõsine ja keskendunud.",
+      "actions": [
+        "Kruusi hoidmine",
+        "Mõtisklemine",
+        "Rääkimine (subtiitrite järgi)"
+      ],
+      "keywords": [
+        "Mõtlik",
+        "Tõsine",
+        "Hämar",
+        "Siseruum",
+        "Dialoog",
+        "Vastutus",
+        "Vabatahtlik",
+        "Kohustus",
+        "Kruus",
+        "Naine",
+        "Blondid juuksed"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kruus",
+        "Kõrge kaelusega kampsun",
+        "Riiul (taustal)",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#1c1c1d",
+        "#b5a094",
+        "#d0c4ae",
+        "#3d3e3f",
+        "#2b2b2b"
+      ],
+      "texts": [
+        "Someone has to take some sort of responsibility to figure it all out.",
+        "- I don't quite believe anyone would volunteer to do it.",
+        "- What volunteer?"
+      ],
+      "persons": [
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kolmel pildil on erinevad subtiitrid, mis esindavad dialoogi käiku.",
+        "Kolmas pilt on visuaalselt kõige udusam ja vähem fookuses, eriti naise nägu, mis viitab kas kaamera fookuse muutusele või kiirele lõikele dialoogi ajal."
+      ],
+      "snr": "018",
+      "ajad": [
+        "231.000",
+        "237.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, mis meenutab raamatukogu või kabinetti, mille tagaseinas on suured tumedast puidust raamaturiiulid täis raamatuid. Esileplaanil on grupi inimesi, kes kannavad peamiselt musta riietust, mis annab sündmusele formaalse või piduliku, võimalik, et leinatalituse hõngu. Keskel seisab noorem mees tumedas ülikonnas ja valges särgis, päikeseprillid peas, ning hoiab käes paberilehte. Temast vasakul on vanem naine musta laiaäärelise ja looriga kübaraga, kes vaatab allapoole ja tegeleb millegagi oma kätes. Paremal seisab heleblond naine mustas riietuses, kes ühes hetkes hoiab tassikest alustassiga ning teises hetkes vaatab allapoole, käsi mehe poole sirutatud, justkui midagi vahetades või talle näidates. Tagaplaanil on näha ka teisi inimesi, sealhulgas vanem, ähmaselt paistev isik mehe selja taga. Esiplaanil, kaamera poole seljaga ja osaliselt ähmastatult, istub või seisab veel üks mees prillidega. Üldine õhkkond on vaoshoitud ja keskendunud.",
+      "actions": [
+        "Inimesed seisavad ja suhtlevad",
+        "Mees ülikonnas hoiab ja uurib paberit",
+        "Naine hoiab tassikest ja alustassi",
+        "Naine kübaraga vaatab allapoole ja tegutseb oma kätega",
+        "Blond naine vahetab midagi mehega või näitab talle midagi"
+      ],
+      "keywords": [
+        "raamatukogu",
+        "formaalne kogunemine",
+        "must riietus",
+        "raamaturiiulid",
+        "arutelu",
+        "siseruum",
+        "leenatalitus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "raamaturiiulid",
+        "raamatud",
+        "tass",
+        "alustass",
+        "paber",
+        "prillid",
+        "päikeseprillid",
+        "müts",
+        "loor",
+        "pintsak",
+        "särk",
+        "pottlill",
+        "sein"
+      ],
+      "colorcodes": [
+        "#1C1C1C",
+        "#3A2B27",
+        "#FFFFFF",
+        "#96A16B",
+        "#C8C1B7"
+      ],
+      "texts": [
+        "– What volunteer?"
+      ],
+      "persons": [
+        "vanem naine kübaraga",
+        "noorem mees ülikonnas",
+        "blond naine mustas riietuses",
+        "ähmane mees esiplaanil",
+        "vanem isik tagaplaanil"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiiter \"– What volunteer?\" on nähtav ainult esimesel pildil.",
+        "Blondi naise tegevus ja asend muutuvad: esimesel pildil hoiab ta tassikest ja alustassi ning vaatab paremale, teisel pildil on ta lähemal mehele ja vaatab allapoole, käsi mehe poole sirutatud, justkui midagi vahetades või talle näidates.",
+        "Mehe ülikonnas pilk on veidi muutunud: esimesel pildil vaatab ta rohkem alla paberile, teisel pildil on pilk rohkem suunatud blondi naise poole.",
+        "Vanem isik mehe selja taga on esimesel pildil paremini nähtav."
+      ],
+      "snr": "019",
+      "ajad": [
+        "237.160",
+        "241.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest siseruumides, mis näib olevat raamatukogu või kabinet, arvestades tagaplaanil paiknevaid puidust raamatukappe, mis on täidetud raamatutega. Kaadri vasakus ja keskmises osas on teravustatud noorem mees, kes on riietatud tumedasse ülikonda valge särgiga. Tal on tumedad päikeseprillid pealaele lükatud. Mees vaatab kaadrist vasakule, suu on kergelt avatud, mis viitab rääkimisele või arutlemisele. Tema ilme on tõsine ja keskendunud. Kaadri paremal servas, fookusest väljas ja ähmaselt, on näha teise inimese, tõenäoliselt naise, pea ja õla profiili, kes näib kuulavat. Valgus on pehme ja loomulik, valgustades stseeni soojalt. Üldine atmosfäär on rahulik, kuid tegelaste poosid ja ilmed viitavad olulisele vestlusele. Raamatukogu taust annab stseenile intellektuaalse ja õpetatud konteksti.",
+      "actions": [
+        "Mees räägib",
+        "Naine kuulab"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Raamatukogu",
+        "Arutelu",
+        "Formaalne",
+        "Mees",
+        "Naine",
+        "Prillid",
+        "Ülikond",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Raamatukapid",
+        "Raamatud",
+        "Päikeseprillid",
+        "Ülikond",
+        "Valge särk",
+        "Toataim"
+      ],
+      "colorcodes": [
+        "#212C33",
+        "#574136",
+        "#D0C6B8",
+        "#E0E0E0",
+        "#C9A48C",
+        "#2F2F2F",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Maybe the boy's aren't necessarily competent..."
+      ],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5-10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil puuduvad subtiitrid.",
+        "Teisel ja kolmandal pildil on näha ingliskeelsed subtiitrid: \"Maybe the boy's aren't necessarily competent...\""
+      ],
+      "snr": "020",
+      "ajad": [
+        "241.200",
+        "255.000"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub hubases siseruumis, mis näib olevat raamatukogu või kodune tööruum. Vasakul ja taamal on näha massiivsed puidust raamaturiiulid, mis on tihedalt raamatutega täidetud. Ühel riiulil on ka vanaaegne kell. Ruumis on palju rohelust – mitmesuguseid potitaimi ja lilli, sealhulgas roosakaid õisi vasakus servas ja rohelisi taimi akna all. Paremal pool domineerib suur aken, millest paistab ere päevavalgus, luues õhulise, ent samas veidi varjatud atmosfääri. Kaadris on kaks inimest: esiplaanil on näha teise isiku selga ja pead (kukalt), kes on fookusest väljas ja kaamera ees, jättes mulje, et vaataja on tema õla tagant. Teine isik on noor naine, blondide juustega, mis on krunni seotud. Ta kannab tumedat, kootud kõrge kaelusega kampsunit. Naine on kaadri keskel ja pööratud profiilis paremale. Alguses on ta rahulik ja kuulav, pilk suunatud kergelt alla. Dialoogi arenedes muutub tema ilme ja pilk – ta tõstab pilgu üles ja pöörab pea kergelt, vaadates justkui küsivalt või veidi nördinult, justkui reageerides kuuldud öeldule. Tema suust või tema vastusena kuuldub tekst, mis seab kahtluse alla kellegi kompetentsuse.",
+      "actions": [
+        "Naine kuulab",
+        "Naine reageerib öeldule pilgu ja näoilmega",
+        "Naine räägib (vastab)",
+        "Teine isik (kukal) kuulab või räägib"
+      ],
+      "keywords": [
+        "siseruum",
+        "raamatukogu",
+        "dialoog",
+        "päevavalgus",
+        "naine",
+        "raamaturiiulid",
+        "taimed",
+        "hubane",
+        "intellektuaalne",
+        "arutelu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "raamaturiiulid",
+        "raamatud",
+        "kell",
+        "potitaimed",
+        "lilled",
+        "aken",
+        "kampsun",
+        "mööbel"
+      ],
+      "colorcodes": [
+        "#212121",
+        "#402E26",
+        "#4A5D3E",
+        "#C898AE",
+        "#F0F0F0"
+      ],
+      "texts": [
+        "Maybe the boy's aren't necessarily competent...",
+        "- What does it mean they're not competent? They're actually much more adeq..."
+      ],
+      "persons": [
+        "naine (blondide juustega)",
+        "teine isik (kukalt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise näoilme ja pilgu suund muutuvad, liikudes neutraalsest kuulavast poosist küsiva ja kergelt nördinud ilmeni.",
+        "Subtiitrite tekst muutub, mis viitab dialoogi edenemisele ja naise reageerimisele eelnevale lausele."
+      ],
+      "snr": "021",
+      "ajad": [
+        "255.000",
+        "257.880"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumis, ilmselt kohtumisruumis või büroos, mille seinad on kaetud tumepruunide puitpaneelidega. Ruumis viibib neli inimest, kõik on riietatud ametlikult ja tumedates toonides. Taustal on seinal mitmesuguseid raamitud pilte – maale ja fotosid –, lisaks dekoratiivtaldrikud ja rippuv roheline taim. Paremal seinal on ka seinavaip. Valgus tuleb akendest, mis on kaetud valgete ribikardinatega, ning lisaks on põlema pandud ka laelambid. Ülemisel seinaosal on ka valge ümmargune seade, mis võib olla suitsuandur või kõlar. Atmosfäär tundub tõsine ja ametlik, mis viitab vestlusele või koosolekule.",
+      "actions": [
+        "Inimesed seisavad ja jälgivad üksteist või vaatavad ülespoole",
+        "Üks inimestest (võimalik, et naine seljaga kaamera poole) räägib, mida näitavad subtiitrid esimesel pildil"
+      ],
+      "keywords": [
+        "siseruum",
+        "ametlik",
+        "vestlus",
+        "tumedad riided",
+        "pildid seinal",
+        "koosolek",
+        "kontor",
+        "arutelu",
+        "puidust sein"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "tumepruun puidust seinapaneel",
+        "valged silindrikujulised laelambid",
+        "seinalambid",
+        "raamitud pildid (maalid, fotod)",
+        "dekoratiivtaldrikud seinal",
+        "rippuv roheline taim",
+        "seinavaip/gobelään",
+        "aknad valgete ribikardinatega",
+        "valge ümmargune seade (suitsuandur/kõlar)",
+        "väike kapp/riiul akna all vasakul",
+        "lillekimp akna all paremal"
+      ],
+      "colorcodes": [
+        "#3A2B25",
+        "#1C1C1C",
+        "#B0AFA6",
+        "#5C745C",
+        "#D9D9D9",
+        "#D89F4C"
+      ],
+      "texts": [
+        "What does it mean they're not competent?",
+        "They're actually much more adeq..."
+      ],
+      "persons": [
+        "blondide juustega naine (seljaga, mustas rõivastuses)",
+        "kübaraga naine (mustas rõivastuses, vaatab ülespoole, tõsine ilme)",
+        "noorem mees (seljaga, mustas ülikonnas, vaatab ülespoole)",
+        "vanem mees (prillidega, halli habemega, mustas kikilipsuga särgis, vaatab ülespoole)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on nähtaval eestikeelsed subtiitrid, mis puuduvad teisel ja kolmandal pildil.",
+        "Inimeste pilgud ja kehahoiakud muutuvad kergelt kaadrite vahel. Mees paremal vaatab esimesel pildil veidi vasakule üles, teisel ja kolmandal pildil on tema pilk suunatud pigem otse üles. Naine keskel hoiab oma pilku pigem otse ees esimesel pildil, teisel ja kolmandal on tema pilk suunatud veidi ülespoole. Mees vasakul muudab samuti kergelt oma pea asendit ja pilgu suunda."
+      ],
+      "snr": "022",
+      "ajad": [
+        "257.880",
+        "261.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noore heledapäise naise portreed siseruumis, mis on ilmselt elutuba või kabinet. Naine on riietatud tumedasse kõrge kaelusega pluusi ja selle peale on tal kootud tume kampsun. Ta vaatab alguses üles, pea kergelt tahapoole kallutatud, ja seejärel langetab ning pöörab oma pilku paremale, vaadates ettepoole, mis annab märku, et ta suhtleb kellegagi. Taustal on näha avar ja hubane tuba, kus on puidust raamaturiiulid täis raamatuid, riiulite vahel on puidust seinapaneelid. Toas on rohkelt potitaimi ja lilli, mis loovad rohelise ja elava õhkkonna. Paremal pool avaneb suur aken, millest paistab ere päevavalgus, luues toa tagumisse ossa pehme valgusefekti. Aknalaual on samuti taimi ja mõni pildiraam. Vasakul seinas on näha ka vana stiilis seinakell. Esiplaanil paremal on uduselt näha teise inimese õlg ja pea, mis viitab käimasolevale vestlusele või stseenile kahe inimese vahel.",
+      "actions": [
+        "Naine vaatab üles",
+        "Naine langetab pilku ja pöörab seda paremale",
+        "Naine suhtleb teise isikuga"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Elutuba",
+        "Raamaturiiul",
+        "Raamatud",
+        "Taimed",
+        "Naine",
+        "Vestlus",
+        "Mõtlik",
+        "Hubane",
+        "Päevavalgus",
+        "Intiimne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Kõrge kaelusega pluus",
+        "Kootud kampsun",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Potitaimed",
+        "Lilled",
+        "Aken",
+        "Seinakell",
+        "Pildiraam",
+        "Teise isiku õlg ja pea"
+      ],
+      "colorcodes": [
+        "#21252B",
+        "#C9C7BF",
+        "#4C3F34",
+        "#5F7A48",
+        "#C56C86",
+        "#F0F0E0",
+        "#333333"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Teine isik (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel ja teisel pildil vaatab naine üles, pea on kergelt tahapoole kallutatud, teine pilt on peaaegu identne esimesega, näidates minimaalset liikumist.",
+        "Kolmandal pildil on naine oma pea ja pilgu langetanud ning pööranud paremale, vaadates ette teise inimese poole."
+      ],
+      "snr": "023",
+      "ajad": [
+        "261.320",
+        "264.720"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub toas, mis näib olevat kodu kabinet või raamatukogu, kus on paksude raamatutega täidetud puidust vitriiniga raamaturiiul. Ruumi valgustab suur aken horisontaalsete ribakardinatega, mis laseb sisse eredat päevavalgust. Kolm inimest, kõik tumedates riietes, liiguvad ruumis ringi. Vasakul on heledate juustega naine, kes on enamasti seljaga vaataja poole, tema kõrval on mees tumedas ülikonnas. Paremal liigub tumeda kübaraga naine paremale kaadri serva poole. Toas on näha tumedad seinad, roheline vaip, tumeda puidust mööbel, sealhulgas laud paberitega ja tool. Seintel on raamitud pilte, kaart ja taimed. Laual akna all on vaas lilledega. Valgusaknast loob ruumi kontrastseid varjusid ja heledaid alasid.",
+      "actions": [
+        "Inimesed liiguvad ruumis ringi",
+        "Naine tumedas kübaras liigub paremale",
+        "Heledate juustega naine ja mees liiguvad edasi"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Raamatukogu",
+        "Kabinet",
+        "Raamaturiiul",
+        "Tumedad riided",
+        "Päevavalgus",
+        "Liikumine",
+        "Ajalooline",
+        "Formal",
+        "Sünge",
+        "Kontrastne valgus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Raamaturiiul",
+        "Raamatud",
+        "Puitmööbel",
+        "Aken",
+        "Ribakardinad",
+        "Laud",
+        "Paberid",
+        "Tool",
+        "Pildid seinal",
+        "Kaart seinal",
+        "Taimed",
+        "Vaas",
+        "Lilled",
+        "Roheline vaip",
+        "Tumeda kübar",
+        "Kaelakee",
+        "Kohvitassid",
+        "Taldrikud"
+      ],
+      "colorcodes": [
+        "#4B4C4D",
+        "#1C2D2A",
+        "#C8D1D1",
+        "#7D6F5C",
+        "#A0AF91",
+        "#2F3B33"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine heledate juustega, tumedas mantlis või kleidis",
+        "Mees tumedas ülikonnas",
+        "Naine tumedas kleidis või mantlis, tumeda kübaraga"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on tumeda kübaraga naine rohkem kaadri keskel paremal, teisel pildil on ta nihkunud paremasse serva ja kolmandal pildil on ta peaaegu täielikult kaadrist väljas paremal.",
+        "Kahe teise isiku asetus muutub samuti kaadrite vahel, liikudes esiplaanile ja paremale.",
+        "Kolmandal pildil on aken vasakul servas rohkem nähtav ja raamaturiiul hõlmab suuremat osa pildi keskmisest parempoolsest osast, mis viitab kaamera liikumisele või isikute liikumisele stseenis."
+      ],
+      "snr": "024",
+      "ajad": [
+        "264.720",
+        "271.280"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset hubases, rikkalikult sisustatud elutoas, mida valgustab eredalt läbi suure tagaseina akna paistev päevavalgus. Akent katavad heledad, poolläbipaistvad valged või helerohelised kardinad. Tuba on täis erinevaid toataimi, mis lisavad ruumile elavat rohelist tooni, eriti akna lähedal ja riiulitel. Vasakul domineerib kõrge puidust raamaturiiul, mis on täidetud raamatute ja dekoratiivesemetega, sealhulgas õitsevate roosade ja punaste lilledega taimedega. Stseeni keskmes on vanem hallipäine mees, kes istub klassikalises puidust kiiktoolis. Esialgu kannab mees tumedat ülikonda koos valge särgi ja tumeda kikilipsuga, istudes suhteliselt sirgelt, kergelt tahapoole nõjatudes ja parem käsi küljele sirutatud. Stseeni edenedes tema riietus muutub, seljas on tal nüüd tume ümmarguse kaelusega sviiter või pluus. Mehe kehahoiak muutub dramaatiliselt: ta hakkab kiiktoolis ettepoole vajuma, pea longus, mis viitab stressile või teadvuse kaotusele. Lõpuks vajub ta toolis veelgi sügavamale, peaaegu täielikult küljele kokku. Teisel kaadril ilmub ekraanile tekst „Sorry.“. Ruumis on ka roheline diivan, mis on kaetud mustrilise helerohelise tekiga ja millel on värviline, tekstuuriga padi. Akna all on pikk, madal puidust kapp, millel asuvad veelgi taimi ja õhutusrest või radiaator. Paremal on osaliselt näha söögituba tumeda laua ja toolidega. Põrandat katab roheline vaip või matt. Üldine värvipalett on roheline, pruun ja valge, aktsentidega lillede punasest ja roosast toonist. Ruumi õhustik on kodune ja veidi nostalgitsev, kuid mehe seisundi tõttu ka melanhoolne.",
+      "actions": [
+        "Vanem mees istub kiiktoolis",
+        "Mees sirutab käe küljele",
+        "Mees vajub kiiktoolis ettepoole",
+        "Mees vajub kiiktoolis küljele kokku"
+      ],
+      "keywords": [
+        "elutuba",
+        "taimed",
+        "raamatud",
+        "vanem mees",
+        "kiiktool",
+        "kukkumine",
+        "kurbus",
+        "roheline",
+        "pruun",
+        "aken",
+        "päevavalgus",
+        "nukunurk",
+        "vintage",
+        "siseruum"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "kiiktool",
+        "raamaturiiulid",
+        "raamatud",
+        "taimed",
+        "lillepotid",
+        "lilled",
+        "diivan",
+        "tekk",
+        "padi",
+        "laud",
+        "toolid",
+        "aken",
+        "kardinad",
+        "seinamaalingud",
+        "pildid",
+        "vaasid",
+        "korv",
+        "vaip",
+        "õhutusrest"
+      ],
+      "colorcodes": [
+        "#6C4C33",
+        "#8EC28D",
+        "#4A6E46",
+        "#EAEAEA",
+        "#C45778",
+        "#F8F7E8"
+      ],
+      "texts": [
+        "Sorry."
+      ],
+      "persons": [
+        "vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe riietus muutub tumedast ülikonnast ja kikilipsust tumedaks sviitriks/pluusiks.",
+        "Mehe kehahoiak muutub püstisest istumisasendist ettepoole vajuvaks ja seejärel täielikult küljele kukkunuks.",
+        "Teisel pildil ilmub ekraanile tekst \"Sorry.\"."
+      ],
+      "snr": "025",
+      "ajad": [
+        "271.280",
+        "274.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab detailset vaadet elutoa või sarnase ruumi põrandale, kus on juhtunud väike õnnetus. Pildiseeria keskmes on purunenud terrakotast lillepott, mille sisu – muld ja õitsev aafrika kannike roosade õitega – on laiali valgunud rohelisele ja heledamale ringikujulise mustriga vaibale. Potikillud on taime ümber hajutatud. Kahe viimase kaadri jooksul ulatub paremalt kaadri servast sisse inimese käsi, mis on riietatud tumedasse pika varrukaga rõivasse. Käsi sirutub purunenud poti ja mulla poole, andes märku kavatsusest hakata koristama või olukorda hindama. Taustal on näha tumedast puidust kiiktooli jalga ja alust, samuti vitspunutud korvi, mis tõenäoliselt sisaldab käsitöötarbeid, ning raamaturiiulit raamatutega. Valgus langeb stseenile diagonaalselt, luues esiplaanil heleda fookuspunkti ja jättes tagapoolse ala veidi varju, rõhutades seeläbi vaataja tähelepanu purunenud potil ja kätt. Üldine meeleolu on kodune, ent intsident annab stseenile ootamatu nüansi.",
+      "actions": [
+        "Lillepott on purunenud",
+        "Muld ja taim on laiali valgunud",
+        "Käsi sirutub purunenud poti poole",
+        "Käsi on valmis potikilde või taime üles korjama"
+      ],
+      "keywords": [
+        "Purunenud lillepott",
+        "Aafrika kannike",
+        "Muld",
+        "Vaip",
+        "Käsi",
+        "Kodu",
+        "Õnnetus",
+        "Koristamine",
+        "Siseruum",
+        "Kiiktool",
+        "Vitspunutud korv"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Purunenud lillepott (terrakota)",
+        "Aafrika kannike (roosade õitega)",
+        "Muld",
+        "Roheline vaip",
+        "Hele mustriline vaip",
+        "Kiiktool (puidust, osa)",
+        "Vitspunutud korv",
+        "Raamatud",
+        "Raamaturiiul",
+        "Inimese käsi",
+        "Tume varrukas"
+      ],
+      "colorcodes": [
+        "#71A546",
+        "#3D5C3D",
+        "#C87E5B",
+        "#E6A4B1",
+        "#3E3328",
+        "#D9D5CB",
+        "#503B32"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 25,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil puudub inimkäsi kaadrist, näidates vaid purunenud potti ja taime põrandal.",
+        "Teisel pildil ilmub kaadrisse paremalt inimese käsi, mis hakkab sirutuma purunenud poti ja mulla poole.",
+        "Kolmandal pildil on käsi veelgi lähemal purunenud potile ja taimele, justkui kavatsedes koheselt esemeid puudutada või üles korjata."
+      ],
+      "snr": "026",
+      "ajad": [
+        "274.160",
+        "277.160"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub koduses siseruumis, mida iseloomustavad kaks suurt tumepruunist puidust raamaturiiulit, mis on täidetud arvukate raamatute ja mõne raamitud pildiga. Põrandat katab mustrilise mustriga vaip. Keskel seisab noorem mees tumedas ülikonnas, valges särgis ja tema peas on päikeseprillid. Mees on aktiivses vestluses, žestikuleerides kergelt. Esimeses kaadris seisab tema selja taga, ruumi paremas servas, noor naine, kes kannab musta kõrge kaelusega kampsunit ja tumedaid pükse, käed on tal rinnal risti. Järgnevates kaadrites noor naine kaob kaadrist ning tema asemel ilmub paremalt raamaturiiuli tagant välja vanem naine, kes kannab musta pika varrukaga pluusi ja tumedaid pükse. Vanem naine toetub parema käega raamaturiiulile ja tema ilme ning kehahoiak viitavad aktiivsele osalusele vestluses, mille käigus ta ilmselt midagi ütleb. Ta liigub kaadrisse sisse, samal ajal kui mehe vestlus jätkub.",
+      "actions": [
+        "Mees räägib ja žestikuleerib",
+        "Noor naine seisab rahulikult, käed risti",
+        "Vanem naine astub kaadrisse ja toetub raamaturiiulile",
+        "Vanem naine räägib"
+      ],
+      "keywords": [
+        "Siseinterjöör",
+        "Raamatukogu",
+        "Vestlus",
+        "Perekond",
+        "Ametlik riietus",
+        "Intellektuaalne keskkond",
+        "Draama",
+        "Kodu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Raamaturiiulid",
+        "Raamatud",
+        "Raamitud pildid",
+        "Ülikond",
+        "Särk",
+        "Päikeseprillid",
+        "Kõrge kaelusega kampsun",
+        "Püksid",
+        "Pluus",
+        "Vaip",
+        "Toataim"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#4A3C2B",
+        "#E0DCCD",
+        "#778899"
+      ],
+      "texts": [
+        "Oh! I'll go bring a dustpan.",
+        "- I'm not talking about that someone would want to throw the boys out and into the streets."
+      ],
+      "persons": [
+        "Mees",
+        "Noor naine",
+        "Vanem naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on kaadris noor naine, kahel järgneval pildil teda ei ole.",
+        "Teisel ja kolmandal pildil on kaadris vanem naine, esimesel pildil teda ei ole, ta ilmub kaadrisse.",
+        "Mehe kehahoiak ja näoilme muutuvad piltide vahel, peegeldades vestluse edenemist.",
+        "Subtiitrite tekst muutub vastavalt dialoogile."
+      ],
+      "snr": "027",
+      "ajad": [
+        "277.160",
+        "280.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumides toimuvat intiimset hetke, kus inimene püüab päästa purunenud lillepotist pärinevat taime. Kaadri keskmes on näha purunenud terrakotast lillepott, mille tükid ja mullane sisu on laiali laiali rohelisel, kootud tekstuuriga vaibal või matil. Inimese käed, mille ümber on näha värviline helmestest käevõru, hoiavad ettevaatlikult pottlille juurepalli ja varsi, millel on roosad või lillakad õied ja tumerohelised lehed. Tegevus näitab püüdlust taime kahjustuste eest säästa ja tõenäoliselt ümber istutada. Taustal vasakul on näha pruun vitstest korv esemetega ning paremal raamaturiiuli osa raamatutega, mis viitab kodusele ja ehk veidi korratule, kuid samas hubasele keskkonnale. Stseenis on näha subtiitrid, mis viitavad sügavale ja ehk murelikule vestlusele, kus räägitakse poiste saatuse üle arutamisest ja kadunud dokumentide otsimisest, et leida juhiseid või lahendusi keerulisteks olukordadeks, viidates Hildele.",
+      "actions": [
+        "Katkise lillepoti kildude ja mulla kokkukogumine",
+        "Pottlille hoidmine ja päästmine",
+        "Mulla ümberpaigutamine",
+        "Dokumentide otsimise mainimine (subtiitrites)"
+      ],
+      "keywords": [
+        "Lillepott",
+        "Katki",
+        "Lill",
+        "Muld",
+        "Käed",
+        "Vaip",
+        "Kodu",
+        "Mure",
+        "Dokumendid",
+        "Päästmine",
+        "Siseinterjöör"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Katkine lillepott",
+        "Pottlill",
+        "Muld",
+        "Roheline vaip",
+        "Vitstest korv",
+        "Raamaturiiul",
+        "Raamatud",
+        "Inimese käed",
+        "Käevõru"
+      ],
+      "colorcodes": [
+        "#445946",
+        "#B17D5B",
+        "#C49CC1",
+        "#C89982",
+        "#1A1A1A",
+        "#9B7D61",
+        "#A76F5E"
+      ],
+      "texts": [
+        "- I'm not talking about that someone would want to throw the boys out and into the streets.",
+        "I just want to find maybe Hilde left some documents what to do in case..."
+      ],
+      "persons": [
+        "Üks inimene (käed on näha)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Käte asend ja taime hoidmise viis muutub kaadrite vahel, näidates tegevuse edenemist. Esimeses kaadris on käed potikildude ja taime ümber, teises hoitakse taime kindlamalt, kolmandas on see pisut tõstetud, paljastades juurepalli ja mulla on pisut laiemalt laiali.",
+        "Subtiitrite tekst muutub esimese kahe ja kolmanda kaadri vahel, peegeldades vestluse järgnevaid repliike."
+      ],
+      "snr": "028",
+      "ajad": [
+        "280.840",
+        "290.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest, kes on riietatud tumedasse ülikonda, valgesse särki ja kikilipsuga, päikeseprillid peas. Ta asub siseruumis, mis näib olevat kodu raamatukogu või kabinet, mida ääristavad kõrged tumepruunid raamaturiiulid, täis raamatuid. Esiplaanil on näha roheline polsterdatud mööbliese, tõenäoliselt diivan või tugitool. Tagaplaanil avaneb uks teise tuppa, kus on heledam vaip ja rohelised potitaimed, mis annavad ruumile elava ja koduse ilme. Valgus näib tulevat aknast, viidates päevasele ajale. Mees suhtleb aktiivselt, kord vaadates veidi eemale, kord otse kaamerasse, ja tegeleb dokumentide otsimisega rohelisel mööbliesemel.",
+      "actions": [
+        "Mees räägib",
+        "Mees otsib dokumente",
+        "Mees kummardub ette",
+        "Mees sirutab end üles",
+        "Mees puudutab heledat eset"
+      ],
+      "keywords": [
+        "Mees",
+        "Ülikond",
+        "Raamatukogu",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Siseruum",
+        "Vestlus",
+        "Dokumendid",
+        "Päevaaeg",
+        "Kodu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Tume ülikond",
+        "Valge särk",
+        "Kikilips",
+        "Päikeseprillid",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Roheline mööbliese",
+        "Dokument",
+        "Uks",
+        "Potitaimed",
+        "Vaip"
+      ],
+      "colorcodes": [
+        "#3d4a4d",
+        "#fcfcfc",
+        "#709a36",
+        "#a07a4e",
+        "#9e8460",
+        "#c4c4c4"
+      ],
+      "texts": [
+        "I just want to find maybe Hilde left some documents what to do in case...",
+        "If she'd told you she wants you to take the boys in, would've you accepted?"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil räägib mees, vaadates veidi vasakule kaadrist.",
+        "Teisel pildil on mees kummardunud ette ja sirutab käe rohelise mööblieseme poole, tegeledes dokumentide otsimisega.",
+        "Kolmandal pildil seisab mees taas sirgelt ja vaatab otse kaamerasse, jätkates vestlust.",
+        "Esimesel ja teisel pildil on sama subtiiter, kolmandal pildil on erinev subtiiter."
+      ],
+      "snr": "029",
+      "ajad": [
+        "290.280",
+        "294.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort heledapäist naist siseruumis, tõenäoliselt elutoas või kabinetis. Ta kannab tumedat, kõrge kaelusega pluusi ja selle peal kootud tumedat salli või vesti. Tema juuksed on kergelt sasisesse krunni seatud. Naise taga, vasakul pool, on näha tume puidust raamaturiiul, mis on täidetud raamatutega. Paremal pool on avar aken horisontaalsete ribakardinatega, millest paistab ere päevavalgus. Akna all on näha taimi ja osaliselt ka maali. Esiplaanil on näha taimi roheliste lehtede ja valgete õitega. Naise pilk muutub stseeni jooksul: esmalt vaatab ta otse ja tõsise ilmega, seejärel pöörab pilgu alla, näides mõtlik või kurvana. Kolmandas kaadris liigub naine veidi kaadrist välja vasakule, mis toob paremal pool akna all oleva maali selgemalt esile. Valgustus on kontrastne, kus aknaala on väga ere ja ülejäänud ruum hämaram, luues intiimse ja sügava atmosfääri. Stseeni läbiv dialoog annab edasi tõsist ja kaalutletud vestlust, mis viitab keerulistele teemadele ja emotsionaalsele pingele.",
+      "actions": [
+        "Naine vaatab otse ette",
+        "Naine vaatab allapoole",
+        "Naine liigub kaadris vasakule",
+        "Naine vestleb/mõtiskleb"
+      ],
+      "keywords": [
+        "Noor naine",
+        "Siseruum",
+        "Raamaturiiul",
+        "Aken",
+        "Päevavalgus",
+        "Tõsine ilme",
+        "Mõtlikkus",
+        "Kontrastne valgustus",
+        "Sügav vestlus",
+        "Kootud riietus",
+        "Raamatud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Blondid juuksed",
+        "Kõrge kaelusega pluus",
+        "Kootud sall/vest",
+        "Raamaturiiul",
+        "Raamatud",
+        "Aken",
+        "Ribakardinad",
+        "Taimed",
+        "Valged lilled",
+        "Maal",
+        "Päevavalgus"
+      ],
+      "colorcodes": [
+        "#1E1F21",
+        "#393630",
+        "#F7F7F7",
+        "#C9B290",
+        "#C8A991",
+        "#839768",
+        "#B37D8D",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "If she'd told you she wants you to take the boys in, would've you accepted?",
+        "I don't have space nor means to support them."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise pilk muutub otse vaatamisest allapoole vaatamiseks.",
+        "Naine liigub kaadris veidi vasakule, jättes osa endast kaadrist välja.",
+        "Kaadris olev subtiitrite tekst muutub, peegeldades vestluse jätkumist."
+      ],
+      "snr": "030",
+      "ajad": [
+        "294.200",
+        "300.640"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub lähivaates noorele heledate juustega inimesele, kes on tõenäoliselt naine. Ta kannab tumedat, võimalik, et musta kõrge kaelusega pluusi ja selle peal tumedat heegeldatud või kootud rõivast. Tema pea on alla kallutatud ja pilk suunatud allapoole, andes mõtliku ja tõsise mulje. Ta tundub süvenenud mõtetesse, lugemisse või kirjutamisse. Taust on udune, kuid paistavad raamaturiiulid, mis viitab siseruumile, nagu raamatukogu või õpperuum. Valgus on pehme ja summutatud, luues intiimse ja keskendunud atmosfääri. Stseeni saadavad subtiitrid, mis edastavad dialoogi või sisemonoloogi.",
+      "actions": [
+        "vaatab allapoole",
+        "mõtleb sügavalt",
+        "keskendub"
+      ],
+      "keywords": [
+        "lähivõte",
+        "mõtlik",
+        "tõsine",
+        "siseruum",
+        "blondid juuksed",
+        "raamatukogu",
+        "subtiitrid",
+        "kontemplatsioon",
+        "dialoog"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "raamaturiiulid",
+        "raamatud",
+        "must kõrge kaelusega pluus",
+        "tume kootud/heegeldatud rõivas"
+      ],
+      "colorcodes": [
+        "#d0c8b3",
+        "#b79c85",
+        "#1a1a1a",
+        "#333333",
+        "#2f3434",
+        "#1f2325"
+      ],
+      "texts": [
+        "I don't have space nor means to support them.",
+        "- The hell we have to do then?"
+      ],
+      "persons": [
+        "naine",
+        "noor inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel muutuvad subtiitrid, mis näitavad dialoogi või sisemonoloogi kulgu.",
+        "Isiku pea asendis ja näoilmes on minimaalsed muutused, mis on tingitud kaadrite ajalisest järjestusest."
+      ],
+      "snr": "031",
+      "ajad": [
+        "300.640",
+        "306.000"
+      ]
+    },
+    {
+      "explanation": "Stseenis seisab toas, tõenäoliselt raamatukogus või kabinetis, keskealine mees tumedas ülikonnas, valges särgis ja tumeda taskurätikuga rinnataskus. Tema peas on päikeseprillid. Mees on pööratud kaamera poole ja räägib tõsise näoilmega. Taustal on näha riiulitäite kaupa raamatuid. Esiplaanil, kaadrist väljas ja fookusest väljas, on näha teise inimese ähmane õlg ja peaosa, mis annab edasi subjektiivse vaatenurga, justkui vaataks stseeni see teine inimene. Mehe kõnele lisavad selgitusi ekraanil kuvatavad subtiitrid, mis viitavad vestlusele abivajaduse või kohustuste jagamise teemal.",
+      "actions": [
+        "Mees räägib",
+        "Isik esiplaanil kuulab"
+      ],
+      "keywords": [
+        "Mees",
+        "Ülikond",
+        "Siseruum",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Vestlus",
+        "Autoriteetne",
+        "Tõsine",
+        "Juhised",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Ähmane isik",
+        "Tume ülikond",
+        "Valge särk",
+        "Taskurätt",
+        "Päikeseprillid",
+        "Raamaturiiulid",
+        "Raamatud"
+      ],
+      "colorcodes": [
+        "#2F3746",
+        "#FFFFFF",
+        "#7A7A7A",
+        "#2F2F2F",
+        "#B8B4A5"
+      ],
+      "texts": [
+        " - They can barely look after themselves.",
+        " - Here you need to do some cleaning and laundry..."
+      ],
+      "persons": [
+        "Mees (peaosas)",
+        "Ähmane isik (esimene plaan)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub piltide vahel, edastades vestluse jätkuvat sisu.",
+        "Mehe näoilme ja kehahoiak jäävad kõigis kaadrites peaaegu identseteks, mis viitab pidevale ja katkemisele vestlusele."
+      ],
+      "snr": "032",
+      "ajad": [
+        "306.000",
+        "317.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumides nooremat naist, kelle blondid juuksed on krunni seotud ja kes kannab musta rullkraega pluusi ja selle peal musta lahtise koega kootud vesti. Vasakul randmel on tal värviline käevõru. Naine on ruumis, mis näib olevat elutuba või kabinet, kus on puidust raamaturiiul täis raamatuid, dekoratiivseid esemeid nagu rohelised vaasid ja valge kauss, ning seinal rippuv tikitud pilt punaste rooside pärjaga. Taustal on näha hubane tugitool heleda heegeldatud tekiga ja mitmesuguseid potitaimi, mis annavad ruumile rohelust. Stseeni valgustab loomulik päevavalgus, luues pehme ja rahuliku atmosfääri. Naine vahetab oma kehahoiakut kaadrite vahel: esialgu viipab ta käega, seejärel kummardub ettepoole ja lõpuks vaatab mõtlikult oma kätele.",
+      "actions": [
+        "Käega viipamine",
+        "Ettepoole kummardumine",
+        "Kätele vaatamine",
+        "Rääkimine (subtiitrite põhjal)"
+      ],
+      "keywords": [
+        "Naine",
+        "Siseruum",
+        "Raamaturiiul",
+        "Tugitool",
+        "Taimed",
+        "Kodu",
+        "Must riietus",
+        "Mõtlikkus",
+        "Argitoimetused",
+        "Hooldekodu",
+        "Krunn",
+        "Käevõru",
+        "Päevavalgus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Raamaturiiul",
+        "Raamatud",
+        "Vaasid",
+        "Valge kauss",
+        "Tikitud pilt",
+        "Tugitool",
+        "Padjad",
+        "Taimed",
+        "Käevõru",
+        "Must rullkraega pluus",
+        "Must kootud vest",
+        "Heegeldatud tekk"
+      ],
+      "colorcodes": [
+        "#2E2F2E",
+        "#A9A8A5",
+        "#7D6B5E",
+        "#6A7C5F",
+        "#D7C4A5",
+        "#AE4E4F"
+      ],
+      "texts": [
+        "Here you need to do some cleaning and laundry...",
+        "Pay the bills and I don't know what all else.",
+        "The easiest and most reasonable option would be to put the boy's into the nursing home."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naine muutub kehahoiakult ja käte asendilt kaadrite vahel (viipamine, kummardumine, kätele vaatamine).",
+        "Subtiitrite tekst muutub iga kaadriga, esitades erinevaid dialoogilõike.",
+        "Tausta elemendid jäävad kaadrites suures osas samaks, viidates pidevusele stseenis."
+      ],
+      "snr": "033",
+      "ajad": [
+        "317.240",
+        "325.600"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha keskealine mees, kes on riietatud tumedasse ülikonnajakki ja valgesse kõrge kaelusega särki. Päikeseprillid on tal juuste peal, pea otsas. Mees vaatab otse kaamerasse ning tema suu on kergelt avatud, justkui ta räägiks või esitaks avaldust. Tal on lühikesed tumedad juuksed ja hele habemetüügas. Tema ilme on tõsine ja keskendunud. Taust on udune, kujutades siseruumi, kus paistavad olevat raamaturiiulid või muu mööbel, valgustus on pehme ja soe. Pildi alumises osas on näha valged subtiitrid. Vasakul õlal on tal diskreetne taskurätt tumedatoonilise mustriga.",
+      "actions": [
+        "Mees räägib",
+        "Mees vaatab kaamerasse"
+      ],
+      "keywords": [
+        "Mees",
+        "Ülikond",
+        "Särk",
+        "Päikeseprillid",
+        "Siseruum",
+        "Raamaturiiul",
+        "Subtiitrid",
+        "Intervjuu",
+        "Ametlik",
+        "Tõsine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Ülikonnajakk",
+        "Valge särk",
+        "Päikeseprillid",
+        "Taskurätt",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Mööbel"
+      ],
+      "colorcodes": [
+        "#2E3845",
+        "#E8E8E8",
+        "#C4A587",
+        "#8B7A6C",
+        "#3D3F43",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "The easiest and most reasonable option would be to put the boy's into the nursing home."
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kõigis piltides on mehe suu asend veidi erinev, mis viitab kõnelemise ajal toimuvatele väikestele liigutustele. Esimesel pildil on mehe suu veidi rohkem avatud kui kahel järgneval pildil."
+      ],
+      "snr": "034",
+      "ajad": [
+        "325.600",
+        "331.640"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha noort heledate juustega naist mustas kõrge kaelusega kampsunis ja tumedas heegeldatud või kootud hõlmikus. Esimesel kaadril on naise juuksed lahtiselt, langedes ümber näo, samas kui hilisemates kaadrites on need kinni pandud, moodustades kuklale krunni või hobusesaba. Naine seisab siseruumis, mille vasakul küljel on näha raamaturiiulit täis raamatuid ja paremal suurt akent. Aknast paistab sisse ere päevavalgus, mis valgustab ruumi ja loob naise paremale küljele teravaid valguse ja varju kontraste. Aknas on näha lamellkardinaid ja heledaid pitskardinaid. Akna all paremal on samuti näha lillemotiividega raamitud pilti või maali ja mõningaid taimi. Esimesel hetkel vaatab naine otse kaamerasse, tõsise ja mõtiskleva pilguga. Järgmistes kaadrites langetab ta pilgu alla, edastades kurvameelsust, nukrust või sügavat mõtisklust. Kaadritele lisanduvad subtiitrid annavad mõista, et tegemist on dialoogi või sisemise monoloogiga, mis käsitleb perekondlikke suhteid ja dokumente.",
+      "actions": [
+        "Otse kaamerasse vaatamine",
+        "Pilgu langetamine",
+        "Mõtisklemine",
+        "Rääkimine (subtiitrite kaudu implitsiitne)"
+      ],
+      "keywords": [
+        "Noor naine",
+        "Portree",
+        "Siseruum",
+        "Must riietus",
+        "Valgus ja vari",
+        "Aken",
+        "Raamaturiiul",
+        "Mõtisklev",
+        "Kurvameelne",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Must kõrge kaelusega kampsun",
+        "Tume heegeldatud/kootud hõlmik",
+        "Raamaturiiul",
+        "Raamatud",
+        "Aken",
+        "Lamellkardinad",
+        "Pitskardinad",
+        "Maal/Pilt",
+        "Toataimed",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#1c1c1c",
+        "#a79780",
+        "#4a4a4a",
+        "#ffffff",
+        "#3a3a3a",
+        "#6a4f5f"
+      ],
+      "texts": [
+        "Said that kin will take care of their own so there are no documents.",
+        "- But who's going to take care of them?"
+      ],
+      "persons": [
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab naine otse kaamerasse, tõsise ilmega, samas kui kahel järgneval pildil vaatab ta allapoole, väljendades nukrust või mõtisklemist.",
+        "Naise soeng muutub: esimesel pildil on juuksed lahti ja langevad ümber näo, aga teisel ja kolmandal pildil on need kinni (krunnis või hobusesabas).",
+        "Subtiitrid ilmuvad ekraanile alles teisel ja kolmandal pildil, edastades dialoogi või mõtteid."
+      ],
+      "snr": "035",
+      "ajad": [
+        "331.640",
+        "339.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist meest siseruumis, tõenäoliselt koduses keskkonnas või kontoris, taustal hägustatud raamaturiiulid täis raamatuid. Mees on kaadri keskmes ja vaatab otse kaamerasse. Tal on peas päikeseprillid, mis on lükatud peanupule. Mees kannab tumedat pintsakut ja valget nööbitavat särki, mille krae on suletud. Pintsaku vasakus rinnataskus on näha tumesinist või -rohelist mustrilist taskurätti. Mehe ilme on tõsine ja mõtlik, suu on kergelt avatud, justkui ta räägiks või oleks midagi ütlemas. Tema pilk on otsekohene ja veidi küsiv. Valgustus on pehme ja loomulik, luues rahuliku, kuid samas tõsise ja intiimse vestluse atmosfääri.",
+      "actions": [
+        "Kõneleb",
+        "Vaatab otse kaamerasse"
+      ],
+      "keywords": [
+        "Mees",
+        "Kõne",
+        "Siseruum",
+        "Raamaturiiulid",
+        "Mõtlik",
+        "Tõsine",
+        "Vestlus",
+        "Prillid",
+        "Ülikond",
+        "Tumedad toonid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Päikeseprillid",
+        "Tume pintsak",
+        "Valge särk",
+        "Taskurätt",
+        "Raamaturiiulid",
+        "Raamatud"
+      ],
+      "colorcodes": [
+        "#1a1e26",
+        "#f7f7f7",
+        "#2e666a",
+        "#7d756d",
+        "#b0a498",
+        "#9c735d"
+      ],
+      "texts": [
+        "But who's going to take care of them?",
+        "Or start visiting every day?",
+        "- I don't have to do this alone,",
+        "we will share."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe näoilme ja suu asend muutuvad kergelt vastavalt öeldavale tekstile, peegeldades vestluse kulgu.",
+        "Subtiitrid on igal pildil erinevad, edastades kolm järjestikust lauset mehe poolt."
+      ],
+      "snr": "036",
+      "ajad": [
+        "339.040",
+        "344.440"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides ja keskendub noorele naisele, kelle blondid juuksed on hooletult krunni pandud. Ta kannab musta kõrge kaelusega kampsunit, mille peal on tume, nähtavasti heegeldatud või kootud, õlasallilaadne jakike. Naine seisab hämaras toas, kus vasakul taustal on näha raamaturiiul täis raamatuid. Paremal pool on aken, mis on kaetud horisontaalsete ribikardinate ja kerge pitskardinaga, millest paistab sisse pehme päevavalgus, heites naisele valgussähvatusi juustele ja näole. Naise näoilme on tõsine ja mõtlik, viidates süvenemisele vestlusesse või mõttesse. Stseeni alguses räägib naine, tema pilk on suunatud otse kaamera poole või veidi kõrvale, suu on kergelt avatud. Seejärel pöörab ta pea paremale ja vaatab aknast välja, tema profiil on selgelt näha, lisades stseenile introspektiivse varjundi. Üldine meeleolu on vaikne ja intiimne. Akna lähedal on aimatavad ka mõned taimed ja võimalik, et pilt või maal.",
+      "actions": [
+        "Naine räägib",
+        "Naine vaatab",
+        "Naine pöörab pead"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Naine",
+        "Mõtlik",
+        "Vestlus",
+        "Hämar valgus",
+        "Aken",
+        "Raamaturiiul",
+        "Must riietus",
+        "Introspektiivne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Raamaturiiul",
+        "Raamatud",
+        "Aken",
+        "Horisontaalsed ribikardinad",
+        "Pitskardin",
+        "Taimed",
+        "Pilt/maal",
+        "Must kõrge kaelusega kampsun",
+        "Tume heegeldatud/kootud õlasall"
+      ],
+      "colorcodes": [
+        "#26211C",
+        "#181C1D",
+        "#C49E86",
+        "#6F6A63",
+        "#8B877E",
+        "#C8C0B2"
+      ],
+      "texts": [
+        "- I don't have to do this alone, we will share.",
+        "I'll come one day, someone else comes the other day and then together like that I think we could try."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 50,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltidel on naise asend ja pilk erinev. Esimeses kahes kaadris vaatab naine otse kaamera poole või veidi kõrvale, samal ajal kui kolmandas kaadris on ta pööranud pea paremale, vaadates aknast välja ja näidates oma profiili.",
+        "Kahel esimesel pildil on nähtavad ingliskeelsed subtiitrid, kolmandal pildil neid pole."
+      ],
+      "snr": "037",
+      "ajad": [
+        "344.440",
+        "351.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hubast siseruumi, tõenäoliselt elutuba või magamistuba, kus laual või kummutil on eksponeeritud mälestusesemed. Keskmes on vana mustvalge foto noorest naisest, mis on asetatud elegantsesse tumepruuni puitraami heleda sisemise äärisega ja toetub heledale triibulisele laualinale. Foto kõrval vasakul seisab pikk valge küünal läbipaistvas klaasist hoidjas, mida kaunistab mustast paelast vibu. Vasakul pool on osaliselt näha ka teine raamitud pilt, millel paistab olevat ristpistetehnikas või maalitud maja kujutis. Taustal on näha aken läbi valgete õrnade pitskardinate, lastes sisse pehmet päevavalgust, ja akna all on horisontaalsete ribadega radiaator. Laual või aknalaual taustal on näha ka muid esemeid, näiteks pruunikas silindriline objekt. Üldine atmosfäär on vaikne ja nostalgiline, andes edasi mälestuste ja austuse tunnet.",
+      "actions": [],
+      "keywords": [
+        "mälestus",
+        "foto",
+        "küünal",
+        "nostalgia",
+        "kodu",
+        "interjöör",
+        "rahu",
+        "naine",
+        "portree",
+        "pitskardinad",
+        "mustvalge"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mustvalge foto",
+        "pildiraam",
+        "küünal",
+        "klaasist küünlahoidja",
+        "must pael",
+        "triibuline lina",
+        "teine pildiraam",
+        "tikkpilt/maal",
+        "aken",
+        "pitskardinad",
+        "radiaator",
+        "pruunikas silindriline objekt"
+      ],
+      "colorcodes": [
+        "#8B6B4C",
+        "#F5F5F5",
+        "#0A0A0A",
+        "#D9C3A6",
+        "#A8B4BB",
+        "#FFFFFF",
+        "#282828",
+        "#5C4A3A"
+      ],
+      "texts": [],
+      "persons": [
+        "noor naine (fotol)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "038",
+      "ajad": [
+        "351.880",
+        "363.720"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset siseruumides, tõenäoliselt elutoas või ühises ruumis, mida iseloomustab suur aken, mis on kaetud valgete pitskardinatega ja laseb sisse pehmet päevavalgust. Ruumi ääristavad arvukad potitaimed, eriti aknalaual, luues hubase ja elava atmosfääri. Seal on diivan dekoratiivpatjade ja mustrilise pleediga, söögilaud toolidega ja kiiktool. Stseenis on näha kolm inimest, kellest üks vanem mees istub kiiktoolis, teine vanem inimene (tõenäoliselt mees) seisab ja kastab taimi, ning kolmas, noorem naine, seisab samuti. Neljas inimene on näha seljaga kaamera poole söögilaua ääres. Õhkkond on rahulik ja kodune, vihjates igapäevasele rutiinile või vaiksele vestlusele.",
+      "actions": [
+        "Vanem mees istub kiiktoolis, jälgides oma käsi.",
+        "Vanem inimene kastab taimi kastekannuga.",
+        "Naine seisab ja liigub, vahetades asendit kaamera suhtes.",
+        "Inimene laua ääres on paigal, seljaga kaamera poole.",
+        "Taimede eest hoolitsemine."
+      ],
+      "keywords": [
+        "Elutuba",
+        "Taimed",
+        "Pitskardinad",
+        "Rahulik",
+        "Kodune",
+        "Interjöör",
+        "Inimesed",
+        "Rutiin",
+        "Hall",
+        "Roheline",
+        "Aken",
+        "Diivan",
+        "Söögituba"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Aken",
+        "Pitskardinad",
+        "Taimed",
+        "Lillepotid",
+        "Diivan",
+        "Dekoratiivpadjad",
+        "Pleed",
+        "Kiiktool",
+        "Laud",
+        "Toolid",
+        "Taldrikud",
+        "Nõud",
+        "Kastekann",
+        "Raamaturiiul",
+        "Pildiraamid",
+        "Radiaator"
+      ],
+      "colorcodes": [
+        "#6C7E6C",
+        "#C0C0C0",
+        "#303030",
+        "#8B4513",
+        "#A0A0A0"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees kiiktoolis",
+        "Vanem mees/naine taimi kastmas",
+        "Naine",
+        "Inimene seljaga kaamera poole"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil osutab taimi kasttev inimene käega, teisel hoiab ta kastekannu ja kolmandal on pööranud selja kaamera poole.",
+        "Naine on esimesel ja teisel pildil näoga kaamera poole, kolmandal aga seljaga.",
+        "Kiiktoolis istuva mehe kehahoiak ja käte asend muutuvad pisut kaadrite vahel."
+      ],
+      "snr": "039",
+      "ajad": [
+        "363.720",
+        "370.760"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noorem mees, kes on riietatud tumedasse ülikonda ja valgesse särki. Tema peas on tumedad päikeseprillid. Mees vaatab tõsise ilmega paremale (vaataja vaatenurgast vasakule), suu on kergelt avatud ja pilk on suunatud millegi poole kaadri väljaspool. Tema näojooned viitavad kontemplatiivsele või murelikule olekule. Taust on udune, kuid paistab olevat siseruum, kus on näha raamaturiiuleid täis raamatuid, mis annab stseenile intellektuaalse või koduse atmosfääri. Valgus on pehme ja loomulik, vihjates päevasele ajale.",
+      "actions": [
+        "Vaatamine",
+        "Mõtisklemine",
+        "Küljele vaatamine"
+      ],
+      "keywords": [
+        "Mees",
+        "Ülikond",
+        "Päikeseprillid",
+        "Siseruum",
+        "Raamaturiiul",
+        "Raamatud",
+        "Tõsine",
+        "Kontemplatiivne",
+        "Portree",
+        "Poolkaader"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Ülikond",
+        "Valge särk",
+        "Päikeseprillid",
+        "Raamaturiiul",
+        "Raamatud"
+      ],
+      "colorcodes": [
+        "#212426",
+        "#f2f2f2",
+        "#2c2f30",
+        "#b0927a",
+        "#7e7e7e",
+        "#4e4a46"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "040",
+      "ajad": [
+        "370.760",
+        "378.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist siseruumis, kes istub akna ees, mille ees on valged pitskardinad. Valgus tuleb tugevalt tagant, luues naise juuste ja õlgade ümber haloefekti ning jättes tema näo osaliselt varju. Naise heledad juuksed on tagasi seatud ja ta kannab tumedat, tõenäoliselt musta, kõrge kaelusega kampsunit. Esimesel hetkel vaatab ta paremale suunaga, ilme on mõtlik või murelik. Järgnevatel hetkedel langetab ta pilgu alla, edastades kurvemat või resignatsiooni täis meeleolu. Aknalaual on näha uduseid esemeid, sealhulgas paremal oranži-punakat küünla- või purgisarnast eset ja vasakul mingeid heledaid pisiasju. Akna all on udune roheline ese, mis võib olla osa mööblist või radiaatorist. Üldine õhkkond on tõsine ja mõtisklev. Stseenis esineb ka subtiitreid, mis selgitavad naise mure sisu.",
+      "actions": [
+        "Vaatab kõrvale",
+        "Vaatab alla",
+        "Mõtiskleb",
+        "Muretseb"
+      ],
+      "keywords": [
+        "Portree",
+        "Siseruum",
+        "Naine",
+        "Mure",
+        "Tagantvalgustus",
+        "Kardinad",
+        "Mõtisklus",
+        "Kurvastus",
+        "Subtiitrid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Kardinad",
+        "Aken",
+        "Aknalaud",
+        "Küünla moodi ese",
+        "Purk",
+        "Mööbel",
+        "Radiaator",
+        "Kampsun",
+        "Subtiitrid"
+      ],
+      "colorcodes": [
+        "#2e2e2e",
+        "#f8f8f8",
+        "#a7a49b",
+        "#877f72",
+        "#ba6d4a",
+        "#89b48c",
+        "#ffffff"
+      ],
+      "texts": [
+        "We can't just hope that they're not having fits in the middle of the night",
+        "and don't harm themselves or each other."
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 55,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise pilgu suund on erinev: esimesel pildil vaatab naine paremale, teisel ja kolmandal pildil on pilk suunatud alla.",
+        "Teisel ja kolmandal pildil on lisatud subtiitrid.",
+        "Tekst on jagatud kahe pildi (kaadri) vahel."
+      ],
+      "snr": "041",
+      "ajad": [
+        "378.480",
+        "383.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme inimest valgusküllases siseruumis, mis meenutab elutuba või talveaeda, tänu suurtele akendele ja rohketele potitaimedele. Aknaid katavad heledad, poolläbipaistvad pitskardinad ja aknalaual ning puidust riiulitel on palju rohelisi taimi. Vasakul istub puidust tugitoolis vanem mees prillidega, käed põlvedel kokku pandud, kuulates tähelepanelikult. Keskel, diivanil, istub vanem naine heledate juustega, hoides käes erkrohelist kastekannu. Tema kõrval, samal diivanil, istub noorem naine, kes vaatab allapoole, käed süles. Kõik kolm kannavad tumedaid rõivaid (musta või tumedat halli). Diivanil on heledad rohelise mustriga tekid. Üldine õhkkond on vaikne ja mõtlik, viidates tõenäoliselt tõsisele vestlusele.",
+      "actions": [
+        "Vanem mees istub ja kuulab, käed kokku pandud.",
+        "Vanem naine istub, räägib ja žestikuleerib või vaatab meest, hoides rohelist kastekannu.",
+        "Noorem naine istub, pea allapoole, ja kuulab."
+      ],
+      "keywords": [
+        "Elutuba",
+        "siseruum",
+        "vestlus",
+        "taimed",
+        "kodune",
+        "mõtlik",
+        "vanurid",
+        "noorem naine",
+        "tumedad riided",
+        "pitskardinad",
+        "kastekann",
+        "aknalaud"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Puidust tugitool",
+        "diivan",
+        "rohelised mustriga tekid",
+        "potitaimed",
+        "aknalaud",
+        "aknad",
+        "pitskardinad",
+        "rulood",
+        "väike puidust laud",
+        "roheline kastekann",
+        "raamaturiiul",
+        "pildiraamid"
+      ],
+      "colorcodes": [
+        "#6A7F66",
+        "#3E3B3B",
+        "#B7B7B7",
+        "#8B674C",
+        "#559134"
+      ],
+      "texts": [
+        "and don't harm themselves or each other.",
+        "But Hilde thought as well that no one's going to take care of them like she did."
+      ],
+      "persons": [
+        "Vanem mees prillidega",
+        "vanem naine heledate juustega",
+        "noorem naine heledate juustega"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Vanema naise kehahoiak ja käe žestikulatsioon muutuvad: esimesel pildil on ta käsi rohkem tõstetud ja teistes kaadrites rahulikumalt kastekannu juures.",
+        "Subtiitrite tekst ekraani allosas muutub iga kaadri vahel, edastades vestluse erinevaid osi.",
+        "Noorema naise pea asend varieerub veidi, kuigi ta vaatab pidevalt allapoole."
+      ],
+      "snr": "042",
+      "ajad": [
+        "383.240",
+        "394.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, naist ja meest, istumas tumedast puidust laua taga, mis on kaetud heledarohelise laudlina ja mitmesuguste toitudega. Naine, kes on Aasia päritolu ja kannab musta kleiti ning musta sulgedega kaunistatud kübarat, istub laua vasakul poolel. Ta hoiab käes teetassi ja paistab olevat mõtlik. Mees, kes on Euroopa päritolu ja kannab tumedat ülikonda valge särgi ja tumeda lipsuga, istub laua paremal poolel, vaatab naise poole ja räägib. Tema kehahoiak on veidi tagasihoidlik. Tagaplaanil on näha tumedast puidust mööblit, sealhulgas raamatutega täidetud riiulid paremal ja kaardiga kaunistatud sein vasakul. Akendest paistab sisse ere päevavalgus, valgustades ruumi. Ruumis on ka potitaimi ja dekoratiivesemeid, mis annavad edasi vanaaegset ja hubast õhkkonda, meenutades õpperuumi või söögituba.",
+      "actions": [
+        "Naine istub vaikselt ja joob teed teetassist.",
+        "Mees istub ja räägib naisega, žestikuleerides kätega (kuigi käed on enamasti kaadri alt väljas)."
+      ],
+      "keywords": [
+        "vestlus",
+        "siseruum",
+        "vintage",
+        "raamatukogu",
+        "kohvikulaud",
+        "nõu pidamine",
+        "päevavalgus",
+        "teejoomine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "mees",
+        "puidust laud",
+        "heleroheline laudlina",
+        "valged taldrikud",
+        "teetass",
+        "kauss pähklitega/kuivatatud puuviljadega",
+        "küpsetatud roog (pirukas/quiche)",
+        "viilutatud tomatid",
+        "raamaturiiul",
+        "raamatud",
+        "aken",
+        "rulood",
+        "potitaimed",
+        "seinakaart",
+        "must kleit",
+        "must kübar",
+        "tume ülikond",
+        "valge särk"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#4A3C30",
+        "#FFFFFF",
+        "#C8E0C0",
+        "#A0A0A0",
+        "#7D5C4C"
+      ],
+      "texts": [
+        "We'd need to hire a nurse, but where to find money for that?",
+        "- Still, from the boys' constitutional perspective we should contact notary first."
+      ],
+      "persons": [
+        "Aasia naine",
+        "Kaukaasia mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Subtiitrite tekst muutub igas kaadris, kajastades erinevaid dialoogilõike.",
+        "Naine hoiab esimeses kaadris käsi laualt all, teises ja kolmandas kaadris aga teetassi suu juures.",
+        "Mehe suu asend muutub kergelt, viidates aktiivsele rääkimisele teises kaadris."
+      ],
+      "snr": "043",
+      "ajad": [
+        "394.120",
+        "406.200"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha noort naist siseruumis, tõenäoliselt elutoas, istumas diivanil. Tema heledad, krunni sätitud juuksed raamivad nägu, mis on allapoole suunatud, andes edasi mõtliku või nukra oleku. Ta kannab tumedat, kootud ja pikkade varrukatega kampsunit, mille vasakul randmel on mitu värvilist pärlkäevõru. Tagaplaanil on näha suurt akent, kust paistab sisse ere päevavalgus, luues tugeva tagantvalguse efekti, mis valgustab juukseid ja esemeid aknalaual, jättes samal ajal naise näo ja keha osaliselt varju. Aknal on heledad pitskardinad ja vasakul pool aimatav rohekas kardin või riie. Diivanil, millel naine istub, on näha rohekaid patju ja mitmeid värvilisi, geomeetrilise mustriga kaunistatud patju. Stseeni üldine atmosfäär on intiimne ja emotsionaalne, rõhutades naise sisemaailma ja pingsat mõtisklust. Subtiitrid viitavad vestlusele isolatsioonist ja vanadekodusse minekust, andes stseenile sügavama konteksti.",
+      "actions": [
+        "Istub diivanil",
+        "Mõtiskleb",
+        "Vaatab allapoole",
+        "Käed puhkavad küünarvarrel"
+      ],
+      "keywords": [
+        "Mõtlik",
+        "Nukker",
+        "Noor naine",
+        "Siseruum",
+        "Tagantvalgus",
+        "Diivan",
+        "Kootud kampsun",
+        "Käevõrud",
+        "Isolatsioon",
+        "Vanadekodu",
+        "Pitskardinad",
+        "Mustriga padjad",
+        "Varjud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Noor naine",
+        "Tume kootud kampsun",
+        "Pärlkäevõrud",
+        "Diivan",
+        "Mustriga padjad",
+        "Aken",
+        "Pitskardinad",
+        "Roheline kardin/riie",
+        "Taimed aknal"
+      ],
+      "colorcodes": [
+        "#202020",
+        "#b0a090",
+        "#e0d0c0",
+        "#60a060",
+        "#803030",
+        "#a06030",
+        "#f0f0e0",
+        "#e0e0e0",
+        "#a0c0a0"
+      ],
+      "texts": [
+        "At least they would communicate a bit more, here they're so isolated.",
+        "Enn and Ain are going to the nursing home."
+      ],
+      "persons": [
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kaadri fookus varieerub: ülemises ja alumises kaadris on esiplaanil naise nägu ja ülakeha, keskmises kaadris on fookus tema käte ja kehaasendi detailidel.",
+        "Naise nägu on ülemises kaadris rohkem varjus, alumises aga pisut selgemalt nähtav, kuigi endiselt allapoole suunatud.",
+        "Subtiitrite tekst muutub kaadrite vahel, pakkudes vestlusest erinevaid katkendeid.",
+        "Ülemisel kaadril subtiitrid puuduvad."
+      ],
+      "snr": "044",
+      "ajad": [
+        "406.200",
+        "418.000"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub avarates siseruumides, mis meenutab elutuba või talveaeda, tänu suurtele akendele, mis lasevad sisse rohkelt loomulikku valgust. Aknad on kaetud heledate, poolläbipaistvate kardinatega. Ruumi iseloomustab rikkalik taimestik – mitmed potitaimed, nii suured kui väikesed, on paigutatud põrandale ja mööblile, luues rohelise ja koduse õhkkonna. Sisustusse kuulub triibuline diivan mitme mustrilise padjaga, puidust kiiktool ja erinevad lauad. Põrandat katab roheline mustriga vaip. Stseenis on näha mitu inimest: esiplaanil ühes kaadris küürutab vanem naine, kes puhastab vaipa. Teistes kaadrites on fookus keskealisel mehel, kes kannab tumedat ülikonnajakki ja valget särki, päikeseprillid on tõstetud ta juuksele. Tema taga, hägusemalt, on näha veel kolm inimest, kes on samuti tumedates rõivastes. Atmosfäär tundub olevat mõtlik ja pingeline, vihjates olulisele elumuutusele või perekonnasündmusele.",
+      "actions": [
+        "Naine põlvitab ja puhastab vaipa",
+        "Mees räägib",
+        "Inimesed seisavad taustal"
+      ],
+      "keywords": [
+        "Elutuba",
+        "Toataimed",
+        "Kodu",
+        "Puhastus",
+        "Pere",
+        "Aknad",
+        "Päiksevalgus",
+        "Siseruumid",
+        "Lahkumine",
+        "Ülikond",
+        "Kodune"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Diivan",
+        "Kiiktool",
+        "Toataimed",
+        "Aknad",
+        "Kardinad",
+        "Vaip",
+        "Radiaator",
+        "Pildiraamid",
+        "Lauad",
+        "Viskepadjad",
+        "Pleed",
+        "Päikeseprillid",
+        "Pintsak",
+        "Valge särk"
+      ],
+      "colorcodes": [
+        "#4A6E46",
+        "#7C5C39",
+        "#E6E2D8",
+        "#2C353F"
+      ],
+      "texts": [
+        "Enn and Ain are going to the nursing home.",
+        "What are you standing there like that."
+      ],
+      "persons": [
+        "Vanem naine",
+        "Keskealine mees",
+        "Teised inimesed taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt pakub laiemat vaadet ruumile ja näitab puhastavat naist, teine ja kolmas pilt keskenduvad lähemalt rääkivale mehele ja hägustele taustategelastele.",
+        "Keskealise mehe suu ja näoilme muutub veidi teise ja kolmanda pildi vahel, mis annab märku jätkuvast kõnest.",
+        "Teksti ülekatted on igal pildil erinevad, pakkudes erinevaid dialoogilõike."
+      ],
+      "snr": "045",
+      "ajad": [
+        "418.000",
+        "440.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, mis näib olevat elutuba või kabinet, keskendudes neljale inimesele. Kahe mehe tähelepanu on suunatud otse ette, nad seisavad avatud ukseavas, mille tagant paistab heledam ruum. Vasakpoolne neist on pikemate tumedate juustega ja habemega, kandes tumesinist kudumit heleda särgi peal ja tumedaid pükse. Parempoolne mees on lokkis juustega ja kannab heledat särki ning mustrilist kootud vesti, samuti tumedaid pükse. Nende ilmed on tõsised ja mõtlikud. Esiplaanil, pildi paremas ja vasakus servas, on näha veel kahte inimest seljaga kaamera poole. Vasakpoolne esiplaanil olev isik kannab tumedat ülikonda. Parempoolne esiplaanil olev isik on vanem ja samuti tumedas riietuses, nende nähaolev poos viitab, et nad vestlevad kesksete meestega või on neid vastu võtmas. Vasakul pool on suur klaasustega raamaturiiul, mis on täidetud raamatutega ja mille klaaspindadel on näha peegeldusi. Paremal pool on avatud riiulitega raamaturiiul, kus lisaks raamatutele on ka fotosid ja muid dekoratiivesemeid. Üldine valgus on pehme ja summutatud, luues rahuliku, kuid veidi pingelise meeleolu.",
+      "actions": [
+        "Seisma",
+        "Vaatama",
+        "Vestlema"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Raamaturiiul",
+        "Mees",
+        "Vestlus",
+        "Tõsine",
+        "Mõtlik",
+        "Ukseava",
+        "Korter",
+        "Vastuvõtt",
+        "Raamatud",
+        "Riided"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Raamaturiiulid",
+        "Raamatud",
+        "Fotod",
+        "Ukseava",
+        "Kudum",
+        "Särk",
+        "Vest",
+        "Püksid",
+        "Ülikond"
+      ],
+      "colorcodes": [
+        "#28303C",
+        "#5A4739",
+        "#D3D3D3",
+        "#EAEAEA",
+        "#2D2D2D",
+        "#7B6D5E",
+        "#A89B8D"
+      ],
+      "texts": [
+        "Architecture",
+        "Houses",
+        "Spe",
+        "Grafik Krijik",
+        "Krijevi",
+        "Grafik"
+      ],
+      "persons": [
+        "Neli meest",
+        "Üks vanem isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esiplaanil olevate inimeste asetus ja kadreering on kaadrite vahel minimaalselt muutunud, eriti vasakpoolse isiku puhul, kes esimesel pildil on veidi rohkem nähtav.",
+        "Kesksete tegelaste näoilmetes ja peahoiakutes on kaadrite vahel märgatavad, kuid väga väikesed varieeruvused, mis viitavad marginaalsele liikumisele."
+      ],
+      "snr": "046",
+      "ajad": [
+        "440.920",
+        "460.920"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud noort heledapäist naist siseruumis, tõenäoliselt elutoas või kabinetis. Naine on riietatud musta kõrgkraega sviitrisse ja tal on seljas must heegeldatud rätik või kampsun. Tema juuksed on üles pandud. Naine vaatab allapoole, mis annab edasi mõtlikkust, süvenemist või nukrust. Valgus on esiplaanil veidi hämar, luues intiimse ja vaoshoitud meeleolu. Paremalt aknast paistab ere, pehme valgus, mis valgustab naise näo paremat külge ja loob taustal eeterliku kuma. Vasakul tagaplaanil on uduselt näha raamaturiiul täis raamatuid, mis viitab akadeemilisele või intellektuaalsele keskkonnale. Üldine atmosfäär on vaikne ja kontemplatiivne.",
+      "actions": [
+        "Vaatamine allapoole",
+        "Mõtisklemine",
+        "Keskendumine"
+      ],
+      "keywords": [
+        "Naine",
+        "Siseruum",
+        "Raamaturiiul",
+        "Must riietus",
+        "Mõtlik",
+        "Hämar valgus",
+        "Pehme valgus",
+        "Kontemplatiivne",
+        "Portree",
+        "Rahulik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Raamaturiiul",
+        "Raamatud",
+        "Aken",
+        "Kõrgkraega sviiter",
+        "Heegeldatud rätik/kampsun"
+      ],
+      "colorcodes": [
+        "#201D1D",
+        "#CFCEC4",
+        "#514F44",
+        "#D6DCE0"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Pildid on peaaegu identsed, näidates sama hetke või väga sarnaseid järjestikuseid kaadreid videost. Naise poosis, ilmes ja valgustuses ei ole märkimisväärseid erinevusi."
+      ],
+      "snr": "047",
+      "ajad": [
+        "460.920",
+        "478.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kaks meest siseruumis, tõenäoliselt elutoas või kabinetis. Nad seisavad kõrvuti, paigutusega vasakul pool on pildiraamis näha osa raamaturiiulist ja paremal samuti. Mõlemad mehed vaatavad tähelepaneliku või ehmatanud ilmega kaamerast paremale, millest võib järeldada, et nende pilgud on suunatud mingile objektile või sündmusele, mis jääb kaadrist välja. Valgus on pehme ja summutatud, luues veidi melanhoolse või pingsa atmosfääri. Vasakpoolne mees on korpulentsema kehaehitusega, tal on õlgadeni ulatuvad helepruunid juuksed ja habe. Seljas on tal heledavärviline nööpidega särk ja selle peal tume sinine või must kampsun. Tema suu on kergelt avatud, mis annab edasi üllatuse või šoki emotsiooni. Parempoolne mees on saledam, tal on lokkis tumepruunid juuksed ja habe. Tema kannab heledat nööpidega särki, mille peal on mustrilisest riidest kootud vest. Tema pilk on samuti intensiivne ja suunatud paremale, väljendades sarnast pinget või küsimusi. Kummagi mehe taustal on näha raamaturiiuleid, mis on tihedalt täis erineva suuruse ja värviga raamatuid. Vasakpoolse riiuli klaaspinnal on näha ka udune inimese silueti peegeldus. Parempoolsel riiulil on lisaks raamatutele ka mõned raamitud pildid.",
+      "actions": [
+        "Seismine",
+        "Vaatamine (kaamerast paremale)",
+        "Hämmeldunud või üllatunud ilme hoidmine"
+      ],
+      "keywords": [
+        "Mehed",
+        "Raamaturiiulid",
+        "Siseruum",
+        "Vaatamine",
+        "Hämmeldus",
+        "Üllatus",
+        "Kampsun",
+        "Vest",
+        "Raamatud",
+        "Pildid",
+        "Kodune atmosfäär",
+        "Intensiivne pilk"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Kaks meest",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Kampsun",
+        "Nööpidega särk",
+        "Kootud vest",
+        "Habe",
+        "Juuksed",
+        "Raamitud pildid",
+        "Sein",
+        "Klaas (riiulil)"
+      ],
+      "colorcodes": [
+        "#282F3B",
+        "#DADADA",
+        "#E0DCCD",
+        "#4D3C2C",
+        "#6B5741",
+        "#8B8772"
+      ],
+      "texts": [
+        "architecture",
+        "Houses",
+        "Romanus",
+        "HOPES",
+        "TEKSTILIKON",
+        "EKL"
+      ],
+      "persons": [
+        "Mees (vasakul)",
+        "Mees (paremal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "048",
+      "ajad": [
+        "478.000",
+        "482.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, tõenäoliselt mingit formaalset kokkusaamist või sündmust, näiteks matuseteenistust või peied, arvestades inimeste riietust ja üldist atmosfääri. Esimeses plaanis ja veidi vasakul on keskealine mees, kellel on seljas tumesinine või must ülikonnajakk ja valge särk kroogitud või volditud esiosaga. Tema peas on päikeseprillid. Mehel on lühikesed tumedad juuksed ja hele habemetüügas. Tema pilk on suunatud kergelt paremale kaadrist välja. Tema suu on veidi avatud, justkui ta räägiks või hakkaks rääkima. Tema nägu on osaliselt varjus, eriti paremalt poolt. Tagaplaanil on näha mitu hägust meeskuju tumedates riietes, mis viitab rohkemate inimeste kohalolekule. Ruumis on suured aknad õhukeste valgete kardinatega, mis lasevad sisse hajutatud loomulikku valgust. Akende vahel ja taustal on lauad, millel on rohelised lille- või taimeseaded ja raamitud fotod, mis lisavad sündmusele piduliku või mälestusliku tooni. Üldine atmosfäär on tõsine, mõtlik ja veidi sünge.",
+      "actions": [
+        "Mees on paigal",
+        "Mees kas räägib või kuulab"
+      ],
+      "keywords": [
+        "matused",
+        "peied",
+        "formaalne",
+        "siseruum",
+        "mees",
+        "ülikond",
+        "päikeseprillid",
+        "tõsine",
+        "mõtlik",
+        "vaikne",
+        "mälestus",
+        "lein",
+        "pidulik"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "ülikonnajakk",
+        "valge särk",
+        "päikeseprillid",
+        "aknad",
+        "kardinad",
+        "lauad",
+        "lille- või taimeseaded",
+        "raamitud fotod",
+        "mehed (tagaplaanil)"
+      ],
+      "colorcodes": [
+        "#2A2C31",
+        "#D0D0D0",
+        "#947A6D",
+        "#4A5D43",
+        "#7B7E80"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (esiplaanil)",
+        "Mehed (tagaplaanil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Mehe suu asend on kergelt erinev: esimesel pildil tundub see olevat veidi avatum kui teisel.",
+        "Mehe pilk on vaevu märgatavalt erinev: esimesel pildil tundub see olevat pisut otsem kui teisel, kus see on rohkem paremale suunatud."
+      ],
+      "snr": "049",
+      "ajad": [
+        "482.760",
+        "490.160"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, tõenäoliselt elutoas või kabinetis, mida ääristavad raamaturiiulid. Esimesel hetkel seisab kaamera poole seljaga olev naine kahest mehest vasakul. Kaks meest vaatavad naise poole, nende nägudel on näha mure või ootus. Parempoolne mees kannab kampsunvesti ja vasakpoolne tume sinist kampsunit. Stseen areneb edasi südamlikuks kallistuseks, kus kõik kolm inimest – kaks meest ja naine – embavad üksteist soojalt. Meeste näod on suunatud naise poole ja nad hoiavad teda kätega ümbert kinni, väljendades lohutust või toetust. Üldine õhkkond on intiimne, emotsionaalne ja vaikne. Valgus on pehme, mis viitab loomulikule päevavalgusele.",
+      "actions": [
+        "Seismine",
+        "Vaatamine",
+        "Kallistamine/Embrasseerimine",
+        "Lohutamine",
+        "Kätega kinni hoidmine"
+      ],
+      "keywords": [
+        "Kallistus",
+        "Emotsionaalne",
+        "Toetus",
+        "Lohutus",
+        "Siseruum",
+        "Raamaturiiul",
+        "Peresündmus",
+        "Kaastunne",
+        "Sõprus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Raamaturiiulid",
+        "Raamatud",
+        "Pildiraamid",
+        "Pildid",
+        "Kampsunid",
+        "Särgid",
+        "Sein",
+        "Uks"
+      ],
+      "colorcodes": [
+        "#4D3728",
+        "#344A5B",
+        "#C8C6C3",
+        "#8B7A6C",
+        "#D9D2C9",
+        "#6D5A4F"
+      ],
+      "texts": [
+        "Architecture",
+        "J. U. P.",
+        "KOLLANE",
+        "TEHNOLEKSIKON",
+        "SAAD",
+        "VÄRVID"
+      ],
+      "persons": [
+        "Kaks meest",
+        "Üks naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt kujutab olukorda enne kallistust, kus kaks meest vaatavad kaamera poole seljaga oleva naise poole.",
+        "Teine ja kolmas pilt näitavad sama stseeni südamlikust kallistusest, kus kõik kolm inimest embavad üksteist.",
+        "Meeste kehahoiak ja näoilmed muutuvad ootavast/murelikust kaastundlikuks ja lohutavaks.",
+        "Naise asend muutub, kui ta pöörab end kahe mehe poole ja embab neid.",
+        "Teine ja kolmas pilt on sisuliselt identsed, näidates sama kallistushetke, kus detailides esineb minimaalseid nihkeid käte ja peade asendites, viidates järjestikustele kaadritele liikumisest."
+      ],
+      "snr": "050",
+      "ajad": [
+        "490.160",
+        "500.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, tõenäoliselt elutuba või söögituba, kus on kolm inimest. Esipaanil on noorem mees, kes on fookuses ja vaatab paremale (vaataja vasakule). Tal on tumedad lühikesed juuksed ja päikeseprillid on asetatud pealaele. Seljas on tal tume ülikonnajakk heleda (tõenäoliselt valge) särgiga, millel on lai või kroogitud krae. Tema näoilme on tõsine või mõtlik, suu on kergelt avatud. Tagaplaanil on kaks häguse siluetiga inimest. Keskmine kuju on mees, kes kannab tumedat riietust ja seisab eesplaanil oleva mehe taga. Parempoolne kuju on samuti tumedas riietuses ja paistab olevat osaliselt kaadris. Taustal on suured aknad, mis on kaetud heledate läbipaistvate kardinatega, viidates päevavalgusele väljas. Toa valgustus on sume, luues veidi melanhoolse või dramaatilise meeleolu. Üldine värvigamma on tagasihoidlik ja mahe.",
+      "actions": [
+        "Vaatamine (mees esiplaanil)",
+        "Seismine (taustal olevad isikud)",
+        "Rääkimine või kuulatamine (mehe kergelt avatud suu)"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Portree",
+        "Mees",
+        "Tõsine",
+        "Mõtlik",
+        "Varjud",
+        "Päevavalgus",
+        "Ülikond",
+        "Prillid",
+        "Hägune taust",
+        "Stseen",
+        "Kogunemine",
+        "Sume valgus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Päikeseprillid",
+        "Ülikonnajakk",
+        "Särk",
+        "Kardinad",
+        "Aknad",
+        "Pildiraamid (hägused)",
+        "Valgusti (laes)"
+      ],
+      "colorcodes": [
+        "#4a4a4a",
+        "#dcdcdc",
+        "#a09e9e",
+        "#665b56",
+        "#2f343e",
+        "#e0e0e0"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees esiplaanil (noorem, tumedate juustega, prillid peas, ülikonnas)",
+        "Mees taustal (hägune siluett, tumedas riietuses)",
+        "Isik taustal (hägune siluett, tumedas riietuses, osaliselt näha)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 20,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Pildid on identsed, märgatavaid erinevusi ei esine."
+      ],
+      "snr": "051",
+      "ajad": [
+        "500.640",
+        "510.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab intiimset ja emotsionaalset hetke, kus kolm inimest on tihedas lohutavas embuses. Kesksel kohal on noor naine heledate juustega, kelle näoilme väljendab sügavat kurbust või ahastust; tema silmad on langetatud ja näol on näha haavatavust. Teda embavad kaks inimest, kelle näod on suures osas varjatud. Naisest vasakul (vaataja vaatepunktist) on tumedate lokkis juustega inimene, kes kannab kirjut tumerohelist või halli kootud vesti heleda särgi peal. Tema käed on nähtavad, üks puhkab õrnalt noore naise peas ja teine ümber tema. Naisest paremal on valdavalt seljaga pildil olev tumedajuukseline inimene, kes kannab tumedaid riideid, tema käsi on ümber noore naise toetavas žestis. Taustal on udused raamaturiiulid täis raamatuid, mis viitavad siseruumile, tõenäoliselt kabinetile või raamatukogule. Kaugemalt paistab aken, kust tuleb sisse pehmet, hajutatud valgust, andes aimu päevasest ajast, kuigi ruum ise on hämaralt valgustatud, mis lisab stseenile melanhoolse tunde. Akna lähedal on aimatavad ka kaks udust figuuri, mis viitavad teiste inimeste kohalolekule stseenis.",
+      "actions": [
+        "Kallistamine",
+        "Lohutamine",
+        "Toetamine",
+        "Kurvastamine"
+      ],
+      "keywords": [
+        "Kallistus",
+        "Emotsioonid",
+        "Kurbus",
+        "Toetus",
+        "Lohtus",
+        "Siseruum",
+        "Raamaturiiulid",
+        "Perekonnlik",
+        "Lähedus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimesed",
+        "Raamaturiiulid",
+        "Raamatud",
+        "Vest",
+        "Särk",
+        "Tumedad riided",
+        "Aken"
+      ],
+      "colorcodes": [
+        "#434336",
+        "#2E2F32",
+        "#A8ADAA",
+        "#8B8B84",
+        "#CDCECE"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor naine",
+        "Mees (lokkis juustega)",
+        "Tundmatu isik (tumedate riietega)",
+        "Kaks udust figuuri taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "052",
+      "ajad": [
+        "510.200",
+        "516.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab filmi või muu produktsiooni lõputiitreid, mis algavad ja lõpevad mustal ekraanil. Esialgu on ekraan täiesti pime, peene vinjetiga servades, misjärel ilmub ekraanile tumehallikaspruun, kergelt tekstureeritud taust. Sellel taustal kerivad ülespoole heledad, valged tiitrid, kus on loetletud erinevad meeskonnaliikmed ja nende rollid eesti keeles. Tiitrite hulgas on näha rollid nagu klapioperaator, gaffer, tehnikud, poomioperaator, värvimääraja, casting ning platsifotograaf, samuti sektsioon \"tänusõnad\" koos nimedega. Tiitrid on paigutatud ekraani keskele ja need liiguvad sujuvalt. Pärast kõigi tiitrite möödumist kaob tekst ekraanilt ja see hajub tagasi täiesti mustaks ekraaniks, sarnaseks stseeni algusega. Stseen on minimalistliku ja professionaalse esteetikaga.",
+      "actions": [
+        "Teksti kerimine",
+        "Pildi sissehaimamine (mustalt ekraanilt tiitritele)",
+        "Pildi välja hajumine (tiitritelt mustale ekraanile)"
+      ],
+      "keywords": [
+        "Lõputiitrid",
+        "Filmikrediidid",
+        "Tumedal taustal",
+        "Tekst",
+        "Minimalistlik",
+        "Professionaalne",
+        "Ekraan",
+        "Must ekraan",
+        "Vinjet",
+        "Rulluvad tiitrid"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Tekst",
+        "Ekraan"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#1a1a1a",
+        "#ffffff"
+      ],
+      "texts": [
+        "KAUPPO MUULI",
+        "klapp INGER PÕDER",
+        "DIT KAUPPO MUULI",
+        "gaffer JUSS SASKA",
+        "technicians ROLAND ABEL",
+        "RAOUL KIRSMA",
+        "poomioperaator JOONAS TAIMLA",
+        "värvimääraja MARTIN LAURI",
+        "casting JANIS RIZHOVS",
+        "platsifotograaf LEON ALLIK",
+        "tänusõnad",
+        "JAANUS LAURI",
+        "MARTIN AULE",
+        "EMEL-ELIZABETH TUULIK",
+        "MAKSIM PODOLSKI",
+        "REIKO REINUP",
+        "TIINA PEENOJA"
+      ],
+      "persons": [
+        "Kaupo Muuli",
+        "Inger Põder",
+        "Juss Saska",
+        "Roland Abel",
+        "Raoul Kirsma",
+        "Joonas Taimla",
+        "Martin Lauri",
+        "Janis Rizhovs",
+        "Leon Allik",
+        "Jaanus Lauri",
+        "Martin Aule",
+        "Emel-Elizabeth Tuulik",
+        "Maksim Podolski",
+        "Reiko Reinup",
+        "Tiina Peenoja"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": 90,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene ja kolmas pilt on peaaegu täiesti mustad ekraanid, millel on aimatav peen vinjett servades.",
+        "Teisel pildil kuvatakse keskel heledad, valged tiitrid tumedal, kergelt tekstureeritud taustal, millel on samuti vinjett.",
+        "Ekraani sisu muutub tühjast mustast tekstiga ekraaniks ja seejärel tagasi tühjaks mustaks."
+      ],
+      "snr": "053",
+      "ajad": [
+        "516.720",
+        "524.960"
+      ]
+    },
+    {
+      "explanation": "Stseen algab täiesti musta ekraaniga, mis on ilma igasuguse visuaalse sisuta. Järgnevatel kaadritel ilmub mustale taustale valge tekst, mis on paigutatud kaadri alaossa keskele. Tekst annab edasi autoriõiguse teavet, märkides ära \"© Tallinna Ülikooli\" ja täpsustades \"Balti filmi, meedia, kunstide ja kommunikatsiooni instituut\". See viitab tavaliselt filmi või meediasisu algus- või lõputiitritele, kus esitatakse tootja või asutuse nimi.",
+      "actions": [
+        "Tekst ilmub mustale ekraanile"
+      ],
+      "keywords": [
+        "must ekraan",
+        "tekst",
+        "lõputiitrid",
+        "autoriõigus",
+        "ülikool",
+        "instituut",
+        "must-valge",
+        "informatsioon"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "© Tallinna Ülikooli",
+        "Balti filmi, meedia, kunstide ja kommunikatsiooni instituut"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "95",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on täiesti must, samas kui teisel ja kolmandal pildil on mustal taustal valge tekst.",
+        "Teine ja kolmas pilt on omavahel identsed, näidates sama teksti samas positsioonis."
+      ],
+      "snr": "054",
+      "ajad": [
+        "524.960",
+        "585.200"
+      ]
+    }
+  ]
+}

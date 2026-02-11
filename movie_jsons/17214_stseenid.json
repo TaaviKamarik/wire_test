@@ -1,0 +1,1974 @@
+{
+  "film": [
+    "17214",
+    "17092",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Disainimajakas",
+    "09f5618cc42a91feda3a049d9908bf0c0002ef28.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab kunstniku hämarat ateljeed või töökoda. Ruumis domineerivad kunstitarvikud, nagu töölauad purkide, pintslite ja raamitud piltidega, ning riiulid erinevate skulptuuride, vormide ja traatkonstruktsioonidega. Vasakul on näha põrandalampi, mis valgustab osa ruumist. Aknast paistab vihmane või pime öö, luues melanhoolse atmosfääri. Stseeni keskel on noor mees heledas jakis, kes alguses on pööratud akna poole, justkui mõtiskledes või inspiratsiooni otsides. Tema ümber ja ruumi peegeldustes ilmuvad ja kaovad heledad, läbipaistvad inimkujulised varjud või vaimud, andes stseenile müstilise ja unenäolise tunde. Hiljem ilmub paremale esiplaanile elusuurune, detailne savist või kipsist mehe skulptuur, mis istub poosis, andes mõista, et see on kunstniku teos või looming. Noormees on seejärel pööratud rohkem ruumi sissepoole, vaadeldes ilmselt oma loomingut või ümbrust. Stseen on üldiselt tumedates toonides, kuid esineb ka heledamaid aktsente, näiteks lambivalgus ja läbipaistvad kujud, ning selle üldine koloriit on desatureeritud.",
+      "actions": [
+        "Mõtisklemine",
+        "Vaatlemine",
+        "Liikumine",
+        "Loomine (kaudselt)"
+      ],
+      "keywords": [
+        "Kunstiateljee",
+        "Skulptuur",
+        "Loomeprotsess",
+        "Vihm",
+        "Öö",
+        "Müstiline",
+        "Sügavmõtteline",
+        "Monokroomne",
+        "Hämar",
+        "Kummituslik"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Noor mees",
+        "Skulptuur",
+        "Aken",
+        "Töölaud",
+        "Raamitud pildid",
+        "Potsikud/purgid",
+        "Pintslid",
+        "Riiulid",
+        "Kunstiteosed/vormid",
+        "Põrandalamp",
+        "Traatskulptuurid",
+        "Vihmapiiskad (aknal)",
+        "Heledad läbipaistvad kujud",
+        "Valge kangas/materjal"
+      ],
+      "colorcodes": [
+        "#0A0A0A",
+        "#3B3B3B",
+        "#8D8D8D",
+        "#DEDEDE",
+        "#1F2F32",
+        "#FDFDFD"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees",
+        "Läbipaistvad kujud"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on täiesti must, pakkudes stseenist mitte mingit visuaalset infot.",
+        "Teisel kaadril on näha heledaid, läbipaistvaid inimkujulisi varje või vaimusid, mis kolmandal kaadril puuduvad.",
+        "Kolmandal kaadril on stseeni paremal pool näha detailne, elusuuruses savist või kipsist mehe skulptuur, mis teisel kaadril puudub või on varjatud.",
+        "Kolmas kaader on üldiselt heledam ja selgemalt nähtav kui teine kaader.",
+        "Noor mees on teisel ja kolmandal kaadril veidi erinevas poosis ja asendis."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "12.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab detailset lähivõtet segasest ja tolmusest lauaplaadist, mis sarnaneb töö- või hobiruumi lauaga. Laual on mitmeid igapäevaseid esemeid ja tööriistu, mis viitavad kunstilisele või käsitöönduslikule tegevusele. Üldine õhkkond on vaoshoitud ja ehk veidi melanhoolne, valgus on summutatud. Laud ise näib olevat kas betoonist või väga kulunud puidust ning on kaetud tolmuga ja väikeste osakestega. Vasakul pool on kohvikann, raamitud pilt lapsest ja väiksem raamitud objekt. Laua keskel on puidust konstruktsioon, metallist spaatella, valge kruus valgel taldrikul ja erinevad väikesed tööriistad ning kauss. Paremal pool on valge elektriline veekeetja, ristkülikukujuline karp ja virn pabereid. Üldpilt on küllaltki täis esemeid, andes aimu aktiivsest, kuid samas korratust tegevusest.",
+      "actions": [
+        "keegi on töötanud",
+        "keegi on kohvi joonud",
+        "keegi on teed joonud",
+        "keegi on söönud",
+        "keegi on joonistanud/meisterdanud"
+      ],
+      "keywords": [
+        "töölaud",
+        "segadus",
+        "kunstniku laud",
+        "käsitöö",
+        "kohv",
+        "tee",
+        "tolmune",
+        "sisustus",
+        "vaikne",
+        "hobi",
+        "nostalgia",
+        "melanhoolia"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "mokakann",
+        "raamitud pilt lapsest",
+        "väiksem raam",
+        "keraamiline tass",
+        "alustass",
+        "küünlaalus (või sarnane ese)",
+        "sigaretikondid/rullitud paberid",
+        "märkmik",
+        "paberid",
+        "puidust konstruktsioon",
+        "metallist spaatella",
+        "valge kruus",
+        "valge taldrik",
+        "väikesed tööriistad (nt. nikeramisriistad, pintslid)",
+        "klaasist kauss",
+        "elektriline veekeetja",
+        "ristkülikukujuline karp",
+        "lauaplaat"
+      ],
+      "colorcodes": [
+        "#6A6C6B",
+        "#D1D2D2",
+        "#4D4F4F",
+        "#A09F9B",
+        "#8C8C88",
+        "#333333",
+        "#DEDDDD"
+      ],
+      "texts": [],
+      "persons": [
+        "laps (pildil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "002",
+      "ajad": [
+        "12.560",
+        "17.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kunstniku ateljeed hilisõhtul või öösel. Ruumi valgustab peamiselt kunstlik valgus, luues tumeda ja mõtliku atmosfääri. Paremal on näha suur aken, millest paistab välja vihmane öö, lisades stseenile melanhoolse varjundi. Ateljee on tihedalt sisustatud kunstivahendite ja pooleliolevate töödega: vasakul asetsevad riiulid on koormatud kipsvalandite, traatkonstruktsioonide, tööriistade ja muude materjalidega. Keskel-tagaplaanil seisab klassikalise stiilis büst, mis on kaetud osaliselt kangaga. Paremal, akna lähedal, seisab elusuurune mehe kipsist või savist figuur. Ruumis liigub ringi noorepoolne, lühikeste heledate juustega kunstnik, kes kannab halli pontšot või pusa tumeda särgi peal. Ta toimetab ateljees erinevate tegevustega: ühes hetkes hoiab ta käes kruusi, teises vaatab ta intensiivselt midagi töölaual ja kolmandas reguleerib ta pea kohal mingit seadet, tõenäoliselt valgust või kaamerat. Töölauad on kaetud pintslite, kruuside, raamitud piltide ja muude kunstniku tööks vajalike esemetega. Stseenis valitseb summutatud, peaaegu monokroomne värvigamma, kus domineerivad hallid, mustad ja valged toonid.",
+      "actions": [
+        "kunstnik kõnnib kruusiga",
+        "kunstnik vaatleb töölaual olevaid esemeid",
+        "kunstnik reguleerib pea kohal olevat seadet",
+        "kunstniku tööruumis toimetamine"
+      ],
+      "keywords": [
+        "kunsti ateljee",
+        "skulptuurid",
+        "kipsvalandid",
+        "kunstnik",
+        "öö",
+        "vihm",
+        "tööruum",
+        "looming",
+        "valgustus",
+        "melanhoolne"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "skulptuur",
+        "büst",
+        "kipsfiguur",
+        "riiulid",
+        "töölaud",
+        "molbert",
+        "seisev lamp",
+        "kruus",
+        "kunstivahendid",
+        "aken",
+        "raamitud pildid",
+        "kangad",
+        "juhtmed",
+        "kaamera seade"
+      ],
+      "colorcodes": [
+        "#525252",
+        "#202020",
+        "#D0D0D0",
+        "#A0A0A0",
+        "#707070"
+      ],
+      "texts": [],
+      "persons": [
+        "kunstnik"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kaamera liigub üldplaanilt (esimene kaader) keskmisele plaanile (teine kaader) ja seejärel lähivõttele kunstnikust ja tema tegevusest (kolmas kaader), muutes vaatevälja ja fookuspunkti.",
+        "Kunstniku tegevus ja asend varieeruvad kaadrite vahel: esimeses kõnnib ta kruusiga, teises seisab ja vaatleb midagi töölaual ning kolmandas reguleerib pea kohal olevat seadet.",
+        "Valgustuse fookus muutub, kolmandas kaadris on see intensiivsemalt suunatud kunstniku tegevusele, mis viitab valgustuse reguleerimisele tema enda poolt.",
+        "Mõned objektid ja ruumidetailid on näha vaid teatud kaadrites kaamera liikumise tõttu (nt kolmandas kaadris kaamera rigi või valgustusseadme osa).",
+        "Kunstniku riietus näib olevat sama, kuid tema poos ja vaatenurk sellele riietusele muutuvad, pakkudes erinevaid vaateid tema tegevusele."
+      ],
+      "snr": "003",
+      "ajad": [
+        "17.240",
+        "32.920"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb kolmest järjestikusest kaadrist, mis kujutavad peaaegu täielikult musta ekraani. Esimesel ja teisel kaadril on näha väga peeneid, hajutatud heledaid terakesi või tolmuosakesi, mis annavad pildile kerge tekstuurse filmigraafika tunde pimedal taustal. Need terakesed on juhuslikult paigutatud ja vaevumärgatavad. Kolmas kaader on aga täiesti puhas ja ühtlaselt must, ilma igasuguste detailideta. Üldine mulje on minimalistlik ja abstraktne, vihjates pimedusele, tühjusele või üleminekule filmis.",
+      "actions": [],
+      "keywords": [
+        "pimedus",
+        "must",
+        "ekraan",
+        "filmigraanulid",
+        "tolm",
+        "abstraktne",
+        "minimalistlik",
+        "tühjus",
+        "varjud",
+        "üleminek"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000",
+        "#1A1A1A"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel ja teisel pildil on näha hajutatud heledaid terakesi või tolmuosakesi mustal taustal, andes edasi filmigraafika tekstuuri.",
+        "Kolmas pilt on täiesti puhas ja ühtlaselt must, ilma igasuguste detailideta."
+      ],
+      "snr": "004",
+      "ajad": [
+        "32.920",
+        "43.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kunstnikku, lühikeste heledate juustega naist, intensiivselt töötamas mehe savibüsti kallal. Tegevus toimub hämaralt valgustatud ateljees või töökojas, kus naine hoolikalt vormib ja silub savi. Ta on riietatud halli kampsunisse või pleedi musta särgi peal, mis sulandub kokku üldise tagasihoidliku koloriidiga. Büst on kujundatud realistlikult, näidates mehe näojooni ja detaile, mis viitavad portreele. Kunstnik on süvenenud oma loomingusse, tema pilk on suunatud skulptuurile, kui ta kätega savi ümber kujundab, püüdes tabada õiget vormi ja tekstuuri. Üldine õhkkond on rahulik ja keskendunud, rõhutades kunstilise loomingu protsessi.",
+      "actions": [
+        "Skulptor vormib savi",
+        "Skulptor silub savi",
+        "Skulptor puudutab savikuju",
+        "Skulptor töötab kunstiteose kallal"
+      ],
+      "keywords": [
+        "Skulptuur",
+        "Savi",
+        "Kunstnik",
+        "Ateljee",
+        "Portreebüst",
+        "Looming",
+        "Vormimine",
+        "Käsitöö"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Savi",
+        "Skulptuur (mehe büst)",
+        "Naine (skulptor)",
+        "Hall kampsun/pleed",
+        "Must särk",
+        "Sein",
+        "Tume taust"
+      ],
+      "colorcodes": [
+        "#A09E95",
+        "#8C8C8C",
+        "#1F1F1F",
+        "#C1C1C1",
+        "#1A1A1A"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (skulptor)",
+        "Mees (skulptuuri kujul)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on skulptor keskendunud kätele, töötades büsti alumise osa kallal ja tema pea on allapoole kallutatud.",
+        "Teisel pildil on skulptori parem käsi asetatud õrnalt büsti pea peale ja ta vaatab otse skulptuuri poole, pilk suunatud üles.",
+        "Kolmandal pildil liigub skulptori parem käsi üle büsti pea siluva või vormiva liigutusega ja tema käsi on kehast eemale sirutatud, pilk on endiselt suunatud skulptuurile, kuid pea on veidi püstisem."
+      ],
+      "snr": "005",
+      "ajad": [
+        "43.640",
+        "53.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist rannamaastikku või veekogu äärt, kus üksik inimfiguur liigub läbi madala vee. Esialgu on inimene osaliselt vees kükitavas või põlvitavas asendis, olles sügava pimeduse ja vee taustal peaaegu hoomamatu siluett. Edasi liigub ta aeglaselt veest välja, astudes mööda märga kallast või liivaranda. Vees ja märjal pinnal peegelduvad üksikud valguskiired, mis annavad edasi liikumise ja veepinna virvenduse. Kogu stseen on valdavalt pime, luues salapärase, mõtiskleva või isegi sünge meeleolu. Inimene jääb kogu aeg tumedaks siluetiks, mille detaile on raske eristada.",
+      "actions": [
+        "Vees seismine/kükitamine",
+        "Läbi vee kõndimine",
+        "Mööda randa kõndimine",
+        "Veest välja tulemine"
+      ],
+      "keywords": [
+        "Öö",
+        "Pimedus",
+        "Rand",
+        "Vesi",
+        "Siluett",
+        "Üksildus",
+        "Peegeldus",
+        "Salapärane",
+        "Sünge",
+        "Liikumine"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Vesi",
+        "Liiv",
+        "Lained"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#1a1a1a",
+        "#333333",
+        "#4c4c4c"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "85",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Inimene liigub stseeni jooksul veest välja ja edasi mööda kallast",
+        "Inimese asend muutub vees kükitavast asendist püstisemaks",
+        "Valguspeegeldused veepinnal ja märjal liival muutuvad järjest selgemaks ja intensiivsemaks",
+        "Kaamera nurk ja kaugus inimesest muutuvad kergelt, järgides tema liikumist",
+        "Vee ja liiva piirjoon muutub stseeni edenedes detailsemaks"
+      ],
+      "snr": "006",
+      "ajad": [
+        "53.800",
+        "85.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämaras valgustatud kunstiateljeed või tööruumi, kus noor inimene, kellel on lühikesed heledad sassis juuksed ja seljas hall mähkimisrõivas tumeda särgi peal, on süvenenud skulptuuri loomisse või parandusse. Paremal esiplaanil on näha kipsist või savist büst, mille pea ülaosa on veel töötlemata või kaetud tekstuurse materjaliga, samal ajal kui nägu on detailsemalt välja toodud. Tagaplaanil vasakul on ähmase kontuurina näha veel üks büst ja seinal ripub kaunis kunstiteos. Noor kunstnik vaatab keskendunult oma teost, hoides käes valget kangatükki, mis on kaetud valge jäägiga, andes mõista, et ta on just tegelenud modelleerimis- või puhastustööga. Üldine atmosfäär on vaikne ja loominguline, kerge melanhoolia hõnguga.",
+      "actions": [
+        "Töötab skulptuuri kallal",
+        "Vaatab skulptuuri",
+        "Hoiab valget lappi/materjali käes",
+        "Keskendub loomingulisele protsessile"
+      ],
+      "keywords": [
+        "Skulptuur",
+        "Ateljee",
+        "Kunstnik",
+        "Looming",
+        "Kips",
+        "Büst",
+        "Hämarus",
+        "Keskendunud",
+        "Portree",
+        "Käsitöö"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Noor inimene",
+        "Skulptuuripea/büst (eesplaanil)",
+        "Hall rõivas/hommikumantel",
+        "Valge lapp/materjal",
+        "Büst (taustal)",
+        "Sein",
+        "Pilt/raam seinal"
+      ],
+      "colorcodes": [
+        "#4D4D4D",
+        "#8F908F",
+        "#D6D6D6",
+        "#B2B2B2",
+        "#2D2D2D"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor kunstnik/skulptor"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil vaatab noor inimene allapoole, keskendudes millegi käes hoidmisele või ette. Tema nägu on varjus ja pilk suunatud eemale skulptuurist.",
+        "Teisel pildil on noor inimene pilgu tõstnud ja vaatab otse paremal asuva skulptuuri poole, näo peal on näha rohkem valgust ja ilme on mõtlikum või uurivam.",
+        "Kolmandal pildil hoiab noor inimene käes valget kangatükki, mis on tõenäoliselt kaetud kipsi või saviga, ja tema pilk on samuti suunatud skulptuuri poole. See kaader annab selge pildi käimasolevast tegevusest."
+      ],
+      "snr": "007",
+      "ajad": [
+        "85.800",
+        "91.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast tumedat, õues aset leidvat vaadet, kus esiplaanil on näha tagantpoolt tume, kapuutsiga või iseloomuliku terava mütsiga isiku siluett. Isiku kontuur on selgelt eristatav, riietus tundub olevat laiema jaki või rüüga. Ta seisab paigal ja vaatab paremale, eemale kaadrist. Taustal laiub rida raagus puid, mille oksad on selgelt näha, kuid mis on uduseks tehtud, luues sügavuse efekti. Maapind on tume ja määratlemata, sulandudes pilti. Üldine valguse tase on madal, viidates hämarale ajale või pilvisele ilmale. Stseen on üldiselt sünges ja salapärases meeleolus, peaaegu monokroomne tumedates toonides, rõhutades siluettide teravust.",
+      "actions": [
+        "Isik seisab",
+        "Isik vaatab eemale"
+      ],
+      "keywords": [
+        "Siluett",
+        "Tume",
+        "Süngus",
+        "Salapära",
+        "Kapuuts",
+        "Müts",
+        "Raagus puud",
+        "Hämarus",
+        "Talv",
+        "Õues",
+        "Inimfiguur",
+        "Vari",
+        "Melanhoolia",
+        "Öö"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Inimfiguur",
+        "Puud",
+        "Maapind",
+        "Taevas"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#2E2E2E",
+        "#444444"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 60,
+      "season": "winter",
+      "daytime": "evening",
+      "differences": [
+        "Pildid on identsed ja nende vahel puuduvad visuaalsed erinevused."
+      ],
+      "snr": "008",
+      "ajad": [
+        "91.840",
+        "94.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja vaikset maastikku, kus on näha üks inimfiguur, mis seisab tumedal taustal madala künka või kõrgendiku peal. Horisondi joonel on näha mitu suurt raagus puud, mis loovad sünged siluetid ja varjavad osaliselt heledamat taevast. Puude oksad on selgelt eristatavad, andes aimu nende struktuurist. Taevas on hallikas ja pilvine, pakkudes vaid nõrka hajameelset valgust, mis moodustab inimfiguuri ja puude taha heleda fooni. Esiväli, kusjuures künka ala ja selle esine maa, on peaaegu täielikult must, andes edasi sügavate varjude ja pimeduse tunde. Inimfiguur on samuti selge siluetina, mistõttu on võimatu tuvastada detaile riietuse, näo või vanuse kohta. Ta seisab paigal, vaadates vasakule. Üldmulje on melanhoolne, vaikne, üksildane ja veidi ähvardav, tekitades tunde külmusest ja tühjusest.",
+      "actions": [
+        "Inimfiguur seisab paigal"
+      ],
+      "keywords": [
+        "Hämarus",
+        "Vari",
+        "Siluett",
+        "Raagus puud",
+        "Üksildus",
+        "Melanhoolia",
+        "Pimedus",
+        "Vaikus",
+        "Maastik",
+        "Külm",
+        "Künkaserv"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Inimfiguur",
+        "Raagus puud",
+        "Pilvine taevas",
+        "Künkaserv",
+        "Maa"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#2c2c2c",
+        "#4f4f4f",
+        "#666666"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "autumn",
+      "daytime": "evening",
+      "differences": [],
+      "snr": "009",
+      "ajad": [
+        "94.920",
+        "95.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja süngelt mõjuvat välitingimustes toimuvat vaadet. Keskel seisab vaikselt üksik inimfiguur tumeda siluetina paljaste puude vahel, mis ulatuvad horisondini. Puud on ilma lehtedeta, vihjates hilissügisele või talvele. Taevas on pilvine ja hall, heites maastikule sünge valguse. Esiplaan on peaaegu täielikult must, luues sügavuse ja varjutades maapinna. Üldine atmosfäär on vaikne, veidi melanhoolne või mõtlik, andes edasi üksildase ja jaheda tunde. Inimfiguur seisab profiilis, vaadates vasakule.",
+      "actions": [
+        "inimfiguur seisab"
+      ],
+      "keywords": [
+        "süngus",
+        "vaikus",
+        "puud",
+        "siluett",
+        "hämarus",
+        "talv",
+        "sügis",
+        "mõtlik",
+        "inimfiguur",
+        "väljas",
+        "vari",
+        "tume",
+        "üksildus",
+        "külm"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "puud",
+        "inimfiguur",
+        "taevas",
+        "maa",
+        "horisont"
+      ],
+      "colorcodes": [
+        "#202020",
+        "#333333",
+        "#666666"
+      ],
+      "texts": [],
+      "persons": [
+        "üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "talv",
+      "daytime": "hämarik",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad erinevused, need on identsed kaadrid."
+      ],
+      "snr": "010",
+      "ajad": [
+        "95.440",
+        "102.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab siseruumi, kus vasakul kaadri keskel seisab mees, kes on üleni kaetud paksu savi- või mudakihiga, andes talle elava skulptuuri välimuse. Mehe juuksed, nägu ja riietus (mis näib olevat särk või jakk) on saviga kaetud, moodustades ebaühtlase ja tekstuurse pinna. Tema peas paistab olevat mingi side või savist vorming ning tal on habe. Ta vaatab pilguga vasakule, tema ilme on stoiline või mõtlik. Vasakul tagaplaanil on näha heledam sein, millel ripub raamitud pilt ja mille ees on laud või lett, kus asetseb mõni ese, näiteks mokakann või sarnane väike skulptuur ning veel üks raamitud pilt. Parempoolset kaadri osa täidab tume, läikiv ja peegeldav pind, mis on tõenäoliselt klaasist uks või suur aken, mille keskel on horisontaalne metallist tõkiskang. Klaaspinnal on näha kergeid peegeldusi või veepritsmeid. Üldine valgustus on hämar ja toonid on summutatud, peamiselt hallid ja pruunid, luues melanhoolse või müstilise atmosfääri.",
+      "actions": [
+        "Mees seisab paigal",
+        "Mees vaatab vasakule"
+      ],
+      "keywords": [
+        "savi",
+        "mudakuju",
+        "skulptuur",
+        "mees",
+        "siseruum",
+        "kunstistuudio",
+        "hämar",
+        "müstiline",
+        "kontemplatiivne",
+        "tume uks",
+        "tekstuurne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "saviahela mees",
+        "raamitud pilt",
+        "laud",
+        "mokakann",
+        "klaasist uks",
+        "metallist tõkiskang",
+        "sein"
+      ],
+      "colorcodes": [
+        "#808080",
+        "#A9A9A9",
+        "#36454F",
+        "#D3D3D3",
+        "#696969"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltidel ei ole märgatavaid erinevusi. Need on identsed kaadrid või väga lähedased hetked videost."
+      ],
+      "snr": "011",
+      "ajad": [
+        "102.720",
+        "105.280"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud habemega ja lokkis heledate juustega meest, kes kannab tumedat laia äärega mütsi ja tumedat jopet. Valgustus on äärmiselt hämar, luues süngust ja salapära. Mees vaatab otse ette või kergelt ülespoole. Esimesel kaadril on mehe nägu ja ülakeha paremini valgustatud ja detailsemalt nähtav. Järgmised kaadrid on peaaegu täielikult pimeduses, kus mehe näojooned on vaevu eristatavad, kolmandal pildil on näha tema nägu pimedusest välja kerkimas. Taust on suures osas must, esimesel kaadril on paremal pool aimatavad lehtede kontuurid, mis viitab välistingimustes toimuvale sündmusele.",
+      "actions": [
+        "Vaatamine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Öö",
+        "Mees",
+        "Müts",
+        "Habe",
+        "Hämarus",
+        "Salapära",
+        "Süngus",
+        "Portree",
+        "Välistingimustes"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "müts",
+        "jope",
+        "habe",
+        "lehed"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#7f644b",
+        "#2b2a2b"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on märkimisväärselt heledam ja detailsem kui kaks järgnevat. Teine ja kolmas pilt on peaaegu täielikult pimedad, kusjuures teisel pildil on inimkuju peaaegu nähtamatu ja kolmandal pildil on näha vaid mehe näo fragmendid, mis on suunatud ülespoole. Valgustus väheneb drastiliselt kaadrite järjestuses."
+      ],
+      "snr": "012",
+      "ajad": [
+        "105.280",
+        "107.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tumedas öises ümbruses asuvat inimfiguuri, kes vaatab üle õlgade ja puuokste moodsa hoone poole. Isik on kaamera poole seljaga, kandes tumedat kapuutsi või mütsi, mis katab pea ja osaliselt õlad, moodustades tumeda silueti. Tema siluett on esiplaanil, osaliselt varjatud tumedate puuokste ja lehtedega, mis loovad raamistuse ja lisavad stseenile sügavust. Taamal paistab uduselt heledalt valgustatud hoone, millel on suured aknad ja horisontaalsed valgusribad interjööris. Stseen on üldiselt pime ja hämar, rõhutades öist aega ning jättes vaatlejast salapärase ja jälgiva mulje. Valgusallikas pärineb peamiselt hoone seest, luues kontrastse fookuspunkti tumedale esiplaanile.",
+      "actions": [
+        "Vaatamine",
+        "Jälgimine",
+        "Seismine"
+      ],
+      "keywords": [
+        "Öö",
+        "Hämarus",
+        "Varjud",
+        "Siluett",
+        "Kapuuts",
+        "Puuoksad",
+        "Lehed",
+        "Hoone",
+        "Valgustatud interjöör",
+        "Vaatlus",
+        "Saladuslik",
+        "Pingeline"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Inimene",
+        "Kapuuts",
+        "Puuoksad",
+        "Lehed",
+        "Hoone",
+        "Aknad",
+        "Kunstlikud tuled"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#333333",
+        "#4a544b",
+        "#e0e0e0",
+        "#8f8f8f"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on näha väga peeneid nihkeid kaadri kompositsioonis, mis viitavad sellele, et tegemist on järjestikuste kaadritega videost. Need hõlmavad minimaalseid muutusi isiku pea asendis ja esiplaanil olevate puuokste paigutuses, kuid stseeni üldine meeleolu, valgustus ja elemendid jäävad identseks. Liikumine on nii tühine, et see on peaaegu märkamatult."
+      ],
+      "snr": "013",
+      "ajad": [
+        "107.360",
+        "115.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaadet vasakule käele ja käsivarrele sügavalt pimedas keskkonnas. Käsi on kahvatu, peaaegu valge või helehall, ja selle pinnal on näha peeneid mustreid või tekstuure, mis võivad viidata kindale, tätoveeringule või naha eripärale. Valgus on äärmiselt hämar, pärinedes vasakult ja valgustades peamiselt kätt ja käsivart. Ülejäänud stseen on peaaegu täielikult must. Käsivars on kaetud tumeda riideesemega, mis ulatub ülespoole, kadudes pimedusse. Käsi on randmest kergelt kõverdatud, sõrmed on loomulikult allapoole suunatud. Üldine meeleolu on salapärane ja melanhoolne.",
+      "actions": [
+        "Käsi püsib paigal",
+        "Käsi on kergelt kõverdatud"
+      ],
+      "keywords": [
+        "Pime",
+        "Käsi",
+        "Vari",
+        "Salapärane",
+        "Kahvatu",
+        "Tume",
+        "Lähivaade",
+        "Üksik",
+        "Meeleolu",
+        "Detail",
+        "Hämarus",
+        "Kindad"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [
+        "Käsi",
+        "Käsivars",
+        "Riietus",
+        "Varrukas",
+        "Kindad (võimalik)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#1a1a1a",
+        "#555555",
+        "#aaaaaa",
+        "#e0e0e0"
+      ],
+      "texts": [],
+      "persons": [
+        "Üksik isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Väiksed variatsioonid valguse ja varjude jaotumises käe pinnal, eriti sõrmenukkidel ja käeselja tekstuuril, mis võivad viidata õrnale liikumisele või valgustuse kõikumisele."
+      ],
+      "snr": "014",
+      "ajad": [
+        "115.680",
+        "119.320"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha detailne lähivaade skulptuurist või kujust, mis on kaetud paksu, hallikas-beeži massiga, mis meenutab savi, muda või krohvi. Materjal on ebaühtlaselt peale kantud, jättes mulje poolikust tööst või orgaanilisest, looduslikust materjalist. Skulptuur kujutab tõenäoliselt inimfiguuri, fookuses on parem käsi, mis ripub allapoole, ja figuuri külgmine osa. Materjalil on näha kortse ja ebakorrapärasusi ning kohati tilgub see, viidates selle märjusele või värskusele. Paremal pool on materjali sisse segatud oranikaid kiudusid või rohu moodi elemente, mis annavad skulptuurile tekstuurse ja orgaanilise ilme. Taust on udune ja tume, esitledes hämarat siseruumi, võimalik, et ateljee või töökoda, kus vasakul tagaplaanil on märgata raamitud pilti või sarnast eset. Valgus langeb skulptuurile peamiselt ülevalt vasakult, rõhutades selle vorme ja tekstuuri.",
+      "actions": [
+        "Skulptuuri moodustumine või kuivamine",
+        "Materjali tilkumine"
+      ],
+      "keywords": [
+        "Skulptuur",
+        "Savi",
+        "Krohv",
+        "Kunst",
+        "Ateljee",
+        "Hall",
+        "Orgaaniline",
+        "Tekstuur",
+        "Figuur",
+        "Niiske",
+        "Käsitöö"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Skulptuur",
+        "Savi/muda/krohv (materjal)",
+        "Orgaanilised kiud/rohi",
+        "Pildiraam (taustal)"
+      ],
+      "colorcodes": [
+        "#A6A6A0",
+        "#8B8B84",
+        "#6C6B66",
+        "#D4D1CB",
+        "#3D3A38"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kolmandas kaadris muutub vasakpoolses uduses tagaplaanis olev raamitud pilt või ese selgemalt eristatavaks võrreldes esimese kahe kaadriga. See viitab väga väikesele kaamera liikumisele või fookuse muutusele."
+      ],
+      "snr": "015",
+      "ajad": [
+        "119.320",
+        "125.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist vaadet läbi suure klaaspaneeli, mis pakub sügavaid peegeldusi. Valitseb tume ja sünge atmosfäär, mida valgustavad vaid üksikud kunstvalguse allikad. Paremal pool on näha siseruumi, mille tagaseinas on heledam uks. Peegelduses on näha ka kaugemaid valgusallikaid, mis viitavad välialale või paralleelsele ruumile. Läbi klaasi ja selle peegelduse on näha inimfiguuri, kes liigub paremalt vasakule. Isik on riietatud tumedatesse riietesse, mille alumises osas on ruuduline või kamuflaažitaoline muster. Tegelane kõnnib rahulikult, seljaga vaataja poole. Klaasi paremas servas on näha tumedat raami, mis annab aimu ruumi struktuurist. Põrand on tume ja peegeldav, lisades sügavust ja valguse mängu.",
+      "actions": [
+        "Inimene kõnnib",
+        "Valgused peegelduvad klaasil"
+      ],
+      "keywords": [
+        "Öö",
+        "Klaas",
+        "Peegeldus",
+        "Tumedus",
+        "Kunstvalgus",
+        "Inimfiguur",
+        "Koridor",
+        "Liikumine",
+        "Moodne arhitektuur"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Klaaspaneel",
+        "Inimene",
+        "Uks",
+        "Kunstvalgustid",
+        "Tumedad raamid",
+        "Põrand"
+      ],
+      "colorcodes": [
+        "#0A0A0A",
+        "#2C2C2C",
+        "#E0E0E0",
+        "#4B4B4B"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on inimene kaadri paremal poolel, seistes või alustades liikumist.",
+        "Teisel pildil on inimene liikunud veidi vasakule ja tema riietuse alumise osa ruuduline muster on selgemalt näha.",
+        "Kolmandal pildil on inimene liikunud veelgi vasakule, jäädes vasakule kaadri servale lähemal ja seljaga vaataja poole.",
+        "Siseruumi heledam uks on esimesel kahel pildil paremal tagaplaanil selgemalt näha, kolmandal on see inimese poolt varjatud või osaliselt kaadrist väljas."
+      ],
+      "snr": "016",
+      "ajad": [
+        "125.560",
+        "141.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest pimedas keskkonnas, kus tema nägu on osaliselt valgustatud vasakult poolt, jättes suurema osa varju. Mehel on habe ja ta kannab tumedat peakatet, mis katab osa tema peast. Tema pilk on suunatud ülespoole ja vasakule, mis annab talle tähelepaneliku, mureliku või ootava ilme. Pildi parem pool ja esiplaan on domineerivalt kaetud suure, fookusest väljas oleva tumeda massiga, mis võib olla teise isiku õlg või mõni muu lähedal asuv objekt, luues klaustrofoobilise ja pingelise tunde. Tagaplaan on udune ja pime, vihjates öisele ajale või väga hämarale ruumile, kus on vaid aimatavad heledamad kontuurid. Üldine atmosfäär on salapärane ja sume.",
+      "actions": [
+        "Tähelepanelik vaatamine",
+        "Pilgu suunamine üles-vasakule",
+        "Ootav või murelik hoiak"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Vari",
+        "Mees",
+        "Müts",
+        "Habe",
+        "Pinge",
+        "Öö",
+        "Tähelepanelik",
+        "Sume valgus",
+        "Salapärane",
+        "Klaustrofoobne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Mees (habemega)",
+        "Tume peakate",
+        "Tume rõivaese (kraena paistev)",
+        "Tundmatu tume objekt esiplaanil"
+      ],
+      "colorcodes": [
+        "#262626",
+        "#3d3b3c",
+        "#524f4e",
+        "#8f8f8f",
+        "#716e6f"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe näoilmes on märgata kergeid muutusi ja nihkeid kaadrite vahel, eriti silmade ja suu piirkonnas, mis annavad edasi minimaalse liikumise või pilgu suuna vähese muutuse.",
+        "Valguse ja varjude jaotumine mehe näol varieerub kaadrite vahel pisut, rõhutades kord üht, kord teist näo osa."
+      ],
+      "snr": "017",
+      "ajad": [
+        "141.920",
+        "144.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab naist siseruumis, ilmselt kunstiateljees, mis on hämaralt valgustatud. Naine, kellel on lühikesed, sassis, hallikablondid juuksed ja seljas hall kootud kampsun, vaatab intensiivselt jämedat, lõpetamata saviskulptuuri. Skulptuur on inimese büst või pea, valmistatud hallist savist, jämeda tekstuuri ja ilma detailsete näojooneta, säilitades toore ja orgaanilise vormi. Naise vasak käsi puudutab õrnalt skulptuuri pea külge, justkui viimistledes või tunnetades oma loomingut. Naise ilme on tõsine ja keskendunud, peegeldades süvenemist ja võimalikku melanhooliat või sisekaemust. Stseeni üldine meeleolu on vaoshoitud ja intiimne. Esimene kaader on digitaalselt rikutud ja näitab sama stseeni moonutatud kujul.",
+      "actions": [
+        "Naine puudutab saviskulptuuri",
+        "Naine vaatleb skulptuuri",
+        "Naine süveneb oma loomingusse"
+      ],
+      "keywords": [
+        "skulptuur",
+        "kunst",
+        "ateljee",
+        "savi",
+        "naine",
+        "süvenemine",
+        "intiimne",
+        "melanhoolia",
+        "hall",
+        "looming",
+        "portreebüst"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "naine",
+        "saviskulptuur",
+        "kootud kampsun",
+        "hall taust"
+      ],
+      "colorcodes": [
+        "#777777",
+        "#8e8e8e",
+        "#4a4a4a",
+        "#6e6b66"
+      ],
+      "texts": [],
+      "persons": [
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on digitaalselt moonutatud ja pikseldatud, näidates vertikaalseid triipe ja segast kujutist, samas kui teine ja kolmas pilt on selged ja teravad. Teise ja kolmanda pildi vahel olulisi erinevusi ei ole, need on praktiliselt identsed, kujutades sama stseeni erinevate kaadritena või sama kaadrit ilma esimese pildi moonutusteta."
+      ],
+      "snr": "018",
+      "ajad": [
+        "144.800",
+        "152.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab intiimset hetke siseruumides, tõenäoliselt kunstiateljees või stuudios. Pildi keskel on kaks figuuri: üks inimene, keda näeme tagantvaates ja kellel on sassis heledad juuksed ning seljas hele kampsun, ja teine figuur, mis meenutab elavat skulptuuri. See teine figuur on meesterahvas, kaetud üleni helehalli savi- või kipsilaadse materjaliga, sealhulgas tema nägu, pea ja riietus. Tema silmad on suletud või allapoole vaatamas ning tal on skulptuurmaterjalist moodustatud habe. Elusa inimese käsi puudutab õrnalt skulptuuri põske, andes edasi helluse, uurimise või loomise tunde. Taustal paistab suur aken, millest on näha vihmasadu ja pimedat ööd väljaspool. Ruumi valgustus on hämar, luues sügava ja mõtiskleva atmosfääri.",
+      "actions": [
+        "Skulptuuri põse puudutamine",
+        "Skulptuuri vaatlemine/uurimine",
+        "Käe liigutamine skulptuurilt eemale"
+      ],
+      "keywords": [
+        "Skulptuur",
+        "Kips",
+        "Savi",
+        "Ateljee",
+        "Loomeprotsess",
+        "Intiimne",
+        "Öö",
+        "Vihm",
+        "Puudutus",
+        "Mõtisklus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimene (tagantvaates)",
+        "Kipsist/savist kaetud inimfiguur/skulptuur",
+        "Aken",
+        "Vihmapiiskad",
+        "Kampsun",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#A19D90",
+        "#959387",
+        "#534F47",
+        "#9E9A8E",
+        "#343330"
+      ],
+      "texts": [],
+      "persons": [
+        "Elus inimene (tagantvaates)",
+        "Savi- või kipsikujundis meesfiguur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel ja teisel pildil puudutab elusa inimese käsi savikujundi paremat põske, samal ajal kui kolmandal pildil on käsi põselt eemaldunud ja asub veidi allpool.",
+        "Skulptuuri habeme ja lõua piirkond paistab kolmandal pildil veidi teravamalt ja detailsemalt esile, võrreldes esimese ja teise pildiga, kus see on ühtlasem."
+      ],
+      "snr": "019",
+      "ajad": [
+        "152.400",
+        "155.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab minimalistlikku, sünget ja modernse hõnguga siseruumi, mis meenutab koridori või kitsast läbipääsu. Seinad ja põrand on hallikasmustad, tekstuuriga, mis viitab betoonile või sarnasele tööstuslikule materjalile. Valgusallikas on kitsas, erevalge joon, mis algab põrandalt ja tõuseb terava nurgaga mööda seina üles, luues dramaatilise kontrasti ümbritseva pimedusega. See valgusallikas on stseeni keskpunkt, andes ruumile futuristliku või steriilse ilme. Põrand on jaotatud suurteks paneelideks. Ühes kaadris ilmub vasakust alumisest nurgast kaadri sisse tumedatesse riietesse rõivastatud inimese käsi, mis möödub valgusallikast, pakkudes lühikese inimliku elemendi muidu tühjas ja jahedas keskkonnas. Üldine meeleolu on salapärane ja rõhutab valguse ja varju mängu.",
+      "actions": [
+        "Käsi ilmub kaadrisse",
+        "Käsi liigub valgusriba läheduses"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Valgus",
+        "Kontrast",
+        "Minimalism",
+        "Koridor",
+        "Betoon",
+        "Tööstuslik",
+        "Sünge",
+        "Salapärane",
+        "Futuristlik"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Valgusriba",
+        "Seinad",
+        "Põrand",
+        "Inimese käsi",
+        "Tume riietus"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#0A0A0A",
+        "#8C8C8C",
+        "#3C3C3C"
+      ],
+      "texts": [],
+      "persons": [
+        "Isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil ilmub kaadri vasakust servast nähtavale tumedatesse riietesse rõivastatud inimese käsi, mis osaliselt katab valgusriba.",
+        "Esimene ja kolmas pilt on identsed, näidates tühja koridori koos valgusribaga."
+      ],
+      "snr": "020",
+      "ajad": [
+        "155.760",
+        "159.760"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaates heledal pinnal toimuvat tegevust, kus käsitletakse tumedat pulbrilist ainet. Alguses on pinnal näha vaid üksikuid tumedaid terakesi. Seejärel asetatakse pinnale tume, kottjas või jalanõud meenutav ese, mis on kaetud või täidetud musta pulbrilise ainega, näiteks tuhaga või mullaga. Eseme liigutamisel pudeneb ainet aluspinnale laiali. Lõpuks ese eemaldatakse, jättes maha selge kuhja ja laialipudenenud tumeda aine jäljed, mis näitavad, kus ese asus. Valgustus on üldiselt hämar ja summutatud, rõhutades kontrasti heleda pinna ja tumeda aine vahel ning luues intiimse ja mõtliku atmosfääri.",
+      "actions": [
+        "Millegi asetamine pinnale",
+        "Pulbri või mustuse pudenemine",
+        "Eseme eemaldamine pinnalt"
+      ],
+      "keywords": [
+        "tuhk",
+        "tolm",
+        "pulber",
+        "mustus",
+        "pind",
+        "jälg",
+        "kontrast",
+        "hämarus",
+        "ese"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "hele pind",
+        "tume ese",
+        "must pulber/tuhk/pinnas"
+      ],
+      "colorcodes": [
+        "#414141",
+        "#A8A8A8",
+        "#252525",
+        "#5A5A5A"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on heledal pinnal vaid üksikud tumedad terad ja taustal ähmane kuju, mis on asetumas pinnale.",
+        "Teisel pildil on tume, mustust täis ese asetatud pinnale, millelt pudeneb ainet maha.",
+        "Kolmandal pildil on ese eemaldatud, jättes maha märkimisväärse koguse pulbrit ja selle asukoha jälje heledale pinnale."
+      ],
+      "snr": "021",
+      "ajad": [
+        "159.760",
+        "161.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt inimese jalgu ja labajalgasid, kes on tumedates saabastes, astumas üles mööda jämedast betoonist treppi. Üldine atmosfäär on sünge ja monokroomne, hallides toonides, mis rõhutavad trepi ja seda ümbritseva seina robustset ja töödeldamata tekstuuri. Valgus langeb ülalt, luues trepiastmetele varjud ja esile tuues pinna ebaühtluse. Trepiastmed on laiad ja lihtsa disainiga, samuti betoonist. Paremal näha olev betoonsein on tekstureeritud, pakkudes karmi tausta ülespoole liikumisele.",
+      "actions": [
+        "Trepist üles astumine",
+        "Jalgade liigutamine",
+        "Sammude tegemine",
+        "Kõndimine"
+      ],
+      "keywords": [
+        "Trepp",
+        "Betoon",
+        "Saapad",
+        "Jalad",
+        "Ülesminek",
+        "Siseruum",
+        "Hallid toonid",
+        "Monokroomne",
+        "Jäme tekstuur",
+        "Liikumine",
+        "Varjud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Trepp",
+        "Betoonist astmed",
+        "Betoonsein",
+        "Inimese jalad",
+        "Saapad",
+        "Püksisäär"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#404040",
+        "#808080",
+        "#505050",
+        "#A0A0A0"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 5,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel on näha astmete ülespoole liikumist ja jalgade asendi muutumist, mis illustreerib trepist üles kõndimise järkjärgulist tegevust.",
+        "Esimesel pildil on vasak jalg kõrgemal astmel ja parem jalg selle all, astmetel.",
+        "Teisel pildil on vasak jalg veelgi kõrgemal ja parem jalg hakkab madalamalt astmelt üles tõusma, olles õhus.",
+        "Kolmandal pildil on parem jalg jõudnud kõrgemale astmele, vasak jalg on nüüd osaliselt kaadrist väljas ja trepiastmed on tervikuna kõrgemale nihkunud, näidates liikumist ülespoole."
+      ],
+      "snr": "022",
+      "ajad": [
+        "161.880",
+        "165.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kunstniku ateljeed või skulptuuristuudiot siseruumides, kus valitseb hämar valgustus, mis annab märku õhtust või ööst. Keskel on näha skulptor, kes töötab suure, realistliku, potentsiaalselt savist või kipsist mehekujuga. Skulptuur kujutab istuvat vanemat meest, kes on kaetud drapeeritud kangaga, ja mille alus on veel töötlemata ja reljeefne. Skulptori selja taga vasakul on suur valgusti, mis valgustab tööala. Ruumi vasakus servas on riiulid väiksemate skulptuuride või vormidega ning töölaud. Paremal ees ja tagapool on näha neli tumeda kangaga kaetud figuuri, mis lisavad stseenile müstilise või piduliku tunde. Paremal akna taga on näha tume öine maastik või teine hoone. Üldine värvigamma on monokroomne, domineerivad hallid, valged ja mustad toonid, millele annab valgusti kerge sooja tooni.",
+      "actions": [
+        "Skulptor modelleerib ja viimistleb suure skulptuuri detailsemaid osi.",
+        "Skulptor hoiab käes tööriista või vormib savi paljaste kätega.",
+        "Valgusti valgustab tööala, luues varjude ja valguse mängu."
+      ],
+      "keywords": [
+        "Skulptuuristuudio",
+        "Kunstiateljee",
+        "Skulptor",
+        "Kunstnik",
+        "Savi",
+        "Skulptuur",
+        "Modelleerimine",
+        "Kunstiteos",
+        "Töötuba",
+        "Valgustus",
+        "Hämarus",
+        "Halltoonid",
+        "Müstiline",
+        "Loominguline"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Suur mehe kuju (skulptuur)",
+        "Skulptor (inimene)",
+        "Põrandalamp/softbox",
+        "Riiulid",
+        "Väiksemad skulptuurid/vormid riiulitel",
+        "Neli kangaga kaetud figuuri",
+        "Ämber",
+        "Töölaud",
+        "Aken",
+        "Jalgratas (osaliselt nähtav vasakul)"
+      ],
+      "colorcodes": [
+        "#6D6A67",
+        "#2E2D2B",
+        "#D9D1C9",
+        "#FEFAF5",
+        "#4B4A48"
+      ],
+      "texts": [],
+      "persons": [
+        "Skulptor",
+        "Neli kangaga kaetud figuuri (potentsiaalselt inimesed või mannekeenid)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Skulptori käe asend muutub iga kaadriga. Esimesel pildil on käsi pea juures, teisel pildil on käsi liikunud veidi allapoole näo piirkonda ja kolmandal pildil veelgi allapoole rinnapiirkonda, viidates aktiivsele tööprotsessile.",
+        "Väikesed detailid ja varjud skulptuuri pinnal võivad olla muutunud vastavalt skulptori tegevusele ja vaatenurgale kaadrite vahel."
+      ],
+      "snr": "023",
+      "ajad": [
+        "165.680",
+        "172.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sünget ja hämaralt valgustatud siseruumi. Kaadri paremal poolel on näha inimese käsi, mis on esmalt surutud tumedahalli, kareda tekstuuriga pinna, tõenäoliselt betoonseina vastu. Käelaba peal on märkimisväärne kogus heledat pulbrilist ainet, mis võib olla tuhk või tolm. Stseeni arenedes libiseb käsi aeglaselt allapoole ja veidi paremale, määrides jääke mööda tumedat pinda laiali ja jättes selge jälje. Käe liikumine annab edasi viimase puudutuse, hüvastijätu või meeleheite tunde. Kaadri vasakut poolt domineerib sügav vari, millest paistab vaevu inimese pea ja õla siluett, rõhutades hetke intiimsust ja sisekaemuslikkust. Üldine meeleolu on vaikne, mõtisklev või kurb, mida võimendab minimaalne valgustus ja summutatud värvipalett.",
+      "actions": [
+        "Käe asetamine karedale pinnale",
+        "Jääkide määrimine mööda seina",
+        "Käe libistamine allapoole",
+        "Jälje jätmine"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Käsi",
+        "Mustus",
+        "Tuhk",
+        "Tekstuur",
+        "Liikumine",
+        "Jälg",
+        "Meeleheide",
+        "Hüvastijätt",
+        "Sünge"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese käsi",
+        "Sein",
+        "Tuhk/mustus"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#394249",
+        "#6d7b80",
+        "#5a646c"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimeses kaadris on käsi paigal ja peopesal on selgelt nähtav pulbri kogum. Sõrmed on kergelt laiali.",
+        "Teises kaadris on käsi hakanud allapoole ja veidi paremale liikuma. Pulber on hakanud määrduma ja peopesal olev muster on vähem selge, rohkem laiali. Sõrmed on veidi rohkem koos.",
+        "Kolmandas kaadris on käsi liikunud veelgi allapoole ja paremale, peaaegu kaadrist välja. Pulber on nüüd laialdaselt mööda seina ja kätt laiali määritud, jättes selge vedamisjälje. Pulbri kuju käel on peaaegu kadunud, asendunud laialivalgunud plekiga. Käsi on vähem selgelt defineeritud seina taustal."
+      ],
+      "snr": "024",
+      "ajad": [
+        "172.960",
+        "175.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämaralt valgustatud sisekeskkonda, kus noor inimene, kellel on sasitud helepruunid juuksed ja hall kampsun, on süvenenult hõivatud savist büsti vormimisega. Noore inimese nägu on paremal pool profiilis ja nad vaatavad keskendunult käsilolevat tööd. Vasakul pool on detailselt näha valmistatav saviskulptuur, mis kujutab täiskasvanud mehe pead ja õlgu, kaetud märja saviga ning äratuntavate näojoonte ja riietuse detailidega. Lisaks noorele kunstnikule ja büstile on stseenis näha ka taustal varjus seisvaid täiskasvanud inimfiguure. Ühel tagaplaani figuuril on selgelt eristatav müts ja mantel. Üldine atmosfäär on vaikne ja keskendunud, valguse ja varjude mäng loob dramaatilise ja intiimse meeleolu, mis ühtaegu rõhutab loomingut ja vihjab varjatud jälgijatele.",
+      "actions": [
+        "Vormimine",
+        "Keskendumine",
+        "Loomine",
+        "Vaatlemine"
+      ],
+      "keywords": [
+        "Skulptuur",
+        "Savi",
+        "Kunst",
+        "Ateljee",
+        "Portree",
+        "Hämarus",
+        "Keskendumine",
+        "Looming",
+        "Varjud",
+        "Kunstnik",
+        "Büst"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Savibüst",
+        "Kampsun",
+        "Müts",
+        "Mantel"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#736C64",
+        "#948C7E",
+        "#777A7D",
+        "#96918D"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor inimene",
+        "Täiskasvanud mehe büst",
+        "Kaks täiskasvanud inimfiguuri (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 55,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene ja teine pilt on peaaegu identsed, näidates noort inimest skulptuuri kallal töötamas fookuses.",
+        "Kolmandal pildil on fookus nihkunud büsti taustale, mis on eesplaanil hägune. Tagaplaanil on näha kaks varjus täiskasvanud inimfiguuri, kes eelmistel piltidel puudusid või olid varjus peidus.",
+        "Kolmandal pildil on üldine valgustus veelgi tumedam ja taust on sügavamalt must, rõhutades tagaplaani figuuride varjulisust."
+      ],
+      "snr": "025",
+      "ajad": [
+        "175.440",
+        "184.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab öist välisvaadet modernsele hoonele, mis on osaliselt varjatud tiheda ja tumeda puude ning põõsaste lehestikuga. Esiküljel ja külgedel on näha tumedaid, siluettidena eristuvaid puid ja nende oksi, mis loovad varjulise ja veidi salapärase raami pildile. Hoone on valge või heledatooniline, iseloomulike suurte klaasakendega, millest paistab sisemine kollakasvalge valgustus. Keskel, hoone alumises osas, on näha klaasist uks, mille kohal helendab selge sinine evakuatsioonimärk. Üldine valgusolukord on pime, esile kerkivad hoone valgustatud alad ja sinine märk, pakkudes tugevat kontrasti ümbritseva pimedusega. Lehestik on tihe ja tundub olevat täislehes, viidates soojemale aastaajale. Maapind ja taevas on ühtlaselt tumedad, lisades stseenile sügavust ja rahu.",
+      "actions": [],
+      "keywords": [
+        "Öö",
+        "Hoone",
+        "Puud",
+        "Põõsad",
+        "Lehestik",
+        "Vari",
+        "Valgus",
+        "Modernne",
+        "Arhitektuur",
+        "Välisvaade",
+        "Hämarus",
+        "Klaas",
+        "Evakuatsioonimärk"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Puud",
+        "Põõsad",
+        "Lehestik",
+        "Hoone",
+        "Aknad",
+        "Uks",
+        "Valgustus",
+        "Evakuatsioonimärk"
+      ],
+      "colorcodes": [
+        "#1c1c1c",
+        "#f0f0d0",
+        "#007bff",
+        "#a0a0a0"
+      ],
+      "texts": [
+        "Evakuatsioonimärk (tekst pole loetav)"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "spring, summer or autumn",
+      "daytime": "night",
+      "differences": [
+        "Pildid on identsed, märgatavaid erinevusi ei ole."
+      ],
+      "snr": "026",
+      "ajad": [
+        "184.560",
+        "190.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaadet munakivitänavale linnas või asulas hallil ja pilvisel päeval. Tänav lookleb vasakule kaardudes kaugusesse. Vasakul pool tänavat ääristavad vanemad, tagasihoidlikud ühekorruselised hooned. Need on valdavalt heledamates toonides, näiteks pruunikast puidust või heledast krohvist seintega, andes neile ajaloolise ja veidi räsitud ilme. Paremal pool tänavat domineerivad aga hiljuti renoveeritud või modernse disainiga hooned, mis pakuvad teravat kontrasti. Esiplaanil on silmatorkav hoone, millel on tume, tõenäoliselt kiltkivi- või plaatkatusega viilkatus ja mustast puidust või laudisest fassaad. Selle hoone esiküljel on näha ka valget krohvitud sektsiooni, mille all on hallidest kividest laotud müür. Valgel fassaadil on väike punane number 28. Müür jätkub edasi paremale ja selle taga paistab must metallist värav. Hoone paremal serval on näha klassikalise disainiga tänavalatern. Parema poole hoonete taga paistab veel sarnase tumeda fassaadiga hoone. Taustal ja üle kogu stseeni on näha paljaid, lehtedeta puid, mis viitavad hilissügisele või talvele. Üldine õhkkond on rahulik ja vaikne, ilma inimesteta, rõhutades ajaloolise ja modernse arhitektuuri kooseksisteerimist. Taevas on ühtlaselt hall ja pilvine, valgustus on pehme ja hajutatud.",
+      "actions": [],
+      "keywords": [
+        "linnatänav",
+        "munakivitee",
+        "ajalooline arhitektuur",
+        "modernne arhitektuur",
+        "kontrast",
+        "sügis",
+        "talv",
+        "pilvine ilm",
+        "paljad puud",
+        "vaikne",
+        "must",
+        "valge",
+        "hall"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "munakivid",
+        "hooned",
+        "puud",
+        "tänavalatern",
+        "kiviaed",
+        "raudvärav"
+      ],
+      "colorcodes": [
+        "#2B2B2B",
+        "#FFFFFF",
+        "#8C8C8C",
+        "#A6A6A6",
+        "#B0927C",
+        "#4A4A4A"
+      ],
+      "texts": [
+        "28"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [],
+      "snr": "027",
+      "ajad": [
+        "190.840",
+        "194.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab modernset hoonekompleksi väljastpoolt pilvise päevaga. Pildi vasakul poolel on näha tumedat, lainelise mustriga kivikatus, mille sisse on integreeritud katuseaknad. Katuse all paikneb lame, tumeda halli betoonist või sarnasest materjalist terrass või varikatus, mida ääristab lihtne must metallist käsipuu. Terrassi all on laiad aknad, mis viivad hoonesse, ühel aknaklaasil on näha valget paberitükki. Pildi paremal poolel domineerib hoone vertikaalne sein, mis on kaetud tumedate, lapikute ja üksteist katvate plaatidega, luues modernse ja struktuurse ilme. Tagaplaanil on näha raagus puid heleda, ühtlaselt halli taeva taustal, mis viitab külmale aastaajale. Üldine värvigamma on tume ja monokroomne, domineerivad hallid ja mustad toonid.",
+      "actions": [],
+      "keywords": [
+        "Arhitektuur",
+        "Modernne hoone",
+        "Katus",
+        "Terrass",
+        "Katuseaken",
+        "Hallid toonid",
+        "Pilvine ilm",
+        "Talv",
+        "Väliküljeldis",
+        "Minimalistlik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone",
+        "Katus",
+        "Katuseaknad",
+        "Terrass",
+        "Käsipuu",
+        "Aknad",
+        "Seinakatted",
+        "Puud",
+        "Paber"
+      ],
+      "colorcodes": [
+        "#4C4E4F",
+        "#2E3031",
+        "#AAB1B4",
+        "#C8CACB",
+        "#D8D7D6"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [],
+      "snr": "028",
+      "ajad": [
+        "194.640",
+        "199.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaadet läbi klaasi, mis ühendab ja samal ajal eraldab kahte erinevat keskkonda: vihmast välismaailma ja modernset siseruumi. Klaasi pinnalt peegeldub vana, hallist kivist hoone, millel on mitu akent ja väljastpoolt üles viiv metalltrepp. Hoone jätab mahajäetud või renoveerimisjärgus mulje. Klaasil on näha ohtralt vihmapiiskasid, mis rõhutavad sajuse ilma olemasolu. Klaasi taga, siseruumis, on näha kaasaegset, minimalistlikku disaini: hall betoonsein, mille küljes on elegantsed, justkui õhus hõljuvad betoonist trepiastmed. Trepi ülemises osas on näha metallist käsipuud. Üldine meeleolu on kontemplatiivne ja veidi melanhoolne, rõhutades vana ja uue, välise ja sisemise vahelisi kontraste.",
+      "actions": [
+        "puuduvad"
+      ],
+      "keywords": [
+        "peegeldus",
+        "klaas",
+        "vihm",
+        "betoonist trepp",
+        "vana hoone",
+        "kaasaegne disain",
+        "kontrast",
+        "arhitektuur",
+        "linnavaade",
+        "melanhoolia",
+        "minimalism"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "klaasaken",
+        "vihmapiiskad",
+        "vana kivimaja",
+        "metalltrepp (väline)",
+        "betoontrepp (sisemine)",
+        "betoonsein",
+        "metallist käsipuu",
+        "põrand (peegelduses)"
+      ],
+      "colorcodes": [
+        "#6C6C6C",
+        "#BFBFBF",
+        "#8C8C8C",
+        "#A0A0A0",
+        "#3A3A3A",
+        "#C0C0C0"
+      ],
+      "texts": [
+        "puuduvad"
+      ],
+      "persons": [
+        "puuduvad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad erinevused, tegemist on identsete kaadritega."
+      ],
+      "snr": "029",
+      "ajad": [
+        "199.960",
+        "202.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kaasaegset, minimalistliku disainiga sisekoridori või fuajeed. Vasakul pool on pikad, maast laeni aknad, millel on vertikaalsed tumedad metallist raamid või ribid. Akende tagant paistab väline sisehoov või teine hoone, mille ees on näha mõningast taimestikku. Akende all maapinnal on kollane teip või märgistus, mis võib viidata piirangualale. Koridori põrand on helehallist, läikivast materjalist, ilmselt poleeritud betoonist. Parempoolne sein on viimistletud toore betooniga, millel on näha tekstuuri ja tumedamaid laike. Sellel seinal ripub musta raamiga pilt või kunstiteos. Pildi all on kaks valget, ristkülikukujulist postamenti. Lagi on valge ja tasane, mille keskelt jookseb pikk valgusti, mis koosneb spiraalsetest või lainelistest halli/hõbedase värvi elementidest. Koridori lõpus on topeltklaasuks, mis viib bürooruumi. Läbi klaasuste on näha mitu kontoritooli, lauda ja arvatavasti monitore, mis viitab aktiivsele tööruumile. Ukse lähedal on ka riidepuu. Üldmulje on puhas, avar ja tööstusliku hõnguga.",
+      "actions": [],
+      "keywords": [
+        "Kaasaegne",
+        "minimalistlik",
+        "koridor",
+        "büroo",
+        "betoon",
+        "klaas",
+        "metall",
+        "avarus",
+        "tööstuslik",
+        "puhas",
+        "hele",
+        "sisehoov",
+        "kunst"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Aken",
+        "klaasuks",
+        "betoonsein",
+        "põrand",
+        "laevalgusti",
+        "pilt",
+        "postament",
+        "bürootoolid",
+        "büroolauad",
+        "monitorid",
+        "nag",
+        "aknarehv",
+        "kollane teip"
+      ],
+      "colorcodes": [
+        "#9e9e9e",
+        "#c3c3c3",
+        "#6b6b6b",
+        "#f0f0f0",
+        "#f8e100",
+        "#ffffff",
+        "#2a2a2a",
+        "#888888"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "030",
+      "ajad": [
+        "202.640",
+        "205.960"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha betoonseinal rippuv kolmeosaline kunstiteos ehk triptühhon. Teos koosneb kolmest vertikaalsest paneelist, mis on ühendatud musta raamiga. Vasakpoolsel paneelil on kujutatud maja uduselt ja tuhmunult, peaaegu nagu kummituslik vari heledal taustal. Keskmisel paneelil on heledal, kergelt roheka varjundiga taustal sügavmust ristkülik, mis viitab maja abstraktsioonile või selle puudumisele. Parempoolne paneel kujutab aga selgelt ja detailselt väikest valget maja, millel on tume katus ja lahtine uks. Maja näib hõljuvat beežil taustal. Kogu teos on paigutatud lihtsale, tekstuuriga hallile betoonseinale, mis loob minimalistliku ja kaasaegse keskkonna. Valgus on ühtlane ja pehme, tuues esile teose nüansid ja seina robustse tekstuuri.",
+      "actions": [],
+      "keywords": [
+        "kunstiteos",
+        "triptühhon",
+        "maal",
+        "maja",
+        "abstraktsioon",
+        "betoonsein",
+        "minimalism",
+        "hall",
+        "must",
+        "valge",
+        "arhitektuur",
+        "interjöör"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "maal",
+        "triptühhon",
+        "pildiraam",
+        "maja",
+        "aken",
+        "uks",
+        "katus",
+        "betoonsein"
+      ],
+      "colorcodes": [
+        "#878787",
+        "#DCDCDC",
+        "#1D1E1E",
+        "#F0F0F0",
+        "#CFCFCF",
+        "#0F0F0F",
+        "#E0DCCD"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on veidi sisse suumitud, keskendudes rohkem triptühhoni parempoolsele ja keskmisele osale ning näidates vähem vasakut külge ja seina tervikut.",
+        "Teine ja kolmas pilt on laiemad kaadrid, mis hõlmavad tervet kolmeosalist kunstiteost, sealhulgas vasakpoolset paneeli, ja näitavad rohkem ümbritsevat betoonseina."
+      ],
+      "snr": "031",
+      "ajad": [
+        "205.960",
+        "211.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt vaadet määrdunud helehallile betoonpõrandale. Esiplaanil, keskfookuses, on näha pikali asetsev nuga või spaatel, mille tera on kergelt määrdunud ja käepide on heledast beežikas-hallikast materjalist. Noa vasakul poolel, selle läheduses, on väike hallikas-valge kandiline kustutuskumm. Põrand on kaetud tolmu ja väikeste pruunikate osakestega, andes üldmulje hooletusest, stuudiost või töökohast. Taustal, uduseks jäänud, on virn takerdunud, pruunikashalli värvi võrgulaadset materjali, mis meenutab kalavõrku või punutud nööri, ning suur heledat värvi objekt, mis paistab olevat mingi vorm, skulptuur või purunenud ese. Valgus on ühtlane, viitades siseruumile.",
+      "actions": [
+        "Objektid lebavad põrandal"
+      ],
+      "keywords": [
+        "Betoonpõrand",
+        "Nuga",
+        "Spaatel",
+        "Kustutuskumm",
+        "Mustus",
+        "Tolm",
+        "Võrk",
+        "Skulptuur",
+        "Siseruum",
+        "Hall",
+        "Määrdunud",
+        "Ateljee"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Nuga",
+        "Spaatel",
+        "Kustutuskumm",
+        "Betoonpõrand",
+        "Võrk",
+        "Nöör",
+        "Skulptuur",
+        "Ese",
+        "Tolm",
+        "Praht"
+      ],
+      "colorcodes": [
+        "#949494",
+        "#C8C8C8",
+        "#E2E2E2",
+        "#766657",
+        "#8C8C8C"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad erinevused."
+      ],
+      "snr": "032",
+      "ajad": [
+        "211.000",
+        "214.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab detailset vaadet kunstiateljees asuvale skulptuurile, mis on kaetud paksu, valge ja tekstuurse krohvisarnase materjaliga. Skulptuur on inimese figuurist, keskendudes detailsemalt paremale käele ja käevarrele. Käsi on kergelt rusikas asendis, sõrmed on nähtavad, ja käevarrel on näha varruka volt. Kogu pind on kare ja ebaühtlane, paljude tilkade ja ebakorrapäraste mummudega, mis annavad skulptuurile orgaanilise ja veidi räsitud ilme. Skulptuuri paremal küljel, valge massi sees, on märgata õrnu, valgeid, sulgjaid või niitjaid elemente. Alumisel poolel paistab valge materjali alt kohati läbi tumedam, beežikas-pruunikat tooni algmaterjal või alus. Taust on sügavusfookusest väljas ja udune, vihjates ateljeekeskkonnale. Vasakul on selgelt eristatav must statiiv, tõenäoliselt molberti või kaamera jaoks. Tagapool on näha riiuleid, kus on hoiul teisi esemeid, ilmselt kunstivahendeid või pooleliolevaid töid. Valgus on pehme ja hajutatud, esile tuues krohvipinna tekstuuri ja varjundeid. Stseen on rahulik ja keskendunud kunstilisele loomingule.",
+      "actions": [
+        "Kunstiteose loomine (kaudselt)",
+        "Kunstiteose vaatlemine"
+      ],
+      "keywords": [
+        "Skulptuur",
+        "Ateljee",
+        "Kunst",
+        "Krohv",
+        "Tekstuur",
+        "Figuur",
+        "Käsi",
+        "Valge",
+        "Stuudio",
+        "Detail",
+        "Kunstilooming"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Skulptuur",
+        "Käsi",
+        "Käevarre varrukas",
+        "Krohvitud materjal",
+        "Statiiv",
+        "Riiulid",
+        "Kunstiesemed"
+      ],
+      "colorcodes": [
+        "#E0E0E0",
+        "#A0A0A0",
+        "#8B7355",
+        "#404040"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevusi piltide vahel pole."
+      ],
+      "snr": "033",
+      "ajad": [
+        "214.160",
+        "216.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laiaulatuslikku kunstistuudiot või töökoda, mis on täidetud mitmesuguste skulptuuride ja kunstitarvetega. Ruumi paremat külge domineerib suur aken, mis avaneb pilvisele välisilmale, kus on näha raagus puid ja teise hoone katust, viitades jahedamale aastaajale. Akna all on rõdupiire. Esiplaanil paremal seisavad kaks pikka, vertikaalset, halli värvi skulptuuri, mis on kaetud või vormitud drapeeringutega, andes neile murenenud või kivise tekstuuri. Lähem skulptuur on laiem ja robustsem. Nende vahel asub tumesinine tool, millel on lohakalt asetatud valge riidetükk. Stseeni vasakpoolses osas on näha mitmeid stuudiovahendeid, sealhulgas mustad statiivid ja valgustid, mis viitavad fotografeerimisele või filmimisele. Keskel vasakul seisab detailne valge skulptuur, mis kujutab eakat meest, peas must müts ja seljas rikkalikult drapeeringutega riietus, mis alumises osas laieneb justkui ebakorrapäraseks pinnaseks. Tagaplaanil vasakul on veel valgeid büstisarnaseid skulptuure, riiuleid ja töölauad, mis on täis kunstivarusid ja segadust. Üldine meeleolu on hallides ja valgetes toonides, andes ruumile rahuliku ja tööka atmosfääri.",
+      "actions": [
+        "Skulptuuride loomine/valmistamine (kaudne)",
+        "Fotografeerimine/filmimine (kaudne, statiivide järgi)"
+      ],
+      "keywords": [
+        "Kunstistuudio",
+        "Ateljee",
+        "Skulptuurid",
+        "Loome",
+        "Kunst",
+        "Hall",
+        "Valge",
+        "Aken",
+        "Statiiv",
+        "Tööruum",
+        "Talv",
+        "Sügis",
+        "Drapeeritud",
+        "Monokroomne"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Skulptuurid",
+        "Statiivid",
+        "Valgustid",
+        "Tool",
+        "Riie",
+        "Must müts",
+        "Töölauad",
+        "Riiulid",
+        "Pudelid/kanistrid",
+        "Aken",
+        "Puud (väljas)",
+        "Maja katus (väljas)",
+        "Rõdupiire"
+      ],
+      "colorcodes": [
+        "#A0A0A0",
+        "#FFFFFF",
+        "#000000",
+        "#4B6E8A",
+        "#E0E0E0",
+        "#606060",
+        "#C8C8C8"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 15,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Pilte vahel puuduvad erinevused."
+      ],
+      "snr": "034",
+      "ajad": [
+        "216.120",
+        "220.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pilvist õuesituatsiooni, mis algab detailse kaadriga ainulaadsest inimfiguurist. Figuur, tõenäoliselt performance-kunstnik või elav skulptuur, on kaetud tekstuurse savilaadse materjaliga, mis näib osaliselt tilkuvat, ja kannab musta mütsi. Tema pilk on suunatud vasakule, andes talle mõtiskleva või tõsise ilme. Seejärel siirdub stseen laiemale vaatele, kus pilvisele taevale ja raagus puuokstele on üle pandud filmi tiitrid. Taustal on näha kaasaegset hoonet tumeda fassaadi ja suurte peegeldavate akendega. Üldine atmosfäär on jahe ja summutatud, mis viitab külmale aastaajale.",
+      "actions": [
+        "Saviga kaetud figuur seisab paigal ja vaatab mõtlikult eemale",
+        "Filmi tiitrid ilmuvad ekraanile ja liiguvad ülespoole"
+      ],
+      "keywords": [
+        "skulptuur",
+        "kunst",
+        "õues",
+        "talv",
+        "hall",
+        "modernne",
+        "ehitis",
+        "filmitegijad",
+        "tiitrid",
+        "pilvine"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "inimfiguur",
+        "müts",
+        "savi/muda",
+        "puuoksad",
+        "hoone",
+        "aken",
+        "tiitrite tekst"
+      ],
+      "colorcodes": [
+        "#c6cdd5",
+        "#70716b",
+        "#1f1e1e",
+        "#313131",
+        "#3d3e3f"
+      ],
+      "texts": [
+        "kostüümikunstnik Neon Must",
+        "grimmikunstnik Liina Pihel",
+        "skulptor Edith Karlson",
+        "valgusmeister Joosep Jürisson",
+        "valgustajad Sander-Kalle Somma",
+        "Erik-Hans Sepp",
+        "operaatori assistent Veiko Jaksi",
+        "foley assistent Carolyn Niitla",
+        "1st AD Kalev Smidt",
+        "tänan:",
+        "Kessu Kohvik",
+        "Kuressaare Ametikool",
+        "Riho Västriku, Vesilind OÜ"
+      ],
+      "persons": [
+        "tundmatu savifiguur",
+        "Neon Must",
+        "Liina Pihel",
+        "Edith Karlson",
+        "Joosep Jürisson",
+        "Sander-Kalle Somma",
+        "Erik-Hans Sepp",
+        "Veiko Jaksi",
+        "Carolyn Niitla",
+        "Kalev Smidt"
+      ],
+      "imagetype": "real",
+      "emptypercent": 55,
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaadrite peamine subjekt muutub: esimeses kaadris on detailne vaade saviga kaetud figuurist, järgmistes kaadrites on fookuses tekstilised tiitrid.",
+        "Kaamera nurk ja kadreering muutuvad: algselt on tegemist inimese keskse kaadriga, mis seejärel laieneb keskkonnale (puuoksad, hoone).",
+        "Tekstid (filmi tiitrid) ilmuvad ainult teises kaadris.",
+        "Moodsa hoone nähtavus muutub: esimeses kaadris see puudub, teises ja kolmandas on see rohkem või vähem esile tõstetud taustal."
+      ],
+      "snr": "035",
+      "ajad": [
+        "220.320",
+        "258.760"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb kolmest identsest täiesti mustast pildist, mis annavad edasi täieliku pimeduse või tühja ekraani. Visuaalset infot, objekte, tegevust ega mingeid detaile piltidel ei ole. Tegemist on ühtlase musta pinnaga, mis täidab kogu kaadri.",
+      "actions": [],
+      "keywords": [
+        "pimedus",
+        "must",
+        "tühi",
+        "tühjus",
+        "ekraan",
+        "puuduv_sisu"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kõik kolm pilti on identsed – täiesti mustad."
+      ],
+      "snr": "036",
+      "ajad": [
+        "258.760",
+        "260.920"
+      ]
+    }
+  ]
+}

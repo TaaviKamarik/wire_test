@@ -1,0 +1,581 @@
+{
+  "film": [
+    "20387",
+    "20234",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Mockingbird",
+    "5a5f83794342018b666a57f7d7901d67a3505163.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseenis on näha noort inimest, tõenäoliselt naist, kelle pruunid lokkis juuksed raamivad nägu. Kaamera fookus on suunatud otse näole, mis täidab suure osa kaadrist. Algselt on näha ekstreemset lähivõtet silmadest ja ninast, mis laieneb järk-järgult keskmiseks lähivõtteks, paljastades kogu näo, osa õlgadest ja rohkem juukseid. Inimese pilk on otse kaamerasse suunatud, näoilme on neutraalne ja mõtlik. Valgus on pehme ja ühtlane, heites näole õrnad varjud. Taust on udune sinakashall, mis annab aimu siseruumist.",
+      "actions": [
+        "Vaatab otse kaamerasse",
+        "Püsib paigal"
+      ],
+      "keywords": [
+        "Noor inimene",
+        "Portree",
+        "Nägu",
+        "Silmad",
+        "Juuksed",
+        "Neutrallne ilme",
+        "Lähivõte",
+        "Siseruum",
+        "Lokkis juuksed",
+        "Pruunid juuksed",
+        "Otsene pilk"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese nägu",
+        "Silmad",
+        "Nina",
+        "Suu",
+        "Kulmud",
+        "Juuksed",
+        "Nahk"
+      ],
+      "colorcodes": [
+        "#B18B6E",
+        "#C09E86",
+        "#56382A",
+        "#674431",
+        "#392C25",
+        "#808E8F",
+        "#728C9B",
+        "#5F7481"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kaamera eemaldub ehk suumib välja esimesest kaadrist kolmandani, alustades ekstreemsest lähivõttest ja lõpetades keskmise lähivõttega.",
+        "Esimeses kaadris on näha vaid silmi ja ninaala.",
+        "Teises kaadris on näha veidi laiemalt näo ülemist osa ja rohkem juukseid.",
+        "Kolmandas kaadris on näha terve nägu, osa õlgadest, rohkem juukseid ja taust muutub selgemaks.",
+        "Taust muutub laiemates kaadrites märgatavamaks ja tundub veidi heledam."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "10.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist istumas siseruumis, tõenäoliselt elutoas või puhkeruumis. Naine istub keset kaadrit punasel diivanil, seljaga vastu sinakashalli seina. Tal on seljas heledates toonides (beež, hall) mustriga või triibuline kampsun ning tal on lokkis pruunid juuksed. Tema pilk ja näoilme muutuvad piltide vahel kergelt. Toa vasakus servas on näha tumepruun puidust uks hõbedase lingiga. Ukse ja naise vahel seisab heleda lambivarjuga ja puidust jalaga põrandalamp. Kaadri vasakus alaservas on osaliselt näha puidust laud, millel seisab sinine vaas värviliste lilledega (lillad, punased, roosad) ja mõned skulptuursed puidust esemed. Otse naise kohal, sinakashallil seinal, ripub puidust raamiga ümmargune seinakell, mis näitab aega umbes 3:30. Kaadri paremas servas on pikk ja lopsakas roheline toataim pikkade teravate lehtedega. Paremal ääres on ka näha kollakaid või heledamaid köögikapi osasid ja heledamat seina. Üldine õhkkond on rahulik ja vaikne, võib-olla veidi melanhoolne.",
+      "actions": [
+        "Naine istub diivanil",
+        "Naine vaatab otse kaamerasse",
+        "Naine vaatab eemale kaamerast"
+      ],
+      "keywords": [
+        "siseruum",
+        "elutuba",
+        "naine",
+        "diivan",
+        "sinakashall sein",
+        "põrandalamp",
+        "seinakell",
+        "toataim",
+        "vaikne",
+        "ootamine",
+        "mõtisklemine"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "noor naine",
+        "punane diivan",
+        "sinakashall sein",
+        "tumepruun puidust uks",
+        "hõbedane ling",
+        "põrandalamp",
+        "heledat värvi lambivari",
+        "puidust laualamp",
+        "puidust laud",
+        "sinine vaas",
+        "lilled",
+        "puidust skulptuurid",
+        "ümmargune seinakell",
+        "puidust kellaramm",
+        "roheline toataim",
+        "köögikapp",
+        "heledat värvi sein"
+      ],
+      "colorcodes": [
+        "#4B7C7D",
+        "#A72F2D",
+        "#BDBCB1",
+        "#4A3A31",
+        "#2B477D",
+        "#405F2B",
+        "#6A4930",
+        "#9D7F64"
+      ],
+      "texts": [],
+      "persons": [
+        "noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatab naine otse kaamerasse, pilk kergelt allapoole suunatud.",
+        "Teisel pildil vaatab naine otse kaamerasse, pilk on horisontaalne.",
+        "Kolmandal pildil vaatab naine vasakule (vaataja paremale), eemale kaamerast."
+      ],
+      "snr": "002",
+      "ajad": [
+        "10.000",
+        "16.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist, kellel on lokkis pruunid õlgadeni juuksed. Ta kannab heledate triipudega kapuutsi ja hõbedast ristikujulist kaelakeed. Naine seisab siseruumis, mille ühel seinal on tume sinakasroheline toon. Paremal pool on näha pruun puidust uks ja vasakul nurgas pikk põrandalamp. Naine vaatab tähelepanelikult pildile ja fotodele, mis asuvad tumedal puitkummuti peal. Seinal ripub modernistlik maal erksates toonides, kujutades abstraktseid vorme kollase, sinise ja punasega. Kummuti peal on kolm raamitud fotot: üks kujutab noort last või beebit, teine sügavmõttelise pilguga täiskasvanud naist ja kolmas meest või last. Fotode vahel on sinine läbipaistev klaaskuul ja väike kimp kuivatatud lilli. Naise ilme on mõtlik ja veidi kurb.",
+      "actions": [
+        "Naine seisab",
+        "Naine vaatab",
+        "Naine mõtiskleb"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Naine",
+        "Mõtlik",
+        "Kurb",
+        "Mälestused",
+        "Kummut",
+        "Maal",
+        "Fotod",
+        "Pruunid juuksed",
+        "Kapuuts",
+        "Ristkaelakee",
+        "Sinakasroheline sein",
+        "Puidust uks",
+        "Põrandalamp"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Kapuuts",
+        "Kaelakee",
+        "Pruun puidust uks",
+        "Põrandalamp",
+        "Sinakasroheline sein",
+        "Kummut",
+        "Modernistlik maal",
+        "Raamitud foto (laps)",
+        "Raamitud foto (täiskasvanud naine)",
+        "Raamitud foto (mees/laps)",
+        "Klaaskuul",
+        "Kuivatatud lilled"
+      ],
+      "colorcodes": [
+        "#4A8C8A",
+        "#DDC9B6",
+        "#8B7A6A",
+        "#5C3D2E",
+        "#F7DA00",
+        "#1C2852",
+        "#C82A2E"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor naine",
+        "Laps fotol",
+        "Täiskasvanud naine fotol",
+        "Mees/laps fotol"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kaamera nurk muutub järk-järgult, paljastades üha rohkem tausta ja kummuti peal olevaid esemeid.",
+        "Naise pilgu suund liigub kaadri vasakule poole, keskendudes algul üldiselt ruumile, seejärel seinal olevale maalile ja lõpuks kummuti detailidele."
+      ],
+      "snr": "003",
+      "ajad": [
+        "16.920",
+        "29.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort, lühikeste lokkis pruunide juustega inimest (tõenäoliselt naine), kes on emotsionaalses seisundis. Tema näoilme on murelik ja segaduses, kulmud on kortsus ja suu kergelt avatud, justkui oleks ta midagi öelnud või küsimas. Ta kannab pruunides ja beežides toonides triibulist kapuutsiga särki või hüpiknõud ning kaelas on tal hõbedane ristiga kaelakee. Stseen toimub siseruumis, taustal on helesinine sein. Seinal on näha ümmargune pruuni raamiga kell, millel on valge sihverplaat. Pildi vasakus servas on osaliselt nähtav heleda kupliga põrandalamp. Valgus on ere, viidates päevaajale. Tegelane vaatab otse ette, justkui kellegi poole pöördudes, väljendades valu ja küsimust tema maha jätmise kohta.",
+      "actions": [
+        "Küsimuse esitamine",
+        "Emotsioonide väljendamine",
+        "Rääkimine"
+      ],
+      "keywords": [
+        "Emotsionaalne stseen",
+        "Küsimus",
+        "Noor naine",
+        "Mure",
+        "Segadus",
+        "Hüpiknõu",
+        "Rist",
+        "Sisekujundus",
+        "Siseruum",
+        "Kurbus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Kapuutsiga särk",
+        "Kaelakee",
+        "Rist",
+        "Sein",
+        "Kell",
+        "Lamp"
+      ],
+      "colorcodes": [
+        "#74a0a9",
+        "#5c3a28",
+        "#b7a992",
+        "#7a6e64",
+        "#e0e0e0",
+        "#7a513d",
+        "#b0b0b0"
+      ],
+      "texts": [
+        "Why did you leave me?"
+      ],
+      "persons": [
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 45,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Teises kaadris on näha subtiiter \"Why did you leave me?\", mis viitab tegelase dialoogile või mõttele.",
+        "Tegelase suu asend on teises kaadris avatum, viitades aktiivsele rääkimisele.",
+        "Teises kaadris on tegelase parema käe asend veidi muutunud, viitades žestile rääkimise ajal."
+      ],
+      "snr": "004",
+      "ajad": [
+        "29.160",
+        "54.960"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub noore naise näole lähiplaanis, kes väljendab sügavaid emotsioone nagu kurbust, šokki ja pettumust. Tema pruunid juuksed on lühikesed ja käharduvad, raamides nägu. Naine vaatab otse ette, kulmud on kortsus ja suu veidi avatud, justkui rääkides või ohates, mis annab edasi valu ja uskmatust. Silmad on pisut vett täis või punetavad, rõhutades emotsionaalset pinget. Taust on hägune ja sinakas-hallides toonides, mis suunab tähelepanu täielikult naise näole ja tema tundeväljendusele. Valgus on pehme, valgustades naise nägu ja andes stseenile intiimse ja emotsionaalselt laetud atmosfääri.",
+      "actions": [
+        "Naine väljendab emotsionaalset valu ja pettumust",
+        "Naine räägib või on just rääkinud",
+        "Naine vaatab otsa"
+      ],
+      "keywords": [
+        "Emotsionaalne",
+        "Kurbus",
+        "Pettumus",
+        "Šokk",
+        "Naine",
+        "Siseruum",
+        "Lähiplaan",
+        "Pingeline",
+        "Nutune"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Naise nägu",
+        "Naise juuksed",
+        "Hägune taust"
+      ],
+      "colorcodes": [
+        "#76A0AC",
+        "#D2B19F",
+        "#77493B",
+        "#9DBCCA",
+        "#C8A48F",
+        "#A1765F"
+      ],
+      "texts": [
+        "How were you so cold-hearted?"
+      ],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil on ekraanil näha ingliskeelsed subtiitrid: 'How were you so cold-hearted?'.",
+        "Naise näoilme ja suu asend varieeruvad kaadrite vahel, mis viitab pidevale emotsioonide väljendusele või kõnelemisele. Esimesel pildil on otsmik veidi rohkem kortsus ja suu laiemalt avatud võrreldes kolmanda pildiga.",
+        "Kolmandal pildil on naise suu veidi vähem avatud ja ilme ehk pisut pehmem, kui kahes esimeses kaadris."
+      ],
+      "snr": "005",
+      "ajad": [
+        "54.960",
+        "61.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab nooremaealist naist pruunide juuste ja punase huulepulgaga siseruumis. Naine seisab osaliselt varjus, tema paremal küljel on näha tekstuurne, heledate ja tumedate niitidega kootud seinakate, mis loob horisontaalse mustri. Tema taga on udune, tume taust, kus on aimata kaks sinist, ähmast kuju, mis võivad olla maalid, esemed või peegeldused. Alguses vaatab naine melanhoolselt või mõtlikult allapoole, huuled kergelt paokil, justkui millegi üle juurdledes. Järgmises hetkes aga tõstab ta pea ja vaatab ettepoole, silmad laialt avatud ja ilmel on näha selget üllatust või muret, justkui oleks miski tema tähelepanu köitnud või teda vapustanud. Valgus langeb naise näole, rõhutades tema reaktsiooni.",
+      "actions": [
+        "Naine vaatab allapoole",
+        "Naine tõstab pea",
+        "Naine vaatab ettepoole",
+        "Naine reageerib üllatuse või murega"
+      ],
+      "keywords": [
+        "Naine",
+        "Siseruum",
+        "Tekstuurne sein",
+        "Huulepulk",
+        "Üllatus",
+        "Mure",
+        "Mõtlikkus",
+        "Reaktsioon",
+        "Pruunid juuksed"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Tekstuurne seinakate",
+        "Sein",
+        "Juuksed",
+        "Huulepulk",
+        "Udused sinised kujud (taustal)"
+      ],
+      "colorcodes": [
+        "#B5A18C",
+        "#7F6A59",
+        "#6A4B3A",
+        "#CD0A33",
+        "#2E252A",
+        "#5A8FCF"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil puudub inimene ja fookus on peamiselt tekstuurseinal, pakkudes stseeni konteksti.",
+        "Teisel pildil vaatab naine allapoole ja tema ilme on mõtlik või pensive.",
+        "Kolmandal pildil on naine pead tõstnud ja vaatab ettepoole, ilmel on näha üllatust või muret, mis viitab reaktsioonile millelegi väljaspool kaadrit.",
+        "Fookus nihkub esimeselt pildilt, kus see on seinal, teistele piltidele, kus see on teravalt naise näol."
+      ],
+      "snr": "006",
+      "ajad": [
+        "61.120",
+        "72.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab valgusrikast kunstistuudiot või loovalt sisustatud tuba. Ruumis domineerib hele puitparkettpõrand ja silmapaistev heledatest telliskividest kamin, mille sisemuses on dekoratiivne valgustus. Seinad on värvitud sügava türkiissinise või tumerohelise tooniga, kaunistatud mitme kaasaegse maali, sealhulgas abstraktsete ja maastikumaalidega. Esipilgul vasakul seisab molbert, millel on pooleli portreemaal heledate juustega naisest. Molbertiga seina ääres toetuvad teised suured maalid – üks kollase taustaga portree ja teine abstraktne kompositsioon punase ja valge toonidega. Paremal pool on vanamoodne puidust laud koos tooliga, millel on esemeid ja lilli sisaldav vaas. Lahendi taga on tumedast puidust kapp, millel seisavad raamitud fotod. Stseeni keskel on noor naine, tõenäoliselt kunstnik, kes liigub toas ringi molberti poole või seisab selle ees. Vasakpoolses esiplaanis on näha teise inimese õlg ja pea tagumine osa, kes jälgib stseeni. Ruumis valitseb loominguline ja hubane õhkkond, mida võimendab päevavalgus, mis paistab sisse vasakult, eriti eredalt molbertile langedes.",
+      "actions": [
+        "Naine kõnnib mööda tuba",
+        "Naine vaatab maale",
+        "Naine läheneb molbertile",
+        "Naine seisab molberti ees",
+        "Inimene vaatleb stseeni"
+      ],
+      "keywords": [
+        "Kunstistuudio",
+        "Maalimine",
+        "Kunstnik",
+        "Portree",
+        "Abstraktne kunst",
+        "Sisekujundus",
+        "Kamin",
+        "Molbert",
+        "Kodu",
+        "Päevane aeg",
+        "Loomingulisus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Molbert",
+        "Maalid",
+        "Kamin",
+        "Telliskivisein",
+        "Puidust põrand",
+        "Laud",
+        "Tool",
+        "Kapp/kummut",
+        "Vaas",
+        "Lilled",
+        "Raamitud fotod",
+        "Molbertialus",
+        "Riidepuu/nagid",
+        "Tekid/riided",
+        "Lamp (kaminas)",
+        "Põrandavaip"
+      ],
+      "colorcodes": [
+        "#305A5D",
+        "#D9D2C6",
+        "#B08D69",
+        "#FF0000",
+        "#B2A69A",
+        "#FEE745",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (kunstnik)",
+        "Inimene (vaatleja)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil seisab naine näoga paremale, vaadates seinal olevaid maale.",
+        "Teisel pildil kõnnib naine vasakule, möödudes kaminast.",
+        "Kolmandal pildil seisab naine molberti ees ja vaatab seda, samal ajal kui molbert on intensiivsemalt valgustatud, viitades dünaamilisele valgusele või fookusele."
+      ],
+      "snr": "007",
+      "ajad": [
+        "72.480",
+        "82.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab emotsionaalset ja pingelist vestlust kahe naise vahel siseruumides päevasel ajal. Esialgu on noorem naine, kellel on lühikesed lokkis pruunid juuksed, kapuutsiga top ja ristripatsiga kaelakee, sügavates mõtetes ja vaatab alla, ilmselt murelikult või kurvalt. Tema taga, kauguses, on näha ähmane inimfiguur ja hele sein. Seejärel läheneb talle teine naine, kellel on pikad sirged heledad juuksed ja tume pluus. Tema ilme on murelik ja ahastuses, justkui püüaks ta nooremat naist lohutada või temaga rääkida. Lõpuks seisavad naised vastamisi, näod lähestikku. Mõlema naise ilme on tõsine ja intensiivne, viitades kas vastasseisule, sügavale vestlusele või emotsionaalsele hetkele. Taustal on näha roheline toataim, mis annab stseenile koduse tunde. Valgus paistab akendest sisse, valgustades naiste nägusid ja rõhutades nende emotsioone.",
+      "actions": [
+        "Noorem naine vaatab alla ja on sügavates mõtetes",
+        "Vanem naine läheneb nooremale naisele mureliku ilmega",
+        "Mõlemad naised seisavad vastamisi ja vaatavad teineteisele intensiivselt silma",
+        "Vanem naine väljendab oma muret või ahastust"
+      ],
+      "keywords": [
+        "emotsionaalne",
+        "pingeline",
+        "vestlus",
+        "vastasseis",
+        "mure",
+        "ahastus",
+        "mõtisklus",
+        "siseruum",
+        "päevaaeg",
+        "naine",
+        "noor naine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "kapuutsiga topp",
+        "kaelakee",
+        "ristripats",
+        "toataim",
+        "sein",
+        "ukseava",
+        "tume pluus"
+      ],
+      "colorcodes": [
+        "#614631",
+        "#85614D",
+        "#B4A99E",
+        "#1E1E1E",
+        "#B0B0B0",
+        "#4E6838",
+        "#72905B"
+      ],
+      "texts": [],
+      "persons": [
+        "noorem naine",
+        "vanem naine",
+        "ähmane inimfiguur taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil on fookuses noorem naine, kes on endassetõmbunud ja vaatab alla, murelikus poosis. Taustal on näha ähmane inimfiguur.",
+        "Teisel pildil on näha vanema naise lähenemine nooremale naisele, kusjuures vanema naise ilme on murelik ja suunatud nooremale naisele, keda näeme selja tagant.",
+        "Kolmandal pildil on naised vastamisi, fookus on nende intensiivsel silmsidemel ja emotsioonidel, mis viitab konflikti või sügava vestluse kulminatsioonile. Taustal on näha roheline toataim.",
+        "Kaadrite nurk ja fookus muutuvad, et rõhutada erinevaid hetki interaktsioonis, liikudes noorema naise sisekaemusest kahe naise vahelise konfrontatsioonini."
+      ],
+      "snr": "008",
+      "ajad": [
+        "82.480",
+        "95.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab filmi või muu produktsiooni lõputiitreid, kus ekraani keskel liigub helehall tekst mustal taustal alt ülespoole. Tekstis on loetletud erinevate inimeste nimed ja nende rollid, näiteks \"CONTRUCTION MANAGER\" (ehitusjuht, veaga kirjutatud) ja \"SET DECORATION PREP\" (dekoraatorite ettevalmistus). Nimed tunduvad olevat eestikeelsed. Ülemised read kaovad ekraanilt ja alumised read ilmuvad nähtavale, luues pidevalt uueneva infovoogu. Enamik ekraanist on musta värvi, mis rõhutab teksti loetavust.",
+      "actions": [
+        "Tekst liigub ekraanil alt ülespoole"
+      ],
+      "keywords": [
+        "Lõputiitrid",
+        "Filmikrediidid",
+        "Tekst",
+        "Must taust",
+        "Hall kiri",
+        "Tootmine",
+        "Eestikeelsed nimed",
+        "Filmindus",
+        "Rullimine"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Tekst",
+        "Ekraan"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#BBBBBB"
+      ],
+      "texts": [
+        "CAROL LIESTE",
+        "SIRLY SAMBLA",
+        "CONTRUCTION MANAGER",
+        "TOOMAS SÄÄS",
+        "SET DECORATION PREP",
+        "JAAK SOVA",
+        "MEINAR MÄESALU",
+        "TRIIN VALVAS",
+        "PRIIT TIISLÄR",
+        "ELAR KOSSESON",
+        "GAFFER"
+      ],
+      "persons": [
+        "Carol Lieste",
+        "Sirly Sambla",
+        "Toomas Sääs",
+        "Jaak Sova",
+        "Meinar Mäesalu",
+        "Triin Valvas",
+        "Priit Tiislär",
+        "Elar Kosseson"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Tekst kerib pildiraamide vahel pidevalt alt ülespoole, tuues esile uusi nimesid ja rolle ning viies eelnevad ekraanilt ära.",
+        "Igal pildil on näha erinev osa lõputiitritest."
+      ],
+      "snr": "009",
+      "ajad": [
+        "95.640",
+        "132.000"
+      ]
+    }
+  ]
+}

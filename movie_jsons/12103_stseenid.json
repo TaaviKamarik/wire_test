@@ -1,0 +1,3232 @@
+{
+  "film": [
+    "12103",
+    "12081",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Vaikused",
+    "d1b699a4bdb6ee17b0472ce1fceab3a09d195d52.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täiesti musta ekraaniga, mis on alguses täiesti tühi. Seejärel hakkavad ekraani keskele ilmuma kolm värvilist ringi, mis moodustavad kolmnurkse asetuse. Esialgu on ringid sinine, punane ja valge ning nende kõrval ilmub valge tekst \"B M\". Ringid on esialgu kergelt udused või hõõguvad, andes edasi liikumise või ilmumise efekti. Stseeni arenedes muutuvad ringide värvid: sinisest saab punane, punasest roheline ja valgest sinine. Ühtlasi muutuvad ringid teravamaks ja selgemaks. Samal ajal muutub ka tekst: \"B M\" asendub \"BFM\"-iga ja selle alla ilmub peenemas kirjas \"Baltic Film and Media School\". Kogu see visuaalne transformatsioon toimub mustal taustal, rõhutades värvilisi elemente ja teksti, mis viitab logo animatsioonile või brändi tutvustusele.",
+      "actions": [
+        "Ekraan on must",
+        "Ringide ilmumine",
+        "Teksti ilmumine",
+        "Värvide muutumine",
+        "Teksti muutumine",
+        "Teravuse muutumine",
+        "Logo animatsioon"
+      ],
+      "keywords": [
+        "Logo",
+        "Animatsioon",
+        "Bränding",
+        "Must taust",
+        "Värvilised ringid",
+        "Haridus",
+        "Film",
+        "Meedia",
+        "Minimalistlik"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Kolm ringi",
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#4A66A8",
+        "#D42C2E",
+        "#FFFFFF",
+        "#D93636",
+        "#3AAC46",
+        "#4261B6"
+      ],
+      "texts": [
+        "B M",
+        "BFM",
+        "Baltic Film and Media School"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on täiesti must ekraan, ilma igasuguste visuaalsete elementideta.",
+        "Teisel pildil ilmuvad ekraani keskele kolm kergelt udust ringi (sinine, punane, valge) ja valge tekst \"B M\".",
+        "Kolmandal pildil on ringide värvid muutunud (punane, roheline, sinine) ja need on teravamad ja selgemad. Samuti on tekst muutunud \"BFM\"-iks, millele on lisatud alapealkiri \"Baltic Film and Media School\"."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "6.520"
+      ]
+    },
+    {
+      "explanation": "Stseen on täielikult must, puudub igasugune visuaalne sisu või valgus. Kogu pildiala on kaetud ühtlase ja läbitungimatu pimedusega, mis ei luba eristada objekte, isikuid ega ümbritsevat keskkonda. Puuduvad varjud, detailid või kontuurid, mis viitaksid ruumi sügavusele või perspektiivile. Stseen jätab tühjuse ja informatsiooni puudumise mulje.",
+      "actions": [
+        "Tegevused puuduvad"
+      ],
+      "keywords": [
+        "pimedus",
+        "must",
+        "tühjus",
+        "ekraan",
+        "valguse puudumine",
+        "informatsiooni puudumine"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Objektid puuduvad"
+      ],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [
+        "Tekstid puuduvad"
+      ],
+      "persons": [
+        "Isikud puuduvad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik kaadrid on identsed, kujutades ühtlaselt musta ekraani ilma igasuguste visuaalsete erinevusteta."
+      ],
+      "snr": "002",
+      "ajad": [
+        "6.520",
+        "7.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab digitaalset üleminekut tumedal taustal. Algselt on ekraanil näha abstraktne, glitšitud ja anaglüüfse efektiga tekst, mis koosneb punastest, rohelistest ja sinistest toonidest, andes edasi moonutatud ja dünaamilise tunde. Seejärel laheneb see efekt selgeks, valgeks ja pikseldatud tekstiks \"VAIKUSED\", mis on moodustatud väikestest ümmargustest punktidest ning asub horisontaalselt ekraani keskel. Lõpuks kaob tekst, jättes alles peaaegu täiesti musta tausta, millel on märgata vaid õrnu värvinüansse – ülemises osas kergelt sinakasrohelist ja alumises osas punakaspruuni varjundit, mis annavad edasi sügava ja vaikse atmosfääri. Stseen on üldiselt minimalistlik ja keskendub teksti ilmumisele ning kadumisele tumedas, kosmilisena mõjuvas ruumis.",
+      "actions": [
+        "teksti ilmumine",
+        "teksti moonutamine",
+        "teksti selginemine",
+        "teksti kadumine",
+        "värvide segunemine",
+        "üleminek"
+      ],
+      "keywords": [
+        "must taust",
+        "tekst",
+        "glitch",
+        "anaglüüf",
+        "pikseldatud",
+        "üleminek",
+        "vaikused",
+        "värviline",
+        "digitaalne",
+        "minimalistlik",
+        "intro"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FF0000",
+        "#00FF00",
+        "#0000FF",
+        "#FFFFFF",
+        "#2D3A3B",
+        "#3B2D2B"
+      ],
+      "texts": [
+        "VAIKUSED"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "95",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel kaadril on näha moonutatud ja värvilist (punane, roheline, sinine) teksti.",
+        "Teisel kaadril on näha selget, valget, pikseldatud teksti \"VAIKUSED\".",
+        "Kolmandal kaadril on näha täiesti tumedat ekraani, millel on vaid õrnad värvigradiendid (sinakasroheline ülal, punakaspruun all) ja puuduvad konkreetsed objektid või tekst."
+      ],
+      "snr": "003",
+      "ajad": [
+        "7.520",
+        "20.000"
+      ]
+    },
+    {
+      "explanation": "Stseen on äärmiselt hämar ja peaaegu täielikult pime, luues salapärase ja intiimse õhkkonna. Keskel on udune inimfiguur, tõenäoliselt ülakeha või torsot, mis on pildistatud küljelt või tagantvaates. Valgus on minimaalne, valgustades nõrgalt vaid osa kehakontuurist, näiteks selja või õla piirkonda, andes aimu nahatoonist. Suurem osa figuurist ja kogu taust on sügavmustades varjudes. Inimene kannab tumedaid riideid, mis sulanduvad peaaegu täielikult pimedusse. Stseen on tumedates toonides, valitseb sügavmust ja tumesinakas-hall, mis rõhutab pimedust ja detailide puudumist.",
+      "actions": [
+        "paigal seismine",
+        "aeglane liikumine"
+      ],
+      "keywords": [
+        "hämar",
+        "pime",
+        "inimene",
+        "vari",
+        "salajane",
+        "intiimne",
+        "müstiline",
+        "siseruum",
+        "öö",
+        "udune",
+        "torso",
+        "tumedus",
+        "siluett"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "inimene",
+        "riided"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#070808",
+        "#4A3A38",
+        "#2D2726"
+      ],
+      "texts": [],
+      "persons": [
+        "üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "95",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene ja kolmas pilt on peaaegu täielikult mustad, vihjates pimedusele või kaadri algusele/lõpule.",
+        "Teine pilt paljastab häguse ja tumeda inimfiguuri fragmendi, andes aimu stseeni sisust, kuigi detailid jäävad valguse puudumise ja fookusest väljas olemise tõttu minimaalseks."
+      ],
+      "snr": "004",
+      "ajad": [
+        "20.000",
+        "35.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest väga pimedas, hämaralt valgustatud siseruumis. Valgustus loob tugevad siluetid, muutes näojoonte või riietuse detailide eristamise keeruliseks. Peamine valgusallikas näib tulevat vasakult, heites taustale sinakas-sinise varjundi ja piirjoonestades figuuri. Inimene näib aeg-ajalt kükitavas või istuvas asendis, vahest alla vaatamas või ümbrust jälgimas. Ühel kaadril on näha eseme kontuur, mis sarnaneb tupiku või seljakotiga nende seljal, ja käepael nende õlavarrel. Üldine meeleolu on salapärane, pingeline ja sünge, viidates peidetud kohalolekule või varjatud tegevusele. Selgete detailide puudumine lisab põnevust.",
+      "actions": [
+        "Kükitamine",
+        "Istumine",
+        "Vaatlemine",
+        "Liikumine (kaudselt viidatud poosi muutumisel)",
+        "Valmistumine (kaudselt viidatud esemega seljal)"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Vari",
+        "Siluett",
+        "Ähmane",
+        "Pingeline",
+        "Salajane",
+        "Siseruum",
+        "Sinakas valgus",
+        "Inimfiguur",
+        "Ettevalmistus",
+        "Vaatlus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimfiguur",
+        "Ese seljal (võimalik tupp või seljakott)",
+        "Käepael"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#0D3B66",
+        "#1A4F80"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "80",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Peamised erinevused seisnevad perspektiivis ja subjekti kauguses. Esimene pilt näitab abstraktsemat vaadet jäsemest. Teine pilt pakub täielikuma ülevaate inimese seljast ja poosist, paljastades eseme nende seljal ja käepaela käel. Kolmas pilt on lähem kaader peast ja ülakehast, rõhutades siluetti. Inimese täpne poos ja pea asend varieeruvad kaadrite vahel."
+      ],
+      "snr": "005",
+      "ajad": [
+        "35.280",
+        "51.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tumedat ja salapärast siseruumi, kus esiplaanil domineerib ähmane ja jaheda sinaka valgusega valgustatud inimfiguuri siluett. Figuur kannab peakatet, mis meenutab mütsi või nokamütsi, ning tema kehahoiak viitab liikumisele või pingelisele ooteseisundile. Paremal pool silueti taga on näha kitsas vertikaalne valgusriba, mis viitab ukseavale või praole, kust valgus stseeni imbub, valgustades osaliselt figuuri selga ja õlga. Ülejäänud taust on peaaegu täielikult pimeduses, andes stseenile sünguse ja anonüümsuse. Figuuri asend muutub kaadrite vahel minimaalselt, mis annab edasi dünaamilise momendi, justkui isik liigutaks pead või nihutaks keha kergelt, ehk valmistudes millekski või vaadeldes ümbrust. Üldmulje on pingeline ja müstiline.",
+      "actions": [
+        "Liikumine",
+        "Asendi muutmine",
+        "Vaatlemine (võimalik)",
+        "Ootamine (võimalik)"
+      ],
+      "keywords": [
+        "Siluett",
+        "Tume",
+        "Salapärane",
+        "Sinine valgus",
+        "Vari",
+        "Pinge",
+        "Liikumine",
+        "Inimfiguur",
+        "Müts",
+        "Öö",
+        "Siseruum",
+        "Horror"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimfiguur (siluett)",
+        "Peakate (müts/nokamüts)",
+        "Ukseava (võimalik)",
+        "Valgusriba"
+      ],
+      "colorcodes": [
+        "#0a0a0d",
+        "#2a527c",
+        "#1c2e42",
+        "#3a5c6d"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimfiguur"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Figuuri pea ja õlgade asend muutub kaadrite vahel kergelt, vihjates pidevale liikumisele või kehahoiaku reguleerimisele.",
+        "Erinevates kaadrites on näha väikeseid varieeruvusi valguse ja varjude jaotuses figuuri ümber ja taustal, mis annab dünaamikat.",
+        "Esimeses kaadris on figuuri kehaasend veidi sirgem või ettepoole kallutatud, hilisemates kaadrites tundub pea tõusvat või pöörduvat veidi ülespoole."
+      ],
+      "snr": "006",
+      "ajad": [
+        "51.520",
+        "53.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja abstraktset vaadet läbi metallist võre- või restilaadse struktuuri. Esialgu on võre muster küllaltki selgelt eristatav, valgustatud pehmete kuldkollaste ja pruunikate toonidega, luues diagonaalsed varjud ja valgusefektid tumedal taustal. Valgusallikas näib asuvat võre taga või kohal, luues rütmilise triibulise mustri. Stseeni arenedes muutub ümbrus järk-järgult pimedamaks ja fookus kaob, jättes alles vaid ähmaselt aimatavad kontuurid või üksikud, hajutatud ja nõrgad valguspunktid. Lõpuks on stseen peaaegu täielikult mattunud pimedusse, kus on näha vaid paar üksikut, udujast ja roheka-sinaka varjundiga valgustäppi, mis annavad edasi sügava ja salapärase tunde.",
+      "actions": [
+        "Vaatamine läbi võre",
+        "Liikumine pimeduse poole",
+        "Valguse kadumine"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Võre",
+        "Rest",
+        "Abstraktne",
+        "Udu",
+        "Valgus",
+        "Vari",
+        "Müstika",
+        "Metall",
+        "Hämarus",
+        "Varjud"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Metallvõre",
+        "Rest",
+        "Valgusallikas"
+      ],
+      "colorcodes": [
+        "#0F0A05",
+        "#8F7B37",
+        "#403417",
+        "#202025",
+        "#050505"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Valguse intensiivsus väheneb oluliselt esimeselt pildilt viimasele.",
+        "Võre muster on esimesel pildil selgelt nähtav ja detailne, kuid muutub järk-järgult ähmaseks ja kaob pea täielikult järgmistel piltidel.",
+        "Fookus muutub teravalt hajutatuks ja abstraktseks.",
+        "Üldine värvitoon muutub kuldkollasest ja pruunikast sügavamaks mustaks ja tumesinakaks."
+      ],
+      "snr": "007",
+      "ajad": [
+        "53.280",
+        "60.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tumedat ja udust interjööri, kus fookus on valgusallikal ja seda katval restil. Algselt on näha diagonaalsete metallribadega rest, mille tagant paistab uduselt kollakas-rohekas valgus. Valgus peegeldub restilt, luues pikki helendavaid triipe, mis annavad pildile teatud struktuuri. Järgmisel hetkel on stseen täielikult pime, justkui oleks valgus kustunud või kaamera liikunud täiesti pimedasse kohta. Lõpuks ilmub uuesti esile väga nõrk, udune ja hajameelne valgus, mis avaldub tumedal taustal diagonaalsete heledate, uduste täppidena, meenutades esialgse resti valguse peegeldusi, kuid veelgi abstraktsemana ja peaaegu äratundmatuna. Üldine meeleolu on salapärane, sünge ja pisut klaustrofoobiline, rõhutades valguse ja pimeduse vaheldumist ning fookuse muutumist.",
+      "actions": [
+        "Valguse hääbumine",
+        "Valguse kustumine",
+        "Valguse taasavaldumine",
+        "Fookuse muutumine"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Valgus",
+        "Rest",
+        "Udune",
+        "Abstraktne",
+        "Interjöör",
+        "Salapärane",
+        "Kollakas valgus",
+        "Must",
+        "Helendus",
+        "Hämarus",
+        "Geomeetriline"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Rest",
+        "Valgusallikas"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#3C3C3C",
+        "#8F8B5C",
+        "#D9D193"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Valgusallika intensiivsuse muutus, mis viib täielikust pimedusest nõrga, hajutatud valguseni.",
+        "Fookuse ja teravuse muutumine esialgsest udusest struktuurist täielikku fookuse kadumisse.",
+        "Resti nähtavuse kadumine, asendudes abstraktsete valgustäppidega.",
+        "Stseeni heleduse dramaatiline langus ja hilisem tagasihoidlik taastumine."
+      ],
+      "snr": "008",
+      "ajad": [
+        "60.600",
+        "61.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest pimedas ja piiratud ruumis, kes on selgelt hädas ja vigastatud. Tema nägu on kaetud mustuse ja vereplekkidega, ning vasakul käsivarrel on sügav, veritsev haav, mille ümber on seotud tume riidetükk, mis näib olevat improvisatsiooniline žgutt. Mees paistab pingutatult ja valulikult roomavat või liikuvat, hoides samal ajal pilku kas allapoole või otse ette. Valgus on nõrk ja dramaatiline, valgustades peamiselt tema nägu ja vigastatud kätt, jättes suure osa ümbrusest varjudesse. Stseenis on märgata ka kiire liikumise hõngu ja mööduvaid varjusid sinakas-valgustatud seina taustal, viidates pingelisele ja potentsiaalselt ohtlikule olukorrale.",
+      "actions": [
+        "roomamine",
+        "liikumine",
+        "valugrimass",
+        "vaatamine",
+        "pingutamine"
+      ],
+      "keywords": [
+        "vigastatud",
+        "pimedus",
+        "piin",
+        "vaev",
+        "pinge",
+        "veri",
+        "haav",
+        "žgutt",
+        "mees",
+        "mustus",
+        "klaustrofoobia",
+        "ellujäämine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "žgutt (riidetükk)",
+        "veri",
+        "mustus",
+        "sinine sein (taustal)"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#364e7c",
+        "#8c1e1e",
+        "#3d3b3c"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on udune ja näitab laiemat vaadet sinisele seinale ja liikuvaid varjusid, samas kui teised pildid on selged lähivõtted mehest.",
+        "Teisel ja kolmandal pildil on mehe näoilme ja pilgu suund veidi erinevad; teisel pildil paistab ta vaatavat allapoole ja kannatavat, kolmandal aga otse ettepoole ja veidi sihikindlamalt.",
+        "Valgustus mehe näol on kolmandal pildil veidi intensiivsem kui teisel pildil."
+      ],
+      "snr": "009",
+      "ajad": [
+        "61.720",
+        "69.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest, kes asub sünge ja udusesse keskkonda, kus domineerib sügav mustus ja jahe sinine valgus. Mees on vasakul pool kaadrist, algselt intensiivselt valgustatud külma tooniga valgusega, mis rõhutab tema näojooni ja keha vasakut külge. Ta on põlvili või küünarnukkidel, nägu väljendab piina, pinget või valu, suu on kergelt avatud, mis annab aimu oigamisest või hingeldamisest. Tema nahk on kahvatu ja t-särk tume, tõenäoliselt must. Käe peal on näha võimalik tätoveering või märk. Ümbritsev ruum on peaaegu täielikult pime, vaid vasakult paistev valgus heidab esile uduseid või suitsuseid elemente õhus. Parempoolne osa kaadrist on täielikult must. Stseeni arenedes vajub valgus märkimisväärselt, jättes mehe peaaegu täielikku pimedusse, kus temast on näha vaid ähmane siluett. Üldine meeleolu on dramaatiline, intensiivne ja süngelt salapärane, rõhutades võitlust või meeleheidet.",
+      "actions": [
+        "Roomamine või püsti tõusmine",
+        "Vaevlemine",
+        "Oigamine/hingeldamine"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Varjud",
+        "Valu",
+        "Võitlus",
+        "Draama",
+        "Intensiivne",
+        "Müsteerium",
+        "Jahe valgus",
+        "Suits",
+        "Mees"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Suits/udu"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#2f4f6e",
+        "#6e8e9e"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "80",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimestel kahel pildil on mees paremini valgustatud ja tema näoilme ning poos on selgemini eristatavad.",
+        "Kolmandal pildil on valgus peaaegu täielikult kadunud, jättes mehe peaaegu täielikku pimedusse ja muutes ta vaevu nähtavaks siluetiks.",
+        "Valgustuse intensiivsus ja levik vähenevad kaadrite järjestuses.",
+        "Mehe näoilme ja kehaasend muutuvad kergelt esimeste kaadrite vahel, kolmandas kaadris on detailid peaaegu kadunud."
+      ],
+      "snr": "010",
+      "ajad": [
+        "69.480",
+        "74.720"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub äärmiselt pimedas ja suitsuses/uduses siseruumis. Alguses on nähtav üks inimene, kes on osaliselt valgustatud ja kummardub või liigub madalalt üle mingi pinna. Tema siluett ja keha ülemine osa on aimatavad, seljas on tumedad riided. Õhku täitev suits või udu on eredalt valgustatud, luues müstilise ja pingelise atmosfääri. Põrandal või pinnal, mille kohal inimene liigub, on märgata võrgutaolist tekstuuri, mis on samuti nõrgalt valgustatud. Stseeni edenedes kaob inimene sügavasse pimedusse ning kaamera liigub või fookus nihkub, jättes nähtavale peaaegu täielikult musta kaadri, kus vaid paremal pool on aimatav väga nõrk sinakas valgusallikas. Üldmulje on salapärasest ja varjatud tegevusest äärmiselt pimedas ja potentsiaalselt ohtlikus keskkonnas.",
+      "actions": [
+        "inimene kummardub või liigub madalalt",
+        "inimene kaob pimedusse"
+      ],
+      "keywords": [
+        "pime",
+        "suitsune",
+        "udune",
+        "salapärane",
+        "pingeline",
+        "varjatud",
+        "siseruum",
+        "madal valgus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "suits",
+        "udu",
+        "põrandapind",
+        "võrgustik"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#0a0a1a",
+        "#a0c0e0"
+      ],
+      "texts": [],
+      "persons": [
+        "üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on nähtav inimene ja märgatavam suits/udu ning valgus, samas kui järgmistel piltidel inimene kaob pimedusse ja stseen muutub oluliselt tumedamaks.",
+        "Valguse hulk ja detailide nähtavus väheneb drastiliselt esimeselt pildilt viimastele, jättes alles vaid aimatava sinaka valguse paremal servas."
+      ],
+      "snr": "011",
+      "ajad": [
+        "74.720",
+        "76.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest pimedas, arvatavasti siseruumides, kus valitseb pinge ja ärevus. Valgus on madal ja domineerivad tumesinised, hallid ja mustad toonid, mida aeg-ajalt katkestavad teravad, jahedatoonilised valgusallikad. Esialgu on mees näha siluetina, kummardumas metallresti või ventilatsioonišahti kohal, kus suits või udu varjab osaliselt vaadet, valgustatuna kollakasvalge valgusega. See viitab uurimisele või varjatud tegevusele. Atmosfäär on salapärane ja mõnevõrra ähvardav. Hiljem näidatakse meest emotsionaalses segaduses, hoides käsi peas, nägu varjus, mis rõhutab stressi või sügavat mõtisklust. Lõpuks on ta näha lamamas kõhuli, intensiivselt heledalt valgustatud metallresti sisse vaatamas, nägu altpoolt tugeva sinaka valgusega valgustatud. Tema käsi toetub restile. Suur, moonutatud käe vari on projitseeritud seinale tema kohal, lisades stseenile dramaatilise ja võimalik, et ähvardava elemendi. See viitab aktiivsele otsingule või püüdlusele resti kaudu suhelda või põgeneda. Üldmulje on pakilisusest, uurimisest ja võimalikust kinnipidamistest või võitlusest hämaras, tööstuslikus keskkonnas.",
+      "actions": [
+        "kummardumine",
+        "uurimine",
+        "käte pea peale panemine",
+        "stressi näitamine",
+        "lamamine kõhuli",
+        "millegi sisse vaatamine",
+        "otsimine",
+        "pingutamine"
+      ],
+      "keywords": [
+        "pimedus",
+        "salapära",
+        "pinge",
+        "stress",
+        "suits",
+        "ventilatsioonirest",
+        "vari",
+        "uurimine",
+        "üksindus",
+        "vangistus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "metallrest",
+        "suits",
+        "udu",
+        "sein",
+        "valgusallikas"
+      ],
+      "colorcodes": [
+        "#0d0d12",
+        "#2c324c",
+        "#5a677d",
+        "#add8e6",
+        "#e6e6dc"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kadreering ja võttenurk muutuvad: esimesel pildil on laiem võte, teisel ja kolmandal lähivõtted.",
+        "Valgustus varieerub: esimesel pildil kollakas tagantvalgustus, teisel hämar sinakas valgus, kolmandal intensiivne sinine altvalgustus.",
+        "Mehe kehahoiak ja tegevus: esimesel pildil kummardub mees üle resti, teisel hoiab pead käte vahel, kolmandal lamab kõhuli ja vaatab resti sisse.",
+        "Näo nähtavus: esimesel pildil on nägu siluetina, teisel varjus, kolmandal on nägu altpoolt valgustatud.",
+        "Varjude olemasolu: kolmandal pildil on seinal näha suur käe vari, mida teistel piltidel pole."
+      ],
+      "snr": "012",
+      "ajad": [
+        "76.800",
+        "138.440"
+      ]
+    },
+    {
+      "explanation": "Stseenil on lähedalt näha mehe nägu, peamiselt otsaesine, silmad ja põsed. Mehe nägu on kaetud mitme haava ja verega: otsaesisel on pikk sügav kriimustus ja paremal põsel on näha tumedamad vereplekid. Tema nahk on kaetud intensiivse sinise valgusega, mis annab stseenile külma, dramaatilise ja pingelise atmosfääri. Mehe pilk on suunatud allapoole ja paremale, edastades keskendunud, tõsise või mureliku meeleolu. Vasakul otsaesisel, juuksepiiri lähedal on märgata mingit mustrit või sümbolit, mis lisab tegelasele sügavust ja intriigi. Üldine toon on sünge ja pakiline, vihjates hiljutisele traumale või ettevalmistusele millekski oluliseks.",
+      "actions": [
+        "Keskendumine",
+        "Pilgu suunamine allapoole"
+      ],
+      "keywords": [
+        "Vigastused",
+        "Veri",
+        "Sinine valgus",
+        "Intensiivsus",
+        "Dramaatiline",
+        "Pingeline",
+        "Mees",
+        "Nägu",
+        "Sümbol",
+        "Salapärane",
+        "Külm"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [
+        "Inimese nägu",
+        "Veri",
+        "Haavad",
+        "Sümbol otsaesisel"
+      ],
+      "colorcodes": [
+        "#6086b6",
+        "#7e0f0f",
+        "#111213",
+        "#a4d0ec"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Parema silma iiris ja pupill liiguvad piltide vahel väga kergelt, viidates minimaalsele pilgu nihkele. Esimesel pildil on pupill kergelt kõrgemal ja keskel, samas kui teisel ja kolmandal pildil on see nihkunud veidi allapoole ja vasakule (vaataja seisukohast), paljastades silmavalget pupilli kohal."
+      ],
+      "snr": "013",
+      "ajad": [
+        "138.440",
+        "144.040"
+      ]
+    },
+    {
+      "explanation": "Mees on pimedas ja kitsas ruumis, tõenäoliselt mingisuguses tunnelis või ventilatsioonišahtis, liikudes madalal käpuli või roomates. Tema nägu ja ette sirutatud vasak käsi on valgustatud altpoolt tuleva terava sinaka valgusega, mis heidab metallresti varjud triipudena tema näole ja käele. Ta vaatab pingsalt alla ja ettepoole, justkui otsides midagi või hinnates olukorda teadmata ohtude keskel. Tema parem külg ja selg jäävad täielikult pimedusse, mis süvendab salapära ja hirmu. Üldine atmosfäär on pingeline ja ähvardav, millele lisab erilist dramaatilisust hiiglaslik, moonutatud käe- või küünisekujuline vari taustal. Mees kannab tumedaid riideid.",
+      "actions": [
+        "roomamine",
+        "vaatamine",
+        "otsimine",
+        "hindamine"
+      ],
+      "keywords": [
+        "pimedus",
+        "pinge",
+        "hirm",
+        "vari",
+        "sinine valgus",
+        "rest",
+        "kitsas ruum",
+        "mees",
+        "roomamine",
+        "suspense",
+        "õudus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "metallrest",
+        "vari (käe või küünise)",
+        "sein/pind (taustal)",
+        "riided"
+      ],
+      "colorcodes": [
+        "#050505",
+        "#4285F4",
+        "#ADD8E6",
+        "#203040"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 75,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on taustal näha suur käe- või küünisekujuline vari, mis teisel pildil puudub.",
+        "Teine pilt on esimesest veidi sisse suumitum või teise nurga alt kadreeritud, rõhutades rohkem meest ja tema vahetut ümbrust ning vähendades taustaruumi."
+      ],
+      "snr": "014",
+      "ajad": [
+        "144.040",
+        "189.760"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub siseruumides, mis tundub olevat mingi tööstuslik või tehniline hoone, võimalik, et kontrollruum või serveriruum. Esimene kaader näitab laia vaadet hallile, veidi kulunud põrandale, millel on eesplaanil tume metallist rest-sarnane objekt. Vasakul on näha helesinist või halli seina. Ülejäänud kaadrid keskenduvad mehele, kellel on näol ja paremal käel nähtavad vigastused (kriimud, võimalik veri). Ta kannab tumedat särki ja asub pimedamas ruumiosas, kus on näha elektroonilisi seadmeid, monitore ja ekraane, mis kiirgavad rohelist valgust. Üldine valgustus ruumis on tume, kus domineerib punakas-oranž ja roheline kunstlik valgus. Mehe ilme on tõsine, murelik või keskendunud, viitades võimalikule pingelisele olukorrale või haavatavusele.",
+      "actions": [
+        "Mees vaatab alla või otse ette, olles paigal",
+        "Mees on vigastatud"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Tume",
+        "Vigastused",
+        "Mees",
+        "Kontrollruum",
+        "Põrand",
+        "Metallvõrk",
+        "Elektroonika",
+        "Monitorid",
+        "Pingeline",
+        "Haavatud"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Metallvõrk",
+        "Põrand",
+        "Sein",
+        "Monitorid",
+        "Ekraanid",
+        "Elektrooniline varustus",
+        "Arvuti/serverikast"
+      ],
+      "colorcodes": [
+        "#5a646c",
+        "#1a1a1a",
+        "#883d1c",
+        "#33a533",
+        "#6b4d3f",
+        "#0a0a0a"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on lai kaader tühjast põrandaalast koos metallvõrguga, kus puudub inimtegevus.",
+        "Teine ja kolmas pilt on fookustatud mehele, näidates tema vigastusi näol ja käsivarrel ning elektrooniliste seadmetega varustatud ruumiosa.",
+        "Kolmas pilt on veidi laiem kaader mehest kui teine pilt, näidates rohkem tema paremat kätt ja tausta."
+      ],
+      "snr": "015",
+      "ajad": [
+        "189.760",
+        "243.440"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset hämaralt valgustatud siseruumis, mis meenutab kaasaegset juhtimisruumi, laborit või turvalist rajatist. Kaadri keskmes on pikk, hele hall või valge laud, millel asetseb neli tumedat ristkülikukujulist paneeli või eset, mis on joondatud üksteise kõrvale. Taustal asub tume sein, millel on suur, horisontaalne tume ekraan või monitor. Ekraani all paremal on seinale kinnitatud kaks väiksemat, ümmargust oranži või punast valgustatud nuppu või indikaatorit. Ruumi paremas servas on näha metallikhall uks koos lingiga. Stseenis on näha üks inimene, kes liigub ruumis ja tegeleb erinevate objektidega. Ühel hetkel hoitakse käes relva, teisel haaratakse ukselingist ning kolmandal jälgitakse laual olevaid esemeid. Inimene kannab tumedaid riideid ja ühel pildil on näha punast või oranži värvi kinnitust käsivarrel. Üldine atmosfäär on pingeline ja salapärane, jättes mulje kriitilisest olukorrast või operatsioonist.",
+      "actions": [
+        "Relva hoidmine",
+        "Ukse avamine või sulgemine",
+        "Laual olevate esemete uurimine",
+        "Ruumi sisenemine või lahkumine",
+        "Ruumi jälgimine"
+      ],
+      "keywords": [
+        "Hämar",
+        "Siseruum",
+        "Juhtimisruum",
+        "Labor",
+        "Pinge",
+        "Salapärane",
+        "Tehnoloogiline",
+        "Keskjaam",
+        "Relv",
+        "Uks",
+        "Operatsioon",
+        "Turvalisus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laud",
+        "Ristkülikukujulised paneelid",
+        "Ekraan",
+        "Nupud",
+        "Uks",
+        "Ukselink",
+        "Käepidemega tulirelv",
+        "Käsivarrekinnitus"
+      ],
+      "colorcodes": [
+        "#212121",
+        "#C0C0C0",
+        "#404040",
+        "#606060",
+        "#F15C22"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Isiku asukoht ja tegevus kaadrites on erinev: esimeses pildis on inimene vasakul ja hoiab relva, teises pildis on inimene paremal ja haarab ukselingist, kolmandas pildis on inimene paremal ja jälgib lauda.",
+        "Relva olemasolu: relv on näha ainult esimeses pildis.",
+        "Fookus ja teravus: esimene pilt on udusem, teised kaks on teravamad.",
+        "Valgustus: piltide vahel on kerged erinevused valguse intensiivsuses ja varjude paigutuses, mis viitab võimalikule kaamera säriaja muutusele või valgusallika liikumisele."
+      ],
+      "snr": "016",
+      "ajad": [
+        "243.440",
+        "263.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat, siseruumi, mis meenutab laboratooriumi või juhtimiskeskust. Seinad on tuhmilt oranžikaspruunid, andes ruumile vananenud või tööstusliku ilme. Valgusallikateks on peamiselt erinevad monitorid, mis kiirgavad eredat rohelist valgust, ning üldine nõrk punakas õhkkond. Vasakul on näha mitu vanemat tüüpi monitori, mis kuvavad rohelist teksti nagu 'RADIAANE' ja 'HAZARD', samuti erinevaid graafikuid ja skeeme. Paremal on puidust lauaplaat, millel asub hall kolme sahtliga kummut. Kummuti kõrval laual on musta ja hõbedase värvusega mikroskoop. Kogu stseeni vältel on ruumis mees, kes kannab tumedaid riideid ja kelle näol on näha mustust. Ta läheneb kummutile, avab selle ülemise sahtli ja vaatab sisse, justkui otsides või kontrollides selle sisu.",
+      "actions": [
+        "Mees läheneb kummutile",
+        "Mees avab kummuti ülemise sahtli",
+        "Mees vaatab sahtlisse"
+      ],
+      "keywords": [
+        "labor",
+        "monitorid",
+        "sahtel",
+        "mikroskoop",
+        "hämar",
+        "tehnoloogia",
+        "salajane",
+        "tume",
+        "roheline valgus",
+        "otsimine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "kummut",
+        "mikroskoop",
+        "monitorid",
+        "laud",
+        "sein",
+        "sahtel"
+      ],
+      "colorcodes": [
+        "#2F0000",
+        "#00FF00",
+        "#D3A867",
+        "#3E4044",
+        "#1C1C1C",
+        "#7D7D7D"
+      ],
+      "texts": [
+        "RADIAANE",
+        "HAZARD"
+      ],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on mees alles lähenemas kummutile, käed keha kõrval ja selg monitoride poole.",
+        "Teisel pildil on mees jõudnud kummuti ette ja sirutab käe sahtli avamiseks.",
+        "Kolmandal pildil on kummuti ülemine sahtel avatud ja mees vaatab selle sisemusse, nägu selgemalt nähtav."
+      ],
+      "snr": "017",
+      "ajad": [
+        "263.360",
+        "271.320"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha inimest, kes sirvib või otsib midagi metallkapist, mis sisaldab sahtleid. Inimese käed on fookuses ja tegutsevad avatud sahtlis, kus on näha erinevaid esemeid. Esimesel pildil on sahtlis näha paberilehte tabeliga ja väikeseid valgeid objekte. Teisel pildil on laiem vaade inimese käsivartele ja kätele, mis ulatuvad kapi poole. Kolmandal pildil on samas sahtlis märgatav kimp värvilisi juhtmeid (punased, kollased, mustad), mis viitab elektrooniliste komponentide otsimisele. Taust on hägune ja tume, viitades siseruumile ja vaoshoitud, tõenäoliselt öisele valgustusele.",
+      "actions": [
+        "Sahtli avamine",
+        "Sahtlis sirvimine",
+        "Esemate otsimine",
+        "Esemate käsitlemine"
+      ],
+      "keywords": [
+        "Otsing",
+        "Tööriistad",
+        "Komponendid",
+        "Elektroonika",
+        "Siseruum",
+        "Käed",
+        "Metallkapp",
+        "Sahtel",
+        "Juhtmed",
+        "Paber",
+        "Hämarus",
+        "Diskreetne"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Metallkapp",
+        "Sahtel",
+        "Inimkäed",
+        "Inimese käsivarred",
+        "Paberileht",
+        "Tabel",
+        "Valged objektid",
+        "Kimp juhtmeid (punased, kollased, mustad)"
+      ],
+      "colorcodes": [
+        "#5A5A5A",
+        "#B08D7A",
+        "#E0E0E0",
+        "#D01F1F",
+        "#E0E000",
+        "#1A1A1A",
+        "#303030"
+      ],
+      "texts": [
+        "Tabeli struktuur paberil"
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on avatud sahtlis näha paberilehte tabeliga ja väikseid valgeid objekte, samas kui kolmandal pildil on samas sahtlis esiplaanil kimp värvilisi juhtmeid ja paber on nihutatud või varjatud.",
+        "Teine pilt pakub laiemat vaadet tegevusele, keskendudes inimese käsivartele ja kätele sahtli manipuleerimisel, samas kui esimene ja kolmas pilt on detailsemad lähivõtted sahtli sisust."
+      ],
+      "snr": "018",
+      "ajad": [
+        "271.320",
+        "274.600"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub pimedas, punakas-oranži valgustusega interjööris, mis meenutab laborit või juhtimiskeskust. Kesksel kohal on tumedasse pikkade varrukatega särki riietatud mees, kelle näol on märgata kriimustusi või verevalumeid. Mees tegeleb tumeda puidust kapi sahtliga, otsides sealt midagi. Sahtel on alguses avatud, seejärel mees uurib selle sisu ja lõpuks sulgeb sahtli. Paremal asub laua peal mikroskoop ja monitor, mis kuvab rohelises toonis inimfiguuri koos graafikutega. Vasakul on näha vanemaid monitore roheliste ja punaste kuvadega. Üldine atmosfäär on salapärane ja töine, viitades öisele tegevusele.",
+      "actions": [
+        "Mees avab sahtlit",
+        "Mees uurib sahtli sisu",
+        "Mees sulgeb sahtlit",
+        "Mees otsib midagi"
+      ],
+      "keywords": [
+        "labor",
+        "teadus",
+        "pime",
+        "öö",
+        "mees",
+        "sahtel",
+        "mikroskoop",
+        "monitorid",
+        "uurimine",
+        "salajane",
+        "punetus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "pikkade varrukatega särk",
+        "kapp",
+        "sahtel",
+        "mikroskoop",
+        "monitor",
+        "ekraan",
+        "inimfiguur",
+        "graafikud",
+        "sein",
+        "valgustus"
+      ],
+      "colorcodes": [
+        "#1E1E1E",
+        "#8B3C2A",
+        "#00FF00",
+        "#FFFFFF",
+        "#C0C0C0"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on sahtel osaliselt avatud ja mees hoiab käsi sahtli sees.",
+        "Teisel pildil on sahtel veidi rohkem avatud ja mees näib midagi sahtlist välja võtvat või selle sisu tähelepanelikumalt uurivat.",
+        "Kolmandal pildil on sahtel sulgumas ja mees surub seda kinni."
+      ],
+      "snr": "019",
+      "ajad": [
+        "274.600",
+        "277.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast lähivõtet tumedast sahtlist või kapilaekast siseruumides. Valgustus on hämar, andes edasi varjatud või salajase tegevuse tunde. Pildil on näha inimene, kes sirutab oma parema käega sahtlisse, manipuleerides seal olevate dokumentidega. Käsi on tegevuse tõttu veidi udune. Sahtlis on mitu pruunikat, ilmselt papist või paberist ümbrikku või kausta. Paremal pool sahtlis on selgelt näha valge dokument, millel on stiliseeritud sümbol – pööratud kolmnurk, mida läbib vertikaalne joon, millest omakorda kiirgavad välja peenikesed jooned – ning selle all on osaliselt loetav tekst \"CONCEPTS\". Sahtli sisemine osa ja mööbel on tumedat halli või musta värvi. Ülemises osas on näha sahtli käepide. Stseeni üldine toon on salapärane ja rõhutab tegevust.",
+      "actions": [
+        "Käe sirutamine sahtlisse",
+        "Dokumentide või ümbrike käsitsemine",
+        "Objekti paigutamine või eemaldamine sahtlist"
+      ],
+      "keywords": [
+        "Sahtel",
+        "Dokumendid",
+        "Käsi",
+        "Hämar",
+        "Siseruum",
+        "Salajane",
+        "Ümbrik",
+        "Sümbol",
+        "Tekst",
+        "Varjatud"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Sahtel",
+        "Inimese käsi",
+        "Pruunid ümbrikud/dokumendid",
+        "Valge dokument",
+        "Mööbliese"
+      ],
+      "colorcodes": [
+        "#292829",
+        "#b2856f",
+        "#997950",
+        "#fefefe"
+      ],
+      "texts": [
+        "CONCEPTS"
+      ],
+      "persons": [
+        "Inimene (ainult käsi nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 40,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses kaadris sirutab käsi sahtlisse, haarates pruunist ümbrikust.",
+        "Teises kaadris on käsi pruuni ümbrikuga sügavamal sahtlis või on seda tõmbamas.",
+        "Kolmandas kaadris on käsi peaaegu kaadrist väljas, jättes sahtli sisu, eriti valge dokumendi tekstiga \"CONCEPTS\", selgemalt nähtavaks."
+      ],
+      "snr": "020",
+      "ajad": [
+        "277.520",
+        "281.160"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub hämaras, arvatavasti laboratooriumi või salajase uurimisruumi siseruumides. Valgustus on madal, luues dramaatilise ja pingestatud õhkkonna, kus domineerivad tumedad varjud ja oranžikaspunane kuma. Keskel on mees, kes on hõivatud meditsiiniliste protseduuridega, tõenäoliselt süstimise ettevalmistamisega. Ta avab sahtleid ja otsib esemeid, seejärel seob oma käe ümber musta paela. Ta käel on näha kriimustusi või verevalumeid. Ümberringi on laboratooriumi varustus, nagu vanad monitorid rohelise tekstiga, mikroskoop ja laiali pillutud meditsiinitarvikud. Ühel monitoril on näha stiliseeritud inimkeha kujutis.",
+      "actions": [
+        "Sahtli avamine",
+        "Esemete otsimine ja võtmine laualt",
+        "Musta paela (žguti) sidumine käe ümber",
+        "Süstimiseks ettevalmistamine"
+      ],
+      "keywords": [
+        "Laboratoorium",
+        "Süst",
+        "Ettevalmistus",
+        "Salajane",
+        "Hämar",
+        "Varjud",
+        "Uurimine",
+        "Meditsiiniline",
+        "Eksperiment",
+        "Žgutt",
+        "Kriimustused"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "siseruumides",
+      "objects": [
+        "Mees",
+        "Kapp/kummut sahtlitega",
+        "Laud",
+        "Mikroskoop",
+        "Vanad monitorid (CRT)",
+        "Märkmepaberid",
+        "Pudelid/viaalid",
+        "Meditsiinilised tarvikud (nt süstlad, vatitupsud)",
+        "Must pael/žgutt",
+        "Digitaalne inimkeha kujutis monitoril",
+        "Roheline tekst/graafikud monitoril"
+      ],
+      "colorcodes": [
+        "#202020",
+        "#4d2e1f",
+        "#724933",
+        "#8b8b8b",
+        "#00ff00",
+        "#0a0a0a"
+      ],
+      "texts": [
+        "Monitoril nähtamatu roheline tekst ja numbrid (nt \"2600\" ja nooleke)",
+        "Monitoril graafikud/andmed"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "reaalne",
+      "emptypercent": "40",
+      "season": "ei ole selge",
+      "daytime": "öö",
+      "differences": [
+        "Kaamera fookus muutub laiemalt plaanilt detailsemale lähivõttele",
+        "Mehe tegevus areneb sahtli avamisest ja esemete võtmisest žguti sidumiseni käe ümber",
+        "Kolmandal pildil on selgemalt näha mehe käel olevad kriimustused või vigastused",
+        "Esimesel pildil on näha monitoridel rohkem detaile, mis hiljem jäävad kaadrist välja"
+      ],
+      "snr": "021",
+      "ajad": [
+        "281.160",
+        "300.320"
+      ]
+    },
+    {
+      "explanation": "Stseenis näidatakse inimest ülevalt vaates, kes on kummardunud tumedas ruumis või hämaras keskkonnas. Isik kannab musta t-särki, mis on paremalt õlalt rebenenud, paljastades tumepunase, verise haava. Inimese käed on samuti määrdunud ja tegelevad aktiivselt millegi manipuleerimisega madalal asetseva pruuni pappkarbi sees. Karbi sisu ja inimese käed on valgustatud tugeva oranžikas-punaka valgusega, samal ajal kui ülejäänud stseen on sinakas-mustades toonides ja varjudes. Inimese pea on esimeses kaadris nähtav, vaatamas alla, kuid järgmistes kaadrites jääb see fookusest välja, kui tegevus keskendub käte liikumisele. Üldine atmosfäär on sünge ja pingeline, vihjates vigastusele ja tegevusele, mis toimub varjatud või kiireloomulises olukorras.",
+      "actions": [
+        "Kummardumine",
+        "Esemete manipuleerimine",
+        "Veritsemine"
+      ],
+      "keywords": [
+        "Vigastus",
+        "Veri",
+        "Pimedus",
+        "Manipuleerimine",
+        "Sünge",
+        "Pinge",
+        "Rebenenud riided",
+        "Öine",
+        "Pappkarp",
+        "Sisemine ruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "T-särk",
+        "Veri",
+        "Pappkarp",
+        "Väikesed esemed",
+        "Valgusallikas"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#8B0000",
+        "#604020",
+        "#1A1A3A",
+        "#FF8000"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on inimese pea veel nähtaval, kui ta hakkab kummarduma ja käed on liikumise alguses.",
+        "Teisel pildil on pea kaadrist väljas ja käed on aktiivsemalt tegevuses karbis olevate esemetega, esineb kerge liikumisest tingitud hägu.",
+        "Kolmandal pildil on käte tegevus veelgi selgemalt fookuses, näidates täpsemat esemete manipuleerimist ilma olulise häguta."
+      ],
+      "snr": "022",
+      "ajad": [
+        "300.320",
+        "302.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest ülaltvaates, fookus on tema kätele ja ülakehale. Üldine valgustus on hämar ja dramaatiline, domineerivad sügavad varjud ja intensiivsed värvid. Isiku paremal käel (vaataja vasakul) on näha piklik haav või arm, millel on värsket verd. Ümber parema õlavarre on seotud tume riideriba, mis meenutab tuurnikeed. Vasakus käes hoitakse mitut valget silindrilist eset, mis meenutavad ampulle või süstlaid ilma nõelata. Parema käega manipuleeritakse ühte neist esemetest, valmistudes ilmselt millegi süstimiseks või manustamiseks. Stseeni vasakul serval on näha osa sinakashallist metallist esemest, mis võiks olla kapp või kast. Valgus on kontrastne – paremal käel on tugev oranžikas-punakas helendus, samal ajal kui vasakpoolne taust on sinakas.",
+      "actions": [
+        "Hoiab esemeid",
+        "Manipuleerib silindriliste esemetega",
+        "Valmistub süstimiseks või manustamiseks"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Haav",
+        "Veri",
+        "Süstimine",
+        "Narkootikumid",
+        "Tuurnikee",
+        "Vari",
+        "Dramaatiline valgus",
+        "Sõltuvus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimene",
+        "Tume särk",
+        "Veri",
+        "Haav",
+        "Tumeda riide riba",
+        "Valged silindrilised esemed",
+        "Metallist/sinakas-hall kapp/kast"
+      ],
+      "colorcodes": [
+        "#1A1A2E",
+        "#A04A2A",
+        "#500000",
+        "#FFFFFF",
+        "#0D0D0D",
+        "#304E6E"
+      ],
+      "texts": [],
+      "persons": [
+        "Isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil hoiab isik valgeid esemeid vasakus käes, parem käsi on kehale lähemal, manipuleerides ühte eset.",
+        "Teisel pildil on parem käsi liikunud allapoole õlavart, riideribale lähemale, jätkates esemega manipuleerimist.",
+        "Kolmandal pildil on parem käsi asetatud küünarnuki siseküljele, hoides eset surutult vastu nahka, mis viitab süstimise või manustamise algusele või toimumisele. Vasak käsi hoiab endiselt ülejäänud esemeid.",
+        "Isiku pea asend muutub veidi, vaadates edasi liikudes rohkem alla."
+      ],
+      "snr": "023",
+      "ajad": [
+        "302.200",
+        "303.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes ravib end pimedas ja dramaatiliselt valgustatud siseruumis. Ülevalt filmitud kaadrid näitavad meest (või naist), kes on süvenenud oma vasaku käsivarre sidumisse. Käsivarrel on pikk, sügav ja verine haav, mis ulatub õlast peaaegu küünarnukini. Isik on seljas tumeda lühikeste varrukatega pluusi ja tumedad püksid. Ta kasutab oma paremat kätt, et mähkida haava ümber valget sidet või marli, mis on juba verine. Tema nägu on osaliselt näha ja tundub, et seal on samuti vereplekke või mustust. Ümberringi on pime, vasakul on näha tumesinine sein või pind ning paremal pruun kast või laud. Valgustus on pigem hämar, esile tuues eriti verise haava ja sidumise tegevuse, luues pingelise ja intiimse olukorra tunde.",
+      "actions": [
+        "Haava sidumine",
+        "Enda ravimine",
+        "Meditsiiniline abi endale andmine",
+        "Käe ümber mähkimine"
+      ],
+      "keywords": [
+        "Haav",
+        "Vigastus",
+        "Veri",
+        "Side",
+        "Sidumine",
+        "Valu",
+        "Pimedus",
+        "Dramaatiline",
+        "Isik",
+        "Käsivars",
+        "Eneserevi"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Isik",
+        "Käsivars",
+        "Haav",
+        "Veri",
+        "Side",
+        "Tume pluus",
+        "Tumedad püksid",
+        "Tumesinine sein/pind",
+        "Pruun kast/laud"
+      ],
+      "colorcodes": [
+        "#202040",
+        "#604030",
+        "#802010",
+        "#E0E0E0",
+        "#C08060",
+        "#101010"
+      ],
+      "texts": [],
+      "persons": [
+        "Isik (mees)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on side just haavale pandud ja selle mähkimine algab.",
+        "Teisel pildil on side juba osaliselt ümber käe mähitud ja isik hoiab oma kätt keha lähedal, nägu on rohkem näha.",
+        "Kolmandal pildil on sidumisprotsess edenenud, side katab suurema osa haavast ja on tihedamalt ümber käe."
+      ],
+      "snr": "024",
+      "ajad": [
+        "303.480",
+        "307.600"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha haavatud meest tumedates siseruumides, kes on hõivatud oma vigastuste eest hoolitsemisega. Ta kannab tumedat varrukateta särki. Mehe paremal põsel on näha kriimustusi või väiksemaid haavu. Tema vasakul õlavarrel on aga silmatorkav, pikk ja tume haav, mis näib olevat sügav. Esimesel kaadril eemaldab mees oma vasakult õlavarrel olevalt haavalt valget sidet, paljastades all oleva verise vigastuse. Teises kaadris on side peaaegu täielikult eemaldatud, eksponeerides haava veelgi selgemalt. Kolmandas kaadris on side täielikult eemaldatud ja mehe vasak käsi on rusikasse surutud, mis viitab pingele või valule. Valgustus on hämar, tumeda sinakasmusta taustaga, samas kui mees ise on valgustatud intensiivse oranži-punaka valgusega, mis toob haavad esile ja loob dramaatilise ning sünge meeleolu. Üldine atmosfion on intiimne ja pingeline, keskendudes mehe haavatavusele ja kannatustele.",
+      "actions": [
+        "Sideme eemaldamine õlavarrel",
+        "Haava paljastamine",
+        "Rusika surumine",
+        "Enda vigastuste eest hoolitsemine"
+      ],
+      "keywords": [
+        "Vigastus",
+        "Haav",
+        "Sidumine",
+        "Veri",
+        "Mees",
+        "Siseruum",
+        "Hämarus",
+        "Oranž valgus",
+        "Trauma",
+        "Valu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Side",
+        "Särk",
+        "Veri",
+        "Haav"
+      ],
+      "colorcodes": [
+        "#0B0A1C",
+        "#1E0D36",
+        "#E66E38",
+        "#590202",
+        "#FFFFFF",
+        "#0F0B10"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel kaadril eemaldab mees sideme, teisel kaadril on see peaaegu eemaldatud ja kolmandal kaadril on side täielikult eemaldatud, samuti on mehe vasaku käe asend muutunud rusikaks"
+      ],
+      "snr": "025",
+      "ajad": [
+        "307.600",
+        "318.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest hämaralt valgustatud, tõenäoliselt tehnilises või juhtimisruumis. Mees kannab musta T-särki ja tema kehal, eriti kaelal ja näol, on näha vigastusi või mustust. Tema paremal käsivarrel on side. Stseeni keskmes on suur ekraan, mis kuvab dramaatilist pilti: tumedat, tormist merd, mille horisondil särab erepunane, helendav taevakeha, mis meenutab päikest või tähte. Algselt seisab mees ekraani ees, hoides midagi väikest paremas käes, kuid seejärel pöörab ta ennast ekraani poole ja istub maha konsooli taha, kus asub klaviatuur. Ruumi ümbritsevad tumedad seinad, nähtavad on kaabeldus ja väikesed helendavad tuled, mis annavad edasi töökeskkonna tunde. Üldine atmosfäär on sünge ja pingeline.",
+      "actions": [
+        "Vaatamine ekraani",
+        "Pööramine ekraani poole",
+        "Liikumine konsooli juurde",
+        "Istumine klaviatuuri taha",
+        "Potentsiaalne konsooli opereerimine"
+      ],
+      "keywords": [
+        "Tume ruum",
+        "Ekraan",
+        "Vigastatud mees",
+        "Punane taevakeha",
+        "Meri",
+        "Kontrollruum",
+        "Tehnoloogia",
+        "Konsool",
+        "Pingeline õhkkond",
+        "Sünge"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Must T-särk",
+        "Suur ekraan",
+        "Klaviatuur",
+        "Konsool",
+        "Juhtmed",
+        "Väikesed tuled",
+        "Side käsivarrel",
+        "Helendav taevakeha",
+        "Meri/veekogu"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#8b0000",
+        "#ff0000",
+        "#303030",
+        "#ffc200",
+        "#ffffff"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Mehe kehahoiak ja suund muutuvad, liikudes algsest poolprofiilist täielikult seljaga ekraani poole.",
+        "Mees liigub seistes ekraani eest laua taha istuma, asudes konsooli taha.",
+        "Algselt mehe paremas käes hoitud väike ese kaob järgmistes kaadrites.",
+        "Sidemed mehe paremal käsivarrel ja vigastused kaelal on erinevatel hetkedel erinevalt nähtavad, olenevalt vaatenurgast ja valgustusest.",
+        "Klaviatuur ja konsool muutuvad selgemalt nähtavaks, kui mees nende ette istub."
+      ],
+      "snr": "026",
+      "ajad": [
+        "318.000",
+        "341.960"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noorem mees, kellel on näha vigastusi ja kes on ilmselt läbi elanud raske olukorra. Tema näol, eriti laubal, paremal põsel ja parema kõrva ümber, on vereplekke ja mustust, mis viitab hiljutisele võitlusele või õnnetusele. Mehe vasak käsi on sidemega kinni seotud, mis paistab olevat hele või valge, viitades värskele vigastusele. Seljas kannab ta tumedat, tõenäoliselt musta värvi nööpidega särki. Keskkond on hämar ja siseruumides, valgustus on napp, domineerivad tumesinised toonid ja aimatavad punakad nüansid, mis loovad pingelise ja tõsise atmosfääri. Taustal on näha suurt tumedat ekraani või paneeli ning tööstusliku hõnguga seina või varustust. Mehe pilk on erinevates kaadrites suunatud erinevatesse suundadesse – kord vasakule, kord ette ja alla, kord paremale, mis annab edasi erksust, muret või ümbruse hindamist.",
+      "actions": [
+        "Vaatab ringi",
+        "Pöörab pead",
+        "On ergas",
+        "Näib murelik"
+      ],
+      "keywords": [
+        "Haavatud",
+        "Pinge",
+        "Tume",
+        "Siseruum",
+        "Mees",
+        "Vigastus",
+        "Side",
+        "Hämarus",
+        "Kontrollruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Särk",
+        "Side",
+        "Ekraan (taustal)",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#1C1C1E",
+        "#2F2F3D",
+        "#9B2D1C",
+        "#E7E7E7",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe pea ja pilgu suund erineb kaadrite vahel. Esimeses pildis vaatab ta vasakule (vaataja paremale küljele), teises alla ja ette ning kolmandas paremale (vaataja vasakule küljele), andes edasi aktiivset ümbruse jälgimist."
+      ],
+      "snr": "027",
+      "ajad": [
+        "341.960",
+        "349.560"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab ülaltvaates meest, kes on süvenenult hõivatud keerulise klaviatuuri või juhtpaneeli taga. Valgustus on väga hämar ja suunatud, luues dramaatilise ja pingelise atmosfääri. Mees on seljaga kaamera poole, näha on tema pea ja õlad. Tal on seljas tume, lühikeste varrukatega särk. Tema vasakul käel on vigastus, mis on kaetud valge sidemega, mis näib olevat verine. Käed ja küünarvarred on määrdunud või tolmused. Mees tippib intensiivselt laiale, mitmeosaline klahvistikule. Klahvistik ise on hallides toonides, mustade klahvidega. Paremal pool on näha osa tumedast monitorist või ekraanist. Ümbritsev keskkond on pime ja detailideta, mis rõhutab tegevuse olulisust ja isolatsiooni. Mehe juuksed on lühikesed ja hallisegused. Terve stseen annab edasi kiirustamise, ohu või intensiivse keskendumise tunde.",
+      "actions": [
+        "Trükkimine klaviatuuril",
+        "Nuppude vajutamine",
+        "Arvutiga töötamine",
+        "Süsteemiga suhtlemine"
+      ],
+      "keywords": [
+        "Häkkimine",
+        "Tehnoloogia",
+        "Pimedus",
+        "Vigastus",
+        "Operatsioon",
+        "Keskendumine",
+        "Salajane",
+        "Pingeline",
+        "Klahvistik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Klahvistik",
+        "Arvutiekraan/Monitor",
+        "Särk",
+        "Side",
+        "Veri",
+        "Laud/Tööpind"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#1c1c1c",
+        "#9a9a9a",
+        "#e6e6e6",
+        "#a04040",
+        "#cf8060",
+        "#505050"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on minimaalsed erinevused, peamiselt mehe sõrmede asendites klaviatuuril, mis viitab käimasolevale trükkimisele või nuppude vajutamisele. Üldine stseen ja valgustus on identsed."
+      ],
+      "snr": "028",
+      "ajad": [
+        "349.560",
+        "353.240"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noort meest lähivaates pimedas siseruumis. Mehel on tumedad juuksed ja ta kannab musta pluusi. Tema näol on näha mustust ja vereplekke, eriti paremal põsel ja laubal, mis annab märku varasemast võitlusest või pingelisest olukorrast. Valgus on nõrk, kusjuures mehe näole langeb allpoolt punakas-oranžikas kuma, mis annab stseenile dramaatilise ja pingelise tooni. Ta vaatab alguses pildist paremale poole, pöörates seejärel oma pilgu otse vaataja poole, suu veidi avatud ja ilmega, mis väljendab üllatust, intensiivsust või muret. Taust on udune ja tume, paremal on näha suuremat tumedat pinda, mis võiks olla ekraan või sein, ning alumises osas on näha lauapinda.",
+      "actions": [
+        "Mees vaatab paremale",
+        "Mees pöörab pead vaataja poole",
+        "Mees vaatab otse ette",
+        "Mees ilmutab üllatust või intensiivsust"
+      ],
+      "keywords": [
+        "Noor mees",
+        "Vigastused",
+        "Mustus näol",
+        "Pimedus",
+        "Siseruum",
+        "Pinge",
+        "Dramaatiline",
+        "Punakas kuma",
+        "Üllatus",
+        "Intensiivne pilk"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Must pluus",
+        "Vereplekid",
+        "Mustus",
+        "Ekraan taustal (võimalik)",
+        "Laud (võimalik)"
+      ],
+      "colorcodes": [
+        "#0d0d0d",
+        "#1e1e23",
+        "#333333",
+        "#824c3a",
+        "#ff6600",
+        "#2d2d31",
+        "#a37c62"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel kaadril on mees pööratud paremale, pakkudes profiilivaadet, intensiivse, kuid vaoshoitud ilmega.",
+        "Teisel kaadril on mehe asend peaaegu sama, kuid on märgata minimaalset pealiigutust.",
+        "Kolmandal kaadril on mees pööranud oma pea otse vaataja poole, suu on veidi avatud ja ilme on oluliselt intensiivsem või üllatunud."
+      ],
+      "snr": "029",
+      "ajad": [
+        "353.240",
+        "369.120"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud nooremapoolse inimese nägu lähivõttes ja profiilis, pilk on suunatud üles ja veidi vasakule. Nägu on intensiivselt valgustatud oranžikaspunase valgusega, mis annab stseenile dramaatilise ja sünge tooni, luues sügavaid varjusid ja rõhutades näojooni. Valgus paistab tulevat eest-paremalt. Otsmikul, vasaku kulmu kohal, on selgelt näha arm või haav, mis annab märku varasemast või hiljutisest traumast. Paremal põsel on näha suur, tume ja ebakorrapärase kujuga haav, mis meenutab põletust või mädanemist. Inimese silm on pärani lahti ja peegeldab punast valgust, andes sellele endalegi punaka või merevaigu tooni. Suu on kergelt avatud. Taust on väga tume ja hägune, mis suunab kogu fookuse vigastatud näole ja rõhutab olukorra intensiivsust ja võimalikku eraldatust. Üldine atmosfäär on pingeline, õõvastav ja vihjab raskele või ohtlikule olukorrale.",
+      "actions": [
+        "Üles vaatamine",
+        "Vigastatud olek",
+        "Pinge kogemine"
+      ],
+      "keywords": [
+        "Horror",
+        "Draama",
+        "Pinge",
+        "Haav",
+        "Vigastus",
+        "Punane valgus",
+        "Portree",
+        "Sünge",
+        "Intensiivne",
+        "Lähivõte",
+        "Trauma"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Inimese nägu",
+        "Haav otsmikul",
+        "Haav põsel",
+        "Silm"
+      ],
+      "colorcodes": [
+        "#D34D21",
+        "#33160B",
+        "#B76B4B",
+        "#2D180F",
+        "#5A2C1C"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel puuduvad märkimisväärsed visuaalsed erinevused."
+      ],
+      "snr": "030",
+      "ajad": [
+        "369.120",
+        "371.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest, kes istub seljaga vaataja poole pimedas ja tehnoloogiliselt täiustatud ruumis, mis sarnaneb kontrolljaama või komandosillaga. Ta vaatab intensiivselt kahele ekraanile. Suurem, parempoolne ekraan näitab sügavpunastes toonides maastikku või kosmilist vaadet, mis on apokalüptiline või võõrapärane, keskel silmapaistva helendava objekti või plahvatusega. Vasakpoolne väiksem ekraan kuvab holograafilisi, poolläbipaistvaid aknakesi, mis alguses on sinised, kuid muutuvad hiljem erkpunaseks, viidates hoiatusele või süsteemi vea seisundile. Mees on riietatud tumedasse rõivasse ja tema juuksed on lühikesed ning tumedad. Tema ees on näha klaviatuur ja ümberringi on näha juhtmeid ja tehnilist aparatuuri. Üldine atmosfäär on pingeline ja futuristlik.",
+      "actions": [
+        "Mees jälgib ekraane",
+        "Ekraanidel kuvatakse dünaamilist visuaalset informatsiooni",
+        "Väiksemal ekraanil muutub liidese värvus sinisest punaseks"
+      ],
+      "keywords": [
+        "Futuristlik",
+        "ulme",
+        "kontrolljaam",
+        "kosmos",
+        "mees",
+        "ekraanid",
+        "hoiatussignaal",
+        "punane maastik",
+        "pimedus",
+        "tehnoloogia",
+        "siseruum"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Suur arvutiekraan",
+        "Väike arvutiekraan",
+        "Klaviatuur",
+        "Juhtmed",
+        "Kõrvaklapid"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#800000",
+        "#0000FF",
+        "#FF0000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Ebaselge kood/tekst (ekraanidel)"
+      ],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Väikesel vasakpoolsel ekraanil kuvatavate aknakeste värvus muutub sinisest punaseks, mis viitab süsteemi oleku muutusele või hoiatussignaalile",
+        "Kaamera nurk ja suum varieeruvad veidi piltide vahel"
+      ],
+      "snr": "031",
+      "ajad": [
+        "371.800",
+        "393.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort, lühikeste tumedate juustega meest, kes kannab tumedat särki. Tema näol on näha vigastusi või mustust, eriti otsmikul, vasakul põsel ja silma ümber, mis viitab hiljutisele võitlusele või raskele olukorrale. Üldine valgustus on hämar, jättes tausta sügavatesse varjudesse, kuid õrn, soe punakasoranž kuma valgustab tema näo ja kaela vasakpoolseid osi, lisades stseenile atmosfäärilist pinget. Taustal on näha suur tume ristkülikukujuline pind, mis võib olla ekraan või aken, ning muid ebaselgeid sisustuselemente, kinnitades, et tegevus toimub siseruumides. Stseeni vältel mehe pilk ja pea asend muutuvad peenelt: alguses vaatab ta allapoole ja ette, siis pöörab aeglaselt pead oma paremale poole, paljastades üha enam oma profiili ja näovigastuste ulatust. Tema kehakeel annab edasi väsimust, mõtisklemist või ettevaatlikku ootust.",
+      "actions": [
+        "Vaatamine",
+        "Pea pööramine",
+        "Liigutamine",
+        "Kohalolek"
+      ],
+      "keywords": [
+        "Mees",
+        "Noor mees",
+        "Vigastused",
+        "Mustus",
+        "Hämarus",
+        "Pinge",
+        "Tume taust",
+        "Siseruum",
+        "Must särk",
+        "Profiil",
+        "Emotsioonid"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Tume särk",
+        "Suur tume pind",
+        "Ekraan/aken (võimalik)",
+        "Sein",
+        "Valgusallikas"
+      ],
+      "colorcodes": [
+        "#0d0d0d",
+        "#1a1a1f",
+        "#7c2d20",
+        "#9e6c5c",
+        "#2b2b2b"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe pea asend ja pilgu suund muutuvad, liikudes ettevaatlikult allapoole vaatavast asendist paremale poole pöörava profiilini.",
+        "Valguse ja varjude mäng mehe näol muutub vastavalt pea pööramisele, rõhutades erinevaid näoosi ja vigastusi.",
+        "Emotsioon ja hoiak näivad nihkuvat mõtiskluselt või väsimuselt ettevaatlikule vaatlusele."
+      ],
+      "snr": "032",
+      "ajad": [
+        "393.000",
+        "400.760"
+      ]
+    },
+    {
+      "explanation": "Stseen on jäädvustatud pimedas ruumis ülevalt vaates, näidates meest, kes on süvenenud töösse laua taga. Mees kannab tumedat pikavarrukaga särki ja tema juuksed on lühikesed ja tumedad. Tema ette on asetatud hele, avatud sülearvuti või kontrollpaneel, millel on klaviatuur ja kaks ruudukujulist paneeli paremal. Paremal pool on näha ka teine seade, millel on nõrk sinakas kuma. Stseeni domineerib pimedus, mis on valgustatud mehe vasaku käe kiirgava punakas-oranži valgusega. See valgusallikas paistab olevat tema peopesas või randmel. Valgus annab stseenile salapärase ja tehnoloogilise tonaalsuse. Mehe vasak käsi liigub kaadrite vältel, alates madalamast positsioonist sülearvuti kohal kuni ülespoole ja lõpuks kaadrist välja. Koos käe liikumisega kaob ka sellelt kiirgav valgus.",
+      "actions": [
+        "Vaatamine allapoole",
+        "Käe liigutamine",
+        "Valguse kiirgamine käest",
+        "Arvutiga või kontrollpaneeliga töötamine"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Mees",
+        "Kontrollpaneel",
+        "Sülearvuti",
+        "Punane valgus",
+        "Oranž valgus",
+        "Tehnoloogia",
+        "Hämar",
+        "Ülevalt vaade",
+        "Käsi",
+        "Töö"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Sülearvuti",
+        "Klaviatuur",
+        "Kontrollpaneel",
+        "Ekraan",
+        "Laud",
+        "Põrand",
+        "Käsi"
+      ],
+      "colorcodes": [
+        "#1b1b1b",
+        "#0d0d0d",
+        "#ff4500",
+        "#cccccc",
+        "#333333",
+        "#222222"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimeses ja teises kaadris on mehe vasak käsi allpool, kiirates eredat punakas-oranži valgust.",
+        "Kolmandas kaadris liigub mehe vasak käsi ülespoole ja osaliselt kaadrist välja.",
+        "Punakas-oranž valgus kaob mehe käelt kolmandas kaadris.",
+        "Mehe pea asend muutub veidi teise ja kolmanda kaadri vahel, kolmandas on see samuti osaliselt kaadrist väljas."
+      ],
+      "snr": "033",
+      "ajad": [
+        "400.760",
+        "405.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab nooremat meest lähivõttes, kelle näol ja vasakul käsivarrel on näha värskeid vigastusi. Mees kannab musta t-särki ja tema vasakul biitsepsil on valge side, mis on verega määrdunud. Tema näol, eriti laubal ja põsel, on näha kriimustusi ja mustust. Mehe pilk on intensiivselt suunatud alla ja paremale, andes edasi ettevaatlikkust, pinget või valu. Taust on tume ja udune, valgustatud dramaatiliselt siniste ja oranži-punaste toonidega, mis loovad süngelt intensiivse atmosfääri. Valgusemäng rõhutab mehe näojooni ja vigastusi, jättes mulje, et ta on valvel ja ohtlikus olukorras.",
+      "actions": [
+        "Mees vaatab intensiivselt alla ja ettepoole",
+        "Mees on valvel",
+        "Mees on vigastatud",
+        "Mees liigutab pead"
+      ],
+      "keywords": [
+        "Vigastus",
+        "Dramaatiline valgus",
+        "Intensiivne",
+        "Pinge",
+        "Meestegelane",
+        "Vigastatud",
+        "Tumeda taust",
+        "Süngus",
+        "Ettevaatlikkus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Must t-särk",
+        "Valge side",
+        "Verelaigud",
+        "Mustus"
+      ],
+      "colorcodes": [
+        "#212A5A",
+        "#8F2D0C",
+        "#1A1A1A",
+        "#6D4C38",
+        "#D9D9D9",
+        "#8B0000"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Vigastatud mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on oluliselt udune ja fookusest väljas, samas kui teised kaks on teravad ja detailsed.",
+        "Kahe terava pildi (teine ja kolmas) vahel on näha mehe peenike pealiigutus ja pilgu suuna muutus, mis viitab tegevuse jätkumisele.",
+        "Kolmandal pildil on mehe ilme pisut intensiivsem ja suu kergelt avatud võrreldes teisega."
+      ],
+      "snr": "034",
+      "ajad": [
+        "405.600",
+        "419.600"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivaates kujutatud mehe nägu, keskendudes peamiselt tema silmadele, ninale ja otsmikule. Mehel on vasakul oimukohal ja otsmikul mitmed sügavad kriimustused ja värske veri, mis annavad tunnistust hiljutisest traumast või võitlusest. Ka tema paremal otsmikul on näha pikem kriimustus. Mehe silmad on pärani lahti, pupillid veidi laienenud, ja tema pilk on intensiivne ning teravalt fokuseeritud, edastades pinge, hirmu või ärevuse tunnet. Stseeni valgustus on hämar, domineerib soe punakasoranž toon, mis loob dramaatilise ja pingelise atmosfääri. Taust on sügavalt udune ja pime, vihjates siseruumile, kus täpsed detailid jäävad varjudesse peitu.",
+      "actions": [
+        "Vaatamine",
+        "Fokuseerimine",
+        "Pinge kogemine"
+      ],
+      "keywords": [
+        "Vigastused",
+        "Veri",
+        "Haavad",
+        "Pinge",
+        "Hirm",
+        "Ärevus",
+        "Intensiivne pilk",
+        "Mees",
+        "Nägu",
+        "Lähivõte",
+        "Hämar valgus",
+        "Punakasoranž toon",
+        "Dramaatiline"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Silmad",
+        "Nina",
+        "Otsmik",
+        "Veri",
+        "Kriimustused"
+      ],
+      "colorcodes": [
+        "#4C1D0E",
+        "#8C4427",
+        "#7A0A02",
+        "#1A0D0B",
+        "#331A13"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Pupillide suurus varieerub piltide vahel kergelt, mis võib viidata valguse väga õrnadele muutustele või silmade loomulikule reaktsioonile.",
+        "Vere ja kriimustuste detailid vasakul oimukohal võivad piltide vahel minimaalselt erineda, andes edasi väga väikest liikumist või fookuse muutust, kuid üldpilt on identne."
+      ],
+      "snr": "035",
+      "ajad": [
+        "419.600",
+        "421.760"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha haavatud mees tumedas siseruumis, mida valgustavad dramaatiliselt sinised ja oranžikaspunased toonid. Mehel on seljas must t-särk. Tema näol, täpsemalt vasakul põsel, on mitu vereplekiga kriimustust või haava. Vasak käsi on verine ja ümber käsivarre on pandud valge side. Mees tundub olevat pinges või valvas, vaadates esmalt terava pilguga allapoole või ettepoole, suu kergelt avatud. Hiljem pöörab ta pea järsult vasakule, mis annab märku ootamatust liikumisest või reaktsioonist ümbritsevale. Valgus on tugev ja kontrastne, luues sügavuse ja varjud, mis rõhutavad olukorra tõsidust ja potentsiaalset ohtu.",
+      "actions": [
+        "Vaatab terava pilguga alla või ettepoole",
+        "Pöörab pead järsult vasakule",
+        "On haavatud"
+      ],
+      "keywords": [
+        "Vigastused",
+        "Haavad",
+        "Veri",
+        "Side",
+        "Must särk",
+        "Siseruum",
+        "Pingeline olukord",
+        "Dramaatiline valgustus",
+        "Reageerimine",
+        "Valvas"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mehe särk",
+        "Side",
+        "Veri",
+        "Sein"
+      ],
+      "colorcodes": [
+        "#313352",
+        "#6D2111",
+        "#1A1A1A",
+        "#F2F2F2",
+        "#800000"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesed kaks pilti on väga sarnased, kujutades meest peaaegu identses asendis ja näoilmega, kuid teine pilt on üldiselt veidi teravam.",
+        "Kolmandal pildil pöörab mees pead kiiresti vasakule, tema silmad on suunatud vasakule ja pilt on liikumise tõttu veidi udune, andes edasi äkilise reaktsiooni või liikumise."
+      ],
+      "snr": "036",
+      "ajad": [
+        "421.760",
+        "428.800"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab udust ja hämarat sisekeskkonda, kus hele juustega mees seisab esiplaanil oleva tumeda puidust tõkke taga, mis sarnaneb lava äärele või puldile. Tema seljataguseks on üleni must taust. Mees on riietatud heledasse, nööpidega pikkade varrukatega särki. Esimeses kaadris on mehe suu avatud, justkui rääkides või lauldes, pilk suunatud kergelt üles ja ette. Teises kaadris on mehe suu suletud ja ta vaatab otsemalt ette. Kolmas, täiesti tume kaader viitab stseeni lõppemisele või järsule üleminekule, muutudes tumepruunikaspunaseks, enne kui pilt täielikult kaob. Üldine meeleolu on sügav ja intiimne, fookus on esinejal.",
+      "actions": [
+        "Rääkimine",
+        "Esinemine",
+        "Seismine",
+        "Pilgu suunamine"
+      ],
+      "keywords": [
+        "Udune",
+        "Hämar",
+        "Mees",
+        "Esineja",
+        "Lava",
+        "Särk",
+        "Must taust",
+        "Puidust tõke",
+        "Kõne",
+        "Kontsert"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Särk",
+        "Puidust tõke",
+        "Lava (oletus)",
+        "Must taust"
+      ],
+      "colorcodes": [
+        "#0A0A0A",
+        "#B0AFAC",
+        "#401005",
+        "#302010",
+        "#C0B0A0"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Isiku näoilme ja suu asend muutuvad: esimesel pildil on suu avatud ja ta paistab rääkivat või laulvat, teisel on suu suletud.",
+        "Isik muudab veidi pea asendit ja pilgu suunda.",
+        "Viimane kaader on täielikult tume ja punakaspruun, viidates stseeni lõppemisele või kaadri üleminekule."
+      ],
+      "snr": "037",
+      "ajad": [
+        "428.800",
+        "431.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pimedat ja arvatavasti märga pinda, mis on valgustatud hämarate siniste ja lillakate toonidega. Pinnal asub läbipaistev toru, mis sisaldab tumedat, võimalik, et rohekat vedelikku. Selle kõrval on avatud musta värvi karp, mille sees on näha väike terav ese, mis meenutab süstlanõela või süstla otsa. Stseeni keskel ilmub kaadrisse hele nahatooniga käsi, mis ulatub toru poole ja korjab selle maast üles, enne kui kaob kaadrist koos toruga. Üldine atmosfäär on sünge ja salapärane, rõhutades teatud salajast või olulist tegevust.",
+      "actions": [
+        "Käe ulatamine",
+        "Läbipaistva toru üleskorjamine"
+      ],
+      "keywords": [
+        "Süstal",
+        "Ravim",
+        "Vedelik",
+        "Pime",
+        "Märg",
+        "Salapärane",
+        "Nõel",
+        "Karp",
+        "Pind",
+        "Käsi"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Läbipaistev toru",
+        "Tume vedelik",
+        "Must karp",
+        "Süstlanõel",
+        "Inimese käsi",
+        "Märg pind"
+      ],
+      "colorcodes": [
+        "#1C1E40",
+        "#4A004A",
+        "#0C0C0C",
+        "#91604B",
+        "#304030"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Käsi ilmub kaadrisse teises pildis ja eemaldub kolmandas pildis.",
+        "Läbipaistev toru eemaldatakse kolmandas pildis."
+      ],
+      "snr": "038",
+      "ajad": [
+        "431.400",
+        "433.600"
+      ]
+    },
+    {
+      "explanation": "Stseen algab abstraktse tumepruunikaspunase tooniga, mis katab kogu kaadri, luues sooja, ent summutatud ja ebakindla tunde. Seejärel avaneb pilt hägusale mehele, kes on üleni pimeduses. Mehe nägu on kahvatu ja juuksed sassis, andes talle mureliku või isegi õudse ilme. Ta kannab särki ja lipsu, mis viitab ametlikumale riietusele. Kaamerfookus on mehe näol, eriti tema silmadel, mis vaatavad intensiivselt ja veidi hajameelselt otse vaatajasse. Stseeni valgus on äärmiselt hämar, rõhutades varjude mängu ja süvendades üldist rahutut ja pingelist atmosfääri. Udusus kaadrites viitab kas liikumisele, unetaolisele seisundile või tahtlikule kunstilisele valikule edastada segadust ja ebakindlust. Stseen keskendub mehe emotsionaalsele seisundile, mis on väljendatud tema näoilmete ja üldise, pisut moonutatud välimuse kaudu.",
+      "actions": [
+        "Pinge väljendamine",
+        "Ärevuse edasiandmine",
+        "Intensiivselt vaatamine",
+        "Eksistentsi rõhutamine"
+      ],
+      "keywords": [
+        "Pime",
+        "Hämar",
+        "Udune",
+        "Mees",
+        "Kahvatu",
+        "Sassis juuksed",
+        "Pinge",
+        "Õudus",
+        "Portree",
+        "Lähivõte",
+        "Distants",
+        "Murelik",
+        "Surve"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [
+        "Särk",
+        "Lips"
+      ],
+      "colorcodes": [
+        "#4C1A14",
+        "#212121",
+        "#424647",
+        "#1B1B1B",
+        "#303437"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader on abstraktne, tahke tumepruunikaspunane pind, millel puuduvad näod või esemed, samas kui teine ja kolmas kaader keskenduvad hägusele mehele.",
+        "Kaadrite udusus varieerub, kolmas kaader on teise kaadriga võrreldes veidi lähemale suumitud ja fookus on veelgi enam nihutatud mehe näole.",
+        "Esimene kaader on visuaalselt täiesti erinev, pakkudes üleminekut või taustavärvi enne, kui subjekt ilmub nähtavale."
+      ],
+      "snr": "039",
+      "ajad": [
+        "433.600",
+        "436.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest, kes on põlvili või küürus tumedal, karestatud põrandal siseruumis. Valgus on dramaatiline ja kunstlik, üleminekuga jahedatest sinistest ja lilladest toonidest soojade oranžide ja punaste toonideni, luues intensiivse ja pingelise atmosfääri. Isik on riietatud tumedatesse pükstesse ja särki ning kannab määrdunud saapaid. Esimeses kaadris hoiab ta süstlataolist eset, millel on helesinine otsik, osutades sellega põrandale. Järgmistes kaadrites on näha, kuidas isik on süvenenud mingisse tegevusse, võimalik, et valu käes või keskendunult, ning tema käsivarrel on valge side. Viimases kaadris hoiab isik peopesas väikest tumedat nelinurkset eset. Kogu stseen on keskendunud isiku kätele ja tegutsemisele esemetega, mis viitab kas meditsiinilisele protseduurile, vigastuse ravimisele või muule salajasele toimingule.",
+      "actions": [
+        "Põlvitamine",
+        "Küürutamine",
+        "Objekti hoidmine",
+        "Interaktsioon esemetega",
+        "Võimalik manustamine või ravi",
+        "Keskendumine"
+      ],
+      "keywords": [
+        "Süstal",
+        "Põrand",
+        "Pimendus",
+        "Oranž valgus",
+        "Sinine valgus",
+        "Inimene",
+        "Käed",
+        "Põlvitamine",
+        "Pinge",
+        "Ravim",
+        "Vigastus",
+        "Siseruum"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Süstal",
+        "Saapad",
+        "Tumedad püksid",
+        "Tume särk",
+        "Valge side/pael käsivarrel",
+        "Tume nelinurkne ese",
+        "Põrand (kare, betoon või kivi)"
+      ],
+      "colorcodes": [
+        "#2e1d52",
+        "#a83d1c",
+        "#1a1a1a",
+        "#ffffff",
+        "#6ac9f0",
+        "#4c4a4a"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader näitab isikut põlvili tumedal põrandal, hoides sinise otsikuga süstalt, kusjuures valgustus on segunenud sinisest/lillast ja oranžist.",
+        "Teine kaader keskendub isiku ülakehale, näidates tema käsivarrel valget sidet ja peamiselt oranži valgustust, mis viitab süvenemisele või valu kannatamisele.",
+        "Kolmas kaader on lähivõte isiku käest, mis hoiab väikest tumedat nelinurkset eset, samuti oranžis valguses, vahetades süstla teise eseme vastu."
+      ],
+      "snr": "040",
+      "ajad": [
+        "436.120",
+        "443.800"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort meest, kes on ilmselt läbinud mingi traumaatilise sündmuse. Ta kükitab või põlvitab madalas, pingelises poosis, vaadates alla ja vasakule. Tema nägu on määrdunud või tal on kerged vigastused, näiteks paremal põsesarnal on näha tumedam laik või haav. Tema vasakul käsivarrel on näha tumedat märki, mis võib olla põletus- või löögijälg, ning randmel on valge side. Mees kannab musta pikkade varrukatega särki ja musti pükse. Ümbruskond on hämaralt valgustatud, vasakult paistab jahedam sinakas valgus ja paremalt soojem oranžikas toon, luues dramaatilise ja müstilise atmosfääri. Mehe näoilme on tõsine, võib-olla valuline või keskendunud. Stseeni lõpp on täiesti udune, kujutades vaid värvilisi laike, mis annab edasi liikumist, fookuse muutust või kunstilist üleminekut.",
+      "actions": [
+        "Kükitamine",
+        "Põlvitamine",
+        "Alla vaatamine",
+        "Keskendumine",
+        "Liikumine (implitsiitne kolmanda kaadri tõttu)"
+      ],
+      "keywords": [
+        "Noormees",
+        "Vigastatud",
+        "Pimedus",
+        "Põlvitamine",
+        "Must riietus",
+        "Haavad",
+        "Pinge",
+        "Salapärane",
+        "Dramaatiline valgustus",
+        "Üleminek",
+        "Võitlus",
+        "Ellujäämine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Noormees",
+        "Must pikkade varrukatega särk",
+        "Mustad püksid",
+        "Valge side",
+        "Võimalik haav/marrastus näol",
+        "Tume jälg käsivarrel"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#34495e",
+        "#e67e22",
+        "#fdfefe",
+        "#99a3a4"
+      ],
+      "texts": [],
+      "persons": [
+        "Noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide fookus: Esimesed kaks pilti on teravad ja detailsed, kolmas pilt on täiesti fookusest väljas ja udune.",
+        "Kaamera kaugus: Teine pilt on esimesest veidi lähemal, kolmas pilt on sedavõrd udune, et objekti kaugus pole selgelt määratletav.",
+        "Kaadri sisu: Esimesed kaks pilti näitavad selgelt noormeest ja tema vigastusi, kolmas pilt on abstraktne värvide segu, millest inimest ei erista.",
+        "Kompositsioon: Kolmas kaader erineb kahe esimese portreelisest lähenemisest, pakkudes pigem atmosfäärilist või üleminekulist kujutist."
+      ],
+      "snr": "041",
+      "ajad": [
+        "443.800",
+        "457.920"
+      ]
+    },
+    {
+      "explanation": "Kõik esitatud pildid on täielikult mustad, ilma igasuguse nähtava sisu või detailita. Puuduvad objektid, isikud, tekstid või muu visuaalne informatsioon. Stseen on kaetud ühtlase pimedusega, mis ei võimalda tuvastada ühtegi elementi, asukohta ega tegevust. Pildid loovad mulje täielikust tühjusest või valguse puudumisest.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "pimedus",
+        "tühi",
+        "sisutu",
+        "monokroomne",
+        "valguse puudumine"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "042",
+      "ajad": [
+        "457.920",
+        "461.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimest pimedas või väga vähese valgusega keskkonnas, keskendudes tema ülakehale ja käele. Isik on kummardunud või ettepoole kallutatud asendis, kandes tumedat särki. Tema paremal käsivarrel, küünarnuki piirkonnas, on näha valge side. Käes hoiab ta tumedat, raskesti identifitseeritavat objekti, mis võib olla relv või tööriist, näiteks püssi kaba. Stseeni arenedes muutub valge side ja ümbritsev nahk veriseks, viidates vigastusele või värskelt tekkinud verejooksule. Üldine atmosfäär on sünge, pinge all ja salapärane, pea kogu taust on sügavmust. Kolmas kaader on peaaegu täielikult must ja hägune, mis annab edasi kiiret liikumist või abruptset üleminekut pimedusse.",
+      "actions": [
+        "Objekti hoidmine",
+        "Kummardumine",
+        "Verejooks/vigastus (arenev)",
+        "Võimalik võitlus või trauma"
+      ],
+      "keywords": [
+        "Pime",
+        "Veri",
+        "Vigastus",
+        "Side",
+        "Inimene",
+        "Tume särk",
+        "Käsi",
+        "Pingeline",
+        "Salapärane",
+        "Ohtlik",
+        "Tragöödia"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Valge side",
+        "Tume ese (relv/tööriist)",
+        "Tume särk",
+        "Inimese käsi",
+        "Inimese juuksed"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#4A5B6B",
+        "#2A363E",
+        "#6E0707",
+        "#991010"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimeses ja teises kaadris on peamine erinevus vere ilmumine valgele sidemele ja käele: esimeses kaadris on side puhas, teises aga kaetud verega ja nahal on vereplekid.",
+        "Kolmas kaader on pea täielikult must ja hägune, samas kui esimesed kaks näitavad selgelt inimest ja tema kätt, andes kolmandale kaadrile edasi kiiret liikumist või pimesi üleminekut."
+      ],
+      "snr": "043",
+      "ajad": [
+        "461.440",
+        "464.640"
+      ]
+    },
+    {
+      "explanation": "Kõik esitatud pildid on täiesti mustad, ilma igasuguse nähtava sisuta. Stseen on üleni pimedus, ilma esemete, isikute, teksti või mistahes detailideta.  Visuaalne informatsioon on piirdub ühtlase musta tooniga, jättes mulje tühjusest või pilkases pimedusest.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "tühi",
+        "pime",
+        "sisutu",
+        "monokroomne",
+        "puudumine",
+        "tume"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel puuduvad erinevused, kõik on identsed mustad ruudud."
+      ],
+      "snr": "044",
+      "ajad": [
+        "464.640",
+        "466.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pingelist ja sünget olukorda, kus inimfiguur on näha vastu täiesti musta tausta. Inimese ülakeha parem külg, eriti käsi ja õlavööde, on fookuses. Paremal õlal või käsivarrel on sügav, veritsev vigastus, mis on osaliselt kaetud veriseks tõmbunud valge sidemega. Isik hoiab vasaku käega tumedat pumppüssi, mis on suunatud allapoole. Üldvalgustus on äärmiselt nõrk, andes nahale ja relvale hallikassinine tooni ning rõhutades stseeni karmust. Esialgu on kaader tugevalt udune, andes edasi kiire liikumise või ülemineku tunde, kuid seejärel muutub pilt teravaks, paljastades selgelt nii relva kui ka verise vigastuse detailid. See annab edasi ohu, valu ja ellujäämise võitluse tunde.",
+      "actions": [
+        "Hoidmas relva",
+        "Liikumas või pöörlemas (näidatud hägususega)",
+        "Võimalik, et võitlemas või põgenemas"
+      ],
+      "keywords": [
+        "Tume",
+        "Vigastus",
+        "Relv",
+        "Pinge",
+        "Veri",
+        "Must taust",
+        "Hämarus",
+        "Action",
+        "Horror",
+        "Ellujäämine",
+        "Vägivald"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Püss (pumppüss)",
+        "Side",
+        "Veri"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#4A5B69",
+        "#9B1E2B",
+        "#E8E8E8"
+      ],
+      "texts": [],
+      "persons": [
+        "Üksik isik",
+        "Vigastatud isik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on oluliselt hägusem ja udusam, teine pilt on terav ja detailne.",
+        "Esimene pilt näitab vähem detaile vigastusest ja relvast kui teine pilt.",
+        "Esimene pilt viitab kiirele liikumisele või üleminekule, teine aga peatatud hetkele."
+      ],
+      "snr": "045",
+      "ajad": [
+        "466.320",
+        "473.080"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort meest, kes ilmub ja seejärel kaob sügavast pimedusest. Algselt on mehe nägu ähmane, moonutatud ja justkui digitaalselt rikutud kujutis, mis hõljub täiesti mustal taustal. Tema nägu on kahvatu, sinakas-halli tooniga ning suu kergelt avatud, andes edasi ärevuse ja ebareaalsuse tunde. Seejärel muutub kujutis teravaks ja fookusesse, paljastades sama mehe nüüdseks selgelt ja detailselt. Tal on tumedad, keskmise pikkusega juuksed, heleda kraega särk ja hall ülikonnajakk. Tema näo vasakul küljel, templi ja kõrva lähedal, ning suu ümber on näha verd, mis viitab hiljutisele vägivallale või raskele vigastusele. Mehe pilk on tõsine ja ilmetu, mis süvendab stseeni dramaatilist ja sünget meeleolu. Ümbritsev täielik pimedus rõhutab tema isoleeritust ja loob pingelise, potentsiaalselt õudse atmosfääri. Stseen lõpeb täieliku pimedusega, mis võib tähistada stseeni lõppu, teadvuse kaotust või süngust.",
+      "actions": [
+        "Mees ilmub pimedusest",
+        "Mees on vigastatud",
+        "Mees vaatab ilmetult"
+      ],
+      "keywords": [
+        "Õudne",
+        "Draama",
+        "Pimedus",
+        "Kummituslik",
+        "Verevalamine",
+        "Vigastus",
+        "Portree",
+        "Pinge",
+        "Ärevus",
+        "Müstiline"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Mees",
+        "Särk",
+        "Ülikonnajakk",
+        "Veri"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#A0A6AB",
+        "#84898B",
+        "#C6CFD3",
+        "#8B0000"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kujutise fookus ja selgus muutuvad dramaatiliselt: esialgsest ähmasest ja moonutatud, justkui kummituslikust kujutisest ilmub mees selgelt ja detailselt.",
+        "Lisaks ilmnevad teises etapis näol ja suu ümber verejäljed, mis esialgses kujutises puuduvad, viidates vägivallale või vigastusele.",
+        "Stseen lõpeb täieliku pimedusega, mis erineb eelnevatest kaadritest, mis sisaldavad kujutisi."
+      ],
+      "snr": "046",
+      "ajad": [
+        "473.080",
+        "482.040"
+      ]
+    },
+    {
+      "explanation": "Stseen algab pimedas ja uduses keskkonnas, kus kaks figuuri seisavad vastamisi. Vasakul pool on näha mees, kelle ülakeha on selgelt eristatav, kuigi nägu on ähmane. Paremal pool on veelgi udusam, võimalik, et kapuutsiga figuur, kes on kaadris kaugemal. Stseeni arenedes tõstab vasakpoolne mees aeglaselt pika tulirelva – mis sarnaneb pumppüssi või vintpüssiga – sihtimispositsiooni. Algul on relv alles ülespoole suunatud, kuid seejärel on see täielikult ette sihtimisvalmis. Selleks ajaks, kui relv on täielikult sihtimisvalmis, on parempoolne figuur kaadrist kadunud, mis annab mõista, et relv on suunatud kas neile või on nad relva ilmumise peale eest ära liikunud. Kogu stseen on äärmiselt pime, taust on puhas must, mis loob tühjuse ja ohu tunde. Kaadrite udusus võib viidata kiirele liikumisele, madalale valgusele või teadlikule kunstilisele valikule, mis suurendab pinge tunnet. Valguse puudumine ja hägused kontuurid annavad stseenile müstilise ja ähvardava iseloomu.",
+      "actions": [
+        "Kaks figuuri seisavad vastamisi",
+        "Mees tõstab tulirelva",
+        "Mees sihib relvaga ettepoole"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Udune",
+        "Relv",
+        "Pinge",
+        "Konfrontatsioon",
+        "Oht",
+        "Sihtimine",
+        "Öö"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Tulirelv (pumppüss või vintpüss)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#2C303E",
+        "#414B5A"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (vasakul)",
+        "Udune figuur (paremal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "80",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Vasakpoolne figuur tõstab järk-järgult oma relva sihtimispositsiooni.",
+        "Parempoolne figuur kaob kaadrist viimases pildis.",
+        "Relv muutub järjest nähtavamaks ja kesksemaks objektiks.",
+        "Stseeni fookus ja pinge nihkuvad relvaga mehele ja tema tegevusele."
+      ],
+      "snr": "047",
+      "ajad": [
+        "482.040",
+        "482.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest täiesti mustal taustal, mis loob sügava ja salapärase atmosfääri. Mees kannab tumedat ülikonnajakki ja punakat särki. Tal on lühikesed juuksed ja habemetüügas. Tema poos viitab liikumisele, kas kõndimisele või pööramisele. Mõned kaadrid on teravad ja detailsed, teised aga näitavad märgatavat liikumishägusust, mis annab stseenile dünaamilise ja veidi unenäolise kvaliteedi. Valgus on suunatud peamiselt mehele, jättes taustaks absoluutse pimeduse, rõhutades tema figuuri ja väljendust. Mehe ilme on tõsine või mõtlik, ja tema pilk on suunatud paremale.",
+      "actions": [
+        "Kõndimine",
+        "Liikumine",
+        "Pööramine",
+        "Vaatamine paremale"
+      ],
+      "keywords": [
+        "Mees",
+        "Ülikond",
+        "Tume särk",
+        "Must taust",
+        "Liikumine",
+        "Hägusus",
+        "Salapärane",
+        "Dramaatiline",
+        "Portree",
+        "Vari"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Ülikonnajakk",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#30353c",
+        "#7a1f1f",
+        "#d1b4a0"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 75,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide peamine erinevus seisneb teravuses ja liikumishägususe tasemes. Üks pilt on teravam ja detailsem, teised kaks aga näitavad märgatavat hägusust, mis viitab kas kiirele liikumisele või kaamera fookuse nihkumisele."
+      ],
+      "snr": "048",
+      "ajad": [
+        "482.920",
+        "483.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest pimedas, mustal taustal, mis annab edasi sügavuse ja eraldatuse tunde. Mees on keskealine, lühikeste tumedate juustega ning tema näol ja kätel on näha mustust või vereplekke, mis viitab hiljutisele võitlusele või rasketele tingimustele. Ta kannab tumedat pikavarrukaga särki või pluusi. Mees hoiab mõlema käega käsirelva, tõenäoliselt pumppüssi, mis on suunatud paremale poole kaadrist välja. Tema pilk on suunatud samasse suunda, andes edasi keskendunud ja valveloleva hoiaku. Valgus langeb temale vasakult, valgustades osaliselt tema näo ja keha kontuure, luues dramaatilise ja varjudega mängiva efekti. Kogu stseen on pingeline ja ootusärev, vihjates peatselt toimuvale tegevusele või ähvardavale ohule.",
+      "actions": [
+        "Käsirelva hoidmine",
+        "Relva suunamine",
+        "Valvelolek",
+        "Keskendumine",
+        "Kehaasendi kerge muutmine (relva positsiooni reguleerimine)"
+      ],
+      "keywords": [
+        "Sõdur",
+        "võitleja",
+        "relv",
+        "pumppüss",
+        "pimedus",
+        "pinge",
+        "valmisolek",
+        "tegevus",
+        "võitlus",
+        "öö",
+        "oht"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Pumppüss",
+        "Tume särk"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#1A1A1A",
+        "#8C6A52",
+        "#593026"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on näha mehe kehahoiaku ja pumppüssi asendi kerget nihkumist, mis viitab liikumise järjepidevusele või relva positsiooni peenele korrigeerimisele sihtimisel. Eelkõige muutuvad käte ja relva nurgad."
+      ],
+      "snr": "049",
+      "ajad": [
+        "483.480",
+        "484.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab ühte meessoost isikut täielikult mustal taustal, mis annab edasi tühjuse või äärmise pimeduse tunde. Isik on jäädvustatud erinevates liikumisseisundites, mistõttu on ta kujutis piltidel märkimisväärselt udune. Ta kannab tumedat ülikonda või pintsakut. Ühel hetkel on ta nähtav suhteliselt keskel, uduselt ja üldiselt ettepoole vaadates. Teises kaadris on ta paigutatud kaadri paremale poolele, nägu profiilis selgemalt eristuv, vaadates ülespoole ja paremale, võimalik, et poole lause pealt või reageerides millelegi. Kolmandas kaadris on ta nähtav vasakul pool, tugevalt liikumisest udusena, mis viitab kiirele liigutusele või pea pööramisele vasakule. Valgustus on hämar ja annab tema nahale ning riietusele jaheda, sinaka tooni. Üldmulje on liikumisest, salapärast ja eraldatud kohalolekust pimeduse keskel.",
+      "actions": [
+        "Liikumine",
+        "Pea pööramine",
+        "Rääkimine või reageerimine",
+        "Olemasolu pimeduses"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Mees",
+        "Hägusus",
+        "Liikumine",
+        "Portree",
+        "Tume",
+        "Monotoonne",
+        "Salapärane",
+        "Isolatsioon"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Mees",
+        "Ülikond",
+        "Pintsk"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#2C3A4B",
+        "#707C8D"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Figuuri nähtavus ja teravus on piltidel erinev, varieerudes tugevast udususest osalise selguseni.",
+        "Isiku asukoht ja orientatsioon kaadri sees varieerub (keskel, paremal ja vasakul).",
+        "Liikumise ja hägususe aste erineb piltidel, mõned kaadrid on liikumisest rohkem udused kui teised.",
+        "Näoilme ja poos on erinevad: üks on suunaga ette, teine reageeriv ja kolmas pead pöörav."
+      ],
+      "snr": "050",
+      "ajad": [
+        "484.560",
+        "485.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pingelist ja hämarat hetke, kus kesksel kohal on üks meesfiguur. Valgustus on äärmiselt madal, sukeldades suurema osa kaadrist sügavale musta. Mees on liikumises, mis on edasi antud märkimisväärse liikumisuduga, andes stseenile dünaamilise ja kiirustava tunde. Tema keha ja nägu on hägused, kuid ühes kaadris on näha punane plekk rinnal, mis viitab vigastusele või verele. Mehe näoilme on pingeline, segades hirmu, valu või agressiooni. Ühes kaadris on nägu veidi selgem, paljastades kahvatu ja moonutatud ilme ning võimalikud armid või mustrid näol. Ta kannab tumedat riietust. Teatud hetkel on kogu kaader täiesti must, mis võib sümboliseerida pimedust, vahepausi või kiiret üleminekut. Stseen on üldiselt sügavalt tume ja dramaatiline, keskendudes karakteri sisemisele võitlusele või välistele ohtudele pimedas keskkonnas.",
+      "actions": [
+        "liikumine",
+        "löömine (võimalik)",
+        "reageerimine",
+        "struggle"
+      ],
+      "keywords": [
+        "pimedus",
+        "pingeline",
+        "hägune",
+        "mees",
+        "veri (võimalik)",
+        "võitlus",
+        "dramaatiline",
+        "öine",
+        "kahvatu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mees"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#1A1A1A",
+        "#800000",
+        "#A0B0B0"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "effect",
+      "emptypercent": "85",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Teine kaader on täiesti must, samas kui esimene ja kolmas kaader kujutavad meest.",
+        "Mehe poos ja liikumisudu intensiivsus erineb esimese ja kolmanda kaadri vahel.",
+        "Punane plekk rinnal on selgelt nähtav esimesel pildil, samas kui kolmandal pildil seda ei eristu või on vähem märgatav."
+      ],
+      "snr": "051",
+      "ajad": [
+        "485.520",
+        "513.440"
+      ]
+    },
+    {
+      "explanation": "Pildid on täiesti mustad, ilma igasuguse nähtava sisu, objektide, isikute või tekstideta. Kogu kaader on ühtlaselt tume, pakkudes ainult musta värvi. Puudub visuaalne informatsioon, mille alusel stseeni detailsemalt kirjeldada või tuvastada.",
+      "actions": [],
+      "keywords": [
+        "must taust",
+        "tühi pilt",
+        "informatsioon puudub",
+        "pime"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Erinevused puuduvad, kõik pildid on identselt mustad."
+      ],
+      "snr": "052",
+      "ajad": [
+        "513.440",
+        "514.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest pimedas keskkonnas, kus valgusvihk tabab vaid osaliselt tema nägu ja ülakeha, jättes suurema osa taustast ja kehaosadest täielikku pimedusse. Mehe näoilme muutub üllatusest või hirmust sihikindlaks ja ettevalmistuvaks. Tal on näol, vasakul põsel ja otsmikul, nähtavad kriimustused või haavad, mis viitavad hiljutisele konfliktile või vigastusele. Ta kannab tumedat särki ja paistab olevat füüsilises tegevuses, kas valmistudes löögiks või reageerides ohule, rusikas ettepoole suunatud. Dramaatiline valgus rõhutab pingeid ja olukorra tõsidust.",
+      "actions": [
+        "Reageerimine",
+        "Ettevalmistumine löögiks",
+        "Võitlemine",
+        "Liikumine"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Hirm",
+        "Võitlus",
+        "Vigastused",
+        "Tume",
+        "Pingeline",
+        "Dramaatiline valgus",
+        "Must taust",
+        "Oht"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "tume särk"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#3f444c",
+        "#8e8e8e",
+        "#8f5f5f"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "80",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on mehe ilme üllatunud või hirmunud, suu veidi avatud, samas kui teisel pildil on ta nägu sihikindlam ja veidi grimassiga.",
+        "Teisel pildil on selgemalt näha mehe vigastused näol (kriimud/haavad) vasakul põsel ja otsmikul.",
+        "Esimesel pildil paistavad käed olevat reageerivas asendis, samas kui teisel pildil on parem käsi rusikasse surutud ja liigub ettepoole, andes märku löögist või kaitsepositsioonist."
+      ],
+      "snr": "053",
+      "ajad": [
+        "514.680",
+        "521.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab tumedat, futuristlikku või salajast siseruumi, mis sarnaneb kontrollruumi või punkriga. Valgustus on hämar ja kunstlik, luues pingelise ja tõsise meeleolu. Vasakus servas on näha mustade kaablitega kaetud tumedaid seinu. Keskel asub helehall laud, millel on mõned tumedamad esemed (võimalikud dokumendid või tahvelarvutid). Laua taga on seinal kinnitatud monitor, mis kuvab eredalt valgustatud planeeti Maad kosmosest. Monitori kohal on horisontaalne valgusti ja selle kõrval on näha kaabliga ühendatud seadet. Paremal pool on sügavmust ala, mis katab olulise osa pildi laiusest, jättes näha vaid osa kontrollpaneelidest, millel on mõned rohelised ja punased tuled. Stseeni peategelane on tumedasse riietatud mees, kellel on näol (otsmikul ja põsel) vereplekke ja kriimustusi, mis viitavad hiljutisele konfliktile või õnnetusele. Mees vaatab algselt ekraani poole, ent pöörab seejärel aeglaselt pead kaamera suunas, tema ilmes peegeldub tõsidus, võimalik väsimus või otsusekindlus. Tema käsi toetub paremal pool olevale tumedale pinnale või kontrollpaneelile. Üldine atmosfäär on sünge, salapärane ja rõhutab mehe isoleeritust olulise ülesande või kriisiolukorra keskel.",
+      "actions": [
+        "Mees vaatab ekraani suunas",
+        "Mees pöörab pead ja vaatab kaamera poole",
+        "Mehe käsi toetub pinnale",
+        "Ekraanil kuvatakse planeeti Maad",
+        "Kontrollpaneelidel põlevad tuled"
+      ],
+      "keywords": [
+        "Siseruum",
+        "Kosmiline",
+        "Tume",
+        "Meeste",
+        "Salapärane",
+        "Pingeline",
+        "Tuleviku",
+        "Kontrollruum",
+        "Viga saanud",
+        "Ekraan",
+        "Maa",
+        "Kaablid",
+        "Hämar"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Ekraan",
+        "Maa (planeet)",
+        "Kontrollpaneelid",
+        "Kaablid",
+        "Laud",
+        "Paberid/dokumendid",
+        "Valgusti",
+        "Mehe riided (tume pluus)",
+        "Andur/seade kaabliga",
+        "Klaviatuur (osaliselt nähtav)"
+      ],
+      "colorcodes": [
+        "#262a36",
+        "#88c9f5",
+        "#4d7a8d",
+        "#7fa85b",
+        "#d1d1d1",
+        "#4ade80",
+        "#d84b4b",
+        "#4a3e3e",
+        "#883e3e",
+        "#a1a9b2"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe asend ja näo suund muutuvad: esimesel pildil on ta seljaga kaamera poole ja vaatab ekraani, teisel pöörab ta pead osaliselt ja kolmandal on tema nägu rohkem kaamera poole pööratud, vaadates otse.",
+        "Mehe näojooned ja vigastused on selgemalt nähtavad teisel ja kolmandal pildil, kuna fookus on temal.",
+        "Ekraani fookus muutub: esimesel pildil on ekraan selgelt fookuses, teistel piltidel on ekraan udune ja fookus on mehel."
+      ],
+      "snr": "054",
+      "ajad": [
+        "521.720",
+        "568.520"
+      ]
+    },
+    {
+      "explanation": "Stseen algab sügavast pimedusest, kus esiplaanil on esile tõstetud meesterahva figuur. Teda valgustab külm, suunatud valgus, mis toob esile tema kahvatu ja haavatud välimuse; otsmikul on näha selge haav. Mees on riietatud avaramasse, helehalli nööpidega pluusi ja tumedatesse pükstesse, mis jätavad veidi räsitud mulje. Tema kehahoiak on kergelt küürus ja ta paistab aeglaselt edasi liikuvat, sirutades paremat kätt ettepoole. Taust on absoluutselt must, mis annab stseenile klaustrofoobse ja õõvastava tunde. Stseen kulmineerub täieliku pimedusega, kus kogu ekraan muutub mustaks, jättes vaatajale tunde, et mees on kadunud või ümbritsev pimedus on ta alla neelanud.",
+      "actions": [
+        "Kõndimine",
+        "Liikumine edasi",
+        "Käe sirutamine"
+      ],
+      "keywords": [
+        "Zombi",
+        "Õudus",
+        "Pimedus",
+        "Mees",
+        "Haavatud",
+        "Kahvatu",
+        "Üksildus",
+        "Külm valgus",
+        "Gooti",
+        "Müstika"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Mees",
+        "Pluus",
+        "Püksid",
+        "Otsmik (haavaga)",
+        "Käsi"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#8D9BAA",
+        "#BCC2CC",
+        "#333A42"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks mees (võimalik zombi)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "kõrge",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on näha meesterahvas tumedal taustal, samal ajal kui teine ja kolmas pilt on täielikult mustad, viidates stseeni lõppemisele või täielikule pimedusele."
+      ],
+      "snr": "055",
+      "ajad": [
+        "568.520",
+        "571.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast pimedusest esile kerkivat ebaselget inimfiguuri, mis järk-järgult teravaks muutudes paljastab surnuist tõusnud mehe. Ta seisab täielikus mustas taustas, olles valgustatud külma ja sumeda valgusega, mis rõhutab tema kahvatut nahka, tumedaid silmaaluseid ja verist haava otsmikul. Mees kannab tumedat särki, mille peal on heledam nööbitav särk, ja tema ilme on tühjal pilgul. Piltide jada loob mulje üleloomulikust ilmumisest või hirmuäratava tegelase esiletõusust sünges keskkonnas.",
+      "actions": [
+        "ilmub pimedusest",
+        "materialiseerub",
+        "seisab"
+      ],
+      "keywords": [
+        "õudus",
+        "zombi",
+        "pimedus",
+        "üleloomulik",
+        "ilmumine",
+        "ähmane",
+        "terav",
+        "ähvardav",
+        "kahvatu",
+        "haav",
+        "veri",
+        "öö",
+        "varjud"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "särk",
+        "nööpidega särk",
+        "veri"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#40464F",
+        "#A2A9B3",
+        "#6F2424",
+        "#282828"
+      ],
+      "texts": [],
+      "persons": [
+        "mees",
+        "zombi"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on hägune ja udune, kujutades figuuri ilmumist või liikumist.",
+        "Teine ja kolmas pilt on teravad ja fookuses, paljastades selgelt mehe zombie-välimuse ja detailid, nagu haav otsmikul ja kahvatu nahk.",
+        "Teise ja kolmanda pildi vahel on näha vaid minimaalseid erinevusi näoilme pisimates nüanssides, kuid üldine kompositsioon ja sisu on identsed."
+      ],
+      "snr": "056",
+      "ajad": [
+        "571.840",
+        "573.640"
+      ]
+    },
+    {
+      "explanation": "Stseen on täiesti must, ilma igasuguste nähtavate objektide, valguse või detailideta. Piltidel valitseb ühtlane ja absoluutne pimedus, mis ei anna aimu ruumist, sügavusest ega sisust. Tegemist on monokroomse musta värviga, mis katab kogu kaadri pindala. Puuduvad vihjed konkreetsele keskkonnale, inimestele või tegevusele, jättes mulje tühjusest või täielikust valgustamata olekust.",
+      "actions": [],
+      "keywords": [
+        "pimedus",
+        "must",
+        "tühjus",
+        "öösus",
+        "valguse puudumine",
+        "monokroomne",
+        "vari",
+        "sügavuseta",
+        "detailideta"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "057",
+      "ajad": [
+        "573.640",
+        "575.120"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha meesterahvas, kes asub pildiraami vasakul poolel ja on esitatud rinnust ülespoole kaadris. Ta seisab täielikus pimeduses, kusjuures valgusallikas paistab tulevat otse tema eest, valgustades tema nägu ja keha esiosa, jättes ta ümbruse täiesti mustaks. Mehel on seljas tume, lühikeste varrukatega särk ja ta hoiab kindlalt käes jahipüssi. Tema näol on näha verine või vigastatud koht vasakul põsel või otsmikul. Vasakul käevarrel (vaataja paremal) on tal side, mis viitab hiljutisele vigastusele. Mehe pilk on suunatud otse ette, tema näoilme on tõsine, keskendunud ja pingeline, andes edasi valmisoleku või ettevaatlikkuse tunde. Üldine atmosfäär on sünge ja dramaatiline, viidates potentsiaalsele ohule või võitlusele.",
+      "actions": [
+        "Hoiab jahipüssi",
+        "Vaatab teravalt ettepoole",
+        "On valmisolekus",
+        "On vigastatud"
+      ],
+      "keywords": [
+        "Sõdur",
+        "Ellujääja",
+        "Jahipüss",
+        "Pimedus",
+        "Vigastus",
+        "Tõsine",
+        "Valmisolek",
+        "Pingeline",
+        "Põnevus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Mees",
+        "Jahipüss",
+        "Side",
+        "Särk"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#1A1A1A",
+        "#A0A0A0",
+        "#602020",
+        "#3D4A4D"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": 65,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on märgatavalt udune ja fookusest väljas, samas kui teine ja kolmas pilt on teravad ja selged.",
+        "Teise ja kolmanda pildi vahel on väikseid muutusi mehe näoilmes ja pilgus; kolmandal pildil tundub tema suu olevat veidi rohkem avatud ja silmad laiemad, mis viitab väikesele reaktsioonile või liigutusele."
+      ],
+      "snr": "058",
+      "ajad": [
+        "575.120",
+        "576.080"
+      ]
+    },
+    {
+      "explanation": "Stseen on täiesti pime ja must, ilma igasuguste visuaalsete detailideta. Puudub igasugune valgus, mis võiks esile tuua objekte, piirjooni või värve. Kogu vaateväli on kaetud ühtlase sügavmusta tooniga, mis loob tunde tühjusest, salapärasusest või absoluutsest pimedusest. Ei ole näha objekte, inimesi, maastikku ega mingeid märgatavaid mustreid. Stseen edastab tunde valguse täielikust puudumisest, mis võib viidata kas täielikult valgustamata keskkonnale, näiteks sügavale ööle ilma kuuvalguseta või kinnisele pimedale ruumile.",
+      "actions": [],
+      "keywords": [
+        "pimedus",
+        "must",
+        "tühjus",
+        "valgus puudub",
+        "mustus",
+        "ebamäärasus"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik pildid on identselt mustad ja nende vahel ei ole mingeid erinevusi."
+      ],
+      "snr": "059",
+      "ajad": [
+        "576.080",
+        "576.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast pimedas ruumis või mustal taustal olevat meest, kellel on laubal verine haav. Tema nägu on kahvatu ja ilme pinges või ähvardav. Mees kannab tumedat triiksärki ja musta T-särki selle all. Alguses paistab ta vaatleja poole sammuvat või liikuvat, käed keha kõrval. Seejärel kiirendab ta liikumist, sirutades käed laiali ja ettepoole, justkui ründaks või haaraks, muutudes samal ajal dünaamiliselt uduselt teravaks. Üldine õhkkond on sünge, ähvardav ja võib viidata horrori- või põnevusfilmile, kus tegelane on zombi-laadne või paranormaalse transformatsiooni läbinud.",
+      "actions": [
+        "Mees läheneb vaatlejale",
+        "Käed sirutatakse laiali ja ettepoole",
+        "Keha liigutatakse dünaamiliselt edasi",
+        "Ründamine või haaramise katse"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Horror",
+        "Zombi",
+        "Haav",
+        "Veri",
+        "Ähvardav",
+        "Põnevus",
+        "Mees",
+        "Liikumine",
+        "Rünnak"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Mees",
+        "Triiksärk",
+        "T-särk",
+        "Verine haav"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#3A4B5D",
+        "#8C8C8C",
+        "#600000"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mees liigub piltidelt pildile vaatlejale lähemale",
+        "Mehe käed sirutuvad laiali ja tõusevad ülespoole",
+        "Pilt muutub järjest udustemaks ja dünaamilisemaks kiire liikumise tõttu",
+        "Mehe näoilme muutub pingelisemaks või ähvardavamaks",
+        "Musta tausta osakaal väheneb piltidelt pildile, kuna mees täidab suurema osa kaadrist"
+      ],
+      "snr": "060",
+      "ajad": [
+        "576.680",
+        "578.400"
+      ]
+    },
+    {
+      "explanation": "Kõik kolm pilti on täiesti mustad, ilma igasuguse nähtava sisu, objekti, isiku või tegevuseta. Stseen on ühtlaselt pime ja tühi, pakkumata visuaalseid detaile, mis võimaldaksid edasist kirjeldust. Puuduvad valgusallikad, varjud või kontuurid, mis viitaksid mingisugusele ruumile või vormile. See on täielik pimedus.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "pimedus",
+        "tühjus",
+        "puuduv_sisu",
+        "monokroomne"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Kõik kolm pilti on identsed – täiesti mustad ruudud, ilma nähtavate erinevusteta."
+      ],
+      "snr": "061",
+      "ajad": [
+        "578.400",
+        "597.600"
+      ]
+    }
+  ]
+}

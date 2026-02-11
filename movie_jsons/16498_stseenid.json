@@ -1,0 +1,3788 @@
+{
+  "film": [
+    "16498",
+    "16379",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Videokõne",
+    "ca61d3f871dbac6a5a61349110ba6a0fe8d96f78.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen algab täieliku pimedusega. Seejärel ilmub mustale taustale minimalistlik ja abstraktne graafiline element. See koosneb kolmest värvilisest ümarast punktist, mis on paigutatud kolmnurga kujuliselt: üleval on tume sinine punkt, all vasakul valge või helehall punkt ja all paremal erepunane punkt. Punktikogu paremal küljel on näha kaks suurt valget suurtähte: B ja M. Kogu stseen on puhas, digitaalne ja kaasaegse esteetikaga.",
+      "actions": [
+        "Ekraanilt kaob pimedus",
+        "Ekraanile ilmub logo"
+      ],
+      "keywords": [
+        "Logo",
+        "Minimalistlik",
+        "Digitaalne",
+        "Abstraktne",
+        "Bränding",
+        "Punktid",
+        "Tähed",
+        "Must taust"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Kolm värvilist punkti (sinine, valge, punane)",
+        "Kaks suurtähte (B, M)"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#2C5291",
+        "#E0E0E0",
+        "#CC0000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "B M"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "95",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on täiesti must, teisel pildil on näha logo värviliste punktide ja tähtedega B M."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "8.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, meest ja naist, kes kõnnivad vaatajast eemale siseruumis, mis meenutab lennujaama, kaubanduskeskust või muud avalikku transiitruumi. Kaamera jälgib neid tagantvaates, keskendudes nende ülakehadele ja jalgadele. Mees, pildil vasakul, kannab halli pikavarrukalist sviitrit ja pruune vabaajapükse. Mõnedes kaadrites on tal seljas must seljakott, mille külge on kinnitatud kaks suurt metallist rõngast või karabiini. Naine, pildil paremal, kannab pruuni (võimalik, et kunstnahast) jakki, mille all on valge pluus, ning siniseid teksapükse. Tema paremal õlal ripub suur heledapruun nahast käekott. Mõlemad kõnnivad rahulikus tempos, tekitades mulje reisist või sihipärasest liikumisest. Taust on udune, näidates heledat põrandat, klaasseinu ja distantseid valgusteid, mis viitab avarale ja valgustatud sisekeskkonnale.",
+      "actions": [
+        "kõndimine",
+        "kandmine"
+      ],
+      "keywords": [
+        "reisimine",
+        "jalutamine",
+        "paar",
+        "seljakott",
+        "käekott",
+        "avalik koht",
+        "siseruum",
+        "liikumine"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "naine",
+        "hall sviiter",
+        "pruunid püksid",
+        "must seljakott",
+        "metallrõngad",
+        "pruun jakk",
+        "valge pluus",
+        "sinised teksapüksid",
+        "pruun käekott",
+        "põrand",
+        "sein",
+        "valgustus"
+      ],
+      "colorcodes": [
+        "#8B8B8B",
+        "#8B4513",
+        "#000000",
+        "#FFFFFF",
+        "#4682B4",
+        "#D2B48C"
+      ],
+      "texts": [],
+      "persons": [
+        "mees",
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil ei ole mehel seljakotti näha, samas kui teisel ja kolmandal pildil on tal seljas must seljakott, mille külge on kinnitatud metallist rõngad.",
+        "Kaadrite vahel on märgata inimeste asendites ja liikumises väikeseid erinevusi, mis viitavad pidevale kõndimisele."
+      ],
+      "snr": "002",
+      "ajad": [
+        "8.240",
+        "10.000"
+      ]
+    },
+    {
+      "explanation": "Kaks inimest, mees ja naine, kõnnivad koridoris seljaga kaamera poole. Nad liiguvad avaneva ukse suunas, millel on näha suur pruun logo tekstiga \"WELCOME EST...\" (võimalik, et \"WELCOME ESTONIA\"). Koridor on hästi valgustatud laelampidega. Mees vasakul kannab halli sviitrit ja tumesinist seljakotti, tal on pruunid juuksed ja prillid. Naine paremal kannab pruuni vesti tumeda särgi peal ja tema pikad tumepruunid juuksed on patsis. Tema kõrvas on näha kõrvarõngas. Stseen annab edasi liikumise ja saabumise tunnet.",
+      "actions": [
+        "Inimesed kõnnivad",
+        "Uks avaneb",
+        "Laevalgustus põleb"
+      ],
+      "keywords": [
+        "Koridor",
+        "Uks",
+        "Logo",
+        "Jalutamine",
+        "Sisenemine",
+        "Väljumine",
+        "Valgus",
+        "Seljakott",
+        "Prillid",
+        "Pats",
+        "Koridoris kõndimine"
+      ],
+      "shot_type": "medium long",
+      "placement": "indoor",
+      "objects": [
+        "Seljakott",
+        "Prillid",
+        "Laelambid",
+        "Uks",
+        "Seinad",
+        "Põrand",
+        "Vest",
+        "Kõrvarõngas",
+        "Turvakaamera"
+      ],
+      "colorcodes": [
+        "#808080",
+        "#2C3E50",
+        "#A0522D",
+        "#FFFFFF",
+        "#66B266",
+        "#000000",
+        "#4A2C2C",
+        "#E0E0E0"
+      ],
+      "texts": [
+        "WELCOME EST",
+        "IA"
+      ],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel ja teisel pildil on laevalgustusel näha kerge rohekas varjund, samas kui kolmandal pildil on valgus valgem ja puhtam, domineerib uksest paistev ere valgus.",
+        "Uks koridori lõpus on kolmandal pildil märkimisväärselt rohkem avatud, paljastades heledalt valgustatud ala ukse taga. Esimesel ja teisel pildil on uks peaaegu suletud või vaid kergelt paotunud.",
+        "Inimesed on piltide vahel liikunud uksele lähemale. "
+      ],
+      "snr": "003",
+      "ajad": [
+        "10.000",
+        "11.680"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kaks noort inimest – naine ja mees – kes kõnnivad pikas, hästi valgustatud siseruumi koridoris. Alguses on nad just väljumas uksest, mille külgedel on sissepääsu keelavad märgid. Naine on riietatud valgesse pluusi, pruuni nahkse välimusega jakki ja sinisesse teksasse, kandes pruuni õlakotti. Mees on prillidega ja riietatud tumehalli pusa ja pruunidesse pükstesse, tal on kaelas stetoskoop ja käes must jope. Nad liiguvad koridoris edasi, jättes keelumärgid endast tahapoole. Taustal on näha teisi siseruume ja valgustatud alasid, mis annavad edasi avarust.",
+      "actions": [
+        "Kõndimine",
+        "Uksest väljumine"
+      ],
+      "keywords": [
+        "Koridor",
+        "Noored inimesed",
+        "Arst",
+        "Meditsiiniline",
+        "Siseruum",
+        "Jalutuskäik"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Mees",
+        "Koridor",
+        "Uks",
+        "Seinad",
+        "Põrand",
+        "Laevalgustid",
+        "Märgid (sissepääs keelatud)",
+        "Käekott",
+        "Stetoskoop",
+        "Jope",
+        "Prillid",
+        "Pluus",
+        "Jakk",
+        "Teksad",
+        "Pusa",
+        "Püksid"
+      ],
+      "colorcodes": [
+        "#F7F7F7",
+        "#A7A7A7",
+        "#8B572A",
+        "#D9D9D9",
+        "#EEBDBD",
+        "#5C5C5C",
+        "#404040",
+        "#8C7053",
+        "#F1F1F1"
+      ],
+      "texts": [
+        "Sissepääs keelatud (sümboolselt keelumärgil)",
+        "LÄBI (osaliselt nähtav paremal seinal esimesel pildil)"
+      ],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt näitab inimesi just uksest väljumas, millel on nähtavad sissepääsu keelumärgid.",
+        "Järgmised pildid näitavad inimesi edasi koridoris kõndimas, kus keelumärgid on juba kaadrist väljas ja fookus on rohkem koridori pikkusel ja inimestel endil.",
+        "Kaameranurk ja fookus muutuvad, liikudes koos subjektidega, andes progressiivse liikumise tunde."
+      ],
+      "snr": "004",
+      "ajad": [
+        "11.680",
+        "13.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte noort inimest – meest ja naist – jalutamas avaral siseruumis, mis meenutab lennujaama terminali või suurt raudteejaama. Esiplaanil on noor naine, kellel on pruunid hobusesabas juuksed ja seljas pruuni-musta värvi jope valge topiga. Tema näoilme varieerub piltidel kergest muigetusest rõõmsa naeratuseni, samal ajal kui ta pöörab pead ja juuksed lennutavad. Ühel hetkel tõstab ta kaamera poole rusika. Tema kõrval kõnnib noormees prillidega, seljas hall kapuutsiga pusa ja ühe õla peal must seljakott. Noormehe näoilme on alguses veidi kõhklev, kuid muutub seejärel kergelt naeratavaks, vaadates samuti kaamerasse. Taustal on näha teisi reisijaid ja sume siseruumi valgustus, mis annab edasi vilkust ja liikumist. Paremal on näha puidust piire, mis eraldab teineteisest kaks kõnniala.",
+      "actions": [
+        "jalutamine",
+        "kaamerasse vaatamine",
+        "pea pööramine",
+        "naeratamine",
+        "rusika tõstmine",
+        "juuste lendumine"
+      ],
+      "keywords": [
+        "lennujaam",
+        "terminal",
+        "reisijad",
+        "noored",
+        "paar",
+        "siseruum",
+        "liikumine",
+        "rõõmus",
+        "ooteaeg"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "seljakott",
+        "prillid",
+        "puidust piire",
+        "jope",
+        "pusa",
+        "kõrvakaunistus",
+        "laevalgustid",
+        "pagas (taustal)"
+      ],
+      "colorcodes": [
+        "#6D6B6A",
+        "#9D6E50",
+        "#3D3C3D",
+        "#E6E5E5",
+        "#000000",
+        "#D9A547"
+      ],
+      "texts": [],
+      "persons": [
+        "neiu",
+        "noormees",
+        "reisijad (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Neiu näoilme (muigetusest naeratuseks) ja pea asend muutuvad.",
+        "Neiu juuksed on ühes kaadris õhus hoos ja teises paigal.",
+        "Neiu käe asend ja žest (rusikas vs. all) muutuvad.",
+        "Noormehe näoilme muutub algsest veidi kõhklevast olekust kergelt naeratavaks."
+      ],
+      "snr": "005",
+      "ajad": [
+        "13.440",
+        "15.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist, kes poseerib värvilise, logodega kaetud seina ees. Seinal on korduvad ruudud erinevates toonides, nagu punane, roheline, sinine, roosa, lilla ja valge, igaüks sisaldades teksti nagu 'Estonia.eu' ja 'Readily learning' ning stiliseeritud ikoone või logosid. Naine kannab helepruuni ja musta nahkset jakki ning valget pluusi. Tema tumedad juuksed on patsis ja osaliselt õhus, viidates liikumisele. Noormees, kes kannab prille ja halli kapuutsi, pildistab naist nutitelefoniga, hoides seda mõlema käega. Noormees on naeratav ja keskendunud ekraanile. Naine vaatab esmalt vasakule ja seejärel paremale, pilk suunatud fotograafi poole. Üldine meeleolu on aktiivne ja rõõmsameelne, justkui fotosessiooni käigus.",
+      "actions": [
+        "Pildistamine",
+        "Poseerimine",
+        "Vaatamine",
+        "Naeratamine",
+        "Seismine",
+        "Juuste liikumine"
+      ],
+      "keywords": [
+        "Fotosessioon",
+        "Promotsioon",
+        "Nutitelefon",
+        "Värviline sein",
+        "Noored",
+        "Estonia.eu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Nutitelefon",
+        "Jakk",
+        "Pluus",
+        "Prillid",
+        "Kapuuts",
+        "Sein",
+        "Logod",
+        "Käed"
+      ],
+      "colorcodes": [
+        "#d74d3f",
+        "#7acb5a",
+        "#369de2",
+        "#f59bd8",
+        "#9b5bb8",
+        "#ffffff",
+        "#a56f4d",
+        "#2e2e2e",
+        "#5d5d5d"
+      ],
+      "texts": [
+        "Estonia.eu",
+        "Readily learning",
+        "WELCOME TO ESTONIA.EU"
+      ],
+      "persons": [
+        "Neiu",
+        "Noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Naise pilgu suund muutub vasakult paremale.",
+        "Kaamera fookus nihkub naiselt noormehele ja tema nutitelefonile.",
+        "Noormehe käed ja nägu muutuvad järjest nähtavamaks, kuni ta on ise kaadris."
+      ],
+      "snr": "006",
+      "ajad": [
+        "15.160",
+        "18.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte noort inimest ajaloolisel linnaplatsil, kus mees näitab naisele midagi oma valgel nutitelefonil. Mees hoiab telefoni ülespoole ja naeratab, samal ajal kui naine vaatab temale suunatud pilguga. Telefoni ekraanil on näha QR-kood koos pealkirjaga \"MAGIC TOWN\" ja skaneerimisrakenduse liidese elemendid, sealhulgas punane horisontaalne skaneerimisjoon. Hiljem kuvatakse telefoni ekraanil reaalajas kaameravaade samast linnaplatsist, näidates kauguses suurt vana hoonet ja rahvahulka. Platsil liigub ringi palju inimesi, mis annab stseenile elava ja päevase atmosfääri. Taustal asuv hoone on valmistatud heledast kivist, sellel on palju aknaid ja kaarjad sissepääsud alaosas, mis viitab ajaloolisele arhitektuurile. Mees kannab halle prille ja halli kapuutsiga pusa, naine on riietatud pruuni ja musta värvi rõivastesse. Kogu tegevus toimub väljas avalikus ruumis.",
+      "actions": [
+        "Mobiiltelefoni hoidmine",
+        "QR-koodi skaneerimine (simuleeritud)",
+        "Mobiiltelefoni ekraani vaatamine",
+        "Naeratamine",
+        "Suhtlemine teise inimesega",
+        "Jalutamine (taustal olevad inimesed)"
+      ],
+      "keywords": [
+        "QR-kood",
+        "Nutitelefon",
+        "Linnaplatts",
+        "Ajalooline hoone",
+        "Digitaalne interaktsioon",
+        "Välitegevus",
+        "Sotsiaalne suhtlus",
+        "Turism",
+        "Tehnoloogia"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Valge nutitelefon",
+        "QR-kood",
+        "Ajalooline kivist hoone",
+        "Prillid",
+        "Kapuutsiga pusa",
+        "Riided",
+        "Inimesed (taustal)",
+        "Plats",
+        "Rakenduse liidese elemendid"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#CCCCCC",
+        "#808080",
+        "#3366CC",
+        "#FF0000",
+        "#A52A2A",
+        "#000000",
+        "#F0E68C"
+      ],
+      "texts": [
+        "MAGIC TOWN",
+        "Torch",
+        "Scan",
+        "History",
+        "Favorites",
+        "Creator",
+        "More",
+        "EE 3G",
+        "13:09",
+        "76%"
+      ],
+      "persons": [
+        "Noor mees (prillidega, hallis hupparis)",
+        "Noor naine (pruuni juustega, pruuni ja musta värvi rõivastuses)",
+        "Palju inimesi (taustal linnaplatsil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Nutitelefoni ekraanil kuvatav sisu muutub QR-koodi skaneerimise rakendusest reaalajas kaameravaateks ümbritsevast keskkonnast.",
+        "Kaamera vaatenurk muutub telefoni lähivõttest inimeste ja nende suhtluse keskpunkti võtmiseks linnaplatsil."
+      ],
+      "snr": "007",
+      "ajad": [
+        "18.480",
+        "23.720"
+      ]
+    },
+    {
+      "explanation": "Stseenil on näha detailne kaader käest, mis hoiab valget nutitelefoni, ekraaniga vaataja poole. Telefoni ekraanil kuvatakse videokõne või salvestust mehest ja naisest, kes naeratavad otse kaamerasse. Nende taustal paistab kodune interjöör, tõenäoliselt elutuba või kohvik, mille seinal on abstraktne punakates ja pruunides toonides kunstiteos. Nutitelefoni taustal on udune, kuid äratuntav linnapilt, kus on näha vanu hooneid ja väljakut. Telefoni ekraanil on ka väiksem, pilt-pildis stiilis aken, mis näitab erinevaid välisvaateid, näiteks ajaloolisi linnahooneid, avaraid väljakuid ja õues asuvaid kohvikualasid. Stseen tekitab tunde digitaalsest suhtlusest ja kauguste ületamisest.",
+      "actions": [
+        "Käsi hoiab nutitelefoni",
+        "Mees ja naine naeratavad kaamerasse",
+        "Mees ja naine lehvitavad ühel hetkel vaatajale",
+        "Nutitelefonil kuvatakse videopilti",
+        "Ekraanil on näha pilt-pildis funktsiooni, mis näitab linnavaateid"
+      ],
+      "keywords": [
+        "Videokõne",
+        "Nutitelefon",
+        "Paar",
+        "Linnapilt",
+        "Digitaalne suhtlus",
+        "Pilt-pildis",
+        "Lehvitamine",
+        "Naeratamine",
+        "Reisimine"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Käsi",
+        "Valge nutitelefon",
+        "Mees",
+        "Naine",
+        "T-särk",
+        "Pluus",
+        "Abstraktne kunstiteos",
+        "Linnahoone",
+        "Väljak",
+        "Lauad",
+        "Toolid",
+        "Päikesevarjud",
+        "Tänavakivi"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#F2D068",
+        "#4D6D8E",
+        "#2F2F2F",
+        "#6B4E32",
+        "#B34F36",
+        "#D88258",
+        "#A0A0A0",
+        "#E0B494"
+      ],
+      "texts": [],
+      "persons": [
+        "Kaks inimest (mees ja naine)",
+        "Inimene (käsi, kes hoiab telefoni)",
+        "Kauguses olevad inimesed"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Esimesel ja kolmandal pildil on mees ja naine telefoni ekraanil lihtsalt naeratamas, samas kui teisel pildil nad aktiivselt lehvitavad.",
+        "Väike pilt-pildis aken telefoni ekraanil näitab igal pildil erinevat välivaadet: esimesel pildil on näha suur vana hoone väljakul, teisel pildil on üldisem linnapildi vaade väljakult ja kolmandal pildil on detailne kaader väliskohvikust laudadega, toolidega ja päikesevarjudega."
+      ],
+      "snr": "008",
+      "ajad": [
+        "23.720",
+        "28.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort paari sõitmas punase-valge tandemrattaga läbi avara, sillutatud linnaväljaku. Naine, kes istub tagumisel istmel, on hõivatud nutitelefoniga selfiede tegemisega, hoides telefoni enda ees. Mees, kes on ees ja pedaalib, kannab prille ning naeratab rõõmsalt. Üldine atmosfäär on kerge ja rõõmus. Taustal on näha mitmekorruselisi ajaloolisi ja modernseid hooneid, mõnel neist on kaubandussildid. Väljakul liigub ringi ka teisi jalakäijaid. Puud on veel raagus, mis viitab kevadele või sügisele.",
+      "actions": [
+        "Tandemrattaga sõitmine",
+        "Selfie tegemine",
+        "Naeratamine",
+        "Naermine",
+        "Pedaalimine",
+        "Jalutamine (taustal)"
+      ],
+      "keywords": [
+        "Linnaväljak",
+        "Tandemratas",
+        "Selfie",
+        "Noorpaar",
+        "Linnamaastik",
+        "Rõõmus",
+        "Aktiivne",
+        "Prillid",
+        "Eesti"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Tandemratas",
+        "Nutitelefon",
+        "Prillid",
+        "Mehe džemper",
+        "Mehe püksid",
+        "Naise jope",
+        "Naise teksapüksid",
+        "Hooned",
+        "Tänavavalgustid",
+        "Pingid",
+        "Istutuskastid",
+        "Jalakäijad"
+      ],
+      "colorcodes": [
+        "#C8202F",
+        "#8A5E3F",
+        "#5A5A5A",
+        "#4682B4",
+        "#FFFFFF",
+        "#C6B6A0",
+        "#AAAAAA"
+      ],
+      "texts": [
+        "EURO APTEEK",
+        "ESTONIAN AIR",
+        "HANSARUSS",
+        "VABADUSE"
+      ],
+      "persons": [
+        "Noor mees",
+        "Noor naine",
+        "Jalakäijad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Kaameranurk ja kaugus paarist varieeruvad piltide vahel, pakkudes nii üldvaadet väljakust kui ka detailsemaid lähivõtteid paari näoilmetest ja tegevusest.",
+        "Naise telefoni asend ja fookus selfiele muutub, näidates tegevuse dünaamikat.",
+        "Mehe näoilme varieerub pilgust taeva poole ja rõõmsast naeratusest kuni allapoole vaatamise ja kontsentreerumiseni pedaalimisele."
+      ],
+      "snr": "009",
+      "ajad": [
+        "28.880",
+        "32.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kolme noort inimest õues, tõenäoliselt päikeselisel kevadpäeval. Keskel olev naine, pruunide juustega hobusesabas ja pruuni-musta jopega, sirutab vasaku käe paremal oleva naise poole. Paremal olev naine, tumedas karusnahkse kraega mantlis ja samuti pruunide juustega hobusesabas, kinnitab või kohendab midagi keskmise naise vasakul käsivarrel. See ese näib olevat tume nahast või riidest käekaitsja või rihm. Vasakul seisab noor mees prillidega, halli jope või salliga ja vaatleb toimuvat. Taustal on näha rohelist maapinnet või mäenõlva, kollast vana hoonet, mis võib olla kindlus või loss, ja kaugemal ähmaselt punast autot ning teisi inimesi. Üldine atmosfäär on rahulik ja keskendunud tegevusele.",
+      "actions": [
+        "Millegi kinnitamine käsivarrele",
+        "Kohendamine",
+        "Vaatlemine",
+        "Abi andmine",
+        "Suhtlemine"
+      ],
+      "keywords": [
+        "Noored inimesed",
+        "Õues",
+        "Käsivars",
+        "Kinnitamine",
+        "Abi",
+        "Kevad",
+        "Kindlus",
+        "Päikesepaisteline",
+        "Sõprus",
+        "Vaba aeg"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Prillid",
+        "Joped",
+        "Sall",
+        "Karusnahkne krae",
+        "Käekaitsja",
+        "Rohanõlv",
+        "Kollane hoone",
+        "Auto",
+        "Inimesed taustal",
+        "Hobusesaba"
+      ],
+      "colorcodes": [
+        "#4E5E65",
+        "#9E7044",
+        "#221F21",
+        "#1F1F20",
+        "#AA7040",
+        "#8BA066",
+        "#EBC152",
+        "#D13B39",
+        "#C3997A",
+        "#5A3E2F"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees",
+        "Noor naine (keskel)",
+        "Noor naine (paremal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 50,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on kerge kadreeringu või sisse-suumimise muutus.",
+        "Väga väikesed erinevused isikute asendites ja pilkudes, mis viitavad järjestikustele kaadritele. Näiteks on mehe pea teisel pildil kergelt rohkem kaldu ja parempoolse naise käte asend on minimaalselt muutunud. Keskmise naise näoilme on samuti vaevumärgatavalt teistsugune."
+      ],
+      "snr": "010",
+      "ajad": [
+        "32.320",
+        "34.000"
+      ]
+    },
+    {
+      "explanation": "Stseenil vestlevad rõõmsalt kaks noort naist õues, naeratades üksteisele. Vasakpoolne naine kannab musta nahktagi, mille esiosa on pruunist kangast, ja all valget pluusi. Ta näitab parempoolsele naisele midagi oma vasakul käel, mis näib olevat stiilne kinnas või rihmaga käevõru. Parempoolne naine on riietatud tumedasse mantlisse, millel on karvane kapuuts ja karusnahkne krae. Tema heleda kraega pluusi alt paistab kuldne käekell paremal randmel. Naine žestikuleerib kätega, suheldes aktiivselt teise naisega. Taust on udune ja koosneb rohekaspruunist kuivanud rohust ning üksikutest puudest, mis viitab varakevadisele või hilissügisesele ajale.",
+      "actions": [
+        "Vestlemine",
+        "Naeratamine",
+        "Žestikuleerimine",
+        "Millegi näitamine käel"
+      ],
+      "keywords": [
+        "Sõprus",
+        "Vestlus",
+        "Naised",
+        "Vaba aeg",
+        "Õues",
+        "Joped",
+        "Karusnahk",
+        "Käevõru",
+        "Kell",
+        "Mantel"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Nahktagi",
+        "Pruun kangas",
+        "Valge pluus",
+        "Must mantel",
+        "Karvane kapuuts",
+        "Karvane krae",
+        "Hele kraega pluus",
+        "Kuldne käekell",
+        "Kinnas",
+        "Käevõru",
+        "Kuivanud rohi",
+        "Puu"
+      ],
+      "colorcodes": [
+        "#A66642",
+        "#1A1A1A",
+        "#F0F0F0",
+        "#E3DCCF",
+        "#3A2A1A",
+        "#DAA520",
+        "#8B8B50",
+        "#F5DCC8"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor naine (vasakul)",
+        "Noor naine (paremal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "early spring",
+      "daytime": "day",
+      "differences": [
+        "Käte asendid ja žestid muutuvad kaadrite vahel, näidates vestluse dünaamikat",
+        "Näoilmete ja pilkude suunamise kerged muutused kaadrite jooksul",
+        "Viimane kaader on kitsam lähivõte, keskendudes naiste nägudele ja jättes käed suures osas fookusest välja"
+      ],
+      "snr": "011",
+      "ajad": [
+        "34.000",
+        "35.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest vibu laskmas välitingimustes. Mees on osaliselt näha kaadri vasakul küljel, hoides parema käega vibu ja noolt pinguldatud asendis, sihtides eemal asuvate märklaudade poole. Tal on seljas hall pikkade varrukatega särk, mille all on punane särk. Paremal käsivarrel on näha musta värvi kaitse või rannekaitse. Mehe nägu on piltidel kas osaliselt nähtamatu või udune, kuid esimesel pildil on näha tema prillid. Ta sihib kolme ruudukujulist vibulaskmise märklauda, millel on ringikujulised sihtmärgid – punane, sinine ja kollane – keskel asuva pullisilmaga. Märklauad on paigutatud puidust konstruktsiooni sisse, mis koosneb kolmest avast. Taustal on näha vana kivimüüri, mis annab stseenile ajaloolise või maalähedase tunde. Maapind on kaetud kruusaga. Valgus viitab päevasele ajale. Stseenis on näha nii vibulaskurit kui ka sihtmärke, mis viitab aktiivsele vibulaskmise tegevusele.",
+      "actions": [
+        "Vibu laskmine",
+        "Vibu sihtimine",
+        "Noolt pingule tõmbamine",
+        "Väljas viibimine"
+      ],
+      "keywords": [
+        "Vibulaskmine",
+        "Vibu",
+        "Nool",
+        "Märklauad",
+        "Mees",
+        "Sihtimine",
+        "Väljas",
+        "Kivimüür",
+        "Sport",
+        "Hobid"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Vibu",
+        "Nool",
+        "Märklauad",
+        "Puidust konstruktsioon",
+        "Kivimüür",
+        "Kruus",
+        "Prillid",
+        "Käsivars/rannekaitse"
+      ],
+      "colorcodes": [
+        "#8B0000",
+        "#808080",
+        "#A52A2A",
+        "#0000FF",
+        "#FFFF00"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimestel piltidel on fookus laskjal ja vibul, kolmandal pildil on fookus märklaual ja taustal.",
+        "Laskja on kolmandal pildil udune, samas kui märklauad on esimestel piltidel udused.",
+        "Detailide selgus varieerub: esimesed kaks pilti näitavad selgelt laskja kätt, prille ja vibu pingutatud asendit, kolmas pilt näitab selgelt märklaua detaile ja taustal olevat kivimüüri."
+      ],
+      "snr": "012",
+      "ajad": [
+        "35.640",
+        "37.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab välisüritust, tõenäoliselt ajaloolist taaskehastamist või festivali päikeselisel kevadpäeval. Esplaanil on kolm inimest, kes kannavad keskaegses stiilis rõivaid. Keskel seisab noor naine pruunis kapuutsiga keebis, millel on kuldsed tikandid, ja on parajasti vibu vinna tõmmanud, sihtides. Tema taga paremal on noormees prillidega punases keebis, samuti kuldsete tikanditega, kes hoiab nutitelefoni horisontaalselt ja näib naise tegevust filmivat või pildistavat. Vasakul on osa vanemast mehest tumepunases rõivastuses ja mütsis, kes jälgib tegevust. Vibu ja noole vars on selgelt nähtavad. Taustal laiub murunõlv, mida mööda kulgeb trepp, ja kauguses paistavad ajaloolise arhitektuuriga hooned, osaliselt punaste katustega. Nõlval ja kaugemal taustal on näha teisi inimesi, kes on riietatud moodsamalt. Maapinnal esiplaanil paremal on näha puidust konstruktsioon ja mõned nooled maas, mis viitab vibulaskmisalale.",
+      "actions": [
+        "Vibu vinnastamine",
+        "Sihtimine vibuga",
+        "Nutitelefoniga filmimine/pildistamine",
+        "Jälgimine/vaatlemine"
+      ],
+      "keywords": [
+        "Vibulaskmine",
+        "Vibu",
+        "Ajalooline üritus",
+        "Keskaegsed rõivad",
+        "Keebid",
+        "Vabaõhuüritus",
+        "Nutitelefon",
+        "Taaskehastamine",
+        "Kevad",
+        "Laskmine",
+        "Päikeseline ilm"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Vibu",
+        "Nool",
+        "Nutitelefon",
+        "Pruun keep",
+        "Punane keep",
+        "Prillid",
+        "Trepp",
+        "Murunõlv",
+        "Puud",
+        "Ajaloolised hooned",
+        "Puidust raamistik",
+        "Maapinnal lebavad nooled",
+        "Müts"
+      ],
+      "colorcodes": [
+        "#A0522D",
+        "#B22222",
+        "#8FBC8F",
+        "#4682B4",
+        "#F5DEB3",
+        "#800000",
+        "#F5F5F5",
+        "#CDA434"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (vibulaskja)",
+        "Noor mees (filmimas)",
+        "Vanem mees (jälgimas)",
+        "Inimesed taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Naisvibulaskja käte ja vibu asend muutub veidi kaadrite vahel, mis viitab liikumisele.",
+        "Nutitelefoniga mehe pea ja käe asend ning pilk muutuvad minimaalselt, näidates liikumist või järjestikuseid kaadreid videost.",
+        "Valguse ja varjude nurk jääb samaks, viidates lühikesele ajavahemikule kaadrite vahel."
+      ],
+      "snr": "013",
+      "ajad": [
+        "37.400",
+        "38.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kaht inimest vabas õhus vibu laskmas. Esikohal on noor naine, kes on keskendunud vibuga sihtimisele. Tema profiil on selgelt näha, pikkade juustega hobusesabas ja tõsise ilmega. Naine kannab tumepruuni, ajaloolist või fantaasiafilmi meenutavat kostüümi ja tumedat kindat või varrukat paremal käel. Ta hoiab vibu ja on noole vibunöörile asetanud, tõmmates selle tagasi laskeasendisse. Nool on erksa kollase sulgedega. Tagaplaanil, veidi uduselt, on näha vanemat meest, kes kannab peakatet ja punast jopet. Ta jälgib noore naise tegevust, olles ilmselt tema juhendaja või kaaslane. Päike paistab tagant, luues pehme valguse ja varjud ning valgustades stseeni soojalt. Taustal on näha paljaste okstega puid, mis viitab jahedamale aastaajale. Üldine atmosfäär on rahulik ja keskendunud vibulaskmisele.",
+      "actions": [
+        "Vibu laskmine",
+        "Noole sihtimine",
+        "Jälgimine",
+        "Seisamine",
+        "Keskendumine"
+      ],
+      "keywords": [
+        "Vibulaskmine",
+        "Vibu",
+        "Nool",
+        "Vabaõhu",
+        "Keskendumine",
+        "Treening",
+        "Instruktor",
+        "Päike",
+        "Loodus",
+        "Hobi",
+        "Profiil",
+        "Kostüüm"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Vibu",
+        "Nool",
+        "Peakate",
+        "Riided",
+        "Puud",
+        "Päike",
+        "Kindasarnane varrukas"
+      ],
+      "colorcodes": [
+        "#4F3C2B",
+        "#FDC700",
+        "#DB3F2C",
+        "#E8C8B3",
+        "#C7D9E4",
+        "#615E5F",
+        "#3F6C66",
+        "#E97F1E"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor naine",
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel ja teisel pildil hoiab naine noolt ja vibunööri pingul, sihtimisvalmis asendis.",
+        "Kolmandal pildil on naine oma asendit muutnud; vibunöör on lõdvestunud ja nool ei ole enam pinguldatud asendis, mis viitab kas lasu sooritamisele või asendi lõdvestamisele. Naise pilk on suunatud veidi allapoole ja paremale.",
+        "Mehe asend tagaplaanil on kolmandal pildil veidi nihkunud vasakule ja on veelgi udusamaks muutunud."
+      ],
+      "snr": "014",
+      "ajad": [
+        "38.280",
+        "40.040"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud kaks noort inimest õues päikesepaistelisel päeval, kes on riietatud segu modernsetest ja ajaloolistest/fantaasiateemalistest rõivastest. Prillidega mees, kes kannab halli pusa ja punast keepi kollase lõviembloomiga, hoiab helesinist nutitelefoni, tehes ilmselt selfiet või pilti. Tema kõrval seisab pikkade tumedate juustega naine, seljas pruun tuunika ja käes kindaga, hoides sportvibu. Nad suhtlevad elavalt, naeratades ja vaadates üksteist või telefoni. Tagaplaanil on näha kuiva rohtu, paljaid puid ja kaugemal asuvaid hooneid, mis annab aimu kevadisest või hilissügisesest päevast.",
+      "actions": [
+        "Mees hoiab nutitelefoni ja näib pildistavat.",
+        "Naine hoiab sportvibu.",
+        "Nad poseerivad pildi jaoks.",
+        "Nad suhtlevad ja naeratavad üksteisele.",
+        "Nad vaatavad kord telefoni, kord üksteist."
+      ],
+      "keywords": [
+        "Nutitelefon",
+        "Selfie",
+        "Vibu",
+        "Keskaja kostüüm",
+        "Fantaasia",
+        "Õues",
+        "Päikesepaisteline",
+        "Noored",
+        "Kevad",
+        "Rollimäng",
+        "Fotograafia"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Nutitelefon",
+        "Vibu",
+        "Prillid",
+        "Punane keep",
+        "Pruun tuunika",
+        "Kindad",
+        "Nahast käekaitse",
+        "Hall pusa",
+        "Rohi",
+        "Paljad puud",
+        "Hoone",
+        "Tee/rada"
+      ],
+      "colorcodes": [
+        "#8B0000",
+        "#A52A2A",
+        "#A9A9A9",
+        "#FFD700",
+        "#8FBC8F",
+        "#4F4F4F",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees",
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil vaatavad mõlemad peategelased telefoni poole ja naeratavad kergelt, poseerides pildi jaoks.",
+        "Teisel pildil vaatab naine mehe poole ja naeratab, samal ajal kui mees on keskendunud telefonile, kontrollides ilmselt kaadrit.",
+        "Kolmandal pildil naeratab naine otse mehele ja mees naeratab talle vastu, hoides endiselt telefoni, rõhutades nende omavahelist sotsiaalset suhtlust ja emotsioone.",
+        "Kaamera nurk ja tegelaste täpsed asendid ning näoilmed muutuvad iga kaadri vahel kergelt, pakkudes dünaamilisemat vaadet stseenile."
+      ],
+      "snr": "015",
+      "ajad": [
+        "40.040",
+        "42.480"
+      ]
+    },
+    {
+      "explanation": "Pildiseeria kujutab elavat välikohviku stseeni munakividega kaetud hoovi või kitsal tänaval vanade hoonete vahel. Päikeselises keskkonnas on näha mitu inimest lõõgastumas ja vestlemas laudade taga. Kohvikulaudadel on roosad narmastega laudlinad ja värsked potitaimed, mis loovad hubase ja kutsuva atmosfääri. Ettekandja, kandes elegantset helebeeži mütsi ja musta riietust, teenindab ühte paari, pakkudes neile jooke kohvitassides. Teised kliendid, kaks meest ja kolm naist, istuvad teistes laudades; mõned vestlevad elavalt, teised paistavad rahulikult oma jooke nautivat. Ümbruskonnas on näha vanadele majadele iseloomulikke aknaid ja pruune uksi, samuti seinal silte nagu \"NAITUS EXHIBITION\" ja osaliselt nähtav \"CAFE & CHOCOLATERIE\", mis annavad vihje koha funktsioonile ja pakutavatele teenustele. Üldmulje on rahulikust ja seltskondlikust suvepäevast ajaloolises vanalinna miljöös, kus igaüks saab nautida kohvipausi vabas õhus.",
+      "actions": [
+        "Istumine kohvikus",
+        "Vestlemine",
+        "Jookide nautimine",
+        "Teenindamine",
+        "Ettekandja liikumine"
+      ],
+      "keywords": [
+        "Välikohvik",
+        "Munakivid",
+        "Vanalinn",
+        "Kohvipaus",
+        "Suvepäev",
+        "Seltskond",
+        "Teenindus",
+        "Hubasus",
+        "Ajalooline",
+        "Arhitektuur",
+        "Terrass",
+        "Lõõgastus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Välikohvik",
+        "Lauad",
+        "Toolid",
+        "Laudlinad",
+        "Potitaimed",
+        "Kohvitassid",
+        "Klaasid",
+        "Kann",
+        "Munakividest tänav/hoov",
+        "Vanad hooned",
+        "Aknad",
+        "Uksed",
+        "Sildid",
+        "Kardinad",
+        "Müts",
+        "Kott",
+        "Dekoratiivesemed"
+      ],
+      "colorcodes": [
+        "#DD8A8C",
+        "#807B7A",
+        "#A2222E",
+        "#4C6F32",
+        "#D8C39F",
+        "#5B3B2B",
+        "#F0F0F0",
+        "#587BA5"
+      ],
+      "texts": [
+        "NAITUS EXHIBITION",
+        "CAFE & CHOCOLATERIE",
+        "JA TEID OOTAB KOHVIPAUS...",
+        "HORTENSIA"
+      ],
+      "persons": [
+        "Mees (vasakul, hallis särgis)",
+        "Naine (vasakul, tumedas särgis)",
+        "Mees (keskel paremal, hallis džempris)",
+        "Naine (keskel paremal, pruunis jakis)",
+        "Ettekandja (mustas riietuses, mütsiga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Ettekandja asend ja käeliigutus tassidega varieeruvad kergelt, viidates teeninduse hetkel toimuvale liikumisele.",
+        "Keskel paremal istuv mees ja naine on kergelt pead liigutanud või pilku muutnud.",
+        "Laual olevad esemed (nagu kann ja klaasid) võivad veidi asukohta muuta või paista erineva nurga alt."
+      ],
+      "snr": "016",
+      "ajad": [
+        "42.480",
+        "44.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noormeest välitingimustes, tõenäoliselt kohviku terrassil või koduõues, pildistamas nutitelefoniga eredat kollast võõrasemataime oranžis potis. Ta on riietatud halli kapuutsiga pusapluusi ja kannab prille, suul on kerge naeratus, mis viitab meeldivale tegevusele. Noormees on keskendunud pildistatavale lillele, hoides telefoni kahe käega. Esiplaanil on väike tume ümmargune laud, millel lisaks lillepotile on ka kaks valget keraamilist tassi, millest üks on taldrikul. Taustal paistab hoone esine trepiga ukseava, kaunistatud punaste ja kollaste patjadega, mis loovad sooja ja hubase atmosfääri. Paremal kaugemal on näha veel üks lillepott oranžide õitega, mis asetseb mustal, nikerdatud jalgadega alusel. Kogu stseen annab edasi rahuliku ja idüllilise hetke, tõenäoliselt kevadisel või suvisel päeval.",
+      "actions": [
+        "pildistamine nutitelefoniga",
+        "naeratamine",
+        "vaatamine"
+      ],
+      "keywords": [
+        "pildistamine",
+        "noormees",
+        "nutitelefon",
+        "lilled",
+        "võõrasema",
+        "kohvik",
+        "välistingimused",
+        "kevad",
+        "suvi",
+        "puhkus",
+        "hobi",
+        "rõõmus",
+        "hubane"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "noormees",
+        "nutitelefon",
+        "lilled potis (võõrasemad)",
+        "keraamilised tassid",
+        "laud",
+        "prillid",
+        "pusapluus",
+        "patjadega pink/trepiaste",
+        "ukseava",
+        "trepp",
+        "lillealus",
+        "lilled potis (oranžid)"
+      ],
+      "colorcodes": [
+        "#5A6064",
+        "#FFE100",
+        "#FF6600",
+        "#AA0000",
+        "#EFEFEF",
+        "#AEE4E9",
+        "#8B4513",
+        "#5B7F39",
+        "#1C1C1C"
+      ],
+      "texts": [],
+      "persons": [
+        "üks noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Noormehe pea ja käte asend on kergelt muutunud, vihjates liikumisele kaadrite vahel.",
+        "Nutitelefoni nurk ja asend on pisut erinev.",
+        "Lillede ja lehtede paigutus potis on minimaalselt erinev, mis on tingitud kaamera või subjekti liikumisest.",
+        "Üldine stseen ja objekti paigutused jäävad samaks, näidates peaaegu identseid kaadreid või järjestikuseid pilte."
+      ],
+      "snr": "017",
+      "ajad": [
+        "44.280",
+        "45.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort paari, kes istub hubasel välikohviku laua taga päikesepaistelisel päeval. Mees hoiab käes valge/roheka ümbrisega nutitelefoni ja näitab ekraanil midagi naisele, kes vaatab tähelepanelikult ja huviga. Mõlemad tunduvad olevat heas tujus, mees naeratab laialt ja naine jälgib ekraani kerge naeratusega. Laual on valge teekann, kaks valget tassi pruuni teksti ja valgete taldrikutega ning oranžis potis kollased kannikesed. Taustal on näha hoone fassaadi ja sissepääsu, mis viitab Euroopa linnatänavale. Tundub, et nad naudivad vaba hetke koos, jagades üksteisega telefoni sisu.",
+      "actions": [
+        "Mees hoiab ja näitab nutitelefoni.",
+        "Naine vaatab telefoni ekraani.",
+        "Nad istuvad kohvikulaua taga.",
+        "Mees naeratab.",
+        "Naine jälgib huviga.",
+        "Nad joovad teed või kohvi."
+      ],
+      "keywords": [
+        "Kohvik",
+        "Paar",
+        "Nutitelefon",
+        "Vestlus",
+        "Vaba aeg",
+        "Väljas",
+        "Päev",
+        "Kevad",
+        "Suvi",
+        "Sõprus",
+        "Tehnoloogia"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Nutitelefon",
+        "Kohvikulaud",
+        "Potailles (oranž)",
+        "Lilled (kollased kannikesed)",
+        "Teekann (valge)",
+        "Teetassid/kohvitassid (valged)",
+        "Tassialused (valged)",
+        "Lusikad (metallist)",
+        "Mehe prillid",
+        "Mehe sall/kapuuts",
+        "Naise mantel (pruun mustade varrukatega)",
+        "Hoone fassaad taustal",
+        "Punased ja kollased padjad taustal"
+      ],
+      "colorcodes": [
+        "#DD6E14",
+        "#F7D024",
+        "#E2B0C8",
+        "#FDFDFD",
+        "#B27B49",
+        "#231F20",
+        "#6B757B",
+        "#A9DED9",
+        "#F0EDE5",
+        "#AA2B31"
+      ],
+      "texts": [
+        "Mascal/Massel (tassidel)"
+      ],
+      "persons": [
+        "Noormees",
+        "Neiu"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Väikesed, peaaegu märkamatud variatsioonid kaadrite vahel, mis viitavad videost võetud lähikaadritele või minimaalsele liikumisele. Näiteks mehe käe asend telefoniga või näoilmete peened nüansid võivad pisut erineda."
+      ],
+      "snr": "018",
+      "ajad": [
+        "45.120",
+        "45.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia panoraamvaadet vanalinnale päikesepaistelisel talve- või varakevadpäeval. Esiküljel domineerivad tihedalt asetsevad ajaloolised hooned, millel on iseloomulikud tellispunased, oranžid ja pruunid katused. Mõned katused ja vasakul esiplaanil on näha lumejääke, mis annab aimu aastaajast. Vasakpoolses osas tõuseb esile kõrge ja sale kirikutorn valge fassaadi ja tumeda, terava tipuga, mis on linna siluetis silmapaistev maamärk. Paremal pool on näha veel üks väiksem ja tumedam torn. Hoonete vahel looklevad kitsad tänavad on osaliselt varjus. Horisondil, hoonete taga, paistab lai ja rahulik veekogu – tõenäoliselt meri või laht –, kus ujuvad või ankrus on mitmed suured laevad või parvlaevad. Taevas on helesinine ja selge, vaid üksikute pilveräbalatega. Vaatepunkt on kõrgel, pakkudes ulatuslikku ülevaadet linnast ja selle ümbrusest. Kaadri ülaosas on näha paljaid puuoksi, mis raamivad vaadet.",
+      "actions": [
+        "Panoraamvaade linnale",
+        "Vaatamine",
+        "Pildistamine"
+      ],
+      "keywords": [
+        "Vanalinn",
+        "Tallinn",
+        "Panoraamvaade",
+        "Linnavaade",
+        "Katused",
+        "Ajalooline arhitektuur",
+        "Kirikutorn",
+        "Meri",
+        "Laevad",
+        "Talv",
+        "Kevad",
+        "Päikesepaiste",
+        "Eesti"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hooned",
+        "Katused",
+        "Kirikutornid",
+        "Korstnad",
+        "Aknad",
+        "Meri",
+        "Laevad",
+        "Taevas",
+        "Pilved",
+        "Puuoksad",
+        "Lumi"
+      ],
+      "colorcodes": [
+        "#8EC2E6",
+        "#A52A2A",
+        "#CE6A38",
+        "#FFFFFF",
+        "#2F4F4F",
+        "#6E9EC5",
+        "#5A4A3E"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Kaadrid nihkuvad järk-järgult paremale, pakkudes laiemat vaatenurka samast stseenist.",
+        "Vasakpoolne kirikutorn liigub igas järjestikuses kaadris kaadri vasakpoolsema serva poole.",
+        "Parempoolne torn nihkub paremalt poolt kaadri keskosa poole.",
+        "Puuoksad kaadri ülemises servas muutuvad veidi oma asukohas ja kumeruses, peegeldades panoraamset liikumist."
+      ],
+      "snr": "019",
+      "ajad": [
+        "45.960",
+        "47.680"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest – naist ja meest – katuselt avaneva linnavaate taustal päikeselisel päeval. Naine on kaadri keskel seljaga vaataja poole, tema tumepruunid juuksed on seotud hobusesabasse. Tal on seljas pruunikas-karamellitooni pluus. Naine vaatleb panoraami, mis koosneb punaste ja oranžide katustega vanematest hoonetest esiplaanil ning kauguses paistvatest modernsetest kõrghoonetest. Ühes kaadris hoiab naine oma paremat kätt põse lähedal, justkui pildistaks või salvestaks mobiiltelefoniga. Teistes kaadrites on naine mõnevõrra erinevas asendis, aga endiselt vaate poole. Mees ilmub kaadrisse naise paremale küljele, vaadates samuti välja linnavaate poole, kandes prille ja halli kampsunit. Ühes kaadris paistab mees naeratavat. Taevas on selge ja sinine, viitades ilusale ilmale. Üldine meeleolu on rahulik ja nauditav, justkui imetletaks vaadet.",
+      "actions": [
+        "Linnavaate nautimine",
+        "Pildistamine või filmimine mobiiltelefoniga",
+        "Vaate vaatlemine",
+        "Naeratamine"
+      ],
+      "keywords": [
+        "Linnavaade",
+        "Katused",
+        "Panoraam",
+        "Päikeseline päev",
+        "Kõrghooned",
+        "Vana linn",
+        "Horisont",
+        "Puhkus",
+        "Turism"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Mees",
+        "Linn",
+        "Katused",
+        "Hooned",
+        "Taevas",
+        "Mobiiltelefon",
+        "Hobusesaba",
+        "Prillid",
+        "Pluus",
+        "Kampsun"
+      ],
+      "colorcodes": [
+        "#8B4513",
+        "#D2691E",
+        "#A0522D",
+        "#6495ED",
+        "#F5DEB3",
+        "#DCDCDC",
+        "#808080"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris on näha ainult naine, kes on suunatud linnavaatele. Mees puudub kaadrist.",
+        "Teises kaadris ilmub mees naise paremale küljele, vaatab samuti vaadet ja paistab naeratavat. Naine hoiab käes mobiiltelefoni, justkui pildistaks.",
+        "Kolmandas kaadris on mees endiselt kaadris naise paremal küljel, vaadates vaadet, kuid tema nägu on vähem näha kui teises kaadris. Naine hoiab käed veidi erinevas asendis kui teises kaadris."
+      ],
+      "snr": "020",
+      "ajad": [
+        "47.680",
+        "49.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, meest ja naist, kõndimas seljaga kaamera poole kitsas munakividega kaetud alleel, mis on ääristatud kõrgete vanade kivimüüridega. Müüride kohal on näha kaarekujulisi läbikäike ja puidust konstruktsioone, mis loovad üle pea sillaefekti. Mees, kandes halli pikkade varrukatega särki ja prille, hoiab oma paremat kätt ülal, näiliselt pildistades või filmides midagi ülevalpool või paremal pool. Naine, kellel on tumedad juuksed hobusesabas ja seljas pruun vest musta pika varrukaga riietuse peal, kõnnib mehe kõrval ja vaatab kergelt tema poole või vasakule. Valgus on ere ja loomulik, viitades päevasele ajale. Stseen annab edasi vanalinna või ajaloolise paiga atmosfääri.",
+      "actions": [
+        "kõndimine",
+        "pildistamine/filmimine",
+        "vaatlemine"
+      ],
+      "keywords": [
+        "vanalinn",
+        "allee",
+        "munakivi",
+        "kivimüürid",
+        "ajalooline",
+        "turistid",
+        "kaarekujulised ehitised",
+        "jalutuskäik",
+        "ajalugu",
+        "arhitektuur"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "kivimüür",
+        "munakivi",
+        "kaarjas ehitis",
+        "telefon/kaamera",
+        "prillid",
+        "vest",
+        "pikkade varrukatega särk",
+        "hobusesaba"
+      ],
+      "colorcodes": [
+        "#5C626C",
+        "#A36A3B",
+        "#7F7F7F",
+        "#C0C0C0",
+        "#B0875C",
+        "#333333"
+      ],
+      "texts": [],
+      "persons": [
+        "mees",
+        "naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Mehe parema käe asend ja eseme hoidmise nurk muutuvad kergelt kaadrite vahel, näidates, et ta liigutab kätt allapoole.",
+        "Naise pea pöördenurk ja pilk muutuvad kergelt, viidates tema liikumisele ja ümbruse vaatlemisele."
+      ],
+      "snr": "021",
+      "ajad": [
+        "49.480",
+        "52.840"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort paari vanas munakivitänavaga allees, mis on ääristatud iidsete kivist hoonetega. Alguses seisavad nad teineteisele lähedal, mõlemal käes jäätis. Mees uurib oma jäätist, naine vaatab talle otsa, näol kerge muie. Seejärel muutub mehe ilme rõõmsalt naeruseks, samal ajal kui naine liigub mänguliselt temast eemale, võib-olla jäätisega seotud nalja või tegevuse tagajärjel. Stseen kulmineerub paari rõõmsalt mööda alleed kaamerast eemale jooksmas, jäätised endiselt käes, pakkudes edasi mängulist ja muretut meeleolu. Üldine õhkkond on kerge ja rõõmus, andes edasi kahe inimese vahelist lähedust ja mängulisust vanalinna võluvas keskkonnas.",
+      "actions": [
+        "Jäätist sööma",
+        "Naerma",
+        "Jooksma",
+        "Teineteist aasima",
+        "Suhtlema",
+        "Liikuma"
+      ],
+      "keywords": [
+        "Nooruslikkus",
+        "Rõõm",
+        "Mängulisus",
+        "Jäätis",
+        "Vanalinn",
+        "Allee",
+        "Paar",
+        "Suvepäev",
+        "Romantika",
+        "Kivitänav"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Jäätis",
+        "Jäätisekoonus",
+        "Mees",
+        "Naine",
+        "Munakivitee",
+        "Kivist hooned",
+        "Tänav",
+        "Ukseavad",
+        "Kaared",
+        "Päikeseprillid"
+      ],
+      "colorcodes": [
+        "#4e5a61",
+        "#8b5b3a",
+        "#8c8c8c",
+        "#968e82",
+        "#fcfcfc",
+        "#517188"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees",
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "summer",
+      "daytime": "day",
+      "differences": [
+        "Inimesed liiguvad teineteise lähedalt kaugemale, lõpuks kaamerast eemale joostes.",
+        "Kaamera kaugus muutub lähivõttest (või poollähivõttest) üldplaaniks.",
+        "Mehe näoilme muutub jäätist vaatamisest rõõmsaks naeruks.",
+        "Naise tegevus muutub mehele otsa vaatamisest temast eemale liikumiseks ja lõpuks jooksmiseks.",
+        "Interaktsiooni fookus nihkub jäätiselt mängulisele tagaajamisele või põgenemisele."
+      ],
+      "snr": "022",
+      "ajad": [
+        "52.840",
+        "57.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort paari, kes jalutab päikesepaistelisel päeval munakivisillutisega vanalinna tänaval. Paremal olev noormees hoiab oma heledat nutitelefoni pea kohal, ilmselt teeb selfit või salvestab videot, vaadates naeratades kaamerasse. Tal on peas prillid ja seljas hall kapuutsiga pusa, millel on kaeluse juures valged nöörid. Tema vasak käsi on tõenäoliselt põimitud vasakul oleva noore naise parema käega, kes kõnnib tema kõrval. Naine kannab pruuni ja musta värvi jaki kombinatsiooni valge topi peal ning tema tumedad juuksed on pikas patsis või hobusesabas. Naise pilk ja käte asend muutuvad kaadrite vahel: ühel hetkel vaatab ta otse ette, teisel osutab ta parema käega eemal asuvale punktile ja vaatab sinnapoole, justkui midagi selgitades või näidates. Kolmandal hetkel vaatab ta ette ja veidi ülespoole, ilme on tähelepanelik või mõtlik. Taustal on näha vanu hooneid, millel on heledad fassaadid ja punakad katused, samuti üksikuid uduselt nähtavaid mööduvaid inimesi. Puud taustal on raagus, mis viitab kevadele või hilissügisele.",
+      "actions": [
+        "Jalutamine mööda tänavat",
+        "Nutitelefoni hoidmine",
+        "Selfie tegemine või video salvestamine",
+        "Naeratamine",
+        "Vaatamine/pilgu suunamine",
+        "Osutamine käega"
+      ],
+      "keywords": [
+        "Noor paar",
+        "Vanalinn",
+        "Munakivi",
+        "Selfie",
+        "Nutitelefon",
+        "Jalutuskäik",
+        "Reisimine",
+        "Avastamine",
+        "Päikesepaiste",
+        "Linnaekskursioon"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Noormees",
+        "Noor naine",
+        "Nutitelefon",
+        "Prillid",
+        "Hall kapuutsiga pusa",
+        "Pruun ja must jakk",
+        "Valge topp",
+        "Vanalinna hooned",
+        "Munakivisillutis",
+        "Uksed",
+        "Aknad",
+        "Raagus puud",
+        "Inimesed taustal"
+      ],
+      "colorcodes": [
+        "#717478",
+        "#A8D7AA",
+        "#8E6342",
+        "#2F2F2F",
+        "#FFFFFF",
+        "#E0E0E0",
+        "#B26A5A",
+        "#9A9A9A"
+      ],
+      "texts": [],
+      "persons": [
+        "Noormees",
+        "Noor naine",
+        "Möödujad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Naispoole pilgu suund muutub kaadrite vahel.",
+        "Naispoole käe asend muutub: ühes kaadris on käsi all, teises osutab parema käega ettepoole."
+      ],
+      "snr": "023",
+      "ajad": [
+        "57.920",
+        "59.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort paari jalutamas läbi kitsa, munakividega kaetud tänava, mis asub vanalinnas või ajaloolises piirkonnas. Päikeselises, arvatavasti hilisõhtupoolikus valguses liiguvad nad piki heledate seintega hoonete vahele jäävat teed. Noor mees, prillide ja halli kapuutsiga pusa kandes, hoiab paremas käes nutitelefoni, suunates selle enda ja naise poole, ilmselt selfiet tehes või videot filmides. Ta naeratab rõõmsalt. Tema vasak käsi on põimitud noore naise paremasse kätte. Naine, kandes pruuni nahast varrukatega jakki ja valget pluusi, vaatab ettepoole või kergelt kõrvale, ilme on neutraalne. Mõne hetke pärast pöörab naine pilgu paremal asuvasse poeaknasse, kus on välja pandud erinevaid esemeid ja ehteid, samal ajal kui mees jääb tema lähedusse, osaliselt kaadrist väljas. Poe sissepääs on rohelise ukse ja raamidega, akna peal on näha silt kirjaga 'WC' ja seinal kaks müügiplakatit, millest üks kujutab naist ja teine erinevaid esemeid. Tänav on kaetud munakividega ja hooned on heledates toonides, tagapool paistavad roosakate katustega majad.",
+      "actions": [
+        "Jalutamine",
+        "Käest kinni hoidmine",
+        "Selfie tegemine",
+        "Videote filmimine",
+        "Poeakna uudistamine",
+        "Ringivaatamine"
+      ],
+      "keywords": [
+        "Vanalinn",
+        "Paar",
+        "Jalutuskäik",
+        "Munakivitee",
+        "Selfie",
+        "Nutitelefon",
+        "Poeaken",
+        "Ajalooline arhitektuur",
+        "Linnaväline",
+        "Romantika"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Nutitelefon",
+        "Prillid",
+        "Kapuutsiga pusa",
+        "Jakk",
+        "Teksad",
+        "Munakivitee",
+        "Hooned",
+        "Aknad",
+        "Poeuks",
+        "Poeaken",
+        "Müügiplakatid",
+        "Dekoratiivesemed poeaknal",
+        "Silt"
+      ],
+      "colorcodes": [
+        "#e0d9cc",
+        "#f0ede3",
+        "#6b777a",
+        "#a07a5d",
+        "#336655",
+        "#5c7e99",
+        "#b06b6b"
+      ],
+      "texts": [
+        "WC"
+      ],
+      "persons": [
+        "Noor mees",
+        "Noor naine",
+        "Paar"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "spring",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on kaader keskendunud paarile, kes kõnnib ja pildistab ennast.",
+        "Teisel pildil on fookus maapinnal ja hoonetel, paar on peaaegu kaadrist väljas, mis annab edasi liikumise ja ümbruse tunnet.",
+        "Kolmandal pildil on kaamera pööratud naise poole, kes on peatunud poeakent uudistama, mees on osaliselt kaadrist väljas. See näitab paari tegevuse muutust jalutamiselt peatusele ja vaatlemisele."
+      ],
+      "snr": "024",
+      "ajad": [
+        "59.640",
+        "64.800"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub kitsal munakivisillutisega tänaval, mis on ilmselt mõnes vanalinnas, arvestades arhitektuuri ja merevaigupoodide olemasolu. Aeg on hilisõhtu või varajane õhtu, mida iseloomustab soe, pehme valgus ja pikad varjud. Tänav on jalakäijaid täis. Vasakul pool on rohelise raamiga aknaga pood, kus on väljas merevaigust ehted, sildiga \"Baltic Amber\". Selle kõrval on teine poe sissepääs, mille kohal on silt \"amber\" ja uksel on plakat naeratava inimesega (laps või noor naine), kes kannab merevaigust ehteid, ning teine merevaigutoodete väljapanek. Poe aknale on nähtav ka \"WC\" silt. Erinevad inimesed ja grupid jalutavad mööda tänavat. Üks pruuni jope ja siniste teksadega naine on süvenenud merevaigu väljapaneku vaatlemisse poeaknast. Teiste jalakäijate hulgas on tumehalli kapuutsiga ja päikeseprillidega mees, hallis kapuutsis ja pruunides pükstes mees, kes on süvenenud oma telefoni, ja seljakotiga naine, samuti grupp inimesi, kellest üks hoiab käes valget lehviku-laadset eset. Üldine õhkkond viitab turistide piirkonnale, kus inimesed ostlevad või avastavad ümbrust.",
+      "actions": [
+        "kõndimine",
+        "poodi vaatamine",
+        "telefoniga tegelemine",
+        "kottide kandmine",
+        "kohvri vedamine",
+        "käe tõstmine"
+      ],
+      "keywords": [
+        "vanalinn",
+        "munakivi",
+        "tänav",
+        "poed",
+        "merevaik",
+        "jalakäijad",
+        "turistid",
+        "õhtu",
+        "sagin",
+        "ehted",
+        "suveniirid"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "munakivisillutis",
+        "poehoone",
+        "poeaken",
+        "poeuks",
+        "sildid",
+        "merevaigust ehted",
+        "plakatid",
+        "seljakott",
+        "käekott",
+        "kohver ratastel",
+        "mobiiltelefon",
+        "kapuuts",
+        "päikeseprillid",
+        "lehviku-laadne ese"
+      ],
+      "colorcodes": [
+        "#A08365",
+        "#6C4C3E",
+        "#336633",
+        "#C0392B",
+        "#5B7EA4",
+        "#7F8488",
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "Baltic Amber",
+        "amber",
+        "WC",
+        "MEREVAIGUEHTED"
+      ],
+      "persons": [
+        "jalakäijad",
+        "turistid",
+        "mehed",
+        "naised",
+        "poes vaatleja"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "spring",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on vasakul esiplaanil tumehalli kapuutsiga mees päikeseprillidega, teisel pildil on tema asemel valges kardiganis naine pruuni kotiga.",
+        "Esimesel pildil on hallis kapuutsis telefoni vaatav mees lähemal esiplaanile, teisel pildil on ta tagapool ja fookus on liikunud teistele inimestele.",
+        "Teisel pildil on esiplaanil paremal punase jopega naine, kes veab ratastega punast kohvrit, keda esimesel pildil ei ole näha.",
+        "Tagapool olevate inimeste grupi koosseis ja täpsed asukohad on veidi muutunud kahe kaadri vahel."
+      ],
+      "snr": "025",
+      "ajad": [
+        "64.800",
+        "69.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist vanal munakivisillutisega tänaval, mis on ääristatud ajalooliste hoonetega. Naine seisab ja hiljem kõnnib ühe kaupluse ees, mis spetsialiseerub merevaigust ehetele. Poodi iseloomustavad rohelised puidust reklaamtahvlid, millel on fotod erinevatest merevaigust kaelakeedest, kõrvarõngastest ja käevõrudest, samuti modellidest, kes neid ehteid kannavad. Kaupluse sildil on kirjas 'merevaik baltic Amber' ja 'amber'. Taustal on näha teisi hooneid ja kaupluse silti 'MEREVAIGUEHTED'. Naine on riietatud pruuni nahktagi, valge pluusi ja teksapükstega. Tema liikumine näitab, et ta on alguses peatunud ja vaatleb ümbrust, seejärel hakkab edasi liikuma, kaamerast eemale.",
+      "actions": [
+        "Seisab",
+        "Vaatleb",
+        "Pöörab pead",
+        "Kõnnib",
+        "Liigub edasi"
+      ],
+      "keywords": [
+        "Merevaigupood",
+        "Munakivisillutis",
+        "Linnatänav",
+        "Ehted",
+        "Naine",
+        "Kaubandus",
+        "Ajalooline arhitektuur",
+        "Jalutuskäik"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Noor naine",
+        "Merevaigupood",
+        "Reklaamtahvlid",
+        "Merevaigust ehted (kaelakeed, kõrvarõngad, käevõrud)",
+        "Munakivisillutisega tänav",
+        "Hoone seinad",
+        "Kaupluse uks",
+        "Kaupluse aken",
+        "Teine inimene (taustal)"
+      ],
+      "colorcodes": [
+        "#3A746B",
+        "#8B5A2B",
+        "#D8C3A7",
+        "#6B5B4E",
+        "#4A769F",
+        "#C9302C",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "merevaik",
+        "Baltic Amber",
+        "amber",
+        "MEREVAIGUEHTED",
+        "WC"
+      ],
+      "persons": [
+        "Noor naine",
+        "Teine inimene (taustal)",
+        "Modellid reklaampiltidel"
+      ],
+      "imagetype": "real",
+      "emptypercent": 30,
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Naise asend ja tegevus muutuvad: alguses seisab ja vaatleb poodi, seejärel hakkab liikuma ja vaatab vasakule, lõpuks kõnnib ta kaamerast eemale kaadri vasakule poole.",
+        "Naise kaugus kaamerast suureneb piltide järjestuses.",
+        "Kaadri fookus ja kompositsoon nihkub pisut, jälgides naise liikumist mööda tänavat."
+      ],
+      "snr": "026",
+      "ajad": [
+        "69.120",
+        "73.320"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist kõndimas munakivisillutisega tänaval, mis paistab olevat ajaloolises vanalinnas või sarnases piirkonnas. Naine on riietatud pruuni ja musta värvi nahkjopesse ja heledasse särki ning hoiab käes mint rohelist nutitelefoni. Ta kõnnib mööda tänavat ülesmäge, mille ääres on vanad, mitmekorruselised hooned. Paremal pool on kollast värvi hoone hallide aknaluukide ja detailidega, mille seinad on kohati kulunud ja krohvitud. Vasakul pool on heledamat värvi hooned, samuti akende ja luukidega. Tänav paistab olevat kitsas ja vaikne, kuid kauguses on näha teisi inimesi ja parkivaid autosid. Naine vaatab ringi, justkui otsides midagi või navigeerides, pilk on suunatud ülespoole ja külgedele, mis annab edasi uuriva ja kerge segaduse tunde. Tema vasakul randmel on näha valge nutikell. Üldine õhkkond on päevane ja päikeseline.",
+      "actions": [
+        "Kõndimine",
+        "Ringi vaatamine",
+        "Telefoni käes hoidmine",
+        "Navigeerimine (oletatav)"
+      ],
+      "keywords": [
+        "Vanalinn",
+        "Tänav",
+        "Naine",
+        "Telefon",
+        "Kõndimine",
+        "Navigeerimine",
+        "Kollane hoone",
+        "Munakivisillutis",
+        "Nutikell"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Naine",
+        "Nutitelefon",
+        "Jope (pruun ja must)",
+        "Särk (valge)",
+        "Nutikell (valge)",
+        "Munakivisillutisega tänav",
+        "Hooned (kollane, heledad)",
+        "Aknad",
+        "Aknaluugid",
+        "Autod (kauguses)",
+        "Inimesed (kauguses)"
+      ],
+      "colorcodes": [
+        "#8F543C",
+        "#2B2A2D",
+        "#F5F5F5",
+        "#82D1C1",
+        "#F5D377",
+        "#A09E9B",
+        "#BAD7E9"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor naine",
+        "Inimesed (kauguses)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 5,
+      "season": "kevad/sügis",
+      "daytime": "päev",
+      "differences": [
+        "Naise pea ja pilgu suund muutub kaadrite vahel, uurides erinevaid suundi.",
+        "Naise keha asend ja kehakeel annavad edasi liikumist ja ümbruskonna jälgimist.",
+        "Taust muutub minimaalselt kaamera liikumise ja/või naise edasiliikumise tõttu."
+      ],
+      "snr": "027",
+      "ajad": [
+        "73.320",
+        "74.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kitsast munakivisillutisega tänavat vanalinnas, mis kulgeb kergelt ülesmäge. Tänavat ääristavad erineva vanusega hooned, millest vasakpoolne on silmatorkavalt kollast värvi, parempoolne aga telliskivipunane ja hallist kivist alusmüüriga. Ülesmäge liikudes paistab kauguses veel teisi hooneid ja üks parkiv auto. Vasakul pool tänavat on kitsas kõnnitee, mis on osaliselt pragunenud ja millel on näha pinnasekihist väljaulatuvat osa. Paremal pool on samuti kõnnitee, mis on veidi kõrgemal tänavapinnast ja millel on metallist piire. Päevavalgus on ere, heites tänavale pikki varje, mis viitab kas varahommikusele või hilisõhtusele ajale. Tänaval on näha nii jalutavat naist, kes hoiab käes mobiiltelefoni ja kannab pruuni mantlit musta nahkjakiga, kui ka hiljem tänavast ülespoole kõndivat meest.",
+      "actions": [
+        "Naine kõnnib tänaval ja hoiab mobiiltelefoni",
+        "Mees kõnnib tänavast ülespoole"
+      ],
+      "keywords": [
+        "Vanalinn",
+        "Munakivisillutis",
+        "Tänav",
+        "Hooned",
+        "Kõndimine",
+        "Mobiiltelefon",
+        "Ajalooline",
+        "Kitsas tee",
+        "Ülesmäge"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Mobiiltelefon",
+        "Munakivid",
+        "Kollane hoone",
+        "Punane telliskivihoone",
+        "Aknad",
+        "Ukseavad",
+        "Kõnnitee",
+        "Auto",
+        "Nahktagi",
+        "Pruun mantel"
+      ],
+      "colorcodes": [
+        "#EBBF50",
+        "#A64736",
+        "#8D7B7B",
+        "#9E6B3A",
+        "#2A2A2A",
+        "#6DD5D5",
+        "#C0C0C0",
+        "#FFFFFF"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt keskendub rohkem naisele, kes kõnnib tänaval ja hoiab mobiiltelefoni, olles lähemal kaamerale.",
+        "Teine pilt näitab tühja tänavat ilma inimesteta, pakkudes laiemat vaadet tänavale ja hoonetele.",
+        "Kolmandal pildil kõnnib mees tänavast ülespoole, olles kaugemal kaamerast, samas kui ülejäänud stseen on sarnane teisele pildile."
+      ],
+      "snr": "028",
+      "ajad": [
+        "74.960",
+        "80.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort meest vanal munakivisillutisega tänaval või alleel, mis on ääristatud ajalooliste hoonetega. Mees kannab prille ja halli kootud sviitrit või kampsunit. Ta hoiab käes valget nutitelefoni. Alguses on mees kaamera suhtes seljaga ja vaatab ülespoole, ilmselt midagi pildistades või filmides. Seejärel pöörab ta näo rohkem kaamera poole, hoides telefoni lähemal endale, justkui teeks enesepilti, videokõnet või vaataks ekraani. Tema näole ilmub kerge naeratus. Taustal on vasakul heledates toonides suurem ajalooline hoone ja paremal vana kivisein, mis on kaetud tumedate, lehtedeta ronitaimedega, viidates hilissügisele või varakevadele. Valgus on ere päevavalgus.",
+      "actions": [
+        "Hoiab nutitelefoni",
+        "Vaatab ülespoole",
+        "Vaatab nutitelefoni ekraani",
+        "Liigutab telefoni oma näo lähedale",
+        "Pöörab pead ja keha asendit",
+        "Naeratab kergelt"
+      ],
+      "keywords": [
+        "Vana linn",
+        "Allee",
+        "Munakivisillutis",
+        "Nutitelefon",
+        "Turism",
+        "Vaatamisväärsused",
+        "Ajalugu",
+        "Mees",
+        "Prillid",
+        "Pildistamine",
+        "Video",
+        "Linnamaastik",
+        "Sügis",
+        "Kevad",
+        "Hoone",
+        "Kivisein",
+        "Ronitaimed"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Nutitelefon (valge, roheka tagaküljega teises kaadris)",
+        "Prillid",
+        "Hall kootud sviiter/kampsun",
+        "Munakivisillutis",
+        "Vana hoone (valge, taustal)",
+        "Vana kivisein (paremal)",
+        "Ronitaimed/luuderohi (seinal)",
+        "Valgusti (paremal seinal)",
+        "Autod (kaugel taustal)"
+      ],
+      "colorcodes": [
+        "#4d5158",
+        "#f1f0ee",
+        "#868886",
+        "#86796c",
+        "#eae3d6",
+        "#40322d",
+        "#9ba384"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Mehe kehahoiak ja suund muutuvad: alguses on ta seljaga kaamera poole ja vaatab ülespoole, hiljem pöörab ta näo veidi kaamera poole.",
+        "Nutitelefoni asend ja suund muutuvad: alguses on see eemal ja suunatud üles, hiljem on see lähemal ja suunatud mehe poole (võimalik, et selfie kaamera on kasutusel).",
+        "Telefoni tagakülje värvus näib muutuvat: esimeses kaadris on see valge, teises on märgata rohekat tooni tagaküljel või serval, kolmandas on see taas valge.",
+        "Kaamera fookus muutub: esimeses pildis on fookus laiem, hõlmates rohkem tausta, hilisemates kaadrites on fookus rohkem mehe näol ja telefonil.",
+        "Mehe näoilme muutub: alguses neutraalne või kontsentreeritud, hiljem kergelt naeratav."
+      ],
+      "snr": "029",
+      "ajad": [
+        "80.240",
+        "82.600"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab elavat vanalinna tänavat, mida iseloomustavad järsud munakivitrepid ja ajaloolised hooned. Trepi paremal küljel on kollakas-pruuni fassaadiga vana hoone, millel on näha mitu akent, laternapost ja kriitmusta värviga graffiti. Vasakul küljel on rida teisi vanu hooneid, mis ääristavad ülespoole suunduvat tänavat. Esialgu on näha pikk metallist käsipuu, mis kulgeb mööda trepi serva. Trepist laskub alla noor naine, kes on riietatud pruuni nahkjakki, valgesse pluusi ja helesinistesse teksadesse. Ta hoiab nutitelefoni, suunates seda endast ettepoole, justkui teeks selfiet või filmiks ennast. Tema kõrval, trepist üles liikumas, on ajaloolisesse kostüümi riietatud mees, kes kannab halli kettsärki ja tumedaid pükse ning seljal on näha pikk ese, mis meenutab mõõka või keppi. Algselt naine kõnnib, kuid siis peatub ja pöörab end rüütli poole, ilmselt selleks, et teda pildistada või temaga koos pilti teha, enne kui rüütel oma teekonda jätkab ja temast möödub. Taamal on trepist üles minemas veel mitu inimest, sealhulgas musta jopega mees ja naine koos lapsega. Ühe hoone seinal on näha silt tekstiga \"EESTI KÄSITÖÖ\". Üldine õhkkond on turistlik ja pakub kontrasti vana ja uue vahel.",
+      "actions": [
+        "Naine kõnnib trepist alla",
+        "Naine teeb nutitelefoniga pilti või videot",
+        "Naine peatub ja pöördub rüütli poole",
+        "Rüütel kõnnib trepist üles",
+        "Rüütel möödub naisest",
+        "Inimesed kõnnivad trepil"
+      ],
+      "keywords": [
+        "Vanalinn",
+        "Trepp",
+        "Munakivi",
+        "Nutitelefon",
+        "Rüütel",
+        "Kettsärk",
+        "Tänavakostüüm",
+        "Turism",
+        "Interaktsioon",
+        "Graffiti",
+        "Ajalooline hoone"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Nutitelefon",
+        "Kettsärk",
+        "Mõõk (võimalik)",
+        "Käsipuu",
+        "Trepp",
+        "Munakivi",
+        "Hoone",
+        "Aken",
+        "Laternapost",
+        "Silt"
+      ],
+      "colorcodes": [
+        "#C1A65B",
+        "#36322C",
+        "#8B4513",
+        "#F5F5DC",
+        "#4682B4",
+        "#000000",
+        "#808080"
+      ],
+      "texts": [
+        "EESTI KÄSITÖÖ",
+        "FUCK"
+      ],
+      "persons": [
+        "Noor naine",
+        "Ajaloolises kostüümis mees (rüütel/sõdalane)",
+        "Mees musta jopega",
+        "Naine lapsega",
+        "Teised möödujad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil naine kõnnib trepist alla, tehes samal ajal telefoniga pilti, ja rüütel liigub tema kõrval üles. Teisel pildil on naine peatunud ja pöörab end selgelt rüütli poole, ilmselt teda pildistades. Kolmandal pildil jätkab rüütel oma teekonda trepist üles, möödudes naisest, kes hoiab endiselt telefoni üleval ja vaatab rüütli poole."
+      ],
+      "snr": "030",
+      "ajad": [
+        "82.600",
+        "84.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab jalutuskäiku vanas Euroopa linnas, mida iseloomustavad munakivisillutisega tänavad ja ajalooline kiviarhitektuur. Esimene kaader näitab naist, kes selja tagant pildistab või filmib oma nutitelefoniga ümbrust, samal ajal kui ta osutab käega ettepoole, andes märku edasisest suunast või huvipunktist. Teine kaader on kiire ja udune üleminek, mis loob mulje liikumisest kitsas käigus või tänaval. Kolmas kaader keskendub mehele, kes kõnnib vaataja poole, prillid ees ja räägib oma nutitelefoniga. Ta asub kitsal tänaval, mis on piiratud kõrgete kivimüüridega, ning taamal on näha teisi inimesi ja hooneid.",
+      "actions": [
+        "Naine pildistab/filmib nutitelefoniga",
+        "Naine osutab käega ettepoole",
+        "Mees kõnnib",
+        "Mees räägib/kuulab telefoni kaudu",
+        "Inimesed jalutavad tänavatel"
+      ],
+      "keywords": [
+        "Vanalinn",
+        "Munakivisillutis",
+        "Ajalooline arhitektuur",
+        "Turism",
+        "Nutitelefon",
+        "Jalutuskäik",
+        "Kivimüürid",
+        "Euroopa linn"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Nutitelefonid",
+        "Kivihooned",
+        "Munakivisillutis",
+        "Puitpiire",
+        "Katused",
+        "Prillid",
+        "Kivimüürid",
+        "Puud"
+      ],
+      "colorcodes": [
+        "#A9A9A9",
+        "#8B4513",
+        "#4682B4",
+        "#808080",
+        "#F5DEB3",
+        "#800000"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine (pikkade pruunide juustega hobusesabas, pruunis pluusis ja mustas nahktagis)",
+        "Mees (prillidega, hallis kapuutsiga särgis ja pruunides pükstes)",
+        "Teised inimesed (taustal, ebaselged)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris on fookuses naine, kes on seljaga kaamera poole ja pildistab, stseen on avaram ning sisaldab puitpiiret ja kaugemaid hooneid.",
+        "Teine kaader on tugevalt udune ja hägune, mis annab edasi kiiret liikumist või üleminekut, puuduvad selged detailid.",
+        "Kolmandas kaadris on fookuses mees, kes on näoga kaamera poole ja räägib telefoniga, ta asub kitsal tänaval, mida ääristavad kõrged kivimüürid.",
+        "Kaadrite vahel muutub kaamera nurk, valgus ja kujutatud inimeste tegevus."
+      ],
+      "snr": "031",
+      "ajad": [
+        "84.480",
+        "87.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort meest vabas õhus, tõenäoliselt kitsal tänaval või hoovi nurgas, taustaks vana kivimüür. Ta kannab stiilseid prille ja halli kapuutsiga pusa, millel on valged nöörid. Tema tähelepanu on suunatud üles, kui ta žongleerib nutitelefoniga, millel on ere helesinine või türkiissinine ümbris. Tegevus on jäädvustatud järjestikuste kaadritega, mis näitavad telefoni liikumist õhus ja käe asendi muutumist viske või püüdmise ajal. Tema pilk jälgib telefoni trajektoori, andes stseenile mängulise ja dünaamilise tunde. Kivimüür on kulunud välimusega, hallikates toonides, lisades stseenile ajatut iseloomu.",
+      "actions": [
+        "Telefoni žongleerimine",
+        "Telefoni viskamine",
+        "Telefoni püüdmine",
+        "Üles vaatamine",
+        "Käe liigutamine"
+      ],
+      "keywords": [
+        "Noormees",
+        "Telefon",
+        "Žongleerimine",
+        "Väljas",
+        "Kivimüür",
+        "Prillid",
+        "Pusa",
+        "Mänguline",
+        "Dünaamiline",
+        "Linnakeskkond"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Nutitelefon",
+        "Telefoniküsi",
+        "Prillid",
+        "Hall kapuutsiga pusa",
+        "Valged pusa nöörid",
+        "Kivimüür"
+      ],
+      "colorcodes": [
+        "#494949",
+        "#5BC2BE",
+        "#909090",
+        "#C8A48A",
+        "#E0E0E0",
+        "#7A7A7A"
+      ],
+      "texts": [],
+      "persons": [
+        "Noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimesel pildil hoiab noormees telefoni paremas käes, käsi on kõrgemal ja telefon on näoga ülespoole suunatud. Tema pilk on keskendunud telefonile.",
+        "Teisel pildil on telefon endiselt paremas käes, kuid see on veidi kõrgemal ja käe asend on muutunud, liikudes näost kaugemale ja ülespoole, mis viitab telefoni liikumisele õhus pärast viskamist või püüdmise algusele.",
+        "Kolmandal pildil on käsi liikunud veidi allapoole ja tahapoole, andes märku kas just sooritatud viskest või püüdmise lõppfaasist. Telefoni asend käe suhtes näib olevat muutunud, justkui oleks see käest lahkumas või sinna tagasi jõudmas."
+      ],
+      "snr": "032",
+      "ajad": [
+        "87.000",
+        "87.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab naist jalutamas mööda kitsast munakivisillutisega tänavat, mis on ääristatud vanade hoonetega. Naine on seljaga vaataja poole, tal on pikkadest tumepruunidest juustest tehtud hobusesaba ja seljas pruuni-musta värvi jope. Oma paremas käes hoiab ta nutitelefoni, mille ekraanilt paistab mehe nägu, andes märku võimalikust videokõnest või video salvestamisest. Tänaval on vasakul pool punase-valge triibuline hoone ja paremal pool kollakas-oranžikas hoone, millel on näha ka pruun puituks ja aken. Taustal on näha teisi vanu hallikaid hooneid, mis loovad ajaloolise ja arhailise linnatänava atmosfääri.",
+      "actions": [
+        "Naine kõnnib mööda tänavat",
+        "Naine hoiab nutitelefoni",
+        "Naine suhtleb videokõne vahendusel või salvestab videot"
+      ],
+      "keywords": [
+        "kitsas tänav",
+        "munakivisillutis",
+        "vana linn",
+        "naine",
+        "nutitelefon",
+        "videokõne",
+        "jalutamine",
+        "arhitektuur",
+        "ajalooline",
+        "pruun jope"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "naine",
+        "nutitelefon",
+        "munakivitee",
+        "hooned",
+        "aknad",
+        "uksed",
+        "seinad",
+        "valgusti",
+        "jope",
+        "käevõru"
+      ],
+      "colorcodes": [
+        "#A36B39",
+        "#2C2B2C",
+        "#942220",
+        "#F0F0F0",
+        "#E4A64B",
+        "#61626B",
+        "#8B7A6A"
+      ],
+      "texts": [],
+      "persons": [
+        "naine",
+        "mees (telefoni ekraanil)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "autumn",
+      "daytime": "day",
+      "differences": [
+        "Naise parema käe asend on veidi muutunud, mistõttu nutitelefoni ekraan on esimesel pildil veidi kõrgemal ja teisel ning kolmandal pildil veidi allpool.",
+        "Nutitelefoni ekraanil oleva mehe näo väljendus või kaader on veidi muutunud piltide vahel."
+      ],
+      "snr": "033",
+      "ajad": [
+        "87.920",
+        "88.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pikka baariletti või riiulit, mis on täidetud ritta paigutatud alkoholpudelitega. Pudelid on erineva kuju, suuruse ja värvusega, sisaldades läbipaistvat, merevaigu- ja tumepruuni vedelikku. Riiuli tagant ja alt kumab intensiivne roosakas-lilla valgus, mis loob dramaatilise ja ööklubile iseloomuliku atmosfääri. Esireas on näha ka väikseid klaase või shotiklaase. Riiuli paremas servas on virnas mõned pakitud esemed, mis meenutavad sigaretipakke. Taustaks on sama roosaka-lilla valgusega valgustatud sein. Üldpilt viitab elavale ööelule, nagu baar või ööklubi. Fookus on peamiselt pudelitel, taust on kergelt udune.",
+      "actions": [
+        "Alkoholpudelid on eksponeeritud",
+        "Pudelid on paigutatud ritta riiulile",
+        "Baarilett on valgustatud"
+      ],
+      "keywords": [
+        "Baar",
+        "Alkohol",
+        "Pudelid",
+        "Riiul",
+        "Valgus",
+        "Neoonvalgus",
+        "Ööelu",
+        "Jook",
+        "Viski",
+        "Viin",
+        "Baarilett",
+        "Klaasid",
+        "Roosa",
+        "Lilla"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Alkoholpudelid",
+        "Jack Daniel's pudelid",
+        "DUXA pudel",
+        "Baarilett",
+        "Riiul",
+        "Väikesed klaasid",
+        "Shotiklaasid",
+        "Pakendid (võimalikud sigaretipakid)",
+        "Sein",
+        "Valgusallikad"
+      ],
+      "colorcodes": [
+        "#BF476D",
+        "#F5A3BE",
+        "#8B2C46",
+        "#CA8D3A",
+        "#3A2B20",
+        "#1C100A"
+      ],
+      "texts": [
+        "JACK DANIEL'S",
+        "OLD NO. 7",
+        "Tennessee WHISKEY",
+        "DUXA",
+        "Marlboro"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on fookus teravam ja detailid keskel asuvatel pudelitel selgemad.",
+        "Teine pilt on fookuselt ja teravuselt esimesega väga sarnane, võimalik vaid minimaalne nihe või kaamera värin.",
+        "Kolmandal pildil on üldine fookus pehmem, eriti esiplaanil olevad klaasid ja paremal asuvad pakendid on märgatavalt udusemad, mis viitab väiksemale teravussügavusele või kergele fookusest väljajäämisele."
+      ],
+      "snr": "034",
+      "ajad": [
+        "88.880",
+        "90.280"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist, kes liigub siseruumides, mis meenutab lava taha või tööstuslikku ladu, kus on palju metallkonstruktsioone, nagu lennukikohvrid ja tellingud. Naine on riietatud valgesse top'i ja pruun-musta, ilmselt nahast või kunstnahast jakki. Tema tumedad juuksed on seotud hobusesabasse. Stseeni alguses hoiab ta vasakus käes väikest heledat rohelist eset (võib-olla telefon või pult) ja tema ilme on tõsine või keskendunud. Ta vaatab ettepoole ja veidi paremale. Stseeni edenedes pöörab ta ennast järk-järgult kaamera poole. Lõpus on ta peaaegu otse kaamera poole pööratud, tema käed on langenud ja roheline ese ei ole enam näha. Tema näole ilmub kerge naeratus või muie, kui ta pilk liigub veidi ülespoole või kõrvale. Üldine valgustus on hämar, esile tuues tehisvalguse allikad ja taustal olevad metallpinnad, mis loovad karge ja jaheda atmosfääri. Ühes pildi nurgas on näha lillakas kuma.",
+      "actions": [
+        "Liigub edasi",
+        "Pöörab ennast",
+        "Vaatab ringi",
+        "Muigab"
+      ],
+      "keywords": [
+        "Naine",
+        "Siseruum",
+        "Lava taga",
+        "Metallkonstruktsioonid",
+        "Jakke",
+        "Telefon",
+        "Liikumine",
+        "Tõsine ilme",
+        "Naeratus",
+        "Hämar valgus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Naine",
+        "Valge top",
+        "Pruun-must jakk",
+        "Kõrvarõngad",
+        "Väike roheline ese (telefon/pult)",
+        "Metallist lennukikohvrid",
+        "Metallist tellingud/riiulid",
+        "Valgustus",
+        "Lillakas valgus"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#8B4513",
+        "#000000",
+        "#90EE90",
+        "#D3D3D3",
+        "#800080"
+      ],
+      "texts": [],
+      "persons": [
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Naine pöörab end järjest enam kaamera poole.",
+        "Naine hoiab esimeses kahes pildis rohelist eset, mis viimasel pildil puudub või on peidus.",
+        "Naine ilme muutub tõsisest naeratavaks/muigavaks viimasel pildil.",
+        "Naine käte asend muutub, liikudes eestpoolt allapoole."
+      ],
+      "snr": "035",
+      "ajad": [
+        "90.280",
+        "92.240"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub moodsast baaris, kus valitseb soe ja kutsuv õhkkond roosakas-lilla meeleoluvalgusega taustal. Kesksel kohal on baarilett, millel seisab klaas õllega. Leti tagant kõrgub rida läikivaid õllekraane ja mitmed pudelid. Pildiseeria kujutab mehe ja naise vahelist südamlikku hetke. Esialgu istub prillidega mees leti ääres, vaadates naist, kelle selg on kaamera poole. Järgnevalt näitab stseen neid teineteist kallistamas – mees naeratab rõõmsalt, tema käed on ümber naise, kes vastab kallistusele. Viimaks on kallistus lõppemas, naine on justkui eemaldumas, tema pikad juuksed on liikumises, samal ajal kui mees säilitab naeratuse.",
+      "actions": [
+        "Istumine",
+        "Vaatamine",
+        "Kallistamine",
+        "Naeratamine",
+        "Eemaldumine/Lahutamine"
+      ],
+      "keywords": [
+        "Baar",
+        "Kallistus",
+        "Kohtumine",
+        "Sotsiaalne",
+        "Rõõmus",
+        "Sõprus",
+        "Õhtu",
+        "Jook"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Baarilett",
+        "Õlleklaas",
+        "Õllekraanid",
+        "Pudelid",
+        "Prillid",
+        "Huppar",
+        "Kell"
+      ],
+      "colorcodes": [
+        "#A81B84",
+        "#A6732B",
+        "#3F474B",
+        "#CD9B3C",
+        "#727272"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on näha mees ja naine baari leti ääres istumas, naine seljaga ja mees teda vaatamas.",
+        "Teisel pildil on mees ja naine soojalt kallistamas, mees naeratab laialt.",
+        "Kolmandal pildil on kallistus lõppemas, naine on hakanud eemalduma ja tema juuksed on liikumises, samal ajal kui mees jätkab naeratamist."
+      ],
+      "snr": "036",
+      "ajad": [
+        "92.240",
+        "94.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort meest, kel on pruunid juuksed ja prillid, istumas baaritrepil. Ta kannab tumedat halli kapuutsiga dressipluusi, millel on kõrge kaelus. Tema ees, tumedal letil, seisab pikk klaas heleda õllega. Mehe vasak käsi, mille sõrmusesõrmes on hõbedane sõrmus, toetub letile. Paremat kätt kasutab ta vestluse käigus žestikuleerimiseks, liigutades seda näo lähedalt ülespoole osutavasse asendisse. Ta näib olevat süvenenud vestlusesse või midagi selgitamas. Taustal on näha moodsa baari sisustust – riiulitel seisvaid pudeleid valgustab roosakas-violetne kuma, mis loob hubase, kuid samas erksa atmosfääri. Letil on ka näha õllekraane ja muid baarikauplusi.",
+      "actions": [
+        "Istumine baariletil",
+        "Vestlemine/rääkimine",
+        "Käega žestikuleerimine",
+        "Õlle joomine (kaudne, õlleklaas on ees)"
+      ],
+      "keywords": [
+        "Baar",
+        "Mees",
+        "Prillid",
+        "Õlu",
+        "Žestikuleerimine",
+        "Siseruum",
+        "Õhtune aeg",
+        "Vestlus",
+        "Pudelid",
+        "Neoontuled"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Noor mees",
+        "Prillid",
+        "Kapuutsiga dressipluus",
+        "Sõrmus",
+        "Baarilett",
+        "Õlleklaas",
+        "Õlu",
+        "Joogipudelid",
+        "Baaririiul",
+        "Õllekraanid",
+        "Tagavalgustus"
+      ],
+      "colorcodes": [
+        "#343434",
+        "#D9A653",
+        "#DB7EC2",
+        "#22160C",
+        "#B0B0B0",
+        "#553C2D"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on mehe parem käsi näo lähedal, sõrmed kergelt kõverdatud, pooleli žestis.",
+        "Teisel pildil on mehe parem käsi tõstetud, nimetissõrmega ülespoole osutades, andes märku, et ta teeb punktuaalse märkuse või annab tellimuse.",
+        "Kolmandal pildil on mehe parem käsi jälle näo lähedal, žesti sooritades, sarnanedes esimese pildiga, kuid teistsuguses hetkeasendis."
+      ],
+      "snr": "037",
+      "ajad": [
+        "94.560",
+        "95.960"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub hämaras, kaasaegses baaris või ööklubis. Vasakul näeme tumedas riietuses naisbaarmeni, kelle tumedad juuksed on patsi seotud. Ta on leti taga ja valmistab jooke. Paremal istub baarileti ääres klient, samuti naine, kellel on pikad pruunid juuksed kõrgesse patsi seatud. Ta kannab pruuni või oranžikat jaki ja valget toppi ning vaatab baarmeni poole. Baarilett on metallist äärega ja läikiv. Leti taga olevad riiulid on valgustatud roosakaslilla valgusega, kus seisavad erinevad joogipudelid. Üldine atmosfäär on õhtune või öine, energiline ja sotsiaalne.",
+      "actions": [
+        "Baarmen valmistab ja serveerib jooki.",
+        "Baarmen asetab shotiklaasi letile.",
+        "Baarmen pühib baariletti.",
+        "Klient istub baaris ja jälgib baarmeni."
+      ],
+      "keywords": [
+        "Baar",
+        "Ööklubi",
+        "Baarmen",
+        "Klient",
+        "Joogid",
+        "Öine elu",
+        "Seltskond",
+        "Valgustus",
+        "Kaasaegne",
+        "Teenindus"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Baarilett",
+        "Shotiklaas",
+        "Joogipudelid",
+        "Baaririiulid",
+        "Valgustid",
+        "Baaritarvikud",
+        "Tablett/ekraan letil",
+        "Naisbaarmeni riietus (tume pluus)",
+        "Kliendi riietus (pruun jakk, valge topp)",
+        "Kliendi kõrvarõngad"
+      ],
+      "colorcodes": [
+        "#800080",
+        "#FFC0CB",
+        "#2F4F4F",
+        "#A0522D",
+        "#FFFFFF",
+        "#8B0000"
+      ],
+      "texts": [],
+      "persons": [
+        "Baarmen (naine)",
+        "Klient (naine)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil hoiab baarmen shotiklaasi ja väikest rohelist pudelit käes, vaadates klienti.",
+        "Teisel pildil asetab baarmen shotiklaasi letile, hoides endiselt väikest pudelit.",
+        "Kolmandal pildil on baarmen shotiklaasi letile asetanud ja pühib nüüd käega letti, vaadates allapoole."
+      ],
+      "snr": "038",
+      "ajad": [
+        "95.960",
+        "98.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivaates põlevat jooki klaasis, mis tõenäoliselt on šotipits. Taust on udune ja valgustatud sügavate magenta ning oranži-punaste toonidega, vihjates hämarale ja atmosfäärilisele keskkonnale, näiteks baarile või klubile. Joogi pinnal tantsiv leek areneb stseenis suuruselt ja värvuselt. Alguses on leek väiksem, hõlmades sinakaid varjundeid, samal ajal kui taust on erksalt roosakasmagenta. Järk-järgult leek suureneb, muutub intensiivsemaks ning omandab kollakaid ja oranži-punaseid toone, valgustades klaasi ja selle ümbrust soojema helendusega. Lõpuks domineerib pilti suur ja hele, puhtalt oranži-punane leek, mis neelab taustal olevad magentad detailid ja muudab stseeni pimedamaks, välja arvatud tule sära.",
+      "actions": [
+        "põlemine",
+        "leegi virvendamine",
+        "joogi süütamine"
+      ],
+      "keywords": [
+        "kokteil",
+        "jook",
+        "tuli",
+        "leek",
+        "klaas",
+        "baar",
+        "klubi",
+        "ööelu",
+        "alkohoolne",
+        "põlev",
+        "maagia",
+        "šõu",
+        "lähivaade",
+        "hämar"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "klaas",
+        "jook",
+        "tuli",
+        "leek"
+      ],
+      "colorcodes": [
+        "#CC0099",
+        "#FFD700",
+        "#FF4500",
+        "#1A1A1A",
+        "#0000FF"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt näitab väiksemat leeki, millel on sinakas varjund, ja eredamat magentat tausta. Klaasi ülemine serv on selgemini nähtav.",
+        "Teisel pildil on leek suurem, kollaka-oranži tooniga ja valgustab klaasi intensiivsemalt. Magenta taust on endiselt märgatav, kuid hakkab hajuma.",
+        "Kolmandal pildil on leek oluliselt suurem ja intensiivsem, puhtalt oranži-punase tooniga, domineerides stseeni. Tausta magentad värvid on peaaegu kadunud ja stseen on üldiselt tumedam, välja arvatud leegi eredus. Klaasi detailid on leegi tõttu vähem eristatavad."
+      ],
+      "snr": "039",
+      "ajad": [
+        "98.040",
+        "100.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt saunakerise ülemist osa, mis on täidetud suure hulga robustsete, erineva suuruse ja kujuga kividega. Kivid on peamiselt pruunides ja hallikates toonides, mõned neist näivad olevat niisked või märjad. Need asetsevad metalsetel restidel või korvis, mis on kerise osa. Valgustus on hämar ja soe, luues hubase ja kutsuva atmosfääri. Tagaplaanil on näha veidi udune sein või taust. Kaadri keskpunkt on suunatud otse kividele, rõhutades nende tekstuuri ja soojust. Kividelt tõuseb aur, mis viitab kas vee viskamisele kerisele või kerise intensiivsele kuumusele, mis hakkab niiskust õhku eraldama. See loob tunde aktiivsest saunarituaalist ja kuumast keskkonnast.",
+      "actions": [
+        "Aur tõuseb kividelt",
+        "Kivid kuumenevad",
+        "Vesi aurustub kerisel"
+      ],
+      "keywords": [
+        "Saun",
+        "Keris",
+        "Kivid",
+        "Aur",
+        "Kuumus",
+        "Lõõgastus",
+        "Hubane",
+        "Saunarituaal",
+        "Niiskus"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Saunakerise kivid",
+        "Saunakerise metallrest",
+        "Aur"
+      ],
+      "colorcodes": [
+        "#6B4D3C",
+        "#8C6A5A",
+        "#A68C7B",
+        "#5C6A6A",
+        "#7A8C8C",
+        "#808080",
+        "#F0F0F0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel on näha auru hulga ja intensiivsuse erinevust.",
+        "Esimesel pildil puudub nähtav aur.",
+        "Teisel pildil on näha kerget auru tõusmist kivide pinnalt, peamiselt vasakul-keskel.",
+        "Kolmandal pildil on aur märgatavalt intensiivsem ja laiemalt levinud kogu kivide pinnal."
+      ],
+      "snr": "040",
+      "ajad": [
+        "100.360",
+        "102.440"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud lai ja kiirevooluline jõgi linnakeskkonnas. Jõgi voolab mööda vaatajast paremalt vasakule, selle pinnal on näha selgeid laineid ja voolujälgi. Jõe vasakut kallast ääristab tihe rida raagus lehtpuudest, mis annavad edasi hilissügise, talve või varakevade meeleolu. Paremal kaldal on näha asfalteeritud kõnnitee, mis kulgeb paralleelselt jõega. Kõnnitee taga on muruplats ja seejärel teine rida raagus puid. Puude tagapool paistavad suured mitmekorruselised linnahooneid. Jõe parempoolse kalda ääres on mitu oranži värvi tõkkeposti, millest mõned on kõrge veetaseme tõttu osaliselt vee alla mattunud. Kaugemal, üle jõe, ulatub elegantne valge kaarsild. Taevas on hele ja päikeseline, mis viitab päevasele ajale. Kogu stseen on kergelt udune, eriti kaugemad objektid, andes pildile pehme ja unistava ilme.",
+      "actions": [
+        "Jõgi voolab",
+        "Vesi lainetab"
+      ],
+      "keywords": [
+        "Jõgi",
+        "Linn",
+        "Sild",
+        "Puud",
+        "Kallas",
+        "Vool",
+        "Kõnnitee",
+        "Hooned",
+        "Kaarsild",
+        "Raagus puud",
+        "Oranžid postid",
+        "Kõrge veetase",
+        "Kevad",
+        "Talv",
+        "Sügis"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Jõgi",
+        "Puud",
+        "Hooned",
+        "Sild",
+        "Kõnnitee",
+        "Oranžid postid",
+        "Muru",
+        "Vesi",
+        "Kallas"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#406080",
+        "#706050",
+        "#A0B080",
+        "#FF9900",
+        "#E0E0E0"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel on väga väikesed erinevused veepinna mustrites ja lainetuses, mis on tingitud jõe pidevast voolust ja videokaadrite järjestikusest olemusest.",
+        "Kaadri üldine kompositsioon, valgus ja objektide paigutus on kõigil piltidel praktiliselt identsed, viidates stabiilsele kaameranurgale."
+      ],
+      "snr": "042",
+      "ajad": [
+        "107.720",
+        "109.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab avarate vaadet linnale ülevalt poolt, tõenäoliselt sillalt või vaateplatvormilt. Esiküljel on sinine metallist reeling, mille taga avaneb panoraamne vaade. Stseeni keskel lookleb jõgi, mis peegeldab heledat taevast. Jõe kaldal ja kauguses laiub linn, kus on näha mitmevärvilisi maju, iseloomulikke punaste katustega hooneid ja silmapaistvat kirikutorni. Horisondil paistavad talvised või varakevadised puud ja pilvine, kuid hele taevas. Stseenis on näha kahte inimest – meest ja naist, kes naudivad linnavaadet. Mees on riietatud halli sviitrisse ja naine pruunikasse jakki. Nad vaatavad koos vaadet, kusjuures mees hoiab käes nutitelefoni, millega ta pildistab, ja naine osutab käega vaate suunas.",
+      "actions": [
+        "Vaate imetlemine",
+        "Pildistamine nutitelefoniga",
+        "Vaate suunas osutamine"
+      ],
+      "keywords": [
+        "Linnavaade",
+        "Panoraam",
+        "Jõgi",
+        "Sild",
+        "Paarik",
+        "Pildistamine",
+        "Vaateplatvorm",
+        "Horisont",
+        "Kirikutorn",
+        "Pilvine taevas",
+        "Kevad",
+        "Päev",
+        "Reeling"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Metallreeling",
+        "Jõgi",
+        "Linnamajad",
+        "Punased katused",
+        "Kirikutorn",
+        "Puud",
+        "Nutitelefon",
+        "Kaarsild",
+        "Autod",
+        "Parkla",
+        "Hoone jõe kaldal"
+      ],
+      "colorcodes": [
+        "#346399",
+        "#55585C",
+        "#8C5931",
+        "#D7D6D0",
+        "#A04030",
+        "#505545",
+        "#AEC8DD",
+        "#4C6F92"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine",
+        "Paarik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Esimeses kaadris on pildi paremas servas näha vaid naise käsi, mis annab edasi avara linnavaate tunde.",
+        "Teises kaadris on mees ja naine mõlemad seljaga kaamera poole, nautides vaadet, kusjuures naine pöörab pead kergelt paremale.",
+        "Kolmandas kaadris on fookus veidi rohkem paaril, mees pildistab nutitelefoniga vaadet ja naine osutab käega vaate suunas."
+      ],
+      "snr": "043",
+      "ajad": [
+        "109.480",
+        "112.840"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud noort paari, kes jalutab käsikäes seljaga kaamera poole mööda munakivisillutisega tänavat, mis asub vanalinna väljakul. Mees kannab tumedat halli pusa ja pruune pükse, hoides oma paremas käes nutitelefoni, millega ta näib pildistavat või filmivat selja taha jäävat vaadet. Naine kannab helepruuni nahkjakki valge topi ja siniste teksade peal. Paari ümber on näha ajaloolisi hooneid; taustal domineerib suur roosakas-valge hoone punase katuse ja kellatorniga. Paremal pool on paigutatud õuekohviku mööbel suurte, tumedamustriliste päikesevarjude ja puidust istutuskastidega. Ümbritsev keskkond viitab Euroopa vanalinnale pilvise ilmaga.",
+      "actions": [
+        "jalutamine",
+        "käest kinni hoidmine",
+        "pildistamine nutitelefoniga",
+        "vaatamisväärsuste nautimine"
+      ],
+      "keywords": [
+        "romantiline jalutuskäik",
+        "vanalinn",
+        "paar",
+        "munakivisillutis",
+        "nutitelefon",
+        "pildistamine",
+        "ajalooline arhitektuur",
+        "kellatorn",
+        "õuekohvik",
+        "turistid"
+      ],
+      "shot_type": "medium long",
+      "placement": "outdoor",
+      "objects": [
+        "nutitelefon",
+        "munakivisillutis",
+        "hooned",
+        "punane katus",
+        "kellatorn",
+        "kohvikuvarjud",
+        "puidust istutuskastid",
+        "tänavavalgustid",
+        "puud"
+      ],
+      "colorcodes": [
+        "#4D575C",
+        "#7B4926",
+        "#A57045",
+        "#376C9F",
+        "#DCC0BB",
+        "#8F2F20",
+        "#918C83",
+        "#3D3D3D"
+      ],
+      "texts": [],
+      "persons": [
+        "noor mees",
+        "noor naine",
+        "inimesed taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Paar liigub kaadrite vahel edasi kaamerast eemale.",
+        "Mehe parema käe asend ja nutitelefoni nähtavus muutuvad selgemaks, viidates aktiivsele pildistamisele või filmimisele.",
+        "Naise käsi on järgmistes kaadrites rohkem välja sirutatud, peegeldades edasiliikumist."
+      ],
+      "snr": "044",
+      "ajad": [
+        "112.840",
+        "114.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort paari jalutamas käest kinni munakivisillutisega väljakul, tõenäoliselt vanalinnas, päikeselisel päeval. Mees, kandes halli kampsunit, prille ja käekella, hoiab vasakus käes nutitelefoni, pildistades või filmides nende teekonda selja tagant. Tema pilk on suunatud eemale, samas kui naine, keda mees käest kinni hoiab, on pööranud pead üle vasaku õla mehe poole ja naeratab rõõmsalt. Naisel on seljas pruun varrukateta vest tumeda jakiosa peal, valge pluus ja tumesinised teksad. Tema pikad pruunid juuksed lehvivad veidi tuules. Paar liigub mööda munakivisillutisega väljakut, mille taustal on näha ajaloolisi hooneid – üks neist on roosakas-punase katusega palee-tüüpi ehitis, teised on heledamad, kollakas-hallid hooned. Väljakul on ka näha väliterrassidele kuuluvaid laudu ja toole koos heledate päikesevarjudega ning puidust lillepotte, millest ühel on nähtav tekst. Üldine õhkkond on rõõmus, muretu ja päikesepaisteline, viitades meeldivale jalutuskäigule.",
+      "actions": [
+        "Paar jalutab munakivisillutisega väljakul",
+        "Käest kinni hoidmine",
+        "Mees pildistab/filib nutitelefoniga",
+        "Naine pöörab pead üle õla",
+        "Naine naeratab",
+        "Juuksed lehvivad tuules",
+        "Teised inimesed kõnnivad taustal"
+      ],
+      "keywords": [
+        "Paar",
+        "Jalutuskäik",
+        "Selfi",
+        "Nutitelefon",
+        "Vanalinn",
+        "Munakivi",
+        "Naeratus",
+        "Rõõm",
+        "Päikeseline",
+        "Turism",
+        "Romantika",
+        "Õues"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Nutitelefon",
+        "Munakivisillutis",
+        "Ajaloolised hooned",
+        "Päikesevarjud",
+        "Lauad",
+        "Toolid",
+        "Puidust lillepotid",
+        "Käekell",
+        "Prillid"
+      ],
+      "colorcodes": [
+        "#5F6164",
+        "#AA7B5C",
+        "#F0F0F0",
+        "#3F4F6D",
+        "#8C7C6D",
+        "#E8C1C1",
+        "#B34F4F",
+        "#D5D2BD",
+        "#D0D4D6"
+      ],
+      "texts": [
+        "SOFIE F..."
+      ],
+      "persons": [
+        "Mees",
+        "Naine",
+        "Teised inimesed taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Naise juuksed lehvivad teises kaadris rohkem ja on pisut erinevas asendis, andes dünaamilisema tunde.",
+        "Mehe vasaku käe asend telefoni hoides on minimaalselt muutunud, näidates liikumist.",
+        "Naise näoilme ja suu asend on teises kaadris pisut erinev, naeratus paistab veidi laiem ja elavam.",
+        "Subjektide ja tausta positsioon on minimaalselt nihkunud, mis viitab, et tegemist on järjestikuste kaadritega videost."
+      ],
+      "snr": "045",
+      "ajad": [
+        "114.640",
+        "116.240"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab rõõmsat paari, meest ja naist, kes keerutavad või tantsivad käest kinni hoides ajaloolisel munakivisillutisega linnaväljakul. Nad on pildistatud tagantvaates ja liikumises, mehe selg on esimesel pildil rohkem kaadri keskel ja teisel pildil on ta veidi rohkem paremale keeranud. Naine on mõlemal pildil rõõmsameelselt naeratades ja juuksed tuules lehvimas, justkui oleks ta õhus. Taamal paistavad mitmekorruselised klassikalise arhitektuuriga hooned, millest üks on roosaka fassaadiga ja valgete aktsentidega, ning teine on heledam. Väljaku ääres on näha ka väliterrasse koos laudade, toolide ja päikesevarjudega, samuti lillepotte kollaste õitega. Üleüldine õhkkond on rõõmus ja elav, hoolimata pilvisest taevast, mis viitab jahedamale ilmale. Väljakul on näha ka teisi jalutavaid inimesi ja kaugemal purskkaev.",
+      "actions": [
+        "tantsimine",
+        "keerutamine",
+        "käest kinni hoidmine",
+        "jalutamine",
+        "rõõmustamine"
+      ],
+      "keywords": [
+        "paarikene",
+        "linnaväljak",
+        "munakivisillutis",
+        "tants",
+        "rõõm",
+        "ajalooline",
+        "kevad",
+        "romantika",
+        "linnakeskkond"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "mees",
+        "naine",
+        "munakivid",
+        "hooned",
+        "lillepotid",
+        "kollased lilled",
+        "lauad",
+        "toolid",
+        "päikesevarjud",
+        "puud",
+        "lipud",
+        "purskkaev"
+      ],
+      "colorcodes": [
+        "#626B6A",
+        "#8B5B3C",
+        "#A06637",
+        "#2D2D2D",
+        "#FFFFFF",
+        "#4682B4",
+        "#8B8378",
+        "#E6C3C3",
+        "#FFD700"
+      ],
+      "texts": [],
+      "persons": [
+        "mees",
+        "naine",
+        "möödakäijad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "kevad",
+      "daytime": "day",
+      "differences": [
+        "Paari asend on muutunud, mis viitab pidevale keerlemisele: mees on esimesel pildil rohkem kaadri keskel ja naise vasak käsi on tema kohal, teisel pildil on mees veidi paremale liikunud ja naise käsi on tema puusadel.",
+        "Naise juuksed on teisel pildil rohkem tuules lehvimas, rõhutades liikumist.",
+        "Taustal olev purskkaev on teisel pildil selgemalt nähtav."
+      ],
+      "snr": "046",
+      "ajad": [
+        "116.240",
+        "117.920"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort paari, meest ja naist, kes hoiavad käest kinni ja liiguvad rõõmsalt mööda munakivisillutisega väljakut. Mees vaatab üle õla tagasi naise poole ja pildistab teda oma mobiiltelefoniga. Naine naeratab ja vaatab mehe poole, tema juuksed lendavad liikumisest veidi. Taustal asub suursugune ajalooline hoone roosa-valge fassaadi ja punase katusega. Väljakul on näha ka teisi inimesi ning linnaruumi elemente nagu pingid ja tänavavalgustid. Üldine meeleolu on elav ja romantiline, andes edasi mälestuste loomise ja jagamise hetke.",
+      "actions": [
+        "Käest kinni hoidmine",
+        "Jooksmine/kiirel sammul kõndimine",
+        "Pildistamine mobiiltelefoniga",
+        "Naeratamine",
+        "Üle õla tagasi vaatamine",
+        "Suhtlemine",
+        "Liikumine"
+      ],
+      "keywords": [
+        "Paar",
+        "Armastus",
+        "Vanalinn",
+        "Romantika",
+        "Reisimine",
+        "Pildistamine",
+        "Mälestused",
+        "Munakivisillutis",
+        "Arhitektuur",
+        "Rõõmus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Noor mees",
+        "Noor naine",
+        "Mobiiltelefon",
+        "Munakivisillutis",
+        "Ajalooline hoone (roosa-valge fassaadiga)",
+        "Punane katus",
+        "Aknad",
+        "Lipud",
+        "Tänavavalgustid",
+        "Pingid",
+        "Puud (raagus)",
+        "Teised inimesed taustal",
+        "Fassaad"
+      ],
+      "colorcodes": [
+        "#D5A0A0",
+        "#AA3333",
+        "#555555",
+        "#8B4513",
+        "#333333",
+        "#FFFFFF",
+        "#B0A090",
+        "#C0C0C0"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees",
+        "Noor naine",
+        "Täiskasvanud (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Paar on liikunud veidi edasi ja nende asendid on muutunud, mis viitab liikumisele. Mehe ja naise käte ning kehahoiakute nurk on pisut erinev, näidates dünaamikat.",
+        "Mehe mobiiltelefoni asend on veidi muutunud, mis näitab pildistamise jätkumist.",
+        "Naise juuksed on esimesel pildil veidi vähem laiali kui teisel, mis viitab liikumise jätkumisele.",
+        "Üldine kaadri fookus ja kompositsioon on pisut nihkunud, pakkudes kerget vaatenurga muutust stseenile."
+      ],
+      "snr": "047",
+      "ajad": [
+        "117.920",
+        "119.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab rõõmsat noort paari, kes on keset munakiviväljakut ja teevad nutitelefoniga selfit. Taustal asub traditsioonilise Euroopa arhitektuuriga vanalinn, kus on helekollased ja beezikad hooned paljude akende ja mõne rõduga. Vasakul on näha purskkaev, millest vesi laialt pritsib. Purskkaevu juures on ka skulptuuri tumedam osa. Väljakul on näha ka üksikuid möödujaid ja tänavavalgusteid. Õhk on selge ja valgus ere, viitades päevasele ajale. Paar on kaamerast veidi paremal, poiss hoiab telefoni välja sirutatud käes ja mõlemad naeratavad kaamerasse.",
+      "actions": [
+        "Noor mees teeb nutitelefoniga selfit",
+        "Noor naine poseerib selfi jaoks",
+        "Mõlemad naeratavad",
+        "Vesi pritsib purskkaevust",
+        "Inimesed kõnnivad taustal"
+      ],
+      "keywords": [
+        "Selfie",
+        "Paar",
+        "Vanalinn",
+        "Purskkaev",
+        "Munakivitee",
+        "Rõõmus",
+        "Turistid",
+        "Linn",
+        "Päevaaeg"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Nutitelefon",
+        "Prillid",
+        "Purskkaev",
+        "Hooned",
+        "Munakivitee",
+        "Tänavavalgusti",
+        "Jalgrattad (taustal)",
+        "Lipud (hoone fassaadil)"
+      ],
+      "colorcodes": [
+        "#666B6C",
+        "#DED4AD",
+        "#FFFFFF",
+        "#A16C3A",
+        "#000000",
+        "#4B658A"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees",
+        "Noor naine",
+        "Möödujad"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Paari asend ja käe nurk on kaadrite vahel veidi muutunud, viitades liikumisele või järjestikustele võtetele.",
+        "Purskkaevust pritsiva vee kuju ja kõrgus varieerub kaadrite vahel.",
+        "Taustal liikuvate inimeste asukohad on muutunud.",
+        "Kaadrite kadreering on pisut erinev, näidates vahelduvalt rohkem või vähem purskkaevu ja parempoolseid hooneid."
+      ],
+      "snr": "049",
+      "ajad": [
+        "121.400",
+        "123.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab elavat väljakut ajaloolises linnas, kus kolm peamist tegelast on kesksel kohal. Esiväljakul paremal seisab noor naine, kes pildistab nutitelefoniga paari. Keskelt vasakule, purskkaevu lähedal, paikneb noor paar, kes embab ja suudleb musta vihmavarju all. Mees hoiab vihmavarju paari pea kohal, kaitstes neid potentsiaalse vihma eest, kuigi ilm tundub pilves, aga kuiv. Mees kannab halli jakki, pruune pükse ja pruune kingi, naine pruunikasoranži jakki, helesiniseid teksaseid ja valgeid tosse. Pildistav naine kannab kreemikasvalget sviitrit, tumesiniseid teksaseid ja musti tosse. Paari taga asub detailne mitmetasandiline purskkaev, millel on skulptuur kahest figuurist, kes samuti hoiavad väikest valget vihmavarju, sümboliseerides ilmselt vihmas armastust. Purskkaevust voolab vesi. Väljaku ümber on vanad, mitmekorruselised hooned, millest vasakpoolne on roosakaspunane ja parempoolne kreemikasvalge, andes stseenile ajaloolise ja romantilise hõngu. Maapind on kaetud munakividega. Tagaplaanil on näha ka teisi inimesi, kes jalutavad. Vasakul asuval hoonel lehvib Eesti lipp ja parempoolsel hoonel on nähtav silt 'DANFOSS'.",
+      "actions": [
+        "Paar embab ja suudleb",
+        "Mees hoiab vihmavarju",
+        "Naine pildistab nutitelefoniga",
+        "Purskkaevust voolab vesi",
+        "Inimesed jalutavad väljakul"
+      ],
+      "keywords": [
+        "Väljak",
+        "Paar",
+        "Romantika",
+        "Pildistamine",
+        "Vihmavari",
+        "Purskkaev",
+        "Ajalooline linn",
+        "Munakivid",
+        "Embracing",
+        "Kissing",
+        "Photography",
+        "Estonia",
+        "Turism"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Must vihmavari",
+        "Valge vihmavari (kuju käes)",
+        "Purskkaev",
+        "Skulptuur",
+        "Nutitelefon",
+        "Munakivid",
+        "Hooned",
+        "Aknad",
+        "Uksed",
+        "Tänavavalgustid",
+        "Eesti lipp",
+        "Inimesed (taustal)",
+        "Teksad",
+        "Sviiter",
+        "Jakk",
+        "Tossud",
+        "Kingad"
+      ],
+      "colorcodes": [
+        "#CC6666",
+        "#E0DED7",
+        "#8C8C8C",
+        "#1A1A1A",
+        "#A06D44",
+        "#528EB4",
+        "#EAEAEA",
+        "#FFFFFF",
+        "#000000",
+        "#7C8B8E",
+        "#9B6C4F"
+      ],
+      "texts": [
+        "DANFOSS"
+      ],
+      "persons": [
+        "Noor mees (paarist)",
+        "Noor naine (paarist)",
+        "Naine (pildistaja)",
+        "Inimesed (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "spring",
+      "daytime": "day",
+      "differences": [
+        "Paari naise parem jalg on teisel pildil kergelt tõstetud, mis annab edasi rõõmu või liikumist suudluse ja embuse ajal.",
+        "Pildistav naine on kergelt muutnud oma käte ja pea asendit, jätkates pildistamist, mis viitab pildi tegemise järjepidevusele."
+      ],
+      "snr": "050",
+      "ajad": [
+        "123.120",
+        "124.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kahte inimest, kes vaatavad suurele rahvahulgale õues öisel ajal. Esiplaanil on mees ja naine, kes seisavad rahvahulgale seljaga. Mees, kellele on selja tagant näha, kannab tumedat halli kapuutsiga pusa ning hoiab paremas käes valget mobiiltelefoni, millega ta ilmselt pildistab või filmib sündmust. Tema kõrval seisab naine, kellele on samuti selja tagant näha, ja kes kannab pruuni või kollakaspruuni jopet, millel on mustad detailid õlgadel. Naine hoiab juukseid hobusesabas. Taamal on näha suur ja tihe rahvahulk, mis on osaliselt valgustatud sündmuse tuledega. Valgustus on hajutatud ja öine, luues pehme ja piduliku õhkkonna. Kaugemal vasakul on näha mingeid telgi- või lavaehitisi, mis viitavad avalikule üritusele nagu kontsert või miiting. Üldine meeleolu on aktiivne ja sotsiaalne.",
+      "actions": [
+        "Mees pildistab või filmib mobiiltelefoniga",
+        "Inimesed vaatavad lavale või sündmusele",
+        "Rahvahulk on kogunenud välitingimustesse",
+        "Inimesed liiguvad või seisavad sündmuse alal"
+      ],
+      "keywords": [
+        "Öö",
+        "Välitingimused",
+        "Rahvahulk",
+        "Sündmus",
+        "Mobiiltelefon",
+        "Pildistamine",
+        "Vaatamine",
+        "Kontsert",
+        "Üritus",
+        "Inimesed"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Mobiiltelefon",
+        "Mehe pusa",
+        "Naise jope",
+        "Rahvahulk",
+        "Lavaehitised",
+        "Valgustus"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#2e3135",
+        "#6f6b69",
+        "#b9936e",
+        "#4a4751",
+        "#997a5b"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine",
+        "Rahvahulk (palju inimesi)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "autumn",
+      "daytime": "night",
+      "differences": [
+        "Teine pilt on esimesest veidi sisse suumitud, mistõttu on vasakult ja ülevalt natuke pildiala ära lõigatud.",
+        "Mehe käe asend telefoni hoidmisel on veidi muutunud, mis viitab kas väga lühikesele ajaintervallile kaadrite vahel või fotograafi liikumisele.",
+        "Rahvahulga taustal on märgata minimaalseid positsioonimuutusi, mis on ootuspärane suure hulga inimeste puhul."
+      ],
+      "snr": "051",
+      "ajad": [
+        "124.880",
+        "126.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab suurt vabaõhuüritust või kontserti õhtuhämaruses, kus tuhanded inimesed on kogunenud staadioni tribüünidele või amfiteatri stiilis alale. Rahvas täidab suure osa vaateväljast, ulatudes esiplaanilt kuni horisondini. Taamal on näha tihedat tumedate puude rida ja keskelt paistab hoone, mis meenutab tablood või kontrolltorniga staadioniehitist. Mitmel pool on valgustusallikad, mis valgustavad lava, hooneid ja rahvamassi, luues dramaatilise õhustiku. Üksikud telgid ja sinine lipp on nähtavad rahva seas. Üks lähivõte näitab noort naist erepinkas pusa kandes, kes on tõstetud rahva kohale ja hoiab käes telefoni, jäädvustades sündmusi, teised inimesed tema ümber seisavad ja jälgivad laval toimuvat.",
+      "actions": [
+        "Seismine",
+        "Vaatamine",
+        "Kuulamine",
+        "Kogunemine",
+        "Telefoniga pildistamine/filmimine",
+        "Lipu lehvitamine",
+        "Vestlemine"
+      ],
+      "keywords": [
+        "Vabaõhuüritus",
+        "Kontsert",
+        "Rahvamass",
+        "Staadion",
+        "Tribüünid",
+        "Õhtu",
+        "Videvik",
+        "Valgustus",
+        "Lipud",
+        "Pink",
+        "Noored",
+        "Pidu"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Inimesed",
+        "Lipud",
+        "Telgid",
+        "Hoone (tabloo/kontrolltorn)",
+        "Valgustuspostid",
+        "Prožektorid",
+        "Kõlarid/helitehnika",
+        "Telefonid",
+        "Tribüünid/astmed",
+        "Puud"
+      ],
+      "colorcodes": [
+        "#2C3C4E",
+        "#0C1E0A",
+        "#F2A2BF",
+        "#3A5B8E",
+        "#FFFFFF",
+        "#7C7F7D"
+      ],
+      "texts": [
+        "SAKU"
+      ],
+      "persons": [
+        "Tuhanded inimesed",
+        "Noor naine (roosas pusa)",
+        "Mehed",
+        "Naised",
+        "Noored"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "kevad või sügis",
+      "daytime": "evening",
+      "differences": [
+        "Esimene ja teine pilt on sarnased laiad kaadrid, kuid teine pilt on pisut panoraamitud paremale, näidates rohkem lava-ala ja valgustuskonstruktsioone paremal servas. Samuti on teisel pildil selgemalt näha telgil kiri 'SAKU'.",
+        "Kolmas pilt on eelmistest oluliselt lähemale suumitud kaader, keskendudes rahvamassi ühele osale, eriti noorele naisele roosas pusa, kes paistab silma rahva seast. See pilt annab detailsema ülevaate inimestest ja nende tegevustest, samuti on sellel pildil näha rohkem lavavalgustuse värve."
+      ],
+      "snr": "052",
+      "ajad": [
+        "126.520",
+        "129.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab suurt öist vabaõhukontserti või massiüritust, kus tuhanded inimesed on kogunenud mäenõlvale või amfiteatri istmetele. Esiplaanil on näha musta varikatusega lava, millel on näha valgustatud alasid ja ebamääraseid kujusid, mis viitavad esinejatele. Lava ees on ere sinine valgusriba. Publikuala on täielikult inimestega täidetud, ulatudes kaugel horisondi suunas. Taamal, publikuala kohal, on näha tumedaid puid siluetina vastu pimedat öötaevast. Kõige tagapool, publiku kohal asuva mäe tipus, on näha valget ja sinist värvi konstruktsiooni või bännerit, millel on väikesed loetamatud tekstid.",
+      "actions": [
+        "Inimesed seisavad ja vaatavad lava poole",
+        "Laval on näha valgustust ja tegevust"
+      ],
+      "keywords": [
+        "Kontsert",
+        "Massiüritus",
+        "Rahvahulk",
+        "Lava",
+        "Öö",
+        "Välitingimused",
+        "Publik",
+        "Valgusshow",
+        "Amfiteater",
+        "Mäenõlv"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Lava",
+        "Publik",
+        "Puud",
+        "Valgustid",
+        "Varikatus",
+        "Bänner/konstruktsioon"
+      ],
+      "colorcodes": [
+        "#0C0D0E",
+        "#343435",
+        "#1E1E3D",
+        "#777777",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Loetamatud tekstid bänneril"
+      ],
+      "persons": [
+        "Suur hulk inimesi",
+        "Esinejad (ebamäärased kujud laval)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad sisulised erinevused, need on identsed kaadrid."
+      ],
+      "snr": "053",
+      "ajad": [
+        "129.960",
+        "131.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort paari või sõpru öisel vabaõhuüritusel, tõenäoliselt kontserdil või festivalil. Esiküljel on noormees, kes hoiab mõlema käega helesinist nutitelefoni, suunaga ettepoole, justkui salvestades või pildistades sündmust. Tema kõrval seisab noor naine, kes vaatab samuti ettepoole, näol kerge naeratus. Nende taga on näha suur rahvahulk, kus paljud inimesed hoiavad samuti üleval valgustatud nutitelefone, luues särava ja atmosfäärilise fooni pimedas öös. Üldine meeleolu on elav ja rõõmus, keskendudes sündmuse jäädvustamisele ja nautimisele.",
+      "actions": [
+        "Nutitelefoni hoidmine",
+        "Pildistamine või video salvestamine",
+        "Sündmuse jälgimine",
+        "Rahvahulgas seismine",
+        "Ürituse nautimine"
+      ],
+      "keywords": [
+        "Kontsert",
+        "Festival",
+        "Öö",
+        "Vabaõhuüritus",
+        "Nutitelefonid",
+        "Valgusshow",
+        "Rahvahulk",
+        "Mälestuste jäädvustamine",
+        "Sotsiaalmeedia"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Nutitelefon",
+        "Telefonikarp (helesinine, kärgmustriga)",
+        "Prillid (noormehel)",
+        "Kapuutsiga dressipluus (noormehel)",
+        "Riided",
+        "Kõrvarõngas (neiul)",
+        "Valgustatud nutitelefonid (taustal)"
+      ],
+      "colorcodes": [
+        "#72AFC3",
+        "#4C4B4B",
+        "#1A1A1A",
+        "#FFFFFF",
+        "#A8816B",
+        "#343434"
+      ],
+      "texts": [],
+      "persons": [
+        "Noormees (esiplaanil, prillidega)",
+        "Neiu (esiplaanil, noormehe kõrval)",
+        "Rahvahulk (taustal)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Pildid on identsed, erinevused puuduvad."
+      ],
+      "snr": "054",
+      "ajad": [
+        "131.720",
+        "133.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort paari, kes jagab mälestusväärseid hetki, liikudes elavast õhtusündmusest rahuliku loodusmaastiku poole päikeseloojangu ajal. Esimesena näeb neid lähivaates öisel üritusel, kus noor mees, prillid ees ja hall pusa seljas, naeratab rõõmsalt, filmides või pildistades nutitelefoniga, millel on iseloomulik sinise mustriga ümbris. Tema kõrval seisab tumedate juustega noor naine, kes vaatab ettepoole õrna naeratusega. Taustal on näha teisi inimesi ja arvukalt udust valgust, mis viitab rahvarohkele sündmusele. Hiljem on sama paar jäädvustatud siluetina laiahaardelisel päikeseloojanguvaatel mere või järve ääres. Nad jalutavad käsikäes mööda rohtunud kaljupealset, mees hoiab endiselt nutitelefoni pea kohal, jäädvustades maalilist vaadet või nende ühiskogemust. Naine vaatab rahulikku silmapiiri. Maastik on hõre, tumeda rohu ja üksikute puudega, ning horisondil paistavad kauged struktuurid, mis võivad olla tuulegeneraatorid või muud rajatised.",
+      "actions": [
+        "Pildistamine nutitelefoniga",
+        "Salvestamine nutitelefoniga",
+        "Naeratamine",
+        "Käest kinni hoidmine",
+        "Jalutamine",
+        "Ümbruse imetlemine",
+        "Ürituse nautimine"
+      ],
+      "keywords": [
+        "Paar",
+        "Nutitelefon",
+        "Üritus",
+        "Loodus",
+        "Päikeseloojang",
+        "Mälestused",
+        "Romantika",
+        "Öö",
+        "Kevad",
+        "Meri",
+        "Panoraam",
+        "Siluetid",
+        "Rõõm"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Nutitelefon",
+        "Prillid",
+        "Kõrvarõngad",
+        "Pusa",
+        "Jakk",
+        "Puud",
+        "Rohi",
+        "Kaljupealne",
+        "Vesi",
+        "Pilved",
+        "Tuulegeneraatorid"
+      ],
+      "colorcodes": [
+        "#363636",
+        "#68D2C4",
+        "#4E3236",
+        "#F7D0BC",
+        "#A9CDE7",
+        "#658AA8",
+        "#7190A5",
+        "#3D3D35",
+        "#634C3F",
+        "#9B7051"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees",
+        "Noor naine",
+        "Inimesed taustal"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "spring",
+      "daytime": "evening",
+      "differences": [
+        "Esimene pilt on lähivaates rahvarohkelt ürituselt öösel, samas kui kaks viimast pilti on laiad kaadrid paarist siluettidena looduses päikeseloojangu ajal.",
+        "Kaks viimast pilti on peaaegu identsed, kuid paar on neil veidi edasi liikunud mööda kaldapealset.",
+        "Mehe käe asend nutitelefoniga on kahes viimases pildis kergelt erinev."
+      ],
+      "snr": "055",
+      "ajad": [
+        "133.040",
+        "135.200"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort paari, kes seisab pankranniku serval ja imetleb päikeseloojangut või videviku ajalist merd. Mees ja naine on vaatega seljaga vaataja poole, vaadates rahuliku mere suunas, mille kohal on näha pehmete roosade, oranžide ja siniste toonidega värvitud taevast. Horisondi ja mere vahel on selge joon. Vee pinnal on näha mõned üksikud tumedad kivid. Esiplaanil on mudane ja rohtunud maapind, mis viib järsult allapoole pankranniku servale. Paar on riietatud soojematesse riietesse – jopedesse ja teksapükstesse, mis viitab jahedamale ilmale. Mehel on seljas tume jope ja pruunid püksid, peas prillid. Naisel on pruun nahkne jope, valge pluus ja sinised teksad. Üldine meeleolu on romantiline ja rahulik.",
+      "actions": [
+        "Seismine pankrannikul",
+        "Vaate nautimine",
+        "Päikeseloojangu imetlemine",
+        "Mees paneb käe ümber naise"
+      ],
+      "keywords": [
+        "Paar",
+        "Päikeseloojang",
+        "Meri",
+        "Pankrannik",
+        "Romantika",
+        "Vaade",
+        "Õhtu",
+        "Kallistus",
+        "Rannik"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Naine",
+        "Meri",
+        "Taevas",
+        "Pankrannik",
+        "Kivid (vees)",
+        "Rohttaimed",
+        "Prillid",
+        "Joped"
+      ],
+      "colorcodes": [
+        "#B8D0DB",
+        "#F0C4B8",
+        "#F7E4D6",
+        "#AEC8CF",
+        "#8BB3BE",
+        "#4A4E4E",
+        "#7A5B47",
+        "#7C4F3E",
+        "#D2D8DB",
+        "#587BA1",
+        "#3A3B31"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees",
+        "Naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil hoiab mees oma kätt naise õla juures, kergelt pea lähedal, kuid ei embada teda otseselt.",
+        "Teisel ja kolmandal pildil on mehe käsi kindlalt ümber naise vöökoha, moodustades selge embuse."
+      ],
+      "snr": "056",
+      "ajad": [
+        "135.200",
+        "138.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab kätt, mis hoiab horisontaalselt valget iPhone'i, mille ekraanil on videokõne või pilt-pildis video. Telefoni ekraani põhitaustaks on rahulik ja värviline õhtu- või hommikumaastik mere ääres, kus taevas on roosakaid, sinakaid ja oranže toone ning horisondil on näha kaugeid objekte, võimalik, et tuulikuid või tööstushooneid. Paremal pool on maastiku osa, mis meenutab kallakut kuivanud taimestikuga. Ekraani alumises vasakus nurgas on väiksem aken, kus on näha noort heledapäist meest, kes kannab ruudulist särki ja kikilipsu. Mees istub toolil mustrilise tapeediga toas. Telefoni hoidev käsi ja ümbritsev taust on udused, andes vihje, et pilt on tehtud õues pehme loodusliku valguse käes, mis sobib hästi kokku ekraanil oleva päikeseloojangu või -tõusu temaatikaga.",
+      "actions": [
+        "Käsi hoiab telefoni.",
+        "Noormees telefoniekraanil suhtleb (vehkib käega)."
+      ],
+      "keywords": [
+        "Videokõne",
+        "iPhone",
+        "Maastik",
+        "Mereäärne",
+        "Päikeseloojang",
+        "Päikesetõus",
+        "Inimene",
+        "Kommunikatsioon",
+        "Tehnoloogia",
+        "Käsi",
+        "Kikilips",
+        "Vehkimine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "iPhone",
+        "Käsi",
+        "Meri/järv",
+        "Taevas",
+        "Maa/kallas",
+        "Taimestik",
+        "Mustriline tapeet",
+        "Ruuduline särk",
+        "Kikilips"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#F0C0D0",
+        "#90B0D0",
+        "#E0A080",
+        "#203040",
+        "#707070",
+        "#C04040",
+        "#A0A090"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees",
+        "Käe omanik"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Esimesel pildil on mees telefoniekraanil paigal.",
+        "Teisel pildil on mees telefoniekraanil oma parema käe üles tõstnud ja vehkab.",
+        "Kolmandal pildil on mees telefoniekraanil taas paigal, sarnases asendis esimese pildiga, olles justkui lõpetanud vehkimise."
+      ],
+      "snr": "057",
+      "ajad": [
+        "138.120",
+        "140.280"
+      ]
+    },
+    {
+      "explanation": "Pildil on näha inimkäsi, mis hoiab horisontaalselt valget iPhone'i nutitelefoni, tõenäoliselt mudelit 4 või 4S. Telefoni ekraanil kuvatakse mustal taustal tühja aku ikooni, kus punane osa tähistab väga madalat laetuse taset. Käe taga on ähmane, tume õuevaade, mis võib viidata päikeseloojangule või -tõusule vee kohal, lisades stseenile sügavust, kuid fookus on nutitelefonil.",
+      "actions": [
+        "Hoiab telefoni",
+        "Telefoniekraan kuvab aku staatust",
+        "Telefon tühjeneb"
+      ],
+      "keywords": [
+        "Nutitelefon",
+        "iPhone",
+        "Aku",
+        "Tühi aku",
+        "Laadimine",
+        "Käsi",
+        "Ekraan",
+        "Madal laetus",
+        "Tehnoloogia",
+        "Punane"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "iPhone telefon",
+        "Inimese käsi",
+        "Aku ikoon",
+        "Telefoni korpus",
+        "Telefoni ekraan"
+      ],
+      "colorcodes": [
+        "#F8F8F8",
+        "#000000",
+        "#E20000",
+        "#AAAAAA",
+        "#8B6B54",
+        "#3C3C3C"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on telefoni ekraan heledam ja aku ikoon selgelt nähtav, punase laetuse indikaatoriga. Teisel pildil on kogu stseen oluliselt tumedam, eriti telefoni ekraan, mis on peaaegu välja lülitunud või hämaraks muutunud, punane aku indikaator on vaevu nähtav. See viitab veel madalamale laetuse tasemele või ekraani hämardumisele enne täielikku väljalülitumist."
+      ],
+      "snr": "058",
+      "ajad": [
+        "140.280",
+        "141.360"
+      ]
+    },
+    {
+      "explanation": "Stseen koosneb kolmest identsest täiesti mustast pildist, kus puudub igasugune visuaalne sisu või detail. Piltidel on näha ainult täielikku pimedust, mis ei võimalda tuvastada objekte, tegevusi, isikuid ega ühtegi konteksti. Kõik kaadrid on täiesti ühtlased ja mustad.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "pime",
+        "tühjus",
+        "puudub sisu",
+        "must kaader",
+        "tumedus"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "059",
+      "ajad": [
+        "141.360",
+        "142.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laiaulatuslikku mere- või järvevaadet videvikus, kas päikesetõusu või -loojangu ajal. Horisondil on näha pehmed roosakad, oranžid ja helesinised toonid, mis lähevad ülespoole üle heledamaks taevaks. Vesi on rahulik ja peegeldab taeva värve, selle pinnal ujub hajutatult mõni tume kivi. Pildi allosas ja vasakul on näha kaljune kallas, mis on kaetud kuiva ja hõreda taimestikuga, andes edasi kevade või sügise hõngu. Kauguses, vasakul horisondil, on märgata vaevu aimatavaid tööstuslikke struktuure. Üldmulje on vaikne, rahulik ja looduslähedane.",
+      "actions": [],
+      "keywords": [
+        "loodus",
+        "meri",
+        "järv",
+        "veekogu",
+        "päikeseloojang",
+        "päikesetõus",
+        "videvik",
+        "kallas",
+        "kalju",
+        "rahulik",
+        "vaikne",
+        "taevas",
+        "pilved",
+        "horisont",
+        "Eesti",
+        "rannik",
+        "puhkus",
+        "taimestik",
+        "kivid"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "meri",
+        "järv",
+        "veekogu",
+        "taevas",
+        "pilved",
+        "kallas",
+        "kalju",
+        "kivid vees",
+        "põõsad",
+        "kuivanud taimestik"
+      ],
+      "colorcodes": [
+        "#B0C4DE",
+        "#87CEEB",
+        "#FFB6C1",
+        "#F5DEB3",
+        "#4682B4",
+        "#36454F",
+        "#800080"
+      ],
+      "texts": [
+        "ESTONIA - A GOOD PLACE TO RECHARGE YOUR BATTERIES",
+        "WELCOME TO ESTONIA",
+        "COME AND SEE FOR YOURSELF"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "spring",
+      "daytime": "evening",
+      "differences": [
+        "Piltide vahel on näha progressiivne tumenemine, mis annab edasi hilisema õhtu või varajase öö meeleolu, kus taevas ja vesi muutuvad sügavamaks ja tumedamaks.",
+        "Esimene pilt sisaldab teksti 'ESTONIA - A GOOD PLACE TO RECHARGE YOUR BATTERIES'. Teisel pildil tekst puudub. Kolmandal pildil on tekstid 'WELCOME TO ESTONIA' vertikaalselt ja 'COME AND SEE FOR YOURSELF' horisontaalselt, kusjuures üldine pildi heledus on oluliselt vähenenud võrreldes esimese pildiga."
+      ],
+      "snr": "060",
+      "ajad": [
+        "142.040",
+        "148.480"
+      ]
+    },
+    {
+      "explanation": "Stseen on täielikult must, mis viitab kas absoluutsele pimedusele, valguse puudumisele või tühjale pildifailile. Kaadrites ei ole näha ühtegi objekti, figuuri ega detaili. Üldmulje on täielikust varjutatusest ja tühjusest.",
+      "actions": [],
+      "keywords": [
+        "pime",
+        "must",
+        "pimendus",
+        "tühjus",
+        "nähtamatu",
+        "kaamos"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Kõik pildid on identsed, esinevaid erinevusi ei ole."
+      ],
+      "snr": "061",
+      "ajad": [
+        "148.480",
+        "186.840"
+      ]
+    }
+  ]
+}

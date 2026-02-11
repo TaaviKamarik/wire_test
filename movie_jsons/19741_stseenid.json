@@ -1,0 +1,1598 @@
+{
+  "film": [
+    "19741",
+    "19590",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Enne",
+    "367b1e1ac627fcb4050e2c14432dd4fd97c51d84.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab inimest, kes kõnnib pimedas öises välitingimustes. Isik on näha selja tagant, seljas tume ja paks talvemantel, mis viitab külmale ilmale, ning peas on ilmselt karvase äärega müts või kapuuts. Ta hoiab paremas käes taskulampi, mille valgusvihk langeb otse tema ette maapinnale, valgustades teed. Ümbrus on äärmiselt pime ja tühjalt avar, vaid mõnedest kauguses asuvatest valgusallikatest on näha ähmaselt hoonete või sõidukite kontuure. Taskulamp on ainus oluline valgusallikas vahetus läheduses. Maapind paistab ebatasane, võimalik, et kaetud lume või jääga. Inimese juuksed on hallid, mis on näha mütsi või kapuutsi alt.",
+      "actions": [
+        "Kõndimine",
+        "Edasi liikumine",
+        "Taskulambiga tee valgustamine"
+      ],
+      "keywords": [
+        "Öö",
+        "Pimedus",
+        "Taskulamp",
+        "Talv",
+        "Üksildus",
+        "Varjud",
+        "Avatud ruum",
+        "Müsteerium",
+        "Külm",
+        "Metsik"
+      ],
+      "shot_type": "long",
+      "placement": "outdoor",
+      "objects": [
+        "Taskulamp",
+        "Talvemantel",
+        "Karvane müts/krae",
+        "Tee/Maapind",
+        "Kauguses olevad tuled",
+        "Kauguses olevad sõidukid/hooned"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#333333",
+        "#C0C0C0"
+      ],
+      "texts": [],
+      "persons": [
+        "Hallipäine inimene",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "75",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on kõige pimedam, inimene on peaaegu siluetina näha ja taskulamp ei ole sisse lülitatud. Ümbritsev keskkond on peaaegu täielikult must.",
+        "Teine pilt on pisut heledam, inimene on selgemalt eristatav, riiete kontuurid on paremini nähtavad ja taskulambi olemasolu on aimatav, kuid see ei valusta veel.",
+        "Kolmas pilt on kõige heledam, taskulamp on sisse lülitatud ja valgustab intensiivselt maapinda inimese ees, tuues esile teekatte detaile. Kauguses on näha ähmaselt ka teisi valgusallikaid ja objekte."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "11.470"
+      ]
+    },
+    {
+      "explanation": "Stseen algab täielikult musta ekraaniga, mis on ilma igasuguse visuaalse sisuta. Seejärel ilmub ekraani keskele valge tekst. Suuremas kirjas on pealkiri \"BEFORE\" ning selle all, veidi väiksemas kirjas, on autori nimi \"BY HÖBE ILUS\". Üldmulje on minimalistlik ja range, keskendudes tekstile tühjuse taustal.",
+      "actions": [
+        "Tekst ilmub ekraanile"
+      ],
+      "keywords": [
+        "Tiitlikaart",
+        "Sissejuhatus",
+        "Minimaalne",
+        "Must taust",
+        "Valge tekst",
+        "Autori nimi",
+        "Filmi algus"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "BEFORE",
+        "BY HÖBE ILUS"
+      ],
+      "persons": [],
+      "imagetype": "textbackground",
+      "emptypercent": "95",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel pildil on ekraan täiesti must, teisel pildil ilmub mustale taustale valge tekst \"BEFORE\" ja \"BY HÖBE ILUS\"."
+      ],
+      "snr": "002",
+      "ajad": [
+        "11.470",
+        "40.457"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähivõtet magavast inimesest ja padjast, mis on kaetud punakaspruuni ja valge ringikujulise mustriga padjapüüriga. Inimesel on tumedad, lainelised juuksed. Hiljem ilmub kaadrisse suur, kahvatu, nukulaadne pea, millel on suured tumedad ovaalsed silmad ja väikesed kaarjad kulmud. Nuku pea on kaamerale väga lähedal, täites suure osa kaadrist ja varjates osaliselt inimest ja patja. Valgus on pehme ja summutatud, luues intiimse või isegi veidi kõheda atmosfääri.",
+      "actions": [
+        "Puhkamine",
+        "Lamamine",
+        "Nuku ilmumine kaadrisse"
+      ],
+      "keywords": [
+        "Nukk",
+        "Padi",
+        "Magamine",
+        "Lähivõte",
+        "Tumedad juuksed",
+        "Muster",
+        "Siseruum",
+        "Öö"
+      ],
+      "shot_type": "extreme close-up",
+      "placement": "indoor",
+      "objects": [
+        "Padi",
+        "Padjapüür",
+        "Juuksed",
+        "Nuku pea",
+        "Nuku silmad",
+        "Nuku kulmud"
+      ],
+      "colorcodes": [
+        "#8B454A",
+        "#F8F8F8",
+        "#2F1E1E",
+        "#E8E4D7",
+        "#2F2F32"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0-5",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt keskendub inimese peale ja padjale.",
+        "Teine ja kolmas pilt näitavad suurt nukku, mis on ilmunud kaadrisse ja osaliselt varjab inimese pea ning patja.",
+        "Fookus on esimesel pildil inimesel/padjal, teisel ja kolmandal pildil aga nukule.",
+        "Teine ja kolmas pilt on omavahel väga sarnased, peaaegu identsed kaadrid, viidates järjestikustele hetkedele või minimaalsele liikumisele."
+      ],
+      "snr": "003",
+      "ajad": [
+        "40.457",
+        "58.350"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vana puitmaja fassaadi öisel ajal. Maja on kaetud horisontaalsete laudistega, mis annavad sellele kulunud ja ajahambast puretud ilme. Keskel asub tumedaks kulunud puituks, mille kohal ripub üksik, sooja valgust kiirgav välilamp. Lambi valgus valgustab peamiselt ukseesist ja selle vahetut ümbrust, luues kontraste tumeda öötaeva ja maja varjuliste osadega. Uksest vasakul on kaks kitsast, vertikaalset akent, millel on mitu ruutu. Uksest paremal asub samuti kitsas aken ja sellest paremal veel üks, veidi sügavamal asuv aken. Kõik aknad on heledate raamidega ja paistavad seestpoolt kumavat, kuigi sisu pole näha. Maja ees maapinnal on märgata mõningaid esemeid, sealhulgas võimalik lillepott või taim. Üleval paistab olevat kitsas räästas või varikatus. Kogu stseen on kergelt fookusest väljas, andes sellele pehme ja mõneti unenäolise või melanhoolse tunde. Piltide üldine toon on tume ja sinakas-hallikas.",
+      "actions": [
+        "Ootamine",
+        "Vaatlus",
+        "Öö saabumine"
+      ],
+      "keywords": [
+        "Öö",
+        "Maja",
+        "Puitmaja",
+        "Vana",
+        "Hämarus",
+        "Lamp",
+        "Valgus",
+        "Aknad",
+        "Uks",
+        "Rustikaalne",
+        "Maalähedane",
+        "Salapärane",
+        "Blur",
+        "Fookusest väljas"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Maja",
+        "Puitlaudis",
+        "Uks",
+        "Aken",
+        "Välilamp",
+        "Pirn",
+        "Lillepott (võimalik)",
+        "Traat",
+        "Varikatus",
+        "Maapind"
+      ],
+      "colorcodes": [
+        "#2b353e",
+        "#f5e4b7",
+        "#1a1a1a",
+        "#d0d0d0",
+        "#444547"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on näha väga kergeid erinevusi valguse intensiivsuses ja fookuses, mis võivad viidata kaamera minimaalsele liikumisele või ekspositsiooni muutusele kaadrite vahel.",
+        "Lambi valguse halo ja varjude peensused varieeruvad õrnalt."
+      ],
+      "snr": "004",
+      "ajad": [
+        "58.350",
+        "69.945"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort naist või tüdrukut maalähedases, sumedas valguses siseruumis, mis näib olevat palkmaja või puitseintega tuba. Alguses näeme teda sügavalt magamas voodis, kaetud beeži tumesiniste täppidega tekiga, pea toetumas mustrilisele padjale. Valgustus on hämar, vihjates varahommikule. Järgnevalt on sama isik ärganud ja toimetab toas, seistes või kummardudes valge vanni või kraanikausi lähedal. Tal on seljas heledavärviline triibuline pikkade varrukatega pluus ja tumedad püksid, pikad tumedad juuksed langevad alla, kui ta pilku langetab. Tausta moodustavad puitpalgist seinad ja riiul, mis on täis raamatuid ja punutud korvi, luues hubase ja koduse atmosfääri. Stseen jäädvustab vaikset hommikust rutiini.",
+      "actions": [
+        "Magamine",
+        "Ärkamine",
+        "Kummardamine",
+        "Hommikuse rutiini tegemine"
+      ],
+      "keywords": [
+        "Hommik",
+        "Magamine",
+        "Äratus",
+        "Rutiin",
+        "Puitmaja",
+        "Palkseinad",
+        "Salongi stiil",
+        "Vaikus",
+        "Kodune",
+        "Polkadot"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Voodi",
+        "Tekk",
+        "Padi",
+        "Raamatud",
+        "Riiul",
+        "Puitseinad",
+        "Vann",
+        "Kraanikauss",
+        "Korv",
+        "Pluus",
+        "Püksid"
+      ],
+      "colorcodes": [
+        "#EAE3D9",
+        "#334466",
+        "#A16A4C",
+        "#8C6A4B",
+        "#C5C5C5",
+        "#2C2D2D",
+        "#F0F0F0"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor naine"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "morning",
+      "differences": [
+        "Esimesel kaadril magab inimene voodis teki all, samal ajal kui kahel järgneval kaadril on sama inimene ärganud ja toimetab toas.",
+        "Esimene kaader keskendub magavale isikule voodis, teine kaader on hägune üldvaade toast, kus on näha vann ja puitseinad, ning kolmas kaader näitab ärganud inimest kummardumas vannitoa piirkonnas.",
+        "Kaadrite fookus ja tegevus muutuvad magamisest ärkamise ja hommikuste toimetusteni, kuid ruumi miljöö puitseinte ja riiuliga jääb samaks."
+      ],
+      "snr": "005",
+      "ajad": [
+        "69.945",
+        "79.997"
+      ]
+    },
+    {
+      "explanation": "Stseenis on näha grupp mängulisi kutsikaid siseruumis, kus on puidust põrand ja helesinine kooruva värviga sein. Paremal tagaplaanil on ka ukselävele sarnanev detail. Kaadris on kokku umbes viis-kuus kutsikat erinevates värvitoonides: üks kreemikasvalge, mitu pruunikat või tan-värvi ja kaks musta karvaga kutsikat. Nad on aktiivsed, roomavad, nuusutavad üksteist ja mängivad. Mõned kutsikad on lebamas või pikutamas, samal ajal kui teised on püsti ja ringi liiguvad. Valge kutsikas, mis alguses on osaliselt varjatud, tuleb hiljem paremini esile ja vaatab kaamera poole. Üks pruunikas kutsikas on kaamera poole seljaga. Paremalt tagaplaanil on näha ka kortsus paberilehte tekstiga. Üldine meeleolu on elav ja nunnu, kujutades kutsikate igapäevast mängu ja puhkust.",
+      "actions": [
+        "mängimine",
+        "roomamine",
+        "nuusutamine",
+        "lamamine",
+        "liikumine",
+        "puhkamine"
+      ],
+      "keywords": [
+        "kutsikad",
+        "koerad",
+        "mäng",
+        "siseruum",
+        "helesinine sein",
+        "puidust põrand",
+        "elav",
+        "nunnu",
+        "lemmikloomad"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "kutsikad",
+        "sein",
+        "põrand",
+        "ukselävi",
+        "paberileht"
+      ],
+      "colorcodes": [
+        "#8FB0B0",
+        "#6D4E3A",
+        "#F0E4D5",
+        "#353535",
+        "#A0C0C0",
+        "#503020"
+      ],
+      "texts": [
+        "Paberilehel olev tekst (loetamatu)"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kutsikate asendid ja poosid muutuvad märkimisväärselt, näidates nende aktiivset liikumist ja mängu.",
+        "Valge kutsikas, mis esimeses kaadris on tagapool ja osaliselt varjus, tuleb hilisemates kaadrites esile ja on aktiivsemalt nähtav.",
+        "Üldine kompositsioon ja kutsikate omavahelised interaktsioonid nihkuvad ja arenevad kaadrite vahel."
+      ],
+      "snr": "006",
+      "ajad": [
+        "79.997",
+        "203.036"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt vaadet puidust lauale, millel on hoolikalt paigutatud esemed. Keskel on valges keraamilises potis roheline ogaliste lehtedega sukulent. Vasakul pool seisab väike klaaspurk tumeda, pruunika-punaka sisuga, milles on pikk oranž-punane lusikas. Purk võib sisaldada moosi, pasteeti või mingit määret. Paremal pool on virnastatud neli kuni viis taldrikut: pealmine on oranž, selle all olevad on helesinised või hallikassinised. Taldrikute kõrval on mitu lusikat ja pisike puidust orava kuju, mis seisab heledal puidust alusel, millel on kiri. Kogu kompositsioon asetseb ruudulisel, lillemustriga lauamatil. Taust on udune ja hämar, viidates siseruumile, tõenäoliselt elutoale või söögitoale, andes edasi hubase ja koduse meeleolu.",
+      "actions": [
+        "Toitlustuseks ettevalmistamine",
+        "Laua katmine"
+      ],
+      "keywords": [
+        "Kodu",
+        "Laud",
+        "Taim",
+        "Söök",
+        "Siseruum",
+        "Vaike",
+        "Hubane",
+        "Sisustus",
+        "Eluase",
+        "Hommikusöök",
+        "Snäkk"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Sukulent",
+        "Taimepott",
+        "Klaaspurk",
+        "Luuletaja",
+        "Oranž lusikas",
+        "Taldrikud",
+        "Puidust kuju",
+        "Puidust alus",
+        "Lauamatt",
+        "Puidust laud"
+      ],
+      "colorcodes": [
+        "#A0B090",
+        "#F0F0F0",
+        "#502010",
+        "#E85820",
+        "#E68830",
+        "#C8D0D8",
+        "#804020",
+        "#303030"
+      ],
+      "texts": [
+        "Eichhorn"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Väga väikesed erinevused valguse intensiivsuses ja värvitoonides piltide vahel. Teine pilt tundub veidi heledam ja soojema tooniga, eriti puidust laua pinnal ja esemete helenduses."
+      ],
+      "snr": "007",
+      "ajad": [
+        "203.036",
+        "220.262"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort, blondide juustega last (tõenäoliselt poissi) siseruumides, mis meenutab elutuba või puhkenurka. Ruumis on tumedad puidust seinad ja põrandal on rikkaliku mustriga punakaspruun vaip. Valgustus on sume ja soe, viitades õhtusele ajale või hämarale keskkonnale. Laps kannab valget T-särki, millel on mustad varrukad. Ta seisab puidust laua ääres, millel on heledam pind, ja on süvenenud mänguasjadega mängimisse. Tema ees laual on punane lennuk või auto ning sinine väike auto. Laua taga on märgata tumedaid taustaobjekte, sealhulgas televiisor. Mingil hetkel pöörab laps pilgu mänguasjadelt eemale, pöördub veidi kaamera suunas ja toob käed kuklale, kratsides pead, mis annab edasi mõtisklevat või kerget nõutust väljendavat olekut. Laua kõrval põrandal on näha ka rohelist mänguautot koos punase kasti osaga.",
+      "actions": [
+        "Mänguasjadega mängimine",
+        "Mõtisklemine",
+        "Pea kratsimine",
+        "Mänguasjade vaatamine",
+        "Pöördumine"
+      ],
+      "keywords": [
+        "Laps",
+        "Mängimine",
+        "Mänguasjad",
+        "Siseruumid",
+        "Puidust",
+        "Vaip",
+        "Hämar",
+        "Mõtisklev",
+        "Laual",
+        "Blondid juuksed",
+        "Poiss"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Laps",
+        "Mänguasjad (punane lennuk/auto, sinine auto, roheline veoauto)",
+        "Puidust laud",
+        "Puidust seinad",
+        "Mustriline vaip",
+        "Televiisor"
+      ],
+      "colorcodes": [
+        "#F5F5F5",
+        "#222222",
+        "#C84030",
+        "#306080",
+        "#60A040",
+        "#503828",
+        "#804030",
+        "#B8A06B"
+      ],
+      "texts": [],
+      "persons": [
+        "Väike laps (poiss)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Lapse kehahoiak ja tegevus muutuvad: esimesel pildil on laps keskendunud laual olevatele mänguasjadele, käed nende läheduses. Teisel pildil on laps pöördunud veidi eemale ja kratsib pead. See annab edasi mõttepausi või kerge nõutuse.",
+        "Lapse näo suund: esimesel pildil on näha lapse profiili ja ta on suunatud mänguasjade poole. Teisel pildil on lapse tagantvaade ja ta on pööranud pead veidi vasakule, vaadates alla, käsi kuklal."
+      ],
+      "snr": "008",
+      "ajad": [
+        "220.262",
+        "232.858"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab toatingimusi, kus valitseb sume valgus ja kergelt melanhoolne atmosfäär. Esiplaanil on näha helesinine või hallikas tööpind/riiul, millel asetsevad mitmesugused vanamoelised esemed. Nende hulgas on punase-mustatriibulised kootud sokid või papud, dekoratiivne klaaspurk, katkine portselannukk, millel on mõranenud keha ja laiguline nägu, ning väike must alus koos kollaka esemega. Tagapool paistab veel vanamoodne õlilamp. Stseeni keskel on noor tüdruk pikkade heledate, laineliste juustega, seljas hall tähtmotiividega pikkade varrukatega särk, millel võib olla ka multifilmitegelase kujutis. Ta on süvenenud mängu, teeseldes kõnelemist väikese punase mängutelefoniga, hoides seda kõrva juures. Tüdruk seisab puitpõrandal ja taustal on näha ukselävi ning mõned udused mööbliesemed, sealhulgas tume korv. Üldine meeleolu on vaikne, nostalgiline ja pakub kontrasti vanade esemete ning lapse süütu mängu vahel.",
+      "actions": [
+        "Tüdruk mängib telefoniga",
+        "Tüdruk teeskleb kõnelemist",
+        "Tüdruk seisab"
+      ],
+      "keywords": [
+        "Mängiv laps",
+        "Portselannukk",
+        "Mängutelefon",
+        "Vanamoelised esemed",
+        "Sumedad toonid",
+        "Toas",
+        "Lastemäng",
+        "Nostalgia",
+        "Melanhoolia",
+        "Katkine ese",
+        "Triibulised sokid",
+        "Kootud"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mängutelefon (punane)",
+        "Kootud sokid (punane ja must)",
+        "Klaaspurk",
+        "Portselannukk (katkine)",
+        "Väike must alus",
+        "Kollakas ese (aluse peal)",
+        "Õlilamp",
+        "Tööpind/Riiul (helesinine/hall)",
+        "Puitpõrand",
+        "Hall tähtmotiividega särk",
+        "Tume korv"
+      ],
+      "colorcodes": [
+        "#6D5146",
+        "#2D2E32",
+        "#B3C1C7",
+        "#E8E0D7",
+        "#7F7F7F",
+        "#CDA47F",
+        "#A08070",
+        "#CD4B3B"
+      ],
+      "texts": [],
+      "persons": [
+        "Tüdruk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on lähivõte detailidest riiulil, samas kui teine ja kolmas pilt on keskmised võtted noorest tüdrukust.",
+        "Teisel pildil on tüdruk pildistatud tagantvaates ja ta hoiab punast eset käes, kolmandal aga küljelt, kui ta hoiab mängutelefoni kõrva juures, teeseldes kõnelemist."
+      ],
+      "snr": "009",
+      "ajad": [
+        "232.858",
+        "254.254"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab väljastpoolt vaadeldud akent pimedal ajal, mis on jaotatud kuueks ruuduks. Ümberringi on sügav pimedus, mis neelab peaaegu kogu kaadri, jättes akna ainukeseks valguspunkteks. Akna tagant paistab hämaralt valgustatud toa sisemus. Alguses on tuba tühi, näha on vaid rohelist taime, mööbliesemeid ja poti moodi eset. Seejärel ilmub akna alumisse paremasse ruutu väike laps, tüdruk, heledate juuste ja heleda, triibulise pluusiga. Ta vaatab pildist vasakule või otse ette, justkui viibiks ruumis ja jälgiks midagi. Varsti aga kaob tüdruk kaadrist ning tema asemel on näha praokile jäänud ust, mis avab pilgu tumedamasse kõrvalruumi, andes mõista, et tüdruk kas lahkus toast või keegi teine on just sinna sisenenud või sealt väljunud. Toas on näha telliskivilaadset seina, taimepotti rohelise taimega ning alumises vasakus ruudus väikest puidust taburetti või lauda. Ülemises paremas ruudus on näha ümmargust valget eset, tõenäoliselt kaussi. Üldine atmosfäär on vaikne ja intiimne, jälgides elu siseruumides läbi akna pimedas öös.",
+      "actions": [
+        "Aken pakub vaadet siseruumidesse",
+        "Laps ilmub akna taha",
+        "Laps kaob akna tagant",
+        "Uks avaneb või on praokil"
+      ],
+      "keywords": [
+        "Aken",
+        "Öö",
+        "Laps",
+        "Varjud",
+        "Siseruum",
+        "Vaatlus",
+        "Müsteerium",
+        "Kodu",
+        "Vaikus",
+        "Pimedus"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Aken",
+        "Kardinad/rulood",
+        "Pott/kauss",
+        "Taim",
+        "Uks",
+        "Taburett/väike laud",
+        "Telliskivisein"
+      ],
+      "colorcodes": [
+        "#0a0a0a",
+        "#5b4a3a",
+        "#7c6a51",
+        "#4a5246",
+        "#dcdcdb"
+      ],
+      "texts": [],
+      "persons": [
+        "Väike tüdruk"
+      ],
+      "imagetype": "real",
+      "emptypercent": 70,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on aken tühi, näidates vaid toa sisemuse objekte.",
+        "Teisel pildil ilmub alumisse paremasse aknaruutu väike tüdruk.",
+        "Kolmandal pildil kaob tüdruk kaadrist ja alumises paremas aknaruudus on näha praokile jäänud ust."
+      ],
+      "snr": "010",
+      "ajad": [
+        "254.254",
+        "277.152"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab maalähedase interjööriga kööki või söögituba. Esiplaanil on puidust söögilaud ja tool. Esimeses kaadris istub laua taga väike heledate juustega laps, kes näib söövat midagi punastest marjadest (nt moosi) või sellega mängivat. Ta kasutab kahvlit. Laual on taldrik ja purk. Seinal laua kohal ripuvad mitmed erinevad köögiriistad: potid, pannid ja kausid. Seina alumine osa on heledam, ülemine osa kollakasbeež. Laes ripuvad lambid. Vasakpoolses servas on näha tumedat puidust ust ja uksepiita, mille lähedal põrandal lebavad oranži-mustatriibuline mängutiiger. Tagapool, teise ukseava kaudu, paistab veel üks puitseintega ruum. Teises kaadris liiguvad ruumis kaks täiskasvanut: üks neist, seljas tumedat värvi jope ja teksad, liigub vasakult paremale, ning teine, seljas rohekas-kollaste triipudega pluus, on kaadri keskel, varjates suuresti lapse asukoha laua taga. Teine kaader on liikumise tõttu udune. Kolmandas kaadris on laps lauast lahkunud ja tool on tühi, samuti on täiskasvanud kaadrist väljunud, jättes stseeni tühjemaks.",
+      "actions": [
+        "Laps sööb või mängib laua taga toiduga.",
+        "Täiskasvanu liigub läbi kaadri vasakult paremale.",
+        "Teine täiskasvanu seisab või liigub kaadri keskel.",
+        "Laps lahkub lauast."
+      ],
+      "keywords": [
+        "Köök",
+        "Söögiruum",
+        "Maalähedane",
+        "Laps",
+        "Söömine",
+        "Pere",
+        "Siseruum",
+        "Liikumine",
+        "Puidust sisustus",
+        "Argielu"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Puidust söögilaud",
+        "Puidust tool",
+        "Väike laps",
+        "Puidust uks",
+        "Puidust seinad",
+        "Metallist potid",
+        "Metallist pannid",
+        "Metallist kausid",
+        "Riidest kott (rippumas)",
+        "Moosipurk",
+        "Taldrik",
+        "Kahvel",
+        "Mängutiiger",
+        "Täiskasvanud",
+        "Teekann/veekeetja"
+      ],
+      "colorcodes": [
+        "#8B5E3C",
+        "#D4D4B1",
+        "#C0C0C0",
+        "#E0E0E0",
+        "#8B0000",
+        "#7C8B4D",
+        "#B5AA7E",
+        "#4682B4",
+        "#FFA500"
+      ],
+      "texts": [],
+      "persons": [
+        "Väike laps",
+        "Täiskasvanu (tumesinises jopes ja teksades)",
+        "Täiskasvanu (rohekas-kollase triibulise pluusiga)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Pildil 1 istub laps laua taga, samal ajal kui kaadri paremal servas on osaliselt nähtav täiskasvanu.",
+        "Pildil 2 on kaadrisse sisenenud kaks täiskasvanut, kes liiguvad ruumis. Üks neist (triibulises pluusis) on kaadri keskel, varjates suure osa lauast ja lapse asukohast. See pilt on liikumise tõttu udune.",
+        "Pildil 3 on kaader tühjem: laps on lauast lahkunud ja nähtav tool on tühi. Täiskasvanud on samuti kaadrist väljas."
+      ],
+      "snr": "011",
+      "ajad": [
+        "277.152",
+        "287.746"
+      ]
+    },
+    {
+      "explanation": "Stseen algab vaatega läbi vana, kulunud valge puitraamiga akna või ukseava. Raami värv on kohati maha koorunud, andes sellele rustikaalse ilme. Alguses paistab läbi klaasi hämar siseruum, kus aknalaual on valge, kuldse või pronksikarva kaanega purk. Mõne aja pärast siseneb kaadrisse inimene, kes on soojalt riidesse pandud talvisesse jopesse ja kannab erkpunast seljakotti. Inimesel on peas valge-halli mustriga tuttmüts ning käes punased kindad. Stseen liigub edasi, näidates sama inimest nüüd sügavas pimeduses, mis viitab kas väga hämarale siseruumile või õue. Inimene hoiab käes tumedat eset, mis näib olevat valgusallikas (näiteks telefon või taskulamp), valgustades teed ettepoole. Üldine atmosfäär on hämar, talvine ja veidi salapärane.",
+      "actions": [
+        "Akna taga ruumis viibimine",
+        "Akna/ukseava kaudu liikumine",
+        "Valgusallika hoidmine"
+      ],
+      "keywords": [
+        "Aken",
+        "Uks",
+        "Talv",
+        "Pimedus",
+        "Hämarus",
+        "Inimene",
+        "Seljakott",
+        "Tuttmüts",
+        "Kaelarihm",
+        "Kinnas",
+        "Jope",
+        "Purk",
+        "Rustikaalne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoors and potentially outdoors",
+      "objects": [
+        "Valge puitraam",
+        "Aknaklaas",
+        "Valge purk",
+        "Kuldne purgi kaas",
+        "Tume mööbliese",
+        "Talvejope",
+        "Punane seljakott",
+        "Valge-hall tuttmüts",
+        "Punased kindad",
+        "Tume valgusallikas (telefon/taskulamp)"
+      ],
+      "colorcodes": [
+        "#E2E2E2",
+        "#2F0B18",
+        "#8F1B1F",
+        "#C8A56B",
+        "#1C1C1C"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Alguses on aknatagune ruum tühi, seal on vaid purk aknalaual ja tume objekt taustal.",
+        "Seejärel ilmub akna taha inimene koos seljakoti ja talveriietusega, läbides ilmselt ukseava või liikudes mööda vaateväljast.",
+        "Lõpuks on fookus täielikult nihkunud inimesele, kes asub nüüd sügavas pimeduses ja hoiab käes valgusallikat, mis annab stseenile edasise liikumise ja otsingute tunde."
+      ],
+      "snr": "012",
+      "ajad": [
+        "287.746",
+        "313.104"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pilkast pimedust, kus paremas ülemises osas on näha hõõguvat valgusallikat. Esimesel pildil on valgusallikas kõige eredam ja selgemalt eristatav, meenutades abstraktset figuuri – kaks vertikaalset valgusrida, mis võivad olla inimkeha kontuurid, ja keskne heledam täpp, mis võib olla pea- või rinnalamp. Seejärel valgusallikas kaugeneb ja kahaneb pilt-pildilt, muutudes järjest väiksemaks ja tuhmimaks. Viimasel pildil on valgusallikas peaaegu täielikult kadunud, jättes maha vaid vaevu märgatava kuma või on see täielikult kaugusse kadunud. Ümbritsev keskkond on täielikult must, rõhutades valgusallika isolatsiooni ja liikumise dünaamikat pimeduses.",
+      "actions": [
+        "Valgusallikas kaugeneb",
+        "Valgusallikas tuhmub",
+        "Abstraktne figuur liigub"
+      ],
+      "keywords": [
+        "pimedus",
+        "öö",
+        "valgus",
+        "kuma",
+        "kauge",
+        "salapära",
+        "kadumine",
+        "liikumine",
+        "hõõgumine",
+        "abstraktne",
+        "tühjus"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "valgusallikas",
+        "(võimalik) valguskujuline inimfiguur",
+        "(võimalik) pea- või rinnalamp"
+      ],
+      "colorcodes": [
+        "#0A0A0A",
+        "#FFFBE1"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "98",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on valgusallikas kõige eredam ja selgemalt eristatav, meenutades vertikaalseid jooni ja keskset punkti.",
+        "Teisel pildil on valgusallikas muutunud väiksemaks ja tuhmimaks, kaugeneb vaatajast.",
+        "Kolmandal pildil on valgusallikas peaaegu kadunud, jättes endast maha vaid vaevu märgatava virvenduse või on see täielikult kaugusse kadunud."
+      ],
+      "snr": "013",
+      "ajad": [
+        "313.104",
+        "344.928"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab vaadet auto esiklaasist öisele, pimedale ja tühjale maanteele. Esiplaanil on näha auto esiklaasi ülemist serva ja tahavaatepeeglit. Peegli küljest ripub kitsa niidi otsas väike, sarvedega ja veidi kuratlikku ilmet meenutav figuur, mis on piltidel erinevatesse suundadesse õõtsumas. Tagantvaatepeeglis on uduselt näha juhi peegelpilti. Maantee on hallikasvalge, keskelt helendavam ja ulatub kaugele pimedusse, kus on märgata ebamääraseid teemärgiseid ja kohati kahte kauguses paistvat kollakat tuld. Üldine atmosfäär on sünge, salapärane ja veidi kõle, rõhutades öise sõidu üksindust ja potentsiaalset ohtlikkust.",
+      "actions": [
+        "Auto sõidab mööda pimedat maanteed",
+        "Rippuv figuur õõtsub edasi-tagasi",
+        "Juht vaatab teed (peegelpilt näha peeglis)"
+      ],
+      "keywords": [
+        "Öine sõit",
+        "Pime maantee",
+        "Auto interjöör",
+        "Tahavaatepeegel",
+        "Rippuv kuju",
+        "Deemon",
+        "Kõle",
+        "Salapärane",
+        "Üksindus",
+        "Teekond"
+      ],
+      "shot_type": "medium",
+      "placement": "outdoor",
+      "objects": [
+        "Auto",
+        "Esiklaas",
+        "Tahavaatepeegel",
+        "Rippuv figuur (sarvedega tegelane)",
+        "Pime maantee",
+        "Teemärgised",
+        "Kauged tuled (näha ühel pildil)"
+      ],
+      "colorcodes": [
+        "#202020",
+        "#303030",
+        "#6F4A33",
+        "#A08070",
+        "#D9A000",
+        "#A0A0A0"
+      ],
+      "texts": [],
+      "persons": [
+        "Juht (peegelpildis näha)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Rippuva figuuri asend on kaadrite vahel muutuv, mis viitab õõtsumisele või auto liikumisele.",
+        "Kahe kollaka tule olemasolu ja asukoht kauguses varieerub piltide vahel (teisel pildil on need selgelt nähtavad, teistel ebaselgemad või puuduvad), mis annab märku auto edasiliikumisest või teeolude muutumisest."
+      ],
+      "snr": "014",
+      "ajad": [
+        "344.928",
+        "371.705"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab koolibussi teekonda talvisel ööl. Esimestel kaadritel on näha bussi pime interjöör. Üks sisekaader näitab bussi juhti tagantvaates – tegemist on hallide lokkis juustega inimesega, kes kannab prille, valget särki ja tumedat jakki, mis viitab ametlikule või poolametlikule riietusele. Sõiduki sisemus on hämaralt valgustatud, rõhutades väljas valitsevat pimedust. Teine sisekaader keskendub käigukangile ja keskkonsoolile, millele on asetatud hele, tekstuuriga tekk või kangas, ning kus on näha ka rohelist digitaalset ekraani. Kolmas, lai kaader näitab bussi väljastpoolt – see on valge Iveco markeeringuga koolibuss, mille esiosa kaunistab kiri „KOOLIBUSS“ ja jooksvat last kujutav hoiatuskleebis. Bussi esituled ja udutuled valgustavad pimedat, lumist või lörtsist teed, millel sõiduk liigub. Bussi Eesti registreerimismärk on „610 ASY“. Tee vasakul küljel on näha liiklusmärke, mis viitab maapiirkonnale või asulavälisele alale. Üldine meeleolu on pime, külm ja veidi isoleeritud, mis on tüüpiline talvisele öisele reisimisele.",
+      "actions": [
+        "Sõitmine",
+        "Liikumine pimedas",
+        "Bussi juhtimine lumisel teel"
+      ],
+      "keywords": [
+        "Koolibuss",
+        "Iveco",
+        "Öö",
+        "Talv",
+        "Lumi",
+        "Pimedus",
+        "Juht",
+        "Interjöör",
+        "Eksterjöör",
+        "Eesti",
+        "Maantee",
+        "Esituled"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Buss",
+        "Koolibuss",
+        "Juht",
+        "Prillid",
+        "Käigukang",
+        "Keskkonsool",
+        "Tekk",
+        "Digitaalne ekraan",
+        "Esituled",
+        "Udutuled",
+        "Lumi",
+        "Tee",
+        "Liiklusmärgid",
+        "Tahavaatepeegel",
+        "Registreerimismärk",
+        "Särk",
+        "Jakk"
+      ],
+      "colorcodes": [
+        "#333333",
+        "#FFFFFF",
+        "#888888",
+        "#1A1A1A",
+        "#E0E0E0",
+        "#00FF00",
+        "#0000FF",
+        "#FFFF00",
+        "#000000"
+      ],
+      "texts": [
+        "KOOLIBUSS",
+        "IVECO",
+        "610 ASY",
+        "EST",
+        "Jooksvat last kujutav sümbol"
+      ],
+      "persons": [
+        "Bussijuht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50-70",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimene ja teine pilt kujutavad bussi interjööri, kolmas pilt on bussi eksterjöörist.",
+        "Esimene pilt näitab juhti tagantvaates, teine pilt keskendub käigukangile ja keskkonsoolile, kolmas pilt tervet bussi väljastpoolt.",
+        "Kolmas pilt toob selgelt esile talvise aastaaja ja lume, samas kui sisepildid viitavad vaid pimedusele.",
+        "Tekstid 'KOOLIBUSS', 'IVECO' ja registreerimismärk on nähtavad ainult kolmandal pildil."
+      ],
+      "snr": "015",
+      "ajad": [
+        "371.705",
+        "395.437"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset sõiduki, tõenäoliselt bussi või suurema auto, kabiinis öisel või varahommikusel ajal. Vaade on suunatud juhi poole ja läbi esiklaasi eesootavale teele. Sõidukit juhib isik, kelle selga ja osa peast on näha vasakul pool. Juht kannab heledat särki ja karvast halli või valget jakki. Armatuurlaual on näha punakas-oranžilt helendav numbrilaud. Läbi esiklaasi paistab pime, käänuline ja halvas seisukorras tee, mida valgustavad sõiduki esituled. Tee kulgeb läbi metsase või hõreda asustusega maapiirkonna. Tahavaatepeegli küljes ripub väike tumedat värvi ese. Ühel hetkel liigub sõidukis ettepoole teine inimene, kes on kaamerale lähemal ja fookusest väljas, varjates osaliselt vaadet juhile ja teele.",
+      "actions": [
+        "Sõiduki juhtimine",
+        "Sõidukis liikumine"
+      ],
+      "keywords": [
+        "Sõiduk",
+        "Buss",
+        "Öine sõit",
+        "Maantee",
+        "Juht",
+        "Reisija",
+        "Kabiin",
+        "Pime",
+        "Esituled",
+        "Talv"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Sõiduk",
+        "Rool",
+        "Armatuurlaud",
+        "Esiklaas",
+        "Tee",
+        "Puud",
+        "Istmetugi",
+        "Karvane jakk",
+        "Rippuv ese",
+        "Esituled"
+      ],
+      "colorcodes": [
+        "#0B0B0C",
+        "#1E1E20",
+        "#EA572C",
+        "#B0B0B0",
+        "#C0C0C0",
+        "#2A2E35"
+      ],
+      "texts": [],
+      "persons": [
+        "Juht",
+        "Reisija"
+      ],
+      "imagetype": "real",
+      "emptypercent": "60",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Kolmandal pildil on fookuses sõidukis liikuv inimene, kes on kaamerale lähemal ja fookusest väljas, muutes pildi hägusemaks ning varjates vaadet juhile ja teele, mis olid selgemalt nähtavad kahel esimesel pildil.",
+        "Kaks esimest pilti annavad suhteliselt stabiilse vaate juhile ja väliskeskkonnale, samas kui kolmas pilt nihutab rõhu fookusest välja jäänud esiplaanile.",
+        "Kolmandal pildil on üldine valgus ja detailid märgatavalt tumedamad ning vähem eristatavad kui kahel esimesel pildil."
+      ],
+      "snr": "016",
+      "ajad": [
+        "395.437",
+        "465.340"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab vaadet sõiduki esiklaasist välja pimedal ja hämaral ajal. Auto sõidab mööda kitsast, arvatavasti kruusast või mullast metsateed, mida valgustavad esituled. Tee lookleb metsas, mille puud on raagus, viidates hilissügisele või talvele. Sõiduki salongis on näha armatuuri, tahavaatepeeglit ja sealt rippuvat õhuvärskendajat. Teises kaadris ilmub kaadrisse kapuutsiga inimene, kelle seljas on tume pusa kollakas-oranžide triipudega varrukatel. See inimene liigub üle kaadri, tekitades dünaamika ja liikumise tunde pimedas ja vaikses keskkonnas. Üldine atmosfäär on vaikne, veidi kõle ja sügavalt pime, esiletõstes sõiduki esitulede tekitatud kitsast valgusvihku.",
+      "actions": [
+        "Sõiduk liigub mööda metsateed",
+        "Inimene liigub läbi kaadri"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Öö",
+        "Metsatee",
+        "Auto",
+        "Sõit",
+        "Kapuutsiga inimene",
+        "Esituled",
+        "Raagus puud",
+        "Maantee",
+        "Hämarus"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Sõiduki esiklaas",
+        "Armatuurlaud",
+        "Tahavaatepeegel",
+        "Õhuvärskendaja",
+        "Metsatee",
+        "Puud",
+        "Esituled",
+        "Pusa",
+        "Kapuuts"
+      ],
+      "colorcodes": [
+        "#1c1c1c",
+        "#2a3744",
+        "#d1d1d1",
+        "#cf9b2a",
+        "#3a4d5e"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene kapuutsiga"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "autumn",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on kaader tühi, näidates vaid teed ja ümbrust.",
+        "Teisel pildil ilmub kaadrisse kapuutsiga inimene, kes on keskel ja liigub üle kaadri.",
+        "Kolmandal pildil on inimene liikunud kaadri paremasse serva või on juba kaadrist väljumas, taustal on taas paremini näha metsatee."
+      ],
+      "snr": "017",
+      "ajad": [
+        "465.340",
+        "495.787"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pimedat siseruumi, mis näib olevat ühissõiduk – tõenäoliselt buss või rong – öösel või väga hämaral ajal. Sõiduki sisemuses domineerivad tumedad toonid, esiplaanil on heledad metallist käepidemed või postid ning kauguses on näha sinakaid tulesid. Vasakul on valge silt, millel on kirjas \"ISTEKOHTI 18+1\" ja \"SEISUKOHTI\". Stseenis on näha ka inimest, kes istub või seisab seljaga kaamera poole. Ta kannab erksavärvilist, sinist, punase ja valge mustriga talvemütsi ning ruudulist särki või jakki, vihjates jahedale ilmale. Üks stseeni osa on ka äärmiselt udune lähivõte, kus on näha heledaid pruunikaid ja beeže toone, mis võivad viidata kellegi riietusele või kehaosale. Üldmulje on pime, jahe ja vaikne.",
+      "actions": [
+        "Reisimine ühissõidukis",
+        "Vaatamine eemale"
+      ],
+      "keywords": [
+        "Öö",
+        "Pime",
+        "Ühissõiduk",
+        "Sõiduk",
+        "Interjöör",
+        "Talvemüts",
+        "Ruuduline riietus",
+        "Jahe",
+        "Passiivne",
+        "Käepide"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Metallist käepide",
+        "Metallist post",
+        "Talvemüts (beanie)",
+        "Ruuduline särk",
+        "Silt",
+        "Tume objekt (ekraan?)",
+        "Sinakad tuled"
+      ],
+      "colorcodes": [
+        "#1A1A1A",
+        "#8C8C8C",
+        "#333366",
+        "#4682B4",
+        "#B22222",
+        "#FFFFFF",
+        "#A0522D",
+        "#D2B48C"
+      ],
+      "texts": [
+        "ISTEKOHTI 18+1",
+        "SEISUKOHTI"
+      ],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt näitab laiemat kaadrit sõiduki sisemusest ilma inimeseta, keskendudes metallist detailidele ja siltidele, mille tekst on algselt osaliselt ähmane.",
+        "Teine pilt toob fookusesse inimese, kes kannab talvemütsi ja ruudulist riietust, ning sildi tekst on selgelt loetav. Kaader on inimesele lähemal.",
+        "Kolmas pilt on äärmiselt udune lähivõte, mis näib olevat kellegi riietusest või kehaosast, ja sellest puuduvad selged detailsed objektid või tekstid."
+      ],
+      "snr": "018",
+      "ajad": [
+        "495.787",
+        "499.582"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab inimese sisenemist või liikumist pimedas sõidukis. Esimesel hetkel on kaader laiem, näidates sõiduki salongi detaili – uksepiilarit ja läbi küljepeegli ähmast öist maastikku. Väljaspool on näha tumedat ja udust keskkonda, mis viitab hilisõhtule või öisele ajale. Seejärel ilmub kaadrisse tume riietuses inimene, keda näeme selja tagant või küljelt. Tal on seljas tume jope, millel on märgatav erk kollakasroheline detail, mis võib olla osa kapuutsist, varrukast või seljakotist. Viimases kaadris on fookus nihkunud ja suurendus kasvanud, tuues esile inimese kollakasrohelise riietuse detaili, samas kui ülejäänud taust on muutunud täiesti ähmasaks ja tumedaks. Stseen edastab liikumist ja sihipärasust pimedas keskkonnas.",
+      "actions": [
+        "Inimese sisenemine sõidukisse",
+        "Inimese liikumine sõiduki sisemuses",
+        "Fookuse nihkumine ja kaadri suurendamine"
+      ],
+      "keywords": [
+        "Öö",
+        "Sõiduk",
+        "Sissemurdmine",
+        "Liikumine",
+        "Pimedus",
+        "Kapuutsiga isik",
+        "Turvalisus",
+        "Detailid",
+        "Varustus",
+        "Transport"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Sõiduk",
+        "Uksepiilar",
+        "Küljepeegel",
+        "Inimene",
+        "Jope",
+        "Kapuuts",
+        "Kollakasroheline riietuse detail",
+        "Käsi",
+        "Seljakott (võimalik)"
+      ],
+      "colorcodes": [
+        "#12151B",
+        "#0C0F16",
+        "#343743",
+        "#8F9292",
+        "#C0C1C1",
+        "#B0CB42",
+        "#DFE65C"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Erinevates kaadrites ilmub inimene järjest selgemalt pildile ja liigub sügavamale sõidukisse.",
+        "Kaadri fookus ja suurendus muutuvad, liikudes sõiduki sisemuselt inimese riietuse detailidele.",
+        "Taust muutub järjest ähmasemaks ja vähem nähtavaks, kuna fookus on suunatud lähematele objektidele."
+      ],
+      "snr": "019",
+      "ajad": [
+        "499.582",
+        "503.420"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast tagantvaates inimest, kes kannab talvist kootud mütsi suure pom-pomiga ja paksu jopet. Inimesel on pikad, heledad juuksed, mis ulatuvad mütsi alt välja ja langevad üle õlgade. Müts on helehall või valge, kaunistatud tumedama halli hirve- või põdramustriga. Taust on tume ja ühtlane, peegeldades kergelt mütsi ja pea siluetti, mis annab aimu aknast või läikivast pinnast. Üldine atmosfäär on vaikne ja talvine, vihjates jahedale temperatuurile.",
+      "actions": [
+        "Inimene seisab või istub paigal, vaadates eemale"
+      ],
+      "keywords": [
+        "Talv",
+        "müts",
+        "pom-pom",
+        "kootud",
+        "hirvemuster",
+        "selg",
+        "peegeldus",
+        "jahe",
+        "hubane",
+        "paksud riided",
+        "tume taust"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "müts",
+        "pom-pom",
+        "juuksed",
+        "jope",
+        "aken",
+        "peegeldus"
+      ],
+      "colorcodes": [
+        "#DCDCDC",
+        "#8B8B8B",
+        "#AFAFAF",
+        "#8B4545",
+        "#C1A273",
+        "#2F3F5F"
+      ],
+      "texts": [],
+      "persons": [
+        "inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "evening",
+      "differences": [
+        "Kaadrite vahel on märgata väga väikest, peaaegu tajumatut nihkumist kaameranurgas või fookuses, mis annab edasi kerge liikumise mulje.",
+        "Tausta peegeldus muutub kaadrite jooksul marginaalselt, muutudes veidi selgemaks või asukoht nihkub.",
+        "Üldine heledus ja kontrast taustal võib kaadrite vahel kergelt varieeruda."
+      ],
+      "snr": "020",
+      "ajad": [
+        "503.420",
+        "508.383"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud vanemat meest profiilis, kes vaatab paremale (vaataja vasakule). Mehel on peas lühikesed juuksed, ta kannab prille ning helesinist särki, mille peal on tume jope või mantel, millel on lai valge krae või sall. Tema nägu on mõtlik ja rahulik. Taust on udune ja tume, jättes mulje, nagu vaataks mees aknast välja kuskil hämaras keskkonnas, mis võib olla talvine maastik või udune linnavaade. Üldine valgus on summutatud ja jahe, mis annab stseenile melanhoolse või kontemplatiivse tunde. Pildid on tehtud sarnase nurga alt, kus kaamera on keskendunud mehe ülakehale ja peale. Värvitoonid on jahedad ja tumedad, domineerivad sinised, hallid ja mustad toonid, millele lisandub heleda krae ja särgi kontrast.",
+      "actions": [
+        "Välja vaatamine",
+        "Istumine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Vanem mees",
+        "Portree",
+        "Profiil",
+        "Prillid",
+        "Hämarus",
+        "Talv",
+        "Mõtlik",
+        "Jahe toon",
+        "Sisemine rahu"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Prillid",
+        "Särk",
+        "Jope",
+        "Krae",
+        "Sall"
+      ],
+      "colorcodes": [
+        "#4B5360",
+        "#A8C8D8",
+        "#FFFFFF",
+        "#2A3036"
+      ],
+      "texts": [],
+      "persons": [
+        "Vanem mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "winter",
+      "daytime": "evening",
+      "differences": [
+        "Kaamera nurk ja suum erinevad pisut kaadrite vahel, pakkudes veidi erinevat fookust mehe näole ja profiilile.",
+        "Esimene kaader on pisut laiem, näidates rohkem kukalt ja õlga, samas kui järgmised kaadrid on pisut sisse suumitud, keskendudes rohkem mehe näole ja prillidele."
+      ],
+      "snr": "021",
+      "ajad": [
+        "508.383",
+        "520.145"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noort tüdrukut, kes kannab halli-valget kootud mütsi loomamustriga, mis meenutab põdraid või hirvi, ja valget kootud salli. Tema juuksed on helepruunid ja langevad üle õlgade. Tüdruk vaatab paremale, näides mõtlik või veidi kurb. Ta asub ilmselt autos või mõnes muus pimedas siseruumis, arvestades hämarat valgustust, mis langeb peamiselt tema näole ja mütsile. Üldine atmosfäär on vaikne ja intiimne. Kaadrid algavad mütsist, mis on veidi udune, ja liiguvad seejärel selgemale vaatele tüdruku näole, mis näitab tema profiili.",
+      "actions": [
+        "vaatamine",
+        "istumine"
+      ],
+      "keywords": [
+        "tüdruk",
+        "müts",
+        "sall",
+        "talvevarustus",
+        "pimedus",
+        "kootud",
+        "loomamuster",
+        "kontemplatiivne"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "kootud müts",
+        "kootud sall",
+        "juuksed",
+        "riided",
+        "põdramuster"
+      ],
+      "colorcodes": [
+        "#1f1f1f",
+        "#b3b3b3",
+        "#5a5a5a",
+        "#e1b499",
+        "#ab6a39",
+        "#f1f1f1",
+        "#2f2f3f",
+        "#6a2a2a"
+      ],
+      "texts": [],
+      "persons": [
+        "noor tüdruk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt on hägusem ja näitab ainult osa mütsist ning punaka varjundiga kangatükki, kuid mitte selgelt inimest.",
+        "Teine ja kolmas pilt näitavad tüdruku nägu, kusjuures kolmas pilt on teise pildiga võrreldes veidi lähem ja selgem kaader tüdruku näost ja mütsist. Teravus paraneb esimeselt pildilt viimasele."
+      ],
+      "snr": "022",
+      "ajad": [
+        "520.145",
+        "540.790"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset sõiduki, tõenäoliselt bussi või suurema auto sees, mis reisib läbi pimeda ja lumise maastiku. Salong on hämaralt valgustatud ning aknast paistab välja lumine teeäär. Mitmed lapsed või noored istuvad istmetel, olles riietatud soojalt talvistesse ülerõivastesse, sealhulgas mütsidesse, kapuutsidesse ja sallidesse. Nende näoilmed on tõsised ja mõtlikud, pilgud suunatud ette või allapoole. Bussi istmed on kaetud tumesinise kangaga, millel on abstraktne muster oranžides, kollastes ja helesinistes toonides. Ühes kaadris on näha ka sõiduki rool ja osa juhi käest, samuti armatuurlaud põlevate punaste ja roheliste tuledega, mis kinnitab, et sõiduk on liikumises.",
+      "actions": [
+        "Reisimine bussis",
+        "Sõitmine",
+        "Istumine",
+        "Vaatamine ette",
+        "Vaatamine aknast välja"
+      ],
+      "keywords": [
+        "Buss",
+        "Talv",
+        "Lapsed",
+        "Noored",
+        "Pimedus",
+        "Reis",
+        "Sõiduk",
+        "Lumi",
+        "Mütsid",
+        "Joped",
+        "Mõtlikkus",
+        "Salong"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Inimesed",
+        "Buss",
+        "Istmed",
+        "Mütsid",
+        "Joped",
+        "Sallid",
+        "Rool",
+        "Armatuurlaud",
+        "Aken",
+        "Lumi"
+      ],
+      "colorcodes": [
+        "#2E3C4C",
+        "#E03E3E",
+        "#A0D0E0",
+        "#5C3C2C",
+        "#E8F0F8",
+        "#FF0000",
+        "#00FF00"
+      ],
+      "texts": [],
+      "persons": [
+        "Lapsed",
+        "Noorukid",
+        "Juht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimene ja teine pilt on sarnased, näidates bussis istuvaid lapsi ja noori, kergete kaadri positsiooni või fookuse muutustega.",
+        "Kolmas pilt näitab sõiduki juhi ala, rooli ja armatuurlauda, mis puudub kahel esimesel pildil. See muudab vaatepunkti reisijatelt juhile."
+      ],
+      "snr": "023",
+      "ajad": [
+        "540.790",
+        "560.268"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab keskealist või vanemat meest, kes istub tõenäoliselt sõidukis ja vaatab välja aknast. Mees on profiilis, näoga vasakule, kandes prille. Tal on seljas hele, kraega särk ja tumedast materjalist jope või mantel. Tema näoilme on mõtlik või vaatlev. Tagaplaanilt on näha udust ja lumist maastikku, mis viitab talvele ja sõiduki liikumisele. Näha on valgustatud objekte (tõenäoliselt tänavavalgustus) kauguses ning üldine valgus on pehme ja hajutatud, vihjates pilvisele päevale. Tema taga on näha tumedat peatoe-laadset objekti.",
+      "actions": [
+        "Vaatamine aknast välja",
+        "Sõitmine/reisimine (kaudne)"
+      ],
+      "keywords": [
+        "Mees",
+        "Prillid",
+        "Talv",
+        "Sõiduk",
+        "Mõtlik",
+        "Reis",
+        "Lumi",
+        "Pilvine päev",
+        "Profiil"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Prillid",
+        "Särk",
+        "Jakk/Mantel",
+        "Sõiduki iste/peaaken",
+        "Aken",
+        "Lumi (tagaplaanil)",
+        "Udune maastik"
+      ],
+      "colorcodes": [
+        "#2E3034",
+        "#A4C0CC",
+        "#6D5C59",
+        "#A99064",
+        "#C3C5C7"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimene kaader on pisut laiem, näidates rohkem mehe selga ja peatoe-laadset objekti tema taga. Teine ja kolmas kaader on veidi lähemal, keskendudes rohkem mehe profiilile ja näole ning aknast paistvale vaatele.",
+        "Kaamera asend muutub veidi, liikudes esimesest kaadrist, kus mees on rohkem seljaga, järgmiste kaadrite poole, kus tema nägu ja pilk on selgemalt nähtavad.",
+        "Taust läbi akna muutub veidi, peegeldades nii kaamera asendi muutust kui ka võimalikku sõiduki liikumist."
+      ],
+      "snr": "024",
+      "ajad": [
+        "560.268",
+        "578.578"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab talvist hommikut või päevaaega lumises pargis, kus valge koolibuss on peatanud tee ääres hoone sissepääsu juures. Bussil on kiri \"KOOLIBUSS\" ja see on Iveco mudel. Lapsed, riietatud soojalt talvevarustusse ja kandes seljakotte, väljuvad bussist ja kõnnivad mööda lumist rada hoone kivist treppide poole, mis viivad kaetud sissepääsuni. Taustal on näha palju paljaid puid ja igihaljaid, kergelt lumega kaetud puid, mis annavad edasi külma ja karge talveilma. Bussi lähedal asub jalgrattahoidja kahe jalgrattaga. Bussijuht on bussi esiistmel nähtav ja bussi uks avaneb ja sulgub laste väljumise ajal. Lõpuks on kõik lapsed bussist väljunud ja liikumas sissepääsu poole, samal ajal kui buss valmistub lahkuma.",
+      "actions": [
+        "Koolibussi saabumine ja parkimine",
+        "Laste bussist väljumine",
+        "Laste kõndimine treppide suunas",
+        "Bussi ukse avamine ja sulgemine",
+        "Bussi lahkumine"
+      ],
+      "keywords": [
+        "Talv",
+        "Lumi",
+        "Koolibuss",
+        "Lapsed",
+        "Park",
+        "Väljas",
+        "Transport",
+        "Saabumine",
+        "Lahkumine",
+        "Külm",
+        "Karge"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Valge koolibuss (Iveco väikebuss)",
+        "Lumi",
+        "Puud (paljad ja igihaljad)",
+        "Kivist trepid",
+        "Varikatus/sissepääs",
+        "Jalgrattad",
+        "Jalgrattahoidja",
+        "Seljakotid",
+        "Lapsed",
+        "Talveriided"
+      ],
+      "colorcodes": [
+        "#F8F8F8",
+        "#A0A0A0",
+        "#304030",
+        "#000000",
+        "#C82020",
+        "#60A060",
+        "#E0E0E0"
+      ],
+      "texts": [
+        "KOOLIBUSS",
+        "IVECO",
+        "610 ASY",
+        "KALEV",
+        "Tel. 518 68 663",
+        "Ratastooli sümbol"
+      ],
+      "persons": [
+        "Lapsed (mitu)",
+        "Bussijuht"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "day",
+      "differences": [
+        "Esimesel kaadril on bussi uks suletud ja lapsed on veel bussi sees või pole veel väljuma hakanud, buss on just peatunud.",
+        "Teisel kaadril on bussi esiuks avatud ja lapsed on hakanud bussist väljuma, üks laps on astumas bussist välja ja teised liiguvad juba treppide poole. Bussi avatud uksel on selgelt näha telefoninumber \"Tel. 518 68 663\".",
+        "Kolmandal kaadril on enamik lapsi juba treppidel või nende lähedal ja bussi uks on suletud või sulgumas. Buss on valmis lahkuma või on just alustanud liikumist, rattad on veidi pööratud."
+      ],
+      "snr": "025",
+      "ajad": [
+        "578.578",
+        "586.711"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab laia vaadet elegantsele ja sümmeetrilisele mõisahoonele või häärberile ja seda ümbritsevale maastikule. Hoone on heledates toonides (valge või helehall) ja koosneb kesksektsioonist ning kahest madalamast tiivast, mis ulatuvad mõlemale poole. Keskosa on kõrgem ja sellel on mitu akent ning rõdu või kaetud sissepääs. Akendest kumab nõrk valgus. Hoone ees, otse kesksektsiooni vastas, seisavad kaks suurt tumedat okaspuud. Muruplats hoone ees on kaetud kuivanud pruunikate ja kollakate lehtedega, kohati on näha hõredat rohelist muru ja väikeseid härmatise laike. Taustal ja hoone külgedel on näha paljaid lehtpuid, paremal servas kõrgub veel üks suur okaspuu. Taevas on ühtlaselt pilves ja hall. Üldine atmosfäär on jahe, rahulik ja veidi melanhoolne. Stseen vahetub valgusoludelt, minnes esimese pildi hämarast päevavalgusest teise pildi peaaegu täieliku pimeduse suunas, kus hoone ja puude siluetid on vaevu aimatavad.",
+      "actions": [],
+      "keywords": [
+        "Mõisahoone",
+        "Häärber",
+        "Talv",
+        "Hilissügis",
+        "Maastik",
+        "Loodus",
+        "Hoone",
+        "Puud",
+        "Külm",
+        "Hämar",
+        "Pimedus",
+        "Valgustus",
+        "Arhitektuur",
+        "Okaspuud",
+        "Lehed"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Mõisahoone",
+        "Okaspuud",
+        "Lehtpuud",
+        "Muruplats",
+        "Lehed",
+        "Aknad",
+        "Rõdu"
+      ],
+      "colorcodes": [
+        "#D8D8D8",
+        "#A0A9B0",
+        "#6B6F5F",
+        "#8F7F6B",
+        "#3D443B",
+        "#141414"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "20",
+      "season": "winter",
+      "daytime": "day/night",
+      "differences": [
+        "Peamine erinevus piltide vahel on valgustus. Esimene pilt näitab stseeni hämaras päevavalguses, kus hoone ja maastiku detailid on selgelt nähtavad, samas kui teine pilt on peaaegu täiesti pime, jättes vaid hoone ja puude siluetid vaevu aimatavaks. See viitab kas öisele ajale või olulisele valguse vähenemisele kaadrite vahel, mis loob drastilise kontrasti stseeni toonile ja nähtavusele."
+      ],
+      "snr": "026",
+      "ajad": [
+        "586.711",
+        "604.938"
+      ]
+    },
+    {
+      "explanation": "Stseen algab täiesti musta ekraaniga, mis läheb sujuvalt üle mustale taustale valge tekstiga tiitrite kuvamiseks. Tiitrites on välja toodud filmi või projekti loojad ja nende rollid, sealhulgas stsenarist, režissöör, operaator ja helimeeskond. Nimed 'HÕBE ILUS', 'RŪTA PAKALNE' ja 'ROBERT RUBEN' on seotud vastavate rollidega. Tekst on paigutatud ekraani keskele ja on selge loetava kirjastiiliga. Pärast tiitrite kuvamist muutub ekraan uuesti täiesti mustaks, viies stseeni lõpule.",
+      "actions": [
+        "Teksti kuvamine",
+        "Tiitrite kerimine"
+      ],
+      "keywords": [
+        "Tiitrid",
+        "Lõputiitrid",
+        "Filmikrediidid",
+        "Must taust",
+        "Valge tekst",
+        "Režissöör",
+        "Stsenarist",
+        "Operaator",
+        "Helirežissöör",
+        "Looja"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Script",
+        "HÕBE ILUS",
+        "Director",
+        "HÕBE ILUS",
+        "Cinematography",
+        "HÕBE ILUS",
+        "Sound",
+        "RŪTA PAKALNE",
+        "HÕBE ILUS",
+        "ROBERT RUBEN"
+      ],
+      "persons": [
+        "Hõbe Ilus",
+        "Rūta Pakalne",
+        "Robert Ruben"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "95",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene ja kolmas pilt on täiesti mustad, ilma igasuguse sisuta.",
+        "Teisel pildil on mustal taustal valge tekstina kuvatud filmi tiitrid, mis loetlevad rolle ja nimesid."
+      ],
+      "snr": "027",
+      "ajad": [
+        "604.938",
+        "633.591"
+      ]
+    }
+  ]
+}

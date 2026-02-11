@@ -1,0 +1,1025 @@
+{
+  "film": [
+    "20564",
+    "20410",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Emme",
+    "a9bc6bf69f74c21bbb7f65712b1a31bd287d4a3a.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab linna- või äärelinnamaastikku, kus pildi alaservas domineerivad massiivsed, mitmekorruselised betoonhooned ja ülemist osa täidab avar taevas. Taevas on prominentselt esiplaanil suurte tähtedega kirjutatud sõna \"EMME\". See stseen esineb kahes kontrastses valguses: ühel juhul hämarana ja tumedates toonides, mis viitab öisele ajale või videvikule, kus hooned on peaaegu siluetid ja sõna \"EMME\" on helehall, kumav ja poolläbipaistev. Teisel juhul on stseen hele ja selge, vihjates päevasele ajale, kus hooned on hallid ja detailsed, sõna \"EMME\" on erkpunane ja kindel, lisaks on taevas näha lendavat lindu ning ekraani alaosas subtiiter \"Mommy\". Pildi vasakul äärel on mõlemal juhul näha paljaid puuoksi.",
+      "actions": [
+        "Lind lendab taevas"
+      ],
+      "keywords": [
+        "Linnamaastik",
+        "hooned",
+        "taevas",
+        "sõna",
+        "kontrast",
+        "päev",
+        "öö",
+        "emotsioon",
+        "ootus",
+        "lapsepõlv",
+        "minimalistlik",
+        "atmosfäär"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Hoone(d)",
+        "taevas",
+        "puuoksad",
+        "lind",
+        "aknad"
+      ],
+      "colorcodes": [
+        "#2b2e32",
+        "#b4b4b4",
+        "#1f1f1f",
+        "#e9f5fd",
+        "#db5a51",
+        "#8e9499",
+        "#ffffff"
+      ],
+      "texts": [
+        "EMME",
+        "Mommy"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "winter",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt on hämar ja tumedates toonides (öine või videvik), samas kui teine pilt on hele ja päikeseline (päevane).",
+        "Sõna \"EMME\" on esimesel pildil helehall ja kumav/läbipaistev, teisel pildil aga erkpunane ja selge ning paksema joonega.",
+        "Teisel pildil on näha lendav lind ja subtiiter \"Mommy\", mis esimesel puuduvad.",
+        "Hooned ja taevas on erinevate värvitoonidega, mis peegeldavad erinevat valgustust ja atmosfääri."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "7.560"
+      ]
+    },
+    {
+      "explanation": "Stseenil on fookuses üks täiskasvanud kärbes, mis on paigutatud kaadri keskossa ja istub heledal, siledal pinnal, mis näib olevat valge või väga hele hall sein või lagi. Kärbse tumedast kehast ja läbipaistvatest tiibadest moodustub pinnal selge vari. Vasakul pool on näha udune, vertikaalselt langev hele riie, tõenäoliselt kardin, mis annab aimu siseruumist ja toob esile vertikaalse rütmi. Pildi paremas alanurgas on tume, samuti udune joon, mis viitab mingile ehituslikule elemendile nagu aknaraam või uksepiit. Valgus on pehme ja ühtlane, mis viitab päevavalgusele, aga puuduvad otsesed päikesevalguse märgid. Üldmulje on rahulik ja detailne, keskendudes putukale ja selle vahetule keskkonnale.",
+      "actions": [
+        "kärbes istub pinnal"
+      ],
+      "keywords": [
+        "kärbes",
+        "putukas",
+        "sein",
+        "lagi",
+        "kardin",
+        "vari",
+        "siseruum",
+        "hele pind"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "kärbes",
+        "sein",
+        "lagi",
+        "kardin",
+        "riie"
+      ],
+      "colorcodes": [
+        "#C8CED7",
+        "#C4C6D1",
+        "#C0C1C7",
+        "#3E3E45",
+        "#2F333B"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 85,
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Väikesed muutused kärbse tiibade asendis ja nende tekitatud varjudes pinnal"
+      ],
+      "snr": "002",
+      "ajad": [
+        "7.560",
+        "14.600"
+      ]
+    },
+    {
+      "explanation": "Stseen keskendub rohelisele mängusõdurile, mis seisab valgel paberilehel, mis omakorda asetseb tumedal puidust pinnal. Sõdur on klassikalises laadimise või tulistamise poosis, tüüpiline plastist mänguarmee meestele. Sõduri taga on vana, metallvarbadega puur, mis näib olevat linnupuur. Puuri puidust alus on hele ja kulunud. Puuri sees on näha kokku kortsutatud paberit või muud prahti, mis annab edasi mahajäetud või unustatud eseme tunde. Taust on udune, vihjates siseruumile, kuid ei paku konkreetseid detaile. Üldine õhkkond on vaikne ja veidi melanhoolne.",
+      "actions": [],
+      "keywords": [
+        "mängusõdur",
+        "roheline",
+        "puur",
+        "linnupuur",
+        "vanamoodne",
+        "nostalgia",
+        "siseruum",
+        "puit",
+        "paber",
+        "miniatuur",
+        "mänguasi",
+        "vaikus",
+        "praht",
+        "kulunud",
+        "objektivaade"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "mängusõdur",
+        "linnupuur",
+        "puuri metallvardad",
+        "puuri puidust alus",
+        "paberileht",
+        "puidust laud",
+        "kokkukortsutatud paber (puuris)"
+      ],
+      "colorcodes": [
+        "#4C9E51",
+        "#C8B9A0",
+        "#4A3222",
+        "#F0F0F0",
+        "#6C6C6C"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Piltide vahel puuduvad erinevused."
+      ],
+      "snr": "003",
+      "ajad": [
+        "14.600",
+        "18.000"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab valgele seinale kinnitatud mitut lastejoonistust. Kesksel ja kõige detailsemal joonistusel on näha hirmunud inimfiguur, kes seisab vasakul ja osutab paremal asuvale majale. Maja on haaratud või rünnatud suure, hirmuäratava koletise poolt, millel on teravad hambad ja sakilised servad, andes edasi ähvardava oleku. Koletis tundub olevat maja peal või seda ümbritsemas, justkui neelaks see endasse. Vasakul äärel on osaliselt nähtav lihtsam, pulgakujuline figuuri joonistus ja paremal all on näha tumedamate kritseldustega paberitükk, mis võib samuti olla osa joonistusest. Kõik joonistused on tehtud pliiatsiga heledale paberile ja kinnitatud seinale pruuni paberteibiga. Taust on ühtlaselt hele, tõenäoliselt valge sein.",
+      "actions": [
+        "Osutamine (joonistatud inimfiguuri poolt)",
+        "Ründamine (joonistatud koletise poolt)"
+      ],
+      "keywords": [
+        "lastejoonistus",
+        "sein",
+        "koletis",
+        "maja",
+        "inimfiguur",
+        "hirm",
+        "teip",
+        "pliiatsijoonistus",
+        "kunst",
+        "ohvrikujutis"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "joonistus",
+        "paber",
+        "teip",
+        "sein",
+        "maja (joonistatud)",
+        "koletis (joonistatud)",
+        "inimfiguur (joonistatud)"
+      ],
+      "colorcodes": [
+        "#F8F8F8",
+        "#A57C5B",
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [
+        "inimfiguur (joonistatud)"
+      ],
+      "imagetype": "drawing",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "004",
+      "ajad": [
+        "18.000",
+        "21.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lähedalt vaadet lauapinnale, mis on kaetud söögijäätmete ja muu segadusega. Kesksel kohal on valge ümar taldrik, millel on näha söödud toidu jäänuseid: ilmselt lehttaigna helbeid, mingit heledat liha või tuunikala ja suurt punase kastme (ketšupi) pleki. Taldrikul asetseb hõbedane kahvel, millel on valge käepide. Ümber taldriku ja taustal on lauapind kaetud mitmesuguste esemetega, nagu kortsus foolium, paberijäägid, teritatud hall pliiats, ajalehe või ajakirja fragmendid ning muud tuvastamata esemed, luues üldise mulje hiljuti lõppenud toidukorrast ja korratust keskkonnast. Vasakus alanurgas on näha läbipaistva klaasi serva.",
+      "actions": [
+        "Söömine (kaudne)"
+      ],
+      "keywords": [
+        "Söögijäätmed",
+        "Taldrik",
+        "Kahvel",
+        "Ketšup",
+        "Segadus",
+        "Lauapind",
+        "Korratus",
+        "Valge taldrik",
+        "Lehttaigen",
+        "Pliiats"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Taldrik",
+        "Kahvel",
+        "Söögijäätmed (lehttaigen, liha/tuunikala, ketšup)",
+        "Lauapind",
+        "Paberijäägid",
+        "Foolium",
+        "Pliiats",
+        "Ajakirja/ajalehe fragmendid",
+        "Klaas"
+      ],
+      "colorcodes": [
+        "#F2F2F2",
+        "#C03C3C",
+        "#9E9E9E",
+        "#DEDEDE"
+      ],
+      "texts": [
+        "TAHAKS"
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Erinevused puuduvad."
+      ],
+      "snr": "005",
+      "ajad": [
+        "21.400",
+        "24.800"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõttes inimese käsi, kes tegeleb joonistamisega. Peamine fookus on paremal käel, mis hoiab musta markervärvi ja teeb paberi peale musti joonistusi. Joonistus kujutab osaliselt tumedalt täidetud näo või tegelase piirjooni. Vasak käsi, mis on samuti nähtav, on veidi uduses tagaplaanil, justkui toetaks paberit või tegeleks muu seotud tegevusega. Isik kannab siniseid pikki varrukaid, mille all on näha valge särgi varrukas. Stseeni valgus on pehme ja summutatud, luues rahuliku ja keskendunud atmosfääri. Tagaplaan on udune, vihjates sisetingimustele mööbli või muude objektidega.",
+      "actions": [
+        "Joonistamine",
+        "Markeri hoidmine",
+        "Paberi toetamine"
+      ],
+      "keywords": [
+        "Joonistamine",
+        "Kunst",
+        "Käed",
+        "Paber",
+        "Marker",
+        "Looming",
+        "Hobi",
+        "Sisetöö",
+        "Keskendumine"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Käed",
+        "Marker",
+        "Paberilehed",
+        "Joonistus",
+        "Sinise pusa/kampsuni varrukas",
+        "Valge pika varrukaga särk"
+      ],
+      "colorcodes": [
+        "#4E7DA1",
+        "#E0E0E0",
+        "#202020",
+        "#403C3D"
+      ],
+      "texts": [],
+      "persons": [
+        "Üks inimene"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0-10",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Puuduvad erinevused"
+      ],
+      "snr": "006",
+      "ajad": [
+        "24.800",
+        "28.200"
+      ]
+    },
+    {
+      "explanation": "Pildid kujutavad lähivõtet noorest poisist, kes vaatab pingsalt allapoole. Tema nägu on tõsine ja silmad on veidi suletud, mis annab talle mõtliku, sügava või isegi kurva ilme. Tal on hele nahatoon ja heledad juuksed. Poiss kannab sinist T-särki, mis täidab pildi alaosa. Tema silmade all on märgata kergeid tumedaid varje, mis võivad viidata väsimusele või unetusele. Taust on udune ja helehallikasvalge, mis annab aimu siseruumist. Üldine meeleolu on vaikne, introspektiivne ja pisut melanhoolne.",
+      "actions": [
+        "allapoole vaatamine",
+        "keskendumine",
+        "mõtisklemine"
+      ],
+      "keywords": [
+        "poiss",
+        "laps",
+        "noor",
+        "mõtlik",
+        "kurb",
+        "väsinud",
+        "keskendunud",
+        "siseruum",
+        "portree",
+        "lähivõte",
+        "melanhoolne"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "poiss",
+        "T-särk"
+      ],
+      "colorcodes": [
+        "#d1c1b3",
+        "#4a6c9d",
+        "#b2a893",
+        "#e0e0e0",
+        "#8c787a"
+      ],
+      "texts": [],
+      "persons": [
+        "noor poiss"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel puuduvad märgatavad erinevused, need tunduvad olevat identsed kaadrid."
+      ],
+      "snr": "007",
+      "ajad": [
+        "28.200",
+        "33.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab lapse loomingulist tegevust laua taga, kus ta keskendub joonistamisele. Laud on kaetud rohke paberimassi, joonistustarvete ja erinevate juhuslike esemetega, mis annavad edasi töötoa või õppeala tunde. Kaadri keskmes on suur joonistusplokk, millele laps musta markeriga intensiivselt joonistab. Tema käsi on selgelt näha, hoidmas markerit ja kujutamas ähvardavat, tumedat koletiselaadset figuuri, mis jahti väiksele stiliseeritud inimkujule. Laual valitseb kerge kaos, seal on teibirull, kilekott, värvilised pliiatsid, joonlaud, punane marker, teritaja ning isegi taldrik toidujäänustega, vihjates, et tegemist on pikema loomeprotsessiga. Joonistus areneb, näidates koletise lõplikku ja detailsemat vormi teravate hammaste ja pikkade jäsemetega, samal ajal kui väike inimfiguur temast eemale põgeneb. Stseeni käigus toimub joonistusplokil ka märkimisväärne muutus, kus esialgne koletis ja inimfiguur asenduvad hoopis minimalistlikuma ja abstraktsema kujutisega, mis koosneb mustrilisest kastist, väikesest struktuurist ja jutumullist, viidates kas uue joonistuse alustamisele samal lehel või eelneva töö kustutamisele/ülejoonistamisele. Lapse õlg ja osa peast on kaadri alumises vasakus nurgas nähtavad, kuid fookus on joonistamisel ja laua sisul.",
+      "actions": [
+        "Laps joonistab markeriga",
+        "Pilt joonistusplokil muutub ja areneb"
+      ],
+      "keywords": [
+        "Joonistamine",
+        "Laps",
+        "Loomingulisus",
+        "Koletis",
+        "Kunst",
+        "Paberid",
+        "Marker",
+        "Laual",
+        "Fantaasia",
+        "Loomeprotsess",
+        "Kritseldused",
+        "Areng"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Joonistusplokk",
+        "Must marker",
+        "Punane marker",
+        "Paberid",
+        "Teibirull",
+        "Kilekott",
+        "Värvilised pliiatsid (roheline, sinine)",
+        "Teritaja",
+        "Joonlaud (kollane)",
+        "Taldrik",
+        "Toidujäänused",
+        "Koletise joonistus",
+        "Inimfiguuri joonistus",
+        "Legoklotsid",
+        "Pakend (tagaplaanil)",
+        "Klaasist esemed"
+      ],
+      "colorcodes": [
+        "#F0F0F0",
+        "#000000",
+        "#D3D3D3",
+        "#4A6E9F",
+        "#E12A2D",
+        "#D7C63D",
+        "#639A52"
+      ],
+      "texts": [
+        "TASE",
+        "KADUNUD KOOD",
+        "MEIE"
+      ],
+      "persons": [
+        "Laps"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Joonistusplokil oleva pildi sisu muutub märkimisväärselt. Esimeses etapis on näha lapse aktiivset joonistamist tumeda koletise ja põgeneva inimfiguuri kallal.",
+        "Teises etapis on sama joonistus valmis, pakkudes detailsemat ja lõplikumat versiooni koletisest ja inimfiguurist.",
+        "Kolmandas etapis on joonistusploki sisu täielikult muutunud, eelnevad figuurid on asendatud minimalistlikuma ja abstraktsema kujutisega, mis koosneb mustrilisest kastist, väikesest struktuurist ja jutumullist, mis viitab uue joonistuse või idee algusele samal lehel või plokil.",
+        "Laual olevate esemete paigutus ja üldine taust jäävad stseeni vältel suures osas samaks, fookus on just joonistuse transformatsioonil."
+      ],
+      "snr": "008",
+      "ajad": [
+        "33.560",
+        "36.600"
+      ]
+    },
+    {
+      "explanation": "Stseenil on lähivõttes noor, heledapäine poiss, kes vaatab allapoole, näost ilmneb keskendumist, mõtlikkust või kurbust. Tema silmade all on näha punakaid või lillasid toone, mis võivad viidata väsimusele. Poiss kannab sinist või hallikassinist pikkade varrukatega särki. Ta hoiab käes rohelist eset, mis on nähtav vaid osaliselt. Taust on udune ja valguse osas summutatud, näidates heledat siseruumi, kus on näha uksekäepide ja seinal võtmekujulised dekoratsioonid või rippuvad võtmed. Valgus on pehme ja hajutatud, luues intiimse ja veidi melanhoolse atmosfääri.",
+      "actions": [
+        "Poiss vaatab allapoole",
+        "Poiss keskendub",
+        "Poiss hoiab käes rohelist eset"
+      ],
+      "keywords": [
+        "Poiss",
+        "Laps",
+        "Siseruum",
+        "Keskendumine",
+        "Mõtlik",
+        "Väsinud",
+        "Kurblik",
+        "Lähivõte",
+        "Portree"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Poiss",
+        "Särk",
+        "Uksekäepide",
+        "Võtmekujulised dekoratsioonid",
+        "Roheline ese (tõenäoliselt pliiats või marker)"
+      ],
+      "colorcodes": [
+        "#C9B8B6",
+        "#988B81",
+        "#3E546C",
+        "#DCDDE4",
+        "#663F4B",
+        "#72A46C"
+      ],
+      "texts": [],
+      "persons": [
+        "Poiss"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Pildid 1 ja 2 on peaaegu identsed, esitades stseenist minimaalsete variatsioonidega kaadreid.",
+        "Pildil 3 on kaamera asend veidi muutunud, näidates poisi kaela ja õlgade ülaosa rohkem.",
+        "Pildil 3 on poisi käes nähtav roheline ese (tõenäoliselt pliiats), mis eelnevatel piltidel puudub või on kaadrist väljas."
+      ],
+      "snr": "010",
+      "ajad": [
+        "53.320",
+        "58.320"
+      ]
+    },
+    {
+      "explanation": "Stseen algab fookusest heledale, läbipaistvale kangale, mis on kaadri paremas servas ja loob pehme esiplaanile. Tagaplaanil on udune hele hall sein, millele on kinnitatud mitu väikest, ruudukujulist joonistust või fotot, nähtavasti klambritega. Järgnevad kaadrid keskenduvad detailsemalt nendele joonistustele, mis on minimalistlikud, mustade piirjoontega pildid heledal hallil taustal. Esimesel joonistusel on kujutatud väike, lihtsustatud inimfiguur avatud suuga, mis seisab mustrilises korvis või konteineris, ümbritsetuna kuue lihtsa tähega. Teisel joonistusel on samuti lihtne inimfiguur, kes vaatab paremale, kus asub suurem, habemega ja auraga figuur, meenutades Jumalat või Jeesust. Suurema figuuri tagant kiirgavad kuldkollased helendavad jooned, mis sümboliseerivad jumalikku valgust või aura. Mõlemad joonistatud figuurid asuvad stiliseeritud pilvede peal või sees. Stseen loob õhkkonna lapsemeelsest fantaasiast ja spirituaalsest otsingust, alates reaalsest keskkonnast ja liikudes sügavamale kujuteldavasse maailma.",
+      "actions": [
+        "Joonistused on kinnitatud seinale",
+        "Figuur seisab korvis",
+        "Figuur vaatab",
+        "Jumalik figuur sirutab käe",
+        "Valgus kiirgab"
+      ],
+      "keywords": [
+        "Joonistused",
+        "Laste joonistused",
+        "Fantaasia",
+        "Spirituaalsus",
+        "Religioon",
+        "Minimalism",
+        "Lihtsus",
+        "Valgus",
+        "Tähed",
+        "Pilved",
+        "Lootus",
+        "Jumal",
+        "Jeesus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Läbipaistev kangas",
+        "Sein",
+        "Joonistused",
+        "Klambrid",
+        "Väike inimfiguur (joonistatud)",
+        "Korv (joonistatud)",
+        "Tähed (joonistatud)",
+        "Pilved (joonistatud)",
+        "Habemega figuur (joonistatud)",
+        "Aura (joonistatud)",
+        "Kuldkollased valguskiired (joonistatud)"
+      ],
+      "colorcodes": [
+        "#F5F5F5",
+        "#FFFFFF",
+        "#000000",
+        "#FFD700"
+      ],
+      "texts": [],
+      "persons": [
+        "Väike inimfiguur (joonistatud)",
+        "Jumal/Jeesus (joonistatud)"
+      ],
+      "imagetype": "drawing",
+      "emptypercent": "60",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Esimene pilt on reaalne foto siseruumist, samal ajal kui teine ja kolmas pilt on detailsemad lähivõtted seinal olevatest joonistustest.",
+        "Esimene pilt näitab udust tausta ja fookust kangal, samas kui teised pildid on terava fookusega minimalistlikel joonistustel."
+      ],
+      "snr": "011",
+      "ajad": [
+        "58.320",
+        "63.640"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort poissi, kes istub puidust toolil laua taga ja on süvenenud joonistamisse. Tal on seljas sinine pikkade varrukatega pusa ning vasakul randmel on side. Poiss joonistab suurele paberilehele kollase markeriga. Laual on lisaks joonistuspaberile ja markerile veel pabereid ja muid esemeid. Ruumi seinad on kaetud paljude erinevate joonistustega, mis annab toale loomingulise ja isikupärase ilme. Taustal paremal on näha vana puidust kapp, mille peal seisab tühi linnupuur. Linnupuuris on roheline kujuke. Vasakul tagaplaanil on osaliselt näha kaisukaru. Valgus on pigem jahe ja tuhm, luues vaikse ja kontsentreeritud atmosfääri.  Pildid on kompositsioonilt ja sisult praktiliselt identsed.",
+      "actions": [
+        "Joonistamine",
+        "Keskendumine"
+      ],
+      "keywords": [
+        "Laps",
+        "Joonistamine",
+        "Kreatiivsus",
+        "Tuba",
+        "Kunst",
+        "Fookus",
+        "Siseruum",
+        "Vaikus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Poiss",
+        "Laud",
+        "Tool",
+        "Joonistuspaber",
+        "Marker",
+        "Sein",
+        "Joonistused (seinal)",
+        "Linnupuur",
+        "Kapp",
+        "Kaisukaru",
+        "Side (randmel)",
+        "Pabereid"
+      ],
+      "colorcodes": [
+        "#526B88",
+        "#E0E0E0",
+        "#6B4E3A",
+        "#F0B342",
+        "#A8A8A8"
+      ],
+      "texts": [],
+      "persons": [
+        "Poiss"
+      ],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [
+        "Kõik kolm pilti on peaaegu identsed, ilma märgatavate erinevusteta objektide paigutuses või stseeni olulistes elementides."
+      ],
+      "snr": "012",
+      "ajad": [
+        "63.640",
+        "85.280"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud noort heledapäist poissi lähivõttes, kes vaatab allapoole. Tema ilme on tõsine, mõtlik või kurb, huuled on kergelt ettepoole. Poisi silmade all on märgata tumedaid varje, mis võivad viidata väsimusele. Tal on seljas sinine T-särk või kampsun. Taust on udune ja hämar, viidates siseruumile, kus on võimalik näha mööbliesemeid või riidepuud. Valgus on pehme ja hajutatud, luues intiimse ja veidi melanhoolse õhkkonna.",
+      "actions": [
+        "Vaatab allapoole",
+        "On mõtlik või kurb"
+      ],
+      "keywords": [
+        "Laps",
+        "Poiss",
+        "Blondid juuksed",
+        "Mõtlik",
+        "Kurb",
+        "Väsinud",
+        "Siseruum",
+        "Portree",
+        "Lähivõte",
+        "Sinine särk",
+        "Hämar"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Poiss",
+        "Sinine särk",
+        "Udune taust",
+        "Võimalik mööbel"
+      ],
+      "colorcodes": [
+        "#526C90",
+        "#CFCBC7",
+        "#E6DCD5",
+        "#CEC7C2",
+        "#474747"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor poiss"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "013",
+      "ajad": [
+        "85.280",
+        "91.800"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lapse süvenemist loovasse tegevusse. Kaader on filmitud üle lapse õla, keskendudes lapse kätele ja valgele paberilehele, millel ta joonistab. Suurel paberil on musta markeriga joonistatud kolm ingli moodi figuuri – üks neist suurem, kahele väiksemale on lisatud tiivad. Ühel inglitest on juuste või nimbuse piirkond värvitud kollase/kuldse tooniga. Paberil on ka punaste suurtähtedega kirjutatud nimi \"EMMA\". Laps hoiab paremas käes markerit, millega ta lisab joonistusele detaile või kontuure, ja vasemas käes punast markerit. Ümbritsev laud on kaetud teiste paberite, ajalehtede ja joonistustega, mis viitab loomingulisele keskkonnale. Laual on näha ka mõned kollased Legotükid ja pliiatsid. Valgus on sume ja pehme, luues rahuliku ja intiimse atmosfääri.",
+      "actions": [
+        "Joonistamine",
+        "Värvimine",
+        "Keskendumine"
+      ],
+      "keywords": [
+        "Laps",
+        "Joonistus",
+        "Inglid",
+        "Loovus",
+        "Markerid",
+        "Kunst",
+        "Laud",
+        "Keskendumine"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Laps",
+        "Paber",
+        "Joonistus",
+        "Markerid",
+        "Laud",
+        "Ajalehed",
+        "Legotükid",
+        "Pliiatsid"
+      ],
+      "colorcodes": [
+        "#F8F8F8",
+        "#0A0A0A",
+        "#E50F0F",
+        "#FBE75C",
+        "#37578D",
+        "#7D7D7D"
+      ],
+      "texts": [
+        "EMMA"
+      ],
+      "persons": [
+        "Laps"
+      ],
+      "imagetype": "real",
+      "emptypercent": "10",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Lapse parema käe asend ja kasutatav marker muutub – esimesel pildil on punane marker, kolmandal must marker.",
+        "Joonistusele lisandub kaadrite jooksul musta markeriga detaile või kontuure."
+      ],
+      "snr": "014",
+      "ajad": [
+        "91.800",
+        "96.400"
+      ]
+    },
+    {
+      "explanation": "Stseen algab lihtsa, lapseliku joonistusega helehallil taustal. Joonistusel on kujutatud kaks tiivulist figuuri ehk inglit, kes hoiavad käest kinni ja seisavad pilvedel. Suuremal figuuril, kes sarnaneb emaga, on erekollased lokkis juuksed ja naeratav nägu. Tema kohal on punasega kirjutatud sõna \"EMME\". Väiksem ingel on lihtsama ülesehitusega. Mustade piirjoontega joonistus hõljub pilvede kohal. Järgmistes kaadrites hakkab suurema ingli kollane juuksepahmakas helendama ja muutub abstraktsemaks kollaseks hõõguvaks massiks, samal ajal kui väiksema ingli pea ümber tekib väike kollane halo. Punane tekst \"EMME\" kaob. Lõpuks kogu joonistus hääbub järk-järgult, kuni sellest jäävad järele vaid vaevumärgatavad piirjooned helehalli tausta vastu. See protsess loob sümboolse tunde mälestuste tuhmumisest või aja möödumisest.",
+      "actions": [
+        "Joonistamine",
+        "Helendama hakkamine",
+        "Hääbumine",
+        "Kaotsiminek"
+      ],
+      "keywords": [
+        "Lastejoonistus",
+        "Inglid",
+        "Emme",
+        "Pilved",
+        "Mälestus",
+        "Hõõgumine",
+        "Hääbumine",
+        "Sümbolism",
+        "Lihtsus",
+        "Kujutlus",
+        "Abstraktsioon"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "Joonistus",
+        "Inglifiguurid",
+        "Pilved",
+        "Hõõgus/halo",
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#ced1d4",
+        "#000000",
+        "#ffe102",
+        "#e80d19"
+      ],
+      "texts": [
+        "EMME"
+      ],
+      "persons": [
+        "Kaks joonistatud figuuri, sarnased inglitele, kellest üks on tähistatud kui \"Emme\""
+      ],
+      "imagetype": "drawing",
+      "emptypercent": 80,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Tekst \"EMME\" kaob pildiseeriast.",
+        "Suurema ingli kollased juuksed hakkavad intensiivselt helendama ja muutuvad abstraktsemaks hõõguvaks massiks, samal ajal kui väiksemale inglifiguurile ilmub pea ümber väike kollane halo.",
+        "Kogu joonistus hääbub järk-järgult, kuni jäävad alles vaid vaevumärgatavad piirjooned helehalli tausta vastu."
+      ],
+      "snr": "015",
+      "ajad": [
+        "96.400",
+        "105.840"
+      ]
+    },
+    {
+      "explanation": "Stseen algab lähivõttega kärbsest, mis puhkab heledal, kergelt hallikassinisel või lillaka varjundiga pinnal, mis võib olla sein või lagi. Vasakpoolses servas on näha heledat kangast või kardinat, mis viitab siseruumile. Valgus on pehme ja hajutatud, luues rahuliku, kuid veidi hämaralt valgustatud atmosfääri. Järgmisena ilmub kaadrisse ülevalt paremalt poolt inimkäsi, sirutades sõrmi kärbse poole, mis viitab peatselt toimuvale interaktsioonile – ehk katsed kärbest püüda või temaga suhelda. Seejärel kaovad nii kärbes kui ka käsi kaadrist, jättes pinna tühjaks. Samaaegselt ilmub ekraanile tekst \"Open the door!\", mis suunab tähelepanu kõrvale eelnevast stseenist ja annab uue narratiivse impulsi, viidates dialoogile või uuele sündmusele väljaspool praegust fookust. Stseeni üldine meeleolu muutub vaikselt jälgivast pingeliseks ja seejärel ootamatult uue direktiivi abil narratiivselt edasiviivaks.",
+      "actions": [
+        "Kärbes puhkab pinnal",
+        "Inimese käsi läheneb kärbsele",
+        "Kärbes kaob kaadrist",
+        "Käsi kaob kaadrist",
+        "Subtiitrite ilmumine"
+      ],
+      "keywords": [
+        "Sisekeskkond",
+        "Kärbes",
+        "Käsitsi",
+        "Interaktsioon",
+        "Rahulik meeleolu",
+        "Ootamatu pööre",
+        "Subtiitrid",
+        "Lähivõte",
+        "Seina pind",
+        "Kardin"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kärbes",
+        "Inimese käsi",
+        "Sein/lagi",
+        "Kardin/kangas"
+      ],
+      "colorcodes": [
+        "#ADBCD4",
+        "#D4DBE1",
+        "#3C3C3C",
+        "#B4A090",
+        "#7F8A9F"
+      ],
+      "texts": [
+        "Open the door!"
+      ],
+      "persons": [
+        "Üks inimene (käe kaudu)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "not clear",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimesel ja teisel pildil on näha kärbest, kolmandal pildil kärbest enam pole.",
+        "Teisel pildil ilmub kaadrisse inimkäsi, mis läheneb kärbsele; esimesel pildil kätt pole, kolmandal pildil on käsi kadunud.",
+        "Kolmandal pildil on näha subtiitreid \"Open the door!\", mis puuduvad kahel esimesel pildil."
+      ],
+      "snr": "017",
+      "ajad": [
+        "110.640",
+        "133.200"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõttes siseruumi pinda, mis on kaetud erinevate esemete ja kunstitarvetega. Kesksel kohal on vana foto, millel on kujutatud naeratav naine lokkis heledate juustega, kes hoiab süles väikest beebit. Naine kannab heledat särki ja teksaseid. Foto ümber on laiali erinevad paberid, mõned neist kortsus ja kritseldustega. Paremal pool on virn pabereid, mille peal on näha mustvalgeid visandeid või joonistusi. Paberivirna peal on punane karp pealkirjaga 'LAPICES DE GRAFITO NEGRO GRAPH' ja roosakas/oranžikas pliiats toetub fotole ja paberitele. Vasakul üleval on suur pruun rull teipi, millel on näha osa tekstist 'MASTERLINE'. Taustal on hägune roheline anum. Stseeni allosas on subtiitrid 'Open the door!'. Valgus on pehme ja hajutatud, luues rahuliku, kuid samas mõtliku atmosfääri.",
+      "actions": [
+        "Vaade esemetele laual",
+        "Peegeldus minevikule läbi foto"
+      ],
+      "keywords": [
+        "Mälestus",
+        "Perefoto",
+        "Kunst",
+        "Joonistamine",
+        "Kodu",
+        "Töölaud",
+        "Segadus",
+        "Pliiatsid",
+        "Teip",
+        "Vanad asjad"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Foto",
+        "Naine (fotol)",
+        "Beebi (fotol)",
+        "Pruun teip",
+        "Pliiats",
+        "Paberid",
+        "Joonistused",
+        "Punane karp (pliiatsikarp)",
+        "Grafiitpliiatsid",
+        "Roheline pudel/tops",
+        "Kritseldused"
+      ],
+      "colorcodes": [
+        "#8D847B",
+        "#CB927E",
+        "#CF3F35",
+        "#E6E9EA",
+        "#F6D6BF",
+        "#E5D6A8",
+        "#7D8574"
+      ],
+      "texts": [
+        "MASTERLINE",
+        "LAPICES DE GRAFITO NEGRO GRAPH",
+        "Open the door!"
+      ],
+      "persons": [
+        "Naine (fotol)",
+        "Beebi (fotol)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "5",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "018",
+      "ajad": [
+        "133.200",
+        "137.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab toasiseselt tuba või ateljeed, kus valgus paistab sisse vasakult, luues seinale ja uksele varjusid. Esiplaan on hägune, vihjates töölauale või horisontaalsele pinnale. Keskel ja paremal on vana tumepruun puidust tool ja samast materjalist kapp või riiul. Kapi ülemisel osal on näha linnupuuri kontuur ja erinevaid esemeid. Kapi riiulitel on raamatuid, roheline karp ja värvilised mänguasjad, sealhulgas Lego klotsid ja väike sõiduk. Vasakul seinal on valge pind, millele on kinnitatud mitmeid pabereid, joonistusi ja fotosid, andes ruumile kunstilise või loomingulise hõngu. Vasakul on ka osaliselt avatud uks, mis viib järgmisesse, pimedamasse ruumi. Ukse kohal on näha kaarekujuline kaunistus. Üldmulje on kodune ja elatud ruumist.",
+      "actions": [],
+      "keywords": [
+        "Sisetuba",
+        "ateljee",
+        "tuba",
+        "mööbel",
+        "tool",
+        "kapp",
+        "uks",
+        "joonistused",
+        "paberid",
+        "valgus",
+        "varjud",
+        "kodune",
+        "kunstiline",
+        "loominguline",
+        "segadus",
+        "vaikne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "puidust tool",
+        "puidust kapp",
+        "raamatud",
+        "roheline karp",
+        "Lego klotsid",
+        "mänguauto",
+        "väike figuur",
+        "linnupuur",
+        "uks",
+        "ukselink",
+        "sein",
+        "paberid",
+        "joonistused",
+        "fotod",
+        "tööpind",
+        "varjud"
+      ],
+      "colorcodes": [
+        "#D8D8D8",
+        "#EEEEEE",
+        "#5C4A3A",
+        "#7B6250",
+        "#0A0A0A",
+        "#50704E",
+        "#C02C2C",
+        "#2C2C80",
+        "#C0C02C"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "15",
+      "season": "not clear",
+      "daytime": "day",
+      "differences": [],
+      "snr": "019",
+      "ajad": [
+        "137.520",
+        "141.160"
+      ]
+    },
+    {
+      "explanation": "Stseen algab abstraktse ja eeterliku vaatepildiga, kus valge ja erinevates hallides toonides läbipaistev kangas või materjal õrnalt hõljub või pöörleb summutatud halli tausta ees. See loob tunde liikumisest ja kergusest. Järgneb üleminek puhtale valgele taustale, kus ilmub roosakas-punases, käsitsi kirjutatud stiilis kiri \"MONTEERIJA PATRICK ANTONJUK\". Stseen lõpeb minimalistliku musta ekraaniga, mille paremas alanurgas on vaevu märgatav tumehall autoriõiguse märge \"© FM 2013\", tähistades sekventsi lõppu.",
+      "actions": [
+        "Kangas/materjal hõljub või pöörleb",
+        "Tekst ilmub"
+      ],
+      "keywords": [
+        "Abstraktne",
+        "Eeterlik",
+        "Liikumine",
+        "Kergus",
+        "Krediidid",
+        "Lõpp",
+        "Film",
+        "Tekst",
+        "Hõljuv",
+        "Läbipaistev",
+        "Hall",
+        "Valge",
+        "Must"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Läbipaistev kangas/materjal"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#E0E0E0",
+        "#A0A0A0",
+        "#D39C9C",
+        "#000000",
+        "#303030"
+      ],
+      "texts": [
+        "MONTEERIJA",
+        "PATRICK",
+        "ANTONJUK",
+        "© FM 2013"
+      ],
+      "persons": [
+        "Patrick Antonjuk"
+      ],
+      "imagetype": "real",
+      "emptypercent": "80",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene pilt kujutab abstraktset, voolavat kangast hallides toonides, samas kui järgnevad pildid on staatilised tekstiga ekraanid.",
+        "Taust muutub halli gradiendilt ühtlaseks valgeks ja seejärel ühtlaseks mustaks.",
+        "Sisu muutub füüsilisest materjalist digitaalseks tekstiks.",
+        "Värvipalett nihkub summutatud hallidest ja valgetest toonidest erkroosakaspunasele tekstile valgel taustal ning lõpuks äärmiselt peenele tumedale hallile tekstile mustal taustal.",
+        "Visuaalse info hulk väheneb järjestikku, muutudes järjest hõredamaks."
+      ],
+      "snr": "020",
+      "ajad": [
+        "141.160",
+        "145.960"
+      ]
+    }
+  ]
+}

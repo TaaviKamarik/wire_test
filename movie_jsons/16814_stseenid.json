@@ -1,0 +1,627 @@
+{
+  "film": [
+    "16814",
+    "16692",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Korduma kippuvad küsimused_1",
+    "4b665e460319cfbc9ab59a04a8bb6b570c338a3d.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen kujutab animeeritud logo ilmumist mustal taustal. See algab kolme udustatud, fookusest väljas oleva heleda ringi või punktiga, mis on paigutatud kolmnurgana musta ekraani keskele, kus kaks punkti on üleval ja üks all keskel. Järk-järgult muutuvad need punktid teravamaks ja saavad värvid: ülemine vasakpoolne punkt omandab tumesinise tooni, ülemine parempoolne punase tooni ja alumine keskmine helehalli/valge tooni. Samal ajal hakkab punktide kõrval paremal ilmuma tekst 'B M'. Lõplikus faasis toimub punktide asetuse ja värvuse muutus: helehall/valge punkt asendub erkrohelisega ning punktide konfiguratsioon nihkub uueks kolmnurgaks, kus roheline punkt on üleval vasakul, punane üleval paremal ja sinine all vasakul. Lisaks täpsustub ja pikeneb tekst, näidates täielikku lühendit 'BFM' ja selle all täisnime 'Baltic Film and Media School'. Kogu stseen on kiire ja sujuv üleminek, mis demonstreerib brändi identiteedi visualiseerimist digitaalses keskkonnas.",
+      "actions": [
+        "logo animeerimine",
+        "logo ilmumine",
+        "fookuse muutumine",
+        "värvide ilmumine",
+        "teksti ilmumine",
+        "punktide transformatsioon",
+        "elementide liikumine"
+      ],
+      "keywords": [
+        "logo",
+        "animatsioon",
+        "bränding",
+        "digitaalne",
+        "pimedas",
+        "graafika",
+        "identiteet",
+        "punktid",
+        "ringid",
+        "värvid"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "kolm ringi",
+        "tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#E0E0E0",
+        "#2F4F7C",
+        "#CC0000",
+        "#008000"
+      ],
+      "texts": [
+        "B M",
+        "BFM",
+        "Baltic Film and Media School"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "90",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimeses pildis on punktid udused ja värvitud helehalliks/valgeks, samas kui järgnevates piltides on need teravad ja värvilised.",
+        "Punktide värvid muutuvad: algsed heledad punktid asenduvad sinise, punase ja helehalli/valgega, mis seejärel muutuvad siniseks, punaseks ja roheliseks.",
+        "Punktide asetus muutub stseeni jooksul: algne ülespoole suunatud kolmnurk asendub teistsuguse kolmnurgaga, kus punktid on ümber paigutatud.",
+        "Tekst ilmub järk-järgult: alguses puudub tekst, seejärel ilmub lühend 'B M' ja lõpuks täielik 'BFM Baltic Film and Media School'.",
+        "Piltide fookus muutub udusest teravaks.",
+        "Teksti hulk ja detailsus suurenevad kaadrite vahel."
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "6.440"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat ja melanhoolset siseruumi, kus on märgata aja möödumise ja mahajäetuse märke. Seinad on kaetud tumepunase tapeediga, millel on valged klassikalised mustrid. Tapeet on osaliselt rebenenud, paljastades selle alt vanema, pleekinud maali või plakati. See kujutab naise profiili, kelle nägu on suunatud vasakule ja pilk allapoole, andes edasi mõtiskleva või kurva ilme. Maali toonid on pruunikad ja sepia, pakkudes kontrastiks tapeedi erkpunasele värvile. Ruumi paremal pool, põrandal, on näha oranžikaspruun viiul, mis toetub avatud viiulikastile, viidates muusikalisele seosele. Tagaplaanil, sügavas varjus ja halvas valguses, on näha mitmeid tühje toole, mis süvendavad tundeid mahajäetusest või ootusest. Üldine valgustus on nõrk ja summutatud, rõhutades stseeni varjulisust ja vaikust.",
+      "actions": [
+        "Puuduvad otsesed tegevused, stseen on staatiline.",
+        "Lagunemine (tapeet ja maal on rebenenud)."
+      ],
+      "keywords": [
+        "lagunenud",
+        "mahajäetud",
+        "muusika",
+        "kunst",
+        "portree",
+        "punane",
+        "hämar",
+        "siseruum",
+        "melanhoolia",
+        "nostalgia",
+        "vari",
+        "viiul",
+        "tapeet",
+        "toolid"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "rebenenud maal/plakat",
+        "naise portree",
+        "punane tapeet",
+        "viiul",
+        "viiulikast",
+        "toolid",
+        "sein",
+        "põrand"
+      ],
+      "colorcodes": [
+        "#8E2B2A",
+        "#966F54",
+        "#9D4825",
+        "#1D1E1F",
+        "#D9D2D2"
+      ],
+      "texts": [],
+      "persons": [
+        "kujutatud naine maalil"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene kaader näitab lähivõtet rebenenud maalist/plakatist ja seda ümbritsevast punasest tapeedist.",
+        "Teine kaader on nihutatud paremale, keskendudes peamiselt punase tapeedi mustrile ja selle kõrval asuvale tumedale alale.",
+        "Kolmas kaader annab laiema ülevaate ruumist, paljastades põrandal seisva viiuli koos avatud kastiga ja taustal sügavates varjudes asuvad toolid, samal ajal kui paremal servas on endiselt näha punane tapeet."
+      ],
+      "snr": "002",
+      "ajad": [
+        "6.440",
+        "14.400"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab hämarat siseruumi, mis õhkab vanaaegset või pisut räämas atmosfääri. Keskseks elemendiks on suur tumedast puidust keelpill, tõenäoliselt kontrabass, mis seisab dramaatilise valguse käes. Valgusvihk tabab instrumenti, luues selle pinnale intensiivseid helkivaid detaile ja sügavaid varje. Kontrabass on näha nii lähiplaanis, kus on fookuses selle keeled, sild ja osa kerest koos f-aukudega, kui ka laiemas plaanis, kus see on paigutatud ruumi seina äärde. Taustal on näha vana, kooruva mustriga tapeediga kaetud sein, millel ripub antiikse välimusega kahelambiline seinavalgusti mattklaasist kuplitega. Ruum on üldiselt pimendatud, mis rõhutab kontrabassi esiletõstmist ja loob meeleoluka, salapärase õhkkonna. Mõnes kaadris on esiplaan ähmane, vihjates millelegi, mis on kaadri ees fookusest väljas. Üks kaader on äärmiselt udune ja tume, pakkudes abstraktset visuaalset hetke stseeni sees.",
+      "actions": [],
+      "keywords": [
+        "kontrabass",
+        "keelpill",
+        "muusika",
+        "vanaaegne",
+        "räämas",
+        "hämar",
+        "dramaatiline valgus",
+        "siseruum",
+        "melanhoolia",
+        "vintage",
+        "salapärane",
+        "puit",
+        "antiikne"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "kontrabass",
+        "keeled",
+        "sild",
+        "f-augud",
+        "sein",
+        "tapeet",
+        "lamp",
+        "lambikuppel"
+      ],
+      "colorcodes": [
+        "#3B2C24",
+        "#232F3D",
+        "#8B4513",
+        "#D4AF37",
+        "#F0F8FF",
+        "#1A202A"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": 50,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Fookus ja kaadri ulatus varieeruvad: üks kaader on detailne lähiplaan instrumendi osast (keeled, sild, f-auk), teine näitab tervet kontrabassi ja selle ümbrust laiemalt ning kolmas kaader on täiesti udune ja abstraktne.",
+        "Ümbruse detailsus erineb: ühel pildil on taust täiesti fookusest väljas ja tume, teisel on näha detailset kooruvat tapeeti ja lampi.",
+        "Teravus varieerub: enamik kaadreid on teravad, kuid üks pilt on tahtlikult täiesti udune."
+      ],
+      "snr": "003",
+      "ajad": [
+        "14.400",
+        "18.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab vaikset ja intiimset muusikalist õhkkonda, tõenäoliselt lava või prooviruumi enne või pärast esinemist. Valgus on hämar ja summutatud, luues melanhoolse meeleolu. Esilplaanil on detailides näha suure keelpillimängu, näiteks tšello või kontrabassi, osad – pingul keeled ja heledast puidust sadul (bridge). Sadula peegeldus on selgelt näha instrumendi läikival tumedal korpusel. Taustal, sügavamas fookuses, on näha mitu klassikalise disainiga tooli, millel on heledad raamid ja tumedad istmepadjad. Ühel toolidest lebamas vaskpill, tromboon, mis ootab justkui oma muusikut. Ümberringi on tumedad kardinad või taustriie, mis annavad edasi lavalise seade tunde. Stseenis puuduvad inimesed, mis rõhutab ootuse, pausi või lõppeva kontserdi tunnet.",
+      "actions": [
+        "Pillid ootavad mängimist",
+        "Paus esinemises",
+        "Ettevalmistus kontserdiks"
+      ],
+      "keywords": [
+        "muusika",
+        "pillid",
+        "lava",
+        "ootus",
+        "hämar",
+        "intiimne",
+        "tšello",
+        "kontrabass",
+        "tromboon",
+        "vaikne",
+        "orkester",
+        "esinemine",
+        "backstage"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "keelpill",
+        "keeled",
+        "sadul",
+        "tromboon",
+        "toolid",
+        "kardinad"
+      ],
+      "colorcodes": [
+        "#2A1F26",
+        "#1A1A1A",
+        "#D4C1A8",
+        "#E0DED7",
+        "#4A2E2F",
+        "#C19E3A",
+        "#201E2E"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "evening",
+      "differences": [
+        "Fookuspunkt muutub: Esimene pilt keskendub keeltele, teine sadulale ja kolmas taustal olevatele toolidele ja tromboonile, kusjuures esiplaanil on sadul uuesti fookusest väljas.",
+        "Kaadri ulatus muutub: Alustatakse detailsetest lähivõtetest (keeled, sadul) ja liigutakse laiemale kaadrile, mis hõlmab ka muid esemeid (toolid, tromboon).",
+        "Nähtavate objektide hulk: Esimeses pildis on näha vaid keelpilliosad, teises keelpill ja selle detailne sadul, kolmandas aga lisanduvad toolid ja tromboon.",
+        "Helipildi vihje: Esimene ja teine pilt annavad vihje keelpillile, kolmas lisab juurde vaskpilli, vihjates orkestrile või ansamblile."
+      ],
+      "snr": "004",
+      "ajad": [
+        "18.480",
+        "25.480"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast hämarat, potentsiaalselt tööstuslikku või mahajäetud siseruumi, mis on kohandatud muusikalise lavastuse või prooviruumi jaoks. Üldine atmosfäär on sünge ja dramaatiline, iseloomustatud tugevate valgus- ja varjukontrastidega. Esimesed kaadrid keskenduvad detailsetele lähivõtetele vaskpillist (tõenäoliselt tromboon või trompet), mille poleeritud kuldne pind peegeldab üksikuid valguslaike tumeda, fookusest väljas oleva tausta ees. Järgnevalt avaneb vaade trummikomplektile, mis asetseb keskselt ruumis. Trummid on tumesinised, kusjuures bassitrummil on silmatorkav valge kriidiga joonistatud stiliseeritud inimkehakujutis. Valgustus on üldiselt madala võtmega, keskendudes spetsiifiliselt instrumentidele, luues salapärase ja mõtiskleva meeleolu.",
+      "actions": [
+        "Mängimiseks ettevalmistus",
+        "Lavastus",
+        "Muusika loomine",
+        "Instrumentide eksponeerimine"
+      ],
+      "keywords": [
+        "Muusika",
+        "Instrumendid",
+        "Trummikomplekt",
+        "Vaskpill",
+        "Tromboon",
+        "Trompet",
+        "Hämarus",
+        "Dramaatiline",
+        "Lavastus",
+        "Salapärane",
+        "Vari",
+        "Valgus",
+        "Siseruum",
+        "Stuudio",
+        "Inimkehakujutis"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Vaskpill (tromboon/trompet)",
+        "Trummikomplekt",
+        "Trummid",
+        "Taldrikud",
+        "Bassitrumm",
+        "Trummialused",
+        "Valgusallikas (peegeldused)",
+        "Torud/konstruktsioonid (taustal)"
+      ],
+      "colorcodes": [
+        "#B28C3B",
+        "#1A1A1A",
+        "#2A3A5A",
+        "#FFFFFF",
+        "#999999"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimene ja teine pilt on detailseteks lähivõteteks vaskpillist, näidates selle kuldseid toone ja peegeldusi erinevate nurkade alt.",
+        "Kolmas pilt annab laiemat konteksti, kujutades tervet trummikomplekti hämaras siseruumis.",
+        "Kolmandal pildil on bassitrummil nähtav eriline stiliseeritud inimkehakujutis, mis eelmistel piltidel puudub.",
+        "Valgustuse fookus ja kaadri kompositsioon muutuvad kitsastest lähivõtetest (vaskpill) laiemale võttele (trummikomplekt)."
+      ],
+      "snr": "005",
+      "ajad": [
+        "25.480",
+        "30.480"
+      ]
+    },
+    {
+      "explanation": "Stseen toimub hämaras siseruumis, mis näib olevat muusikastuudio või prooviruum. Valgus on peamiselt suunatud objektidele ja see loob intiimse ja keskendunud atmosfääri. Esimesel plaanil on näha trummikomplekti elemente, sealhulgas taldrikut ja soolotrummi, millel lebavad trummipulgad, viidates muusikalisele seadele. Stseeni edenedes ilmub kaadrisse valgetes kinnastes isik, kes kannab ja seejärel asetab lauale halli helimikseri, millele on märgitud \"RONT\". Seejärel paigutatakse mikser vinüülplaadimängija kõrvale ning kinnastatud käed hakkavad plaadimängijaga toimetama, mis viitab DJ-varustuse seadistamisele või kasutamisele. Taust jääb kogu stseeni vältel tumedaks ja uduselt, paljastades vaid ebamääraseid mööbliesemete, näiteks toolide, kontuure, mis viitab ruumi avarusele, kuid hetkel tühjusele. Üldmulje on ettevalmistus muusikaliseks esinemiseks, salvestussessiooniks või DJ-setiks.",
+      "actions": [
+        "Trummipulgad lebavad soolotrummil",
+        "Isik asetab valgetes kinnastes helimikseri lauale",
+        "Isik paigutab helimikseri vinüülplaadimängija kõrvale",
+        "Isik tegutseb vinüülplaadimängija ja mikseriga"
+      ],
+      "keywords": [
+        "Muusika",
+        "Stuudio",
+        "Trummid",
+        "Helitehnika",
+        "DJ",
+        "Hämar",
+        "Kindad",
+        "Ettevalmistus",
+        "Salvestus",
+        "Esitus",
+        "Vinüülplaadimängija"
+      ],
+      "shot_type": "medium",
+      "placement": "indoor",
+      "objects": [
+        "Trummipulgad",
+        "Soolotrumm",
+        "Taldrik",
+        "Helimikser",
+        "Vinüülplaadimängija",
+        "Kindad",
+        "Toolid (taustal)",
+        "Lauapind"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF",
+        "#C79D40",
+        "#8B8D8F",
+        "#333333",
+        "#70553B"
+      ],
+      "texts": [
+        "RONT"
+      ],
+      "persons": [
+        "Üks inimene (valgetes kinnastes)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "55",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on fookuses trummikomplekti osad (taldrik, soolotrumm, trummipulgad).",
+        "Teisel pildil on näha valgetes kinnastes isikut, kes kannab ja asetab helimikserit lauale, vinüülplaadimängija on osaliselt nähtav paremal.",
+        "Kolmandal pildil on helimikser juba lauale asetatud ja valgetes kinnastes isik manipuleerib vinüülplaadimängijaga."
+      ],
+      "snr": "006",
+      "ajad": [
+        "30.480",
+        "47.120"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab avaralt ja hämaralt valgustatud tööstuslikku või laohoone interjööri, mis on seatud üles potentsiaalseks esinemiseks või ürituseks. Ruumi keskel on tumelilla kangaga kaetud laud, millel asub DJ-seade koos laualambiga, mis valgustab tööala eredalt. Laua taga seisab tumedas ülikonnas mees, kes on hetkiti seljaga kaamera poole ja liigub pisut vasakule, jäädes osaliselt seadme taha. Vasakul on näha trummikomplekt ja kitarr, mis on paigutatud esinemiseks valmis. Tagaplaanil on rida tühje toole. Paremal pool domineerivad ruumi toetavad sambad, millel on märgata kooruvat värvi või viimistlust, luues tööstusliku ja kulunud atmosfääri. Mõned seinalambid pakuvad sooja kollakaspunast valgust, samas kui ülejäänud ruum on sügavates varjudes. Seinal või pinnal on nähtav pealkiri \"KORDUMA KIPPUMAD KÜSIMUSED\" ja kuupäev \"15-18 MAI 2014\", mis annab vihje sündmuse toimumise ajale ja teemale.",
+      "actions": [
+        "Mees seisab DJ-laua taga",
+        "Mees liigub laval",
+        "Ürituse ettevalmistamine",
+        "Muusika esitamine (potentsiaalne)"
+      ],
+      "keywords": [
+        "Pime",
+        "Hämar",
+        "Tööstuslik",
+        "Ladu",
+        "Muusika",
+        "DJ",
+        "Kontsert",
+        "Üritus",
+        "Salapärane",
+        "Ettevalmistus",
+        "Sünge",
+        "Avar"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "DJ-laud",
+        "DJ-seade",
+        "Laualamp",
+        "Trummikomplekt",
+        "Kitarr",
+        "Toolid",
+        "Sein",
+        "Sammas",
+        "Uksed",
+        "Valgusti",
+        "Silt/Plaat tekstiga"
+      ],
+      "colorcodes": [
+        "#0C0C0C",
+        "#1A1A1A",
+        "#2F2F2F",
+        "#403060",
+        "#303080",
+        "#FFA040",
+        "#FFC080",
+        "#202020",
+        "#5A5A5A"
+      ],
+      "texts": [
+        "KORDUMA KIPPUMAD KÜSIMUSED",
+        "15-18 MAI 2014"
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe asend muutub: esimesel pildil seisab mees seljaga kaamera poole ja teisel pildil on ta nihkunud pisut vasakule, näoga külje poole, olles osaliselt DJ-seadme taha varjunud.",
+        "Kaameranurk ja suum: esimesed kaks pilti on laiad kaadrid stseenist, kolmas pilt on detailne lähivõte seinal olevast tekstist.",
+        "Tekst on selgelt nähtav ainult kolmandal pildil."
+      ],
+      "snr": "007",
+      "ajad": [
+        "47.120",
+        "59.320"
+      ]
+    },
+    {
+      "explanation": "Stseen on täiesti must. Pilte ei ole võimalik detailsemalt kirjeldada, kuna need on üleni mustad ja midagi ei ole näha. Kogu kaader on täielikult varjus või kujutab absoluutset pimedust.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "pimedus",
+        "tühi",
+        "puudumine",
+        "monokroomne"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel puuduvad nähtavad erinevused. Kõik kolm pilti on identselt täiesti mustad."
+      ],
+      "snr": "008",
+      "ajad": [
+        "59.320",
+        "66.200"
+      ]
+    },
+    {
+      "explanation": "Stseenil on kujutatud Baltic Film and Media School'i (BFM) logo puhtal valgel taustal. Logo koosneb graafilistest elementidest ja tekstist, mis on paigutatud stseeni keskele. Vasakul pool asuvad graafilised elemendid moodustavad abstraktse kujunduse: kolm suurt värvilist ringi (punane üleval vasakul, roheline üleval paremal ja sinine all keskel) ümbritsevad väiksemat musta ringi. See ringide paigutus annab edasi ühendatuse või sünergiat. Paremal pool graafilisi elemente on mustas kirjas logo tekst. Kõige suurem ja silmatorkavam tekst on \"BFM\". Selle all, väiksemas kirjas, on \"TALLINN UNIVERSITY\" ja veelgi allpool, veidi suuremas kirjas kui \"TALLINN UNIVERSITY\", aga väiksemas kui \"BFM\", on \"Baltic Film and Media School\". Kogu logo on paigutatud stseeni keskele ja selle ümber on palju vaba valget ruumi, mis rõhutab minimalistlikku ja puhast disaini.",
+      "actions": [],
+      "keywords": [
+        "logo",
+        "BFM",
+        "Tallinna Ülikool",
+        "Baltic Film and Media School",
+        "haridus",
+        "film",
+        "meedia",
+        "disain",
+        "minimalistlik",
+        "värviline"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "logo",
+        "ringid",
+        "tekst"
+      ],
+      "colorcodes": [
+        "#E41F2B",
+        "#00A74F",
+        "#0060A5",
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "BFM",
+        "TALLINN UNIVERSITY",
+        "Baltic Film and Media School"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "009",
+      "ajad": [
+        "66.200",
+        "66.800"
+      ]
+    },
+    {
+      "explanation": "Mustal taustal on stiliseeritud valge särav täht, mis paikneb pildi ülemises keskosas. Tähe all, pildi keskosas, on valge tekst \"North Star Rental\". Stseen on minimalistlik ja keskendub brändi logole ja nimele. Valgusallika efekt tähel annab sellele sügavuse ja sära.",
+      "actions": [],
+      "keywords": [
+        "logo",
+        "täht",
+        "must taust",
+        "valge tekst",
+        "minimalistlik",
+        "bränding",
+        "digitaalne",
+        "sära"
+      ],
+      "shot_type": "wide",
+      "placement": "not clear",
+      "objects": [
+        "täht"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "North Star Rental"
+      ],
+      "persons": [],
+      "imagetype": "effect",
+      "emptypercent": 80,
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "010",
+      "ajad": [
+        "66.800",
+        "67.400"
+      ]
+    },
+    {
+      "explanation": "Stseenil on minimalistlik logo, mis koosneb kolmest horisontaalselt paigutatud mustast kettast valgel taustal. Keskmisel kettal on väike valge ringikeskus. Kettakujundusest allpool on musta värvi, suurtähtedega tekst \"TALLINN POSTWORKS\". Taust on puhas valge, millel on väga pehme ja vaevumärgatav hallikas vari logo ümber, andes sellele kerge kolmemõõtmelise efekti ja aidates logol taustast esile tulla.",
+      "actions": [],
+      "keywords": [
+        "logo",
+        "minimalistlik",
+        "must",
+        "valge",
+        "kettad",
+        "tekst",
+        "Tallinn Postworks",
+        "bränding",
+        "lihtne",
+        "puhas",
+        "graafiline disain"
+      ],
+      "shot_type": "medium",
+      "placement": "not clear",
+      "objects": [
+        "logo",
+        "kettad",
+        "tekst"
+      ],
+      "colorcodes": [
+        "#FFFFFF",
+        "#000000"
+      ],
+      "texts": [
+        "TALLINN POSTWORKS"
+      ],
+      "persons": [],
+      "imagetype": "drawing",
+      "emptypercent": "80",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [],
+      "snr": "011",
+      "ajad": [
+        "67.400",
+        "68.000"
+      ]
+    },
+    {
+      "explanation": "Stseen on täielikult must. Puuduvad igasugused visuaalsed elemendid, objektid, isikud või keskkonna detailid. Kogu kaader on ühtlaselt must, andes edasi täielikku pimedust või sisu puudumist.",
+      "actions": [],
+      "keywords": [
+        "must",
+        "pimedus",
+        "tühjus",
+        "must ekraan",
+        "puudub sisu"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [],
+      "colorcodes": [
+        "#000000"
+      ],
+      "texts": [],
+      "persons": [],
+      "imagetype": "not clear",
+      "emptypercent": "100",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Piltide vahel puuduvad erinevused, kõik pildid on identselt täiesti mustad."
+      ],
+      "snr": "012",
+      "ajad": [
+        "68.000",
+        "68.520"
+      ]
+    }
+  ]
+}

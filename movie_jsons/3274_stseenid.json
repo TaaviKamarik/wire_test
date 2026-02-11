@@ -1,0 +1,1020 @@
+{
+  "film": [
+    "3274",
+    "3274",
+    "FILM_VIDEO_TYPE_ENTIRE_FILM",
+    "Kirjanik",
+    "eae4ed1cb6ba8cfd5f8eab0ba1d431c4a929039d.mp4"
+  ],
+  "kaadrid": [
+    {
+      "explanation": "Stseen koosneb kolmest järjestikusest kaadrist, mis on minimalistlikud ja keskenduvad tekstile. Esimene kaader on täiesti must. Seejärel ilmub teises kaadris keskele valge šriftiga tekst \"Riina Maidre\" mustale taustale. Tekst on selgelt loetav ja asetseb ekraani keskel. Kolmas kaader on jällegi täiesti must, mis annab edasi sujuva ülemineku ja lõpetab tekstibloki. See on tüüpiline krediidiekraan filmis või videos, kus kuvatakse ühe isiku nime.",
+      "actions": [
+        "Teksti ilmumine",
+        "Teksti kuvamine",
+        "Teksti kadumine",
+        "Kaadrite vahetamine"
+      ],
+      "keywords": [
+        "Krediidid",
+        "Tiitlikaart",
+        "Must taust",
+        "Valge tekst",
+        "Minimalistlik",
+        "Üleminek",
+        "Filmikaader",
+        "Nimi"
+      ],
+      "shot_type": "not clear",
+      "placement": "not clear",
+      "objects": [
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "texts": [
+        "Riina Maidre"
+      ],
+      "persons": [
+        "Riina Maidre"
+      ],
+      "imagetype": "textbackground",
+      "emptypercent": "98",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Esimene kaader on täiesti must",
+        "Teine kaader sisaldab valget teksti \"Riina Maidre\" mustal taustal",
+        "Kolmas kaader on taas täiesti must"
+      ],
+      "snr": "001",
+      "ajad": [
+        "0.000",
+        "44.600"
+      ]
+    },
+    {
+      "explanation": "Stseen näitab lähivõtet käest, mis hoiab tumedas keskkonnas metallist Zippo-tüüpi välgumihklit. Käsi on hele ja sellele on kohati määrdunud tumedat verd meenutavad plekid. Taust on ühtlaselt tume, pakkudes vähe konteksti asukoha kohta. Käe randmeosa on kaetud tumeda varruka või kindaga. Stseen areneb nii, et esmalt on välgumihkel avatud, kuid leeki veel pole. Seejärel süüdatakse välgumihkel ja ilmub väike, kollakas-oranž leek, mis viimasel kaadril on juba täielikult arenenud ja säravam.",
+      "actions": [
+        "Välgumihkli süütamine",
+        "Välgumihkli hoidmine",
+        "Leegi ilmumine"
+      ],
+      "keywords": [
+        "Lähivõte",
+        "Tume",
+        "Välgumihkel",
+        "Käsi",
+        "Tuli",
+        "Leek",
+        "Veri",
+        "Pimedus",
+        "Valgus"
+      ],
+      "shot_type": "close-up",
+      "placement": "not clear",
+      "objects": [
+        "Käsi",
+        "Zippo-tüüpi välgumihkel",
+        "Leek",
+        "Varrukas"
+      ],
+      "colorcodes": [
+        "#1a1a1a",
+        "#a39b99",
+        "#801d1d",
+        "#4a4a4a",
+        "#ffd700",
+        "#ffb300"
+      ],
+      "texts": [],
+      "persons": [
+        "Isik (käsi nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "70",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on välgumihkel avatud, kuid leeki ei ole.",
+        "Teisel pildil on välgumihkel süüdatud ja ilmub väike leek.",
+        "Kolmandal pildil on leek täielikult arenenud ja tugevamalt põlev."
+      ],
+      "snr": "002",
+      "ajad": [
+        "44.600",
+        "47.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab heledajuukselist meest poolkaadris sünges, hämaras keskkonnas. Mees kannab tumedat nahkjakki ja särki. Valgus on dramaatiliselt kontrastsena suunatud vasakult tagant, tuues esile tema näo, juuksed ja keha vasaku külje, samal ajal kui ülejäänud osa jääb varju. Mehe vasak käsi on välja sirutatud ettepoole, justkui osutades või žestikuleerides. Stseeni vältel süütab mees sigareti, hoides süütajat ja sigaretti oma paremas käes ja suus. Süütamise hetkel on näha leeki ja hiljem hõõguvat sigaretti ning suitsu. Taust on peaaegu täielikult pime, vaid ülemises vasakus nurgas on näha mõningaid peegelduvaid, piklikke objekte, mis meenutavad trossse või metalldetaile. Üldmulje on öine, jahe ja salapärane, mida rõhutab sinakas valgustoon.",
+      "actions": [
+        "Sigareti süütamine",
+        "Suitsetamine",
+        "Vaatamine/pilgu suunamine",
+        "Žestikuleerimine (käega)"
+      ],
+      "keywords": [
+        "Pime",
+        "Öine",
+        "Mees",
+        "Sigaret",
+        "Süütaja",
+        "Nahkjakk",
+        "Kontrastne valgus",
+        "Salapärane",
+        "Pingeline",
+        "Sinakas toon",
+        "Moonlight"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Mees",
+        "Sigaret",
+        "Süütaja",
+        "Nahkjakk",
+        "Särk",
+        "Peegelduvad taustaobjektid"
+      ],
+      "colorcodes": [
+        "#0a0a0d",
+        "#1a222f",
+        "#e0e6ec",
+        "#607080"
+      ],
+      "texts": [
+        "Paul lit a cigarette in the cold moonlight and gazed at Ruben,"
+      ],
+      "persons": [
+        "Paul",
+        "Ruben",
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on mees sigaretti süütamas, süütaja leek on selgelt nähtav ja tema pilk on suunatud kergelt ülespoole ja paremale.",
+        "Teisel pildil on kaadris nähtav tekstiriba: \"Paul lit a cigarette in the cold moonlight and gazed at Ruben,\". Mehe pilk on suunatud allapoole, sigareti ja süütaja poole, hetk vahetult enne või süütamise ajal.",
+        "Kolmandal pildil on sigaret juba süüdatud ja mehe suus, suitsu tuleb, ning tema pilk on suunatud otse ettepoole. Süütaja on endiselt käes, kuid leek pole enam fookuses."
+      ],
+      "snr": "003",
+      "ajad": [
+        "47.880",
+        "55.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast dramaatilist öist vaadet, kus inimene lamab märjal, tumedal maapinnal, mis meenutab asfalti või betooni. Valgus on kunstlik ja kontrastsena valgustab maas lamavat inimest, jättes taustale sügava varju. Inimene on näoga maas, kergelt külje peale pööratud, pea toetub märjale pinnale. Tema nägu on kaetud verega, eriti silmade ja otsaesise piirkonnas, mis viitab vigastusele või vägivallale. Seljas on tumedad riided, ilmselt jope ja püksid. Üks käsi on näha maapinnal pea läheduses. Maa on märg ja peegeldab valgust, mis viitab vihmasele ilmale või veelompidele. Taust on udune ja väga tume, aimatava valgusega, mis viitab öisele või hämardunud väliskeskkonnale. Paremal taustal on näha teise inimese jalad ja kingad, mis annab aimu, et keegi seisab maas lamava isiku läheduses või tema kohal. Üldine meeleolu on süngelt dramaatiline ja traagiline, rõhutades vigastust ja ilmselt sügavamat lugu.",
+      "actions": [
+        "lamab maapinnal",
+        "valgustatakse (kunstliku valgusega)"
+      ],
+      "keywords": [
+        "verine",
+        "vigastus",
+        "öö",
+        "märg",
+        "asfalt",
+        "dramaatiline",
+        "sünge",
+        "vägivald",
+        "tragöödia",
+        "maas lamav"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "inimene",
+        "veri",
+        "märg pind",
+        "jope",
+        "püksid",
+        "jalatsid (taustal)",
+        "käsi"
+      ],
+      "colorcodes": [
+        "#3d4a4d",
+        "#7a1d1d",
+        "#bf988a",
+        "#2a3a4a",
+        "#5f7a8b"
+      ],
+      "texts": [
+        "who now reminded more of a bloody stump,",
+        "but only a few days ago had seemed.",
+        "like a trustworthy partner."
+      ],
+      "persons": [
+        "maas lamav inimene",
+        "seisev inimene (osaliselt nähtav)"
+      ],
+      "imagetype": "real",
+      "emptypercent": 35,
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil puudub ekraanitekst.",
+        "Teisel pildil ilmub ekraanile esimene osa inglisekeelsest subtiitrist: \"who now reminded more of a bloody stump,\"",
+        "Kolmandal pildil lisandub eelnevale tekstile veel kaks rida subtiitrit: \"but only a few days ago had seemed.\" ja \"like a trustworthy partner.\"",
+        "Visuaalsed erinevused piltide vahel on minimaalsed."
+      ],
+      "snr": "004",
+      "ajad": [
+        "55.160",
+        "62.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab sünget ja niisket linna alleed öisel ajal. Kitsas käik on ääristatud vanade, ilmastikust räsitud telliskivimajade ja taradega, mis annavad edasi mahajäetud ja armetu iseloomu. Mööda seinu on laiali pillutud musti prügikotte ja muud prahti, rõhutades ala räpasust. Maapind on märg, peegeldades hõredaid valgusallikaid, mis koosnevad kaugemal asuvatest tänavavalgustitest ja rippuvatest lampidest, heites teravaid varje. Esiplaanil lamab märjal sillutisel liikumatult üks inimfiguur, tõenäoliselt surnud või raskelt vigastatud. Selle langenud isiku kohal seisab teine, tumedasse riietatud isik, hoides hõbedast püstolit. Seisva isiku kehahoiak muutub stseeni jooksul, esmalt langetades relva, seejärel veidi ülespoole tõstes, mis viitab mõtisklusele või valmisolekule edasiseks tegutsemiseks pärast kriitilist sündmust. Üldine atmosfäär on pingeline ja morn, vihjates kuriteopaigale või dramaatilisele vastasseisule.",
+      "actions": [
+        "Püstolit hoidmine",
+        "Lamamine maas",
+        "Püstoli langetamine",
+        "Sügavalt sisse hingamine",
+        "Püstoli uuesti ülestõstmine"
+      ],
+      "keywords": [
+        "Pimedus",
+        "Varjud",
+        "Alle",
+        "Tänavaalle",
+        "Kuriteopaiga",
+        "Relv",
+        "Surnukeha",
+        "Tõsine",
+        "Grime",
+        "Öö",
+        "Märg",
+        "Linn",
+        "Vägivald"
+      ],
+      "shot_type": "wide",
+      "placement": "outdoor",
+      "objects": [
+        "Püstol (hõbedane)",
+        "Prügikotid (mustad)",
+        "Prügikastid",
+        "Tellisseinad",
+        "Märg pinnas",
+        "Tänavavalgustus",
+        "Tara/võre",
+        "Seisev mees",
+        "Lamav mees"
+      ],
+      "colorcodes": [
+        "#1F1F1F",
+        "#332D29",
+        "#A0A0A0",
+        "#606060",
+        "#2A2A2A",
+        "#A0A880"
+      ],
+      "texts": [
+        "He lowered his silver.",
+        "Smith&Wesson and took a deep breath."
+      ],
+      "persons": [
+        "Seisev mees",
+        "Lamav mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel kaadril hoiab seisev mees püstolit suunaga allapoole, justkui oleks ta selle just lasknud või lõpetanud ähvardamise.",
+        "Teisel kaadril ilmub ekraanile tekst, mis kirjeldab mehe tegevust: \"He lowered his silver. Smith&Wesson and took a deep breath.\" Samal ajal on mehe püstoli asend veelgi madalamal, peaaegu keha kõrval, ja tema poos viitab hingetõmbele või hetkelisele pausile.",
+        "Kolmandal kaadril on tekst kadunud ja mees hoiab püstolit rinna kõrgusel, suunaga ettepoole, justkui oleks ta selle uuesti üles tõstnud või hoiab seda kaitsvas või ooteasendis."
+      ],
+      "snr": "005",
+      "ajad": [
+        "62.040",
+        "71.360"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest, keda narratiivi kohaselt nimetatakse Rubeniks, pimedas ja dramaatiliselt valgustatud keskkonnas. Ta on riietatud tumedatesse riietesse, kandes tumedat jakki ja särki. Rubeni on näha suitsetamas sigaretti, millest tõuseb tihe suitsupilv. Esimesel kahel pildil on suits väga märgatav, moodustades tema ümber märkimisväärse ja dramaatilise efekti, mis osaliselt varjab ta nägu. Kolmandal pildil suitsu enam ei ole ja mehe nägu on selgemini nähtav, samal ajal kui ta hoiab kätt sigaretiga üles. Taust on äärmiselt pime ja hägune, esitades vaid mõned udused valguspunktid või refleksioonid, mis vihjavad öisele linnakeskkonnale või siseruumile. Valgus on dramaatiline ja kontrastne, tuues esile mehe ja suitsu. Tekstid kaadrite all räägivad politseisireenist, mis kihutab kellegi appi, kuid rõhutavad, et see pakub Rubenile vähe lohutust, mis annab aimu tema melanhoolsest või murelikust meeleseisundist.",
+      "actions": [
+        "Suitsetamine",
+        "Sigareti hoidmine",
+        "Vaatamine"
+      ],
+      "keywords": [
+        "Pime",
+        "Öine",
+        "Salapärane",
+        "Suitsetamine",
+        "Suits",
+        "Politseisireen",
+        "Melanhoolia",
+        "Mees",
+        "Draamaline valgustus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "not clear",
+      "objects": [
+        "Mees",
+        "Sigaret",
+        "Suits",
+        "Jakk",
+        "Särk",
+        "Ähmased valguspunktid taustal"
+      ],
+      "colorcodes": [
+        "#000000",
+        "#1A1A1A",
+        "#E0E0E0",
+        "#F0F8FF",
+        "#A9A9A9",
+        "#F8F8F8"
+      ],
+      "texts": [
+        "A police siren was driving down the main street, rushing to someone's rescue,",
+        "but this held little comfort for Ruben."
+      ],
+      "persons": [
+        "Ruben (Mees)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltide vahel on näha erinevusi sigaretisuitsu koguses ja paigutuses. Esimesel pildil on näha suur suitsupilv tõusmas ülespoole. Teisel pildil on suits veelgi tihedam ja laiem, moodustades tiheda pilve mehe pea ümber, varjates tema nägu rohkem. Kolmandal pildil puudub nähtav suits täielikult ning mehe nägu on selgemini eksponeeritud, samal ajal kui ta toob kätt sigaretiga ülespoole. Tekst kaadri all muutub esimese ja teise pildi vahel, pakkudes narratiivi järge."
+      ],
+      "snr": "006",
+      "ajad": [
+        "71.360",
+        "79.320"
+      ]
+    },
+    {
+      "explanation": "Stseen leiab aset sünge ja külma ilmaga, tõenäoliselt öisel ajal või pimedas, poolsuletud keskkonnas nagu tunnel või käik. Märg ja kivine maapind ning tausta seinad viitavad niiskusele ja mahajäetud kohale. Ühel hetkel lamab maas tumedasse ülikonda riietatud mees nimega Ruben, tema näol on näha verd, mis annab märku vigastustest või surmast. Rubeni vaadet varjab osaliselt tume, fookusest väljas olev kuju. Teisalt näeb stseenis noort, heledate juustega meest nimega Paul, kes kannab tumedat nahkjopet ja musta särki. Ta seisab või istub, vaatab mõtlikult ette või kergelt üles ja tema suust eralduv nähtav hingeaur viitab külmale temperatuurile. Tekstidest selgub, et sajab lund, kinnitades aastaajaks talve. Paul mõtiskleb ilma üle, märkides, et hakkab külmaks minema, samal ajal kui esimesed lumehelbed langevad. Tema pilk on tõsine ja keskendunud. Üldine atmosfäär on traagiline, pingeline ja melanhoolne, rõhutades sündmuse tõsidust ja Pauli vahetut kohalolekut.",
+      "actions": [
+        "Mees lamab maas (Ruben)",
+        "Verejooks näol",
+        "Paul hingab välja (nähtav aur)",
+        "Paul mõtiskleb",
+        "Lund sajab"
+      ],
+      "keywords": [
+        "Mõrvastseen",
+        "Talv",
+        "Öö",
+        "Külm",
+        "Veri",
+        "Tunnel",
+        "Melanhoolia",
+        "Tragöödia",
+        "Nahkjope",
+        "Salapära",
+        "Sünge"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees (Ruben)",
+        "Paul",
+        "Nahkjope",
+        "Tume ülikond",
+        "Veri",
+        "Märg maapind",
+        "Kivisein",
+        "Lumi",
+        "Hingeaur",
+        "Tundmatu tume kuju"
+      ],
+      "colorcodes": [
+        "#0C0C0C",
+        "#2E2E2E",
+        "#B0B0B0",
+        "#4D0000",
+        "#5A5A5A"
+      ],
+      "texts": [
+        "but this held little comfort for Ruben.",
+        "“Getting chilly,” thought Paul as the first snowflakes were falling."
+      ],
+      "persons": [
+        "Ruben",
+        "Paul",
+        "Tundmatu tume kuju"
+      ],
+      "imagetype": "real",
+      "emptypercent": 60,
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimene pilt näitab maas lamavat vigastatud meest (Ruben) verega näol ja tundmatut varjulist kuju esiplaanil, samas kui teised pildid keskenduvad ainult Paulile.",
+        "Teine pilt kujutab Pauli tagantpoolt ja tema hingeauru, samuti mainitakse tekstis lumesadu. Kolmas pilt näitab Pauli näoga kaamera poole ilma nähtava hingeauruta, kuid sarnases pimedas keskkonnas.",
+        "Pauli näoilme ja pilk varieeruvad teise ja kolmanda pildi vahel – teises vaatab ta kergelt küljele, kolmandas otse või kergelt üles."
+      ],
+      "snr": "007",
+      "ajad": [
+        "79.320",
+        "115.960"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud noort meest, kellel on helepruunid juuksed ja silmapaistvad kandilised prillid. Ta kannab ruudulist särki ja viibib siseruumides, mis on valgustatud peamiselt vasakult paistva laualambi eredast valgusest. Ümbritsev taust on sügavalt pime ja varjudesse mattunud, luues müstilise ja keskendunud õhkkonna. Mehe näoilme vaheldub stseenis: alguses on tema pilk suunatud ülespoole, kulmud on kortsus ja suu kergelt avatud, mis annab edasi üllatust, segadust või intensiivset mõtisklust. Hiljem langetab ta pilgu allapoole, säilitades samal ajal tõsise ja süvenenud ilme, justkui oleks ta sügavalt mingisse ülesandesse või pingsasse mõtteprotsessi sukeldunud.  Valgus rõhutab dramaatiliselt tema näojooni ja emotsioone.",
+      "actions": [
+        "Vaatab üles",
+        "Mõtiskleb",
+        "Keskendub",
+        "Vaatab alla"
+      ],
+      "keywords": [
+        "Noor mees",
+        "Prillid",
+        "Ruuduline särk",
+        "Laualamp",
+        "Pime taust",
+        "Intensiivne pilk",
+        "Mõtlik",
+        "Siseruum",
+        "Keskendumine",
+        "Müsteerium",
+        "Üllatus"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Prillid",
+        "Ruuduline särk",
+        "Laualamp"
+      ],
+      "colorcodes": [
+        "#1D1F20",
+        "#D8B890",
+        "#A78C73",
+        "#6A5B4F",
+        "#F9E5C5",
+        "#AE9E88"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "35",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe pilgu suund muutub (ülespoole vaatamine esimeses kaadris, allapoole vaatamine viimases kaadris).",
+        "Mehe pea asend muutub (otse ette/üles vaatav poos vs. allapoole kaldu poos).",
+        "Näoilme väike nüansimuutus – algne üllatus või segadus asendub sügavama mõtisklusega."
+      ],
+      "snr": "008",
+      "ajad": [
+        "115.960",
+        "126.160"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noormeest, kes istub hämaras toas laua taga ja kirjutab kirjutusmasinal. Tuba on valgustatud peamiselt laualambi erekollase valgusega, mis heidab valgust mehele, kirjutusmasinale ja laua vahetule ümbrusele. Ülejäänud tuba on sügavates varjudes, luues intiimse ja veidi melanhoolse atmosfääri. Mees kannab ruudulist särki ja prille. Tema ümber laual ja põrandal on näha kortsus paberilehti, mis annavad aimu loomeprotsessi raskustest. Paremal on näha prügikast, mis on samuti täidetud kortsus paberitega. Mees on süvenenud oma tegevusse, kuid ilmutab ka mõtisklevat meeleolu, suitsetades sigaretti. Kardinad taustal katavad kogu seina, suurendades ruumi suletud tunnet. Vasakul on näha veel üks puidust mööbliese, tõenäoliselt tool või riidepuu.",
+      "actions": [
+        "Kirjutamine",
+        "Mõtisklemine",
+        "Suitsetamine",
+        "Keskendumine"
+      ],
+      "keywords": [
+        "Kirjanik",
+        "Loomevalu",
+        "Üksindus",
+        "Öine töö",
+        "Typewriter",
+        "Hämarus",
+        "Mõtisklus",
+        "Vintage"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "Noormees",
+        "Kirjutuslaud",
+        "Kirjutusmasin",
+        "Laualamp",
+        "Tool (tugitool)",
+        "Prügikast",
+        "Kortsus paberid",
+        "Kardinad",
+        "Pudel",
+        "Klaas",
+        "Sigaret",
+        "Prillid",
+        "Puidust tool (vasakul)",
+        "Vaip"
+      ],
+      "colorcodes": [
+        "#2b3036",
+        "#fbe09e",
+        "#5c748c",
+        "#4a3e35",
+        "#2c2b2b",
+        "#a2826e"
+      ],
+      "texts": [],
+      "persons": [
+        "Noormees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on mees keskendunud kirjutusmasinale, ilmselt kirjutades.",
+        "Teisel pildil on mees sigareti suhu panemas.",
+        "Kolmandal pildil on mees sügavates mõtetes, suitsetab sigaretti ja vaatab üles ning eemale kirjutusmasinast."
+      ],
+      "snr": "009",
+      "ajad": [
+        "126.160",
+        "138.520"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest, kes istub hämaras ruumis, ilmselt laua taga, ja kirjutab või mõtleb kirjutusmasina ees. Ta kannab prille ja ruudulist särki ning hoiab käes sigaretti, millest tõmbab ja suitsu välja hingab. Pimedas ruumis annab valgust vaid laualamp, mis heidab sooja kollakat valgust mehe näole ja kirjutusmasinale. Mees on süvenenud, tema pilk on mõtlik ning ta paistab olevat sügavatesse mõtetesse vajunud, suitsuvine kerkib ta suust ja hajub aeglaselt õhus. Tagaplaanil on näha tumedat sisustust, mis viitab kodusele või kontorilaadsele keskkonnale, pakkudes intiimset ja veidi melanhoolset atmosfääri.",
+      "actions": [
+        "Suitsetamine",
+        "Suitsu väljahingamine",
+        "Istumine",
+        "Mõtisklemine",
+        "Kirjutusmasina ees olemine"
+      ],
+      "keywords": [
+        "Kirjutaja",
+        "Suitsetamine",
+        "Prillid",
+        "Hämarus",
+        "Mõtlikkus",
+        "Looming",
+        "Öö",
+        "Truman Capote"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Prillid",
+        "Sigaret",
+        "Ruuduline särk",
+        "Kirjutusmasin",
+        "Paber (kirjutusmasinas)",
+        "Laualamp",
+        "Laud",
+        "Tool",
+        "Suits",
+        "Tume mööbel"
+      ],
+      "colorcodes": [
+        "#1F2021",
+        "#727E8D",
+        "#C6A893",
+        "#B4B9C2",
+        "#F5E4C6",
+        "#E0E0E0",
+        "#454B52"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees (Philip Seymour Hoffman kehastamas Truman Capote'i)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Piltidel on jäädvustatud suitsetamise tegevuse eri faasid. Esimesel pildil hoiab mees sigaretti suu lähedal ja suitsuvine hakkab just suust välja tulema. Teisel pildil on suur ja tihe suitsupilv äsja mehe suust välja hingatud ja levib ta näo ees. Kolmandal pildil on suitsupilv juba hajunud, muutudes õrnemaks ja hõredamaks, samal ajal kui mees vaatab mõtlikult."
+      ],
+      "snr": "010",
+      "ajad": [
+        "138.520",
+        "142.160"
+      ]
+    },
+    {
+      "explanation": "Stseenis on lähivõttes kujutatud vanaaegse kirjutusmasina paberit, millele on trükitud eestikeelne tekst \"õhus oli tunda\". Paber on kreemikasvalge või helebeež, nähtava tekstuuriga, mis viitab vanusele ja autentsusele. Tekst on trükitud tumeda tindiga, mis eristub selgelt paberi heledast toonist. Paberit raamivad alt ja osaliselt külgedelt kirjutusmasina tumedad, kergelt läikivad metallosad, mis annavad pildile sügavuse ja fookuse. Valgus on soe ja pehme, valgustades paberit ja tuues esile selle pinnastruktuuri, luues samas hubase ja melanhoolse atmosfääri. Stseen on detailirohke ja toob esile kirjutamise ja teksti intiimsuse.",
+      "actions": [
+        "Kirjutamine (kaudselt, kuna tekst on trükitud kirjutusmasinaga)",
+        "Lugemine (kaudselt, kuna tekst on esiplaanil)"
+      ],
+      "keywords": [
+        "Kirjutusmasin",
+        "Paber",
+        "Tekst",
+        "Kirjandus",
+        "Nostalgia",
+        "Vanaaegne",
+        "Lähivõte",
+        "Subtiitrid",
+        "Tõlge",
+        "Dokument"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Kirjutusmasin",
+        "Paber",
+        "Tekst"
+      ],
+      "colorcodes": [
+        "#D8CEB7",
+        "#302C2B",
+        "#3A3533",
+        "#BDAEA4"
+      ],
+      "texts": [
+        "õhus oli tunda",
+        "the air was filled with..."
+      ],
+      "persons": [],
+      "imagetype": "real",
+      "emptypercent": "30",
+      "season": "not clear",
+      "daytime": "not clear",
+      "differences": [
+        "Teisel pildil ilmub ekraani allossa inglisekeelne subtiiter \"the air was filled with...\", mis esimesel ja kolmandal pildil puudub."
+      ],
+      "snr": "011",
+      "ajad": [
+        "142.160",
+        "145.880"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab noort, heledajuukselist, prillidega ja ruudulist särki kandvat meest pimeduses laualambi valguses. Mees istub kirjutusmasina taga, mis on osaliselt esiplaanil näha. Tema näoilme on pingeline ja murelik, viidates sügavatele mõtetele, keskendumisele või frustratsioonile. Ühes hetkes on tal näha vaevatud ilme, suu kergelt lahti. Seejärel süütab ta sigareti, toob selle suule ja näib sügavalt mõtisklevat või stressi maandavat. Suitsetamise ajal hõõrub ta teise käega oma nägu, mis viitab väsimusele või süvenenud mõttele. Üleüldine atmosfäär on intensiivne, keskendunud ja kergelt melanhoolne.",
+      "actions": [
+        "Mõtisklemine",
+        "Keskendumine",
+        "Pingutamine",
+        "Sigareti suitsetamine",
+        "Näo puudutamine",
+        "Töö tegemine (kirjutusmasina juures istumine)"
+      ],
+      "keywords": [
+        "Kirjanik",
+        "Pingeline",
+        "Öötöö",
+        "Mõtlik",
+        "Prillid",
+        "Sigaret",
+        "Väsimus",
+        "Keskendumine",
+        "Melanhoolia",
+        "Loomeprotsess"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Prillid",
+        "Ruuduline särk",
+        "Laualamp",
+        "Kirjutusmasin",
+        "Sigaret",
+        "Suits",
+        "Sügav tool (implied)"
+      ],
+      "colorcodes": [
+        "#1c1e20",
+        "#e2c58e",
+        "#c69068",
+        "#6b7a8a",
+        "#2d3237"
+      ],
+      "texts": [],
+      "persons": [
+        "Noor mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "25",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Mehe näoilme ja poos muutuvad: alguses vaevatud ilme, siis sigareti süütamine ja hiljem näo hõõrumine.",
+        "Kaameranurk ja suum: teises ja kolmandas kaadris on mehele lähemale suumitud.",
+        "Sigareti olemasolu ja sellega seotud tegevused: esimeses kaadris sigaretti pole, teises süüdatakse ja kolmandas hoitakse suul või selle lähedal.",
+        "Käte asend: esimeses kaadris käed pole selgelt näha, teises hoiab ühes käes sigaretti ja kolmandas hõõrub teise käega nägu."
+      ],
+      "snr": "012",
+      "ajad": [
+        "145.880",
+        "159.960"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab meest istumas hämaras toas laua taga, sukeldunud oma tegevusse. Tuba on valgustatud peamiselt laualambi sooja valgusega, mis heidab fookuse mehele ja tema töölauale. Mees kannab prille ja ruudulist särki ning istub pruunis nahast tugitoolis. Tema ees on vintage-stiilis kirjutusmasin. Laual on näha pudel, klaas ja muid esemeid, mis viitavad pikale tööhetkele. Laua ümber on põrandal laiali kortsus paberilehti ja prügikast on samuti täis paberit, mis annab märku intensiivsest kirjutamisprotsessist, otsingutest või parandustest. Toa taustal on tumedad kardinad ja üldiselt hämar ümbrus, mis loob intiimse, keskendunud ja veidi melanhoolse atmosfääri. Stseen jäädvustab sügavalt mõtliku, loomingulise või stressirohke hetke.",
+      "actions": [
+        "Mees istub laua taga",
+        "Mees hoiab eset suu lähedal",
+        "Mees suitsetab sigaretti",
+        "Mees trükib kirjutusmasinal",
+        "Mees on sügavates mõtetes"
+      ],
+      "keywords": [
+        "kirjutamine",
+        "looming",
+        "öö",
+        "kontsentratsioon",
+        "üksindus",
+        "suitsetamine",
+        "kirjanik",
+        "mõtisklus",
+        "hämar",
+        "inspiratsioon"
+      ],
+      "shot_type": "long",
+      "placement": "indoor",
+      "objects": [
+        "mees",
+        "laud",
+        "laualamp",
+        "kirjutusmasin",
+        "pudel",
+        "klaas",
+        "prillid",
+        "ruuduline särk",
+        "nahast tugitool",
+        "kardinad",
+        "vaip",
+        "prügikast",
+        "kortsus paberid",
+        "sigaret",
+        "tool (taustal)",
+        "raamatud"
+      ],
+      "colorcodes": [
+        "#3A3B3E",
+        "#D9D2A7",
+        "#594132",
+        "#7D8C8F",
+        "#665039"
+      ],
+      "texts": [],
+      "persons": [
+        "mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "45",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil hoiab mees suu või nina lähedal pikka valget eset (võimalik, et harilik pliiats või süütamata sigaret) ja on sügavates mõtetes, silmad suletud või allapoole vaatamas. Teisel ja kolmandal pildil suitsetab ta süüdatud sigaretti ja trükib kirjutusmasinal, parem käsi klaviatuuril. Teine ja kolmas pilt on visuaalselt praktiliselt identsed, kujutades sama tegevushetke."
+      ],
+      "snr": "013",
+      "ajad": [
+        "159.960",
+        "167.040"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab pingelist, pimedat ja vihmast/lumevaba väliskeskkonda öisel ajal. Kesksel kohal on lühikeste heledate juustega mees, kes kannab musta nahktagi ja tumedat särki. Teda valgustatakse eestpoolt ja veidi ülevalt, mis loob tugevad valgusefektid tema märjal takil ja näol, samal ajal kui taust jääb suuresti sügavasse varju. Raske sadu (visuaalselt paistab vihma või lörtsina, kuid tekst viitab lumele) läbib kaadrit, lisades stseenile kõledat atmosfääri. Mõnel kaadril hoiab mees hõbedast püstolit, sihtides seda allapoole ja ettepoole, mis viitab kokkupõrke hetkele või vägivalla järelkajale. Tekstireal „Falling snow was turning red in Ruben's blood and...“ annab stseenile grimmi konteksti, vihjates äsja toimunud vägivaldsele sündmusele. Üldine meeleolu on külm, ohtlik ja dramaatiline, meenutades krimipõnevikku või noir-filmi.",
+      "actions": [
+        "Mees vaatab allapoole/ettepoole",
+        "Mees hoiab püstolit ja sihib sellega",
+        "Raske lumi/vihm sajab",
+        "Veri voolab (teksti põhjal)"
+      ],
+      "keywords": [
+        "Vihm",
+        "Lumi",
+        "Öö",
+        "Pingeline",
+        "Tume",
+        "Mees",
+        "Relv",
+        "Vägivald",
+        "Noir",
+        "Tänav",
+        "Talv",
+        "Külmus",
+        "Krimi",
+        "Tragöödia",
+        "Konfrontatsioon"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "outdoor",
+      "objects": [
+        "Mees",
+        "Püstol",
+        "Nahktagi",
+        "Särk",
+        "Lumi/Vihm"
+      ],
+      "colorcodes": [
+        "#1F2124",
+        "#5C626C",
+        "#E0E5EA",
+        "#343C42"
+      ],
+      "texts": [
+        "Falling snow was turning red in Ruben's blood and..."
+      ],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "40",
+      "season": "winter",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil ei ole mehel püstolit käes, samas kui teisel ja kolmandal pildil on tal selgelt näha hõbedane püstol, mis on suunatud ettepoole ja veidi allapoole.",
+        "Teisel pildil on vasakul all nurgas valge tekstiriba: \"Falling snow was turning red in Ruben's blood and...\". See tekst puudub esimesel ja kolmandal pildil.",
+        "Esimesel pildil on mehe pilk suunatud veidi rohkem allapoole ja vasakule ning ta ilme tundub introspektiivsem. Teisel ja kolmandal pildil on ta pea veidi püstisem ja pilk suunatud otse ettepoole (või kaamera poole), mis langeb kokku relva hoidmisega."
+      ],
+      "snr": "014",
+      "ajad": [
+        "167.040",
+        "179.720"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast pimedat ja sügavalt atmosfäärilist siseruumi, kus keskmes on süvenenult tööd tegev mees. Ta istub nahkse pööratava tooli peal, seljas ruuduline särk ja prillid ees, ning trükib intensiivselt vintage-stiilis kirjutusmasinal. Tema suus on sigaret, millest tuleb suitsu, lisades stseenile ajastu- ja tegelase iseloomu. Lauale, mis on puidust ja tundub vana, on asetatud laualamp, mis heidab sooja, kollaka valguse vaid mehe tööpinnale, jättes suurema osa ruumist pimedusse. Laual on ka pudel ja klaas, mis viitab pikale ja ehk pingelisele öötööle, kus inspiratsiooni otsitakse või pingeid maandatakse. Kirjutusmasina ees põrandal on metallist paberikorv, mis on täis kokkukortsutatud paberilehti, ja veelgi rebendatud paberitükke leidub korvi ümber laiali. See detail annab edasi loomingulise protsessi käigus tekkinud frustratsiooni või arvukate paranduste tunde. Taustal on tumedad, paksud kardinad, mis summutavad välismaailma ja rõhutavad mehe eraldatust. Vasakul pool on näha ka teise, puidust tooli kontuuri, mis sulandub varjudesse. Kogu stseen õhkab üksindust, süvenemist ja pingelist loomingulist tööd hilisel tunnil.",
+      "actions": [
+        "Trükkimine kirjutusmasinal",
+        "Suitsetamine",
+        "Keskendumine",
+        "Mõtisklemine"
+      ],
+      "keywords": [
+        "Kirjanik",
+        "Kirjutusmasin",
+        "Öötöö",
+        "Loovus",
+        "Inspiratsioon",
+        "Üksindus",
+        "Keskendumine",
+        "Melanhoolia",
+        "Vintage",
+        "Paberid",
+        "Suits",
+        "Alkohol",
+        "Süvenemine",
+        "Kardinad"
+      ],
+      "shot_type": "wide",
+      "placement": "indoor",
+      "objects": [
+        "Kirjutusmasin",
+        "Laud",
+        "Laualamp",
+        "Tool (nahast pööratav)",
+        "Tool (puidust)",
+        "Pudel (alkohol)",
+        "Klaas",
+        "Sigaret",
+        "Paberikorv (metallist)",
+        "Kokkukortsutatud paberid",
+        "Vaip",
+        "Kardinad",
+        "Prillid",
+        "Särk (ruuduline)"
+      ],
+      "colorcodes": [
+        "#2A2A2A",
+        "#5E4E42",
+        "#B69263",
+        "#5C778D",
+        "#9EA8AF",
+        "#7A5B40"
+      ],
+      "texts": [],
+      "persons": [
+        "Mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "50",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Pildid on identsed."
+      ],
+      "snr": "015",
+      "ajad": [
+        "179.720",
+        "186.240"
+      ]
+    },
+    {
+      "explanation": "Stseenis on kujutatud nooremapoolne, tõsise ilmega mees sügavas mõttes või keskendumises, istudes hämaras siseruumis. Tema pilk on suunatud allapoole ja veidi paremale, kulmud kortsus, mis annab edasi intensiivse ja mõtliku meeleolu. Mees kannab ruudulist nööbitavat särki ja kandilisi tumedaraamilisi prille. Valgus on peamiselt pärit vasakul asetsevast laualambist, mis heidab tema näole kontrastsed varjud, rõhutades dramaatilist õhkkonda. Õhus hõljub suits, mis viitab suitsetamisele. Üldine toon on tume ja alatooniline, mis loob intiimse ja veidi salapärase tunde.",
+      "actions": [
+        "Suitsetamine",
+        "Keskendumine",
+        "Sigareti hoidmine",
+        "Mõtisklemine",
+        "Sügavalt vaatamine"
+      ],
+      "keywords": [
+        "Tõsine",
+        "Keskendunud",
+        "Suitsetamine",
+        "Prillid",
+        "Ruuduline särk",
+        "Hämar",
+        "Mõtlik",
+        "Siseruum",
+        "Laualamp",
+        "Suits"
+      ],
+      "shot_type": "medium close-up",
+      "placement": "indoor",
+      "objects": [
+        "Mees",
+        "Prillid",
+        "Ruuduline särk",
+        "Sigaret",
+        "Suits",
+        "Laualamp"
+      ],
+      "colorcodes": [
+        "#1F1E1F",
+        "#C5A78D",
+        "#737373",
+        "#A0A0A0",
+        "#FEFEFE",
+        "#2E2D2E"
+      ],
+      "texts": [],
+      "persons": [
+        "Nooremapoolne mees"
+      ],
+      "imagetype": "real",
+      "emptypercent": "65",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on sigaret mehe huulte vahel, kust tõuseb suits. Tema suu on kergelt avatud, hoides sigaretti.",
+        "Teisel pildil hoiab mees sigaretti sõrmede vahel, tuues seda suu juurde või eemaldades, näha on suitsu tema suu ja nina ümbruses.",
+        "Kolmandal pildil pole sigaretti mehe suus ega käes näha. Tema pilk on suunatud allapoole ja kergelt paremale, suu on suletud, andes edasi mõtisklevama või küsivama ilme. Suitsu on vähem või see on hajunud."
+      ],
+      "snr": "016",
+      "ajad": [
+        "186.240",
+        "194.560"
+      ]
+    },
+    {
+      "explanation": "Stseen kujutab endast lähivõtet tumedas ja hämaras valguses asuvast tuhakarjast, mis on täidetud suure hulga sigaretikonidega. Kaadri keskel on näha inimese käsi, mis on parajasti sigaretti tuhakarjasse asetamas või kustutamas, tekitades õhus hõljuva suitsupilve. Ümberringi valitseb intiimne ja ehk veidi melanhoolne atmosfäär, mida rõhutavad taustal olevad udused ja soojad valguspungad. Vasakul pool laual on näha punase tooniga esemeid, mis võivad olla raamatud või kaustad. Kogu stseen viitab tubakatarbimisele ja sügavale öisele olemisele.",
+      "actions": [
+        "Sigareti kustutamine",
+        "Sigareti asetamine tuhakarjasse",
+        "Suitsu hõljumine"
+      ],
+      "keywords": [
+        "Tubakas",
+        "Sigaretid",
+        "Tuhakarikas",
+        "Käsi",
+        "Suits",
+        "Hämarus",
+        "Lähivõte",
+        "Melanhoolia",
+        "Öine",
+        "Harjumus"
+      ],
+      "shot_type": "close-up",
+      "placement": "indoor",
+      "objects": [
+        "Tuhakarikas",
+        "Sigaretikonid",
+        "Sigaret",
+        "Käsi",
+        "Suits",
+        "Laud",
+        "Punased raamatud/kaustad (vasakul taustal)",
+        "Hägused valgusallikad (taustal)"
+      ],
+      "colorcodes": [
+        "#211918",
+        "#80302c",
+        "#a8947f",
+        "#c7602e",
+        "#f2e2d1"
+      ],
+      "texts": [],
+      "persons": [
+        "Inimene (käe järgi)"
+      ],
+      "imagetype": "real",
+      "emptypercent": "0",
+      "season": "not clear",
+      "daytime": "night",
+      "differences": [
+        "Esimesel pildil on käsi just sigaretti kustutamas või tuhakarjasse asetamas, suitsu on näha kõige selgemalt.",
+        "Teisel pildil on käsi veidi allapoole nihkunud, suitsupilv on hajumas ja vähem intensiivne.",
+        "Kolmandal pildil on käsi veelgi allpool ja sigaret on sügavamal tuhakarjas, suits on peaaegu kadunud või väga vaevumärgatav."
+      ],
+      "snr": "017",
+      "ajad": [
+        "194.560",
+        "197.320"
+      ]
+    }
+  ]
+}
